@@ -134,6 +134,3 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
-# Output folder
-output/

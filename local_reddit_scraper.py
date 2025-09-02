@@ -61,9 +61,9 @@ class LocalRedditCommunitiesScraper:
         self.config = config or LocalScraperConfig(
             proxy_server=os.getenv("PROXY_SERVER") or None,
         )
-    self.all_subreddits = []  # retained for compatibility; not required
-    self.total_count = 0
-    self.pages_done = set()
+        self.all_subreddits = []  # retained for compatibility; not required
+        self.total_count = 0
+        self.pages_done = set()
 
     # ------------------------- Browser lifecycle ------------------------- #
     def _start(self):
