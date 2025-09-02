@@ -43,14 +43,14 @@ class FPConfig:
     user_agent: str = DEFAULT_UA
     min_delay: float = 1.0
     max_delay: float = 2.0
-    max_page_seconds: float = 45.0
+    max_page_seconds: float = 75.0
     max_attempts: int = 2
     # Scrolling / loading behavior
-    min_posts: int = 20
-    max_scroll_loops: int = 30
-    scroll_step_px: int = 1400
-    scroll_wait_ms: int = 750
-    stagnant_loops: int = 3
+    min_posts: int = 50
+    max_scroll_loops: int = 80
+    scroll_step_px: int = 1600
+    scroll_wait_ms: int = 900
+    stagnant_loops: int = 5
     save_debug_html: bool = True
 
 
@@ -274,7 +274,18 @@ class SubredditFrontPageScraper:
             last_count = count
             # Perform scroll and wait a bit for network/render
             try:
+                # Scroll the last post into view to trigger lazy loading
+                try:
+                    last_post = self._page.locator("shreddit-post, div[data-testid='post-container']").last
+                    last_post.scroll_into_view_if_needed()
+                except Exception:
+                    pass
+                # Wheel and also scroll to bottom to ensure we hit the page end
                 self._page.mouse.wheel(0, self.config.scroll_step_px)
+                try:
+                    self._page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+                except Exception:
+                    pass
             except Exception:
                 try:
                     self._page.evaluate("window.scrollBy(0, arguments[0])", self.config.scroll_step_px)
@@ -283,6 +294,15 @@ class SubredditFrontPageScraper:
             # Small jitter to look more human and allow lazy-load
             sleep_ms = int(self.config.scroll_wait_ms * random.uniform(0.85, 1.25))
             self._page.wait_for_timeout(sleep_ms)
+            # Wait until new posts are added (best-effort)
+            try:
+                self._page.wait_for_function(
+                    "(prev) => document.querySelectorAll('shreddit-post, div[data-testid=\\'post-container\\']').length > prev",
+                    arg=last_count,
+                    timeout=min(5000, max(1500, self.config.scroll_wait_ms * 2))
+                )
+            except Exception:
+                pass
 
     def _normalize_target(self, name_or_url: str) -> Tuple[str, str]:
         if name_or_url.startswith("http"):
