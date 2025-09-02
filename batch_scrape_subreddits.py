@@ -16,7 +16,9 @@ import os
 import random
 import time
 from pathlib import Path
-from typing import Dict, List, Set, Tuple
+from typing import Dict, List, Set, Tuple, Optional
+from concurrent.futures import ProcessPoolExecutor, as_completed
+import multiprocessing as mp
 
 from subreddit_frontpage_scraper import SubredditFrontPageScraper, FPConfig
 
@@ -91,6 +93,64 @@ def save_manifest(done: int, total: int, last_index: int, last_name: str):
         json.dump(manifest, f, indent=2)
 
 
+def _worker_process(
+    worker_id: int,
+    targets: List[Tuple[int, str]],
+    chunk_size: int,
+    overwrite: bool,
+    proxy: Optional[str],
+    jitter_s: float,
+):
+    """Worker that processes a list of (index, subreddit) sequentially with one
+    browser per chunk, returning stats for progress tracking.
+
+    Returns a dict: { 'worker_id': int, 'done': int, 'last_index': int, 'last_name': str }
+    """
+    # Light stagger so workers don't slam at once
+    try:
+        time.sleep(random.uniform(0, max(0.0, float(jitter_s))))
+    except Exception:
+        pass
+
+    cfg = FPConfig(headless=True, proxy_server=proxy)
+    done = 0
+    last_index = -1
+    last_name = ""
+
+    # Process in chunks to periodically recycle the browser/context
+    for start in range(0, len(targets), max(1, int(chunk_size))):
+        batch = targets[start : start + chunk_size]
+        scraper = SubredditFrontPageScraper(cfg)
+        scraper._start()
+        try:
+            for idx, name in batch:
+                try:
+                    if (not overwrite) and already_scraped(name):
+                        continue
+                    data = scraper.scrape_frontpage(name)
+                    scraper.save_frontpage(data["subreddit"], data)
+                    done += 1
+                    last_index = idx
+                    last_name = name
+                    # gentle pacing per worker
+                    time.sleep(random.uniform(0.5, 1.2))
+                except Exception:
+                    # Best-effort: continue to next subreddit in this worker
+                    continue
+        finally:
+            try:
+                scraper._stop()
+            except Exception:
+                pass
+
+    return {
+        "worker_id": worker_id,
+        "done": done,
+        "last_index": last_index,
+        "last_name": last_name,
+    }
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--start", type=int, default=0, help="Start index in the unique subreddit list")
@@ -98,7 +158,16 @@ def main():
     ap.add_argument("--chunk-size", type=int, default=50, help="Restart browser after this many subreddits")
     ap.add_argument("--overwrite", action="store_true", help="Re-scrape even if frontpage.json exists")
     ap.add_argument("--order", choices=["rank", "alpha"], default="rank", help="Ordering of subreddits: by original rank or alphabetically")
+    ap.add_argument("--concurrency", type=int, default=2, help="Number of parallel browser processes (safe: 1-3)")
+    ap.add_argument("--initial-jitter-s", type=float, default=2.0, help="Max random stagger per worker at start (seconds)")
     args = ap.parse_args()
+
+    # Safer for Playwright + multiprocessing on macOS/Linux
+    try:
+        mp.set_start_method("spawn", force=True)
+    except RuntimeError:
+        # Start method already set by parent; that's okay
+        pass
 
     pairs = load_subs_with_rank()
     if args.order == "rank":
@@ -115,30 +184,78 @@ def main():
     end = total if args.limit in (0, None) else min(total, start + args.limit)
     print(f"Total unique subs: {total}. Processing range [{start}, {end})")
 
-    cfg = FPConfig(headless=True, proxy_server=os.getenv("PROXY_SERVER") or None)
-    scraper = SubredditFrontPageScraper(cfg)
+    proxy = os.getenv("PROXY_SERVER") or None
 
-    idx = start
-    done = 0
-    while idx < end:
-        chunk_end = min(end, idx + args.chunk_size)
-        print(f"[batch] Chunk {idx}..{chunk_end-1}")
-        scraper._start()
-        try:
-            for i in range(idx, chunk_end):
-                name = subs[i]
-                if not args.overwrite and already_scraped(name):
-                    print(f"[skip] {name} (exists)")
-                    continue
-                data = scraper.scrape_frontpage(name)
-                scraper.save_frontpage(data["subreddit"], data)
-                done += 1
-                save_manifest(done, total, i, name)
-                time.sleep(random.uniform(0.5, 1.2))
-        finally:
-            scraper._stop()
-        idx = chunk_end
-    print("[batch] Completed.")
+    # Prepare targets with indices for progress tracking and uniqueness already ensured
+    targets = [(i, subs[i]) for i in range(start, end)]
+    if args.concurrency <= 1:
+        # Preserve original sequential behavior
+        cfg = FPConfig(headless=True, proxy_server=proxy)
+        scraper = SubredditFrontPageScraper(cfg)
+        idx = start
+        done = 0
+        while idx < end:
+            chunk_end = min(end, idx + args.chunk_size)
+            print(f"[batch] Chunk {idx}..{chunk_end-1}")
+            scraper._start()
+            try:
+                for i in range(idx, chunk_end):
+                    name = subs[i]
+                    if not args.overwrite and already_scraped(name):
+                        print(f"[skip] {name} (exists)")
+                        continue
+                    data = scraper.scrape_frontpage(name)
+                    scraper.save_frontpage(data["subreddit"], data)
+                    done += 1
+                    save_manifest(done, total, i, name)
+                    time.sleep(random.uniform(0.5, 1.2))
+            finally:
+                scraper._stop()
+            idx = chunk_end
+        print("[batch] Completed.")
+        return
+
+    # Parallel: split targets into roughly even round-robin slices per worker
+    workers = max(1, int(args.concurrency))
+    if workers > 8:
+        workers = 8  # guardrail
+    slices: List[List[Tuple[int, str]]] = [[] for _ in range(workers)]
+    for n, item in enumerate(targets):
+        slices[n % workers].append(item)
+
+    print(f"[batch] Parallel start: workers={workers}, range=[{start}, {end}), chunk-size={args.chunk_size}")
+    # Track progress as futures complete
+    done_total = 0
+    futures = []
+    with ProcessPoolExecutor(max_workers=workers) as ex:
+        for wid, sl in enumerate(slices):
+            if not sl:
+                continue
+            fut = ex.submit(
+                _worker_process,
+                wid,
+                sl,
+                args.chunk_size,
+                args.overwrite,
+                proxy,
+                float(args.initial_jitter_s),
+            )
+            futures.append(fut)
+
+        for fut in as_completed(futures):
+            try:
+                res = fut.result()
+            except Exception as e:
+                print(f"[worker-error] {e}")
+                continue
+            done_total += int(res.get("done", 0))
+            last_i = int(res.get("last_index", -1))
+            last_n = str(res.get("last_name", ""))
+            if last_i >= 0 and last_n:
+                save_manifest(done_total, total, last_i, last_n)
+            print(f"[worker {res.get('worker_id')}] done={res.get('done',0)} last={last_n}#{last_i}")
+
+    print("[batch] Parallel completed.")
 
 
 if __name__ == "__main__":

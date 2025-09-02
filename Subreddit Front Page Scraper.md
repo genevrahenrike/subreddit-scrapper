@@ -41,6 +41,35 @@ python subreddit_frontpage_scraper.py \
   --debug-html
 ```
 
+### Batch mode (ranked front pages)
+Use the helper script to scrape many subreddits from `output/pages/page_*.json` with safe, low parallelism.
+
+Basics:
+```bash
+# Default: concurrency=2, gentle pacing and browser recycle by chunk size
+./scripts/run_frontpage_batch.sh
+
+# Resume a range (indices) with 3 workers
+CONCURRENCY=3 ./scripts/run_frontpage_batch.sh --start 4750 --limit 50
+
+# Tune chunking and jitter (stagger worker starts up to 3s)
+CONCURRENCY=3 INITIAL_JITTER_S=3.0 ./scripts/run_frontpage_batch.sh --chunk-size 40
+
+# Force re-scrape of existing outputs in the range
+CONCURRENCY=2 ./scripts/run_frontpage_batch.sh --start 0 --limit 20 --overwrite
+```
+
+Flags forwarded to the Python batcher:
+- `--start <N>` and `--limit <K>` — process indices `[N, N+K)` from the unique ranked list.
+- `--chunk-size <M>` — recycle the browser every M subs (defaults to 50 if not overridden).
+- `--order rank|alpha` — order of the unique list (default: rank).
+- `CONCURRENCY=<W>` — parallel Playwright processes (safe 1–3, default 2).
+- `INITIAL_JITTER_S=<S>` — worker start jitter in seconds (random 0–S; default 2.0).
+
+Pacing & safety:
+- Each worker sleeps 0.5–1.2s between subreddits and staggers its start by up to `INITIAL_JITTER_S`.
+- Keep `CONCURRENCY` low (2–3) unless you have ample IP capacity.
+
 ### Programmatic usage
 ```python
 from subreddit_frontpage_scraper import FPConfig, SubredditFrontPageScraper
@@ -138,6 +167,7 @@ If the new UI yields no posts (or far fewer than expected), the scraper visits `
   - Add small sleeps between subreddits.
   - Lower `min_posts` when speed matters.
   - Rotate proxies if scraping many subreddits in a batch.
+  - Keep batch `CONCURRENCY` at 2–3 and use `INITIAL_JITTER_S` to avoid synchronized bursts.
 
 ---
 

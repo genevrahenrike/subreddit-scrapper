@@ -48,6 +48,19 @@ from dataclasses import dataclass
 from glob import glob
 from typing import Dict, Iterable, List, Tuple, Optional, Set
 from datetime import datetime, timezone, timedelta
+import numpy as np
+
+# Optional sentence-transformers for embedding rerank
+_HAS_ST = False
+try:
+    from sentence_transformers import SentenceTransformer
+    from sentence_transformers.util import cos_sim
+    _HAS_ST = True
+except Exception:
+    _HAS_ST = False
+
+# Lazy model cache for embeddings
+_EMBED_MODEL_CACHE: Dict[str, "SentenceTransformer"] = {}
 
 # Optional word segmentation backstops (used for glued lowercase names)
 _HAS_WORDSEGMENT = False
@@ -105,6 +118,12 @@ DEFAULT_INCLUDE_CONTENT_PREVIEW = False  # keep off by default (often empty/nois
 # Posts phrase preference (posts-specific; can be tuned via CLI)
 DEFAULT_POSTS_PHRASE_BOOST_BIGRAM = 1.25
 DEFAULT_POSTS_PHRASE_BOOST_TRIGRAM = 1.5
+
+# Embedding rerank defaults
+DEFAULT_EMBED_RERANK = False
+DEFAULT_EMBED_MODEL = "BAAI/bge-small-en-v1.5"  # fast, strong; consider "BAAI/bge-m3" for multilingual/SOTA
+DEFAULT_EMBED_ALPHA = 0.35                      # blend factor for semantic similarity
+DEFAULT_EMBED_K_TERMS = 100                     # rerank top-K terms by embeddings
 
 
 # Curated light stopword list: English + subreddit boilerplate
@@ -928,6 +947,86 @@ def normalize_weights(term_scores: Dict[str, Tuple[float, str]]) -> List[Tuple[s
 
 
 # -----------------------
+# Embedding reranker (optional)
+# -----------------------
+def _get_embedder(model_name: str) -> Optional["SentenceTransformer"]:
+    if not _HAS_ST:
+        return None
+    if model_name in _EMBED_MODEL_CACHE:
+        return _EMBED_MODEL_CACHE[model_name]
+    try:
+        model = SentenceTransformer(model_name)
+        _EMBED_MODEL_CACHE[model_name] = model
+        return model
+    except Exception:
+        return None
+
+
+def _build_theme_text(full_lower: str, desc_tfidf: Counter, top_desc_k: int) -> str:
+    """
+    Build a concise theme string from the whole subreddit name phrase + top-K description terms.
+    """
+    parts: List[str] = []
+    if full_lower:
+        parts.append(full_lower)
+    if desc_tfidf and top_desc_k > 0:
+        for g, _ in sorted(desc_tfidf.items(), key=lambda x: x[1], reverse=True)[:top_desc_k]:
+            parts.append(g)
+    return " ; ".join(parts)
+
+
+def embed_rerank_terms(
+    merged: Dict[str, Tuple[float, str]],
+    theme_text: str,
+    model_name: str,
+    alpha: float,
+    k_terms: int,
+) -> Dict[str, Tuple[float, str]]:
+    """
+    Rerank top-K terms by multiplying their scores by a function of semantic similarity to theme_text.
+    new_score = old_score * ((1 - alpha) + alpha * similarity), where similarity in [0,1].
+    """
+    if not theme_text or not _HAS_ST:
+        return merged
+    embedder = _get_embedder(model_name)
+    if embedder is None:
+        return merged
+
+    # Select top-K by current score
+    items = sorted(merged.items(), key=lambda kv: kv[1][0], reverse=True)
+    top_items = items[: max(0, k_terms)]
+
+    terms = [t for t, _ in top_items]
+    try:
+        theme_emb = embedder.encode([theme_text], normalize_embeddings=True)
+        term_embs = embedder.encode(terms, normalize_embeddings=True)
+    except Exception:
+        return merged
+
+    # cos_sim returns matrix (1, K)
+    try:
+        sims = cos_sim(theme_emb, term_embs).cpu().numpy().reshape(-1)
+    except Exception:
+        # Fallback cosine
+        def _cos(a, b):
+            an = np.linalg.norm(a)
+            bn = np.linalg.norm(b)
+            if an <= 0 or bn <= 0:
+                return 0.0
+            return float(np.dot(a, b) / (an * bn))
+        sims = np.array([_cos(theme_emb[0], term_embs[i]) for i in range(len(terms))], dtype=float)
+
+    # Map similarity to [0,1]
+    sims01 = (sims + 1.0) / 2.0
+
+    out: Dict[str, Tuple[float, str]] = dict(merged)
+    for (term, (score, src)), s in zip(top_items, sims01):
+        factor = (1.0 - alpha) + alpha * float(s)
+        out[term] = (score * factor, src)
+    return out
+
+
+# -----------------------
 # IO and CLI
 # -----------------------
 
@@ -985,6 +1084,11 @@ def process_inputs(
     posts_replace_generic_with_anchored: bool = False,
     posts_theme_penalty: float = 0.65,
     posts_theme_top_desc_k: int = 6,
+    # Embedding rerank (optional)
+    embed_rerank: bool = DEFAULT_EMBED_RERANK,
+    embed_model: str = DEFAULT_EMBED_MODEL,
+    embed_alpha: float = DEFAULT_EMBED_ALPHA,
+    embed_k_terms: int = DEFAULT_EMBED_K_TERMS,
 ) -> None:
     if not input_paths:
         print("No input files matched.", file=sys.stderr)
@@ -1176,12 +1280,24 @@ def process_inputs(
                             if not (term_tokens & theme_tokens):
                                 posts_scores[term] *= max(0.0, min(1.0, posts_theme_penalty))
 
-                # Merge and normalize (three sources: description, name, posts)
+                # Merge scores
                 merged = merge_sources([
                     (desc_tfidf, desc_weight, "description"),
                     (name_scores, name_weight, "name"),
                     (posts_scores, posts_weight, "posts"),
                 ])
+
+                # Embedding-based rerank (optional): theme = whole name phrase + top description terms
+                if embed_rerank:
+                    theme_text = _build_theme_text(full_lower, desc_tfidf, posts_theme_top_desc_k)
+                    merged = embed_rerank_terms(
+                        merged,
+                        theme_text=theme_text,
+                        model_name=embed_model,
+                        alpha=embed_alpha,
+                        k_terms=embed_k_terms,
+                    )
+
                 ranked = normalize_weights(merged)
                 top = ranked[:topk]
                 # Ensure the whole subreddit name phrase is present in Top-K if available
@@ -1245,6 +1361,11 @@ def main():
     ap.add_argument("--posts-drop-generic-unigrams", action="store_true", help="Drop unigram posts terms whose global DF ratio >= --posts-generic-df-ratio")
     ap.add_argument("--posts-theme-penalty", type=float, default=0.65, help="Multiplier to apply to posts terms with zero overlap to subreddit theme tokens (name + top description terms)")
     ap.add_argument("--posts-theme-top-desc-k", type=int, default=6, help="How many top description terms to include when forming the theme token set")
+    # Embedding rerank
+    ap.add_argument("--embed-rerank", action="store_true", help="Enable embedding-based reranking of terms for semantic alignment to subreddit theme")
+    ap.add_argument("--embed-model", type=str, default=DEFAULT_EMBED_MODEL, help="SentenceTransformers model id (e.g., 'BAAI/bge-small-en-v1.5' or 'BAAI/bge-m3')")
+    ap.add_argument("--embed-alpha", type=float, default=DEFAULT_EMBED_ALPHA, help="Blend factor for embedding similarity contribution")
+    ap.add_argument("--embed-k-terms", type=int, default=DEFAULT_EMBED_K_TERMS, help="Rerank top-K terms by embeddings")
     ap.add_argument("--posts-phrase-stoplist", type=str, default=None, help="Path to newline-delimited file of phrases (bigrams/trigrams) to exclude from posts tokenization/DF")
     ap.add_argument("--posts-replace-generic-with-anchored", action="store_true", help="When anchoring generic uni/bi-grams, drop the original unanchored term")
     ap.add_argument("--no-posts-anchor-generics", action="store_true", help="Disable adding anchored variants for generic posts terms")
@@ -1278,6 +1399,10 @@ def main():
         posts_drop_generic_unigrams=args.posts_drop_generic_unigrams,
         posts_theme_penalty=args.posts_theme_penalty,
         posts_theme_top_desc_k=args.posts_theme_top_desc_k,
+        embed_rerank=args.embed_rerank,
+        embed_model=args.embed_model,
+        embed_alpha=args.embed_alpha,
+        embed_k_terms=args.embed_k_terms,
     )
 
 
