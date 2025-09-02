@@ -54,6 +54,10 @@ class LocalScraperConfig:
     min_delay: float = 1.5
     max_delay: float = 3.5
     wait_selector: str = 'div[data-community-id]'
+    # Hard per-page max wall time (seconds) before recycling page/browser
+    max_page_seconds: float = 45.0
+    # Attempts per page before marking as failed
+    max_attempts: int = 2
 
 
 class LocalRedditCommunitiesScraper:
@@ -98,6 +102,12 @@ class LocalRedditCommunitiesScraper:
         }
         self._context = self._browser.new_context(**context_kwargs)
         self._page = self._context.new_page()
+        try:
+            # Apply default timeouts globally
+            self._context.set_default_timeout(self.config.timeout_ms)
+            self._page.set_default_timeout(self.config.timeout_ms)
+        except Exception:
+            pass
         self._apply_stealth(self._page)
 
     def _stop(self):
@@ -146,18 +156,43 @@ class LocalRedditCommunitiesScraper:
     # ----------------------------- Scraping ----------------------------- #
     def fetch_page_html(self, page_number: int) -> Optional[str]:
         url = f"{self.config.base_url}/{page_number}"
-        try:
-            self._page.goto(url, wait_until="domcontentloaded", timeout=self.config.timeout_ms)
-            # Wait for content to render if possible
+        start = time.monotonic()
+        attempts = 0
+        while attempts < self.config.max_attempts:
+            attempts += 1
             try:
-                self._page.wait_for_selector(self.config.wait_selector, timeout=15000)
-            except PlaywrightTimeoutError:
-                # Fallback: give it a little more time
-                self._page.wait_for_timeout(3000)
-            return self._page.content()
-        except Exception as e:
-            print(f"❌ Error navigating to {url}: {e}")
-            return None
+                self._page.goto(url, wait_until="domcontentloaded", timeout=self.config.timeout_ms)
+                # Wait for content to render if possible
+                try:
+                    self._page.wait_for_selector(self.config.wait_selector, timeout=15000)
+                except PlaywrightTimeoutError:
+                    # Fallback: give it a little more time
+                    self._page.wait_for_timeout(3000)
+                return self._page.content()
+            except Exception as e:
+                elapsed = time.monotonic() - start
+                print(f"⚠️  Attempt {attempts} failed for {url}: {e} (elapsed {elapsed:.1f}s)")
+                # If we exceeded the wall time, recycle page and maybe retry
+                if elapsed >= self.config.max_page_seconds or attempts >= self.config.max_attempts:
+                    break
+                # Recycle page before retry
+                try:
+                    self._page.close()
+                except Exception:
+                    pass
+                try:
+                    self._page = self._context.new_page()
+                    self._apply_stealth(self._page)
+                    self._page.set_default_timeout(self.config.timeout_ms)
+                except Exception:
+                    # If we can't recover the page, try full restart
+                    try:
+                        self._stop()
+                    except Exception:
+                        pass
+                    self._start()
+        print(f"❌ Giving up on {url} after {attempts} attempts and {(time.monotonic()-start):.1f}s")
+        return None
 
     def scrape_page(self, page_number: int, delay: Optional[float] = None) -> List[Dict]:
         print(f"📄 [local] Scraping page {page_number}...")
@@ -187,9 +222,14 @@ class LocalRedditCommunitiesScraper:
         return self.all_subreddits
 
     def scrape_and_persist_page(self, page_number: int, delay: Optional[float] = None) -> List[Dict]:
-        subs = self.scrape_page(page_number, delay=delay)
-        # Save this page only
-        self.save_page_data(page_number, subs)
+        error = None
+        subs: List[Dict] = []
+        try:
+            subs = self.scrape_page(page_number, delay=delay)
+        except Exception as e:
+            error = str(e)
+        # Save this page only (even if empty) with error marker if needed
+        self.save_page_data(page_number, subs, error=error)
         self.pages_done.add(page_number)
         self.total_count += len(subs)
         # Optionally keep a small rolling buffer rather than all
@@ -259,7 +299,7 @@ class LocalRedditCommunitiesScraper:
             json.dump(self.all_subreddits, f, indent=2, ensure_ascii=False)
 
     # ------------------------------ Helpers ----------------------------- #
-    def save_page_data(self, page_number: int, subreddits: List[Dict]):
+    def save_page_data(self, page_number: int, subreddits: List[Dict], error: Optional[str] = None):
         # Ensure pages directory exists
         pages_dir = os.path.join("output", "pages")
         os.makedirs(pages_dir, exist_ok=True)
@@ -268,11 +308,22 @@ class LocalRedditCommunitiesScraper:
             "count": len(subreddits),
             "subreddits": subreddits,
             "scraped_at": datetime.now().isoformat(),
+            "error": error,
         }
         path = os.path.join(pages_dir, f"page_{page_number}.json")
         import json as _json
         with open(path, "w", encoding="utf-8") as f:
             _json.dump(payload, f, indent=2, ensure_ascii=False)
+        # If we have HTML, optionally save a lightweight debug snapshot for failures
+        if error and not subreddits:
+            try:
+                html = self._page.content()
+                fail_dir = os.path.join("output", "failures")
+                os.makedirs(fail_dir, exist_ok=True)
+                with open(os.path.join(fail_dir, f"page_{page_number}.html"), "w", encoding="utf-8") as hf:
+                    hf.write(html)
+            except Exception:
+                pass
 
     def _dedup_inplace(self):
         seen = set()

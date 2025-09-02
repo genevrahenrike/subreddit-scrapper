@@ -73,6 +73,7 @@ def main():
     ap.add_argument("--end", type=int, default=1000)
     ap.add_argument("--save-every", type=int, default=25)
     ap.add_argument("--from-page", type=int, default=None, help="Force resume from this page (overrides detection)")
+    ap.add_argument("--chunk-size", type=int, default=50, help="Restart browser after scraping this many pages to avoid hangs")
     args = ap.parse_args()
 
     OUT_DIR.mkdir(exist_ok=True)
@@ -100,20 +101,28 @@ def main():
             except Exception:
                 continue
 
-    # Scrape only missing pages
-    scraper._start()
-    try:
-        for p in range(start_page, args.end + 1):
-            if p in done_pages:
-                print(f"[resume] Skip existing page {p}")
-                continue
-            scraper.scrape_and_persist_page(p)
-            if (p % args.save_every) == 0:
-                scraper._write_manifest(last_page=p)
-    finally:
-        scraper._stop()
-
-    scraper._write_manifest(last_page=args.end)
+    # Scrape only missing pages, in chunks to recycle browser periodically
+    current = start_page
+    while current <= args.end:
+        end_chunk = min(args.end, current + args.chunk_size - 1)
+        print(f"[resume] Chunk {current}..{end_chunk}")
+        scraped_any = False
+        scraper._start()
+        try:
+            for p in range(current, end_chunk + 1):
+                if p in done_pages:
+                    print(f"[resume] Skip existing page {p}")
+                    continue
+                scraped_any = True
+                scraper.scrape_and_persist_page(p)
+                if (p % args.save_every) == 0:
+                    scraper._write_manifest(last_page=p)
+        finally:
+            scraper._stop()
+        # Write manifest at end of chunk
+        if scraped_any:
+            scraper._write_manifest(last_page=end_chunk)
+        current = end_chunk + 1
 
     # Execute
     scraper.scrape_all_pages(start_page=start_page, end_page=args.end, save_every=args.save_every)
