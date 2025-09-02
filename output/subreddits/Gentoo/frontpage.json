@@ -1,0 +1,1010 @@
+{
+  "subreddit": "Gentoo",
+  "url": "https://www.reddit.com/r/Gentoo",
+  "meta": {
+    "title": "Gentoo Linux: Because you like it when the power is in your hands"
+  },
+  "posts": [
+    {
+      "title": "Per package -G",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n6kt29/per_package_g/",
+      "score": 1,
+      "comments": 3,
+      "post_id": "t3_1n6kt29",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "Entangloporter",
+      "author_id": "t2_m311d1zrh",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-09-02T14:20:52.178000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1n6kt29/per_package_g/",
+      "content_preview": "",
+      "flair": [
+        "Support"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Just a lil something i made",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n29ss9/just_a_lil_something_i_made/",
+      "score": 1482,
+      "comments": 58,
+      "post_id": "t3_1n29ss9",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Proper_Insurance7665",
+      "author_id": "t2_mmmv9e44",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-28T11:35:15.372000+0000",
+      "content_href": "https://i.redd.it/c9svetp7yqlf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://preview.redd.it/just-a-lil-something-i-made-v0-c9svetp7yqlf1.jpeg?width=640&crop=smart&auto=webp&s=b02f19cbc43cfa80961a9180988c8170a7b8ba34"
+    },
+    {
+      "title": "I've successfully wasted hours.",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n5qq5c/ive_successfully_wasted_hours/",
+      "score": 126,
+      "comments": 64,
+      "post_id": "t3_1n5qq5c",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "DanLeDeveloper",
+      "author_id": "t2_s7t5o9q3",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-09-01T14:49:06.461000+0000",
+      "content_href": "https://i.redd.it/ltv4cou2gkmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6zoxp6/styles/profileIcon_2ldzkkpg45hf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1e3a21abaa5e9f762f6219a28888a40905aeaa2e"
+    },
+    {
+      "title": "Using the Wii U as god intended",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1mxuvjf/using_the_wii_u_as_god_intended/",
+      "score": 834,
+      "comments": 45,
+      "post_id": "t3_1mxuvjf",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "CCF_100",
+      "author_id": "t2_16tza4",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-23T07:18:29.306000+0000",
+      "content_href": "https://i.redd.it/bj901yfuzpkf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Screenshot"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_9gyfx/styles/profileIcon_ccqwwikk5eie1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1117bf5045acc7d5bfd74ce26417907bc6a6e6d9"
+    },
+    {
+      "title": "How long does llvm take to compile?",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n5qdr7/how_long_does_llvm_take_to_compile/",
+      "score": 10,
+      "comments": 15,
+      "post_id": "t3_1n5qdr7",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "DanLeDeveloper",
+      "author_id": "t2_s7t5o9q3",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-09-01T14:35:45.750000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1n5qdr7/how_long_does_llvm_take_to_compile/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6zoxp6/styles/profileIcon_2ldzkkpg45hf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1e3a21abaa5e9f762f6219a28888a40905aeaa2e"
+    },
+    {
+      "title": "First install (~22,5 hours)",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n3lohy/first_install_225_hours/",
+      "score": 202,
+      "comments": 17,
+      "post_id": "t3_1n3lohy",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Valuable-Fun-6251",
+      "author_id": "t2_1wiocns3co",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-29T22:48:20.802000+0000",
+      "content_href": "https://i.redd.it/jxozmyh7f1mf1.png",
+      "content_preview": "",
+      "flair": [
+        "Screenshot"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Wanted to re-compile and update world and it's giving this error, What should I do?",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n5lfge/wanted_to_recompile_and_update_world_and_its/",
+      "score": 18,
+      "comments": 21,
+      "post_id": "t3_1n5lfge",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "DanLeDeveloper",
+      "author_id": "t2_s7t5o9q3",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-09-01T10:46:01.086000+0000",
+      "content_href": "https://i.redd.it/w0hw2hxu8jmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6zoxp6/styles/profileIcon_2ldzkkpg45hf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1e3a21abaa5e9f762f6219a28888a40905aeaa2e"
+    },
+    {
+      "title": "trouble with installing the linux kernel",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n64y05/trouble_with_installing_the_linux_kernel/",
+      "score": 0,
+      "comments": 9,
+      "post_id": "t3_1n64y05",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "NocturneSterling",
+      "author_id": "t2_1r5op9zn4p",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-09-02T00:07:56.052000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1n64y05/trouble_with_installing_the_linux_kernel/",
+      "content_preview": "",
+      "flair": [
+        "Support"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Drinking coffee while installing Gentoo",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1mw6ebx/drinking_coffee_while_installing_gentoo/",
+      "score": 464,
+      "comments": 38,
+      "post_id": "t3_1mw6ebx",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "weslav8008",
+      "author_id": "t2_awq2l2jb",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-21T09:43:19.251000+0000",
+      "content_href": "https://i.redd.it/xvl3c1fufckf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Screenshot"
+      ],
+      "thumbnail_url": "https://preview.redd.it/drinking-coffee-while-installing-gentoo-v0-xvl3c1fufckf1.jpeg?width=640&crop=smart&auto=webp&s=2abc3660908f7e5f734b5d1c7c31dda55fd63c0d"
+    },
+    {
+      "title": "Help wanted",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n5k2p2/help_wanted/",
+      "score": 11,
+      "comments": 9,
+      "post_id": "t3_1n5k2p2",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Pleasant_Juice_5903",
+      "author_id": "t2_9l3npe32",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-09-01T09:22:56.110000+0000",
+      "content_href": "https://i.redd.it/f3o984w8uimf1.png",
+      "content_preview": "",
+      "flair": [
+        "Support"
+      ],
+      "thumbnail_url": "https://preview.redd.it/help-wanted-v0-f3o984w8uimf1.png?width=640&crop=smart&auto=webp&s=077811275216e152e903bf65e45d814568559fac"
+    },
+    {
+      "title": "Pretty accurate",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n39yxn/pretty_accurate/",
+      "score": 179,
+      "comments": 17,
+      "post_id": "t3_1n39yxn",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Grubbauer",
+      "author_id": "t2_1uzmn8gm8u",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-29T15:07:44.865000+0000",
+      "content_href": "https://i.redd.it/5ayfctt05zlf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://preview.redd.it/pretty-accurate-v0-5ayfctt05zlf1.jpeg?auto=webp&s=78187f44b702cca0958da38eb94462c1cf900ea8"
+    },
+    {
+      "title": "eselect profile list fails to get the list",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n5jhvl/eselect_profile_list_fails_to_get_the_list/",
+      "score": 5,
+      "comments": 7,
+      "post_id": "t3_1n5jhvl",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "DanLeDeveloper",
+      "author_id": "t2_s7t5o9q3",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-09-01T08:46:16.312000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1n5jhvl/eselect_profile_list_fails_to_get_the_list/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6zoxp6/styles/profileIcon_2ldzkkpg45hf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1e3a21abaa5e9f762f6219a28888a40905aeaa2e"
+    },
+    {
+      "title": "yay! got Gentoo virtualized on my M4 mac :3",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n1gipz/yay_got_gentoo_virtualized_on_my_m4_mac_3/",
+      "score": 178,
+      "comments": 16,
+      "post_id": "t3_1n1gipz",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "HelloBloop",
+      "author_id": "t2_f90duv9l6",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-27T13:06:03.182000+0000",
+      "content_href": "https://i.redd.it/yz2k37pc9klf1.png",
+      "content_preview": "",
+      "flair": [
+        "Screenshot"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8tef4p/styles/profileIcon_jzd3klhu2whf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=eabe1ea72af8304089fc93c0d4ef4224863372c3"
+    },
+    {
+      "title": "Did you try binary gentoo? How was it?",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n57ji6/did_you_try_binary_gentoo_how_was_it/",
+      "score": 12,
+      "comments": 9,
+      "post_id": "t3_1n57ji6",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "C1REX",
+      "author_id": "t2_10w34i",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-31T22:07:18.627000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1n57ji6/did_you_try_binary_gentoo_how_was_it/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Gentoo Linux with XFCE on a 2001 iBook G3/600",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1mtny0k/gentoo_linux_with_xfce_on_a_2001_ibook_g3600/",
+      "score": 370,
+      "comments": 18,
+      "post_id": "t3_1mtny0k",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "anh0516",
+      "author_id": "t2_24zthge3",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-18T14:41:00.978000+0000",
+      "content_href": "https://i.redd.it/sr7co8c8isjf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Screenshot"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Just installed gentoo, wifi don't work",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n52rkz/just_installed_gentoo_wifi_dont_work/",
+      "score": 17,
+      "comments": 17,
+      "post_id": "t3_1n52rkz",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "fuckthec1a",
+      "author_id": "t2_174egpp9a9",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-31T18:52:33.107000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n52rkz",
+      "content_preview": "",
+      "flair": [
+        "Support"
+      ],
+      "thumbnail_url": "https://preview.redd.it/just-installed-gentoo-wifi-dont-work-v0-gsaezrcyiemf1.jpg?width=640&crop=smart&auto=webp&s=4ae504990c86e17f805d81e938377e4d766836fa"
+    },
+    {
+      "title": "I lost my profile. Can I create old and new as well ?",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1mzo1dz/i_lost_my_profile_can_i_create_old_and_new_as_well/",
+      "score": 11,
+      "comments": 11,
+      "post_id": "t3_1mzo1dz",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "DebianSerbia",
+      "author_id": "t2_bifdtknr",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-25T11:35:37.788000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1mzo1dz/i_lost_my_profile_can_i_create_old_and_new_as_well/",
+      "content_preview": "",
+      "flair": [
+        "Support"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "My first Gentoo install",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1mx4oz7/my_first_gentoo_install/",
+      "score": 342,
+      "comments": 10,
+      "post_id": "t3_1mx4oz7",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "weslav8008",
+      "author_id": "t2_awq2l2jb",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-22T12:07:38.086000+0000",
+      "content_href": "https://i.redd.it/xqfqem0iakkf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Screenshot"
+      ],
+      "thumbnail_url": "https://preview.redd.it/my-first-gentoo-install-v0-xqfqem0iakkf1.jpeg?width=640&crop=smart&auto=webp&s=e2c82bc4c3e7752c9b287f92492fa6764538e7ec"
+    },
+    {
+      "title": "Kernel Questions",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n00hlx/kernel_questions/",
+      "score": 2,
+      "comments": 8,
+      "post_id": "t3_1n00hlx",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "Dr_Doom3301",
+      "author_id": "t2_14i4bc",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-25T19:42:59.941000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1n00hlx/kernel_questions/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Anyone find themselves bloating their system?",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1mwy9k7/anyone_find_themselves_bloating_their_system/",
+      "score": 11,
+      "comments": 27,
+      "post_id": "t3_1mwy9k7",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "unhappy-ending",
+      "author_id": "t2_7bqtlmnp",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-22T05:42:50.409000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1mwy9k7/anyone_find_themselves_bloating_their_system/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[Patch] Change \"ACPI BIOS Error (bug)\" to a kernel warning",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1mvtl0t/patch_change_acpi_bios_error_bug_to_a_kernel/",
+      "score": 6,
+      "comments": 0,
+      "post_id": "t3_1mvtl0t",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "varsnef",
+      "author_id": "t2_815dysm4",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-20T22:33:16.137000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1mvtl0t/patch_change_acpi_bios_error_bug_to_a_kernel/",
+      "content_preview": "",
+      "flair": [
+        "Tip"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3d9rrc/styles/profileIcon_zlstp1ep35gf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8f127c964cc13565b38cb8b791dfd3e5479a888c"
+    },
+    {
+      "title": "AI is becoming scary good and convenient.",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n63nqg/ai_is_becoming_scary_good_and_convenient/",
+      "score": 0,
+      "comments": 32,
+      "post_id": "t3_1n63nqg",
+      "post_type": "multi_media",
+      "domain": "self.Gentoo",
+      "author": "C1REX",
+      "author_id": "t2_10w34i",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-09-01T23:08:39.169000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1n63nqg/ai_is_becoming_scary_good_and_convenient/",
+      "content_preview": "",
+      "flair": [
+        "Screenshot"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Update -- Using ACPID to prompt user for shutdown?",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1muztr3/update_using_acpid_to_prompt_user_for_shutdown/",
+      "score": 6,
+      "comments": 2,
+      "post_id": "t3_1muztr3",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "Brospeh-Stalin",
+      "author_id": "t2_1ew3l7iw6u",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-20T00:17:43.237000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1muztr3/update_using_acpid_to_prompt_user_for_shutdown/",
+      "content_preview": "",
+      "flair": [
+        "Support"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Wayland vs xorg compile time(i3 vs hyprland)",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n5v6tn/wayland_vs_xorg_compile_timei3_vs_hyprland/",
+      "score": 2,
+      "comments": 7,
+      "post_id": "t3_1n5v6tn",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "VolggaWax",
+      "author_id": "t2_f1fn3zdn",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-09-01T17:35:37.008000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1n5v6tn/wayland_vs_xorg_compile_timei3_vs_hyprland/",
+      "content_preview": "",
+      "flair": [
+        "Support"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I finally got my first Gentoo install up and running!",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1mf73lq/i_finally_got_my_first_gentoo_install_up_and/",
+      "score": 145,
+      "comments": 9,
+      "post_id": "t3_1mf73lq",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "zh0011",
+      "author_id": "t2_85luzztq",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-01T20:18:45.135000+0000",
+      "content_href": "https://i.redd.it/lbkpl5zzuggf1.png",
+      "content_preview": "",
+      "flair": [
+        "Screenshot"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i-finally-got-my-first-gentoo-install-up-and-running-v0-lbkpl5zzuggf1.png?width=640&crop=smart&auto=webp&s=d8f1a9d9f9d316bd787accc8a95ac855fcf91cb9"
+    },
+    {
+      "title": "sick custom laptop stickers",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1mgd96k/sick_custom_laptop_stickers/",
+      "score": 336,
+      "comments": 15,
+      "post_id": "t3_1mgd96k",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Proper_Insurance7665",
+      "author_id": "t2_mmmv9e44",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-03T07:30:58.832000+0000",
+      "content_href": "https://i.redd.it/qaexnq6ubrgf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Screenshot"
+      ],
+      "thumbnail_url": "https://preview.redd.it/sick-custom-laptop-stickers-v0-qaexnq6ubrgf1.jpeg?width=640&crop=smart&auto=webp&s=af1bff0ad6a2ed001621bfc8ebefd73aa558f353"
+    },
+    {
+      "title": "enp1s0 interface not found?",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n5tyqj/enp1s0_interface_not_found/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n5tyqj",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "NocturneSterling",
+      "author_id": "t2_1r5op9zn4p",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-09-01T16:51:07.339000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1n5tyqj/enp1s0_interface_not_found/",
+      "content_preview": "",
+      "flair": [
+        "Support"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Gentoo is the best thing ever exist",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n4vovt/gentoo_is_the_best_thing_ever_exist/",
+      "score": 110,
+      "comments": 26,
+      "post_id": "t3_1n4vovt",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "mujaxso",
+      "author_id": "t2_1u7fzcyjtm",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-31T14:10:07.695000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1n4vovt/gentoo_is_the_best_thing_ever_exist/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Install Gentoo",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1mon11x/install_gentoo/",
+      "score": 312,
+      "comments": 13,
+      "post_id": "t3_1mon11x",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "virysD",
+      "author_id": "t2_2liy9pxr",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-12T22:25:39.397000+0000",
+      "content_href": "/r/linuxmemes/comments/1momzpt/install_gentoo/",
+      "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "I finally found my distro",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1mkamfi/i_finally_found_my_distro/",
+      "score": 281,
+      "comments": 55,
+      "post_id": "t3_1mkamfi",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "AllHopeIsGone2010",
+      "author_id": "t2_1mhlilp7bv",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-07T20:10:16.766000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mkamfi",
+      "content_preview": "",
+      "flair": [
+        "Screenshot"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_e373tu/styles/profileIcon_lpkdmhlr5eif1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4841b056a8e2433908e67c128243f4ae4224aa2c"
+    },
+    {
+      "title": "Crashes after server replacement",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n5s3n3/crashes_after_server_replacement/",
+      "score": 1,
+      "comments": 8,
+      "post_id": "t3_1n5s3n3",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "Suitable-Name",
+      "author_id": "t2_5crov86j",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-09-01T15:41:43.629000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1n5s3n3/crashes_after_server_replacement/",
+      "content_preview": "",
+      "flair": [
+        "Support"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I finally got a decent amount of cores (Sub 15L Ampere Altra build)",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1mezw4j/i_finally_got_a_decent_amount_of_cores_sub_15l/",
+      "score": 218,
+      "comments": 31,
+      "post_id": "t3_1mezw4j",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "peppergrayxyz",
+      "author_id": "t2_qdwgyone",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-01T15:42:49.944000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mezw4j",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i-finally-got-a-decent-amount-of-cores-sub-15l-ampere-altra-v0-xd5lodjaefgf1.jpg?width=640&crop=smart&auto=webp&s=338ee111d674356ea3aad41e396f0b6cfa71f800"
+    },
+    {
+      "title": "Noob question. Why Dracut is masked for me?",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n5im1i/noob_question_why_dracut_is_masked_for_me/",
+      "score": 3,
+      "comments": 23,
+      "post_id": "t3_1n5im1i",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "C1REX",
+      "author_id": "t2_10w34i",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-09-01T07:48:30.509000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1n5im1i/noob_question_why_dracut_is_masked_for_me/",
+      "content_preview": "",
+      "flair": [
+        "Support"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "\"Face your fears,\" they said",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n37yuq/face_your_fears_they_said/",
+      "score": 106,
+      "comments": 34,
+      "post_id": "t3_1n37yuq",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Loggu0",
+      "author_id": "t2_cyg1beg3",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-29T13:49:37.315000+0000",
+      "content_href": "https://i.redd.it/wihc8xe3rylf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Screenshot"
+      ],
+      "thumbnail_url": "https://preview.redd.it/face-your-fears-they-said-v0-wihc8xe3rylf1.jpeg?width=640&crop=smart&auto=webp&s=e775277ee0ec5ea5a0e5824a0ef405e015cb420d"
+    },
+    {
+      "title": "Gentoo with Sway on an X250.",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1mtocsf/gentoo_with_sway_on_an_x250/",
+      "score": 210,
+      "comments": 25,
+      "post_id": "t3_1mtocsf",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "huellllllll",
+      "author_id": "t2_g9t7hwdc",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-18T14:56:17.277000+0000",
+      "content_href": "https://i.redd.it/gi46ldfyksjf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Story"
+      ],
+      "thumbnail_url": "https://preview.redd.it/gentoo-with-sway-on-an-x250-v0-gi46ldfyksjf1.jpeg?width=640&crop=smart&auto=webp&s=737344343ec16a0a9a790cd43d9f90bded0aed01"
+    },
+    {
+      "title": "Help:(",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1meuj0e/help/",
+      "score": 15,
+      "comments": 44,
+      "post_id": "t3_1meuj0e",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "real_sTaGEE",
+      "author_id": "t2_13fk9uw17k",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-01T11:58:29.780000+0000",
+      "content_href": "https://i.redd.it/ayz7l0xqdegf1.png",
+      "content_preview": "",
+      "flair": [
+        "Support"
+      ],
+      "thumbnail_url": "https://preview.redd.it/ayz7l0xqdegf1.png?width=640&crop=smart&auto=webp&s=cffdf36284c5ef891a6a32fcc777b0767b8e74e6"
+    },
+    {
+      "title": "My Experience With Gentoo",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1meq7jm/my_experience_with_gentoo/",
+      "score": 32,
+      "comments": 25,
+      "post_id": "t3_1meq7jm",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "[deleted]",
+      "author_id": "",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-01T07:38:30.369000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1meq7jm/my_experience_with_gentoo/",
+      "content_preview": "",
+      "flair": [
+        "Story"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Today is a good day and very hot day.",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1mstofg/today_is_a_good_day_and_very_hot_day/",
+      "score": 194,
+      "comments": 21,
+      "post_id": "t3_1mstofg",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Seele00Tex",
+      "author_id": "t2_1p409nmz73",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-17T15:20:42.566000+0000",
+      "content_href": "https://i.redd.it/en8s2tx8kljf1.png",
+      "content_preview": "",
+      "flair": [
+        "Screenshot"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ef6lp3/styles/profileIcon_he4b5xfwtkjf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8bd8ea982a9d30480f1495559a25eeb0599a431e"
+    },
+    {
+      "title": "Some option names are amusing.",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1meeeo0/some_option_names_are_amusing/",
+      "score": 112,
+      "comments": 8,
+      "post_id": "t3_1meeeo0",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "varsnef",
+      "author_id": "t2_815dysm4",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-07-31T21:42:23.232000+0000",
+      "content_href": "https://i.redd.it/zke8xp8w4agf1.png",
+      "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3d9rrc/styles/profileIcon_zlstp1ep35gf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8f127c964cc13565b38cb8b791dfd3e5479a888c"
+    },
+    {
+      "title": "How much does alacrity boost performance?",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1mezvv3/how_much_does_alacrity_boost_performance/",
+      "score": 4,
+      "comments": 12,
+      "post_id": "t3_1mezvv3",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "Chiron8_dev",
+      "author_id": "t2_1qnqy64hqk",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-01T15:42:32.608000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1mezvv3/how_much_does_alacrity_boost_performance/",
+      "content_preview": "",
+      "flair": [
+        "Support"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_elhhv2/styles/profileIcon_kunnreg7ih4f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f214cd0411edfb884958d1c5df61e77f3e35a82f"
+    },
+    {
+      "title": "Hello gentooers, what made you choose gentoo? What made you stay? Where did you start your linux journey?",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n54pxa/hello_gentooers_what_made_you_choose_gentoo_what/",
+      "score": 75,
+      "comments": 52,
+      "post_id": "t3_1n54pxa",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Sabitsvki",
+      "author_id": "t2_zt4clrwwc",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-31T20:10:08.214000+0000",
+      "content_href": "https://i.redd.it/m2jrke4twemf1.png",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/hello-gentooers-what-made-you-choose-gentoo-what-made-you-v0-m2jrke4twemf1.png?width=640&crop=smart&auto=webp&s=052ba9b48778d364dd9997c8382d3c76854dc73e"
+    },
+    {
+      "title": "Easter egg in Gentoo",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1mfwjhp/easter_egg_in_gentoo/",
+      "score": 187,
+      "comments": 16,
+      "post_id": "t3_1mfwjhp",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "markos4x",
+      "author_id": "t2_1qlkrxtk8q",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-02T17:42:47.204000+0000",
+      "content_href": "https://i.redd.it/z6887ebz7ngf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Mold with clang lto when?",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n5b4xr/mold_with_clang_lto_when/",
+      "score": 3,
+      "comments": 18,
+      "post_id": "t3_1n5b4xr",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "Outside-Ad-2459",
+      "author_id": "t2_1wg0q8em10",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-09-01T00:56:29.039000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1n5b4xr/mold_with_clang_lto_when/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "SSL Cert Verification Error during installation",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n5azb6/ssl_cert_verification_error_during_installation/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1n5azb6",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "Listener_Camel",
+      "author_id": "t2_1pcglzearb",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-09-01T00:48:29.175000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1n5azb6/ssl_cert_verification_error_during_installation/",
+      "content_preview": "",
+      "flair": [
+        "Support"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "qemu failed compilation phase",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1mf42nm/qemu_failed_compilation_phase/",
+      "score": 1,
+      "comments": 7,
+      "post_id": "t3_1mf42nm",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "TurtleSoso",
+      "author_id": "t2_vfxez9",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-01T18:21:02.470000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1mf42nm/qemu_failed_compilation_phase/",
+      "content_preview": "",
+      "flair": [
+        "Support"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Can not update system or install any package",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1met341/can_not_update_system_or_install_any_package/",
+      "score": 4,
+      "comments": 5,
+      "post_id": "t3_1met341",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "KOGifter",
+      "author_id": "t2_1e2dr3ykss",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-01T10:39:54.180000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1met341/can_not_update_system_or_install_any_package/",
+      "content_preview": "",
+      "flair": [
+        "Support"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "I'm so happy I'm back to Linux. Hi guys.",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n3d18k/im_so_happy_im_back_to_linux_hi_guys/",
+      "score": 70,
+      "comments": 8,
+      "post_id": "t3_1n3d18k",
+      "post_type": "multi_media",
+      "domain": "self.Gentoo",
+      "author": "C1REX",
+      "author_id": "t2_10w34i",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-29T17:04:10.929000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1n3d18k/im_so_happy_im_back_to_linux_hi_guys/",
+      "content_preview": "",
+      "flair": [
+        "Screenshot"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Arm or Risc V for gentoo.",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1mejcv7/arm_or_risc_v_for_gentoo/",
+      "score": 17,
+      "comments": 9,
+      "post_id": "t3_1mejcv7",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "[deleted]",
+      "author_id": "",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-01T01:21:33.089000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1mejcv7/arm_or_risc_v_for_gentoo/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "polkit IUSE flag daemon does not exist",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1mepwgt/polkit_iuse_flag_daemon_does_not_exist/",
+      "score": 5,
+      "comments": 5,
+      "post_id": "t3_1mepwgt",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "TurtleSoso",
+      "author_id": "t2_vfxez9",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-01T07:18:39.739000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1mepwgt/polkit_iuse_flag_daemon_does_not_exist/",
+      "content_preview": "",
+      "flair": [
+        "Support"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Installation iso head ssh or telnet ?",
+      "permalink": "https://www.reddit.com/r/Gentoo/comments/1n55k5w/installation_iso_head_ssh_or_telnet/",
+      "score": 1,
+      "comments": 7,
+      "post_id": "t3_1n55k5w",
+      "post_type": "text",
+      "domain": "self.Gentoo",
+      "author": "JoeMamaSex420",
+      "author_id": "t2_hy74xxtf0",
+      "subreddit_id": "t5_2qrnc",
+      "subreddit": "r/Gentoo",
+      "created_ts": "2025-08-31T20:43:48.317000+0000",
+      "content_href": "https://www.reddit.com/r/Gentoo/comments/1n55k5w/installation_iso_head_ssh_or_telnet/",
+      "content_preview": "",
+      "flair": [
+        "Support"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    }
+  ],
+  "scraped_at": "2025-09-02T14:28:02.829928"
+}

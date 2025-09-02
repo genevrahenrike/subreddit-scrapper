@@ -1,0 +1,249 @@
+{
+    "community_id": "t5_32cxm",
+    "name": "r/CX5",
+    "url": "/r/CX5/",
+    "rank": 1554,
+    "subscribers_count": 66068,
+    "keywords": [
+        {
+            "term": "cx",
+            "weight": 0.046882,
+            "score": 38.466109,
+            "source": "description+posts"
+        },
+        {
+            "term": "cx5",
+            "weight": 0.034087,
+            "score": 27.967979,
+            "source": "name+posts"
+        },
+        {
+            "term": "mazda",
+            "weight": 0.012622,
+            "score": 10.355858,
+            "source": "description+posts"
+        },
+        {
+            "term": "new car",
+            "weight": 0.010138,
+            "score": 8.318118,
+            "source": "posts"
+        },
+        {
+            "term": "owners",
+            "weight": 0.007995,
+            "score": 6.559578,
+            "source": "description+posts"
+        },
+        {
+            "term": "fun drive",
+            "weight": 0.007742,
+            "score": 6.352098,
+            "source": "posts"
+        },
+        {
+            "term": "turbo",
+            "weight": 0.007262,
+            "score": 5.958758,
+            "source": "posts"
+        },
+        {
+            "term": "club",
+            "weight": 0.006098,
+            "score": 5.003677,
+            "source": "posts"
+        },
+        {
+            "term": "owners like",
+            "weight": 0.006006,
+            "score": 4.927492,
+            "source": "posts"
+        },
+        {
+            "term": "first mazda",
+            "weight": 0.005957,
+            "score": 4.887956,
+            "source": "posts"
+        },
+        {
+            "term": "cars",
+            "weight": 0.004996,
+            "score": 4.098946,
+            "source": "description"
+        },
+        {
+            "term": "modifications",
+            "weight": 0.004996,
+            "score": 4.098946,
+            "source": "description"
+        },
+        {
+            "term": "new car has",
+            "weight": 0.004938,
+            "score": 4.05129,
+            "source": "posts"
+        },
+        {
+            "term": "car has window",
+            "weight": 0.004938,
+            "score": 4.05129,
+            "source": "posts"
+        },
+        {
+            "term": "has window cracked",
+            "weight": 0.004938,
+            "score": 4.05129,
+            "source": "posts"
+        },
+        {
+            "term": "window cracked within",
+            "weight": 0.004938,
+            "score": 4.05129,
+            "source": "posts"
+        },
+        {
+            "term": "just purchased first",
+            "weight": 0.004938,
+            "score": 4.051256,
+            "source": "posts"
+        },
+        {
+            "term": "air filter minute",
+            "weight": 0.004936,
+            "score": 4.050191,
+            "source": "posts"
+        },
+        {
+            "term": "filter minute time",
+            "weight": 0.004936,
+            "score": 4.050191,
+            "source": "posts"
+        },
+        {
+            "term": "cx turbo",
+            "weight": 0.004936,
+            "score": 4.05,
+            "source": "posts"
+        },
+        {
+            "term": "still best looking",
+            "weight": 0.004934,
+            "score": 4.047981,
+            "source": "posts"
+        },
+        {
+            "term": "started showing up",
+            "weight": 0.004931,
+            "score": 4.045506,
+            "source": "posts"
+        },
+        {
+            "term": "transmission",
+            "weight": 0.004918,
+            "score": 4.034888,
+            "source": "posts"
+        },
+        {
+            "term": "just wanted give",
+            "weight": 0.004827,
+            "score": 3.960195,
+            "source": "posts"
+        },
+        {
+            "term": "cabin air filter",
+            "weight": 0.004827,
+            "score": 3.960105,
+            "source": "posts"
+        },
+        {
+            "term": "check engine light",
+            "weight": 0.004821,
+            "score": 3.955639,
+            "source": "posts"
+        },
+        {
+            "term": "wireless",
+            "weight": 0.004783,
+            "score": 3.924704,
+            "source": "posts"
+        },
+        {
+            "term": "picked up beauty",
+            "weight": 0.004726,
+            "score": 3.877555,
+            "source": "posts"
+        },
+        {
+            "term": "zoom",
+            "weight": 0.004723,
+            "score": 3.87485,
+            "source": "posts"
+        },
+        {
+            "term": "wire",
+            "weight": 0.00466,
+            "score": 3.823546,
+            "source": "posts"
+        },
+        {
+            "term": "oil",
+            "weight": 0.00426,
+            "score": 3.495311,
+            "source": "posts"
+        },
+        {
+            "term": "drive",
+            "weight": 0.00412,
+            "score": 3.380685,
+            "source": "posts"
+        },
+        {
+            "term": "support",
+            "weight": 0.003935,
+            "score": 3.228852,
+            "source": "description"
+        },
+        {
+            "term": "window cracked",
+            "weight": 0.003921,
+            "score": 3.217201,
+            "source": "posts"
+        },
+        {
+            "term": "cracked within",
+            "weight": 0.003921,
+            "score": 3.217201,
+            "source": "posts"
+        },
+        {
+            "term": "hard replace",
+            "weight": 0.003921,
+            "score": 3.217101,
+            "source": "posts"
+        },
+        {
+            "term": "lift gate",
+            "weight": 0.003921,
+            "score": 3.216903,
+            "source": "posts"
+        },
+        {
+            "term": "psa having",
+            "weight": 0.00392,
+            "score": 3.216402,
+            "source": "posts"
+        },
+        {
+            "term": "car feels",
+            "weight": 0.00392,
+            "score": 3.216402,
+            "source": "posts"
+        },
+        {
+            "term": "filter minute",
+            "weight": 0.00392,
+            "score": 3.216328,
+            "source": "posts"
+        }
+    ]
+}

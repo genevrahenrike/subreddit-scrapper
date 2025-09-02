@@ -11,13 +11,11 @@ The primary goal is to produce a rank-ordered list of keywords that are thematic
 *   **Phrase-Centric:** The pipeline is biased toward multi-word phrases, ensuring that concepts like "credit card debt" are favored over "credit" and "debt" in isolation.
 *   **Thematic Alignment:** Keywords are scored not only on frequency and uniqueness but also on their relevance to the subreddit's central theme, as defined by its name and description.
 *   **Provenance:** Every keyword is tagged with its source(s) (e.g., `name`, `description`, `posts`, or combinations like `name+posts`), providing clear traceability.
-*   **Scalability and Determinism:** The core pipeline is 100% deterministic and designed to be computationally efficient, allowing for repeatable, low-cost runs across thousands of subreddits.
+*   **Scalability and Determinism:** The core pipeline is 100% deterministic and designed to be computationally efficient, allowing for repeatable, low-cost runs across hundreds of thousands of subreddits.
 
 ## 2. System Architecture: A Multi-Stage Pipeline
 
 The keyword extraction process is a multi-stage pipeline, with each stage progressively refining the keyword set.
-
-  <!-- Placeholder for a real diagram -->
 
 **Stage 1: Document Frequency (DF) Calculation**
 
@@ -114,6 +112,7 @@ python3 keyword_extraction.py \
     --posts-generic-df-ratio 0.10 \
     --posts-drop-generic-unigrams \
     --posts-phrase-boost-bigram 1.35 \
+
 ### Analysis of Composition Behavior: `r/CX5` Example
 
 A test run on `page_31.json`, which contains `r/CX5`, demonstrates the behavior of the theme-anchored composition.
@@ -168,3 +167,110 @@ This distribution allows for the creation of clear, data-driven quality tiers, w
 *   **High-Quality (Score 75-150):** The top 25% of keywords. This tier captures highly relevant phrases and topics central to the community's discourse (e.g., `r/tattooadvice -> tattoo today`).
 *   **Standard (Score 50-75):** The top 50% of keywords. These are generally relevant but may be more niche or less central than the higher tiers.
 *   **Lower-Confidence (<50):** The bottom 50%. This group contains a mix of niche-but-relevant terms, generic conversational phrases, and some noise. The low scores correctly identify these as less thematically important.
+## 5. v2 Upgrades: DF-damped scoring, engagement-decoupled posts, local-TF composition, and targeted semantic boosting
+
+This section documents substantial changes introduced in v2 to address practical weaknesses surfaced by the r/CX5 “oil change” case study and similar niches.
+
+Why these changes
+- Engagement coupling: We removed engagement from being implicitly “baked-in” to quality. Engagement can be useful but volatile (age and platform dynamics). v2 keeps engagement as an optional blend, not a hardwired quality proxy.
+- Weak DF corpus: Descriptions are sparse, and posts corpus (titles) can be thin for many subs. Global DF can overpower locality. v2 damps IDF and strengthens local phrase retainers.
+- Whitelist brittleness: Subject whitelists are editorial overhead and can bias outputs. v2 drops whitelist composition in favor of data-driven local grams, with optional semantic guidance.
+- Better use of embeddings: IDF can suppress valuable terms in sparse data. We leverage embeddings where they help most: as an optional reranker and for seed selection in composition.
+
+What changed (behavioral)
+- Posts engagement decoupled: Per-post TF weight becomes a blend between neutral 1.0 and an engagement factor. Default alpha=0.0 makes engagement “off” by default, allowing you to opt-in.
+- DF power damping: Both description and posts IDF are exponentiated to a 0..1 power to reduce DF dominance. This stabilizes scoring in sparse corpora.
+- Local TF returned for composition: The posts stage now surfaces local bigram/trigram TF (not just TF-IDF), enabling strong local seeds even when IDF is weak or pruning is aggressive.
+- Whitelist composition removed: Composition is now driven by top-M local seeds (TF or TF-IDF or hybrid), optionally reranked semantically. No curated lists required.
+- Targeted embedding usage:
+  - Seed rerank for composition (optional): Use the theme vector to promote semantically relevant seeds (e.g., “oil change”), even if they are low-engagement.
+  - Embedding rerank candidate pooling: Limit semantic reranking to specific source subsets (e.g., posts_composed only) to avoid over-steering the whole list.
+
+New CLI knobs (additive)
+- Engagement blend: 
+  - --posts-engagement-alpha FLOAT (default 0.0)
+- IDF damping:
+  - --desc-idf-power FLOAT (default 0.85)
+  - --posts-idf-power FLOAT (default 0.65)
+- Composition seed source:
+  - --compose-seed-source {posts_tfidf,posts_local_tf,hybrid} (default hybrid)
+  - --compose-seed-embed (enable semantic rerank of seeds)
+  - --compose-seed-embed-alpha FLOAT (default 0.6..0.9 typical)
+- Embedding rerank candidate pool:
+  - --embed-candidate-pool {union,posts,posts_composed,desc,non_name} (default union)
+- Deprecated (kept for compatibility, ignored):
+  - --compose-subjects-path, --compose-subjects-bonus
+
+Design rationale aligned to observed issues
+- Don’t over-index on engagement: Now an optional multiplicative factor controlled by --posts-engagement-alpha. Default 0.0 eliminates accidental bias toward aging/viral artifacts.
+- Reduce DF sway in sparse text: IDF power damping flattens overly sharp DF curves. Combined with existing ensure-K locals, this yields more resilient phrasal coverage from small inputs.
+- Replace whitelist with data: Local TF seeds reflect what the community actually says; optional semantic seed rerank makes those seeds theme-aligned without curation burden.
+- Use embeddings with surgical scope: Rerank only posts_composed (or posts) to steer composed outputs without disturbing global ordering from name/description signals.
+
+Reproduction examples (v2 patterns)
+- Engagement-off, DF-damped, local-TF seeds with semantic seed rerank, rerank only composed outputs:
+  ```
+  python3 keyword_extraction.py \
+      --input-file output/pages/page_31.json \
+      --frontpage-glob 'output/subreddits/*/frontpage.json' \
+      --output-dir output/keywords_v2d \
+      --topk 40 \
+      --name-weight 3.0 \
+      --desc-weight 1.0 \
+      --posts-weight 1.5 \
+      --posts-halflife-days 3650 \
+      --min-df-bigram 2 \
+      --min-df-trigram 2 \
+      --posts-drop-generic-unigrams \
+      --posts-generic-df-ratio 0.10 \
+      --posts-phrase-boost-bigram 1.35 \
+      --posts-phrase-boost-trigram 1.7 \
+      --posts-stopwords-extra config/posts_stopwords_extra.txt \
+      --posts-phrase-stoplist config/posts_phrase_stoplist.txt \
+      --desc-idf-power 0.8 \
+      --posts-idf-power 0.4 \
+      --posts-engagement-alpha 0.0 \
+      --compose-seed-source posts_local_tf \
+      --compose-seed-embed \
+      --compose-seed-embed-alpha 0.9 \
+      --compose-anchor-top-m 200 \
+      --posts-ensure-k 10 \
+      --embed-rerank \
+      --embed-model 'BAAI/bge-small-en-v1.5' \
+      --embed-alpha 0.35 \
+      --embed-k-terms 120 \
+      --embed-candidate-pool posts_composed
+  ```
+  Notes:
+  - Engagement off isolates topicality.
+  - Lower posts IDF power (0.4) suppresses DF overreach.
+  - Seed-embed alpha 0.9 strongly favors thematically pertinent seeds in composition (e.g., “oil change”).
+  - Embedding rerank applied only to posts_composed terms (candidate pool), preserving core ordering elsewhere.
+
+Observed result on r/CX5 (page_31)
+- With the configuration above, the final Top-K contains on-topic terms including:
+  - “cx5”
+  - “cabin air filter” and variants
+  - “oil” (seed presence; whether “oil change” appears depends on exact local TF vs. other seeds, but seed rerank raises its odds without engagement bias)
+- The pipeline no longer requires a subject whitelist to surface these topics; composition derives from the subreddit’s own local content.
+
+Practical guidance
+- If you want stronger composed variants like “Mazda CX-5 oil change”, prefer:
+  - Seed source = posts_local_tf or hybrid
+  - Higher --compose-anchor-top-m to widen seed pool
+  - Higher --compose-seed-embed-alpha if your theme is clean (name + top desc)
+  - Consider --embed-candidate-pool posts_composed so only composed terms are nudged semantically
+
+Where to look in code
+- Implementation and CLI wiring are in [`keyword_extraction.py`](keyword_extraction.py). Search for:
+  - desc-idf-power, posts-idf-power
+  - posts-engagement-alpha
+  - compose-seed-source, compose-seed-embed, compose-seed-embed-alpha
+  - embed-candidate-pool
+- Composition now uses local grams surfaced during posts processing; whitelist composition calls are removed.
+
+LLM as a final optional stage
+- v2 is designed to be a high-quality programmatic baseline. If desired, add a thin LLM pass only on borderline phrases (e.g., to canonicalize wording or dedupe near variants), keeping cost low and provenance intact.
+
+Summary
+- v2 makes the pipeline less brittle in sparse/biased corpora, removes editorial dependence, and uses embeddings where they add semantic lift without becoming the sole arbiter. The result is a more robust, scalable alternative or precursor to LLM-heavy approaches.

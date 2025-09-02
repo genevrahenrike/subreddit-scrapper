@@ -1,0 +1,448 @@
+{
+  "subreddit": "Firebase",
+  "url": "https://www.reddit.com/r/Firebase",
+  "meta": {
+    "title": "Firebase: helping developer to build better apps"
+  },
+  "posts": [
+    {
+      "title": "Checklist of security considerations for firestore",
+      "permalink": "https://www.reddit.com/r/Firebase/comments/1n6ek0a/checklist_of_security_considerations_for_firestore/",
+      "score": 8,
+      "comments": 11,
+      "post_id": "t3_1n6ek0a",
+      "post_type": "text",
+      "domain": "self.Firebase",
+      "author": "bluelake33",
+      "author_id": "t2_w0ye3srm",
+      "subreddit_id": "t5_301qk",
+      "subreddit": "r/Firebase",
+      "created_ts": "2025-09-02T09:06:24.015000+0000",
+      "content_href": "https://www.reddit.com/r/Firebase/comments/1n6ek0a/checklist_of_security_considerations_for_firestore/",
+      "content_preview": "",
+      "flair": [
+        "Security"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Hosting app made in Firebase studio?",
+      "permalink": "https://www.reddit.com/r/Firebase/comments/1n6i37i/hosting_app_made_in_firebase_studio/",
+      "score": 3,
+      "comments": 6,
+      "post_id": "t3_1n6i37i",
+      "post_type": "text",
+      "domain": "self.Firebase",
+      "author": "MyKidCanSing",
+      "author_id": "t2_3tslap7",
+      "subreddit_id": "t5_301qk",
+      "subreddit": "r/Firebase",
+      "created_ts": "2025-09-02T12:27:08.731000+0000",
+      "content_href": "https://www.reddit.com/r/Firebase/comments/1n6i37i/hosting_app_made_in_firebase_studio/",
+      "content_preview": "",
+      "flair": [
+        "Hosting"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Hosting Images where? Is Spark plan real?",
+      "permalink": "https://www.reddit.com/r/Firebase/comments/1n6i913/hosting_images_where_is_spark_plan_real/",
+      "score": 2,
+      "comments": 6,
+      "post_id": "t3_1n6i913",
+      "post_type": "multi_media",
+      "domain": "self.Firebase",
+      "author": "MyKidCanSing",
+      "author_id": "t2_3tslap7",
+      "subreddit_id": "t5_301qk",
+      "subreddit": "r/Firebase",
+      "created_ts": "2025-09-02T12:34:43.666000+0000",
+      "content_href": "https://www.reddit.com/r/Firebase/comments/1n6i913/hosting_images_where_is_spark_plan_real/",
+      "content_preview": "",
+      "flair": [
+        "General"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "need help with google AI studios, Cant seem to get to let me log into my webapp from the studio",
+      "permalink": "https://www.reddit.com/r/Firebase/comments/1n6nh6h/need_help_with_google_ai_studios_cant_seem_to_get/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1n6nh6h",
+      "post_type": "text",
+      "domain": "self.Firebase",
+      "author": "ImpressiveBig9572",
+      "author_id": "t2_ayntnhal",
+      "subreddit_id": "t5_301qk",
+      "subreddit": "r/Firebase",
+      "created_ts": "2025-09-02T16:01:50.292000+0000",
+      "content_href": "https://www.reddit.com/r/Firebase/comments/1n6nh6h/need_help_with_google_ai_studios_cant_seem_to_get/",
+      "content_preview": "",
+      "flair": [
+        "Firebase Studio"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Firestore.rules or Rule tab in Firestore",
+      "permalink": "https://www.reddit.com/r/Firebase/comments/1n6cngq/firestorerules_or_rule_tab_in_firestore/",
+      "score": 2,
+      "comments": 4,
+      "post_id": "t3_1n6cngq",
+      "post_type": "text",
+      "domain": "self.Firebase",
+      "author": "thnaks-for-nothing",
+      "author_id": "t2_9dhp0fik",
+      "subreddit_id": "t5_301qk",
+      "subreddit": "r/Firebase",
+      "created_ts": "2025-09-02T07:00:15.958000+0000",
+      "content_href": "https://www.reddit.com/r/Firebase/comments/1n6cngq/firestorerules_or_rule_tab_in_firestore/",
+      "content_preview": "",
+      "flair": [
+        "Firebase Studio"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Firebase rules error",
+      "permalink": "https://www.reddit.com/r/Firebase/comments/1n6hm3o/firebase_rules_error/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n6hm3o",
+      "post_type": "text",
+      "domain": "self.Firebase",
+      "author": "EffectiveLet2117",
+      "author_id": "t2_venkrchk",
+      "subreddit_id": "t5_301qk",
+      "subreddit": "r/Firebase",
+      "created_ts": "2025-09-02T12:03:39.849000+0000",
+      "content_href": "https://www.reddit.com/r/Firebase/comments/1n6hm3o/firebase_rules_error/",
+      "content_preview": "",
+      "flair": [
+        "General"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Image sizes - how to ask fb studio correctly?",
+      "permalink": "https://www.reddit.com/r/Firebase/comments/1n6ie4m/image_sizes_how_to_ask_fb_studio_correctly/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n6ie4m",
+      "post_type": "multi_media",
+      "domain": "self.Firebase",
+      "author": "MyKidCanSing",
+      "author_id": "t2_3tslap7",
+      "subreddit_id": "t5_301qk",
+      "subreddit": "r/Firebase",
+      "created_ts": "2025-09-02T12:41:24.007000+0000",
+      "content_href": "https://www.reddit.com/r/Firebase/comments/1n6ie4m/image_sizes_how_to_ask_fb_studio_correctly/",
+      "content_preview": "",
+      "flair": [
+        "Firebase Studio"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Login issues",
+      "permalink": "https://www.reddit.com/r/Firebase/comments/1n60yso/login_issues/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1n60yso",
+      "post_type": "text",
+      "domain": "self.Firebase",
+      "author": "Electronic-Note-195",
+      "author_id": "t2_1fsdfjhwmb",
+      "subreddit_id": "t5_301qk",
+      "subreddit": "r/Firebase",
+      "created_ts": "2025-09-01T21:14:09.578000+0000",
+      "content_href": "https://www.reddit.com/r/Firebase/comments/1n60yso/login_issues/",
+      "content_preview": "",
+      "flair": [
+        "Console"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Hosting question",
+      "permalink": "https://www.reddit.com/r/Firebase/comments/1n5vq6j/hosting_question/",
+      "score": 3,
+      "comments": 9,
+      "post_id": "t3_1n5vq6j",
+      "post_type": "text",
+      "domain": "self.Firebase",
+      "author": "POKEOC",
+      "author_id": "t2_1h7mxr01xo",
+      "subreddit_id": "t5_301qk",
+      "subreddit": "r/Firebase",
+      "created_ts": "2025-09-01T17:55:23.002000+0000",
+      "content_href": "https://www.reddit.com/r/Firebase/comments/1n5vq6j/hosting_question/",
+      "content_preview": "",
+      "flair": [
+        "General"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Help please. Need to move frontend + firebase B2B app to a Multi-Tenant architecture",
+      "permalink": "https://www.reddit.com/r/Firebase/comments/1n5stur/help_please_need_to_move_frontend_firebase_b2b/",
+      "score": 4,
+      "comments": 14,
+      "post_id": "t3_1n5stur",
+      "post_type": "text",
+      "domain": "self.Firebase",
+      "author": "Active_Jackfruit5065",
+      "author_id": "t2_8eqqrr8v",
+      "subreddit_id": "t5_301qk",
+      "subreddit": "r/Firebase",
+      "created_ts": "2025-09-01T16:08:40.331000+0000",
+      "content_href": "https://www.reddit.com/r/Firebase/comments/1n5stur/help_please_need_to_move_frontend_firebase_b2b/",
+      "content_preview": "",
+      "flair": [
+        "General"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Help please. Need to connect my app to firestore database",
+      "permalink": "https://www.reddit.com/r/Firebase/comments/1n65n1o/help_please_need_to_connect_my_app_to_firestore/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n65n1o",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Unlucky-Table847",
+      "author_id": "t2_1ehpwgxp0k",
+      "subreddit_id": "t5_301qk",
+      "subreddit": "r/Firebase",
+      "created_ts": "2025-09-02T00:40:45.874000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n65n1o",
+      "content_preview": "",
+      "flair": [
+        "General"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "CNAME not propagating",
+      "permalink": "https://www.reddit.com/r/Firebase/comments/1n52091/cname_not_propagating/",
+      "score": 1,
+      "comments": 9,
+      "post_id": "t3_1n52091",
+      "post_type": "text",
+      "domain": "self.Firebase",
+      "author": "ccrrr2",
+      "author_id": "t2_b8b2zdor",
+      "subreddit_id": "t5_301qk",
+      "subreddit": "r/Firebase",
+      "created_ts": "2025-08-31T18:21:52.504000+0000",
+      "content_href": "https://www.reddit.com/r/Firebase/comments/1n52091/cname_not_propagating/",
+      "content_preview": "",
+      "flair": [
+        "App Hosting"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How to best get support from the community",
+      "permalink": "https://www.reddit.com/r/Firebase/comments/1n4e1f5/how_to_best_get_support_from_the_community/",
+      "score": 10,
+      "comments": 0,
+      "post_id": "t3_1n4e1f5",
+      "post_type": "text",
+      "domain": "self.Firebase",
+      "author": "inlined",
+      "author_id": "t2_7a6gh",
+      "subreddit_id": "t5_301qk",
+      "subreddit": "r/Firebase",
+      "created_ts": "2025-08-30T22:09:25.184000+0000",
+      "content_href": "https://www.reddit.com/r/Firebase/comments/1n4e1f5/how_to_best_get_support_from_the_community/",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_b4gy4/styles/profileIcon_1jy86qxjjijb1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=487dc1950d2ab5cbd76c2d95463fb0ff49754d6d"
+    },
+    {
+      "title": "Firebase Analytics for Godot Game Engine",
+      "permalink": "https://www.reddit.com/r/Firebase/comments/1n4q1i6/firebase_analytics_for_godot_game_engine/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n4q1i6",
+      "post_type": "text",
+      "domain": "self.Firebase",
+      "author": "External_Opening2387",
+      "author_id": "t2_56c1ngthc",
+      "subreddit_id": "t5_301qk",
+      "subreddit": "r/Firebase",
+      "created_ts": "2025-08-31T09:07:03.120000+0000",
+      "content_href": "https://www.reddit.com/r/Firebase/comments/1n4q1i6/firebase_analytics_for_godot_game_engine/",
+      "content_preview": "",
+      "flair": [
+        "Google Analytics"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_b6z4z9/styles/profileIcon_6t76dcqo1iie1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=355a662ab51731a8139de138e542183d877b2bc2"
+    },
+    {
+      "title": "What are the best sources to learn Firebase?",
+      "permalink": "https://www.reddit.com/r/Firebase/comments/1n4al4i/what_are_the_best_sources_to_learn_firebase/",
+      "score": 3,
+      "comments": 16,
+      "post_id": "t3_1n4al4i",
+      "post_type": "text",
+      "domain": "self.Firebase",
+      "author": "Atrociouscel",
+      "author_id": "t2_1vjaamjpc4",
+      "subreddit_id": "t5_301qk",
+      "subreddit": "r/Firebase",
+      "created_ts": "2025-08-30T19:39:52.498000+0000",
+      "content_href": "https://www.reddit.com/r/Firebase/comments/1n4al4i/what_are_the_best_sources_to_learn_firebase/",
+      "content_preview": "",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Firebase Storage, Please Guide.",
+      "permalink": "https://www.reddit.com/r/Firebase/comments/1n45egb/firebase_storage_please_guide/",
+      "score": 4,
+      "comments": 12,
+      "post_id": "t3_1n45egb",
+      "post_type": "multi_media",
+      "domain": "self.Firebase",
+      "author": "Hakim_lukha420",
+      "author_id": "t2_bc1x2jwap",
+      "subreddit_id": "t5_301qk",
+      "subreddit": "r/Firebase",
+      "created_ts": "2025-08-30T16:06:42.836000+0000",
+      "content_href": "https://www.reddit.com/r/Firebase/comments/1n45egb/firebase_storage_please_guide/",
+      "content_preview": "",
+      "flair": [
+        "Cloud Storage"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[BUG] Flutter & Firebase Authentication Remember not working on Android, but works on iOS?",
+      "permalink": "https://www.reddit.com/r/Firebase/comments/1n4a6du/bug_flutter_firebase_authentication_remember_not/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1n4a6du",
+      "post_type": "text",
+      "domain": "self.Firebase",
+      "author": "aptal_orospu",
+      "author_id": "t2_v9iyowm0",
+      "subreddit_id": "t5_301qk",
+      "subreddit": "r/Firebase",
+      "created_ts": "2025-08-30T19:22:22.873000+0000",
+      "content_href": "https://www.reddit.com/r/Firebase/comments/1n4a6du/bug_flutter_firebase_authentication_remember_not/",
+      "content_preview": "",
+      "flair": [
+        "Authentication"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Deployment size limits in Firebase 2nd functions",
+      "permalink": "https://www.reddit.com/r/Firebase/comments/1n458o9/deployment_size_limits_in_firebase_2nd_functions/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n458o9",
+      "post_type": "text",
+      "domain": "self.Firebase",
+      "author": "LeonLiu2022",
+      "author_id": "t2_vp761jtx",
+      "subreddit_id": "t5_301qk",
+      "subreddit": "r/Firebase",
+      "created_ts": "2025-08-30T16:00:19.837000+0000",
+      "content_href": "https://www.reddit.com/r/Firebase/comments/1n458o9/deployment_size_limits_in_firebase_2nd_functions/",
+      "content_preview": "",
+      "flair": [
+        "General"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Squarespace dns",
+      "permalink": "https://www.reddit.com/r/Firebase/comments/1n4702c/squarespace_dns/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n4702c",
+      "post_type": "text",
+      "domain": "self.Firebase",
+      "author": "POKEOC",
+      "author_id": "t2_1h7mxr01xo",
+      "subreddit_id": "t5_301qk",
+      "subreddit": "r/Firebase",
+      "created_ts": "2025-08-30T17:12:00.052000+0000",
+      "content_href": "https://www.reddit.com/r/Firebase/comments/1n4702c/squarespace_dns/",
+      "content_preview": "",
+      "flair": [
+        "General"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How do you handle migrating your firestore database to new schema/data structure?",
+      "permalink": "https://www.reddit.com/r/Firebase/comments/1n3thz1/how_do_you_handle_migrating_your_firestore/",
+      "score": 4,
+      "comments": 9,
+      "post_id": "t3_1n3thz1",
+      "post_type": "text",
+      "domain": "self.Firebase",
+      "author": "Previous-Display-593",
+      "author_id": "t2_dox6j199n",
+      "subreddit_id": "t5_301qk",
+      "subreddit": "r/Firebase",
+      "created_ts": "2025-08-30T05:24:58.556000+0000",
+      "content_href": "https://www.reddit.com/r/Firebase/comments/1n3thz1/how_do_you_handle_migrating_your_firestore/",
+      "content_preview": "",
+      "flair": [
+        "Cloud Firestore"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How do you all handle building internal tools on Firestore?",
+      "permalink": "https://www.reddit.com/r/Firebase/comments/1n3v9tx/how_do_you_all_handle_building_internal_tools_on/",
+      "score": 1,
+      "comments": 3,
+      "post_id": "t3_1n3v9tx",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Visual-Pen-2465",
+      "author_id": "t2_1wqdxyq9iz",
+      "subreddit_id": "t5_301qk",
+      "subreddit": "r/Firebase",
+      "created_ts": "2025-08-30T07:13:12.131000+0000",
+      "content_href": "https://i.redd.it/layukoq1x3mf1.png",
+      "content_preview": "",
+      "flair": [
+        "General"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Google Cloud doesn't accept debit card ... am I screwed?",
+      "permalink": "https://www.reddit.com/r/Firebase/comments/1n3je70/google_cloud_doesnt_accept_debit_card_am_i_screwed/",
+      "score": 4,
+      "comments": 24,
+      "post_id": "t3_1n3je70",
+      "post_type": "text",
+      "domain": "self.Firebase",
+      "author": "Due_Cartographer_375",
+      "author_id": "t2_cs02kd74",
+      "subreddit_id": "t5_301qk",
+      "subreddit": "r/Firebase",
+      "created_ts": "2025-08-29T21:11:44.129000+0000",
+      "content_href": "https://www.reddit.com/r/Firebase/comments/1n3je70/google_cloud_doesnt_accept_debit_card_am_i_screwed/",
+      "content_preview": "",
+      "flair": [
+        "Billing"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    }
+  ],
+  "scraped_at": "2025-09-02T14:20:48.900193"
+}

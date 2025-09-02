@@ -1,0 +1,1010 @@
+{
+  "subreddit": "functionalprogramming",
+  "url": "https://www.reddit.com/r/functionalprogramming",
+  "meta": {
+    "title": "Functional Programming"
+  },
+  "posts": [
+    {
+      "title": "Check my understanding, please",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1n13sf2/check_my_understanding_please/",
+      "score": 9,
+      "comments": 6,
+      "post_id": "t3_1n13sf2",
+      "post_type": "text",
+      "domain": "self.functionalprogramming",
+      "author": "c__beck",
+      "author_id": "t2_17j8gx",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-08-27T01:19:58.029000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1n13sf2/check_my_understanding_please/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_933jn/styles/profileIcon_zfhpqfadidef1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c8310c5102ade4ecc3de885050434e6fd61d947b"
+    },
+    {
+      "title": "I need help in converting my friends to FP",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1n0opz0/i_need_help_in_converting_my_friends_to_fp/",
+      "score": 0,
+      "comments": 5,
+      "post_id": "t3_1n0opz0",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "saiprabhav",
+      "author_id": "t2_darx5f1a",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-08-26T15:19:52.727000+0000",
+      "content_href": "/r/haskell/comments/1n0oo2x/i_need_help_in_converting_my_friends_to_fp/",
+      "content_preview": "",
+      "flair": [
+        "Intro to FP"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Growing the Java Language #JVMLS by Brian Goetz",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1my6ris/growing_the_java_language_jvmls_by_brian_goetz/",
+      "score": 7,
+      "comments": 6,
+      "post_id": "t3_1my6ris",
+      "post_type": "crosspost",
+      "domain": "youtube.com",
+      "author": "joemwangi",
+      "author_id": "t2_4g1fuz7z",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-08-23T17:00:02.329000+0000",
+      "content_href": "/r/java/comments/1mwaba5/growing_the_java_language_jvmls_by_brian_goetz/",
+      "content_preview": "",
+      "flair": [
+        "Java"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "\"When is a Function a Fold, or an Unfold?\" - Jeremy Gibbons",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1mwk124/when_is_a_function_a_fold_or_an_unfold_jeremy/",
+      "score": 13,
+      "comments": 0,
+      "post_id": "t3_1mwk124",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "mttd",
+      "author_id": "t2_6gkbb",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-08-21T19:03:27.060000+0000",
+      "content_href": "https://www.youtube.com/watch?v=ubGgoYszP28",
+      "content_preview": "",
+      "flair": [
+        "FP"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Counterexamples of typeclasses",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1mvowqv/counterexamples_of_typeclasses/",
+      "score": 10,
+      "comments": 2,
+      "post_id": "t3_1mvowqv",
+      "post_type": "multi_media",
+      "domain": "self.functionalprogramming",
+      "author": "Adventurous_Fill7251",
+      "author_id": "t2_5jxxiua0w",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-08-20T19:36:23.859000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1mvowqv/counterexamples_of_typeclasses/",
+      "content_preview": "",
+      "flair": [
+        "FP"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8v9noh/styles/profileIcon_nqp4osaf0klc1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=81e3b07097118bf0e74444d1303df9261a360652"
+    },
+    {
+      "title": "Meet the game-changers bringing cutting-edge BEAM insights to CodeBEAM Europe 2025!",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1mvaiwk/meet_the_gamechangers_bringing_cuttingedge_beam/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1mvaiwk",
+      "post_type": "multi_media",
+      "domain": "self.functionalprogramming",
+      "author": "Code_Sync",
+      "author_id": "t2_1dpemefrdv",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-08-20T09:59:00.765000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1mvaiwk/meet_the_gamechangers_bringing_cuttingedge_beam/",
+      "content_preview": "",
+      "flair": [
+        "FP"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "We’re building global-scale systems with Elixir/Erlang. Hiring a Senior Backend Engineer role at Telnyx",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1muhrk3/were_building_globalscale_systems_with/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1muhrk3",
+      "post_type": "multi_media",
+      "domain": "self.functionalprogramming",
+      "author": "Impressive-Waltz-122",
+      "author_id": "t2_1vzy1qn08h",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-08-19T13:01:10.554000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1muhrk3/were_building_globalscale_systems_with/",
+      "content_preview": "",
+      "flair": [
+        "Jobs"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Roc for embedded?",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1mub7xc/roc_for_embedded/",
+      "score": 8,
+      "comments": 0,
+      "post_id": "t3_1mub7xc",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Voxelman",
+      "author_id": "t2_2pod2q6",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-08-19T06:57:33.677000+0000",
+      "content_href": "/r/roc_lang/comments/1mub7m6/roc_for_embedded/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Wed, Aug 20 @ 7pm Central (0:00 UTC) -- Eric Normand, \"On Domain Modeling\"",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1mtwz0y/wed_aug_20_7pm_central_000_utc_eric_normand_on/",
+      "score": 7,
+      "comments": 3,
+      "post_id": "t3_1mtwz0y",
+      "post_type": "text",
+      "domain": "self.functionalprogramming",
+      "author": "ClaudeRubinson",
+      "author_id": "t2_6vw6iuq",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-08-18T20:07:51.075000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1mtwz0y/wed_aug_20_7pm_central_000_utc_eric_normand_on/",
+      "content_preview": "",
+      "flair": [
+        "Meetup"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Does this weakening of functional programming rules have a name, and static analysis tools, please?",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1ms50c7/does_this_weakening_of_functional_programming/",
+      "score": 15,
+      "comments": 9,
+      "post_id": "t3_1ms50c7",
+      "post_type": "multi_media",
+      "domain": "self.functionalprogramming",
+      "author": "akb74",
+      "author_id": "t2_xu1ik",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-08-16T19:23:38.055000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1ms50c7/does_this_weakening_of_functional_programming/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Come to Warsaw for the On-Site FUN OCaml 2025",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1mrs4s5/come_to_warsaw_for_the_onsite_fun_ocaml_2025/",
+      "score": 10,
+      "comments": 0,
+      "post_id": "t3_1mrs4s5",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "davesnx",
+      "author_id": "t2_eech9",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-08-16T11:06:50.750000+0000",
+      "content_href": "/r/ocaml/comments/1mrls8z/reminder_come_to_warsaw_for_the_onsite_fun_ocaml/",
+      "content_preview": "",
+      "flair": [
+        "FP"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "August 20 ACM TechTalk with José Pedro Magalhães on Functional Programming in Financial Markets",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1mqx9oy/august_20_acm_techtalk_with_josé_pedro_magalhães/",
+      "score": 18,
+      "comments": 1,
+      "post_id": "t3_1mqx9oy",
+      "post_type": "multi_media",
+      "domain": "self.functionalprogramming",
+      "author": "ACMLearning",
+      "author_id": "t2_cd4qjhv",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-08-15T13:04:52.364000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1mqx9oy/august_20_acm_techtalk_with_jos%C3%A9_pedro_magalh%C3%A3es/",
+      "content_preview": "",
+      "flair": [
+        "FP"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Admiran: a pure, lazy, functional language and self-hosting compiler",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1mpvxqu/admiran_a_pure_lazy_functional_language_and/",
+      "score": 13,
+      "comments": 0,
+      "post_id": "t3_1mpvxqu",
+      "post_type": "crosspost",
+      "domain": "github.com",
+      "author": "kinow",
+      "author_id": "t2_3l5fe",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-08-14T09:38:36.250000+0000",
+      "content_href": "/r/altprog/comments/1mphxhg/admiran_a_pure_lazy_functional_language_and/",
+      "content_preview": "",
+      "flair": [
+        "Miranda"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/HuJmtAUP3oyFnU6_pGm06fBFeRjgZMLUnGQFyaz4Cmk.png?width=140&height=70&crop=140:70,smart&auto=webp&s=047c19a9a1cb981d8ffcb2adb4403fd3438b8166"
+    },
+    {
+      "title": "Anyone switched from mainstream languages?",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1mq2z4r/anyone_switched_from_mainstream_languages/",
+      "score": 4,
+      "comments": 2,
+      "post_id": "t3_1mq2z4r",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Icy_Cry_9586",
+      "author_id": "t2_r31b7vkgd",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-08-14T14:56:10.770000+0000",
+      "content_href": "/r/elixir/comments/1mq2y1v/anyone_switched_from_mainstream_languages/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "The FP pitch",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1mpsprb/the_fp_pitch/",
+      "score": 8,
+      "comments": 4,
+      "post_id": "t3_1mpsprb",
+      "post_type": "link",
+      "domain": "adabeat.com",
+      "author": "MagnusSedlacek",
+      "author_id": "t2_b53pobmh",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-08-14T06:24:08.432000+0000",
+      "content_href": "https://adabeat.com/fp/the-fp-pitch/",
+      "content_preview": "",
+      "flair": [
+        "FP"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "From Super Bowl to Olympics: How CyanView Powers the World's Biggest Broadcasts With Elixir",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1mo1aj5/from_super_bowl_to_olympics_how_cyanview_powers/",
+      "score": 12,
+      "comments": 3,
+      "post_id": "t3_1mo1aj5",
+      "post_type": "link",
+      "domain": "codebeameurope.com",
+      "author": "Code_Sync",
+      "author_id": "t2_1dpemefrdv",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-08-12T06:31:22.866000+0000",
+      "content_href": "https://codebeameurope.com/talks/how-cyanview-powers-the-world-s-biggest-broadcasts-with-elixir/",
+      "content_preview": "",
+      "flair": [
+        "FP"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Binary search—think positive",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1mn4gvh/binary_searchthink_positive/",
+      "score": 14,
+      "comments": 2,
+      "post_id": "t3_1mn4gvh",
+      "post_type": "link",
+      "domain": "doi.org",
+      "author": "mttd",
+      "author_id": "t2_6gkbb",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-08-11T05:19:09.271000+0000",
+      "content_href": "https://doi.org/10.1017/S0956796825000061",
+      "content_preview": "",
+      "flair": [
+        "FP"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "How to think in higher order programming?",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1mmm4xr/how_to_think_in_higher_order_programming/",
+      "score": 13,
+      "comments": 9,
+      "post_id": "t3_1mmm4xr",
+      "post_type": "text",
+      "domain": "self.functionalprogramming",
+      "author": "ssbprofound",
+      "author_id": "t2_ipohvnz2n",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-08-10T15:56:27.064000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1mmm4xr/how_to_think_in_higher_order_programming/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_97yhwc/styles/profileIcon_k3x9qx804qoe1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3dc2977bd587b36f98d658d6d5a9ee41ab9d4f54"
+    },
+    {
+      "title": "Using dependent types to implement security policies in Agda and Lean (for experts and beginners)",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1mjxma7/using_dependent_types_to_implement_security/",
+      "score": 7,
+      "comments": 0,
+      "post_id": "t3_1mjxma7",
+      "post_type": "text",
+      "domain": "self.functionalprogramming",
+      "author": "mattdreddit",
+      "author_id": "t2_liafsp1o",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-08-07T11:33:46.925000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1mjxma7/using_dependent_types_to_implement_security/",
+      "content_preview": "",
+      "flair": [
+        "FP"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Strategies for Functional Programming in IO-heavy Programs?",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1mfytca/strategies_for_functional_programming_in_ioheavy/",
+      "score": 35,
+      "comments": 25,
+      "post_id": "t3_1mfytca",
+      "post_type": "text",
+      "domain": "self.functionalprogramming",
+      "author": "Tecoloteller",
+      "author_id": "t2_nls5hk8",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-08-02T19:18:49.295000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1mfytca/strategies_for_functional_programming_in_ioheavy/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Keynote announcement for ElixirConf US 2025 - Josh Price - founder of Alembic",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1meu0qz/keynote_announcement_for_elixirconf_us_2025_josh/",
+      "score": 9,
+      "comments": 0,
+      "post_id": "t3_1meu0qz",
+      "post_type": "link",
+      "domain": "elixirconf.com",
+      "author": "Code_Sync",
+      "author_id": "t2_1dpemefrdv",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-08-01T11:32:02.239000+0000",
+      "content_href": "https://elixirconf.com/participants/josh-price/",
+      "content_preview": "",
+      "flair": [
+        "FP"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "The Design and Implementation of Extensible Variants for Rust in CGP",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1me0c00/the_design_and_implementation_of_extensible/",
+      "score": 6,
+      "comments": 0,
+      "post_id": "t3_1me0c00",
+      "post_type": "link",
+      "domain": "contextgeneric.dev",
+      "author": "soareschen",
+      "author_id": "t2_jfz0l",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-07-31T12:33:40.293000+0000",
+      "content_href": "https://contextgeneric.dev/blog/extensible-datatypes-part-4/",
+      "content_preview": "",
+      "flair": [
+        "Rust"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/J9Ww-A_XkFHv1wBE3AKGsqLnlKRtaKpJ1Qm-_wqckZA.png?width=140&height=140&crop=140:140,smart&auto=webp&s=32a9542ce1f6f1a41d568ad701f3c57ba60d653c"
+    },
+    {
+      "title": "Func Prog Conf 2025 - 15 October, Stockholm",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1md92i0/func_prog_conf_2025_15_october_stockholm/",
+      "score": 15,
+      "comments": 3,
+      "post_id": "t3_1md92i0",
+      "post_type": "link",
+      "domain": "funcprogconf.com",
+      "author": "MagnusSedlacek",
+      "author_id": "t2_b53pobmh",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-07-30T15:07:31.860000+0000",
+      "content_href": "https://funcprogconf.com/",
+      "content_preview": "",
+      "flair": [
+        "Conferences"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Beginner Haskell code review for Project Euler #50 (so that I wont live under a rock)",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1mcjqfv/beginner_haskell_code_review_for_project_euler_50/",
+      "score": 6,
+      "comments": 0,
+      "post_id": "t3_1mcjqfv",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "saiprabhav",
+      "author_id": "t2_darx5f1a",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-07-29T18:41:48.782000+0000",
+      "content_href": "/r/haskell/comments/1mcjoky/beginner_haskell_code_review_for_project_euler_50/",
+      "content_preview": "",
+      "flair": [
+        "Haskell"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Swift-erlang-actor-system: Bringing Erlang’s Actor Model Principles to Swift Concurrency",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1m7ts2z/swifterlangactorsystem_bringing_erlangs_actor/",
+      "score": 6,
+      "comments": 0,
+      "post_id": "t3_1m7ts2z",
+      "post_type": "link",
+      "domain": "study-from-here.com",
+      "author": "Maleficent-Sir-6925",
+      "author_id": "t2_18yvtab12k",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-07-24T03:30:44.315000+0000",
+      "content_href": "https://www.study-from-here.com/2025/07/swift-erlang-actor-system-actor-model.html",
+      "content_preview": "",
+      "flair": [
+        "Swift"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Alternative (less pure) Haskell",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1m6zmxc/alternative_less_pure_haskell/",
+      "score": 34,
+      "comments": 31,
+      "post_id": "t3_1m6zmxc",
+      "post_type": "text",
+      "domain": "self.functionalprogramming",
+      "author": "kichiDsimp",
+      "author_id": "t2_rjpyjyd9",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-07-23T04:16:23.366000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1m6zmxc/alternative_less_pure_haskell/",
+      "content_preview": "",
+      "flair": [
+        "FP"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Functional State Management",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1m6c17j/functional_state_management/",
+      "score": 18,
+      "comments": 16,
+      "post_id": "t3_1m6c17j",
+      "post_type": "text",
+      "domain": "self.functionalprogramming",
+      "author": "c__beck",
+      "author_id": "t2_17j8gx",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-07-22T11:53:16.563000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1m6c17j/functional_state_management/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_933jn/styles/profileIcon_zfhpqfadidef1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c8310c5102ade4ecc3de885050434e6fd61d947b"
+    },
+    {
+      "title": "The agenda for ElixirConf US 2025 is now live",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1m673fm/the_agenda_for_elixirconf_us_2025_is_now_live/",
+      "score": 4,
+      "comments": 1,
+      "post_id": "t3_1m673fm",
+      "post_type": "link",
+      "domain": "elixirconf.com",
+      "author": "Code_Sync",
+      "author_id": "t2_1dpemefrdv",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-07-22T06:51:05.347000+0000",
+      "content_href": "https://elixirconf.com/#schedule",
+      "content_preview": "",
+      "flair": [
+        "Conferences"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/bqDfKYVgjdBoVgvyETjF5uTxpFg_9cLwbWHbtmk6UMI.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=90823f2a820aa3f862ac5cf7aa5fc4970a8287d4"
+    },
+    {
+      "title": "Does anyone know the difference between these two books: grokking simplicity vs grokking functional programming",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1m2qban/does_anyone_know_the_difference_between_these_two/",
+      "score": 14,
+      "comments": 3,
+      "post_id": "t3_1m2qban",
+      "post_type": "multi_media",
+      "domain": "self.functionalprogramming",
+      "author": "Newjackcityyyy",
+      "author_id": "t2_8ipuvfm0x",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-07-18T02:15:09.978000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1m2qban/does_anyone_know_the_difference_between_these_two/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "My disFunctional brain can't make this functional",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1m2lems/my_disfunctional_brain_cant_make_this_functional/",
+      "score": 7,
+      "comments": 22,
+      "post_id": "t3_1m2lems",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "jpgoldberg",
+      "author_id": "t2_59hh7",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-07-17T22:29:12.900000+0000",
+      "content_href": "/r/PythonLearning/comments/1m0rldb/my_disfunctional_brain_cant_make_this_functional/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Hazel: A live functional programming environment with typed holes",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1m17ucn/hazel_a_live_functional_programming_environment/",
+      "score": 22,
+      "comments": 0,
+      "post_id": "t3_1m17ucn",
+      "post_type": "crosspost",
+      "domain": "github.com",
+      "author": "kinow",
+      "author_id": "t2_3l5fe",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-07-16T09:11:09.100000+0000",
+      "content_href": "/r/ProgrammingLanguages/comments/1m0r7s0/hazel_a_live_functional_programming_environment/",
+      "content_preview": "",
+      "flair": [
+        "FP"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/XEkjVL43aFME_ORYLoyOsIgpPWltQFn9oG_CC9osurE.png?width=140&height=70&crop=140:70,smart&auto=webp&s=7f1bfd4fb0294827e6b0bda4c5e39e37a9f4314f"
+    },
+    {
+      "title": "A collection of resources about continuation-passing style",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1m164h6/a_collection_of_resources_about/",
+      "score": 9,
+      "comments": 4,
+      "post_id": "t3_1m164h6",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "[deleted]",
+      "author_id": "",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-07-16T07:17:43.597000+0000",
+      "content_href": "https://github.com/etiams/cps-resources",
+      "content_preview": "",
+      "flair": [
+        "FP"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/o4wG0C4MBKZF2FvYVkNp-ELvVGu62INE5VJeBVXC23w.png?width=140&height=70&crop=140:70,smart&auto=webp&s=9cf835892138c121feba30cb59542dbdcdcee657"
+    },
+    {
+      "title": "Par Lang — Primitives, I/O, All New Documentation (Book) + upcoming demo",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1m0j8ai/par_lang_primitives_io_all_new_documentation_book/",
+      "score": 9,
+      "comments": 0,
+      "post_id": "t3_1m0j8ai",
+      "post_type": "multi_media",
+      "domain": "self.functionalprogramming",
+      "author": "faiface",
+      "author_id": "t2_jw23d",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-07-15T14:28:01.015000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1m0j8ai/par_lang_primitives_io_all_new_documentation_book/",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Wed, July 16 at 7pm Central: Shae Erisson, “Haskell Community, Past and Present”",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1lzt6va/wed_july_16_at_7pm_central_shae_erisson_haskell/",
+      "score": 11,
+      "comments": 3,
+      "post_id": "t3_1lzt6va",
+      "post_type": "text",
+      "domain": "self.functionalprogramming",
+      "author": "ClaudeRubinson",
+      "author_id": "t2_6vw6iuq",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-07-14T17:46:54.432000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1lzt6va/wed_july_16_at_7pm_central_shae_erisson_haskell/",
+      "content_preview": "",
+      "flair": [
+        "Meetup"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Conferences & Talks",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1lz2jv7/conferences_talks/",
+      "score": 12,
+      "comments": 10,
+      "post_id": "t3_1lz2jv7",
+      "post_type": "text",
+      "domain": "self.functionalprogramming",
+      "author": "kichiDsimp",
+      "author_id": "t2_rjpyjyd9",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-07-13T20:11:32.323000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1lz2jv7/conferences_talks/",
+      "content_preview": "",
+      "flair": [
+        "FP"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "The Design and Implementation of Extensible Records for Rust in CGP",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1ly5xm5/the_design_and_implementation_of_extensible/",
+      "score": 8,
+      "comments": 1,
+      "post_id": "t3_1ly5xm5",
+      "post_type": "link",
+      "domain": "contextgeneric.dev",
+      "author": "soareschen",
+      "author_id": "t2_jfz0l",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-07-12T17:24:50.548000+0000",
+      "content_href": "https://contextgeneric.dev/blog/extensible-datatypes-part-3/",
+      "content_preview": "",
+      "flair": [
+        "FP"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/J9Ww-A_XkFHv1wBE3AKGsqLnlKRtaKpJ1Qm-_wqckZA.png?width=140&height=140&crop=140:140,smart&auto=webp&s=32a9542ce1f6f1a41d568ad701f3c57ba60d653c"
+    },
+    {
+      "title": "Building Modular Interpreters and Visitors in Rust with Extensible Variants and CGP",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1lw9285/building_modular_interpreters_and_visitors_in/",
+      "score": 7,
+      "comments": 0,
+      "post_id": "t3_1lw9285",
+      "post_type": "link",
+      "domain": "contextgeneric.dev",
+      "author": "soareschen",
+      "author_id": "t2_jfz0l",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-07-10T10:14:46.873000+0000",
+      "content_href": "https://contextgeneric.dev/blog/extensible-datatypes-part-2/",
+      "content_preview": "",
+      "flair": [
+        "FP"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/J9Ww-A_XkFHv1wBE3AKGsqLnlKRtaKpJ1Qm-_wqckZA.png?width=140&height=140&crop=140:140,smart&auto=webp&s=32a9542ce1f6f1a41d568ad701f3c57ba60d653c"
+    },
+    {
+      "title": "why not Lisp/Haskell used for MachineLearning/AI",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1luzgia/why_not_lisphaskell_used_for_machinelearningai/",
+      "score": 55,
+      "comments": 66,
+      "post_id": "t3_1luzgia",
+      "post_type": "text",
+      "domain": "self.functionalprogramming",
+      "author": "kichiDsimp",
+      "author_id": "t2_rjpyjyd9",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-07-08T20:30:59.497000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1luzgia/why_not_lisphaskell_used_for_machinelearningai/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How much C++ do I have to know to read CTFP by Bartosz Milewski?",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1lunrvm/how_much_c_do_i_have_to_know_to_read_ctfp_by/",
+      "score": 30,
+      "comments": 8,
+      "post_id": "t3_1lunrvm",
+      "post_type": "text",
+      "domain": "self.functionalprogramming",
+      "author": "StarchSyrup",
+      "author_id": "t2_7w2vwsgc",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-07-08T12:52:22.739000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1lunrvm/how_much_c_do_i_have_to_know_to_read_ctfp_by/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Programming Extensible Data Types in Rust with CGP - Part 1: Modular App Construction and Extensible Builders",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1lukikg/programming_extensible_data_types_in_rust_with/",
+      "score": 17,
+      "comments": 1,
+      "post_id": "t3_1lukikg",
+      "post_type": "link",
+      "domain": "contextgeneric.dev",
+      "author": "soareschen",
+      "author_id": "t2_jfz0l",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-07-08T09:52:34.508000+0000",
+      "content_href": "https://contextgeneric.dev/blog/extensible-datatypes-part-1/",
+      "content_preview": "",
+      "flair": [
+        "FP"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/J9Ww-A_XkFHv1wBE3AKGsqLnlKRtaKpJ1Qm-_wqckZA.png?width=140&height=140&crop=140:140,smart&auto=webp&s=32a9542ce1f6f1a41d568ad701f3c57ba60d653c"
+    },
+    {
+      "title": "Roc Dev Log Update - 3 Jul 2025",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1lqh5aw/roc_dev_log_update_3_jul_2025/",
+      "score": 20,
+      "comments": 7,
+      "post_id": "t3_1lqh5aw",
+      "post_type": "text",
+      "domain": "self.functionalprogramming",
+      "author": "bosyluke",
+      "author_id": "t2_11imbq",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-07-03T05:03:35.813000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1lqh5aw/roc_dev_log_update_3_jul_2025/",
+      "content_preview": "",
+      "flair": [
+        "FP"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "OCaml 2025 - OCaml Users and Developers Workshop 2025",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1llnhck/ocaml_2025_ocaml_users_and_developers_workshop/",
+      "score": 12,
+      "comments": 1,
+      "post_id": "t3_1llnhck",
+      "post_type": "link",
+      "domain": "conf.researchr.org",
+      "author": "kinow",
+      "author_id": "t2_3l5fe",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-06-27T07:05:17.126000+0000",
+      "content_href": "https://conf.researchr.org/home/icfp-splash-2025/ocaml-2025",
+      "content_preview": "",
+      "flair": [
+        "Conferences"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/C1lSnrv8GMDOdbDmgav5DOHUzJN_jmEGYoXcCncRrSk.jpeg?width=140&height=48&crop=140:48,smart&auto=webp&s=d1214a4192a136f0773baf5b08469264bf198873"
+    },
+    {
+      "title": "A Brief Introduction to Normalization-By-Evaluation",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1licu9z/a_brief_introduction_to_normalizationbyevaluation/",
+      "score": 6,
+      "comments": 0,
+      "post_id": "t3_1licu9z",
+      "post_type": "link",
+      "domain": "gist.github.com",
+      "author": "[deleted]",
+      "author_id": "",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-06-23T10:11:41.033000+0000",
+      "content_href": "https://gist.github.com/etiams/7fbb66a46b2a43be908ccd4015d00fb9",
+      "content_preview": "",
+      "flair": [
+        "λ Calculus"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/OAXSl8SY6T3JK9MGQyKxkoYbqZ71HQRYXLeB8CV0NXg.png?width=140&height=70&crop=140:70,smart&auto=webp&s=860827c40786984aceaec490ca6f31c8ff592e0d"
+    },
+    {
+      "title": "Drop your favourite book about any topic in Computer Science / Programming",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1lg71xe/drop_your_favourite_book_about_any_topic_in/",
+      "score": 52,
+      "comments": 54,
+      "post_id": "t3_1lg71xe",
+      "post_type": "text",
+      "domain": "self.functionalprogramming",
+      "author": "kichiDsimp",
+      "author_id": "t2_rjpyjyd9",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-06-20T15:36:15.395000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1lg71xe/drop_your_favourite_book_about_any_topic_in/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "A Lévy-optimal lambda calculus reducer with a backdoor to C",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1lf7tdy/a_lévyoptimal_lambda_calculus_reducer_with_a/",
+      "score": 12,
+      "comments": 0,
+      "post_id": "t3_1lf7tdy",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "[deleted]",
+      "author_id": "",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-06-19T10:53:20.366000+0000",
+      "content_href": "https://github.com/etiams/optiscope",
+      "content_preview": "",
+      "flair": [
+        "λ Calculus"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/bboeU1EhEDgz1s5aE1leA3BO7bpeLJto0hRaSrV24Hw.png?width=140&height=70&crop=140:70,smart&auto=webp&s=576fc96e3a0cb1cd50dedf19f257f400e3e1d24f"
+    },
+    {
+      "title": "🎉 Early bird tickets for Code BEAM Europe 2025 are now live!",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1ldjkdi/early_bird_tickets_for_code_beam_europe_2025_are/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1ldjkdi",
+      "post_type": "multi_media",
+      "domain": "self.functionalprogramming",
+      "author": "Code_Sync",
+      "author_id": "t2_1dpemefrdv",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-06-17T10:25:00.399000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1ldjkdi/early_bird_tickets_for_code_beam_europe_2025_are/",
+      "content_preview": "",
+      "flair": [
+        "Conferences"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Wed, Jun 18 at 7pm Central (0:00 UTC): Emily Bernier, \"Functional Programming at the Recurse Center\"",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1lczubz/wed_jun_18_at_7pm_central_000_utc_emily_bernier/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1lczubz",
+      "post_type": "text",
+      "domain": "self.functionalprogramming",
+      "author": "ClaudeRubinson",
+      "author_id": "t2_6vw6iuq",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-06-16T17:58:43.971000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1lczubz/wed_jun_18_at_7pm_central_000_utc_emily_bernier/",
+      "content_preview": "",
+      "flair": [
+        "Meetup"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "What’s your favourite way to explain a monad to a beginner?",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1lc3yvf/whats_your_favourite_way_to_explain_a_monad_to_a/",
+      "score": 56,
+      "comments": 68,
+      "post_id": "t3_1lc3yvf",
+      "post_type": "text",
+      "domain": "self.functionalprogramming",
+      "author": "jonothecool",
+      "author_id": "t2_5bsftzyz",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-06-15T16:09:24.890000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1lc3yvf/whats_your_favourite_way_to_explain_a_monad_to_a/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Boxed Impredicative Polymorphism",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1lcfxrd/boxed_impredicative_polymorphism/",
+      "score": 5,
+      "comments": 1,
+      "post_id": "t3_1lcfxrd",
+      "post_type": "multi_media",
+      "domain": "self.functionalprogramming",
+      "author": "Adventurous_Fill7251",
+      "author_id": "t2_5jxxiua0w",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-06-16T00:58:06.544000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1lcfxrd/boxed_impredicative_polymorphism/",
+      "content_preview": "",
+      "flair": [
+        "FP"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8v9noh/styles/profileIcon_nqp4osaf0klc1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=81e3b07097118bf0e74444d1303df9261a360652"
+    },
+    {
+      "title": "DSL tutorial and why?",
+      "permalink": "https://www.reddit.com/r/functionalprogramming/comments/1lc7gxj/dsl_tutorial_and_why/",
+      "score": 9,
+      "comments": 5,
+      "post_id": "t3_1lc7gxj",
+      "post_type": "text",
+      "domain": "self.functionalprogramming",
+      "author": "kichiDsimp",
+      "author_id": "t2_rjpyjyd9",
+      "subreddit_id": "t5_2vcmg",
+      "subreddit": "r/functionalprogramming",
+      "created_ts": "2025-06-15T18:34:03.848000+0000",
+      "content_href": "https://www.reddit.com/r/functionalprogramming/comments/1lc7gxj/dsl_tutorial_and_why/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    }
+  ],
+  "scraped_at": "2025-09-02T14:25:05.771983"
+}

@@ -1,0 +1,1010 @@
+{
+  "subreddit": "AutoHotkey",
+  "url": "https://www.reddit.com/r/AutoHotkey",
+  "meta": {
+    "title": "AutoHotkey"
+  },
+  "posts": [
+    {
+      "title": "AutoHotkey hotkeys do not work in games (neither full screen nor window mode), even when running as administrator.",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1n64v0z/autohotkey_hotkeys_do_not_work_in_games_neither/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n64v0z",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "Goiaba_lua",
+      "author_id": "t2_101gdfas74",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-09-02T00:03:59.867000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1n64v0z/autohotkey_hotkeys_do_not_work_in_games_neither/",
+      "content_preview": "",
+      "flair": [
+        "v2 Script Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Can't Download AHK",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1n2wchi/cant_download_ahk/",
+      "score": 5,
+      "comments": 2,
+      "post_id": "t3_1n2wchi",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "kennethxdelaney",
+      "author_id": "t2_2n16oqk4",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-29T03:06:00.003000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1n2wchi/cant_download_ahk/",
+      "content_preview": "",
+      "flair": [
+        "General Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Can InputHook() ignore KeePassXC's password auto-typing?",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1n5ssm5/can_inputhook_ignore_keepassxcs_password/",
+      "score": 1,
+      "comments": 3,
+      "post_id": "t3_1n5ssm5",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "Dymonika",
+      "author_id": "t2_b432daag",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-09-01T16:07:21.403000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1n5ssm5/can_inputhook_ignore_keepassxcs_password/",
+      "content_preview": "",
+      "flair": [
+        "General Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Radify - A radial menu launcher with multi-ring layouts, submenus and interactive items",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mjdbs7/radify_a_radial_menu_launcher_with_multiring/",
+      "score": 19,
+      "comments": 7,
+      "post_id": "t3_1mjdbs7",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "XMCQCX",
+      "author_id": "t2_5fngwuhk",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-06T18:56:56.942000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mjdbs7/radify_a_radial_menu_launcher_with_multiring/",
+      "content_preview": "",
+      "flair": [
+        "v2 Tool / Script Share"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Simple Firefox remapping issue on v1 but not v2",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1n56xby/simple_firefox_remapping_issue_on_v1_but_not_v2/",
+      "score": 2,
+      "comments": 5,
+      "post_id": "t3_1n56xby",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "AlanyYAB",
+      "author_id": "t2_1688wz",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-31T21:40:27.951000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1n56xby/simple_firefox_remapping_issue_on_v1_but_not_v2/",
+      "content_preview": "",
+      "flair": [
+        "General Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "UTF-8 percent-encoded sequence - The bain of my existence %E2%8B%86",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1n2op08/utf8_percentencoded_sequence_the_bain_of_my/",
+      "score": 4,
+      "comments": 10,
+      "post_id": "t3_1n2op08",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "shibiku_",
+      "author_id": "t2_15p6ul",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-28T21:22:14.673000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1n2op08/utf8_percentencoded_sequence_the_bain_of_my/",
+      "content_preview": "",
+      "flair": [
+        "Solved!"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Numpad to Keyboard Numbers",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1n52rte/numpad_to_keyboard_numbers/",
+      "score": 1,
+      "comments": 13,
+      "post_id": "t3_1n52rte",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "Hypnyp",
+      "author_id": "t2_akj33",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-31T18:52:48.556000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1n52rte/numpad_to_keyboard_numbers/",
+      "content_preview": "",
+      "flair": [
+        "v2 Script Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Blackout Non-Primary Monitor(s) When Mouse hasn't Moved for a While",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mwwc9b/blackout_nonprimary_monitors_when_mouse_hasnt/",
+      "score": 0,
+      "comments": 8,
+      "post_id": "t3_1mwwc9b",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "RyzaJr",
+      "author_id": "t2_5tm9tlf3",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-22T03:55:36.691000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mwwc9b/blackout_nonprimary_monitors_when_mouse_hasnt/",
+      "content_preview": "",
+      "flair": [
+        "Solved!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Why is AutoHotkey not considered a programming language if it can make small games and has everything a programming language has?",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mpyeki/why_is_autohotkey_not_considered_a_programming/",
+      "score": 18,
+      "comments": 24,
+      "post_id": "t3_1mpyeki",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "FutureLynx_",
+      "author_id": "t2_rx2lvqbm4",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-14T11:50:09.347000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mpyeki/why_is_autohotkey_not_considered_a_programming/",
+      "content_preview": "",
+      "flair": [
+        "General Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Jumping with mouse wheel down",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1n3k1mz/jumping_with_mouse_wheel_down/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1n3k1mz",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "kruultibijski4321",
+      "author_id": "t2_9v7xp5dg",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-29T21:38:43.729000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1n3k1mz/jumping_with_mouse_wheel_down/",
+      "content_preview": "",
+      "flair": [
+        "v1 Script Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How can I make so that the function which created a GUI returns the selected value stored inside the variable 'tag'",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1n2btvp/how_can_i_make_so_that_the_function_which_created/",
+      "score": 3,
+      "comments": 4,
+      "post_id": "t3_1n2btvp",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "14AUDDIN",
+      "author_id": "t2_3iqtjye5",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-28T13:11:08.943000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1n2btvp/how_can_i_make_so_that_the_function_which_created/",
+      "content_preview": "",
+      "flair": [
+        "v2 Script Help"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_z2p36/styles/profileIcon_60uv22vy8p2a1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a2c46f84e9f8868da354cce2a47f7ed47dc4c47a"
+    },
+    {
+      "title": "Trying to learn",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1n3ecta/trying_to_learn/",
+      "score": 1,
+      "comments": 10,
+      "post_id": "t3_1n3ecta",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "Mitsor",
+      "author_id": "t2_12zhpkc8",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-29T17:53:39.165000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1n3ecta/trying_to_learn/",
+      "content_preview": "",
+      "flair": [
+        "v2 Script Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Gui.Destroy Issue",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1n2li9p/guidestroy_issue/",
+      "score": 3,
+      "comments": 6,
+      "post_id": "t3_1n2li9p",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "karme13",
+      "author_id": "t2_4j336g0c",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-28T19:18:39.506000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1n2li9p/guidestroy_issue/",
+      "content_preview": "",
+      "flair": [
+        "v2 Script Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "How do i make this button consume a click and not let it go through the window below:",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mzxmwi/how_do_i_make_this_button_consume_a_click_and_not/",
+      "score": 2,
+      "comments": 5,
+      "post_id": "t3_1mzxmwi",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "FutureLynx_",
+      "author_id": "t2_rx2lvqbm4",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-25T17:55:35.857000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mzxmwi/how_do_i_make_this_button_consume_a_click_and_not/",
+      "content_preview": "",
+      "flair": [
+        "v1 Script Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Borderless Fullscreen pretty much anything! (v2)",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mprexz/borderless_fullscreen_pretty_much_anything_v2/",
+      "score": 17,
+      "comments": 3,
+      "post_id": "t3_1mprexz",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "Tagswell",
+      "author_id": "t2_mw96jms",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-14T05:10:52.800000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mprexz/borderless_fullscreen_pretty_much_anything_v2/",
+      "content_preview": "",
+      "flair": [
+        "v2 Tool / Script Share"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Improvement request for my English Text Replacement script",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mzxkae/improvement_request_for_my_english_text/",
+      "score": 2,
+      "comments": 11,
+      "post_id": "t3_1mzxkae",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "starmensxd",
+      "author_id": "t2_3rfcnu16",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-25T17:52:59.871000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mzxkae/improvement_request_for_my_english_text/",
+      "content_preview": "",
+      "flair": [
+        "v2 Script Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Trying to update my autoclicker",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1n1st45/trying_to_update_my_autoclicker/",
+      "score": 3,
+      "comments": 9,
+      "post_id": "t3_1n1st45",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "Megageeko",
+      "author_id": "t2_fafeh",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-27T20:53:06.565000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1n1st45/trying_to_update_my_autoclicker/",
+      "content_preview": "",
+      "flair": [
+        "v2 Script Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I need control to act as shift",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mz6v13/i_need_control_to_act_as_shift/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1mz6v13",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "Betterthenit",
+      "author_id": "t2_bixtpvxi",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-24T20:41:20.885000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mz6v13/i_need_control_to_act_as_shift/",
+      "content_preview": "",
+      "flair": [
+        "v1 Script Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Drawing Crosshairs to track mouse?",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1n08yhv/drawing_crosshairs_to_track_mouse/",
+      "score": 3,
+      "comments": 12,
+      "post_id": "t3_1n08yhv",
+      "post_type": "multi_media",
+      "domain": "self.AutoHotkey",
+      "author": "KubosKube",
+      "author_id": "t2_hlenv",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-26T01:33:20.847000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1n08yhv/drawing_crosshairs_to_track_mouse/",
+      "content_preview": "",
+      "flair": [
+        "Solved!"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Emailing AHK Scripts",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1n2pshy/emailing_ahk_scripts/",
+      "score": 2,
+      "comments": 8,
+      "post_id": "t3_1n2pshy",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "Ethic_IceDno",
+      "author_id": "t2_1uphfp2pi6",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-28T22:06:58.338000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1n2pshy/emailing_ahk_scripts/",
+      "content_preview": "",
+      "flair": [
+        "General Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Created a simple class that will show each monitor's number along with some options.",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mig1hi/created_a_simple_class_that_will_show_each/",
+      "score": 16,
+      "comments": 0,
+      "post_id": "t3_1mig1hi",
+      "post_type": "multi_media",
+      "domain": "self.AutoHotkey",
+      "author": "GroggyOtter",
+      "author_id": "t2_e04hs",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-05T17:47:42.143000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mig1hi/created_a_simple_class_that_will_show_each/",
+      "content_preview": "",
+      "flair": [
+        "v2 Tool / Script Share"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1swt9d/styles/profileIcon_eqg27li0se0c1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6fb396ca11dfeadfd54989571006eb60ba6ea19c"
+    },
+    {
+      "title": "which is better running ahk scripts without compiling are running them after compilation to .exe files??",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mym8r9/which_is_better_running_ahk_scripts_without/",
+      "score": 4,
+      "comments": 8,
+      "post_id": "t3_1mym8r9",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "chrnz00",
+      "author_id": "t2_1nm5eqdiu0",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-24T04:29:17.089000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mym8r9/which_is_better_running_ahk_scripts_without/",
+      "content_preview": "",
+      "flair": [
+        "General Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Can't use hotstrings in notepad??",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mr5l7c/cant_use_hotstrings_in_notepad/",
+      "score": 11,
+      "comments": 14,
+      "post_id": "t3_1mr5l7c",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "Trevo_De_40_Folhas",
+      "author_id": "t2_5u2dq8au",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-15T18:08:57.149000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mr5l7c/cant_use_hotstrings_in_notepad/",
+      "content_preview": "",
+      "flair": [
+        "v2 Script Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "can't do \"run 'code **an existing folder**'\"",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mvk19c/cant_do_run_code_an_existing_folder/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1mvk19c",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "Mr_ATLAS_07",
+      "author_id": "t2_nx36s7wy",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-20T16:41:47.002000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mvk19c/cant_do_run_code_an_existing_folder/",
+      "content_preview": "",
+      "flair": [
+        "v2 Script Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Sometimes click acts strange",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1my9f7i/sometimes_click_acts_strange/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1my9f7i",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "Claghorn",
+      "author_id": "t2_k35loh",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-23T18:41:32.984000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1my9f7i/sometimes_click_acts_strange/",
+      "content_preview": "",
+      "flair": [
+        "v2 Script Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Passing method as an argument, \"missing required parameter\"",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mxykc9/passing_method_as_an_argument_missing_required/",
+      "score": 4,
+      "comments": 10,
+      "post_id": "t3_1mxykc9",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "ubeogesh",
+      "author_id": "t2_b6g9q",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-23T11:06:13.131000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mxykc9/passing_method_as_an_argument_missing_required/",
+      "content_preview": "",
+      "flair": [
+        "v2 Script Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Hotstring with specified key names? (like NumpadDot)",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mwt75j/hotstring_with_specified_key_names_like_numpaddot/",
+      "score": 2,
+      "comments": 4,
+      "post_id": "t3_1mwt75j",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "HemlockIV",
+      "author_id": "t2_t86uu09e",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-22T01:22:09.513000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mwt75j/hotstring_with_specified_key_names_like_numpaddot/",
+      "content_preview": "",
+      "flair": [
+        "v2 Script Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I need help with the formatting of a message.",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mq752i/i_need_help_with_the_formatting_of_a_message/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1mq752i",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "LuisPinaIII",
+      "author_id": "t2_ldd1h",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-14T17:27:02.617000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mq752i/i_need_help_with_the_formatting_of_a_message/",
+      "content_preview": "",
+      "flair": [
+        "v2 Script Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How would you go about making an autoclick script with a random delay between both left click down, and left click up?",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mpfr9x/how_would_you_go_about_making_an_autoclick_script/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1mpfr9x",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "Allegorist",
+      "author_id": "t2_51e22",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-13T20:32:00.254000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mpfr9x/how_would_you_go_about_making_an_autoclick_script/",
+      "content_preview": "",
+      "flair": [
+        "v2 Script Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "snipman - snippet manager with a masscode integration",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mjk48x/snipman_snippet_manager_with_a_masscode/",
+      "score": 11,
+      "comments": 4,
+      "post_id": "t3_1mjk48x",
+      "post_type": "multi_media",
+      "domain": "self.AutoHotkey",
+      "author": "xp0a",
+      "author_id": "t2_pa3ehqqzk",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-06T23:23:35.468000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mjk48x/snipman_snippet_manager_with_a_masscode/",
+      "content_preview": "",
+      "flair": [
+        "v2 Tool / Script Share"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Two gui indicators -- why wont they combine??",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mws7th/two_gui_indicators_why_wont_they_combine/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1mws7th",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "Fit-Locksmith-8536",
+      "author_id": "t2_1w618ut7ur",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-22T00:36:56.823000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mws7th/two_gui_indicators_why_wont_they_combine/",
+      "content_preview": "",
+      "flair": [
+        "v1 Script Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Multiple File zipping using winrar",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mubxuq/multiple_file_zipping_using_winrar/",
+      "score": 1,
+      "comments": 10,
+      "post_id": "t3_1mubxuq",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "rabbit_says",
+      "author_id": "t2_3fcga08y",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-19T07:41:57.502000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mubxuq/multiple_file_zipping_using_winrar/",
+      "content_preview": "",
+      "flair": [
+        "Solved!"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Hyprland like window dragging using AHK",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1n2mfxs/hyprland_like_window_dragging_using_ahk/",
+      "score": 1,
+      "comments": 10,
+      "post_id": "t3_1n2mfxs",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "Prestigious-Aide-782",
+      "author_id": "t2_oidr0qrzj",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-28T19:54:47.545000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1n2mfxs/hyprland_like_window_dragging_using_ahk/",
+      "content_preview": "",
+      "flair": [
+        "v2 Script Help"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bcuub6/styles/profileIcon_ozlowrjaj84f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c054356b9415573679c75ab3fff97b890be07efd"
+    },
+    {
+      "title": "Plug and play option",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mtzstg/plug_and_play_option/",
+      "score": 1,
+      "comments": 3,
+      "post_id": "t3_1mtzstg",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "spykhan",
+      "author_id": "t2_8izzvmr8",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-18T21:53:22.389000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mtzstg/plug_and_play_option/",
+      "content_preview": "",
+      "flair": [
+        "General Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Idle Time not working in V2",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mp89x1/idle_time_not_working_in_v2/",
+      "score": 0,
+      "comments": 5,
+      "post_id": "t3_1mp89x1",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "micro0637",
+      "author_id": "t2_gti66",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-13T15:55:20.483000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mp89x1/idle_time_not_working_in_v2/",
+      "content_preview": "",
+      "flair": [
+        "v2 Script Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Generate Powerful RESTful API Clients in AutoHotkey",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mvfgpf/generate_powerful_restful_api_clients_in/",
+      "score": 10,
+      "comments": 3,
+      "post_id": "t3_1mvfgpf",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "levitat0r",
+      "author_id": "t2_2z86wlki",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-20T13:54:30.877000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mvfgpf/generate_powerful_restful_api_clients_in/",
+      "content_preview": "",
+      "flair": [
+        "v2 Tool / Script Share"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Include not working as expected.",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mtxjg4/include_not_working_as_expected/",
+      "score": 0,
+      "comments": 26,
+      "post_id": "t3_1mtxjg4",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "EntertainerFlat3894",
+      "author_id": "t2_drk5eci7",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-18T20:28:45.527000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mtxjg4/include_not_working_as_expected/",
+      "content_preview": "",
+      "flair": [
+        "v1 Script Help"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4xiouj/styles/profileIcon_bhy56sgcha2a1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8996bd59245cb9bffa3872894a67240b59570232"
+    },
+    {
+      "title": "Script to Automatically Switch Display When In-and-Out of Steam Big Picture Mode?",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1ms5w9c/script_to_automatically_switch_display_when/",
+      "score": 3,
+      "comments": 10,
+      "post_id": "t3_1ms5w9c",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "Xngears",
+      "author_id": "t2_4a1v2",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-16T19:56:52.468000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1ms5w9c/script_to_automatically_switch_display_when/",
+      "content_preview": "",
+      "flair": [
+        "General Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "CLI Errors for Vibecoding?",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mqyuz7/cli_errors_for_vibecoding/",
+      "score": 0,
+      "comments": 14,
+      "post_id": "t3_1mqyuz7",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "Arty-McLabin",
+      "author_id": "t2_8wrqbnay",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-15T14:06:46.499000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mqyuz7/cli_errors_for_vibecoding/",
+      "content_preview": "",
+      "flair": [
+        "General Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Script won't work with Restart Button on Case?",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1moksz8/script_wont_work_with_restart_button_on_case/",
+      "score": 0,
+      "comments": 10,
+      "post_id": "t3_1moksz8",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "shmuga9",
+      "author_id": "t2_i2uad",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-12T20:58:39.200000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1moksz8/script_wont_work_with_restart_button_on_case/",
+      "content_preview": "",
+      "flair": [
+        "Solved!"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1ph4v2/styles/profileIcon_jq4cws2v6gx51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4fa703e9b991925abadc9ef5513f1e772b923696"
+    },
+    {
+      "title": "Identifying window of a Whatsapp Call",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mqu42f/identifying_window_of_a_whatsapp_call/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1mqu42f",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "slamdz",
+      "author_id": "t2_17fjr8v2",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-15T10:40:59.963000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mqu42f/identifying_window_of_a_whatsapp_call/",
+      "content_preview": "",
+      "flair": [
+        "v1 Script Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Help With Script for App Testing",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mlwnhe/help_with_script_for_app_testing/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1mlwnhe",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "DrDarhk",
+      "author_id": "t2_7n0wdpqq",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-09T18:32:56.174000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mlwnhe/help_with_script_for_app_testing/",
+      "content_preview": "",
+      "flair": [
+        "General Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Edge PDF Reader's Hotkeys for Pen Tablet Users - Toggle Pen, Eraser, and Highlighter Easily",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mjb9iw/edge_pdf_readers_hotkeys_for_pen_tablet_users/",
+      "score": 9,
+      "comments": 9,
+      "post_id": "t3_1mjb9iw",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "azharfahry",
+      "author_id": "t2_6mbj7orr",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-06T17:39:31.756000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mjb9iw/edge_pdf_readers_hotkeys_for_pen_tablet_users/",
+      "content_preview": "",
+      "flair": [
+        "v2 Tool / Script Share"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Do we need a roblox tag?",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mlpjeq/do_we_need_a_roblox_tag/",
+      "score": 0,
+      "comments": 16,
+      "post_id": "t3_1mlpjeq",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "shibiku_",
+      "author_id": "t2_15p6ul",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-09T13:32:37.984000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mlpjeq/do_we_need_a_roblox_tag/",
+      "content_preview": "",
+      "flair": [
+        "Meta / Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Noob needs help turning the numpad into a shift knob for a driving game.",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mjub6e/noob_needs_help_turning_the_numpad_into_a_shift/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1mjub6e",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "Honkert45",
+      "author_id": "t2_721cr3k8w",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-07T08:14:15.487000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mjub6e/noob_needs_help_turning_the_numpad_into_a_shift/",
+      "content_preview": "",
+      "flair": [
+        "v2 Script Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "I want to start steam in Big Picture mode only if it starts with the xbox controller if not, no.",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mpdqkr/i_want_to_start_steam_in_big_picture_mode_only_if/",
+      "score": 1,
+      "comments": 3,
+      "post_id": "t3_1mpdqkr",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "MobileResponse3289",
+      "author_id": "t2_b4lehvdt",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-13T19:16:10.665000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mpdqkr/i_want_to_start_steam_in_big_picture_mode_only_if/",
+      "content_preview": "",
+      "flair": [
+        "General Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Looking to have a macro for Starfield, any help would be appreciated.",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mjs0yq/looking_to_have_a_macro_for_starfield_any_help/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1mjs0yq",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "valora86",
+      "author_id": "t2_1kz2jevmbd",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-07T05:50:42.649000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mjs0yq/looking_to_have_a_macro_for_starfield_any_help/",
+      "content_preview": "",
+      "flair": [
+        "General Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "How do you keep your scripts organized? How do you generally work with them?",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mpexz3/how_do_you_keep_your_scripts_organized_how_do_you/",
+      "score": 8,
+      "comments": 17,
+      "post_id": "t3_1mpexz3",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "shibiku_",
+      "author_id": "t2_15p6ul",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-13T20:01:18.584000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mpexz3/how_do_you_keep_your_scripts_organized_how_do_you/",
+      "content_preview": "",
+      "flair": [
+        "General Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Passing files from Windows explorer to python as sys.argv[] - snippet",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mqdfyc/passing_files_from_windows_explorer_to_python_as/",
+      "score": 8,
+      "comments": 1,
+      "post_id": "t3_1mqdfyc",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "shibiku_",
+      "author_id": "t2_15p6ul",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-14T21:13:02.178000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mqdfyc/passing_files_from_windows_explorer_to_python_as/",
+      "content_preview": "",
+      "flair": [
+        "v2 Tool / Script Share"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Check mulitple checkbox",
+      "permalink": "https://www.reddit.com/r/AutoHotkey/comments/1mm1o9a/check_mulitple_checkbox/",
+      "score": 1,
+      "comments": 10,
+      "post_id": "t3_1mm1o9a",
+      "post_type": "text",
+      "domain": "self.AutoHotkey",
+      "author": "Linkso",
+      "author_id": "t2_hzr4u",
+      "subreddit_id": "t5_2rodl",
+      "subreddit": "r/AutoHotkey",
+      "created_ts": "2025-08-09T22:06:25.591000+0000",
+      "content_href": "https://www.reddit.com/r/AutoHotkey/comments/1mm1o9a/check_mulitple_checkbox/",
+      "content_preview": "",
+      "flair": [
+        "v2 Script Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    }
+  ],
+  "scraped_at": "2025-09-02T14:34:35.118965"
+}

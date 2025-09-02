@@ -1,0 +1,1028 @@
+{
+  "subreddit": "djangolearning",
+  "url": "https://www.reddit.com/r/djangolearning",
+  "meta": {
+    "title": "Let's learn Django"
+  },
+  "posts": [
+    {
+      "title": "Welcome to r/djangolearning",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1l4ynd5/welcome_to_rdjangolearning/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1l4ynd5",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "community-home",
+      "author_id": "t2_16j20gdyjv",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-06-06T17:44:16.836000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1l4ynd5/welcome_to_rdjangolearning/",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Issue with tailwind when project deployed",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1my6ql5/issue_with_tailwind_when_project_deployed/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1my6ql5",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "WebGlum8383",
+      "author_id": "t2_1vwr4dx68w",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-08-23T16:58:58.883000+0000",
+      "content_href": "/r/django/comments/1my6q1e/issue_with_tailwind_when_project_deployed/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Deployment"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Roadmap to Become Python Developer",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1mxaxjn/roadmap_to_become_python_developer/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1mxaxjn",
+      "post_type": "multi_media",
+      "domain": "self.djangolearning",
+      "author": "santosh-vandari",
+      "author_id": "t2_d47pocor4",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-08-22T16:18:26.640000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1mxaxjn/roadmap_to_become_python_developer/",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8sg21a/styles/profileIcon_emnl2pdvmg7f1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=318eb457f07c097399d9cea52223fd7b2b5917d1"
+    },
+    {
+      "title": "Should I use AI for my templates generation",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1mxjxr8/should_i_use_ai_for_my_templates_generation/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1mxjxr8",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "AccomplishedRide2353",
+      "author_id": "t2_17z2j45sn5",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-08-22T22:06:04.953000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1mxjxr8/should_i_use_ai_for_my_templates_generation/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Getting Started"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Inspiration Tuesday",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1muo3ec/inspiration_tuesday/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1muo3ec",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "Thalimet",
+      "author_id": "t2_48uoi12e",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-08-19T16:55:18.116000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1muo3ec/inspiration_tuesday/",
+      "content_preview": "",
+      "flair": [
+        "Discussion / Meta"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Where Do You Normally Deploy Your Django Web Apps?",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1mpv9ro/where_do_you_normally_deploy_your_django_web_apps/",
+      "score": 5,
+      "comments": 7,
+      "post_id": "t3_1mpv9ro",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Love_of_LDIM",
+      "author_id": "t2_1s8nzsqeb0",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-08-14T08:58:38.312000+0000",
+      "content_href": "/r/django/comments/1mpv9da/where_do_you_normally_deploy_your_django_web_apps/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Deployment"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Can we use shadecn on Django template",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1mp700f/can_we_use_shadecn_on_django_template/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1mp700f",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Loud_Ice4487",
+      "author_id": "t2_1tr2l4b9jd",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-08-13T15:06:42.495000+0000",
+      "content_href": "/r/django/comments/1mp6w87/can_we_use_shadecn_on_django_template/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Does creating a new CMS system based on django make sense?",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1mn2hqt/does_creating_a_new_cms_system_based_on_django/",
+      "score": 3,
+      "comments": 15,
+      "post_id": "t3_1mn2hqt",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "fullstackdev-channel",
+      "author_id": "t2_vhlh9iwx",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-08-11T03:31:06.994000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1mn2hqt/does_creating_a_new_cms_system_based_on_django/",
+      "content_preview": "",
+      "flair": [
+        "Discussion / Meta"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How to properly register a user",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1mmdsb6/how_to_properly_register_a_user/",
+      "score": 1,
+      "comments": 14,
+      "post_id": "t3_1mmdsb6",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "Ludzik",
+      "author_id": "t2_kam86",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-08-10T09:04:09.216000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1mmdsb6/how_to_properly_register_a_user/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Getting Started"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_blwop/styles/profileIcon_7gn5jgajwp9f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=bbbc5259b5fed40a8ff58f98a3a5dd94091353c2"
+    },
+    {
+      "title": "Question about Django Ninja and method order for POST/GET",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1mkumo4/question_about_django_ninja_and_method_order_for/",
+      "score": 3,
+      "comments": 2,
+      "post_id": "t3_1mkumo4",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "Mr-Suigetsu",
+      "author_id": "t2_8iroa49",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-08-08T13:03:12.203000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1mkumo4/question_about_django_ninja_and_method_order_for/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Anyone Interested in Building a Django Course Upload Site with Me?",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1mktd7p/anyone_interested_in_building_a_django_course/",
+      "score": 3,
+      "comments": 2,
+      "post_id": "t3_1mktd7p",
+      "post_type": "multi_media",
+      "domain": "self.djangolearning",
+      "author": "Available_Rub_8684",
+      "author_id": "t2_1v6a6wk6ai",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-08-08T12:05:11.970000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1mktd7p/anyone_interested_in_building_a_django_course/",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "React + Django Channels Help (group_add() and group_send() not working)",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1mk8i2j/react_django_channels_help_group_add_and_group/",
+      "score": 1,
+      "comments": 6,
+      "post_id": "t3_1mk8i2j",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "Beginning_Book_2382",
+      "author_id": "t2_7huxgr0r",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-08-07T18:49:20.017000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1mk8i2j/react_django_channels_help_group_add_and_group/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Troubleshooting"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3hehol/styles/profileIcon_sc2m0eph9s1c1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=0f085abb2840b700e0a245602044a6c42b3609a2"
+    },
+    {
+      "title": "Best Frontend Framework",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1mja974/best_frontend_framework/",
+      "score": 3,
+      "comments": 12,
+      "post_id": "t3_1mja974",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "Ahmed9253",
+      "author_id": "t2_cfh86sq",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-08-06T17:02:04.628000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1mja974/best_frontend_framework/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Getting Started"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_fhbfj/styles/profileIcon_lozr5ml4blff1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=36fae4dd11e78acfd2e2e58506295290c314a34b"
+    },
+    {
+      "title": "django and celery logging",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1mgd2o8/django_and_celery_logging/",
+      "score": 4,
+      "comments": 2,
+      "post_id": "t3_1mgd2o8",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "Extreme-Acid",
+      "author_id": "t2_tc36u531",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-08-03T07:19:22.039000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1mgd2o8/django_and_celery_logging/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - API / DRF"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "ValueError: compile(): unrecognised flags error no matter what IDE I use.",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1mgg14m/valueerror_compile_unrecognised_flags_error_no/",
+      "score": 1,
+      "comments": 5,
+      "post_id": "t3_1mgg14m",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "Ocupsk-Cgayase-213",
+      "author_id": "t2_1up9qd24m2",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-08-03T10:34:07.275000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1mgg14m/valueerror_compile_unrecognised_flags_error_no/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Troubleshooting"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Help For Resource",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1mf7zvr/help_for_resource/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1mf7zvr",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "Diligent_Bat494",
+      "author_id": "t2_jwoxlihz",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-08-01T20:55:05.192000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1mf7zvr/help_for_resource/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Getting Started"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Just built a Django REST API starter template",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1meq04t/just_built_a_django_rest_api_starter_template/",
+      "score": 11,
+      "comments": 4,
+      "post_id": "t3_1meq04t",
+      "post_type": "multi_media",
+      "domain": "self.djangolearning",
+      "author": "Thin-Mycologist906",
+      "author_id": "t2_j4iw14wto",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-08-01T07:25:12.132000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1meq04t/just_built_a_django_rest_api_starter_template/",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Venv in vscode",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1mf1a92/venv_in_vscode/",
+      "score": 2,
+      "comments": 4,
+      "post_id": "t3_1mf1a92",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Fun-Pirate-2020",
+      "author_id": "t2_1hqvaz0dsn",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-08-01T16:35:33.175000+0000",
+      "content_href": "https://i.redd.it/4hdjj3h5rfgf1.png",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Getting Started"
+      ],
+      "thumbnail_url": "https://preview.redd.it/venv-in-vscode-v0-4hdjj3h5rfgf1.png?width=640&crop=smart&auto=webp&s=f88d789e60ec7d87393e96779ff29e3d791f1299"
+    },
+    {
+      "title": "dj-rest-auth + simplejwt",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1mefcp1/djrestauth_simplejwt/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mefcp1",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Jumpy-Tip-560",
+      "author_id": "t2_1sbhltgm58",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-31T22:20:35.630000+0000",
+      "content_href": "/r/django/comments/1meesc3/djrestauth_simplejwt/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - API / DRF"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Is it a sin to serve just the password reset from Django directly?",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1mdlawf/is_it_a_sin_to_serve_just_the_password_reset_from/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1mdlawf",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "CodingNoah",
+      "author_id": "t2_egpd458e",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-30T23:00:15.103000+0000",
+      "content_href": "/r/django/comments/1mdla52/is_it_a_sin_to_serve_just_the_password_reset_from/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "How to properly render select2 widget in a modal window?",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1md535t/how_to_properly_render_select2_widget_in_a_modal/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1md535t",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "KeyBack192",
+      "author_id": "t2_7ag3lqaf4",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-30T12:19:59.632000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1md535t/how_to_properly_render_select2_widget_in_a_modal/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Am I doing this right?",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1marbhd/am_i_doing_this_right/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1marbhd",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "ok_pennywise",
+      "author_id": "t2_fxkq64g4",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-27T16:55:01.447000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1marbhd/am_i_doing_this_right/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "getting TypeError in django blog app",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1m7hlvi/getting_typeerror_in_django_blog_app/",
+      "score": 1,
+      "comments": 4,
+      "post_id": "t3_1m7hlvi",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Salty-Childhood-1935",
+      "author_id": "t2_1mwa3x086t",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-23T18:47:49.371000+0000",
+      "content_href": "/r/django/comments/1m7ha6c/getting_typeerror_in_django_blog_app/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Troubleshooting"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Beginner",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1m7c729/beginner/",
+      "score": 1,
+      "comments": 5,
+      "post_id": "t3_1m7c729",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "Mysterious_Appeal_99",
+      "author_id": "t2_lc8de6818",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-23T15:23:53.632000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1m7c729/beginner/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Getting Started"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Authorization header",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1m79g5n/authorization_header/",
+      "score": 0,
+      "comments": 7,
+      "post_id": "t3_1m79g5n",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "allpowerfulee",
+      "author_id": "t2_49v70l6j",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-23T13:35:50.836000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1m79g5n/authorization_header/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Troubleshooting"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Need help figuring out why it is not working.",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1m6ayrb/need_help_figuring_out_why_it_is_not_working/",
+      "score": 2,
+      "comments": 7,
+      "post_id": "t3_1m6ayrb",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Monkeywithaflower",
+      "author_id": "t2_bg59hqa9",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-22T10:56:24.445000+0000",
+      "content_href": "/r/django/comments/1m6aun3/need_help_figuring_out_why_it_is_not_working/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Homework"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Suggestion needed for best AI helper for a (small) Django project",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1m3xa9h/suggestion_needed_for_best_ai_helper_for_a_small/",
+      "score": 4,
+      "comments": 9,
+      "post_id": "t3_1m3xa9h",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "CapiCapiBara",
+      "author_id": "t2_ln9gpl1",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-19T14:15:30.633000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1m3xa9h/suggestion_needed_for_best_ai_helper_for_a_small/",
+      "content_preview": "",
+      "flair": [
+        "Resource / App"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "An AI Meme Generator!!",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1m42ddu/an_ai_meme_generator/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1m42ddu",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Yadnyesh23",
+      "author_id": "t2_1swybo1kas",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-19T17:48:25.411000+0000",
+      "content_href": "https://i.redd.it/czf8japbcvdf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Getting Started"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Looking for widget which shows selections at the top",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1m34dx4/looking_for_widget_which_shows_selections_at_the/",
+      "score": 1,
+      "comments": 4,
+      "post_id": "t3_1m34dx4",
+      "post_type": "multi_media",
+      "domain": "self.djangolearning",
+      "author": "Slight_Scarcity321",
+      "author_id": "t2_ewmbxo9qj",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-18T14:50:52.611000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1m34dx4/looking_for_widget_which_shows_selections_at_the/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Tutorial: Send push notifications from Django. (No web-sockets, just push notifications)",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1m33tm6/tutorial_send_push_notifications_from_django_no/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1m33tm6",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "Puzzleheaded_Ear2351",
+      "author_id": "t2_1mw4xqsys3",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-18T14:29:02.361000+0000",
+      "content_href": "https://youtube.com/playlist?list=PLoxOJUuMedAoAGYDEqAPo0az2a_9agXTC&si=GMIce36DB1HJbjGP",
+      "content_preview": "",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Installing djangorestframework",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1m30n13/installing_djangorestframework/",
+      "score": 1,
+      "comments": 10,
+      "post_id": "t3_1m30n13",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "allpowerfulee",
+      "author_id": "t2_49v70l6j",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-18T12:10:53.712000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1m30n13/installing_djangorestframework/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Getting Started"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "My first SaaS product",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1m24864/my_first_saas_product/",
+      "score": 18,
+      "comments": 14,
+      "post_id": "t3_1m24864",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Yadnyesh23",
+      "author_id": "t2_1swybo1kas",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-17T10:43:07.414000+0000",
+      "content_href": "https://i.redd.it/7uojxoimyedf1.png",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "ORM IS HARD",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1m27rrr/orm_is_hard/",
+      "score": 0,
+      "comments": 7,
+      "post_id": "t3_1m27rrr",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "Old_Sea284",
+      "author_id": "t2_1215j6fpd6",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-17T13:37:35.032000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1m27rrr/orm_is_hard/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Getting Started"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Thoughts and suggestions",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1m0jei4/thoughts_and_suggestions/",
+      "score": 3,
+      "comments": 2,
+      "post_id": "t3_1m0jei4",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "GR_Prototypical_Nerd",
+      "author_id": "t2_9ugik0li",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-15T14:34:48.256000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1m0jei4/thoughts_and_suggestions/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Getting Started"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Passkeys/Webauthn Implementation in React",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1lzrsm3/passkeyswebauthn_implementation_in_react/",
+      "score": 2,
+      "comments": 6,
+      "post_id": "t3_1lzrsm3",
+      "post_type": "multi_media",
+      "domain": "self.djangolearning",
+      "author": "Gasu55",
+      "author_id": "t2_2g18b5m0",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-14T16:56:12.661000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1lzrsm3/passkeyswebauthn_implementation_in_react/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - API / DRF"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Proficiency level of mine?",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1lynsf6/proficiency_level_of_mine/",
+      "score": 4,
+      "comments": 4,
+      "post_id": "t3_1lynsf6",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "Antique-Dentist2048",
+      "author_id": "t2_179jozpyyy",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-13T08:26:58.361000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1lynsf6/proficiency_level_of_mine/",
+      "content_preview": "",
+      "flair": [
+        "Discussion / Meta"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "First Django Project: Confused About User Registration with Multi-Tenancy",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1lyc6jq/first_django_project_confused_about_user/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1lyc6jq",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "Patient_Teacher6933",
+      "author_id": "t2_bprzciuqz",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-12T21:53:44.759000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1lyc6jq/first_django_project_confused_about_user/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Getting Started"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I want to gain real world django experiences",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1lxs4x9/i_want_to_gain_real_world_django_experiences/",
+      "score": 4,
+      "comments": 5,
+      "post_id": "t3_1lxs4x9",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "No-Resolve-6173",
+      "author_id": "t2_1qkxyj1ogw",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-12T05:01:36.252000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1lxs4x9/i_want_to_gain_real_world_django_experiences/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Getting Started"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Open source django project",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1lu93wr/open_source_django_project/",
+      "score": 7,
+      "comments": 3,
+      "post_id": "t3_1lu93wr",
+      "post_type": "multi_media",
+      "domain": "self.djangolearning",
+      "author": "m_revolutionary",
+      "author_id": "t2_1isqto3m16",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-07T23:13:08.838000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1lu93wr/open_source_django_project/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - API / DRF"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "User cant be fetched from the frontend even when logged in",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1ltufqy/user_cant_be_fetched_from_the_frontend_even_when/",
+      "score": 1,
+      "comments": 6,
+      "post_id": "t3_1ltufqy",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "Baked_Potato2005",
+      "author_id": "t2_dcw21vwj",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-07T13:39:56.607000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1ltufqy/user_cant_be_fetched_from_the_frontend_even_when/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - API / DRF"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Adding custom CSS after Bootstrap to Django project and having issue",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1ltb59x/adding_custom_css_after_bootstrap_to_django/",
+      "score": 0,
+      "comments": 5,
+      "post_id": "t3_1ltb59x",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "Fantastic_Country_87",
+      "author_id": "t2_5a30yazv",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-06T20:27:09.797000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1ltb59x/adding_custom_css_after_bootstrap_to_django/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Getting Started"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How many models should an app have?",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1lscnh2/how_many_models_should_an_app_have/",
+      "score": 2,
+      "comments": 16,
+      "post_id": "t3_1lscnh2",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "KeyBack192",
+      "author_id": "t2_7ag3lqaf4",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-05T15:36:44.768000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1lscnh2/how_many_models_should_an_app_have/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "First Project",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1lsbbmr/first_project/",
+      "score": 1,
+      "comments": 6,
+      "post_id": "t3_1lsbbmr",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "Yadnyesh23",
+      "author_id": "t2_1swybo1kas",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-05T14:36:38.253000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1lsbbmr/first_project/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Getting Started"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Help with cloudinary integration",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1lq86gu/help_with_cloudinary_integration/",
+      "score": 0,
+      "comments": 8,
+      "post_id": "t3_1lq86gu",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "Salty-Delivery-5362",
+      "author_id": "t2_fdsif7o9",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-02T21:40:39.301000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1lq86gu/help_with_cloudinary_integration/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Getting Started"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Want to gain experience",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1lpqzam/want_to_gain_experience/",
+      "score": 7,
+      "comments": 2,
+      "post_id": "t3_1lpqzam",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "AnshulTh",
+      "author_id": "t2_xjib1x5pq",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-02T09:01:37.770000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1lpqzam/want_to_gain_experience/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Getting Started"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Is this really the right way to pass parameters from React?",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1lpw4xs/is_this_really_the_right_way_to_pass_parameters/",
+      "score": 2,
+      "comments": 5,
+      "post_id": "t3_1lpw4xs",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "Busy-Bell-4715",
+      "author_id": "t2_1bbbezgcv4",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-02T13:39:59.074000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1lpw4xs/is_this_really_the_right_way_to_pass_parameters/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - API / DRF"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "How to Implement login by either email or phone number?",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1low9b8/how_to_implement_login_by_either_email_or_phone/",
+      "score": 1,
+      "comments": 7,
+      "post_id": "t3_1low9b8",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "KeyBack192",
+      "author_id": "t2_7ag3lqaf4",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-07-01T08:22:39.828000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1low9b8/how_to_implement_login_by_either_email_or_phone/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Is it unreasonable to pair Django with Astro as well as htmx?",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1ln514x/is_it_unreasonable_to_pair_django_with_astro_as/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1ln514x",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "Infectedtoe32",
+      "author_id": "t2_5dydttdj",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-06-29T03:34:24.631000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1ln514x/is_it_unreasonable_to_pair_django_with_astro_as/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Django Admin: Deleting a Doctor model does not delete its associated User",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1lmt7u9/django_admin_deleting_a_doctor_model_does_not/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1lmt7u9",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "NoHistorian4672",
+      "author_id": "t2_tcbfa8xs",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-06-28T18:03:19.090000+0000",
+      "content_href": "/r/django/comments/1lmt6me/django_admin_deleting_a_doctor_model_does_not/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What is the best vps (interms of price) to host my django + react app.....(i have a background process script too)",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1llmq48/what_is_the_best_vps_interms_of_price_to_host_my/",
+      "score": 2,
+      "comments": 4,
+      "post_id": "t3_1llmq48",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "yohannesCJ",
+      "author_id": "t2_1ef9d0a3nf",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-06-27T06:16:53.304000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1llmq48/what_is_the_best_vps_interms_of_price_to_host_my/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Deployment"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "If someone have pdf for django please send",
+      "permalink": "https://www.reddit.com/r/djangolearning/comments/1lin4io/if_someone_have_pdf_for_django_please_send/",
+      "score": 2,
+      "comments": 4,
+      "post_id": "t3_1lin4io",
+      "post_type": "text",
+      "domain": "self.djangolearning",
+      "author": "Hot-Bee-4368",
+      "author_id": "t2_1ru28mbf0r",
+      "subreddit_id": "t5_366us",
+      "subreddit": "r/djangolearning",
+      "created_ts": "2025-06-23T17:42:09.135000+0000",
+      "content_href": "https://www.reddit.com/r/djangolearning/comments/1lin4io/if_someone_have_pdf_for_django_please_send/",
+      "content_preview": "",
+      "flair": [
+        "I Need Help - Getting Started"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    }
+  ],
+  "scraped_at": "2025-09-02T14:40:41.763047"
+}

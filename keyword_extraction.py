@@ -125,6 +125,12 @@ DEFAULT_EMBED_MODEL = "BAAI/bge-small-en-v1.5"  # fast, strong; consider "BAAI/b
 DEFAULT_EMBED_ALPHA = 0.35                      # blend factor for semantic similarity
 DEFAULT_EMBED_K_TERMS = 100                     # rerank top-K terms by embeddings
 
+# IDF damping and engagement blending defaults
+DEFAULT_DESC_IDF_POWER = 0.85
+DEFAULT_POSTS_IDF_POWER = 0.65
+DEFAULT_POSTS_ENGAGEMENT_ALPHA = 0.0
+DEFAULT_EMBED_CANDIDATE_POOL = "union"
+
 # Composed theme-anchored keywords defaults
 DEFAULT_COMPOSE_ANCHOR_POSTS = True
 DEFAULT_COMPOSE_ANCHOR_MULTIPLIER = 0.85
@@ -132,6 +138,11 @@ DEFAULT_COMPOSE_ANCHOR_TOP_M = 20
 DEFAULT_COMPOSE_ANCHOR_INCLUDE_UNIGRAMS = False
 DEFAULT_COMPOSE_ANCHOR_MAX_FINAL_WORDS = 6
 DEFAULT_COMPOSE_ANCHOR_USE_TITLE = True
+
+# Seed selection controls for composition
+DEFAULT_COMPOSE_SEED_EMBED = False
+DEFAULT_COMPOSE_SEED_EMBED_ALPHA = 0.6
+COMPOSE_SEED_MAX_POOL = 200
 
 # Tokens to trim from the tail of seed phrases during composition (kept deterministic and small)
 COMPOSE_TRIM_TAIL_TOKENS = {
@@ -687,21 +698,29 @@ def compute_posts_tfidf_for_frontpage(
     posts_phrase_boost_trigram: float = DEFAULT_POSTS_PHRASE_BOOST_TRIGRAM,
     drop_generic_unigrams: bool = False,
     generic_df_ratio: float = DEFAULT_POSTS_GENERIC_DF_RATIO,
-) -> Counter:
+    idf_power: float = DEFAULT_POSTS_IDF_POWER,
+    engagement_alpha: float = DEFAULT_POSTS_ENGAGEMENT_ALPHA,
+) -> Tuple[Counter, Counter]:
     """
-    Compute engagement- and recency-weighted TF-IDF for a single frontpage document.
-    - Weighted TF sums across posts: TF_post = count_grams_in_post * post_weight
-    - post_weight = (1 + log1p(score) + 0.5*log1p(comments)) * recency_decay
-    - recency_decay = 0.5 ** (age_days / halflife_days)
+    Compute posts TF-IDF with optional engagement blending and IDF damping.
+
+    - Per-post factor blends neutral 1.0 with engagement via alpha:
+        base = (1 - engagement_alpha) * 1.0 + engagement_alpha * (1 + log1p(score) + 0.5*log1p(comments))
+    - Recency decay:
+        recency = 0.5 ** (age_days / halflife_days)
+    - Weighted TF sums across posts:
+        TF_post = count_grams_in_post * (base * recency)
+
+    Returns (tfidf_scores, local_grams_tf) where local_grams_tf are raw bigram/trigram counts for composition.
     """
     posts = frontpage_data.get("posts") or []
     if not posts:
-        return Counter()
+        return Counter(), Counter()
 
     ref_time = _parse_scraped_at(frontpage_data)
 
     weighted_tf = Counter()
-    local_grams_tf = Counter()  # unweighted counts for "ensure phrases"
+    local_grams_tf = Counter()  # unweighted counts for "ensure phrases" and composition
     for post in posts:
         title = post.get("title", "") or ""
         preview = post.get("content_preview", "") or ""
@@ -720,7 +739,6 @@ def compute_posts_tfidf_for_frontpage(
 
         created_ts = _parse_created_ts(post.get("created_ts") or "")
         if created_ts is None:
-            # If missing/invalid, do not apply recency penalty
             recency = 1.0
         else:
             if created_ts.tzinfo is None:
@@ -729,8 +747,9 @@ def compute_posts_tfidf_for_frontpage(
             age_days = max(age.total_seconds() / 86400.0, 0.0)
             recency = 0.5 ** (age_days / max(halflife_days, 0.1))
 
-        w = 1.0 + math.log1p(score) + 0.5 * math.log1p(comments)
-        post_weight = w * recency
+        engagement_component = 1.0 + math.log1p(score) + 0.5 * math.log1p(comments)
+        base = (1.0 - engagement_alpha) * 1.0 + engagement_alpha * engagement_component
+        post_weight = base * recency
 
         for g, c in grams.items():
             weighted_tf[g] += c * post_weight
@@ -749,12 +768,13 @@ def compute_posts_tfidf_for_frontpage(
             if df_ratio >= generic_df_ratio:
                 continue
         idf = math.log((1.0 + total_docs) / (1.0 + df)) + 1.0
+        idf_eff = idf ** max(0.0, float(idf_power))
         boost = 1.0
         if n_words == 2:
             boost = posts_phrase_boost_bigram
         elif n_words == 3:
             boost = posts_phrase_boost_trigram
-        tfidf[g] = tf * idf * boost
+        tfidf[g] = tf * idf_eff * boost
 
     # Ensure local phrases (bigrams/trigrams) even if pruned; use top local grams by raw TF (unweighted)
     if DEFAULT_ENSURE_PHRASES and ensure_k > 0 and local_grams_tf:
@@ -771,7 +791,7 @@ def compute_posts_tfidf_for_frontpage(
                 )
                 tfidf[g] = tf * boost  # fallback: local TF × small phrase boost
 
-    return tfidf
+    return tfidf, local_grams_tf
 
 
 def apply_anchored_variants_for_generic_posts_terms(
@@ -973,6 +993,51 @@ def recase_anchored_display(
         return f"{display_key}{suffix}"
     return term
 
+
+def _compose_rank_seeds_with_embed(seed_base: Counter, theme_text: str, model_name: str, alpha: float) -> Counter:
+    """
+    Rerank seed phrases by combining normalized local TF/score with embedding similarity to the theme.
+    combined = (1 - alpha) * norm_tf + alpha * sim01
+    Returns a Counter mapping seed -> combined score.
+    """
+    try:
+        if not _HAS_ST:
+            return Counter(seed_base)
+        embedder = _get_embedder(model_name)
+        if embedder is None:
+            return Counter(seed_base)
+        # Limit pool size for performance
+        items = list(seed_base.items())
+        items.sort(key=lambda kv: kv[1], reverse=True)
+        pool = items[:COMPOSE_SEED_MAX_POOL]
+        terms = [t for t, _ in pool]
+        max_tf = max((v for _, v in pool), default=1.0) or 1.0
+        theme_emb = embedder.encode([theme_text], normalize_embeddings=True)
+        term_embs = embedder.encode(terms, normalize_embeddings=True)
+        try:
+            sims = cos_sim(theme_emb, term_embs).cpu().numpy().reshape(-1)
+        except Exception:
+            def _cos(a, b):
+                an = np.linalg.norm(a)
+                bn = np.linalg.norm(b)
+                if an <= 0 or bn <= 0:
+                    return 0.0
+                return float(np.dot(a, b) / (an * bn))
+            sims = np.array([_cos(theme_emb[0], term_embs[i]) for i in range(len(terms))], dtype=float)
+        sims01 = (sims + 1.0) / 2.0
+        out = Counter()
+        a = max(0.0, min(1.0, float(alpha)))
+        for (term, tf), s in zip(pool, sims01):
+            norm_tf = float(tf) / max_tf
+            out[term] = (1.0 - a) * norm_tf + a * float(s)
+        # Include any remaining terms with plain TF to avoid dropping tail
+        for term, tf in items[COMPOSE_SEED_MAX_POOL:]:
+            if term not in out:
+                out[term] = float(tf) / (max_tf or 1.0)
+        return out
+    except Exception:
+        return Counter(seed_base)
+
 # -----------------------
 # Scoring
 # -----------------------
@@ -1033,11 +1098,13 @@ def compute_tfidf_per_doc(
     max_ngram: int,
     min_df_bigram: int,
     min_df_trigram: int,
+    desc_idf_power: float = DEFAULT_DESC_IDF_POWER,
 ) -> Counter:
     """
     Compute TF-IDF for description text of a single document.
-    idf = log((1 + N) / (1 + df)) + 1  (smooth)
-    score = tf * idf * boost
+    idf = log((1 + N) / (1 + df)) + 1  (smooth), optionally damped:
+      idf_eff = idf ** desc_idf_power (0..1 reduces DF dominance)
+    score = tf * idf_eff * boost
 
     Additionally prunes rare multi-grams:
       - bigrams kept only if df >= min_df_bigram
@@ -1053,12 +1120,13 @@ def compute_tfidf_per_doc(
         if n_words == 3 and df < min_df_trigram:
             continue
         idf = math.log((1.0 + total_docs) / (1.0 + df)) + 1.0
+        idf_eff = idf ** max(0.0, float(desc_idf_power))
         boost = 1.0
         if n_words == 2:
             boost = DEFAULT_DESC_PHRASE_BOOST_BIGRAM
         elif n_words == 3:
             boost = DEFAULT_DESC_PHRASE_BOOST_TRIGRAM
-        tfidf[g] = tf * idf * boost
+        tfidf[g] = tf * idf_eff * boost
     return tfidf
 
 
@@ -1161,10 +1229,18 @@ def embed_rerank_terms(
     model_name: str,
     alpha: float,
     k_terms: int,
+    candidate_pool: str = DEFAULT_EMBED_CANDIDATE_POOL,
 ) -> Dict[str, Tuple[float, str]]:
     """
     Rerank top-K terms by multiplying their scores by a function of semantic similarity to theme_text.
     new_score = old_score * ((1 - alpha) + alpha * similarity), where similarity in [0,1].
+
+    candidate_pool controls which terms are eligible:
+      - "union": all terms
+      - "posts": any term whose source includes posts/posts_composed
+      - "posts_composed": only composed posts terms
+      - "desc": any term whose source includes description
+      - "non_name": exclude name-only terms
     """
     if not theme_text or not _HAS_ST:
         return merged
@@ -1172,9 +1248,27 @@ def embed_rerank_terms(
     if embedder is None:
         return merged
 
-    # Select top-K by current score
+    # Select candidates by current score then filter by pool
     items = sorted(merged.items(), key=lambda kv: kv[1][0], reverse=True)
-    top_items = items[: max(0, k_terms)]
+
+    def _in_pool(src: str) -> bool:
+        if candidate_pool == "union":
+            return True
+        if candidate_pool == "posts":
+            return ("posts" in src) or ("posts_composed" in src)
+        if candidate_pool == "posts_composed":
+            return "posts_composed" in src
+        if candidate_pool == "desc":
+            return "description" in src
+        if candidate_pool == "non_name":
+            parts = set(src.split("+"))
+            return not (parts == {"name"})
+        return True
+
+    filtered = [(t, (s, src)) for (t, (s, src)) in items if _in_pool(src)]
+    top_items = filtered[: max(0, k_terms)]
+    if not top_items:
+        return merged
 
     terms = [t for t, _ in top_items]
     try:
@@ -1278,6 +1372,14 @@ def process_inputs(
     embed_model: str = DEFAULT_EMBED_MODEL,
     embed_alpha: float = DEFAULT_EMBED_ALPHA,
     embed_k_terms: int = DEFAULT_EMBED_K_TERMS,
+    # New controls
+    desc_idf_power: float = DEFAULT_DESC_IDF_POWER,
+    posts_idf_power: float = DEFAULT_POSTS_IDF_POWER,
+    posts_engagement_alpha: float = DEFAULT_POSTS_ENGAGEMENT_ALPHA,
+    compose_seed_source: str = "hybrid",
+    embed_candidate_pool: str = DEFAULT_EMBED_CANDIDATE_POOL,
+    compose_seed_embed: bool = DEFAULT_COMPOSE_SEED_EMBED,
+    compose_seed_embed_alpha: float = DEFAULT_COMPOSE_SEED_EMBED_ALPHA,
 ) -> None:
     if not input_paths:
         print("No input files matched.", file=sys.stderr)
@@ -1319,21 +1421,8 @@ def process_inputs(
         except Exception as e:
             print(f"[posts:phrases] failed to load phrase stoplist from {posts_phrase_stoplist_path}: {e}", file=sys.stderr)
 
-    # Optional: load composition subject whitelist (phrases to compose when present)
+    # Subject whitelist removed in v2: composition now uses local post grams (no editorial list)
     compose_subjects_set: Set[str] = set()
-    if compose_subjects_path:
-        try:
-            with open(compose_subjects_path, "r", encoding="utf-8") as f:
-                for line in f:
-                    line = line.strip().lower()
-                    if not line or line.startswith("#"):
-                        continue
-                    # normalize internal whitespace
-                    line = re.sub(r"\s+", " ", line)
-                    compose_subjects_set.add(line)
-            print(f"[compose:subjects] loaded {len(compose_subjects_set)} subject phrase(s) from {compose_subjects_path}", file=sys.stderr)
-        except Exception as e:
-            print(f"[compose:subjects] failed to load subjects from {compose_subjects_path}: {e}", file=sys.stderr)
 
     # Pass 0 (optional): posts DF across frontpages
     frontpage_index: Dict[str, str] = {}
@@ -1365,7 +1454,7 @@ def process_inputs(
                 # Description TF-IDF
                 desc_tokens = extract_desc_terms(sub.desc_text, max_ngram)
                 desc_tfidf = compute_tfidf_per_doc(
-                    desc_tokens, docfreq, total_docs, max_ngram, min_df_bigram, min_df_trigram
+                    desc_tokens, docfreq, total_docs, max_ngram, min_df_bigram, min_df_trigram, desc_idf_power
                 )
 
                 # Ensure local multi-word phrases even if globally rare (keeps fuller phrases)
@@ -1433,7 +1522,7 @@ def process_inputs(
                                 fp_data = None
 
                         if fp_data:
-                            posts_scores = compute_posts_tfidf_for_frontpage(
+                            posts_scores, posts_local_tf = compute_posts_tfidf_for_frontpage(
                                 fp_data,
                                 posts_docfreq,
                                 posts_total_docs,
@@ -1448,6 +1537,8 @@ def process_inputs(
                                 posts_phrase_boost_trigram,
                                 posts_drop_generic_unigrams,
                                 posts_generic_df_ratio,
+                                idf_power=posts_idf_power,
+                                engagement_alpha=posts_engagement_alpha,
                             )
 
                             # Anchored variants for generics
@@ -1472,9 +1563,9 @@ def process_inputs(
                                         replace_original_generic=posts_replace_generic_with_anchored,
                                     )
     
-                                # Compose theme-anchored variants from top posts phrases
+                                # Compose theme-anchored variants from top seed phrases
                                 composed_scores = Counter()
-                                if compose_anchor_posts and posts_scores:
+                                if compose_anchor_posts and (posts_scores or posts_local_tf):
                                     title_str = ""
                                     if compose_anchor_use_title:
                                         try:
@@ -1484,8 +1575,30 @@ def process_inputs(
                                     if title_str:
                                         anchor_title_for_display = title_str
                                         anchor_phrase_lower = _normalize_anchor_phrase_from_title(title_str)
+
+                                    # Build seed base according to requested source
+                                    if compose_seed_source == "posts_local_tf":
+                                        seed_base = posts_local_tf
+                                    elif compose_seed_source == "posts_tfidf":
+                                        seed_base = posts_scores
+                                    else:
+                                        # hybrid: prefer TF-IDF where available, otherwise fallback to local TF
+                                        seed_base = Counter(posts_scores)
+                                        for g, tf in posts_local_tf.items():
+                                            if g not in seed_base:
+                                                seed_base[g] = float(tf)
+
+                                    # Optional embedding-based seed rerank to prefer semantically on-theme phrases (e.g., oil change)
+                                    seed_scored = seed_base
+                                    try:
+                                        theme_text_comp = _build_theme_text(full_lower, desc_tfidf, posts_theme_top_desc_k)
+                                    except Exception:
+                                        theme_text_comp = ""
+                                    if compose_seed_embed and theme_text_comp:
+                                        seed_scored = _compose_rank_seeds_with_embed(seed_base, theme_text_comp, embed_model, compose_seed_embed_alpha)
+
                                     composed_from_top = compose_theme_anchored_from_posts(
-                                        posts_scores,
+                                        seed_scored,
                                         anchor_phrase_lower or "",
                                         canon_key or "",
                                         compose_anchor_top_m,
@@ -1493,27 +1606,8 @@ def process_inputs(
                                         compose_anchor_max_final_words,
                                         compose_anchor_multiplier,
                                     )
-                                    # Compose from whitelist subjects present in this frontpage
-                                    composed_from_whitelist = Counter()
-                                    try:
-                                        present_grams = _collect_present_grams(fp_data, max_ngram, posts_extra_stopwords_set, posts_phrase_stoplist_set)
-                                        if compose_subjects_set:
-                                            whitelist_seeds = [g for g in present_grams if g in compose_subjects_set]
-                                            if whitelist_seeds:
-                                                composed_from_whitelist = compose_theme_anchored_from_seeds(
-                                                    whitelist_seeds,
-                                                    posts_scores,
-                                                    anchor_phrase_lower or "",
-                                                    canon_key or "",
-                                                    compose_anchor_max_final_words,
-                                                    compose_anchor_multiplier,
-                                                    compose_subjects_bonus,
-                                                )
-                                    except Exception:
-                                        composed_from_whitelist = Counter()
                                     composed_scores = Counter()
                                     composed_scores.update(composed_from_top)
-                                    composed_scores.update(composed_from_whitelist)
                                 else:
                                     composed_scores = Counter()
     
@@ -1554,6 +1648,7 @@ def process_inputs(
                         model_name=embed_model,
                         alpha=embed_alpha,
                         k_terms=embed_k_terms,
+                        candidate_pool=embed_candidate_pool,
                     )
 
                 ranked = normalize_weights(merged)
@@ -1623,11 +1718,19 @@ def main():
     ap.add_argument("--posts-drop-generic-unigrams", action="store_true", help="Drop unigram posts terms whose global DF ratio >= --posts-generic-df-ratio")
     ap.add_argument("--posts-theme-penalty", type=float, default=0.65, help="Multiplier to apply to posts terms with zero overlap to subreddit theme tokens (name + top description terms)")
     ap.add_argument("--posts-theme-top-desc-k", type=int, default=6, help="How many top description terms to include when forming the theme token set")
+
+    # New scoring controls
+    ap.add_argument("--desc-idf-power", type=float, default=DEFAULT_DESC_IDF_POWER, help="Raise description IDF to this power (0..1 dampens DF influence)")
+    ap.add_argument("--posts-idf-power", type=float, default=DEFAULT_POSTS_IDF_POWER, help="Raise posts IDF to this power (0..1 dampens DF influence)")
+    ap.add_argument("--posts-engagement-alpha", type=float, default=DEFAULT_POSTS_ENGAGEMENT_ALPHA, help="Blend factor for engagement in posts TF (0=ignore engagement, 1=fully weight)")
+
     # Embedding rerank
     ap.add_argument("--embed-rerank", action="store_true", help="Enable embedding-based reranking of terms for semantic alignment to subreddit theme")
     ap.add_argument("--embed-model", type=str, default=DEFAULT_EMBED_MODEL, help="SentenceTransformers model id (e.g., 'BAAI/bge-small-en-v1.5' or 'BAAI/bge-m3')")
     ap.add_argument("--embed-alpha", type=float, default=DEFAULT_EMBED_ALPHA, help="Blend factor for embedding similarity contribution")
     ap.add_argument("--embed-k-terms", type=int, default=DEFAULT_EMBED_K_TERMS, help="Rerank top-K terms by embeddings")
+    ap.add_argument("--embed-candidate-pool", type=str, default=DEFAULT_EMBED_CANDIDATE_POOL, choices=["union", "posts", "posts_composed", "desc", "non_name"], help="Subset of terms eligible for reranking")
+
     ap.add_argument("--posts-phrase-stoplist", type=str, default=None, help="Path to newline-delimited file of phrases (bigrams/trigrams) to exclude from posts tokenization/DF")
     ap.add_argument("--posts-replace-generic-with-anchored", action="store_true", help="When anchoring generic uni/bi-grams, drop the original unanchored term")
     ap.add_argument("--no-posts-anchor-generics", action="store_true", help="Disable adding anchored variants for generic posts terms")
@@ -1639,8 +1742,12 @@ def main():
     ap.add_argument("--compose-anchor-include-unigrams", action="store_true", help="Allow composing anchored variants from unigram posts terms")
     ap.add_argument("--compose-anchor-max-final-words", type=int, default=DEFAULT_COMPOSE_ANCHOR_MAX_FINAL_WORDS, help="Maximum words allowed in the final composed term")
     ap.add_argument("--no-compose-anchor-use-title", action="store_true", help="Do not use frontpage meta.title for anchor phrase; only use subreddit token")
-    ap.add_argument("--compose-subjects-path", type=str, default=None, help="Path to newline-delimited list of subject phrases to compose when present in posts")
-    ap.add_argument("--compose-subjects-bonus", type=float, default=DEFAULT_COMPOSE_SUBJECTS_BONUS, help="Extra multiplier applied to composed variants originating from whitelist subjects")
+    ap.add_argument("--compose-seed-source", type=str, default="hybrid", choices=["posts_tfidf", "posts_local_tf", "hybrid"], help="Seed source for composition (TF-IDF, local TF, or hybrid)")
+    ap.add_argument("--compose-seed-embed", action="store_true", help="Use embedding similarity to rerank local seeds for composition")
+    ap.add_argument("--compose-seed-embed-alpha", type=float, default=DEFAULT_COMPOSE_SEED_EMBED_ALPHA, help="Blend for seed rerank: 0=count-only, 1=embedding-only")
+    # Deprecated editorial whitelist (ignored in v2, kept for CLI compatibility)
+    ap.add_argument("--compose-subjects-path", type=str, default=None, help="Deprecated: subject whitelist is ignored")
+    ap.add_argument("--compose-subjects-bonus", type=float, default=DEFAULT_COMPOSE_SUBJECTS_BONUS, help="Deprecated: unused")
 
     args = ap.parse_args()
 
@@ -1666,7 +1773,7 @@ def main():
         posts_ensure_k=args.posts_ensure_k,
         posts_stopwords_extra_path=args.posts_stopwords_extra,
         posts_anchor_generics=(not args.no_posts_anchor_generics),
-        posts_phrase_boost_bigram=args.posts_phrase_boost_bibigram if hasattr(args, "posts_phrase_boost_bibigram") else args.posts_phrase_boost_bigram,
+        posts_phrase_boost_bigram=args.posts_phrase_boost_bigram,
         posts_phrase_boost_trigram=args.posts_phrase_boost_trigram,
         posts_drop_generic_unigrams=args.posts_drop_generic_unigrams,
         posts_theme_penalty=args.posts_theme_penalty,
@@ -1683,6 +1790,14 @@ def main():
         embed_model=args.embed_model,
         embed_alpha=args.embed_alpha,
         embed_k_terms=args.embed_k_terms,
+        # new
+        desc_idf_power=args.desc_idf_power,
+        posts_idf_power=args.posts_idf_power,
+        posts_engagement_alpha=args.posts_engagement_alpha,
+        compose_seed_source=args.compose_seed_source,
+        compose_seed_embed=args.compose_seed_embed,
+        compose_seed_embed_alpha=args.compose_seed_embed_alpha,
+        embed_candidate_pool=args.embed_candidate_pool,
     )
 
 
