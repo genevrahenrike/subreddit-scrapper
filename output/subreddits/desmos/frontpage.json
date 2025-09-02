@@ -1,0 +1,1010 @@
+{
+  "subreddit": "desmos",
+  "url": "https://www.reddit.com/r/desmos",
+  "meta": {
+    "title": "/r/Desmos: your place to share graphs made using Desmos"
+  },
+  "posts": [
+    {
+      "title": "Cubic approximation of tetration",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n6rrs4/cubic_approximation_of_tetration/",
+      "score": 6,
+      "comments": 2,
+      "post_id": "t3_1n6rrs4",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Pentalogue",
+      "author_id": "t2_4z9iu4v1y",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-09-02T18:40:53.454000+0000",
+      "content_href": "https://i.redd.it/5hht1jepqsmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Graph"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_84t6fs/styles/profileIcon_shuu08uap0jb1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=65c7733a6c96808cba79645d954b0348ffa0b68d"
+    },
+    {
+      "title": "I Recreated a Geometry Dash Level (Slaughterhouse) In Desmos",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n5fmdx/i_recreated_a_geometry_dash_level_slaughterhouse/",
+      "score": 611,
+      "comments": 29,
+      "post_id": "t3_1n5fmdx",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "lookarock1234",
+      "author_id": "t2_c73nkw2fl",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-09-01T04:49:28.584000+0000",
+      "content_href": "https://v.redd.it/1pqp97ezehmf1",
+      "content_preview": "",
+      "flair": [
+        "Art"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Is there anyway to make this possible?",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n6b5h4/is_there_anyway_to_make_this_possible/",
+      "score": 30,
+      "comments": 23,
+      "post_id": "t3_1n6b5h4",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "SirArktheGreat",
+      "author_id": "t2_txg3zits",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-09-02T05:26:03.558000+0000",
+      "content_href": "https://i.redd.it/udvmqijwsomf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Question: Solved"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7bavx4/styles/profileIcon_cjend7r4ikpe1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1c04e0560a3c50592e829b0438078197e8f65cd6"
+    },
+    {
+      "title": "Cool fractal thingy that probably has a name already",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1mr2avo/cool_fractal_thingy_that_probably_has_a_name/",
+      "score": 1340,
+      "comments": 34,
+      "post_id": "t3_1mr2avo",
+      "post_type": "gif",
+      "domain": "i.redd.it",
+      "author": "Nazar0360",
+      "author_id": "t2_vm2xbbd8",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-15T16:10:43.188000+0000",
+      "content_href": "https://i.redd.it/21z97ezpi7jf1.gif",
+      "content_preview": "",
+      "flair": [
+        "Geometry"
+      ],
+      "thumbnail_url": "https://preview.redd.it/cool-fractal-thingy-that-probably-has-a-name-already-v0-21z97ezpi7jf1.gif?width=640&crop=smart&format=png8&s=98469924f3d8a1f14c1f6d5056b7771936a9c801"
+    },
+    {
+      "title": "Created a cannon shot game",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n6c9ih/created_a_cannon_shot_game/",
+      "score": 21,
+      "comments": 0,
+      "post_id": "t3_1n6c9ih",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Awkward_Cantaloupe32",
+      "author_id": "t2_fy2oaqki3",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-09-02T06:34:27.615000+0000",
+      "content_href": "https://v.redd.it/r2wsu5mp4pmf1",
+      "content_preview": "",
+      "flair": [
+        "Fun"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/created-a-cannon-shot-game-v0-eGtpajk4bXA0cG1mMZiyC23Nb83dnF3JBMkV3PDWOHscI_8-Bc1W8Ehx7Ln0.png?width=640&crop=smart&format=pjpg&auto=webp&s=359b0aeae9863978cbd688aa54f2fc398c9b6dce"
+    },
+    {
+      "title": "N-Body Gravity with Collision",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n3alfs/nbody_gravity_with_collision/",
+      "score": 469,
+      "comments": 8,
+      "post_id": "t3_1n3alfs",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Legitimate_Animal796",
+      "author_id": "t2_avk2s271m",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-29T15:31:21.747000+0000",
+      "content_href": "https://v.redd.it/7mcbnis89zlf1",
+      "content_preview": "",
+      "flair": [
+        "Graph"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "BERNARD SPOTTED",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n618fp/bernard_spotted/",
+      "score": 44,
+      "comments": 16,
+      "post_id": "t3_1n618fp",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "The_Candyman_Cant",
+      "author_id": "t2_s6i31b6h",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-09-01T21:24:44.283000+0000",
+      "content_href": "https://v.redd.it/tu5u7fkoemmf1",
+      "content_preview": "",
+      "flair": [
+        "Fun"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/bernard-spotted-v0-dDRxMndma29lbW1mMS5zDJlaCc_F35uqTFIFHMg_DaqlF4feqeFPo77K52Mk.png?width=640&crop=smart&format=pjpg&auto=webp&s=21612cd21a6105d05c641cca6fb71d87fe64d093"
+    },
+    {
+      "title": "Extract an angle's measure as a variable?",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n6jq7z/extract_an_angles_measure_as_a_variable/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n6jq7z",
+      "post_type": "text",
+      "domain": "self.desmos",
+      "author": "WhatNot303",
+      "author_id": "t2_7n49u",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-09-02T13:38:40.847000+0000",
+      "content_href": "https://www.reddit.com/r/desmos/comments/1n6jq7z/extract_an_angles_measure_as_a_variable/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Because Minecraft is getting a spike in relevancy I made a solver for any explicit function a few weeks back for an SMP server.",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1mq15tx/because_minecraft_is_getting_a_spike_in_relevancy/",
+      "score": 943,
+      "comments": 39,
+      "post_id": "t3_1mq15tx",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Arglin",
+      "author_id": "t2_8ox6ev",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-14T13:47:16.448000+0000",
+      "content_href": "https://v.redd.it/ibtohmv6mzif1",
+      "content_preview": "",
+      "flair": [
+        "Resource"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7h3x8/styles/profileIcon_fgakyylqyds71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=784632cd9f8a4c5b2661ef331e8907213f36f137"
+    },
+    {
+      "title": "cool fractal thingy with just circles",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n5z436/cool_fractal_thingy_with_just_circles/",
+      "score": 13,
+      "comments": 1,
+      "post_id": "t3_1n5z436",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "SammyHa123",
+      "author_id": "t2_yznvr8ke8",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-09-01T20:02:04.499000+0000",
+      "content_href": "https://i.redd.it/fc9qcnz90mmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Art"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "So halloandrew5 jokingly said to make the flag of Bhutan in one expression line... so I did that.",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n3qa2y/so_halloandrew5_jokingly_said_to_make_the_flag_of/",
+      "score": 345,
+      "comments": 22,
+      "post_id": "t3_1n3qa2y",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Arglin",
+      "author_id": "t2_8ox6ev",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-30T02:27:43.856000+0000",
+      "content_href": "https://v.redd.it/k41jtdkeg2mf1",
+      "content_preview": "",
+      "flair": [
+        "Art"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7h3x8/styles/profileIcon_fgakyylqyds71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=784632cd9f8a4c5b2661ef331e8907213f36f137"
+    },
+    {
+      "title": "RGB to HSV",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n5kei8/rgb_to_hsv/",
+      "score": 22,
+      "comments": 3,
+      "post_id": "t3_1n5kei8",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Wise_Excitement4433",
+      "author_id": "t2_1qi2b3yy9u",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-09-01T09:44:06.547000+0000",
+      "content_href": "https://v.redd.it/hisgns0uximf1",
+      "content_preview": "",
+      "flair": [
+        "Resource"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "sin(x²+y²)*x has no right to look this pretty",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n4gh5t/sinx²y²x_has_no_right_to_look_this_pretty/",
+      "score": 286,
+      "comments": 18,
+      "post_id": "t3_1n4gh5t",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "JollyJuniper1993",
+      "author_id": "t2_ud789oe7",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-31T00:04:24.270000+0000",
+      "content_href": "https://i.redd.it/d7kbyttox8mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Art"
+      ],
+      "thumbnail_url": "https://preview.redd.it/sin-x%C2%B2-y%C2%B2-x-has-no-right-to-look-this-pretty-v0-d7kbyttox8mf1.jpeg?width=640&crop=smart&auto=webp&s=a24da9dfa8769ed6120b6be2bd5de52ea37e4192"
+    },
+    {
+      "title": "Help with random function",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n5qr6k/help_with_random_function/",
+      "score": 5,
+      "comments": 1,
+      "post_id": "t3_1n5qr6k",
+      "post_type": "text",
+      "domain": "self.desmos",
+      "author": "Unusual_Hand_6122",
+      "author_id": "t2_qic3dc9j4",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-09-01T14:50:15.361000+0000",
+      "content_href": "https://www.reddit.com/r/desmos/comments/1n5qr6k/help_with_random_function/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Found a really cool looking graph",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1mkbn1i/found_a_really_cool_looking_graph/",
+      "score": 783,
+      "comments": 19,
+      "post_id": "t3_1mkbn1i",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Legitimate_Animal796",
+      "author_id": "t2_avk2s271m",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-07T20:49:26.275000+0000",
+      "content_href": "https://i.redd.it/c0os8wxxtnhf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Graph"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "DVD screensaver",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n5dmxx/dvd_screensaver/",
+      "score": 28,
+      "comments": 4,
+      "post_id": "t3_1n5dmxx",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Pleasant-Childhood35",
+      "author_id": "t2_rslclpp4",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-09-01T03:03:23.777000+0000",
+      "content_href": "https://v.redd.it/jll2xbdhygmf1",
+      "content_preview": "",
+      "flair": [
+        "Fun"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Why does this recursion not work?",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n6g1z8/why_does_this_recursion_not_work/",
+      "score": 2,
+      "comments": 7,
+      "post_id": "t3_1n6g1z8",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "sasson10",
+      "author_id": "t2_5ajzyexl",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-09-02T10:40:08.240000+0000",
+      "content_href": "https://i.redd.it/jrjwij4vcqmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://preview.redd.it/why-does-this-recursion-not-work-v0-jrjwij4vcqmf1.png?width=640&crop=smart&auto=webp&s=dcd66aa9f6969e2d3af71e2566c89c5cc8c12808"
+    },
+    {
+      "title": "How can I start drawing stuff on Desmos",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n6cy9u/how_can_i_start_drawing_stuff_on_desmos/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n6cy9u",
+      "post_type": "text",
+      "domain": "self.desmos",
+      "author": "ImANotFurry",
+      "author_id": "t2_97avnjkt",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-09-02T07:19:45.978000+0000",
+      "content_href": "https://www.reddit.com/r/desmos/comments/1n6cy9u/how_can_i_start_drawing_stuff_on_desmos/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "First we mine, then we craft",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1mn28t1/first_we_mine_then_we_craft/",
+      "score": 572,
+      "comments": 19,
+      "post_id": "t3_1mn28t1",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "recursive-chair",
+      "author_id": "t2_uio6v24b",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-11T03:18:04.740000+0000",
+      "content_href": "https://v.redd.it/n6pe52na5bif1",
+      "content_preview": "",
+      "flair": [
+        "🌟𝘽𝙀𝙍𝙉𝘼𝙍𝘿 𝘼𝙋𝙋𝙍𝙊𝙑𝙀𝘿🌟"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/first-we-mine-then-we-craft-v0-MWJjcWE3bmE1YmlmMTYkNgz92fIyNjGgICaklkandCZNa1TF8d7IuU6tU-Xh.png?width=640&crop=smart&format=pjpg&auto=webp&s=b2dccb6db30e2e1e7177e90b48d27984730fc3a3"
+    },
+    {
+      "title": "Fast approximation to the number π about the Brent-Salamin algorithm",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n5w99x/fast_approximation_to_the_number_π_about_the/",
+      "score": 6,
+      "comments": 0,
+      "post_id": "t3_1n5w99x",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Pentalogue",
+      "author_id": "t2_4z9iu4v1y",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-09-01T18:15:00.451000+0000",
+      "content_href": "https://i.redd.it/qgvkfxf6hlmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Resource"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_84t6fs/styles/profileIcon_shuu08uap0jb1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=65c7733a6c96808cba79645d954b0348ffa0b68d"
+    },
+    {
+      "title": "Backface culling isnt working and I'm not sure what to do about it (Second image is what it's supposed to look like)",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n5f27w/backface_culling_isnt_working_and_im_not_sure/",
+      "score": 17,
+      "comments": 6,
+      "post_id": "t3_1n5f27w",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "HungyboiGD",
+      "author_id": "t2_qqfo8qkd",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-09-01T04:18:33.868000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n5f27w",
+      "content_preview": "",
+      "flair": [
+        "Question: Solved"
+      ],
+      "thumbnail_url": "https://preview.redd.it/backface-culling-isnt-working-and-im-not-sure-what-to-do-v0-asik58aaahmf1.png?width=640&crop=smart&auto=webp&s=bd8ee0a936eb1391ee2de3abc5590ff3984b0e90"
+    },
+    {
+      "title": "What was your moment \"I'm seeing math functions on the windows\"?",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1mgjuka/what_was_your_moment_im_seeing_math_functions_on/",
+      "score": 487,
+      "comments": 23,
+      "post_id": "t3_1mgjuka",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "shto123",
+      "author_id": "t2_rgzjk35p",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-03T13:54:42.562000+0000",
+      "content_href": "https://i.redd.it/1i15y5va8tgf1.png",
+      "content_preview": "",
+      "flair": [
+        "Fun"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6vfiea/styles/profileIcon_u53wax3n4qaf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=862bdcea431ce99bd4401d3bb55c22c12cc2a12a"
+    },
+    {
+      "title": "My attempt on giving numbers sounds",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n52ovo/my_attempt_on_giving_numbers_sounds/",
+      "score": 19,
+      "comments": 6,
+      "post_id": "t3_1n52ovo",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Thespecificnumber",
+      "author_id": "t2_1rs89eufp7",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-31T18:49:30.833000+0000",
+      "content_href": "https://v.redd.it/yyuxji8fiemf1",
+      "content_preview": "",
+      "flair": [
+        "Misc"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/my-attempt-on-giving-numbers-sounds-v0-NXhsN3l6NGZpZW1mMV5rzDtopQUO6PM5-yN7w_zXE6pJZ5fenqCnNZQgWoaU.png?width=640&crop=smart&format=pjpg&auto=webp&s=f99e6b6030a17d73caf71ca10391bdc4649ca1bf"
+    },
+    {
+      "title": "Tenna in Desmos 3D",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n0p5a5/tenna_in_desmos_3d/",
+      "score": 270,
+      "comments": 10,
+      "post_id": "t3_1n0p5a5",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "AdditionalRock7006",
+      "author_id": "t2_bkk1uyv5",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-26T15:35:35.297000+0000",
+      "content_href": "https://v.redd.it/7kxbfmj8vdlf1",
+      "content_preview": "",
+      "flair": [
+        "Fun"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_49ja92/styles/profileIcon_lfd6u2kapt4f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=109a713b5498aa6b6b7207043d01e0c4d2ddc072"
+    },
+    {
+      "title": "CollatzConjecture In Desmos",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n4z9xk/collatzconjecture_in_desmos/",
+      "score": 19,
+      "comments": 10,
+      "post_id": "t3_1n4z9xk",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "NerDD89",
+      "author_id": "t2_t5fdcfvq",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-31T16:33:33.886000+0000",
+      "content_href": "https://v.redd.it/dl2ho620udmf1",
+      "content_preview": "",
+      "flair": [
+        "Graph"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_75tlqe/styles/profileIcon_bpxb02ei9hkf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a92edc433b829095e0bd475c1653d7dbcc5f7636"
+    },
+    {
+      "title": "Ray marching fractal thing",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n4dclb/ray_marching_fractal_thing/",
+      "score": 11,
+      "comments": 1,
+      "post_id": "t3_1n4dclb",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ComplexValues",
+      "author_id": "t2_12ekmsfvbe",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-30T21:39:01.223000+0000",
+      "content_href": "https://i.redd.it/ywjj50to78mf1.png",
+      "content_preview": "",
+      "flair": [
+        "Resource"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bqqfgr/styles/profileIcon_lf20lz56saad1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e01a0987a2ff4009951cd9599e2a42d0844e1eac"
+    },
+    {
+      "title": "Bouncy ball trajectory on x^2",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1myh252/bouncy_ball_trajectory_on_x2/",
+      "score": 456,
+      "comments": 18,
+      "post_id": "t3_1myh252",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Legitimate_Animal796",
+      "author_id": "t2_avk2s271m",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-23T23:59:38.406000+0000",
+      "content_href": "https://v.redd.it/8stdhe4gyukf1",
+      "content_preview": "",
+      "flair": [
+        "Graph"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "14th degree bezier curve in 1 line (warning its large) (also its 15 lines including valiables but its 1 equation)",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n44mzu/14th_degree_bezier_curve_in_1_line_warning_its/",
+      "score": 15,
+      "comments": 5,
+      "post_id": "t3_1n44mzu",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "partisancord69",
+      "author_id": "t2_8h4c8f7l7",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-30T15:35:10.188000+0000",
+      "content_href": "https://i.redd.it/1kbcm6loe6mf1.png",
+      "content_preview": "",
+      "flair": [
+        "Graph"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Goofing around with continued fractions",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1ms8sok/goofing_around_with_continued_fractions/",
+      "score": 456,
+      "comments": 24,
+      "post_id": "t3_1ms8sok",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "MadnyeNwie",
+      "author_id": "t2_ef7v7bn0r",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-16T21:45:59.032000+0000",
+      "content_href": "https://i.redd.it/dzd99tk4cgjf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Fun"
+      ],
+      "thumbnail_url": "https://preview.redd.it/goofing-around-with-continued-fractions-v0-dzd99tk4cgjf1.jpeg?width=640&crop=smart&auto=webp&s=80edb841288a4ee464b2d03d43947ef119062175"
+    },
+    {
+      "title": "Tetris (work in progress)",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n3vmr7/tetris_work_in_progress/",
+      "score": 5,
+      "comments": 3,
+      "post_id": "t3_1n3vmr7",
+      "post_type": "multi_media",
+      "domain": "self.desmos",
+      "author": "authaus0",
+      "author_id": "t2_1ic945ijy4",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-30T07:36:00.490000+0000",
+      "content_href": "https://www.reddit.com/r/desmos/comments/1n3vmr7/tetris_work_in_progress/",
+      "content_preview": "",
+      "flair": [
+        "Art"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "I made a Riemann sum visualization",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n03r6g/i_made_a_riemann_sum_visualization/",
+      "score": 30,
+      "comments": 2,
+      "post_id": "t3_1n03r6g",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "ThePharaqh",
+      "author_id": "t2_chru551x",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-25T21:47:22.338000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n03r6g",
+      "content_preview": "",
+      "flair": [
+        "Graph"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i-made-a-riemann-sum-visualization-v0-dclf0zr7k8lf1.png?width=640&crop=smart&auto=webp&s=49fdeb2a223558bb23f419d7b9d8419441f4f22c"
+    },
+    {
+      "title": "The Universe Unfolding",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1muzc3w/the_universe_unfolding/",
+      "score": 388,
+      "comments": 6,
+      "post_id": "t3_1muzc3w",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "ManufacturerNo1906",
+      "author_id": "t2_7lhcko7y",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-19T23:56:36.722000+0000",
+      "content_href": "https://v.redd.it/bao5l658e2kf1",
+      "content_preview": "",
+      "flair": [
+        "Graph"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/the-universe-unfolding-v0-NzNlaWpjNThlMmtmMTm4CbTkwL1oXO47FeT4u1TJoOdVgbHd7XkQFKnDh0wt.png?width=640&crop=smart&format=pjpg&auto=webp&s=fc4e70244fcba8bdddc1932f68b9590d57140857"
+    },
+    {
+      "title": "Is it possible to merge two functions (say sin(x) and x^2) to get something like this (red line)?",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1mgrqtz/is_it_possible_to_merge_two_functions_say_sinx/",
+      "score": 357,
+      "comments": 91,
+      "post_id": "t3_1mgrqtz",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "MR_DERP_YT",
+      "author_id": "t2_82tq85by",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-03T19:13:53.669000+0000",
+      "content_href": "https://i.redd.it/rnzzay28tugf1.png",
+      "content_preview": "",
+      "flair": [
+        "Question: Solved"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_345ukx/styles/profileIcon_m4kv9cmpx2jf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f465aa706796e4affdc2cb6e5678114e5627c538"
+    },
+    {
+      "title": "Made a representation of number sequences on the number line.",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1mztu3b/made_a_representation_of_number_sequences_on_the/",
+      "score": 23,
+      "comments": 11,
+      "post_id": "t3_1mztu3b",
+      "post_type": "gif",
+      "domain": "v.redd.it",
+      "author": "Thespecificnumber",
+      "author_id": "t2_1rs89eufp7",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-25T15:36:52.103000+0000",
+      "content_href": "https://v.redd.it/5q9k4ynkq6lf1",
+      "content_preview": "",
+      "flair": [
+        "Maths"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/made-a-representation-of-number-sequences-on-the-number-line-v0-N3A3NmhraWtxNmxmMTTsnPg6Xy_o64gxOKX6Zjq2zMC_v5DbdJfDbx1Z_K8m.png?width=640&crop=smart&format=pjpg&auto=webp&s=1e4d1b44257974e2d09c792290d12b037a8f0984"
+    },
+    {
+      "title": "Different directions of iterativity of the exponent",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1mzn1u9/different_directions_of_iterativity_of_the/",
+      "score": 14,
+      "comments": 2,
+      "post_id": "t3_1mzn1u9",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Pentalogue",
+      "author_id": "t2_4z9iu4v1y",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-25T10:42:20.216000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mzn1u9",
+      "content_preview": "",
+      "flair": [
+        "Graph"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_84t6fs/styles/profileIcon_shuu08uap0jb1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=65c7733a6c96808cba79645d954b0348ffa0b68d"
+    },
+    {
+      "title": "Is it possible to create List of Surface Patches in Desmos3D?",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n5sfqc/is_it_possible_to_create_list_of_surface_patches/",
+      "score": 3,
+      "comments": 2,
+      "post_id": "t3_1n5sfqc",
+      "post_type": "multi_media",
+      "domain": "self.desmos",
+      "author": "MathPhysicsEngineer",
+      "author_id": "t2_be40f99n",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-09-01T15:54:29.908000+0000",
+      "content_href": "https://www.reddit.com/r/desmos/comments/1n5sfqc/is_it_possible_to_create_list_of_surface_patches/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What is the optimal method for using straight lines and mental math to make circles?",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n5r27p/what_is_the_optimal_method_for_using_straight/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n5r27p",
+      "post_type": "text",
+      "domain": "self.desmos",
+      "author": "EnderWin",
+      "author_id": "t2_1tti6czn",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-09-01T15:02:00.043000+0000",
+      "content_href": "https://www.reddit.com/r/desmos/comments/1n5r27p/what_is_the_optimal_method_for_using_straight/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_m4vlc/styles/profileIcon_8fq1fut772if1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b2f9d62a4de38dbeed058ce3ffbed5fa96a5f4f9"
+    },
+    {
+      "title": "Can anyone explain what's going on in this graph please?",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1myv75j/can_anyone_explain_whats_going_on_in_this_graph/",
+      "score": 19,
+      "comments": 5,
+      "post_id": "t3_1myv75j",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "sillyapple1738",
+      "author_id": "t2_ghf00b9da",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-24T13:11:07.319000+0000",
+      "content_href": "https://i.redd.it/jbyv3xshvykf1.png",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://preview.redd.it/can-anyone-explain-whats-going-on-in-this-graph-please-v0-jbyv3xshvykf1.png?width=640&crop=smart&auto=webp&s=65b7d9f2de69125552bd0d3a45422dafdaf756b1"
+    },
+    {
+      "title": "Desmos is a good tool for graphing gnarly integral equations",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1mypcc1/desmos_is_a_good_tool_for_graphing_gnarly/",
+      "score": 23,
+      "comments": 11,
+      "post_id": "t3_1mypcc1",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "OverJohn",
+      "author_id": "t2_6wf7gxht",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-24T07:35:10.840000+0000",
+      "content_href": "https://i.redd.it/66bhjuqg7xkf1.png",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2vej73/styles/profileIcon_8osijoxcqecd1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=87581115ab34996d842f47ae39fcc518ae7a056b"
+    },
+    {
+      "title": "Fractal weirdness with summation of the sin function",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1mym55w/fractal_weirdness_with_summation_of_the_sin/",
+      "score": 17,
+      "comments": 3,
+      "post_id": "t3_1mym55w",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "moistmaster690",
+      "author_id": "t2_2ri2qb54",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-24T04:23:34.786000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mym55w",
+      "content_preview": "",
+      "flair": [
+        "Graph"
+      ],
+      "thumbnail_url": "https://preview.redd.it/fractal-weirdness-with-summation-of-the-sin-function-v0-he75j3os8wkf1.png?width=640&crop=smart&auto=webp&s=96e83115fe49f6c72a8172d5cf94906267e8894f"
+    },
+    {
+      "title": "how to make a bridge?",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1mybcaw/how_to_make_a_bridge/",
+      "score": 18,
+      "comments": 12,
+      "post_id": "t3_1mybcaw",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ube_worshipper16",
+      "author_id": "t2_paaofsz73",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-23T19:57:09.030000+0000",
+      "content_href": "https://i.redd.it/uuh5et27rtkf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://preview.redd.it/how-to-make-a-bridge-v0-uuh5et27rtkf1.jpeg?width=640&crop=smart&auto=webp&s=f4837963b94e8302a322d8926fe909e06b1b8f25"
+    },
+    {
+      "title": "Function that outputs the amount of letters in the spelling of a number",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1mxiarl/function_that_outputs_the_amount_of_letters_in/",
+      "score": 19,
+      "comments": 2,
+      "post_id": "t3_1mxiarl",
+      "post_type": "multi_media",
+      "domain": "self.desmos",
+      "author": "Lanky-Position4388",
+      "author_id": "t2_tsi631x0h",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-22T21:00:04.717000+0000",
+      "content_href": "https://www.reddit.com/r/desmos/comments/1mxiarl/function_that_outputs_the_amount_of_letters_in/",
+      "content_preview": "",
+      "flair": [
+        "Maths"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Is there a way to add all outputs of a function to a table or a list?",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n5jfyn/is_there_a_way_to_add_all_outputs_of_a_function/",
+      "score": 3,
+      "comments": 6,
+      "post_id": "t3_1n5jfyn",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Japheth_Kaira",
+      "author_id": "t2_dmdni5mpe",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-09-01T08:42:44.004000+0000",
+      "content_href": "https://i.redd.it/3k1z7gt2nimf1.png",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8n4fuy/styles/profileIcon_ndhhygmxvahf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7b37684ae5a4b7ed51d3d9eacb083f550e101da1"
+    },
+    {
+      "title": "Perpendicular Bisector of a Chord",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1mxbmu3/perpendicular_bisector_of_a_chord/",
+      "score": 9,
+      "comments": 7,
+      "post_id": "t3_1mxbmu3",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Patient_Rabbit4333",
+      "author_id": "t2_pfyqq27hd",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-22T16:44:45.355000+0000",
+      "content_href": "https://i.redd.it/ufrzhx0mnlkf1.png",
+      "content_preview": "",
+      "flair": [
+        "Geometry"
+      ],
+      "thumbnail_url": "https://preview.redd.it/perpendicular-bisector-of-a-chord-v0-ufrzhx0mnlkf1.png?width=640&crop=smart&auto=webp&s=4976efc53371c3cb5f8ceb88dcc7d01161ab231d"
+    },
+    {
+      "title": "Mandelbrot in 1 line",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1mjbtdy/mandelbrot_in_1_line/",
+      "score": 299,
+      "comments": 7,
+      "post_id": "t3_1mjbtdy",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Legitimate_Animal796",
+      "author_id": "t2_avk2s271m",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-06T18:00:05.802000+0000",
+      "content_href": "https://i.redd.it/ko6exdhtufhf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Graph"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "I remade Adidas' graph",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1mv9c6l/i_remade_adidas_graph/",
+      "score": 296,
+      "comments": 13,
+      "post_id": "t3_1mv9c6l",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "SP4CEBAR-YT",
+      "author_id": "t2_44s14xyg",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-20T08:45:58.562000+0000",
+      "content_href": "https://i.redd.it/c7g4j7up05kf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Graph"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1prghq/styles/profileIcon_i5tiznv6fp931.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=20f7d1c86f3796a1b2bf6ef6952c0d3c225af1da"
+    },
+    {
+      "title": "Undefined doesnt break a lot of things",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1mx94b0/undefined_doesnt_break_a_lot_of_things/",
+      "score": 7,
+      "comments": 1,
+      "post_id": "t3_1mx94b0",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Electrical_Let9087",
+      "author_id": "t2_eegqm3l7v",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-22T15:10:13.817000+0000",
+      "content_href": "https://i.redd.it/rwxqaox17lkf1.png",
+      "content_preview": "",
+      "flair": [
+        "Graph"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_agnhml/styles/profileIcon_35hoirjumjhf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=02c9637b5147a7bdecf00241fec43f6f3600e013"
+    },
+    {
+      "title": "rogue planet & galaxy",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n16y21/rogue_planet_galaxy/",
+      "score": 189,
+      "comments": 13,
+      "post_id": "t3_1n16y21",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "scrumptious_hotpot",
+      "author_id": "t2_1v8x58ab4l",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-27T03:53:29.131000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n16y21",
+      "content_preview": "",
+      "flair": [
+        "Art"
+      ],
+      "thumbnail_url": "https://preview.redd.it/rogue-planet-galaxy-v0-x3nnfaq1ihlf1.png?width=640&crop=smart&auto=webp&s=c5c9bbdbabaa0d49c5116ef3d3e9d15f6ba2ee90"
+    },
+    {
+      "title": "fire exit floor plan",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1mwdezt/fire_exit_floor_plan/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1mwdezt",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Beginning_Taro2339",
+      "author_id": "t2_81kz5n3j",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-21T15:01:34.468000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mwdezt",
+      "content_preview": "",
+      "flair": [
+        "Graph"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Is this a weirsttrass function? (pls forgive my spelling)",
+      "permalink": "https://www.reddit.com/r/desmos/comments/1n2zvn5/is_this_a_weirsttrass_function_pls_forgive_my/",
+      "score": 128,
+      "comments": 21,
+      "post_id": "t3_1n2zvn5",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Wise_Excitement4433",
+      "author_id": "t2_1qi2b3yy9u",
+      "subreddit_id": "t5_2z88j",
+      "subreddit": "r/desmos",
+      "created_ts": "2025-08-29T06:23:45.654000+0000",
+      "content_href": "https://i.redd.it/ivfzcf8bjwlf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    }
+  ],
+  "scraped_at": "2025-09-02T14:08:46.961886"
+}

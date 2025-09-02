@@ -1,0 +1,1005 @@
+{
+  "subreddit": "i2p",
+  "url": "https://www.reddit.com/r/i2p",
+  "meta": {
+    "title": "I2P - Private P2P Network",
+    "members_text": "896"
+  },
+  "posts": [
+    {
+      "title": "I2P not working on Linux Mint",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1n1nmrh/i2p_not_working_on_linux_mint/",
+      "score": 4,
+      "comments": 1,
+      "post_id": "t3_1n1nmrh",
+      "post_type": "multi_media",
+      "domain": "self.i2p",
+      "author": "EnoughTicket7243",
+      "author_id": "t2_f5abmb49",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-27T17:36:57.007000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1n1nmrh/i2p_not_working_on_linux_mint/",
+      "content_preview": "",
+      "flair": [
+        "FAQ Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "i2p console on android??",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1n1cvic/i2p_console_on_android/",
+      "score": 6,
+      "comments": 2,
+      "post_id": "t3_1n1cvic",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "Suspicious-Couple489",
+      "author_id": "t2_1i3otme8vp",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-27T10:01:56.023000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1n1cvic/i2p_console_on_android/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Shodan Open port 444 I2P proxy",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1n12qx9/shodan_open_port_444_i2p_proxy/",
+      "score": 21,
+      "comments": 1,
+      "post_id": "t3_1n12qx9",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "RiseOwn7119",
+      "author_id": "t2_1tb98bxmw0",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-27T00:31:08.953000+0000",
+      "content_href": "https://i.redd.it/7uauqaudiglf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Java I2P"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Gateways for i2p?",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1myuryp/gateways_for_i2p/",
+      "score": 6,
+      "comments": 3,
+      "post_id": "t3_1myuryp",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "autonerf",
+      "author_id": "t2_rha4ccwmj",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-24T12:52:12.547000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1myuryp/gateways_for_i2p/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Does anonymity suffer from being firewalled?",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1my1sen/does_anonymity_suffer_from_being_firewalled/",
+      "score": 11,
+      "comments": 3,
+      "post_id": "t3_1my1sen",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "ParsnipCommercial333",
+      "author_id": "t2_7jzkebsi",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-23T13:41:54.398000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1my1sen/does_anonymity_suffer_from_being_firewalled/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Need firewall rules to allow I2Pd (PF packet filter)",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mwu2w5/need_firewall_rules_to_allow_i2pd_pf_packet_filter/",
+      "score": 3,
+      "comments": 3,
+      "post_id": "t3_1mwu2w5",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "MissingGhost",
+      "author_id": "t2_7mjro",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-22T02:03:34.366000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1mwu2w5/need_firewall_rules_to_allow_i2pd_pf_packet_filter/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Just discovered i2p and it reminds me of the sleuth years. But it seems kinda dead",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mvy0ew/just_discovered_i2p_and_it_reminds_me_of_the/",
+      "score": 45,
+      "comments": 10,
+      "post_id": "t3_1mvy0ew",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "kusoge-lover",
+      "author_id": "t2_d0ohtowm8",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-21T01:49:46.894000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1mvy0ew/just_discovered_i2p_and_it_reminds_me_of_the/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Helping i2p",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mw433d/helping_i2p/",
+      "score": 10,
+      "comments": 9,
+      "post_id": "t3_1mw433d",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "heslia",
+      "author_id": "t2_11z8fdgx1o",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-21T07:15:19.289000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1mw433d/helping_i2p/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Looking for Reliable Market Places",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mvuox1/looking_for_reliable_market_places/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1mvuox1",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "Boring-Design-8728",
+      "author_id": "t2_bcwl3jej",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-20T23:18:56.699000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1mvuox1/looking_for_reliable_market_places/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "iptables - firewall rules for i2p+ when in a VM",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1musgc9/iptables_firewall_rules_for_i2p_when_in_a_vm/",
+      "score": 8,
+      "comments": 2,
+      "post_id": "t3_1musgc9",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "evild4ve",
+      "author_id": "t2_d5eqrh1j",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-19T19:30:30.964000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1musgc9/iptables_firewall_rules_for_i2p_when_in_a_vm/",
+      "content_preview": "",
+      "flair": [
+        "Educational"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4px9x0/styles/profileIcon_7t1y3li2vwbd1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=9e0c6a29416ad2a10dddc89912e0c43489242c74"
+    },
+    {
+      "title": "Do these eepsites exist?",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mtucag/do_these_eepsites_exist/",
+      "score": 16,
+      "comments": 10,
+      "post_id": "t3_1mtucag",
+      "post_type": "link",
+      "domain": "reddogsecurity.substack.com",
+      "author": "Gbizzle69",
+      "author_id": "t2_a45ia",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-18T18:31:44.382000+0000",
+      "content_href": "https://reddogsecurity.substack.com/p/inside-i2p-the-underground-internet",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/JTTNPk6TwiUl6U4AMPHC219LO701b4KemnS0O5_F0NA.jpeg?width=140&height=82&crop=140:82,smart&auto=webp&s=8641d118219fa00c8278876b6054133d20ddb1d9"
+    },
+    {
+      "title": "How much traffic do you contribute to the I2P network?",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mtm4oj/how_much_traffic_do_you_contribute_to_the_i2p/",
+      "score": 13,
+      "comments": 11,
+      "post_id": "t3_1mtm4oj",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "Far_Cartographer_924",
+      "author_id": "t2_o20t8tov",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-18T13:31:15.599000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1mtm4oj/how_much_traffic_do_you_contribute_to_the_i2p/",
+      "content_preview": "",
+      "flair": [
+        "Educational"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Problem with dedicated IP and with i2pd",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mtipsq/problem_with_dedicated_ip_and_with_i2pd/",
+      "score": 6,
+      "comments": 4,
+      "post_id": "t3_1mtipsq",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "VirtualLettuce8857",
+      "author_id": "t2_1vx9diaq7a",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-18T10:55:04.657000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1mtipsq/problem_with_dedicated_ip_and_with_i2pd/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "SOCKS client tunnel appears to be rejecting connections?",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1ms0qam/socks_client_tunnel_appears_to_be_rejecting/",
+      "score": 4,
+      "comments": 8,
+      "post_id": "t3_1ms0qam",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "yersinia_p3st1s",
+      "author_id": "t2_cvhxg0zf",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-16T16:50:21.247000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1ms0qam/socks_client_tunnel_appears_to_be_rejecting/",
+      "content_preview": "",
+      "flair": [
+        "Java I2P"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Need a statistical I2P network node tool",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mro2tg/need_a_statistical_i2p_network_node_tool/",
+      "score": 11,
+      "comments": 2,
+      "post_id": "t3_1mro2tg",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "Far_Cartographer_924",
+      "author_id": "t2_o20t8tov",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-16T07:24:55.319000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1mro2tg/need_a_statistical_i2p_network_node_tool/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "An implementation of a gateway that forces all traffic to go to i2p",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mpof1r/an_implementation_of_a_gateway_that_forces_all/",
+      "score": 37,
+      "comments": 5,
+      "post_id": "t3_1mpof1r",
+      "post_type": "multi_media",
+      "domain": "self.i2p",
+      "author": "Far_Cartographer_924",
+      "author_id": "t2_o20t8tov",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-14T02:36:08.211000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1mpof1r/an_implementation_of_a_gateway_that_forces_all/",
+      "content_preview": "",
+      "flair": [
+        "Educational"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Put together a doc for help with setting up irc2p (irc over i2p) using irssi.",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mosk4r/put_together_a_doc_for_help_with_setting_up_irc2p/",
+      "score": 24,
+      "comments": 1,
+      "post_id": "t3_1mosk4r",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "0x7_",
+      "author_id": "t2_1hnoss4b2e",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-13T02:32:14.385000+0000",
+      "content_href": "https://github.com/cons0le7/irc2p-irssi",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/CqvHnRbetLYXH7WWDhAQ8b6crq1ICgaCiWEsfsQ-OyQ.png?width=140&height=70&crop=140:70,smart&auto=webp&s=d7d84eea056a69cd45c2f8151ba45dd32f5b9576"
+    },
+    {
+      "title": "Is there any way to achieve proper multi-homing on I2P?",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1moc65n/is_there_any_way_to_achieve_proper_multihoming_on/",
+      "score": 13,
+      "comments": 4,
+      "post_id": "t3_1moc65n",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "un_Hybride_En_Exil",
+      "author_id": "t2_lim8gfua",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-12T15:41:34.481000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1moc65n/is_there_any_way_to_achieve_proper_multihoming_on/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_64rqmx/styles/profileIcon_0q1e7o5yjuua1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=56a735cf647b69b68302beb1943c46710ca74225"
+    },
+    {
+      "title": "Is there really something in i2p? I haven't found anything in hours of searching.",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mn8f26/is_there_really_something_in_i2p_i_havent_found/",
+      "score": 36,
+      "comments": 29,
+      "post_id": "t3_1mn8f26",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "Separate-Pop-3008",
+      "author_id": "t2_swbcwtyjk",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-11T09:32:39.986000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1mn8f26/is_there_really_something_in_i2p_i_havent_found/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_attm62/styles/profileIcon_hbr3192x0qme1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3f7c01bc0ca841b881b1561cf53c5a8beb588e30"
+    },
+    {
+      "title": "i2nix - building an i2p-centric Linux OS based on Whonix isolation",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mn0jja/i2nix_building_an_i2pcentric_linux_os_based_on/",
+      "score": 27,
+      "comments": 7,
+      "post_id": "t3_1mn0jja",
+      "post_type": "multi_media",
+      "domain": "self.i2p",
+      "author": "Winter-Sea-9097",
+      "author_id": "t2_1284hjsimi",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-11T01:53:16.245000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1mn0jja/i2nix_building_an_i2pcentric_linux_os_based_on/",
+      "content_preview": "",
+      "flair": [
+        "Guide/Tutorial"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Is it possible to register on project's gitea?",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mn6r2g/is_it_possible_to_register_on_projects_gitea/",
+      "score": 3,
+      "comments": 3,
+      "post_id": "t3_1mn6r2g",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "GothicCrow",
+      "author_id": "t2_14tw27",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-11T07:42:39.110000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1mn6r2g/is_it_possible_to_register_on_projects_gitea/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "BADGE ALERT I2PxDC33 Limited Edition Customizable Obfuscation Kits",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mmlyt6/badge_alert_i2pxdc33_limited_edition_customizable/",
+      "score": 9,
+      "comments": 2,
+      "post_id": "t3_1mmlyt6",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "alreadyburnt",
+      "author_id": "t2_1230ns",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-10T15:49:49.331000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1mmlyt6/badge_alert_i2pxdc33_limited_edition_customizable/",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Systemctl service ignores clients.config",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mmxoeu/systemctl_service_ignores_clientsconfig/",
+      "score": 2,
+      "comments": 7,
+      "post_id": "t3_1mmxoeu",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "iensteni",
+      "author_id": "t2_38ttw1bc",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-10T23:38:29.888000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1mmxoeu/systemctl_service_ignores_clientsconfig/",
+      "content_preview": "",
+      "flair": [
+        "Java I2P"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "POP-UP AD: I2PxDEFCONxP2PIZZAxPOOLPARTY.DEV: 6p, Residence Inn Convention Center **watch comments for after-party information**",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mm4svk/popup_ad_i2pxdefconxp2pizzaxpoolpartydev_6p/",
+      "score": 8,
+      "comments": 1,
+      "post_id": "t3_1mm4svk",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "alreadyburnt",
+      "author_id": "t2_1230ns",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-10T00:34:17.548000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1mm4svk/popup_ad_i2pxdefconxp2pizzaxpoolpartydev_6p/",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "::I2PxDEFCON33xCircus_Circus_Takeover.Underground:: No Clowns, No Masters",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mm9jaf/i2pxdefcon33xcircus_circus_takeoverunderground_no/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1mm9jaf",
+      "post_type": "link",
+      "domain": "reddit.com",
+      "author": "alreadyburnt",
+      "author_id": "t2_1230ns",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-10T04:38:59.701000+0000",
+      "content_href": "https://www.reddit.com/r/Defcon/comments/1mm9guo/i2pxdefcon33xcircus_circus_takeoverunderground_no/?share_id=AnC50MMq5Fa7mKMhRc4-D&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://b.thumbs.redditmedia.com/IghbXdY3rPd_t3zD5eT-cZajEyLzhKx8vYUG2vj1gRk.jpg"
+    },
+    {
+      "title": "Any I2P folks at DEF CON 33?",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mlj8h0/any_i2p_folks_at_def_con_33/",
+      "score": 96,
+      "comments": 12,
+      "post_id": "t3_1mlj8h0",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "[deleted]",
+      "author_id": "",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-09T07:10:06.793000+0000",
+      "content_href": "https://i.redd.it/qkud524l1yhf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/any-i2p-folks-at-def-con-33-v0-qkud524l1yhf1.jpeg?width=640&crop=smart&auto=webp&s=daf9c5f681992ad584da434b33278b4db103e642"
+    },
+    {
+      "title": "I2p stucked on firewalled",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mljhnu/i2p_stucked_on_firewalled/",
+      "score": 22,
+      "comments": 4,
+      "post_id": "t3_1mljhnu",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Emergency_Neat_5125",
+      "author_id": "t2_shvvq1356",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-09T07:26:38.838000+0000",
+      "content_href": "https://i.redd.it/rsgqz39j4yhf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i2p-stucked-on-firewalled-v0-rsgqz39j4yhf1.jpeg?width=640&crop=smart&auto=webp&s=f1246b6254fae0dfd4b84677c9a9bb1dcf2798bb"
+    },
+    {
+      "title": "Is I2PSnark enough for anonymous torrenting or should I use BiglyBT?",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mlb1ds/is_i2psnark_enough_for_anonymous_torrenting_or/",
+      "score": 14,
+      "comments": 4,
+      "post_id": "t3_1mlb1ds",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "SHADOW_HECKER",
+      "author_id": "t2_d7vslxxdt",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-08T23:56:35.408000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1mlb1ds/is_i2psnark_enough_for_anonymous_torrenting_or/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I2cp error listening to port 7654",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mlcjr4/i2cp_error_listening_to_port_7654/",
+      "score": 8,
+      "comments": 2,
+      "post_id": "t3_1mlcjr4",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Emergency_Neat_5125",
+      "author_id": "t2_shvvq1356",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-09T01:07:28.994000+0000",
+      "content_href": "https://i.redd.it/vry1sa1w8whf1.png",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i2cp-error-listening-to-port-7654-v0-vry1sa1w8whf1.png?width=640&crop=smart&auto=webp&s=93621b2a744491cd2872777003ba62a77e171b2d"
+    },
+    {
+      "title": "i2p hidden Links Upated 2025",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mg5gow/i2p_hidden_links_upated_2025/",
+      "score": 15,
+      "comments": 4,
+      "post_id": "t3_1mg5gow",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "Boring-Design-8728",
+      "author_id": "t2_bcwl3jej",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-03T00:18:15.233000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1mg5gow/i2p_hidden_links_upated_2025/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I2p Android setup",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mgdv0p/i2p_android_setup/",
+      "score": 0,
+      "comments": 5,
+      "post_id": "t3_1mgdv0p",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Low_Context8602",
+      "author_id": "t2_vucpyh8p6",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-08-03T08:10:52.995000+0000",
+      "content_href": "https://i.redd.it/3mjyffkyirgf1.png",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i2p-android-setup-v0-3mjyffkyirgf1.png?width=640&crop=smart&auto=webp&s=47825e7c10200e5a66ca8b928ee7725fb0bbab28"
+    },
+    {
+      "title": "HTTP or SOCKS proxy ?",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mbnfug/http_or_socks_proxy/",
+      "score": 11,
+      "comments": 6,
+      "post_id": "t3_1mbnfug",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "Alerymin",
+      "author_id": "t2_1h0idin4k5",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-07-28T18:01:08.061000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1mbnfug/http_or_socks_proxy/",
+      "content_preview": "",
+      "flair": [
+        "FAQ Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dc7dpd/styles/profileIcon_26szco8uykce1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=722e7bb0e217f575a31127ac2719b0348e63d27a"
+    },
+    {
+      "title": "Some questions about anonymity",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mbc5qh/some_questions_about_anonymity/",
+      "score": 20,
+      "comments": 10,
+      "post_id": "t3_1mbc5qh",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "Richard_the_XVIII",
+      "author_id": "t2_7qwyuk39",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-07-28T10:03:15.589000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1mbc5qh/some_questions_about_anonymity/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Tell me something New",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1mbck9t/tell_me_something_new/",
+      "score": 12,
+      "comments": 17,
+      "post_id": "t3_1mbck9t",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "Wise-Paint-7408",
+      "author_id": "t2_12h504qc7f",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-07-28T10:28:05.102000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1mbck9t/tell_me_something_new/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Game online i2p",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1m8va7m/game_online_i2p/",
+      "score": 7,
+      "comments": 7,
+      "post_id": "t3_1m8va7m",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "heslia",
+      "author_id": "t2_11z8fdgx1o",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-07-25T10:09:01.101000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1m8va7m/game_online_i2p/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "in the app http injector",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1m8w9z9/in_the_app_http_injector/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1m8w9z9",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "Radiant_Day6931",
+      "author_id": "t2_1ng4fofs9j",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-07-25T11:08:13.801000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1m8w9z9/in_the_app_http_injector/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "I am struggling to get anywhere",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1m8bhu2/i_am_struggling_to_get_anywhere/",
+      "score": 13,
+      "comments": 2,
+      "post_id": "t3_1m8bhu2",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "FuzzyBanana2754",
+      "author_id": "t2_8z09fbw8",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-07-24T17:59:45.370000+0000",
+      "content_href": "https://i.redd.it/pi0gnnjw2vef1.png",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i-am-struggling-to-get-anywhere-v0-pi0gnnjw2vef1.png?width=640&crop=smart&auto=webp&s=ce8f10a7ae1b3f3fd300efc759109f7a827066d6"
+    },
+    {
+      "title": "Ok whats going on",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1m6wy8q/ok_whats_going_on/",
+      "score": 8,
+      "comments": 3,
+      "post_id": "t3_1m6wy8q",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Critica0",
+      "author_id": "t2_1t26vg4o1o",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-07-23T02:01:27.031000+0000",
+      "content_href": "https://i.redd.it/1x8ucad07jef1.png",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://preview.redd.it/ok-whats-going-on-v0-1x8ucad07jef1.png?width=640&crop=smart&auto=webp&s=80d67da8fd8a0db50372502b936a6f3962a3bc72"
+    },
+    {
+      "title": "Is i2p being censored by the government in Mauritius 🇲🇺, or is this a result of something else?",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1m0gwet/is_i2p_being_censored_by_the_government_in/",
+      "score": 82,
+      "comments": 16,
+      "post_id": "t3_1m0gwet",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "[deleted]",
+      "author_id": "",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-07-15T12:49:48.451000+0000",
+      "content_href": "https://i.redd.it/lng0rpieb1df1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Android"
+      ],
+      "thumbnail_url": "https://preview.redd.it/is-i2p-being-censored-by-the-government-in-mauritius-or-is-v0-lng0rpieb1df1.jpeg?width=640&crop=smart&auto=webp&s=3172e5b47de48f38f240c23261e6174c9ed03cd8"
+    },
+    {
+      "title": "Reseeding issue with custom embedded I2P router (works only on some systems)",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1m0f3wb/reseeding_issue_with_custom_embedded_i2p_router/",
+      "score": 2,
+      "comments": 9,
+      "post_id": "t3_1m0f3wb",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "Severe-Lychee-6722",
+      "author_id": "t2_ubi1fu09",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-07-15T11:19:30.430000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1m0f3wb/reseeding_issue_with_custom_embedded_i2p_router/",
+      "content_preview": "",
+      "flair": [
+        "Java I2P"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "I2P for P2P only?",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1lwjws3/i2p_for_p2p_only/",
+      "score": 15,
+      "comments": 16,
+      "post_id": "t3_1lwjws3",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "Ok_Front_7814",
+      "author_id": "t2_1i4p98x3zq",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-07-10T18:15:13.273000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1lwjws3/i2p_for_p2p_only/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Does the new i2p java update herald the ability to defend against attacks from quantum computers?",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1luhpl6/does_the_new_i2p_java_update_herald_the_ability/",
+      "score": 11,
+      "comments": 5,
+      "post_id": "t3_1luhpl6",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "Far_Cartographer_924",
+      "author_id": "t2_o20t8tov",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-07-08T06:42:00.382000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1luhpl6/does_the_new_i2p_java_update_herald_the_ability/",
+      "content_preview": "",
+      "flair": [
+        "Java I2P"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Trying to do multiplayer using Torque 3D + I2P",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1luiscy/trying_to_do_multiplayer_using_torque_3d_i2p/",
+      "score": 7,
+      "comments": 1,
+      "post_id": "t3_1luiscy",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "SEmogloopYT",
+      "author_id": "t2_8c9vi7uo",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-07-08T07:54:40.749000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1luiscy/trying_to_do_multiplayer_using_torque_3d_i2p/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Is deltachat + i2p mail feasible?",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1ltk6tz/is_deltachat_i2p_mail_feasible/",
+      "score": 12,
+      "comments": 1,
+      "post_id": "t3_1ltk6tz",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "Far_Cartographer_924",
+      "author_id": "t2_o20t8tov",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-07-07T03:42:07.031000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1ltk6tz/is_deltachat_i2p_mail_feasible/",
+      "content_preview": "",
+      "flair": [
+        "Guide/Tutorial"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Remote Cloud Post setup",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1ltjhgx/remote_cloud_post_setup/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1ltjhgx",
+      "post_type": "multi_media",
+      "domain": "self.i2p",
+      "author": "Put_the_bunny_down",
+      "author_id": "t2_w4w3v3d4b",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-07-07T03:03:43.801000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1ltjhgx/remote_cloud_post_setup/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Android app does not create client IRC tunnel",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1lszzmy/android_app_does_not_create_client_irc_tunnel/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1lszzmy",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "IBNash",
+      "author_id": "t2_mdf17",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-07-06T12:26:12.611000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1lszzmy/android_app_does_not_create_client_irc_tunnel/",
+      "content_preview": "",
+      "flair": [
+        "FAQ Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_aneqw/styles/profileIcon_612rarsl88121.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5f4749ab961d40a97b0750ee1a582206f69488b6"
+    },
+    {
+      "title": "Proxy not ready",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1lqfmyj/proxy_not_ready/",
+      "score": 4,
+      "comments": 2,
+      "post_id": "t3_1lqfmyj",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "totential_rigger",
+      "author_id": "t2_4y6n5on",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-07-03T03:39:13.029000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1lqfmyj/proxy_not_ready/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Buongiorno a tutti sono nuovo di questa rete i2p ne ho sentito parlare qui su reddit",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1lprghx/buongiorno_a_tutti_sono_nuovo_di_questa_rete_i2p/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1lprghx",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "Sea-Skin-785",
+      "author_id": "t2_1h03y7ceat",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-07-02T09:33:23.496000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1lprghx/buongiorno_a_tutti_sono_nuovo_di_questa_rete_i2p/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "I am a little floored. 500/300mbit home link. Thats a lot of traffic. o.o",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1lmrhr9/i_am_a_little_floored_500300mbit_home_link_thats/",
+      "score": 29,
+      "comments": 6,
+      "post_id": "t3_1lmrhr9",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "IngwiePhoenix",
+      "author_id": "t2_2c8xodlx",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-06-28T16:51:14.433000+0000",
+      "content_href": "https://i.redd.it/tw6gpqgr6p9f1.png",
+      "content_preview": "",
+      "flair": [
+        "Educational"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "I2p on vps",
+      "permalink": "https://www.reddit.com/r/i2p/comments/1lmp4nw/i2p_on_vps/",
+      "score": 7,
+      "comments": 3,
+      "post_id": "t3_1lmp4nw",
+      "post_type": "text",
+      "domain": "self.i2p",
+      "author": "[deleted]",
+      "author_id": "",
+      "subreddit_id": "t5_2s99t",
+      "subreddit": "r/i2p",
+      "created_ts": "2025-06-28T15:11:30.601000+0000",
+      "content_href": "https://www.reddit.com/r/i2p/comments/1lmp4nw/i2p_on_vps/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    }
+  ],
+  "scraped_at": "2025-09-02T14:13:35.828149"
+}

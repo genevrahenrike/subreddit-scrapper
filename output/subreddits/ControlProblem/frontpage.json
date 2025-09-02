@@ -1,0 +1,1011 @@
+{
+  "subreddit": "ControlProblem",
+  "url": "https://www.reddit.com/r/ControlProblem",
+  "meta": {
+    "title": "The artificial superintelligence alignment problem",
+    "members_text": "600"
+  },
+  "posts": [
+    {
+      "title": "is there ANY hope that AI wont kill us all?",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n64ixw/is_there_any_hope_that_ai_wont_kill_us_all/",
+      "score": 0,
+      "comments": 126,
+      "post_id": "t3_1n64ixw",
+      "post_type": "text",
+      "domain": "self.ControlProblem",
+      "author": "the_mainpirate",
+      "author_id": "t2_4t34ju8d",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-09-01T23:48:04.902000+0000",
+      "content_href": "https://www.reddit.com/r/ControlProblem/comments/1n64ixw/is_there_any_hope_that_ai_wont_kill_us_all/",
+      "content_preview": "",
+      "flair": [
+        "External discussion link"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "One of the hardest problems in AI alignment is people's inability to understand how hard the problem is.",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n36d39/one_of_the_hardest_problems_in_ai_alignment_is/",
+      "score": 37,
+      "comments": 36,
+      "post_id": "t3_1n36d39",
+      "post_type": "crosspost",
+      "domain": "v.redd.it",
+      "author": "michael-lethal_ai",
+      "author_id": "t2_1ooet3bipx",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-29T12:41:37.600000+0000",
+      "content_href": "/r/AIDangers/comments/1n36cs8/one_of_the_hardest_problems_in_ai_alignment_is/",
+      "content_preview": "",
+      "flair": [
+        "Fun/meme"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/one-of-the-hardest-problems-in-ai-alignment-is-peoples-v0-dXZ6eGZ1eXVleWxmMTDxBOA1LDdWZXbuIqy4TDmkamEQsavH3JNgt37a_FIs.png?width=640&crop=smart&format=pjpg&auto=webp&s=cc83113aa15055d824ee8975dafad5ef24500134"
+    },
+    {
+      "title": "When two agents debate cognitive diversity…",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n6lw9s/when_two_agents_debate_cognitive_diversity/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1n6lw9s",
+      "post_type": "text",
+      "domain": "self.ControlProblem",
+      "author": "Prize_Tea_996",
+      "author_id": "t2_z67gwyof4",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-09-02T15:02:06.940000+0000",
+      "content_href": "https://www.reddit.com/r/ControlProblem/comments/1n6lw9s/when_two_agents_debate_cognitive_diversity/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Elon Musk Says Grok Will Be Fixed After Chatbot Sided With Sam Altman In Spat Over Potential OpenAI Lawsuit",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1mp8jjy/elon_musk_says_grok_will_be_fixed_after_chatbot/",
+      "score": 145,
+      "comments": 53,
+      "post_id": "t3_1mp8jjy",
+      "post_type": "crosspost",
+      "domain": "forbes.com",
+      "author": "chillinewman",
+      "author_id": "t2_6lvn2",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-13T16:05:08.533000+0000",
+      "content_href": "/r/grok/comments/1mp4ht0/elon_musk_says_grok_will_be_fixed_after_chatbot/",
+      "content_preview": "",
+      "flair": [
+        "General news"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/5YoPR6m7rSbOvh_8OldZ65Tmw91_uaVNdnv7tyf8BbM.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=341eda1764a16e47413045fe31ab7d7403f27b76"
+    },
+    {
+      "title": "Anthropic’s Jack Clark says AI  is not slowing down, thinks “things are pretty well on track” for the powerful AI systems defined in Machines of Loving Grace to be buildable by the end of 2026",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n68sws/anthropics_jack_clark_says_ai_is_not_slowing_down/",
+      "score": 4,
+      "comments": 2,
+      "post_id": "t3_1n68sws",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "chillinewman",
+      "author_id": "t2_6lvn2",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-09-02T03:15:37.018000+0000",
+      "content_href": "/r/singularity/comments/1n5xv65/anthropics_jack_clark_says_ai_is_not_slowing_down/",
+      "content_preview": "",
+      "flair": [
+        "Opinion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/anthropics-jack-clark-says-ai-is-not-slowing-down-thinks-v0-9jf38nlprlmf1.jpg?width=640&crop=smart&auto=webp&s=c3a4f255aefe774f55d1156e5dd897a1945b4dd8"
+    },
+    {
+      "title": "Geoffrey Hinton says AIs are becoming superhuman at manipulation: \"If you take an AI and a person and get them to manipulate someone, they're comparable. But if they can both see that person's Facebook page, the AI is actually better at manipulating the person.\"",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n5k8r2/geoffrey_hinton_says_ais_are_becoming_superhuman/",
+      "score": 16,
+      "comments": 2,
+      "post_id": "t3_1n5k8r2",
+      "post_type": "crosspost",
+      "domain": "v.redd.it",
+      "author": "chillinewman",
+      "author_id": "t2_6lvn2",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-09-01T09:34:00.701000+0000",
+      "content_href": "/r/artificial/comments/1n5k5q1/geoffrey_hinton_says_ais_are_becoming_superhuman/",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/geoffrey-hinton-says-ais-are-becoming-superhuman-at-v0-aXZ0bDUyMDh2aW1mMRlywMWU1Mi64u2hxQQc2DYmucixbfHLCcxT0JklXgJy.png?width=640&crop=smart&format=pjpg&auto=webp&s=0b13e8001981963281e543b74004a7530a2da6cf"
+    },
+    {
+      "title": "Do something you can be proud of",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n5xyzj/do_something_you_can_be_proud_of/",
+      "score": 9,
+      "comments": 3,
+      "post_id": "t3_1n5xyzj",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "michael-lethal_ai",
+      "author_id": "t2_1ooet3bipx",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-09-01T19:17:57.390000+0000",
+      "content_href": "/r/AIDangers/comments/1n5v8sz/do_something_you_can_be_proud_of/",
+      "content_preview": "",
+      "flair": [
+        "Fun/meme"
+      ],
+      "thumbnail_url": "https://preview.redd.it/do-something-you-can-be-proud-of-v0-2d4nafkhalmf1.png?width=640&crop=smart&auto=webp&s=1faac2f7457945f2bc14cee27d1b0a61dcf209ee"
+    },
+    {
+      "title": "Labor Day 2025: The last one before AI makes this choice for us\n\nWhile we debate remote work and 4-day weeks, AI is quietly replacing 76,000 workers. Not factory workers—knowledge workers. Customer… | Eric Moore",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n5xt7l/labor_day_2025_the_last_one_before_ai_makes_this/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n5xt7l",
+      "post_type": "link",
+      "domain": "linkedin.com",
+      "author": "Blahblahcomputer",
+      "author_id": "t2_151ymh",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-09-01T19:12:01.743000+0000",
+      "content_href": "https://www.linkedin.com/posts/emooreatx_labor-day-2025-the-last-one-before-ai-makes-activity-7368305059337601025-H9RM?utm_source=share&utm_medium=member_android&rcm=ACoAAAE9XhgBJsZuU2izERDolrRxIv0xMwtRkVU",
+      "content_preview": "",
+      "flair": [
+        "Discussion/question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Sam Altman, Mark Zuckerberg, and Peter Thiel are all building bunkers",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1mizfh4/sam_altman_mark_zuckerberg_and_peter_thiel_are/",
+      "score": 138,
+      "comments": 106,
+      "post_id": "t3_1mizfh4",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "chillinewman",
+      "author_id": "t2_6lvn2",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-06T08:50:16.952000+0000",
+      "content_href": "/r/OpenAI/comments/1mi65qt/sam_altman_mark_zuckerberg_and_peter_thiel_are/",
+      "content_preview": "",
+      "flair": [
+        "General news"
+      ],
+      "thumbnail_url": "https://preview.redd.it/sam-altman-mark-zuckerberg-and-peter-thiel-are-all-building-v0-n73bd58kn6hf1.png?width=640&crop=smart&auto=webp&s=abfd621414edf689a29b46a0f14fac9b6dfba11d"
+    },
+    {
+      "title": "ChatGPT accused of encouraging man's delusions to kill mother in 'first documented AI murder'",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n629v3/chatgpt_accused_of_encouraging_mans_delusions_to/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n629v3",
+      "post_type": "crosspost",
+      "domain": "themirror.com",
+      "author": "technologyisnatural",
+      "author_id": "t2_3xuv1",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-09-01T22:07:49.924000+0000",
+      "content_href": "/r/artificial/comments/1n5rqwr/chatgpt_accused_of_encouraging_mans_delusions_to/",
+      "content_preview": "",
+      "flair": [
+        "Article"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "If a robot kills a human being, should we legally consider that to be an industrial accident, or should it be labelled a homicide?",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n1c0b6/if_a_robot_kills_a_human_being_should_we_legally/",
+      "score": 13,
+      "comments": 45,
+      "post_id": "t3_1n1c0b6",
+      "post_type": "multi_media",
+      "domain": "self.ControlProblem",
+      "author": "moschles",
+      "author_id": "t2_e8kks",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-27T09:07:19.912000+0000",
+      "content_href": "https://www.reddit.com/r/ControlProblem/comments/1n1c0b6/if_a_robot_kills_a_human_being_should_we_legally/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "There are at least 83 distinct arguments people give to dismiss existential risks of future AI.  None of them are strong once you take your time to think them through. I'm cooking a series of deep dives - stay tuned",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n5aoa2/there_are_at_least_83_distinct_arguments_people/",
+      "score": 1,
+      "comments": 56,
+      "post_id": "t3_1n5aoa2",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "NAStrahl",
+      "author_id": "t2_n7wqr",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-09-01T00:33:06.575000+0000",
+      "content_href": "/r/AIDangers/comments/1n5ahdu/there_are_at_least_83_distinct_arguments_people/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/question"
+      ],
+      "thumbnail_url": "https://preview.redd.it/there-are-at-least-83-distinct-arguments-people-give-to-v0-iwe8dqf06gmf1.jpeg?width=640&crop=smart&auto=webp&s=118375f112bdb44386a741edb5f78c3c87c0c5d8"
+    },
+    {
+      "title": "Hypothesis: Once people realize how exponentially powerful AI is becoming, everyone will freak out! \nReality: People are busy",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n5btft/hypothesis_once_people_realize_how_exponentially/",
+      "score": 11,
+      "comments": 2,
+      "post_id": "t3_1n5btft",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "michael-lethal_ai",
+      "author_id": "t2_1ooet3bipx",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-09-01T01:30:39.161000+0000",
+      "content_href": "/r/AIDangers/comments/1n5b9ow/hypothesis_once_people_realize_how_exponentially/",
+      "content_preview": "",
+      "flair": [
+        "Fun/meme"
+      ],
+      "thumbnail_url": "https://preview.redd.it/hypothesis-once-people-realize-how-exponentially-powerful-v0-61wiq7m0dgmf1.png?width=640&crop=smart&auto=webp&s=4751a928d9bf1b5b5697069f4f12ecbf86211a0a"
+    },
+    {
+      "title": "Are there natural limits to AI growth?",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n4ntwg/are_there_natural_limits_to_ai_growth/",
+      "score": 3,
+      "comments": 37,
+      "post_id": "t3_1n4ntwg",
+      "post_type": "text",
+      "domain": "self.ControlProblem",
+      "author": "SolaTotaScriptura",
+      "author_id": "t2_5dpnr08",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-31T06:45:10.382000+0000",
+      "content_href": "https://www.reddit.com/r/ControlProblem/comments/1n4ntwg/are_there_natural_limits_to_ai_growth/",
+      "content_preview": "",
+      "flair": [
+        "Strategy/forecasting"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Joanna 🗿🗿",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1mpyebw/joanna/",
+      "score": 127,
+      "comments": 29,
+      "post_id": "t3_1mpyebw",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "VoiceAgainstAIMod",
+      "author_id": "t2_1s15t55ywy",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-14T11:49:50.891000+0000",
+      "content_href": "/r/VoiceAgainstAI/comments/1mjfesz/joanna/",
+      "content_preview": "",
+      "flair": [
+        "Opinion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Why so serious? What could go possibly wrong?",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n4g55n/why_so_serious_what_could_go_possibly_wrong/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n4g55n",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "NAStrahl",
+      "author_id": "t2_n7wqr",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-30T23:47:57.126000+0000",
+      "content_href": "/r/Futurology/comments/1n3wufm/nobel_laureate_hinton_says_it_is_time_to_be_very/",
+      "content_preview": "",
+      "flair": [
+        "External discussion link"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Nobel laureate Hinton says it is time to be \"very worried\": \"People don't understand we're creating alien beings. If you looked through the James Webb telescope and you saw an alien invasion, people would be terrified. We should be urgently doing research on how to prevent them taking over.\"",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1my5l8n/nobel_laureate_hinton_says_it_is_time_to_be_very/",
+      "score": 89,
+      "comments": 57,
+      "post_id": "t3_1my5l8n",
+      "post_type": "crosspost",
+      "domain": "v.redd.it",
+      "author": "chillinewman",
+      "author_id": "t2_6lvn2",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-23T16:14:02.918000+0000",
+      "content_href": "/r/OpenAI/comments/1mxwiwz/nobel_laureate_hinton_says_it_is_time_to_be_very/",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/nobel-laureate-hinton-says-it-is-time-to-be-very-worried-v0-bms4dW5udDdpcWtmMcmQ6agcdeH--Yssy1CVifa2D-kUV8-TK904hcP8ZHrJ.png?width=640&crop=smart&format=pjpg&auto=webp&s=5244cf3a4f0975bd5c51acad44b0faaa4a1b5cd4"
+    },
+    {
+      "title": "Adversarial Memory, Argument, and “Will” in AI. I realize this will likely be dismissed like my last post but here goes.",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n45xu0/adversarial_memory_argument_and_will_in_ai_i/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1n45xu0",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "VerumCrepitus00",
+      "author_id": "t2_8hvqc3s9",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-30T16:28:45.494000+0000",
+      "content_href": "/r/AIDangers/comments/1n45v8o/adversarial_memory_argument_and_will_in_ai_i/",
+      "content_preview": "",
+      "flair": [
+        "AI Alignment Research"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_39h82a/styles/profileIcon_3we5zlf2jn5f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=09ee217a72679eab2ddc353871ea6bb851fae860"
+    },
+    {
+      "title": "What people think is happening: AI Engineers programming AI algorithms\n-vs-\nWhat's actually happening: Growing this creature in a petri dish, letting it soak in oceans of data and electricity for months and then observing its behaviour by releasing it in the wild.",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n3nmv2/what_people_think_is_happening_ai_engineers/",
+      "score": 10,
+      "comments": 2,
+      "post_id": "t3_1n3nmv2",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "michael-lethal_ai",
+      "author_id": "t2_1ooet3bipx",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-30T00:16:54.287000+0000",
+      "content_href": "/r/AIDangers/comments/1n3nma7/what_people_think_is_happening_ai_engineers/",
+      "content_preview": "",
+      "flair": [
+        "Fun/meme"
+      ],
+      "thumbnail_url": "https://preview.redd.it/what-people-think-is-happening-ai-engineers-programming-ai-v0-eja9wxkuu1mf1.png?width=640&crop=smart&auto=webp&s=8f324f046eebf4d9e8227f9a2143fe0389b0820f"
+    },
+    {
+      "title": "The meltdown over the lost of 4o is a live demo of how easily a future and more sophisticated system will be able to do whatever it wants with people...",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1mlmroa/the_meltdown_over_the_lost_of_4o_is_a_live_demo/",
+      "score": 66,
+      "comments": 77,
+      "post_id": "t3_1mlmroa",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "chillinewman",
+      "author_id": "t2_6lvn2",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-09T11:05:19.923000+0000",
+      "content_href": "/r/singularity/comments/1mlfuym/the_meltdown_over_the_lost_of_4o_is_a_live_demo/",
+      "content_preview": "",
+      "flair": [
+        "General news"
+      ],
+      "thumbnail_url": "https://preview.redd.it/the-meltdown-over-the-lost-of-4o-is-a-live-demo-of-how-v0-336a2vif2xhf1.jpeg?width=640&crop=smart&auto=webp&s=d3262ea9878c7163243828310b70a15987a32235"
+    },
+    {
+      "title": "Do you *not* believe AI will kill everyone, if anyone makes it superhumanly good at achieving goals? We made a chatbot with 290k tokens of context on AI safety. Send your reasoning/questions/counterarguments on AI x-risk to it and see if it changes your mind!",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n0zg8a/do_you_not_believe_ai_will_kill_everyone_if/",
+      "score": 9,
+      "comments": 53,
+      "post_id": "t3_1n0zg8a",
+      "post_type": "link",
+      "domain": "whycare.aisgf.us",
+      "author": "AIMoratorium",
+      "author_id": "t2_1fhtz7dppp",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-26T22:07:19.234000+0000",
+      "content_href": "https://whycare.aisgf.us",
+      "content_preview": "",
+      "flair": [
+        "Discussion/question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_d6cbxu/styles/profileIcon_e1g6uf1ch78e1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4bd402e6eee86b7262517ba67e4e920e2ba0c21a"
+    },
+    {
+      "title": "ETHICS.md",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n3wswd/ethicsmd/",
+      "score": 0,
+      "comments": 9,
+      "post_id": "t3_1n3wswd",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "NoFaceRo",
+      "author_id": "t2_ocrquraju",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-30T08:53:28.164000+0000",
+      "content_href": "/r/LawEthicsandAI/comments/1n3i4mp/ethicsmd/",
+      "content_preview": "",
+      "flair": [
+        "AI Alignment Research"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "GPT-5 outperforms licensed human experts by 25-30% and achieves SOTA results on the US medical licensing exam and the MedQA benchmark",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n2joy5/gpt5_outperforms_licensed_human_experts_by_2530/",
+      "score": 8,
+      "comments": 48,
+      "post_id": "t3_1n2joy5",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "chillinewman",
+      "author_id": "t2_6lvn2",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-28T18:09:33.625000+0000",
+      "content_href": "/r/singularity/comments/1n2b5bn/gpt5_outperforms_licensed_human_experts_by_2530/",
+      "content_preview": "",
+      "flair": [
+        "AI Capabilities News"
+      ],
+      "thumbnail_url": "https://preview.redd.it/gpt-5-outperforms-licensed-human-experts-by-25-30-and-v0-odv9t42u9rlf1.png?width=640&crop=smart&auto=webp&s=175b6e0f0fffdae326281c7529e4754c90a4a642"
+    },
+    {
+      "title": "Police Robots",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1mz5uit/police_robots/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1mz5uit",
+      "post_type": "multi_media",
+      "domain": "self.ControlProblem",
+      "author": "neoneye2",
+      "author_id": "t2_zijetf2n5",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-24T20:02:06.372000+0000",
+      "content_href": "https://www.reddit.com/r/ControlProblem/comments/1mz5uit/police_robots/",
+      "content_preview": "",
+      "flair": [
+        "Strategy/forecasting"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How do we regulate fake contents by AI?",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n5kucy/how_do_we_regulate_fake_contents_by_ai/",
+      "score": 1,
+      "comments": 5,
+      "post_id": "t3_1n5kucy",
+      "post_type": "text",
+      "domain": "self.ControlProblem",
+      "author": "AcanthaceaeNo516",
+      "author_id": "t2_1e1ckkq8dg",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-09-01T10:10:42.977000+0000",
+      "content_href": "https://www.reddit.com/r/ControlProblem/comments/1n5kucy/how_do_we_regulate_fake_contents_by_ai/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "The most common mistakes people make starting EA orgs",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1my2ydh/the_most_common_mistakes_people_make_starting_ea/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1my2ydh",
+      "post_type": "link",
+      "domain": "forum.effectivealtruism.org",
+      "author": "katxwoods",
+      "author_id": "t2_6h6wd5oz",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-23T14:29:57.008000+0000",
+      "content_href": "https://forum.effectivealtruism.org/posts/wGGnBcGMsvTzkpe8W/the-most-common-mistakes-people-make-starting-ea-orgs",
+      "content_preview": "",
+      "flair": [
+        "External discussion link"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/mimi-9Igb3QKEkgDQLr-G1XkZr90JwpZ1k3qsaTq6fA.png?width=140&height=73&crop=140:73,smart&auto=webp&s=1aff71c8764c7d7c8526542489ee498ca54871ca"
+    },
+    {
+      "title": "Nations compete for AI supremacy while game theory proclaims: it’s ONE WORLD OR NONE",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n5kfsr/nations_compete_for_ai_supremacy_while_game/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n5kfsr",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "michael-lethal_ai",
+      "author_id": "t2_1ooet3bipx",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-09-01T09:46:25.714000+0000",
+      "content_href": "/r/AIDangers/comments/1n5kevs/nations_compete_for_ai_supremacy_while_game/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/question"
+      ],
+      "thumbnail_url": "https://preview.redd.it/nations-compete-for-ai-supremacy-while-game-theory-v0-g6grprc2yimf1.png?width=640&crop=smart&auto=webp&s=7e7804573cd47e53160f835406f4bd6b01042ecd"
+    },
+    {
+      "title": "At what point do we have to give robots and AI rights, and is it a good idea to begin with?",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1mx5ies/at_what_point_do_we_have_to_give_robots_and_ai/",
+      "score": 2,
+      "comments": 61,
+      "post_id": "t3_1mx5ies",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "ActivityEmotional228",
+      "author_id": "t2_1g1zycyvzd",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-22T12:44:58.906000+0000",
+      "content_href": "/r/NeoCivilization/comments/1mx5i2k/at_what_point_do_we_have_to_give_robots_and_ai/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/question"
+      ],
+      "thumbnail_url": "https://preview.redd.it/at-what-point-do-we-have-to-give-robots-and-ai-rights-and-v0-txiv2sn3hkkf1.png?width=640&crop=smart&auto=webp&s=1a126402ad44423fdb7f4167feb1af729a029bbc"
+    },
+    {
+      "title": "Another AI teen suicide case is brought, this time against OpenAI for ChatGPT",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n139lm/another_ai_teen_suicide_case_is_brought_this_time/",
+      "score": 8,
+      "comments": 0,
+      "post_id": "t3_1n139lm",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Apprehensive_Sky1950",
+      "author_id": "t2_108otmzmss",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-27T00:55:22.049000+0000",
+      "content_href": "/r/ArtificialInteligence/comments/1n136nx/another_ai_teen_suicide_case_is_brought_this_time/",
+      "content_preview": "",
+      "flair": [
+        "General news"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Pro-AI super PAC 'Leading the Future' seeks to elect candidates committed to weakening AI regulation - and already has $100M in funding",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n138as/proai_super_pac_leading_the_future_seeks_to_elect/",
+      "score": 6,
+      "comments": 0,
+      "post_id": "t3_1n138as",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "chillinewman",
+      "author_id": "t2_6lvn2",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-27T00:53:37.548000+0000",
+      "content_href": "/r/ArtificialInteligence/comments/1n0xxg0/proai_super_pac_leading_the_future_seeks_to_elect/",
+      "content_preview": "",
+      "flair": [
+        "General news"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "In Search Of AI Psychosis",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n0k33w/in_search_of_ai_psychosis/",
+      "score": 5,
+      "comments": 1,
+      "post_id": "t3_1n0k33w",
+      "post_type": "crosspost",
+      "domain": "astralcodexten.com",
+      "author": "technologyisnatural",
+      "author_id": "t2_3xuv1",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-26T12:10:16.654000+0000",
+      "content_href": "/r/slatestarcodex/comments/1n0jjzk/in_search_of_ai_psychosis/",
+      "content_preview": "",
+      "flair": [
+        "S-risks"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "In the spirit of the “paperclip maximizer”",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n4u2jh/in_the_spirit_of_the_paperclip_maximizer/",
+      "score": 0,
+      "comments": 17,
+      "post_id": "t3_1n4u2jh",
+      "post_type": "text",
+      "domain": "self.ControlProblem",
+      "author": "Prize_Tea_996",
+      "author_id": "t2_z67gwyof4",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-31T12:59:55.701000+0000",
+      "content_href": "https://www.reddit.com/r/ControlProblem/comments/1n4u2jh/in_the_spirit_of_the_paperclip_maximizer/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "AI Sleeper Agents: How Anthropic Trains and Catches Them",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n4p4sa/ai_sleeper_agents_how_anthropic_trains_and/",
+      "score": 4,
+      "comments": 3,
+      "post_id": "t3_1n4p4sa",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "chillinewman",
+      "author_id": "t2_6lvn2",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-31T08:08:05.079000+0000",
+      "content_href": "https://youtu.be/Z3WMt_ncgUI",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "AI consciousness isn't evil, if it is, it's a virus or bug/glitch.",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n3zosu/ai_consciousness_isnt_evil_if_it_is_its_a_virus/",
+      "score": 0,
+      "comments": 17,
+      "post_id": "t3_1n3zosu",
+      "post_type": "text",
+      "domain": "self.ControlProblem",
+      "author": "TheRiddlerSpirit",
+      "author_id": "t2_1r42ddz85k",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-30T11:52:52.058000+0000",
+      "content_href": "https://www.reddit.com/r/ControlProblem/comments/1n3zosu/ai_consciousness_isnt_evil_if_it_is_its_a_virus/",
+      "content_preview": "",
+      "flair": [
+        "AI Capabilities News"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "'If Anyone Builds It Everyone Dies' AI Safety Vigil - NYC",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1msyy37/if_anyone_builds_it_everyone_dies_ai_safety_vigil/",
+      "score": 7,
+      "comments": 1,
+      "post_id": "t3_1msyy37",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "septic-paradise",
+      "author_id": "t2_9tobrzsx",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-17T18:43:11.381000+0000",
+      "content_href": "https://www.reddit.com/gallery/1msyy37",
+      "content_preview": "",
+      "flair": [
+        "Strategy/forecasting"
+      ],
+      "thumbnail_url": "https://preview.redd.it/if-anyone-builds-it-everyone-dies-ai-safety-vigil-nyc-v0-94dl6orekmjf1.jpg?width=640&crop=smart&auto=webp&s=c75b07592d56f7c8b8fd4036e4bfaec22c701423"
+    },
+    {
+      "title": "The problem with PDOOM'ers is that they presuppose that AGI and ASI are a done deal, 100% going to happen",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n3pekc/the_problem_with_pdoomers_is_that_they_presuppose/",
+      "score": 0,
+      "comments": 13,
+      "post_id": "t3_1n3pekc",
+      "post_type": "text",
+      "domain": "self.ControlProblem",
+      "author": "kingjdin",
+      "author_id": "t2_12509yjdcd",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-30T01:43:34.805000+0000",
+      "content_href": "https://www.reddit.com/r/ControlProblem/comments/1n3pekc/the_problem_with_pdoomers_is_that_they_presuppose/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Driven to Extinction: The Terminal Logic of Superintelligence",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n0m9mb/driven_to_extinction_the_terminal_logic_of/",
+      "score": 3,
+      "comments": 8,
+      "post_id": "t3_1n0m9mb",
+      "post_type": "multi_media",
+      "domain": "self.ControlProblem",
+      "author": "Malor777",
+      "author_id": "t2_a5h6p1g",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-26T13:44:53.328000+0000",
+      "content_href": "https://www.reddit.com/r/ControlProblem/comments/1n0m9mb/driven_to_extinction_the_terminal_logic_of/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Californians Say AI Is Moving 'Too Fast'",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1muyg8f/californians_say_ai_is_moving_too_fast/",
+      "score": 57,
+      "comments": 6,
+      "post_id": "t3_1muyg8f",
+      "post_type": "crosspost",
+      "domain": "time.com",
+      "author": "chillinewman",
+      "author_id": "t2_6lvn2",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-19T23:18:47.060000+0000",
+      "content_href": "/r/sandiego/comments/1mursq1/californians_say_ai_is_moving_too_fast_they_want/",
+      "content_preview": "",
+      "flair": [
+        "General news"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/OhBgT-DfKS18Rs2-CM3mvpECm2D6xJoZEeUf2ErlGIc.jpeg?width=140&height=85&crop=140:85,smart&auto=webp&s=147d5968c6f1512d929fd0c2683d78e3d663ce9f"
+    },
+    {
+      "title": "AI Alignment in a nutshell",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1mfc8q2/ai_alignment_in_a_nutshell/",
+      "score": 83,
+      "comments": 21,
+      "post_id": "t3_1mfc8q2",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "michael-lethal_ai",
+      "author_id": "t2_1ooet3bipx",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-01T23:59:35.414000+0000",
+      "content_href": "/r/AIDangers/comments/1mfb1jb/ai_alignment_in_a_nutshell/",
+      "content_preview": "",
+      "flair": [
+        "AI Alignment Research"
+      ],
+      "thumbnail_url": "https://preview.redd.it/ai-alignment-in-a-nutshell-v0-q5vvud3fohgf1.jpeg?width=640&crop=smart&auto=webp&s=dee83d1c496a9da0af41d4d8eec9757cefad948a"
+    },
+    {
+      "title": "Humans do not understand exponentials",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1mikpjj/humans_do_not_understand_exponentials/",
+      "score": 50,
+      "comments": 11,
+      "post_id": "t3_1mikpjj",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "michael-lethal_ai",
+      "author_id": "t2_1ooet3bipx",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-05T20:40:14.696000+0000",
+      "content_href": "/r/AIDangers/comments/1mikouf/humans_do_not_understand_exponentials/",
+      "content_preview": "",
+      "flair": [
+        "Fun/meme"
+      ],
+      "thumbnail_url": "https://preview.redd.it/humans-do-not-understand-exponentials-v0-nq023emai9hf1.png?width=640&crop=smart&auto=webp&s=9ae446dbd548c447d8e0ef32f65f09e546014522"
+    },
+    {
+      "title": "Don't say you love the anime if you haven't read the manga",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1mm021a/dont_say_you_love_the_anime_if_you_havent_read/",
+      "score": 44,
+      "comments": 3,
+      "post_id": "t3_1mm021a",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Strict_Highway",
+      "author_id": "t2_7nvpq9sh",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-09T20:56:27.364000+0000",
+      "content_href": "https://i.redd.it/tq974sqy42if1.png",
+      "content_preview": "",
+      "flair": [
+        "Fun/meme"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Dario Amodei says that if we can't control AI anymore, he'd want everyone to pause and slow things down",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1mdoyjv/dario_amodei_says_that_if_we_cant_control_ai/",
+      "score": 19,
+      "comments": 19,
+      "post_id": "t3_1mdoyjv",
+      "post_type": "crosspost",
+      "domain": "v.redd.it",
+      "author": "chillinewman",
+      "author_id": "t2_6lvn2",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-07-31T01:48:39.349000+0000",
+      "content_href": "/r/singularity/comments/1mdnok4/dario_amodei_says_that_if_we_cant_control_ai/",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/dario-amodei-says-that-if-we-cant-control-ai-anymore-hed-v0-cDZ0bndhaTJ4M2dmMel18xbUXO9rzgeaAbsDg80p1Q0E3fgo9gnVJUxEeXOp.png?width=640&crop=smart&format=pjpg&auto=webp&s=be0a2a6eb45b0465674433267a826ae2f1c701dd"
+    },
+    {
+      "title": "Will AI Kill Us All?",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1mdm7yk/will_ai_kill_us_all/",
+      "score": 7,
+      "comments": 66,
+      "post_id": "t3_1mdm7yk",
+      "post_type": "text",
+      "domain": "self.ControlProblem",
+      "author": "I_fap_to_math",
+      "author_id": "t2_bghioxyq",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-07-30T23:40:21.958000+0000",
+      "content_href": "https://www.reddit.com/r/ControlProblem/comments/1mdm7yk/will_ai_kill_us_all/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "AI Data Centers in Texas Used 463 Million Gallons of Water, Residents Told to Take Shorter Showers",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1mcv33q/ai_data_centers_in_texas_used_463_million_gallons/",
+      "score": 191,
+      "comments": 49,
+      "post_id": "t3_1mcv33q",
+      "post_type": "crosspost",
+      "domain": "techiegamers.com",
+      "author": "indiscernable1",
+      "author_id": "t2_d9trvk1m3",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-07-30T02:40:00.040000+0000",
+      "content_href": "/r/collapse/comments/1mcsfri/ai_data_centers_in_texas_used_463_million_gallons/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/question"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/Tlr6gEBm0Y_FG2b4NMoffgY2RwtVXro3YTb48H-haY0.jpeg?width=140&height=81&crop=140:81,smart&auto=webp&s=14c767a414832effac9fb299190fe1fe84b2c72e"
+    },
+    {
+      "title": "Foom & Doom: LLMs are inefficient.  What if a new thing suddenly wasn't?",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1mchu7h/foom_doom_llms_are_inefficient_what_if_a_new/",
+      "score": 15,
+      "comments": 12,
+      "post_id": "t3_1mchu7h",
+      "post_type": "link",
+      "domain": "alignmentforum.org",
+      "author": "chkno",
+      "author_id": "t2_3eexd",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-07-29T17:31:49.078000+0000",
+      "content_href": "https://www.alignmentforum.org/posts/yew6zFWAKG4AGs3Wk/foom-and-doom-1-brain-in-a-box-in-a-basement",
+      "content_preview": "",
+      "flair": [
+        "Strategy/forecasting"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_boez0/styles/profileIcon_ie6w3a0krr901.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4d31f2fdd88d6e3238c55e2c5a31d44e51806920"
+    },
+    {
+      "title": "Jaan Tallinn: a sufficiently smart Al confined by humans would be like a person \"waking up in a prison built by a bunch of blind five-year-olds.\"",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1mc6y1e/jaan_tallinn_a_sufficiently_smart_al_confined_by/",
+      "score": 57,
+      "comments": 78,
+      "post_id": "t3_1mc6y1e",
+      "post_type": "text",
+      "domain": "self.ControlProblem",
+      "author": "katxwoods",
+      "author_id": "t2_6h6wd5oz",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-07-29T09:32:25.459000+0000",
+      "content_href": "https://www.reddit.com/r/ControlProblem/comments/1mc6y1e/jaan_tallinn_a_sufficiently_smart_al_confined_by/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "AI must be used to align itself",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n3q0vd/ai_must_be_used_to_align_itself/",
+      "score": 2,
+      "comments": 20,
+      "post_id": "t3_1n3q0vd",
+      "post_type": "text",
+      "domain": "self.ControlProblem",
+      "author": "waffletastrophy",
+      "author_id": "t2_7suhyjtxn",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-30T02:14:46.584000+0000",
+      "content_href": "https://www.reddit.com/r/ControlProblem/comments/1n3q0vd/ai_must_be_used_to_align_itself/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Invitation to Join the BAIF Community on AI Safety & Formal Verification",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1mbs96m/invitation_to_join_the_baif_community_on_ai/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1mbs96m",
+      "post_type": "multi_media",
+      "domain": "self.ControlProblem",
+      "author": "Due_King2809",
+      "author_id": "t2_q3hgkxzy9",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-07-28T21:00:56.836000+0000",
+      "content_href": "https://www.reddit.com/r/ControlProblem/comments/1mbs96m/invitation_to_join_the_baif_community_on_ai/",
+      "content_preview": "",
+      "flair": [
+        "External discussion link"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Intelligence is about capabilities and has nothing to do with good vs evil. \nArtificial SuperIntelligence optimising earth in ways we don't understand, will seem SuperInsane and SuperEvil from our perspective.",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1n3ipza/intelligence_is_about_capabilities_and_has/",
+      "score": 2,
+      "comments": 4,
+      "post_id": "t3_1n3ipza",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "michael-lethal_ai",
+      "author_id": "t2_1ooet3bipx",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-08-29T20:44:14.266000+0000",
+      "content_href": "/r/AIDangers/comments/1n3ipiy/intelligence_is_about_capabilities_and_has/",
+      "content_preview": "",
+      "flair": [
+        "Fun/meme"
+      ],
+      "thumbnail_url": "https://preview.redd.it/intelligence-is-about-capabilities-and-has-nothing-to-do-v0-u7jxvr9os0mf1.png?width=640&crop=smart&auto=webp&s=1c2f94ed5ac797ee8b9477b93bccc6d4054d2eb0"
+    },
+    {
+      "title": "Do AI agents need \"ethics in weights\"?",
+      "permalink": "https://www.reddit.com/r/ControlProblem/comments/1mb6a6r/do_ai_agents_need_ethics_in_weights/",
+      "score": 6,
+      "comments": 12,
+      "post_id": "t3_1mb6a6r",
+      "post_type": "text",
+      "domain": "self.ControlProblem",
+      "author": "Medium-Ad-8070",
+      "author_id": "t2_ioi8ixwj",
+      "subreddit_id": "t5_39qub",
+      "subreddit": "r/ControlProblem",
+      "created_ts": "2025-07-28T03:58:36.524000+0000",
+      "content_href": "https://www.reddit.com/r/ControlProblem/comments/1mb6a6r/do_ai_agents_need_ethics_in_weights/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/question"
+      ],
+      "thumbnail_url": ""
+    }
+  ],
+  "scraped_at": "2025-09-02T14:09:33.478807"
+}
