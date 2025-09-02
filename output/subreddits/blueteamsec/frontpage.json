@@ -1,0 +1,1011 @@
+{
+  "subreddit": "blueteamsec",
+  "url": "https://www.reddit.com/r/blueteamsec",
+  "meta": {
+    "title": "For [Blue|Purple] Teams in Cyber Defence",
+    "members_text": "1,157,882"
+  },
+  "posts": [
+    {
+      "title": "Rustで作成されたバイナリのリバースエンジニアリング調査レポートの公開 - Release of reverse engineering investigation report on binaries written in Rust",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n6c53z/rustで作成されたバイナリのリバースエンジニアリング調査レポートの公開_release_of/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n6c53z",
+      "post_type": "link",
+      "domain": "blogs.jpcert.or.jp",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-09-02T06:26:36.849000+0000",
+      "content_href": "https://blogs.jpcert.or.jp/ja/2025/09/rust_research.html",
+      "content_preview": "",
+      "flair": [
+        "malware analysis (like butterfly collections)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "Citrix forgot to tell you CVE-2025–6543 has been used as a zero day since May 2025",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n3j931/citrix_forgot_to_tell_you_cve20256543_has_been/",
+      "score": 34,
+      "comments": 0,
+      "post_id": "t3_1n3j931",
+      "post_type": "link",
+      "domain": "doublepulsar.com",
+      "author": "jnazario",
+      "author_id": "t2_8ls88",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-29T21:05:51.540000+0000",
+      "content_href": "https://doublepulsar.com/citrix-forgot-to-tell-you-cve-2025-6543-has-been-used-as-a-zero-day-since-may-2025-d76574e2dd2c",
+      "content_preview": "",
+      "flair": [
+        "vulnerability (attack surface)"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/UDi_p-z6I9R_vbVH3D0W3dOqZtIRYfD-wmIvZP6QJ8g.png?width=140&height=78&crop=140:78,smart&auto=webp&s=255514cbb726f79d88e40208c266993ce0652add"
+    },
+    {
+      "title": "Cyber kits keep allies in the hunt",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n6r5vl/cyber_kits_keep_allies_in_the_hunt/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6r5vl",
+      "post_type": "link",
+      "domain": "defence.gov.au",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-09-02T18:18:14.593000+0000",
+      "content_href": "https://www.defence.gov.au/news-events/news/2025-09-01/cyber-kits-keep-allies-hunt",
+      "content_preview": "",
+      "flair": [
+        "highlevel summary|strategy (maybe technical)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "U.S. Senate Confirms Sean Cairncross as the National Cyber Director",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1mgjgwv/us_senate_confirms_sean_cairncross_as_the/",
+      "score": 46,
+      "comments": 10,
+      "post_id": "t3_1mgjgwv",
+      "post_type": "link",
+      "domain": "whitehouse.gov",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-03T13:37:43.268000+0000",
+      "content_href": "https://www.whitehouse.gov/briefings-statements/2025/08/u-s-senate-confirms-sean-cairncross-as-the-national-cyber-director/",
+      "content_preview": "",
+      "flair": [
+        "highlevel summary|strategy (maybe technical)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "Android Droppers: The Silent Gatekeepers of Malware",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n6igus/android_droppers_the_silent_gatekeepers_of_malware/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n6igus",
+      "post_type": "link",
+      "domain": "threatfabric.com",
+      "author": "jnazario",
+      "author_id": "t2_8ls88",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-09-02T12:44:43.248000+0000",
+      "content_href": "https://www.threatfabric.com/blogs/android-droppers-the-silent-gatekeepers-of-malware",
+      "content_preview": "",
+      "flair": [
+        "exploitation (what's being exploited)"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/-FOAsbTrJJeJ1Fx4b2VWr3CHatEOQCJKRhT6_Rxu9mM.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=678ebe63e75aac350f6b218767c64465fc0283a2"
+    },
+    {
+      "title": "Amazon disrupts watering hole campaign by Russia’s APT29",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n39yah/amazon_disrupts_watering_hole_campaign_by_russias/",
+      "score": 13,
+      "comments": 2,
+      "post_id": "t3_1n39yah",
+      "post_type": "link",
+      "domain": "aws.amazon.com",
+      "author": "jnazario",
+      "author_id": "t2_8ls88",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-29T15:07:04.610000+0000",
+      "content_href": "https://aws.amazon.com/blogs/security/amazon-disrupts-watering-hole-campaign-by-russias-apt29/",
+      "content_preview": "",
+      "flair": [
+        "intelligence (threat actor activity)"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/tw-Ym5Cc7Vccvy4ZaVrgfGcV68tQRltfZp6vwGrf02o.png?width=140&height=70&crop=140:70,smart&auto=webp&s=a1c717300441ae3f3c1805fb64ff860077e5874e"
+    },
+    {
+      "title": "Oracle WebLogic Vulnerability: CVE-2017-10271 - \"multiple threat actors have continued to actively exploit this vulnerability in recent years, immediate remediation is strongly recommended\"",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n6c3ah/oracle_weblogic_vulnerability_cve201710271/",
+      "score": 5,
+      "comments": 0,
+      "post_id": "t3_1n6c3ah",
+      "post_type": "link",
+      "domain": "s2w.inc",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-09-02T06:23:32.484000+0000",
+      "content_href": "https://s2w.inc/en/resource/detail/915",
+      "content_preview": "",
+      "flair": [
+        "exploitation (what's being exploited)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "How to Hunt Botnets with FOFA",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n6c4an/how_to_hunt_botnets_with_fofa/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6c4an",
+      "post_type": "link",
+      "domain": "mp.weixin.qq.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-09-02T06:25:15.963000+0000",
+      "content_href": "https://mp.weixin.qq.com/s/T-3ehAWGYxLr6K_SRKC8TA",
+      "content_preview": "",
+      "flair": [
+        "discovery (how we find bad stuff)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "Elastic response to blog ‘EDR 0-Day Vulnerability’",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1mv75rd/elastic_response_to_blog_edr_0day_vulnerability/",
+      "score": 25,
+      "comments": 5,
+      "post_id": "t3_1mv75rd",
+      "post_type": "link",
+      "domain": "elastic.co",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-20T06:29:09.333000+0000",
+      "content_href": "https://www.elastic.co/blog/elastic-response-edr-0-day-vulnerability-blog",
+      "content_preview": "",
+      "flair": [
+        "highlevel summary|strategy (maybe technical)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "How I Hunted ESC1 in Raw AD CS Database",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n6aq3v/how_i_hunted_esc1_in_raw_ad_cs_database/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n6aq3v",
+      "post_type": "link",
+      "domain": "medium.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-09-02T05:00:54.946000+0000",
+      "content_href": "https://medium.com/@Debugger/how-i-hunted-esc1-in-raw-ad-cs-database-7a4b44014990",
+      "content_preview": "",
+      "flair": [
+        "training (step-by-step)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "Velociraptor incident response tool abused for remote access",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n24pj8/velociraptor_incident_response_tool_abused_for/",
+      "score": 13,
+      "comments": 0,
+      "post_id": "t3_1n24pj8",
+      "post_type": "link",
+      "domain": "news.sophos.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-28T06:20:18.912000+0000",
+      "content_href": "https://news.sophos.com/en-us/2025/08/26/velociraptor-incident-response-tool-abused-for-remote-access/",
+      "content_preview": "",
+      "flair": [
+        "intelligence (threat actor activity)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "SAMLSmith: SAMLSmith is a C# tool for generating custom SAML responses and implementing Silver SAML and Golden SAML attacks.",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n6aov8/samlsmith_samlsmith_is_a_c_tool_for_generating/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n6aov8",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-09-02T04:58:52.377000+0000",
+      "content_href": "https://github.com/Semperis/SAMLSmith",
+      "content_preview": "",
+      "flair": [
+        "research|capability (we need to defend against)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "RDP Forensics Part 1: Fingerprinting Attacks with Keyboard Layout Data",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n3w0fy/rdp_forensics_part_1_fingerprinting_attacks_with/",
+      "score": 12,
+      "comments": 0,
+      "post_id": "t3_1n3w0fy",
+      "post_type": "link",
+      "domain": "medium.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-30T08:00:29.550000+0000",
+      "content_href": "https://medium.com/@thedigitaldetective/remote-desktop-protocol-using-client-keyboard-input-in-attack-attribution-and-profiling-94a76f0f4ff4",
+      "content_preview": "",
+      "flair": [
+        "discovery (how we find bad stuff)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "Sindoor Dropper: New Phishing Campaign",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n5x3l7/sindoor_dropper_new_phishing_campaign/",
+      "score": 8,
+      "comments": 0,
+      "post_id": "t3_1n5x3l7",
+      "post_type": "link",
+      "domain": "nextron-systems.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-09-01T18:45:48.632000+0000",
+      "content_href": "https://www.nextron-systems.com/2025/08/29/sindoor-dropper-new-phishing-campaign/",
+      "content_preview": "",
+      "flair": [
+        "intelligence (threat actor activity)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "🛡️ DEFCON Workshop: Putting EDRs in Their Place - 💀 Killing and Silencing EDR Agents Like an Adversary",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1mqb9qc/defcon_workshop_putting_edrs_in_their_place/",
+      "score": 22,
+      "comments": 0,
+      "post_id": "t3_1mqb9qc",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-14T19:54:19.785000+0000",
+      "content_href": "https://github.com/arosenmund/defcon33_silence_kill_edr",
+      "content_preview": "",
+      "flair": [
+        "research|capability (we need to defend against)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "Three Lazarus RATs coming for your cheese",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n5uuar/three_lazarus_rats_coming_for_your_cheese/",
+      "score": 5,
+      "comments": 0,
+      "post_id": "t3_1n5uuar",
+      "post_type": "link",
+      "domain": "blog.fox-it.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-09-01T17:23:08.824000+0000",
+      "content_href": "https://blog.fox-it.com/2025/09/01/three-lazarus-rats-coming-for-your-cheese/",
+      "content_preview": "",
+      "flair": [
+        "intelligence (threat actor activity)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "BitUnlocker: Leveraging Windows Recovery to Extract BitLocker Secrets",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1mqb15t/bitunlocker_leveraging_windows_recovery_to/",
+      "score": 21,
+      "comments": 1,
+      "post_id": "t3_1mqb15t",
+      "post_type": "link",
+      "domain": "techcommunity.microsoft.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-14T19:45:30.979000+0000",
+      "content_href": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/bitunlocker-leveraging-windows-recovery-to-extract-bitlocker-secrets/4442806",
+      "content_preview": "",
+      "flair": [
+        "vulnerability (attack surface)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "A Primer on Forensic Investigation of Salesforce Security Incidents",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n5h82s/a_primer_on_forensic_investigation_of_salesforce/",
+      "score": 11,
+      "comments": 0,
+      "post_id": "t3_1n5h82s",
+      "post_type": "link",
+      "domain": "salesforce.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-09-01T06:22:53.374000+0000",
+      "content_href": "https://www.salesforce.com/blog/a-primer-on-forensic-investigation-of-salesforce-security-incidents/",
+      "content_preview": "",
+      "flair": [
+        "discovery (how we find bad stuff)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "CWMP Stack Overflow in TP-Link Routers - getting pc like is it 1997",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n5gtap/cwmp_stack_overflow_in_tplink_routers_getting_pc/",
+      "score": 5,
+      "comments": 0,
+      "post_id": "t3_1n5gtap",
+      "post_type": "link",
+      "domain": "medium.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-09-01T05:58:25.530000+0000",
+      "content_href": "https://medium.com/@mehrrun/zero-day-alert-automated-discovery-of-critical-cwmp-stack-overflow-in-tp-link-routers-0bc495a08679",
+      "content_preview": "",
+      "flair": [
+        "vulnerability (attack surface)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "EntraGoat - A Deliberately Vulnerable Entra ID Environment",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1mi3veb/entragoat_a_deliberately_vulnerable_entra_id/",
+      "score": 21,
+      "comments": 1,
+      "post_id": "t3_1mi3veb",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-05T08:46:00.836000+0000",
+      "content_href": "https://github.com/semperis/entragoat",
+      "content_preview": "",
+      "flair": [
+        "training (step-by-step)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "WhatsApp security update for August 2025",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n58wev/whatsapp_security_update_for_august_2025/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n58wev",
+      "post_type": "link",
+      "domain": "whatsapp.com",
+      "author": "jnazario",
+      "author_id": "t2_8ls88",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-31T23:08:21.545000+0000",
+      "content_href": "https://www.whatsapp.com/security/advisories/2025",
+      "content_preview": "",
+      "flair": [
+        "exploitation (what's being exploited)"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/0MD7kF4yAgnpi-NgSXb1qTsozhlmVSFWjJpqwkxLrSM.png?width=140&height=70&crop=140:70,smart&auto=webp&s=a232ddd6a39e2a89011a17f5caf66011491b3221"
+    },
+    {
+      "title": "Nederlandse providers doelwit van Salt Typhoon - Dutch providers targeted by Salt Typhoon",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n4vycx/nederlandse_providers_doelwit_van_salt_typhoon/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n4vycx",
+      "post_type": "link",
+      "domain": "aivd.nl",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-31T14:20:44.788000+0000",
+      "content_href": "https://www.aivd.nl/actueel/nieuws/2025/08/28/nederlandse-providers-doelwit-van-salt-typhoon",
+      "content_preview": "",
+      "flair": [
+        "highlevel summary|strategy (maybe technical)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "Analysing Targeted Spearphishing: Social Engineering, Domain Rotation, and Credential Theft",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n49pwq/analysing_targeted_spearphishing_social/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n49pwq",
+      "post_type": "link",
+      "domain": "stripeolt.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-30T19:03:39.271000+0000",
+      "content_href": "https://stripeolt.com/knowledge-hub/expert-intel/analysing-targeted-spearphishing/",
+      "content_preview": "",
+      "flair": [
+        "intelligence (threat actor activity)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "IT-Infrastruktur des Innenministeriums \"gezielt und professionell\" gehackt - IT infrastructure of the Ministry of the Interior hacked \"targeted and professionally - Austria - unauthorized access to the BMI's mail servers occurred",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n47mf0/itinfrastruktur_des_innenministeriums_gezielt_und/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n47mf0",
+      "post_type": "link",
+      "domain": "derstandard.at",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-30T17:37:45.546000+0000",
+      "content_href": "https://www.derstandard.at/story/3000000285630/cyberangriff-auf-it-infrastruktur-des-innenministeriums-aufgedeckt",
+      "content_preview": "",
+      "flair": [
+        "highlevel summary|strategy (maybe technical)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "Copilot Broke Your Audit Log, but Microsoft Won’t Tell You",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n3vhna/copilot_broke_your_audit_log_but_microsoft_wont/",
+      "score": 11,
+      "comments": 0,
+      "post_id": "t3_1n3vhna",
+      "post_type": "link",
+      "domain": "pistachioapp.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-30T07:26:55.330000+0000",
+      "content_href": "https://pistachioapp.com/blog/copilot-broke-your-audit-log",
+      "content_preview": "",
+      "flair": [
+        "highlevel summary|strategy (maybe technical)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "The Trap of Troubleshooting: Analysis of Lazarus (APT-Q-1)'s Recent Attacks Using ClickFix",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n3vxdb/the_trap_of_troubleshooting_analysis_of_lazarus/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1n3vxdb",
+      "post_type": "link",
+      "domain": "mp.weixin.qq.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-30T07:55:07.610000+0000",
+      "content_href": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515797&idx=1&sn=63eb2627f65397d704d187273c6cdce4&chksm=ea6649e2dd11c0f497ca57cf52676a9a764f28e587017e14fc850034ca8518c9f4ef46219824",
+      "content_preview": "",
+      "flair": [
+        "intelligence (threat actor activity)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "Ransomware Damage Recovery｜National Police Agency - Phobos/8Base Decryption Tool",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n3vwhy/ransomware_damage_recoverynational_police_agency/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n3vwhy",
+      "post_type": "link",
+      "domain": "npa.go.jp",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-30T07:53:32.574000+0000",
+      "content_href": "https://www.npa.go.jp/english/bureau/cyber/ransomdamagerecovery.html",
+      "content_preview": "",
+      "flair": [
+        "low level tools and techniques (work aids)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "Operation HanKook Phantom: APT37 Spear-Phishing Campaign",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n3vu5p/operation_hankook_phantom_apt37_spearphishing/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n3vu5p",
+      "post_type": "link",
+      "domain": "seqrite.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-30T07:49:27.626000+0000",
+      "content_href": "https://www.seqrite.com/blog/operation-hankook-phantom-north-korean-apt37-targeting-south-korea/",
+      "content_preview": "",
+      "flair": [
+        "intelligence (threat actor activity)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "finch: Fingerprint-aware TLS reverse proxy. Use Finch to outsmart bad traffic—collect client fingerprints (JA3, JA4 +QUIC, JA4H, HTTP/2) and act on them: block, reroute, tarpit, or deceive in real time.",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1mmcyik/finch_fingerprintaware_tls_reverse_proxy_use/",
+      "score": 20,
+      "comments": 1,
+      "post_id": "t3_1mmcyik",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-10T08:09:24.007000+0000",
+      "content_href": "https://github.com/0x4D31/finch",
+      "content_preview": "",
+      "flair": [
+        "tradecraft (how we defend)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "Canary tokens: Learn all about the unsung heroes of security at Grafana Labs",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n3trwz/canary_tokens_learn_all_about_the_unsung_heroes/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n3trwz",
+      "post_type": "link",
+      "domain": "grafana.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-30T05:40:51.988000+0000",
+      "content_href": "https://grafana.com/blog/2025/08/25/canary-tokens-learn-all-about-the-unsung-heroes-of-security-at-grafana-labs/",
+      "content_preview": "",
+      "flair": [
+        "discovery (how we find bad stuff)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "Backdoor in \"AppSuite PDF Editor\": A Detailed Technical Analysis",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n3uv7q/backdoor_in_appsuite_pdf_editor_a_detailed/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n3uv7q",
+      "post_type": "link",
+      "domain": "gdatasoftware.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-30T06:47:22.951000+0000",
+      "content_href": "https://www.gdatasoftware.com/blog/2025/08/38257-appsuite-pdf-editor-backdoor-analysis",
+      "content_preview": "",
+      "flair": [
+        "intelligence (threat actor activity)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "APT-C-53（Gamaredon）针对乌克兰政府职能部门攻击事件分析 - Analysis of APT-C-53 (Gamaredon) attacks against Ukrainian government departments",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n3h6z2/aptc53gamaredon针对乌克兰政府职能部门攻击事件分析_analysis_of/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n3h6z2",
+      "post_type": "link",
+      "domain": "mp.weixin.qq.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-29T19:43:22.462000+0000",
+      "content_href": "https://mp.weixin.qq.com/s?__biz=MzUyMjk4NzExMA==&mid=2247507351&idx=1&sn=0b8c9e5b3ff9d7b6551b3a69c151f7e0&chksm=f9c1ee9eceb66788c94178eec69e10142c58dc7721874f9e4d3120d7ea952faa230221a6e2cc&scene=178&cur_album_id=1955835290309230595&search_click_id=#rd",
+      "content_preview": "",
+      "flair": [
+        "intelligence (threat actor activity)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "From Spoofing to Tunneling: New Red Team's Networking Techniques for Initial Access and Evasion",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1mpf5yk/from_spoofing_to_tunneling_new_red_teams/",
+      "score": 19,
+      "comments": 0,
+      "post_id": "t3_1mpf5yk",
+      "post_type": "link",
+      "domain": "media.defcon.org",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-13T20:09:38.728000+0000",
+      "content_href": "https://media.defcon.org/DEF%20CON%2033/DEF%20CON%2033%20presentations/Shu-Hao%20Tung%20-%20From%20Spoofing%20to%20Tunneling%20New%20Red%20Team%27s%20Networking%20Techniques%20for%20Initial%20Access%20and%20Evasion.pdf",
+      "content_preview": "",
+      "flair": [
+        "research|capability (we need to defend against)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "UK and allies expose China-based technology companies for enabling global cyber campaign against critical networks",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n1ktry/uk_and_allies_expose_chinabased_technology/",
+      "score": 11,
+      "comments": 0,
+      "post_id": "t3_1n1ktry",
+      "post_type": "link",
+      "domain": "ncsc.gov.uk",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-27T15:53:30.357000+0000",
+      "content_href": "https://www.ncsc.gov.uk/news/uk-allies-expose-china-tech-companies-enabling-cyber-campaign",
+      "content_preview": "",
+      "flair": [
+        "intelligence (threat actor activity)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "KQL: ExternalData - Cert Central, CertReport - \"If this returns TRUE, it means that the cert has been reported in CertReport and therefore, there are high chances that this file is malicious.\"",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1mzj9e9/kql_externaldata_cert_central_certreport_if_this/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1mzj9e9",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-25T06:42:16.667000+0000",
+      "content_href": "https://github.com/SecurityAura/DE-TH-Aura/blob/main/Defender%20for%20Endpoint/ExternalData%20-%20Cert%20Central,%20CertReport.md",
+      "content_preview": "",
+      "flair": [
+        "discovery (how we find bad stuff)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "Security incident post-mortem - \"resulted in $14 million in unauthorized withdrawals from 9 user accounts. There is evidence that this attack was perpetrated by UNC4899, a North Korean state-sponsored cyber espionage group\"",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n3vv3k/security_incident_postmortem_resulted_in_14/",
+      "score": 10,
+      "comments": 0,
+      "post_id": "t3_1n3vv3k",
+      "post_type": "link",
+      "domain": "woox.io",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-30T07:51:02.448000+0000",
+      "content_href": "https://woox.io/blog/july-24th-security-incident-post-mortem",
+      "content_preview": "",
+      "flair": [
+        "incident writeup (who and how)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "mssqlkaren: modified mssqlclient from impacket to extract policies from the SCCM database",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1mziz87/mssqlkaren_modified_mssqlclient_from_impacket_to/",
+      "score": 4,
+      "comments": 2,
+      "post_id": "t3_1mziz87",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-25T06:23:34.955000+0000",
+      "content_href": "https://github.com/garrettfoster13/mssqlkaren",
+      "content_preview": "",
+      "flair": [
+        "research|capability (we need to defend against)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "Uncovering the Chinese Proxy Service Used in APT Campaigns",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1mzigk0/uncovering_the_chinese_proxy_service_used_in_apt/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1mzigk0",
+      "post_type": "link",
+      "domain": "spur.us",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-25T05:51:17.227000+0000",
+      "content_href": "https://spur.us/how-spur-uncovered-a-chinese-proxy-and-vpn-service-used-in-an-apt-campaign/",
+      "content_preview": "",
+      "flair": [
+        "intelligence (threat actor activity)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "From Campus to C2: Tracking a Persistent Chinese Operation Against Vietnamese Universities",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1mzih6p/from_campus_to_c2_tracking_a_persistent_chinese/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1mzih6p",
+      "post_type": "link",
+      "domain": "ctrlaltint3l.github.io",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-25T05:52:24.098000+0000",
+      "content_href": "https://ctrlaltint3l.github.io/threat%20research/china-vietnam-campaign/",
+      "content_preview": "",
+      "flair": [
+        "intelligence (threat actor activity)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "You don’t find ManualFinder, ManualFinder finds you - \"we’re seeing activity where PUPs are dropping highly suspicious files, executing unexpected commands, and turning hosts into residential proxies\"",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1mzicn2/you_dont_find_manualfinder_manualfinder_finds_you/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1mzicn2",
+      "post_type": "link",
+      "domain": "expel.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-25T05:44:35.617000+0000",
+      "content_href": "https://expel.com/blog/you-dont-find-manualfinder-manualfinder-finds-you/",
+      "content_preview": "",
+      "flair": [
+        "intelligence (threat actor activity)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "How attackers adapt to built-in macOS protection - good overview but by Kaspersky who interest",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n3w885/how_attackers_adapt_to_builtin_macos_protection/",
+      "score": 9,
+      "comments": 0,
+      "post_id": "t3_1n3w885",
+      "post_type": "link",
+      "domain": "securelist.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-30T08:14:40.402000+0000",
+      "content_href": "https://securelist.com/macos-security-and-typical-attacks/117367/",
+      "content_preview": "",
+      "flair": [
+        "research|capability (we need to defend against)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "REcover: towards recovering object files from stripped binary executables - github in body",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1myqief/recover_towards_recovering_object_files_from/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1myqief",
+      "post_type": "link",
+      "domain": "link.springer.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-24T08:50:21.124000+0000",
+      "content_href": "https://link.springer.com/article/10.1007/s11416-025-00565-1",
+      "content_preview": "",
+      "flair": [
+        "low level tools and techniques (work aids)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "Widespread Data Theft Targets Salesforce Instances via Salesloft Drift",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n0xc3t/widespread_data_theft_targets_salesforce/",
+      "score": 8,
+      "comments": 0,
+      "post_id": "t3_1n0xc3t",
+      "post_type": "link",
+      "domain": "cloud.google.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-26T20:43:52.908000+0000",
+      "content_href": "https://cloud.google.com/blog/topics/threat-intelligence/data-theft-salesforce-instances-via-salesloft-drift",
+      "content_preview": "",
+      "flair": [
+        "intelligence (threat actor activity)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "SynoScope is a python-based, lightweight, batteries-included analyzer that turns can provide valuable information regarding your DiskStation Manager (DSM) status within the undocumented Synology recovery mode",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1myjk2p/synoscope_is_a_pythonbased_lightweight/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1myjk2p",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-24T02:04:12.457000+0000",
+      "content_href": "https://github.com/AnovumBV/synoscope",
+      "content_preview": "",
+      "flair": [
+        "low level tools and techniques (work aids)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "The Digital Roads to Government Services: Uncovering Consolidation and Exposure",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n6apm4/the_digital_roads_to_government_services/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6apm4",
+      "post_type": "link",
+      "domain": "pulse.internetsociety.org",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-09-02T05:00:09.350000+0000",
+      "content_href": "https://pulse.internetsociety.org/blog/the-digital-roads-to-government-services-uncovering-consolidation-and-exposure",
+      "content_preview": "",
+      "flair": [
+        "highlevel summary|strategy (maybe technical)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "[2505.24008] HoneySat: A Network-based Satellite Honeypot Framework - \"successfully deceived human adversaries in the wild and collected 22 real-world satellite-specific adversarial interactions. \"",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1n4o3kq/250524008_honeysat_a_networkbased_satellite/",
+      "score": 8,
+      "comments": 1,
+      "post_id": "t3_1n4o3kq",
+      "post_type": "link",
+      "domain": "arxiv.org",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-31T07:01:52.842000+0000",
+      "content_href": "https://arxiv.org/abs/2505.24008",
+      "content_preview": "",
+      "flair": [
+        "discovery (how we find bad stuff)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "Platform SSO configuration guide for macOS devices using Microsoft Intune - \"configure Platform SSO to enable single sign-on (SSO) for your macOS devices using passwordless authentication, Microsoft Entra ID user accounts, or smart cards\"",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1my3ekq/platform_sso_configuration_guide_for_macos/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1my3ekq",
+      "post_type": "link",
+      "domain": "learn.microsoft.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-23T14:48:31.688000+0000",
+      "content_href": "https://learn.microsoft.com/en-us/intune/intune-service/configuration/platform-sso-macos",
+      "content_preview": "",
+      "flair": [
+        "tradecraft (how we defend)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "Limiting Onmicrosoft Domain Usage for Sending Emails | Microsoft Community Hub",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1mxvamu/limiting_onmicrosoft_domain_usage_for_sending/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1mxvamu",
+      "post_type": "link",
+      "domain": "techcommunity.microsoft.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-23T07:45:33.718000+0000",
+      "content_href": "https://techcommunity.microsoft.com/blog/exchange/limiting-onmicrosoft-domain-usage-for-sending-emails/4446167",
+      "content_preview": "",
+      "flair": [
+        "tradecraft (how we defend)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "CSWP 51, Developing a Transit Cybersecurity Framework Community Profile: Project Update",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1mxugsq/cswp_51_developing_a_transit_cybersecurity/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1mxugsq",
+      "post_type": "link",
+      "domain": "csrc.nist.gov",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-23T06:53:46.055000+0000",
+      "content_href": "https://csrc.nist.gov/pubs/cswp/51/developing-a-transit-csf-community-profile-project/ipd",
+      "content_preview": "",
+      "flair": [
+        "highlevel summary|strategy (maybe technical)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    },
+    {
+      "title": "APT36: Targets Indian BOSS Linux Systems with Weaponized AutoStart Files",
+      "permalink": "https://www.reddit.com/r/blueteamsec/comments/1mxv2gs/apt36_targets_indian_boss_linux_systems_with/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1mxv2gs",
+      "post_type": "link",
+      "domain": "cyfirma.com",
+      "author": "digicat",
+      "author_id": "t2_bdl6k",
+      "subreddit_id": "t5_f66zu",
+      "subreddit": "r/blueteamsec",
+      "created_ts": "2025-08-23T07:30:36.824000+0000",
+      "content_href": "https://www.cyfirma.com/research/apt36-targets-indian-boss-linux-systems-with-weaponized-autostart-files/",
+      "content_preview": "",
+      "flair": [
+        "intelligence (threat actor activity)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ebpy3/styles/profileIcon_q3neesrwbew51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=991e80b6d77dc2541ff1310c8269b55833ae7426"
+    }
+  ],
+  "scraped_at": "2025-09-02T13:12:44.791096"
+}

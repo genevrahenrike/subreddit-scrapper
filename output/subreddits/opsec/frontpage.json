@@ -1,0 +1,186 @@
+{
+  "subreddit": "opsec",
+  "url": "https://www.reddit.com/r/opsec",
+  "meta": {
+    "title": "opsec",
+    "members_text": "4,964",
+    "title_old": "opsec"
+  },
+  "posts": [
+    {
+      "title": "PSA: Report all threads or comments in threads that give advice when the OP never explained their threat model. Anyone posting without a clear threat model will have their post removed. Anyone responding to them in any manner outside of explaining how to describe their threat model will be banned.",
+      "permalink": "/r/opsec/comments/lhd7ji/psa_report_all_threads_or_comments_in_threads/",
+      "score": 123,
+      "comments": 0
+    },
+    {
+      "title": "System76 vs Framework vs Tuxedo",
+      "permalink": "/r/opsec/comments/1n6smwn/system76_vs_framework_vs_tuxedo/",
+      "score": 3,
+      "comments": 1
+    },
+    {
+      "title": "Blood cancer makes people want more time.",
+      "permalink": "https://alb.reddit.com/cr?za=Lkn05wq3Ryskrboqd2lLjjeoZTaUY5aS78W4-R1JlOB8soz1jwn5r21TftyV-iEpkdeN0F6hAZJUQQ4s4lqbzjIVc_xpZyRWUmWQ7F8TG9MHCzzEv5czgxg1VAJd8qvzPkpodmYlsXC3TdH4AQxvUtTQ3D_AnJj2t-gs-cI1-BgpWDWl0qdKYZY-vx6g1OJjHPBYL2Hox5yHdHDTLObOvn3mQqMcutKMR0yIP-f1lMjKyFYnP0x6BO8TA1ZpXfVcMx4DU6-bWUhFeSoJqohi_oMzl5zfJSqkurP6kegRqhILq9s024XAB7uulMO8ptMyvTSU24C_z1pMTI5G3qrJvxSg9HYTRpmR74kYjoRs_F6bLIS6eH1dl7kXgHRJVEKYxwS4F8FFypSQ7mlyWsKloU7rt2IziJZKZe2394LCpNRG3AfEWF0J_wUbiS-H2aGMnlC6nJH7EApjaLSpylBZu8jJ8fXwZbUfufhRCYkQth7BkU9HYKxI_FNpqh9XnnYwsQFZzL9-G2m2vrAyr02iKGhHgpMC1H5saiXnRGaiEn9QcwohXfAGVJeDeZvsl_VlgWbAeEOKSLDM0BKEtrfmFcJi9J-RUBPh4vKKMIxcns3qGXOx&zp=iq5_yNpCtvcwFrF2Xr1m3KJUupN2p9Dv4Oi50me5MybD6gCgbhluFbX6Glfz5h1E88XKk2mZrtzQdHHFzmrNFCyiNOBCyE5oc_gSzAHD0sX7DlJqcNp6VQSWL6VBKKeJjsI5QzkHASR79z8y59Zf_0KlXpdgAPGr1o_Efaftz7MLofpTs56t7BHAicvAF4xYKNgTMJtfNxcM_XNC5jmvn4k4nTswGwAu6_631j0pxsHQpipkmHc4i6sXK_zO-3Iheh-i4Alnon8gSnrHUv0D1aojZ2CsEedHJ3SGvbJKuu4Gmlu_SpiCR9j-uPG1e1Dh_WBlIzDZ16UpRYvbeILr0ssLFMKbS39fuExOt-DOXCP6EfGah98FY1rLYikPrEEV9vMqLTt_1XBZulfR_RY8pn4MT0gdMW3-ME18Gute_p11WmXQaPi1Qa_uUXEL97-_uSb6A5Ji20eBV5jATor4zCcvo_cALxu8FqyjHGBoJoB4YwA",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "title": "Help Needed: Choosing a Secure Computing Device as a Human Rights Activist",
+      "permalink": "/r/opsec/comments/1n3xb8a/help_needed_choosing_a_secure_computing_device_as/",
+      "score": 8,
+      "comments": 9
+    },
+    {
+      "title": "How to make a cheap Android smartphone (under $100) secure for human rights evidence collection?",
+      "permalink": "/r/opsec/comments/1n15rjq/how_to_make_a_cheap_android_smartphone_under_100/",
+      "score": 56,
+      "comments": 53
+    },
+    {
+      "title": "Learning OPSEC...",
+      "permalink": "/r/opsec/comments/1n0pe5v/learning_opsec/",
+      "score": 10,
+      "comments": 6
+    },
+    {
+      "title": "How to do operational security for YouTube videos?",
+      "permalink": "/r/opsec/comments/1mwuflp/how_to_do_operational_security_for_youtube_videos/",
+      "score": 26,
+      "comments": 17
+    },
+    {
+      "title": "Where and how do I start learning opsec?",
+      "permalink": "/r/opsec/comments/1mv3qed/where_and_how_do_i_start_learning_opsec/",
+      "score": 55,
+      "comments": 30
+    },
+    {
+      "title": "Advice on cheap, but hack-resistant CCTV setups for human rights activists",
+      "permalink": "/r/opsec/comments/1muohzp/advice_on_cheap_but_hackresistant_cctv_setups_for/",
+      "score": 20,
+      "comments": 12
+    },
+    {
+      "title": "Advice Needed: Privacy Friendly Intrusion Detection System for a Human Rights Activist's Home in Bangladesh",
+      "permalink": "/r/opsec/comments/1mqpg2m/advice_needed_privacy_friendly_intrusion/",
+      "score": 9,
+      "comments": 3
+    },
+    {
+      "title": "I suspect I am about to be doxxed. what can I do now?",
+      "permalink": "/r/opsec/comments/1mnfng2/i_suspect_i_am_about_to_be_doxxed_what_can_i_do/",
+      "score": 17,
+      "comments": 10
+    },
+    {
+      "title": "How can I secure my IPhone after what I suspect may have been a zero click attack attempt?",
+      "permalink": "/r/opsec/comments/1mhmjfc/how_can_i_secure_my_iphone_after_what_i_suspect/",
+      "score": 33,
+      "comments": 29
+    },
+    {
+      "title": "FYI: Chipotle just launched a whole new way to feed a group. Order NEW Build-Your-Own Chipotle and get $10 off with code TRYBYOC.",
+      "permalink": "https://alb.reddit.com/cr?za=hJz7KYDuD2zL2dxdJ1qoPEKNhPWwx2qUYvqCZqI67hLdfYe05ekTXtWnNkprAQU7u0rX1lIo30_2k--923Wmvp6IwgJS3UNmRIXlAsJBuAXHIhi_Lrz5Zjc6lMoYXURkE15qTxOq2LF4sIItNiLrIJEI6hGfhYlx87P8Gl22zZTHTVWBwJimkBZLm9FbaYkx7e8GiimhEOUwzHxsyqTthasEjOfut9kL7z3VlJd45hY9o4GwESHHkhgqgfnllCPfoMjO9cYxiCkmg8d5FIxr80wInrmZYIO_eufcuq8EMNSimfgSiIccQBx9gIcReoJgLnaVom6yk3VVcF8U9ZYUQirWUi1EntF8zjobXGwgKdLTs4Ga1DUQo8l-FZ1GOXGMofwa9HABqbHODGTTcn3I1Qd41peywOuDVdW2TRm3KnRRNdFjnxnvLyPI6tUtweFkNhHFLibusHlM0H-eECYTHhAjQ-Ws7nI8OsZ-nGODfEnsdzKFlLtClvjXp9dew47xw5ppXLQTrgMi57zk8KoKVH6eg8KDJM2hRd41jzFohyPVvpNNfWIRNoBOP14fvbPeKKVZObesAqV5J4r_9GJVEBs17EahTfepyufEQYHBjqfJgJ4dP_QeiCV2we4PBAED592vW1eVrGDXKdajUnMVZrFiMzVg_Ju5SGKTGJUUXswHU5Aq3HCc_6N2OSljlOl6gr1ydykxrkh8Fu-h2BhjVFMj5ZkDy0onurqRKKOcdSGy1mbYXmidf8JRM-Y8YRduh0j7a9cOIVJHsRNguMzlFKx_WE6-cJQdYJHz70mquyUyXNKXjHMUP_VHjV6npvJf9GjqACIj3Q44e-9MsZu-KOBKSoCgbyro1InwkBkFFChEZ3o4egvmLTZD8PcBhxFQmBSB8TKKS_ekj_Bv8R6XLTxqBXOabAfmxWnnBgmQ1jCh1b_8FCsfRM8cXOx-MJ-hIXp6_sRVAyrcDGXYsWLi61_3ySnwaf9Q97WNXfygaye8Qwa7nvDc2P4H3TbgeeNxT8DNcpWnYqeKAwWQ1VjGkVOlEdmRFi_G7O9u6i8l0DslMMP31BNqQpc6gDM9_vT9n_H10gv21prkPldMT6FWYcDFzDhUVSXObMyCoa_Z-ycoPyul-2J_9F1up-KEajCa3986FFmhyhYvfxTNWCOaNoFsD5V8TRkrn9nDx5KPzzt2jmreoeFGwFtjZ8sjHPrdZDdXYc9WbssM1tXcbsRasWJHdu-KfWjuU9ZZ-jnx_NWfT7UrPlX_c8x32rsqL0i5cLvk70ffN_wOLHp6Qp2XzY2N2Zs-jmhsXf9_x3EoEniOHiAgYuHIUFxZvmHdvqb7xM9UKY7D8fZv_7Ii0rI0xqEGJ4TNzGZPbg0EQk_sxvEVj61YPbUdiyf81w&zp=MPksLKUcn5UHf6A5yYXHTDVeOhU6VPYcNdVA816GiDDlYxxYoi5HCj3dPyRbvllJVJ_dY7FzpCxgqJ3h6ciC6Vk5ZQs3CPlyV6oygOg2j7Q1acMtdEpD6d7AN1P0qpPi1AkIQxtKnTMRed1Khs2fq9c4l5i98QF9TW1uBTdi6hp_6maqPDo90gc4CqIZEDkQuXqwxB0LX1jVY8WyISH7xC5zyfXQ-3Zi220vq_xEYbENKErXg7uBCQw7RaOmyz_tD5qN0z2zdVDrl9fR41Bb3zZWmmfcXWLrtPN7ntt5ccFUQRrx6MXv3jc4Nttu5wvOd6kLWRs37CM2UMHBewoheK2l",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "title": "Using Tails OS - How to share photos/videos on Telegram & WhatsApp without being traceable?(nothing illegal)",
+      "permalink": "/r/opsec/comments/1mh7izs/using_tails_os_how_to_share_photosvideos_on/",
+      "score": 22,
+      "comments": 10
+    },
+    {
+      "title": "Requesting Review & Guidance: Comprehensive OPSEC for Human Rights Defenders in Bangladesh",
+      "permalink": "/r/opsec/comments/1mfjnek/requesting_review_guidance_comprehensive_opsec/",
+      "score": 10,
+      "comments": 5
+    },
+    {
+      "title": "KeePass Vs. VaultWarden Vs. Others",
+      "permalink": "/r/opsec/comments/1mf7u60/keepass_vs_vaultwarden_vs_others/",
+      "score": 9,
+      "comments": 1
+    },
+    {
+      "title": "Review: Moving from Qubes Laptop + 4G to VPS + VPN",
+      "permalink": "/r/opsec/comments/1mex73o/review_moving_from_qubes_laptop_4g_to_vps_vpn/",
+      "score": 6,
+      "comments": 0
+    },
+    {
+      "title": "I lost my crypto to a PowerShell-based hack — learn from my mistake.",
+      "permalink": "/r/opsec/comments/1mc5hik/i_lost_my_crypto_to_a_powershellbased_hack_learn/",
+      "score": 232,
+      "comments": 69
+    },
+    {
+      "title": "[Advice Needed] Secure & Court‑Admissible Camera Setup in Lawless Bangladesh",
+      "permalink": "/r/opsec/comments/1mbjoit/advice_needed_secure_courtadmissible_camera_setup/",
+      "score": 15,
+      "comments": 1
+    },
+    {
+      "title": "USB Stick with GPG keys, SSH keys and Keepassxc database.",
+      "permalink": "/r/opsec/comments/1mag3wn/usb_stick_with_gpg_keys_ssh_keys_and_keepassxc/",
+      "score": 11,
+      "comments": 9
+    },
+    {
+      "title": "How to securely send sensitive human rights evidence files via email when recipients don’t use PGP?",
+      "permalink": "/r/opsec/comments/1m3r7p6/how_to_securely_send_sensitive_human_rights/",
+      "score": 70,
+      "comments": 56
+    },
+    {
+      "title": "[Seeking Advice] Affordable Privacy-Respecting Smartphone Options for Human Rights Defenders in the Global South",
+      "permalink": "/r/opsec/comments/1m3p6uu/seeking_advice_affordable_privacyrespecting/",
+      "score": 11,
+      "comments": 14
+    },
+    {
+      "title": "Living with hemophilia A? Do you have challenges with your current treatment?",
+      "permalink": "https://alb.reddit.com/cr?za=ozgYKMjqgFTYyH1NrPNZpSgBsmRj7R8mHfFlYBZs9cFU3_hm8CApHYMU8cfGBN-5wxaK88qHARdl78oCYNGCOT4nWZJc0N4zIdjUYl6fNcO-cEHrlts9BOiegRz5Pw1NczNH1KSFFJTqiQFf87wR8JkTh9EJRseBRAXWmP24_wPhQHHDX0tpO_-I0y2cIM2t-mzAR2-nLCOc1X08MbhvPFU_HqrBdCa4U3gb3AhhU4J4xrHYGR3DnYPyHv-IuLfmgJNs3dvAftzxDJNJ3YyxT1vIMZnzi6GM4ZBjZSYwBlrgFkvtogBywNYwBrPpSHzFs8Wj2xFKOnb3hBO_GKYDwzZ_kkPewazaaaAYCuBdrc8LuxZJltySD63-N8SAQ2aDgXN-kdQH9d9d6D6mnPWqU2drUjSSImw3JCkr3_OaDq4zSOasJ4YM92e6fVEuLzNWp7RRetNQWrMT7pCarp1BSEEzK_DAtgMRpP6Ka7AO2dpHkypO1kdB9hzH0KN9x62SufWKSXAXqUbmnO9K68Nxwcj3TzoMxGQFRuMjKbk-sJQQ6CSJQw7X4DcngPypYml2-aQAaUGMscNmHbrlZxZhh1a2R24ExfFlJ9BQApTgDZ9PPq8&zp=i1FjzA9J_6JDmsEPnOXDIP0GFGT72MB1PsPJzXJislvvpJoQd-7V-OTElV9sb-Mimo5DaAwAH8QUf_QGLvitVDmYqeY1naW2flg5Rv2snrpZoWbQJr_LuqEd6zWRJyOuh8Q9nNLGpJ97q3KOJU7aYd_H2hTD7I3xoBdu1Eu6BPKvJwvzb5GT6_FCUoh69ilhTdN0plGGEOgv3rxq7Ha8GGa6FSKwINc04nGVkX1beDixYj4zVr4q_arPqoedFrniGFWMWPD1rlAU45AYfY9Kn2gThmjVMSx9uFQKnqBF6gj8k3fycWSy030-TZAziTkvTRsg7BRA7cGpY2B8_Y_YIqAmqqni2m2bzkPB8Re1ucZu3eOZ2roWejlpmKORdQXhp_Clj9MqIWYV5AltQOP5zkq8kPuQjth_YUKix7E-m1fZPGnJkbw",
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "title": "Stay hidden: Alternatives to VPNs? Original purpose, trust issues & layering (VPN→Tor, Tor→VPN, etc.)",
+      "permalink": "/r/opsec/comments/1m26r0i/stay_hidden_alternatives_to_vpns_original_purpose/",
+      "score": 15,
+      "comments": 4
+    },
+    {
+      "title": "I need a third party way of communicating via call/text",
+      "permalink": "/r/opsec/comments/1m0movh/i_need_a_third_party_way_of_communicating_via/",
+      "score": 14,
+      "comments": 16
+    },
+    {
+      "title": "For DNS, is DoT and DoH really useful?",
+      "permalink": "/r/opsec/comments/1m0mnfl/for_dns_is_dot_and_doh_really_useful/",
+      "score": 3,
+      "comments": 7
+    },
+    {
+      "title": "What would actually be the most anonymous way run a ClearWeb Shop?",
+      "permalink": "/r/opsec/comments/1m04vfs/what_would_actually_be_the_most_anonymous_way_run/",
+      "score": 7,
+      "comments": 5
+    },
+    {
+      "title": "Looking for scary stories vs Google",
+      "permalink": "/r/opsec/comments/1lynvrr/looking_for_scary_stories_vs_google/",
+      "score": 5,
+      "comments": 15
+    },
+    {
+      "title": "Travel but no burner phone?",
+      "permalink": "/r/opsec/comments/1lx3rak/travel_but_no_burner_phone/",
+      "score": 27,
+      "comments": 3
+    }
+  ],
+  "scraped_at": "2025-09-02T13:09:53.257561"
+}

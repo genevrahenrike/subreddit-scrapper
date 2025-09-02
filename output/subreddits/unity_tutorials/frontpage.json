@@ -1,0 +1,1011 @@
+{
+  "subreddit": "unity_tutorials",
+  "url": "https://www.reddit.com/r/unity_tutorials",
+  "meta": {
+    "title": "Tutorials for the Unity game engine!",
+    "members_text": "424,005"
+  },
+  "posts": [
+    {
+      "title": "Hey guys! I've been creating shaders and VFX with Unity for a while, and I'm currently writing an e-book about Shader Graph in Unity. If you're interested, you can subscribe at the link below!",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1n470y1/hey_guys_ive_been_creating_shaders_and_vfx_with/",
+      "score": 101,
+      "comments": 4,
+      "post_id": "t3_1n470y1",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "AGameSlave",
+      "author_id": "t2_j71tqqgj",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-30T17:12:58.731000+0000",
+      "content_href": "https://v.redd.it/19i5fy0wv6mf1",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_87s1ry/styles/profileIcon_fk235d3nnv7f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5c61736bbeddeccfaa6aa47b71ad50baad9737a3"
+    },
+    {
+      "title": "I need help",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1n4wvpv/i_need_help/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1n4wvpv",
+      "post_type": "text",
+      "domain": "self.unity_tutorials",
+      "author": "Zalersqfrr",
+      "author_id": "t2_1qye7ylg3o",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-31T14:58:01.354000+0000",
+      "content_href": "https://www.reddit.com/r/unity_tutorials/comments/1n4wvpv/i_need_help/",
+      "content_preview": "",
+      "flair": [
+        "Request"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_emri5v/styles/profileIcon_9x5xju772aef1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=eeb51c53fdd8997263621f773e37daca34f86c73"
+    },
+    {
+      "title": "Unity URP Blur Shader",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1n3hqgf/unity_urp_blur_shader/",
+      "score": 7,
+      "comments": 0,
+      "post_id": "t3_1n3hqgf",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "FirnoxGames",
+      "author_id": "t2_cy4v808a",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-29T20:04:34.518000+0000",
+      "content_href": "https://youtu.be/jvkk3JBcXeA",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4z1qqz/styles/profileIcon_q7qa9284lcff1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d7934e26080df41b52b2e1bc64797bdac2815c6d"
+    },
+    {
+      "title": "How to create a Basic Enemy Follow AI in Unity - Unity Basics",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1n3fdtz/how_to_create_a_basic_enemy_follow_ai_in_unity/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n3fdtz",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "SinfulBasilisk",
+      "author_id": "t2_8yxox5b",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-29T18:32:51.136000+0000",
+      "content_href": "https://youtu.be/_c9Ny88pOV0",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Need help with AR in unity",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1n36vt5/need_help_with_ar_in_unity/",
+      "score": 1,
+      "comments": 4,
+      "post_id": "t3_1n36vt5",
+      "post_type": "text",
+      "domain": "self.unity_tutorials",
+      "author": "AmosForger",
+      "author_id": "t2_sb9cc72g",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-29T13:03:53.257000+0000",
+      "content_href": "https://www.reddit.com/r/unity_tutorials/comments/1n36vt5/need_help_with_ar_in_unity/",
+      "content_preview": "",
+      "flair": [
+        "Request"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Twice a year, I setup a new template project to use going forward. I tune core settings, setup assets, create basic style sheets, color palettes and workflow-specific layouts (and more!). If you ever thought about creating your own template, I think you'll find something useful in the way I do it!",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1n0hqjg/twice_a_year_i_setup_a_new_template_project_to/",
+      "score": 16,
+      "comments": 0,
+      "post_id": "t3_1n0hqjg",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "GigglyGuineapig",
+      "author_id": "t2_sr4ovo5t",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-26T10:03:53.061000+0000",
+      "content_href": "https://youtu.be/xGcotJKsvZQ",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_732rud/styles/profileIcon_3tz06dcw75x91.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=95094b7dc68992ee2f8f283afd01870beefbed97"
+    },
+    {
+      "title": "3D Maze generator and a ball physics game with with source code",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mzogs2/3d_maze_generator_and_a_ball_physics_game_with/",
+      "score": 5,
+      "comments": 0,
+      "post_id": "t3_1mzogs2",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Alsharefee",
+      "author_id": "t2_1o8xt325",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-25T11:57:26.812000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mzogs2",
+      "content_preview": "",
+      "flair": [
+        "Text"
+      ],
+      "thumbnail_url": "https://preview.redd.it/3d-maze-generator-and-a-ball-physics-game-with-with-source-v0-u9csgpg1n5lf1.gif?width=600&auto=webp&s=cdf07dbea22cd0119ae264a94aab65da307cd930"
+    },
+    {
+      "title": "I'm struggling to find tutorials on creating satisfying fighting games",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1my4pz1/im_struggling_to_find_tutorials_on_creating/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1my4pz1",
+      "post_type": "text",
+      "domain": "self.unity_tutorials",
+      "author": "RazyLazy",
+      "author_id": "t2_1rohns2pdn",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-23T15:40:14.352000+0000",
+      "content_href": "https://www.reddit.com/r/unity_tutorials/comments/1my4pz1/im_struggling_to_find_tutorials_on_creating/",
+      "content_preview": "",
+      "flair": [
+        "Request"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How to on the new World UI system.",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mxcaj4/how_to_on_the_new_world_ui_system/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1mxcaj4",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "Bunny_Coder",
+      "author_id": "t2_poywpq8c",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-22T17:09:32.271000+0000",
+      "content_href": "https://youtu.be/sWtYsu6XzgQ",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Why Your Unity Game is Laggy... and How to Fix It",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mxrekh/why_your_unity_game_is_laggy_and_how_to_fix_it/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mxrekh",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "based_in_tokyo",
+      "author_id": "t2_1kynqrbeqj",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-23T03:57:32.190000+0000",
+      "content_href": "https://youtu.be/t01199zqkYY",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dv440y/styles/profileIcon_qhewnt9130oe1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b4fd49b9a6e68ceae4b77083663fea1212ec04a9"
+    },
+    {
+      "title": "Learn Unity Fast: Daily Lessons with Code, Mini Projects & Quizzes – Day 17 Just Dropped (High Score Saving)",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mx322y/learn_unity_fast_daily_lessons_with_code_mini/",
+      "score": 5,
+      "comments": 3,
+      "post_id": "t3_1mx322y",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "ZombieNo6735",
+      "author_id": "t2_vk92yc43",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-22T10:42:47.553000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mx322y",
+      "content_preview": "",
+      "flair": [
+        "Request"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7rrdcj/styles/profileIcon_mxy5k2ou72df1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1997d849d12d3bd2bfde5861bc75932f86f724dd"
+    },
+    {
+      "title": "How One Click Unity MCP in Code Maestro Actually Made My Life Easier",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mwbut1/how_one_click_unity_mcp_in_code_maestro_actually/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1mwbut1",
+      "post_type": "multi_media",
+      "domain": "self.unity_tutorials",
+      "author": "Golovan2",
+      "author_id": "t2_dkj3t",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-21T14:04:38.334000+0000",
+      "content_href": "https://www.reddit.com/r/unity_tutorials/comments/1mwbut1/how_one_click_unity_mcp_in_code_maestro_actually/",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How to create basic Player Movement in Unity",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mvqogo/how_to_create_basic_player_movement_in_unity/",
+      "score": 5,
+      "comments": 1,
+      "post_id": "t3_1mvqogo",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "SinfulBasilisk",
+      "author_id": "t2_8yxox5b",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-20T20:40:48.653000+0000",
+      "content_href": "https://youtu.be/hoB99YWV1fU",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How to use a Scroll View in Unity",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mv4ei3/how_to_use_a_scroll_view_in_unity/",
+      "score": 5,
+      "comments": 0,
+      "post_id": "t3_1mv4ei3",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "SinfulBasilisk",
+      "author_id": "t2_8yxox5b",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-20T03:52:49.303000+0000",
+      "content_href": "https://youtu.be/He19KoYdWfc",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Unity Navigation Livestream (August 26, 2025) - Learn how to use the Unity Navigation System in 2025!",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mstihj/unity_navigation_livestream_august_26_2025_learn/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1mstihj",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "LlamAcademyOfficial",
+      "author_id": "t2_9jygk0g5",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-17T15:14:16.886000+0000",
+      "content_href": "https://youtube.com/live/8Hs5mM_jBGA?feature=share",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3mz4nm/styles/profileIcon_xwohn36xeumd1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8161f6beb89347ae46446dcd862f074047b436dd"
+    },
+    {
+      "title": "Hey everyone, do you want to know how to hide your mouse cursor when using a gamepad or keyboard? In this tutorial, I’ll show you two ways to do it!",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mrbhng/hey_everyone_do_you_want_to_know_how_to_hide_your/",
+      "score": 8,
+      "comments": 2,
+      "post_id": "t3_1mrbhng",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "RobC_Dev",
+      "author_id": "t2_s2mff27z",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-15T21:47:58.798000+0000",
+      "content_href": "https://i.redd.it/nyj0o8zr69jf1.png",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://preview.redd.it/hey-everyone-do-you-want-to-know-how-to-hide-your-mouse-v0-nyj0o8zr69jf1.png?width=640&crop=smart&auto=webp&s=45eac7b1241b8687762fc6044d81a8d96dad3031"
+    },
+    {
+      "title": "Chop Down Trees in Unity 6",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mq5que/chop_down_trees_in_unity_6/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1mq5que",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "DigvijaysinhG",
+      "author_id": "t2_d034pdz7",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-14T16:37:12.538000+0000",
+      "content_href": "https://youtu.be/BKG_RoDA6uQ",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "New Unity Animator AI Generator - how to use and some comments",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mo83ps/new_unity_animator_ai_generator_how_to_use_and/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1mo83ps",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "bsarachan",
+      "author_id": "t2_pkv33tu",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-12T13:01:12.224000+0000",
+      "content_href": "https://youtu.be/PJTtaWU3o0I",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "We just dropped a Stencil Buffer shader for your projects, 100% CC0",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mnh7dl/we_just_dropped_a_stencil_buffer_shader_for_your/",
+      "score": 15,
+      "comments": 1,
+      "post_id": "t3_1mnh7dl",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "tntcproject",
+      "author_id": "t2_2ny3yadv",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-11T16:10:18.476000+0000",
+      "content_href": "https://v.redd.it/83hxr65qzeif1",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ru60i/styles/profileIcon_l34vypfyvo7f1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=beebc531339737dba2b2807f8af5801f59136957"
+    },
+    {
+      "title": "Day 16 Released – Balloon Pop Game – Learn Unity In 30 Days",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mmvhgc/day_16_released_balloon_pop_game_learn_unity_in/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mmvhgc",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "ZombieNo6735",
+      "author_id": "t2_vk92yc43",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-10T22:01:35.401000+0000",
+      "content_href": "https://v.redd.it/jsixm9ohl9if1",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7rrdcj/styles/profileIcon_mxy5k2ou72df1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1997d849d12d3bd2bfde5861bc75932f86f724dd"
+    },
+    {
+      "title": "Why Unity ECS Physics Isn’t Ready for Production (and Could Break Your Project)",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mi5xqq/why_unity_ecs_physics_isnt_ready_for_production/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1mi5xqq",
+      "post_type": "link",
+      "domain": "giannisakritidis.com",
+      "author": "_meredoth_",
+      "author_id": "t2_1sk2rllz9n",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-05T10:53:00.143000+0000",
+      "content_href": "https://giannisakritidis.com/blog/ECS-Physics-Bug",
+      "content_preview": "",
+      "flair": [
+        "Text"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_etdi3f/styles/profileIcon_p6r9w57m61bf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b62a4575406f51497dec7549b9433ff79912f6af"
+    },
+    {
+      "title": "Wanna learn how the stencil buffer works? We break it down in our latest video recreating Split Fiction’s multi-world effect!",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mhktoc/wanna_learn_how_the_stencil_buffer_works_we_break/",
+      "score": 16,
+      "comments": 0,
+      "post_id": "t3_1mhktoc",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "tntcproject",
+      "author_id": "t2_2ny3yadv",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-04T18:03:32.092000+0000",
+      "content_href": "https://v.redd.it/fe5uby5jl1hf1",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ru60i/styles/profileIcon_l34vypfyvo7f1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=beebc531339737dba2b2807f8af5801f59136957"
+    },
+    {
+      "title": "Placing UI elements inside your world - How to work with the World Canvas",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mhcya4/placing_ui_elements_inside_your_world_how_to_work/",
+      "score": 5,
+      "comments": 0,
+      "post_id": "t3_1mhcya4",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "GigglyGuineapig",
+      "author_id": "t2_sr4ovo5t",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-04T13:07:22.130000+0000",
+      "content_href": "https://youtu.be/Fw3uQmx-46M",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_732rud/styles/profileIcon_3tz06dcw75x91.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=95094b7dc68992ee2f8f283afd01870beefbed97"
+    },
+    {
+      "title": "I've made a super short tutorial on how to visualize audio in Unity, feedback welcome!",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mhm182/ive_made_a_super_short_tutorial_on_how_to/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1mhm182",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "RumplyThrower09",
+      "author_id": "t2_1c6emm9e",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-04T18:47:02.603000+0000",
+      "content_href": "https://youtu.be/htrnH8cgrs0",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Unity 6 racing game tutorial?",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mfy252/unity_6_racing_game_tutorial/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1mfy252",
+      "post_type": "text",
+      "domain": "self.unity_tutorials",
+      "author": "Bineapple2001",
+      "author_id": "t2_56y09ld4",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-02T18:46:39.839000+0000",
+      "content_href": "https://www.reddit.com/r/unity_tutorials/comments/1mfy252/unity_6_racing_game_tutorial/",
+      "content_preview": "",
+      "flair": [
+        "Help With a Tutorial"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I created my first Unity 2D tutorial , I hope somene find it usefull",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mf38bb/i_created_my_first_unity_2d_tutorial_i_hope/",
+      "score": 6,
+      "comments": 1,
+      "post_id": "t3_1mf38bb",
+      "post_type": "multi_media",
+      "domain": "self.unity_tutorials",
+      "author": "Diligent_Media_1715",
+      "author_id": "t2_15r30988ww",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-08-01T17:49:20.268000+0000",
+      "content_href": "https://www.reddit.com/r/unity_tutorials/comments/1mf38bb/i_created_my_first_unity_2d_tutorial_i_hope/",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ccu7ne/styles/profileIcon_vmrp1e6ytzae1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7e79ed4a3568d508af446fe74faed91d2c5048a2"
+    },
+    {
+      "title": "How to create Worlds in Unity ECS? - VContainer - Tutorial - link to full video in the comments section!",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mdb54t/how_to_create_worlds_in_unity_ecs_vcontainer/",
+      "score": 11,
+      "comments": 0,
+      "post_id": "t3_1mdb54t",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "taleforge",
+      "author_id": "t2_hsmvg2zhm",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-07-30T16:26:05.362000+0000",
+      "content_href": "https://v.redd.it/181d4atbf1gf1",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/how-to-create-worlds-in-unity-ecs-vcontainer-tutorial-link-v0-cGlzenprYmtmMWdmMQYAw22PyzAv0BUz4rmwdG852fcbIBnfhxFXYXTMn9CY.png?width=640&crop=smart&format=pjpg&auto=webp&s=ca47f8a2dce5234ff9fd12f8ebed3dacd41b9885"
+    },
+    {
+      "title": "Stop Struggling: Monetize Your Mobile Game Like a Pro",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mcceb0/stop_struggling_monetize_your_mobile_game_like_a/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mcceb0",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "Own-Philosopher7873",
+      "author_id": "t2_nc5yx0z0",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-07-29T14:07:28.832000+0000",
+      "content_href": "https://www.youtube.com/watch?v=UkX2b65P1Lo&list=PLHcU8LK4tXHxxhGk7g993czfDWD9_BVNL&index=8",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Create Cloudy Skybox in Unity 6 - Shader Graph Tutorial",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mbhena/create_cloudy_skybox_in_unity_6_shader_graph/",
+      "score": 8,
+      "comments": 0,
+      "post_id": "t3_1mbhena",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "DigvijaysinhG",
+      "author_id": "t2_d034pdz7",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-07-28T14:17:49.171000+0000",
+      "content_href": "https://youtu.be/cP0ST4-o9UI",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "State Machine in Unity 3D - Easy Tutorial for Beginners",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mbfqo3/state_machine_in_unity_3d_easy_tutorial_for/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1mbfqo3",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "KozmoRobot",
+      "author_id": "t2_4qi3qsoi",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-07-28T13:09:49.683000+0000",
+      "content_href": "https://youtube.com/watch?v=7QIcd6_TTys",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Installing assets for a course as a complete beginner",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1mapslm/installing_assets_for_a_course_as_a_complete/",
+      "score": 2,
+      "comments": 4,
+      "post_id": "t3_1mapslm",
+      "post_type": "multi_media",
+      "domain": "self.unity_tutorials",
+      "author": "Sad-Assignment-568",
+      "author_id": "t2_eog2y714",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-07-27T15:54:52.934000+0000",
+      "content_href": "https://www.reddit.com/r/unity_tutorials/comments/1mapslm/installing_assets_for_a_course_as_a_complete/",
+      "content_preview": "",
+      "flair": [
+        "Help With a Tutorial"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_52kze5/styles/profileIcon_jjxl5sl061ed1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=489b4aeb950cb501537e8ad71ea5637100ec7103"
+    },
+    {
+      "title": "The Unity Tutorial with the plane and the obstacles",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1m9c2j3/the_unity_tutorial_with_the_plane_and_the/",
+      "score": 3,
+      "comments": 4,
+      "post_id": "t3_1m9c2j3",
+      "post_type": "text",
+      "domain": "self.unity_tutorials",
+      "author": "play-what-you-love",
+      "author_id": "t2_azpkdnyj",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-07-25T21:53:23.686000+0000",
+      "content_href": "https://www.reddit.com/r/unity_tutorials/comments/1m9c2j3/the_unity_tutorial_with_the_plane_and_the/",
+      "content_preview": "",
+      "flair": [
+        "Help With a Tutorial"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "New UI Toolkit tutorial - Looking into styling dropdowns",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1m94j0k/new_ui_toolkit_tutorial_looking_into_styling/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1m94j0k",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "Bunny_Coder",
+      "author_id": "t2_poywpq8c",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-07-25T16:56:12.957000+0000",
+      "content_href": "https://youtu.be/M-fk9UdoFo8",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "My new tutorial is all about creating a tab menu system. It's super versatile and easy to create - in my version, the tabs stay highlighted, too!",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1m5ielc/my_new_tutorial_is_all_about_creating_a_tab_menu/",
+      "score": 10,
+      "comments": 0,
+      "post_id": "t3_1m5ielc",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "GigglyGuineapig",
+      "author_id": "t2_sr4ovo5t",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-07-21T13:06:08.221000+0000",
+      "content_href": "https://youtu.be/ZFuEjAcx1-s",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_732rud/styles/profileIcon_3tz06dcw75x91.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=95094b7dc68992ee2f8f283afd01870beefbed97"
+    },
+    {
+      "title": "Help finding camera angle specific tutorials?",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1m50a9g/help_finding_camera_angle_specific_tutorials/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1m50a9g",
+      "post_type": "multi_media",
+      "domain": "self.unity_tutorials",
+      "author": "Suspicious_Judge6696",
+      "author_id": "t2_9jc5eryo",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-07-20T21:13:19.135000+0000",
+      "content_href": "https://www.reddit.com/r/unity_tutorials/comments/1m50a9g/help_finding_camera_angle_specific_tutorials/",
+      "content_preview": "",
+      "flair": [
+        "Request"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3mro70/styles/profileIcon_9j0dls0gnpae1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3564c5575a7e4fff6ad3b9259cdde5640b716215"
+    },
+    {
+      "title": "Explaining how the Split Fiction multi-world effect works and what you can create using the stencil buffer! Don’t miss our latest recreation video... hope you enjoy it and learn something new! :)",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1m36zlt/explaining_how_the_split_fiction_multiworld/",
+      "score": 29,
+      "comments": 3,
+      "post_id": "t3_1m36zlt",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "tntcproject",
+      "author_id": "t2_2ny3yadv",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-07-18T16:31:04.297000+0000",
+      "content_href": "https://v.redd.it/hia68yq9tndf1",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ru60i/styles/profileIcon_l34vypfyvo7f1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=beebc531339737dba2b2807f8af5801f59136957"
+    },
+    {
+      "title": "I'd like to announce a new tool called Meta Quest Runtime Optimizer for Unity 🎉 that allows you to easily improve the performance of your MR/VR game (Analysis on Vertices, Textures, Materials, and Shaders)",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1m1vvda/id_like_to_announce_a_new_tool_called_meta_quest/",
+      "score": 5,
+      "comments": 0,
+      "post_id": "t3_1m1vvda",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "dilmerv",
+      "author_id": "t2_q4s4x",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-07-17T02:28:48.363000+0000",
+      "content_href": "https://v.redd.it/pez3txmficdf1",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_drtk0/styles/profileIcon_yj4oui9pwmbe1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=37770747863cf989fcf9f5dcd1a8932e1e6b3830"
+    },
+    {
+      "title": "Free app for learning Unity with step by step lessons",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1lzjht6/free_app_for_learning_unity_with_step_by_step/",
+      "score": 25,
+      "comments": 6,
+      "post_id": "t3_1lzjht6",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "ZombieNo6735",
+      "author_id": "t2_vk92yc43",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-07-14T11:06:04.723000+0000",
+      "content_href": "https://www.reddit.com/gallery/1lzjht6",
+      "content_preview": "",
+      "flair": [
+        "Text"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7rrdcj/styles/profileIcon_mxy5k2ou72df1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1997d849d12d3bd2bfde5861bc75932f86f724dd"
+    },
+    {
+      "title": "Music Visualizer Tutorial in Unity: Shaders that interact with Audio",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1lzmtvp/music_visualizer_tutorial_in_unity_shaders_that/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1lzmtvp",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "DigvijaysinhG",
+      "author_id": "t2_d034pdz7",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-07-14T13:46:35.617000+0000",
+      "content_href": "https://youtu.be/CFTFc0MAFVA",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Tutorial - Simple Enemy AI in Unity ECS - Jumping Enemies - link to the FULL tutorial in the description ❤️",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1lwm870/tutorial_simple_enemy_ai_in_unity_ecs_jumping/",
+      "score": 11,
+      "comments": 0,
+      "post_id": "t3_1lwm870",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "taleforge",
+      "author_id": "t2_hsmvg2zhm",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-07-10T19:46:47.812000+0000",
+      "content_href": "https://v.redd.it/k2msbllwn3cf1",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/tutorial-simple-enemy-ai-in-unity-ecs-jumping-enemies-link-v0-MTFpbnVqdHpvM2NmMf9ibIzuqQt9CGyUZR3cSpfk7MZFpQ_ZD6Eimvz1V8xJ.png?width=640&crop=smart&format=pjpg&auto=webp&s=eb362162a343f855d3e4a4464f7d92e9fbc54c0c"
+    },
+    {
+      "title": "How to add sounds to your UI in Unity",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1lttno4/how_to_add_sounds_to_your_ui_in_unity/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1lttno4",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "GigglyGuineapig",
+      "author_id": "t2_sr4ovo5t",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-07-07T13:04:57.784000+0000",
+      "content_href": "https://www.youtube.com/watch?v=ZyY8QBWdmmk",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_732rud/styles/profileIcon_3tz06dcw75x91.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=95094b7dc68992ee2f8f283afd01870beefbed97"
+    },
+    {
+      "title": "Where should I start to learn how to build a 4X 3D game for mobile?",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1lstyms/where_should_i_start_to_learn_how_to_build_a_4x/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1lstyms",
+      "post_type": "text",
+      "domain": "self.unity_tutorials",
+      "author": "umen",
+      "author_id": "t2_4vwac",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-07-06T05:53:17.119000+0000",
+      "content_href": "https://www.reddit.com/r/unity_tutorials/comments/1lstyms/where_should_i_start_to_learn_how_to_build_a_4x/",
+      "content_preview": "",
+      "flair": [
+        "Help With a Tutorial"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Made this shader a while ago, should I write a free tutorial for it?",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1lrcqdj/made_this_shader_a_while_ago_should_i_write_a/",
+      "score": 250,
+      "comments": 13,
+      "post_id": "t3_1lrcqdj",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "fespindola",
+      "author_id": "t2_1ftelwh1lx",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-07-04T07:29:50.626000+0000",
+      "content_href": "https://v.redd.it/oh91mjb47taf1",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/made-this-shader-a-while-ago-should-i-write-a-free-tutorial-v0-NXZvMG1oYjQ3dGFmMdBIZ3RuEqPHekmNMduyLTJXSnkWaN0bbTJvudypZFjX.png?width=640&crop=smart&format=pjpg&auto=webp&s=d539053e7283419d9bb758702725bcb637f64160"
+    },
+    {
+      "title": "2D Decals using Custom Renderer Feature and GPU Instancing",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1lrmm0s/2d_decals_using_custom_renderer_feature_and_gpu/",
+      "score": 5,
+      "comments": 0,
+      "post_id": "t3_1lrmm0s",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "SasquatchBStudios",
+      "author_id": "t2_j5j55pko",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-07-04T16:12:56.184000+0000",
+      "content_href": "https://youtu.be/_ADb_sEihmI",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Unity Shorts for Beginners - YouTube Playlist",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1lrbtlq/unity_shorts_for_beginners_youtube_playlist/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1lrbtlq",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Grapefruit_okay",
+      "author_id": "t2_q3icf53i",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-07-04T06:30:43.319000+0000",
+      "content_href": "/r/Unity3D/comments/1lqb9m8/unity_shorts_for_beginners_youtube_playlist/",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Full Screen Outline using Edge Detection - Unity URP Tutorial",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1lo7njs/full_screen_outline_using_edge_detection_unity/",
+      "score": 18,
+      "comments": 0,
+      "post_id": "t3_1lo7njs",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "DigvijaysinhG",
+      "author_id": "t2_d034pdz7",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-06-30T13:33:49.584000+0000",
+      "content_href": "https://youtu.be/nc3a3THBFrg",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Level Selection Screen in Unity - I took a break from Unity tutorials and decided to make something for game progress saving. It is also about saving and loading current level value.",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1lo7pc7/level_selection_screen_in_unity_i_took_a_break/",
+      "score": 10,
+      "comments": 0,
+      "post_id": "t3_1lo7pc7",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "KozmoRobot",
+      "author_id": "t2_4qi3qsoi",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-06-30T13:36:01.334000+0000",
+      "content_href": "https://youtube.com/watch?v=fbj7IKc6oZo",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "UI Toolkit custom components",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1llzrnq/ui_toolkit_custom_components/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1llzrnq",
+      "post_type": "multi_media",
+      "domain": "self.unity_tutorials",
+      "author": "Bunny_Coder",
+      "author_id": "t2_poywpq8c",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-06-27T17:26:59.365000+0000",
+      "content_href": "https://www.reddit.com/r/unity_tutorials/comments/1llzrnq/ui_toolkit_custom_components/",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "ARK Breeding & Mutations system?",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1ll86z8/ark_breeding_mutations_system/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1ll86z8",
+      "post_type": "text",
+      "domain": "self.unity_tutorials",
+      "author": "Large_Security3477",
+      "author_id": "t2_1jc8qxuzku",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-06-26T18:47:15.362000+0000",
+      "content_href": "https://www.reddit.com/r/unity_tutorials/comments/1ll86z8/ark_breeding_mutations_system/",
+      "content_preview": "",
+      "flair": [
+        "Request"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "🍻Tutorial - VContainer - Unity ECS Integration - Basics 🍻 - Link in the description & comments!",
+      "permalink": "https://www.reddit.com/r/unity_tutorials/comments/1ljd79x/tutorial_vcontainer_unity_ecs_integration_basics/",
+      "score": 12,
+      "comments": 1,
+      "post_id": "t3_1ljd79x",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "taleforge",
+      "author_id": "t2_hsmvg2zhm",
+      "subreddit_id": "t5_2r9tr",
+      "subreddit": "r/unity_tutorials",
+      "created_ts": "2025-06-24T14:53:12.834000+0000",
+      "content_href": "https://v.redd.it/s40s33ks1w8f1",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/tutorial-vcontainer-unity-ecs-integration-basics-link-in-v0-cmIxdG8za3MxdzhmMfxTetg6CBBfStk5DiU9z2b-nKMFi6u2lJOyUFl3MEW8.png?width=640&crop=smart&format=pjpg&auto=webp&s=0a3914e5ee658088432892d494d756aca0bdce68"
+    }
+  ],
+  "scraped_at": "2025-09-02T13:16:43.823360"
+}

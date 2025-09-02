@@ -125,6 +125,23 @@ DEFAULT_EMBED_MODEL = "BAAI/bge-small-en-v1.5"  # fast, strong; consider "BAAI/b
 DEFAULT_EMBED_ALPHA = 0.35                      # blend factor for semantic similarity
 DEFAULT_EMBED_K_TERMS = 100                     # rerank top-K terms by embeddings
 
+# Composed theme-anchored keywords defaults
+DEFAULT_COMPOSE_ANCHOR_POSTS = True
+DEFAULT_COMPOSE_ANCHOR_MULTIPLIER = 0.85
+DEFAULT_COMPOSE_ANCHOR_TOP_M = 20
+DEFAULT_COMPOSE_ANCHOR_INCLUDE_UNIGRAMS = False
+DEFAULT_COMPOSE_ANCHOR_MAX_FINAL_WORDS = 6
+DEFAULT_COMPOSE_ANCHOR_USE_TITLE = True
+
+# Tokens to trim from the tail of seed phrases during composition (kept deterministic and small)
+COMPOSE_TRIM_TAIL_TOKENS = {
+    "minute", "minutes", "hour", "hours", "day", "days",
+    "today", "yesterday", "tomorrow", "question", "help"
+}
+
+# Bonus multiplier applied specifically to composed variants originating from whitelist subjects
+DEFAULT_COMPOSE_SUBJECTS_BONUS = 1.25
+
 
 # Curated light stopword list: English + subreddit boilerplate
 STOPWORDS = {
@@ -792,6 +809,169 @@ def apply_anchored_variants_for_generic_posts_terms(
                 del out[term]
     return out
 
+# -----------------------
+# Theme-anchored composition helpers
+# -----------------------
+def _normalize_anchor_phrase_from_title(title: str) -> str:
+    if not title:
+        return ""
+    toks = tokenize_simple(title)
+    return " ".join(toks)
+
+def _simplify_seed_for_composition(term: str) -> str:
+    """
+    Lightly clean seed phrase for composition by trimming generic tail tokens like 'minute(s)', 'today', etc.
+    Keeps phrase length >= 2 to avoid collapsing to single uninformative tokens.
+    """
+    if not term:
+        return term
+    toks = term.split()
+    # Trim only tail tokens, preserving at least a bigram
+    changed = False
+    while len(toks) >= 2 and toks[-1] in COMPOSE_TRIM_TAIL_TOKENS:
+        toks.pop()
+        changed = True
+    if changed and len(toks) >= 2:
+        return " ".join(toks)
+    return term
+
+def compose_theme_anchored_from_posts(
+    posts_scores: Counter,
+    anchor_phrase_lower: Optional[str],
+    anchor_token: Optional[str],
+    top_m: int,
+    include_unigrams: bool,
+    max_final_words: int,
+    multiplier: float,
+) -> Counter:
+    if not posts_scores:
+        return Counter()
+    out = Counter()
+    # Select top-M seed terms by score
+    items = sorted(posts_scores.items(), key=lambda kv: kv[1], reverse=True)
+    seeds = items[: max(0, top_m)]
+    for term, sc in seeds:
+        seed = _simplify_seed_for_composition(term)
+        n_words = seed.count(" ") + 1
+        if n_words == 1 and not include_unigrams:
+            continue
+        # Skip if already anchored by anchor token or phrase
+        t_spaced = f" {seed} "
+        if anchor_token and f" {anchor_token} " in t_spaced:
+            continue
+        if anchor_phrase_lower and t_spaced.startswith(f" {anchor_phrase_lower} "):
+            continue
+        # Compose variants (prefer phrase when available)
+        variants: List[str] = []
+        if anchor_phrase_lower:
+            final_words = (anchor_phrase_lower.count(" ") + 1) + n_words
+            if final_words <= max_final_words:
+                variants.append(f"{anchor_phrase_lower} {seed}")
+        if anchor_token:
+            final_words = 1 + n_words
+            if final_words <= max_final_words:
+                variants.append(f"{anchor_token} {seed}")
+        for v in variants:
+            if v not in posts_scores and v not in out:
+                out[v] = sc * multiplier
+    return out
+
+def compose_theme_anchored_from_seeds(
+    seed_terms: Iterable[str],
+    base_scores: Counter,
+    anchor_phrase_lower: Optional[str],
+    anchor_token: Optional[str],
+    max_final_words: int,
+    multiplier: float,
+    subjects_bonus: float,
+) -> Counter:
+    """
+    Compose anchored variants from an explicit list of seed phrases.
+    Uses base_scores[seed] when available; otherwise uses a small baseline of 1.0.
+    """
+    out = Counter()
+    for term in seed_terms:
+        if not term:
+            continue
+        seed = _simplify_seed_for_composition(term)
+        n_words = seed.count(" ") + 1
+        if n_words < 2:
+            continue  # prefer phrases
+        # Avoid duplicating already-anchored
+        t_spaced = f" {seed} "
+        if anchor_token and f" {anchor_token} " in t_spaced:
+            continue
+        if anchor_phrase_lower and t_spaced.startswith(f" {anchor_phrase_lower} "):
+            continue
+        variants: List[str] = []
+        if anchor_phrase_lower:
+            final_words = (anchor_phrase_lower.count(" ") + 1) + n_words
+            if final_words <= max_final_words:
+                variants.append(f"{anchor_phrase_lower} {seed}")
+        if anchor_token:
+            final_words = 1 + n_words
+            if final_words <= max_final_words:
+                variants.append(f"{anchor_token} {seed}")
+        if not variants:
+            continue
+        sc = base_scores.get(term, 1.0)
+        for v in variants:
+            if v not in out:
+                out[v] = sc * multiplier * subjects_bonus
+    return out
+
+def _collect_present_grams(
+    frontpage_data: dict,
+    max_ngram: int,
+    posts_extra_stopwords_set: Set[str],
+    posts_phrase_stoplist_set: Set[str],
+) -> Set[str]:
+    """
+    Collect normalized bigrams/trigrams present in the subreddit frontpage titles (and optional previews).
+    Mirrors the tokenization used in posts TF-IDF.
+    """
+    present: Set[str] = set()
+    posts = frontpage_data.get("posts") or []
+    for post in posts:
+        title = post.get("title", "") or ""
+        preview = post.get("content_preview", "") or ""
+        toks = _tokenize_post_text(title, preview, posts_extra_stopwords_set)
+        grams = tokens_to_ngrams(toks, max_ngram)
+        for g in list(grams.keys()):
+            if (g.count(" ") + 1) >= 2:
+                if posts_phrase_stoplist_set and g in posts_phrase_stoplist_set:
+                    continue
+                present.add(g)
+    return present
+
+def subreddit_display_key(name: str, url: str) -> str:
+    # Extract displayed subreddit key (preserve casing), e.g., "CX5"
+    if name:
+        m = re.search(r"r/([^/\s]+)", name, flags=re.IGNORECASE)
+        if m:
+            return m.group(1).strip("/")
+    if url:
+        m = re.search(r"/r/([^/\s]+)/?", url, flags=re.IGNORECASE)
+        if m:
+            return m.group(1).strip("/")
+    return ""
+
+def recase_anchored_display(
+    term: str,
+    canon: str,
+    display_key: str,
+    anchor_phrase_lower: Optional[str],
+    anchor_title: Optional[str],
+) -> str:
+    # Map "mazda cx 5 oil change" -> "Mazda CX-5 oil change" when title is available
+    if anchor_title and anchor_phrase_lower and term.startswith(anchor_phrase_lower + " "):
+        suffix = term[len(anchor_phrase_lower):]  # keep leading space
+        return f"{anchor_title}{suffix}"
+    # Map "cx5 oil change" -> "CX5 oil change"
+    if display_key and canon and term.startswith(canon + " "):
+        suffix = term[len(canon):]  # keep leading space
+        return f"{display_key}{suffix}"
+    return term
 
 # -----------------------
 # Scoring
@@ -1084,6 +1264,15 @@ def process_inputs(
     posts_replace_generic_with_anchored: bool = False,
     posts_theme_penalty: float = 0.65,
     posts_theme_top_desc_k: int = 6,
+    # Composed anchored variants (optional)
+    compose_anchor_posts: bool = DEFAULT_COMPOSE_ANCHOR_POSTS,
+    compose_anchor_multiplier: float = DEFAULT_COMPOSE_ANCHOR_MULTIPLIER,
+    compose_anchor_top_m: int = DEFAULT_COMPOSE_ANCHOR_TOP_M,
+    compose_anchor_include_unigrams: bool = DEFAULT_COMPOSE_ANCHOR_INCLUDE_UNIGRAMS,
+    compose_anchor_max_final_words: int = DEFAULT_COMPOSE_ANCHOR_MAX_FINAL_WORDS,
+    compose_anchor_use_title: bool = DEFAULT_COMPOSE_ANCHOR_USE_TITLE,
+    compose_subjects_path: Optional[str] = None,
+    compose_subjects_bonus: float = DEFAULT_COMPOSE_SUBJECTS_BONUS,
     # Embedding rerank (optional)
     embed_rerank: bool = DEFAULT_EMBED_RERANK,
     embed_model: str = DEFAULT_EMBED_MODEL,
@@ -1129,6 +1318,22 @@ def process_inputs(
             print(f"[posts:phrases] loaded {len(posts_phrase_stoplist_set)} stoplist phrase(s) from {posts_phrase_stoplist_path}", file=sys.stderr)
         except Exception as e:
             print(f"[posts:phrases] failed to load phrase stoplist from {posts_phrase_stoplist_path}: {e}", file=sys.stderr)
+
+    # Optional: load composition subject whitelist (phrases to compose when present)
+    compose_subjects_set: Set[str] = set()
+    if compose_subjects_path:
+        try:
+            with open(compose_subjects_path, "r", encoding="utf-8") as f:
+                for line in f:
+                    line = line.strip().lower()
+                    if not line or line.startswith("#"):
+                        continue
+                    # normalize internal whitespace
+                    line = re.sub(r"\s+", " ", line)
+                    compose_subjects_set.add(line)
+            print(f"[compose:subjects] loaded {len(compose_subjects_set)} subject phrase(s) from {compose_subjects_path}", file=sys.stderr)
+        except Exception as e:
+            print(f"[compose:subjects] failed to load subjects from {compose_subjects_path}: {e}", file=sys.stderr)
 
     # Pass 0 (optional): posts DF across frontpages
     frontpage_index: Dict[str, str] = {}
@@ -1196,8 +1401,15 @@ def process_inputs(
                     else:
                         name_scores[full_lower] += 1.0
 
+                # Precompute anchors for composition and display recasing
+                display_key = subreddit_display_key(sub.name, sub.url)
+                canon_key = canonicalize_subreddit_key(sub.name, sub.url)
+                anchor_title_for_display = ""
+                anchor_phrase_lower = ""
+
                 # Posts TF-IDF (optional)
                 posts_scores: Counter = Counter()
+                composed_scores: Counter = Counter()
                 if frontpage_index and posts_weight > 0.0:
                     canon = canonicalize_subreddit_key(sub.name, sub.url)
                     posts_path = frontpage_index.get(canon)
@@ -1259,8 +1471,53 @@ def process_inputs(
                                         posts_generic_df_ratio,
                                         replace_original_generic=posts_replace_generic_with_anchored,
                                     )
-
-                # Theme alignment penalty for posts-only terms with no overlap to subreddit theme
+    
+                                # Compose theme-anchored variants from top posts phrases
+                                composed_scores = Counter()
+                                if compose_anchor_posts and posts_scores:
+                                    title_str = ""
+                                    if compose_anchor_use_title:
+                                        try:
+                                            title_str = ((fp_data.get("meta") or {}).get("title") or "").strip()
+                                        except Exception:
+                                            title_str = ""
+                                    if title_str:
+                                        anchor_title_for_display = title_str
+                                        anchor_phrase_lower = _normalize_anchor_phrase_from_title(title_str)
+                                    composed_from_top = compose_theme_anchored_from_posts(
+                                        posts_scores,
+                                        anchor_phrase_lower or "",
+                                        canon_key or "",
+                                        compose_anchor_top_m,
+                                        compose_anchor_include_unigrams,
+                                        compose_anchor_max_final_words,
+                                        compose_anchor_multiplier,
+                                    )
+                                    # Compose from whitelist subjects present in this frontpage
+                                    composed_from_whitelist = Counter()
+                                    try:
+                                        present_grams = _collect_present_grams(fp_data, max_ngram, posts_extra_stopwords_set, posts_phrase_stoplist_set)
+                                        if compose_subjects_set:
+                                            whitelist_seeds = [g for g in present_grams if g in compose_subjects_set]
+                                            if whitelist_seeds:
+                                                composed_from_whitelist = compose_theme_anchored_from_seeds(
+                                                    whitelist_seeds,
+                                                    posts_scores,
+                                                    anchor_phrase_lower or "",
+                                                    canon_key or "",
+                                                    compose_anchor_max_final_words,
+                                                    compose_anchor_multiplier,
+                                                    compose_subjects_bonus,
+                                                )
+                                    except Exception:
+                                        composed_from_whitelist = Counter()
+                                    composed_scores = Counter()
+                                    composed_scores.update(composed_from_top)
+                                    composed_scores.update(composed_from_whitelist)
+                                else:
+                                    composed_scores = Counter()
+    
+                    # Theme alignment penalty for posts-only terms with no overlap to subreddit theme
                 if posts_scores:
                     theme_tokens: Set[str] = set()
                     # tokens from name terms
@@ -1285,6 +1542,7 @@ def process_inputs(
                     (desc_tfidf, desc_weight, "description"),
                     (name_scores, name_weight, "name"),
                     (posts_scores, posts_weight, "posts"),
+                    (composed_scores, posts_weight, "posts_composed"),
                 ])
 
                 # Embedding-based rerank (optional): theme = whole name phrase + top description terms
@@ -1322,7 +1580,11 @@ def process_inputs(
                     "subscribers_count": sub.subscribers_count,
                     "keywords": [
                         {
-                            "term": (full_cased if (t == full_lower and src != "description" and " " in t) else t),
+                            "term": (
+                                full_cased
+                                if (t == full_lower and src != "description" and " " in t)
+                                else recase_anchored_display(t, canon_key, display_key, anchor_phrase_lower, anchor_title_for_display)
+                            ),
                             "weight": round(w, 6),
                             "score": round(s, 6),
                             "source": src,
@@ -1370,6 +1632,16 @@ def main():
     ap.add_argument("--posts-replace-generic-with-anchored", action="store_true", help="When anchoring generic uni/bi-grams, drop the original unanchored term")
     ap.add_argument("--no-posts-anchor-generics", action="store_true", help="Disable adding anchored variants for generic posts terms")
 
+    # Composed anchored variants
+    ap.add_argument("--no-compose-anchor-posts", action="store_true", help="Disable composing theme-anchored variants from top posts phrases")
+    ap.add_argument("--compose-anchor-multiplier", type=float, default=DEFAULT_COMPOSE_ANCHOR_MULTIPLIER, help="Score multiplier applied to composed variants relative to source post phrase")
+    ap.add_argument("--compose-anchor-top-m", type=int, default=DEFAULT_COMPOSE_ANCHOR_TOP_M, help="Consider top-M posts phrases (by score) for composing anchored variants")
+    ap.add_argument("--compose-anchor-include-unigrams", action="store_true", help="Allow composing anchored variants from unigram posts terms")
+    ap.add_argument("--compose-anchor-max-final-words", type=int, default=DEFAULT_COMPOSE_ANCHOR_MAX_FINAL_WORDS, help="Maximum words allowed in the final composed term")
+    ap.add_argument("--no-compose-anchor-use-title", action="store_true", help="Do not use frontpage meta.title for anchor phrase; only use subreddit token")
+    ap.add_argument("--compose-subjects-path", type=str, default=None, help="Path to newline-delimited list of subject phrases to compose when present in posts")
+    ap.add_argument("--compose-subjects-bonus", type=float, default=DEFAULT_COMPOSE_SUBJECTS_BONUS, help="Extra multiplier applied to composed variants originating from whitelist subjects")
+
     args = ap.parse_args()
 
     if args.input_file:
@@ -1394,11 +1666,19 @@ def main():
         posts_ensure_k=args.posts_ensure_k,
         posts_stopwords_extra_path=args.posts_stopwords_extra,
         posts_anchor_generics=(not args.no_posts_anchor_generics),
-        posts_phrase_boost_bigram=args.posts_phrase_boost_bigram,
+        posts_phrase_boost_bigram=args.posts_phrase_boost_bibigram if hasattr(args, "posts_phrase_boost_bibigram") else args.posts_phrase_boost_bigram,
         posts_phrase_boost_trigram=args.posts_phrase_boost_trigram,
         posts_drop_generic_unigrams=args.posts_drop_generic_unigrams,
         posts_theme_penalty=args.posts_theme_penalty,
         posts_theme_top_desc_k=args.posts_theme_top_desc_k,
+        compose_anchor_posts=(not args.no_compose_anchor_posts),
+        compose_anchor_multiplier=args.compose_anchor_multiplier,
+        compose_anchor_top_m=args.compose_anchor_top_m,
+        compose_anchor_include_unigrams=args.compose_anchor_include_unigrams,
+        compose_anchor_max_final_words=args.compose_anchor_max_final_words,
+        compose_anchor_use_title=(not args.no_compose_anchor_use_title),
+        compose_subjects_path=args.compose_subjects_path,
+        compose_subjects_bonus=args.compose_subjects_bonus,
         embed_rerank=args.embed_rerank,
         embed_model=args.embed_model,
         embed_alpha=args.embed_alpha,

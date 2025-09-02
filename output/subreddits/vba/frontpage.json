@@ -1,0 +1,1011 @@
+{
+  "subreddit": "vba",
+  "url": "https://www.reddit.com/r/vba",
+  "meta": {
+    "title": "Visual Basic for Applications",
+    "members_text": "812,588"
+  },
+  "posts": [
+    {
+      "title": "Is there a way to copy this easily?",
+      "permalink": "https://www.reddit.com/r/vba/comments/1n1b86x/is_there_a_way_to_copy_this_easily/",
+      "score": 1,
+      "comments": 7,
+      "post_id": "t3_1n1b86x",
+      "post_type": "multi_media",
+      "domain": "self.vba",
+      "author": "TonIvideo",
+      "author_id": "t2_hhh13dsm",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-27T08:14:55.474000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1n1b86x/is_there_a_way_to_copy_this_easily/",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5h6ve3/styles/profileIcon_pffp2sscr2ne1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=89659514df3689b1d08404a5baeea3cf34d1375f"
+    },
+    {
+      "title": "How to preserve Excel formulas when using arrays",
+      "permalink": "https://www.reddit.com/r/vba/comments/1n0ouqi/how_to_preserve_excel_formulas_when_using_arrays/",
+      "score": 3,
+      "comments": 14,
+      "post_id": "t3_1n0ouqi",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "dbstanley",
+      "author_id": "t2_ywtfwpx",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-26T15:24:40.443000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1n0ouqi/how_to_preserve_excel_formulas_when_using_arrays/",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Pull through variable from cell and if cell is not populated then pull where IS NOT NULL",
+      "permalink": "https://www.reddit.com/r/vba/comments/1n0sxrh/pull_through_variable_from_cell_and_if_cell_is/",
+      "score": 1,
+      "comments": 7,
+      "post_id": "t3_1n0sxrh",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "KLBeezy",
+      "author_id": "t2_12sq2g",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-26T17:56:46.438000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1n0sxrh/pull_through_variable_from_cell_and_if_cell_is/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Is there a best method for finding the list of items that sum to a target value between two listboxes?",
+      "permalink": "https://www.reddit.com/r/vba/comments/1n02i7x/is_there_a_best_method_for_finding_the_list_of/",
+      "score": 1,
+      "comments": 17,
+      "post_id": "t3_1n02i7x",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "Juxtavarious",
+      "author_id": "t2_22atsyvd",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-25T20:59:30.120000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1n02i7x/is_there_a_best_method_for_finding_the_list_of/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Truncation issue trying to convert Excel formula to VBA function",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mzjcrl/truncation_issue_trying_to_convert_excel_formula/",
+      "score": 1,
+      "comments": 25,
+      "post_id": "t3_1mzjcrl",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "TheHeroOfCanton62",
+      "author_id": "t2_hqion2ne",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-25T06:48:07.732000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mzjcrl/truncation_issue_trying_to_convert_excel_formula/",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "This Week's /r/VBA Recap for the week of August 16 - August 22, 2025",
+      "permalink": "https://www.reddit.com/r/vba/comments/1my5cgw/this_weeks_rvba_recap_for_the_week_of_august_16/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1my5cgw",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "subredditsummarybot",
+      "author_id": "t2_ydo5x7u",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-23T16:04:40.157000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1my5cgw/this_weeks_rvba_recap_for_the_week_of_august_16/",
+      "content_preview": "",
+      "flair": [
+        "Weekly Recap"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What to learn after VBA? Low-Code Tools or Another Programming Language (Office Scripts, VB)?",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mx61x9/what_to_learn_after_vba_lowcode_tools_or_another/",
+      "score": 14,
+      "comments": 45,
+      "post_id": "t3_1mx61x9",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "Aggravating_Bite2485",
+      "author_id": "t2_1u1svrxeys",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-22T13:08:08.859000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mx61x9/what_to_learn_after_vba_lowcode_tools_or_another/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Error \"Excel cannot open the file...\"",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mx7a29/error_excel_cannot_open_the_file/",
+      "score": 1,
+      "comments": 5,
+      "post_id": "t3_1mx7a29",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "TraditionNo3804",
+      "author_id": "t2_fncasnb7",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-22T13:58:47.429000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mx7a29/error_excel_cannot_open_the_file/",
+      "content_preview": "",
+      "flair": [
+        "Waiting on OP"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "PREDERE DATI DA TABELLA WEB CON API GET",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mwzvvt/predere_dati_da_tabella_web_con_api_get/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1mwzvvt",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "Think_Bad8079",
+      "author_id": "t2_98t5sh92",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-22T07:22:40.168000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mwzvvt/predere_dati_da_tabella_web_con_api_get/",
+      "content_preview": "",
+      "flair": [
+        "Waiting on OP"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "VBA AutoFilter issue: Filters not combining correctly for dates and percentages",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mwvw50/vba_autofilter_issue_filters_not_combining/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1mwvw50",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "PedroLucasHOL",
+      "author_id": "t2_bbqsg5w2",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-22T03:31:57.916000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mwvw50/vba_autofilter_issue_filters_not_combining/",
+      "content_preview": "",
+      "flair": [
+        "Waiting on OP"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Grouping to Summarize identical rows",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mw1t5d/grouping_to_summarize_identical_rows/",
+      "score": 2,
+      "comments": 41,
+      "post_id": "t3_1mw1t5d",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "risksOverRegrets",
+      "author_id": "t2_18ye2bkysr",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-21T05:00:24.785000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mw1t5d/grouping_to_summarize_identical_rows/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "[EXCEL] VBA Function for ACMG Variant Classification - Logic Issue with Pathogenic Evidence",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mukykf/excel_vba_function_for_acmg_variant/",
+      "score": 1,
+      "comments": 3,
+      "post_id": "t3_1mukykf",
+      "post_type": "multi_media",
+      "domain": "self.vba",
+      "author": "veki26",
+      "author_id": "t2_rlcb6",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-19T15:02:56.465000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mukykf/excel_vba_function_for_acmg_variant/",
+      "content_preview": "",
+      "flair": [
+        "Waiting on OP"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Why cant I update an ODBC query with a small new variable",
+      "permalink": "https://www.reddit.com/r/vba/comments/1muwgzz/why_cant_i_update_an_odbc_query_with_a_small_new/",
+      "score": 0,
+      "comments": 18,
+      "post_id": "t3_1muwgzz",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "VideogameComplainer4",
+      "author_id": "t2_l4c4afvog",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-19T21:58:59.573000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1muwgzz/why_cant_i_update_an_odbc_query_with_a_small_new/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "[EXCEL] .Offset(i).Merge is not merging after first pass",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mtzw14/excel_offsetimerge_is_not_merging_after_first_pass/",
+      "score": 2,
+      "comments": 7,
+      "post_id": "t3_1mtzw14",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "captin_nicky",
+      "author_id": "t2_gay21hmx",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-18T21:56:49.560000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mtzw14/excel_offsetimerge_is_not_merging_after_first_pass/",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "VBA Populating Variables Best Practice",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mt9duo/vba_populating_variables_best_practice/",
+      "score": 2,
+      "comments": 19,
+      "post_id": "t3_1mt9duo",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "Dearstlnk",
+      "author_id": "t2_by1ij1n",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-18T02:04:43.660000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mt9duo/vba_populating_variables_best_practice/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Select email account from which I send mail",
+      "permalink": "https://www.reddit.com/r/vba/comments/1msua8i/select_email_account_from_which_i_send_mail/",
+      "score": 2,
+      "comments": 10,
+      "post_id": "t3_1msua8i",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "Ok_Fondant1079",
+      "author_id": "t2_cz1oo1tb",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-17T15:44:30.360000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1msua8i/select_email_account_from_which_i_send_mail/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "How to access the menu of an add-in without send keys?",
+      "permalink": "https://www.reddit.com/r/vba/comments/1msjgad/how_to_access_the_menu_of_an_addin_without_send/",
+      "score": 5,
+      "comments": 5,
+      "post_id": "t3_1msjgad",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "TonIvideo",
+      "author_id": "t2_hhh13dsm",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-17T06:22:00.584000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1msjgad/how_to_access_the_menu_of_an_addin_without_send/",
+      "content_preview": "",
+      "flair": [
+        "Waiting on OP"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5h6ve3/styles/profileIcon_pffp2sscr2ne1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=89659514df3689b1d08404a5baeea3cf34d1375f"
+    },
+    {
+      "title": "This Week's /r/VBA Recap for the week of August 09 - August 15, 2025",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mrzgck/this_weeks_rvba_recap_for_the_week_of_august_09/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1mrzgck",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "subredditsummarybot",
+      "author_id": "t2_ydo5x7u",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-16T16:04:17.042000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mrzgck/this_weeks_rvba_recap_for_the_week_of_august_09/",
+      "content_preview": "",
+      "flair": [
+        "Weekly Recap"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[EXCEL] Elegant way to populate 2D Array?",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mpzprp/excel_elegant_way_to_populate_2d_array/",
+      "score": 0,
+      "comments": 28,
+      "post_id": "t3_1mpzprp",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "ink4ss0",
+      "author_id": "t2_18518cj50q",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-14T12:48:25.450000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mpzprp/excel_elegant_way_to_populate_2d_array/",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "VBA resources, learning as a beginner",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mo3oaa/vba_resources_learning_as_a_beginner/",
+      "score": 4,
+      "comments": 15,
+      "post_id": "t3_1mo3oaa",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "Silentz_000",
+      "author_id": "t2_gz632wnd7",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-12T09:05:13.345000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mo3oaa/vba_resources_learning_as_a_beginner/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "[EXCEL] How do I save changes made in an embedded excel OLE object?",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mnztx6/excel_how_do_i_save_changes_made_in_an_embedded/",
+      "score": 0,
+      "comments": 19,
+      "post_id": "t3_1mnztx6",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "captin_nicky",
+      "author_id": "t2_gay21hmx",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-12T05:04:58.952000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mnztx6/excel_how_do_i_save_changes_made_in_an_embedded/",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "This Week's /r/VBA Recap for the week of August 02 - August 08, 2025",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mlt13m/this_weeks_rvba_recap_for_the_week_of_august_02/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1mlt13m",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "subredditsummarybot",
+      "author_id": "t2_ydo5x7u",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-09T16:03:27.574000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mlt13m/this_weeks_rvba_recap_for_the_week_of_august_02/",
+      "content_preview": "",
+      "flair": [
+        "Weekly Recap"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Excel - How to Prompt Adobe Save As PDF Add-In?",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mlrapu/excel_how_to_prompt_adobe_save_as_pdf_addin/",
+      "score": 1,
+      "comments": 5,
+      "post_id": "t3_1mlrapu",
+      "post_type": "multi_media",
+      "domain": "self.vba",
+      "author": "BMurda187",
+      "author_id": "t2_5ua21",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-09T14:51:04.418000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mlrapu/excel_how_to_prompt_adobe_save_as_pdf_addin/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "VBA for Modelers - S. Christian Albright, Looking for Accompanying Files",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mklba0/vba_for_modelers_s_christian_albright_looking_for/",
+      "score": 8,
+      "comments": 8,
+      "post_id": "t3_1mklba0",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "fieldful",
+      "author_id": "t2_1bwnody0ip",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-08T04:06:01.916000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mklba0/vba_for_modelers_s_christian_albright_looking_for/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_csekal/styles/profileIcon_sltarf3y1txd1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d8627801da6dce82d4770e47d56bcd8a124fee28"
+    },
+    {
+      "title": "[WORD] [MAC] Can VBA read and change the states of text style attributes in Word 2016 for Mac's Find and Replace? A macro question",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mkjpz4/word_mac_can_vba_read_and_change_the_states_of/",
+      "score": 1,
+      "comments": 17,
+      "post_id": "t3_1mkjpz4",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "System370",
+      "author_id": "t2_5ei78218",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-08T02:44:59.654000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mkjpz4/word_mac_can_vba_read_and_change_the_states_of/",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "How can I bulk edit embedded VBA code in multiple Word / Excel documents?",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mj6ugb/how_can_i_bulk_edit_embedded_vba_code_in_multiple/",
+      "score": 4,
+      "comments": 14,
+      "post_id": "t3_1mj6ugb",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "StoopidMonkey32",
+      "author_id": "t2_6x16aqwj",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-06T14:54:48.199000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mj6ugb/how_can_i_bulk_edit_embedded_vba_code_in_multiple/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Saving an equation into a public dictionary",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mj04df/saving_an_equation_into_a_public_dictionary/",
+      "score": 0,
+      "comments": 10,
+      "post_id": "t3_1mj04df",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "Glittering_Ad5824",
+      "author_id": "t2_8pl6800d",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-06T09:34:44.213000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mj04df/saving_an_equation_into_a_public_dictionary/",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[Excel] Using a Personal Macro to Call a Workbook Macro and pass a variable",
+      "permalink": "https://www.reddit.com/r/vba/comments/1migfkn/excel_using_a_personal_macro_to_call_a_workbook/",
+      "score": 1,
+      "comments": 12,
+      "post_id": "t3_1migfkn",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "Barishevsky",
+      "author_id": "t2_5tjwsvga",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-05T18:01:39.477000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1migfkn/excel_using_a_personal_macro_to_call_a_workbook/",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[EXCEL] Accessing values of a collection via index is really slow",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mi6yx7/excel_accessing_values_of_a_collection_via_index/",
+      "score": 2,
+      "comments": 17,
+      "post_id": "t3_1mi6yx7",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "Lordloss_",
+      "author_id": "t2_4mm7y5u0",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-05T11:47:26.584000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mi6yx7/excel_accessing_values_of_a_collection_via_index/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "VBA to Python",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mglm5u/vba_to_python/",
+      "score": 22,
+      "comments": 33,
+      "post_id": "t3_1mglm5u",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "Big-Committee-3056",
+      "author_id": "t2_fva8er0o",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-03T15:08:43.349000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mglm5u/vba_to_python/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "This Week's /r/VBA Recap for the week of July 26 - August 01, 2025",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mfu78n/this_weeks_rvba_recap_for_the_week_of_july_26/",
+      "score": 4,
+      "comments": 1,
+      "post_id": "t3_1mfu78n",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "subredditsummarybot",
+      "author_id": "t2_ydo5x7u",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-02T16:04:33.210000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mfu78n/this_weeks_rvba_recap_for_the_week_of_july_26/",
+      "content_preview": "",
+      "flair": [
+        "Weekly Recap"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Vba script protection",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mfd739/vba_script_protection/",
+      "score": 6,
+      "comments": 34,
+      "post_id": "t3_1mfd739",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "wikkid556",
+      "author_id": "t2_a42qomwm",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-08-02T00:45:29.012000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mfd739/vba_script_protection/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "getElementsByClassName",
+      "permalink": "https://www.reddit.com/r/vba/comments/1md9qlm/getelementsbyclassname/",
+      "score": 1,
+      "comments": 29,
+      "post_id": "t3_1md9qlm",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "Ocilas",
+      "author_id": "t2_4qgxfq4p",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-07-30T15:33:00.088000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1md9qlm/getelementsbyclassname/",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Recovery from Debug problem (Excel for Mac 2019, M4 iMac)",
+      "permalink": "https://www.reddit.com/r/vba/comments/1md2lu1/recovery_from_debug_problem_excel_for_mac_2019_m4/",
+      "score": 2,
+      "comments": 42,
+      "post_id": "t3_1md2lu1",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "jvbeaupre",
+      "author_id": "t2_mj6y7ekj",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-07-30T10:05:21.025000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1md2lu1/recovery_from_debug_problem_excel_for_mac_2019_m4/",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "VBA Code Formatter – Static Class Module to Auto-Indent Your Code",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mc88f0/vba_code_formatter_static_class_module_to/",
+      "score": 11,
+      "comments": 9,
+      "post_id": "t3_1mc88f0",
+      "post_type": "multi_media",
+      "domain": "self.vba",
+      "author": "Intrepid_Way5874",
+      "author_id": "t2_1kxzxztn09",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-07-29T10:52:11.271000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mc88f0/vba_code_formatter_static_class_module_to/",
+      "content_preview": "",
+      "flair": [
+        "Show & Tell"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Attempting to use Hyperlinks.Add, and an invalid procedure call or argument error is returned",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mca0vl/attempting_to_use_hyperlinksadd_and_an_invalid/",
+      "score": 1,
+      "comments": 14,
+      "post_id": "t3_1mca0vl",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "Ocilas",
+      "author_id": "t2_4qgxfq4p",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-07-29T12:25:37.353000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mca0vl/attempting_to_use_hyperlinksadd_and_an_invalid/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "VBA code not working after several passes",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mc97gn/vba_code_not_working_after_several_passes/",
+      "score": 1,
+      "comments": 4,
+      "post_id": "t3_1mc97gn",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "EmEBee98",
+      "author_id": "t2_4vg4vy1z",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-07-29T11:45:34.567000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mc97gn/vba_code_not_working_after_several_passes/",
+      "content_preview": "",
+      "flair": [
+        "Waiting on OP"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[EXCEL VBA] Can't get PivotTable to group year",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mbpzvh/excel_vba_cant_get_pivottable_to_group_year/",
+      "score": 1,
+      "comments": 4,
+      "post_id": "t3_1mbpzvh",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "ceh19219",
+      "author_id": "t2_7hb3z",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-07-28T19:35:20.134000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mbpzvh/excel_vba_cant_get_pivottable_to_group_year/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Use Function Variable or a temporary Variable",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mar74l/use_function_variable_or_a_temporary_variable/",
+      "score": 5,
+      "comments": 36,
+      "post_id": "t3_1mar74l",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "Almesii",
+      "author_id": "t2_yd4vijodm",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-07-27T16:50:14.824000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mar74l/use_function_variable_or_a_temporary_variable/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Transferring an XLSM File with Macro Commands from Mac to Windows",
+      "permalink": "https://www.reddit.com/r/vba/comments/1mawj0o/transferring_an_xlsm_file_with_macro_commands/",
+      "score": 0,
+      "comments": 11,
+      "post_id": "t3_1mawj0o",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "Main-Entertainer4517",
+      "author_id": "t2_17wf2vvi2z",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-07-27T20:22:41.289000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1mawj0o/transferring_an_xlsm_file_with_macro_commands/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Downloading reports from QuickBooks Desktop (Enterprise)",
+      "permalink": "https://www.reddit.com/r/vba/comments/1madk8y/downloading_reports_from_quickbooks_desktop/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1madk8y",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "MD_Wood_95",
+      "author_id": "t2_11rta5",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-07-27T04:43:56.094000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1madk8y/downloading_reports_from_quickbooks_desktop/",
+      "content_preview": "",
+      "flair": [
+        "Waiting on OP"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "This Week's /r/VBA Recap for the week of July 19 - July 25, 2025",
+      "permalink": "https://www.reddit.com/r/vba/comments/1m9x1yi/this_weeks_rvba_recap_for_the_week_of_july_19/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1m9x1yi",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "subredditsummarybot",
+      "author_id": "t2_ydo5x7u",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-07-26T16:04:42.258000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1m9x1yi/this_weeks_rvba_recap_for_the_week_of_july_19/",
+      "content_preview": "",
+      "flair": [
+        "Weekly Recap"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Take 2: initializing static 2D array with the evaluate function",
+      "permalink": "https://www.reddit.com/r/vba/comments/1m9ortv/take_2_initializing_static_2d_array_with_the/",
+      "score": 2,
+      "comments": 38,
+      "post_id": "t3_1m9ortv",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "Affectionate-Page496",
+      "author_id": "t2_4pt4uvdh",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-07-26T09:07:06.435000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1m9ortv/take_2_initializing_static_2d_array_with_the/",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "File/path access error",
+      "permalink": "https://www.reddit.com/r/vba/comments/1m9f14f/filepath_access_error/",
+      "score": 2,
+      "comments": 9,
+      "post_id": "t3_1m9f14f",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "WinterOfFire",
+      "author_id": "t2_jyx49",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-07-26T00:02:11.699000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1m9f14f/filepath_access_error/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Building a VBA AI Agent",
+      "permalink": "https://www.reddit.com/r/vba/comments/1m9ikc9/building_a_vba_ai_agent/",
+      "score": 0,
+      "comments": 40,
+      "post_id": "t3_1m9ikc9",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "NeeeD210",
+      "author_id": "t2_8hk6wg4",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-07-26T02:57:30.708000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1m9ikc9/building_a_vba_ai_agent/",
+      "content_preview": "",
+      "flair": [
+        "Show & Tell"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Frm file always imports to module",
+      "permalink": "https://www.reddit.com/r/vba/comments/1m9f3bn/frm_file_always_imports_to_module/",
+      "score": 0,
+      "comments": 13,
+      "post_id": "t3_1m9f3bn",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "WinterOfFire",
+      "author_id": "t2_jyx49",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-07-26T00:05:09.722000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1m9f3bn/frm_file_always_imports_to_module/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Saving Variables for Future Excel Sessions",
+      "permalink": "https://www.reddit.com/r/vba/comments/1m8ar7h/saving_variables_for_future_excel_sessions/",
+      "score": 4,
+      "comments": 34,
+      "post_id": "t3_1m8ar7h",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "Glittering_Ad5824",
+      "author_id": "t2_8pl6800d",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-07-24T17:31:56.257000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1m8ar7h/saving_variables_for_future_excel_sessions/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Visual Basic Graphics Library",
+      "permalink": "https://www.reddit.com/r/vba/comments/1m6fz2z/visual_basic_graphics_library/",
+      "score": 21,
+      "comments": 7,
+      "post_id": "t3_1m6fz2z",
+      "post_type": "multi_media",
+      "domain": "self.vba",
+      "author": "Almesii",
+      "author_id": "t2_yd4vijodm",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-07-22T14:44:13.344000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1m6fz2z/visual_basic_graphics_library/",
+      "content_preview": "",
+      "flair": [
+        "Show & Tell"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "VBA code to have another move option from a dropdown",
+      "permalink": "https://www.reddit.com/r/vba/comments/1m6sxnt/vba_code_to_have_another_move_option_from_a/",
+      "score": 3,
+      "comments": 11,
+      "post_id": "t3_1m6sxnt",
+      "post_type": "text",
+      "domain": "self.vba",
+      "author": "flexbuffneck",
+      "author_id": "t2_rd5j2cf3",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-07-22T22:58:57.947000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1m6sxnt/vba_code_to_have_another_move_option_from_a/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[OUTLOOK] [EXCEL] Embedding a Named Chart from Excel in the middle of an Outlook Email Before Signature",
+      "permalink": "https://www.reddit.com/r/vba/comments/1m6r4we/outlook_excel_embedding_a_named_chart_from_excel/",
+      "score": 2,
+      "comments": 8,
+      "post_id": "t3_1m6r4we",
+      "post_type": "multi_media",
+      "domain": "self.vba",
+      "author": "_mrnane",
+      "author_id": "t2_1attrf8l63",
+      "subreddit_id": "t5_2rnlw",
+      "subreddit": "r/vba",
+      "created_ts": "2025-07-22T21:44:24.941000+0000",
+      "content_href": "https://www.reddit.com/r/vba/comments/1m6r4we/outlook_excel_embedding_a_named_chart_from_excel/",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_co77f3/styles/profileIcon_16fv4ci4dqvd1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4f7edd48be9942538f66172c15a0952cc2f96700"
+    }
+  ],
+  "scraped_at": "2025-09-02T12:41:40.359553"
+}

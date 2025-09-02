@@ -28,7 +28,7 @@ The pipeline begins by calculating the document frequency for all n-grams (1 to 
 
 This global DF is crucial for the TF-IDF calculation in the next stage, as it allows the system to down-weight terms that are common across many subreddits (e.g., "game," "video," "discussion").
 
-*   **Code Anchors:** [`build_docfreq()`](keyword_extraction.py:788), [`build_posts_docfreq()`](keyword_extraction.py:600)
+*   **Code Anchors:** [`build_docfreq()`](keyword_extraction.py:912), [`build_posts_docfreq()`](keyword_extraction.py:627)
 
 **Stage 2: Per-Subreddit Keyword Generation**
 
@@ -39,25 +39,34 @@ For each subreddit, keywords are generated from three primary sources:
     *   Applying heuristic and ML-based segmentation for concatenated lowercase names (e.g., "itisallspelllikethis" -> "it is all spell like this").
     *   Expanding common acronyms (e.g., "fps" -> "first person shooter").
     *   The full, cleaned name phrase (e.g., "Alcohol Liver Support") is given a significant score boost to ensure it ranks highly.
-    *   **Code Anchors:** [`extract_name_terms()`](keyword_extraction.py:355), [`extract_name_full_phrase()`](keyword_extraction.py:432)
+    *   **Code Anchors:** [`extract_name_terms()`](keyword_extraction.py:401), [`extract_name_full_phrase()`](keyword_extraction.py:478)
 
 2.  **Description:** The description is processed using a standard TF-IDF model, with boosts applied to bigrams and trigrams to favor phrases. An "ensure phrases" mechanism guarantees that the top locally frequent phrases are retained, even if they are rare globally.
-    *   **Code Anchors:** [`compute_tfidf_per_doc()`](keyword_extraction.py:789)
+    *   **Code Anchors:** [`compute_tfidf_per_doc()`](keyword_extraction.py:934)
 
 3.  **Posts:** Frontpage post titles are processed with a more sophisticated TF-IDF model that incorporates:
     *   **Engagement Weighting:** The term frequency (TF) is weighted by the post's score and comment count (`1 + log1p(score) + 0.5*log1p(comments)`).
     *   **Recency Weighting:** Scores decay based on the post's age, with a configurable half-life (`--posts-halflife-days`).
-    *   **Code Anchors:** [`compute_posts_tfidf_for_frontpage()`](keyword_extraction.py:635)
+    *   **Code Anchors:** [`compute_posts_tfidf_for_frontpage()`](keyword_extraction.py:666)
 
 **Stage 3: Scoring and Merging**
 
 The scores from the three sources are merged, with configurable weights (`--name-weight`, `--desc-weight`, `--posts-weight`). At this stage, two important thematic alignment features are applied:
 
-1.  **Anchored Variants:** Generic, high-frequency terms from posts are optionally replaced with an "anchored" version (e.g., "system" -> "valorant system"). This provides context and improves relevance.
-    *   **Code Anchors:** [`apply_anchored_variants_for_generic_posts_terms()`](keyword_extraction.py:741)
+1.  **Anchored Variants (Generics):** Generic, high-frequency terms from posts are optionally replaced with an "anchored" version (e.g., "system" -> "valorant system"). This provides context and improves relevance.
+    *   **Code Anchors:** [`apply_anchored_variants_for_generic_posts_terms()`](keyword_extraction.py:768)
 
 2.  **Theme Penalty:** A penalty is applied to posts-only terms that have no token overlap with the subreddit's "theme" (defined as its name and top description keywords). This down-weights terms that are likely off-topic.
-    *   **Code Anchors:** [`process_inputs()`](keyword_extraction.py:1263)
+    *   **Code Anchors:** [`process_inputs()`](keyword_extraction.py:1148)
+
+3.  **Theme-Anchored Composition (New):** Compose high-quality composite keywords by prepending a subreddit anchor to top posts phrases and/or subject-whitelisted phrases present in the subreddit’s frontpage titles. Two anchor forms are supported:
+    *   Subreddit token (e.g., "cx5").
+    *   Frontpage title phrase if present (e.g., "Mazda CX-5" -> "mazda cx 5" as the normalized anchor). Display is recased to "Mazda CX-5 …" where applicable.
+    *   Composition draws seeds from:
+        - Top-M posts TF-IDF phrases by score.
+        - A whitelist of subject phrases (e.g., "oil change", "cabin air filter") when they appear in the subreddit’s own posts.
+    *   Scores for composed variants are a fraction of the source phrase score (configurable), so originals remain the primary signal.
+    *   **Code Anchors:** [`compose_theme_anchored_from_posts()`](keyword_extraction.py:812), [`compose_theme_anchored_from_seeds()`](keyword_extraction.py:872), [`_collect_present_grams()`](keyword_extraction.py:897), [`recase_anchored_display()`](keyword_extraction.py:864)
 
 **Stage 4: Optional Embedding-Based Reranking**
 
@@ -65,30 +74,31 @@ To further enhance semantic relevance, an optional reranking step can be enabled
 
 *   **Mechanism:** `new_score = old_score * ((1 - alpha) + alpha * similarity)`
 *   This boosts terms that are semantically related to the theme, even if they don't share any tokens.
-*   **Code Anchors:** [`embed_rerank_terms()`](keyword_extraction.py:978)
+*   **Code Anchors:** [`embed_rerank_terms()`](keyword_extraction.py:1063)
 
 **Stage 5: Normalization and Output**
 
 Finally, the scores for each subreddit's keywords are normalized to sum to 1.0, and the top K (`--topk`) are written to a JSONL file.
 
-*   **Code Anchors:** [`normalize_weights()`](keyword_extraction.py:903)
+*   **Code Anchors:** [`normalize_weights()`](keyword_extraction.py:1020)
 
 ## 3. Experimental Findings and Tuning
 
-Experiments were conducted to evaluate the impact of various tuning parameters and the embedding reranker.
+Experiments were conducted to evaluate the impact of various tuning parameters, the new theme-anchored composition step, and the embedding reranker.
 
 **Key Findings:**
 
-*   **Phrase Share:** The combination of algorithmic tuning and embedding reranking significantly increased the share of multi-word phrases in the output, from an average of 2.00 (out of 8) in the baseline to 4.08 in the final embedded model. This indicates a successful shift away from generic unigrams.
-*   **Semantic Similarity:** The embedding reranker consistently produced a modest but measurable improvement in the average semantic similarity between the keywords and the subreddit's theme.
+*   **Phrase Share:** The combination of phrase boosts, composition, and optional embedding reranking increased the share and quality of multi-word phrases, surfacing subreddit-themed composites such as "Mazda CX-5 cabin air filter" for `r/CX5`.
+*   **Thematic Anchoring:** Composed variants tend to promote actionable, high-signal subjects that match the subreddit theme. When the subreddit’s frontpage meta title is present, display casing preserves readable brand/model forms (e.g., "Mazda CX-5 …").
+*   **Quality-Weighted Composition:** Because composed scores are multiplicative fractions of source TF-IDF, high-engagement subjects naturally outrank low-signal chatter. This avoids flooding results with mechanically composed but low-value phrases.
 *   **Qualitative Improvements:**
-    *   For `r/learnart`, the reranked output included more specific, thematic phrases like "improve art" and "advice greatly appreciated."
-    *   For `r/Brawlstars`, the output shifted from generic terms like "event" to more specific phrases like "enchanted forest" and "season ends."
-    *   For `r/NewToReddit`, the output became more focused on actionable advice, with phrases like "new advice" and "wish knew first."
+    *   For `r/CX5`, the output includes anchored maintenance terms such as "Mazda CX-5 cabin air filter" and "CX5 cabin air filter" from top posts (video with high engagement).
+    *   For `r/prius`, themed composites like "toyota aqua prius" remain favored where topical.
+    *   For content-heavy subs, composition helps contextualize generic subjects (e.g., "ranked season") into on-brand phrases ("Pokémon Pocket ranked season").
 
 **Recommended Configuration:**
 
-The following command represents the best-performing configuration, balancing thematic relevance, phrase quality, and computational cost:
+The following command represents the best-performing configuration, balancing thematic relevance, phrase quality, and computational cost. It also enables subject-whitelist composition for practical, on-brand composites:
 
 ```bash
 python3 keyword_extraction.py \
@@ -104,15 +114,37 @@ python3 keyword_extraction.py \
     --posts-generic-df-ratio 0.10 \
     --posts-drop-generic-unigrams \
     --posts-phrase-boost-bigram 1.35 \
+### Analysis of Composition Behavior: `r/CX5` Example
+
+A test run on `page_31.json`, which contains `r/CX5`, demonstrates the behavior of the theme-anchored composition.
+
+*   **High-Engagement Composites:** The post "Cabin air filter: < $10 and 1 minute of your time." has very high engagement (795 score, 92 comments). The pipeline correctly identifies "cabin air filter" as a key phrase and, using the frontpage title "Mazda CX-5" as an anchor, produces high-scoring keywords:
+    *   `Mazda CX-5 cabin air filter`
+    *   `CX5 cabin air filter`
+*   **Low-Engagement Composites:** The post "maintenance/oil change" has very low engagement (score 1, comments 1). While "oil change" is on the subject whitelist (`config/compose_subjects.txt`), its base score from TF-IDF is negligible compared to high-engagement posts. The final composed score (`base_score * multiplier * bonus`) is therefore too low for "Mazda CX-5 oil change" to rank in the top keywords for the subreddit.
+
+This outcome is by design. The system correctly prioritizes keywords based on demonstrated community engagement, preventing low-signal or off-topic posts from generating noisy composite keywords. To guarantee the inclusion of specific composed terms like "oil change" when they appear locally, even with low engagement, further enhancements would be needed, such as:
+1.  A mechanism to "ensure" a certain number of whitelist-composed terms appear in the output, regardless of score.
+2.  Basing the `base_score` for whitelisted subjects on their raw local frequency (TF) instead of the full TF-IDF, which would give them a more stable floor for composition.
     --posts-phrase-boost-trigram 1.7 \
     --posts-stopwords-extra config/posts_stopwords_extra.txt \
     --posts-phrase-stoplist config/posts_phrase_stoplist.txt \
     --posts-replace-generic-with-anchored \
     --posts-theme-penalty 0.55 \
+    --compose-subjects-path config/compose_subjects.txt \
     --embed-rerank \
     --embed-model 'BAAI/bge-small-en-v1.5' \
     --embed-alpha 0.35
 ```
+
+Composition controls (CLI):
+- `--no-compose-anchor-posts`: disable composition entirely (enabled by default).
+- `--compose-anchor-multiplier FLOAT`: score fraction applied to composed terms (default 0.85).
+- `--compose-anchor-top-m INT`: top-M posts phrases to consider for composition (default 20).
+- `--compose-anchor-include-unigrams`: allow composing from unigram posts terms (off by default).
+- `--compose-anchor-max-final-words INT`: cap final composed phrase length (default 6).
+- `--no-compose-anchor-use-title`: do not use meta.title as the anchor phrase; fall back to subreddit token.
+- `--compose-subjects-path PATH`: newline-delimited subject whitelist (e.g., "oil change", "cabin air filter") composed only when present in local posts.
 
 ## 4. Future Enhancements
 

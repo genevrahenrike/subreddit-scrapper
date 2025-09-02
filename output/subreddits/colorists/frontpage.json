@@ -1,0 +1,1006 @@
+{
+  "subreddit": "colorists",
+  "url": "https://www.reddit.com/r/colorists",
+  "meta": {
+    "title": "Online Colorists"
+  },
+  "posts": [
+    {
+      "title": "Ungraded clips selection with grouped images",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n5q3b0/ungraded_clips_selection_with_grouped_images/",
+      "score": 1,
+      "comments": 5,
+      "post_id": "t3_1n5q3b0",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "kreatifkerata",
+      "author_id": "t2_2d8047rj",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-09-01T14:24:29.261000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n5q3b0/ungraded_clips_selection_with_grouped_images/",
+      "content_preview": "I normally use ungraded clips option to see how many clips that i got left cause we have like 2000 clips per week in our weekly tv shows. But in this project we use groups and paste a base setup node tree in the beginning so i cannot see how many ungraded shots i have left. Is there a way like creating a smart filter to see what clips have just the base grade node tree and what clips did i add more than base node. Can you help me thanks",
+      "flair": [
+        "Technique"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Moratorium on Filmbox/Genesis and similar plugins for two weeks.",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n1n3xj/moratorium_on_filmboxgenesis_and_similar_plugins/",
+      "score": 64,
+      "comments": 30,
+      "post_id": "t3_1n1n3xj",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "greenysmac",
+      "author_id": "t2_3o94l",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-27T17:17:21.446000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n1n3xj/moratorium_on_filmboxgenesis_and_similar_plugins/",
+      "content_preview": "We're going to hold on to these conversations for two weeks, and then we'll create individual threads for each plugin. I'm struggling as a moderator because I'm digging through comments that may or may not be shills for these products. And I've just received three extra posts for Filmbox and Genesis (in less than 24 hours.) The same conversation, more or less. This repetitive conversation kills communities . We'll open the gates later - but for the moment, let's hold off. We'll leave the existing posts where people should comment, and in about two weeks, we'll introduce a condensed thread for different plugins, allowing people to comment one way or the other. Yes, you're welcome to come here in this thread and tell me what a basement-dwelling Reddit mod I am.",
+      "flair": [
+        "Announcement"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Final delivery issue",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n6j2f1/final_delivery_issue/",
+      "score": 2,
+      "comments": 8,
+      "post_id": "t3_1n6j2f1",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "feliperalo21",
+      "author_id": "t2_cavqfjxt",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-09-02T13:11:10.331000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n6j2f1/final_delivery_issue/",
+      "content_preview": "Hello, I have a question regarding final delivery, calibrated monitors and Apple devices. So, I grade on a Macbook Pro connected to an Asus ProArt PA248QV monitor through a Blackmagic Monitor 3G deck, calibrated with i1 Display X-Rite using DisplayCAL. Everything looks great in the monitor and looks almost the same on any device. However, the differences come with hue and saturation, while it looks good on the monitor, PCs and even cinema (after being transformed to DCI-P3), it looks way too saturated on any Apple or Mac device, be it a Macbook, iPad or iPhone. So, I was grading a short film recently and had to make a decision, so I came to a sweet point. However, what looked a bit saturated on Macbook or iPhone, looked greenish and a bit undersaturated on the monitor, PCs and Cinema. So, what do you normally do when your product might be seen on iPhones, PCs, Samsung TVs...?",
+      "flair": [
+        "Novice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Video Village FilmBox Pro vs. Cullen Kelly's Genesis",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1mu56ec/video_village_filmbox_pro_vs_cullen_kellys_genesis/",
+      "score": 67,
+      "comments": 191,
+      "post_id": "t3_1mu56ec",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "Gorefindal",
+      "author_id": "t2_f3i816m",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-19T01:42:21.903000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1mu56ec/video_village_filmbox_pro_vs_cullen_kellys_genesis/",
+      "content_preview": "OK, let's chop it up ;). Interested in what others think here. I'll just give a few quick impressions based on a couple hours with each in their 'free trial' forms. I'll note at the outset that I love how competitive this has all gotten— we're lucky to live in a time where two first-class, comprehensive film emulation plugins are released on the same day, and within a half-hour of each other. Video Village appears to have pulled the rug out from under Kelvin Cullen though, in that they've made the lowest tier of FilmBox Pro available with *zero* restrictions for five days, whereas Genesis has features disabled (or permanently *enabled*), appearing to have thought it would be competing with a similarly crippled — as the old 'Lite' FilmBox — version of whatever Video Village came out with (whoops). But, I'll also say that I don't think either of these plugins have a 'moat'. They're both very (*very*) good, and I'm honestly surprised at how similar they are to one another. However — and as with the previous version of FilmBox — I find them both to be too 'monolithic' to fit into my look-dev workflows in the ways that I'd ultimately like them to. I've used Dado Valentic's various '*Lab' plugins as well and while I don't think they give the same 'feeling', out of the box, that these two do, they have the advantage of being modular: you can fit them in throughout your look-dev stack and still do your 'own thing' between/among them. And you can do that with these too, to some extent. FilmBox Pro has the edge here in that you can more granularly select the modules you want to use, even if you'll probably end up making a ton of PowerGrades to turn off various aspects, such as if you want a node that just allows you to flip through the available negative emulsions without having to (sigh) continually turn off grain and halation. Speaking of grain, I'll say that the grain in Genesis is the best 'fake grain' I've ever seen. Previously I would have said FilmBox was the 'king' — for quick, easy 'grainy-ness' (*with* real-time playback on ~middling hardware) — and the improvements here in FilmBox Pro are a) significant and b) look really lovely. I wouldn't hesitate to use it for an A-list feature. BUT: Genesis' grain is just better, particularly in the way it handles saturation, and it's not especially close. This is Genesis' silver bullet. Regarding halation, I honestly still prefer (so far, again only a couple hours with each of these 'new kids') the free (HotGlueBanjo) 'Pretty good halation' DCTL on GitHub vs. either FilmBox Pro or Genesis (though I reserve the right to change my mind later). I like the subtlety in Genesis' halation, but there's a distinct lack of stuff going on in the chroma domain. I never liked FilmBox's halation and that trend continues with FilmBox Pro. Now we come to the two big things that separate these. Firstly, FilmBox Pro 'tells it like it is' and lets you know that emulsions prior to the current Vision3 stocks have been profiled from expired samples (reality being what it is). Genesis makes no such claim, and indeed invites you to believe (or imagine) that the historic emulsions reproduced here are profiled from samples that, somehow, just... never expired (?). Perhaps we're meant to think that they're compiled from densitometric — *sensitometric*, even — data that the elusive, mercurial 'Dr. Mitch' has been holding in close reserve lo these many decades, waiting for just the right 'heir apparent', the right color scion (apart from his own progeny) to pass the torch to. Until, finally, one day, the one — the *only* — the inimitable Kelvin Cullen-ly, himself, presented himself... (my god, this fucking guy) Both will act as your 'DRT', and *neither* allow you, practically, to use, e.g., Jed Smith's OpenDRT or Juan-Pablo Zambrano's 2499 DRT in place of their print stock transforms. FilmBox Pro's output transform is locked to what appears to be largely unmodified variations on the same 2383 print stock transforms used in the previous versions (and which are... 'fine'). But what with all the kerfuffled, spitty frothing over DRTs, first half of this year, one would've thought the boys at Video Village would have realized that we need *ultimate* flexibility as regards the 'formulation' of our 'pictures', as-such, and introduced at least one or two other options. Perhaps we'll see that in a future FilmBox \"Max\" (or \"Ultimate\"). Genesis has the upper hand here — as did John Doe back in 1995, in 7even (which Kelvin Culligan-Man's Genesis claims to be able to give you the look of— 'California get away from here!') — owing to its reproduction of a vast array of print stocks, including the one that would have been paired with the hoary, rarified, and inestimably *trendy* Eastman 5247, that of our old pal (shitty) 5381 ;). In truth, most of the print stocks in Genesis sort of suck (my, and only my, opinion)— you're better off with some variation on good, new 2383 99% of the time. But hey, at least they're *there* (even if, end of the day, there's not really much 'there', um, *there*). In the end, these two plugins represent the best that 'one-click' film emulation has ever been, warts-and-all, and I think if you're the kind of colorist who wants 'one-click-i-ness' then either would serve you quite well. If you have money to burn, and even less sense, then just get both. I'll likely allow FilmBox Pro's five-day 'free trial' to roll over into a quarter's worth of use (throughout which I'll duly loot/LUT the various negative emulsions, as well as render out 30 sec. stretches of the better grain modes for later compositing). Genesis is just too rich for my blood, even if I'll lust after the Yedlin grain for years, before finally buying it on some future — two-three years from now — 'Black Friday' sale. 'Twas ever thus...",
+      "flair": [
+        "Technique"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What is the correct sequence for color grading log footage?",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n6903k/what_is_the_correct_sequence_for_color_grading/",
+      "score": 3,
+      "comments": 6,
+      "post_id": "t3_1n6903k",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "yalag",
+      "author_id": "t2_ftobu",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-09-02T03:25:41.760000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n6903k/what_is_the_correct_sequence_for_color_grading/",
+      "content_preview": "I have tried to do research on youtube but it just seems move youtube videos dont really explain all the steps. They just focus on the log converstion and then thats it. In practise I find that its a lot more steps. From what I can tell I need to : Fix exposure Fix white balance Fix skin tone in vectorscope Convert log to rec apply lut styling final fixes But theres a couple of problems I find myself running into. Going through these steps sometimes contradicts each other. For example I might use the dropper tool in FCP that picks a neutral pixel for white balance. But that might throw off skin tone line. So is there a specific sequence you have to do this and then some would just be taken as overrides over others? Also, this is just so many steps for just one clip. And each clip needs to be done separately. I've tried using the \"match color\" tool in FCP and it doesn't work well at all especially for scenes that are not in the same location. So is there a faster workflow to do this?",
+      "flair": [
+        "Novice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Filmbox Pro 3.2",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n0lwx1/filmbox_pro_32/",
+      "score": 30,
+      "comments": 31,
+      "post_id": "t3_1n0lwx1",
+      "post_type": "multi_media",
+      "domain": "self.colorists",
+      "author": "shaheedmalik",
+      "author_id": "t2_67ucbe3",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-26T13:30:13.147000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n0lwx1/filmbox_pro_32/",
+      "content_preview": "Has anyone tried Filmbox Pro 3.2 which was released yesterday? For those that missed it here's what was added. Those who said it wasn't neutral enough, what do you think of the added Neutralize Balance control? 3.2.0 25 August 2025 Added a brand new user guide for Filmbox Pro! Access it from the plugin directly by clicking Filmbox -> Utility -> View User Guide or from our website . Acutance Added “Halo” controls to Increase or decrease the halo / “Mackie lines” around high-contrast features, low values focus the fine detail boost on subtle tonal variations, high values let high contrast features get spicy. Added Fine Size control Print Added a “Neutralize Balance” control that removes the tonal color bias (like cold shadows / warm highlights) without altering other aspects of print color rendition. Grain Added RGB “Channel Mix” controls to allow changing the strength of the grain in each color channel separately. New Lab Controls Enhanced Split Tone with controls for Highlight/Shadow Intensity, Pivot, and Deadzone Width Added a “Neutralize” parameter for Vision3 stocks (though most are already quite neutral). Added an “Invert” checkbox for Printer Lights. Uncheck it for a traditional printer lights experience. UI Tweaks Moved all of the groups in Negative -> Advanced Settings into the top-level Negative group in an effort to reduce clutter. Custom Print are now always visible. This will help you see what’s going on under the hood when the Print Style is changed. (Resolve) Moved Export LUT and Help groups into a single group at the bottom called “Utility” Improved Tool Tips Those who said it wasn't neutral enough, what do you think of the added Neutralize Balance control? I am impressed how fast Video Village is putting out these updates. It really points to problems being identified and addressed.",
+      "flair": [
+        "Technical"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7jhgm/styles/profileIcon_2clmj5adfqjd1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=74864f1a0a44cfe046bd105263281438d04bc81e"
+    },
+    {
+      "title": "September Monitor Q&A Thread",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n5r08q/september_monitor_qa_thread/",
+      "score": 6,
+      "comments": 1,
+      "post_id": "t3_1n5r08q",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-09-01T15:00:12.350000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n5r08q/september_monitor_qa_thread/",
+      "content_preview": "We've pointed you at this thread rather than you ask about your specific monitor request in the main subreddit. No, you can't just connect a generic monitor. We're going to talk to you as a professional. This means, no, the \"workarounds\" are a total compromise. In those cases, you're on your own. This is about creating a trusted reference - not just what you think looks good. And yes, the client's screen(s) could be all out of whack. And yes, we're talking web too. Brands that are reliable and (professionally) inexpensive: Flanders Scientific - FSI. Often referred to as a Stupid Sexy Flanders Eizo If you're going to compromise, here's our best advice: Get external hardware. The cheapest is the BMD mini monitor - but requires Thunderbolt. Get a probe. The cheapest is the XRite i1Display Pro. Calibrate frequently. Learn to read scopes. No matter what the manufacturer says was done at the factory, you will need to calibrate your displays regularly. Here's the FAQ: I want to know if this particular brand of wide gamut/p3/sRGB monitor is up to snuff *.* It's not. Without the hardware/probe and the ability to load a LUT , forget it. Can I just calibrate a monitor, it's just going to the web. Same problem. Without a probe, you don't know what you have. Ok, I have a probe. You still need a breakout box - something to get the OS out of the way. The idea here is a confidence monitor. Something you know you can have confidence in. OK, I have a probe and a BMD Mini-Monitor. Am I good? Not unless you can generate and load a LUT into the monitor. Really? What do I need to buy now? A LUT box will solve this. The monitor still may be junk, but you have a clean signal chain. Great, I'll just buy a C8/9/X from LG, people talk about that all the time. That's a good client monitor. And great that you have a breakout box and probe. This is useable if you're starting off into HDR - but just know, it's not to be trusted. What about my iPad Pro? Apple tells me it has Wide Gamut An iPad Pro is an excellent way to check Apple devices . It's well designed out of the factory. Plugging your system through it (via Sidecar, Duet display) puts us back in the \" OS interference \" level. But it's good for a check of the materials - just not so good for live grading. Last, check out these three prior posts: https://www.reddit.com/r/colorists/comments/n9hr5b/is_it_even_worth_it_to_attempt_to_learn_the/ https://www.reddit.com/r/colorists/comments/jlgpnm/youtube_is_adding_red_into_my_colors_and_its/ https://www.reddit.com/r/colorists/comments/i03bm7/solution_for_color_shift_issues_from_resolve_to/ ----- Let's see how this thread goes and we'll refine as we go.",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+    },
+    {
+      "title": "What color space to film in on iphone 12?",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n2o65b/what_color_space_to_film_in_on_iphone_12/",
+      "score": 0,
+      "comments": 6,
+      "post_id": "t3_1n2o65b",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "Infinite-Echo3440",
+      "author_id": "t2_t42zd5lc0",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-28T21:01:46.424000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n2o65b/what_color_space_to_film_in_on_iphone_12/",
+      "content_preview": "Hello. I am going to film a documentary using an iPhone 12. The Blackmagic camera app offers me three colour spaces: rec.709, rec.2020 and P3D65. I know rec.709 is the basic standard and I don't plan on making this film for HDR displays or anything fancy. I just want to know if shooting with a wider gamut offers any benefits in post-production. If yes, which one of these should I choose?",
+      "flair": [
+        "Novice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "A comparison of the best ways to achieve photometrically accurate white balance on log footage in Resolve",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1mm5zet/a_comparison_of_the_best_ways_to_achieve/",
+      "score": 57,
+      "comments": 13,
+      "post_id": "t3_1mm5zet",
+      "post_type": "multi_media",
+      "domain": "self.colorists",
+      "author": "Hibernatusse",
+      "author_id": "t2_rh8p5",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-10T01:33:29.490000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1mm5zet/a_comparison_of_the_best_ways_to_achieve/",
+      "content_preview": "The comparison : IMGSLI album (with added HDR tools) Hey guys, I saw another post where people were somewhat confused as to how to do photometrically accurate white balance in Davinci Resolve, so I did this little comparison. I used the \"Helen & John\" reference image from Arri and made a little Imgsli album with the RAW reference against various white balance techniques applied on the log footage. You may have heard that white balance adjustments are always better in-camera or with RAW, but why is that ? White balance adjustment is a linear function, and should be calculated on scene linear footage. But it might be tricky to do correctly if you only have log footage. Most of the times, it's not as easy as using a CST to transform the log footage to scene linear. There are numerous technical reasons behind this, but basically, it usually stems from non-linearities, like the photon transfer curve of a sensor, or soft-clipping for example. So it's never a simple \"Relative exposure to middle grey -> encoded bit\" transfer curve like the log profile specs usually make it seem. It's more like \"Relative exposure to middle grey, as best as we can estimate -> encoded bit\". For example, most cameras will encode log differently at different ISO settings. Dealing with this is a part of the Arri REVEAL color science upgrade : Comparison between LogC3 hardware encoding in relationship with ISO values vs LogC4 (that's from their marketing, it might or might not be as consistent in reality) I chose to use an Arri Alexa35 to make this comparison. I tested these white balance methods with other cameras, and got various results. Sometimes very inconsistent, far from photometrically accurate, and sometimes quite good. The Alexas were the most consistent from what I tested. I guess that this comes partly from the fixed base ISO in raw, and the more rigorous LogC4 specification, which makes the actual scene light levels more predictable from the log footage. So I thought that it would be a good benchmark for this, plus the better methods for this camera were the better ones for other cameras as well (at least in my testing and opinion). How this test was made : The RAW footage balanced at 5600k is the reference, all of the rest is log footage that has been encoded at 2300k, then adjusted. I did the balance as best as I could against the grey card (except for the 5. Chromatic Adaptation where no manual adjustments were made). A final LogC4 to Rec709 LUT was added at the end. RAW white balance (reference) . This is the white balance as it would've been applied in camera. It should be the most photometrically accurate, as calibrated by the engineers. The white balance sliders from the Primaries tab, directly applied on the log footage . As white balance is a linear function, and log footage isn't, it means that the white balance is non-linear relative to the scene light levels. While the grey is kinda balanced, the highlights are too warm, and the skintones are unnatural. The same white balance sliders, but applied in a node set in Linear gamma. (make sure that you have the correct timeline color space, or else use a CST node sandwich). Resolve tries to convert the log levels into scene linear levels. The highlights are balanced, but a lot of colors remain wrong, the skintones as well. Gain wheel adjustment, applied in a node set in Linear gamma . A favorite technique of many. It gives good results, while only having one control to adjust. Skintones are okay, but some colors are still wrong, most notably the blue shades. Blue is notorious for going purple when doing extreme color balance adjustments because of color space limits. Chromatic Adaptation node. This is Resolve's take on doing a photometrically accurate color balance tool. Importantly, you can choose the CAT02 algorithm which has a non-linear component (unlike the regular WB/Tint sliders and gain wheel which are fully linear) that compensates the blue shades turning purple. Unfortunately, even when entering the correct values, there seems to be overall exposure and color balance differences. Chromatic Adaptation node + Linear white balance adjustments + Exposure compensation. Exposure is compensated using the gain slider, and the Temp/Tint sliders are adjusted to fine tune the balance. Chromatic Adaptation node + Linear gain wheel. Produces similar results, but only the gain wheel and slider are used. HDR white balance sliders. The HDR panel is supposed to be color space aware, so it shouldn't matter whether in what gamma the node is set. However, the timeline color space has to be set correctly when not using color management. Balanced to the grey card, we can see that a lot of colors have a green shift, and that there is an overall exposure difference. HDR global wheel. The wheel gives a very similar result to the previous one, but here I also used the exposition slider to correct the overall levels. So in my opinion, the Linear Gain method is great for quick and/or light white balance, but to make it as photometrically accurate as possible, maybe try a combination of the Chromatic Adaptation node (guess the values if you don't know them) and then use a linear node to make some final adjustments, especially if you find fine-tuning the CA node unintuitive. EDIT : Added methods using the HDR panel.",
+      "flair": [
+        "Technique"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Should the Output gamma be Rec.709 or Gamma 2.4?",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n5nsn1/should_the_output_gamma_be_rec709_or_gamma_24/",
+      "score": 2,
+      "comments": 19,
+      "post_id": "t3_1n5nsn1",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "makmonreddit",
+      "author_id": "t2_1qa0572zeu",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-09-01T12:48:58.782000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n5nsn1/should_the_output_gamma_be_rec709_or_gamma_24/",
+      "content_preview": "Which one is technically the correct output gamma for the ODT CST node? Rec.709 or Gamma 2.4? Switching between them makes the footage look identical. If they’re the same, then why did DaVinci provide both the options in the first place? Why should one be used over the other?",
+      "flair": [
+        "Color Management"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "How to avoid clients asking to grade for non-calibrated screens?",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n2hs4j/how_to_avoid_clients_asking_to_grade_for/",
+      "score": 23,
+      "comments": 40,
+      "post_id": "t3_1n2hs4j",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "InvisibleHumanSoul",
+      "author_id": "t2_lad1pehbi",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-28T16:58:55.245000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n2hs4j/how_to_avoid_clients_asking_to_grade_for/",
+      "content_preview": "I have read so many techniques about educating and guiding clients on this subject but I still seem to come to an impasse with a lot of clients. Keeping in mind I am a novice colorist (though I've had a long career as an editor, director, and animator) I will have clients basically say something to the effect of, \"Yes, I know what we're seeing in the suite is THE truth, but since everyone will be viewing on iphones and laptops, we should compensate and grade for those.\" No amount of me saying \"THOSE screens will all be different so we can only trust what we're seeing in the suite\" will alleviate their distress when they see the image on whatever their vieeing device is. It doesn't matter if I ask them to view it on an iPad or using MPV, which respects color meta data and correctly displays unlike VLC or QuickTime, they will invariably say something like \"Well, who out there is going to be watching this through MPV? It's gonna be on Instagram on their phones.\" So often I just cave and end up absolutely GUESSING, tweaking shadows and saturation to satisfy the client who is using their laptop as a reference for what feels good. 🤦‍♂️",
+      "flair": [
+        "Color Management"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Gamma 2.2 and 2.4 exports",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n55zr7/gamma_22_and_24_exports/",
+      "score": 6,
+      "comments": 6,
+      "post_id": "t3_1n55zr7",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "Ok-Afternoon6663",
+      "author_id": "t2_mxsub3ept",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-31T21:01:20.213000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n55zr7/gamma_22_and_24_exports/",
+      "content_preview": "Hey all! If I graded in 2.2 and wanted to export a 2.4 pass as well (without changing the grade), what is the best way to do that? I am using CST nodes at the pre and post group levels and working withing DWG. Feels like a silly question to ask but didn’t know if the best way was to just change output color space at the project level and change every group CST out?",
+      "flair": [
+        "Color Management"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bju8vu/styles/profileIcon_0h0knm0kc5lf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1067e37d621bd86cb0d680721ec0ee373224ed81"
+    },
+    {
+      "title": "Free DCTL for faded film correction in Resolve",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n23pz1/free_dctl_for_faded_film_correction_in_resolve/",
+      "score": 22,
+      "comments": 9,
+      "post_id": "t3_1n23pz1",
+      "post_type": "multi_media",
+      "domain": "self.colorists",
+      "author": "Snoo-72536",
+      "author_id": "t2_76xnvmw4",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-28T05:19:22.132000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n23pz1/free_dctl_for_faded_film_correction_in_resolve/",
+      "content_preview": "I’ve put together a free DCTL for DaVinci Resolve that corrects and balances magenta pink faded footage, something that comes up a lot in archival and restoration projects. The latest version (v1.4.0) adds a non destructive preset system. Features include fade correction, per channel balance, preserve luminance, channel copy and removal, and optional Cineon log output. It’s MIT licensed and still in active development, with plans to grow into a full OpenFX plugin. Download: GitHub – Faded Balancer DCTL Would love to hear feedback if you try it on your material.",
+      "flair": [
+        "Technical"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2u47j2/styles/profileIcon_cm9x1beajhf61.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1151302dc2e0b15b36d63183cc472a2929f86e3d"
+    },
+    {
+      "title": "Reel Review! (2x a month!)",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n55zlr/reel_review_2x_a_month/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n55zlr",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "greenysmac",
+      "author_id": "t2_3o94l",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-31T21:01:10.910000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n55zlr/reel_review_2x_a_month/",
+      "content_preview": "This alternates on Sundays ## Would you like feedback on your reel? This is the place to do it! **An essential point to remember**: A reel won't secure you a job any more than a business card or website will. While it might be necessary, it is not the primary means of obtaining work. **You gain employment through a network you develop,** not via any online job site. Building a network takes time, which is advantageous, as it allows you to learn the field. ## Rules * **Rule 1**: Submit your reel *and its running time* as a top-level comment (meaning you reply to this post directly) * **Rule 2**: *Specify your professional experience in years* (paying taxes = years as a pro, novice). * **Rule 3**: Indicate how you're monitoring. Is it with a mini monitor + a LG CX?. * **Rule 4**: You must review two other reels. **TWO**. You have seven days to complete this task, responding to two different reels. **Then** edit the comment where you post your reel: and put and put the two user names. **Acceptable platforms for posting**: Your Vimeo site or an unlisted YouTube link. If we find a link to a channel or a video with 10k views, we want you to know that this thread is not meant for such content. The moderation team will monitor this, and we are trying to encourage the community (that's you) to offer assistance. That's why providing two reviews is crucial. Lastly, as someone who evaluates people's reels, if you start off with **log** footage, I expect to see the color work in passes. If color grading is a skill, and you transition from Log to finished grade, that's a definite red flag. ***Copy/paste this section:*** * Reel Link: (don't forget the running time ) * Experience: * Monitoring: * Two reels I reviewed:",
+      "flair": [],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Review of Genesis",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1mvuv4d/review_of_genesis/",
+      "score": 55,
+      "comments": 76,
+      "post_id": "t3_1mvuv4d",
+      "post_type": "multi_media",
+      "domain": "self.colorists",
+      "author": "kwmcmillan",
+      "author_id": "t2_8qfdk",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-20T23:26:26.654000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1mvuv4d/review_of_genesis/",
+      "content_preview": "Hey y'all I put together a review of Genesis (had to use the Trial unfortunately but it's relatively full-featured) for ProVideo Coalition. For those of you who are interested in what it does and how it performs or simply just want the info and don't want to install it yourself, this is for you. I also attempted to match it's output using native and 3rd party tools, which is detailed about mid-article, if that's of use. As it's a simple-ish plugin, I also included some film history and context about the photochemical process and the elements of film to add some additional education in there for those who may be new to the idea or film in general. I try to do some value-adds on what would otherwise be shorter reviews haha Hopefully you find it informative or at least educational. The TL;DR is it's a great plugin that is incredibly robust on all manner of footage, but is $2000 for the version you'd want, as the $1000 version is severely limited. Whether that's worth the investment to you depends on your situation. If I was consistently getting work I could easily see that being a decent addition to my toolbox but as we all know, times are tough in general so you may be in the boat I'm in where it's not in the cards at the moment. At least for me. It does look great though.",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3lyrb/styles/profileIcon_r0n9mqbutbj11.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7f736a3f5d47eb9e5e0622de60b8d676a3a1c288"
+    },
+    {
+      "title": "Using JP2499 with Kodak 2383.",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n0snjm/using_jp2499_with_kodak_2383/",
+      "score": 8,
+      "comments": 12,
+      "post_id": "t3_1n0snjm",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "Tommaso_xyz",
+      "author_id": "t2_mqd8oqaf",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-26T17:46:07.943000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n0snjm/using_jp2499_with_kodak_2383/",
+      "content_preview": "Hi all, Sorry if this is a silly question but I'm very new to the whole dctl, drt game. I have always worked in dwg, used a normal cst out to rec.709 gamma 2.4 and from there a compound node with the cst to cineon and then the film look (Kodak 2383 from resolve). So film look at the end of everything. Now I'm doing some experiments with the jp2499 drt. I can clearly see it gives a way better starting point compared to a normal cst, but I'm a little confused on where I should put my film look node and what conversions should I apply, as it gives me some weird results. I haven't found any info about it on anywhere, so thank you so much in advance to everyone!:)",
+      "flair": [
+        "Novice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Cullen kelly's genesis plugin",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1mmbihq/cullen_kellys_genesis_plugin/",
+      "score": 54,
+      "comments": 153,
+      "post_id": "t3_1mmbihq",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "vision3kodak",
+      "author_id": "t2_wy1abjaqo",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-10T06:36:48.146000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1mmbihq/cullen_kellys_genesis_plugin/",
+      "content_preview": "So I was catching up to some of his youtube videos and realised that he's releasing a film emulation plugin with Steve yedlin and Mitchell bogdanowicz who are extremely talented industry experts. Is this just another colorist trying to release his product or is this something more. I personally feel that since steve and Mitchell are involved it's gonna be good and as far as what he's shown us it looks promising. I'd love to hear your thoughts on it as well. And I get it, you can get the same result without the plugin but that's going to dig into extra time when grading and we all know we never get enough time.",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Video Village IG story showing a bunch of negative cans 👀",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1mtl4hr/video_village_ig_story_showing_a_bunch_of/",
+      "score": 24,
+      "comments": 40,
+      "post_id": "t3_1mtl4hr",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "lebonal",
+      "author_id": "t2_4fnbtcfr",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-18T12:50:09.557000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1mtl4hr/video_village_ig_story_showing_a_bunch_of/",
+      "content_preview": "Video Village just dropped an IG story with a bunch of neg cans, lots of them marked “test.” Are they teasing more stocks coming to Filmbox? And posting it today, the same day Cullen’s plugin drops… feels like they’re trying to keep people from jumping ship. Tbh I think it’ll all come down to pricing — lots of folks here already think Genesis will be way too expensive. So… are we about to get a plugin war?",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Do you correct white point using vectorscope?",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n1mtxj/do_you_correct_white_point_using_vectorscope/",
+      "score": 7,
+      "comments": 13,
+      "post_id": "t3_1n1mtxj",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "Optimistbott",
+      "author_id": "t2_1gghihr6",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-27T17:06:57.934000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n1mtxj/do_you_correct_white_point_using_vectorscope/",
+      "content_preview": "I’ve been teaching myself how to color grade and one practice that I’ve been doing is looking at the vectorscope in the lows, mids, and highs and total, and moving around the primary wheels until the bright white spot in each one is in the center of the scope. Eg, there’s a little white dot in the highs almost in the center on the vectorscope, I’ll push the gain wheel to put that in the center. Then I’ll check the mids scope and do the same with gamma. then the lows and lift. Because all the wheels are somewhat overlapping, I’ll go back and continue to push them until all of the bright white spots are centered in the vectorscope for highs, lows, and mids. Then if there are more changes downstream for effect, I’ll go ahead and do that process again until it’s correct. This is all monitoring through a final color space transform. I feel like I get good results. Is this common practice or is this totally wrong?",
+      "flair": [
+        "Novice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Technicolor Workflows...",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1mmvz2n/technicolor_workflows/",
+      "score": 21,
+      "comments": 27,
+      "post_id": "t3_1mmvz2n",
+      "post_type": "multi_media",
+      "domain": "self.colorists",
+      "author": "kismetrefining",
+      "author_id": "t2_j5zvlxk1",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-10T22:22:13.255000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1mmvz2n/technicolor_workflows/",
+      "content_preview": "I've been working on this notion of a technicolor dream boat for about 2 years... I currently have a working ofx that i'm actually using on a job as a drt... I think it's fantastic. It's completely photochemically minded workflow.... I just dropped two videos up on YT... I wish I could make the tool available but I'm not good enough of a coder to get to work on any machine and I don't have the bandwidth to keep up the support.... https://youtu.be/5vStJPLxA4M https://youtu.be/6buktjET6rY But in essence, you create true representations of dye plates and smash them together and punch a projector light thru... If you have questions I'll try to answer them about the process... Also, I'd love to hear about your process... UPDATE 8.11.25 - Built out the website and pushed the Apple Version out into the world... Download the demo with a watermark or dive right in.  More documentation will be added this week to this website: https://dec18studios.com/color-grading-tools/technicolordrt",
+      "flair": [
+        "Technique"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Subtractive Saturation",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n4sykf/subtractive_saturation/",
+      "score": 5,
+      "comments": 8,
+      "post_id": "t3_1n4sykf",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "summitrock",
+      "author_id": "t2_6jd23",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-31T12:05:25.417000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n4sykf/subtractive_saturation/",
+      "content_preview": "I’m seeing subtractive saturation looks a lot lately and just curious what are you favorite methods for this look.",
+      "flair": [
+        "Technique"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Looking for more developed eyes",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n4jzc6/looking_for_more_developed_eyes/",
+      "score": 3,
+      "comments": 9,
+      "post_id": "t3_1n4jzc6",
+      "post_type": "multi_media",
+      "domain": "self.colorists",
+      "author": "kindastrangeusually",
+      "author_id": "t2_rqlv4qry",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-31T03:02:21.383000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n4jzc6/looking_for_more_developed_eyes/",
+      "content_preview": "Constructive criticism welcomed! I am trying to develop my eyes to be better and \"see\" what more seasoned professionals do/notice when developing looks from scratch, what they would improve on, skip, etc. Trying to practice really pushed looks. No specific look in mind. The feeling i aimed for was that of something sickly, draining, gloomy, post apocalyptic/ruin, social decay, etc etc. 2 things I'm unsure of how I feel about: the saturation on the subject and contrast overall (trying to get closer to the Hollywood filmic saturation and tone curve) Thank you! https://imgur.com/a/XqhwTt6",
+      "flair": [
+        "Technique"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Getting into Colour Grading without spending too much off the bat",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n46gpu/getting_into_colour_grading_without_spending_too/",
+      "score": 2,
+      "comments": 4,
+      "post_id": "t3_1n46gpu",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "pushin_pierre",
+      "author_id": "t2_cc660y6y",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-30T16:50:02.011000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n46gpu/getting_into_colour_grading_without_spending_too/",
+      "content_preview": "I want to get into colour grading more now so I can hopefully grade my spec ads and other projects. I'm an aspiring dp and shoot whenever I have time off from shows. I learned to grade in film school but that was almost 6 years ago and I haven't kept up with it so I'm treating this as coming into it brand new. Currently I own a MacBook pro m1 max, which I often edit off of. I switched from premiere to resolve about 8 months ago. I also have a m4 MacBook pro. I was wondering how I can make this setup work without spending too much money on other gear to get started. I figured I can use my MacBook as a gui monitor and the I pad pro in reference mode as a reference monitor. I know its not a master monitor but I Dont really want to spend money on the hobby part of my job considering I'm saving and spending money on camera equipment for work. Any advise is greatly appreciated!",
+      "flair": [
+        "Novice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Where to learn all the color science programming things similar to what Steve Yedlin does?",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1mi5sir/where_to_learn_all_the_color_science_programming/",
+      "score": 20,
+      "comments": 28,
+      "post_id": "t3_1mi5sir",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "KM_Gemini",
+      "author_id": "t2_1fpe662p",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-05T10:44:26.276000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1mi5sir/where_to_learn_all_the_color_science_programming/",
+      "content_preview": "I’m really struggling with trying to make my footage look like FilmBox Lite with Resolve native tools and it seems the only way aside from shooting everything properly is to make my own Film Emulation software / program / code. I have a 5 in GCSE math for reference so I’m absolutely garbage at anything above algebra Is there any tutorial series I can watch that teaches how to do something similar to Steve Yedlin’s nuke math thingy and if the color grading Steve does is possible by making my own DCTL’s (and if there’s any full tutorial series on how to make your own DCTL’s) I constantly run into issues like the qualifier sucks in scene referred spaces, but the only way for let’s say a red gradient with harsh contrast and blacks to have the bright slightly orange uniformity that FilmBox has is to use the qualifier tool. Or that Hue v Hue or Hue v Sat curves only work in additive saturation, but I don’t know any method that uses a subtractive method. Or how log wheels seem to color the shadows how I want, but they affect the blacks which the only way I can prevent that is to use a qualifier. Or how the Color Warper nodes can only be adjusted one at a time without affecting the other nodes in a smooth way. (And I get ugly color noise) I keep trying to match how FilmBox Lite looks with my powergrade but each time I apply it to a different shot. A color looks totally different to FilmBox. Every time I try to search up how to do these kinds of things it’s just another post praising Steve Yedlin but no tutorial links. Or some videographer Dehancer sponsorship. I will genuinely pay for someone if they have a freesciencelessons style course on how to do the color science programming Steve Yedlin does to emulate Kodak 250D film in Nuke but preferably in DaVinci using DCTL’s because the Native resolve tools are so limiting and I want the ego knowing I made my own custom software. Sorry for the brash tone, but I would really appreciate any help on this regard. Thank you :)",
+      "flair": [
+        "Technical"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_z0q45/styles/profileIcon_0b5cr9qit2dd1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=150b7398c3ba0d12fe58642822233000a49d313f"
+    },
+    {
+      "title": "How to shoot/expose with an A7III if I want to color match with a Spyder Color Checkr?",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n422zh/how_to_shootexpose_with_an_a7iii_if_i_want_to/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n422zh",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "ZeAthenA714",
+      "author_id": "t2_al25r",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-30T13:48:23.094000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n422zh/how_to_shootexpose_with_an_a7iii_if_i_want_to/",
+      "content_preview": "Hey everyone! I'm a complete novice when it comes to coloring (at least in video, I do have some photography background) and could really use some help right now. I have a Sony A7III that I bought years ago for photography. Recently I've been wanting to use it to make youtube videos. I make guitar lessons, very simple stuff where it's just me sitting in front of the camera. No dual camera setup, no change in lighting (I have a simple lighting setup with a keylight, some background light and a couple of practicals), no exterior, just me sitting. I've looked at tons of tutorial over the past week on how to shoot (slog2 vs slog3 vs hlg3 etc... no one seems to agree on that), how to properly expose and how to color correct in davinci resolve. And it's been a complete struggle, with horrible results pretty much every step of the way. I just suck at this apparently. I'll spare you the details of everything I tried, but I had one lightbulb moment: I have a SpyderCheckr 24. I held it in front of the camera and used the color match tool in Resolve and that got me really good result. I was shooting in HLG3 at that point, so I thought I'd try to do the same in slog2, and that got me horrible results. TL;DR: So that leads me to my question : if I want to use the color match tool in Resolve with a Spyder Checkr 24, what's the best picture profile to use in camera? How should I expose for it?",
+      "flair": [
+        "Novice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Gamma shift when exporting DCP in ACES 2.0",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n3wwg5/gamma_shift_when_exporting_dcp_in_aces_20/",
+      "score": 2,
+      "comments": 5,
+      "post_id": "t3_1n3wwg5",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "michelllo",
+      "author_id": "t2_jozt5sv",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-30T09:00:22.832000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n3wwg5/gamma_shift_when_exporting_dcp_in_aces_20/",
+      "content_preview": "Hey everyone, I’ve run into an issue with DCP export since moving from ACES 1.3 to ACES 2.0 in DaVinci Resolve. With ACES 1.3, my workflow was consistent and my DCP exports always matched my grade. Since switching to ACES 2.0, I’m seeing a noticeable gamma shift on export. Here’s my current export workflow: Format: DCP Codec: Kakadu JPEG 2000 Type: 2K DCI Flat Advanced settings: Data levels → Auto Color space tag → Same as project Gamma tag → Same as project Project settings (color management): Color science: ACEScct ACES version: ACES 2.0 ACES AMF: None Input transform: ADX 10 – CSC (35mm film scan) Output transform: Rec.709 BT.1886 What I’ve already tried: I manually set the color spaces in the export tab instead of using “Same as project” → same result. I turned off ACES gamut compression → same result. Below I’ve attached part of a screenshot showing how the gamma changes in the DCP export compared to my graded timeline. The exact same setup in ACES 1.3 always gave me correct results. Now in ACES 2.0, something seems different. Has anyone run into this issue? Did something in the ACES 2.0 workflow change that could explain the gamma shift?",
+      "flair": [
+        "Color Management"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What is the correct order of operation for grading in FCP?",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n3pc4c/what_is_the_correct_order_of_operation_for/",
+      "score": 0,
+      "comments": 9,
+      "post_id": "t3_1n3pc4c",
+      "post_type": "multi_media",
+      "domain": "self.colorists",
+      "author": "yalag",
+      "author_id": "t2_ftobu",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-30T01:40:10.086000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n3pc4c/what_is_the_correct_order_of_operation_for/",
+      "content_preview": "According to this tutorial https://www.youtube.com/watch?v=22mmIgWIcvE&pp=0gcJCbIJAYcqIYzv one should make exposure adjustments before doing the log to rec709 conversion. I guess that makes sense but in FCP that doesnt appear to be what the software is designed to do. For example, it seems more intuitive to apply the log conversion lut directly to the clips in the browser at the event level. And then exposure adjustments level is done at the clip level in the timeline. However, when done this way I have to assume that the order of operation will be opposite of what the tutorial is teaching. Whats the proper way to do it?",
+      "flair": [
+        "Novice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Anyone played with any of the genesis power grades?",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n0qg6y/anyone_played_with_any_of_the_genesis_power_grades/",
+      "score": 6,
+      "comments": 16,
+      "post_id": "t3_1n0qg6y",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "ThickNolte",
+      "author_id": "t2_cjuqhrac",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-26T16:25:21.457000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n0qg6y/anyone_played_with_any_of_the_genesis_power_grades/",
+      "content_preview": "Just curious for those with the full version are the power grades included actually any good? The trial felt so nerfed it was annoying trying to discern anything especially with the massive watermark taking over so much of the frame. Just saw filmbox dropped another update so that’s pretty tempting with all the latest functions added. I’m not super advanced at grading since I mainly direct and DP but I know enough to get in trouble lol. So having something that helps with quick turnaround projects is helpful to get a quick nice look.",
+      "flair": [
+        "Technique"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What technique would I call this?",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n23dce/what_technique_would_i_call_this/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n23dce",
+      "post_type": "multi_media",
+      "domain": "self.colorists",
+      "author": "No_Cauliflower_6614",
+      "author_id": "t2_1eaass5d9c",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-28T04:58:34.537000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n23dce/what_technique_would_i_call_this/",
+      "content_preview": "https://www.youtube.com/watch?v=XsVGE3wqjmg&list=PLDEOMSHEpv0KRmFbd80Euq82IDHT-7DIp&index=10 I'm more specifically talking about the outdoor shots, where there seems to be something done to the trees/hills and water.",
+      "flair": [
+        "Novice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "B&W from color. What codec do you prefer?",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n3g8zl/bw_from_color_what_codec_do_you_prefer/",
+      "score": 2,
+      "comments": 12,
+      "post_id": "t3_1n3g8zl",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "25photos",
+      "author_id": "t2_b6whu34",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-29T19:06:12.945000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n3g8zl/bw_from_color_what_codec_do_you_prefer/",
+      "content_preview": "The director tells you they want B&W. What codec/camera are you hoping that they film the color image with?",
+      "flair": [
+        "Technique"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Ive tried but I cant come anywhere close to grading a video to look like Fuji's recipes",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n2n9nu/ive_tried_but_i_cant_come_anywhere_close_to/",
+      "score": 2,
+      "comments": 10,
+      "post_id": "t3_1n2n9nu",
+      "post_type": "multi_media",
+      "domain": "self.colorists",
+      "author": "yalag",
+      "author_id": "t2_ftobu",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-28T20:26:26.437000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n2n9nu/ive_tried_but_i_cant_come_anywhere_close_to/",
+      "content_preview": "Fuji cameras have these recipes for jpegs, they are based on original films. The one I use a lot is called Classic Negative. You can also use these for movies in fuji cameras. However, if you shoot log, then obviously the camera wont apply the recipes. I tried grading it with various luts and adjustments and it just doesnt come close to it. Is there a way to do that? https://imgur.com/y31e6Yh",
+      "flair": [
+        "Novice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Colourlab Ai Organic DCTLs ... Anyone actually have these?",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n1ji6b/colourlab_ai_organic_dctls_anyone_actually_have/",
+      "score": 0,
+      "comments": 12,
+      "post_id": "t3_1n1ji6b",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "MiggyVision",
+      "author_id": "t2_5t14jvdm",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-27T15:03:25.936000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n1ji6b/colourlab_ai_organic_dctls_anyone_actually_have/",
+      "content_preview": "Hello there! Just wondering if anyone out there actually has/uses the ORGANIC DCTLs that Dado demos. I'm interested in getting them but, I saw in the comments that quite a bit of people paid and never got the DCTLs. Anyone out there have direct experience with this?",
+      "flair": [
+        "Business Practice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Giving broadcast footage a “look”",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n47cbo/giving_broadcast_footage_a_look/",
+      "score": 5,
+      "comments": 10,
+      "post_id": "t3_1n47cbo",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "Old_Swan3464",
+      "author_id": "t2_73ungunv",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-30T17:26:01.328000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n47cbo/giving_broadcast_footage_a_look/",
+      "content_preview": "Doing a short sports doc with obviously lots of highlights coming from broadcast footage. We want to give the piece a “look” that’s not straight 709 normal colors. Problem is, broadcast footage as you know is super saturated, crushed blacks and etc. Curious if anyone has any tips on making it stand out/look different than what you see on TV? Thanks.",
+      "flair": [
+        "Technique"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Anyone here tried to emulate the Paris , Texas look?",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n11xcg/anyone_here_tried_to_emulate_the_paris_texas_look/",
+      "score": 4,
+      "comments": 4,
+      "post_id": "t3_1n11xcg",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "Key_Tension_7169",
+      "author_id": "t2_1q8xlpdj2s",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-26T23:53:42.466000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n11xcg/anyone_here_tried_to_emulate_the_paris_texas_look/",
+      "content_preview": "What was your process like? How did you approach the project. Did you think of emulating that particular film stock first or did you go straight to emulate the look? How did you test ot? What would you differently?",
+      "flair": [
+        "Technique"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Balancing",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n2zsg1/balancing/",
+      "score": 4,
+      "comments": 38,
+      "post_id": "t3_1n2zsg1",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "Final_V99",
+      "author_id": "t2_affr6qn3",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-29T06:18:11.277000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n2zsg1/balancing/",
+      "content_preview": "I'll get straight to it: printer lights (offset) VS linear gain - what do you prefer & why?",
+      "flair": [
+        "Technique"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "The Studio look",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1mhjssd/the_studio_look/",
+      "score": 14,
+      "comments": 8,
+      "post_id": "t3_1mhjssd",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "elfrutas28",
+      "author_id": "t2_76fxwzeu",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-04T17:27:13.650000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1mhjssd/the_studio_look/",
+      "content_preview": "Hi, I'm grading a short film, and tomorrow the director is coming to close the color with me. So far, the DOP told me that he wants it to look like THE STUDIO. So for you, what makes The Studio look like The Studio? From the analisys I made so far, the blacks seems to be lifted to 50 CV, so kinda washed. It's on the warm side, and the skin tones might look redish, but I feel it's because there's cool shadows. If I put the shotdeck still and then I put the mononodes balance dctl, the skin tones don't have too much red in them. Highlights are warm and seems to be over place in terms of where they peak. Any other stuff I should look out for? Do you guys know if they are emulating an specific film stock? Any advice? ( Btw, it's well shot, but they didnt have the time or budget of the Studio...)",
+      "flair": [
+        "Technique"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Prepping After Effects comps in Premiere TL (with dynamic links) for grading in Resolve",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n0at5a/prepping_after_effects_comps_in_premiere_tl_with/",
+      "score": 4,
+      "comments": 15,
+      "post_id": "t3_1n0at5a",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "Livid_Ad_8120",
+      "author_id": "t2_dlu7d43x",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-26T03:02:16.365000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n0at5a/prepping_after_effects_comps_in_premiere_tl_with/",
+      "content_preview": "Hey everyone, I’m trying to prep a Premiere project for colour in Resolve. I have experience using XMLs and have been doing the Premiere -> Resolve trip for about a year now with no major issues. However, I’ve recently started to get more into advertising, and the project I’m currently working on has many After Effects comps. I have no experience with After Effects, since everything I’ve encountered so far (mostly documentaries) has been done either on Premiere, AVID, or just overall easily replicated in Resolve. The Premiere TL I’m working with has dynamic links to comps in AE for lock-on effects, speed ramps, and painting out some stuff. Considering this, what would be the best approach to get my project to Resolve? Should I export the comps in ProRes 4444 and replace them in my premiere Timeline? Or should I figure out how to turn off the effects and link the raw footage to the timeline to then try to recreate the effects in Resolve (if yes, how can I do that without destroying my timeline)? Or is it something entirely different? The ProRes 4444 route seems destructive, but at the same time I’m not sure of what would be the most industry standard way of tackling this since trying to do everything manually hasn’t been very effective. I’m trying to get a colour assistant position within advertising so I’m also interested in learning the default process for working with vfx and grading for that, although it’s been somewhat difficult to learn industry-standard procedures without being formally in the industry. Not sure if this is relevant but here’s some additional info: I have cutting copies of the spots All comps are in one AE project I’m not doing final export so these shots will have to go back to the editor I’m the one prepping cause I thought it would be a good learning experience Anyway, thanks so much in advance!",
+      "flair": [
+        "Technical"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Duda con el Color Warper en un video de WQ",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n1el2a/duda_con_el_color_warper_en_un_video_de_wq/",
+      "score": 1,
+      "comments": 4,
+      "post_id": "t3_1n1el2a",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "AdFormer4934",
+      "author_id": "t2_rid7b0bao",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-27T11:36:30.137000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n1el2a/duda_con_el_color_warper_en_un_video_de_wq/",
+      "content_preview": "He visto un video de este señor \"(NUNCA debes usar más de 3 nodos a menos que hagas esto…)\" y en el ejemplo del final, usa el Color Warper para hacer toda la imagen como cian. Pero yo intento hacer esto en un clip como lo hace el y se me cambia el color de toda la imagen, afectando a la piel tambien. Su piel se queda intacta mientras que la mia se vuelve azul tambien, alguien sabe por que?",
+      "flair": [
+        "Novice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Best workflow for grading ACEScg CGI renders in DaVinci — should I convert ACEScg → DWG → Rec.709?",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n1uer8/best_workflow_for_grading_acescg_cgi_renders_in/",
+      "score": 3,
+      "comments": 16,
+      "post_id": "t3_1n1uer8",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "Majestic_Employer976",
+      "author_id": "t2_i1xny0fq",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-27T21:55:06.105000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n1uer8/best_workflow_for_grading_acescg_cgi_renders_in/",
+      "content_preview": "Hi everyone, I'm a complete beginner in color grading, I’m working on a CGI animation rendered in Blender → OpenEXR → ACEScg . After rendering, I convert the EXR sequence into ProRes 422 while keeping ACEScg as the color space for storage. Now, for color grading in Davinci, I want to follow a CST Workflow but I’m a bit confused: Project Settings: Color Science: DaVinci YRGB Timeline Color Space: DaVinci Wide Gamut / Intermediate Output: Rec.709 Gamma 2.4 Plan: First CST node → ACEScg → DWG/Intermediate Do all grading in DWG Final CST node → DWG → Rec.709 My question is: Is this the correct approach for grading ProRes ACEScg renders while keeping the project on DaVinci YRGB, or should I switch the whole project to ACES color management instead?",
+      "flair": [
+        "Color Management"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Hi color experts! I'm a solo animator and could really use your advice! My highlights are getting blown out on a projector!",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n1vob9/hi_color_experts_im_a_solo_animator_and_could/",
+      "score": 3,
+      "comments": 3,
+      "post_id": "t3_1n1vob9",
+      "post_type": "multi_media",
+      "domain": "self.colorists",
+      "author": "FulfaroAnimations",
+      "author_id": "t2_vlpmj82",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-27T22:47:05.121000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n1vob9/hi_color_experts_im_a_solo_animator_and_could/",
+      "content_preview": "Hello, experts! My request doesn't really feel like it fits the rule about feedback formatting, I hope you understand! I'll try to share as much information and make my questions as clear as possible! I work on a 2D animated side project by myself, and I just screened a short in a local film show last night! But the highlights in my short were BEYOND BLOWN OUT. Like, \"can barely see anything\" white. It was being shown on a projector outside in the evening, but it was also clearly my own fault because no other short was as hard to watch as mine. Here's an Imgur link of a screenshot, as well as my Lumetri scopes: https://imgur.com/gallery/baby-cat-lumetri-scopes-naGn8tR I animate the characters in Toon Boom Harmony and bring them into After Effects. My working space for this short was HDTV (Rec.709) but I've since switched over to Rec 709 Gamma 2.4 for future shorts. The render that was played on the projector last night was exported H.264 Match Source - High bitrate. I also sometimes export Apple ProRes 4444 when file size isn't an issue. Most of the time, I share my shorts online like on Instagram and YouTube, and the colors on there looked more or less consistent with After Effects as far as I could tell. Showing them in public is not a major priority, but, as I'm sure you'd all agree, I want my colors to look as good as possible in any medium. I think, from my novice eyes, my scopes are way too hot, right? It's obviously peaking at 100. I read online that I should shoot to be closer to 85 to 95 instead, is that correct? I could probably throw a levels adjustment over the entire thing to cool it down as a band-aid fix for the future, but wanted to ask for any advice or best-practices you could recommend so I'm more responsible about my colors in the future. Thank you for taking the time to read this and with your patience with me! Happy to answer any questions I might've missed to the best of my ability!",
+      "flair": [
+        "Novice"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_fgl6z/styles/profileIcon_etpw85v72ei31.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b2f617eef75a0124ab2a80890ddfaccff12200b6"
+    },
+    {
+      "title": "Genesis & Filmbox pro test",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1n04nf2/genesis_filmbox_pro_test/",
+      "score": 4,
+      "comments": 45,
+      "post_id": "t3_1n04nf2",
+      "post_type": "multi_media",
+      "domain": "self.colorists",
+      "author": "Possible_Mirror6492",
+      "author_id": "t2_d9otk52x",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-25T22:23:35.232000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1n04nf2/genesis_filmbox_pro_test/",
+      "content_preview": "https://youtu.be/adkNefE1BTw?si=25WLl3l7IsjOFmOP https://vimeo.com/1113048210?share=copy",
+      "flair": [
+        "Technique"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Home Grading Setup - Is a 1080p Display + BMD Mini Monitor Combo Still a Viable Option in 2025?",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1mjzehm/home_grading_setup_is_a_1080p_display_bmd_mini/",
+      "score": 11,
+      "comments": 31,
+      "post_id": "t3_1mjzehm",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "m0nkeyb0ne99",
+      "author_id": "t2_1es7zvju62",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-07T12:58:40.197000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1mjzehm/home_grading_setup_is_a_1080p_display_bmd_mini/",
+      "content_preview": "Hello fellow color nerds! I’m a freelance colorist, and about 70-80% of my work is done remotely, solo. I was planning to invest in an Eizo CG2700X paired with a Blackmagic UltraStudio 4K Mini for my home grading setup - but honestly, it’s turning out to be a bit too expensive at the moment. I’m now considering a more budget-friendly setup: - The new Eizo CG2400S (a 1080p display with hardware calibration) - Blackmagic UltraStudio Mini Monitor for video out Alongside that, I’ll have a 4K GUI monitor, which I plan to use for checking sharpness, texture, grain, etc. Do you think this is a realistic and workable compromise in today’s workflows? Would love to hear if others here are working this way - and what kind of visual difference I can realistically expect between this and a full 4K setup. Thanks in advance for your insights! Edit: Since I'm going to be on MacOS, I'm also opening up to the idea of investing the money I save on the 1080p setup by going with a 5K GUI display for clean MacOS scaling.",
+      "flair": [
+        "Hardware"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Calibrite PROFILER won’t export camera profiles (.dcp) from DNG — says created but nothing saves",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1mzf582/calibrite_profiler_wont_export_camera_profiles/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1mzf582",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "No-Celery-2009",
+      "author_id": "t2_6eq7857f",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-25T02:47:17.378000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1mzf582/calibrite_profiler_wont_export_camera_profiles/",
+      "content_preview": "Hey all, I’m trying to create a custom camera profile for Lightroom Classic using Calibrite PROFILER and a ColorChecker shot, but I keep hitting a wall. Here’s my workflow so far: Shot RAW with my camera → opened in Adobe Camera Raw. Exported as DNG (Camera Raw 7.1 and later) , Linear (demosaiced) unchecked , Uncompressed unchecked . Loaded the DNG into Calibrite PROFILER → it detects the ColorChecker fine. I click Create Profile → message says “Profile created successfully” . But nothing shows up in the Profile Manager , and no .dcp is saved anywhere (CameraProfiles folder stays empty). I’ve tried: Saving the DNG to different folders (Desktop instead of cloud-synced Downloads). Restarting Lightroom Classic and my Mac. Reinstalling PROFILER. Checking ~/Library/Application Support/Adobe/CameraRaw/CameraProfiles/ — still empty. Granting PROFILER Full Disk Access in macOS System Settings. Still no luck — the profile never exports. Questions: Has anyone else run into this issue with Calibrite PROFILER not exporting .dcp profiles? Is there a hidden folder these profiles sometimes go to on macOS? Could this be a bug in the current version of PROFILER, or am I missing a setting in the DNG export workflow? Any help or pointers would be hugely appreciated — I’ve been stuck on this for a few days and can’t get a working profile into Lightroom Classic. Thanks!",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4yc9du/styles/profileIcon_mxyadseej6qa1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=0ed1a01e541daacafdadbfdc7b153de700a0b08f"
+    },
+    {
+      "title": "Is my thinking wrong about hdr ?",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1mz75d2/is_my_thinking_wrong_about_hdr/",
+      "score": 0,
+      "comments": 13,
+      "post_id": "t3_1mz75d2",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "AggressiveLocal8884",
+      "author_id": "t2_3tm3rouo0",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-24T20:52:08.891000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1mz75d2/is_my_thinking_wrong_about_hdr/",
+      "content_preview": "I try do figure out which monitor fit my needs when I want to post on instagram or tiktok. Im not a pro in Davinci maybe my thinking is wrong. When I film a Video from my Iphone 16 pro normal camera so the video is with colors 4k 30 fps etc and I go to instagram right before I want to post left top there is \"hdr\" because my video is dolby vision I think. When I watch my video I see cleary its getting brighter when someone scroll through the feed and see my video. Now my question when I film in with my Sony in s-log or from my iphone in pro res log and want to grade it in Davinci. What should I do that there is the brighter pop in the video like with my normal iphone camera ? Is this \"hdr grading\" or is this amateur type hdr not the real hdr. Do I need for this example an hdr monitor for example xmp310 / Asus Pa 32 ucdm Peak brightness 1000 nits Is therefore the Eizo with peak brightness 350 (cg319x) or the (cg3100x) with 500 nits the wrong monitor ? My english is not the best. Im from europe try to figure it out. Very hard to understand everything right.",
+      "flair": [
+        "Monitor"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Create your LUTs, Look Development tools",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1mywoth/create_your_luts_look_development_tools/",
+      "score": 3,
+      "comments": 16,
+      "post_id": "t3_1mywoth",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "ButterscotchonMars",
+      "author_id": "t2_okm1260xt",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-24T14:14:21.407000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1mywoth/create_your_luts_look_development_tools/",
+      "content_preview": "Hello everyone. I have been a colorist for a few years now. I create my luts in DAV Resolve, I discovered late 3D LUT Creator. I was wondering what software you use to create and develop your looks. (I would like to create a bank of Looks compatible with different cameras/codecs etc.) I had heard of Contour but it no longer exists (or is no longer updated?).  Excuse my French I am Swiss. Thank you 🙏🏼",
+      "flair": [
+        "Technique"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "for hdr Peak 1000 nits but 100% 250 nits ??",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1mytuuq/for_hdr_peak_1000_nits_but_100_250_nits/",
+      "score": 0,
+      "comments": 17,
+      "post_id": "t3_1mytuuq",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "AggressiveLocal8884",
+      "author_id": "t2_3tm3rouo0",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-24T12:07:15.078000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1mytuuq/for_hdr_peak_1000_nits_but_100_250_nits/",
+      "content_preview": "Can someone explain to me when the peak brightness on a Monitor AsusPA 32ucdm is 1000 nits but its only on 3% of the window and the average brightness is 250 nits. What does it mean when I want to grade in davinci ? Is it useless for hdr because its just 3% of the window. The higher monitors for 10k or 30k they have on the whole screen those 1000 nits ?",
+      "flair": [
+        "Monitor"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "What helps more ? Dynamic range of a camera or the maximum bit depth it can capture when it comes to filming?",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1mxnop9/what_helps_more_dynamic_range_of_a_camera_or_the/",
+      "score": 3,
+      "comments": 26,
+      "post_id": "t3_1mxnop9",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "BearSEO",
+      "author_id": "t2_vmq77x8u",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-23T00:49:57.907000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1mxnop9/what_helps_more_dynamic_range_of_a_camera_or_the/",
+      "content_preview": "First of all apologies for asking kinda out there question here and thanks for checking it out. I think I am what an amateur/prosumer and I have  done very well at my job so I am thinking of buying myself a camera I can use for the next 5 years without regret as I can shell the money as needed. My purpose with this: as cringe as it may sound is to shoot and recreate my surroundings, and my camera in different looks of movies I have come to love. It has finally come down to two cameras : The Lumix S1ii and the Nikon z6iii. It's It's very very tough choice as they are both excellent cameras. After numerous days spending thinking about this, I think it has come down to this : which feature of a camera would be more useful for my scenario? The advantage of Lumix is the dynamic range. Its already 1.5 stops atleast better than the z6iii normally and with the DRE boost on its easy 2 stops better. The Nikon also seems to be more noisier in the shadows. Where the Nikon shines though is that it can shoot 12 bit nraw  internally. I assume it might be helping more with grading and all , but I don't know how much of a difference it will make as I am still learning the ropes of grading. So here I am asking if any of you have any piece of advice for me specific to this( I am quite familiar with its not the camera but it's the man behind camera stuff,  but I just need this specific thing answered right now) would having the 12 bit raw make it easier than having 2 stops in dynamic range?",
+      "flair": [
+        "Novice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Cullen Kelly Genesis / Discount Code?",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1mxhh8k/cullen_kelly_genesis_discount_code/",
+      "score": 0,
+      "comments": 21,
+      "post_id": "t3_1mxhh8k",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "everyfcknamewastaken",
+      "author_id": "t2_8axis07",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-22T20:27:35.085000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1mxhh8k/cullen_kelly_genesis_discount_code/",
+      "content_preview": "I noticed at the checkout there is a „Have a coupon code?“ box, does anyone have one? Are there ones floating around? It’s a little steep at this price point…",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "How to adapt LogC3 LUTs to S-Log for shooting.",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1mxgedc/how_to_adapt_logc3_luts_to_slog_for_shooting/",
+      "score": 1,
+      "comments": 4,
+      "post_id": "t3_1mxgedc",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "AztecGiraffe",
+      "author_id": "t2_ng05n",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-22T19:45:40.272000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1mxgedc/how_to_adapt_logc3_luts_to_slog_for_shooting/",
+      "content_preview": "Hi there, novice here. I have a LUT that I really love for LogC3 that I would like to use on my FX6. What is the best way to adapt a LUT to a different color space?",
+      "flair": [
+        "Novice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Which lut am I suppose to use from Fuji for F-Log2 back to 709, any help?",
+      "permalink": "https://www.reddit.com/r/colorists/comments/1mxa0jl/which_lut_am_i_suppose_to_use_from_fuji_for_flog2/",
+      "score": 0,
+      "comments": 12,
+      "post_id": "t3_1mxa0jl",
+      "post_type": "text",
+      "domain": "self.colorists",
+      "author": "yalag",
+      "author_id": "t2_ftobu",
+      "subreddit_id": "t5_2yis7",
+      "subreddit": "r/colorists",
+      "created_ts": "2025-08-22T15:43:50.479000+0000",
+      "content_href": "https://www.reddit.com/r/colorists/comments/1mxa0jl/which_lut_am_i_suppose_to_use_from_fuji_for_flog2/",
+      "content_preview": "Completely new to this but just try shot some test footage with x100vi in flog2. I imported it into FCPX and then applied the flog2 lut found here https://www.fujifilm-x.com/en-ca/support/download/lut/ but none of the 4 looks quite right. Is it expected that I have to manually adjust the tone curve after the 709 conversion? And which of the 4 files should I use?",
+      "flair": [
+        "Novice"
+      ],
+      "thumbnail_url": ""
+    }
+  ],
+  "scraped_at": "2025-09-02T13:19:15.419989"
+}
