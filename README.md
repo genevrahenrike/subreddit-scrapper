@@ -127,6 +127,23 @@ python verify_output.py output/pages
 - Legacy (may exist): `output/reddit_communities_progress_page_<N>.json`, `output/reddit_communities_complete.json`
 - Ad-hoc artifacts from tests: `output/reddit_page_500.html`, `output/reddit_subreddits_500.json`
 
+## Subreddit front pages (new)
+Scrape each subreddit's front page using Playwright and save one JSON per subreddit.
+
+Files:
+- `subreddit_frontpage_scraper.py` — scrapes a single subreddit with fallbacks
+- `batch_scrape_subreddits.py` — reads `output/pages` and scrapes them in batches
+
+Run (batch):
+```zsh
+source .venv/bin/activate
+python batch_scrape_subreddits.py --start 0 --limit 200 --chunk-size 50
+```
+Notes:
+- Respects `PROXY_SERVER` env var if set.
+- Skips already scraped subreddits unless `--overwrite` is provided.
+- Outputs to `output/subreddits/<name>/frontpage.json`; per-run manifest at `output/subreddits/manifest.json`.
+
 ## Notes & Tips
 - Respect target site terms and rate limits. The local scraper includes short randomized delays; tune in `LocalScraperConfig`.
 - If a page fails to render, increase timeouts in `LocalScraperConfig` and/or add retries.
