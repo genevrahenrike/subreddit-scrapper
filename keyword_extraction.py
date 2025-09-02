@@ -31,7 +31,8 @@ Output:
 Design notes:
 - Name extraction: robust splitting (delimiters, camel/pascal, digits), plus heuristic segmentation for common suffixes/prefixes and acronyms expansion.
 - Description extraction: 1–3-gram TF-IDF built across the selected input files (one or many). Stopwords remove filler words.
-- Scoring: Combine description TF-IDF and name-derived scores, then normalize per-subreddit so weights sum to 1.0.
+- Posts extraction: n-gram TF-IDF from frontpage post titles (and optionally content preview), with engagement and recency weighting; phrase preference; optional anchored variants for generic terms.
+- Scoring: Combine description TF-IDF, name-derived scores, and posts-derived scores; then normalize per-subreddit so weights sum to 1.0.
 """
 
 from __future__ import annotations
@@ -45,7 +46,8 @@ import sys
 from collections import Counter, defaultdict
 from dataclasses import dataclass
 from glob import glob
-from typing import Dict, Iterable, List, Tuple
+from typing import Dict, Iterable, List, Tuple, Optional, Set
+from datetime import datetime, timezone, timedelta
 
 # Optional word segmentation backstops (used for glued lowercase names)
 _HAS_WORDSEGMENT = False
@@ -93,6 +95,16 @@ DEFAULT_DESC_PHRASE_BOOST_TRIGRAM = 1.4
 DEFAULT_ENSURE_PHRASES = True
 DEFAULT_ENSURE_PHRASES_K = 3
 
+# Posts integration defaults
+DEFAULT_POSTS_WEIGHT = 1.5
+DEFAULT_POSTS_HALFLIFE_DAYS = 7.0
+DEFAULT_POSTS_GENERIC_DF_RATIO = 0.05  # if appears in >=5% subs, consider "generic"
+DEFAULT_POSTS_ANCHOR_MULTIPLIER = 0.9   # anchored variant score multiplier
+DEFAULT_INCLUDE_CONTENT_PREVIEW = False  # keep off by default (often empty/noisy)
+
+# Posts phrase preference (posts-specific; can be tuned via CLI)
+DEFAULT_POSTS_PHRASE_BOOST_BIGRAM = 1.25
+DEFAULT_POSTS_PHRASE_BOOST_TRIGRAM = 1.5
 
 
 # Curated light stopword list: English + subreddit boilerplate
@@ -138,6 +150,14 @@ STOPWORDS = {
     # Media/generic content terms that often add noise
     "collection", "collections", "picture", "pictures", "video", "videos",
     "photo", "photos", "image", "images", "pic", "pics", "gallery",
+
+    # Calendar months and common abbreviations (generic timeline chatter)
+    "january", "february", "march", "april", "june", "july", "august",
+    "september", "october", "november", "december",
+    "jan", "feb", "mar", "apr", "jun", "jul", "aug", "sep", "sept", "oct", "nov", "dec",
+
+    # Generic colloquialisms often present in posts
+    "guys",
 }
 
 # Common suffix/prefix clues to heuristically segment concatenated names (lowercase)
@@ -314,11 +334,19 @@ def expand_token(token: str) -> List[str]:
     return EXPANSIONS.get(token.lower(), [])
 
 
-def filter_stop_tokens(tokens: Iterable[str]) -> List[str]:
+def filter_stop_tokens(tokens: Iterable[str], extra_stopwords: Optional[Set[str]] = None) -> List[str]:
     out = []
+    extra = extra_stopwords or set()
     for t in tokens:
         lt = t.lower()
-        if lt in STOPWORDS:
+        if lt in STOPWORDS or lt in extra:
+            continue
+        # Drop numeric-only tokens and common years
+        if lt.isdigit():
+            continue
+        if re.fullmatch(r"(19|20)\d{2}", lt):
+            continue
+        if re.fullmatch(r"\d{2,}", lt):
             continue
         if len(lt) < DEFAULT_MIN_TOKEN_LEN and lt not in {"ai", "vr", "uk", "us", "eu", "3d"}:
             continue
@@ -493,6 +521,260 @@ def extract_desc_terms(description: str, max_ngram: int) -> List[str]:
 
 
 # -----------------------
+# Posts processing (frontpage)
+# -----------------------
+
+def _parse_created_ts(ts: str) -> Optional[datetime]:
+    if not ts:
+        return None
+    # Example: "2025-09-02T10:07:33.290000+0000"
+    try:
+        return datetime.strptime(ts, "%Y-%m-%dT%H:%M:%S.%f%z")
+    except Exception:
+        # Try without fractional seconds
+        try:
+            return datetime.strptime(ts, "%Y-%m-%dT%H:%M:%S%z")
+        except Exception:
+            return None
+
+
+def _parse_scraped_at(d: dict) -> datetime:
+    s = d.get("scraped_at")
+    if s:
+        try:
+            # "2025-09-02T03:24:15.686608" (naive); assume UTC
+            dt = datetime.fromisoformat(s)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt
+        except Exception:
+            pass
+    return datetime.now(timezone.utc)
+
+
+def canonicalize_subreddit_key(name: str, url: str) -> str:
+    """
+    Build a canonical lowercase key (e.g., 'valorant') from subreddit name or URL.
+    """
+    # Try name like "r/VALORANT"
+    if name:
+        m = re.search(r"r/([^/\s]+)", name, flags=re.IGNORECASE)
+        if m:
+            return m.group(1).strip("/").lower()
+        name2 = name.strip().strip("/").lower()
+        return re.sub(r"^r/", "", name2)
+
+    # Try URL like "https://www.reddit.com/r/VALORANT"
+    if url:
+        m = re.search(r"/r/([^/\s]+)/?", url, flags=re.IGNORECASE)
+        if m:
+            return m.group(1).lower()
+
+    return ""
+
+
+def subreddit_folder_from_name(name: str) -> str:
+    """
+    Derive folder name from display name (preserve casing if present).
+    Input "r/VALORANT" -> "VALORANT"
+    """
+    if not name:
+        return ""
+    n = re.sub(r"^r/+", "", name.strip(), flags=re.IGNORECASE)
+    return n.strip("/")
+
+
+def _tokenize_post_text(title: str, preview: str, posts_extra_stopwords: Optional[Set[str]] = None) -> List[str]:
+    parts: List[str] = []
+    if title:
+        parts.append(title)
+    if DEFAULT_INCLUDE_CONTENT_PREVIEW and preview:
+        parts.append(preview)
+    if not parts:
+        return []
+    tokens = tokenize_simple(" ".join(parts))
+    tokens = filter_stop_tokens(tokens, extra_stopwords=posts_extra_stopwords)
+    return tokens
+
+
+def build_posts_docfreq(frontpage_paths: List[str], max_ngram: int, posts_extra_stopwords: Optional[Set[str]] = None, posts_phrase_stoplist: Optional[Set[str]] = None) -> Tuple[Counter, int]:
+    """
+    Compute DF across subreddits' frontpages for n-grams from post titles/previews.
+    Returns (docfreq, total_docs) where total_docs = number of frontpage docs considered.
+    """
+    docfreq = Counter()
+    total_docs = 0
+
+    for p in frontpage_paths:
+        try:
+            with open(p, "r", encoding="utf-8") as f:
+                data = json.load(f)
+        except Exception:
+            continue
+        posts = data.get("posts") or []
+        if not posts:
+            continue
+
+        grams_present: Set[str] = set()
+        for post in posts:
+            title = post.get("title", "") or ""
+            preview = post.get("content_preview", "") or ""
+            toks = _tokenize_post_text(title, preview, posts_extra_stopwords)
+            grams = tokens_to_ngrams(toks, max_ngram)
+            if posts_phrase_stoplist:
+                for pg in list(grams.keys()):
+                    if pg in posts_phrase_stoplist:
+                        del grams[pg]
+            for g in grams.keys():
+                grams_present.add(g)
+
+        if grams_present:
+            total_docs += 1
+            for g in grams_present:
+                docfreq[g] += 1
+
+    return docfreq, total_docs
+
+
+def compute_posts_tfidf_for_frontpage(
+    frontpage_data: dict,
+    docfreq: Counter,
+    total_docs: int,
+    max_ngram: int,
+    min_df_bigram: int,
+    min_df_trigram: int,
+    halflife_days: float,
+    ensure_k: int,
+    posts_extra_stopwords: Optional[Set[str]] = None,
+    posts_phrase_stoplist: Optional[Set[str]] = None,
+    posts_phrase_boost_bigram: float = DEFAULT_POSTS_PHRASE_BOOST_BIGRAM,
+    posts_phrase_boost_trigram: float = DEFAULT_POSTS_PHRASE_BOOST_TRIGRAM,
+    drop_generic_unigrams: bool = False,
+    generic_df_ratio: float = DEFAULT_POSTS_GENERIC_DF_RATIO,
+) -> Counter:
+    """
+    Compute engagement- and recency-weighted TF-IDF for a single frontpage document.
+    - Weighted TF sums across posts: TF_post = count_grams_in_post * post_weight
+    - post_weight = (1 + log1p(score) + 0.5*log1p(comments)) * recency_decay
+    - recency_decay = 0.5 ** (age_days / halflife_days)
+    """
+    posts = frontpage_data.get("posts") or []
+    if not posts:
+        return Counter()
+
+    ref_time = _parse_scraped_at(frontpage_data)
+
+    weighted_tf = Counter()
+    local_grams_tf = Counter()  # unweighted counts for "ensure phrases"
+    for post in posts:
+        title = post.get("title", "") or ""
+        preview = post.get("content_preview", "") or ""
+        toks = _tokenize_post_text(title, preview, posts_extra_stopwords)
+        if not toks:
+            continue
+        grams = tokens_to_ngrams(toks, max_ngram)
+        if posts_phrase_stoplist:
+            for pg in list(grams.keys()):
+                if pg in posts_phrase_stoplist:
+                    del grams[pg]
+        local_grams_tf.update(grams)
+
+        score = max(0, int(post.get("score") or 0))
+        comments = max(0, int(post.get("comments") or 0))
+
+        created_ts = _parse_created_ts(post.get("created_ts") or "")
+        if created_ts is None:
+            # If missing/invalid, do not apply recency penalty
+            recency = 1.0
+        else:
+            if created_ts.tzinfo is None:
+                created_ts = created_ts.replace(tzinfo=timezone.utc)
+            age = ref_time - created_ts
+            age_days = max(age.total_seconds() / 86400.0, 0.0)
+            recency = 0.5 ** (age_days / max(halflife_days, 0.1))
+
+        w = 1.0 + math.log1p(score) + 0.5 * math.log1p(comments)
+        post_weight = w * recency
+
+        for g, c in grams.items():
+            weighted_tf[g] += c * post_weight
+
+    tfidf = Counter()
+    for g, tf in weighted_tf.items():
+        n_words = g.count(" ") + 1
+        df = docfreq.get(g, 0)
+        if n_words == 2 and df < min_df_bigram:
+            continue
+        if n_words == 3 and df < min_df_trigram:
+            continue
+        # Optionally drop globally generic unigrams
+        if n_words == 1 and drop_generic_unigrams:
+            df_ratio = (df / total_docs) if total_docs > 0 else 0.0
+            if df_ratio >= generic_df_ratio:
+                continue
+        idf = math.log((1.0 + total_docs) / (1.0 + df)) + 1.0
+        boost = 1.0
+        if n_words == 2:
+            boost = posts_phrase_boost_bigram
+        elif n_words == 3:
+            boost = posts_phrase_boost_trigram
+        tfidf[g] = tf * idf * boost
+
+    # Ensure local phrases (bigrams/trigrams) even if pruned; use top local grams by raw TF (unweighted)
+    if DEFAULT_ENSURE_PHRASES and ensure_k > 0 and local_grams_tf:
+        candidates = [
+            (g, tf) for g, tf in local_grams_tf.items()
+            if ((g.count(" ") + 1) >= 2 and g not in tfidf)
+        ]
+        if candidates:
+            candidates.sort(key=lambda x: x[1], reverse=True)
+            for g, tf in candidates[:ensure_k]:
+                n_words = g.count(" ") + 1
+                boost = posts_phrase_boost_bigram if n_words == 2 else (
+                    posts_phrase_boost_trigram if n_words == 3 else 1.0
+                )
+                tfidf[g] = tf * boost  # fallback: local TF × small phrase boost
+
+    return tfidf
+
+
+def apply_anchored_variants_for_generic_posts_terms(
+    posts_scores: Counter,
+    docfreq: Counter,
+    total_docs: int,
+    anchor_token: str,
+    generic_df_ratio: float,
+    replace_original_generic: bool = False,
+) -> Counter:
+    """
+    For generic terms (high DF ratio) that do not include the anchor token, add an anchored variant:
+      e.g., "abusing system" -> "valorant abusing system"
+    Keeps the original score; the anchored variant gets DEFAULT_POSTS_ANCHOR_MULTIPLIER × original_score.
+    Optionally drop the original generic term when anchoring (replace_original_generic=True).
+    """
+    if not posts_scores or not anchor_token:
+        return posts_scores
+
+    out = Counter(posts_scores)
+    for term, score in posts_scores.items():
+        lt = f" {term} "
+        if f" {anchor_token} " in lt:
+            continue  # already anchored with the subreddit token
+        n_words = term.count(" ") + 1
+        if n_words >= 3:
+            continue  # avoid very long anchored phrases; keep to uni/bi-grams
+        df = docfreq.get(term, 0)
+        df_ratio = (df / total_docs) if total_docs > 0 else 1.0
+        if df_ratio >= generic_df_ratio:
+            anchored = f"{anchor_token} {term}"
+            if anchored not in out:
+                out[anchored] = score * DEFAULT_POSTS_ANCHOR_MULTIPLIER
+            if replace_original_generic and term in out:
+                del out[term]
+    return out
+
+
+# -----------------------
 # Scoring
 # -----------------------
 
@@ -601,25 +883,34 @@ def score_name_terms(name_terms: List[str]) -> Counter:
     return scores
 
 
-def merge_scores(desc_scores: Counter, name_scores: Counter, desc_w: float, name_w: float) -> Dict[str, Tuple[float, str]]:
+def merge_sources(
+    items: List[Tuple[Counter, float, str]]
+) -> Dict[str, Tuple[float, str]]:
     """
-    Merge description TF-IDF and name term weights into a combined dict:
-      term -> (score, source)
-    where source in {"description", "name", "both"}
+    Merge multiple sources of scores.
+    items: list of (scores_counter, weight_multiplier, source_name)
+    Returns: term -> (score, source_string) where source_string is "name+description+posts" etc.
     """
-    out: Dict[str, Tuple[float, str]] = {}
+    out: Dict[str, Tuple[float, Set[str]]] = {}
 
-    for term, v in desc_scores.items():
-        out[term] = (v * desc_w, "description")
+    for scores, w, src in items:
+        if not scores or w <= 0:
+            continue
+        for term, val in scores.items():
+            add = val * w
+            if term in out:
+                cur, srcs = out[term]
+                out[term] = (cur + add, srcs | {src})
+            else:
+                out[term] = (add, {src})
 
-    for term, v in name_scores.items():
-        if term in out:
-            cur, src = out[term]
-            out[term] = (cur + v * name_w, "both" if src == "description" else src)
-        else:
-            out[term] = (v * name_w, "name")
-
-    return out
+    # Convert source sets to joined string
+    final: Dict[str, Tuple[float, str]] = {}
+    for term, (score, srcs) in out.items():
+        # normalize ordering for determinism
+        src_str = "+".join(sorted(srcs))
+        final[term] = (score, src_str)
+    return final
 
 
 def normalize_weights(term_scores: Dict[str, Tuple[float, str]]) -> List[Tuple[str, float, float, str]]:
@@ -650,6 +941,26 @@ def out_path_for_input(output_dir: str, input_path: str) -> str:
     return os.path.join(output_dir, f"{base}.keywords.jsonl")
 
 
+def _build_frontpage_index(frontpage_glob: Optional[str]) -> Tuple[Dict[str, str], List[str]]:
+    """
+    Build index canonical_key -> frontpage_path for fast lookup.
+    Returns (index_map, list_of_paths)
+    """
+    if not frontpage_glob:
+        return {}, []
+    paths = sorted(glob(frontpage_glob))
+    index: Dict[str, str] = {}
+    for p in paths:
+        # Expect .../output/subreddits/NAME/frontpage.json
+        m = re.search(r"/subreddits/([^/]+)/frontpage\.json$", p)
+        if not m:
+            continue
+        folder = m.group(1)
+        key = folder.lower()
+        index[key] = p
+    return index, paths
+
+
 def process_inputs(
     input_paths: List[str],
     output_dir: str,
@@ -659,6 +970,21 @@ def process_inputs(
     desc_weight: float,
     min_df_bigram: int,
     min_df_trigram: int,
+    # Posts integration (optional)
+    frontpage_glob: Optional[str] = None,
+    posts_weight: float = DEFAULT_POSTS_WEIGHT,
+    posts_halflife_days: float = DEFAULT_POSTS_HALFLIFE_DAYS,
+    posts_generic_df_ratio: float = DEFAULT_POSTS_GENERIC_DF_RATIO,
+    posts_ensure_k: int = DEFAULT_ENSURE_PHRASES_K,
+    posts_stopwords_extra_path: Optional[str] = None,
+    posts_anchor_generics: bool = True,
+    posts_phrase_boost_bigram: float = DEFAULT_POSTS_PHRASE_BOOST_BIGRAM,
+    posts_phrase_boost_trigram: float = DEFAULT_POSTS_PHRASE_BOOST_TRIGRAM,
+    posts_drop_generic_unigrams: bool = False,
+    posts_phrase_stoplist_path: Optional[str] = None,
+    posts_replace_generic_with_anchored: bool = False,
+    posts_theme_penalty: float = 0.65,
+    posts_theme_top_desc_k: int = 6,
 ) -> None:
     if not input_paths:
         print("No input files matched.", file=sys.stderr)
@@ -666,10 +992,58 @@ def process_inputs(
 
     ensure_dir(output_dir)
 
+    # Optional: load extra posts stopwords from file
+    posts_extra_stopwords_set: Set[str] = set()
+    if posts_stopwords_extra_path:
+        try:
+            with open(posts_stopwords_extra_path, "r", encoding="utf-8") as f:
+                for line in f:
+                    # allow comments and comma/space separated entries
+                    line = line.strip()
+                    if not line or line.startswith("#"):
+                        continue
+                    for tok in re.split(r"[,\s]+", line):
+                        tok = tok.strip().lower()
+                        if tok and not tok.startswith("#"):
+                            posts_extra_stopwords_set.add(tok)
+            print(f"[posts:stopwords] loaded {len(posts_extra_stopwords_set)} extra posts stopwords from {posts_stopwords_extra_path}", file=sys.stderr)
+        except Exception as e:
+            print(f"[posts:stopwords] failed to load extra stopwords from {posts_stopwords_extra_path}: {e}", file=sys.stderr)
+
+    # Optional: load posts phrase stoplist (bigrams/trigrams to exclude)
+    posts_phrase_stoplist_set: Set[str] = set()
+    if posts_phrase_stoplist_path:
+        try:
+            with open(posts_phrase_stoplist_path, "r", encoding="utf-8") as f:
+                for line in f:
+                    line = line.strip().lower()
+                    if not line or line.startswith("#"):
+                        continue
+                    # normalize internal whitespace
+                    line = re.sub(r"\s+", " ", line)
+                    posts_phrase_stoplist_set.add(line)
+            print(f"[posts:phrases] loaded {len(posts_phrase_stoplist_set)} stoplist phrase(s) from {posts_phrase_stoplist_path}", file=sys.stderr)
+        except Exception as e:
+            print(f"[posts:phrases] failed to load phrase stoplist from {posts_phrase_stoplist_path}: {e}", file=sys.stderr)
+
+    # Pass 0 (optional): posts DF across frontpages
+    frontpage_index: Dict[str, str] = {}
+    frontpage_paths: List[str] = []
+    posts_docfreq: Counter = Counter()
+    posts_total_docs: int = 0
+    if frontpage_glob:
+        print(f"[posts:pass1] building posts docfreq over glob={frontpage_glob!r} ...", file=sys.stderr)
+        frontpage_index, frontpage_paths = _build_frontpage_index(frontpage_glob)
+        posts_docfreq, posts_total_docs = build_posts_docfreq(frontpage_paths, max_ngram, posts_extra_stopwords_set, posts_phrase_stoplist_set)
+        print(f"[posts:pass1] total_frontpages={posts_total_docs:,}, unique_terms={len(posts_docfreq):,}", file=sys.stderr)
+
     # Pass 1: global docfreq across selected inputs (for description n-grams)
-    print(f"[pass1] building docfreq over {len(input_paths)} file(s)...", file=sys.stderr)
+    print(f"[desc:pass1] building docfreq over {len(input_paths)} file(s)...", file=sys.stderr)
     docfreq, total_docs = build_docfreq(input_paths, max_ngram)
-    print(f"[pass1] total_docs={total_docs:,}, unique_terms={len(docfreq):,}", file=sys.stderr)
+    print(f"[desc:pass1] total_docs={total_docs:,}, unique_terms={len(docfreq):,}", file=sys.stderr)
+
+    # Cache for loaded frontpage JSONs
+    frontpage_cache: Dict[str, dict] = {}
 
     # Pass 2: per file, compute per-subreddit scores and write JSONL
     for inp in input_paths:
@@ -718,10 +1092,111 @@ def process_inputs(
                     else:
                         name_scores[full_lower] += 1.0
 
-                # Merge and normalize
-                merged = merge_scores(desc_tfidf, name_scores, desc_weight, name_weight)
+                # Posts TF-IDF (optional)
+                posts_scores: Counter = Counter()
+                if frontpage_index and posts_weight > 0.0:
+                    canon = canonicalize_subreddit_key(sub.name, sub.url)
+                    posts_path = frontpage_index.get(canon)
+
+                    # Fallback path if not in index (derive from name)
+                    if not posts_path:
+                        folder = subreddit_folder_from_name(sub.name)
+                        candidate = os.path.join("output", "subreddits", folder, "frontpage.json")
+                        if os.path.exists(candidate):
+                            posts_path = candidate
+
+                    if posts_path:
+                        if posts_path in frontpage_cache:
+                            fp_data = frontpage_cache[posts_path]
+                        else:
+                            try:
+                                with open(posts_path, "r", encoding="utf-8") as f:
+                                    fp_data = json.load(f)
+                                frontpage_cache[posts_path] = fp_data
+                            except Exception:
+                                fp_data = None
+
+                        if fp_data:
+                            posts_scores = compute_posts_tfidf_for_frontpage(
+                                fp_data,
+                                posts_docfreq,
+                                posts_total_docs,
+                                max_ngram,
+                                min_df_bigram,
+                                min_df_trigram,
+                                posts_halflife_days,
+                                posts_ensure_k,
+                                posts_extra_stopwords_set,
+                                posts_phrase_stoplist_set,
+                                posts_phrase_boost_bigram,
+                                posts_phrase_boost_trigram,
+                                posts_drop_generic_unigrams,
+                                posts_generic_df_ratio,
+                            )
+
+                            # Anchored variants for generics
+                            if posts_anchor_generics:
+                                anchor_tokens = [t for t in name_terms if t] or []
+                                anchor = ""
+                                # choose primary anchor token: prefer whole subreddit token if present in terms
+                                if anchor_tokens:
+                                    # pick the longest token that is a single word (avoid bigrams)
+                                    single_tokens = [t for t in anchor_tokens if " " not in t]
+                                    if single_tokens:
+                                        anchor = max(single_tokens, key=len)
+                                if not anchor:
+                                    anchor = canon  # fallback to canonical key
+                                if anchor:
+                                    posts_scores = apply_anchored_variants_for_generic_posts_terms(
+                                        posts_scores,
+                                        posts_docfreq,
+                                        posts_total_docs,
+                                        anchor,
+                                        posts_generic_df_ratio,
+                                        replace_original_generic=posts_replace_generic_with_anchored,
+                                    )
+
+                # Theme alignment penalty for posts-only terms with no overlap to subreddit theme
+                if posts_scores:
+                    theme_tokens: Set[str] = set()
+                    # tokens from name terms
+                    for nt in name_terms:
+                        for tok in nt.split():
+                            if tok:
+                                theme_tokens.add(tok)
+                    # top-K description terms
+                    if desc_tfidf:
+                        for g, _ in sorted(desc_tfidf.items(), key=lambda x: x[1], reverse=True)[:max(0, posts_theme_top_desc_k)]:
+                            for tok in g.split():
+                                if tok:
+                                    theme_tokens.add(tok)
+                    if theme_tokens:
+                        for term in list(posts_scores.keys()):
+                            term_tokens = set(term.split())
+                            if not (term_tokens & theme_tokens):
+                                posts_scores[term] *= max(0.0, min(1.0, posts_theme_penalty))
+
+                # Merge and normalize (three sources: description, name, posts)
+                merged = merge_sources([
+                    (desc_tfidf, desc_weight, "description"),
+                    (name_scores, name_weight, "name"),
+                    (posts_scores, posts_weight, "posts"),
+                ])
                 ranked = normalize_weights(merged)
                 top = ranked[:topk]
+                # Ensure the whole subreddit name phrase is present in Top-K if available
+                if full_lower and (" " in full_lower):
+                    terms_in_top = {t for (t, _, _, _) in top}
+                    if full_lower not in terms_in_top and full_lower in merged:
+                        total_score = sum(v for v, _ in merged.values()) or 1.0
+                        sc, src = merged[full_lower]
+                        ensured = (full_lower, sc / total_score, sc, src)
+                        if len(top) < topk:
+                            top.append(ensured)
+                        else:
+                            top[-1] = ensured
+                        # Keep ordering by raw score
+                        top.sort(key=lambda x: x[2], reverse=True)
 
                 rec = {
                     "community_id": sub.community_id,
@@ -746,17 +1221,33 @@ def process_inputs(
 
 
 def main():
-    ap = argparse.ArgumentParser(description="Extract subreddit keywords with TF-IDF and name parsing.")
+    ap = argparse.ArgumentParser(description="Extract subreddit keywords with TF-IDF from descriptions, names, and optional frontpage posts.")
     g = ap.add_mutually_exclusive_group(required=True)
     g.add_argument("--input-file", type=str, help="Path to one page JSON file")
     g.add_argument("--input-glob", type=str, help="Glob for many page JSON files, e.g., 'output/pages/page_*.json'")
     ap.add_argument("--output-dir", type=str, default=DEFAULT_OUTPUT_DIR, help="Directory for output JSONL files")
     ap.add_argument("--topk", type=int, default=DEFAULT_TOPK, help="Top-K keywords per subreddit")
-    ap.add_argument("--max-ngram", type=int, default=DEFAULT_MAX_NGRAM, help="Max n-gram length for description TF-IDF")
+    ap.add_argument("--max-ngram", type=int, default=DEFAULT_MAX_NGRAM, help="Max n-gram length for TF-IDF")
     ap.add_argument("--name-weight", type=float, default=DEFAULT_NAME_WEIGHT, help="Weight multiplier for name-derived terms")
     ap.add_argument("--desc-weight", type=float, default=DEFAULT_DESC_WEIGHT, help="Weight multiplier for description TF-IDF")
     ap.add_argument("--min-df-bigram", type=int, default=2, help="Minimum document frequency to keep bigrams")
     ap.add_argument("--min-df-trigram", type=int, default=2, help="Minimum document frequency to keep trigrams")
+
+    # Posts integration CLI
+    ap.add_argument("--frontpage-glob", type=str, default=None, help="Glob for frontpage JSON files, e.g., 'output/subreddits/*/frontpage.json'")
+    ap.add_argument("--posts-weight", type=float, default=DEFAULT_POSTS_WEIGHT, help="Weight multiplier for posts-derived scores (applied in merge)")
+    ap.add_argument("--posts-halflife-days", type=float, default=DEFAULT_POSTS_HALFLIFE_DAYS, help="Recency halflife in days for posts weighting")
+    ap.add_argument("--posts-generic-df-ratio", type=float, default=DEFAULT_POSTS_GENERIC_DF_RATIO, help="DF ratio threshold for considering a posts term 'generic'")
+    ap.add_argument("--posts-ensure-k", type=int, default=DEFAULT_ENSURE_PHRASES_K, help="Ensure up to K local bigrams/trigrams per frontpage even if pruned by global DF")
+    ap.add_argument("--posts-stopwords-extra", type=str, default=None, help="Path to newline-delimited file of extra stopwords to apply only to posts tokenization")
+    ap.add_argument("--posts-phrase-boost-bigram", type=float, default=DEFAULT_POSTS_PHRASE_BOOST_BIGRAM, help="Phrase boost for bigrams in posts TF-IDF")
+    ap.add_argument("--posts-phrase-boost-trigram", type=float, default=DEFAULT_POSTS_PHRASE_BOOST_TRIGRAM, help="Phrase boost for trigrams in posts TF-IDF")
+    ap.add_argument("--posts-drop-generic-unigrams", action="store_true", help="Drop unigram posts terms whose global DF ratio >= --posts-generic-df-ratio")
+    ap.add_argument("--posts-theme-penalty", type=float, default=0.65, help="Multiplier to apply to posts terms with zero overlap to subreddit theme tokens (name + top description terms)")
+    ap.add_argument("--posts-theme-top-desc-k", type=int, default=6, help="How many top description terms to include when forming the theme token set")
+    ap.add_argument("--posts-phrase-stoplist", type=str, default=None, help="Path to newline-delimited file of phrases (bigrams/trigrams) to exclude from posts tokenization/DF")
+    ap.add_argument("--posts-replace-generic-with-anchored", action="store_true", help="When anchoring generic uni/bi-grams, drop the original unanchored term")
+    ap.add_argument("--no-posts-anchor-generics", action="store_true", help="Disable adding anchored variants for generic posts terms")
 
     args = ap.parse_args()
 
@@ -775,6 +1266,18 @@ def main():
         desc_weight=args.desc_weight,
         min_df_bigram=args.min_df_bigram,
         min_df_trigram=args.min_df_trigram,
+        frontpage_glob=args.frontpage_glob,
+        posts_weight=args.posts_weight,
+        posts_halflife_days=args.posts_halflife_days,
+        posts_generic_df_ratio=args.posts_generic_df_ratio,
+        posts_ensure_k=args.posts_ensure_k,
+        posts_stopwords_extra_path=args.posts_stopwords_extra,
+        posts_anchor_generics=(not args.no_posts_anchor_generics),
+        posts_phrase_boost_bigram=args.posts_phrase_boost_bigram,
+        posts_phrase_boost_trigram=args.posts_phrase_boost_trigram,
+        posts_drop_generic_unigrams=args.posts_drop_generic_unigrams,
+        posts_theme_penalty=args.posts_theme_penalty,
+        posts_theme_top_desc_k=args.posts_theme_top_desc_k,
     )
 
 
