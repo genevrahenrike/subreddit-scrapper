@@ -82,6 +82,25 @@ print(f"Total: {len(scraper.all_subreddits)}")
 PY
 ```
 
+### Resume a stopped local scrape
+If a run was interrupted, resume from the latest saved page:
+```zsh
+source .venv/bin/activate
+python resume_local_scrape.py --end 1000 --save-every 25
+```
+The script selects the most advanced dataset among:
+- Per-page directory: `output/pages/page_<N>.json`
+- `output/reddit_communities_complete.json`
+- All `output/reddit_communities_progress_page_<N>.json`
+and resumes at the next page, skipping already-present per-page files. To override:
+```zsh
+python resume_local_scrape.py --from-page 60 --end 1000
+```
+
+Notes:
+- The local scraper deduplicates by `community_id` (or name+url) before saving and writes `output/manifest.json` with `last_page` and `total`.
+- If you suspect stale or inconsistent progress files, you may temporarily move them out of `output/` and resume from a known page with `--from-page`.
+
 ### Parser-only test using saved HTML
 If you have a saved page like `output/reddit_page_500.html`, you can validate parsing without launching a browser:
 ```zsh
@@ -89,9 +108,23 @@ source .venv/bin/activate
 python test_local_parser.py
 ```
 
+### Migrate legacy outputs to per-page
+Convert existing `complete.json`/`progress_page_*.json` into per-page files without re-scraping:
+```zsh
+source .venv/bin/activate
+python migrate_outputs_to_pages.py
+```
+
+### Verify per-page outputs
+```zsh
+source .venv/bin/activate
+python verify_output.py output/pages
+```
+
 ## Output
-- Progress snapshots: `output/reddit_communities_progress_page_<N>.json`
-- Final combined: `output/reddit_communities_complete.json`
+- Per-page files: `output/pages/page_<N>.json` (each contains {page, count, subreddits[], scraped_at})
+- Manifest: `output/manifest.json` (last_page, pages_done[], total, updated_at)
+- Legacy (may exist): `output/reddit_communities_progress_page_<N>.json`, `output/reddit_communities_complete.json`
 - Ad-hoc artifacts from tests: `output/reddit_page_500.html`, `output/reddit_subreddits_500.json`
 
 ## Notes & Tips

@@ -61,7 +61,9 @@ class LocalRedditCommunitiesScraper:
         self.config = config or LocalScraperConfig(
             proxy_server=os.getenv("PROXY_SERVER") or None,
         )
-        self.all_subreddits: List[Dict] = []
+    self.all_subreddits = []  # retained for compatibility; not required
+    self.total_count = 0
+    self.pages_done = set()
 
     # ------------------------- Browser lifecycle ------------------------- #
     def _start(self):
@@ -173,17 +175,29 @@ class LocalRedditCommunitiesScraper:
         try:
             self._start()
             for p in range(start_page, end_page + 1):
-                subs = self.scrape_page(p, delay=delay)
-                self.all_subreddits.extend(subs)
+                self.scrape_and_persist_page(p, delay=delay)
                 if p % save_every == 0:
-                    self.save_data(f"output/reddit_communities_progress_page_{p}.json")
+                    self._write_manifest(last_page=p)
         finally:
             self._stop()
 
-        self.save_data("output/reddit_communities_complete.json")
+        self._write_manifest(last_page=end_page)
         elapsed = datetime.now() - start
-        print(f"🎉 [local] Done. {len(self.all_subreddits)} subreddits in {elapsed}.")
+        print(f"🎉 [local] Done. total_count={self.total_count} pages={len(self.pages_done)} in {elapsed}.")
         return self.all_subreddits
+
+    def scrape_and_persist_page(self, page_number: int, delay: Optional[float] = None) -> List[Dict]:
+        subs = self.scrape_page(page_number, delay=delay)
+        # Save this page only
+        self.save_page_data(page_number, subs)
+        self.pages_done.add(page_number)
+        self.total_count += len(subs)
+        # Optionally keep a small rolling buffer rather than all
+        self.all_subreddits.extend(subs)
+        if len(self.all_subreddits) > 5000:
+            # truncate to keep memory small; we retain only latest ~2 pages worth
+            self.all_subreddits = self.all_subreddits[-1000:]
+        return subs
 
     # ------------------------------ Parsing ----------------------------- #
     def parse_subreddit_data(self, html_content: str, page_number: int) -> List[Dict]:
@@ -243,6 +257,51 @@ class LocalRedditCommunitiesScraper:
 
         with open(filename, "w", encoding="utf-8") as f:
             json.dump(self.all_subreddits, f, indent=2, ensure_ascii=False)
+
+    # ------------------------------ Helpers ----------------------------- #
+    def save_page_data(self, page_number: int, subreddits: List[Dict]):
+        # Ensure pages directory exists
+        pages_dir = os.path.join("output", "pages")
+        os.makedirs(pages_dir, exist_ok=True)
+        payload = {
+            "page": page_number,
+            "count": len(subreddits),
+            "subreddits": subreddits,
+            "scraped_at": datetime.now().isoformat(),
+        }
+        path = os.path.join(pages_dir, f"page_{page_number}.json")
+        import json as _json
+        with open(path, "w", encoding="utf-8") as f:
+            _json.dump(payload, f, indent=2, ensure_ascii=False)
+
+    def _dedup_inplace(self):
+        seen = set()
+        unique: List[Dict] = []
+        for item in self.all_subreddits:
+            key = item.get("community_id") or (item.get("name"), item.get("url"))
+            if key in seen:
+                continue
+            seen.add(key)
+            unique.append(item)
+        self.all_subreddits = unique
+
+    def _write_manifest(self, last_page: int):
+        pages_dir = os.path.join("output", "pages")
+        os.makedirs(pages_dir, exist_ok=True)
+        manifest = {
+            "last_page": last_page,
+            "pages_done": sorted(list(self.pages_done)),
+            "total": self.total_count,
+            "updated_at": datetime.now().isoformat(),
+            "format": "per-page",
+        }
+        out_path = os.path.join("output", "manifest.json")
+        try:
+            with open(out_path, "w", encoding="utf-8") as f:
+                import json as _json
+                _json.dump(manifest, f, indent=2)
+        except Exception:
+            pass
 
 
 def main():
