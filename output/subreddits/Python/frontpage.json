@@ -1,0 +1,1011 @@
+{
+  "subreddit": "Python",
+  "url": "https://www.reddit.com/r/Python",
+  "meta": {
+    "title": "Python",
+    "members_text": "24,731"
+  },
+  "posts": [
+    {
+      "title": "I built a Python bot that automatically finds remote jobs and sends them to Telegram.",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n6fm1w/i_built_a_python_bot_that_automatically_finds/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n6fm1w",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "Due_Care_7629",
+      "author_id": "t2_1jkh5ait84",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-02T10:13:47.786000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n6fm1w/i_built_a_python_bot_that_automatically_finds/",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Python feels easy… until it doesn’t. What was your first real struggle?",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n324wb/python_feels_easy_until_it_doesnt_what_was_your/",
+      "score": 757,
+      "comments": 533,
+      "post_id": "t3_1n324wb",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "NullPointerMood_1",
+      "author_id": "t2_1vx9xi49gw",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-29T08:49:52.610000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n324wb/python_feels_easy_until_it_doesnt_what_was_your/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Python + OCR: Automatically analyze Dota 2 player stats 👀",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n5ux0w/python_ocr_automatically_analyze_dota_2_player/",
+      "score": 23,
+      "comments": 1,
+      "post_id": "t3_1n5ux0w",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "N3uvin",
+      "author_id": "t2_1wmvzgei2u",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-01T17:25:57.738000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n5ux0w/python_ocr_automatically_analyze_dota_2_player/",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Axiom, a new kind of \"truth engine\" as a tool to fight my own schizophrenia. Now open-sourcing it.",
+      "permalink": "https://www.reddit.com/r/Python/comments/1miaw6m/axiom_a_new_kind_of_truth_engine_as_a_tool_to/",
+      "score": 526,
+      "comments": 315,
+      "post_id": "t3_1miaw6m",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "sexyvic623",
+      "author_id": "t2_8mtifps0",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-05T14:34:54.719000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1miaw6m/axiom_a_new_kind_of_truth_engine_as_a_tool_to/",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Tuesday Daily Thread: Advanced questions",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n64s7q/tuesday_daily_thread_advanced_questions/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1n64s7q",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-02T00:00:30.440000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n64s7q/tuesday_daily_thread_advanced_questions/",
+      "content_preview": "",
+      "flair": [
+        "Daily Thread"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+    },
+    {
+      "title": "Whats your favorite Python trick or lesser known feature?",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n0ng7f/whats_your_favorite_python_trick_or_lesser_known/",
+      "score": 446,
+      "comments": 285,
+      "post_id": "t3_1n0ng7f",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "figroot0",
+      "author_id": "t2_1v29q4gjyw",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-26T14:31:52.335000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n0ng7f/whats_your_favorite_python_trick_or_lesser_known/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f3qk9p/styles/profileIcon_e9q6mfelz8kf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5a5602f3cf9bc6a3068ac5aa26b1d56b0a741a10"
+    },
+    {
+      "title": "Introducing DLType, an ultra-fast runtime type and shape checking library for deep learning tensors!",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n5q8n0/introducing_dltype_an_ultrafast_runtime_type_and/",
+      "score": 14,
+      "comments": 2,
+      "post_id": "t3_1n5q8n0",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "onyx-zero-software",
+      "author_id": "t2_9f92l0yf",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-01T14:30:17.627000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n5q8n0/introducing_dltype_an_ultrafast_runtime_type_and/",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Python OOP is clever",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n6fgah/python_oop_is_clever/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1n6fgah",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "FickleAd3708",
+      "author_id": "t2_bkobkpdj",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-02T10:03:56.315000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n6fgah/python_oop_is_clever/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "But really, why use ‘uv’?",
+      "permalink": "https://www.reddit.com/r/Python/comments/1mfd3ww/but_really_why_use_uv/",
+      "score": 450,
+      "comments": 232,
+      "post_id": "t3_1mfd3ww",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "kingfuriousd",
+      "author_id": "t2_5izvg3b6",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-02T00:41:11.182000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1mfd3ww/but_really_why_use_uv/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[UPDATE] DocStrange - Structured data extraction from images/pdfs/docs",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n5jjnl/update_docstrange_structured_data_extraction_from/",
+      "score": 21,
+      "comments": 8,
+      "post_id": "t3_1n5jjnl",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "LostAmbassador6872",
+      "author_id": "t2_1mv39a664r",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-01T08:49:32.926000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n5jjnl/update_docstrange_structured_data_extraction_from/",
+      "content_preview": "",
+      "flair": [
+        "Resource"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "pd.col: Expressions are coming to pandas",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n26zm9/pdcol_expressions_are_coming_to_pandas/",
+      "score": 189,
+      "comments": 81,
+      "post_id": "t3_1n26zm9",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "marcogorelli",
+      "author_id": "t2_sidsyck1",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-28T08:49:19.086000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n26zm9/pdcol_expressions_are_coming_to_pandas/",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Looking for a study buddy in Angela Yu\"s 100 Days of Python, day 32",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n5sf57/looking_for_a_study_buddy_in_angela_yus_100_days/",
+      "score": 3,
+      "comments": 2,
+      "post_id": "t3_1n5sf57",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "2TB_NVME",
+      "author_id": "t2_14c8jyl99n",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-01T15:53:53.344000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n5sf57/looking_for_a_study_buddy_in_angela_yus_100_days/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Python: The Documentary premieres on YouTube in a few hours",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n1k42a/python_the_documentary_premieres_on_youtube_in_a/",
+      "score": 107,
+      "comments": 9,
+      "post_id": "t3_1n1k42a",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "byaruhaf",
+      "author_id": "t2_fah3f",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-27T15:26:11.204000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n1k42a/python_the_documentary_premieres_on_youtube_in_a/",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_baawc/styles/profileIcon_8wajp05vtywd1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6d56783063920e73c5ce8ed90c69c46c30e3c2cf"
+    },
+    {
+      "title": "Omni-LPR: A multi-interface server for automatic license plate recognition in Python",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n5idvx/omnilpr_a_multiinterface_server_for_automatic/",
+      "score": 6,
+      "comments": 0,
+      "post_id": "t3_1n5idvx",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "No_Pomegranate7508",
+      "author_id": "t2_138f5rku2o",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-01T07:34:17.338000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n5idvx/omnilpr_a_multiinterface_server_for_automatic/",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Astral's first paid offering announced - pyx, a private package registry and pypi frontend",
+      "permalink": "https://www.reddit.com/r/Python/comments/1mperw4/astrals_first_paid_offering_announced_pyx_a/",
+      "score": 304,
+      "comments": 75,
+      "post_id": "t3_1mperw4",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "tomster10010",
+      "author_id": "t2_85hmy",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-13T19:55:10.131000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1mperw4/astrals_first_paid_offering_announced_pyx_a/",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "My first kinda complicated code (started like a month ago)",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n562vq/my_first_kinda_complicated_code_started_like_a/",
+      "score": 22,
+      "comments": 8,
+      "post_id": "t3_1n562vq",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "Rollgus",
+      "author_id": "t2_mtbzkvqv",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-31T21:04:57.571000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n562vq/my_first_kinda_complicated_code_started_like_a/",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "gen-dual: Python library for high-order partial derivatives with dual numbers",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n4v2zm/gendual_python_library_for_highorder_partial/",
+      "score": 15,
+      "comments": 0,
+      "post_id": "t3_1n4v2zm",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "PretendLead3104",
+      "author_id": "t2_1wtl04mt3g",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-31T13:43:57.685000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n4v2zm/gendual_python_library_for_highorder_partial/",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "I Built a tool that auto-syncs pre-commit hook versions with `uv.lock`",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n2gypa/i_built_a_tool_that_autosyncs_precommit_hook/",
+      "score": 102,
+      "comments": 23,
+      "post_id": "t3_1n2gypa",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "tsvikas",
+      "author_id": "t2_zkxbw",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-28T16:27:48.938000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n2gypa/i_built_a_tool_that_autosyncs_precommit_hook/",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "[ANN] tblkit — Swiss-army CLI for tabular data (CSV/TSV)",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n6aos0/ann_tblkit_swissarmy_cli_for_tabular_data_csvtsv/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n6aos0",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "Kooky_Fee_4423",
+      "author_id": "t2_1wxndjymth",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-02T04:58:43.903000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n6aos0/ann_tblkit_swissarmy_cli_for_tabular_data_csvtsv/",
+      "content_preview": "",
+      "flair": [
+        "Resource"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Why Python's deepcopy() is surprisingly slow (and better alternatives)",
+      "permalink": "https://www.reddit.com/r/Python/comments/1mehrc0/why_pythons_deepcopy_is_surprisingly_slow_and/",
+      "score": 278,
+      "comments": 66,
+      "post_id": "t3_1mehrc0",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "ml_guy1",
+      "author_id": "t2_5qcxjns0",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-01T00:06:18.750000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1mehrc0/why_pythons_deepcopy_is_surprisingly_slow_and/",
+      "content_preview": "",
+      "flair": [
+        "Resource"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "I created a playground to my python UI framework DARS",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n69tas/i_created_a_playground_to_my_python_ui_framework/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n69tas",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "ZtaDev",
+      "author_id": "t2_1sdhvfjtgs",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-02T04:08:34.367000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n69tas/i_created_a_playground_to_my_python_ui_framework/",
+      "content_preview": "",
+      "flair": [
+        "Resource"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_esmz94/styles/profileIcon_as0opipk7g9f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a62190cc5db9f6b365994ed344ed40248a956bc0"
+    },
+    {
+      "title": "Kreuzberg v3.11: the ultimate Python text extraction library",
+      "permalink": "https://www.reddit.com/r/Python/comments/1mmcufh/kreuzberg_v311_the_ultimate_python_text/",
+      "score": 273,
+      "comments": 41,
+      "post_id": "t3_1mmcufh",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "Goldziher",
+      "author_id": "t2_9t15mit",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-10T08:02:07.705000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1mmcufh/kreuzberg_v311_the_ultimate_python_text/",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "IntentGraph – Open-source Python library for repo dependency graphs & clustering",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n4pitk/intentgraph_opensource_python_library_for_repo/",
+      "score": 18,
+      "comments": 2,
+      "post_id": "t3_1n4pitk",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "Raytracer",
+      "author_id": "t2_3568d",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-31T08:33:40.350000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n4pitk/intentgraph_opensource_python_library_for_repo/",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "My python mini project",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n4nhbk/my_python_mini_project/",
+      "score": 9,
+      "comments": 1,
+      "post_id": "t3_1n4nhbk",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "esSdoem",
+      "author_id": "t2_19sd9oia8d",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-31T06:23:00.214000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n4nhbk/my_python_mini_project/",
+      "content_preview": "",
+      "flair": [
+        "Resource"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ck9uee/styles/profileIcon_25sysvj8f3je1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8f7b34d5b301f9d07738f902e4d7e914a0d24c70"
+    },
+    {
+      "title": "SecBrowser: A simple visual interface for SEC Filings",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n4mipq/secbrowser_a_simple_visual_interface_for_sec/",
+      "score": 6,
+      "comments": 2,
+      "post_id": "t3_1n4mipq",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "status-code-200",
+      "author_id": "t2_11vrzr30h6",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-31T05:25:05.936000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n4mipq/secbrowser_a_simple_visual_interface_for_sec/",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Python type system",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n4hc9e/python_type_system/",
+      "score": 10,
+      "comments": 28,
+      "post_id": "t3_1n4hc9e",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "No_Blackberry_617",
+      "author_id": "t2_czz36orog",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-31T00:46:58.741000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n4hc9e/python_type_system/",
+      "content_preview": "",
+      "flair": [
+        "Resource"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Sunday Daily Thread: What's everyone working on this week?",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n4gdyj/sunday_daily_thread_whats_everyone_working_on/",
+      "score": 2,
+      "comments": 6,
+      "post_id": "t3_1n4gdyj",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-31T00:00:19.787000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n4gdyj/sunday_daily_thread_whats_everyone_working_on/",
+      "content_preview": "",
+      "flair": [
+        "Daily Thread"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+    },
+    {
+      "title": "Feedback on my daily python newsletter",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n3i9r3/feedback_on_my_daily_python_newsletter/",
+      "score": 6,
+      "comments": 0,
+      "post_id": "t3_1n3i9r3",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "freshly_brewed_ai",
+      "author_id": "t2_v9ixmtgt",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-29T20:26:06.768000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n3i9r3/feedback_on_my_daily_python_newsletter/",
+      "content_preview": "",
+      "flair": [
+        "Resource"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Prédire un match virtuel FIFA sur un bookmakers comme 1xbet",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n65ef0/prédire_un_match_virtuel_fifa_sur_un_bookmakers/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n65ef0",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "Top-Hawk8095",
+      "author_id": "t2_1sxvb1cq7u",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-02T00:29:29.057000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n65ef0/pr%C3%A9dire_un_match_virtuel_fifa_sur_un_bookmakers/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Abstracting a script for general use",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n37c65/abstracting_a_script_for_general_use/",
+      "score": 7,
+      "comments": 7,
+      "post_id": "t3_1n37c65",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "amosmj",
+      "author_id": "t2_66ogv",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-29T13:23:09.644000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n37c65/abstracting_a_script_for_general_use/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Can I get some feedback on the documentation of jsonyx?",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n32lxf/can_i_get_some_feedback_on_the_documentation_of/",
+      "score": 5,
+      "comments": 10,
+      "post_id": "t3_1n32lxf",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "Ninteendo19d0",
+      "author_id": "t2_79t3jeqx",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-29T09:20:23.139000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n32lxf/can_i_get_some_feedback_on_the_documentation_of/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Knowing a little C, goes a long way in Python",
+      "permalink": "https://www.reddit.com/r/Python/comments/1mrutnf/knowing_a_little_c_goes_a_long_way_in_python/",
+      "score": 259,
+      "comments": 33,
+      "post_id": "t3_1mrutnf",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "jcfitzpatrick12",
+      "author_id": "t2_1thf7ddzp7",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-16T13:09:43.846000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1mrutnf/knowing_a_little_c_goes_a_long_way_in_python/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ex7q7g/styles/profileIcon_eo4ukij2audf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d6caa16eb3f9d106982376a0baf28ea02502a887"
+    },
+    {
+      "title": "Phicode Runtime Engine (Open-Source)",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n36mcu/phicode_runtime_engine_opensource/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1n36mcu",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "InternationalBoat727",
+      "author_id": "t2_vcgrdfpl7",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-29T12:52:43.965000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n36mcu/phicode_runtime_engine_opensource/",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Friday Daily Thread: r/Python Meta and Free-Talk Fridays",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n2sexh/friday_daily_thread_rpython_meta_and_freetalk/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1n2sexh",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-29T00:00:55.193000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n2sexh/friday_daily_thread_rpython_meta_and_freetalk/",
+      "content_preview": "",
+      "flair": [
+        "Daily Thread"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+    },
+    {
+      "title": "Forget metaclasses; Python’s `__init_subclass__` is all you really need",
+      "permalink": "https://www.reddit.com/r/Python/comments/1mevs3i/forget_metaclasses_pythons_init_subclass_is_all/",
+      "score": 244,
+      "comments": 60,
+      "post_id": "t3_1mevs3i",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "Extension-Ad8670",
+      "author_id": "t2_1ujnutr3ru",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-01T12:56:57.960000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1mevs3i/forget_metaclasses_pythons_init_subclass_is_all/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "What packages should intermediate Devs know like the back of their hand?",
+      "permalink": "https://www.reddit.com/r/Python/comments/1mk5sk8/what_packages_should_intermediate_devs_know_like/",
+      "score": 241,
+      "comments": 178,
+      "post_id": "t3_1mk5sk8",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "MilanTheNoob",
+      "author_id": "t2_f3zvfmry",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-07T17:07:59.512000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1mk5sk8/what_packages_should_intermediate_devs_know_like/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_55vugr/styles/profileIcon_q9n5ac5edwma1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5b588ecaad2acc79f469e8b433755513de06b896"
+    },
+    {
+      "title": "Job application requirement",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n5yppn/job_application_requirement/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1n5yppn",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "Royal-Bug-5025",
+      "author_id": "t2_7pv29o7g",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-01T19:46:23.738000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n5yppn/job_application_requirement/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2zrq83/styles/profileIcon_u3vkqbvt1uj91.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3ed2c23e2cc91b957408b3114442026d74f59234"
+    },
+    {
+      "title": "PEP 802 – Display Syntax for the Empty Set",
+      "permalink": "https://www.reddit.com/r/Python/comments/1mnuan1/pep_802_display_syntax_for_the_empty_set/",
+      "score": 209,
+      "comments": 268,
+      "post_id": "t3_1mnuan1",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "kirara0048",
+      "author_id": "t2_4uu8u9p7",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-12T00:36:16.178000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1mnuan1/pep_802_display_syntax_for_the_empty_set/",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "PySimpleGUI Hobbyist License Canceled",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n4ilwx/pysimplegui_hobbyist_license_canceled/",
+      "score": 87,
+      "comments": 56,
+      "post_id": "t3_1n4ilwx",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "teslah3",
+      "author_id": "t2_l1uek2wbl",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-31T01:50:49.768000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n4ilwx/pysimplegui_hobbyist_license_canceled/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I created this polygon screenshot tool for myself, I must say it may be useful to others!",
+      "permalink": "https://www.reddit.com/r/Python/comments/1mzxbia/i_created_this_polygon_screenshot_tool_for_myself/",
+      "score": 188,
+      "comments": 17,
+      "post_id": "t3_1mzxbia",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "sultanaiyan1098",
+      "author_id": "t2_gw9k3p0z0",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-25T17:44:18.821000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1mzxbia/i_created_this_polygon_screenshot_tool_for_myself/",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Monday Daily Thread: Project ideas!",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n59zyk/monday_daily_thread_project_ideas/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n59zyk",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-01T00:00:32.235000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n59zyk/monday_daily_thread_project_ideas/",
+      "content_preview": "",
+      "flair": [
+        "Daily Thread"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+    },
+    {
+      "title": "How is Python 4 ever going to reach critical mass once everyone is using AI to write code?",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n5229t/how_is_python_4_ever_going_to_reach_critical_mass/",
+      "score": 0,
+      "comments": 58,
+      "post_id": "t3_1n5229t",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "big_like_a_pickle",
+      "author_id": "t2_7suvt",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-31T18:24:10.116000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n5229t/how_is_python_4_ever_going_to_reach_critical_mass/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "[Project] Weekend project: System Monitor in Python with PyQt5",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n03s8h/project_weekend_project_system_monitor_in_python/",
+      "score": 9,
+      "comments": 2,
+      "post_id": "t3_1n03s8h",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "Apprehensive_Sea_302",
+      "author_id": "t2_mpwt5wav",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-25T21:48:31.839000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n03s8h/project_weekend_project_system_monitor_in_python/",
+      "content_preview": "",
+      "flair": [
+        "Resource"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Learning bots with python",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n00eqa/learning_bots_with_python/",
+      "score": 3,
+      "comments": 8,
+      "post_id": "t3_1n00eqa",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "Ok_Presentation9879",
+      "author_id": "t2_e5268e5r",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-25T19:39:49.936000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n00eqa/learning_bots_with_python/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "[R] Advanced Conformal Prediction – A Complete Resource from First Principles to Real-World",
+      "permalink": "https://www.reddit.com/r/Python/comments/1mzmaj1/r_advanced_conformal_prediction_a_complete/",
+      "score": 16,
+      "comments": 13,
+      "post_id": "t3_1mzmaj1",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "predict_addict",
+      "author_id": "t2_i1v4jkg4",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-25T09:58:28.202000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1mzmaj1/r_advanced_conformal_prediction_a_complete/",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_68jup3/styles/profileIcon_nxvjhyts09u81.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=72571d97f2c1e88d4cac7bad355d4e9f9c8b2ea2"
+    },
+    {
+      "title": "I built a Python Prisoner's Dilemma Simulator",
+      "permalink": "https://www.reddit.com/r/Python/comments/1mzbj8n/i_built_a_python_prisoners_dilemma_simulator/",
+      "score": 20,
+      "comments": 8,
+      "post_id": "t3_1mzbj8n",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "jaaberg1981",
+      "author_id": "t2_dvovy",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-24T23:55:07.681000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1mzbj8n/i_built_a_python_prisoners_dilemma_simulator/",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "take an existing excel invoice template and makes a .py easily modifies it with simple inputs",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n001ny/take_an_existing_excel_invoice_template_and_makes/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1n001ny",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "DerrickBagels",
+      "author_id": "t2_2ft064zs",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-25T19:25:50.387000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n001ny/take_an_existing_excel_invoice_template_and_makes/",
+      "content_preview": "",
+      "flair": [
+        "Resource"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Is it normal for a package to overwrite/add files of another already installed package?",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n1t36y/is_it_normal_for_a_package_to_overwriteadd_files/",
+      "score": 69,
+      "comments": 29,
+      "post_id": "t3_1n1t36y",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "bemna94",
+      "author_id": "t2_mt2kpdj",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-27T21:04:05.305000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n1t36y/is_it_normal_for_a_package_to_overwriteadd_files/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "What's the worst Python feature you've ever encountered in programs?",
+      "permalink": "https://www.reddit.com/r/Python/comments/1myytuq/whats_the_worst_python_feature_youve_ever/",
+      "score": 15,
+      "comments": 152,
+      "post_id": "t3_1myytuq",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "ConstantSpirited2039",
+      "author_id": "t2_1lk4mxv5hn",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-24T15:37:50.902000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1myytuq/whats_the_worst_python_feature_youve_ever/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "I built my own torch in the last two weeks!",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n40rht/i_built_my_own_torch_in_the_last_two_weeks/",
+      "score": 57,
+      "comments": 13,
+      "post_id": "t3_1n40rht",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "tigert1998",
+      "author_id": "t2_1d5fiym8",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-30T12:46:54.303000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n40rht/i_built_my_own_torch_in_the_last_two_weeks/",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": ""
+    }
+  ],
+  "scraped_at": "2025-09-02T03:41:50.706981"
+}

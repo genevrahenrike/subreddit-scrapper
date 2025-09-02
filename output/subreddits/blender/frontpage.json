@@ -1,0 +1,1011 @@
+{
+  "subreddit": "blender",
+  "url": "https://www.reddit.com/r/blender",
+  "meta": {
+    "title": "Blender - The Freedom to Create",
+    "members_text": "198,796"
+  },
+  "posts": [
+    {
+      "title": "Soft body simulation or wiggle bones",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n6g9r1/soft_body_simulation_or_wiggle_bones/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6g9r1",
+      "post_type": "text",
+      "domain": "self.blender",
+      "author": "Zatrozagain",
+      "author_id": "t2_6p6coo4j",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-02T10:52:20.264000+0000",
+      "content_href": "https://www.reddit.com/r/blender/comments/1n6g9r1/soft_body_simulation_or_wiggle_bones/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Lizard Mount Rig Test",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n4fmh3/lizard_mount_rig_test/",
+      "score": 4281,
+      "comments": 65,
+      "post_id": "t3_1n4fmh3",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Abe_Of_Arabia",
+      "author_id": "t2_adck0",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-30T23:22:49.321000+0000",
+      "content_href": "https://v.redd.it/ajor9et9q8mf1",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1vvnfr/styles/profileIcon_tqm1stosudmf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=bb7140579738d979de0c22ae7d16ba79a370e3d3"
+    },
+    {
+      "title": "Auto bevel and blend normals in geometry nodes works pretty well now",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n617c2/auto_bevel_and_blend_normals_in_geometry_nodes/",
+      "score": 1347,
+      "comments": 35,
+      "post_id": "t3_1n617c2",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "RoelDeden",
+      "author_id": "t2_epve8piz",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-01T21:23:26.192000+0000",
+      "content_href": "https://v.redd.it/w2cwm3wdemmf1",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5lyvb4/styles/profileIcon_zbkccm73ri981.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1f2cdafe21b593ef40cb7934dddd8f9eeac59809"
+    },
+    {
+      "title": "Take a look at this delectable Tonkatsu dish, cooked by 3D Artist Tasuku Nakagawa in Blender",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n6cal1/take_a_look_at_this_delectable_tonkatsu_dish/",
+      "score": 733,
+      "comments": 18,
+      "post_id": "t3_1n6cal1",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "80lv",
+      "author_id": "t2_15sn60",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-02T06:36:27.643000+0000",
+      "content_href": "https://v.redd.it/fm58avef5pmf1",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7hcoo/styles/profileIcon_mwa9flurkz981.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=775eaaef1b7e8706a161b0a904490b7e2019157c"
+    },
+    {
+      "title": "Cartesian Caramel showcased a realistic cloth wrinkle map shader created in Blender",
+      "permalink": "https://www.reddit.com/r/blender/comments/1mqvdrs/cartesian_caramel_showcased_a_realistic_cloth/",
+      "score": 11237,
+      "comments": 87,
+      "post_id": "t3_1mqvdrs",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "80lv",
+      "author_id": "t2_15sn60",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-15T11:43:37.318000+0000",
+      "content_href": "https://v.redd.it/xltj7aot76jf1",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7hcoo/styles/profileIcon_mwa9flurkz981.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=775eaaef1b7e8706a161b0a904490b7e2019157c"
+    },
+    {
+      "title": "Made a Flying caravan - solid, raw and final lookdev - what do you think?",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n6ex8m/made_a_flying_caravan_solid_raw_and_final_lookdev/",
+      "score": 82,
+      "comments": 11,
+      "post_id": "t3_1n6ex8m",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Rasmus_Yde",
+      "author_id": "t2_7ji4gl9y",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-02T09:30:30.844000+0000",
+      "content_href": "https://v.redd.it/ia8j7yoh0qmf1",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/made-a-flying-caravan-solid-raw-and-final-lookdev-what-do-v0-ZHZia3QzbGgwcW1mMb0e-7gmiqutO9Z22Mi3D38ZXAb56RlThsH5dPPLmMTs.png?width=640&crop=smart&format=pjpg&auto=webp&s=e2878d98aba4eb016ad5a12eeb97ef26fe37465b"
+    },
+    {
+      "title": "My friend’s insane at Blender but never shares his work publicly — figured it deserves some 💕",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n1m33g/my_friends_insane_at_blender_but_never_shares_his/",
+      "score": 4084,
+      "comments": 410,
+      "post_id": "t3_1n1m33g",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Personal_Ease7321",
+      "author_id": "t2_1eb8a28xnn",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-27T16:39:51.122000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n1m33g",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Physics approved",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n5npx1/physics_approved/",
+      "score": 1904,
+      "comments": 37,
+      "post_id": "t3_1n5npx1",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "MohamedFayed_CG",
+      "author_id": "t2_1hov5z1114",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-01T12:45:32.179000+0000",
+      "content_href": "https://v.redd.it/l3nszzkspjmf1",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Add text to an object but only in specific faces",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n6g2k7/add_text_to_an_object_but_only_in_specific_faces/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1n6g2k7",
+      "post_type": "multi_media",
+      "domain": "self.blender",
+      "author": "rol___",
+      "author_id": "t2_5m0pm0bn",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-02T10:41:05.262000+0000",
+      "content_href": "https://www.reddit.com/r/blender/comments/1n6g2k7/add_text_to_an_object_but_only_in_specific_faces/",
+      "content_preview": "",
+      "flair": [
+        "Need Help!"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2enn7a/styles/profileIcon_7fq217z4v7ed1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5b368e1905e3f76f6772924a5c378307406a697b"
+    },
+    {
+      "title": "I'm using Blender to develop my game and it's been amazing.",
+      "permalink": "https://www.reddit.com/r/blender/comments/1mre9vc/im_using_blender_to_develop_my_game_and_its_been/",
+      "score": 7297,
+      "comments": 218,
+      "post_id": "t3_1mre9vc",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "SleepRen_Official",
+      "author_id": "t2_cfrk8cv7",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-15T23:37:28.218000+0000",
+      "content_href": "https://v.redd.it/zr3il7dcq9jf1",
+      "content_preview": "",
+      "flair": [
+        "Paid Product/Service"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/im-using-blender-to-develop-my-game-and-its-been-amazing-v0-ZzI2YWs4ZGNxOWpmMQ_rP0oo_i5Bkr4kholE16IBqPPivB3zqHypEzQ5L0Hr.png?width=640&crop=smart&format=pjpg&auto=webp&s=6230485973d1c083f85216443ed44b409f39ba80"
+    },
+    {
+      "title": "My Front Porch - Cycles - Second pic is reference.  Feedback welcome and appreciated.",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n65m4s/my_front_porch_cycles_second_pic_is_reference/",
+      "score": 184,
+      "comments": 18,
+      "post_id": "t3_1n65m4s",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Financial-Night-4132",
+      "author_id": "t2_tj9rqc1f0",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-02T00:39:33.462000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n65m4s",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://preview.redd.it/my-front-porch-cycles-second-pic-is-reference-feedback-v0-isu5pe4sdnmf1.jpg?width=640&crop=smart&auto=webp&s=7a006b32e01fca15a8fa2cffac7c21494f159661"
+    },
+    {
+      "title": "Tablet Developer Wacom Donates €240,000 to Blender",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n2wr71/tablet_developer_wacom_donates_240000_to_blender/",
+      "score": 3421,
+      "comments": 78,
+      "post_id": "t3_1n2wr71",
+      "post_type": "link",
+      "domain": "search.app",
+      "author": "NOSALIS-33",
+      "author_id": "t2_on61nv5",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-29T03:26:08.788000+0000",
+      "content_href": "https://search.app/9yMBp",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/fs-DMPvkrN5Whx_8-EkkJADCchYTgYiXpBlIAdRNcc4.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=183cd091c4cc9b96cb7a325ee2e13086dbc2f222"
+    },
+    {
+      "title": "my Rampage Rally TRON submission!",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n65750/my_rampage_rally_tron_submission/",
+      "score": 302,
+      "comments": 15,
+      "post_id": "t3_1n65750",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "PolyChef-png",
+      "author_id": "t2_1f3fhq4twl",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-02T00:19:59.091000+0000",
+      "content_href": "https://v.redd.it/btcckyd9anmf1",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/my-rampage-rally-tron-submission-v0-aW5idzVmYTlhbm1mMdLfn6G0HinP_mjsp936ZpEFt4ijo2RWeCWHbPxyqwtq.png?width=640&crop=smart&format=pjpg&auto=webp&s=80b21051ff29b970420056fb00c0f62f63f68c88"
+    },
+    {
+      "title": "my dreams are infested with snakes",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n67zko/my_dreams_are_infested_with_snakes/",
+      "score": 118,
+      "comments": 5,
+      "post_id": "t3_1n67zko",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "morelebaks",
+      "author_id": "t2_exewa8b",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-02T02:34:54.184000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n67zko",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2edqnr/styles/profileIcon_taw0rh3kzfqe1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=26eeac7ad6f9ce09021df0f6e2cb40820861a3dd"
+    },
+    {
+      "title": "I remade my Drifting Cat animation",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n0wiqw/i_remade_my_drifting_cat_animation/",
+      "score": 3202,
+      "comments": 70,
+      "post_id": "t3_1n0wiqw",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "sirdioz69",
+      "author_id": "t2_vtfm6d6i",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-26T20:13:09.065000+0000",
+      "content_href": "https://v.redd.it/vrn6s2km8flf1",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "My suibmission for rampage rally",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n6dtty/my_suibmission_for_rampage_rally/",
+      "score": 28,
+      "comments": 0,
+      "post_id": "t3_1n6dtty",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Moist-Ask433",
+      "author_id": "t2_1wxze826u0",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-02T08:17:50.544000+0000",
+      "content_href": "https://v.redd.it/tsvtqtblmpmf1",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_fbr93o/styles/profileIcon_05qe620q4omf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=cc373bc4acea4834f5cb142885001a76bf6cb31c"
+    },
+    {
+      "title": "\"How would you get a small cylinder (5.1in length, ~4.5in girth) unstuck from a mini M&Ms tube filled with butter and microwaved mashed banana?\"",
+      "permalink": "https://www.reddit.com/r/blender/comments/1mmr342/how_would_you_get_a_small_cylinder_51in_length/",
+      "score": 6603,
+      "comments": 73,
+      "post_id": "t3_1mmr342",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "olias32",
+      "author_id": "t2_a3n20",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-10T19:06:48.171000+0000",
+      "content_href": "https://i.redd.it/tsowp2x4q8if1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Need Help!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "30 hours of work in 30 seconds",
+      "permalink": "https://www.reddit.com/r/blender/comments/1mp1c3h/30_hours_of_work_in_30_seconds/",
+      "score": 6201,
+      "comments": 95,
+      "post_id": "t3_1mp1c3h",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "aniket_rawat08",
+      "author_id": "t2_5fr0lox1",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-13T11:02:16.133000+0000",
+      "content_href": "https://v.redd.it/lyuyp4wkqrif1",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/30-hours-of-work-in-30-seconds-v0-ZXdmdTgyd2txcmlmMZzgj210ye0Ktncu1BQ6RpZi8gXaRgD4aYa0ALkB_YoO.png?width=640&crop=smart&format=pjpg&auto=webp&s=2a58c5cfb3bb97f7dfcd252f764078d6eced3292"
+    },
+    {
+      "title": "I co-created a procedural texturing addon as a (better) alternative to Substance Painter",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n0pg04/i_cocreated_a_procedural_texturing_addon_as_a/",
+      "score": 2698,
+      "comments": 75,
+      "post_id": "t3_1n0pg04",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "pablo-dra",
+      "author_id": "t2_hua3mhwy",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-26T15:46:51.721000+0000",
+      "content_href": "https://v.redd.it/g4bhfi4jwdlf1",
+      "content_preview": "",
+      "flair": [
+        "Paid Product/Service"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/i-co-created-a-procedural-texturing-addon-as-a-better-v0-dXo2c2xrZnR3ZGxmMX_kzSk_XOeVv3T2ysUwu3ARyPFIAjsp03UYV6eFyuRh.png?width=640&crop=smart&format=pjpg&auto=webp&s=5638b203797ce4e729c118e85eced09c7ae7aa7e"
+    },
+    {
+      "title": "Recent animations of me characters. And Loki is here too.",
+      "permalink": "https://www.reddit.com/r/blender/comments/1mewd73/recent_animations_of_me_characters_and_loki_is/",
+      "score": 5879,
+      "comments": 137,
+      "post_id": "t3_1mewd73",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "cardo_de_comer",
+      "author_id": "t2_4tuxkick",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-01T13:22:31.632000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mewd73",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Breakdown of my submission for the Rampage Rally Challenge made in Blender, Janga FX suit and Marvelous Designer",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n5s1et/breakdown_of_my_submission_for_the_rampage_rally/",
+      "score": 550,
+      "comments": 20,
+      "post_id": "t3_1n5s1et",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Victorjoue3D",
+      "author_id": "t2_chae5ba9",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-01T15:39:23.061000+0000",
+      "content_href": "https://v.redd.it/hbe9ju16pkmf1",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Mp3 - Hardsurface Practice",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n5zw20/mp3_hardsurface_practice/",
+      "score": 220,
+      "comments": 0,
+      "post_id": "t3_1n5zw20",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Historical-Car-8321",
+      "author_id": "t2_agrl3db4",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-01T20:32:30.604000+0000",
+      "content_href": "https://i.redd.it/b8gjgdyl5mmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Mouse.",
+      "permalink": "https://www.reddit.com/r/blender/comments/1mxu30s/mouse/",
+      "score": 5047,
+      "comments": 88,
+      "post_id": "t3_1mxu30s",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "LagZeroMC",
+      "author_id": "t2_bxoucwj4",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-23T06:30:27.563000+0000",
+      "content_href": "https://i.redd.it/qu8tbh83rpkf1.png",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://preview.redd.it/qu8tbh83rpkf1.png?width=640&crop=smart&auto=webp&s=52f7e45bd81803c0905122e0a3cf2b158b268c16"
+    },
+    {
+      "title": "Heavy animation",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n6g286/heavy_animation/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n6g286",
+      "post_type": "text",
+      "domain": "self.blender",
+      "author": "XLuluXa",
+      "author_id": "t2_dvnibpbw",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-02T10:40:34.018000+0000",
+      "content_href": "https://www.reddit.com/r/blender/comments/1n6g286/heavy_animation/",
+      "content_preview": "",
+      "flair": [
+        "Need Help!"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Testing a new (for me) Eevee translucency method by Adam Janz",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n5j7vj/testing_a_new_for_me_eevee_translucency_method_by/",
+      "score": 1472,
+      "comments": 43,
+      "post_id": "t3_1n5j7vj",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "gleb_alexandrov",
+      "author_id": "t2_jv7r2",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-01T08:27:49.919000+0000",
+      "content_href": "https://v.redd.it/u7ypvipekimf1",
+      "content_preview": "",
+      "flair": [
+        "Free Tutorials & Guides"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/testing-a-new-for-me-eevee-translucency-method-by-adam-janz-v0-ZG1hMzRtamVraW1mMShd4Dg7WWhrSOBo1FqRd1Ou6gtNe2tSwtQJAs_ZxqHF.png?width=640&crop=smart&format=pjpg&auto=webp&s=dad542f2bfacb0fe2cf098711f7ed31294f2c311"
+    },
+    {
+      "title": "Need help figuring out texture changer thing",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n6g0pi/need_help_figuring_out_texture_changer_thing/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n6g0pi",
+      "post_type": "multi_media",
+      "domain": "self.blender",
+      "author": "GalacticLepidoptera",
+      "author_id": "t2_1w5edpqj7f",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-02T10:38:01.642000+0000",
+      "content_href": "https://www.reddit.com/r/blender/comments/1n6g0pi/need_help_figuring_out_texture_changer_thing/",
+      "content_preview": "",
+      "flair": [
+        "Need Help!"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How to Curve Deform in Blender?",
+      "permalink": "https://www.reddit.com/r/blender/comments/1mzxc5j/how_to_curve_deform_in_blender/",
+      "score": 4755,
+      "comments": 79,
+      "post_id": "t3_1mzxc5j",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "UnusualOkra8653",
+      "author_id": "t2_wsmvjp8vg",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-25T17:44:55.802000+0000",
+      "content_href": "https://v.redd.it/8qnnwniad7lf1",
+      "content_preview": "",
+      "flair": [
+        "Free Tutorials & Guides"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_b4uogk/styles/profileIcon_9socj3wmrh4d1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6533105b313e84041226d96fdc26e22736c2211b"
+    },
+    {
+      "title": "Seamless Texture Tiling- Get rid of texture repetition",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n273lr/seamless_texture_tiling_get_rid_of_texture/",
+      "score": 2570,
+      "comments": 48,
+      "post_id": "t3_1n273lr",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Different-Hyena5298",
+      "author_id": "t2_s28y34wgf",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-28T08:56:47.655000+0000",
+      "content_href": "https://i.redd.it/aicmg30t5qlf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Paid Product/Service"
+      ],
+      "thumbnail_url": "https://preview.redd.it/seamless-texture-tiling-get-rid-of-texture-repetition-v0-aicmg30t5qlf1.jpeg?width=640&crop=smart&auto=webp&s=6ae5800388e83dd18c4dcc86c961d965a14f9fc5"
+    },
+    {
+      "title": "Fluid Interaction Experiment",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n2598q/fluid_interaction_experiment/",
+      "score": 2387,
+      "comments": 74,
+      "post_id": "t3_1n2598q",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "verbbs",
+      "author_id": "t2_17ep8167gs",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-28T06:55:23.120000+0000",
+      "content_href": "https://v.redd.it/6cgjf1d7kplf1",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/fluid-interaction-experiment-v0-YnNhcTZvMDdrcGxmMZYcSO7v4hpEwx4nCiWiRnJl3H6TdDxTRnCpc8640PJA.png?width=640&crop=smart&format=pjpg&auto=webp&s=39129bb26c38cc3445bfc0b74a2699c07c4a0604"
+    },
+    {
+      "title": "Help",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n6fzb6/help/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n6fzb6",
+      "post_type": "text",
+      "domain": "self.blender",
+      "author": "Akhaoahk",
+      "author_id": "t2_ra3hfdq4",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-02T10:35:39.642000+0000",
+      "content_href": "https://www.reddit.com/r/blender/comments/1n6fzb6/help/",
+      "content_preview": "",
+      "flair": [
+        "Need Help!"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6uqhrx/styles/profileIcon_w1b5wi2w56cf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e79c9713fe41e42f865a6a1f70ac9783fc4a6319"
+    },
+    {
+      "title": "Animation I made for my portfolio",
+      "permalink": "https://www.reddit.com/r/blender/comments/1mvngo9/animation_i_made_for_my_portfolio/",
+      "score": 4344,
+      "comments": 76,
+      "post_id": "t3_1mvngo9",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "ElementLiam",
+      "author_id": "t2_hvkm6",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-20T18:43:46.788000+0000",
+      "content_href": "https://v.redd.it/mv3glr16z7kf1",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Happy Labor Day!",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n6bmt6/happy_labor_day/",
+      "score": 22,
+      "comments": 1,
+      "post_id": "t3_1n6bmt6",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "LifesASkit",
+      "author_id": "t2_bzdmj0ki",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-02T05:55:34.445000+0000",
+      "content_href": "https://v.redd.it/s7zc4b01yomf1",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/happy-labor-day-v0-OWk1bzRoMDF5b21mMWyTzsM77MvEE2tATLw6bsz0iFJ7QCSQe8BctpvGaOkY.png?width=640&crop=smart&format=pjpg&auto=webp&s=d21ae8c8d4c1b860b395322344cf47e16dd3a1de"
+    },
+    {
+      "title": "Need feedback",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n47zlx/need_feedback/",
+      "score": 2306,
+      "comments": 132,
+      "post_id": "t3_1n47zlx",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "BoringSeesaw9606",
+      "author_id": "t2_4smb7q1d",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-30T17:52:45.562000+0000",
+      "content_href": "https://v.redd.it/9shjocfd37mf1",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/need-feedback-v0-MXV2aW1mbWQzN21mMbAtp6ovwUfEAfWhU0zEyQ5U71hnBdrQ4mWUouuXS2oW.png?width=640&crop=smart&format=pjpg&auto=webp&s=1bab4265cf37518e27482acc259d2b6dfc6e7d67"
+    },
+    {
+      "title": "Lighting Advice",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n6fd41/lighting_advice/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1n6fd41",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "False-Shepherd-au",
+      "author_id": "t2_3gr4jifp",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-02T09:58:54.460000+0000",
+      "content_href": "https://v.redd.it/pw1u0ria5qmf1",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/lighting-advice-v0-Y3d5d2h1aWE1cW1mMakvN76QovjFNOClxoWV6Mm6oGshSao2RO8pHBLfyXvx.png?width=640&crop=smart&format=pjpg&auto=webp&s=6be79f663e0952a29f0ff8a7a369221ac43aae39"
+    },
+    {
+      "title": "Cold-blooded!",
+      "permalink": "https://www.reddit.com/r/blender/comments/1mt75d5/coldblooded/",
+      "score": 4159,
+      "comments": 49,
+      "post_id": "t3_1mt75d5",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Rito_Art",
+      "author_id": "t2_nviuct99d",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-18T00:19:52.713000+0000",
+      "content_href": "https://v.redd.it/br62bbdd8ojf1",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dikj9f/styles/profileIcon_uosqntkcxm8f1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2826366070b45767ddeac624c799ccfbc8e1d7ca"
+    },
+    {
+      "title": "Never Stop 3D Modelling",
+      "permalink": "https://www.reddit.com/r/blender/comments/1mw3ttg/never_stop_3d_modelling/",
+      "score": 4087,
+      "comments": 90,
+      "post_id": "t3_1mw3ttg",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "masterj2001",
+      "author_id": "t2_s8um4",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-21T06:59:25.108000+0000",
+      "content_href": "https://v.redd.it/vjof9gzlmbkf1",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_art5w/styles/profileIcon_tzf8p0ed7e3e1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d161ac5acd9defeada3ec8df602382e166de07bd"
+    },
+    {
+      "title": "I continue my journey to NPR... It's so much fun! :-)",
+      "permalink": "https://www.reddit.com/r/blender/comments/1my67ka/i_continue_my_journey_to_npr_its_so_much_fun/",
+      "score": 3937,
+      "comments": 67,
+      "post_id": "t3_1my67ka",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "MartinKlekner",
+      "author_id": "t2_gvjn0mf",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-23T16:38:26.730000+0000",
+      "content_href": "https://v.redd.it/avzsnllxqskf1",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5we8h/styles/profileIcon_wo85kzxnwgda1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=133cf9b0e29b2ad68acc63164519d102bbc73265"
+    },
+    {
+      "title": "The Oiiaa Cat… stop motion? Nope, Blender.",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n2i7ca/the_oiiaa_cat_stop_motion_nope_blender/",
+      "score": 2263,
+      "comments": 40,
+      "post_id": "t3_1n2i7ca",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "TheCKLu",
+      "author_id": "t2_tmubfky6",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-28T17:14:18.505000+0000",
+      "content_href": "https://v.redd.it/5yutbb2vkslf1",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/the-oiiaa-cat-stop-motion-nope-blender-v0-NjIycmphMnZrc2xmMX0wydqo9cYJXTAovehaaPHBP_zUqSxsLF39Kb0zVkSM.png?width=640&crop=smart&format=pjpg&auto=webp&s=3924ba9837dab80075faac8fa7321dea8d2b61bd"
+    },
+    {
+      "title": "How to make Circular Arrays in Blender",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n5sxnj/how_to_make_circular_arrays_in_blender/",
+      "score": 250,
+      "comments": 18,
+      "post_id": "t3_1n5sxnj",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "UnusualOkra8653",
+      "author_id": "t2_wsmvjp8vg",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-01T16:12:30.104000+0000",
+      "content_href": "https://v.redd.it/kwekcyr7vkmf1",
+      "content_preview": "",
+      "flair": [
+        "Free Tutorials & Guides"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_b4uogk/styles/profileIcon_9socj3wmrh4d1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6533105b313e84041226d96fdc26e22736c2211b"
+    },
+    {
+      "title": "How to Align Rotations to Target in Blender?",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n1c1yf/how_to_align_rotations_to_target_in_blender/",
+      "score": 2051,
+      "comments": 33,
+      "post_id": "t3_1n1c1yf",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "UnusualOkra8653",
+      "author_id": "t2_wsmvjp8vg",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-27T09:10:26.897000+0000",
+      "content_href": "https://v.redd.it/2ow10ffv2jlf1",
+      "content_preview": "",
+      "flair": [
+        "Free Tutorials & Guides"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_b4uogk/styles/profileIcon_9socj3wmrh4d1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6533105b313e84041226d96fdc26e22736c2211b"
+    },
+    {
+      "title": "Accidental Render",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n6fcrk/accidental_render/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6fcrk",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "interxx",
+      "author_id": "t2_7toto3tk",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-02T09:58:16.331000+0000",
+      "content_href": "https://i.redd.it/hpfogd4g5qmf1.png",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_30ze3h/styles/profileIcon_sdekdnueyzkf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=368a478b2183405d575b033ed0a7f4b6b9c5597c"
+    },
+    {
+      "title": "Can this be made in Blender? I’m a newbie in 3D, so I really don’t know.",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n6fc09/can_this_be_made_in_blender_im_a_newbie_in_3d_so/",
+      "score": 1,
+      "comments": 4,
+      "post_id": "t3_1n6fc09",
+      "post_type": "text",
+      "domain": "self.blender",
+      "author": "Kooky-Criticism-1147",
+      "author_id": "t2_9t09eygg",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-02T09:56:50.651000+0000",
+      "content_href": "https://www.reddit.com/r/blender/comments/1n6fc09/can_this_be_made_in_blender_im_a_newbie_in_3d_so/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "gmod physics irl",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n0mfvu/gmod_physics_irl/",
+      "score": 2021,
+      "comments": 22,
+      "post_id": "t3_1n0mfvu",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "highvoltagethingy",
+      "author_id": "t2_rhrknc4r",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-26T13:51:52.030000+0000",
+      "content_href": "https://v.redd.it/7u4igakpcdlf1",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/gmod-physics-irl-v0-OHI1MnNla3BjZGxmMUR9hvdG9JgqPkQ2Xf-vGSPLtEvByO0xPUpbFgbtI13s.png?width=640&crop=smart&format=pjpg&auto=webp&s=c32a2cf5591f0b5552b3d134225c5f78abe5baf4"
+    },
+    {
+      "title": "Rampage Rally: Chasing Joker (LEGO)",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n5vhv7/rampage_rally_chasing_joker_lego/",
+      "score": 159,
+      "comments": 6,
+      "post_id": "t3_1n5vhv7",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Doctorcinus",
+      "author_id": "t2_c3ytwl45t",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-01T17:46:36.757000+0000",
+      "content_href": "https://v.redd.it/zfzo4m4xblmf1",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8h2cwx/styles/profileIcon_l4495seiu4xc1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d369328791182ccf29e7f10c9e622413e1b8a9bb"
+    },
+    {
+      "title": "What do you think about this? What can be improved about the render for realism?",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n62c8a/what_do_you_think_about_this_what_can_be_improved/",
+      "score": 57,
+      "comments": 19,
+      "post_id": "t3_1n62c8a",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Abject_Carpenter8340",
+      "author_id": "t2_12od0refd6",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-01T22:10:36.608000+0000",
+      "content_href": "https://i.redd.it/ccuudad5nmmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Need Help!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "It has come to my attention, that I suck at Blender.",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n1zqeu/it_has_come_to_my_attention_that_i_suck_at_blender/",
+      "score": 1747,
+      "comments": 105,
+      "post_id": "t3_1n1zqeu",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "LagZeroMC",
+      "author_id": "t2_bxoucwj4",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-28T01:51:23.974000+0000",
+      "content_href": "https://i.redd.it/m9i1i2402olf1.png",
+      "content_preview": "",
+      "flair": [
+        "Need Help!"
+      ],
+      "thumbnail_url": "https://preview.redd.it/it-has-come-to-my-attention-that-i-suck-at-blender-v0-m9i1i2402olf1.png?width=640&crop=smart&auto=webp&s=21638fd08c4b63806d0c608126b79ae1fa94beeb"
+    },
+    {
+      "title": "Photorealistic animation i've made last month",
+      "permalink": "https://www.reddit.com/r/blender/comments/1mpyypx/photorealistic_animation_ive_made_last_month/",
+      "score": 3653,
+      "comments": 111,
+      "post_id": "t3_1mpyypx",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Ok_Ant_4059",
+      "author_id": "t2_xnghpi7n3",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-14T12:15:29.136000+0000",
+      "content_href": "https://v.redd.it/n77sxtx08zif1",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/photorealistic-animation-ive-made-last-month-v0-NmVmN3V0eDA4emlmMdXuzA69eXH6ulfx3oWaZHyW8HWk-j3sB1wtgvkswru0.png?width=640&crop=smart&format=pjpg&auto=webp&s=f5405d90a916973ca9d72b23f36b370b35035ea5"
+    },
+    {
+      "title": "Material Transition with Procedural Dynamic Mask of Geometry Nodes",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n5qtlh/material_transition_with_procedural_dynamic_mask/",
+      "score": 206,
+      "comments": 4,
+      "post_id": "t3_1n5qtlh",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "3DSinghVFX",
+      "author_id": "t2_72wonylgq",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-01T14:52:50.545000+0000",
+      "content_href": "https://v.redd.it/eujhojgwgkmf1",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_86f4ly/styles/profileIcon_fcqyisu8z9sa1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fe10571a5d72c7e03f1fc8f70c319dd7f5401639"
+    },
+    {
+      "title": "I Filmed a Dragon in Iceland",
+      "permalink": "https://www.reddit.com/r/blender/comments/1mul9sh/i_filmed_a_dragon_in_iceland/",
+      "score": 3580,
+      "comments": 104,
+      "post_id": "t3_1mul9sh",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "CompositingAcademy",
+      "author_id": "t2_iy1qaj92",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-08-19T15:14:08.963000+0000",
+      "content_href": "https://v.redd.it/wjmaz65yrzjf1",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/i-filmed-a-dragon-in-iceland-v0-d29qcjJrN3lyempmMU5rUKWPm1ZGLy8KnkNQxZBwbzNvuV8maw9Kd71xUurn.png?width=640&crop=smart&format=pjpg&auto=webp&s=d3ab90ea510db02c8272b60bcc9a99cab4d46bb4"
+    },
+    {
+      "title": "Every year I recreate my first render of the Polar Express",
+      "permalink": "https://www.reddit.com/r/blender/comments/1n5dq3t/every_year_i_recreate_my_first_render_of_the/",
+      "score": 1583,
+      "comments": 25,
+      "post_id": "t3_1n5dq3t",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Jesus_Keanu",
+      "author_id": "t2_9b8edz28",
+      "subreddit_id": "t5_2qim4",
+      "subreddit": "r/blender",
+      "created_ts": "2025-09-01T03:07:59.461000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n5dq3t",
+      "content_preview": "",
+      "flair": [
+        "I Made This"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_50eg7a/styles/profileIcon_94udiicddmgf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6fa6822ea219e190e09aaa31549bf24fe66a05e5"
+    }
+  ],
+  "scraped_at": "2025-09-02T03:54:06.764276"
+}

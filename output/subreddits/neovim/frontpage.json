@@ -1,0 +1,1010 @@
+{
+  "subreddit": "neovim",
+  "url": "https://www.reddit.com/r/neovim",
+  "meta": {
+    "title": "Neovim"
+  },
+  "posts": [
+    {
+      "title": "Ditching the Vim fuzzy finder part 1: :find",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n6mf1q/ditching_the_vim_fuzzy_finder_part_1_find/",
+      "score": 9,
+      "comments": 5,
+      "post_id": "t3_1n6mf1q",
+      "post_type": "link",
+      "domain": "jkrl.me",
+      "author": "frodo_swaggins233",
+      "author_id": "t2_1h5msucn7c",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-09-02T15:21:35.555000+0000",
+      "content_href": "https://jkrl.me/vim/2025/09/02/nvim-fuzzy-find.html",
+      "content_preview": "",
+      "flair": [
+        "Blog Post"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "PSA: `mini.nvim` has moved to `nvim-mini` GitHub organization",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n2bp12/psa_mininvim_has_moved_to_nvimmini_github/",
+      "score": 680,
+      "comments": 37,
+      "post_id": "t3_1n2bp12",
+      "post_type": "multi_media",
+      "domain": "self.neovim",
+      "author": "echasnovski",
+      "author_id": "t2_gyolyp2",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-28T13:05:07.728000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n2bp12/psa_mininvim_has_moved_to_nvimmini_github/",
+      "content_preview": "",
+      "flair": [
+        "Plugin"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5pdrg/styles/profileIcon_2pyg8hb6nf2e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3d011e0c22501b55fdf5d582fa3677445b4a03a9"
+    },
+    {
+      "title": "Let's talk about folds",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n602ft/lets_talk_about_folds/",
+      "score": 45,
+      "comments": 36,
+      "post_id": "t3_1n602ft",
+      "post_type": "text",
+      "domain": "self.neovim",
+      "author": "Bamseg",
+      "author_id": "t2_4c386fiu",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-09-01T20:39:14.086000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n602ft/lets_talk_about_folds/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Just looking for new plugins to try out 🌸",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1mvdwfy/just_looking_for_new_plugins_to_try_out/",
+      "score": 900,
+      "comments": 67,
+      "post_id": "t3_1mvdwfy",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "alex-popov-tech",
+      "author_id": "t2_635iicrz",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-20T12:49:57.340000+0000",
+      "content_href": "https://i.redd.it/h6s2xxow66kf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Random"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2ko72w/styles/profileIcon_n7irzcty53c61.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f3dfeff5cebdf589e6493e22ef261ea9260c6586"
+    },
+    {
+      "title": "To Neovim or not to Neovim…",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n63mmz/to_neovim_or_not_to_neovim/",
+      "score": 15,
+      "comments": 35,
+      "post_id": "t3_1n63mmz",
+      "post_type": "text",
+      "domain": "self.neovim",
+      "author": "steelDors",
+      "author_id": "t2_1wkag3ig1n",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-09-01T23:07:18.572000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n63mmz/to_neovim_or_not_to_neovim/",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "lensline.nvim - Customizeable code-lens for nvim",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n2c7s8/lenslinenvim_customizeable_codelens_for_nvim/",
+      "score": 496,
+      "comments": 48,
+      "post_id": "t3_1n2c7s8",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ori_303",
+      "author_id": "t2_6csaqood",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-28T13:27:26.246000+0000",
+      "content_href": "https://i.redd.it/551s1f41hrlf1.png",
+      "content_preview": "",
+      "flair": [
+        "Plugin"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "package-ui.nvim adds support for many new languages",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n5uyta/packageuinvim_adds_support_for_many_new_languages/",
+      "score": 31,
+      "comments": 2,
+      "post_id": "t3_1n5uyta",
+      "post_type": "multi_media",
+      "domain": "self.neovim",
+      "author": "TibFromParis",
+      "author_id": "t2_do3coinb",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-09-01T17:27:44.862000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n5uyta/packageuinvim_adds_support_for_many_new_languages/",
+      "content_preview": "",
+      "flair": [
+        "Plugin"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Persistent undo tree in neovim",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n6lu2h/persistent_undo_tree_in_neovim/",
+      "score": 4,
+      "comments": 2,
+      "post_id": "t3_1n6lu2h",
+      "post_type": "multi_media",
+      "domain": "self.neovim",
+      "author": "ARROW3568",
+      "author_id": "t2_7j85s91f",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-09-02T14:59:58.475000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n6lu2h/persistent_undo_tree_in_neovim/",
+      "content_preview": "",
+      "flair": [
+        "Tips and Tricks"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Hexadecimal colors in v0.12 OOTB",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1moxwv9/hexadecimal_colors_in_v012_ootb/",
+      "score": 493,
+      "comments": 37,
+      "post_id": "t3_1moxwv9",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "vieitesss_",
+      "author_id": "t2_gpwh1aac",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-13T07:29:03.133000+0000",
+      "content_href": "https://i.redd.it/x8r0hqs7oqif1.png",
+      "content_preview": "",
+      "flair": [
+        "Random"
+      ],
+      "thumbnail_url": "https://preview.redd.it/hexadecimal-colors-in-v0-12-ootb-v0-x8r0hqs7oqif1.png?auto=webp&s=5df07919715880fc08d8941054845a9b86e2aa7a"
+    },
+    {
+      "title": "Any third party replacement for incremental-selection (from old nvim-treesitter)?",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n62l9m/any_third_party_replacement_for/",
+      "score": 11,
+      "comments": 8,
+      "post_id": "t3_1n62l9m",
+      "post_type": "text",
+      "domain": "self.neovim",
+      "author": "No-Excitement-8157",
+      "author_id": "t2_imqlt0iq",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-09-01T22:21:17.893000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n62l9m/any_third_party_replacement_for/",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Neovim 0.11.4 was released",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n5axft/neovim_0114_was_released/",
+      "score": 374,
+      "comments": 18,
+      "post_id": "t3_1n5axft",
+      "post_type": "multi_media",
+      "domain": "self.neovim",
+      "author": "chapeupreto",
+      "author_id": "t2_phhig",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-09-01T00:45:47.751000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n5axft/neovim_0114_was_released/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1jfnlv/styles/profileIcon_6l63u3anna9a1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3fd1257e299b1751e0c02d249552d0133c144709"
+    },
+    {
+      "title": "Keymaps for the move command",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n5nwlb/keymaps_for_the_move_command/",
+      "score": 9,
+      "comments": 0,
+      "post_id": "t3_1n5nwlb",
+      "post_type": "multi_media",
+      "domain": "self.neovim",
+      "author": "ARROW3568",
+      "author_id": "t2_7j85s91f",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-09-01T12:53:54.755000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n5nwlb/keymaps_for_the_move_command/",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Support for Agent Client Protocol in CodeCompanion.nvim",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n1txun/support_for_agent_client_protocol_in/",
+      "score": 244,
+      "comments": 43,
+      "post_id": "t3_1n1txun",
+      "post_type": "multi_media",
+      "domain": "self.neovim",
+      "author": "CosmicCodeRunner",
+      "author_id": "t2_jx9wbhqn5",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-27T21:36:38.399000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n1txun/support_for_agent_client_protocol_in/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "How to open neovim and put cursor to buttom of the window?",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n5j8x1/how_to_open_neovim_and_put_cursor_to_buttom_of/",
+      "score": 6,
+      "comments": 14,
+      "post_id": "t3_1n5j8x1",
+      "post_type": "multi_media",
+      "domain": "self.neovim",
+      "author": "Sometime_Tripper",
+      "author_id": "t2_ggmv5wo",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-09-01T08:29:48.192000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n5j8x1/how_to_open_neovim_and_put_cursor_to_buttom_of/",
+      "content_preview": "",
+      "flair": [
+        "Need Help┃Solved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Neovim/Vim custom cyberpunk leather jacket",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1mwo6hv/neovimvim_custom_cyberpunk_leather_jacket/",
+      "score": 438,
+      "comments": 34,
+      "post_id": "t3_1mwo6hv",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "arjjov",
+      "author_id": "t2_5tblm6g",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-21T21:42:17.443000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mwo6hv",
+      "content_preview": "",
+      "flair": [
+        "Random"
+      ],
+      "thumbnail_url": "https://preview.redd.it/neovim-vim-custom-cyberpunk-leather-jacket-v0-d7geirdfyfkf1.png?width=640&crop=smart&auto=webp&s=7d7f8599565c9dc8c04697c72c179d5578daf4ce"
+    },
+    {
+      "title": "I you write your TODOs in markdown, check this neovim command",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n54ife/i_you_write_your_todos_in_markdown_check_this/",
+      "score": 29,
+      "comments": 6,
+      "post_id": "t3_1n54ife",
+      "post_type": "text",
+      "domain": "self.neovim",
+      "author": "serranomorante",
+      "author_id": "t2_114c85u3",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-31T20:01:43.592000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n54ife/i_you_write_your_todos_in_markdown_check_this/",
+      "content_preview": "",
+      "flair": [
+        "Tips and Tricks"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "fff.nvim - a really smart file picker goes into the beta",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1mfcgja/fffnvim_a_really_smart_file_picker_goes_into_the/",
+      "score": 408,
+      "comments": 74,
+      "post_id": "t3_1mfcgja",
+      "post_type": "multi_media",
+      "domain": "self.neovim",
+      "author": "Qunit-Essential",
+      "author_id": "t2_8aerx6ik",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-02T00:09:37.423000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1mfcgja/fffnvim_a_really_smart_file_picker_goes_into_the/",
+      "content_preview": "",
+      "flair": [
+        "Plugin"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Monthly meme thread",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n5b86e/monthly_meme_thread/",
+      "score": 6,
+      "comments": 8,
+      "post_id": "t3_1n5b86e",
+      "post_type": "text",
+      "domain": "self.neovim",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-09-01T01:00:56.643000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n5b86e/monthly_meme_thread/",
+      "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+    },
+    {
+      "title": "Speedrunning browser Vim game - [BobaVim] Now Open-Source – Looking for Feedback & Contributors",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n50ya2/speedrunning_browser_vim_game_bobavim_now/",
+      "score": 5,
+      "comments": 2,
+      "post_id": "t3_1n50ya2",
+      "post_type": "text",
+      "domain": "self.neovim",
+      "author": "Minimum_Abies3578",
+      "author_id": "t2_1ug6g2n1tk",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-31T17:40:32.941000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n50ya2/speedrunning_browser_vim_game_bobavim_now/",
+      "content_preview": "",
+      "flair": [
+        "Random"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f19oiw/styles/profileIcon_jf9abdd9gkff1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d7e729feb1514a1fb71c246e7a012bb9e4e95bf9"
+    },
+    {
+      "title": "This Website is Served from Nine Neovim Buffers on My Old ThinkPad",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1mtmcbj/this_website_is_served_from_nine_neovim_buffers/",
+      "score": 338,
+      "comments": 24,
+      "post_id": "t3_1mtmcbj",
+      "post_type": "link",
+      "domain": "vim.gabornyeki.com",
+      "author": "selectnull",
+      "author_id": "t2_4ve4b",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-18T13:39:45.796000+0000",
+      "content_href": "https://vim.gabornyeki.com/",
+      "content_preview": "",
+      "flair": [
+        "Blog Post"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "The \"To the Primagen\" section was in ROT13 btw",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1mszjzo/the_to_the_primagen_section_was_in_rot13_btw/",
+      "score": 301,
+      "comments": 150,
+      "post_id": "t3_1mszjzo",
+      "post_type": "multi_media",
+      "domain": "self.neovim",
+      "author": "Chickfas",
+      "author_id": "t2_x2ruezj",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-17T19:06:03.746000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1mszjzo/the_to_the_primagen_section_was_in_rot13_btw/",
+      "content_preview": "",
+      "flair": [
+        "Random"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "The 0.12 package manager looks really good, i reduced my config to about 200 lines",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n1qnoj/the_012_package_manager_looks_really_good_i/",
+      "score": 223,
+      "comments": 64,
+      "post_id": "t3_1n1qnoj",
+      "post_type": "multi_media",
+      "domain": "self.neovim",
+      "author": "IntegrityError",
+      "author_id": "t2_109uctjo",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-27T19:29:38.857000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n1qnoj/the_012_package_manager_looks_really_good_i/",
+      "content_preview": "",
+      "flair": [
+        "Tips and Tricks"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Minimal Neovim v0.12 configuration",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1mpyc5o/minimal_neovim_v012_configuration/",
+      "score": 299,
+      "comments": 91,
+      "post_id": "t3_1mpyc5o",
+      "post_type": "multi_media",
+      "domain": "self.neovim",
+      "author": "vieitesss_",
+      "author_id": "t2_gpwh1aac",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-14T11:46:53.234000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1mpyc5o/minimal_neovim_v012_configuration/",
+      "content_preview": "",
+      "flair": [
+        "Blog Post"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Neovim now supports LSP on-type formatting",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n59kir/neovim_now_supports_lsp_ontype_formatting/",
+      "score": 195,
+      "comments": 18,
+      "post_id": "t3_1n59kir",
+      "post_type": "text",
+      "domain": "self.neovim",
+      "author": "imakeapp",
+      "author_id": "t2_e1quis9v",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-31T23:39:38.052000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n59kir/neovim_now_supports_lsp_ontype_formatting/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "get all the spell error in the region",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n6l9qn/get_all_the_spell_error_in_the_region/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1n6l9qn",
+      "post_type": "text",
+      "domain": "self.neovim",
+      "author": "neoneo451",
+      "author_id": "t2_1aaewz8lyl",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-09-02T14:38:39.144000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n6l9qn/get_all_the_spell_error_in_the_region/",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "How can you remap keys for 'ic' mode?",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n50va7/how_can_you_remap_keys_for_ic_mode/",
+      "score": 4,
+      "comments": 5,
+      "post_id": "t3_1n50va7",
+      "post_type": "text",
+      "domain": "self.neovim",
+      "author": "Lenburg1",
+      "author_id": "t2_nunkxbo",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-31T17:37:13.843000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n50va7/how_can_you_remap_keys_for_ic_mode/",
+      "content_preview": "",
+      "flair": [
+        "Need Help┃Solved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "python.nvim: The Neovim python toolkit gets a stable release!",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n4iccn/pythonnvim_the_neovim_python_toolkit_gets_a/",
+      "score": 164,
+      "comments": 20,
+      "post_id": "t3_1n4iccn",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "thiswhiteman",
+      "author_id": "t2_j8rwh",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-31T01:37:14.517000+0000",
+      "content_href": "https://v.redd.it/avob8ztqd9mf1",
+      "content_preview": "",
+      "flair": [
+        "Plugin"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "⚡Any digital designers here using Vim/Neovim for HDL? I built a plugin you might like",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n6kl7z/any_digital_designers_here_using_vimneovim_for/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6kl7z",
+      "post_type": "gif",
+      "domain": "i.redd.it",
+      "author": "dodotronix",
+      "author_id": "t2_24oprwgs",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-09-02T14:12:20.811000+0000",
+      "content_href": "https://i.redd.it/m218oqih4rmf1.gif",
+      "content_preview": "",
+      "flair": [
+        "Plugin"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "A snacks.picker frontend for fff.nvim",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n0uq82/a_snackspicker_frontend_for_fffnvim/",
+      "score": 130,
+      "comments": 19,
+      "post_id": "t3_1n0uq82",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "madmaxieee0511",
+      "author_id": "t2_f90279zql",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-26T19:04:46.737000+0000",
+      "content_href": "https://v.redd.it/76i5t4fstelf1",
+      "content_preview": "",
+      "flair": [
+        "Plugin"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/a-frontend-for-v0-ZGl2OGM0ZnN0ZWxmMShaDoe-Bf_h6cYOVgx28QqWpDU1ADyoE9vPVE5y-sKq.png?width=640&crop=smart&format=pjpg&auto=webp&s=c3fb46955d7ed873f7e6de3287ee740501cae359"
+    },
+    {
+      "title": "Sensible syntax highlighting for GitLab and GitHub workflow files",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n4untm/sensible_syntax_highlighting_for_gitlab_and/",
+      "score": 8,
+      "comments": 10,
+      "post_id": "t3_1n4untm",
+      "post_type": "multi_media",
+      "domain": "self.neovim",
+      "author": "qwrtln",
+      "author_id": "t2_4xgdxdf1",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-31T13:25:27.478000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n4untm/sensible_syntax_highlighting_for_gitlab_and/",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "GitHub - Kraust/nvim-server: Neovim in the Browser",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n4i18n/github_kraustnvimserver_neovim_in_the_browser/",
+      "score": 118,
+      "comments": 14,
+      "post_id": "t3_1n4i18n",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "79215185-1feb-44c6",
+      "author_id": "t2_dx8q7riq",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-31T01:21:33.368000+0000",
+      "content_href": "https://github.com/Kraust/nvim-server",
+      "content_preview": "",
+      "flair": [
+        "Random"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4wi5t2/styles/profileIcon_3vtyidcozyhf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1a4594d6bc2faeaba9b399724d87c78974dc4bdf"
+    },
+    {
+      "title": "Plugin that stores quickfixlist",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n4s3ex/plugin_that_stores_quickfixlist/",
+      "score": 5,
+      "comments": 12,
+      "post_id": "t3_1n4s3ex",
+      "post_type": "text",
+      "domain": "self.neovim",
+      "author": "pipilipilav98",
+      "author_id": "t2_64s5duj",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-31T11:17:14.549000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n4s3ex/plugin_that_stores_quickfixlist/",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Github actions language server gh_actions_ls configured properly",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n6kiuk/github_actions_language_server_gh_actions_ls/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n6kiuk",
+      "post_type": "multi_media",
+      "domain": "self.neovim",
+      "author": "TurnipSubject4422",
+      "author_id": "t2_1cki7nxkbu",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-09-02T14:09:42.047000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n6kiuk/github_actions_language_server_gh_actions_ls/",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "how to properly move my cursor?",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n6iwie/how_to_properly_move_my_cursor/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n6iwie",
+      "post_type": "text",
+      "domain": "self.neovim",
+      "author": "Elkiiii",
+      "author_id": "t2_11n2qx",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-09-02T13:04:12.348000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n6iwie/how_to_properly_move_my_cursor/",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Remove single highlight attribute, but keep others",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n4q9vp/remove_single_highlight_attribute_but_keep_others/",
+      "score": 4,
+      "comments": 1,
+      "post_id": "t3_1n4q9vp",
+      "post_type": "text",
+      "domain": "self.neovim",
+      "author": "Kaikacy",
+      "author_id": "t2_h43ahweu9",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-31T09:22:14.397000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n4q9vp/remove_single_highlight_attribute_but_keep_others/",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Strange window at the bottom",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n0uqt3/strange_window_at_the_bottom/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n0uqt3",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "HenryVII",
+      "author_id": "t2_94nmr",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-26T19:05:25.603000+0000",
+      "content_href": "https://i.redd.it/1sm2aofpwelf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Need Help┃Solved"
+      ],
+      "thumbnail_url": "https://preview.redd.it/strange-window-at-the-bottom-v0-1sm2aofpwelf1.jpeg?width=640&crop=smart&auto=webp&s=13a9be7486c27a9ee39de189656529b172d9e3da"
+    },
+    {
+      "title": "Is built in rust support decent?",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n6ij0x/is_built_in_rust_support_decent/",
+      "score": 0,
+      "comments": 6,
+      "post_id": "t3_1n6ij0x",
+      "post_type": "text",
+      "domain": "self.neovim",
+      "author": "candyboobers",
+      "author_id": "t2_lb3mlbq",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-09-02T12:47:25.904000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n6ij0x/is_built_in_rust_support_decent/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Does anyone know a good diff view library ?",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1myfvla/does_anyone_know_a_good_diff_view_library/",
+      "score": 295,
+      "comments": 63,
+      "post_id": "t3_1myfvla",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "aecsar",
+      "author_id": "t2_ykdxzbux6",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-23T23:05:51.223000+0000",
+      "content_href": "https://www.reddit.com/gallery/1myfvla",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bc0c1l/styles/profileIcon_0sn6g0o187vc1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2b5b41670259268323bdddde177892b7385dd9e6"
+    },
+    {
+      "title": "What keybind do you use for inserting \"Some string\"?",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n6f5nb/what_keybind_do_you_use_for_inserting_some_string/",
+      "score": 0,
+      "comments": 8,
+      "post_id": "t3_1n6f5nb",
+      "post_type": "text",
+      "domain": "self.neovim",
+      "author": "4r73m190r0s",
+      "author_id": "t2_tsg1ygzb",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-09-02T09:45:39.089000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n6f5nb/what_keybind_do_you_use_for_inserting_some_string/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "More Vim tricks that blew my mind (intermediate/advanced)",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1mg06ql/more_vim_tricks_that_blew_my_mind/",
+      "score": 283,
+      "comments": 21,
+      "post_id": "t3_1mg06ql",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "HenryMisc",
+      "author_id": "t2_15eoaltc8b",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-02T20:18:06.241000+0000",
+      "content_href": "https://www.youtube.com/watch?v=wgbvBDR4yxk",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "A mini.pick frontend for fff.nvim",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n48qvt/a_minipick_frontend_for_fffnvim/",
+      "score": 105,
+      "comments": 14,
+      "post_id": "t3_1n48qvt",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "DVT01",
+      "author_id": "t2_17b5zz",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-30T18:24:11.196000+0000",
+      "content_href": "https://i.redd.it/b6qnxt7r87mf1.png",
+      "content_preview": "",
+      "flair": [
+        "Plugin"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "why is \"_\" in middle of a word is always highlighted as markdown error",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1mzmway/why_is_in_middle_of_a_word_is_always_highlighted/",
+      "score": 22,
+      "comments": 12,
+      "post_id": "t3_1mzmway",
+      "post_type": "multi_media",
+      "domain": "self.neovim",
+      "author": "neoneo451",
+      "author_id": "t2_1aaewz8lyl",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-25T10:33:14.679000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1mzmway/why_is_in_middle_of_a_word_is_always_highlighted/",
+      "content_preview": "",
+      "flair": [
+        "Need Help┃Solved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Latest version of catppuccin theme incompatible with lazyvim's bufferline?",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1mztmm0/latest_version_of_catppuccin_theme_incompatible/",
+      "score": 5,
+      "comments": 2,
+      "post_id": "t3_1mztmm0",
+      "post_type": "multi_media",
+      "domain": "self.neovim",
+      "author": "infra_red_dude",
+      "author_id": "t2_jdf7i",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-25T15:29:18.628000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1mztmm0/latest_version_of_catppuccin_theme_incompatible/",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_b3wlv/styles/profileIcon_swsm2rjtvrve1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=509a063258e7cd7b24d72b4946caa8c70278cda8"
+    },
+    {
+      "title": "dart.nvim update - icons support, unmark mappings, improved tabline, and Snacks picker",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1mzkxfh/dartnvim_update_icons_support_unmark_mappings/",
+      "score": 18,
+      "comments": 7,
+      "post_id": "t3_1mzkxfh",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "iofq",
+      "author_id": "t2_50ia78cx",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-25T08:30:06.161000+0000",
+      "content_href": "https://i.redd.it/089we230l4lf1.png",
+      "content_preview": "",
+      "flair": [
+        "Plugin"
+      ],
+      "thumbnail_url": "https://preview.redd.it/update-icons-support-unmark-mappings-improved-tabline-and-v0-089we230l4lf1.png?width=640&crop=smart&auto=webp&s=924ab4adf91e441c71a02d532ddb93a40b1e2b3e"
+    },
+    {
+      "title": "Native LLM-based completion in 0.12",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n0zy25/native_llmbased_completion_in_012/",
+      "score": 105,
+      "comments": 31,
+      "post_id": "t3_1n0zy25",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "mplusp",
+      "author_id": "t2_166en2",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-26T22:27:55.777000+0000",
+      "content_href": "https://youtu.be/WLauufOgPpo?si=MHwdrFG5fJu2rKre",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1788o7/styles/profileIcon_uw28okqfbzhf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=bd98c523d12b8b5011c56052968936310c515daa"
+    },
+    {
+      "title": "Seeking community feedback for compile.nvim",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1mzmxyd/seeking_community_feedback_for_compilenvim/",
+      "score": 11,
+      "comments": 10,
+      "post_id": "t3_1mzmxyd",
+      "post_type": "text",
+      "domain": "self.neovim",
+      "author": "Affectionate-Sir3949",
+      "author_id": "t2_yhqfcdyk0",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-25T10:35:55.845000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1mzmxyd/seeking_community_feedback_for_compilenvim/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "TIL about g_ (got to last non blank)",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n4utp3/til_about_g_got_to_last_non_blank/",
+      "score": 92,
+      "comments": 13,
+      "post_id": "t3_1n4utp3",
+      "post_type": "text",
+      "domain": "self.neovim",
+      "author": "qiinemarr",
+      "author_id": "t2_jzc9y7vbe",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-31T13:32:32.512000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n4utp3/til_about_g_got_to_last_non_blank/",
+      "content_preview": "",
+      "flair": [
+        "Tips and Tricks"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What colorscheme is this?",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1mzfmdl/what_colorscheme_is_this/",
+      "score": 28,
+      "comments": 9,
+      "post_id": "t3_1mzfmdl",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "wit4er",
+      "author_id": "t2_hq9ti",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-25T03:11:38.528000+0000",
+      "content_href": "https://i.redd.it/1jsfobjm13lf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "How to automatically move { opening braces down to a new line when pressing enter for C#",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1mzq6ub/how_to_automatically_move_opening_braces_down_to/",
+      "score": 2,
+      "comments": 11,
+      "post_id": "t3_1mzq6ub",
+      "post_type": "text",
+      "domain": "self.neovim",
+      "author": "Either-Control-3343",
+      "author_id": "t2_14tq2rdqv4",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-25T13:15:15.849000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1mzq6ub/how_to_automatically_move_opening_braces_down_to/",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "An experiment around a fuzzy finder without plugins",
+      "permalink": "https://www.reddit.com/r/neovim/comments/1n10xdb/an_experiment_around_a_fuzzy_finder_without/",
+      "score": 86,
+      "comments": 17,
+      "post_id": "t3_1n10xdb",
+      "post_type": "multi_media",
+      "domain": "self.neovim",
+      "author": "cherryramatis",
+      "author_id": "t2_7f7j9jz1",
+      "subreddit_id": "t5_30kix",
+      "subreddit": "r/neovim",
+      "created_ts": "2025-08-26T23:09:44.550000+0000",
+      "content_href": "https://www.reddit.com/r/neovim/comments/1n10xdb/an_experiment_around_a_fuzzy_finder_without/",
+      "content_preview": "",
+      "flair": [
+        "Blog Post"
+      ],
+      "thumbnail_url": ""
+    }
+  ],
+  "scraped_at": "2025-09-02T09:34:59.708721"
+}

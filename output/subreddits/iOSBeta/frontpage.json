@@ -1,0 +1,1011 @@
+{
+  "subreddit": "iOSBeta",
+  "url": "https://www.reddit.com/r/iOSBeta",
+  "meta": {
+    "title": "iOSBeta",
+    "members_text": "20,057"
+  },
+  "posts": [
+    {
+      "title": "[ios 26 PB4] images sent through iMessage are broken for the recipient",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n3ini9/ios_26_pb4_images_sent_through_imessage_are/",
+      "score": 12,
+      "comments": 7,
+      "post_id": "t3_1n3ini9",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "iwasonfireonce",
+      "author_id": "t2_ze5gcz499",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-29T20:41:27.104000+0000",
+      "content_href": "https://i.redd.it/4xn9cpbks0mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "[iOS 26 DB8] Calendar app crashes when trying to create an event in October 1582",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n3gmk4/ios_26_db8_calendar_app_crashes_when_trying_to/",
+      "score": 195,
+      "comments": 88,
+      "post_id": "t3_1n3gmk4",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "digidude23",
+      "author_id": "t2_5n4nhzvz",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-29T19:21:08.331000+0000",
+      "content_href": "https://v.redd.it/rf7bq9h8e0mf1",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/ios-26-db8-calendar-app-crashes-when-trying-to-create-an-v0-b3BrMWRyYjhlMG1mMY1rpAG5cdjkgzXgG6OJjrcO9ws_uWoNBVEvi5rK59CU.png?width=640&crop=smart&format=pjpg&auto=webp&s=26b83cc5f28d24e5cb23bf49d6821025f2e9328c"
+    },
+    {
+      "title": "[iOS 26 DB8] No SharePlay option in Apple Music CarPlay",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n4t7p4/ios_26_db8_no_shareplay_option_in_apple_music/",
+      "score": 5,
+      "comments": 2,
+      "post_id": "t3_1n4t7p4",
+      "post_type": "text",
+      "domain": "self.iOSBeta",
+      "author": "davehaslanded",
+      "author_id": "t2_13dl1a",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-31T12:18:15.995000+0000",
+      "content_href": "https://www.reddit.com/r/iOSBeta/comments/1n4t7p4/ios_26_db8_no_shareplay_option_in_apple_music/",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[iOS 26 DB6] New App Opening/Closing Animation",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1mnjizh/ios_26_db6_new_app_openingclosing_animation/",
+      "score": 683,
+      "comments": 170,
+      "post_id": "t3_1mnjizh",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "hotlava436",
+      "author_id": "t2_7820y13h",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-11T17:33:46.296000+0000",
+      "content_href": "https://v.redd.it/48jb0bfoefif1",
+      "content_preview": "",
+      "flair": [
+        "UI Change"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/ios-26-db6-new-app-opening-closing-animation-v0-Y3JsdzBqMm9lZmlmMcZLGoBLo1NkSQsc-w5XWRTJFleitVIL2GbyDahw4Oa6.png?width=640&crop=smart&format=pjpg&auto=webp&s=d1f38da7598db7e95d6476f10bc79534287ababd"
+    },
+    {
+      "title": "[iOS 26 DB8] Wrong interaction between volume and brightness toggles layers",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n41asi/ios_26_db8_wrong_interaction_between_volume_and/",
+      "score": 58,
+      "comments": 11,
+      "post_id": "t3_1n41asi",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Icy-Historian3399",
+      "author_id": "t2_1osay67n2d",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-30T13:12:10.862000+0000",
+      "content_href": "https://v.redd.it/4i7gtarbp5mf1",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "[IOS 26 DB0] App Store Is automatically playing sound/music",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n0oln1/ios_26_db0_app_store_is_automatically_playing/",
+      "score": 133,
+      "comments": 35,
+      "post_id": "t3_1n0oln1",
+      "post_type": "text",
+      "domain": "self.iOSBeta",
+      "author": "diamondeye24",
+      "author_id": "t2_nn2za",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-26T15:15:21.781000+0000",
+      "content_href": "https://www.reddit.com/r/iOSBeta/comments/1n0oln1/ios_26_db0_app_store_is_automatically_playing/",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "[iOS 26 DB 8] CarPlay crashes while using navigation and either invoking Siri or receiving a phone call",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n3zzl7/ios_26_db_8_carplay_crashes_while_using/",
+      "score": 10,
+      "comments": 5,
+      "post_id": "t3_1n3zzl7",
+      "post_type": "text",
+      "domain": "self.iOSBeta",
+      "author": "Jrhess003",
+      "author_id": "t2_iaxrg",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-30T12:07:56.739000+0000",
+      "content_href": "https://www.reddit.com/r/iOSBeta/comments/1n3zzl7/ios_26_db_8_carplay_crashes_while_using/",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "\"[iOS 26 DB8] Active Orders Widget Not Working",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n3e88x/ios_26_db8_active_orders_widget_not_working/",
+      "score": 3,
+      "comments": 2,
+      "post_id": "t3_1n3e88x",
+      "post_type": "text",
+      "domain": "self.iOSBeta",
+      "author": "Rickscloud",
+      "author_id": "t2_4oefz1a3",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-29T17:48:49.927000+0000",
+      "content_href": "https://www.reddit.com/r/iOSBeta/comments/1n3e88x/ios_26_db8_active_orders_widget_not_working/",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_25kfzo/styles/profileIcon_ikdjnk5fxe5b1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=de62e12988ba22bf1c4abde234aff7723cbe6be2"
+    },
+    {
+      "title": "[iOS 26 DB5] New low battėry dynamic island pop-up",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1mihvwf/ios_26_db5_new_low_battėry_dynamic_island_popup/",
+      "score": 536,
+      "comments": 48,
+      "post_id": "t3_1mihvwf",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Long-Professional493",
+      "author_id": "t2_jgaqt8v2i",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-05T18:54:25.436000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mihvwf",
+      "content_preview": "",
+      "flair": [
+        "UI Change"
+      ],
+      "thumbnail_url": "https://preview.redd.it/ios-26-db5-new-low-batt%C4%97ry-dynamic-island-pop-up-v0-e3jyd4hlz8hf1.jpg?width=640&crop=smart&auto=webp&s=c5a1e01fa0303af52c19b660f13cc6567190c50c"
+    },
+    {
+      "title": "[iOS 26 DB8] Alarm doesn’t show in lockscreen",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n3d635/ios_26_db8_alarm_doesnt_show_in_lockscreen/",
+      "score": 23,
+      "comments": 7,
+      "post_id": "t3_1n3d635",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Professional-Oil5230",
+      "author_id": "t2_166rm4desr",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-29T17:09:13.823000+0000",
+      "content_href": "https://i.redd.it/tzpfh8lpqzlf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "[iOS 26 PB5] Photo Shuffle Lock Screen bizarrely merging photos, displaying too darkly",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n2cdh1/ios_26_pb5_photo_shuffle_lock_screen_bizarrely/",
+      "score": 108,
+      "comments": 19,
+      "post_id": "t3_1n2cdh1",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "iambrentan",
+      "author_id": "t2_4hygqohs",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-28T13:34:04.420000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n2cdh1",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "[iOS 26 PB4] Private WiFi Address defaults to Fixed",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n32p60/ios_26_pb4_private_wifi_address_defaults_to_fixed/",
+      "score": 47,
+      "comments": 28,
+      "post_id": "t3_1n32p60",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "bastiancointreau",
+      "author_id": "t2_7iu21tet",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-29T09:25:55.076000+0000",
+      "content_href": "https://i.redd.it/k6dlizs1gxlf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Feature"
+      ],
+      "thumbnail_url": "https://preview.redd.it/ios-26-pb4-private-wifi-address-defaults-to-fixed-v0-k6dlizs1gxlf1.jpeg?width=640&crop=smart&auto=webp&s=02c870641a123170b6889a6405eddbd28e7f9655"
+    },
+    {
+      "title": "[iOS 26 PB5] Changing the audio source on a call via Dynamic Island has some pretty bad UI Issues",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n0x8nv/ios_26_pb5_changing_the_audio_source_on_a_call/",
+      "score": 84,
+      "comments": 7,
+      "post_id": "t3_1n0x8nv",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "invadergold123",
+      "author_id": "t2_8la2c",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-26T20:40:11.561000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n0x8nv",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "[iOS 26 DB 7] “Show IP Address” toggle not working in Safari",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n3d5a5/ios_26_db_7_show_ip_address_toggle_not_working_in/",
+      "score": 8,
+      "comments": 3,
+      "post_id": "t3_1n3d5a5",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "clarkw5",
+      "author_id": "t2_pq8ysci3",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-29T17:08:22.966000+0000",
+      "content_href": "https://i.redd.it/ny1xov5kqzlf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "[iPadOS 26 DB6] Sidebar can be resized in any app.",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1mo042b/ipados_26_db6_sidebar_can_be_resized_in_any_app/",
+      "score": 470,
+      "comments": 43,
+      "post_id": "t3_1mo042b",
+      "post_type": "gif",
+      "domain": "i.redd.it",
+      "author": "riepmich",
+      "author_id": "t2_w6qxw",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-12T05:21:00.485000+0000",
+      "content_href": "https://i.redd.it/bax76f1twiif1.gif",
+      "content_preview": "",
+      "flair": [
+        "Feature"
+      ],
+      "thumbnail_url": "https://preview.redd.it/ipados-26-db6-sidebar-can-be-resized-in-any-app-v0-bax76f1twiif1.gif?width=640&crop=smart&format=png8&s=eec6a7c8c50170d955f4273ddb60d257e44c77d9"
+    },
+    {
+      "title": "[iOS 26 DB8] Alarm Sound Extremely Low",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n33v6o/ios_26_db8_alarm_sound_extremely_low/",
+      "score": 18,
+      "comments": 12,
+      "post_id": "t3_1n33v6o",
+      "post_type": "text",
+      "domain": "self.iOSBeta",
+      "author": "Boring_Newspaper5796",
+      "author_id": "t2_mf7ia7j8",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-29T10:35:28.233000+0000",
+      "content_href": "https://www.reddit.com/r/iOSBeta/comments/1n33v6o/ios_26_db8_alarm_sound_extremely_low/",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[iOS 26 DB8] Incorrect UI for clearing priority notifications",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n3ko0z/ios_26_db8_incorrect_ui_for_clearing_priority/",
+      "score": 80,
+      "comments": 11,
+      "post_id": "t3_1n3ko0z",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ADHDgoreeeeeeee",
+      "author_id": "t2_mdx2g955",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-29T22:04:47.138000+0000",
+      "content_href": "https://i.redd.it/xhs0qawf71mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://preview.redd.it/ios-26-db8-incorrect-ui-for-clearing-priority-notifications-v0-xhs0qawf71mf1.jpeg?width=640&crop=smart&auto=webp&s=917ae2a94b969a726442dd59195676066df09ec3"
+    },
+    {
+      "title": "[iOS 26 DB8] blocked contacts are now unblocked?",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n2auo9/ios_26_db8_blocked_contacts_are_now_unblocked/",
+      "score": 9,
+      "comments": 1,
+      "post_id": "t3_1n2auo9",
+      "post_type": "text",
+      "domain": "self.iOSBeta",
+      "author": "Popular_Attitude4979",
+      "author_id": "t2_bnw5w936",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-28T12:26:34.224000+0000",
+      "content_href": "https://www.reddit.com/r/iOSBeta/comments/1n2auo9/ios_26_db8_blocked_contacts_are_now_unblocked/",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "[iOS 26 DB5] New popup for Airpods",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1miyrxb/ios_26_db5_new_popup_for_airpods/",
+      "score": 436,
+      "comments": 59,
+      "post_id": "t3_1miyrxb",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Atlantidis",
+      "author_id": "t2_lmtz1cwy",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-06T08:06:39.395000+0000",
+      "content_href": "https://i.redd.it/oihxq2dxwchf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "UI Change"
+      ],
+      "thumbnail_url": "https://preview.redd.it/ios-26-db5-new-popup-for-airpods-v0-oihxq2dxwchf1.jpeg?width=640&crop=smart&auto=webp&s=cb41a75b29dd84fb2b84ef86d94fc281f094e2e6"
+    },
+    {
+      "title": "iOS 25 Beta 5 - Discussion",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1mif6y8/ios_25_beta_5_discussion/",
+      "score": 412,
+      "comments": 1246,
+      "post_id": "t3_1mif6y8",
+      "post_type": "text",
+      "domain": "self.iOSBeta",
+      "author": "epmuscle",
+      "author_id": "t2_ot6rlzw",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-05T17:17:07.341000+0000",
+      "content_href": "https://www.reddit.com/r/iOSBeta/comments/1mif6y8/ios_25_beta_5_discussion/",
+      "content_preview": "",
+      "flair": [
+        "Release"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[iOS 26 DB8] After starting a satellite connection but before actually connecting to one, the control center will display “Satellite 5G”",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n1axd6/ios_26_db8_after_starting_a_satellite_connection/",
+      "score": 67,
+      "comments": 10,
+      "post_id": "t3_1n1axd6",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "OppositeSea3775",
+      "author_id": "t2_15h8s3kjs0",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-27T07:55:02.771000+0000",
+      "content_href": "https://i.redd.it/x0w9zuzkpilf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "[iOS 26 PB5] Reddit widgets not appearing anywhere in lock screen",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n284fi/ios_26_pb5_reddit_widgets_not_appearing_anywhere/",
+      "score": 6,
+      "comments": 1,
+      "post_id": "t3_1n284fi",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Global-Evidence4862",
+      "author_id": "t2_zwv6qj7s1",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-28T10:01:03.131000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n284fi",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bqksmw/styles/profileIcon_mn1tg7psbgmf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b08c21e715e7e70c4631ddd21cfd2e93d6c4b967"
+    },
+    {
+      "title": "iOS 26 Beta 8 - Discussion",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1mzwe2m/ios_26_beta_8_discussion/",
+      "score": 412,
+      "comments": 1098,
+      "post_id": "t3_1mzwe2m",
+      "post_type": "text",
+      "domain": "self.iOSBeta",
+      "author": "epmuscle",
+      "author_id": "t2_ot6rlzw",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-25T17:10:04.750000+0000",
+      "content_href": "https://www.reddit.com/r/iOSBeta/comments/1mzwe2m/ios_26_beta_8_discussion/",
+      "content_preview": "",
+      "flair": [
+        "Release"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[iOS 26 DB6] new 3D magnifier in preview",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1mo8xuq/ios_26_db6_new_3d_magnifier_in_preview/",
+      "score": 406,
+      "comments": 106,
+      "post_id": "t3_1mo8xuq",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Acrobatic-Monitor516",
+      "author_id": "t2_9gxvzall",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-12T13:36:19.377000+0000",
+      "content_href": "https://v.redd.it/qj4tyi68dlif1",
+      "content_preview": "",
+      "flair": [
+        "Feature"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/ios-26-db6-new-3d-magnifier-in-preview-v0-M3Qyczd0MThkbGlmMQYmpEppDI3oBpOXIO7gJwG2HWoW6odtFx9qSHb3odkf.png?width=640&crop=smart&format=pjpg&auto=webp&s=663840109412122ad1a77667cf8632503edef95e"
+    },
+    {
+      "title": "[iOS 26 DB 8] Old Message Threads Don't Appear",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n21w2b/ios_26_db_8_old_message_threads_dont_appear/",
+      "score": 9,
+      "comments": 4,
+      "post_id": "t3_1n21w2b",
+      "post_type": "text",
+      "domain": "self.iOSBeta",
+      "author": "wassupmypeepz",
+      "author_id": "t2_4dk49l6e",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-28T03:37:50.666000+0000",
+      "content_href": "https://www.reddit.com/r/iOSBeta/comments/1n21w2b/ios_26_db_8_old_message_threads_dont_appear/",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "iOS 26 Beta 7 - Discussion",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1mts1qz/ios_26_beta_7_discussion/",
+      "score": 406,
+      "comments": 988,
+      "post_id": "t3_1mts1qz",
+      "post_type": "text",
+      "domain": "self.iOSBeta",
+      "author": "epmuscle",
+      "author_id": "t2_ot6rlzw",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-18T17:09:35.476000+0000",
+      "content_href": "https://www.reddit.com/r/iOSBeta/comments/1mts1qz/ios_26_beta_7_discussion/",
+      "content_preview": "",
+      "flair": [
+        "Release"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[iOS 26 DB8] Safari Scrolling Stutter",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n0a60r/ios_26_db8_safari_scrolling_stutter/",
+      "score": 49,
+      "comments": 10,
+      "post_id": "t3_1n0a60r",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Doublemint07",
+      "author_id": "t2_i8dmt",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-26T02:30:03.525000+0000",
+      "content_href": "https://v.redd.it/htluah54z9lf1",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "[iOS 26 DB8] Audio shuts off every 5 minutes or so",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n3d1jz/ios_26_db8_audio_shuts_off_every_5_minutes_or_so/",
+      "score": 4,
+      "comments": 5,
+      "post_id": "t3_1n3d1jz",
+      "post_type": "text",
+      "domain": "self.iOSBeta",
+      "author": "itsbrianduh108",
+      "author_id": "t2_rjmll",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-29T17:04:30.800000+0000",
+      "content_href": "https://www.reddit.com/r/iOSBeta/comments/1n3d1jz/ios_26_db8_audio_shuts_off_every_5_minutes_or_so/",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[iOS 26 DB6] Black stain on recording button.",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1mry5sd/ios_26_db6_black_stain_on_recording_button/",
+      "score": 402,
+      "comments": 81,
+      "post_id": "t3_1mry5sd",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Any_Ground_9167",
+      "author_id": "t2_x3s9r6ofg",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-16T15:17:28.526000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mry5sd",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "[iOS 26 DB8] Incorrect colour keyboard when searching",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n124rw/ios_26_db8_incorrect_colour_keyboard_when/",
+      "score": 42,
+      "comments": 11,
+      "post_id": "t3_1n124rw",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "No-Preparation-1030",
+      "author_id": "t2_l9okic3ta",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-27T00:02:48.146000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n124rw",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_brti9u/styles/profileIcon_bz0yjuxs4l4e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=afbdbaabc3135222b8809e58eccc0157235bb4b2"
+    },
+    {
+      "title": "[iOS 26 DB8] Switches related to alarms don't animate correctly",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n2ine0/ios_26_db8_switches_related_to_alarms_dont/",
+      "score": 36,
+      "comments": 12,
+      "post_id": "t3_1n2ine0",
+      "post_type": "gif",
+      "domain": "v.redd.it",
+      "author": "LanDest021",
+      "author_id": "t2_kf8waot",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-28T17:30:48.578000+0000",
+      "content_href": "https://v.redd.it/9oagdodnpslf1",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_54po1/styles/profileIcon_0jhx8m2jdc091.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=24453fc42ba5160dab1203422517f31ab527066a"
+    },
+    {
+      "title": "[IOS 26 DB8] Unable to select all unread emails in apple mail app to mark as unread",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n1uan5/ios_26_db8_unable_to_select_all_unread_emails_in/",
+      "score": 4,
+      "comments": 6,
+      "post_id": "t3_1n1uan5",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "TraditionalGrape2627",
+      "author_id": "t2_8tg9173c",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-27T21:50:35.254000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n1uan5",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://preview.redd.it/ios-26-db8-unable-to-select-all-unread-emails-in-apple-mail-v0-ok054ak1vmlf1.jpg?width=640&crop=smart&auto=webp&s=2c3e36456a967c901808b1ba07dd7b79f7f45644"
+    },
+    {
+      "title": "[iOS 26 DB8] Share sheet takes up entire screen again",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n0pwg3/ios_26_db8_share_sheet_takes_up_entire_screen/",
+      "score": 26,
+      "comments": 4,
+      "post_id": "t3_1n0pwg3",
+      "post_type": "text",
+      "domain": "self.iOSBeta",
+      "author": "LightCookiee",
+      "author_id": "t2_xpw2gi",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-26T16:04:18.888000+0000",
+      "content_href": "https://www.reddit.com/r/iOSBeta/comments/1n0pwg3/ios_26_db8_share_sheet_takes_up_entire_screen/",
+      "content_preview": "",
+      "flair": [
+        "UI Change"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "[IOS 26 DB8] Lockscreen widgets non responsive",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n1eayf/ios_26_db8_lockscreen_widgets_non_responsive/",
+      "score": 23,
+      "comments": 4,
+      "post_id": "t3_1n1eayf",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Mind_Monsters",
+      "author_id": "t2_1o4y40bm6i",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-27T11:21:42.604000+0000",
+      "content_href": "https://i.redd.it/zxwnj1xvqjlf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eaq8c3/styles/profileIcon_sbs0ymo6t6xe1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1d9cfbba00bea141267ee49a9d7e5fc12c2cd286"
+    },
+    {
+      "title": "[iOS 26 DB8] CarPlay wallpaper changes don’t take effect until a reconnect",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n1ruri/ios_26_db8_carplay_wallpaper_changes_dont_take/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1n1ruri",
+      "post_type": "text",
+      "domain": "self.iOSBeta",
+      "author": "rm20010",
+      "author_id": "t2_df5lq",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-27T20:15:32.564000+0000",
+      "content_href": "https://www.reddit.com/r/iOSBeta/comments/1n1ruri/ios_26_db8_carplay_wallpaper_changes_dont_take/",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "iOS 25 Beta 6 - Discussion",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1mnivev/ios_25_beta_6_discussion/",
+      "score": 395,
+      "comments": 1295,
+      "post_id": "t3_1mnivev",
+      "post_type": "text",
+      "domain": "self.iOSBeta",
+      "author": "epmuscle",
+      "author_id": "t2_ot6rlzw",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-11T17:10:42.994000+0000",
+      "content_href": "https://www.reddit.com/r/iOSBeta/comments/1mnivev/ios_25_beta_6_discussion/",
+      "content_preview": "",
+      "flair": [
+        "Release"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[iOS 26 DB5] New AirDrop icon",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1mig87l/ios_26_db5_new_airdrop_icon/",
+      "score": 314,
+      "comments": 41,
+      "post_id": "t3_1mig87l",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "freaktheclown",
+      "author_id": "t2_7vds",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-05T17:54:30.490000+0000",
+      "content_href": "https://i.redd.it/hyvb9s4wo8hf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "UI Change"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "[iOS 26 DB6] Scrolling after turning on/off toggle triggers a “bouncing effect”",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1mpp51q/ios_26_db6_scrolling_after_turning_onoff_toggle/",
+      "score": 305,
+      "comments": 34,
+      "post_id": "t3_1mpp51q",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "realdealchris",
+      "author_id": "t2_78vvxzon",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-14T03:11:08.111000+0000",
+      "content_href": "https://v.redd.it/563g6feijwif1",
+      "content_preview": "",
+      "flair": [
+        "UI Change"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/ios-26-db6-scrolling-after-turning-on-off-toggle-triggers-a-v0-b3p2ZXhnYmlqd2lmMS8ZfN7FBuE5NporQu9m9x7nbObk889ZpvnL8r5E5aP7.png?width=640&crop=smart&format=pjpg&auto=webp&s=ce559e78022d43e52035ab75f4466782f6ee11df"
+    },
+    {
+      "title": "[iOS 26 DB8] WhatsApp call history missing?",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n13xqg/ios_26_db8_whatsapp_call_history_missing/",
+      "score": 4,
+      "comments": 3,
+      "post_id": "t3_1n13xqg",
+      "post_type": "text",
+      "domain": "self.iOSBeta",
+      "author": "mdozard",
+      "author_id": "t2_3hus74ms",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-27T01:26:47.260000+0000",
+      "content_href": "https://www.reddit.com/r/iOSBeta/comments/1n13xqg/ios_26_db8_whatsapp_call_history_missing/",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "[iPadOS 26 PB5] Voice Control text commands malfunctioning only in Pages",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n0te5q/ipados_26_pb5_voice_control_text_commands/",
+      "score": 5,
+      "comments": 0,
+      "post_id": "t3_1n0te5q",
+      "post_type": "text",
+      "domain": "self.iOSBeta",
+      "author": "Regular-Anteater6330",
+      "author_id": "t2_6boo5roq",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-26T18:13:28.392000+0000",
+      "content_href": "https://www.reddit.com/r/iOSBeta/comments/1n0te5q/ipados_26_pb5_voice_control_text_commands/",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "[iPadOS 26 DB8] Erratic cursor movement with trackpad when charging via Magic Keyboard",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n078a5/ipados_26_db8_erratic_cursor_movement_with/",
+      "score": 20,
+      "comments": 6,
+      "post_id": "t3_1n078a5",
+      "post_type": "gif",
+      "domain": "v.redd.it",
+      "author": "atinyblip",
+      "author_id": "t2_fq3xu",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-26T00:14:58.145000+0000",
+      "content_href": "https://v.redd.it/hidmuo60b9lf1",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/ipados-26-db8-erratic-cursor-movement-with-trackpad-when-v0-NmF0ZnRqd3phOWxmMUu_xJ35gAmaJQ3cNi4riQ_Rs29nZsrlq8Dn18EhfrVK.png?width=640&crop=smart&format=pjpg&auto=webp&s=0f4d9737b108ef97bfc49d770dc1230cf2ff79c5"
+    },
+    {
+      "title": "[iPadOS 26 DB8] Major Lag Swiping to App Library on 2020 iPad Pro (12.9)",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1mzzxmp/ipados_26_db8_major_lag_swiping_to_app_library_on/",
+      "score": 103,
+      "comments": 34,
+      "post_id": "t3_1mzzxmp",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Valcor13",
+      "author_id": "t2_16svgy",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-25T19:21:29.852000+0000",
+      "content_href": "https://v.redd.it/os5hl2snu7lf1",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_16p1fh/styles/profileIcon_andgbnv4fyu71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7ad4a4269da2253347aba62f4825573f186d9131"
+    },
+    {
+      "title": "[IOS 26 DB8] Ability to select indicators in Camera app",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1mzy1dl/ios_26_db8_ability_to_select_indicators_in_camera/",
+      "score": 69,
+      "comments": 10,
+      "post_id": "t3_1mzy1dl",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Risino15",
+      "author_id": "t2_11ml9h",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-25T18:10:14.105000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mzy1dl",
+      "content_preview": "",
+      "flair": [
+        "Feature"
+      ],
+      "thumbnail_url": "https://preview.redd.it/ios-26-db8-ability-to-select-indicators-in-camera-app-v0-f0po6x2yh7lf1.jpg?width=640&crop=smart&auto=webp&s=80d6b157b5b514402ff8569b8e1017595d09444c"
+    },
+    {
+      "title": "[iOS 26 DB 8] Widget animation stutters when minimizing album art.",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n04zsl/ios_26_db_8_widget_animation_stutters_when/",
+      "score": 29,
+      "comments": 5,
+      "post_id": "t3_1n04zsl",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "DoroTom",
+      "author_id": "t2_16fauf",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-25T22:37:49.581000+0000",
+      "content_href": "https://v.redd.it/9qr19uunt8lf1",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/ios-26-db-8-widget-animation-stutters-when-minimizing-album-v0-N2k0c3BsbG50OGxmMX9Dj1mDSrfIAHLtBfj6foHuPQjSDykfajp2l0Amfden.png?width=640&crop=smart&format=pjpg&auto=webp&s=6d74e660425c27f635b84bbcdc754681183260b5"
+    },
+    {
+      "title": "[iOS 26 DB8] Random plus button in Privacy & Security?",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n04fmb/ios_26_db8_random_plus_button_in_privacy_security/",
+      "score": 21,
+      "comments": 5,
+      "post_id": "t3_1n04fmb",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "lung1nspector",
+      "author_id": "t2_1b7guwvh28",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-25T22:14:33.287000+0000",
+      "content_href": "https://i.redd.it/og3jdscjp8lf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_cpovcq/styles/profileIcon_mspjampirfkf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=99f06eb9da0470be94ba2eef268b0835bbd780f0"
+    },
+    {
+      "title": "[iOS 26 DB8] spatial scene model won’t load",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1mzyfi1/ios_26_db8_spatial_scene_model_wont_load/",
+      "score": 32,
+      "comments": 8,
+      "post_id": "t3_1mzyfi1",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "cheesestic",
+      "author_id": "t2_7ajj0563",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-25T18:24:56.827000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mzyfi1",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "[iOS 26 PB5] Battery percentage stuck",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1n1s3h4/ios_26_pb5_battery_percentage_stuck/",
+      "score": 19,
+      "comments": 5,
+      "post_id": "t3_1n1s3h4",
+      "post_type": "text",
+      "domain": "self.iOSBeta",
+      "author": "CommonStudent8956",
+      "author_id": "t2_19ezwaukao",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-27T20:24:40.208000+0000",
+      "content_href": "https://www.reddit.com/r/iOSBeta/comments/1n1s3h4/ios_26_pb5_battery_percentage_stuck/",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "[iOS 26 DB7] iMessage says delivered even when blocked.",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1mzxttn/ios_26_db7_imessage_says_delivered_even_when/",
+      "score": 10,
+      "comments": 19,
+      "post_id": "t3_1mzxttn",
+      "post_type": "text",
+      "domain": "self.iOSBeta",
+      "author": "mrkrabz1991",
+      "author_id": "t2_arvhz",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-25T18:02:24.820000+0000",
+      "content_href": "https://www.reddit.com/r/iOSBeta/comments/1mzxttn/ios_26_db7_imessage_says_delivered_even_when/",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[IOS 26 PB4] “Face ID” Message not showing on lock screen",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1myz5fn/ios_26_pb4_face_id_message_not_showing_on_lock/",
+      "score": 17,
+      "comments": 16,
+      "post_id": "t3_1myz5fn",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "JoTenshi",
+      "author_id": "t2_45drdama",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-24T15:50:14.939000+0000",
+      "content_href": "https://v.redd.it/15s4ll40ozkf1",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1svy6w/styles/profileIcon_5wutg077z82d1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ca3d6c34215aea8894511212845433b8b850f215"
+    },
+    {
+      "title": "[IOS 26 DB 7] Can’t connect to my google account on mail",
+      "permalink": "https://www.reddit.com/r/iOSBeta/comments/1myup2q/ios_26_db_7_cant_connect_to_my_google_account_on/",
+      "score": 26,
+      "comments": 7,
+      "post_id": "t3_1myup2q",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "PrestigiousLine866",
+      "author_id": "t2_ru73o5dn",
+      "subreddit_id": "t5_2sjys",
+      "subreddit": "r/iOSBeta",
+      "created_ts": "2025-08-24T12:48:34.116000+0000",
+      "content_href": "https://i.redd.it/ishv6obnrykf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6x9whq/styles/profileIcon_rg0cjmi81lbf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8378a4b9c495ec4ecc6fdc5eaad8aed923ef127d"
+    }
+  ],
+  "scraped_at": "2025-09-02T05:57:42.607701"
+}

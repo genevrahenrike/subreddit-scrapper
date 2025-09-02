@@ -1,0 +1,1010 @@
+{
+  "subreddit": "vim",
+  "url": "https://www.reddit.com/r/vim",
+  "meta": {
+    "title": "VIM - Vi IMproved"
+  },
+  "posts": [
+    {
+      "title": "is it OK this `source $VIMRUNTIME/defaults.vim` or I should tunning it?",
+      "permalink": "https://www.reddit.com/r/vim/comments/1n5pa6f/is_it_ok_this_source_vimruntimedefaultsvim_or_i/",
+      "score": 3,
+      "comments": 20,
+      "post_id": "t3_1n5pa6f",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "jazei_2021",
+      "author_id": "t2_cysgtocl",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-09-01T13:52:32.365000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1n5pa6f/is_it_ok_this_source_vimruntimedefaultsvim_or_i/",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Hey everyone i did you know that you could do MATH operations in vim. yeah vim has an special register for this called the EXPRESSION REGISTER or the \"=\" register and you even use macros to do calculations.",
+      "permalink": "https://www.reddit.com/r/vim/comments/1n36xs3/hey_everyone_i_did_you_know_that_you_could_do/",
+      "score": 51,
+      "comments": 16,
+      "post_id": "t3_1n36xs3",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "Elysium_Jinx",
+      "author_id": "t2_1jca8dfm2m",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-29T13:06:10.064000+0000",
+      "content_href": "https://youtu.be/TIZrQ-ZFmdE",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dm609a/styles/profileIcon_0kw9gaet5fje1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=307c23bd535acbc011b68db9ae4de5b9f299c758"
+    },
+    {
+      "title": "Little tip if you have -clipboard in Vim from terminal copying using prompt of terminal...",
+      "permalink": "https://www.reddit.com/r/vim/comments/1n5ab94/little_tip_if_you_have_clipboard_in_vim_from/",
+      "score": 8,
+      "comments": 13,
+      "post_id": "t3_1n5ab94",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "jazei_2021",
+      "author_id": "t2_cysgtocl",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-09-01T00:15:15.494000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1n5ab94/little_tip_if_you_have_clipboard_in_vim_from/",
+      "content_preview": "",
+      "flair": [
+        "Tips and Tricks"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "More Vim tricks that blew my mind (intermediate/advanced)",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mg05of/more_vim_tricks_that_blew_my_mind/",
+      "score": 264,
+      "comments": 23,
+      "post_id": "t3_1mg05of",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "HenryMisc",
+      "author_id": "t2_15eoaltc8b",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-02T20:16:47.602000+0000",
+      "content_href": "https://youtu.be/wgbvBDR4yxk?si=471ODL2b1XRTgTON",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "is there a way to non show errors at start vim?",
+      "permalink": "https://www.reddit.com/r/vim/comments/1n50qv5/is_there_a_way_to_non_show_errors_at_start_vim/",
+      "score": 7,
+      "comments": 12,
+      "post_id": "t3_1n50qv5",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "jazei_2021",
+      "author_id": "t2_cysgtocl",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-31T17:32:20.640000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1n50qv5/is_there_a_way_to_non_show_errors_at_start_vim/",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Speedrunning browser Vim game - [BobaVim] Now Open-Source – Looking for Feedback & Contributors",
+      "permalink": "https://www.reddit.com/r/vim/comments/1n41ypo/speedrunning_browser_vim_game_bobavim_now/",
+      "score": 29,
+      "comments": 2,
+      "post_id": "t3_1n41ypo",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "Minimum_Abies3578",
+      "author_id": "t2_1ug6g2n1tk",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-30T13:42:47.209000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1n41ypo/speedrunning_browser_vim_game_bobavim_now/",
+      "content_preview": "",
+      "flair": [
+        "Random"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f19oiw/styles/profileIcon_jf9abdd9gkff1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d7e729feb1514a1fb71c246e7a012bb9e4e95bf9"
+    },
+    {
+      "title": "Goyo: Error detected: key not present in dictionary",
+      "permalink": "https://www.reddit.com/r/vim/comments/1n40vmj/goyo_error_detected_key_not_present_in_dictionary/",
+      "score": 3,
+      "comments": 2,
+      "post_id": "t3_1n40vmj",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "Budget-Character8771",
+      "author_id": "t2_16t50gjigd",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-30T12:52:28.687000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1n40vmj/goyo_error_detected_key_not_present_in_dictionary/",
+      "content_preview": "",
+      "flair": [
+        "Need Help┃Solved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "You Don't Need a Fuzzy Finder - Vim Tips & Tricks",
+      "permalink": "https://www.reddit.com/r/vim/comments/1n53ugg/you_dont_need_a_fuzzy_finder_vim_tips_tricks/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1n53ugg",
+      "post_type": "crosspost",
+      "domain": "youtu.be",
+      "author": "mplusp",
+      "author_id": "t2_166en2",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-31T19:35:03.128000+0000",
+      "content_href": "/r/neovim/comments/1n53u4u/you_dont_need_a_fuzzy_finder_vim_tips_tricks/",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1788o7/styles/profileIcon_uw28okqfbzhf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=bd98c523d12b8b5011c56052968936310c515daa"
+    },
+    {
+      "title": "Vim and some langs on https://wplace.live/",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mqr1ks/vim_and_some_langs_on_httpswplacelive/",
+      "score": 253,
+      "comments": 1,
+      "post_id": "t3_1mqr1ks",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "jeoum",
+      "author_id": "t2_6xink6k4",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-15T07:48:58.493000+0000",
+      "content_href": "https://i.redd.it/h5sjf40s15jf1.png",
+      "content_preview": "",
+      "flair": [
+        "Random"
+      ],
+      "thumbnail_url": "https://preview.redd.it/vim-and-some-langs-on-v0-h5sjf40s15jf1.png?auto=webp&s=b9f2088d57e0051b0dae3e9ebca3bf4cb4806c73"
+    },
+    {
+      "title": "777 a magic number ?",
+      "permalink": "https://www.reddit.com/r/vim/comments/1n3g679/777_a_magic_number/",
+      "score": 8,
+      "comments": 9,
+      "post_id": "t3_1n3g679",
+      "post_type": "multi_media",
+      "domain": "self.vim",
+      "author": "Stinky_Dungus",
+      "author_id": "t2_1wbn8ptj3f",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-29T19:03:09.801000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1n3g679/777_a_magic_number/",
+      "content_preview": "",
+      "flair": [
+        "Need Help┃Solved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Toggle between Vim and git diff?",
+      "permalink": "https://www.reddit.com/r/vim/comments/1n0mew5/toggle_between_vim_and_git_diff/",
+      "score": 27,
+      "comments": 37,
+      "post_id": "t3_1n0mew5",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "SevrinTheMuto",
+      "author_id": "t2_br4r1uof4",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-26T13:50:44.780000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1n0mew5/toggle_between_vim_and_git_diff/",
+      "content_preview": "",
+      "flair": [
+        "Need Help┃Solved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Does tpopes vim surround have a corresponding text object plugin to do stuff inside of, well, the surrounds?",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mzsop5/does_tpopes_vim_surround_have_a_corresponding/",
+      "score": 3,
+      "comments": 2,
+      "post_id": "t3_1mzsop5",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "BodybuilderPatient89",
+      "author_id": "t2_upv39iv0",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-25T14:54:55.364000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1mzsop5/does_tpopes_vim_surround_have_a_corresponding/",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "A fun, lightweight browser game to quickly learn core Vim commands",
+      "permalink": "https://www.reddit.com/r/vim/comments/1n1sbi5/a_fun_lightweight_browser_game_to_quickly_learn/",
+      "score": 26,
+      "comments": 2,
+      "post_id": "t3_1n1sbi5",
+      "post_type": "multi_media",
+      "domain": "self.vim",
+      "author": "rnzops",
+      "author_id": "t2_952sk584",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-27T20:33:32.594000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1n1sbi5/a_fun_lightweight_browser_game_to_quickly_learn/",
+      "content_preview": "",
+      "flair": [
+        "Random"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What are the differences between foreach() and mapnew()?",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mtj2fn/what_are_the_differences_between_foreach_and/",
+      "score": 6,
+      "comments": 4,
+      "post_id": "t3_1mtj2fn",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "Desperate_Cold6274",
+      "author_id": "t2_abj34f962",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-18T11:13:36.370000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1mtj2fn/what_are_the_differences_between_foreach_and/",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Colorless, a monochrome color scheme for vim",
+      "permalink": "https://www.reddit.com/r/vim/comments/1myzky8/colorless_a_monochrome_color_scheme_for_vim/",
+      "score": 127,
+      "comments": 19,
+      "post_id": "t3_1myzky8",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "StrikingBit8569",
+      "author_id": "t2_1ruavbthwa",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-24T16:06:26.180000+0000",
+      "content_href": "https://www.reddit.com/gallery/1myzky8",
+      "content_preview": "",
+      "flair": [
+        "Color Scheme"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eqocpi/styles/profileIcon_nzwelb01kjlf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6bccfd3c940821717363f554e1d03e3690bd4f70"
+    },
+    {
+      "title": "best place to ask vim9script newbie questions?",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mtbaab/best_place_to_ask_vim9script_newbie_questions/",
+      "score": 6,
+      "comments": 5,
+      "post_id": "t3_1mtbaab",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "cc9cii",
+      "author_id": "t2_k3cnran",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-18T03:37:43.098000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1mtbaab/best_place_to_ask_vim9script_newbie_questions/",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_puxow/styles/profileIcon_3t29ofu222m21.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=158cbca08960b269c741bb048b5ad5673ebc7a12"
+    },
+    {
+      "title": "A calming Vim tutorial introducing new users to basic motions",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mzzle3/a_calming_vim_tutorial_introducing_new_users_to/",
+      "score": 91,
+      "comments": 21,
+      "post_id": "t3_1mzzle3",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "bcionescu",
+      "author_id": "t2_1wepstzg0p",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-25T19:08:48.518000+0000",
+      "content_href": "https://youtu.be/6tsuMWAarqo",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "First Time Making a Vim Plugin, Fuzzy Finder & Autocomplete",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mtas85/first_time_making_a_vim_plugin_fuzzy_finder/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1mtas85",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "SeaInformation8764",
+      "author_id": "t2_vmzeojfh",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-18T03:12:28.904000+0000",
+      "content_href": "https://github.com/ephf/dumb.vim",
+      "content_preview": "",
+      "flair": [
+        "Plugin"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/Mtc4tfgcd9uO__38eq_yY5j_c1w8kujcKDHXaWnYhaY.png?width=140&height=70&crop=140:70,smart&auto=webp&s=5fe5483c3dd39c2838da32b08505d22c4a4cdefa"
+    },
+    {
+      "title": "which-key for vim that's not bad?",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mf0q4o/whichkey_for_vim_thats_not_bad/",
+      "score": 14,
+      "comments": 0,
+      "post_id": "t3_1mf0q4o",
+      "post_type": "multi_media",
+      "domain": "self.vim",
+      "author": "BareWatah",
+      "author_id": "t2_z2bqs",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-01T16:14:11.309000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1mf0q4o/whichkey_for_vim_thats_not_bad/",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Plot with Vim!",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mtwffg/plot_with_vim/",
+      "score": 85,
+      "comments": 10,
+      "post_id": "t3_1mtwffg",
+      "post_type": "multi_media",
+      "domain": "self.vim",
+      "author": "Desperate_Cold6274",
+      "author_id": "t2_abj34f962",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-18T19:48:06.050000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1mtwffg/plot_with_vim/",
+      "content_preview": "",
+      "flair": [
+        "Random"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Workflow question: how to avoid swapping between insert and normal all the time",
+      "permalink": "https://www.reddit.com/r/vim/comments/1n31v6k/workflow_question_how_to_avoid_swapping_between/",
+      "score": 17,
+      "comments": 37,
+      "post_id": "t3_1n31v6k",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "numeralbug",
+      "author_id": "t2_158leb4q4h",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-29T08:31:50.548000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1n31v6k/workflow_question_how_to_avoid_swapping_between/",
+      "content_preview": "",
+      "flair": [
+        "Need Help┃Solved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Key mappings defined inside functions don't work? (CR gets ignored)",
+      "permalink": "https://www.reddit.com/r/vim/comments/1n4nzpw/key_mappings_defined_inside_functions_dont_work/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n4nzpw",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "Linguistic-mystic",
+      "author_id": "t2_hqdzon6o",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-31T06:55:31.919000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1n4nzpw/key_mappings_defined_inside_functions_dont_work/",
+      "content_preview": "",
+      "flair": [
+        "Need Help┃Solved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "YouCompleteMe",
+      "permalink": "https://www.reddit.com/r/vim/comments/1n1rjok/youcompleteme/",
+      "score": 13,
+      "comments": 22,
+      "post_id": "t3_1n1rjok",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "placer_toffee0i",
+      "author_id": "t2_bkw9krra",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-27T20:03:48.973000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1n1rjok/youcompleteme/",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Mastering Vim's Quickfix List",
+      "permalink": "https://www.reddit.com/r/vim/comments/1n3gy9c/mastering_vims_quickfix_list/",
+      "score": 5,
+      "comments": 0,
+      "post_id": "t3_1n3gy9c",
+      "post_type": "crosspost",
+      "domain": "youtu.be",
+      "author": "mplusp",
+      "author_id": "t2_166en2",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-29T19:34:05.196000+0000",
+      "content_href": "/r/neovim/comments/1mmntjn/mastering_vims_quickfix_list/",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1788o7/styles/profileIcon_uw28okqfbzhf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=bd98c523d12b8b5011c56052968936310c515daa"
+    },
+    {
+      "title": "Using vim to write novel?",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mevkjx/using_vim_to_write_novel/",
+      "score": 18,
+      "comments": 30,
+      "post_id": "t3_1mevkjx",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "JohnCharles-2024",
+      "author_id": "t2_9c0p8ec0",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-01T12:47:15.260000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1mevkjx/using_vim_to_write_novel/",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Is there a way to convert syntax highlighting to html?",
+      "permalink": "https://www.reddit.com/r/vim/comments/1n0fqxa/is_there_a_way_to_convert_syntax_highlighting_to/",
+      "score": 13,
+      "comments": 3,
+      "post_id": "t3_1n0fqxa",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "SpecificMachine1",
+      "author_id": "t2_167hax1",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-26T07:53:52.568000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1n0fqxa/is_there_a_way_to_convert_syntax_highlighting_to/",
+      "content_preview": "",
+      "flair": [
+        "Need Help┃Solved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Why does smoothscroll only work in one direction (down)?",
+      "permalink": "https://www.reddit.com/r/vim/comments/1n1uu9d/why_does_smoothscroll_only_work_in_one_direction/",
+      "score": 0,
+      "comments": 14,
+      "post_id": "t3_1n1uu9d",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "lopsidedcroc",
+      "author_id": "t2_5hcmk5aa",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-27T22:12:25.412000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1n1uu9d/why_does_smoothscroll_only_work_in_one_direction/",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "for noobs (and me too) this reposted but mandatory read",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mrxkbo/for_noobs_and_me_too_this_reposted_but_mandatory/",
+      "score": 58,
+      "comments": 20,
+      "post_id": "t3_1mrxkbo",
+      "post_type": "link",
+      "domain": "m4xshen.dev",
+      "author": "jazei_2021",
+      "author_id": "t2_cysgtocl",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-16T14:55:50.456000+0000",
+      "content_href": "https://m4xshen.dev/posts/overuse-vim-visual-mode",
+      "content_preview": "",
+      "flair": [
+        "Tips and Tricks"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/HBc5yZHeRHJHRcbdYrYsT_rdg643SKpcBAkQl13cR_I.png?width=140&height=73&crop=140:73,smart&auto=webp&s=3b3f404ea4177920aab0a08e085f3a85ea101e71"
+    },
+    {
+      "title": "Repeat a command n times based on the contents of a register",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mebt0w/repeat_a_command_n_times_based_on_the_contents_of/",
+      "score": 5,
+      "comments": 4,
+      "post_id": "t3_1mebt0w",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "Just_Kale7966",
+      "author_id": "t2_17klgiaazw",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-07-31T20:00:49.946000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1mebt0w/repeat_a_command_n_times_based_on_the_contents_of/",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "What should I do if the content to be substituded in the replacement field happens to be a special character preset by Vim?",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mzbm2s/what_should_i_do_if_the_content_to_be_substituded/",
+      "score": 5,
+      "comments": 8,
+      "post_id": "t3_1mzbm2s",
+      "post_type": "multi_media",
+      "domain": "self.vim",
+      "author": "LingChuan_Swordman",
+      "author_id": "t2_ardyejdq",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-24T23:58:45.387000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1mzbm2s/what_should_i_do_if_the_content_to_be_substituded/",
+      "content_preview": "",
+      "flair": [
+        "Need Help┃Solved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Viminfo keeps changing to latin1",
+      "permalink": "https://www.reddit.com/r/vim/comments/1n1fabl/viminfo_keeps_changing_to_latin1/",
+      "score": 11,
+      "comments": 4,
+      "post_id": "t3_1n1fabl",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "Neter8",
+      "author_id": "t2_xkie7",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-27T12:10:56.440000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1n1fabl/viminfo_keeps_changing_to_latin1/",
+      "content_preview": "",
+      "flair": [
+        "Need Help┃Solved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Canvas-based modal editor - Vim on a Canvas - WIP",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mlzv4b/canvasbased_modal_editor_vim_on_a_canvas_wip/",
+      "score": 45,
+      "comments": 3,
+      "post_id": "t3_1mlzv4b",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "Healthy-Director-702",
+      "author_id": "t2_ji4mpzpv",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-09T20:48:13.067000+0000",
+      "content_href": "https://youtu.be/IIJP-Y-p3vw",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5twh9h/styles/profileIcon_tln4h4cup6ac1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4d54e6a0174bbd7f3db8cf2219045122efdca856"
+    },
+    {
+      "title": "Vim9-Scratchterm will now detect and use Rust Coreutils",
+      "permalink": "https://www.reddit.com/r/vim/comments/1n0o54g/vim9scratchterm_will_now_detect_and_use_rust/",
+      "score": 7,
+      "comments": 1,
+      "post_id": "t3_1n0o54g",
+      "post_type": "multi_media",
+      "domain": "self.vim",
+      "author": "Shay-Hill",
+      "author_id": "t2_xjocb0ai3",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-26T14:58:41.712000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1n0o54g/vim9scratchterm_will_now_detect_and_use_rust/",
+      "content_preview": "",
+      "flair": [
+        "Plugin"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "I just grasped the idea of global execution, it's amazing",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mdpz90/i_just_grasped_the_idea_of_global_execution_its/",
+      "score": 110,
+      "comments": 24,
+      "post_id": "t3_1mdpz90",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "Guarapo8",
+      "author_id": "t2_1r538tig2n",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-07-31T02:36:53.800000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1mdpz90/i_just_grasped_the_idea_of_global_execution_its/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "It is easier than ever to contribute to awesome-vim9 (list of Vim9 plugins)",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mcv7ie/it_is_easier_than_ever_to_contribute_to/",
+      "score": 32,
+      "comments": 0,
+      "post_id": "t3_1mcv7ie",
+      "post_type": "multi_media",
+      "domain": "self.vim",
+      "author": "Shay-Hill",
+      "author_id": "t2_xjocb0ai3",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-07-30T02:45:59.205000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1mcv7ie/it_is_easier_than_ever_to_contribute_to/",
+      "content_preview": "",
+      "flair": [
+        "Tips and Tricks"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Why is there no haskell.vim indent file?",
+      "permalink": "https://www.reddit.com/r/vim/comments/1n1npr3/why_is_there_no_haskellvim_indent_file/",
+      "score": 4,
+      "comments": 2,
+      "post_id": "t3_1n1npr3",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "patenteng",
+      "author_id": "t2_9gmzao3",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-27T17:39:55.580000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1n1npr3/why_is_there_no_haskellvim_indent_file/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Does anyone here use a qmk keyboard? What integrations have you designed to improve your workflows?",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mct2a5/does_anyone_here_use_a_qmk_keyboard_what/",
+      "score": 11,
+      "comments": 19,
+      "post_id": "t3_1mct2a5",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "Sun-God-Ramen",
+      "author_id": "t2_uw925m3t",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-07-30T01:03:54.321000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1mct2a5/does_anyone_here_use_a_qmk_keyboard_what/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Configuring vimium shortcut keys",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mc2spk/configuring_vimium_shortcut_keys/",
+      "score": 4,
+      "comments": 4,
+      "post_id": "t3_1mc2spk",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "Raza-Vakil",
+      "author_id": "t2_8kh334i4",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-07-29T05:08:33.856000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1mc2spk/configuring_vimium_shortcut_keys/",
+      "content_preview": "",
+      "flair": [
+        "Need Help┃Solved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Quickly navigate in man pages, using emacs, neovim or w3m.",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mxxc4n/quickly_navigate_in_man_pages_using_emacs_neovim/",
+      "score": 6,
+      "comments": 6,
+      "post_id": "t3_1mxxc4n",
+      "post_type": "crosspost",
+      "domain": "codeberg.org",
+      "author": "orduval",
+      "author_id": "t2_11eojh",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-23T09:54:46.808000+0000",
+      "content_href": "/r/linux/comments/1mx77vh/quickly_navigate_in_man_pages_using_emacs_neovim/",
+      "content_preview": "",
+      "flair": [
+        "Blog Post"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ew5be/styles/profileIcon_nn64mm4rstua1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d7245bfb9123524c9a1a883956ff9b8b35e74f7a"
+    },
+    {
+      "title": "new window: split largest window either vertical or horizontal",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mwsm2v/new_window_split_largest_window_either_vertical/",
+      "score": 7,
+      "comments": 2,
+      "post_id": "t3_1mwsm2v",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "habamax",
+      "author_id": "t2_3as7z",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-22T00:55:02.514000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1mwsm2v/new_window_split_largest_window_either_vertical/",
+      "content_preview": "",
+      "flair": [
+        "Tips and Tricks"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Just launched BobaVim: a browser game to learn and practice Vim motions with solo and 1v1 modes",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mazaic/just_launched_bobavim_a_browser_game_to_learn_and/",
+      "score": 64,
+      "comments": 42,
+      "post_id": "t3_1mazaic",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "Minimum_Abies3578",
+      "author_id": "t2_1ug6g2n1tk",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-07-27T22:18:37.013000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1mazaic/just_launched_bobavim_a_browser_game_to_learn_and/",
+      "content_preview": "",
+      "flair": [
+        "Random"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f19oiw/styles/profileIcon_jf9abdd9gkff1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d7e729feb1514a1fb71c246e7a012bb9e4e95bf9"
+    },
+    {
+      "title": "Wrapping tests in tables",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mbecft/wrapping_tests_in_tables/",
+      "score": 5,
+      "comments": 2,
+      "post_id": "t3_1mbecft",
+      "post_type": "multi_media",
+      "domain": "self.vim",
+      "author": "Desperate_Cold6274",
+      "author_id": "t2_abj34f962",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-07-28T12:04:49.076000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1mbecft/wrapping_tests_in_tables/",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Vim as main editor - Age",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mb06qj/vim_as_main_editor_age/",
+      "score": 39,
+      "comments": 62,
+      "post_id": "t3_1mb06qj",
+      "post_type": "poll",
+      "domain": "self.vim",
+      "author": "hegardian",
+      "author_id": "t2_g172skjl7",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-07-27T22:58:46.635000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1mb06qj/vim_as_main_editor_age/",
+      "content_preview": "",
+      "flair": [
+        "Random"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What do you guys use for note taking?",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mwhq8d/what_do_you_guys_use_for_note_taking/",
+      "score": 43,
+      "comments": 82,
+      "post_id": "t3_1mwhq8d",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "ranys0",
+      "author_id": "t2_9g09znsqy",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-21T17:37:24.448000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1mwhq8d/what_do_you_guys_use_for_note_taking/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Vim - Calling External Commands (Visual Guide)",
+      "permalink": "https://www.reddit.com/r/vim/comments/1ma7uf4/vim_calling_external_commands_visual_guide/",
+      "score": 269,
+      "comments": 29,
+      "post_id": "t3_1ma7uf4",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "deepCelibateValue",
+      "author_id": "t2_aif8zqe4",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-07-26T23:45:20.129000+0000",
+      "content_href": "https://i.redd.it/hews51yb2bff1.png",
+      "content_preview": "",
+      "flair": [
+        "Tips and Tricks"
+      ],
+      "thumbnail_url": "https://preview.redd.it/vim-calling-external-commands-visual-guide-v0-hews51yb2bff1.png?width=640&crop=smart&auto=webp&s=9ecebefd2dc7142bdd1748ed765ab9d13dd224d4"
+    },
+    {
+      "title": "Do you guys use registers and marks in day to day usage?",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mvuoma/do_you_guys_use_registers_and_marks_in_day_to_day/",
+      "score": 42,
+      "comments": 77,
+      "post_id": "t3_1mvuoma",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "BareWatah",
+      "author_id": "t2_z2bqs",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-20T23:18:36.114000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1mvuoma/do_you_guys_use_registers_and_marks_in_day_to_day/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "What's new in vim: insert mode autocomplete (and command line completion)",
+      "permalink": "https://www.reddit.com/r/vim/comments/1m9mr2v/whats_new_in_vim_insert_mode_autocomplete_and/",
+      "score": 73,
+      "comments": 14,
+      "post_id": "t3_1m9mr2v",
+      "post_type": "multi_media",
+      "domain": "self.vim",
+      "author": "habamax",
+      "author_id": "t2_3as7z",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-07-26T06:54:48.387000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1m9mr2v/whats_new_in_vim_insert_mode_autocomplete_and/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Yet another simple fuzzy file finder",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mvzitt/yet_another_simple_fuzzy_file_finder/",
+      "score": 10,
+      "comments": 1,
+      "post_id": "t3_1mvzitt",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "habamax",
+      "author_id": "t2_3as7z",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-21T03:00:59.745000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1mvzitt/yet_another_simple_fuzzy_file_finder/",
+      "content_preview": "",
+      "flair": [
+        "Tips and Tricks"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Made CLI tool that gives you a new vim command tip each day",
+      "permalink": "https://www.reddit.com/r/vim/comments/1mves7u/made_cli_tool_that_gives_you_a_new_vim_command/",
+      "score": 7,
+      "comments": 0,
+      "post_id": "t3_1mves7u",
+      "post_type": "multi_media",
+      "domain": "self.vim",
+      "author": "skrhee16",
+      "author_id": "t2_yjef3zsxc",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-08-20T13:26:56.163000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1mves7u/made_cli_tool_that_gives_you_a_new_vim_command/",
+      "content_preview": "",
+      "flair": [
+        "Tips and Tricks"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "For individual files, when opening, restore window position and size from when last closed?",
+      "permalink": "https://www.reddit.com/r/vim/comments/1m9wqiz/for_individual_files_when_opening_restore_window/",
+      "score": 2,
+      "comments": 11,
+      "post_id": "t3_1m9wqiz",
+      "post_type": "text",
+      "domain": "self.vim",
+      "author": "4WoofGrrrr",
+      "author_id": "t2_3veljpcw",
+      "subreddit_id": "t5_2qhqx",
+      "subreddit": "r/vim",
+      "created_ts": "2025-07-26T15:52:04.923000+0000",
+      "content_href": "https://www.reddit.com/r/vim/comments/1m9wqiz/for_individual_files_when_opening_restore_window/",
+      "content_preview": "",
+      "flair": [
+        "Need Help"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_12dcje/styles/profileIcon_6fcjkr6jdjtd1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fbc851b6f656b09a804bf7a12b0ed7ead6a795fe"
+    }
+  ],
+  "scraped_at": "2025-09-02T08:56:08.793135"
+}

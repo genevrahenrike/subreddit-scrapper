@@ -1,0 +1,29 @@
+# Posts extra stopwords example
+# One token per line, or separate tokens by commas/spaces.
+# Lines starting with # are comments.
+ig
+arent
+im
+youre
+theyre
+ive
+id
+dont
+doesnt
+didnt
+isnt
+aint
+gonna
+wanna
+lol
+lmao
+rofl
+omg
+pls
+plz
+tho
+smh
+tbh
+imo
+imho
+irl

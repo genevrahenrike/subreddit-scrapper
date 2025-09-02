@@ -1,0 +1,1011 @@
+{
+  "subreddit": "nextjs",
+  "url": "https://www.reddit.com/r/nextjs",
+  "meta": {
+    "title": "Next.js",
+    "members_text": "471,010"
+  },
+  "posts": [
+    {
+      "title": "Next.js Is Infuriating",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n6n0rq/nextjs_is_infuriating/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1n6n0rq",
+      "post_type": "link",
+      "domain": "blog.meca.sh",
+      "author": "tyteen4a03",
+      "author_id": "t2_5yuek",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-09-02T15:44:37.441000+0000",
+      "content_href": "https://blog.meca.sh/3lxoty3shjc2z",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "No Sane Person Should Self Host Next.js",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n5h10z/no_sane_person_should_self_host_nextjs/",
+      "score": 254,
+      "comments": 126,
+      "post_id": "t3_1n5h10z",
+      "post_type": "multi_media",
+      "domain": "self.nextjs",
+      "author": "GovernmentOnly8636",
+      "author_id": "t2_ffw2aj8p",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-09-01T06:11:10.269000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n5h10z/no_sane_person_should_self_host_nextjs/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Does anyone know a good electron.js + Next.js startkit/template",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n697y3/does_anyone_know_a_good_electronjs_nextjs/",
+      "score": 7,
+      "comments": 3,
+      "post_id": "t3_1n697y3",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "Fickle_Degree_2728",
+      "author_id": "t2_1oqmaaey53",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-09-02T03:37:06.017000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n697y3/does_anyone_know_a_good_electronjs_nextjs/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "35 seconds is fucking ridiculous",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1mi771x/35_seconds_is_fucking_ridiculous/",
+      "score": 330,
+      "comments": 122,
+      "post_id": "t3_1mi771x",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Immediate-Stop2153",
+      "author_id": "t2_1nam51eu4l",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-05T11:58:49.462000+0000",
+      "content_href": "https://i.redd.it/efpj2ewcx6hf1.png",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Setting up DB from multiple csv files.",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n5k79i/setting_up_db_from_multiple_csv_files/",
+      "score": 4,
+      "comments": 3,
+      "post_id": "t3_1n5k79i",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "rishiilahoti",
+      "author_id": "t2_dwlwxjy9",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-09-01T09:31:18.993000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n5k79i/setting_up_db_from_multiple_csv_files/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4x2i93/styles/profileIcon_s1m3562ojfld1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b8b856cf3f910d9f403b6b874e6c5cf210bbb8fd"
+    },
+    {
+      "title": "Am I the only one tired of every Next.js tutorial on Youtube being a paid service promotion?",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n55ksw/am_i_the_only_one_tired_of_every_nextjs_tutorial/",
+      "score": 144,
+      "comments": 49,
+      "post_id": "t3_1n55ksw",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "wanna-be-annonymous",
+      "author_id": "t2_r2pfngpa",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-31T20:44:32.513000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n55ksw/am_i_the_only_one_tired_of_every_nextjs_tutorial/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "app configuration for static exports",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n5jcjy/app_configuration_for_static_exports/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n5jcjy",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "sbergot",
+      "author_id": "t2_d15k6",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-09-01T08:36:18.970000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n5jcjy/app_configuration_for_static_exports/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I built a platform to share projects & learn from other devs thoughts?",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n6miwx/i_built_a_platform_to_share_projects_learn_from/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6miwx",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "mohamedfo14",
+      "author_id": "t2_ljt8tqt1",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-09-02T15:25:39.345000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n6miwx/i_built_a_platform_to_share_projects_learn_from/",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Lessons learned from 2 years self-hosting Next.js on scale in production",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1mzxm6m/lessons_learned_from_2_years_selfhosting_nextjs/",
+      "score": 222,
+      "comments": 49,
+      "post_id": "t3_1mzxm6m",
+      "post_type": "link",
+      "domain": "dlhck.com",
+      "author": "dlhck",
+      "author_id": "t2_y1at7x1d9",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-25T17:54:51.209000+0000",
+      "content_href": "https://dlhck.com/thoughts/the-complete-guide-to-self-hosting-nextjs-at-scale",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ba2ln2/styles/profileIcon_qwctlqfomrsd1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=624cb9149ddd443d526b29429deff148fabeaa21"
+    },
+    {
+      "title": "What's the most complex AI feature you've ever implemented?",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n5bd3s/whats_the_most_complex_ai_feature_youve_ever/",
+      "score": 9,
+      "comments": 6,
+      "post_id": "t3_1n5bd3s",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "LargeSinkholesInNYC",
+      "author_id": "t2_1svlatr6zb",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-09-01T01:07:50.712000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n5bd3s/whats_the_most_complex_ai_feature_youve_ever/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "As an intermediate/advanced Next.js dev, what would you tell a beginner NOT to do?",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n1lzbx/as_an_intermediateadvanced_nextjs_dev_what_would/",
+      "score": 50,
+      "comments": 60,
+      "post_id": "t3_1n1lzbx",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "cragtok",
+      "author_id": "t2_1tqislq523",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-27T16:36:07.020000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n1lzbx/as_an_intermediateadvanced_nextjs_dev_what_would/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Is there a recommended approach to building an Uber-style map in Next.js with Google map Api ?",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n5a8rp/is_there_a_recommended_approach_to_building_an/",
+      "score": 9,
+      "comments": 2,
+      "post_id": "t3_1n5a8rp",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "Legal_Shallot_9103",
+      "author_id": "t2_m0uon56j",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-09-01T00:12:01.457000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n5a8rp/is_there_a_recommended_approach_to_building_an/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Best Approaches for Managing Global State in Next.js Apps Without Overhead?",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n1fvb9/best_approaches_for_managing_global_state_in/",
+      "score": 39,
+      "comments": 36,
+      "post_id": "t3_1n1fvb9",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "Sansenbaker",
+      "author_id": "t2_1v5sjqcho2",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-27T12:38:05.530000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n1fvb9/best_approaches_for_managing_global_state_in/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f454k3/styles/profileIcon_nenwzlg7eihf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ca241a9643a5d0c54c6d063bd2ba03aa8d6415ce"
+    },
+    {
+      "title": "Rehype Plugins with Turbopack",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n59ul9/rehype_plugins_with_turbopack/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1n59ul9",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "InsaneLightspeed",
+      "author_id": "t2_b59lpjaq",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-31T23:53:14.585000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n59ul9/rehype_plugins_with_turbopack/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Next.js 15.5 now available!",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1mv56w6/nextjs_155_now_available/",
+      "score": 180,
+      "comments": 37,
+      "post_id": "t3_1mv56w6",
+      "post_type": "link",
+      "domain": "nextjs.org",
+      "author": "feedthejim",
+      "author_id": "t2_nmjxw",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-20T04:34:29.501000+0000",
+      "content_href": "https://nextjs.org/blog/next-15-5",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Title: How much should I charge for a Next.js Admin Panel (Bangladesh)?",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n55ukf/title_how_much_should_i_charge_for_a_nextjs_admin/",
+      "score": 3,
+      "comments": 4,
+      "post_id": "t3_1n55ukf",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "Livid-Simple2181",
+      "author_id": "t2_u8cu6aa74",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-31T20:55:40.813000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n55ukf/title_how_much_should_i_charge_for_a_nextjs_admin/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Tech stack that i use as a solo developer",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1mi2a8x/tech_stack_that_i_use_as_a_solo_developer/",
+      "score": 169,
+      "comments": 86,
+      "post_id": "t3_1mi2a8x",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Sha_did",
+      "author_id": "t2_4fvjfqd63",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-05T07:02:52.976000+0000",
+      "content_href": "https://i.redd.it/ap8fjheng5hf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7v6nb4/styles/profileIcon_8y4yed43rjne1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2f13b063261aa6e47209f539856ddc182058d998"
+    },
+    {
+      "title": "What are some of the best production-grade dashboard apps on GitHub?",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n4z566/what_are_some_of_the_best_productiongrade/",
+      "score": 6,
+      "comments": 3,
+      "post_id": "t3_1n4z566",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "LargeSinkholesInNYC",
+      "author_id": "t2_1svlatr6zb",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-31T16:28:15.250000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n4z566/what_are_some_of_the_best_productiongrade/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Nextjs 13.3.2 ECONNREFUSED when using docker",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n4u5x8/nextjs_1332_econnrefused_when_using_docker/",
+      "score": 4,
+      "comments": 8,
+      "post_id": "t3_1n4u5x8",
+      "post_type": "multi_media",
+      "domain": "self.nextjs",
+      "author": "Jerenob",
+      "author_id": "t2_6g5ewoyi",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-31T13:03:42.665000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n4u5x8/nextjs_1332_econnrefused_when_using_docker/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Authentication in NextJS 15",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n3c76c/authentication_in_nextjs_15/",
+      "score": 36,
+      "comments": 36,
+      "post_id": "t3_1n3c76c",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "Independent_Pen_2882",
+      "author_id": "t2_1jxckgo40n",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-29T16:32:15.870000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n3c76c/authentication_in_nextjs_15/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Next.js Backend Future: Will It Ever Compete with Nest or Express?",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n46p7n/nextjs_backend_future_will_it_ever_compete_with/",
+      "score": 35,
+      "comments": 40,
+      "post_id": "t3_1n46p7n",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "Bayrem23",
+      "author_id": "t2_oev146ipc",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-30T16:59:55.014000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n46p7n/nextjs_backend_future_will_it_ever_compete_with/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Tried v0 for SwiftUI today… it’s literally 5x better than GPT/Sonnet/Grok",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n2gtcs/tried_v0_for_swiftui_today_its_literally_5x/",
+      "score": 29,
+      "comments": 23,
+      "post_id": "t3_1n2gtcs",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "PlayfulFeedback6759",
+      "author_id": "t2_9636suub",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-28T16:22:16.982000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n2gtcs/tried_v0_for_swiftui_today_its_literally_5x/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Refreshing specific data in RSCs?",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n3hbmd/refreshing_specific_data_in_rscs/",
+      "score": 2,
+      "comments": 22,
+      "post_id": "t3_1n3hbmd",
+      "post_type": "multi_media",
+      "domain": "self.nextjs",
+      "author": "The-_Captain",
+      "author_id": "t2_svcvf",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-29T19:48:22.497000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n3hbmd/refreshing_specific_data_in_rscs/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Problem with printing on thermal printer",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n3frod/problem_with_printing_on_thermal_printer/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1n3frod",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "xDRAG0N01",
+      "author_id": "t2_l29mw28d",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-29T18:47:39.257000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n3frod/problem_with_printing_on_thermal_printer/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Alternative for Excel JS",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n6m9z9/alternative_for_excel_js/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6m9z9",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "Sensitive-Fan-6387",
+      "author_id": "t2_1wyplzdrfc",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-09-02T15:16:19.707000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n6m9z9/alternative_for_excel_js/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Tailwind css z-index not working",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n2grr2/tailwind_css_zindex_not_working/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n2grr2",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "Logical_Difficulty79",
+      "author_id": "t2_9zbqk233",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-28T16:20:37.625000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n2grr2/tailwind_css_zindex_not_working/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Understanding SSR, CSR, SSG, SPA and hydration...(phew!)",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n1clan/understanding_ssr_csr_ssg_spa_and_hydrationphew/",
+      "score": 26,
+      "comments": 8,
+      "post_id": "t3_1n1clan",
+      "post_type": "multi_media",
+      "domain": "self.nextjs",
+      "author": "Rich_Mind2277",
+      "author_id": "t2_8adqvr0p",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-27T09:44:55.608000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n1clan/understanding_ssr_csr_ssg_spa_and_hydrationphew/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Supabase Middleware not working",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n6lv3r/supabase_middleware_not_working/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n6lv3r",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "plulu21",
+      "author_id": "t2_nd3m6qb7",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-09-02T15:00:57.717000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n6lv3r/supabase_middleware_not_working/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Confused about Raster vs Vector in Web Apps (SVG, PNG/WebP, performance, right-click etc.)",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n04tz4/confused_about_raster_vs_vector_in_web_apps_svg/",
+      "score": 4,
+      "comments": 4,
+      "post_id": "t3_1n04tz4",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "tharushkadinujaya05",
+      "author_id": "t2_r0daq84sg",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-25T22:31:01.780000+0000",
+      "content_href": "https://i.redd.it/17gbgswgs8lf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_agbffh/styles/profileIcon_8wahu54bb7lf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=67f5b1bd65fa1e773138b6564c17eebf8c8495aa"
+    },
+    {
+      "title": "How do you handle Next.js builds in Docker when API server isn’t up yet?",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n2mjpx/how_do_you_handle_nextjs_builds_in_docker_when/",
+      "score": 19,
+      "comments": 14,
+      "post_id": "t3_1n2mjpx",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "iam_batman27",
+      "author_id": "t2_jkes21pai",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-28T19:58:48.647000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n2mjpx/how_do_you_handle_nextjs_builds_in_docker_when/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Enterprise Software?",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n3sqqb/enterprise_software/",
+      "score": 18,
+      "comments": 9,
+      "post_id": "t3_1n3sqqb",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "FutureXFuture",
+      "author_id": "t2_spvc8698g",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-30T04:41:45.700000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n3sqqb/enterprise_software/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Open-Source Next.js + Prisma Auth Boilerplate (Email Verification, Google Auth, Password Reset)",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1myi57a/opensource_nextjs_prisma_auth_boilerplate_email/",
+      "score": 6,
+      "comments": 1,
+      "post_id": "t3_1myi57a",
+      "post_type": "multi_media",
+      "domain": "self.nextjs",
+      "author": "Striking-Rice6788",
+      "author_id": "t2_9qg9nzarx",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-24T00:52:51.244000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1myi57a/opensource_nextjs_prisma_auth_boilerplate_email/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "PWA Icon Not Loading on iOS When Bot Protection is Enabled",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1myf1wn/pwa_icon_not_loading_on_ios_when_bot_protection/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1myf1wn",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "TopFunfund",
+      "author_id": "t2_brxzoj4s",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-23T22:29:58.904000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1myf1wn/pwa_icon_not_loading_on_ios_when_bot_protection/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Refactoring a Next.js & Tailwind app with Cursor",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n0kqog/refactoring_a_nextjs_tailwind_app_with_cursor/",
+      "score": 15,
+      "comments": 16,
+      "post_id": "t3_1n0kqog",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "lrobinson2011",
+      "author_id": "t2_5sz9s",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-26T12:40:36.454000+0000",
+      "content_href": "https://www.youtube.com/watch?v=oLEzzM5DzoU",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4bnzf/styles/profileIcon_zh8su1rktkbe1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8999df79b01d64ed55fc0ad3523eefe87640003c"
+    },
+    {
+      "title": "Help to create this as a moving background",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n6dyc6/help_to_create_this_as_a_moving_background/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1n6dyc6",
+      "post_type": "multi_media",
+      "domain": "self.nextjs",
+      "author": "Agreeable-Ad1199",
+      "author_id": "t2_1t6qdw3dtn",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-09-02T08:26:13.843000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n6dyc6/help_to_create_this_as_a_moving_background/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "How to change the Google OAuth displayed url.",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1my48ua/how_to_change_the_google_oauth_displayed_url/",
+      "score": 3,
+      "comments": 6,
+      "post_id": "t3_1my48ua",
+      "post_type": "multi_media",
+      "domain": "self.nextjs",
+      "author": "Objective_Coat_999",
+      "author_id": "t2_r3yq2iotp",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-23T15:22:00.347000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1my48ua/how_to_change_the_google_oauth_displayed_url/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Is it just me or does shadcn sonner miss the mark?",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n4ojs9/is_it_just_me_or_does_shadcn_sonner_miss_the_mark/",
+      "score": 13,
+      "comments": 12,
+      "post_id": "t3_1n4ojs9",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "Specialist-Pool1044",
+      "author_id": "t2_8bbbcyn7",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-31T07:30:26.389000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n4ojs9/is_it_just_me_or_does_shadcn_sonner_miss_the_mark/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "self hosted CMS with visual builder",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1my4jec/self_hosted_cms_with_visual_builder/",
+      "score": 2,
+      "comments": 9,
+      "post_id": "t3_1my4jec",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "Sweet_Cheesecake1029",
+      "author_id": "t2_16lp7v0qbv",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-23T15:33:21.418000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1my4jec/self_hosted_cms_with_visual_builder/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Is Dockploy an option?",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1mxwaaf/is_dockploy_an_option/",
+      "score": 5,
+      "comments": 10,
+      "post_id": "t3_1mxwaaf",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "JpPestana",
+      "author_id": "t2_85n84uyl",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-23T08:48:12.102000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1mxwaaf/is_dockploy_an_option/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Monorepo for Contentful",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1mwymcj/monorepo_for_contentful/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1mwymcj",
+      "post_type": "multi_media",
+      "domain": "self.nextjs",
+      "author": "nimishroboto",
+      "author_id": "t2_1py1kwb9we",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-22T06:03:59.247000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1mwymcj/monorepo_for_contentful/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Old build getting cached on client browser after Vercel deploy (Next.js)",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1mx1t8v/old_build_getting_cached_on_client_browser_after/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1mx1t8v",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "Aryanat1911",
+      "author_id": "t2_bntzymjz",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-22T09:28:24.566000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1mx1t8v/old_build_getting_cached_on_client_browser_after/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "AI programming today is just 'enhanced autocomplete', nothing more.",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1mgpcuv/ai_programming_today_is_just_enhanced/",
+      "score": 136,
+      "comments": 77,
+      "post_id": "t3_1mgpcuv",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "faststacked",
+      "author_id": "t2_1uwxcj7mkn",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-03T17:40:27.039000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1mgpcuv/ai_programming_today_is_just_enhanced/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Noob here. Deployed website using github pages and this is the page I'm getting",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n4l66s/noob_here_deployed_website_using_github_pages_and/",
+      "score": 12,
+      "comments": 11,
+      "post_id": "t3_1n4l66s",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "PizzaLordLegacy",
+      "author_id": "t2_ue06j",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-31T04:07:26.229000+0000",
+      "content_href": "https://i.redd.it/bgh97e2j4amf1.png",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://preview.redd.it/noob-here-deployed-website-using-github-pages-and-this-is-v0-bgh97e2j4amf1.png?width=640&crop=smart&auto=webp&s=acc013c59e998dd8a0b6077bfbb9ac0ad2d5aa7b"
+    },
+    {
+      "title": "\"[Next.js + next-intl] Refresh causes route parameter to become undefined, only works with client-side navigation\"",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1mwx7cw/nextjs_nextintl_refresh_causes_route_parameter_to/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1mwx7cw",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "Responsible_Bus_1673",
+      "author_id": "t2_9zg0rkab4",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-22T04:42:35.469000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1mwx7cw/nextjs_nextintl_refresh_causes_route_parameter_to/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "I love Anki, so I tried making my own version using nextjs",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n30erm/i_love_anki_so_i_tried_making_my_own_version/",
+      "score": 11,
+      "comments": 7,
+      "post_id": "t3_1n30erm",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "NecessaryFisherman88",
+      "author_id": "t2_pkj1wpqp",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-29T06:56:59.141000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n30erm/i_love_anki_so_i_tried_making_my_own_version/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "What is the best current way to proxy requests to API with self-signed certificate?",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1mwfv9w/what_is_the_best_current_way_to_proxy_requests_to/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1mwfv9w",
+      "post_type": "multi_media",
+      "domain": "self.nextjs",
+      "author": "Synopticum",
+      "author_id": "t2_5zqhcl0e",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-21T16:29:56.468000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1mwfv9w/what_is_the_best_current_way_to_proxy_requests_to/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "What can you do and what can you not do with NextJS? How's it Backend Capabilities?",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n42rv8/what_can_you_do_and_what_can_you_not_do_with/",
+      "score": 10,
+      "comments": 11,
+      "post_id": "t3_1n42rv8",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "specialagent001",
+      "author_id": "t2_bh1s9ndb",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-30T14:18:31.426000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n42rv8/what_can_you_do_and_what_can_you_not_do_with/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Is there a React/Next.js library or GSAP method for scroll-animated timeline with curved line?",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1n5rpy1/is_there_a_reactnextjs_library_or_gsap_method_for/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n5rpy1",
+      "post_type": "multi_media",
+      "domain": "self.nextjs",
+      "author": "crazy-wue",
+      "author_id": "t2_tysj4wzl",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-09-01T15:27:00.564000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1n5rpy1/is_there_a_reactnextjs_library_or_gsap_method_for/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What caused Next.js to skyrocket in popularity?",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1mzmkcc/what_caused_nextjs_to_skyrocket_in_popularity/",
+      "score": 120,
+      "comments": 67,
+      "post_id": "t3_1mzmkcc",
+      "post_type": "text",
+      "domain": "self.nextjs",
+      "author": "cragtok",
+      "author_id": "t2_1tqislq523",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-25T10:14:12.708000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1mzmkcc/what_caused_nextjs_to_skyrocket_in_popularity/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Vercel deployment fails due to typecheck for Chakra-UI custom recipe variant",
+      "permalink": "https://www.reddit.com/r/nextjs/comments/1mwotfu/vercel_deployment_fails_due_to_typecheck_for/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1mwotfu",
+      "post_type": "multi_media",
+      "domain": "self.nextjs",
+      "author": "lucksp",
+      "author_id": "t2_liqbh",
+      "subreddit_id": "t5_3h7yi",
+      "subreddit": "r/nextjs",
+      "created_ts": "2025-08-21T22:08:21.641000+0000",
+      "content_href": "https://www.reddit.com/r/nextjs/comments/1mwotfu/vercel_deployment_fails_due_to_typecheck_for/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    }
+  ],
+  "scraped_at": "2025-09-02T09:15:40.548191"
+}

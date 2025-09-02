@@ -1,0 +1,1004 @@
+{
+  "subreddit": "algotrading",
+  "url": "https://www.reddit.com/r/algotrading",
+  "meta": {
+    "title": "Algorithmic Trading"
+  },
+  "posts": [
+    {
+      "title": "Weekly Discussion Thread - September 02, 2025",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n6fel0/weekly_discussion_thread_september_02_2025/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6fel0",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-09-02T10:01:12.298000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1n6fel0/weekly_discussion_thread_september_02_2025/",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+    },
+    {
+      "title": "Live algo results after ~30 days of trading BTC on Binance",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n3zd42/live_algo_results_after_30_days_of_trading_btc_on/",
+      "score": 229,
+      "comments": 80,
+      "post_id": "t3_1n3zd42",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "inspiredfighter",
+      "author_id": "t2_6jobk6sj",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-30T11:35:00.970000+0000",
+      "content_href": "https://i.redd.it/ry3xfx9u75mf1.png",
+      "content_preview": "",
+      "flair": [
+        "Data"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Do yall think this strategy is good enough to be used in live markets or not?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n61m9w/do_yall_think_this_strategy_is_good_enough_to_be/",
+      "score": 7,
+      "comments": 28,
+      "post_id": "t3_1n61m9w",
+      "post_type": "multi_media",
+      "domain": "self.algotrading",
+      "author": "Zealousideal-Sale808",
+      "author_id": "t2_9ink9wtk",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-09-01T21:40:30.114000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1n61m9w/do_yall_think_this_strategy_is_good_enough_to_be/",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3mj0vc/styles/profileIcon_8njumirweg0e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=590d5e6a33ef3ea275ab861a262410f71d08a402"
+    },
+    {
+      "title": "How many people on this subreddit do you think are actually profitable? (As in $100k+ per year)",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1mkrtm5/how_many_people_on_this_subreddit_do_you_think/",
+      "score": 263,
+      "comments": 188,
+      "post_id": "t3_1mkrtm5",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "SecretProfession",
+      "author_id": "t2_3y2n0nhr",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-08T10:42:46.654000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1mkrtm5/how_many_people_on_this_subreddit_do_you_think/",
+      "content_preview": "",
+      "flair": [
+        "Other/Meta"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "is a donchian channel able to be used as a trailing exit?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n5w6o5/is_a_donchian_channel_able_to_be_used_as_a/",
+      "score": 6,
+      "comments": 5,
+      "post_id": "t3_1n5w6o5",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "sandshrew69",
+      "author_id": "t2_51ypy0g9",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-09-01T18:12:18.288000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1n5w6o5/is_a_donchian_channel_able_to_be_used_as_a/",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "14 years of out of data SP500 backtesting.. I have finally done it.",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n4f6jo/14_years_of_out_of_data_sp500_backtesting_i_have/",
+      "score": 215,
+      "comments": 64,
+      "post_id": "t3_1n4f6jo",
+      "post_type": "multi_media",
+      "domain": "self.algotrading",
+      "author": "prosecniredditor",
+      "author_id": "t2_93u2paa6",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-30T23:02:08.606000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1n4f6jo/14_years_of_out_of_data_sp500_backtesting_i_have/",
+      "content_preview": "",
+      "flair": [
+        "Data"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Making a Team for Quant Challenge!",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n5gr05/making_a_team_for_quant_challenge/",
+      "score": 18,
+      "comments": 20,
+      "post_id": "t3_1n5gr05",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "SubjectFalse9166",
+      "author_id": "t2_80ykoljd",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-09-01T05:54:33.273000+0000",
+      "content_href": "https://i.redd.it/504sd9k2thmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Education"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Looking for a quant/coder to bring a volatility trading tool to life",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n6djhs/looking_for_a_quantcoder_to_bring_a_volatility/",
+      "score": 0,
+      "comments": 11,
+      "post_id": "t3_1n6djhs",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "Electrical_One_5837",
+      "author_id": "t2_1tzm2ufks7",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-09-02T07:58:48.868000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1n6djhs/looking_for_a_quantcoder_to_bring_a_volatility/",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "If it’s so hard for solo algotrader to be profitable over time because of quant competition, how do retail (non algo) traders make any money?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1mlst4c/if_its_so_hard_for_solo_algotrader_to_be/",
+      "score": 212,
+      "comments": 166,
+      "post_id": "t3_1mlst4c",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "bruhmoment0000001",
+      "author_id": "t2_l49g1ztz",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-09T15:54:26.850000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1mlst4c/if_its_so_hard_for_solo_algotrader_to_be/",
+      "content_preview": "",
+      "flair": [
+        "Other/Meta"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6224h6/styles/profileIcon_k4djiyhn8fhf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a1fd0e4ff0d8f356b8c7b71083751f536510d2f5"
+    },
+    {
+      "title": "Is OHLC 5 min data with bid/ask good enough?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n3934x/is_ohlc_5_min_data_with_bidask_good_enough/",
+      "score": 8,
+      "comments": 24,
+      "post_id": "t3_1n3934x",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "awaken_son",
+      "author_id": "t2_6xc2zwfl",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-29T14:33:51.658000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1n3934x/is_ohlc_5_min_data_with_bidask_good_enough/",
+      "content_preview": "",
+      "flair": [
+        "Data"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Golden standard of backtesting?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n54emf/golden_standard_of_backtesting/",
+      "score": 89,
+      "comments": 54,
+      "post_id": "t3_1n54emf",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "Inside-Bread",
+      "author_id": "t2_62uajnhn",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-31T19:57:37.491000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1n54emf/golden_standard_of_backtesting/",
+      "content_preview": "",
+      "flair": [
+        "Data"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "R quantmod and GDPR - looking for solution",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n37wlc/r_quantmod_and_gdpr_looking_for_solution/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1n37wlc",
+      "post_type": "multi_media",
+      "domain": "self.algotrading",
+      "author": "Mark8472",
+      "author_id": "t2_3enhgwd7",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-29T13:46:57.067000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1n37wlc/r_quantmod_and_gdpr_looking_for_solution/",
+      "content_preview": "",
+      "flair": [
+        "Infrastructure"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "What's your favorite open-source software for trading stocks?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n1w8gg/whats_your_favorite_opensource_software_for/",
+      "score": 36,
+      "comments": 30,
+      "post_id": "t3_1n1w8gg",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "earth0001",
+      "author_id": "t2_oul46swa",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-27T23:10:33.093000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1n1w8gg/whats_your_favorite_opensource_software_for/",
+      "content_preview": "",
+      "flair": [
+        "Infrastructure"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Historical Option Chain Data",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n29mta/historical_option_chain_data/",
+      "score": 5,
+      "comments": 13,
+      "post_id": "t3_1n29mta",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "MauriceMiles",
+      "author_id": "t2_9o7h76ez",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-28T11:26:44.470000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1n29mta/historical_option_chain_data/",
+      "content_preview": "",
+      "flair": [
+        "Data"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Which Type of Algo Trading Has Worked Best for You?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1mft6bl/which_type_of_algo_trading_has_worked_best_for_you/",
+      "score": 156,
+      "comments": 114,
+      "post_id": "t3_1mft6bl",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "bravefrivstone",
+      "author_id": "t2_16c26dzf",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-02T15:22:05.745000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1mft6bl/which_type_of_algo_trading_has_worked_best_for_you/",
+      "content_preview": "",
+      "flair": [
+        "Data"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Personal Trading vs. Starting a Hedge Fund?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n006kh/personal_trading_vs_starting_a_hedge_fund/",
+      "score": 23,
+      "comments": 40,
+      "post_id": "t3_1n006kh",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "im-trash-lmao",
+      "author_id": "t2_10gvm2ao",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-25T19:31:00.389000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1n006kh/personal_trading_vs_starting_a_hedge_fund/",
+      "content_preview": "",
+      "flair": [
+        "Business"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "What VPS for TradingViews>PineConector>MetaTrader5?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n631kh/what_vps_for_tradingviewspineconectormetatrader5/",
+      "score": 2,
+      "comments": 7,
+      "post_id": "t3_1n631kh",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "Warashibe",
+      "author_id": "t2_1dbjxoas",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-09-01T22:41:20.762000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1n631kh/what_vps_for_tradingviewspineconectormetatrader5/",
+      "content_preview": "",
+      "flair": [
+        "Infrastructure"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_j6rqi/styles/profileIcon_tsufum6vfbvb1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=18cd2457bb5596dbdb45fd42da22c429c6d43ce2"
+    },
+    {
+      "title": "Need help with web scraping Finviz or CNBC for financial data",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n4xkth/need_help_with_web_scraping_finviz_or_cnbc_for/",
+      "score": 0,
+      "comments": 9,
+      "post_id": "t3_1n4xkth",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "zemora",
+      "author_id": "t2_nws5arm",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-31T15:25:21.840000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1n4xkth/need_help_with_web_scraping_finviz_or_cnbc_for/",
+      "content_preview": "",
+      "flair": [
+        "Other/Meta"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Which MCPs?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1mzmrz1/which_mcps/",
+      "score": 2,
+      "comments": 5,
+      "post_id": "t3_1mzmrz1",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "Herebedragoons77",
+      "author_id": "t2_r6784g2j",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-25T10:26:14.271000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1mzmrz1/which_mcps/",
+      "content_preview": "",
+      "flair": [
+        "Infrastructure"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Has anyone experimented with AI-powered assistants for research/backtesting/strategy building?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1mz5dw6/has_anyone_experimented_with_aipowered_assistants/",
+      "score": 25,
+      "comments": 4,
+      "post_id": "t3_1mz5dw6",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "superstalin1488",
+      "author_id": "t2_b5dbucch7",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-24T19:44:24.246000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1mz5dw6/has_anyone_experimented_with_aipowered_assistants/",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Does anyone else prefer inverse volatility weighting to ATR based position sizing?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1mz1a51/does_anyone_else_prefer_inverse_volatility/",
+      "score": 14,
+      "comments": 7,
+      "post_id": "t3_1mz1a51",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "joe4942",
+      "author_id": "t2_cvucx",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-24T17:10:09.017000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1mz1a51/does_anyone_else_prefer_inverse_volatility/",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "backtesting results from ETF trading strategy",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1myu87w/backtesting_results_from_etf_trading_strategy/",
+      "score": 19,
+      "comments": 45,
+      "post_id": "t3_1myu87w",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "tuscan21",
+      "author_id": "t2_10uimr",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-24T12:25:42.409000+0000",
+      "content_href": "https://i.redd.it/qjq8h9manykf1.png",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "I have a script, how do I execute on it?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1mxs49c/i_have_a_script_how_do_i_execute_on_it/",
+      "score": 134,
+      "comments": 121,
+      "post_id": "t3_1mxs49c",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "GodIsGood2004",
+      "author_id": "t2_8q5395wr",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-23T04:36:13.580000+0000",
+      "content_href": "https://i.redd.it/z4kk6fam6pkf1.png",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i-have-a-script-how-do-i-execute-on-it-v0-z4kk6fam6pkf1.png?width=640&crop=smart&auto=webp&s=27f662caca70e2dd950324757f1c8cc6c297796a"
+    },
+    {
+      "title": "NDX or QQQ: Free source/API for Options price data at a daily interval?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n3vj6w/ndx_or_qqq_free_sourceapi_for_options_price_data/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n3vj6w",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "AMGraduate564",
+      "author_id": "t2_57j4x5fp",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-30T07:29:38.344000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1n3vj6w/ndx_or_qqq_free_sourceapi_for_options_price_data/",
+      "content_preview": "",
+      "flair": [
+        "Data"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Where is the data for adjacent commodity futures?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1mxyj9h/where_is_the_data_for_adjacent_commodity_futures/",
+      "score": 4,
+      "comments": 3,
+      "post_id": "t3_1mxyj9h",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "ThatJoeInLnd",
+      "author_id": "t2_c0wpt",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-23T11:04:34.363000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1mxyj9h/where_is_the_data_for_adjacent_commodity_futures/",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Thoughts on 1s OHLC vs tick data",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1mxdri9/thoughts_on_1s_ohlc_vs_tick_data/",
+      "score": 20,
+      "comments": 30,
+      "post_id": "t3_1mxdri9",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "SierraLima14",
+      "author_id": "t2_kezh0jxa",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-22T18:05:15.211000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1mxdri9/thoughts_on_1s_ohlc_vs_tick_data/",
+      "content_preview": "",
+      "flair": [
+        "Data"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5yqgw8/styles/profileIcon_fgrtenka1mmd1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=0dc2ef3ffebad8dc02670460b30c38c53b17817e"
+    },
+    {
+      "title": "Is Taking Partial Profits Always Better? (My experiments and RESULTS)",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1mk09lj/is_taking_partial_profits_always_better_my/",
+      "score": 89,
+      "comments": 59,
+      "post_id": "t3_1mk09lj",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Money_Horror_2899",
+      "author_id": "t2_h3r2acl3",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-07T13:34:44.099000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mk09lj",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5m944n/styles/profileIcon_xminyilv5tne1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f62bc9999cfe7a14d629a5caeb56b157e5488a71"
+    },
+    {
+      "title": "When I tested my Bot on exchanges, I was surprised by this",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1my1b1l/when_i_tested_my_bot_on_exchanges_i_was_surprised/",
+      "score": 86,
+      "comments": 29,
+      "post_id": "t3_1my1b1l",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "Imaginary-Library-80",
+      "author_id": "t2_1ui13fo1yl",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-23T13:21:02.791000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1my1b1l/when_i_tested_my_bot_on_exchanges_i_was_surprised/",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "What level of math do you use?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1mjk8q9/what_level_of_math_do_you_use/",
+      "score": 81,
+      "comments": 104,
+      "post_id": "t3_1mjk8q9",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "tradinglearn",
+      "author_id": "t2_f2776f38q",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-06T23:29:04.518000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1mjk8q9/what_level_of_math_do_you_use/",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Anyone tried python on ctrader?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1mx3tau/anyone_tried_python_on_ctrader/",
+      "score": 5,
+      "comments": 10,
+      "post_id": "t3_1mx3tau",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "jychung0709",
+      "author_id": "t2_2a05lj9h",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-22T11:23:46.995000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1mx3tau/anyone_tried_python_on_ctrader/",
+      "content_preview": "",
+      "flair": [
+        "Other/Meta"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "How do sites like public offer rebates on trading SPY Option contracts?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1mwfz8c/how_do_sites_like_public_offer_rebates_on_trading/",
+      "score": 9,
+      "comments": 5,
+      "post_id": "t3_1mwfz8c",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "MerlinTrashMan",
+      "author_id": "t2_7ghjkhuo",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-21T16:33:51.960000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1mwfz8c/how_do_sites_like_public_offer_rebates_on_trading/",
+      "content_preview": "",
+      "flair": [
+        "Business"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Best markets for trading algos",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n0jpp5/best_markets_for_trading_algos/",
+      "score": 34,
+      "comments": 59,
+      "post_id": "t3_1n0jpp5",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "External_Home5564",
+      "author_id": "t2_1m54bu8dx0",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-26T11:52:33.724000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1n0jpp5/best_markets_for_trading_algos/",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "1-D CNNs for candle pattern detection",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1mvfx0j/1d_cnns_for_candle_pattern_detection/",
+      "score": 12,
+      "comments": 20,
+      "post_id": "t3_1mvfx0j",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "cosapocha",
+      "author_id": "t2_125l26",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-20T14:11:39.696000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1mvfx0j/1d_cnns_for_candle_pattern_detection/",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Skepticism about skepticism about retail algo trading",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1msd6ww/skepticism_about_skepticism_about_retail_algo/",
+      "score": 81,
+      "comments": 59,
+      "post_id": "t3_1msd6ww",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "kristoll1",
+      "author_id": "t2_4lz9romj",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-17T00:51:02.939000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1msd6ww/skepticism_about_skepticism_about_retail_algo/",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "PSA for new algotraders",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1mkv002/psa_for_new_algotraders/",
+      "score": 77,
+      "comments": 24,
+      "post_id": "t3_1mkv002",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "Anon2148",
+      "author_id": "t2_7f8ul4lw",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-08T13:18:55.759000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1mkv002/psa_for_new_algotraders/",
+      "content_preview": "",
+      "flair": [
+        "Education"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Databento futures data",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1mvd5ej/databento_futures_data/",
+      "score": 14,
+      "comments": 13,
+      "post_id": "t3_1mvd5ej",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "External_Home5564",
+      "author_id": "t2_1m54bu8dx0",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-20T12:16:36.672000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1mvd5ej/databento_futures_data/",
+      "content_preview": "",
+      "flair": [
+        "Data"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Resource on Acquiring 'no cost' Crypto Tick and Bar Historical Data for Algo Testing and Analysis. (Python Script That's Able to Pull Large Batches Cleanly is Provided as Well.)",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n58s4q/resource_on_acquiring_no_cost_crypto_tick_and_bar/",
+      "score": 27,
+      "comments": 1,
+      "post_id": "t3_1n58s4q",
+      "post_type": "link",
+      "domain": "volatility.red",
+      "author": "finance_student",
+      "author_id": "t2_46eal",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-31T23:02:45.424000+0000",
+      "content_href": "https://volatility.red/Crypto_tick_and_bar_data",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Backtesting Results - Opinions and next steps",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1muneu3/backtesting_results_opinions_and_next_steps/",
+      "score": 9,
+      "comments": 11,
+      "post_id": "t3_1muneu3",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "PaymentAccomplished7",
+      "author_id": "t2_9zk8klyi",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-19T16:30:29.439000+0000",
+      "content_href": "https://i.redd.it/fpozonmo60kf1.png",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Any \"smarter\" zigzag alternatives?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1mujrmi/any_smarter_zigzag_alternatives/",
+      "score": 2,
+      "comments": 7,
+      "post_id": "t3_1mujrmi",
+      "post_type": "multi_media",
+      "domain": "self.algotrading",
+      "author": "die-kreatur",
+      "author_id": "t2_otnrdinfk",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-19T14:19:02.063000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1mujrmi/any_smarter_zigzag_alternatives/",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "What would you all say if I told you I found an algo that prints 7-800 a day",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n3s0bv/what_would_you_all_say_if_i_told_you_i_found_an/",
+      "score": 0,
+      "comments": 19,
+      "post_id": "t3_1n3s0bv",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "cridicalMass",
+      "author_id": "t2_fti1rqp0h",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-30T04:00:43.153000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1n3s0bv/what_would_you_all_say_if_i_told_you_i_found_an/",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "How adaptable are your algos across different markets?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n146uh/how_adaptable_are_your_algos_across_different/",
+      "score": 24,
+      "comments": 15,
+      "post_id": "t3_1n146uh",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "dombrogia",
+      "author_id": "t2_5c2j7x9",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-27T01:38:50.694000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1n146uh/how_adaptable_are_your_algos_across_different/",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "IA para programar",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n3433p/ia_para_programar/",
+      "score": 0,
+      "comments": 11,
+      "post_id": "t3_1n3433p",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "M4RZ4L",
+      "author_id": "t2_jlaq447g",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-29T10:47:59.952000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1n3433p/ia_para_programar/",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Why does my AI keep suggesting me to use ATR as an indicator for my stops?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1mqcbu9/why_does_my_ai_keep_suggesting_me_to_use_atr_as/",
+      "score": 71,
+      "comments": 53,
+      "post_id": "t3_1mqcbu9",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "AltruisticDoctor",
+      "author_id": "t2_ggz3szc",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-14T20:32:06.935000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1mqcbu9/why_does_my_ai_keep_suggesting_me_to_use_atr_as/",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Weekly Discussion Thread - August 19, 2025",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1mue4zi/weekly_discussion_thread_august_19_2025/",
+      "score": 3,
+      "comments": 9,
+      "post_id": "t3_1mue4zi",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-19T10:00:58.294000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1mue4zi/weekly_discussion_thread_august_19_2025/",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+    },
+    {
+      "title": "The best metric? It could be the profit curve",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n33hwi/the_best_metric_it_could_be_the_profit_curve/",
+      "score": 17,
+      "comments": 15,
+      "post_id": "t3_1n33hwi",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "A_tope_trader",
+      "author_id": "t2_1p05jdzqc0",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-29T10:14:23.089000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1n33hwi/the_best_metric_it_could_be_the_profit_curve/",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eeoduv/styles/profileIcon_1b5w0yifepze1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=217b65d7eb0b273826c928cfb864015ce81fd6d0"
+    },
+    {
+      "title": "Backtesting Results - Opinions and next steps",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1muf19v/backtesting_results_opinions_and_next_steps/",
+      "score": 2,
+      "comments": 23,
+      "post_id": "t3_1muf19v",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "PaymentAccomplished7",
+      "author_id": "t2_9zk8klyi",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-19T10:52:03.085000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1muf19v/backtesting_results_opinions_and_next_steps/",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Anyone here shifted from manual options trading to algo execution?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n2yuau/anyone_here_shifted_from_manual_options_trading/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1n2yuau",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "locaf",
+      "author_id": "t2_5npuja6o",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-29T05:20:28.707000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1n2yuau/anyone_here_shifted_from_manual_options_trading/",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Who else is using the order book in their algos?",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1mzc440/who_else_is_using_the_order_book_in_their_algos/",
+      "score": 63,
+      "comments": 41,
+      "post_id": "t3_1mzc440",
+      "post_type": "multi_media",
+      "domain": "self.algotrading",
+      "author": "_WARBUD_",
+      "author_id": "t2_5mnvbe9k",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-25T00:21:34.042000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1mzc440/who_else_is_using_the_order_book_in_their_algos/",
+      "content_preview": "",
+      "flair": [
+        "Infrastructure"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2etnor/styles/profileIcon_bslkcastacna1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=287bdc6011358ffc93bc1f6a8c4c0aa2d6699fe0"
+    },
+    {
+      "title": "Noob here - kindly share your feedback.",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1mtm9ja/noob_here_kindly_share_your_feedback/",
+      "score": 9,
+      "comments": 23,
+      "post_id": "t3_1mtm9ja",
+      "post_type": "multi_media",
+      "domain": "self.algotrading",
+      "author": "Full_Ad_9797",
+      "author_id": "t2_9wlq89mw0",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-18T13:36:35.658000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1mtm9ja/noob_here_kindly_share_your_feedback/",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Waht are the use cases for IOC & FOK",
+      "permalink": "https://www.reddit.com/r/algotrading/comments/1n3p3p7/waht_are_the_use_cases_for_ioc_fok/",
+      "score": 14,
+      "comments": 8,
+      "post_id": "t3_1n3p3p7",
+      "post_type": "text",
+      "domain": "self.algotrading",
+      "author": "percojazz",
+      "author_id": "t2_2soq5v8n",
+      "subreddit_id": "t5_2ubg3",
+      "subreddit": "r/algotrading",
+      "created_ts": "2025-08-30T01:28:27.911000+0000",
+      "content_href": "https://www.reddit.com/r/algotrading/comments/1n3p3p7/waht_are_the_use_cases_for_ioc_fok/",
+      "content_preview": "",
+      "flair": [
+        "Strategy"
+      ],
+      "thumbnail_url": ""
+    }
+  ],
+  "scraped_at": "2025-09-02T04:18:15.079735"
+}

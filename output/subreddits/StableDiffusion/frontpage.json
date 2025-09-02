@@ -1,0 +1,1011 @@
+{
+  "subreddit": "StableDiffusion",
+  "url": "https://www.reddit.com/r/StableDiffusion",
+  "meta": {
+    "title": "StableDiffusion",
+    "members_text": "2,989,746"
+  },
+  "posts": [
+    {
+      "title": "Can't get FLF2V to work properly",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n6foff/cant_get_flf2v_to_work_properly/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6foff",
+      "post_type": "text",
+      "domain": "self.StableDiffusion",
+      "author": "Radiant-Photograph46",
+      "author_id": "t2_qgq1r838",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-02T10:17:47.398000+0000",
+      "content_href": "https://www.reddit.com/r/StableDiffusion/comments/1n6foff/cant_get_flf2v_to_work_properly/",
+      "content_preview": "",
+      "flair": [
+        "Question - Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Finally China entering the GPU market to destroy the unchallenged monopoly abuse. 96 GB VRAM GPUs under 2000 USD, meanwhile NVIDIA sells from 10000+ (RTX 6000 PRO)",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n46guf/finally_china_entering_the_gpu_market_to_destroy/",
+      "score": 1577,
+      "comments": 287,
+      "post_id": "t3_1n46guf",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "CeFurkan",
+      "author_id": "t2_zfyzg",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-08-30T16:50:10.204000+0000",
+      "content_href": "https://i.redd.it/79v0n5y7s6mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7hulj/styles/profileIcon_7wcdgxprws9f1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e1d92f09826d139fddd4a2f394ba8b766eb650b2"
+    },
+    {
+      "title": "Sailing the Stars - Wan 2.2 - T2I, I2V, Wan Inpainting, FFLF, mix of Gemini Flash + Qwen Image Edit (didn't have time to fight Qwen) + Topaz video upscale + Suno4.5 for music. Sound effects done manually. Used speed LoRAs, manual speed up in Premiere to fix slow-mo.",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n65rni/sailing_the_stars_wan_22_t2i_i2v_wan_inpainting/",
+      "score": 107,
+      "comments": 27,
+      "post_id": "t3_1n65rni",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Jeffu",
+      "author_id": "t2_5h7j2",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-02T00:46:57.584000+0000",
+      "content_href": "https://v.redd.it/b645hx57enmf1",
+      "content_preview": "",
+      "flair": [
+        "Animation - Video"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Our first hyper-consistent character LoRA for Wan 2.2",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1mgx7qu/our_first_hyperconsistent_character_lora_for_wan/",
+      "score": 1757,
+      "comments": 464,
+      "post_id": "t3_1mgx7qu",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "UAAgency",
+      "author_id": "t2_1jx1fa8",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-08-03T22:57:48.413000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mgx7qu",
+      "content_preview": "",
+      "flair": [
+        "No Workflow"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ku5pf/styles/profileIcon_94nlwzh3bhgd1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7aaf026850cea089d49b43a7574966de565ce4eb"
+    },
+    {
+      "title": "There are many Wan demo videos, but this one is mine.",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n69vsg/there_are_many_wan_demo_videos_but_this_one_is/",
+      "score": 42,
+      "comments": 8,
+      "post_id": "t3_1n69vsg",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "goddess_peeler",
+      "author_id": "t2_vf5k2fsip",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-02T04:12:26.191000+0000",
+      "content_href": "https://youtu.be/2gThbg_QLqo",
+      "content_preview": "",
+      "flair": [
+        "Animation - Video"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Random gens from Qwen + my LoRA",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n4uvnh/random_gens_from_qwen_my_lora/",
+      "score": 1334,
+      "comments": 139,
+      "post_id": "t3_1n4uvnh",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "FortranUA",
+      "author_id": "t2_6flmdnw6",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-08-31T13:35:02.288000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n4uvnh",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2sk5cq/styles/profileIcon_fm4luowdusif1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ae2d3395e6f2faa03d385a078265feb8ba7a89ca"
+    },
+    {
+      "title": "Here comes the brand new Reality Simulator!",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n5tq1f/here_comes_the_brand_new_reality_simulator/",
+      "score": 277,
+      "comments": 62,
+      "post_id": "t3_1n5tq1f",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "vjleoliu",
+      "author_id": "t2_mbrfl1et",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-01T16:41:55.705000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n5tq1f",
+      "content_preview": "",
+      "flair": [
+        "Resource - Update"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "NEED HELP *Paid*",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n6fib8/need_help_paid/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n6fib8",
+      "post_type": "text",
+      "domain": "self.StableDiffusion",
+      "author": "ronanccy",
+      "author_id": "t2_rpi0kwfuo",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-02T10:07:22.322000+0000",
+      "content_href": "https://www.reddit.com/r/StableDiffusion/comments/1n6fib8/need_help_paid/",
+      "content_preview": "",
+      "flair": [
+        "Question - Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Ruin classics with Wan 2.2",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1mlsd45/ruin_classics_with_wan_22/",
+      "score": 1740,
+      "comments": 64,
+      "post_id": "t3_1mlsd45",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "AlphaX",
+      "author_id": "t2_31t0z",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-08-09T15:36:26.467000+0000",
+      "content_href": "https://v.redd.it/3mrydarsj0if1",
+      "content_preview": "",
+      "flair": [
+        "Animation - Video"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/ruin-classics-with-wan-2-2-v0-cWl0cnk5cnNqMGlmMR7GB0bveHgCvbY-AD-ciKj2Td1O1f00HvzHAdN37zer.png?width=640&crop=smart&format=pjpg&auto=webp&s=643feae51e2be4a611d016382eed08bdb8d26fdb"
+    },
+    {
+      "title": "The ( hopefully very-near) future of generating infinite videos. FIFO diffusion technique being developed by Wan(Streamer) and HiDream (Ouroboros). A simple intro to this technique.",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n60z3m/the_hopefully_verynear_future_of_generating/",
+      "score": 99,
+      "comments": 12,
+      "post_id": "t3_1n60z3m",
+      "post_type": "multi_media",
+      "domain": "self.StableDiffusion",
+      "author": "AgeNo5351",
+      "author_id": "t2_1uwkmxm9z3",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-01T21:14:29.613000+0000",
+      "content_href": "https://www.reddit.com/r/StableDiffusion/comments/1n60z3m/the_hopefully_verynear_future_of_generating/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Three reasons why your WAN S2V generations might suck and how to avoid it.",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n2gary/three_reasons_why_your_wan_s2v_generations_might/",
+      "score": 1054,
+      "comments": 233,
+      "post_id": "t3_1n2gary",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Ashamed-Variety-8264",
+      "author_id": "t2_f1kzl9s8",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-08-28T16:02:54.673000+0000",
+      "content_href": "https://v.redd.it/hxa93nfu9slf1",
+      "content_preview": "",
+      "flair": [
+        "Tutorial - Guide"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Wan Infinite Talk Workflow",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n5o2ts/wan_infinite_talk_workflow/",
+      "score": 336,
+      "comments": 64,
+      "post_id": "t3_1n5o2ts",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Hearmeman98",
+      "author_id": "t2_o80ipjao",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-01T13:01:39.466000+0000",
+      "content_href": "https://v.redd.it/rzpn8f98xjmf1",
+      "content_preview": "",
+      "flair": [
+        "Workflow Included"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/wan-infinite-talk-workflow-v0-c2h4amtmOTh4am1mMeLjOglyGYqQhs3E3UwjJO0311oCFyrU7EzveDoXdBHz.png?width=640&crop=smart&format=pjpg&auto=webp&s=cdc0b649707c1092bac1230b6a0e967afd131336"
+    },
+    {
+      "title": "4090 48G InfiniteTalk I2V 720P Test~2min",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n1ycs9/4090_48g_infinitetalk_i2v_720p_test2min/",
+      "score": 556,
+      "comments": 131,
+      "post_id": "t3_1n1ycs9",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Realistic_Egg8718",
+      "author_id": "t2_tjqclecp",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-08-28T00:46:56.565000+0000",
+      "content_href": "https://v.redd.it/uxe60qpinnlf1",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "if anyone is still running Pytorch 2.5.1 or lower, you must know it has a critical vulnerability",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n63zfk/if_anyone_is_still_running_pytorch_251_or_lower/",
+      "score": 28,
+      "comments": 13,
+      "post_id": "t3_1n63zfk",
+      "post_type": "link",
+      "domain": "nvd.nist.gov",
+      "author": "IndustryAI",
+      "author_id": "t2_1oy69d53m2",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-01T23:23:02.709000+0000",
+      "content_href": "https://nvd.nist.gov/vuln/detail/CVE-2025-32434",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Experiments with photo restoration using Wan",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1mtr48r/experiments_with_photo_restoration_using_wan/",
+      "score": 1528,
+      "comments": 146,
+      "post_id": "t3_1mtr48r",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "mark_sawyer",
+      "author_id": "t2_obatj",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-08-18T16:35:59.695000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mtr48r",
+      "content_preview": "",
+      "flair": [
+        "Workflow Included"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Will Nunchaku come to Forge?",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n6ewfw/will_nunchaku_come_to_forge/",
+      "score": 3,
+      "comments": 13,
+      "post_id": "t3_1n6ewfw",
+      "post_type": "text",
+      "domain": "self.StableDiffusion",
+      "author": "Barefooter1234",
+      "author_id": "t2_gxsgflfk",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-02T09:29:03.471000+0000",
+      "content_href": "https://www.reddit.com/r/StableDiffusion/comments/1n6ewfw/will_nunchaku_come_to_forge/",
+      "content_preview": "",
+      "flair": [
+        "Question - Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Surreal Morphing Sequence with Wan2.2 + ComfyUI | 4-Min Dreamscape",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n5punx/surreal_morphing_sequence_with_wan22_comfyui_4min/",
+      "score": 148,
+      "comments": 43,
+      "post_id": "t3_1n5punx",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "umutgklp",
+      "author_id": "t2_a6ob18wb",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-01T14:15:16.912000+0000",
+      "content_href": "https://v.redd.it/21dm5dn41kmf1",
+      "content_preview": "",
+      "flair": [
+        "Workflow Included"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3wnheo/styles/profileIcon_69c3v5bv2ikf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=bbd12ff662c84017a39cdc99325ac3759c5ecfb7"
+    },
+    {
+      "title": "Custom SD1.5 model",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n68ur7/custom_sd15_model/",
+      "score": 14,
+      "comments": 8,
+      "post_id": "t3_1n68ur7",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "darlens13",
+      "author_id": "t2_48cif61z",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-02T03:18:04.289000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n68ur7",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Masking Story",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n5wjq8/masking_story/",
+      "score": 63,
+      "comments": 19,
+      "post_id": "t3_1n5wjq8",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "DrMacabre68",
+      "author_id": "t2_1924fm",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-01T18:25:30.073000+0000",
+      "content_href": "https://v.redd.it/1dvhi6cuilmf1",
+      "content_preview": "",
+      "flair": [
+        "Animation - Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_pzs84/styles/profileIcon_dp98e5gy3o6a1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8443405382abf0b99afe25b64fdc7a1d5e9773e0"
+    },
+    {
+      "title": "Ai Editing VACE",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n62k9s/ai_editing_vace/",
+      "score": 29,
+      "comments": 8,
+      "post_id": "t3_1n62k9s",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Artefact_Design",
+      "author_id": "t2_ekpyfhmu",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-01T22:20:09.060000+0000",
+      "content_href": "https://v.redd.it/9rh3af4pommf1",
+      "content_preview": "",
+      "flair": [
+        "Animation - Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5fha87/styles/profileIcon_dw9jf3zwa7kf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5a30bf797566e7b7e8f023243852abfc682569b9"
+    },
+    {
+      "title": "Duh ha!",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n5q4zc/duh_ha/",
+      "score": 105,
+      "comments": 25,
+      "post_id": "t3_1n5q4zc",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "DrMacabre68",
+      "author_id": "t2_1924fm",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-01T14:26:19.593000+0000",
+      "content_href": "https://v.redd.it/86mkyl1xbkmf1",
+      "content_preview": "",
+      "flair": [
+        "Animation - Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_pzs84/styles/profileIcon_dp98e5gy3o6a1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8443405382abf0b99afe25b64fdc7a1d5e9773e0"
+    },
+    {
+      "title": "OneTrainer now supports Chroma training and more",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n5lp9b/onetrainer_now_supports_chroma_training_and_more/",
+      "score": 176,
+      "comments": 52,
+      "post_id": "t3_1n5lp9b",
+      "post_type": "multi_media",
+      "domain": "self.StableDiffusion",
+      "author": "Nerogar",
+      "author_id": "t2_iudof",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-01T11:01:40.649000+0000",
+      "content_href": "https://www.reddit.com/r/StableDiffusion/comments/1n5lp9b/onetrainer_now_supports_chroma_training_and_more/",
+      "content_preview": "",
+      "flair": [
+        "Resource - Update"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Update: Chroma Project training is finished! The models are now released.",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1mxwr4e/update_chroma_project_training_is_finished_the/",
+      "score": 1419,
+      "comments": 310,
+      "post_id": "t3_1mxwr4e",
+      "post_type": "multi_media",
+      "domain": "self.StableDiffusion",
+      "author": "LodestoneRock",
+      "author_id": "t2_tb3fgrayo",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-08-23T09:17:56.820000+0000",
+      "content_href": "https://www.reddit.com/r/StableDiffusion/comments/1mxwr4e/update_chroma_project_training_is_finished_the/",
+      "content_preview": "",
+      "flair": [
+        "Resource - Update"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_apio5c/styles/profileIcon_lwuzf4q0h5ke1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c641e92bb3ac5c2df3233b5f4e0d60d418037dd0"
+    },
+    {
+      "title": "\"I Wish This Song Was Louder\" - Qwen Image/Edit + Wan 2.2 FLF Claymation Style Music Video",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n639q7/i_wish_this_song_was_louder_qwen_imageedit_wan_22/",
+      "score": 9,
+      "comments": 3,
+      "post_id": "t3_1n639q7",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "KayBro",
+      "author_id": "t2_3tyw8",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-01T22:51:24.990000+0000",
+      "content_href": "https://www.youtube.com/watch?v=lb_q0iayJaU",
+      "content_preview": "",
+      "flair": [
+        "Animation - Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "qwen edit - reskin",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n5ur1f/qwen_edit_reskin/",
+      "score": 14,
+      "comments": 11,
+      "post_id": "t3_1n5ur1f",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "tumscro",
+      "author_id": "t2_muwi0",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-01T17:19:50.374000+0000",
+      "content_href": "https://www.youtube.com/watch?v=i15CXmHzlNU",
+      "content_preview": "",
+      "flair": [
+        "Comparison"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Created a guide for Wan S2V for low VRAM users. Workflow included",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n5wm19/created_a_guide_for_wan_s2v_for_low_vram_users/",
+      "score": 11,
+      "comments": 0,
+      "post_id": "t3_1n5wm19",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "soximent",
+      "author_id": "t2_ofa8a",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-01T18:27:48.180000+0000",
+      "content_href": "https://youtu.be/DcmTAaKgGXM",
+      "content_preview": "",
+      "flair": [
+        "Tutorial - Guide"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "\"Starring Wynona Ryder\" - Filmography 1988-1992 - Wan2.2 FLF Morph/Transitions Edited with DaVinci Resolve.",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n3ja7h/starring_wynona_ryder_filmography_19881992_wan22/",
+      "score": 507,
+      "comments": 36,
+      "post_id": "t3_1n3ja7h",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Dohwar42",
+      "author_id": "t2_35my5pph",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-08-29T21:07:12.880000+0000",
+      "content_href": "https://v.redd.it/061vx4l9v0mf1",
+      "content_preview": "",
+      "flair": [
+        "Animation - Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2wfdyt/styles/profileIcon_6wmj8q3euelf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8ba62fc1f423a70a66d9c3205d261d675c5bc4df"
+    },
+    {
+      "title": "BRING THE HYPE | Cat Gang Music Video with Flux.1 Krea + Wan2.2",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n5v98l/bring_the_hype_cat_gang_music_video_with_flux1/",
+      "score": 10,
+      "comments": 1,
+      "post_id": "t3_1n5v98l",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "sh4ra",
+      "author_id": "t2_6mo5mkxi",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-01T17:37:59.006000+0000",
+      "content_href": "https://v.redd.it/rq38nizbalmf1",
+      "content_preview": "",
+      "flair": [
+        "Animation - Video"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/bring-the-hype-cat-gang-music-video-with-flux-1-krea-wan2-2-v0-aHlyejJpemJhbG1mMQL50hPorTQfOaUjo4QcqOIDnuQXFR_mjzljar6DMOkF.png?width=640&crop=smart&format=pjpg&auto=webp&s=1c7ec2f59d9aa49354e826622606eb793ef6f623"
+    },
+    {
+      "title": "Has anyone successfully trained a good Qwen-Image character LoRA? Please share your settings and tips!",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n6erlc/has_anyone_successfully_trained_a_good_qwenimage/",
+      "score": 2,
+      "comments": 4,
+      "post_id": "t3_1n6erlc",
+      "post_type": "text",
+      "domain": "self.StableDiffusion",
+      "author": "krigeta1",
+      "author_id": "t2_cnju7z6",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-02T09:20:02.347000+0000",
+      "content_href": "https://www.reddit.com/r/StableDiffusion/comments/1n6erlc/has_anyone_successfully_trained_a_good_qwenimage/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "The newly OPEN-SOURCED model USO beats all in subject/identity/style and their combination customization.",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n2vwnn/the_newly_opensourced_model_uso_beats_all_in/",
+      "score": 493,
+      "comments": 97,
+      "post_id": "t3_1n2vwnn",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Primary-Violinist641",
+      "author_id": "t2_12be52h1kx",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-08-29T02:44:36.525000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n2vwnn",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Infinitetalk: One frame - two character - two audio files?",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n5mxmb/infinitetalk_one_frame_two_character_two_audio/",
+      "score": 26,
+      "comments": 9,
+      "post_id": "t3_1n5mxmb",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "quantier",
+      "author_id": "t2_5hj7vwvu",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-01T12:07:30.052000+0000",
+      "content_href": "https://v.redd.it/q94aem5lnjmf1",
+      "content_preview": "",
+      "flair": [
+        "Question - Help"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/infinitetalk-one-frame-two-character-two-audio-files-v0-cHdueGJheGtuam1mMQrmZulVhO-JT3CVtPW3wad4s49B7-okCVQm50T9wfSA.png?width=640&crop=smart&format=pjpg&auto=webp&s=73f958656523330f934adb1ca17e5cfdabc7a041"
+    },
+    {
+      "title": "Exciting Compilation video tutorial of all things QWEN",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n5orld/exciting_compilation_video_tutorial_of_all_things/",
+      "score": 14,
+      "comments": 9,
+      "post_id": "t3_1n5orld",
+      "post_type": "multi_media",
+      "domain": "self.StableDiffusion",
+      "author": "jamster001",
+      "author_id": "t2_7xcyb",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-01T13:30:39.913000+0000",
+      "content_href": "https://www.reddit.com/r/StableDiffusion/comments/1n5orld/exciting_compilation_video_tutorial_of_all_things/",
+      "content_preview": "",
+      "flair": [
+        "Workflow Included"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Just tried animating a Pokémon TCG card with AI – Wan 2.2 blew my mind",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1mycbcv/just_tried_animating_a_pokémon_tcg_card_with_ai/",
+      "score": 1382,
+      "comments": 81,
+      "post_id": "t3_1mycbcv",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Spirited_Affect7028",
+      "author_id": "t2_6o00c90x",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-08-23T20:36:20.751000+0000",
+      "content_href": "https://v.redd.it/rwqkonq5ytkf1",
+      "content_preview": "",
+      "flair": [
+        "Animation - Video"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/just-tried-animating-a-pok%C3%A9mon-tcg-card-with-ai-wan-2-2-v0-bzdzNHBvcTV5dGtmMReoZdo6BDteO7wLhyPeLgeDRh8JmeNH8YfEVXt3S-vV.png?width=640&crop=smart&format=pjpg&auto=webp&s=2f782acacd986887ff41777d30f82b78bac9df54"
+    },
+    {
+      "title": "An epub book illustrator using ComfyUI or ForgeUI",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n5fzy3/an_epub_book_illustrator_using_comfyui_or_forgeui/",
+      "score": 38,
+      "comments": 17,
+      "post_id": "t3_1n5fzy3",
+      "post_type": "multi_media",
+      "domain": "self.StableDiffusion",
+      "author": "PvtMajor",
+      "author_id": "t2_5kx8f1uy",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-01T05:10:21.178000+0000",
+      "content_href": "https://www.reddit.com/r/StableDiffusion/comments/1n5fzy3/an_epub_book_illustrator_using_comfyui_or_forgeui/",
+      "content_preview": "",
+      "flair": [
+        "Resource - Update"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "NQ - Text Engine 1.1 & Image Engine 1.1",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n5rmdn/nq_text_engine_11_image_engine_11/",
+      "score": 5,
+      "comments": 1,
+      "post_id": "t3_1n5rmdn",
+      "post_type": "multi_media",
+      "domain": "self.StableDiffusion",
+      "author": "Nicholas_Matt_Quail",
+      "author_id": "t2_pw59e1m4h",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-01T15:23:16.885000+0000",
+      "content_href": "https://www.reddit.com/r/StableDiffusion/comments/1n5rmdn/nq_text_engine_11_image_engine_11/",
+      "content_preview": "",
+      "flair": [
+        "Workflow Included"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Have a 12gb gpu with 64gb ram. What's the best models to use.",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n6eoqa/have_a_12gb_gpu_with_64gb_ram_whats_the_best/",
+      "score": 7,
+      "comments": 6,
+      "post_id": "t3_1n6eoqa",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ThinExtension2788",
+      "author_id": "t2_92x8388p",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-02T09:14:57.434000+0000",
+      "content_href": "https://i.redd.it/l5jzeaiqxpmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Question - Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "WAI illustrious V15 released",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n5arc8/wai_illustrious_v15_released/",
+      "score": 49,
+      "comments": 3,
+      "post_id": "t3_1n5arc8",
+      "post_type": "link",
+      "domain": "civitai.com",
+      "author": "Choowkee",
+      "author_id": "t2_qorcduda",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-01T00:37:19.049000+0000",
+      "content_href": "https://civitai.com/models/827184?modelVersionId=2167369",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[WIP] ComfyUI Wrapper for Microsoft’s new VibeVoice TTS (voice cloning in seconds)",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n178o9/wip_comfyui_wrapper_for_microsofts_new_vibevoice/",
+      "score": 476,
+      "comments": 114,
+      "post_id": "t3_1n178o9",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Fabix84",
+      "author_id": "t2_dlph720c",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-08-27T04:09:19.870000+0000",
+      "content_href": "https://v.redd.it/zg9e0ijolhlf1",
+      "content_preview": "",
+      "flair": [
+        "Resource - Update"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/wip-comfyui-wrapper-for-microsofts-new-vibevoice-tts-voice-v0-bXBpbW9ua29saGxmMeN9EX7NEsfnVJQ1A4MNxnlo-vCiow_kYs0rXeykkNc_.png?width=640&crop=smart&format=pjpg&auto=webp&s=eba9b9801d1a48355709ab91f21fdede54cc76d5"
+    },
+    {
+      "title": "UltraReal + Nice Girls LoRAs for Qwen-Image",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1mnlw3l/ultrareal_nice_girls_loras_for_qwenimage/",
+      "score": 1186,
+      "comments": 173,
+      "post_id": "t3_1mnlw3l",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "FortranUA",
+      "author_id": "t2_6flmdnw6",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-08-11T19:01:22.375000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mnlw3l",
+      "content_preview": "",
+      "flair": [
+        "Resource - Update"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2sk5cq/styles/profileIcon_fm4luowdusif1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ae2d3395e6f2faa03d385a078265feb8ba7a89ca"
+    },
+    {
+      "title": "AVERAGE COMFYUI USER",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1mpljrq/average_comfyui_user/",
+      "score": 1142,
+      "comments": 72,
+      "post_id": "t3_1mpljrq",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "james_za666",
+      "author_id": "t2_13v2aq",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-08-14T00:24:49.762000+0000",
+      "content_href": "https://i.redd.it/15g9vg6spvif1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "WAN 2.2 Videos Are Extremely Fast",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n5jheo/wan_22_videos_are_extremely_fast/",
+      "score": 8,
+      "comments": 18,
+      "post_id": "t3_1n5jheo",
+      "post_type": "text",
+      "domain": "self.StableDiffusion",
+      "author": "Meisiri",
+      "author_id": "t2_55ksfz3d",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-01T08:45:24.138000+0000",
+      "content_href": "https://www.reddit.com/r/StableDiffusion/comments/1n5jheo/wan_22_videos_are_extremely_fast/",
+      "content_preview": "",
+      "flair": [
+        "Question - Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What do you do with all of that image manipulation knowledge?",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n57acc/what_do_you_do_with_all_of_that_image/",
+      "score": 56,
+      "comments": 95,
+      "post_id": "t3_1n57acc",
+      "post_type": "text",
+      "domain": "self.StableDiffusion",
+      "author": "Intelligent-Land1765",
+      "author_id": "t2_1r1pcms8p4",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-08-31T21:56:12.197000+0000",
+      "content_href": "https://www.reddit.com/r/StableDiffusion/comments/1n57acc/what_do_you_do_with_all_of_that_image/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Wan 2.2 - How many high steps ? What do official documents say ?",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n56g0s/wan_22_how_many_high_steps_what_do_official/",
+      "score": 57,
+      "comments": 46,
+      "post_id": "t3_1n56g0s",
+      "post_type": "multi_media",
+      "domain": "self.StableDiffusion",
+      "author": "AgeNo5351",
+      "author_id": "t2_1uwkmxm9z3",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-08-31T21:19:50.981000+0000",
+      "content_href": "https://www.reddit.com/r/StableDiffusion/comments/1n56g0s/wan_22_how_many_high_steps_what_do_official/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Trump just signed an executive order that prevents banks/financial services from debanking services like Civit AI/ Steam. Citing freedom of creative/political expression.",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1mlbn9w/trump_just_signed_an_executive_order_that/",
+      "score": 1079,
+      "comments": 256,
+      "post_id": "t3_1mlbn9w",
+      "post_type": "link",
+      "domain": "whitehouse.gov",
+      "author": "MikirahMuse",
+      "author_id": "t2_ane3cegw",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-08-09T00:24:39.299000+0000",
+      "content_href": "https://www.whitehouse.gov/presidential-actions/2025/08/guaranteeing-fair-banking-for-all-americans/",
+      "content_preview": "",
+      "flair": [
+        "Misleading Title"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Maximum Wan 2.2 Quality? This is the best I've personally ever seen",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1msxegi/maximum_wan_22_quality_this_is_the_best_ive/",
+      "score": 910,
+      "comments": 131,
+      "post_id": "t3_1msxegi",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "bazarow17",
+      "author_id": "t2_2x7llpjo",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-08-17T17:44:48.490000+0000",
+      "content_href": "https://v.redd.it/menba491amjf1",
+      "content_preview": "",
+      "flair": [
+        "Animation - Video"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "KPop Demon Hunters x Friends",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1mx3kpd/kpop_demon_hunters_x_friends/",
+      "score": 891,
+      "comments": 77,
+      "post_id": "t3_1mx3kpd",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Inner-Reflections",
+      "author_id": "t2_bdos3mp81",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-08-22T11:11:06.537000+0000",
+      "content_href": "https://v.redd.it/yb0avqo8zjkf1",
+      "content_preview": "",
+      "flair": [
+        "Animation - Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8ev295/styles/profileIcon_0vsl8t4evrvb1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ba18b27946e403ce37de7f9ce5ee02b8deb81de6"
+    },
+    {
+      "title": "WAN2.2 S2V-14B Is Out We Are Getting Close to Comfyui Version",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n0m06c/wan22_s2v14b_is_out_we_are_getting_close_to/",
+      "score": 445,
+      "comments": 112,
+      "post_id": "t3_1n0m06c",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "cgpixel23",
+      "author_id": "t2_q6f0j2ah",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-08-26T13:33:54.330000+0000",
+      "content_href": "https://i.redd.it/61glmggi9dlf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://preview.redd.it/wan2-2-s2v-14b-is-out-we-are-getting-close-to-comfyui-v0-61glmggi9dlf1.jpeg?width=640&crop=smart&auto=webp&s=2ed82687745824693279afb88b485622bad74561"
+    },
+    {
+      "title": "Learnings from Qwen Lora Likeness Training",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n0e0jn/learnings_from_qwen_lora_likeness_training/",
+      "score": 419,
+      "comments": 82,
+      "post_id": "t3_1n0e0jn",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Icy_Upstairs3187",
+      "author_id": "t2_1b3fj3ec69",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-08-26T06:01:31.041000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n0e0jn",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Is Qwen hobbled in the same way Kontext was?",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n5jjr5/is_qwen_hobbled_in_the_same_way_kontext_was/",
+      "score": 4,
+      "comments": 11,
+      "post_id": "t3_1n5jjr5",
+      "post_type": "text",
+      "domain": "self.StableDiffusion",
+      "author": "Symbiot10000",
+      "author_id": "t2_x7cw3eo",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-09-01T08:49:43.703000+0000",
+      "content_href": "https://www.reddit.com/r/StableDiffusion/comments/1n5jjr5/is_qwen_hobbled_in_the_same_way_kontext_was/",
+      "content_preview": "",
+      "flair": [
+        "Question - Help"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_fu6zq/styles/profileIcon_vdut1wc8xgg01.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2bd6e675307ae637693b4137c66f89c337f8fbbc"
+    },
+    {
+      "title": "Best combination for fast, high-quality rendering with 12 GB of VRAM using WAN2.2 I2V",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1n55txj/best_combination_for_fast_highquality_rendering/",
+      "score": 21,
+      "comments": 16,
+      "post_id": "t3_1n55txj",
+      "post_type": "text",
+      "domain": "self.StableDiffusion",
+      "author": "Epictetito",
+      "author_id": "t2_bap100tk",
+      "subreddit_id": "t5_6r4pfl",
+      "subreddit": "r/StableDiffusion",
+      "created_ts": "2025-08-31T20:54:56.916000+0000",
+      "content_href": "https://www.reddit.com/r/StableDiffusion/comments/1n55txj/best_combination_for_fast_highquality_rendering/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    }
+  ],
+  "scraped_at": "2025-09-02T03:39:49.051478"
+}

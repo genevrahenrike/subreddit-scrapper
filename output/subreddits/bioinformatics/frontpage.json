@@ -1,0 +1,1011 @@
+{
+  "subreddit": "bioinformatics",
+  "url": "https://www.reddit.com/r/bioinformatics",
+  "meta": {
+    "title": "bioinformatics",
+    "members_text": "26,193,926"
+  },
+  "posts": [
+    {
+      "title": "Should I choose a cs major or a microbiology major to get into bioinformatics",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n6m4cy/should_i_choose_a_cs_major_or_a_microbiology/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1n6m4cy",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "Equivalent_Sail7176",
+      "author_id": "t2_1wn6bx14p2",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-09-02T15:10:33.770000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n6m4cy/should_i_choose_a_cs_major_or_a_microbiology/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Exemplary papers on multi-OMICS integration with solid storytelling",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n25lfn/exemplary_papers_on_multiomics_integration_with/",
+      "score": 62,
+      "comments": 35,
+      "post_id": "t3_1n25lfn",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "EcstaticStruggle",
+      "author_id": "t2_s5sjxw7",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-28T07:16:37.464000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n25lfn/exemplary_papers_on_multiomics_integration_with/",
+      "content_preview": "",
+      "flair": [
+        "discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Pseudobulking single-cell RNA raw counts from different datasets (with batch effect) with DESeq2",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n5rub2/pseudobulking_singlecell_rna_raw_counts_from/",
+      "score": 5,
+      "comments": 7,
+      "post_id": "t3_1n5rub2",
+      "post_type": "multi_media",
+      "domain": "self.bioinformatics",
+      "author": "morningwishes",
+      "author_id": "t2_1vu8aqsxkc",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-09-01T15:31:43.906000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n5rub2/pseudobulking_singlecell_rna_raw_counts_from/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "I would like to hear some complaining from bioinformatics people, rather than us wet lab people",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mxbcj8/i_would_like_to_hear_some_complaining_from/",
+      "score": 89,
+      "comments": 115,
+      "post_id": "t3_1mxbcj8",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "GodConcepts",
+      "author_id": "t2_ofrq0",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-22T16:33:52.695000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1mxbcj8/i_would_like_to_hear_some_complaining_from/",
+      "content_preview": "",
+      "flair": [
+        "discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Help with GO Analysis",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n4zqx7/help_with_go_analysis/",
+      "score": 4,
+      "comments": 10,
+      "post_id": "t3_1n4zqx7",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "Poppygrllll",
+      "author_id": "t2_1t0o47cyy4",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-31T16:52:36.411000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n4zqx7/help_with_go_analysis/",
+      "content_preview": "",
+      "flair": [
+        "programming"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Long term plan to become a Bioinformatician",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n0pgo6/long_term_plan_to_become_a_bioinformatician/",
+      "score": 44,
+      "comments": 47,
+      "post_id": "t3_1n0pgo6",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "Alarmed__",
+      "author_id": "t2_ayxh0f1t",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-26T15:47:35.068000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n0pgo6/long_term_plan_to_become_a_bioinformatician/",
+      "content_preview": "",
+      "flair": [
+        "discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "TreeTime after IQ-TREE: molecular clock, tMRCAs & confidence intervals (without BEAST)?",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n4krkt/treetime_after_iqtree_molecular_clock_tmrcas/",
+      "score": 1,
+      "comments": 3,
+      "post_id": "t3_1n4krkt",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "Previous-Duck6153",
+      "author_id": "t2_5alin3o6i",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-31T03:45:13.433000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n4krkt/treetime_after_iqtree_molecular_clock_tmrcas/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Quantification method affects replicability of eQTL analysis, colocalization, and TWAS",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n6l051/quantification_method_affects_replicability_of/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6l051",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "fauxmystic313",
+      "author_id": "t2_qeaawcw3",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-09-02T14:28:26.320000+0000",
+      "content_href": "https://i.redd.it/vys4an1ohrmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "article"
+      ],
+      "thumbnail_url": "https://preview.redd.it/quantification-method-affects-replicability-of-eqtl-v0-vys4an1ohrmf1.jpeg?width=640&crop=smart&auto=webp&s=775c730cca40e4020633daac93f3053c87c8400d"
+    },
+    {
+      "title": "Do bioinformatics folks care about the math behind clustering algorithms?",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mzlf0o/do_bioinformatics_folks_care_about_the_math/",
+      "score": 78,
+      "comments": 49,
+      "post_id": "t3_1mzlf0o",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "RealisticCable7719",
+      "author_id": "t2_bfjqspf0q",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-25T09:02:19.292000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1mzlf0o/do_bioinformatics_folks_care_about_the_math/",
+      "content_preview": "",
+      "flair": [
+        "compositional data analysis"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Need help in simulating heme proteins in Gromacs",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n3zdyr/need_help_in_simulating_heme_proteins_in_gromacs/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n3zdyr",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "elEarendel",
+      "author_id": "t2_e5ol9nn1",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-30T11:36:18.266000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n3zdyr/need_help_in_simulating_heme_proteins_in_gromacs/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Wrestling with multi-omics data",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n2dx64/wrestling_with_multiomics_data/",
+      "score": 39,
+      "comments": 31,
+      "post_id": "t3_1n2dx64",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "human_1st",
+      "author_id": "t2_fx9l5t78",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-28T14:34:55.666000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n2dx64/wrestling_with_multiomics_data/",
+      "content_preview": "",
+      "flair": [
+        "discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Obitools3 to Obitools4",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n3l3hm/obitools3_to_obitools4/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1n3l3hm",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "Background-Rough-607",
+      "author_id": "t2_1bohor2pf1",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-29T22:23:26.597000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n3l3hm/obitools3_to_obitools4/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "What makes a project an actual “PhD project”",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n1k4xo/what_makes_a_project_an_actual_phd_project/",
+      "score": 34,
+      "comments": 29,
+      "post_id": "t3_1n1k4xo",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "Maggiebudankayala",
+      "author_id": "t2_byf95kdt",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-27T15:27:04.142000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n1k4xo/what_makes_a_project_an_actual_phd_project/",
+      "content_preview": "",
+      "flair": [
+        "discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "NCBI Cloud Data Delivery service",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n2r81r/ncbi_cloud_data_delivery_service/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1n2r81r",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "Worldly-Policy-2354",
+      "author_id": "t2_7gadayay",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-28T23:07:59.203000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n2r81r/ncbi_cloud_data_delivery_service/",
+      "content_preview": "",
+      "flair": [
+        "website"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Bioinformatic Dog Names?",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mvxjkc/bioinformatic_dog_names/",
+      "score": 77,
+      "comments": 106,
+      "post_id": "t3_1mvxjkc",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "blamp25",
+      "author_id": "t2_ebzkjefdd",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-21T01:27:28.249000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1mvxjkc/bioinformatic_dog_names/",
+      "content_preview": "",
+      "flair": [
+        "other"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Need help with BLAST",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n2pcm9/need_help_with_blast/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1n2pcm9",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "bioinfogirl87",
+      "author_id": "t2_7bbtlbls",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-28T21:48:51.357000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n2pcm9/need_help_with_blast/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "My team just open sourced our entire monorepo on drug repurposing",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mjfs42/my_team_just_open_sourced_our_entire_monorepo_on/",
+      "score": 74,
+      "comments": 6,
+      "post_id": "t3_1mjfs42",
+      "post_type": "multi_media",
+      "domain": "self.bioinformatics",
+      "author": "pascalwhoop",
+      "author_id": "t2_1uktcnndgt",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-06T20:30:29.062000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1mjfs42/my_team_just_open_sourced_our_entire_monorepo_on/",
+      "content_preview": "",
+      "flair": [
+        "academic"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Anyone have a good example of a nextflow workflow that handles container volume mounting automatically (but also can handle conda/local dependencies)?",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n67jdj/anyone_have_a_good_example_of_a_nextflow_workflow/",
+      "score": 0,
+      "comments": 16,
+      "post_id": "t3_1n67jdj",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "o-rka",
+      "author_id": "t2_d7ung",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-09-02T02:12:32.819000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n67jdj/anyone_have_a_good_example_of_a_nextflow_workflow/",
+      "content_preview": "",
+      "flair": [
+        "discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Repeated rarefaction when working with absolute abundances using 16s amplicon sequencing data?",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n06806/repeated_rarefaction_when_working_with_absolute/",
+      "score": 8,
+      "comments": 10,
+      "post_id": "t3_1n06806",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "Significant-Bee-1702",
+      "author_id": "t2_11av4ttemj",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-25T23:30:32.465000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n06806/repeated_rarefaction_when_working_with_absolute/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Need help deciphering an annotation file format",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mzs88p/need_help_deciphering_an_annotation_file_format/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1mzs88p",
+      "post_type": "multi_media",
+      "domain": "self.bioinformatics",
+      "author": "kvn95",
+      "author_id": "t2_no26r",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-25T14:37:33.524000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1mzs88p/need_help_deciphering_an_annotation_file_format/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Tidyverse style of coding in Bioinformatics",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mj7jc8/tidyverse_style_of_coding_in_bioinformatics/",
+      "score": 68,
+      "comments": 52,
+      "post_id": "t3_1mj7jc8",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "ZooplanktonblameFun8",
+      "author_id": "t2_713l29ux",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-06T15:20:39.032000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1mj7jc8/tidyverse_style_of_coding_in_bioinformatics/",
+      "content_preview": "",
+      "flair": [
+        "programming"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "a sequence alignment tool I've been working on",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mpe4iw/a_sequence_alignment_tool_ive_been_working_on/",
+      "score": 66,
+      "comments": 21,
+      "post_id": "t3_1mpe4iw",
+      "post_type": "multi_media",
+      "domain": "self.bioinformatics",
+      "author": "Kind-Kure",
+      "author_id": "t2_omjtu643v",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-13T19:30:52.566000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1mpe4iw/a_sequence_alignment_tool_ive_been_working_on/",
+      "content_preview": "",
+      "flair": [
+        "programming"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Bioinformatics Capstone Advice/Suggestions",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mzp3pw/bioinformatics_capstone_advicesuggestions/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mzp3pw",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "RustyShackleford2677",
+      "author_id": "t2_hiai3naks",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-25T12:27:37.209000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1mzp3pw/bioinformatics_capstone_advicesuggestions/",
+      "content_preview": "",
+      "flair": [
+        "academic"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Most influential or just fun-to-read papers",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mi4hlp/most_influential_or_just_funtoread_papers/",
+      "score": 60,
+      "comments": 15,
+      "post_id": "t3_1mi4hlp",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "N4v33n_Kum4r_7",
+      "author_id": "t2_118s7xjrrh",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-05T09:25:38.421000+0000",
+      "content_href": "/r/molecularbiology/comments/1mi13nx/most_influential_or_just_funtoread_papers/",
+      "content_preview": "",
+      "flair": [
+        "discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "GSEA - is it possible to use the same dataset to make different gene lists?",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mznx9m/gsea_is_it_possible_to_use_the_same_dataset_to/",
+      "score": 1,
+      "comments": 10,
+      "post_id": "t3_1mznx9m",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "Eathiln",
+      "author_id": "t2_l4q8p",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-25T11:29:40.151000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1mznx9m/gsea_is_it_possible_to_use_the_same_dataset_to/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Help interpreting MA plot",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mla8up/help_interpreting_ma_plot/",
+      "score": 57,
+      "comments": 12,
+      "post_id": "t3_1mla8up",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "noobmastersqrt4761",
+      "author_id": "t2_dlosrfi2y",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-08T23:20:52.672000+0000",
+      "content_href": "https://i.redd.it/kat2x32sovhf1.png",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Differences in reference genome choice between human, mouse and zebrafish",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mzg7ey/differences_in_reference_genome_choice_between/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1mzg7ey",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "immikey0299",
+      "author_id": "t2_yf059sf",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-25T03:42:25.784000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1mzg7ey/differences_in_reference_genome_choice_between/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Standard Software for HLA Typing for Transplants?",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mz0m87/standard_software_for_hla_typing_for_transplants/",
+      "score": 5,
+      "comments": 5,
+      "post_id": "t3_1mz0m87",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "WorkingStretch9484",
+      "author_id": "t2_uvwocen7",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-24T16:45:08.192000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1mz0m87/standard_software_for_hla_typing_for_transplants/",
+      "content_preview": "",
+      "flair": [
+        "academic"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "NCBI down ?",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n1bv6r/ncbi_down/",
+      "score": 26,
+      "comments": 9,
+      "post_id": "t3_1n1bv6r",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "Mimine3",
+      "author_id": "t2_4wj3ye73",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-27T08:57:46.918000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n1bv6r/ncbi_down/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Looking for a study buddy",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mm9wui/looking_for_a_study_buddy/",
+      "score": 45,
+      "comments": 9,
+      "post_id": "t3_1mm9wui",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "VroomVroomMD",
+      "author_id": "t2_7hq9ri6he",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-10T05:00:25.498000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1mm9wui/looking_for_a_study_buddy/",
+      "content_preview": "",
+      "flair": [
+        "other"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Desparate question: Computers/Clusters to use as a student",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1midu8j/desparate_question_computersclusters_to_use_as_a/",
+      "score": 40,
+      "comments": 105,
+      "post_id": "t3_1midu8j",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "ltzlmni",
+      "author_id": "t2_v1kg8af9",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-05T16:27:31.855000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1midu8j/desparate_question_computersclusters_to_use_as_a/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "RosettaDiffusion2 quick deployment",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n275fm/rosettadiffusion2_quick_deployment/",
+      "score": 20,
+      "comments": 3,
+      "post_id": "t3_1n275fm",
+      "post_type": "multi_media",
+      "domain": "self.bioinformatics",
+      "author": "Straight-Shock2542",
+      "author_id": "t2_1w9mjo9diz",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-28T09:00:09.236000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n275fm/rosettadiffusion2_quick_deployment/",
+      "content_preview": "",
+      "flair": [
+        "programming"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Best Bioinformatics Conferences",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n161jk/best_bioinformatics_conferences/",
+      "score": 16,
+      "comments": 5,
+      "post_id": "t3_1n161jk",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "Dull_Butterscotch568",
+      "author_id": "t2_kes4vzls",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-27T03:06:53.942000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n161jk/best_bioinformatics_conferences/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "What are the best freelance platforms for someone in bioinformatics",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mgs7o0/what_are_the_best_freelance_platforms_for_someone/",
+      "score": 38,
+      "comments": 21,
+      "post_id": "t3_1mgs7o0",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "Neffeertiti",
+      "author_id": "t2_1uw6ya6vve",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-03T19:32:39.206000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1mgs7o0/what_are_the_best_freelance_platforms_for_someone/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Good suggestions for reproducible package management when using conda and R?",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n28ayj/good_suggestions_for_reproducible_package/",
+      "score": 15,
+      "comments": 12,
+      "post_id": "t3_1n28ayj",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "looc64",
+      "author_id": "t2_z6z6t",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-28T10:12:02.141000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n28ayj/good_suggestions_for_reproducible_package/",
+      "content_preview": "",
+      "flair": [
+        "discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "PacBio HiFi reads vs S-reads for single cell data",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n5wgr7/pacbio_hifi_reads_vs_sreads_for_single_cell_data/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n5wgr7",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "elegantsails",
+      "author_id": "t2_fp3luqoj",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-09-01T18:22:29.458000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n5wgr7/pacbio_hifi_reads_vs_sreads_for_single_cell_data/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How to get gtf/GFF3 => ref flat for PicardTools?",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1my9bm8/how_to_get_gtfgff3_ref_flat_for_picardtools/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1my9bm8",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "autodialerbroken116",
+      "author_id": "t2_17mvgs8ca2",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-23T18:37:41.235000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1my9bm8/how_to_get_gtfgff3_ref_flat_for_picardtools/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Learning Swift language",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mx8aef/learning_swift_language/",
+      "score": 3,
+      "comments": 13,
+      "post_id": "t3_1mx8aef",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "ridaculus",
+      "author_id": "t2_p726v1wa",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-22T14:38:21.046000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1mx8aef/learning_swift_language/",
+      "content_preview": "",
+      "flair": [
+        "discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Age/sex-matched samples in limma",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mwke83/agesexmatched_samples_in_limma/",
+      "score": 4,
+      "comments": 2,
+      "post_id": "t3_1mwke83",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "oceansawaysway",
+      "author_id": "t2_6f5dopeo",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-21T19:17:04.584000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1mwke83/agesexmatched_samples_in_limma/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "What is Bioinformatics PhD like? Do you still recommend a PhD today?",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mynjdu/what_is_bioinformatics_phd_like_do_you_still/",
+      "score": 33,
+      "comments": 33,
+      "post_id": "t3_1mynjdu",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "YerBoii244",
+      "author_id": "t2_2fzdf54",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-24T05:44:03.233000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1mynjdu/what_is_bioinformatics_phd_like_do_you_still/",
+      "content_preview": "",
+      "flair": [
+        "discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Github organisation in industry",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mjcush/github_organisation_in_industry/",
+      "score": 31,
+      "comments": 10,
+      "post_id": "t3_1mjcush",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "LostInDNATranslation",
+      "author_id": "t2_olxsn",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-06T18:39:19.389000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1mjcush/github_organisation_in_industry/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Issues with quantitative variables in BayPass",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n579tx/issues_with_quantitative_variables_in_baypass/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n579tx",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "I_MATCH_ORBS",
+      "author_id": "t2_wef5m",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-31T21:55:34.642000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n579tx/issues_with_quantitative_variables_in_baypass/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Is it possible to compare Olink and TMT data?",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mwf0ic/is_it_possible_to_compare_olink_and_tmt_data/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1mwf0ic",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Accomplished-Ad2792",
+      "author_id": "t2_6wuk2t2d",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-21T15:59:21.927000+0000",
+      "content_href": "/r/proteomics/comments/1mwey07/is_it_possible_to_compare_olink_and_tmt_data/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Help a newcomer with the design of some complicated primers",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n368yx/help_a_newcomer_with_the_design_of_some/",
+      "score": 2,
+      "comments": 9,
+      "post_id": "t3_1n368yx",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "SuitableSundae2179",
+      "author_id": "t2_1j6oaqcnnw",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-29T12:36:24.596000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n368yx/help_a_newcomer_with_the_design_of_some/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Setting up a workflow in galaxy org to repeatedly analyse NGS sequence of a library",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mw5ktz/setting_up_a_workflow_in_galaxy_org_to_repeatedly/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1mw5ktz",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "Key_Astronomer_2085",
+      "author_id": "t2_mhhh1ahe",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-21T08:50:57.604000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1mw5ktz/setting_up_a_workflow_in_galaxy_org_to_repeatedly/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Are there any caveats in using a less stringent threshold for DEGs?",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n1va83/are_there_any_caveats_in_using_a_less_stringent/",
+      "score": 14,
+      "comments": 25,
+      "post_id": "t3_1n1va83",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "noobmastersqrt4761",
+      "author_id": "t2_dlosrfi2y",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-27T22:30:48.881000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n1va83/are_there_any_caveats_in_using_a_less_stringent/",
+      "content_preview": "",
+      "flair": [
+        "science question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Why are there multiple barcodes in one demultiplexed file?",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mvsw31/why_are_there_multiple_barcodes_in_one/",
+      "score": 3,
+      "comments": 8,
+      "post_id": "t3_1mvsw31",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "Few-Marionberry9651",
+      "author_id": "t2_yuqnxxyy6",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-20T22:05:09.464000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1mvsw31/why_are_there_multiple_barcodes_in_one/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "how do you keep track of the all the IP addresses",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n0zzur/how_do_you_keep_track_of_the_all_the_ip_addresses/",
+      "score": 13,
+      "comments": 14,
+      "post_id": "t3_1n0zzur",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "rampantlystellar",
+      "author_id": "t2_gks0qy4q",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-26T22:30:02.367000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n0zzur/how_do_you_keep_track_of_the_all_the_ip_addresses/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Multi-omics Federated Data",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1n2uyi3/multiomics_federated_data/",
+      "score": 0,
+      "comments": 9,
+      "post_id": "t3_1n2uyi3",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "Specific-Champion-98",
+      "author_id": "t2_9x331a9d",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-29T01:59:01.350000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1n2uyi3/multiomics_federated_data/",
+      "content_preview": "",
+      "flair": [
+        "academic"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Ways of inferring gene regulatory networks from multiple sources of bulk RNAseq data following gene knockout",
+      "permalink": "https://www.reddit.com/r/bioinformatics/comments/1mvud51/ways_of_inferring_gene_regulatory_networks_from/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1mvud51",
+      "post_type": "text",
+      "domain": "self.bioinformatics",
+      "author": "Clean_Oven_9293",
+      "author_id": "t2_7y8vaye1",
+      "subreddit_id": "t5_2qh0x",
+      "subreddit": "r/bioinformatics",
+      "created_ts": "2025-08-20T23:05:24.588000+0000",
+      "content_href": "https://www.reddit.com/r/bioinformatics/comments/1mvud51/ways_of_inferring_gene_regulatory_networks_from/",
+      "content_preview": "",
+      "flair": [
+        "technical question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    }
+  ],
+  "scraped_at": "2025-09-02T09:48:01.055212"
+}

@@ -1,0 +1,1010 @@
+{
+  "subreddit": "godot",
+  "url": "https://www.reddit.com/r/godot",
+  "meta": {
+    "title": "Godot: your free, open-source Game Engine"
+  },
+  "posts": [
+    {
+      "title": "How to copy scene tree as text file",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n6jfax/how_to_copy_scene_tree_as_text_file/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n6jfax",
+      "post_type": "text",
+      "domain": "self.godot",
+      "author": "Frostty_Sherlock",
+      "author_id": "t2_4quu3cfq",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-02T13:26:18.075000+0000",
+      "content_href": "https://www.reddit.com/r/godot/comments/1n6jfax/how_to_copy_scene_tree_as_text_file/",
+      "content_preview": "",
+      "flair": [
+        "help me"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "2 Weeks vs 5 Months of development",
+      "permalink": "https://www.reddit.com/r/godot/comments/1mzoipl/2_weeks_vs_5_months_of_development/",
+      "score": 4685,
+      "comments": 98,
+      "post_id": "t3_1mzoipl",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "FlyingSpaceDuck",
+      "author_id": "t2_sohvi",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-08-25T12:00:10.581000+0000",
+      "content_href": "https://v.redd.it/xx88kttgn5lf1",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1h3f3h/styles/profileIcon_5xh62vp8b5lf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=0ac3299575893117901a3da26f78281c5f4e4530"
+    },
+    {
+      "title": "Making gears in my multiplayer factory automation game!",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n6e9to/making_gears_in_my_multiplayer_factory_automation/",
+      "score": 71,
+      "comments": 5,
+      "post_id": "t3_1n6e9to",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "bre-dev",
+      "author_id": "t2_6lf5ui7h",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-02T08:47:54.112000+0000",
+      "content_href": "https://v.redd.it/z4sju83bspmf1",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2p6tky/styles/profileIcon_s7aild4fm5na1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5f597d6b09f438534fd14a0b4b9ffa20870f66a5"
+    },
+    {
+      "title": "Hung directly over my PC, so I'll never have to look it up again",
+      "permalink": "https://www.reddit.com/r/godot/comments/1mmrozm/hung_directly_over_my_pc_so_ill_never_have_to/",
+      "score": 5285,
+      "comments": 118,
+      "post_id": "t3_1mmrozm",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "SteelLunpara",
+      "author_id": "t2_13xzgr",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-08-10T19:30:00.974000+0000",
+      "content_href": "https://i.redd.it/bx40zjjcu8if1.png",
+      "content_preview": "",
+      "flair": [
+        "fun & memes"
+      ],
+      "thumbnail_url": "https://preview.redd.it/hung-directly-over-my-pc-so-ill-never-have-to-look-it-up-v0-bx40zjjcu8if1.png?width=640&crop=smart&auto=webp&s=9369c770b0fcf6a29b632bec98e67081416b7165"
+    },
+    {
+      "title": "Working on a Jack-O-Lantern shader now that we're entering spooky season",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n6eqmj/working_on_a_jackolantern_shader_now_that_were/",
+      "score": 48,
+      "comments": 2,
+      "post_id": "t3_1n6eqmj",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "tsun_screen",
+      "author_id": "t2_1bd6khf5",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-02T09:18:17.426000+0000",
+      "content_href": "https://v.redd.it/ku7hvq9yxpmf1",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_iv3n3/styles/profileIcon_4pcgqk9c7tsb1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=85a271b630b1bbc3bb1782a0ca814b275f5e9de7"
+    },
+    {
+      "title": "I create simulator that does literally nothing",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n1qef5/i_create_simulator_that_does_literally_nothing/",
+      "score": 2621,
+      "comments": 81,
+      "post_id": "t3_1n1qef5",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Outrageous_Affect_69",
+      "author_id": "t2_9tc7aa8d",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-08-27T19:19:56.961000+0000",
+      "content_href": "https://v.redd.it/cc5n5b9g3mlf1",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/i-create-simulator-that-does-literally-nothing-v0-d3Btd3NiOWczbWxmMeLI4dYNgjXuwlUFk89cpjlVrrQR9aDF2-NjnmuRDk7O.png?width=640&crop=smart&format=pjpg&auto=webp&s=633182e2b02a3459531b41a3c3e150b14e8f9c71"
+    },
+    {
+      "title": "Cards for the roguelike deckbuilder im solo developing in godot",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n6157h/cards_for_the_roguelike_deckbuilder_im_solo/",
+      "score": 389,
+      "comments": 16,
+      "post_id": "t3_1n6157h",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "JPLDevWorks",
+      "author_id": "t2_qs1osm8ff",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-01T21:21:04.950000+0000",
+      "content_href": "https://v.redd.it/pyepe4qsdmmf1",
+      "content_preview": "",
+      "flair": [
+        "help me"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dyab56/styles/profileIcon_qphqx25amipe1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=687dbbaf71d96ba57275602ebe202edf709510fe"
+    },
+    {
+      "title": "How do I actually find a real 3D artist/animator for paid work?",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n6jd6v/how_do_i_actually_find_a_real_3d_artistanimator/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1n6jd6v",
+      "post_type": "text",
+      "domain": "self.godot",
+      "author": "hrhash316",
+      "author_id": "t2_4xcu32q",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-02T13:23:48.312000+0000",
+      "content_href": "https://www.reddit.com/r/godot/comments/1n6jd6v/how_do_i_actually_find_a_real_3d_artistanimator/",
+      "content_preview": "",
+      "flair": [
+        "discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Godot was just 2% behind Unity in usage this GMTK Jam!",
+      "permalink": "https://www.reddit.com/r/godot/comments/1mhb18l/godot_was_just_2_behind_unity_in_usage_this_gmtk/",
+      "score": 3493,
+      "comments": 184,
+      "post_id": "t3_1mhb18l",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "NitramiuZ",
+      "author_id": "t2_3amtcucz",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-08-04T11:38:01.704000+0000",
+      "content_href": "https://i.redd.it/2lvzkrfmozgf1.png",
+      "content_preview": "",
+      "flair": [
+        "community events"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_12pdxo/styles/profileIcon_1mgbouqiimld1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d161fb91873b04f9c455798fb2a87f3237cf9f78"
+    },
+    {
+      "title": "I’m making a 2d platformer rage game on Godot. What do you think about it?",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n5sgdw/im_making_a_2d_platformer_rage_game_on_godot_what/",
+      "score": 773,
+      "comments": 66,
+      "post_id": "t3_1n5sgdw",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "blabla_indiedev",
+      "author_id": "t2_11q2aw5v0h",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-01T15:55:11.311000+0000",
+      "content_href": "https://v.redd.it/81g8eyzvrkmf1",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ets5bl/styles/profileIcon_cw8g0c0m4zbf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=598bb9bd84d5aabf6a5aa3593dcd8ac406aa11f7"
+    },
+    {
+      "title": "I coded a face for my CRT with godot!",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n14jtp/i_coded_a_face_for_my_crt_with_godot/",
+      "score": 1674,
+      "comments": 67,
+      "post_id": "t3_1n14jtp",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Deeoxie",
+      "author_id": "t2_ifb6u3ab",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-08-27T01:55:42.451000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n14jtp",
+      "content_preview": "",
+      "flair": [
+        "fun & memes"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5nc36f/styles/profileIcon_wimb6b3rpin81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c9eb6438212d8b76860c0efe123e16cc680fb8f3"
+    },
+    {
+      "title": "My 2 month Godot journey (pls blow up)",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n687il/my_2_month_godot_journey_pls_blow_up/",
+      "score": 88,
+      "comments": 21,
+      "post_id": "t3_1n687il",
+      "post_type": "multi_media",
+      "domain": "self.godot",
+      "author": "aamish99",
+      "author_id": "t2_cuoxy346",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-02T02:45:52.943000+0000",
+      "content_href": "https://www.reddit.com/r/godot/comments/1n687il/my_2_month_godot_journey_pls_blow_up/",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Some new screenshots after multiple visual improvements :)",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n4xrip/some_new_screenshots_after_multiple_visual/",
+      "score": 2039,
+      "comments": 88,
+      "post_id": "t3_1n4xrip",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "roadtovostok",
+      "author_id": "t2_6bc6frgl",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-08-31T15:32:43.681000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n4xrip",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": "https://preview.redd.it/some-new-screenshots-after-multiple-visual-improvements-v0-e6k5t5ywidmf1.png?width=640&crop=smart&auto=webp&s=7da2f09dba8423848457be27dcbdb8b64ebe7727"
+    },
+    {
+      "title": "Made a stream overlay in Godot where followers build their own constellations!",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n62l35/made_a_stream_overlay_in_godot_where_followers/",
+      "score": 141,
+      "comments": 4,
+      "post_id": "t3_1n62l35",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "tunitem",
+      "author_id": "t2_1g8a8hpoqm",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-01T22:21:05.165000+0000",
+      "content_href": "https://v.redd.it/wcyak9q9dmmf1",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (software)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_d91vb2/styles/profileIcon_jwlji1vjwcmf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6e0ebfa7aca2a9b95b0bab768da4c67c75fe357d"
+    },
+    {
+      "title": "Special thanks to: Me, myself and I.",
+      "permalink": "https://www.reddit.com/r/godot/comments/1mktran/special_thanks_to_me_myself_and_i/",
+      "score": 2674,
+      "comments": 43,
+      "post_id": "t3_1mktran",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Dream-Unable",
+      "author_id": "t2_7p12cqfb",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-08-08T12:23:49.731000+0000",
+      "content_href": "https://i.redd.it/53ltg88ngshf1.png",
+      "content_preview": "",
+      "flair": [
+        "fun & memes"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_32g5et/styles/profileIcon_5nf8ruc6pnre1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=590aff18ff649de330f101a3a1c90689eda65d1a"
+    },
+    {
+      "title": "I made my own login with discord system in GodotScript",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n6gehz/i_made_my_own_login_with_discord_system_in/",
+      "score": 13,
+      "comments": 10,
+      "post_id": "t3_1n6gehz",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "brbfrYT",
+      "author_id": "t2_1itcenxb0m",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-02T10:59:53.010000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n6gehz",
+      "content_preview": "",
+      "flair": [
+        "discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_djgytl/styles/profileIcon_q6bc3sfwm1if1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5c3f9ea791465bbadee1aad7e222eebc457e9c28"
+    },
+    {
+      "title": "CRT shader!",
+      "permalink": "https://www.reddit.com/r/godot/comments/1mtkgxh/crt_shader/",
+      "score": 2576,
+      "comments": 71,
+      "post_id": "t3_1mtkgxh",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "BzztArts",
+      "author_id": "t2_jlaodd2rk",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-08-18T12:21:26.196000+0000",
+      "content_href": "https://v.redd.it/q9r1yup6trjf1",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/crt-shader-v0-M2YzcnM5cTZ0cmpmMXAUZilFKd1dtVX2S5iAH0KwRHznvsoMQtlSnQ32Q0vG.png?width=640&crop=smart&format=pjpg&auto=webp&s=4beb49e1b1a1a64d629d109a416febdf936b2198"
+    },
+    {
+      "title": "graphic tables doesn't trigger event.is_pressed() and event.is_released()",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n6j6az/graphic_tables_doesnt_trigger_eventis_pressed_and/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6j6az",
+      "post_type": "text",
+      "domain": "self.godot",
+      "author": "Legitimate-Record951",
+      "author_id": "t2_l20rgpzi",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-02T13:15:47.021000+0000",
+      "content_href": "https://www.reddit.com/r/godot/comments/1n6j6az/graphic_tables_doesnt_trigger_eventis_pressed_and/",
+      "content_preview": "",
+      "flair": [
+        "help me"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Creating a 3D Goldberg Polyhedron in Godot (procedural generation terrain) Help!",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n6j3q0/creating_a_3d_goldberg_polyhedron_in_godot/",
+      "score": 12,
+      "comments": 0,
+      "post_id": "t3_1n6j3q0",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "StrataPub",
+      "author_id": "t2_1sjanh5yib",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-02T13:12:38.817000+0000",
+      "content_href": "https://i.redd.it/qv6ftb6n0rmf1.png",
+      "content_preview": "",
+      "flair": [
+        "help me"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ewz4s4/styles/profileIcon_u7lvhg4xchcf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3e075297f866ebbf98f7654f6b2ee81d9872e5a4"
+    },
+    {
+      "title": "I started gamedev 16 months ago - and now my first Godot game is released!",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n3ga4s/i_started_gamedev_16_months_ago_and_now_my_first/",
+      "score": 1523,
+      "comments": 56,
+      "post_id": "t3_1n3ga4s",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "pupirkaa",
+      "author_id": "t2_u8i2qdw6",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-08-29T19:07:28.591000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n3ga4s",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7s44db/styles/profileIcon_v2x1u5va0hke1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=84a487070d5d8c2ebe4523c6d547f8cb38e6b955"
+    },
+    {
+      "title": "Start of my Prototype Titanfall Inspired FPS made in Godot!",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n6bmzo/start_of_my_prototype_titanfall_inspired_fps_made/",
+      "score": 30,
+      "comments": 1,
+      "post_id": "t3_1n6bmzo",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "CSLRGaming",
+      "author_id": "t2_3dl465rz",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-02T05:55:52.693000+0000",
+      "content_href": "https://v.redd.it/bz7zzsievomf1",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/start-of-my-prototype-titanfall-inspired-fps-made-in-godot-v0-b3IxYndzaWV2b21mMaRZsCF7eFe5f7504Aclyns9rtfB3ihXGIrYeS6ks4TN.png?width=640&crop=smart&format=pjpg&auto=webp&s=1097ab09ebed9c7a570f0501b2572bb23352cad8"
+    },
+    {
+      "title": "I started my World Editor from Scratch after 9 months into development!",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n5vczz/i_started_my_world_editor_from_scratch_after_9/",
+      "score": 259,
+      "comments": 2,
+      "post_id": "t3_1n5vczz",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "Hot-Persimmon-9768",
+      "author_id": "t2_rwu3py2e",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-01T17:41:37.791000+0000",
+      "content_href": "https://www.youtube.com/watch?v=ZEgt9yylPkY",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6xqbnn/styles/profileIcon_jw3cvqcxy4pa1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=20f79b080a801eae6b4a09f43ce759ea68e917ea"
+    },
+    {
+      "title": "Game options for project settings",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n6irxx/game_options_for_project_settings/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n6irxx",
+      "post_type": "text",
+      "domain": "self.godot",
+      "author": "bikesnotbombs",
+      "author_id": "t2_3z2glo7i",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-02T12:58:53.427000+0000",
+      "content_href": "https://www.reddit.com/r/godot/comments/1n6irxx/game_options_for_project_settings/",
+      "content_preview": "",
+      "flair": [
+        "help me"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "3D Pixelart Trees in Godot 4.5",
+      "permalink": "https://www.reddit.com/r/godot/comments/1mtb25f/3d_pixelart_trees_in_godot_45/",
+      "score": 2555,
+      "comments": 71,
+      "post_id": "t3_1mtb25f",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Ordinary-Cicada5991",
+      "author_id": "t2_151lpkq2p6",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-08-18T03:26:31.256000+0000",
+      "content_href": "https://v.redd.it/hqucyf2q5pjf1",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_c2y03y/styles/profileIcon_qg9dm1i24agf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=62fe1a343179cca349e579df09fea92abad6af4e"
+    },
+    {
+      "title": "I coded pong in only 2 months",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n61q5u/i_coded_pong_in_only_2_months/",
+      "score": 121,
+      "comments": 18,
+      "post_id": "t3_1n61q5u",
+      "post_type": "multi_media",
+      "domain": "self.godot",
+      "author": "Norsbane",
+      "author_id": "t2_j3cng",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-01T21:44:56.227000+0000",
+      "content_href": "https://www.reddit.com/r/godot/comments/1n61q5u/i_coded_pong_in_only_2_months/",
+      "content_preview": "",
+      "flair": [
+        "discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Life of a retro style indie game developer",
+      "permalink": "https://www.reddit.com/r/godot/comments/1mx7fix/life_of_a_retro_style_indie_game_developer/",
+      "score": 2552,
+      "comments": 24,
+      "post_id": "t3_1mx7fix",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "DuodolGames",
+      "author_id": "t2_n1zjep5wt",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-08-22T14:04:29.496000+0000",
+      "content_href": "https://i.redd.it/84abn5vdskkf1.png",
+      "content_preview": "",
+      "flair": [
+        "fun & memes"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_9tz7w5/styles/profileIcon_qqx2slfugazb1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3cbc5524a49d8e4d12b0a91429cb4fc5035d47b8"
+    },
+    {
+      "title": "Godot decals",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n6ifcl/godot_decals/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n6ifcl",
+      "post_type": "text",
+      "domain": "self.godot",
+      "author": "Wabiro",
+      "author_id": "t2_1qnp1qzzju",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-02T12:42:52.908000+0000",
+      "content_href": "https://www.reddit.com/r/godot/comments/1n6ifcl/godot_decals/",
+      "content_preview": "",
+      "flair": [
+        "help me"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_elh8m7/styles/profileIcon_t4d6mohqap4f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=80cba86ad16e513abf6fc5aa5d961cff2a16e2a8"
+    },
+    {
+      "title": "Made a Custom Ambient + Animated Outline shader to get a stylized render",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n28tvn/made_a_custom_ambient_animated_outline_shader_to/",
+      "score": 1156,
+      "comments": 18,
+      "post_id": "t3_1n28tvn",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "fespindola",
+      "author_id": "t2_1ftelwh1lx",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-08-28T10:43:08.826000+0000",
+      "content_href": "https://v.redd.it/u4ff77zcoqlf1",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (software)"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/made-a-custom-ambient-animated-outline-shader-to-get-a-v0-dnpkNjZremNvcWxmMXW9GUBe-x8t7pVwEZVi0Rc3YgUih2zu2KnlhxAfz268.png?width=640&crop=smart&format=pjpg&auto=webp&s=1c053934b2ee2dcd3ad038a4b48a34226de1fdfb"
+    },
+    {
+      "title": "I made this big boy and liked how the wings turned out",
+      "permalink": "https://www.reddit.com/r/godot/comments/1mzxiei/i_made_this_big_boy_and_liked_how_the_wings/",
+      "score": 972,
+      "comments": 34,
+      "post_id": "t3_1mzxiei",
+      "post_type": "gif",
+      "domain": "i.redd.it",
+      "author": "indienord",
+      "author_id": "t2_1pm6l33itt",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-08-25T17:51:05.602000+0000",
+      "content_href": "https://i.redd.it/ylj7mj13e7lf1.gif",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eh9y07/styles/profileIcon_qdmc5s3ca7cf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d2d25c0db655029e15187f78b9e9b2351553045f"
+    },
+    {
+      "title": "Stop making excuses for why your game isn't done yet.",
+      "permalink": "https://www.reddit.com/r/godot/comments/1mr2hq7/stop_making_excuses_for_why_your_game_isnt_done/",
+      "score": 2530,
+      "comments": 124,
+      "post_id": "t3_1mr2hq7",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Sean_Dewhirst",
+      "author_id": "t2_u1fp17oa",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-08-15T16:17:45.462000+0000",
+      "content_href": "https://i.redd.it/1l4vy9vbk7jf1.png",
+      "content_preview": "",
+      "flair": [
+        "fun & memes"
+      ],
+      "thumbnail_url": "https://preview.redd.it/stop-making-excuses-for-why-your-game-isnt-done-yet-v0-1l4vy9vbk7jf1.png?width=640&crop=smart&auto=webp&s=e2393398aa1986ce0cf753a2af982068921c0157"
+    },
+    {
+      "title": "Blockbench saved me",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n2lhph/blockbench_saved_me/",
+      "score": 905,
+      "comments": 37,
+      "post_id": "t3_1n2lhph",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Correct_Dependent677",
+      "author_id": "t2_1bz607zo69",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-08-28T19:18:05.079000+0000",
+      "content_href": "https://i.redd.it/xq47117s8tlf1.png",
+      "content_preview": "",
+      "flair": [
+        "discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/blockbench-saved-me-v0-xq47117s8tlf1.png?width=640&crop=smart&auto=webp&s=1f8ca761436af2798372d7bac1bf71488d43b590"
+    },
+    {
+      "title": "Become parasite. Become everyone.",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n317f4/become_parasite_become_everyone/",
+      "score": 858,
+      "comments": 49,
+      "post_id": "t3_1n317f4",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "milomilos",
+      "author_id": "t2_3ketjpcl",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-08-29T07:48:51.390000+0000",
+      "content_href": "https://v.redd.it/sx2ny7t8wwlf1",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2oebho/styles/profileIcon_mk6bfi8ohrqd1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=bae18b39ac692d03a07f5788e1ea11f2f4d14946"
+    },
+    {
+      "title": "projecting a grid onto the ground using a gdshader",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n5pzck/projecting_a_grid_onto_the_ground_using_a_gdshader/",
+      "score": 454,
+      "comments": 27,
+      "post_id": "t3_1n5pzck",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "oppai_suika",
+      "author_id": "t2_12piva",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-01T14:20:17.867000+0000",
+      "content_href": "https://v.redd.it/ytdryp4abkmf1",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3kzpn/styles/profileIcon_dcvr9edcci701.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=19e67df3dead653d8b4f5447d965ac646c84a52d"
+    },
+    {
+      "title": "custom signals, but networked - testers welcome",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n6i5sl/custom_signals_but_networked_testers_welcome/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1n6i5sl",
+      "post_type": "multi_media",
+      "domain": "self.godot",
+      "author": "AUTeddy",
+      "author_id": "t2_42b01ly3",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-02T12:30:34.774000+0000",
+      "content_href": "https://www.reddit.com/r/godot/comments/1n6i5sl/custom_signals_but_networked_testers_welcome/",
+      "content_preview": "",
+      "flair": [
+        "help me"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Is this a good scale for attack speed?",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n69min/is_this_a_good_scale_for_attack_speed/",
+      "score": 37,
+      "comments": 51,
+      "post_id": "t3_1n69min",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Zirchis",
+      "author_id": "t2_zum3yvvot",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-02T03:58:37.044000+0000",
+      "content_href": "https://v.redd.it/r76x17gadomf1",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bhprjy/styles/profileIcon_8baymz71olbf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=00d43b5af5ef4062e9352c4e76dd03894a0f84e1"
+    },
+    {
+      "title": "Generate 3D models from pixel art in just a few clicks",
+      "permalink": "https://www.reddit.com/r/godot/comments/1meuixr/generate_3d_models_from_pixel_art_in_just_a_few/",
+      "score": 2468,
+      "comments": 118,
+      "post_id": "t3_1meuixr",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "elunvar",
+      "author_id": "t2_16ggm7g9ql",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-08-01T11:58:22.968000+0000",
+      "content_href": "https://v.redd.it/0zjfp14edegf1",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (software)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eviu8v/styles/profileIcon_rlfyb83l5hbf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=97e9ee14a3cabc769ca82dd59d861c8d81be5c1f"
+    },
+    {
+      "title": "What do you think 'bout UI in my game?",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n4345s/what_do_you_think_bout_ui_in_my_game/",
+      "score": 827,
+      "comments": 37,
+      "post_id": "t3_1n4345s",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "SeniorMatthew",
+      "author_id": "t2_fbrw6aa7h",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-08-30T14:33:00.106000+0000",
+      "content_href": "https://v.redd.it/3y3mtff736mf1",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/what-do-you-think-bout-ui-in-my-game-v0-MTZxaDlqZzczNm1mMcIEM56NAOLUlL7rhKwnoQUuiRMqx9WLQplfkwzf0I4F.png?width=640&crop=smart&format=pjpg&auto=webp&s=19606ed0e9defeedb870b6d9c6c3980a46de0fe9"
+    },
+    {
+      "title": "Made my first dev log... no one warned me it would be like this",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n66csn/made_my_first_dev_log_no_one_warned_me_it_would/",
+      "score": 53,
+      "comments": 4,
+      "post_id": "t3_1n66csn",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "-json-",
+      "author_id": "t2_81r004bl",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-02T01:15:15.703000+0000",
+      "content_href": "https://i.redd.it/w38sdqf1knmf1.png",
+      "content_preview": "",
+      "flair": [
+        "fun & memes"
+      ],
+      "thumbnail_url": "https://preview.redd.it/made-my-first-dev-log-no-one-warned-me-it-would-be-like-this-v0-w38sdqf1knmf1.png?width=640&crop=smart&auto=webp&s=1102fa9df78a2247d1e396388490ea90f753c1a9"
+    },
+    {
+      "title": "Making a trailer is stressful, here’s some UI I’m proud of",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n65ec2/making_a_trailer_is_stressful_heres_some_ui_im/",
+      "score": 37,
+      "comments": 0,
+      "post_id": "t3_1n65ec2",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Main_Leather8362",
+      "author_id": "t2_7ayds9cs",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-02T00:29:22.754000+0000",
+      "content_href": "https://v.redd.it/tajkvpbybnmf1",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/making-a-trailer-is-stressful-heres-some-ui-im-proud-of-v0-dDJxdWUwN3libm1mMbtoYxEuZL9Htf8UlDsPDwfkQOPJDVjq6aPccyrUzpxi.png?width=640&crop=smart&format=pjpg&auto=webp&s=79df09a986a50425814eb8e26a79e8fc46a33328"
+    },
+    {
+      "title": "I'm looking for a publisher for my mobile game.",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n6hrl6/im_looking_for_a_publisher_for_my_mobile_game/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6hrl6",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Realistic_Falcon_204",
+      "author_id": "t2_kr4zkr2a6",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-02T12:11:15.874000+0000",
+      "content_href": "https://v.redd.it/297n79hxsqmf1",
+      "content_preview": "",
+      "flair": [
+        "help me"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Help installing Godot on ARM64 Linux!",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n6hj7q/help_installing_godot_on_arm64_linux/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n6hj7q",
+      "post_type": "text",
+      "domain": "self.godot",
+      "author": "Coleophysis",
+      "author_id": "t2_r9znk",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-02T12:00:02.640000+0000",
+      "content_href": "https://www.reddit.com/r/godot/comments/1n6hj7q/help_installing_godot_on_arm64_linux/",
+      "content_preview": "",
+      "flair": [
+        "help me (solved)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_e5h76/styles/profileIcon_4kj0mz0nxiwb1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=85075560057c24de90b2ca38aa2698a8168747af"
+    },
+    {
+      "title": "I’ve been cooking up “Asset Brush” — my new Blender add‑on for rapid scene build",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n5uj4g/ive_been_cooking_up_asset_brush_my_new_blender/",
+      "score": 131,
+      "comments": 11,
+      "post_id": "t3_1n5uj4g",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "DevBudYT",
+      "author_id": "t2_14obh7y4w1",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-01T17:11:41.423000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n5uj4g",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (software)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bzfdmz/styles/profileIcon_bwgqlufxhvcd1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8664bb5e6c3fb63ff116663744922c88d4956b7b"
+    },
+    {
+      "title": "Anyone else make a function that oddly sounds like a human name?",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n5mphs/anyone_else_make_a_function_that_oddly_sounds/",
+      "score": 265,
+      "comments": 37,
+      "post_id": "t3_1n5mphs",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "championx1001",
+      "author_id": "t2_8t3r8hi3",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-01T11:56:34.249000+0000",
+      "content_href": "https://i.redd.it/oqmhwtr2ljmf1.png",
+      "content_preview": "",
+      "flair": [
+        "fun & memes"
+      ],
+      "thumbnail_url": "https://preview.redd.it/anyone-else-make-a-function-that-oddly-sounds-like-a-human-v0-oqmhwtr2ljmf1.png?width=640&crop=smart&auto=webp&s=2b715f0f44ef1e01998a3e15de3645d55f5e10a6"
+    },
+    {
+      "title": "It started as a four day game jam game, it releases on Steam in four weeks!",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n63zxn/it_started_as_a_four_day_game_jam_game_it/",
+      "score": 29,
+      "comments": 0,
+      "post_id": "t3_1n63zxn",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "triple-cerberus",
+      "author_id": "t2_5dnv5i0f",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-01T23:23:39.591000+0000",
+      "content_href": "https://v.redd.it/vcwcljd7zmmf1",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7hx8v5/styles/profileIcon_sf6760pgyrxc1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7d23f0449433563a05ccf9c58c2c4f10afb6cdcb"
+    },
+    {
+      "title": "A mid-sized forest made in Godot",
+      "permalink": "https://www.reddit.com/r/godot/comments/1mgobda/a_midsized_forest_made_in_godot/",
+      "score": 2447,
+      "comments": 105,
+      "post_id": "t3_1mgobda",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "ToniMacaroniy",
+      "author_id": "t2_c37rgqrl",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-08-03T16:59:08.793000+0000",
+      "content_href": "https://v.redd.it/ykxxvshz2ugf1",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4k2dcd/styles/profileIcon_t6x8ob7fkbcb1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=520cc1317d7dfb871ffcbc248b9a32b110846bbc"
+    },
+    {
+      "title": "My first Godot game on Steam - I decided to go for completely hand drawn",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n5m4vc/my_first_godot_game_on_steam_i_decided_to_go_for/",
+      "score": 220,
+      "comments": 3,
+      "post_id": "t3_1n5m4vc",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "chamutalz",
+      "author_id": "t2_9n6zoqtkb",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-01T11:25:34.889000+0000",
+      "content_href": "https://v.redd.it/w6icmyxbfjmf1",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/my-first-godot-game-on-steam-i-decided-to-go-for-completely-v0-ZWdmc2EwemJmam1mMWAd6Cl_mxb6-fhshuGSiBK1sFEIWjTPUlAF16LCDRzs.png?width=640&crop=smart&format=pjpg&auto=webp&s=456572160a328cd3782c6ce54c031736e75e7305"
+    },
+    {
+      "title": "Accidentally jumpscared myself while testing enemy navigation",
+      "permalink": "https://www.reddit.com/r/godot/comments/1mmp5ww/accidentally_jumpscared_myself_while_testing/",
+      "score": 2402,
+      "comments": 54,
+      "post_id": "t3_1mmp5ww",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "yopheyliu",
+      "author_id": "t2_1eete2a7h7",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-08-10T17:53:36.474000+0000",
+      "content_href": "https://v.redd.it/r594bi56b8if1",
+      "content_preview": "",
+      "flair": [
+        "fun & memes"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_d1yx0u/styles/profileIcon_eflkzzn3o15e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=cc6717b565ca154c47e39b46eabe9d3baf85a106"
+    },
+    {
+      "title": "I've been testing AI for my kart game, I didn't expect this...",
+      "permalink": "https://www.reddit.com/r/godot/comments/1msf7ne/ive_been_testing_ai_for_my_kart_game_i_didnt/",
+      "score": 2336,
+      "comments": 113,
+      "post_id": "t3_1msf7ne",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "WeirdBurgerGuy",
+      "author_id": "t2_1vr7lmfdpa",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-08-17T02:30:34.681000+0000",
+      "content_href": "https://v.redd.it/1n5zat4pphjf1",
+      "content_preview": "",
+      "flair": [
+        "fun & memes"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/ive-been-testing-ai-for-my-kart-game-i-didnt-expect-this-v0-bmxqaGlxNHBwaGpmMZMSQNeOsvhz6_mUl4grNDAVhQ21SAJuRTiKXUvEKIhn.png?width=640&crop=smart&format=pjpg&auto=webp&s=ecf9f9487a4621cd410930d9ad9a191c94575521"
+    },
+    {
+      "title": "Made a 3D building selection gui for my cozy game (it was hard)",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n5p17f/made_a_3d_building_selection_gui_for_my_cozy_game/",
+      "score": 112,
+      "comments": 8,
+      "post_id": "t3_1n5p17f",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "DaveBlake1900",
+      "author_id": "t2_8rpkixp6",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-09-01T13:41:56.111000+0000",
+      "content_href": "https://v.redd.it/wbjrjosw3kmf1",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/made-a-3d-building-selection-gui-for-my-cozy-game-it-was-v0-NDNubndpdHcza21mMZrRqY549hvIxmfVbP1VDztrM3odc-IjUrVCmdHLpu-o.png?width=640&crop=smart&format=pjpg&auto=webp&s=fd11e09fb9ce7f56aa258b9667f822fbf7a7a9cf"
+    },
+    {
+      "title": "I made an enemy that procedurally reacts to how you shoot it",
+      "permalink": "https://www.reddit.com/r/godot/comments/1n4b4nm/i_made_an_enemy_that_procedurally_reacts_to_how/",
+      "score": 816,
+      "comments": 21,
+      "post_id": "t3_1n4b4nm",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "StickslapSoftware",
+      "author_id": "t2_1wroazejdq",
+      "subreddit_id": "t5_2znmk",
+      "subreddit": "r/godot",
+      "created_ts": "2025-08-30T20:03:06.924000+0000",
+      "content_href": "https://v.redd.it/mwdxzo09p7mf1",
+      "content_preview": "",
+      "flair": [
+        "selfpromo (games)"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    }
+  ],
+  "scraped_at": "2025-09-02T06:31:58.527465"
+}

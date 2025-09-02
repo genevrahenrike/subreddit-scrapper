@@ -1,0 +1,1010 @@
+{
+  "subreddit": "apolloapp",
+  "url": "https://www.reddit.com/r/apolloapp",
+  "meta": {
+    "title": "Apollo App"
+  },
+  "posts": [
+    {
+      "title": "Apollo buged my main account",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1n1cnlr/apollo_buged_my_main_account/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1n1cnlr",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Master_Primary_1507",
+      "author_id": "t2_1saa7f5l3w",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-08-27T09:48:51.446000+0000",
+      "content_href": "https://i.redd.it/iyalssfbajlf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Redgifs audio gone again?",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1mvpvfr/redgifs_audio_gone_again/",
+      "score": 28,
+      "comments": 15,
+      "post_id": "t3_1mvpvfr",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "ImNotHorny-uAre",
+      "author_id": "t2_15olac7yv5",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-08-20T20:11:29.913000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1mvpvfr/redgifs_audio_gone_again/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_c3qd9i/styles/profileIcon_fpk00gtqd2gd1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=30f27c69f33f471f17c3ea832313ad810470f655"
+    },
+    {
+      "title": "I think Apollo is breaking down",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1mvnq0x/i_think_apollo_is_breaking_down/",
+      "score": 5,
+      "comments": 8,
+      "post_id": "t3_1mvnq0x",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "counterUAV",
+      "author_id": "t2_3trpigs",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-08-20T18:53:06.901000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1mvnq0x/i_think_apollo_is_breaking_down/",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Deleting notifications",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1mv5gv2/deleting_notifications/",
+      "score": 4,
+      "comments": 8,
+      "post_id": "t3_1mv5gv2",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "SimShade",
+      "author_id": "t2_l5civ",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-08-20T04:49:43.947000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1mv5gv2/deleting_notifications/",
+      "content_preview": "",
+      "flair": [
+        "Feature Request"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Immediate Crash on Open",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1muqea7/immediate_crash_on_open/",
+      "score": 3,
+      "comments": 12,
+      "post_id": "t3_1muqea7",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "mizuhri",
+      "author_id": "t2_4aktj",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-08-19T18:17:04.536000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1muqea7/immediate_crash_on_open/",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Test",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1mtx1pg/test/",
+      "score": 0,
+      "comments": 10,
+      "post_id": "t3_1mtx1pg",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "cindyapple12345",
+      "author_id": "t2_23l951n0",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-08-18T20:10:42.186000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1mtx1pg/test/",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "[Livecontainer/Sideloading] iOS 18.6 and the latest version of LC cause Apollo to always have black screen. Downgrade LC and enable the black screen fix.",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1mskjn9/livecontainersideloading_ios_186_and_the_latest/",
+      "score": 18,
+      "comments": 8,
+      "post_id": "t3_1mskjn9",
+      "post_type": "multi_media",
+      "domain": "self.apolloapp",
+      "author": "Demigod787",
+      "author_id": "t2_el8vj",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-08-17T07:27:16.081000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1mskjn9/livecontainersideloading_ios_186_and_the_latest/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Is The Hydra App For Reddit Worth Downloading And Paying The Monthly Subscription?",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1msablh/is_the_hydra_app_for_reddit_worth_downloading_and/",
+      "score": 2,
+      "comments": 25,
+      "post_id": "t3_1msablh",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "PrincessBananas85",
+      "author_id": "t2_7r3ctd6",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-08-16T22:45:46.879000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1msablh/is_the_hydra_app_for_reddit_worth_downloading_and/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Working on a 'bring your own reddit key' native iOS client",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1mqyqwn/working_on_a_bring_your_own_reddit_key_native_ios/",
+      "score": 113,
+      "comments": 49,
+      "post_id": "t3_1mqyqwn",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Purple-Echidna-4222",
+      "author_id": "t2_1qv1stk5br",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-08-15T14:02:29.709000+0000",
+      "content_href": "https://v.redd.it/bpijmagkw6jf1",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/working-on-a-bring-your-own-reddit-key-native-ios-client-v0-cHhzcmc5Z2t3NmpmMQFZkShBbEwF00lJGtX4CB-_9c4G8z-kCJzPT_UUiToA.png?width=640&crop=smart&format=pjpg&auto=webp&s=acff17ec2dae228fe06b3748f80d04318a607a11"
+    },
+    {
+      "title": "Direct install for EU?",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1mpyx64/direct_install_for_eu/",
+      "score": 17,
+      "comments": 6,
+      "post_id": "t3_1mpyx64",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "Araero",
+      "author_id": "t2_qbri4",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-08-14T12:13:36.294000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1mpyx64/direct_install_for_eu/",
+      "content_preview": "",
+      "flair": [
+        "Feature Request"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Anyone want to buy my Apollo pin?",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1mpn1jb/anyone_want_to_buy_my_apollo_pin/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1mpn1jb",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "DorkyDutchman",
+      "author_id": "t2_376u0a",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-08-14T01:32:28.579000+0000",
+      "content_href": "https://i.redd.it/zkttodrw1wif1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/anyone-want-to-buy-my-apollo-pin-v0-zkttodrw1wif1.jpeg?width=640&crop=smart&auto=webp&s=1b12cd64c629668dac51d220ea06eee760b3c7ac"
+    },
+    {
+      "title": "Apollo Icon reimagined in Liquid Glass for iOS 26",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1mnphmg/apollo_icon_reimagined_in_liquid_glass_for_ios_26/",
+      "score": 302,
+      "comments": 39,
+      "post_id": "t3_1mnphmg",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "harunatsu91202024",
+      "author_id": "t2_aktrlccw",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-08-11T21:16:59.965000+0000",
+      "content_href": "https://i.redd.it/sqbq2q4iigif1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "App Icon"
+      ],
+      "thumbnail_url": "https://preview.redd.it/apollo-icon-reimagined-in-liquid-glass-for-ios-26-v0-sqbq2q4iigif1.jpeg?width=640&crop=smart&auto=webp&s=2dd34ebe83d4589361c9a362eb12e49621075f71"
+    },
+    {
+      "title": "Unable to purchase Ultra in sandbox?",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1mnz31t/unable_to_purchase_ultra_in_sandbox/",
+      "score": 0,
+      "comments": 5,
+      "post_id": "t3_1mnz31t",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "death_is_sleepy",
+      "author_id": "t2_x87q83ryk",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-08-12T04:24:04.123000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1mnz31t/unable_to_purchase_ultra_in_sandbox/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Apollo vs Reddit app",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1mn1gb6/apollo_vs_reddit_app/",
+      "score": 21,
+      "comments": 16,
+      "post_id": "t3_1mn1gb6",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "Desmond__Jones",
+      "author_id": "t2_v2rk5bg",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-08-11T02:37:34.225000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1mn1gb6/apollo_vs_reddit_app/",
+      "content_preview": "",
+      "flair": [
+        "Appreciation"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Yeah right!!",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1mlmt60/yeah_right/",
+      "score": 52,
+      "comments": 12,
+      "post_id": "t3_1mlmt60",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Rafanado",
+      "author_id": "t2_63xjz",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-08-09T11:07:49.580000+0000",
+      "content_href": "https://i.redd.it/agrp14008zhf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Feedback"
+      ],
+      "thumbnail_url": "https://preview.redd.it/yeah-right-v0-agrp14008zhf1.jpeg?width=640&crop=smart&auto=webp&s=70faa2a5baba2f0bf0654158776d65726559aece"
+    },
+    {
+      "title": "Please help me out",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1mmfrg3/please_help_me_out/",
+      "score": 0,
+      "comments": 12,
+      "post_id": "t3_1mmfrg3",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "Round_Secretary_974",
+      "author_id": "t2_r141z945p",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-08-10T11:06:06.540000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1mmfrg3/please_help_me_out/",
+      "content_preview": "",
+      "flair": [
+        "Feature Request"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "What the hell is this  app design u/spez",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1mkx2vt/what_the_hell_is_this_app_design_uspez/",
+      "score": 123,
+      "comments": 48,
+      "post_id": "t3_1mkx2vt",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ZacBobisKing",
+      "author_id": "t2_7itpr2xv",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-08-08T14:42:53.019000+0000",
+      "content_href": "https://i.redd.it/hm6d88hg5thf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Appreciation"
+      ],
+      "thumbnail_url": "https://preview.redd.it/what-the-hell-is-this-app-design-u-spez-v0-hm6d88hg5thf1.jpeg?width=640&crop=smart&auto=webp&s=cd5b1873ab668bc491765d4a9ee91b9b36ff7418"
+    },
+    {
+      "title": "ios 26 ctd on launch",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1mhik4d/ios_26_ctd_on_launch/",
+      "score": 0,
+      "comments": 22,
+      "post_id": "t3_1mhik4d",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "Orbital_Schlong",
+      "author_id": "t2_obr9awf0",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-08-04T16:42:15.907000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1mhik4d/ios_26_ctd_on_launch/",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Apollo alternative for android",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1mf88bb/apollo_alternative_for_android/",
+      "score": 15,
+      "comments": 9,
+      "post_id": "t3_1mf88bb",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "DottedEnviroment",
+      "author_id": "t2_10d4tsrodc",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-08-01T21:04:30.544000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1mf88bb/apollo_alternative_for_android/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "New here: No “Redeem Activation Code”???",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1mfheeh/new_here_no_redeem_activation_code/",
+      "score": 0,
+      "comments": 6,
+      "post_id": "t3_1mfheeh",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "TheDudeLikeAbidesMan",
+      "author_id": "t2_gl6ifj33",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-08-02T04:20:52.421000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mfheeh",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://preview.redd.it/new-here-no-redeem-activation-code-v0-m3pcluh09jgf1.jpg?width=640&crop=smart&auto=webp&s=84cbdfaddd489bf0608d777adf0855afef541c0b"
+    },
+    {
+      "title": "Having trouble with Apollo and Sidestore",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1m9xi0j/having_trouble_with_apollo_and_sidestore/",
+      "score": 13,
+      "comments": 6,
+      "post_id": "t3_1m9xi0j",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "ul49",
+      "author_id": "t2_3odzq",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-07-26T16:22:56.548000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1m9xi0j/having_trouble_with_apollo_and_sidestore/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Apollo should do what Narwhal is doing",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1m653lg/apollo_should_do_what_narwhal_is_doing/",
+      "score": 0,
+      "comments": 31,
+      "post_id": "t3_1m653lg",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "Captain-Crayg",
+      "author_id": "t2_gpyc38o3",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-07-22T04:50:13.176000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1m653lg/apollo_should_do_what_narwhal_is_doing/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Guys I miss it...",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1m2q6ay/guys_i_miss_it/",
+      "score": 297,
+      "comments": 34,
+      "post_id": "t3_1m2q6ay",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "Patient-Category5275",
+      "author_id": "t2_lejb2uau",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-07-18T02:08:26.909000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1m2q6ay/guys_i_miss_it/",
+      "content_preview": "",
+      "flair": [
+        "Appreciation"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Reddit app trying to be what Apollo was… but for a price",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1m1nul4/reddit_app_trying_to_be_what_apollo_was_but_for_a/",
+      "score": 250,
+      "comments": 44,
+      "post_id": "t3_1m1nul4",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "splitdiopter",
+      "author_id": "t2_7tizj",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-07-16T20:38:00.488000+0000",
+      "content_href": "https://i.redd.it/zxqio0muradf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Appreciation"
+      ],
+      "thumbnail_url": "https://preview.redd.it/reddit-app-trying-to-be-what-apollo-was-but-for-a-price-v0-zxqio0muradf1.jpeg?width=640&crop=smart&auto=webp&s=561420e95472f9cfb76e2b242105a020ad5650ee"
+    },
+    {
+      "title": "Comments Showing 1 Upvote Issue",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1m1vmeh/comments_showing_1_upvote_issue/",
+      "score": 6,
+      "comments": 6,
+      "post_id": "t3_1m1vmeh",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "mizuhri",
+      "author_id": "t2_4aktj",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-07-17T02:16:30.974000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1m1vmeh/comments_showing_1_upvote_issue/",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Found my Apollo Badge !",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1lztfxz/found_my_apollo_badge/",
+      "score": 933,
+      "comments": 37,
+      "post_id": "t3_1lztfxz",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Roverprimus",
+      "author_id": "t2_jryxv",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-07-14T17:55:55.091000+0000",
+      "content_href": "https://i.redd.it/v8fvrpo3pvcf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Appreciation"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dmjpe/styles/profileIcon_xv3woquj26xb1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=87a58a3b1a73feabc82b7fe4556ed753ead2c7d8"
+    },
+    {
+      "title": "Thankful for the Strong, Intelligent And Direct Voice of Congresswoman #JasmineCrockett as Ranking Member of House Committee Questioning An Ambassador in today's segment. Funny how it’s only “radical” when the help ain’t going to billionaires #jasminecrockett #trump",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1m10ft7/thankful_for_the_strong_intelligent_and_direct/",
+      "score": 0,
+      "comments": 6,
+      "post_id": "t3_1m10ft7",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "CommishRallyCat1967-",
+      "author_id": "t2_1e2x66vd5r",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-07-16T01:59:14.884000+0000",
+      "content_href": "https://youtube.com/shorts/CDb-spUNOms?si=ikqTkA4CFxfDARl5",
+      "content_preview": "",
+      "flair": [
+        "Appreciation"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Imgur API issue",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1lok34u/imgur_api_issue/",
+      "score": 26,
+      "comments": 21,
+      "post_id": "t3_1lok34u",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "georgewelll",
+      "author_id": "t2_6kjdj3gp",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-06-30T21:39:24.565000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1lok34u/imgur_api_issue/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Has anyone faced this stutter when replaying a GIF?",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1lnbzzo/has_anyone_faced_this_stutter_when_replaying_a_gif/",
+      "score": 11,
+      "comments": 4,
+      "post_id": "t3_1lnbzzo",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "fijozico",
+      "author_id": "t2_gab0t",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-06-29T11:02:07.083000+0000",
+      "content_href": "https://v.redd.it/ijw82mqxku9f1",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1qzmwn/styles/profileIcon_ptghgimey5y81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=02eaf5b67c0f3bd8512d3699565055631b09c1ea"
+    },
+    {
+      "title": "New video by Christian Selig: I made the PC I couldn't buy",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1lmi2d9/new_video_by_christian_selig_i_made_the_pc_i/",
+      "score": 700,
+      "comments": 24,
+      "post_id": "t3_1lmi2d9",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "gb_14",
+      "author_id": "t2_stxfp",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-06-28T08:45:05.469000+0000",
+      "content_href": "https://www.youtube.com/watch?v=7HgAN5cEmkk",
+      "content_preview": "",
+      "flair": [
+        "Announcement 📣"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How to Fix the Reddit Application because it need some milk. In other words we must work together to fix the reddit Application.. OH YEA",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1lm6ze8/how_to_fix_the_reddit_application_because_it_need/",
+      "score": 0,
+      "comments": 10,
+      "post_id": "t3_1lm6ze8",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "brotherbobbz",
+      "author_id": "t2_dvoou8ah",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-06-27T22:25:33.338000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1lm6ze8/how_to_fix_the_reddit_application_because_it_need/",
+      "content_preview": "",
+      "flair": [
+        "Feedback"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Slide counter issue on iPhone 16e",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1lff5bn/slide_counter_issue_on_iphone_16e/",
+      "score": 13,
+      "comments": 6,
+      "post_id": "t3_1lff5bn",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "andyman9277",
+      "author_id": "t2_5ah4e",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-06-19T16:27:56.710000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1lff5bn/slide_counter_issue_on_iphone_16e/",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Sound is not synced",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1lc0ebw/sound_is_not_synced/",
+      "score": 1,
+      "comments": 8,
+      "post_id": "t3_1lc0ebw",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "StewieDoubleD",
+      "author_id": "t2_dr3j75pp",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-06-15T13:31:24.365000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1lc0ebw/sound_is_not_synced/",
+      "content_preview": "",
+      "flair": [
+        "Feedback"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Is There a way for one app the screens go off except my handheld, and another app all screens stay on?",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1lcb4pf/is_there_a_way_for_one_app_the_screens_go_off/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1lcb4pf",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "Original_JsmashTV",
+      "author_id": "t2_85t0ezha",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-06-15T21:09:26.729000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1lcb4pf/is_there_a_way_for_one_app_the_screens_go_off/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "DIGG AMA - Christian Selig",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1l9em9p/digg_ama_christian_selig/",
+      "score": 361,
+      "comments": 41,
+      "post_id": "t3_1l9em9p",
+      "post_type": "link",
+      "domain": "vimeo.com",
+      "author": "SuggestiveFortune",
+      "author_id": "t2_g2oui",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-06-12T05:37:23.142000+0000",
+      "content_href": "https://vimeo.com/1092612803",
+      "content_preview": "",
+      "flair": [
+        "Announcement 📣"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Our buddy Christian at WWDC",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1l7g2ws/our_buddy_christian_at_wwdc/",
+      "score": 3340,
+      "comments": 113,
+      "post_id": "t3_1l7g2ws",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Afkargh",
+      "author_id": "t2_6hz5v",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-06-09T20:48:47.467000+0000",
+      "content_href": "https://i.redd.it/1ry5xdm1sy5f1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Appreciation"
+      ],
+      "thumbnail_url": "https://preview.redd.it/our-buddy-christian-at-wwdc-v0-1ry5xdm1sy5f1.jpeg?width=640&crop=smart&auto=webp&s=9eb582b2e8970c7e59efd25b9d7c0c6bba2e3c88"
+    },
+    {
+      "title": "Sidestore Apollo crashing on launch for you on iOS 26? See fix",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1l7oqxg/sidestore_apollo_crashing_on_launch_for_you_on/",
+      "score": 5,
+      "comments": 3,
+      "post_id": "t3_1l7oqxg",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "tbone338",
+      "author_id": "t2_15rgu8",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-06-10T03:29:45.249000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1l7oqxg/sidestore_apollo_crashing_on_launch_for_you_on/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Help me understand why Narwhal survived but Apollo didn’t?",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1l07mmb/help_me_understand_why_narwhal_survived_but/",
+      "score": 261,
+      "comments": 105,
+      "post_id": "t3_1l07mmb",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "shayonpal",
+      "author_id": "t2_cr7kh",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-05-31T21:07:36.642000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1l07mmb/help_me_understand_why_narwhal_survived_but/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Kevin Rose showed up next to Alexis Ohanian at the WSJ “Future of Everything” event, wearing an Apollo tee.",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1kyka38/kevin_rose_showed_up_next_to_alexis_ohanian_at/",
+      "score": 689,
+      "comments": 59,
+      "post_id": "t3_1kyka38",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "jacaranda_man",
+      "author_id": "t2_ixcyz",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-05-29T19:48:06.729000+0000",
+      "content_href": "https://www.reddit.com/gallery/1kyka38",
+      "content_preview": "",
+      "flair": [
+        "Appreciation"
+      ],
+      "thumbnail_url": "https://preview.redd.it/kevin-rose-showed-up-next-to-alexis-ohanian-at-the-wsj-v0-dp4zr3h6zr3f1.jpg?width=640&crop=smart&auto=webp&s=8f4986fa796c19d0159612c5aace46cb05404c5c"
+    },
+    {
+      "title": "One of the best features this app had.. revealing the new accounts karma farming.",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1kvxmnd/one_of_the_best_features_this_app_had_revealing/",
+      "score": 682,
+      "comments": 43,
+      "post_id": "t3_1kvxmnd",
+      "post_type": "image",
+      "domain": "i.imgur.com",
+      "author": "SlendyTheMan",
+      "author_id": "t2_g0hov",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-05-26T15:45:22.308000+0000",
+      "content_href": "https://i.imgur.com/lKbg9y9.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Appreciation"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/one-of-the-best-features-this-app-had-revealing-the-new-v0-a-UXsBooOrCOLk5Spu6APvbYOjI7yBq0Cmh1C2LgbWo.jpg?width=640&crop=smart&auto=webp&s=54a275cae64bebc82de57242a9f1196a717a32ee"
+    },
+    {
+      "title": "Christian Selig, developer of Apollo (the app shut down by Reddit), joins Digg?",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1krichb/christian_selig_developer_of_apollo_the_app_shut/",
+      "score": 1874,
+      "comments": 146,
+      "post_id": "t3_1krichb",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "jacaranda_man",
+      "author_id": "t2_ixcyz",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-05-20T22:37:47.357000+0000",
+      "content_href": "/r/RedditAlternatives/comments/1kri3xg/christian_selig_developer_of_apollo_the_app_shut/",
+      "content_preview": "",
+      "flair": [
+        "Announcement 📣"
+      ],
+      "thumbnail_url": "https://preview.redd.it/christian-selig-developer-of-apollo-the-app-shut-down-by-v0-zp89qn20j02f1.jpeg?width=640&crop=smart&auto=webp&s=cbab49c252e0fe5f1ceac78f36a2116347224da2"
+    },
+    {
+      "title": "Almost 8 years of using this app and this is the first time I reached the bottom",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1kqwrez/almost_8_years_of_using_this_app_and_this_is_the/",
+      "score": 333,
+      "comments": 31,
+      "post_id": "t3_1kqwrez",
+      "post_type": "image",
+      "domain": "i.imgur.com",
+      "author": "Heisenberg044",
+      "author_id": "t2_174nff",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-05-20T04:58:58.906000+0000",
+      "content_href": "https://i.imgur.com/EtW5UBB.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Appreciation"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/almost-8-years-of-using-this-app-and-this-is-the-first-time-v0-RfurRn2xj7EsRSGAOK0g1mm5u2Ew_9CcU6v6SamSe2U.jpg?width=640&crop=smart&auto=webp&s=9631081b3c72f8d72a2154f0636d55dcd42f014f"
+    },
+    {
+      "title": "Reddit should buy apollo for reddit.",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1klhazb/reddit_should_buy_apollo_for_reddit/",
+      "score": 0,
+      "comments": 39,
+      "post_id": "t3_1klhazb",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "FumGlumpp",
+      "author_id": "t2_nw0t9d8a4",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-05-13T09:06:31.283000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1klhazb/reddit_should_buy_apollo_for_reddit/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Open In Apollo extension is constantly turning itself off, has this happened to anyone else?",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1kezzz4/open_in_apollo_extension_is_constantly_turning/",
+      "score": 45,
+      "comments": 13,
+      "post_id": "t3_1kezzz4",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "FlagshipDexterity",
+      "author_id": "t2_1mk5r0ohhh",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-05-05T01:34:27.204000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1kezzz4/open_in_apollo_extension_is_constantly_turning/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "After a fair bit it stops loading new posts, is this normal?",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1kezg8p/after_a_fair_bit_it_stops_loading_new_posts_is/",
+      "score": 5,
+      "comments": 3,
+      "post_id": "t3_1kezg8p",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "DrPleaser",
+      "author_id": "t2_4ffrd",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-05-05T01:05:22.673000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1kezg8p/after_a_fair_bit_it_stops_loading_new_posts_is/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "PSA: You can still use Apollo!!!",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1k8ej8d/psa_you_can_still_use_apollo/",
+      "score": 330,
+      "comments": 67,
+      "post_id": "t3_1k8ej8d",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "Infinite_Scene",
+      "author_id": "t2_29t0j10r",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-04-26T14:42:59.463000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1k8ej8d/psa_you_can_still_use_apollo/",
+      "content_preview": "",
+      "flair": [
+        "Announcement 📣"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "How are you holding up since the redditocalypse?",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1k7s026/how_are_you_holding_up_since_the_redditocalypse/",
+      "score": 382,
+      "comments": 208,
+      "post_id": "t3_1k7s026",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "Suvtropics",
+      "author_id": "t2_wi3dw",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-04-25T18:21:38.949000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1k7s026/how_are_you_holding_up_since_the_redditocalypse/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I turned my phone off and on, and now suddenly cannot open either Apollo or AltStore. Has this happened to anyone else?",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1k7up12/i_turned_my_phone_off_and_on_and_now_suddenly/",
+      "score": 5,
+      "comments": 3,
+      "post_id": "t3_1k7up12",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "GroovinChip",
+      "author_id": "t2_epiwa",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-04-25T20:14:57.847000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1k7up12/i_turned_my_phone_off_and_on_and_now_suddenly/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_e838i/styles/profileIcon_vuwxjhb366g11.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=642e9a96f0e22c5092dfd8cc2ecbe8f622d77348"
+    },
+    {
+      "title": "Am I going to be charged or not?",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1k6dgr6/am_i_going_to_be_charged_or_not/",
+      "score": 136,
+      "comments": 56,
+      "post_id": "t3_1k6dgr6",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Gullible-Reaction-77",
+      "author_id": "t2_gmcsvnii",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-04-23T23:18:39.687000+0000",
+      "content_href": "https://www.reddit.com/gallery/1k6dgr6",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/am-i-going-to-be-charged-or-not-v0-18y63fwx3owe1.jpg?width=640&crop=smart&auto=webp&s=d029dd94073cfb9d7bc107246cf779675973e31c"
+    },
+    {
+      "title": "is there any way to sideload apollo on android",
+      "permalink": "https://www.reddit.com/r/apolloapp/comments/1jx5vm6/is_there_any_way_to_sideload_apollo_on_android/",
+      "score": 0,
+      "comments": 9,
+      "post_id": "t3_1jx5vm6",
+      "post_type": "text",
+      "domain": "self.apolloapp",
+      "author": "Gloomy-Village9958",
+      "author_id": "t2_clg3yqx4x",
+      "subreddit_id": "t5_363lq",
+      "subreddit": "r/apolloapp",
+      "created_ts": "2025-04-12T01:20:46.919000+0000",
+      "content_href": "https://www.reddit.com/r/apolloapp/comments/1jx5vm6/is_there_any_way_to_sideload_apollo_on_android/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    }
+  ],
+  "scraped_at": "2025-09-02T04:11:58.094741"
+}

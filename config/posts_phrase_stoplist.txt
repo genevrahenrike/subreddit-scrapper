@@ -1,0 +1,18 @@
+# Posts phrase stoplist (bigrams/trigrams only)
+# Lowercased; one per line; matched exactly after token normalization.
+hi guys
+alright guys
+thing wish
+thing wish knew
+wish knew
+goes up
+right way use
+just getting
+think like
+saving life
+going crazy
+first time drawing
+debatable thing physics
+experiment real
+12 days
+got paid

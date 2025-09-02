@@ -1,0 +1,1010 @@
+{
+  "subreddit": "computervision",
+  "url": "https://www.reddit.com/r/computervision",
+  "meta": {
+    "title": "Computer Vision"
+  },
+  "posts": [
+    {
+      "title": "Transfer learning model not training well(I've shared the colab link if any one wants to take a look at my code)",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n6lm5f/transfer_learning_model_not_training_wellive/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6lm5f",
+      "post_type": "multi_media",
+      "domain": "self.computervision",
+      "author": "iz_bleep",
+      "author_id": "t2_dqtlr72d",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-09-02T14:51:38.900000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1n6lm5f/transfer_learning_model_not_training_wellive/",
+      "content_preview": "",
+      "flair": [
+        "Help: Project"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I built a program that counts football (\"soccer\") juggle attempts in real time.",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n1b18j/i_built_a_program_that_counts_football_soccer/",
+      "score": 568,
+      "comments": 29,
+      "post_id": "t3_1n1b18j",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Willing-Arugula3238",
+      "author_id": "t2_lgu4mfe7",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-27T08:02:09.807000+0000",
+      "content_href": "https://v.redd.it/91qkcxb3pilf1",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "WideResNet",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n6dwbm/wideresnet/",
+      "score": 4,
+      "comments": 1,
+      "post_id": "t3_1n6dwbm",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "socemaglo",
+      "author_id": "t2_l45apmbf",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-09-02T08:22:29.857000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1n6dwbm/wideresnet/",
+      "content_preview": "",
+      "flair": [
+        "Help: Theory"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "How to correctly prevent audience & ref from being detected?",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1mjafx6/how_to_correctly_prevent_audience_ref_from_being/",
+      "score": 729,
+      "comments": 87,
+      "post_id": "t3_1mjafx6",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Rurouni-dev-11",
+      "author_id": "t2_r4z7s59nl",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-06T17:08:57.359000+0000",
+      "content_href": "https://v.redd.it/89t4l7btgfhf1",
+      "content_preview": "",
+      "flair": [
+        "Help: Project"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "End-to-end Autonomous Driving Research",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n6d1b7/endtoend_autonomous_driving_research/",
+      "score": 4,
+      "comments": 2,
+      "post_id": "t3_1n6d1b7",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "Puzzleheaded-Ad-8850",
+      "author_id": "t2_6q9rug55",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-09-02T07:25:14.047000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1n6d1b7/endtoend_autonomous_driving_research/",
+      "content_preview": "",
+      "flair": [
+        "Help: Project"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Real-time Photorealism Enhancement for Games",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n0xa4y/realtime_photorealism_enhancement_for_games/",
+      "score": 145,
+      "comments": 16,
+      "post_id": "t3_1n0xa4y",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "stefanos50",
+      "author_id": "t2_6n4kghqe",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-26T20:41:43.372000+0000",
+      "content_href": "https://v.redd.it/yvn27mzgcflf1",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Facial Recognition Attendance in a Primary School",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n5ypyq/facial_recognition_attendance_in_a_primary_school/",
+      "score": 21,
+      "comments": 13,
+      "post_id": "t3_1n5ypyq",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "me081103",
+      "author_id": "t2_1qfdor9vjc",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-09-01T19:46:40.951000+0000",
+      "content_href": "https://v.redd.it/twiwkqxixlmf1",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Has anyone worked on spatial predicates with YOLO detections?",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n6hgs9/has_anyone_worked_on_spatial_predicates_with_yolo/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1n6hgs9",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "Ok_Shoulder_83",
+      "author_id": "t2_1bv5ujbqz1",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-09-02T11:56:34.552000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1n6hgs9/has_anyone_worked_on_spatial_predicates_with_yolo/",
+      "content_preview": "",
+      "flair": [
+        "Help: Project"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Interactive visualization of Pytorch computer vision models within notebooks",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1mm2xpo/interactive_visualization_of_pytorch_computer/",
+      "score": 398,
+      "comments": 15,
+      "post_id": "t3_1mm2xpo",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Dev-Table",
+      "author_id": "t2_1mp5289pqj",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-09T23:03:59.917000+0000",
+      "content_href": "https://v.redd.it/2f9p5s6bq2if1",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Dino v3 Implementation",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n5qv1a/dino_v3_implementation/",
+      "score": 11,
+      "comments": 3,
+      "post_id": "t3_1n5qv1a",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "Every-Computer170",
+      "author_id": "t2_bo7okvxo1",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-09-01T14:54:31.270000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1n5qv1a/dino_v3_implementation/",
+      "content_preview": "",
+      "flair": [
+        "Help: Project"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "PEEKABOO2: Adapting Peekaboo with Segment Anything Model for Unsupervised Object Localization in Images and Videos",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n1vs22/peekaboo2_adapting_peekaboo_with_segment_anything/",
+      "score": 137,
+      "comments": 13,
+      "post_id": "t3_1n1vs22",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "fat_robot17",
+      "author_id": "t2_nr3chnjr",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-27T22:51:24.732000+0000",
+      "content_href": "https://v.redd.it/gpk1ru0p5nlf1",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/peekaboo2-adapting-peekaboo-with-segment-anything-model-for-v0-bTU1d3J1MHA1bmxmMarLFAc8iKSPBuxvNO0ho_jwBXwrl9_WS_Tic0iywQ19.png?width=640&crop=smart&format=pjpg&auto=webp&s=1bc0b72154549d42e4482342546a8f6c966bb26a"
+    },
+    {
+      "title": "Where can I find papers with public datasets?",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n5w5e7/where_can_i_find_papers_with_public_datasets/",
+      "score": 4,
+      "comments": 3,
+      "post_id": "t3_1n5w5e7",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "Nothing769",
+      "author_id": "t2_l72l5ne3l",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-09-01T18:11:02.473000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1n5w5e7/where_can_i_find_papers_with_public_datasets/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Stereo Vision With Smartphone",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n2h4z2/stereo_vision_with_smartphone/",
+      "score": 105,
+      "comments": 16,
+      "post_id": "t3_1n2h4z2",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "The_best_1234",
+      "author_id": "t2_5ie3e1o4",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-28T16:34:22.574000+0000",
+      "content_href": "https://v.redd.it/ibp6xn7gfslf1",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/stereo-vision-with-smartphone-v0-YXJtdjQ0OWdmc2xmMafxMM7RPbZ_Tui9xdRMjImC3oNbAr08afb2VdB1NgCC.png?width=640&crop=smart&format=pjpg&auto=webp&s=660e0697b888010b5587a487e02bff5f653013d7"
+    },
+    {
+      "title": "Feedback needed for managing Multi Camera Video data and datasets",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n5qbp7/feedback_needed_for_managing_multi_camera_video/",
+      "score": 5,
+      "comments": 1,
+      "post_id": "t3_1n5qbp7",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "Mysterious-Emu3237",
+      "author_id": "t2_75i7ys9s",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-09-01T14:33:31.750000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1n5qbp7/feedback_needed_for_managing_multi_camera_video/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "My friends and I built AI fitness trainer app that gives real-time form feedback just using your phone’s camera",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1ml4fzg/my_friends_and_i_built_ai_fitness_trainer_app/",
+      "score": 163,
+      "comments": 24,
+      "post_id": "t3_1ml4fzg",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "snow---Black",
+      "author_id": "t2_7hehblys",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-08T19:21:55.055000+0000",
+      "content_href": "https://v.redd.it/580wh7u1juhf1",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Doubt on Single-Class detection",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n5nh56/doubt_on_singleclass_detection/",
+      "score": 3,
+      "comments": 2,
+      "post_id": "t3_1n5nh56",
+      "post_type": "multi_media",
+      "domain": "self.computervision",
+      "author": "Lautaro0210",
+      "author_id": "t2_80mydgb4",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-09-01T12:34:04.832000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1n5nh56/doubt_on_singleclass_detection/",
+      "content_preview": "",
+      "flair": [
+        "Help: Project"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How to improve a model",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n5j51f/how_to_improve_a_model/",
+      "score": 5,
+      "comments": 2,
+      "post_id": "t3_1n5j51f",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "Naneet_Aleart_Ok",
+      "author_id": "t2_8sl53eko",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-09-01T08:22:34.486000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1n5j51f/how_to_improve_a_model/",
+      "content_preview": "",
+      "flair": [
+        "Help: Project"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Fall detection demo for a hackathon project I'm building (YoloV8Pose on an embedded device)",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1mtx860/fall_detection_demo_for_a_hackathon_project_im/",
+      "score": 154,
+      "comments": 24,
+      "post_id": "t3_1mtx860",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "PriestlyMuffin",
+      "author_id": "t2_la7eg",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-18T20:17:17.552000+0000",
+      "content_href": "https://v.redd.it/ot30g2r16ujf1",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Is it possible to complete this project with budget equipment?",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n5kunq/is_it_possible_to_complete_this_project_with/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1n5kunq",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "mageblood123",
+      "author_id": "t2_k2rmk9zo",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-09-01T10:11:13.705000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1n5kunq/is_it_possible_to_complete_this_project_with/",
+      "content_preview": "",
+      "flair": [
+        "Help: Project"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "How to create a tactical view like this without 4 keypoints?",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n2vnbh/how_to_create_a_tactical_view_like_this_without_4/",
+      "score": 95,
+      "comments": 22,
+      "post_id": "t3_1n2vnbh",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "satoorilabs",
+      "author_id": "t2_1m63wjaf82",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-29T02:31:39.205000+0000",
+      "content_href": "https://i.redd.it/lc0gcwtxbvlf1.png",
+      "content_preview": "",
+      "flair": [
+        "Help: Project"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Trouble finding where to learn what i need to make my project.",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n5d8fl/trouble_finding_where_to_learn_what_i_need_to/",
+      "score": 7,
+      "comments": 8,
+      "post_id": "t3_1n5d8fl",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "Less_Measurement8733",
+      "author_id": "t2_1wddyb4um6",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-09-01T02:42:36.839000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1n5d8fl/trouble_finding_where_to_learn_what_i_need_to/",
+      "content_preview": "",
+      "flair": [
+        "Help: Theory"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Raspberry Pi Picamera2  opencv Gpio control example with python",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n4q63a/raspberry_pi_picamera2_opencv_gpio_control/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1n4q63a",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "Guilty_Question_6914",
+      "author_id": "t2_pw1i07hgh",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-31T09:15:26.528000+0000",
+      "content_href": "https://youtube.com/watch?v=ILUrOeNAf2Y&si=4oY4J6e9Nf1TbDtO",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_be8ixx/styles/profileIcon_8y7b4ty9xr6e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=81ac61a1e91800afbcb4485c6b19032d5d1979ae"
+    },
+    {
+      "title": "A YouTuber named 'Basically Homeless' built the world's first invisible PC setup and it looks straight out of the future",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1mnmqg0/a_youtuber_named_basically_homeless_built_the/",
+      "score": 142,
+      "comments": 32,
+      "post_id": "t3_1mnmqg0",
+      "post_type": "crosspost",
+      "domain": "v.redd.it",
+      "author": "reddtimes101",
+      "author_id": "t2_5ehutf6lq",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-11T19:33:30.133000+0000",
+      "content_href": "/r/Oddlygenius/comments/1mnmmh7/a_youtuber_named_basically_homeless_built_the/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/a-youtuber-named-basically-homeless-built-the-worlds-first-v0-b25mODA1Z2F6ZmlmMZEQ-By70D1kNS8YoWMLluJq_Z6g0CjJ0zAu2cLSiFS9.png?width=640&crop=smart&format=pjpg&auto=webp&s=569bd5503f10119ca86dc24d291fed4646e824e3"
+    },
+    {
+      "title": "Computer Vision Backbone Model PapersWithCode Alternative: Heedless Backbones",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n5rci2/computer_vision_backbone_model_paperswithcode/",
+      "score": 36,
+      "comments": 7,
+      "post_id": "t3_1n5rci2",
+      "post_type": "multi_media",
+      "domain": "self.computervision",
+      "author": "Even-Tour-4580",
+      "author_id": "t2_8c286hoy",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-09-01T15:12:51.657000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1n5rci2/computer_vision_backbone_model_paperswithcode/",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Hand-Controlled Tetris",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1mnv4zg/handcontrolled_tetris/",
+      "score": 117,
+      "comments": 3,
+      "post_id": "t3_1mnv4zg",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Akumetsu_971",
+      "author_id": "t2_tqgbsjty",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-12T01:14:43.773000+0000",
+      "content_href": "https://v.redd.it/d9d7xs3xohif1",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/hand-controlled-tetris-v0-ZmhwdnUwNXhvaGlmMaf_MGCNspzywB4AK_sLHu4rHlwFHt0VAi_pyEXhDRul.png?width=640&crop=smart&format=pjpg&auto=webp&s=615630799020975d629d20d453c2c0d0deeff1eb"
+    },
+    {
+      "title": "How to detect if a live video matches a pose like this",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n0do65/how_to_detect_if_a_live_video_matches_a_pose_like/",
+      "score": 25,
+      "comments": 12,
+      "post_id": "t3_1n0do65",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "exploringthebayarea",
+      "author_id": "t2_1hz44m99i7",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-26T05:40:08.751000+0000",
+      "content_href": "https://i.redd.it/cb74mi51xalf1.png",
+      "content_preview": "",
+      "flair": [
+        "Help: Project"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "🚀 Real-Time License Plate Detection + OCR Android App (YOLOv11n)",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n4sn1p/realtime_license_plate_detection_ocr_android_app/",
+      "score": 20,
+      "comments": 8,
+      "post_id": "t3_1n4sn1p",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "DaaniDev",
+      "author_id": "t2_1vg76on090",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-31T11:48:21.613000+0000",
+      "content_href": "https://v.redd.it/fqql2d3oecmf1",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "DINOv3 by Meta, new sota image backbone",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1mq6ai9/dinov3_by_meta_new_sota_image_backbone/",
+      "score": 89,
+      "comments": 20,
+      "post_id": "t3_1mq6ai9",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "unofficialmerve",
+      "author_id": "t2_3ogh75n7",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-14T16:56:58.758000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1mq6ai9/dinov3_by_meta_new_sota_image_backbone/",
+      "content_preview": "",
+      "flair": [
+        "Research Publication"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "UW Bothell masters program?",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n4esdm/uw_bothell_masters_program/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n4esdm",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "MaxSpiro",
+      "author_id": "t2_15na4p",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-30T22:43:53.410000+0000",
+      "content_href": "https://i.redd.it/6m56zpsbj8mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/uw-bothell-masters-program-v0-6m56zpsbj8mf1.jpeg?width=640&crop=smart&auto=webp&s=7ef268fe77575a670f7e6ae398234c2b9af7fed1"
+    },
+    {
+      "title": "Surface roughness on machined surfaces",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n6dbey/surface_roughness_on_machined_surfaces/",
+      "score": 3,
+      "comments": 17,
+      "post_id": "t3_1n6dbey",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "Secret-Ad8475",
+      "author_id": "t2_me3jmdsv",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-09-02T07:43:55.983000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1n6dbey/surface_roughness_on_machined_surfaces/",
+      "content_preview": "",
+      "flair": [
+        "Help: Project"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Looking for open datasets and resources for AI-based traffic analysis (YOLOv8 + Power BI integration)",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n66c7m/looking_for_open_datasets_and_resources_for/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n66c7m",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "CapMysterious9942",
+      "author_id": "t2_93mguybd",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-09-02T01:14:24.962000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1n66c7m/looking_for_open_datasets_and_resources_for/",
+      "content_preview": "",
+      "flair": [
+        "Help: Project"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "I literally spend the whole week mapping the GUI Agent research landscape",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1mr4n9c/i_literally_spend_the_whole_week_mapping_the_gui/",
+      "score": 80,
+      "comments": 6,
+      "post_id": "t3_1mr4n9c",
+      "post_type": "gif",
+      "domain": "i.redd.it",
+      "author": "datascienceharp",
+      "author_id": "t2_ltnnqe91",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-15T17:35:09.307000+0000",
+      "content_href": "https://i.redd.it/b71zxrjey7jf1.gif",
+      "content_preview": "",
+      "flair": [
+        "Research Publication"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6j63y2/styles/profileIcon_m4byw4bp3v7f1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=64df7289d9035fa90b58a76f8730e52e5936c878"
+    },
+    {
+      "title": "Vision Camera with AI - KEYENCE VS-L160MX",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n62kel/vision_camera_with_ai_keyence_vsl160mx/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n62kel",
+      "post_type": "multi_media",
+      "domain": "self.computervision",
+      "author": "FMCryptoMX",
+      "author_id": "t2_chorgh9f",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-09-01T22:20:18.549000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1n62kel/vision_camera_with_ai_keyence_vsl160mx/",
+      "content_preview": "",
+      "flair": [
+        "Commercial"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What are Best Practices when Building out/Fine-tuning Deep Learning Models",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n0ckv8/what_are_best_practices_when_building/",
+      "score": 18,
+      "comments": 5,
+      "post_id": "t3_1n0ckv8",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "jingieboy",
+      "author_id": "t2_404gycge",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-26T04:35:57.760000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1n0ckv8/what_are_best_practices_when_building/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "“Detecting handicapped parking spots fromStreet View or satellite imagery",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n42fva/detecting_handicapped_parking_spots_fromstreet/",
+      "score": 5,
+      "comments": 10,
+      "post_id": "t3_1n42fva",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "No-Bee6364",
+      "author_id": "t2_1mo3r4s3tj",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-30T14:04:27.053000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1n42fva/detecting_handicapped_parking_spots_fromstreet/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Lessons from building multimodal perception systems (LiDAR + Camera fusion)",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1mw05n8/lessons_from_building_multimodal_perception/",
+      "score": 78,
+      "comments": 12,
+      "post_id": "t3_1mw05n8",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "Apashampak_kiri_kiri",
+      "author_id": "t2_6zzhis7qp",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-21T03:32:31.359000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1mw05n8/lessons_from_building_multimodal_perception/",
+      "content_preview": "",
+      "flair": [
+        "Commercial"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I built SitSense - It turns your webcam into an posture coach",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1mxtti4/i_built_sitsense_it_turns_your_webcam_into_an/",
+      "score": 66,
+      "comments": 10,
+      "post_id": "t3_1mxtti4",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Fun-Shallot-5272",
+      "author_id": "t2_v664xg2n",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-23T06:14:17.378000+0000",
+      "content_href": "https://v.redd.it/haoxgjabopkf1",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Looking for a solution to automatically group of a lot of photos per day by object similarity",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n5zxsu/looking_for_a_solution_to_automatically_group_of/",
+      "score": 0,
+      "comments": 13,
+      "post_id": "t3_1n5zxsu",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "Odd-Community6827",
+      "author_id": "t2_8wleawk7",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-09-01T20:34:23.714000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1n5zxsu/looking_for_a_solution_to_automatically_group_of/",
+      "content_preview": "",
+      "flair": [
+        "Help: Project"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "which platform do you guys use to get a computer vision engineer job?",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n3pvi1/which_platform_do_you_guys_use_to_get_a_computer/",
+      "score": 17,
+      "comments": 6,
+      "post_id": "t3_1n3pvi1",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "UnderstandingOwn2913",
+      "author_id": "t2_1ohvtkldt1",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-30T02:07:03.304000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1n3pvi1/which_platform_do_you_guys_use_to_get_a_computer/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "3D Framework",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n41d2k/3d_framework/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n41d2k",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "SeucheAchat9115",
+      "author_id": "t2_4zpj0bxn",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-30T13:15:09.301000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1n41d2k/3d_framework/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Synthetic Data vs. Real Imagery",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1mqvt4j/synthetic_data_vs_real_imagery/",
+      "score": 65,
+      "comments": 24,
+      "post_id": "t3_1mqvt4j",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Bhend449",
+      "author_id": "t2_7qi0efux",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-15T12:02:58.931000+0000",
+      "content_href": "https://i.redd.it/6cltu06bb6jf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/synthetic-data-vs-real-imagery-v0-6cltu06bb6jf1.jpeg?auto=webp&s=8808a150228e5a04285b2b824c6c867a46929ffe"
+    },
+    {
+      "title": "Faceseek in OSINT, any benchmarking ideas?",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1mp6iy5/faceseek_in_osint_any_benchmarking_ideas/",
+      "score": 64,
+      "comments": 0,
+      "post_id": "t3_1mp6iy5",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "b2stamit1998",
+      "author_id": "t2_1yys2nco",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-13T14:48:35.513000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1mp6iy5/faceseek_in_osint_any_benchmarking_ideas/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_n3r6w/styles/profileIcon_05bgy6jr036f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ac1e74cd4cf91ce95639f3386d12aa90bf9ab429"
+    },
+    {
+      "title": "Two different YOLO models in one Raspberry Pi? Is it recommended?",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1mzzk7a/two_different_yolo_models_in_one_raspberry_pi_is/",
+      "score": 3,
+      "comments": 10,
+      "post_id": "t3_1mzzk7a",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "Wise_Investigator337",
+      "author_id": "t2_8w2fuqvkc",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-25T19:07:30.858000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1mzzk7a/two_different_yolo_models_in_one_raspberry_pi_is/",
+      "content_preview": "",
+      "flair": [
+        "Help: Project"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Data extracting from table using OCR",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1mzu5f7/data_extracting_from_table_using_ocr/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1mzu5f7",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "Manah_krpt",
+      "author_id": "t2_3gelek4x",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-25T15:48:27.523000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1mzu5f7/data_extracting_from_table_using_ocr/",
+      "content_preview": "",
+      "flair": [
+        "Help: Project"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Using ORB-SLAM3 for GPS-Free Waypoint Missions",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n5x9qy/using_orbslam3_for_gpsfree_waypoint_missions/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n5x9qy",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "yungyany",
+      "author_id": "t2_7y0ufwmr",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-09-01T18:52:13.655000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1n5x9qy/using_orbslam3_for_gpsfree_waypoint_missions/",
+      "content_preview": "",
+      "flair": [
+        "Help: Project"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Best resource for learning traditional CV techniques? And How to approach problems without thinking about just DL?",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1mzmd0a/best_resource_for_learning_traditional_cv/",
+      "score": 5,
+      "comments": 8,
+      "post_id": "t3_1mzmd0a",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "Amazing_Life_221",
+      "author_id": "t2_qahuu1kv",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-25T10:02:20.443000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1mzmd0a/best_resource_for_learning_traditional_cv/",
+      "content_preview": "",
+      "flair": [
+        "Help: Theory"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Where can I find some CCTV footages of shop checkout for dataset creation.",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1mzm6r7/where_can_i_find_some_cctv_footages_of_shop/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1mzm6r7",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "Distinct-Ebb-9763",
+      "author_id": "t2_dvi8mzwo",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-25T09:51:55.339000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1mzm6r7/where_can_i_find_some_cctv_footages_of_shop/",
+      "content_preview": "",
+      "flair": [
+        "Help: Project"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Need guidance for UAV target detection (Rotary Wing Competition) – OpenCV too slow, how to improve?",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1mzjnzb/need_guidance_for_uav_target_detection_rotary/",
+      "score": 3,
+      "comments": 8,
+      "post_id": "t3_1mzjnzb",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "wasay312",
+      "author_id": "t2_vbgt1tkf",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-25T07:07:34.295000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1mzjnzb/need_guidance_for_uav_target_detection_rotary/",
+      "content_preview": "",
+      "flair": [
+        "Help: Project"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Best model for eyeglasses (not sunglasses) detection in 2025?",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1mze2e3/best_model_for_eyeglasses_not_sunglasses/",
+      "score": 3,
+      "comments": 4,
+      "post_id": "t3_1mze2e3",
+      "post_type": "text",
+      "domain": "self.computervision",
+      "author": "TumbleweedAdept3734",
+      "author_id": "t2_1kyn6xnojm",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-25T01:54:47.642000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1mze2e3/best_model_for_eyeglasses_not_sunglasses/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "CVAT-DATAUP — an open-source fork of CVAT with pipelines, agents, and analytics",
+      "permalink": "https://www.reddit.com/r/computervision/comments/1n1bp60/cvatdataup_an_opensource_fork_of_cvat_with/",
+      "score": 16,
+      "comments": 8,
+      "post_id": "t3_1n1bp60",
+      "post_type": "multi_media",
+      "domain": "self.computervision",
+      "author": "Financial-Leather858",
+      "author_id": "t2_1ks4mxgzje",
+      "subreddit_id": "t5_2rfzn",
+      "subreddit": "r/computervision",
+      "created_ts": "2025-08-27T08:46:34.102000+0000",
+      "content_href": "https://www.reddit.com/r/computervision/comments/1n1bp60/cvatdataup_an_opensource_fork_of_cvat_with/",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    }
+  ],
+  "scraped_at": "2025-09-02T09:46:44.517045"
+}

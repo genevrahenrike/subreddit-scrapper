@@ -1,0 +1,1011 @@
+{
+  "subreddit": "homelab",
+  "url": "https://www.reddit.com/r/homelab",
+  "meta": {
+    "title": "Homelab",
+    "members_text": "76,749"
+  },
+  "posts": [
+    {
+      "title": "Self-signed certs not working in Edge",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n6h95y/selfsigned_certs_not_working_in_edge/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6h95y",
+      "post_type": "multi_media",
+      "domain": "self.homelab",
+      "author": "RetiredReindeer",
+      "author_id": "t2_1n7gzodha2",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-02T11:45:28.153000+0000",
+      "content_href": "https://www.reddit.com/r/homelab/comments/1n6h95y/selfsigned_certs_not_working_in_edge/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_e7v7xe/styles/profileIcon_1n5vfj70k9af1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=19a5f4e781306e4266493a08f99c22c279a14b74"
+    },
+    {
+      "title": "People who host Pi-hole and Home Assistant Be like",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n3d5zk/people_who_host_pihole_and_home_assistant_be_like/",
+      "score": 3453,
+      "comments": 169,
+      "post_id": "t3_1n3d5zk",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "BigWay867",
+      "author_id": "t2_1s0ndeovcr",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-29T17:09:07.844000+0000",
+      "content_href": "https://i.redd.it/44goa2paqzlf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "New here! Introduce my in rack NAS",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n6f9ui/new_here_introduce_my_in_rack_nas/",
+      "score": 52,
+      "comments": 0,
+      "post_id": "t3_1n6f9ui",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Ok_Pipe1166",
+      "author_id": "t2_i17rav1pc",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-02T09:53:02.843000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n6f9ui",
+      "content_preview": "",
+      "flair": [
+        "LabPorn"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Most home labs don't need managed switches",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1mrr478/most_home_labs_dont_need_managed_switches/",
+      "score": 4626,
+      "comments": 803,
+      "post_id": "t3_1mrr478",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "laselma",
+      "author_id": "t2_1g3gwyk0d3",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-16T10:14:28.177000+0000",
+      "content_href": "https://i.redd.it/iacvnsyrwcjf1.png",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Current homelab update",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n62b1x/current_homelab_update/",
+      "score": 396,
+      "comments": 7,
+      "post_id": "t3_1n62b1x",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "blwagner",
+      "author_id": "t2_828p4mdq",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-01T22:09:15.161000+0000",
+      "content_href": "https://i.redd.it/kmvuvngwmmmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "LabPorn"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "A different kind of containerization",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n0dwur/a_different_kind_of_containerization/",
+      "score": 3067,
+      "comments": 119,
+      "post_id": "t3_1n0dwur",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "the_lamou",
+      "author_id": "t2_gezoi",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-26T05:55:27.994000+0000",
+      "content_href": "https://i.redd.it/pt39lpprzalf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://preview.redd.it/a-different-kind-of-containerization-v0-pt39lpprzalf1.jpeg?width=640&crop=smart&auto=webp&s=b8740208e08588d7f90ae6aaaa94c0258028392a"
+    },
+    {
+      "title": "We all do start from somewhere right?",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n6c71g/we_all_do_start_from_somewhere_right/",
+      "score": 34,
+      "comments": 3,
+      "post_id": "t3_1n6c71g",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "KahvaltidaBorYedim",
+      "author_id": "t2_h5p95st9r",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-02T06:30:09.351000+0000",
+      "content_href": "https://i.redd.it/wlbxj7rb4pmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Labgore"
+      ],
+      "thumbnail_url": "https://preview.redd.it/we-all-do-start-from-somewhere-right-v0-wlbxj7rb4pmf1.jpeg?width=640&crop=smart&auto=webp&s=42f065979b13a5f83f6bf6433b78d33f3f9db387"
+    },
+    {
+      "title": "hi",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n6h7vm/hi/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1n6h7vm",
+      "post_type": "text",
+      "domain": "self.homelab",
+      "author": "karabright-dev",
+      "author_id": "t2_1ozp4wdt7h",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-02T11:43:36.329000+0000",
+      "content_href": "https://www.reddit.com/r/homelab/comments/1n6h7vm/hi/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eeo0kt/styles/profileIcon_vduwf2i5atef1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=576d01f43da3a995d04ac5b359a3f55f358e3935"
+    },
+    {
+      "title": "Stay away!",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1moozmb/stay_away/",
+      "score": 4409,
+      "comments": 96,
+      "post_id": "t3_1moozmb",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Accomplished_Rip_627",
+      "author_id": "t2_hiol9ur3",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-12T23:47:36.654000+0000",
+      "content_href": "https://i.redd.it/uekjqc56eoif1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Satire"
+      ],
+      "thumbnail_url": "https://preview.redd.it/stay-away-v0-uekjqc56eoif1.jpeg?width=640&crop=smart&auto=webp&s=6b0c1258cb6b945e2ab5177afce0f1b0328512a7"
+    },
+    {
+      "title": "How to build a DAS/JBOD out of (almost) any ATX chassis",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n646v3/how_to_build_a_dasjbod_out_of_almost_any_atx/",
+      "score": 94,
+      "comments": 7,
+      "post_id": "t3_1n646v3",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "gargravarr2112",
+      "author_id": "t2_fa20o",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-01T23:32:25.151000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n646v3",
+      "content_preview": "",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "ThinkNAS 6-bay version available",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n24p9m/thinknas_6bay_version_available/",
+      "score": 2181,
+      "comments": 132,
+      "post_id": "t3_1n24p9m",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "_Fisz_",
+      "author_id": "t2_20ueschu",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-28T06:19:49.060000+0000",
+      "content_href": "https://i.redd.it/e8429zlkdplf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Projects"
+      ],
+      "thumbnail_url": "https://preview.redd.it/thinknas-6-bay-version-available-v0-e8429zlkdplf1.jpeg?width=640&crop=smart&auto=webp&s=d419ccad4adf97ce10f4bf198902a0ab3937aeba"
+    },
+    {
+      "title": "Another SFF build",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n609ob/another_sff_build/",
+      "score": 87,
+      "comments": 15,
+      "post_id": "t3_1n609ob",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "srozum",
+      "author_id": "t2_1n12l6q",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-01T20:47:02.979000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n609ob",
+      "content_preview": "",
+      "flair": [
+        "Projects"
+      ],
+      "thumbnail_url": "https://preview.redd.it/another-sff-build-v0-kervx2ta8mmf1.jpg?width=640&crop=smart&auto=webp&s=c6bee4ae9ce0392d0ee0f21d2b887324e9ea4016"
+    },
+    {
+      "title": "Made a Companion Cube NAS/Server",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n0icon/made_a_companion_cube_nasserver/",
+      "score": 2114,
+      "comments": 72,
+      "post_id": "t3_1n0icon",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "MrXavi3",
+      "author_id": "t2_1yha0rh4",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-26T10:40:25.256000+0000",
+      "content_href": "/r/3Dprinting/comments/1n0f8ro/made_a_companion_cube_nasserver/",
+      "content_preview": "",
+      "flair": [
+        "LabPorn"
+      ],
+      "thumbnail_url": "https://preview.redd.it/made-a-companion-cube-nas-server-v0-gkr88ze8eblf1.jpg?width=640&crop=smart&auto=webp&s=c729843aca7da919e50052639c9e53d0fc559b51"
+    },
+    {
+      "title": "RAM prices are weirdly high, or is it just me?",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n6epr0/ram_prices_are_weirdly_high_or_is_it_just_me/",
+      "score": 7,
+      "comments": 13,
+      "post_id": "t3_1n6epr0",
+      "post_type": "text",
+      "domain": "self.homelab",
+      "author": "Cry_Wolff",
+      "author_id": "t2_z3tya",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-02T09:16:45.186000+0000",
+      "content_href": "https://www.reddit.com/r/homelab/comments/1n6epr0/ram_prices_are_weirdly_high_or_is_it_just_me/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dts5u/styles/profileIcon_kgwrc8lb1icf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a57ae994461d4600a80063272f3c75d273ff8156"
+    },
+    {
+      "title": "The home builder was confused as to why I wanted two Ethernet drops per room, so I explained it to him",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1mip862/the_home_builder_was_confused_as_to_why_i_wanted/",
+      "score": 3271,
+      "comments": 297,
+      "post_id": "t3_1mip862",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "iusethisnametopost",
+      "author_id": "t2_6zwoq",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-05T23:42:52.782000+0000",
+      "content_href": "https://i.redd.it/79ecs6oweahf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "My first Homelab",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n65how/my_first_homelab/",
+      "score": 28,
+      "comments": 2,
+      "post_id": "t3_1n65how",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "GreenPreference3171",
+      "author_id": "t2_yt7nw5yy6",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-02T00:33:38.243000+0000",
+      "content_href": "https://i.redd.it/gnxwm6bqcnmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "LabPorn"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Some people...",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n4i8yn/some_people/",
+      "score": 2069,
+      "comments": 34,
+      "post_id": "t3_1n4i8yn",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "ethot_thoughts",
+      "author_id": "t2_b78r6tbb",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-31T01:32:15.936000+0000",
+      "content_href": "/r/internet_funeral/comments/1n4bowl/hmmm/",
+      "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "About 11 months ago I posted my rack, but now I'm 17 and had a few little upgrades over the past months.",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n63u4y/about_11_months_ago_i_posted_my_rack_but_now_im/",
+      "score": 35,
+      "comments": 5,
+      "post_id": "t3_1n63u4y",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "WhereasInevitable433",
+      "author_id": "t2_9vtu2dto",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-01T23:16:28.442000+0000",
+      "content_href": "https://i.redd.it/37m0s6pyymmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "LabPorn"
+      ],
+      "thumbnail_url": "https://preview.redd.it/about-11-months-ago-i-posted-my-rack-but-now-im-17-and-had-v0-37m0s6pyymmf1.jpeg?width=640&crop=smart&auto=webp&s=fbe31c7d13e9461e8bcf4be1ce8084610673e7f5"
+    },
+    {
+      "title": "Got some of these Cisco phones for the house I’m about to set them up so I can call other rooms",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1mpit66/got_some_of_these_cisco_phones_for_the_house_im/",
+      "score": 3051,
+      "comments": 342,
+      "post_id": "t3_1mpit66",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "wildjunkie",
+      "author_id": "t2_oux2gm7y",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-13T22:30:22.937000+0000",
+      "content_href": "https://i.redd.it/gznwy8ye5vif1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "I would like to receive feedback about my network!",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1mkqfow/i_would_like_to_receive_feedback_about_my_network/",
+      "score": 3034,
+      "comments": 325,
+      "post_id": "t3_1mkqfow",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Full_Internal_3542",
+      "author_id": "t2_quvw9rxw",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-08T09:16:07.179000+0000",
+      "content_href": "https://i.redd.it/a33ma2zvirhf1.png",
+      "content_preview": "",
+      "flair": [
+        "Diagram"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i-would-like-to-receive-feedback-about-my-network-v0-a33ma2zvirhf1.png?width=640&crop=smart&auto=webp&s=85c3801700a65e09e259aafddd99a543ecf851e4"
+    },
+    {
+      "title": "I was looking at this for 30 minutes",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n65bbc/i_was_looking_at_this_for_30_minutes/",
+      "score": 21,
+      "comments": 9,
+      "post_id": "t3_1n65bbc",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "anonuser-al",
+      "author_id": "t2_5j3nm0by",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-02T00:25:28.337000+0000",
+      "content_href": "https://i.redd.it/oisntfv9bnmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "LabPorn"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "No ethernet through my switch",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n6h3li/no_ethernet_through_my_switch/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n6h3li",
+      "post_type": "text",
+      "domain": "self.homelab",
+      "author": "Fit_Cow_3638",
+      "author_id": "t2_qzqdz2rb",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-02T11:37:24.181000+0000",
+      "content_href": "https://www.reddit.com/r/homelab/comments/1n6h3li/no_ethernet_through_my_switch/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I'm working on a rack designer tool - looking for feedback and ideas",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n5panq/im_working_on_a_rack_designer_tool_looking_for/",
+      "score": 134,
+      "comments": 41,
+      "post_id": "t3_1n5panq",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Realistic_Banana_162",
+      "author_id": "t2_vktt75hb",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-01T13:53:05.745000+0000",
+      "content_href": "https://i.redd.it/bh9c7k9e6kmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Projects"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Aoostar WTR Pro",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n5yxw8/aoostar_wtr_pro/",
+      "score": 40,
+      "comments": 6,
+      "post_id": "t3_1n5yxw8",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "PercentageDue9284",
+      "author_id": "t2_f6juiihm",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-01T19:55:23.196000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n5yxw8",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "College Dormitory Capstone Project: The Commonality Lab",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n5ls7e/college_dormitory_capstone_project_the/",
+      "score": 180,
+      "comments": 14,
+      "post_id": "t3_1n5ls7e",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Oiled-Skillet5189",
+      "author_id": "t2_o4cc7c0gd",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-01T11:05:52.052000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n5ls7e",
+      "content_preview": "",
+      "flair": [
+        "LabPorn"
+      ],
+      "thumbnail_url": "https://preview.redd.it/college-dormitory-capstone-project-the-commonality-lab-v0-l8c8te8fcjmf1.png?width=640&crop=smart&auto=webp&s=dae5332a7408bbbf652154eb5ff8d6c57048cc03"
+    },
+    {
+      "title": "ThinkLab - 6 Bay - ESP32 Controller",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n2grac/thinklab_6_bay_esp32_controller/",
+      "score": 1340,
+      "comments": 91,
+      "post_id": "t3_1n2grac",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Boisti",
+      "author_id": "t2_7wmvykm4",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-28T16:20:10.025000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n2grac",
+      "content_preview": "",
+      "flair": [
+        "Projects"
+      ],
+      "thumbnail_url": "https://preview.redd.it/thinklab-6-bay-esp32-controller-v0-6nw05nvzcslf1.jpg?width=640&crop=smart&auto=webp&s=f0b8a6795b927a4fb66841cdb82060681576c5a5"
+    },
+    {
+      "title": "What is everyone using for JBOD's nowadays? (and why are there so few cheap JBODs available on eBay?)",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n5osak/what_is_everyone_using_for_jbods_nowadays_and_why/",
+      "score": 102,
+      "comments": 82,
+      "post_id": "t3_1n5osak",
+      "post_type": "text",
+      "domain": "self.homelab",
+      "author": "NWSpitfire",
+      "author_id": "t2_3j9dm7sj",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-01T13:31:30.681000+0000",
+      "content_href": "https://www.reddit.com/r/homelab/comments/1n5osak/what_is_everyone_using_for_jbods_nowadays_and_why/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Brilliant! 13th Gen Solid Firewall PC Core i7-13620H 4x10G SFP 4x2.5G Nics. Finally, a firewall box with 4 10G sfp ports! Right? Uh, right?",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n317gh/brilliant_13th_gen_solid_firewall_pc_core/",
+      "score": 1265,
+      "comments": 155,
+      "post_id": "t3_1n317gh",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "SpinCharm",
+      "author_id": "t2_ldfi7",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-29T07:48:56.074000+0000",
+      "content_href": "https://i.redd.it/wi7d5iuqywlf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Labgore"
+      ],
+      "thumbnail_url": "https://preview.redd.it/brilliant-13th-gen-solid-firewall-pc-core-i7-13620h-4x10g-v0-wi7d5iuqywlf1.jpeg?width=640&crop=smart&auto=webp&s=3edad848d91d56f1b44a92b2ae1a5bc12d7d51ed"
+    },
+    {
+      "title": "What a day installing OS without USB",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n45hor/what_a_day_installing_os_without_usb/",
+      "score": 1203,
+      "comments": 77,
+      "post_id": "t3_1n45hor",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "useless_boy23",
+      "author_id": "t2_ilkm7fy1",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-30T16:10:28.628000+0000",
+      "content_href": "https://i.redd.it/i1dw4fu1l6mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "LabPorn"
+      ],
+      "thumbnail_url": "https://preview.redd.it/what-a-day-installing-os-without-usb-v0-i1dw4fu1l6mf1.jpeg?width=640&crop=smart&auto=webp&s=b34b8d27947f3bce4bd0aa147b2a207f3d6bdfc7"
+    },
+    {
+      "title": "Here's my attempt at a dashboard to show HA and Proxmox data",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1mk3778/heres_my_attempt_at_a_dashboard_to_show_ha_and/",
+      "score": 3011,
+      "comments": 100,
+      "post_id": "t3_1mk3778",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "RMB-",
+      "author_id": "t2_4jgp6ni3",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-07T15:30:24.058000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mk3778",
+      "content_preview": "",
+      "flair": [
+        "Projects"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2djfim/styles/profileIcon_hqt8faykf17f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=cdae27d03d9a2af5dcd750ae2f1cb08970f9d44d"
+    },
+    {
+      "title": "Do you view your lab as a professional development tool?",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n5zjek/do_you_view_your_lab_as_a_professional/",
+      "score": 28,
+      "comments": 43,
+      "post_id": "t3_1n5zjek",
+      "post_type": "text",
+      "domain": "self.homelab",
+      "author": "OverclockingUnicorn",
+      "author_id": "t2_n6d7i",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-01T20:19:00.672000+0000",
+      "content_href": "https://www.reddit.com/r/homelab/comments/1n5zjek/do_you_view_your_lab_as_a_professional/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "DAS pour archivage de rushes vidéo",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n6h1k2/das_pour_archivage_de_rushes_vidéo/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n6h1k2",
+      "post_type": "text",
+      "domain": "self.homelab",
+      "author": "Numerous_Payment9086",
+      "author_id": "t2_1ulzykv2lt",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-02T11:34:27.437000+0000",
+      "content_href": "https://www.reddit.com/r/homelab/comments/1n6h1k2/das_pour_archivage_de_rushes_vid%C3%A9o/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Almost done with my build",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1mlb4at/almost_done_with_my_build/",
+      "score": 2815,
+      "comments": 145,
+      "post_id": "t3_1mlb4at",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "xrothgarx",
+      "author_id": "t2_4lbg3",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-09T00:00:16.984000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mlb4at",
+      "content_preview": "",
+      "flair": [
+        "LabPorn"
+      ],
+      "thumbnail_url": "https://preview.redd.it/almost-done-with-my-build-v0-31icdliwwvhf1.jpg?width=640&crop=smart&auto=webp&s=e5556382a46a7bc85e5eb1efeb114ca1073c6d17"
+    },
+    {
+      "title": "UK‑based homelabber; got 4×14 TB + 1×20 TB; looking to expand with cheap 20 TB drives- any price‑cycle wisdom?",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n6bba7/ukbased_homelabber_got_414_tb_120_tb_looking_to/",
+      "score": 4,
+      "comments": 7,
+      "post_id": "t3_1n6bba7",
+      "post_type": "text",
+      "domain": "self.homelab",
+      "author": "lost_mentat",
+      "author_id": "t2_ah4lyo0r",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-02T05:35:56.278000+0000",
+      "content_href": "https://www.reddit.com/r/homelab/comments/1n6bba7/ukbased_homelabber_got_414_tb_120_tb_looking_to/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Incident report: broke Wi-Fi mid-bedtime. Outcomes expected",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n22d1s/incident_report_broke_wifi_midbedtime_outcomes/",
+      "score": 1076,
+      "comments": 61,
+      "post_id": "t3_1n22d1s",
+      "post_type": "text",
+      "domain": "self.homelab",
+      "author": "passwordreset47",
+      "author_id": "t2_mhpm9",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-28T04:02:24.833000+0000",
+      "content_href": "https://www.reddit.com/r/homelab/comments/1n22d1s/incident_report_broke_wifi_midbedtime_outcomes/",
+      "content_preview": "",
+      "flair": [
+        "Satire"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Homelab Migration Complete (mostly)",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n55ps0/homelab_migration_complete_mostly/",
+      "score": 1023,
+      "comments": 41,
+      "post_id": "t3_1n55ps0",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "nzpc2005",
+      "author_id": "t2_4s0n31k",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-31T20:50:09.506000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n55ps0",
+      "content_preview": "",
+      "flair": [
+        "LabPorn"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Do you have a pbx in home lab? if so what type?",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n6gs71/do_you_have_a_pbx_in_home_lab_if_so_what_type/",
+      "score": 1,
+      "comments": 8,
+      "post_id": "t3_1n6gs71",
+      "post_type": "text",
+      "domain": "self.homelab",
+      "author": "NoPen3788",
+      "author_id": "t2_1t49nqask7",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-02T11:20:35.233000+0000",
+      "content_href": "https://www.reddit.com/r/homelab/comments/1n6gs71/do_you_have_a_pbx_in_home_lab_if_so_what_type/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "My current homelab \"cluster\"",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n4ujka/my_current_homelab_cluster/",
+      "score": 939,
+      "comments": 60,
+      "post_id": "t3_1n4ujka",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "theslinkyvagabond",
+      "author_id": "t2_b3cse",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-31T13:20:13.442000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n4ujka",
+      "content_preview": "",
+      "flair": [
+        "LabPorn"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dtf4l/styles/profileIcon_5kslk0vorrze1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=00dd8a7a29a3de4072fcde6129ef0bc0da55a3c7"
+    },
+    {
+      "title": "My Serial Console server died and replacement suggestions",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n5ub7f/my_serial_console_server_died_and_replacement/",
+      "score": 19,
+      "comments": 27,
+      "post_id": "t3_1n5ub7f",
+      "post_type": "text",
+      "domain": "self.homelab",
+      "author": "msears101",
+      "author_id": "t2_4naco",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-01T17:03:31.933000+0000",
+      "content_href": "https://www.reddit.com/r/homelab/comments/1n5ub7f/my_serial_console_server_died_and_replacement/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "New micro pc to offload my docker apps",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n5l6hg/new_micro_pc_to_offload_my_docker_apps/",
+      "score": 57,
+      "comments": 15,
+      "post_id": "t3_1n5l6hg",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "sheriff_klm2009",
+      "author_id": "t2_dfpdekn7",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-01T10:31:02.640000+0000",
+      "content_href": "https://i.redd.it/3huqqhje6jmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://preview.redd.it/new-micro-pc-to-offload-my-docker-apps-v0-3huqqhje6jmf1.png?width=640&crop=smart&auto=webp&s=5783e667936fb78ab4d73851e192e160458e6951"
+    },
+    {
+      "title": "Am I crazy for not having parity on my server?",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n5r3lq/am_i_crazy_for_not_having_parity_on_my_server/",
+      "score": 24,
+      "comments": 41,
+      "post_id": "t3_1n5r3lq",
+      "post_type": "text",
+      "domain": "self.homelab",
+      "author": "Substantial_Brick252",
+      "author_id": "t2_qxmipwup",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-01T15:03:26.823000+0000",
+      "content_href": "https://www.reddit.com/r/homelab/comments/1n5r3lq/am_i_crazy_for_not_having_parity_on_my_server/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Wife, “But you already have a laptop”.  🤣",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1mz3i84/wife_but_you_already_have_a_laptop/",
+      "score": 1989,
+      "comments": 132,
+      "post_id": "t3_1mz3i84",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "bunkersix",
+      "author_id": "t2_h8301a8z",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-24T18:32:50.485000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mz3i84",
+      "content_preview": "",
+      "flair": [
+        "LabPorn"
+      ],
+      "thumbnail_url": "https://preview.redd.it/wife-but-you-already-have-a-laptop-v0-2gfvsfc2h0lf1.jpg?width=640&crop=smart&auto=webp&s=0a84b6a9f51017919dec522c266356dc9580d6d1"
+    },
+    {
+      "title": "is this normal or something is wrong with me",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1mstyx0/is_this_normal_or_something_is_wrong_with_me/",
+      "score": 1958,
+      "comments": 431,
+      "post_id": "t3_1mstyx0",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "majster-technik",
+      "author_id": "t2_tct09wfmp",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-17T15:32:04.523000+0000",
+      "content_href": "https://i.redd.it/owwodzx4mljf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Labgore"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_avmx06/styles/profileIcon_8pk61fp7iskc1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=cd8c6cc1c9d80a7e38835d259c2c08cbb815699c"
+    },
+    {
+      "title": "My Homelab's HD was full, turns out it's just my 702GB log file...",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n1hg35/my_homelabs_hd_was_full_turns_out_its_just_my/",
+      "score": 842,
+      "comments": 116,
+      "post_id": "t3_1n1hg35",
+      "post_type": "multi_media",
+      "domain": "self.homelab",
+      "author": "ResponsibleDust0",
+      "author_id": "t2_4ccj1hbp",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-27T13:44:05.102000+0000",
+      "content_href": "https://www.reddit.com/r/homelab/comments/1n1hg35/my_homelabs_hd_was_full_turns_out_its_just_my/",
+      "content_preview": "",
+      "flair": [
+        "Meta"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Sfp+ issues",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n6fims/sfp_issues/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n6fims",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Adzter01",
+      "author_id": "t2_13xvbb",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-02T10:07:54.318000+0000",
+      "content_href": "/r/aoostarwtrmax/comments/1n6fi4q/sfp_issues/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What to do with this strange alcove?",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n2iy90/what_to_do_with_this_strange_alcove/",
+      "score": 767,
+      "comments": 201,
+      "post_id": "t3_1n2iy90",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "wespooky",
+      "author_id": "t2_mi7ymjj",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-28T17:42:03.379000+0000",
+      "content_href": "/r/interiordecorating/comments/1n2f5do/what_to_do_with_this_strange_alcove/",
+      "content_preview": "",
+      "flair": [
+        "Satire"
+      ],
+      "thumbnail_url": "https://preview.redd.it/what-to-do-with-this-strange-alcove-v0-xw8vts392slf1.jpeg?width=640&crop=smart&auto=webp&s=c21cf885fa7e5583521d3567fecc8b2c7630a8bd"
+    },
+    {
+      "title": "Did I just scored a really good deal? Be honest.",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1mrsbno/did_i_just_scored_a_really_good_deal_be_honest/",
+      "score": 1948,
+      "comments": 211,
+      "post_id": "t3_1mrsbno",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Naive-Object-4485",
+      "author_id": "t2_bfgix20k",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-16T11:16:32.866000+0000",
+      "content_href": "https://i.redd.it/ofwt6i1g7djf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "LabPorn"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Is there any better mini servers under $180",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n62r4x/is_there_any_better_mini_servers_under_180/",
+      "score": 5,
+      "comments": 24,
+      "post_id": "t3_1n62r4x",
+      "post_type": "text",
+      "domain": "self.homelab",
+      "author": "Dvenjdenvj",
+      "author_id": "t2_clo09418v",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-01T22:28:26.149000+0000",
+      "content_href": "https://www.reddit.com/r/homelab/comments/1n62r4x/is_there_any_better_mini_servers_under_180/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "DIY 3D printed 60Tb NAS",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1mh6689/diy_3d_printed_60tb_nas/",
+      "score": 1858,
+      "comments": 138,
+      "post_id": "t3_1mh6689",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Reddactor",
+      "author_id": "t2_3xhc6",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-08-04T06:36:42.140000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mh6689",
+      "content_preview": "",
+      "flair": [
+        "LabPorn"
+      ],
+      "thumbnail_url": "https://preview.redd.it/diy-3d-printed-60tb-nas-v0-2hpdisf05ygf1.jpg?width=640&crop=smart&auto=webp&s=179861ae5bf35f87be0418885b252bd5c27c805c"
+    },
+    {
+      "title": "Sneak Link: Use share-links in Immich, NextCloud or Paperless without fully exposing your services. Now with a dashboard and metrics endpoint!",
+      "permalink": "https://www.reddit.com/r/homelab/comments/1n5u83z/sneak_link_use_sharelinks_in_immich_nextcloud_or/",
+      "score": 11,
+      "comments": 2,
+      "post_id": "t3_1n5u83z",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "icdl380s",
+      "author_id": "t2_5l7lk6xd",
+      "subreddit_id": "t5_2ubz7",
+      "subreddit": "r/homelab",
+      "created_ts": "2025-09-01T17:00:38.317000+0000",
+      "content_href": "https://i.redd.it/8vqe4h2e3lmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Projects"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    }
+  ],
+  "scraped_at": "2025-09-02T04:54:43.297709"
+}

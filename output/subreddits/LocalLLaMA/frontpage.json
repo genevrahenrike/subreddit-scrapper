@@ -1,0 +1,1010 @@
+{
+  "subreddit": "LocalLLaMA",
+  "url": "https://www.reddit.com/r/LocalLLaMA",
+  "meta": {
+    "title": "LocalLlama"
+  },
+  "posts": [
+    {
+      "title": "Image 'editing' app with Qwen Image Edit and an iOS client",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n6hk90/image_editing_app_with_qwen_image_edit_and_an_ios/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6hk90",
+      "post_type": "multi_media",
+      "domain": "self.LocalLLaMA",
+      "author": "baliord",
+      "author_id": "t2_3scyu",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-02T12:01:15.290000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLaMA/comments/1n6hk90/image_editing_app_with_qwen_image_edit_and_an_ios/",
+      "content_preview": "",
+      "flair": [
+        "Resources"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Finally China entering the GPU market to destroy the unchallenged monopoly abuse. 96 GB VRAM GPUs under 2000 USD, meanwhile NVIDIA sells from 10000+ (RTX 6000 PRO)",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n46ify/finally_china_entering_the_gpu_market_to_destroy/",
+      "score": 3768,
+      "comments": 640,
+      "post_id": "t3_1n46ify",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "CeFurkan",
+      "author_id": "t2_zfyzg",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-08-30T16:52:00.511000+0000",
+      "content_href": "https://i.redd.it/1wl79kpjs6mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7hulj/styles/profileIcon_7wcdgxprws9f1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e1d92f09826d139fddd4a2f394ba8b766eb650b2"
+    },
+    {
+      "title": "Policy violation Fee in Grok (Facepalm)",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n68l96/policy_violation_fee_in_grok_facepalm/",
+      "score": 157,
+      "comments": 51,
+      "post_id": "t3_1n68l96",
+      "post_type": "text",
+      "domain": "self.LocalLLaMA",
+      "author": "Yes_but_I_think",
+      "author_id": "t2_rea1qh6m",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-02T03:05:03.055000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLaMA/comments/1n68l96/policy_violation_fee_in_grok_facepalm/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Imagine an open source code model that in the same level of claude code",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1mllt5x/imagine_an_open_source_code_model_that_in_the/",
+      "score": 2264,
+      "comments": 246,
+      "post_id": "t3_1mllt5x",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Severe-Awareness829",
+      "author_id": "t2_1urjd1hc7b",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-08-09T10:04:00.510000+0000",
+      "content_href": "https://i.redd.it/diwwcslbwyhf1.png",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Apertus: a fully open, transparent, multilingual language model",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n6ewmu/apertus_a_fully_open_transparent_multilingual/",
+      "score": 42,
+      "comments": 11,
+      "post_id": "t3_1n6ewmu",
+      "post_type": "link",
+      "domain": "actu.epfl.ch",
+      "author": "Stock-Variation-2237",
+      "author_id": "t2_fixkemb82",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-02T09:29:24.429000+0000",
+      "content_href": "https://actu.epfl.ch/news/apertus-a-fully-open-transparent-multilingual-lang/",
+      "content_preview": "",
+      "flair": [
+        "New Model"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/bTft7kJCnEeOJxWtFZSRa954qWiZB1xs4iZXNvShGsI.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=57348d70edc706ded8dc9950003bafba49055e89"
+    },
+    {
+      "title": "Creating the brain behind dumb models",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n4garp/creating_the_brain_behind_dumb_models/",
+      "score": 1335,
+      "comments": 102,
+      "post_id": "t3_1n4garp",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "ChristopherLyon",
+      "author_id": "t2_ac2h1",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-08-30T23:55:53.449000+0000",
+      "content_href": "https://v.redd.it/bwyft136w8mf1",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "I just released a big update for my AI research agent, MAESTRO, with a new docs site showing example reports from Qwen 72B, GPT-OSS 120B, and more.",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n6f5xl/i_just_released_a_big_update_for_my_ai_research/",
+      "score": 33,
+      "comments": 3,
+      "post_id": "t3_1n6f5xl",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "hedonihilistic",
+      "author_id": "t2_281myw",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-02T09:46:05.722000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n6f5xl",
+      "content_preview": "",
+      "flair": [
+        "Resources"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i-just-released-a-big-update-for-my-ai-research-agent-v0-35mt6nl33qmf1.png?width=640&crop=smart&auto=webp&s=7b5cef807d1a467926b7d6bc89ce50a7bbe7fd11"
+    },
+    {
+      "title": "Why does local Qwen3 fail this test, but Qwen3 cloud passes it? (and GPT-5 fails, BTW)",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n6hha7/why_does_local_qwen3_fail_this_test_but_qwen3/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n6hha7",
+      "post_type": "multi_media",
+      "domain": "self.LocalLLaMA",
+      "author": "kuhunaxeyive",
+      "author_id": "t2_1vpa3wthce",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-02T11:57:21.063000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLaMA/comments/1n6hha7/why_does_local_qwen3_fail_this_test_but_qwen3/",
+      "content_preview": "",
+      "flair": [
+        "Question | Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "LocalLLaMA is the last sane place to discuss LLMs on this site, I swear",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1mnxodk/localllama_is_the_last_sane_place_to_discuss_llms/",
+      "score": 2122,
+      "comments": 233,
+      "post_id": "t3_1mnxodk",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ForsookComparison",
+      "author_id": "t2_on5es7pe3",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-08-12T03:12:34.680000+0000",
+      "content_href": "https://i.redd.it/iu3pniar9iif1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Funny"
+      ],
+      "thumbnail_url": "https://preview.redd.it/localllama-is-the-last-sane-place-to-discuss-llms-on-this-v0-iu3pniar9iif1.jpeg?width=640&crop=smart&auto=webp&s=09e6b2258978cac144e7fe248a2ef1a876a2b2b9"
+    },
+    {
+      "title": "Why are all AI \"Success\" posts terrible?",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n68afq/why_are_all_ai_success_posts_terrible/",
+      "score": 109,
+      "comments": 36,
+      "post_id": "t3_1n68afq",
+      "post_type": "text",
+      "domain": "self.LocalLLaMA",
+      "author": "Bimbam_tm",
+      "author_id": "t2_5uo4xdxw",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-02T02:49:54.540000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLaMA/comments/1n68afq/why_are_all_ai_success_posts_terrible/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2x2w1w/styles/profileIcon_nt0njm3uelfb1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d827e8949ee699dde86e45c4ddcb76434bb05537"
+    },
+    {
+      "title": "Apple releases FastVLM and MobileCLIP2 on Hugging Face, along with a real-time video captioning demo (in-browser + WebGPU)",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n3b13b/apple_releases_fastvlm_and_mobileclip2_on_hugging/",
+      "score": 1253,
+      "comments": 147,
+      "post_id": "t3_1n3b13b",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "xenovatech",
+      "author_id": "t2_mizchr3",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-08-29T15:47:53.894000+0000",
+      "content_href": "https://v.redd.it/ayma955sbzlf1",
+      "content_preview": "",
+      "flair": [
+        "New Model"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/apple-releases-fastvlm-and-mobileclip2-on-hugging-face-v0-ZWZwemw0NXNiemxmMRIjC8ICuXshETDKyWbElsvvahdP8-tMtjXY4bwDOY1n.png?width=640&crop=smart&format=pjpg&auto=webp&s=0410da4e19e6c0e41716e0d07b08a9b45d4c371e"
+    },
+    {
+      "title": "ETH Zurich Open LLM \"Apertus\" has been released",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n6fta4/eth_zurich_open_llm_apertus_has_been_released/",
+      "score": 26,
+      "comments": 2,
+      "post_id": "t3_1n6fta4",
+      "post_type": "link",
+      "domain": "huggingface.co",
+      "author": "kisamoto",
+      "author_id": "t2_8coy4",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-02T10:25:45.393000+0000",
+      "content_href": "https://huggingface.co/collections/swiss-ai/apertus-llm-68b699e65415c231ace3b059",
+      "content_preview": "",
+      "flair": [
+        "Resources"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "LLM speedup breakthrough? 53x faster generation and 6x prefilling from NVIDIA",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n0iho2/llm_speedup_breakthrough_53x_faster_generation/",
+      "score": 1228,
+      "comments": 160,
+      "post_id": "t3_1n0iho2",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "secopsml",
+      "author_id": "t2_pmniwf57y",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-08-26T10:48:28.016000+0000",
+      "content_href": "https://i.redd.it/g8lwztnlfclf1.png",
+      "content_preview": "",
+      "flair": [
+        "Resources"
+      ],
+      "thumbnail_url": "https://preview.redd.it/llm-speedup-breakthrough-53x-faster-generation-and-6x-v0-g8lwztnlfclf1.png?width=640&crop=smart&auto=webp&s=b031e5579f68575c71a2b2d5f86e45241e9ac748"
+    },
+    {
+      "title": "I pretrained and postrained a LLM with less than $50 budget which outperforms Google BERT large",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n5zed0/i_pretrained_and_postrained_a_llm_with_less_than/",
+      "score": 334,
+      "comments": 41,
+      "post_id": "t3_1n5zed0",
+      "post_type": "link",
+      "domain": "medium.com",
+      "author": "Altruistic-Tea-5612",
+      "author_id": "t2_6beeitk9",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-01T20:13:23.173000+0000",
+      "content_href": "https://medium.com/@harishhacker3010/pretraining-a-llm-with-less-than-50-budget-which-outperforms-google-bert-dbe541b7b14b",
+      "content_preview": "",
+      "flair": [
+        "New Model"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/ywyWexAkeoEnV3YXP8YcOUkQeZuDP2-5umUBtdqKkZ8.png?width=140&height=101&crop=140:101,smart&auto=webp&s=5ac849cb4e7f13b0cb789bded58f0211468dcc31"
+    },
+    {
+      "title": "🚀 OpenAI released their open-weight models!!!",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1miezct/openai_released_their_openweight_models/",
+      "score": 2013,
+      "comments": 555,
+      "post_id": "t3_1miezct",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ResearchCrafty1804",
+      "author_id": "t2_c705ri9b",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-08-05T17:09:35.074000+0000",
+      "content_href": "https://i.redd.it/1yckal6wg8hf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "New Model"
+      ],
+      "thumbnail_url": "https://preview.redd.it/openai-released-their-open-weight-models-v0-1yckal6wg8hf1.jpeg?width=640&crop=smart&auto=webp&s=0f60175f0e7db6db869009375419939c3eea477d"
+    },
+    {
+      "title": "To all vibe coders I present",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1msr7j8/to_all_vibe_coders_i_present/",
+      "score": 1991,
+      "comments": 127,
+      "post_id": "t3_1msr7j8",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "theundertakeer",
+      "author_id": "t2_10u9agsz0g",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-08-17T13:40:07.988000+0000",
+      "content_href": "https://v.redd.it/eckuwlog2ljf1",
+      "content_preview": "",
+      "flair": [
+        "Funny"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bklhnw/styles/profileIcon_b7tukhzu0s1d1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=58ca9c1e45645639c23a0497078bd00418c938f9"
+    },
+    {
+      "title": "GPU credits for students, tinkerers, solopreneurs",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n6699f/gpu_credits_for_students_tinkerers_solopreneurs/",
+      "score": 80,
+      "comments": 18,
+      "post_id": "t3_1n6699f",
+      "post_type": "text",
+      "domain": "self.LocalLLaMA",
+      "author": "NoVibeCoding",
+      "author_id": "t2_1neapdttam",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-02T01:10:20.548000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLaMA/comments/1n6699f/gpu_credits_for_students_tinkerers_solopreneurs/",
+      "content_preview": "",
+      "flair": [
+        "Resources"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "After deepseekv3 I feel like other MoE architectures are old or outdated. Why did Qwen chose a simple MoE architecture with softmax routing and aux loss for their Qwen3 models when there’s been better architectures for a while?",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n6827e/after_deepseekv3_i_feel_like_other_moe/",
+      "score": 61,
+      "comments": 18,
+      "post_id": "t3_1n6827e",
+      "post_type": "text",
+      "domain": "self.LocalLLaMA",
+      "author": "Euphoric_Ad9500",
+      "author_id": "t2_8kbjrt7z",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-02T02:38:32.541000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLaMA/comments/1n6827e/after_deepseekv3_i_feel_like_other_moe/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "I built a free Structured Prompt Builder (with local library + Gemini optimization) because other tools are bloated & paywalled",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n6cvgt/i_built_a_free_structured_prompt_builder_with/",
+      "score": 25,
+      "comments": 2,
+      "post_id": "t3_1n6cvgt",
+      "post_type": "text",
+      "domain": "self.LocalLLaMA",
+      "author": "DarkEngine774",
+      "author_id": "t2_dts83pfg",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-02T07:14:42.343000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLaMA/comments/1n6cvgt/i_built_a_free_structured_prompt_builder_with/",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "silly-v0.2 - an RL-heavy, chat-style roleplay model",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n6dduv/sillyv02_an_rlheavy_chatstyle_roleplay_model/",
+      "score": 19,
+      "comments": 0,
+      "post_id": "t3_1n6dduv",
+      "post_type": "link",
+      "domain": "huggingface.co",
+      "author": "Abject-Huckleberry13",
+      "author_id": "t2_uq2948ppq",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-02T07:48:17.496000+0000",
+      "content_href": "https://huggingface.co/wave-on-discord/silly-v0.2",
+      "content_preview": "",
+      "flair": [
+        "New Model"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "ollama",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1mncrqp/ollama/",
+      "score": 1893,
+      "comments": 325,
+      "post_id": "t3_1mncrqp",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "jacek2023",
+      "author_id": "t2_vqgbql9w",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-08-11T13:19:02.423000+0000",
+      "content_href": "https://i.redd.it/2whabjm55eif1.png",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/2whabjm55eif1.png?width=640&crop=smart&auto=webp&s=dea8efc9d0fe6d86f047a62709601f55061db889"
+    },
+    {
+      "title": "I fine-tuned Llama 3.2 3B for transcript analysis and it outperformed bigger models with ease",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n5w9yy/i_finetuned_llama_32_3b_for_transcript_analysis/",
+      "score": 214,
+      "comments": 58,
+      "post_id": "t3_1n5w9yy",
+      "post_type": "link",
+      "domain": "bilawal.net",
+      "author": "CartographerFun4221",
+      "author_id": "t2_dzg3rrs9",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-01T18:15:43.254000+0000",
+      "content_href": "https://bilawal.net/post/finetuning-llama32-3b-for-transcripts/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Top small LLM as of September '25",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n63lz8/top_small_llm_as_of_september_25/",
+      "score": 51,
+      "comments": 21,
+      "post_id": "t3_1n63lz8",
+      "post_type": "text",
+      "domain": "self.LocalLLaMA",
+      "author": "_-inside-_",
+      "author_id": "t2_gf4vh19m",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-01T23:06:29.704000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLaMA/comments/1n63lz8/top_small_llm_as_of_september_25/",
+      "content_preview": "",
+      "flair": [
+        "Question | Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "85% of Nvidia's $46.7 billion revenue last quarter came from just 6 companies.",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n2p2wi/85_of_nvidias_467_billion_revenue_last_quarter/",
+      "score": 1112,
+      "comments": 252,
+      "post_id": "t3_1n2p2wi",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "vergogn",
+      "author_id": "t2_rp6cg98n",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-08-28T21:37:34.440000+0000",
+      "content_href": "https://i.redd.it/k0279pnmxtlf1.png",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Qwen3-coder is mind blowing on local hardware (tutorial linked)",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n3ldon/qwen3coder_is_mind_blowing_on_local_hardware/",
+      "score": 989,
+      "comments": 134,
+      "post_id": "t3_1n3ldon",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "nick-baumann",
+      "author_id": "t2_1halat55yw",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-08-29T22:35:27.646000+0000",
+      "content_href": "https://v.redd.it/75bfhw7sc1mf1",
+      "content_preview": "",
+      "flair": [
+        "Tutorial | Guide"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ddaazt/styles/profileIcon_3ui6azw5o53f1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=bead3a72e3d656d56992481c0ab5e33631d3ebec"
+    },
+    {
+      "title": "AMD 6x7900xtx 24GB  + 2xR9700 32GB VLLM QUESTIONS",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n5u32n/amd_6x7900xtx_24gb_2xr9700_32gb_vllm_questions/",
+      "score": 149,
+      "comments": 43,
+      "post_id": "t3_1n5u32n",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "djdeniro",
+      "author_id": "t2_1epwrhsm",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-01T16:55:26.971000+0000",
+      "content_href": "https://i.redd.it/txo8g9us0lmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_jes0b/styles/profileIcon_wr2q0ig6k6kd1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2ce5269e268262edbe018ca9b75a19ed229364a8"
+    },
+    {
+      "title": "I locally benchmarked 41 open-source LLMs across 19 tasks and ranked them",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n57hb8/i_locally_benchmarked_41_opensource_llms_across/",
+      "score": 983,
+      "comments": 99,
+      "post_id": "t3_1n57hb8",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "jayminban",
+      "author_id": "t2_k2rt6x09",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-08-31T22:04:33.448000+0000",
+      "content_href": "https://i.redd.it/a2bfcgphgfmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i-locally-benchmarked-41-open-source-llms-across-19-tasks-v0-a2bfcgphgfmf1.png?width=640&crop=smart&auto=webp&s=299392e2c59493238d17efc357f2df9c8ed17d9b"
+    },
+    {
+      "title": "I built, pre-trained, and fine-tuned a small language model and it is truly open-source.",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n5j783/i_built_pretrained_and_finetuned_a_small_language/",
+      "score": 745,
+      "comments": 97,
+      "post_id": "t3_1n5j783",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "itsnikity",
+      "author_id": "t2_16g2zcq1xp",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-01T08:26:34.415000+0000",
+      "content_href": "https://i.redd.it/cwyoa0f6kimf1.png",
+      "content_preview": "",
+      "flair": [
+        "New Model"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_c6rgpp/styles/profileIcon_bqga1ijsndmf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=82ed6c2b279a263e324a300198df62e75333ec62"
+    },
+    {
+      "title": "Amazing Qwen stuff coming soon",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n33ugq/amazing_qwen_stuff_coming_soon/",
+      "score": 648,
+      "comments": 85,
+      "post_id": "t3_1n33ugq",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "jacek2023",
+      "author_id": "t2_vqgbql9w",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-08-29T10:34:17.445000+0000",
+      "content_href": "https://i.redd.it/v6kx1bw8sxlf1.png",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": "https://preview.redd.it/amazing-qwen-stuff-coming-soon-v0-v6kx1bw8sxlf1.png?width=640&crop=smart&auto=webp&s=c740a56dd0ef8e42fa5e0d6b1921ce196ae964a6"
+    },
+    {
+      "title": "What is Gemma 3 270M actually used for?",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1mwwr87/what_is_gemma_3_270m_actually_used_for/",
+      "score": 1847,
+      "comments": 282,
+      "post_id": "t3_1mwwr87",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "airbus_a360_when",
+      "author_id": "t2_1vzgyzxc6m",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-08-22T04:17:47.955000+0000",
+      "content_href": "https://i.redd.it/dtrvooncyhkf1.png",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f7p3ps/styles/profileIcon_spgevxac0hkf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=0fa24e877b720fbdc4b20a23851523f4399e7b1c"
+    },
+    {
+      "title": "all I need....",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1mfgj0g/all_i_need/",
+      "score": 1748,
+      "comments": 114,
+      "post_id": "t3_1mfgj0g",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ILoveMy2Balls",
+      "author_id": "t2_1nisx8ggay",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-08-02T03:34:51.136000+0000",
+      "content_href": "https://i.redd.it/ggc3dzhr0jgf1.png",
+      "content_preview": "",
+      "flair": [
+        "Funny"
+      ],
+      "thumbnail_url": "https://preview.redd.it/all-i-need-v0-ggc3dzhr0jgf1.png?width=640&crop=smart&auto=webp&s=1cee4ec388937e0ec72753687776a0c22abe66f2"
+    },
+    {
+      "title": "The Huawei GPU is not equivalent to an RTX 6000 Pro whatsoever",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n4wo0y/the_huawei_gpu_is_not_equivalent_to_an_rtx_6000/",
+      "score": 636,
+      "comments": 231,
+      "post_id": "t3_1n4wo0y",
+      "post_type": "text",
+      "domain": "self.LocalLLaMA",
+      "author": "MCH_2000",
+      "author_id": "t2_snwtm1yy",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-08-31T14:49:29.493000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLaMA/comments/1n4wo0y/the_huawei_gpu_is_not_equivalent_to_an_rtx_6000/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_72iuav/styles/profileIcon_w15oz058n46d1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7f9a475c03c47cb0af4e8ded007fa7f4ed0db4d3"
+    },
+    {
+      "title": "I'm building local, open-source, fast, efficient, minimal, and extendible RAG library I always wanted to use",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n5rhbd/im_building_local_opensource_fast_efficient/",
+      "score": 157,
+      "comments": 13,
+      "post_id": "t3_1n5rhbd",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Avienir",
+      "author_id": "t2_16tmui",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-01T15:17:56.598000+0000",
+      "content_href": "https://v.redd.it/tqnduvlflkmf1",
+      "content_preview": "",
+      "flair": [
+        "Resources"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/im-building-local-open-source-fast-efficient-minimal-and-v0-cXB3bmh1bGZsa21mMfbflv5Di1j64vZv4v6FbqGgackbIUKWjlzVaYUu9HIx.png?width=640&crop=smart&format=pjpg&auto=webp&s=c5bd6b91824aae2918addf5f92e29ddfe9f60fa0"
+    },
+    {
+      "title": "vLLM vs MLIR - TTS Performance",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n68l86/vllm_vs_mlir_tts_performance/",
+      "score": 15,
+      "comments": 1,
+      "post_id": "t3_1n68l86",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "phone_radio_tv",
+      "author_id": "t2_etmr2",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-02T03:05:00.713000+0000",
+      "content_href": "https://i.redd.it/ytt747xm2omf1.png",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Local LLM for School",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n60hqx/local_llm_for_school/",
+      "score": 19,
+      "comments": 19,
+      "post_id": "t3_1n60hqx",
+      "post_type": "text",
+      "domain": "self.LocalLLaMA",
+      "author": "OkTill6991",
+      "author_id": "t2_cgtoy6dke",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-01T20:55:50.166000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLaMA/comments/1n60hqx/local_llm_for_school/",
+      "content_preview": "",
+      "flair": [
+        "Question | Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "How to fine-tune GPT-OSS",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n6h4y5/how_to_finetune_gptoss/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1n6h4y5",
+      "post_type": "multi_media",
+      "domain": "self.LocalLLaMA",
+      "author": "Ok-Astronomer-2110",
+      "author_id": "t2_1gxzuv0t40",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-02T11:39:30.348000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLaMA/comments/1n6h4y5/how_to_finetune_gptoss/",
+      "content_preview": "",
+      "flair": [
+        "Question | Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Uncensored image editing and generation ?",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n6862l/uncensored_image_editing_and_generation/",
+      "score": 6,
+      "comments": 10,
+      "post_id": "t3_1n6862l",
+      "post_type": "text",
+      "domain": "self.LocalLLaMA",
+      "author": "MrMrsPotts",
+      "author_id": "t2_sm168dt0h",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-02T02:43:57.848000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLaMA/comments/1n6862l/uncensored_image_editing_and_generation/",
+      "content_preview": "",
+      "flair": [
+        "Question | Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "rStar2-Agent",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n6h3rk/rstar2agent/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1n6h3rk",
+      "post_type": "link",
+      "domain": "arxiv.org",
+      "author": "thatusernsmeis",
+      "author_id": "t2_2ylfwylh",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-02T11:37:39.730000+0000",
+      "content_href": "https://www.arxiv.org/pdf/2508.20722",
+      "content_preview": "",
+      "flair": [
+        "New Model"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "HRM - Training from scratch - Day 2 - model successfully overfitted to tiny dataset",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n6387y/hrm_training_from_scratch_day_2_model/",
+      "score": 11,
+      "comments": 2,
+      "post_id": "t3_1n6387y",
+      "post_type": "text",
+      "domain": "self.LocalLLaMA",
+      "author": "Creative-Ad-2112",
+      "author_id": "t2_5lc6fpxee",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-01T22:49:34.958000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLaMA/comments/1n6387y/hrm_training_from_scratch_day_2_model/",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "gpt-oss 120b actually isn't that bad.",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n5jhts/gptoss_120b_actually_isnt_that_bad/",
+      "score": 126,
+      "comments": 134,
+      "post_id": "t3_1n5jhts",
+      "post_type": "text",
+      "domain": "self.LocalLLaMA",
+      "author": "WyattTheSkid",
+      "author_id": "t2_1flwpwd3",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-01T08:46:10.090000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLaMA/comments/1n5jhts/gptoss_120b_actually_isnt_that_bad/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_jk467/styles/profileIcon_v8buo8vsexw51.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=9430fe82d813b7ed8b14dc5f605e2e4a24313a3c"
+    },
+    {
+      "title": "Better llama-cli help and user guide",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n5wcuw/better_llamacli_help_and_user_guide/",
+      "score": 17,
+      "comments": 3,
+      "post_id": "t3_1n5wcuw",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "rm-rf-rm",
+      "author_id": "t2_xucqa0ilr",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-01T18:18:36.667000+0000",
+      "content_href": "https://github.com/ggml-org/llama.cpp/discussions/15709",
+      "content_preview": "",
+      "flair": [
+        "Resources"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "128GB GDDR6, 3PFLOP FP8, Tb/s of interconnect, $6000 total. Build instructions/blog tomorrow.",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n4dsym/128gb_gddr6_3pflop_fp8_tbs_of_interconnect_6000/",
+      "score": 599,
+      "comments": 133,
+      "post_id": "t3_1n4dsym",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "codys12",
+      "author_id": "t2_lrh70bzgq",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-08-30T21:59:06.402000+0000",
+      "content_href": "https://i.redd.it/ld3rckf8b8mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Resources"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Context Reasoning Benchmarks: GPT-5, Claude, Gemini, Grok on Real Tasks",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n5n2h3/context_reasoning_benchmarks_gpt5_claude_gemini/",
+      "score": 47,
+      "comments": 18,
+      "post_id": "t3_1n5n2h3",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "facethef",
+      "author_id": "t2_1399ls",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-01T12:14:21.892000+0000",
+      "content_href": "https://i.redd.it/h8d68m9enjmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/context-reasoning-benchmarks-gpt-5-claude-gemini-grok-on-v0-h8d68m9enjmf1.png?width=640&crop=smart&auto=webp&s=b11cc0a1d02fe9efc59dfdbc627932214bfcb02a"
+    },
+    {
+      "title": "Thinking of buying a used 3090 (Asus blower). Are the thermals really bad? Seller asking 46500 INR plus shipping?",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n6gzlp/thinking_of_buying_a_used_3090_asus_blower_are/",
+      "score": 0,
+      "comments": 8,
+      "post_id": "t3_1n6gzlp",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "kartikmandar",
+      "author_id": "t2_1njwxv11jd",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-02T11:31:32.324000+0000",
+      "content_href": "https://i.redd.it/wf5uvlf3mqmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Question | Help"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_e7yq65/styles/profileIcon_px6np8h8spze1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6b92791d6da82b0b29988df9ac1b1e018ba2df67"
+    },
+    {
+      "title": "OpenAI, I don't feel SAFE ENOUGH",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1misyvc/openai_i_dont_feel_safe_enough/",
+      "score": 1709,
+      "comments": 173,
+      "post_id": "t3_1misyvc",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Final_Wheel_7486",
+      "author_id": "t2_cyrs5dhp",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-08-06T02:35:22.341000+0000",
+      "content_href": "https://i.redd.it/af6jm3nt9bhf1.png",
+      "content_preview": "",
+      "flair": [
+        "Funny"
+      ],
+      "thumbnail_url": "https://preview.redd.it/openai-i-dont-feel-safe-enough-v0-af6jm3nt9bhf1.png?width=640&crop=smart&auto=webp&s=f24d282bbe67537a9930a3840e41579669385f83"
+    },
+    {
+      "title": "about 300 pages: Global Fix Map for local LLMs (upgrade from the Problem Map) + looking for your feedback",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n6g0rt/about_300_pages_global_fix_map_for_local_llms/",
+      "score": 8,
+      "comments": 0,
+      "post_id": "t3_1n6g0rt",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "onestardao",
+      "author_id": "t2_v4t0lnqrl",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-02T10:38:07.090000+0000",
+      "content_href": "https://i.redd.it/9lvmz0lkcqmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Tutorial | Guide"
+      ],
+      "thumbnail_url": "https://preview.redd.it/about-300-pages-global-fix-map-for-local-llms-upgrade-from-v0-9lvmz0lkcqmf1.jpeg?width=640&crop=smart&auto=webp&s=bb627ce2c8ed435fcc6af2297ae4f565eae78935"
+    },
+    {
+      "title": "No, no, no, wait - on a second thought, I KNOW the answer!",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1mjju67/no_no_no_wait_on_a_second_thought_i_know_the/",
+      "score": 1667,
+      "comments": 120,
+      "post_id": "t3_1mjju67",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Final_Wheel_7486",
+      "author_id": "t2_cyrs5dhp",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-08-06T23:11:24.116000+0000",
+      "content_href": "https://i.redd.it/zs8aeebxdhhf1.png",
+      "content_preview": "",
+      "flair": [
+        "Funny"
+      ],
+      "thumbnail_url": "https://preview.redd.it/no-no-no-wait-on-a-second-thought-i-know-the-answer-v0-zs8aeebxdhhf1.png?width=640&crop=smart&auto=webp&s=b37ae45e669cb3942991cf29672bb0f0aa059afc"
+    },
+    {
+      "title": "We beat Google Deepmind but got killed by a chinese lab",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1mv6go1/we_beat_google_deepmind_but_got_killed_by_a/",
+      "score": 1622,
+      "comments": 185,
+      "post_id": "t3_1mv6go1",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Connect-Employ-4708",
+      "author_id": "t2_50uyfevl",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-08-20T05:46:26.178000+0000",
+      "content_href": "https://v.redd.it/qvewe6nd24kf1",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/we-beat-google-deepmind-but-got-killed-by-a-chinese-lab-v0-eG8yNGJoZWQyNGtmMVo0YW9szsCgDSDYpHIZftteA0dldCtHqInQOZXGentR.png?width=640&crop=smart&format=pjpg&auto=webp&s=4146ffe637faff69d9861f2a0c40137b976c7c40"
+    },
+    {
+      "title": "I built a free Structured Prompt Builder (JSON/YAML/MD export + few-shot + core controls) — feedback welcome",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n61btk/i_built_a_free_structured_prompt_builder/",
+      "score": 8,
+      "comments": 6,
+      "post_id": "t3_1n61btk",
+      "post_type": "text",
+      "domain": "self.LocalLLaMA",
+      "author": "DarkEngine774",
+      "author_id": "t2_dts83pfg",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-01T21:28:37.117000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLaMA/comments/1n61btk/i_built_a_free_structured_prompt_builder/",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Best gpu setup for under $500 usd",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1n5wxpg/best_gpu_setup_for_under_500_usd/",
+      "score": 13,
+      "comments": 54,
+      "post_id": "t3_1n5wxpg",
+      "post_type": "text",
+      "domain": "self.LocalLLaMA",
+      "author": "milesChristi16",
+      "author_id": "t2_u8dh4ba3",
+      "subreddit_id": "t5_81eyvm",
+      "subreddit": "r/LocalLLaMA",
+      "created_ts": "2025-09-01T18:39:42.357000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLaMA/comments/1n5wxpg/best_gpu_setup_for_under_500_usd/",
+      "content_preview": "",
+      "flair": [
+        "Question | Help"
+      ],
+      "thumbnail_url": ""
+    }
+  ],
+  "scraped_at": "2025-09-02T05:02:49.142717"
+}

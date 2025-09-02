@@ -1,0 +1,1010 @@
+{
+  "subreddit": "pythontips",
+  "url": "https://www.reddit.com/r/pythontips",
+  "meta": {
+    "title": "Quick python tips to add to your collection"
+  },
+  "posts": [
+    {
+      "title": "Looking for a solution to automatically group of a lot of photos per day by object similarity",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1n602xj/looking_for_a_solution_to_automatically_group_of/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n602xj",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "Odd-Community6827",
+      "author_id": "t2_8wleawk7",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-09-01T20:39:45.401000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1n602xj/looking_for_a_solution_to_automatically_group_of/",
+      "content_preview": "",
+      "flair": [
+        "Algorithms"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Who else has this problem?",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1n1imnb/who_else_has_this_problem/",
+      "score": 8,
+      "comments": 6,
+      "post_id": "t3_1n1imnb",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "Various_Courage6675",
+      "author_id": "t2_1w75r6zg8h",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-27T14:30:22.683000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1n1imnb/who_else_has_this_problem/",
+      "content_preview": "",
+      "flair": [
+        "Syntax"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Very new to Python and shell scripts and looking for a direction",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1n4sq80/very_new_to_python_and_shell_scripts_and_looking/",
+      "score": 3,
+      "comments": 2,
+      "post_id": "t3_1n4sq80",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "Darkfire_1002",
+      "author_id": "t2_1tnjy0lghp",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-31T11:53:10.983000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1n4sq80/very_new_to_python_and_shell_scripts_and_looking/",
+      "content_preview": "",
+      "flair": [
+        "Syntax"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Best source to learn python",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mnjxgd/best_source_to_learn_python/",
+      "score": 13,
+      "comments": 26,
+      "post_id": "t3_1mnjxgd",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "starlight7459",
+      "author_id": "t2_1pr0ehu3mn",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-11T17:48:04.094000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mnjxgd/best_source_to_learn_python/",
+      "content_preview": "",
+      "flair": [
+        "Module"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Wanting to learn python? What programs should I use and IDE?",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1n48uvy/wanting_to_learn_python_what_programs_should_i/",
+      "score": 3,
+      "comments": 21,
+      "post_id": "t3_1n48uvy",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "Steven_Destroyer",
+      "author_id": "t2_5ndtfmwp",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-30T18:28:39.957000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1n48uvy/wanting_to_learn_python_what_programs_should_i/",
+      "content_preview": "",
+      "flair": [
+        "Module"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Rate my GitHub profile!",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1n4kfty/rate_my_github_profile/",
+      "score": 4,
+      "comments": 16,
+      "post_id": "t3_1n4kfty",
+      "post_type": "multi_media",
+      "domain": "self.pythontips",
+      "author": "RylieHa",
+      "author_id": "t2_e54psgv1",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-31T03:27:00.390000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1n4kfty/rate_my_github_profile/",
+      "content_preview": "",
+      "flair": [
+        "Module"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Any python script you have on github free to download which does crypto tracking?",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1n43orj/any_python_script_you_have_on_github_free_to/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1n43orj",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "Suitable_Mix_2952",
+      "author_id": "t2_1whsurlad8",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-30T14:56:23.100000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1n43orj/any_python_script_you_have_on_github_free_to/",
+      "content_preview": "",
+      "flair": [
+        "Algorithms"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f9w4gw/styles/profileIcon_1cpoktx0bdlf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b554a57dbfce2f91fcb6a8a285f042faeea6c1c4"
+    },
+    {
+      "title": "AI and python",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1n0iwtj/ai_and_python/",
+      "score": 0,
+      "comments": 11,
+      "post_id": "t3_1n0iwtj",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "Balls_HD",
+      "author_id": "t2_5edhiw3r",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-26T11:11:10.937000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1n0iwtj/ai_and_python/",
+      "content_preview": "",
+      "flair": [
+        "Syntax"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Python Guide (Markdown) Beginner To Advanced (Available on Github)",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mj8ck6/python_guide_markdown_beginner_to_advanced/",
+      "score": 12,
+      "comments": 2,
+      "post_id": "t3_1mj8ck6",
+      "post_type": "multi_media",
+      "domain": "self.pythontips",
+      "author": "Legal_Occasion3947",
+      "author_id": "t2_8ao8og7q",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-06T15:50:48.905000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mj8ck6/python_guide_markdown_beginner_to_advanced/",
+      "content_preview": "",
+      "flair": [
+        "Syntax"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How to Scrape Gemini?",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1n27t26/how_to_scrape_gemini/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1n27t26",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "ahiqshb",
+      "author_id": "t2_8e301f6a",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-28T09:41:47.843000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1n27t26/how_to_scrape_gemini/",
+      "content_preview": "",
+      "flair": [
+        "Data_Science"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How do I un-blit an image?",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1n3ggb0/how_do_i_unblit_an_image/",
+      "score": 3,
+      "comments": 2,
+      "post_id": "t3_1n3ggb0",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "ForrestFeline",
+      "author_id": "t2_9dcqcri8",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-29T19:14:12.629000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1n3ggb0/how_do_i_unblit_an_image/",
+      "content_preview": "",
+      "flair": [
+        "Module"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3kp5rq/styles/profileIcon_nhnyagmk0zgf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d8f63d080b25ab3597e698b52e4cb8f62a309799"
+    },
+    {
+      "title": "How do i create a thingamajig that can recognize something (for example a rock), bring my crosshair to it and press a key? (For example: F",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1myrrc8/how_do_i_create_a_thingamajig_that_can_recognize/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1myrrc8",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "gigabotfhg",
+      "author_id": "t2_khrs25zcd",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-24T10:08:35.229000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1myrrc8/how_do_i_create_a_thingamajig_that_can_recognize/",
+      "content_preview": "",
+      "flair": [
+        "Syntax"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "7 Data Science Portfolio Mistakes That cost your interviews",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1n0bhtw/7_data_science_portfolio_mistakes_that_cost_your/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n0bhtw",
+      "post_type": "multi_media",
+      "domain": "self.pythontips",
+      "author": "SKD_Sumit",
+      "author_id": "t2_6bpkuin",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-26T03:37:28.771000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1n0bhtw/7_data_science_portfolio_mistakes_that_cost_your/",
+      "content_preview": "",
+      "flair": [
+        "Data_Science"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "why wont this code work",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mxzrh1/why_wont_this_code_work/",
+      "score": 0,
+      "comments": 7,
+      "post_id": "t3_1mxzrh1",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "Sea-Speaker-1022",
+      "author_id": "t2_166mxl44dn",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-23T12:10:08.051000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mxzrh1/why_wont_this_code_work/",
+      "content_preview": "",
+      "flair": [
+        "Module"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Python for an experienced C++ dev",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mkbgon/python_for_an_experienced_c_dev/",
+      "score": 10,
+      "comments": 1,
+      "post_id": "t3_1mkbgon",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "Amazing-Stand-7605",
+      "author_id": "t2_74b6zpbh",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-07T20:42:31.543000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mkbgon/python_for_an_experienced_c_dev/",
+      "content_preview": "",
+      "flair": [
+        "Meta"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "New to python",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1n1t0tq/new_to_python/",
+      "score": 0,
+      "comments": 5,
+      "post_id": "t3_1n1t0tq",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "No-Tea-777",
+      "author_id": "t2_10hnq5n3uo",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-27T21:01:28.904000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1n1t0tq/new_to_python/",
+      "content_preview": "",
+      "flair": [
+        "Module"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_cb21hz/styles/profileIcon_j2f9l0mzr0ld1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fc7269034f8f9016b6987395cbb2c43d2da36b0e"
+    },
+    {
+      "title": "I made a python package/library",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mxcdbo/i_made_a_python_packagelibrary/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1mxcdbo",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "Creepy-Will-5184",
+      "author_id": "t2_1exu8es12l",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-22T17:12:30.121000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mxcdbo/i_made_a_python_packagelibrary/",
+      "content_preview": "",
+      "flair": [
+        "Python3_Specific"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "My open source AI activity tracker project",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mvkqdh/my_open_source_ai_activity_tracker_project/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1mvkqdh",
+      "post_type": "multi_media",
+      "domain": "self.pythontips",
+      "author": "adnan-kaya",
+      "author_id": "t2_utkj7y70",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-20T17:06:56.857000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mvkqdh/my_open_source_ai_activity_tracker_project/",
+      "content_preview": "",
+      "flair": [
+        "Python3_Specific"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "New Coder Searching for Tips!",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mrfu2u/new_coder_searching_for_tips/",
+      "score": 9,
+      "comments": 8,
+      "post_id": "t3_1mrfu2u",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "Appropriate_Net7352",
+      "author_id": "t2_1fwodi1crb",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-16T00:44:27.947000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mrfu2u/new_coder_searching_for_tips/",
+      "content_preview": "",
+      "flair": [
+        "Syntax"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_d7uxiy/styles/profileIcon_61pie4rt77ce1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f51810862433c6344e8ec2d9512d8fd9877583be"
+    },
+    {
+      "title": "Python Unpacking - Turning list items into individual variables",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mvcvcb/python_unpacking_turning_list_items_into/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1mvcvcb",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "freshly_brewed_ai",
+      "author_id": "t2_v9ixmtgt",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-20T12:03:43.753000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mvcvcb/python_unpacking_turning_list_items_into/",
+      "content_preview": "",
+      "flair": [
+        "Syntax"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Hey Folks",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mvq4ao/hey_folks/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1mvq4ao",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "CodewithCodecoach",
+      "author_id": "t2_1jkkh2hslb",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-20T20:20:22.652000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mvq4ao/hey_folks/",
+      "content_preview": "",
+      "flair": [
+        "Module"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dn885v/styles/profileIcon_espxxwh6namf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c7acaa229d7d4557703e86295fcab5b6fa402575"
+    },
+    {
+      "title": "Securing Database Credentials",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mv4gc4/securing_database_credentials/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1mv4gc4",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "ExplorerDNA",
+      "author_id": "t2_o4ceozj5",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-20T03:55:22.416000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mv4gc4/securing_database_credentials/",
+      "content_preview": "",
+      "flair": [
+        "Python3_Specific"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Industry perspective: AI roles that pay competitive to traditional Data Scientist",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mu9ts5/industry_perspective_ai_roles_that_pay/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1mu9ts5",
+      "post_type": "multi_media",
+      "domain": "self.pythontips",
+      "author": "SKD_Sumit",
+      "author_id": "t2_6bpkuin",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-19T05:34:53.674000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mu9ts5/industry_perspective_ai_roles_that_pay/",
+      "content_preview": "",
+      "flair": [
+        "Data_Science"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "I am making a 2d platformer in pygame and I can’t fix this error",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mts38s/i_am_making_a_2d_platformer_in_pygame_and_i_cant/",
+      "score": 1,
+      "comments": 3,
+      "post_id": "t3_1mts38s",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "Sigma_Man12308",
+      "author_id": "t2_6y5vpsx7u",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-18T17:11:05.958000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mts38s/i_am_making_a_2d_platformer_in_pygame_and_i_cant/",
+      "content_preview": "",
+      "flair": [
+        "Algorithms"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How to bind files",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mtpdaj/how_to_bind_files/",
+      "score": 1,
+      "comments": 3,
+      "post_id": "t3_1mtpdaj",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "Ns_koram",
+      "author_id": "t2_1npo68f8ke",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-18T15:32:58.384000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mtpdaj/how_to_bind_files/",
+      "content_preview": "",
+      "flair": [
+        "Module"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How to make a pyinstaller .Exe in the code its self",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mt1wpl/how_to_make_a_pyinstaller_exe_in_the_code_its_self/",
+      "score": 1,
+      "comments": 3,
+      "post_id": "t3_1mt1wpl",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "Natural_Youth8736",
+      "author_id": "t2_1lngdr0sul",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-17T20:37:44.430000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mt1wpl/how_to_make_a_pyinstaller_exe_in_the_code_its_self/",
+      "content_preview": "",
+      "flair": [
+        "Module"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Learning group",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1msv834/learning_group/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1msv834",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "AdvertisingNovel4757",
+      "author_id": "t2_1hq9h7rzaw",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-17T16:20:59.152000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1msv834/learning_group/",
+      "content_preview": "",
+      "flair": [
+        "Python2_Specific"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Creating an DataBase Project as an Newbie, tips and advice needed....",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mst938/creating_an_database_project_as_an_newbie_tips/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1mst938",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "Big-Environment-4393",
+      "author_id": "t2_77hzdm5uz",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-17T15:03:57.682000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mst938/creating_an_database_project_as_an_newbie_tips/",
+      "content_preview": "",
+      "flair": [
+        "Syntax"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Groq AI concatenation issue Question",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mq2zoy/groq_ai_concatenation_issue_question/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1mq2zoy",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "pencil5611",
+      "author_id": "t2_vibki77m6",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-14T14:56:46.890000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mq2zoy/groq_ai_concatenation_issue_question/",
+      "content_preview": "",
+      "flair": [
+        "Module"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Coding Challenges",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mjodmd/coding_challenges/",
+      "score": 6,
+      "comments": 3,
+      "post_id": "t3_1mjodmd",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "AnuarVM97",
+      "author_id": "t2_8fyr6e64",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-07T02:36:45.704000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mjodmd/coding_challenges/",
+      "content_preview": "",
+      "flair": [
+        "Algorithms"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Tools to generate CycloneDX1.6 SBOM from AzureDevOps/Github repository dependencies (Django backend)",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mpd7d7/tools_to_generate_cyclonedx16_sbom_from/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1mpd7d7",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "Personal-Work4649",
+      "author_id": "t2_9t4e4cki",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-13T18:56:16.642000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mpd7d7/tools_to_generate_cyclonedx16_sbom_from/",
+      "content_preview": "",
+      "flair": [
+        "Algorithms"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Generate ad-hoc Python scripts with LLM and UV",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mt0e2p/generate_adhoc_python_scripts_with_llm_and_uv/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mt0e2p",
+      "post_type": "multi_media",
+      "domain": "self.pythontips",
+      "author": "intellectronica",
+      "author_id": "t2_1rkk",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-17T19:38:04.660000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mt0e2p/generate_adhoc_python_scripts_with_llm_and_uv/",
+      "content_preview": "",
+      "flair": [
+        "Meta"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bou6w/styles/profileIcon_1m9yxe1giuo71.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8d9b3d943d2be67e6aa9b42497b7ea2710d4826b"
+    },
+    {
+      "title": "vs code says that ctypes is missing",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mlgcta/vs_code_says_that_ctypes_is_missing/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mlgcta",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "International-Movie2",
+      "author_id": "t2_7gmtb3hl",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-09T04:19:13.133000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mlgcta/vs_code_says_that_ctypes_is_missing/",
+      "content_preview": "",
+      "flair": [
+        "Module"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Is it worth learning PySpark in 2025?",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1md90pf/is_it_worth_learning_pyspark_in_2025/",
+      "score": 3,
+      "comments": 15,
+      "post_id": "t3_1md90pf",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "getsuresh",
+      "author_id": "t2_1pffcnf9wf",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-07-30T15:05:32.828000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1md90pf/is_it_worth_learning_pyspark_in_2025/",
+      "content_preview": "",
+      "flair": [
+        "Module"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Did I stumble into stanford RLHF post-2023 territory with my own work, and is there a license or patent I should worry about?",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mcgznf/did_i_stumble_into_stanford_rlhf_post2023/",
+      "score": 2,
+      "comments": 5,
+      "post_id": "t3_1mcgznf",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "AdAdministrative7398",
+      "author_id": "t2_a6gptzng",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-07-29T17:01:37.222000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mcgznf/did_i_stumble_into_stanford_rlhf_post2023/",
+      "content_preview": "",
+      "flair": [
+        "Data_Science"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "I Just Wrote My First Code! 😲 | Day 1 – Variables in Python 🐍 #programming #python#beginners#shorts",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mcefj0/i_just_wrote_my_first_code_day_1_variables_in/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1mcefj0",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "Appropriate-Job-3481",
+      "author_id": "t2_1o6u01acy5",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-07-29T15:26:26.600000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mcefj0/i_just_wrote_my_first_code_day_1_variables_in/",
+      "content_preview": "",
+      "flair": [
+        "Meta"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Python for Data Science Tips",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mbcw40/python_for_data_science_tips/",
+      "score": 2,
+      "comments": 7,
+      "post_id": "t3_1mbcw40",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "Kaiser_Steve",
+      "author_id": "t2_qsr5p10",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-07-28T10:47:44.996000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mbcw40/python_for_data_science_tips/",
+      "content_preview": "",
+      "flair": [
+        "Data_Science"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Which is best among them?",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mo1eaw/which_is_best_among_them/",
+      "score": 5,
+      "comments": 3,
+      "post_id": "t3_1mo1eaw",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "starlight7459",
+      "author_id": "t2_1pr0ehu3mn",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-12T06:38:02.126000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mo1eaw/which_is_best_among_them/",
+      "content_preview": "",
+      "flair": [
+        "Module"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Python_learning_difficulties",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mj8t4u/python_learning_difficulties/",
+      "score": 4,
+      "comments": 9,
+      "post_id": "t3_1mj8t4u",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "Historical_Swim1770",
+      "author_id": "t2_nkrlldf1",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-06T16:07:59.350000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mj8t4u/python_learning_difficulties/",
+      "content_preview": "",
+      "flair": [
+        "Module"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "A good place to learn Classes/OOP",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mjzydm/a_good_place_to_learn_classesoop/",
+      "score": 4,
+      "comments": 1,
+      "post_id": "t3_1mjzydm",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "VonRoderik",
+      "author_id": "t2_n8ccpxw",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-07T13:21:44.363000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mjzydm/a_good_place_to_learn_classesoop/",
+      "content_preview": "",
+      "flair": [
+        "Syntax"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Build a Local AI Agent with MCP Tools Using GPT-OSS, LangChain & Streamlit",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mozlhs/build_a_local_ai_agent_with_mcp_tools_using/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1mozlhs",
+      "post_type": "multi_media",
+      "domain": "self.pythontips",
+      "author": "Flashy-Thought-5472",
+      "author_id": "t2_149ycw1w01",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-13T09:18:59.367000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mozlhs/build_a_local_ai_agent_with_mcp_tools_using/",
+      "content_preview": "",
+      "flair": [
+        "Long_video"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Python guidance",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mupg7c/python_guidance/",
+      "score": 3,
+      "comments": 12,
+      "post_id": "t3_1mupg7c",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "therottingCinePhile",
+      "author_id": "t2_1pqv1i5m16",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-19T17:43:39.449000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mupg7c/python_guidance/",
+      "content_preview": "",
+      "flair": [
+        "Short_Video"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Class 11 python",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mogeoc/class_11_python/",
+      "score": 3,
+      "comments": 6,
+      "post_id": "t3_1mogeoc",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "VermaxRayan",
+      "author_id": "t2_njbnhknc",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-12T18:16:07.641000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mogeoc/class_11_python/",
+      "content_preview": "",
+      "flair": [
+        "Module"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Learn Python with LearnPython",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mb6l1n/learn_python_with_learnpython/",
+      "score": 3,
+      "comments": 2,
+      "post_id": "t3_1mb6l1n",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "Psychological-Top938",
+      "author_id": "t2_9vqheu6n",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-07-28T04:14:13.078000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mb6l1n/learn_python_with_learnpython/",
+      "content_preview": "",
+      "flair": [
+        "Module"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Office envy",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mb5xn4/office_envy/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mb5xn4",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "AkaMoHit",
+      "author_id": "t2_eo86yuxa",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-07-28T03:39:56.767000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mb5xn4/office_envy/",
+      "content_preview": "",
+      "flair": [
+        "Syntax"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Python script: Annual feature update cadence...Windows 10",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mpni8x/python_script_annual_feature_update/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1mpni8x",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "One_Technology1588",
+      "author_id": "t2_1kx6gywdis",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-14T01:53:37.964000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mpni8x/python_script_annual_feature_update/",
+      "content_preview": "",
+      "flair": [
+        "Data_Science"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_duvrzy/styles/profileIcon_7wqlbebfrtoe1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=77fd3b59eec82617798b5b1c7434732831acb3e6"
+    },
+    {
+      "title": "Hello, I'm starting to make my own Programming Language through Python. Are there any advices that you could suggest?",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mrxr6j/hello_im_starting_to_make_my_own_programming/",
+      "score": 0,
+      "comments": 12,
+      "post_id": "t3_1mrxr6j",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "Opening_Master_4963",
+      "author_id": "t2_1sox51j07u",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-16T15:02:37.074000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mrxr6j/hello_im_starting_to_make_my_own_programming/",
+      "content_preview": "",
+      "flair": [
+        "Meta"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How to Make AI Agents Collaborate with ACP (Agent Communication Protocol)",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mapl2c/how_to_make_ai_agents_collaborate_with_acp_agent/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1mapl2c",
+      "post_type": "multi_media",
+      "domain": "self.pythontips",
+      "author": "Flashy-Thought-5472",
+      "author_id": "t2_149ycw1w01",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-07-27T15:46:33.034000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mapl2c/how_to_make_ai_agents_collaborate_with_acp_agent/",
+      "content_preview": "",
+      "flair": [
+        "Long_video"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Looking for a Free Platforms or Websites to Practice and Improve Python Skills Daily",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1maet8f/looking_for_a_free_platforms_or_websites_to/",
+      "score": 5,
+      "comments": 4,
+      "post_id": "t3_1maet8f",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "Far-Discussion1993",
+      "author_id": "t2_vsu7n944t",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-07-27T05:59:15.755000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1maet8f/looking_for_a_free_platforms_or_websites_to/",
+      "content_preview": "",
+      "flair": [
+        "Data_Science"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "The real reason Python learners stay stuck and how to fix it...",
+      "permalink": "https://www.reddit.com/r/pythontips/comments/1mo7n2o/the_real_reason_python_learners_stay_stuck_and/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1mo7n2o",
+      "post_type": "text",
+      "domain": "self.pythontips",
+      "author": "yourclouddude",
+      "author_id": "t2_1n0wce2gaw",
+      "subreddit_id": "t5_3evbu",
+      "subreddit": "r/pythontips",
+      "created_ts": "2025-08-12T12:41:04.080000+0000",
+      "content_href": "https://www.reddit.com/r/pythontips/comments/1mo7n2o/the_real_reason_python_learners_stay_stuck_and/",
+      "content_preview": "",
+      "flair": [
+        "Python3_Specific"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_e8dxv4/styles/profileIcon_b6q3o05frcif1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=0c1ba9b59e82459c9f602e0d319ede60488a4ac1"
+    }
+  ],
+  "scraped_at": "2025-09-02T10:02:49.063311"
+}

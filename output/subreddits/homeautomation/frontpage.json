@@ -1,0 +1,1011 @@
+{
+  "subreddit": "homeautomation",
+  "url": "https://www.reddit.com/r/homeautomation",
+  "meta": {
+    "title": "HomeAutomation",
+    "members_text": "52,179"
+  },
+  "posts": [
+    {
+      "title": "ding-dong ditchers",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n6fmlj/dingdong_ditchers/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n6fmlj",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "sahbig",
+      "author_id": "t2_esr7k48",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-09-02T10:14:42.592000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1n6fmlj/dingdong_ditchers/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Looking for help choosing a mini PC to run HomeAssistant, Immich, WireGuard, AdGuard, and Pi-hole (on Proxmox)",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n16eso/looking_for_help_choosing_a_mini_pc_to_run/",
+      "score": 157,
+      "comments": 12,
+      "post_id": "t3_1n16eso",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "danikaptain",
+      "author_id": "t2_1tnrc8v2ly",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-27T03:25:23.827000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1n16eso/looking_for_help_choosing_a_mini_pc_to_run/",
+      "content_preview": "",
+      "flair": [
+        "PERSONAL SETUP"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_exxyft/styles/profileIcon_ly9w9tq0magf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=79841792c075525c77c0fa6efa5a85b344e992d6"
+    },
+    {
+      "title": "Smart bulbs and smart relays?",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n6chhi/smart_bulbs_and_smart_relays/",
+      "score": 4,
+      "comments": 17,
+      "post_id": "t3_1n6chhi",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "the_other_one_2",
+      "author_id": "t2_56j9f1b1",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-09-02T06:49:08.804000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1n6chhi/smart_bulbs_and_smart_relays/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "I need to get alerted whenever water flows out of this pipe. Its about 150' from my house. Give me your best automated solutions. Currently on the SmartThings app for all my other devices",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1mgxy5s/i_need_to_get_alerted_whenever_water_flows_out_of/",
+      "score": 353,
+      "comments": 250,
+      "post_id": "t3_1mgxy5s",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ntdoyfanboy",
+      "author_id": "t2_12aazb",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-03T23:30:48.458000+0000",
+      "content_href": "https://i.redd.it/mpa1v9333wgf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Help Me Motorize and Automate These Roman Shades",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n5udst/help_me_motorize_and_automate_these_roman_shades/",
+      "score": 16,
+      "comments": 1,
+      "post_id": "t3_1n5udst",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Overall_Ad_4611",
+      "author_id": "t2_7h4tkexf",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-09-01T17:06:17.588000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n5udst",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://preview.redd.it/help-me-motorize-and-automate-these-roman-shades-v0-0dxrxu2x4lmf1.jpg?width=640&crop=smart&auto=webp&s=b1eb68b789aeaf338372b1918b9d12abd8b0436a"
+    },
+    {
+      "title": "Ranking the best outdoor security cameras that don't require subscriptions",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n1e7qh/ranking_the_best_outdoor_security_cameras_that/",
+      "score": 119,
+      "comments": 136,
+      "post_id": "t3_1n1e7qh",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "Prestigious-Fault215",
+      "author_id": "t2_1wjgepgwru",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-27T11:17:12.058000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1n1e7qh/ranking_the_best_outdoor_security_cameras_that/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Water level sensor",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n5l1a0/water_level_sensor/",
+      "score": 7,
+      "comments": 0,
+      "post_id": "t3_1n5l1a0",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "mkenanah",
+      "author_id": "t2_9h9basps",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-09-01T10:22:12.818000+0000",
+      "content_href": "/r/homeassistant/comments/1n5l0o9/water_level_sensor/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Electrical Rough In - Any Wiring Tips (Data/CAT)?",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n64dgx/electrical_rough_in_any_wiring_tips_datacat/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n64dgx",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "TrippleBreeze",
+      "author_id": "t2_gqtqf",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-09-01T23:41:02.651000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1n64dgx/electrical_rough_in_any_wiring_tips_datacat/",
+      "content_preview": "",
+      "flair": [
+        "FIRST TIME SETUP"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Just getting started in home automation, went to IKEA for something unrelated, snagged this beauty",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1mye85b/just_getting_started_in_home_automation_went_to/",
+      "score": 281,
+      "comments": 103,
+      "post_id": "t3_1mye85b",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "KinoftheKing-Ins",
+      "author_id": "t2_icnk2e7m",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-23T21:55:17.890000+0000",
+      "content_href": "https://i.redd.it/g0wk2k2acukf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "NEW TO HA"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Smart Fire Place",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n4x1ox/smart_fire_place/",
+      "score": 7,
+      "comments": 0,
+      "post_id": "t3_1n4x1ox",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "TechnicianOk2210",
+      "author_id": "t2_10jplibn6z",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-31T15:04:22.490000+0000",
+      "content_href": "/r/homeassistant/comments/1n4x0mt/smart_fire_place/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://preview.redd.it/smart-fire-place-v0-8f7g3981edmf1.jpg?width=640&crop=smart&auto=webp&s=dbc9020a4f646d213cb05cbc91c25dca790f8eb7"
+    },
+    {
+      "title": "Is this safe?",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n34u8g/is_this_safe/",
+      "score": 91,
+      "comments": 87,
+      "post_id": "t3_1n34u8g",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "-TheLonelyChild",
+      "author_id": "t2_172c2g",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-29T11:27:59.757000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n34u8g",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Schlage Encode lock not working",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n4xg7u/schlage_encode_lock_not_working/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n4xg7u",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "Zulu5000",
+      "author_id": "t2_1oe3zoik4j",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-31T15:20:13.466000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1n4xg7u/schlage_encode_lock_not_working/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Electronic sign for elderly parent who can’t use a phone",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n2oi89/electronic_sign_for_elderly_parent_who_cant_use_a/",
+      "score": 72,
+      "comments": 59,
+      "post_id": "t3_1n2oi89",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "John_Hughes_Product",
+      "author_id": "t2_69k5ugd6",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-28T21:14:50.513000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1n2oi89/electronic_sign_for_elderly_parent_who_cant_use_a/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "RF hub",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n4pgex/rf_hub/",
+      "score": 6,
+      "comments": 5,
+      "post_id": "t3_1n4pgex",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "Matas0",
+      "author_id": "t2_uyc5s04",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-31T08:28:57.919000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1n4pgex/rf_hub/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Hood light indicates if stove is still hot.",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1mg5e1y/hood_light_indicates_if_stove_is_still_hot/",
+      "score": 276,
+      "comments": 41,
+      "post_id": "t3_1mg5e1y",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Afraid_Suggestion311",
+      "author_id": "t2_11iulakaj0",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-03T00:14:48.692000+0000",
+      "content_href": "https://i.redd.it/r8a2qnz06pgf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "PERSONAL SETUP"
+      ],
+      "thumbnail_url": "https://preview.redd.it/hood-light-indicates-if-stove-is-still-hot-v0-r8a2qnz06pgf1.jpeg?width=640&crop=smart&auto=webp&s=8cd40bad7e47cfa11f10983d2911b05aa83e4e7e"
+    },
+    {
+      "title": "Google home sucks. What to replace it with?",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n0m3hf/google_home_sucks_what_to_replace_it_with/",
+      "score": 65,
+      "comments": 70,
+      "post_id": "t3_1n0m3hf",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "nabhaite",
+      "author_id": "t2_f5cigno",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-26T13:37:41.102000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1n0m3hf/google_home_sucks_what_to_replace_it_with/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Least \"internet\" connected smart lock? Has app, but doesn't require an account to use?",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n55j14/least_internet_connected_smart_lock_has_app_but/",
+      "score": 26,
+      "comments": 38,
+      "post_id": "t3_1n55j14",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "ZachHeise",
+      "author_id": "t2_8napljw8",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-31T20:42:32.681000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1n55j14/least_internet_connected_smart_lock_has_app_but/",
+      "content_preview": "",
+      "flair": [
+        "SECURITY"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Something I made to help me park my car",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n2rr9e/something_i_made_to_help_me_park_my_car/",
+      "score": 19,
+      "comments": 2,
+      "post_id": "t3_1n2rr9e",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "TheBlackDon",
+      "author_id": "t2_rahcv",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-28T23:31:12.553000+0000",
+      "content_href": "https://www.youtube.com/watch?v=rqTDj7GabGw",
+      "content_preview": "",
+      "flair": [
+        "HOMEKIT"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Thread lighting options?",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n4iok3/thread_lighting_options/",
+      "score": 6,
+      "comments": 2,
+      "post_id": "t3_1n4iok3",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "PeteyNice",
+      "author_id": "t2_582uk",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-31T01:54:39.499000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1n4iok3/thread_lighting_options/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Automated Bank Balance Display",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n5yge5/automated_bank_balance_display/",
+      "score": 1,
+      "comments": 5,
+      "post_id": "t3_1n5yge5",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "Aggressive-Tutor-171",
+      "author_id": "t2_1wwoloiccl",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-09-01T19:36:18.844000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1n5yge5/automated_bank_balance_display/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Commercial Electric SP1 Smart Plugs",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n4gq1v/commercial_electric_sp1_smart_plugs/",
+      "score": 6,
+      "comments": 11,
+      "post_id": "t3_1n4gq1v",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "WatchJazz919",
+      "author_id": "t2_u9kl24q",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-31T00:16:16.451000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1n4gq1v/commercial_electric_sp1_smart_plugs/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "What I wish I knew before installing a battery system",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1mum33q/what_i_wish_i_knew_before_installing_a_battery/",
+      "score": 274,
+      "comments": 73,
+      "post_id": "t3_1mum33q",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "Latter_Ordinary_9466",
+      "author_id": "t2_1s7r6v1pm1",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-19T15:43:10.041000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1mum33q/what_i_wish_i_knew_before_installing_a_battery/",
+      "content_preview": "",
+      "flair": [
+        "DISCUSSION"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Replacing the main board in an echo dot",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n4amm7/replacing_the_main_board_in_an_echo_dot/",
+      "score": 3,
+      "comments": 5,
+      "post_id": "t3_1n4amm7",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "CanineData_Games",
+      "author_id": "t2_amnkkaun",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-30T19:41:38.113000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1n4amm7/replacing_the_main_board_in_an_echo_dot/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How to wire 4-way with Cync/GE switches?",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n3krv7/how_to_wire_4way_with_cyncge_switches/",
+      "score": 3,
+      "comments": 2,
+      "post_id": "t3_1n3krv7",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "CJMA19",
+      "author_id": "t2_2itugeig",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-29T22:09:28.278000+0000",
+      "content_href": "/r/smarthome/comments/1n3egrq/how_to_wire_4way_with_cyncge_switches/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Bed Time Briefing for Kids",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n26oud/bed_time_briefing_for_kids/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n26oud",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "rubinox355",
+      "author_id": "t2_4xoaxxji",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-28T08:29:08.112000+0000",
+      "content_href": "/r/homeassistant/comments/1n268ab/bed_time_briefing_for_kids/",
+      "content_preview": "",
+      "flair": [
+        "PERSONAL SETUP"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "3 way switch installation with no neutral on load side",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n5xckv/3_way_switch_installation_with_no_neutral_on_load/",
+      "score": 1,
+      "comments": 3,
+      "post_id": "t3_1n5xckv",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "Reverend_Wrong",
+      "author_id": "t2_3mrtk",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-09-01T18:55:17.243000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1n5xckv/3_way_switch_installation_with_no_neutral_on_load/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dfatv/styles/profileIcon_fp59ol3crdg51.JPG?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=22926dfa91decaa581f291e59dd8ed2a10d16fee"
+    },
+    {
+      "title": "Best smart Outlet option",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1mzr3f4/best_smart_outlet_option/",
+      "score": 3,
+      "comments": 9,
+      "post_id": "t3_1mzr3f4",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "Repulsive_Music1979",
+      "author_id": "t2_1czvwnltsh",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-25T13:52:47.195000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1mzr3f4/best_smart_outlet_option/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Home security",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1my26fk/home_security/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1my26fk",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "HoyaheadCanada",
+      "author_id": "t2_f9zp82bx",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-23T13:58:17.899000+0000",
+      "content_href": "/r/bell/comments/1my25r2/home_security/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_55gpaa/styles/profileIcon_2y534csw56ff1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2fa7ffd59377c8e58ed02732f3818f93bc8a6148"
+    },
+    {
+      "title": "Keeping an eye on lakehouse when we’re not there",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1mxzkl3/keeping_an_eye_on_lakehouse_when_were_not_there/",
+      "score": 1,
+      "comments": 11,
+      "post_id": "t3_1mxzkl3",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "balufudus",
+      "author_id": "t2_1tveio7n6a",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-23T12:00:42.772000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1mxzkl3/keeping_an_eye_on_lakehouse_when_were_not_there/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "My newest fully open-source creation: an electromechanical 7-segment \"SHADOW\" display driven by an ESP32. It works completely standalone, or you can connect it to Home Assistant (or similar) to display data over MQTT.",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1mokvah/my_newest_fully_opensource_creation_an/",
+      "score": 229,
+      "comments": 15,
+      "post_id": "t3_1mokvah",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Sokolsok",
+      "author_id": "t2_6n49fzxo",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-12T21:01:00.017000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mokvah",
+      "content_preview": "",
+      "flair": [
+        "HOME ASSISTANT"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2ptz8x/styles/profileIcon_7c05mddduov51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4694fe9fb73a2df7683525bb1764e0e7e9abbf25"
+    },
+    {
+      "title": "Can I use one smart bulb / motion detector with 2 regular bulbs in a multiple-socket ceiling fixture?",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n5vozt/can_i_use_one_smart_bulb_motion_detector_with_2/",
+      "score": 0,
+      "comments": 11,
+      "post_id": "t3_1n5vozt",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "Bawonga",
+      "author_id": "t2_2wj9bpoq",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-09-01T17:54:07.116000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1n5vozt/can_i_use_one_smart_bulb_motion_detector_with_2/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Man Seeking Commercial Grade High Wattage LED Dimmer/Controller",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n5rqtj/man_seeking_commercial_grade_high_wattage_led/",
+      "score": 0,
+      "comments": 24,
+      "post_id": "t3_1n5rqtj",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "Repo_Man_666",
+      "author_id": "t2_o2uhxtzl",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-09-01T15:28:00.480000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1n5rqtj/man_seeking_commercial_grade_high_wattage_led/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Aqara T1M , Hue infuse or ?",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n5d7wg/aqara_t1m_hue_infuse_or/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n5d7wg",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "AussieaussieKman",
+      "author_id": "t2_k70ea40e",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-09-01T02:41:50.526000+0000",
+      "content_href": "/r/homeassistant/comments/1n5d72h/aqara_t1m_hue_infuse_or/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Looking for a decent digital photo frame that just simply works.",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n2sx3c/looking_for_a_decent_digital_photo_frame_that/",
+      "score": 17,
+      "comments": 33,
+      "post_id": "t3_1n2sx3c",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "Tybenj",
+      "author_id": "t2_9trg5mpm",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-29T00:24:04.459000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1n2sx3c/looking_for_a_decent_digital_photo_frame_that/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Location automation triggers not working",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n5bzrc/location_automation_triggers_not_working/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n5bzrc",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Confident_Still7127",
+      "author_id": "t2_d99nhmz4",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-09-01T01:39:43.288000+0000",
+      "content_href": "/r/HomeKit/comments/1n4ovn3/location_automation_triggers_not_working/",
+      "content_preview": "",
+      "flair": [
+        "PERSONAL SETUP"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Built my own solar water heater monitor — e-paper display, LoRa, no WiFi, and no more cold showers",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1mzkaz3/built_my_own_solar_water_heater_monitor_epaper/",
+      "score": 212,
+      "comments": 16,
+      "post_id": "t3_1mzkaz3",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Creative-Trip-8032",
+      "author_id": "t2_ighrgix58",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-25T07:48:42.072000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mzkaz3",
+      "content_preview": "",
+      "flair": [
+        "SMARTHINGS"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Smart Garage in an Apartment Complex",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1mxsef2/smart_garage_in_an_apartment_complex/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1mxsef2",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "_Code_X_",
+      "author_id": "t2_cxjj53va",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-23T04:52:01.385000+0000",
+      "content_href": "/r/smarthome/comments/1mxrx5q/smart_garage_in_an_apartment_complex/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Alternative to Ring Doorbell or instant chime",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1mxkfn3/alternative_to_ring_doorbell_or_instant_chime/",
+      "score": 2,
+      "comments": 8,
+      "post_id": "t3_1mxkfn3",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "algiogia",
+      "author_id": "t2_10okznux",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-22T22:26:40.269000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1mxkfn3/alternative_to_ring_doorbell_or_instant_chime/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Hacking into water meter",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1mjuplj/hacking_into_water_meter/",
+      "score": 196,
+      "comments": 111,
+      "post_id": "t3_1mjuplj",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "TheCoop1986",
+      "author_id": "t2_70hiwrhi",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-07T08:40:12.471000+0000",
+      "content_href": "https://i.redd.it/c3rgou8u7khf1.png",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://preview.redd.it/hacking-into-water-meter-v0-c3rgou8u7khf1.png?width=640&crop=smart&auto=webp&s=82a4dd57772199d14692a60a494a752370741f9d"
+    },
+    {
+      "title": "Heating and controls",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1mxjo2d/heating_and_controls/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1mxjo2d",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "fallenbrim",
+      "author_id": "t2_3du11dwl",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-22T21:55:10.886000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1mxjo2d/heating_and_controls/",
+      "content_preview": "",
+      "flair": [
+        "NEW TO HA"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Tuya BLE + Zigbee gateway/hub/controller",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n5bidj/tuya_ble_zigbee_gatewayhubcontroller/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n5bidj",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "holchansg",
+      "author_id": "t2_ppu9v",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-09-01T01:15:12.381000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1n5bidj/tuya_ble_zigbee_gatewayhubcontroller/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Using Google Home + ELEGRP + Hue, Nest, and Yale - looking for integration advice",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n0o78h/using_google_home_elegrp_hue_nest_and_yale/",
+      "score": 15,
+      "comments": 1,
+      "post_id": "t3_1n0o78h",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "TheRiddler1976",
+      "author_id": "t2_ts9ya",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-26T15:00:51.477000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1n0o78h/using_google_home_elegrp_hue_nest_and_yale/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Need low-cost/power mini pc recommendation for HA",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n5aw0i/need_lowcostpower_mini_pc_recommendation_for_ha/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n5aw0i",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "cnkrc",
+      "author_id": "t2_76lwruo1",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-09-01T00:43:53.431000+0000",
+      "content_href": "/r/homeassistant/comments/1n5av8o/need_lowcostpower_mini_pc_recommendation_for_ha/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "How to automate an old humidistat with google home?",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1mxfrop/how_to_automate_an_old_humidistat_with_google_home/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mxfrop",
+      "post_type": "multi_media",
+      "domain": "self.homeautomation",
+      "author": "Sam_Pie",
+      "author_id": "t2_i8vsg1",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-22T19:21:15.092000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1mxfrop/how_to_automate_an_old_humidistat_with_google_home/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Emporia Vue 3 Connector Type",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1mxc4wq/emporia_vue_3_connector_type/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1mxc4wq",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "FalconSteve89",
+      "author_id": "t2_5a3zhit0",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-22T17:03:40.971000+0000",
+      "content_href": "/r/homeassistant/comments/1mw6qhv/emporia_vue_3_connector_type/",
+      "content_preview": "",
+      "flair": [
+        "PROJECT"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Future proofing House remodel",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1mx5qgm/future_proofing_house_remodel/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1mx5qgm",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "SeigA_Flo",
+      "author_id": "t2_khc7l75o",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-22T12:54:41.179000+0000",
+      "content_href": "/r/homeassistant/comments/1mx5pky/future_proofing_house_remodel/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Ring door switch intermittent failures",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1mx8xkg/ring_door_switch_intermittent_failures/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1mx8xkg",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "skiwarz",
+      "author_id": "t2_iq0ab",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-22T15:03:00.256000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1mx8xkg/ring_door_switch_intermittent_failures/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Is there a good option to replace this?",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1n1gqbk/is_there_a_good_option_to_replace_this/",
+      "score": 14,
+      "comments": 23,
+      "post_id": "t3_1n1gqbk",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ForeverJung",
+      "author_id": "t2_6xnvd",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-27T13:14:51.136000+0000",
+      "content_href": "https://i.redd.it/78elsnk2bklf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://preview.redd.it/is-there-a-good-option-to-replace-this-v0-78elsnk2bklf1.jpeg?width=640&crop=smart&auto=webp&s=ded8a7c685cfa19a96d7b8cf898e4eeda74c0341"
+    },
+    {
+      "title": "Can I Track with GA if I Have Fed the Dog without a button in 2025?",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1mx8l39/can_i_track_with_ga_if_i_have_fed_the_dog_without/",
+      "score": 0,
+      "comments": 7,
+      "post_id": "t3_1mx8l39",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "markeross",
+      "author_id": "t2_wn8db",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-22T14:49:47.460000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1mx8l39/can_i_track_with_ga_if_i_have_fed_the_dog_without/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Loxone - tips and experiences for full renovation",
+      "permalink": "https://www.reddit.com/r/homeautomation/comments/1mwzhuq/loxone_tips_and_experiences_for_full_renovation/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mwzhuq",
+      "post_type": "text",
+      "domain": "self.homeautomation",
+      "author": "Zed29",
+      "author_id": "t2_3l5sr84c",
+      "subreddit_id": "t5_2s8wn",
+      "subreddit": "r/homeautomation",
+      "created_ts": "2025-08-22T06:58:18.530000+0000",
+      "content_href": "https://www.reddit.com/r/homeautomation/comments/1mwzhuq/loxone_tips_and_experiences_for_full_renovation/",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": ""
+    }
+  ],
+  "scraped_at": "2025-09-02T03:29:50.196541"
+}

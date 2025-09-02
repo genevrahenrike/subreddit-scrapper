@@ -1,0 +1,1011 @@
+{
+  "subreddit": "blenderhelp",
+  "url": "https://www.reddit.com/r/blenderhelp",
+  "meta": {
+    "title": "Blender 3D: Help and Questions",
+    "members_text": "1,326,199"
+  },
+  "posts": [
+    {
+      "title": "Changes in the N Panel",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n6lg9w/changes_in_the_n_panel/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n6lg9w",
+      "post_type": "multi_media",
+      "domain": "self.blenderhelp",
+      "author": "TBHonestly",
+      "author_id": "t2_xp2vhvy9s",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-02T14:45:26.536000+0000",
+      "content_href": "https://www.reddit.com/r/blenderhelp/comments/1n6lg9w/changes_in_the_n_panel/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_b8srfs/styles/profileIcon_4vp06xidjosc1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8116c2d37cec78bc94905a1bd5f6b62097303660"
+    },
+    {
+      "title": "How can I get this iridescent reflection effect on my scales?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n13x9q/how_can_i_get_this_iridescent_reflection_effect/",
+      "score": 422,
+      "comments": 30,
+      "post_id": "t3_1n13x9q",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "ApprehensiveFoot1983",
+      "author_id": "t2_1wibl6itoa",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-08-27T01:26:10.962000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n13x9q",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Methods to achieve fluid Morphs between Meshes,",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n6ia1n/methods_to_achieve_fluid_morphs_between_meshes/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1n6ia1n",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Turbulent-Muscle7672",
+      "author_id": "t2_1tahfa9zp7",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-02T12:36:00.412000+0000",
+      "content_href": "https://i.redd.it/ihwnj4i4xqmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Why does Blender 4.3 ruins cel shaded projects? How to fix it?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1mr35ys/why_does_blender_43_ruins_cel_shaded_projects_how/",
+      "score": 1063,
+      "comments": 33,
+      "post_id": "t3_1mr35ys",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "nmlss",
+      "author_id": "t2_bv1an",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-08-15T16:42:21.792000+0000",
+      "content_href": "https://i.redd.it/nzxlc98xo7jf1.png",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1uopk7/styles/profileIcon_v8q64zatqnk61.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3aa2699519c2676fead6e8dc6d26901f8cdf5164"
+    },
+    {
+      "title": "Why does my mesh look like this? It’s just a plane that I curved in edit mode",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n6a2uc/why_does_my_mesh_look_like_this_its_just_a_plane/",
+      "score": 8,
+      "comments": 3,
+      "post_id": "t3_1n6a2uc",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Hairy-Old-Potato",
+      "author_id": "t2_4s10rk3l",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-02T04:23:26.191000+0000",
+      "content_href": "https://i.redd.it/unn1sgqbhomf1.png",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://preview.redd.it/why-does-my-mesh-look-like-this-its-just-a-plane-that-i-v0-unn1sgqbhomf1.png?width=640&crop=smart&auto=webp&s=db7b5d549d07cda89b12c31d42a8f695329782f9"
+    },
+    {
+      "title": "Hello. Fairly new to modeling. I showed my friend my WIP model and they said my topology is bad, but did not say why. Can you guys offer any tips/pointers as to what I am doing wrong? Thanks!",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n1dvt4/hello_fairly_new_to_modeling_i_showed_my_friend/",
+      "score": 387,
+      "comments": 72,
+      "post_id": "t3_1n1dvt4",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Quardener",
+      "author_id": "t2_17ihx3",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-08-27T10:59:35.774000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n1dvt4",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "How to add mmd_tools to blender addons?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n6gssv/how_to_add_mmd_tools_to_blender_addons/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1n6gssv",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "BlankIcarus",
+      "author_id": "t2_1qkq4awhj8",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-02T11:21:26.849000+0000",
+      "content_href": "https://i.redd.it/i6hb27b9kqmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_el4ys8/styles/profileIcon_opir3qn2x84f1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=14355c7c4a2f87cd32acf01b039f78a2d3859475"
+    },
+    {
+      "title": "Why cant I use my dedicated graphics card (Arc A350m)?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n6lfv0/why_cant_i_use_my_dedicated_graphics_card_arc/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n6lfv0",
+      "post_type": "multi_media",
+      "domain": "self.blenderhelp",
+      "author": "Personal-Ad-347",
+      "author_id": "t2_c0ykzwp1",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-02T14:45:00.770000+0000",
+      "content_href": "https://www.reddit.com/r/blenderhelp/comments/1n6lfv0/why_cant_i_use_my_dedicated_graphics_card_arc/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Best way to approach modeling a large-scale landscape ?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1mtkyak/best_way_to_approach_modeling_a_largescale/",
+      "score": 841,
+      "comments": 20,
+      "post_id": "t3_1mtkyak",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Zaller34",
+      "author_id": "t2_smtx11b3",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-08-18T12:42:42.993000+0000",
+      "content_href": "https://i.redd.it/d4u10knnvrjf1.png",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_72byrn/styles/profileIcon_x7z6b3dxtuoc1.PNG?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=cde62de1732fbf1d8b0a25d2ffa1a9101a86f987"
+    },
+    {
+      "title": "What did I do wrong?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n67ifa/what_did_i_do_wrong/",
+      "score": 5,
+      "comments": 8,
+      "post_id": "t3_1n67ifa",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "dragosempire",
+      "author_id": "t2_nqdnzu5",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-02T02:11:16.261000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n67ifa",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://preview.redd.it/what-did-i-do-wrong-v0-qwr0s7wtsnmf1.png?width=640&crop=smart&auto=webp&s=719d59c022cb8691000460022eca88e42bfebb66"
+    },
+    {
+      "title": "how could i achieve this dithering effect in texture paint?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n2q8uc/how_could_i_achieve_this_dithering_effect_in/",
+      "score": 256,
+      "comments": 17,
+      "post_id": "t3_1n2q8uc",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "LimpAd9876",
+      "author_id": "t2_g050a9lw",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-08-28T22:25:59.463000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n2q8uc",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "How can I make the mesh transparent like the png im using as the texture?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n68xop/how_can_i_make_the_mesh_transparent_like_the_png/",
+      "score": 4,
+      "comments": 9,
+      "post_id": "t3_1n68xop",
+      "post_type": "multi_media",
+      "domain": "self.blenderhelp",
+      "author": "WillingAppointment81",
+      "author_id": "t2_g4aqupeb",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-02T03:22:11.697000+0000",
+      "content_href": "https://www.reddit.com/r/blenderhelp/comments/1n68xop/how_can_i_make_the_mesh_transparent_like_the_png/",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Blender genuinely makes me feel like I have a severe learning disability",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n3toln/blender_genuinely_makes_me_feel_like_i_have_a/",
+      "score": 254,
+      "comments": 92,
+      "post_id": "t3_1n3toln",
+      "post_type": "text",
+      "domain": "self.blenderhelp",
+      "author": "LongjumpingBite8250",
+      "author_id": "t2_1brb6cur0g",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-08-30T05:35:36.094000+0000",
+      "content_href": "https://www.reddit.com/r/blenderhelp/comments/1n3toln/blender_genuinely_makes_me_feel_like_i_have_a/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "I need help with a weird shading issue",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n64itu/i_need_help_with_a_weird_shading_issue/",
+      "score": 7,
+      "comments": 11,
+      "post_id": "t3_1n64itu",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Vexxypop",
+      "author_id": "t2_3h9ewy7",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-01T23:47:56.172000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n64itu",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i-need-help-with-a-weird-shading-issue-v0-ms999vok4nmf1.jpg?width=640&crop=smart&auto=webp&s=256dba1b16152abbe3ce3d1a7ac7943b2252118b"
+    },
+    {
+      "title": "I refuse to accept this as my fate working in Windows",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1mj4oe3/i_refuse_to_accept_this_as_my_fate_working_in/",
+      "score": 710,
+      "comments": 175,
+      "post_id": "t3_1mj4oe3",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "7kidz",
+      "author_id": "t2_s51gxmf",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-08-06T13:27:42.147000+0000",
+      "content_href": "https://v.redd.it/p85fo4kihehf1",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/i-refuse-to-accept-this-as-my-fate-working-in-windows-v0-bzNjM3Z5a2loZWhmMVMXPS4cVhF6qpHkaRrc66eWja4ubMm8KsZf5WSaBuBE.png?width=640&crop=smart&format=pjpg&auto=webp&s=18b1039839d4b712ea662cab3b3bcad82428573f"
+    },
+    {
+      "title": "What is the use of this \"background scene\" option? I understand what it does, but why does this exist? some use case example? there is nothing about it on the internet...",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n66qhn/what_is_the_use_of_this_background_scene_option_i/",
+      "score": 5,
+      "comments": 8,
+      "post_id": "t3_1n66qhn",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "BennXeffect",
+      "author_id": "t2_j7f09g8r",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-02T01:33:49.761000+0000",
+      "content_href": "https://i.redd.it/ju32xvqumnmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://preview.redd.it/what-is-the-use-of-this-background-scene-option-i-v0-ju32xvqumnmf1.png?auto=webp&s=06e32b8d35b03d691da51c256d123c0395a29056"
+    },
+    {
+      "title": "Textures look weird after updating to 4.5",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n63az6/textures_look_weird_after_updating_to_45/",
+      "score": 8,
+      "comments": 3,
+      "post_id": "t3_1n63az6",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "KucukAdamcik",
+      "author_id": "t2_bac7tub2",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-01T22:52:58.620000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n63az6",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_46zcn2/styles/profileIcon_kd4uas6dbuxb1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3eb3b988c9610aa0251a0a1e4d0ad7ae16bcd29a"
+    },
+    {
+      "title": "Work-around to adding keyframes to nodes from add-on?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n69g66/workaround_to_adding_keyframes_to_nodes_from_addon/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1n69g66",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "iisoprene",
+      "author_id": "t2_5adlvkoz",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-02T03:49:12.548000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n69g66",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "How would I go about getting these white highlights",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n3msnc/how_would_i_go_about_getting_these_white/",
+      "score": 222,
+      "comments": 9,
+      "post_id": "t3_1n3msnc",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Randomnoddles",
+      "author_id": "t2_9o83vkvt",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-08-29T23:37:20.280000+0000",
+      "content_href": "https://v.redd.it/p91loa2yn1mf1",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/how-would-i-go-about-getting-these-white-highlights-v0-MzJtMjM4eXhuMW1mMSyBWVlaf1oiwar_Xgwyfl5bL7z416q_fXfnNW6hmVty.png?width=640&crop=smart&format=pjpg&auto=webp&s=2412cb92f5e1d26483ad412cbd9ac7e60198d2d0"
+    },
+    {
+      "title": "Normals are not baking in",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n68fn8/normals_are_not_baking_in/",
+      "score": 3,
+      "comments": 3,
+      "post_id": "t3_1n68fn8",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Objective_Pen5246",
+      "author_id": "t2_apah43t5",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-02T02:57:23.134000+0000",
+      "content_href": "https://i.redd.it/zfn9y6xy1omf1.png",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://preview.redd.it/normals-are-not-baking-in-v0-zfn9y6xy1omf1.png?width=640&crop=smart&auto=webp&s=bb5b89247b753365960c689bd507db3ddc84cd7a"
+    },
+    {
+      "title": "Triangulate for SP and Unreal",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n6l88z/triangulate_for_sp_and_unreal/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n6l88z",
+      "post_type": "text",
+      "domain": "self.blenderhelp",
+      "author": "eco_bach",
+      "author_id": "t2_e3xz9",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-02T14:37:03.440000+0000",
+      "content_href": "https://www.reddit.com/r/blenderhelp/comments/1n6l88z/triangulate_for_sp_and_unreal/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Half rendered video.",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n6l3kn/half_rendered_video/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n6l3kn",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "WhoNagy",
+      "author_id": "t2_2zggavfw",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-02T14:32:08.238000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n6l3kn",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://preview.redd.it/half-rendered-video-v0-99dyolrbirmf1.jpg?width=640&crop=smart&auto=webp&s=b8b7f74d1613ac614fe2350e2d4475f2d2d0f15a"
+    },
+    {
+      "title": "How to prevent shadow cast onto my plane?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n66esq/how_to_prevent_shadow_cast_onto_my_plane/",
+      "score": 3,
+      "comments": 3,
+      "post_id": "t3_1n66esq",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "MegaMinerDL",
+      "author_id": "t2_ogg5tipz",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-02T01:18:00.831000+0000",
+      "content_href": "https://i.redd.it/15468ljlknmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6ii0dg/styles/profileIcon_o9mujef3o3td1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=151f4369bf282d188218bfb6b40ff83e620c2d72"
+    },
+    {
+      "title": "UVs keeps separating one model into different parts",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n65bnx/uvs_keeps_separating_one_model_into_different/",
+      "score": 2,
+      "comments": 8,
+      "post_id": "t3_1n65bnx",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Hope_PapernackyYT",
+      "author_id": "t2_820s9fqn",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-02T00:25:55.375000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n65bnx",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Object mode good, edit mode WTF",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n06wmz/object_mode_good_edit_mode_wtf/",
+      "score": 186,
+      "comments": 14,
+      "post_id": "t3_1n06wmz",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "aatrader5",
+      "author_id": "t2_9jeu2a3h",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-08-26T00:00:26.904000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n06wmz",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Currently trying to model a Colt Detective Special. Is there a better way to model it than what I'm doing, currently?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n655mb/currently_trying_to_model_a_colt_detective/",
+      "score": 2,
+      "comments": 4,
+      "post_id": "t3_1n655mb",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "test-912",
+      "author_id": "t2_1t7vtphqg6",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-02T00:18:00.666000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n655mb",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "how  can this be recreated in Blender?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n1tjx3/how_can_this_be_recreated_in_blender/",
+      "score": 165,
+      "comments": 34,
+      "post_id": "t3_1n1tjx3",
+      "post_type": "gif",
+      "domain": "v.redd.it",
+      "author": "pandicaa_",
+      "author_id": "t2_4cdvodvn",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-08-27T21:21:39.112000+0000",
+      "content_href": "https://v.redd.it/5oe8ldjwpmlf1",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/how-can-this-be-recreated-in-blender-v0-dnh3eXNzYndwbWxmMVFer_yBe-Zq-sjKrVY182EDZyVhWVPuW80isrsvluWD.png?width=640&crop=smart&format=pjpg&auto=webp&s=925decc9f3211e6a1ca1e8e84be2144168844201"
+    },
+    {
+      "title": "Suggestions on rendering fur on Mac Air M1 8gb?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n5u244/suggestions_on_rendering_fur_on_mac_air_m1_8gb/",
+      "score": 7,
+      "comments": 11,
+      "post_id": "t3_1n5u244",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "affordancefy",
+      "author_id": "t2_amymfzcp",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-01T16:54:28.958000+0000",
+      "content_href": "https://i.redd.it/vljfocyq2lmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "How can i model this?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1mw762h/how_can_i_model_this/",
+      "score": 503,
+      "comments": 36,
+      "post_id": "t3_1mw762h",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Pretend_Definition22",
+      "author_id": "t2_csmekf0ha",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-08-21T10:28:45.459000+0000",
+      "content_href": "https://i.redd.it/iyjbp1synckf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Harsh Edged shadows using cycles",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n6l2io/harsh_edged_shadows_using_cycles/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n6l2io",
+      "post_type": "multi_media",
+      "domain": "self.blenderhelp",
+      "author": "CarrotSubject5311",
+      "author_id": "t2_ffgof9fu",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-02T14:30:59.592000+0000",
+      "content_href": "https://www.reddit.com/r/blenderhelp/comments/1n6l2io/harsh_edged_shadows_using_cycles/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Logo not showing on model through Image Texture node, any idea what I should look into to see why its not working? Thank you everyone :)",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n6kc84/logo_not_showing_on_model_through_image_texture/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n6kc84",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "AlexRescueDotCom",
+      "author_id": "t2_6dkbqv1o",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-02T14:02:28.288000+0000",
+      "content_href": "https://v.redd.it/oqbrm0yqcrmf1",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/logo-not-showing-on-model-through-image-texture-node-any-v0-ZHV3Z3V4eHFjcm1mMUJ8_6G-B6RF_1c8dbHNyh-XMOmVvXsVG25ubmBee0BO.png?width=640&crop=smart&format=pjpg&auto=webp&s=459164804fdb24040990182106feac6252484f3d"
+    },
+    {
+      "title": "why my sprinkles so small?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n6jquk/why_my_sprinkles_so_small/",
+      "score": 1,
+      "comments": 3,
+      "post_id": "t3_1n6jquk",
+      "post_type": "multi_media",
+      "domain": "self.blenderhelp",
+      "author": "kurbantese",
+      "author_id": "t2_1s23s7vvng",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-02T13:39:23.399000+0000",
+      "content_href": "https://www.reddit.com/r/blenderhelp/comments/1n6jquk/why_my_sprinkles_so_small/",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_etq8um/styles/profileIcon_bu0zil0uutjf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=04cd5bd238e8f92d78da9bd1f118f7865a3a63ed"
+    },
+    {
+      "title": "The hex color of the obj gets desaturated in blender",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n4x96v/the_hex_color_of_the_obj_gets_desaturated_in/",
+      "score": 154,
+      "comments": 17,
+      "post_id": "t3_1n4x96v",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "This_Pitch5195",
+      "author_id": "t2_uvpsdwxu",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-08-31T15:12:29.538000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n4x96v",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://preview.redd.it/the-hex-color-of-the-obj-gets-desaturated-in-blender-v0-rp8i2af6fdmf1.png?width=640&crop=smart&auto=webp&s=7577df17cda1a2cdd4706c9bd4d79610df466993"
+    },
+    {
+      "title": "Need help with rigging in blender.",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1mg6q8b/need_help_with_rigging_in_blender/",
+      "score": 491,
+      "comments": 41,
+      "post_id": "t3_1mg6q8b",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Zealousideal-Pilot18",
+      "author_id": "t2_8uwjo15a",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-08-03T01:22:22.482000+0000",
+      "content_href": "https://v.redd.it/yf0sd0twhpgf1",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/need-help-with-rigging-in-blender-v0-dWlqdHN5c3docGdmMU_4UDU2xjm9TZ6UWdfSC3qQCbvrGbqV8YxvEyQlghai.png?width=640&crop=smart&format=pjpg&auto=webp&s=da7c57bdf8500fbc4b67d42d6113267f8a4c285a"
+    },
+    {
+      "title": "Would you approach this modeling differently?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1mlaa41/would_you_approach_this_modeling_differently/",
+      "score": 398,
+      "comments": 27,
+      "post_id": "t3_1mlaa41",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "quitecontrar",
+      "author_id": "t2_47yxoaqv",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-08-08T23:22:28.092000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mlaa41",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://preview.redd.it/would-you-approach-this-modeling-differently-v0-ony4uw35ovhf1.png?width=640&crop=smart&auto=webp&s=f8e87cb01ec8d2baf6ac62765fe97273c77b07b6"
+    },
+    {
+      "title": "Particles disappear when looked at from distance",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n6jlfo/particles_disappear_when_looked_at_from_distance/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n6jlfo",
+      "post_type": "multi_media",
+      "domain": "self.blenderhelp",
+      "author": "gallaxo",
+      "author_id": "t2_7jam2f60",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-02T13:33:13.129000+0000",
+      "content_href": "https://www.reddit.com/r/blenderhelp/comments/1n6jlfo/particles_disappear_when_looked_at_from_distance/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Blender 5.0 Alpha crashes when switching to Shading mode (RTX GPU, Windows 11)",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n6218a/blender_50_alpha_crashes_when_switching_to/",
+      "score": 2,
+      "comments": 4,
+      "post_id": "t3_1n6218a",
+      "post_type": "multi_media",
+      "domain": "self.blenderhelp",
+      "author": "Icy_Albatross_16",
+      "author_id": "t2_a6kew1p5",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-01T21:57:54.268000+0000",
+      "content_href": "https://www.reddit.com/r/blenderhelp/comments/1n6218a/blender_50_alpha_crashes_when_switching_to/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Does anyone know how to create a texture like the following (hilt and Blade)?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n5w8dk/does_anyone_know_how_to_create_a_texture_like_the/",
+      "score": 3,
+      "comments": 7,
+      "post_id": "t3_1n5w8dk",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "No-Contact6147",
+      "author_id": "t2_ia18ywsi",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-01T18:14:04.395000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n5w8dk",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://preview.redd.it/does-anyone-know-how-to-create-a-texture-like-the-following-v0-g6pxuw0vglmf1.png?width=218&format=png&auto=webp&s=a6d389e69491e977f0aecc1b01288e76c1a09027"
+    },
+    {
+      "title": "Blender Symmetrize not working",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n5uu0r/blender_symmetrize_not_working/",
+      "score": 3,
+      "comments": 7,
+      "post_id": "t3_1n5uu0r",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "YellowSkar",
+      "author_id": "t2_7wyutpwz",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-01T17:22:52.392000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n5uu0r",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "My blender keeps crashing when i add material.",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n6incf/my_blender_keeps_crashing_when_i_add_material/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n6incf",
+      "post_type": "multi_media",
+      "domain": "self.blenderhelp",
+      "author": "Vikicccc",
+      "author_id": "t2_1ubejmfh6x",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-02T12:53:03.210000+0000",
+      "content_href": "https://www.reddit.com/r/blenderhelp/comments/1n6incf/my_blender_keeps_crashing_when_i_add_material/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How do i get rid of the all the noise when playing the animation? Sorry I am a beginner",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n14neb/how_do_i_get_rid_of_the_all_the_noise_when/",
+      "score": 136,
+      "comments": 37,
+      "post_id": "t3_1n14neb",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Tall_Upstairs_4216",
+      "author_id": "t2_y8lnwgzkx",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-08-27T02:00:26.187000+0000",
+      "content_href": "https://i.redd.it/8ohmsf2nxglf1.png",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bvt6y6/styles/profileIcon_y21geuxxa2kf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2177712c36dbead205c638a4e1db7cd3d3ff9764"
+    },
+    {
+      "title": "How do I make this texture through sculpting?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1mp7br3/how_do_i_make_this_texture_through_sculpting/",
+      "score": 354,
+      "comments": 46,
+      "post_id": "t3_1mp7br3",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "TeENypeEnY69420",
+      "author_id": "t2_54e4m9e9",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-08-13T15:19:23.742000+0000",
+      "content_href": "https://i.redd.it/nnck2o0j0tif1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://preview.redd.it/how-do-i-make-this-texture-through-sculpting-v0-nnck2o0j0tif1.jpeg?width=640&crop=smart&auto=webp&s=9e61312c685e12b357d27da53de72aeca7e10d96"
+    },
+    {
+      "title": "Does anyone know why posing isn't working properly?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n5xt6f/does_anyone_know_why_posing_isnt_working_properly/",
+      "score": 2,
+      "comments": 12,
+      "post_id": "t3_1n5xt6f",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "RealCreacher",
+      "author_id": "t2_qrpxb1y7",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-01T19:11:59.430000+0000",
+      "content_href": "https://v.redd.it/09sgx9dxqlmf1",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_82tk0e/styles/profileIcon_s9a86hhrgfnb1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ae661549c149e3e3a78a9c805a25f62445116e38"
+    },
+    {
+      "title": "My blender crashes out of nowhere, without me doing anything specific.",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n5w2gj/my_blender_crashes_out_of_nowhere_without_me/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1n5w2gj",
+      "post_type": "text",
+      "domain": "self.blenderhelp",
+      "author": "Digorodtube",
+      "author_id": "t2_9bd8m7z8u",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-01T18:08:06.149000+0000",
+      "content_href": "https://www.reddit.com/r/blenderhelp/comments/1n5w2gj/my_blender_crashes_out_of_nowhere_without_me/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Why does it rotate like this instead of just rotating on x?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n37d7f/why_does_it_rotate_like_this_instead_of_just/",
+      "score": 133,
+      "comments": 14,
+      "post_id": "t3_1n37d7f",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Unlucky_Tea2965",
+      "author_id": "t2_hzs14b9cx",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-08-29T13:24:21.655000+0000",
+      "content_href": "https://v.redd.it/qyl72u3fmylf1",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_957o4s/styles/profileIcon_57wrwnd6oe7f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=9ec7b9fb3d0a060edb1413e5eae10d92631ee469"
+    },
+    {
+      "title": "Remeshing is destroying my model",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n0t0e5/remeshing_is_destroying_my_model/",
+      "score": 123,
+      "comments": 14,
+      "post_id": "t3_1n0t0e5",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "NadhanGizzy",
+      "author_id": "t2_4yfuwth7",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-08-26T17:59:26.444000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n0t0e5",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_27wzyo/styles/profileIcon_d6hf6p0ifgz71.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=61121033f7162991459855099c8bbf56821e1a60"
+    },
+    {
+      "title": "Are there any tutorials that will be able to help me achieve a character model that looks like this?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n25ruf/are_there_any_tutorials_that_will_be_able_to_help/",
+      "score": 102,
+      "comments": 9,
+      "post_id": "t3_1n25ruf",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "colton016415",
+      "author_id": "t2_1b9d22b5u6",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-08-28T07:28:27.412000+0000",
+      "content_href": "https://i.redd.it/bdakbxpmoplf1.png",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://preview.redd.it/are-there-any-tutorials-that-will-be-able-to-help-me-v0-bdakbxpmoplf1.png?width=640&crop=smart&auto=webp&s=823445f62683b5c747dcbc8b6f59364174d9bf38"
+    },
+    {
+      "title": "How to stop Grease Pencil from being affected by lights/environment in Blender 4.3?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n5rvvi/how_to_stop_grease_pencil_from_being_affected_by/",
+      "score": 3,
+      "comments": 2,
+      "post_id": "t3_1n5rvvi",
+      "post_type": "text",
+      "domain": "self.blenderhelp",
+      "author": "Zestyclose_Leader115",
+      "author_id": "t2_19vejhj8sh",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-01T15:33:25.517000+0000",
+      "content_href": "https://www.reddit.com/r/blenderhelp/comments/1n5rvvi/how_to_stop_grease_pencil_from_being_affected_by/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "How can i create this effect?? everything ive tried in blender tracks horribly",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n5vfc0/how_can_i_create_this_effect_everything_ive_tried/",
+      "score": 2,
+      "comments": 9,
+      "post_id": "t3_1n5vfc0",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "444thewayofheaven444",
+      "author_id": "t2_zgkibclsb",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-01T17:43:57.732000+0000",
+      "content_href": "https://v.redd.it/k6hde7cjblmf1",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/how-can-i-create-this-effect-everything-ive-tried-in-v0-NXdhNTk3Y2pibG1mMTyK9sBq2sdQ9hkdBXPRu4s7tgpKl-_pEm8mhzZGphLf.png?width=640&crop=smart&format=pjpg&auto=webp&s=0b66af7a7a49075caf1a1d0f046c98ea5092cc20"
+    },
+    {
+      "title": "Is it possible to limit GPU usage on macOS?",
+      "permalink": "https://www.reddit.com/r/blenderhelp/comments/1n6hean/is_it_possible_to_limit_gpu_usage_on_macos/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n6hean",
+      "post_type": "text",
+      "domain": "self.blenderhelp",
+      "author": "Piipperi800",
+      "author_id": "t2_z34vv",
+      "subreddit_id": "t5_2t9eb",
+      "subreddit": "r/blenderhelp",
+      "created_ts": "2025-09-02T11:52:56.491000+0000",
+      "content_href": "https://www.reddit.com/r/blenderhelp/comments/1n6hean/is_it_possible_to_limit_gpu_usage_on_macos/",
+      "content_preview": "",
+      "flair": [
+        "Unsolved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    }
+  ],
+  "scraped_at": "2025-09-02T07:49:17.461449"
+}

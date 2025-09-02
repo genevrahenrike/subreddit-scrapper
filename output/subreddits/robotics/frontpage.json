@@ -1,0 +1,1011 @@
+{
+  "subreddit": "robotics",
+  "url": "https://www.reddit.com/r/robotics",
+  "meta": {
+    "title": "Robotics",
+    "members_text": "7,392"
+  },
+  "posts": [
+    {
+      "title": "Help me answer this riddle..",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n6g6mb/help_me_answer_this_riddle/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n6g6mb",
+      "post_type": "text",
+      "domain": "self.robotics",
+      "author": "Never_7",
+      "author_id": "t2_rlgzwm3r",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-09-02T10:47:18.269000+0000",
+      "content_href": "https://www.reddit.com/r/robotics/comments/1n6g6mb/help_me_answer_this_riddle/",
+      "content_preview": "",
+      "flair": [
+        "Events"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Robotic hands are evolving faster than you think",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n4msa7/robotic_hands_are_evolving_faster_than_you_think/",
+      "score": 1165,
+      "comments": 41,
+      "post_id": "t3_1n4msa7",
+      "post_type": "crosspost",
+      "domain": "v.redd.it",
+      "author": "sibraan_",
+      "author_id": "t2_1s2ebv0seq",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-31T05:41:00.155000+0000",
+      "content_href": "/r/AgentsOfAI/comments/1n4ku1f/robotic_hands_are_evolving_faster_than_you_think/",
+      "content_preview": "",
+      "flair": [
+        "Discussion & Curiosity"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "NEURA Robotics, HD Hyundai Samho, and HD Hyundai Robotics to jointly develop and test specialized robots for shipbuilding",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n5jt80/neura_robotics_hd_hyundai_samho_and_hd_hyundai/",
+      "score": 197,
+      "comments": 42,
+      "post_id": "t3_1n5jt80",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "RuMarley",
+      "author_id": "t2_j7cg7gzs1",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-09-01T09:06:26.679000+0000",
+      "content_href": "https://i.redd.it/wzomf5tkqimf1.png",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://preview.redd.it/neura-robotics-hd-hyundai-samho-and-hd-hyundai-robotics-to-v0-wzomf5tkqimf1.png?width=640&crop=smart&auto=webp&s=f3fbe314c635fe95be59b88bb94ba04ecb90be11"
+    },
+    {
+      "title": "Unitree wins the gold medal for the 1500m run at the World Humanoid Robot Games, setting a world record time of 6 minutes and 34 seconds. (The current men's world record is 3:26)",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1mqt19x/unitree_wins_the_gold_medal_for_the_1500m_run_at/",
+      "score": 2503,
+      "comments": 132,
+      "post_id": "t3_1mqt19x",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Nunki08",
+      "author_id": "t2_agjaq",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-15T09:43:24.620000+0000",
+      "content_href": "https://v.redd.it/vob3ey2bl5jf1",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_mqtdr/styles/profileIcon_tgceouw2s1e11.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=34693ee4eed2187018525147221421ca746fd904"
+    },
+    {
+      "title": "Current progress of my large 6DoF robotic arm IRAS",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n5mua8/current_progress_of_my_large_6dof_robotic_arm_iras/",
+      "score": 95,
+      "comments": 13,
+      "post_id": "t3_1n5mua8",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "jacobutermoehlen",
+      "author_id": "t2_u9h7qpelq",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-09-01T12:02:53.990000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n5mua8",
+      "content_preview": "",
+      "flair": [
+        "Community Showcase"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_enh14x/styles/profileIcon_7dnhd7s3j5ff1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ccc3f59439f2a24c5b1a941cc3080aafc3cf37f5"
+    },
+    {
+      "title": "Wheeled Bipedal Robot Uphill Battle",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n0d1z7/wheeled_bipedal_robot_uphill_battle/",
+      "score": 841,
+      "comments": 40,
+      "post_id": "t3_1n0d1z7",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "coolercolder",
+      "author_id": "t2_9z5cda7s",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-26T05:02:59.194000+0000",
+      "content_href": "https://v.redd.it/ri4bp5kbqalf1",
+      "content_preview": "",
+      "flair": [
+        "Community Showcase"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4bnpjy/styles/profileIcon_2hg9a8oq99cc1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=16b7d75f977850e30317dcd8482198fc3729b5ef"
+    },
+    {
+      "title": "Robot rentals: it will be a thing in the future?",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n5s0m3/robot_rentals_it_will_be_a_thing_in_the_future/",
+      "score": 7,
+      "comments": 27,
+      "post_id": "t3_1n5s0m3",
+      "post_type": "text",
+      "domain": "self.robotics",
+      "author": "Mindful_italian",
+      "author_id": "t2_1w9lvdu37d",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-09-01T15:38:32.746000+0000",
+      "content_href": "https://www.reddit.com/r/robotics/comments/1n5s0m3/robot_rentals_it_will_be_a_thing_in_the_future/",
+      "content_preview": "",
+      "flair": [
+        "Discussion & Curiosity"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Crazy project with Beyblade",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n6d6ek/crazy_project_with_beyblade/",
+      "score": 5,
+      "comments": 0,
+      "post_id": "t3_1n6d6ek",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "PHONIx_2023",
+      "author_id": "t2_dtlzb1zcb",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-09-02T07:34:42.216000+0000",
+      "content_href": "https://i.redd.it/fsphbvnufpmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Discussion & Curiosity"
+      ],
+      "thumbnail_url": "https://preview.redd.it/crazy-project-with-beyblade-v0-fsphbvnufpmf1.jpeg?width=640&crop=smart&auto=webp&s=0bcd01093effdd7f9865cd703fe17070f905e357"
+    },
+    {
+      "title": "Teleoperating My Robots Head",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1mhpdo2/teleoperating_my_robots_head/",
+      "score": 1589,
+      "comments": 70,
+      "post_id": "t3_1mhpdo2",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Parking_Commission60",
+      "author_id": "t2_ad36o0zh",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-04T20:51:16.839000+0000",
+      "content_href": "https://v.redd.it/zq9l81tif2hf1",
+      "content_preview": "",
+      "flair": [
+        "Community Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Are robotics kit startups still profitable, or is the market already competitive/saturated?",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n5fr70/are_robotics_kit_startups_still_profitable_or_is/",
+      "score": 38,
+      "comments": 22,
+      "post_id": "t3_1n5fr70",
+      "post_type": "text",
+      "domain": "self.robotics",
+      "author": "Plus-Ad3927",
+      "author_id": "t2_a1rjn3w7",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-09-01T04:56:54.214000+0000",
+      "content_href": "https://www.reddit.com/r/robotics/comments/1n5fr70/are_robotics_kit_startups_still_profitable_or_is/",
+      "content_preview": "",
+      "flair": [
+        "Discussion & Curiosity"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Why do they fall like Sumotori Deams characters 😂",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n07y3l/why_do_they_fall_like_sumotori_deams_characters/",
+      "score": 754,
+      "comments": 46,
+      "post_id": "t3_1n07y3l",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "refreshednut",
+      "author_id": "t2_bi3du2nl",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-26T00:47:28.807000+0000",
+      "content_href": "https://v.redd.it/n6el4n7tg9lf1",
+      "content_preview": "",
+      "flair": [
+        "Controls Engineering"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/why-do-they-fall-like-sumotori-deams-characters-v0-bWJidzBvM3RnOWxmMcW2OVYiXxYMnkMhTNka-OISzU2DraD_Jt-Xio1ZV4ml.png?format=pjpg&auto=webp&s=203055e5f80b1742dbdcaa4cd79d29ee1c433dd6"
+    },
+    {
+      "title": "Control robot using python",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n5gj8l/control_robot_using_python/",
+      "score": 32,
+      "comments": 0,
+      "post_id": "t3_1n5gj8l",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "PeachMother6373",
+      "author_id": "t2_zp7rdw6y5",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-09-01T05:41:29.771000+0000",
+      "content_href": "https://v.redd.it/zvbrjp9qqhmf1",
+      "content_preview": "",
+      "flair": [
+        "Community Showcase"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/control-robot-using-python-v0-bmM1ZHhwYXFxaG1mMbK83hnHYkhkTtcQfN9kzLaQRjprlBdwftZAMgRTQ4Do.png?width=640&crop=smart&format=pjpg&auto=webp&s=3a72cd7bab6e43cb706656c58e238939b7b9f0e6"
+    },
+    {
+      "title": "Introduce my desk buddy—Coco the AI robot",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n2f5uy/introduce_my_desk_buddycoco_the_ai_robot/",
+      "score": 463,
+      "comments": 46,
+      "post_id": "t3_1n2f5uy",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "BusinessMud922",
+      "author_id": "t2_b020psqx",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-28T15:20:10.215000+0000",
+      "content_href": "https://v.redd.it/iqenfb612slf1",
+      "content_preview": "",
+      "flair": [
+        "Community Showcase"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/introduce-my-desk-buddy-coco-the-ai-robot-v0-czl0N3pzNzcyc2xmMQmdHQcppCArI_UbFTFNQhLFLQnW084PVj49o8-0yuOc.png?width=640&crop=smart&format=pjpg&auto=webp&s=c1b847f6070d69d8676de4d9f0787ec3cad29fcd"
+    },
+    {
+      "title": "Got LeRobot's models running in Metal / CUDA / Qualcomm embedded through tinygrad!",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n5rqas/got_lerobots_models_running_in_metal_cuda/",
+      "score": 5,
+      "comments": 2,
+      "post_id": "t3_1n5rqas",
+      "post_type": "text",
+      "domain": "self.robotics",
+      "author": "msd8121",
+      "author_id": "t2_bukju12",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-09-01T15:27:25.641000+0000",
+      "content_href": "https://www.reddit.com/r/robotics/comments/1n5rqas/got_lerobots_models_running_in_metal_cuda/",
+      "content_preview": "",
+      "flair": [
+        "Community Showcase"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Added controller support",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1myef3s/added_controller_support/",
+      "score": 1121,
+      "comments": 39,
+      "post_id": "t3_1myef3s",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "classical-pianist",
+      "author_id": "t2_hqnzd8jh",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-23T22:03:20.885000+0000",
+      "content_href": "https://v.redd.it/0pnjwclpdukf1",
+      "content_preview": "",
+      "flair": [
+        "Community Showcase"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5n42wb/styles/profileIcon_8bnga3nfy7e91.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=cf0a3ab817242145ab8d212be42d55421b0781f6"
+    },
+    {
+      "title": "Omnidirectional Mobile Robot controlled by hand gestures",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n44o0u/omnidirectional_mobile_robot_controlled_by_hand/",
+      "score": 444,
+      "comments": 31,
+      "post_id": "t3_1n44o0u",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "RoboDIYer",
+      "author_id": "t2_1oza9uxafx",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-30T15:36:20.102000+0000",
+      "content_href": "https://v.redd.it/ev9dp2q1f6mf1",
+      "content_preview": "",
+      "flair": [
+        "Controls Engineering"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/omnidirectional-mobile-robot-controlled-by-hand-gestures-v0-N2t4NnN0bTFmNm1mMZF2sJ_UuacTTe-vDYVsUvTiCY59D3fIDfaGOhDpj2FB.png?format=pjpg&auto=webp&s=7dff933eaa22077d166ec0d47960caf59313930c"
+    },
+    {
+      "title": "Plans and Instructions for Automatic LEGO Sorting Machine",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n5n9k4/plans_and_instructions_for_automatic_lego_sorting/",
+      "score": 8,
+      "comments": 2,
+      "post_id": "t3_1n5n9k4",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "BrickSortingMachine",
+      "author_id": "t2_ja8f9li5p",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-09-01T12:24:03.847000+0000",
+      "content_href": "/r/lego/comments/1n5llsm/plans_and_instructions_for_automatic_lego_sorting/",
+      "content_preview": "",
+      "flair": [
+        "Community Showcase"
+      ],
+      "thumbnail_url": "https://preview.redd.it/plans-and-instructions-for-automatic-lego-sorting-machine-v0-d3dpwcet9jmf1.jpg?width=640&crop=smart&auto=webp&s=17bfd498854876c472f9273f75995d253942ff8e"
+    },
+    {
+      "title": "My Wall-E animatronic can now tilt its eyes ! (Inside of the head at the end of the video)",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n38zp0/my_walle_animatronic_can_now_tilt_its_eyes_inside/",
+      "score": 392,
+      "comments": 10,
+      "post_id": "t3_1n38zp0",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "_ndrscor",
+      "author_id": "t2_4vj55pyz",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-29T14:30:00.869000+0000",
+      "content_href": "https://v.redd.it/hp6cpjnayylf1",
+      "content_preview": "",
+      "flair": [
+        "Community Showcase"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/my-wall-e-animatronic-can-now-tilt-its-eyes-inside-of-the-v0-OG5ybmJzaWF5eWxmMe6EqA2h18Be5fQDh5rBFKztHzbKWVtHDdm_PpNcIxuq.png?width=640&crop=smart&format=pjpg&auto=webp&s=7f107c2e806761f586ab94fb70e0e015bf7f91ff"
+    },
+    {
+      "title": "Is it possible to apply a torque opposite to the direction the motor is applying it while not damaging the component entirely?",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n5i0q9/is_it_possible_to_apply_a_torque_opposite_to_the/",
+      "score": 5,
+      "comments": 5,
+      "post_id": "t3_1n5i0q9",
+      "post_type": "text",
+      "domain": "self.robotics",
+      "author": "aXaxinZ",
+      "author_id": "t2_tgmnpad",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-09-01T07:11:08.405000+0000",
+      "content_href": "https://www.reddit.com/r/robotics/comments/1n5i0q9/is_it_possible_to_apply_a_torque_opposite_to_the/",
+      "content_preview": "",
+      "flair": [
+        "Tech Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I'm working on an autonomous robot custom made from servos glued to legos",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n3wre4/im_working_on_an_autonomous_robot_custom_made/",
+      "score": 349,
+      "comments": 5,
+      "post_id": "t3_1n3wre4",
+      "post_type": "crosspost",
+      "domain": "v.redd.it",
+      "author": "classical-pianist",
+      "author_id": "t2_hqnzd8jh",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-30T08:50:40.994000+0000",
+      "content_href": "/r/SideProject/comments/1n3wqnd/im_working_on_an_autonomous_robot_custom_made/",
+      "content_preview": "",
+      "flair": [
+        "Community Showcase"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5n42wb/styles/profileIcon_8bnga3nfy7e91.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=cf0a3ab817242145ab8d212be42d55421b0781f6"
+    },
+    {
+      "title": "Looking for volunteer collaborators for a small indoor robot",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n5zego/looking_for_volunteer_collaborators_for_a_small/",
+      "score": 0,
+      "comments": 6,
+      "post_id": "t3_1n5zego",
+      "post_type": "text",
+      "domain": "self.robotics",
+      "author": "No-Artichoke-5002",
+      "author_id": "t2_sxodi3scx",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-09-01T20:13:30.818000+0000",
+      "content_href": "https://www.reddit.com/r/robotics/comments/1n5zego/looking_for_volunteer_collaborators_for_a_small/",
+      "content_preview": "",
+      "flair": [
+        "Looking for Group"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Here is my little robot, complete with its head, two arms, and two legs",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n4ik0f/here_is_my_little_robot_complete_with_its_head/",
+      "score": 276,
+      "comments": 12,
+      "post_id": "t3_1n4ik0f",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "X_Robot_X",
+      "author_id": "t2_1wa9q8k6pd",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-31T01:48:07.632000+0000",
+      "content_href": "https://v.redd.it/u34xdg66g9mf1",
+      "content_preview": "",
+      "flair": [
+        "Community Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "RealSense + NVIDIA collaboration 🔥!!!",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1mzvhhw/realsense_nvidia_collaboration/",
+      "score": 14,
+      "comments": 2,
+      "post_id": "t3_1mzvhhw",
+      "post_type": "multi_media",
+      "domain": "self.robotics",
+      "author": "kvnptl_4400",
+      "author_id": "t2_7wl7jf4v",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-25T16:37:21.549000+0000",
+      "content_href": "https://www.reddit.com/r/robotics/comments/1mzvhhw/realsense_nvidia_collaboration/",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I'm 16 and I built a cube solver under $100!",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1mklnii/im_16_and_i_built_a_cube_solver_under_100/",
+      "score": 963,
+      "comments": 43,
+      "post_id": "t3_1mklnii",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "thatonebckid",
+      "author_id": "t2_p8atrnr63",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-08T04:23:49.290000+0000",
+      "content_href": "https://v.redd.it/k1mhf3jl2qhf1",
+      "content_preview": "",
+      "flair": [
+        "Community Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Looking for mentors",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n5xsbn/looking_for_mentors/",
+      "score": 4,
+      "comments": 1,
+      "post_id": "t3_1n5xsbn",
+      "post_type": "text",
+      "domain": "self.robotics",
+      "author": "Imaginary-Fly-9561",
+      "author_id": "t2_aglv95mx",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-09-01T19:11:04.046000+0000",
+      "content_href": "https://www.reddit.com/r/robotics/comments/1n5xsbn/looking_for_mentors/",
+      "content_preview": "",
+      "flair": [
+        "Discussion & Curiosity"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Nvidia Ups Its Robotics Game With Blackwell-Based Jetson Thor",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1mzt89w/nvidia_ups_its_robotics_game_with_blackwellbased/",
+      "score": 9,
+      "comments": 0,
+      "post_id": "t3_1mzt89w",
+      "post_type": "link",
+      "domain": "substack.com",
+      "author": "norcalnatv",
+      "author_id": "t2_12mdhn",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-25T15:14:45.007000+0000",
+      "content_href": "https://substack.com/home/post/p-171847623",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "DIY Underwater Robot Project",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n2poz5/diy_underwater_robot_project/",
+      "score": 244,
+      "comments": 19,
+      "post_id": "t3_1n2poz5",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "CsirkeHadnagy",
+      "author_id": "t2_1ck8ynkpb4",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-28T22:02:48.090000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n2poz5",
+      "content_preview": "",
+      "flair": [
+        "Community Showcase"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_cuw9ti/styles/profileIcon_v90rw4etbslf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=378e0b1248e0ef97287c86389a4ca0d6ebc53c0a"
+    },
+    {
+      "title": "Need guidance for UAV target detection – OpenCV too slow, how to improve?",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1mzjvwk/need_guidance_for_uav_target_detection_opencv_too/",
+      "score": 6,
+      "comments": 16,
+      "post_id": "t3_1mzjvwk",
+      "post_type": "text",
+      "domain": "self.robotics",
+      "author": "wasay312",
+      "author_id": "t2_vbgt1tkf",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-25T07:21:08.591000+0000",
+      "content_href": "https://www.reddit.com/r/robotics/comments/1mzjvwk/need_guidance_for_uav_target_detection_opencv_too/",
+      "content_preview": "",
+      "flair": [
+        "Perception & Localization"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Shibaura Institute of Technology, Waseda University and Fujitsu develop quantum computer-based robot posture optimization",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1mzhsm6/shibaura_institute_of_technology_waseda/",
+      "score": 8,
+      "comments": 2,
+      "post_id": "t3_1mzhsm6",
+      "post_type": "link",
+      "domain": "global.fujitsu",
+      "author": "donutloop",
+      "author_id": "t2_81yj9s9",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-25T05:11:09.751000+0000",
+      "content_href": "https://global.fujitsu/en-global/newsroom/gl/2025/08/25-01",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/_f212DY5Iw1pdhzlJieR5vtYKc-1OLRMr3ovKTSKark.png?width=140&height=73&crop=140:73,smart&auto=webp&s=a08488a0637357f941384f26a3f76586d123fc7c"
+    },
+    {
+      "title": "Attention seeking robot lamp",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1mo32hc/attention_seeking_robot_lamp/",
+      "score": 798,
+      "comments": 24,
+      "post_id": "t3_1mo32hc",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Shav7",
+      "author_id": "t2_28qb6bwv",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-12T08:24:52.047000+0000",
+      "content_href": "https://v.redd.it/4ny4ntjetjif1",
+      "content_preview": "",
+      "flair": [
+        "Humor"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/attention-seeking-robot-lamp-v0-cWZnNzZ1amV0amlmMc9odRtveTT6kZdw21dlCfbmTBWEU4WUOdGvBx-SxslF.png?width=640&crop=smart&format=pjpg&auto=webp&s=be88c8b4dd2789e83b256a70ecbbf41468c57ce5"
+    },
+    {
+      "title": "End effector ideas besides a nerf gun?",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1mo590n/end_effector_ideas_besides_a_nerf_gun/",
+      "score": 789,
+      "comments": 136,
+      "post_id": "t3_1mo590n",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "OmarBuilds",
+      "author_id": "t2_of62nd8o0",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-12T10:41:38.974000+0000",
+      "content_href": "https://v.redd.it/9p69hj40ikif1",
+      "content_preview": "",
+      "flair": [
+        "Community Showcase"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_a2os5t/styles/profileIcon_i99lgix1ki1e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5e95dd295606c25a595c02489920ca9df32adc90"
+    },
+    {
+      "title": "Help with octopus pro and mks servo42d",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1mz14l1/help_with_octopus_pro_and_mks_servo42d/",
+      "score": 11,
+      "comments": 2,
+      "post_id": "t3_1mz14l1",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Leviathan_4",
+      "author_id": "t2_3b8uxigh",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-24T17:04:22.397000+0000",
+      "content_href": "https://i.redd.it/578u0m3a10lf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Tech Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "ESP32-CAM Tracked Robot Controlled via Smartphone + Live Video Stream",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1mys7e1/esp32cam_tracked_robot_controlled_via_smartphone/",
+      "score": 33,
+      "comments": 11,
+      "post_id": "t3_1mys7e1",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Secure_Definition459",
+      "author_id": "t2_1rz3tgio62",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-24T10:35:06.763000+0000",
+      "content_href": "https://v.redd.it/y88zna1p3ykf1",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ezhpkp/styles/profileIcon_tto858mgwljf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e88a5293d308562eff0e2d9e00a290a884605938"
+    },
+    {
+      "title": "Using ORB-SLAM3 for GPS-Free Waypoint Missions",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n5xc4a/using_orbslam3_for_gpsfree_waypoint_missions/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1n5xc4a",
+      "post_type": "text",
+      "domain": "self.robotics",
+      "author": "yungyany",
+      "author_id": "t2_7y0ufwmr",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-09-01T18:54:45.765000+0000",
+      "content_href": "https://www.reddit.com/r/robotics/comments/1n5xc4a/using_orbslam3_for_gpsfree_waypoint_missions/",
+      "content_preview": "",
+      "flair": [
+        "Perception & Localization"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Looking for a teammate",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1mz9239/looking_for_a_teammate/",
+      "score": 3,
+      "comments": 10,
+      "post_id": "t3_1mz9239",
+      "post_type": "text",
+      "domain": "self.robotics",
+      "author": "Sad_Paramedic499",
+      "author_id": "t2_egbscxls",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-24T22:09:06.610000+0000",
+      "content_href": "https://www.reddit.com/r/robotics/comments/1mz9239/looking_for_a_teammate/",
+      "content_preview": "",
+      "flair": [
+        "Looking for Group"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "On the way to build my first robot arm: simulation collecting data points for ML training",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1myqvh5/on_the_way_to_build_my_first_robot_arm_simulation/",
+      "score": 31,
+      "comments": 2,
+      "post_id": "t3_1myqvh5",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "No_Comparison1589",
+      "author_id": "t2_128vb1494b",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-24T09:13:25.812000+0000",
+      "content_href": "https://v.redd.it/h2cm0sc0oxkf1",
+      "content_preview": "",
+      "flair": [
+        "Community Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "My robotic arm-Glavenus(wip)",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n07p97/my_robotic_armglavenuswip/",
+      "score": 225,
+      "comments": 28,
+      "post_id": "t3_1n07p97",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Leviathan_4",
+      "author_id": "t2_3b8uxigh",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-26T00:36:18.642000+0000",
+      "content_href": "https://v.redd.it/ivwdb92se9lf1",
+      "content_preview": "",
+      "flair": [
+        "Community Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Unitree A2 Stellar Hunter - Total weight: ~37kg | Unloaded range: ~20km",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1mi8fqr/unitree_a2_stellar_hunter_total_weight_37kg/",
+      "score": 739,
+      "comments": 91,
+      "post_id": "t3_1mi8fqr",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Nunki08",
+      "author_id": "t2_agjaq",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-05T12:55:39.058000+0000",
+      "content_href": "https://v.redd.it/9441i14y47hf1",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_mqtdr/styles/profileIcon_tgceouw2s1e11.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=34693ee4eed2187018525147221421ca746fd904"
+    },
+    {
+      "title": "CUDA projects for robotics?",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1myv548/cuda_projects_for_robotics/",
+      "score": 4,
+      "comments": 8,
+      "post_id": "t3_1myv548",
+      "post_type": "text",
+      "domain": "self.robotics",
+      "author": "ssbprofound",
+      "author_id": "t2_ipohvnz2n",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-24T13:08:37.123000+0000",
+      "content_href": "https://www.reddit.com/r/robotics/comments/1myv548/cuda_projects_for_robotics/",
+      "content_preview": "",
+      "flair": [
+        "Tech Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_97yhwc/styles/profileIcon_k3x9qx804qoe1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3dc2977bd587b36f98d658d6d5a9ee41ab9d4f54"
+    },
+    {
+      "title": "3D CAD Fit-Check Models",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1myyv0b/3d_cad_fitcheck_models/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1myyv0b",
+      "post_type": "text",
+      "domain": "self.robotics",
+      "author": "TemporaryNo8453",
+      "author_id": "t2_hr3tfu17",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-24T15:39:06.545000+0000",
+      "content_href": "https://www.reddit.com/r/robotics/comments/1myyv0b/3d_cad_fitcheck_models/",
+      "content_preview": "",
+      "flair": [
+        "Discussion & Curiosity"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Unitree G1 rallies over 100 shots in table tennis against a human",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n4qves/unitree_g1_rallies_over_100_shots_in_table_tennis/",
+      "score": 195,
+      "comments": 24,
+      "post_id": "t3_1n4qves",
+      "post_type": "crosspost",
+      "domain": "v.redd.it",
+      "author": "oiratey",
+      "author_id": "t2_k0ewml1p",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-31T10:01:51.021000+0000",
+      "content_href": "/r/UnitreeG1/comments/1n2xwg4/unitree_g1_rallies_over_100_shots_in_table_tennis/",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "How Management Understands Robot Repair",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n5x497/how_management_understands_robot_repair/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n5x497",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "kopeezie",
+      "author_id": "t2_khwvr2wo",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-09-01T18:46:30.427000+0000",
+      "content_href": "https://youtube.com/clip/UgkxrYB51Gd9tcuQYF5RqAi6L8gJxcss6PV4?si=yFIa0D-_HnwX99ST",
+      "content_preview": "",
+      "flair": [
+        "Humor"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "running vision model on pc instead of microcontroller",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n5wian/running_vision_model_on_pc_instead_of/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1n5wian",
+      "post_type": "text",
+      "domain": "self.robotics",
+      "author": "meepmoop368",
+      "author_id": "t2_hjkp8nnsw",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-09-01T18:24:03.269000+0000",
+      "content_href": "https://www.reddit.com/r/robotics/comments/1n5wian/running_vision_model_on_pc_instead_of/",
+      "content_preview": "",
+      "flair": [
+        "Tech Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_97ki11/styles/profileIcon_sozwgxovs6mf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=78c0cc3fedfe37724cef369e5f98719d9e32f334"
+    },
+    {
+      "title": "Built simple barista robot in 6 months",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1mma1ma/built_simple_barista_robot_in_6_months/",
+      "score": 725,
+      "comments": 67,
+      "post_id": "t3_1mma1ma",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Weak_Mortgage9295",
+      "author_id": "t2_oq8ys9oh7",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-10T05:07:47.917000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mma1ma",
+      "content_preview": "",
+      "flair": [
+        "Community Showcase"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_a4m9pk/styles/profileIcon_7fovs7e865if1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1b22460d3d98a3e7600fd258e8832cc0f16f0de2"
+    },
+    {
+      "title": "First arms moves",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n29mu4/first_arms_moves/",
+      "score": 150,
+      "comments": 9,
+      "post_id": "t3_1n29mu4",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "X_Robot_X",
+      "author_id": "t2_1wa9q8k6pd",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-28T11:26:46.731000+0000",
+      "content_href": "https://v.redd.it/4cu67hwowqlf1",
+      "content_preview": "",
+      "flair": [
+        "Community Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Trying to design a cycloidal drive help needed",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n5sy79/trying_to_design_a_cycloidal_drive_help_needed/",
+      "score": 2,
+      "comments": 5,
+      "post_id": "t3_1n5sy79",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Opposite_Peanut3020",
+      "author_id": "t2_1rn1k85cwu",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-09-01T16:13:05.337000+0000",
+      "content_href": "/r/MechanicalEngineering/comments/1n5sxfq/trying_to_design_a_cycloidal_drive_help_needed/",
+      "content_preview": "",
+      "flair": [
+        "Mechanical"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Recommendations for commercialy available Robotic arm with CAD/URDF for hobbyist, to use in Isaac Sim",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1myrb53/recommendations_for_commercialy_available_robotic/",
+      "score": 6,
+      "comments": 5,
+      "post_id": "t3_1myrb53",
+      "post_type": "text",
+      "domain": "self.robotics",
+      "author": "Vanessa_PT",
+      "author_id": "t2_r655dbjfu",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-24T09:40:53.674000+0000",
+      "content_href": "https://www.reddit.com/r/robotics/comments/1myrb53/recommendations_for_commercialy_available_robotic/",
+      "content_preview": "",
+      "flair": [
+        "Mechanical"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "DOF 6",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n4evdi/dof_6/",
+      "score": 124,
+      "comments": 8,
+      "post_id": "t3_1n4evdi",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Personal-Wear1442",
+      "author_id": "t2_ndcwgb8lc",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-30T22:47:47.038000+0000",
+      "content_href": "https://v.redd.it/syedkzp0k8mf1",
+      "content_preview": "",
+      "flair": [
+        "Events"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/YzI2OWE0aTBrOG1mMRqO-FTw8G8D4kOat8XHjULTQvn5v-cAerf1LIgslu6y.png?format=pjpg&auto=webp&s=33b21d8640c8b7ffb7fb4d34e61a3b410afd5d78"
+    },
+    {
+      "title": "Fingers testing MK Robot 🤖 2023",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1n2380w/fingers_testing_mk_robot_2023/",
+      "score": 123,
+      "comments": 8,
+      "post_id": "t3_1n2380w",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Personal-Wear1442",
+      "author_id": "t2_ndcwgb8lc",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-28T04:50:04.751000+0000",
+      "content_href": "https://v.redd.it/dbxyjv0xxolf1",
+      "content_preview": "",
+      "flair": [
+        "Controls Engineering"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/fingers-testing-mk-robot-2023-v0-MDFtb25scnd4b2xmMdvoaZ3ObStjk71lYRNTmZ2Y6mTB5p58NkE8_brUCOWw.png?width=640&crop=smart&format=pjpg&auto=webp&s=ad57e403721126897645cc6001e612fcdd5fee6a"
+    },
+    {
+      "title": "Modified DH Parameters help",
+      "permalink": "https://www.reddit.com/r/robotics/comments/1myi2i4/modified_dh_parameters_help/",
+      "score": 10,
+      "comments": 2,
+      "post_id": "t3_1myi2i4",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "robobachelor",
+      "author_id": "t2_fp9f262z",
+      "subreddit_id": "t5_2qh0p",
+      "subreddit": "r/robotics",
+      "created_ts": "2025-08-24T00:49:00.659000+0000",
+      "content_href": "https://i.redd.it/9twitbk97vkf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Tech Question"
+      ],
+      "thumbnail_url": "https://preview.redd.it/modified-dh-parameters-help-v0-9twitbk97vkf1.jpeg?width=640&crop=smart&auto=webp&s=14a9ff7fa0135a2e77b870eb17c09057dbc4293f"
+    }
+  ],
+  "scraped_at": "2025-09-02T05:40:51.252302"
+}

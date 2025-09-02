@@ -1,0 +1,1011 @@
+{
+  "subreddit": "SQL",
+  "url": "https://www.reddit.com/r/SQL",
+  "meta": {
+    "title": "News and Notes on the Structured Query Language",
+    "members_text": "69,322"
+  },
+  "posts": [
+    {
+      "title": "RBQL Query Help: \"JS syntax error\" with \"Unexpected string\" error when trying to count forks",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n6cbik/rbql_query_help_js_syntax_error_with_unexpected/",
+      "score": 3,
+      "comments": 10,
+      "post_id": "t3_1n6cbik",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "Fun_Signature_9812",
+      "author_id": "t2_lh110muz",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-09-02T06:38:11.848000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n6cbik/rbql_query_help_js_syntax_error_with_unexpected/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "That moment when:",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n0isgl/that_moment_when/",
+      "score": 218,
+      "comments": 38,
+      "post_id": "t3_1n0isgl",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Any-Evening-4623",
+      "author_id": "t2_lqoq8gn8",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-26T11:04:40.855000+0000",
+      "content_href": "https://i.redd.it/73n3m4ixiclf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "SQL Server"
+      ],
+      "thumbnail_url": "https://preview.redd.it/that-moment-when-v0-73n3m4ixiclf1.jpeg?width=640&crop=smart&auto=webp&s=00dcc650d64ad6c6d3b5ca0508e4874168df0666"
+    },
+    {
+      "title": "Exploring SQL: From SQL*Plus to MySQL",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n5tuhu/exploring_sql_from_sqlplus_to_mysql/",
+      "score": 43,
+      "comments": 13,
+      "post_id": "t3_1n5tuhu",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "prabhuverse",
+      "author_id": "t2_ms9bq2gwx",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-09-01T16:46:35.842000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n5tuhu",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/exploring-sql-from-sql-plus-to-mysql-v0-gk1lfe1e1lmf1.jpg?width=640&crop=smart&auto=webp&s=6ebc39517bedbe2f4e8e72ea1d3549069cea0a63"
+    },
+    {
+      "title": "Teaching data analytics has made me realize how much AI is eroding critical thinking skills.",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1migcyr/teaching_data_analytics_has_made_me_realize_how/",
+      "score": 497,
+      "comments": 77,
+      "post_id": "t3_1migcyr",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "tits_mcgee_92",
+      "author_id": "t2_6iptp",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-05T17:59:16.933000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1migcyr/teaching_data_analytics_has_made_me_realize_how/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Web App for end user SQL reporting",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n5mr17/web_app_for_end_user_sql_reporting/",
+      "score": 13,
+      "comments": 20,
+      "post_id": "t3_1n5mr17",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "txwgnd",
+      "author_id": "t2_574pwcrn",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-09-01T11:58:49.242000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n5mr17/web_app_for_end_user_sql_reporting/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "hmm",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n3ovki/hmm/",
+      "score": 167,
+      "comments": 5,
+      "post_id": "t3_1n3ovki",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "updated_at",
+      "author_id": "t2_1gqog7y8zq",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-30T01:17:19.655000+0000",
+      "content_href": "/r/dataengineering/comments/1n34x13/hmm/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "How to retrieve first and last row based on RANK() function? (PostgreSQL)",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n5rxoa/how_to_retrieve_first_and_last_row_based_on_rank/",
+      "score": 6,
+      "comments": 6,
+      "post_id": "t3_1n5rxoa",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "piemat94",
+      "author_id": "t2_3r586ma1",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-09-01T15:35:23.189000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n5rxoa/how_to_retrieve_first_and_last_row_based_on_rank/",
+      "content_preview": "",
+      "flair": [
+        "PostgreSQL"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "3rd Party Supplier and Data Dictionaries",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n67i7d/3rd_party_supplier_and_data_dictionaries/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1n67i7d",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "digital0verdose",
+      "author_id": "t2_e41hr",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-09-02T02:10:57.219000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n67i7d/3rd_party_supplier_and_data_dictionaries/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Different databases, different hurdles 🏁😉",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1mx6py9/different_databases_different_hurdles/",
+      "score": 386,
+      "comments": 18,
+      "post_id": "t3_1mx6py9",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Adela_freedom",
+      "author_id": "t2_gxesw7ji",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-22T13:35:54.560000+0000",
+      "content_href": "https://i.redd.it/0heus1v6qkkf1.png",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/different-databases-different-hurdles-v0-0heus1v6qkkf1.png?auto=webp&s=769ab9a86584cacfd3dfc7f652351ad3f2f54f72"
+    },
+    {
+      "title": "LiteOpenERD",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n5brbb/liteopenerd/",
+      "score": 5,
+      "comments": 4,
+      "post_id": "t3_1n5brbb",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "RecommendationSea313",
+      "author_id": "t2_ab502c9w",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-09-01T01:27:43.274000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n5brbb/liteopenerd/",
+      "content_preview": "",
+      "flair": [
+        "MySQL"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Feeling Stuck as a Data Analyst – How Do I Improve My SQL Code Quality and Thinking?",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n172ek/feeling_stuck_as_a_data_analyst_how_do_i_improve/",
+      "score": 81,
+      "comments": 45,
+      "post_id": "t3_1n172ek",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "No-Coast6490",
+      "author_id": "t2_16jye0b1hd",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-27T03:59:57.415000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n172ek/feeling_stuck_as_a_data_analyst_how_do_i_improve/",
+      "content_preview": "",
+      "flair": [
+        "Amazon Redshift"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Struggling with date ranges in Oracle SQL",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n59qrj/struggling_with_date_ranges_in_oracle_sql/",
+      "score": 3,
+      "comments": 9,
+      "post_id": "t3_1n59qrj",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "Competitive-One-1098",
+      "author_id": "t2_frp0xlhm",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-31T23:47:59.186000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n59qrj/struggling_with_date_ranges_in_oracle_sql/",
+      "content_preview": "",
+      "flair": [
+        "Oracle"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Is SQL injection possible with this \"validation\"?",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n1ucba/is_sql_injection_possible_with_this_validation/",
+      "score": 55,
+      "comments": 34,
+      "post_id": "t3_1n1ucba",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "Pablo_dv",
+      "author_id": "t2_4kjviofuq",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-27T21:52:26.509000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n1ucba/is_sql_injection_possible_with_this_validation/",
+      "content_preview": "",
+      "flair": [
+        "MySQL"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Doubt about Multiple Stored Procedures",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n4wi70/doubt_about_multiple_stored_procedures/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1n4wi70",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "BatataGostosak",
+      "author_id": "t2_9zl5rk6e",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-31T14:43:00.921000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n4wi70/doubt_about_multiple_stored_procedures/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Writing beautiful CTEs that nobody will ever appreciate is my love language",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1mymzxp/writing_beautiful_ctes_that_nobody_will_ever/",
+      "score": 240,
+      "comments": 83,
+      "post_id": "t3_1mymzxp",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "Various_Candidate325",
+      "author_id": "t2_1opfd7qzej",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-24T05:12:05.767000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1mymzxp/writing_beautiful_ctes_that_nobody_will_ever/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Please help. Powerbi to remote on premises DB, via Tailscale",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n2fkcd/please_help_powerbi_to_remote_on_premises_db_via/",
+      "score": 3,
+      "comments": 11,
+      "post_id": "t3_1n2fkcd",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "SantoIsBack",
+      "author_id": "t2_33ja87d4",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-28T15:35:17.550000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n2fkcd/please_help_powerbi_to_remote_on_premises_db_via/",
+      "content_preview": "",
+      "flair": [
+        "SQL Server"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Discussion around upgrading legacy systems",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1mzmoda/discussion_around_upgrading_legacy_systems/",
+      "score": 10,
+      "comments": 18,
+      "post_id": "t3_1mzmoda",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "Mean_Razzmatazz9993",
+      "author_id": "t2_6fvqpzib",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-25T10:20:39.507000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1mzmoda/discussion_around_upgrading_legacy_systems/",
+      "content_preview": "",
+      "flair": [
+        "Oracle"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Search with regex",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1mzl6ep/search_with_regex/",
+      "score": 6,
+      "comments": 8,
+      "post_id": "t3_1mzl6ep",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "Chuky3000x",
+      "author_id": "t2_9xdv975w",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-25T08:46:47.596000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1mzl6ep/search_with_regex/",
+      "content_preview": "",
+      "flair": [
+        "PostgreSQL"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Cross-DBMS queries",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1mzl4hg/crossdbms_queries/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1mzl4hg",
+      "post_type": "multi_media",
+      "domain": "self.SQL",
+      "author": "Due-Mongoose2114",
+      "author_id": "t2_wuv7vkhep",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-25T08:43:25.083000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1mzl4hg/crossdbms_queries/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "What is the point of a right join?",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1my78dz/what_is_the_point_of_a_right_join/",
+      "score": 197,
+      "comments": 118,
+      "post_id": "t3_1my78dz",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "Garvinjist",
+      "author_id": "t2_arvtu1rf",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-23T17:17:52.285000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1my78dz/what_is_the_point_of_a_right_join/",
+      "content_preview": "",
+      "flair": [
+        "MySQL"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Help building PostgreSQL analysis tool",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1mx1qkd/help_building_postgresql_analysis_tool/",
+      "score": 6,
+      "comments": 9,
+      "post_id": "t3_1mx1qkd",
+      "post_type": "multi_media",
+      "domain": "self.SQL",
+      "author": "tdournet",
+      "author_id": "t2_1u8lalfs2i",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-22T09:23:35.699000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1mx1qkd/help_building_postgresql_analysis_tool/",
+      "content_preview": "",
+      "flair": [
+        "PostgreSQL"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Database design for an online store with highly variable product attributes?",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n4yrg8/database_design_for_an_online_store_with_highly/",
+      "score": 18,
+      "comments": 13,
+      "post_id": "t3_1n4yrg8",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "Dark_zarich",
+      "author_id": "t2_166d7p",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-31T16:12:58.569000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n4yrg8/database_design_for_an_online_store_with_highly/",
+      "content_preview": "",
+      "flair": [
+        "PostgreSQL"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1789un/styles/profileIcon_e3dg192dibgb1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=581cd51ab9c9168eed12c0d2d21d9bcb3c1e8173"
+    },
+    {
+      "title": "Is it advisable to work as a DBA now and in the future?",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n2zfax/is_it_advisable_to_work_as_a_dba_now_and_in_the/",
+      "score": 16,
+      "comments": 30,
+      "post_id": "t3_1n2zfax",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "Terrible-Middle1812",
+      "author_id": "t2_1r2qyrsibo",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-29T05:56:05.382000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n2zfax/is_it_advisable_to_work_as_a_dba_now_and_in_the/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Realtime database change tracking in Go: Implementing PostgreSQL CDC",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1mx3sd4/realtime_database_change_tracking_in_go/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1mx3sd4",
+      "post_type": "link",
+      "domain": "packagemain.tech",
+      "author": "der_gopher",
+      "author_id": "t2_149tyuiyao",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-22T11:22:21.529000+0000",
+      "content_href": "https://packagemain.tech/p/real-time-database-change-tracking",
+      "content_preview": "",
+      "flair": [
+        "PostgreSQL"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/BCiQz7y2fjNAAjNgqGDIZlcQ-5E4EJ5Isyh3JnGblcw.jpeg?width=140&height=59&crop=140:59,smart&auto=webp&s=246efb75a0b37eefd159074cc491ee3b933ff25f"
+    },
+    {
+      "title": "ERDiagram and Database Schema",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n1b493/erdiagram_and_database_schema/",
+      "score": 15,
+      "comments": 6,
+      "post_id": "t3_1n1b493",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "No_Definition_1798",
+      "author_id": "t2_z92zz9idd",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-27T08:07:48.266000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n1b493",
+      "content_preview": "",
+      "flair": [
+        "SQL Server"
+      ],
+      "thumbnail_url": "https://preview.redd.it/erdiagram-and-database-schema-v0-olasl8n7silf1.png?width=640&crop=smart&auto=webp&s=af97758cd7ad74b422ddb58fcef60a728b06629e"
+    },
+    {
+      "title": "Foreign keys to id- is it ever unnecessary",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n3xf19/foreign_keys_to_id_is_it_ever_unnecessary/",
+      "score": 11,
+      "comments": 17,
+      "post_id": "t3_1n3xf19",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "Circuit_bit",
+      "author_id": "t2_1vyul82byb",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-30T09:34:47.109000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n3xf19/foreign_keys_to_id_is_it_ever_unnecessary/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "How to design a ledger table that references multiple document types (e.g., Invoices, Purchases)",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1mwz3oy/how_to_design_a_ledger_table_that_references/",
+      "score": 6,
+      "comments": 5,
+      "post_id": "t3_1mwz3oy",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "program321",
+      "author_id": "t2_9blxu479",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-22T06:33:18.435000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1mwz3oy/how_to_design_a_ledger_table_that_references/",
+      "content_preview": "",
+      "flair": [
+        "PostgreSQL"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Visual Job Monitoring Tool?",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n0ykd0/visual_job_monitoring_tool/",
+      "score": 9,
+      "comments": 17,
+      "post_id": "t3_1n0ykd0",
+      "post_type": "multi_media",
+      "domain": "self.SQL",
+      "author": "koolyak75",
+      "author_id": "t2_npeae9x",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-26T21:32:00.769000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n0ykd0/visual_job_monitoring_tool/",
+      "content_preview": "",
+      "flair": [
+        "SQL Server"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Bulk Operations in Postgresql",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n19qa0/bulk_operations_in_postgresql/",
+      "score": 9,
+      "comments": 24,
+      "post_id": "t3_1n19qa0",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "SapAndImpurify",
+      "author_id": "t2_150ggonadp",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-27T06:37:33.812000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n19qa0/bulk_operations_in_postgresql/",
+      "content_preview": "",
+      "flair": [
+        "PostgreSQL"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Snowflake: Comparing two large databases with same schema to identify columns with different values",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n1gzw6/snowflake_comparing_two_large_databases_with_same/",
+      "score": 8,
+      "comments": 13,
+      "post_id": "t3_1n1gzw6",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "electronic_rogue_5",
+      "author_id": "t2_zoqt23l7l",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-27T13:25:56.391000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n1gzw6/snowflake_comparing_two_large_databases_with_same/",
+      "content_preview": "",
+      "flair": [
+        "Snowflake"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bgb451/styles/profileIcon_gin2ukryh0mf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b1cfaf9ee72bee4176f730a5c0d46fe715ad9c5b"
+    },
+    {
+      "title": "Report Builder & Multiple Datasets",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1mwhgj8/report_builder_multiple_datasets/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1mwhgj8",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "knittinsmitten",
+      "author_id": "t2_1jiz3dlu",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-21T17:27:42.052000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1mwhgj8/report_builder_multiple_datasets/",
+      "content_preview": "",
+      "flair": [
+        "SQL Server"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Python to Bypass User Role Limitations",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1mvij05/python_to_bypass_user_role_limitations/",
+      "score": 4,
+      "comments": 11,
+      "post_id": "t3_1mvij05",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "OriginalCrawnick",
+      "author_id": "t2_bjo6rvqc",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-20T15:48:31.950000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1mvij05/python_to_bypass_user_role_limitations/",
+      "content_preview": "",
+      "flair": [
+        "SQL Server"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Feedback on Danny's Diner SQL case study Q#3",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1mu7qah/feedback_on_dannys_diner_sql_case_study_q3/",
+      "score": 2,
+      "comments": 5,
+      "post_id": "t3_1mu7qah",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "GREprep1997",
+      "author_id": "t2_mhpnw35y",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-19T03:41:06.956000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1mu7qah/feedback_on_dannys_diner_sql_case_study_q3/",
+      "content_preview": "",
+      "flair": [
+        "PostgreSQL"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Question about one-to-many relations.",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n2qh0z/question_about_onetomany_relations/",
+      "score": 7,
+      "comments": 24,
+      "post_id": "t3_1n2qh0z",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "The-Ronin-Slayer",
+      "author_id": "t2_sr8mgxgz",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-28T22:35:44.322000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n2qh0z/question_about_onetomany_relations/",
+      "content_preview": "",
+      "flair": [
+        "Resolved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "DIFFERENT TAX ID TO NEXT ROW",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n1i5bg/different_tax_id_to_next_row/",
+      "score": 5,
+      "comments": 9,
+      "post_id": "t3_1n1i5bg",
+      "post_type": "multi_media",
+      "domain": "self.SQL",
+      "author": "HASTURGOD",
+      "author_id": "t2_2wxppzj0",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-27T14:11:33.998000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n1i5bg/different_tax_id_to_next_row/",
+      "content_preview": "",
+      "flair": [
+        "SQL Server"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Finding data related jobs, BA|DA|DS|DE",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1mrzex7/finding_data_related_jobs_badadsde/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1mrzex7",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "Affectionatespiderrr",
+      "author_id": "t2_1s80xrrks7",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-16T16:02:57.606000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1mrzex7/finding_data_related_jobs_badadsde/",
+      "content_preview": "",
+      "flair": [
+        "PostgreSQL"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Should I shard my table?",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n1uzk5/should_i_shard_my_table/",
+      "score": 4,
+      "comments": 33,
+      "post_id": "t3_1n1uzk5",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "redbrowngreen",
+      "author_id": "t2_3llh3sax",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-27T22:18:24.041000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n1uzk5/should_i_shard_my_table/",
+      "content_preview": "",
+      "flair": [
+        "SQL Server"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "MySQL",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1mmzb2v/mysql/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1mmzb2v",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "Lumpy-Apricot-9048",
+      "author_id": "t2_15rc92jdb4",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-11T00:54:49.576000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1mmzb2v/mysql/",
+      "content_preview": "",
+      "flair": [
+        "MySQL"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "SQL server not running",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n67fav/sql_server_not_running/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1n67fav",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "StrangerIcy8407",
+      "author_id": "t2_s0gnlrcd",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-09-02T02:07:02.785000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n67fav/sql_server_not_running/",
+      "content_preview": "",
+      "flair": [
+        "SQL Server"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "DBeaver SQL connection error",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n0nps8/dbeaver_sql_connection_error/",
+      "score": 3,
+      "comments": 2,
+      "post_id": "t3_1n0nps8",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "Safe-Worldliness-394",
+      "author_id": "t2_chhlunmp",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-26T14:42:17.863000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n0nps8/dbeaver_sql_connection_error/",
+      "content_preview": "",
+      "flair": [
+        "PostgreSQL"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Is there a way to do Left Join on Union Data and limit that union, and order it?",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1mmjcfi/is_there_a_way_to_do_left_join_on_union_data_and/",
+      "score": 0,
+      "comments": 8,
+      "post_id": "t3_1mmjcfi",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "xSypRo",
+      "author_id": "t2_114z3h",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-10T14:01:11.788000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1mmjcfi/is_there_a_way_to_do_left_join_on_union_data_and/",
+      "content_preview": "",
+      "flair": [
+        "Resolved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Introducing DB Portal - SQL editor, light ETL, user management.",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n63isd/introducing_db_portal_sql_editor_light_etl_user/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n63isd",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Traditional-Sky-3097",
+      "author_id": "t2_1ndfzqkkwl",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-09-01T23:02:35.792000+0000",
+      "content_href": "/r/golang/comments/1n59if3/introducing_db_portal_sql_editor_light_etl_user/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Dbeaver Request",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n0nyp3/dbeaver_request/",
+      "score": 3,
+      "comments": 9,
+      "post_id": "t3_1n0nyp3",
+      "post_type": "multi_media",
+      "domain": "self.SQL",
+      "author": "guilhermerey",
+      "author_id": "t2_5bmat6r6",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-26T14:51:42.338000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n0nyp3/dbeaver_request/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2d0nsk/styles/profileIcon_34fzavphjrlf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c2064d06f00a8f4385f18d2436aa6b4ac79963b3"
+    },
+    {
+      "title": "Bridging the Language Gap: Empowering Low-Resource Languages with LLMs",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1mlafx4/bridging_the_language_gap_empowering_lowresource/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mlafx4",
+      "post_type": "multi_media",
+      "domain": "self.SQL",
+      "author": "ahmed4929",
+      "author_id": "t2_1bjoo71bny",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-08T23:29:38.401000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1mlafx4/bridging_the_language_gap_empowering_lowresource/",
+      "content_preview": "",
+      "flair": [
+        "MySQL"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Use JetSmartFilter pagination with advanced SQL query on MariaDB WordPress server",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n2gy7u/use_jetsmartfilter_pagination_with_advanced_sql/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n2gy7u",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "CSGamer1234",
+      "author_id": "t2_hrwy3",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-28T16:27:17.687000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n2gy7u/use_jetsmartfilter_pagination_with_advanced_sql/",
+      "content_preview": "",
+      "flair": [
+        "MariaDB"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Forward-only schema evolution vs rollbacks — what’s your take?",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1n62sab/forwardonly_schema_evolution_vs_rollbacks_whats/",
+      "score": 0,
+      "comments": 5,
+      "post_id": "t3_1n62sab",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "LevelRelationship732",
+      "author_id": "t2_cxyppin6",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-09-01T22:29:51.951000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1n62sab/forwardonly_schema_evolution_vs_rollbacks_whats/",
+      "content_preview": "",
+      "flair": [
+        "PostgreSQL"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "The dashboard is fine. The meeting is not. (honest verdict wanted)",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1ml4tni/the_dashboard_is_fine_the_meeting_is_not_honest/",
+      "score": 0,
+      "comments": 14,
+      "post_id": "t3_1ml4tni",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "IndividualDress2440",
+      "author_id": "t2_b6vuyjw5",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-08T19:36:46.226000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1ml4tni/the_dashboard_is_fine_the_meeting_is_not_honest/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4ag0q1/styles/profileIcon_x7cex6jbz56b1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=94e576b5cdc76d7afedfdcf72747ef095db14098"
+    },
+    {
+      "title": "Best Text-to-SQL Tools for AI Analytics",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1mkzmsp/best_texttosql_tools_for_ai_analytics/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mkzmsp",
+      "post_type": "link",
+      "domain": "selectstar.com",
+      "author": "SelectStarData",
+      "author_id": "t2_k0kr23gm",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-08T16:19:29.578000+0000",
+      "content_href": "https://www.selectstar.com/resources/text-to-sql-tools",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5wk9ng/styles/profileIcon_kik2xnjhxved1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=03c5b033094865eb70f6e2c678fccd2e0e1a3782"
+    },
+    {
+      "title": "Order by in CTEs",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1mkruxy/order_by_in_ctes/",
+      "score": 0,
+      "comments": 10,
+      "post_id": "t3_1mkruxy",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "No_Lobster_4219",
+      "author_id": "t2_l534tj770",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-08T10:44:58.038000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1mkruxy/order_by_in_ctes/",
+      "content_preview": "",
+      "flair": [
+        "SQL Server"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Let's try to solve this without using any AI , Can use Stackoverflow !",
+      "permalink": "https://www.reddit.com/r/SQL/comments/1mk3pfq/lets_try_to_solve_this_without_using_any_ai_can/",
+      "score": 0,
+      "comments": 11,
+      "post_id": "t3_1mk3pfq",
+      "post_type": "text",
+      "domain": "self.SQL",
+      "author": "Acceptable_Ad6909",
+      "author_id": "t2_b2b9jtqi",
+      "subreddit_id": "t5_2qp8q",
+      "subreddit": "r/SQL",
+      "created_ts": "2025-08-07T15:49:48.883000+0000",
+      "content_href": "https://www.reddit.com/r/SQL/comments/1mk3pfq/lets_try_to_solve_this_without_using_any_ai_can/",
+      "content_preview": "",
+      "flair": [
+        "MySQL"
+      ],
+      "thumbnail_url": ""
+    }
+  ],
+  "scraped_at": "2025-09-02T06:36:09.862701"
+}

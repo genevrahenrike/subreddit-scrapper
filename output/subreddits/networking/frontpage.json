@@ -1,0 +1,1011 @@
+{
+  "subreddit": "networking",
+  "url": "https://www.reddit.com/r/networking",
+  "meta": {
+    "title": "Enterprise Networking Design, Support, and Discussion",
+    "members_text": "1,157,656"
+  },
+  "posts": [
+    {
+      "title": "PFsense multicast routing with PIMD Package",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n61cdu/pfsense_multicast_routing_with_pimd_package/",
+      "score": 2,
+      "comments": 5,
+      "post_id": "t3_1n61cdu",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "sjhman44",
+      "author_id": "t2_8hlru",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-09-01T21:29:15.702000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n61cdu/pfsense_multicast_routing_with_pimd_package/",
+      "content_preview": "",
+      "flair": [
+        "Troubleshooting"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Thinking about switching to NetBox, worried about the upkeep",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n1s9w5/thinking_about_switching_to_netbox_worried_about/",
+      "score": 50,
+      "comments": 36,
+      "post_id": "t3_1n1s9w5",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "1C4R-",
+      "author_id": "t2_3d8ya5nx",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-27T20:31:45.141000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n1s9w5/thinking_about_switching_to_netbox_worried_about/",
+      "content_preview": "",
+      "flair": [
+        "Meta"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "cisco vtp and multiple instances confusion",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n5etwi/cisco_vtp_and_multiple_instances_confusion/",
+      "score": 8,
+      "comments": 11,
+      "post_id": "t3_1n5etwi",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "therealmcz",
+      "author_id": "t2_e3a0bfwi",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-09-01T04:06:26.621000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n5etwi/cisco_vtp_and_multiple_instances_confusion/",
+      "content_preview": "",
+      "flair": [
+        "Design"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What are the \"little things\" in network design that people often miss?",
+      "permalink": "https://www.reddit.com/r/networking/comments/1mmfb1k/what_are_the_little_things_in_network_design_that/",
+      "score": 141,
+      "comments": 256,
+      "post_id": "t3_1mmfb1k",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "Any_Boysenberry_55",
+      "author_id": "t2_gtc0bu5v0",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-10T10:39:47.992000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1mmfb1k/what_are_the_little_things_in_network_design_that/",
+      "content_preview": "",
+      "flair": [
+        "Design"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Using CoAP with quic on IoT",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n53j2z/using_coap_with_quic_on_iot/",
+      "score": 13,
+      "comments": 2,
+      "post_id": "t3_1n53j2z",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "Substantial-Hall3362",
+      "author_id": "t2_8dpgav3u",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-31T19:22:13.531000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n53j2z/using_coap_with_quic_on_iot/",
+      "content_preview": "",
+      "flair": [
+        "Design"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Designing an IPv4 Schema for Large Sites",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n2txt3/designing_an_ipv4_schema_for_large_sites/",
+      "score": 32,
+      "comments": 77,
+      "post_id": "t3_1n2txt3",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "MassageGun-Kelly",
+      "author_id": "t2_1rsscumnzr",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-29T01:10:55.398000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n2txt3/designing_an_ipv4_schema_for_large_sites/",
+      "content_preview": "",
+      "flair": [
+        "Design"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Getting ARP responses in PXE but not after running the bootimage",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n4pb2c/getting_arp_responses_in_pxe_but_not_after/",
+      "score": 3,
+      "comments": 6,
+      "post_id": "t3_1n4pb2c",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "0xlostintransmission",
+      "author_id": "t2_1myha3w7ga",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-31T08:19:17.187000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n4pb2c/getting_arp_responses_in_pxe_but_not_after/",
+      "content_preview": "",
+      "flair": [
+        "Troubleshooting"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Anybody use Alkira for cloud networking?",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n5u391/anybody_use_alkira_for_cloud_networking/",
+      "score": 0,
+      "comments": 9,
+      "post_id": "t3_1n5u391",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "longlurcker",
+      "author_id": "t2_2sisvp",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-09-01T16:55:37.946000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n5u391/anybody_use_alkira_for_cloud_networking/",
+      "content_preview": "",
+      "flair": [
+        "Design"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Cisco Says User Data Stolen in CRM Hack for registered accounts on cisco.com",
+      "permalink": "https://www.reddit.com/r/networking/comments/1miodbf/cisco_says_user_data_stolen_in_crm_hack_for/",
+      "score": 107,
+      "comments": 19,
+      "post_id": "t3_1miodbf",
+      "post_type": "multi_media",
+      "domain": "self.networking",
+      "author": "FutureMixture1039",
+      "author_id": "t2_9novxvnx",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-05T23:06:25.918000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1miodbf/cisco_says_user_data_stolen_in_crm_hack_for/",
+      "content_preview": "",
+      "flair": [
+        "Security"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Error  message copying IOS image between Cisco devices about different formatting",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n40l50/error_message_copying_ios_image_between_cisco/",
+      "score": 10,
+      "comments": 6,
+      "post_id": "t3_1n40l50",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "Huge-Name-6489",
+      "author_id": "t2_gt15saa8",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-30T12:38:19.192000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n40l50/error_message_copying_ios_image_between_cisco/",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "ClearPass replacement",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n2b3uw/clearpass_replacement/",
+      "score": 27,
+      "comments": 114,
+      "post_id": "t3_1n2b3uw",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "imadam71",
+      "author_id": "t2_i0818qgm",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-28T12:38:29.575000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n2b3uw/clearpass_replacement/",
+      "content_preview": "",
+      "flair": [
+        "Security"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "L3 point-to-point links between switches",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n3w3zr/l3_pointtopoint_links_between_switches/",
+      "score": 3,
+      "comments": 38,
+      "post_id": "t3_1n3w3zr",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "pbfus9",
+      "author_id": "t2_d82sac2s",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-30T08:06:49.476000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n3w3zr/l3_pointtopoint_links_between_switches/",
+      "content_preview": "",
+      "flair": [
+        "Design"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Jumbo Packets (MTU = 2500,3000,3500)",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n4p1xb/jumbo_packets_mtu_250030003500/",
+      "score": 26,
+      "comments": 46,
+      "post_id": "t3_1n4p1xb",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "HourDog2130",
+      "author_id": "t2_vu37qirzg",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-31T08:03:04.072000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n4p1xb/jumbo_packets_mtu_250030003500/",
+      "content_preview": "",
+      "flair": [
+        "Design"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "VPN failing due to UDP fragments getting dropped by TMobile/Spectrum",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n3m5r1/vpn_failing_due_to_udp_fragments_getting_dropped/",
+      "score": 3,
+      "comments": 14,
+      "post_id": "t3_1n3m5r1",
+      "post_type": "multi_media",
+      "domain": "self.networking",
+      "author": "Work45oHSd8eZIYt",
+      "author_id": "t2_53twp8mu",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-29T23:09:20.900000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n3m5r1/vpn_failing_due_to_udp_fragments_getting_dropped/",
+      "content_preview": "",
+      "flair": [
+        "Troubleshooting"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "MTU 9216 everywhere",
+      "permalink": "https://www.reddit.com/r/networking/comments/1mgnozn/mtu_9216_everywhere/",
+      "score": 90,
+      "comments": 74,
+      "post_id": "t3_1mgnozn",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "WhoRedd_IT",
+      "author_id": "t2_rezpdws9",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-03T16:33:34.056000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1mgnozn/mtu_9216_everywhere/",
+      "content_preview": "",
+      "flair": [
+        "Design"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Rockwell AOP on Cisco IE3x00 switches",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n3c3jc/rockwell_aop_on_cisco_ie3x00_switches/",
+      "score": 8,
+      "comments": 4,
+      "post_id": "t3_1n3c3jc",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "jdd0603",
+      "author_id": "t2_44br9iij",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-29T16:28:23.804000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n3c3jc/rockwell_aop_on_cisco_ie3x00_switches/",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "VLAN Terminology",
+      "permalink": "https://www.reddit.com/r/networking/comments/1mp122g/vlan_terminology/",
+      "score": 79,
+      "comments": 76,
+      "post_id": "t3_1mp122g",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "inalarry",
+      "author_id": "t2_jczmims",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-13T10:46:42.264000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1mp122g/vlan_terminology/",
+      "content_preview": "",
+      "flair": [
+        "Switching"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Wifi Coverage Query in a conference meeting hall",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n35538/wifi_coverage_query_in_a_conference_meeting_hall/",
+      "score": 7,
+      "comments": 5,
+      "post_id": "t3_1n35538",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "ConsistentArgument54",
+      "author_id": "t2_1rbwrwpari",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-29T11:43:18.659000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n35538/wifi_coverage_query_in_a_conference_meeting_hall/",
+      "content_preview": "",
+      "flair": [
+        "Design"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Next step in networking/IT: which direction would you recommend?",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n57snc/next_step_in_networkingit_which_direction_would/",
+      "score": 25,
+      "comments": 18,
+      "post_id": "t3_1n57snc",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "TechRetire",
+      "author_id": "t2_vx74xjn0h",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-31T22:18:30.724000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n57snc/next_step_in_networkingit_which_direction_would/",
+      "content_preview": "",
+      "flair": [
+        "Career Advice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "NIC with support for linux' io_uring zero-copy?",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n10do1/nic_with_support_for_linux_io_uring_zerocopy/",
+      "score": 20,
+      "comments": 4,
+      "post_id": "t3_1n10do1",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "tirnv",
+      "author_id": "t2_3pyd0egv",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-26T22:46:14.536000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n10do1/nic_with_support_for_linux_io_uring_zerocopy/",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How do we feel about Arista? Have the fallen into the big vendor trap yet, or are they still headed in a good direction?",
+      "permalink": "https://www.reddit.com/r/networking/comments/1musjng/how_do_we_feel_about_arista_have_the_fallen_into/",
+      "score": 76,
+      "comments": 84,
+      "post_id": "t3_1musjng",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "Fiveby21",
+      "author_id": "t2_orlvxoa",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-19T19:33:54.918000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1musjng/how_do_we_feel_about_arista_have_the_fallen_into/",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "IPv4 Network Design: Layer 3 Access Layer - Network Segmentation via VRFs, ACLs, or other?",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n48nic/ipv4_network_design_layer_3_access_layer_network/",
+      "score": 20,
+      "comments": 47,
+      "post_id": "t3_1n48nic",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "MassageGun-Kelly",
+      "author_id": "t2_1rsscumnzr",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-30T18:20:29.395000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n48nic/ipv4_network_design_layer_3_access_layer_network/",
+      "content_preview": "",
+      "flair": [
+        "Design"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Got ACL automation working across multi-vendor switches & firewalls — lessons learned the hard way",
+      "permalink": "https://www.reddit.com/r/networking/comments/1mn4lrb/got_acl_automation_working_across_multivendor/",
+      "score": 71,
+      "comments": 19,
+      "post_id": "t3_1mn4lrb",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "imran_1372",
+      "author_id": "t2_fc5207vx",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-11T05:27:17.472000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1mn4lrb/got_acl_automation_working_across_multivendor/",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_57pw1s/styles/profileIcon_8jykbmdmem3f1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=42379463e38bf4ddb9828c2319bc32ef3d5d9f8c"
+    },
+    {
+      "title": "Just how much crazier does it get at the profesdional to expert level?",
+      "permalink": "https://www.reddit.com/r/networking/comments/1mot96r/just_how_much_crazier_does_it_get_at_the/",
+      "score": 61,
+      "comments": 56,
+      "post_id": "t3_1mot96r",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "VyseCommander",
+      "author_id": "t2_40fucqwg",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-13T03:05:13.524000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1mot96r/just_how_much_crazier_does_it_get_at_the/",
+      "content_preview": "",
+      "flair": [
+        "Career Advice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How to Configure Simple IPv4/IPv6 GRE on Nokia 7750",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n5t4bt/how_to_configure_simple_ipv4ipv6_gre_on_nokia_7750/",
+      "score": 1,
+      "comments": 5,
+      "post_id": "t3_1n5t4bt",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "SelectionLegal8018",
+      "author_id": "t2_1wr9ia4npi",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-09-01T16:19:26.396000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n5t4bt/how_to_configure_simple_ipv4ipv6_gre_on_nokia_7750/",
+      "content_preview": "",
+      "flair": [
+        "Routing"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "(ERPS) L2 traffic between rings",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n34ioi/erps_l2_traffic_between_rings/",
+      "score": 6,
+      "comments": 5,
+      "post_id": "t3_1n34ioi",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "RatTailBridge",
+      "author_id": "t2_1mp87gq7w5",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-29T11:11:22.172000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n34ioi/erps_l2_traffic_between_rings/",
+      "content_preview": "",
+      "flair": [
+        "Switching"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Is anyone using single pair ethernet?",
+      "permalink": "https://www.reddit.com/r/networking/comments/1mtrnz4/is_anyone_using_single_pair_ethernet/",
+      "score": 56,
+      "comments": 59,
+      "post_id": "t3_1mtrnz4",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "awesome_pinay_noses",
+      "author_id": "t2_kzzsd74w",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-18T16:56:04.820000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1mtrnz4/is_anyone_using_single_pair_ethernet/",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "IKEv1 vs IKEv2",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n331dg/ikev1_vs_ikev2/",
+      "score": 2,
+      "comments": 10,
+      "post_id": "t3_1n331dg",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "Historical-Rope9843",
+      "author_id": "t2_77kc0lwo",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-29T09:46:37.137000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n331dg/ikev1_vs_ikev2/",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Fortianalyzer GMAIL SMTP Issues",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n00a59/fortianalyzer_gmail_smtp_issues/",
+      "score": 1,
+      "comments": 4,
+      "post_id": "t3_1n00a59",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "Adventurous_Head1333",
+      "author_id": "t2_1v7ipirdgr",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-25T19:34:48.512000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n00a59/fortianalyzer_gmail_smtp_issues/",
+      "content_preview": "",
+      "flair": [
+        "Troubleshooting"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Zabbix is unable to poll some Cisco IOS XE",
+      "permalink": "https://www.reddit.com/r/networking/comments/1mzlno3/zabbix_is_unable_to_poll_some_cisco_ios_xe/",
+      "score": 5,
+      "comments": 14,
+      "post_id": "t3_1mzlno3",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "KaleidoscopeNo9726",
+      "author_id": "t2_lg370m4p",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-25T09:17:55.317000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1mzlno3/zabbix_is_unable_to_poll_some_cisco_ios_xe/",
+      "content_preview": "",
+      "flair": [
+        "Monitoring"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Dell S5212F-ON (and 5232) Receive DHCP address on mystery interface",
+      "permalink": "https://www.reddit.com/r/networking/comments/1mzjwsc/dell_s5212fon_and_5232_receive_dhcp_address_on/",
+      "score": 6,
+      "comments": 5,
+      "post_id": "t3_1mzjwsc",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "unJust-Newspapers",
+      "author_id": "t2_1815xp9d7l",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-25T07:22:36.284000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1mzjwsc/dell_s5212fon_and_5232_receive_dhcp_address_on/",
+      "content_preview": "",
+      "flair": [
+        "Switching"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Third-party optics",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n1e4r5/thirdparty_optics/",
+      "score": 19,
+      "comments": 70,
+      "post_id": "t3_1n1e4r5",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "steelstringslinger",
+      "author_id": "t2_8jhssb02",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-27T11:12:43.104000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n1e4r5/thirdparty_optics/",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3b8prk/styles/profileIcon_kph9hwlo2pce1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=12c9eaa42dab38517023a70d853d9ba6e61b95c1"
+    },
+    {
+      "title": "Need to Restrict Specific Mobile Payment Services on Corporate Wi-Fi",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n5jfpv/need_to_restrict_specific_mobile_payment_services/",
+      "score": 0,
+      "comments": 18,
+      "post_id": "t3_1n5jfpv",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "NeckFederal3462",
+      "author_id": "t2_qhlwb6iw1",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-09-01T08:42:16.207000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n5jfpv/need_to_restrict_specific_mobile_payment_services/",
+      "content_preview": "",
+      "flair": [
+        "Security"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Block users from SSL VPN using Cisco ZBFW",
+      "permalink": "https://www.reddit.com/r/networking/comments/1myx44v/block_users_from_ssl_vpn_using_cisco_zbfw/",
+      "score": 11,
+      "comments": 33,
+      "post_id": "t3_1myx44v",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "discreetness37520",
+      "author_id": "t2_kgasn4on",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-24T14:31:47.301000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1myx44v/block_users_from_ssl_vpn_using_cisco_zbfw/",
+      "content_preview": "",
+      "flair": [
+        "Security"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "IOS DHCPv6 PD Server Misconfiguration",
+      "permalink": "https://www.reddit.com/r/networking/comments/1mz5qsg/ios_dhcpv6_pd_server_misconfiguration/",
+      "score": 4,
+      "comments": 4,
+      "post_id": "t3_1mz5qsg",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "Harbored541",
+      "author_id": "t2_a9s30sno",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-24T19:58:12.618000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1mz5qsg/ios_dhcpv6_pd_server_misconfiguration/",
+      "content_preview": "",
+      "flair": [
+        "Troubleshooting"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Career advice needed",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n11292/career_advice_needed/",
+      "score": 18,
+      "comments": 19,
+      "post_id": "t3_1n11292",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "HsSekhon",
+      "author_id": "t2_rt3qevr1",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-26T23:15:36.841000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n11292/career_advice_needed/",
+      "content_preview": "",
+      "flair": [
+        "Career Advice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Renewing certs for client authentication (Windows NPAS)",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n5ge13/renewing_certs_for_client_authentication_windows/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1n5ge13",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "i_hate_apple47",
+      "author_id": "t2_9u1zudljf",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-09-01T05:32:46.856000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n5ge13/renewing_certs_for_client_authentication_windows/",
+      "content_preview": "",
+      "flair": [
+        "Wireless"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Puzzled about network automation",
+      "permalink": "https://www.reddit.com/r/networking/comments/1mi7ni2/puzzled_about_network_automation/",
+      "score": 55,
+      "comments": 33,
+      "post_id": "t3_1mi7ni2",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "Evening-Attention136",
+      "author_id": "t2_1a7hu5a1pp",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-05T12:20:28.329000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1mi7ni2/puzzled_about_network_automation/",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Ospf issue?",
+      "permalink": "https://www.reddit.com/r/networking/comments/1myj81q/ospf_issue/",
+      "score": 8,
+      "comments": 21,
+      "post_id": "t3_1myj81q",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "CaucasianHumus",
+      "author_id": "t2_gj6wgkr",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-24T01:47:13.207000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1myj81q/ospf_issue/",
+      "content_preview": "",
+      "flair": [
+        "Troubleshooting"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Why NOT to choose Fortinet?",
+      "permalink": "https://www.reddit.com/r/networking/comments/1mjzygp/why_not_to_choose_fortinet/",
+      "score": 55,
+      "comments": 133,
+      "post_id": "t3_1mjzygp",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "jul_on_ice",
+      "author_id": "t2_1tbfvz0i5z",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-07T13:21:51.082000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1mjzygp/why_not_to_choose_fortinet/",
+      "content_preview": "",
+      "flair": [
+        "Security"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Firepower - Still Awful?",
+      "permalink": "https://www.reddit.com/r/networking/comments/1mxqzpq/firepower_still_awful/",
+      "score": 50,
+      "comments": 111,
+      "post_id": "t3_1mxqzpq",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "jamesonnorth",
+      "author_id": "t2_bhw70",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-23T03:35:58.618000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1mxqzpq/firepower_still_awful/",
+      "content_preview": "",
+      "flair": [
+        "Security"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "MPLS L3VPN Capable IKEv2 Hub",
+      "permalink": "https://www.reddit.com/r/networking/comments/1myde26/mpls_l3vpn_capable_ikev2_hub/",
+      "score": 2,
+      "comments": 4,
+      "post_id": "t3_1myde26",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "andschdotnet",
+      "author_id": "t2_2medwjck",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-23T21:20:12.211000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1myde26/mpls_l3vpn_capable_ikev2_hub/",
+      "content_preview": "",
+      "flair": [
+        "Routing"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "RFC 2544 vs. MPLS Circuits instead DWDM Circuits.",
+      "permalink": "https://www.reddit.com/r/networking/comments/1mvx31u/rfc_2544_vs_mpls_circuits_instead_dwdm_circuits/",
+      "score": 49,
+      "comments": 11,
+      "post_id": "t3_1mvx31u",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "leogh0ul",
+      "author_id": "t2_40upvq",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-21T01:06:22.242000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1mvx31u/rfc_2544_vs_mpls_circuits_instead_dwdm_circuits/",
+      "content_preview": "",
+      "flair": [
+        "Switching"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Guest Networks",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n1w5wt/guest_networks/",
+      "score": 17,
+      "comments": 47,
+      "post_id": "t3_1n1w5wt",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "error-box",
+      "author_id": "t2_agf6yx6b0",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-27T23:07:33.894000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n1w5wt/guest_networks/",
+      "content_preview": "",
+      "flair": [
+        "Design"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Cisco Wireless Controller Migration",
+      "permalink": "https://www.reddit.com/r/networking/comments/1my7aaq/cisco_wireless_controller_migration/",
+      "score": 4,
+      "comments": 6,
+      "post_id": "t3_1my7aaq",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "SteveAngelis",
+      "author_id": "t2_wdu4y",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-23T17:19:49.861000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1my7aaq/cisco_wireless_controller_migration/",
+      "content_preview": "",
+      "flair": [
+        "Wireless"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "vManage - Configured DNS servers removed in controller mode",
+      "permalink": "https://www.reddit.com/r/networking/comments/1n2p1rd/vmanage_configured_dns_servers_removed_in/",
+      "score": 14,
+      "comments": 1,
+      "post_id": "t3_1n2p1rd",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "ftomiadurva",
+      "author_id": "t2_24a9s5ku",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-28T21:36:15.839000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1n2p1rd/vmanage_configured_dns_servers_removed_in/",
+      "content_preview": "",
+      "flair": [
+        "Troubleshooting"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Can you recommend any tools to simulate high latency networks. I am looking for something similar to air plane WiFi",
+      "permalink": "https://www.reddit.com/r/networking/comments/1mog7k3/can_you_recommend_any_tools_to_simulate_high/",
+      "score": 39,
+      "comments": 23,
+      "post_id": "t3_1mog7k3",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "curious_kramer",
+      "author_id": "t2_369n6wze",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-12T18:08:56.887000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1mog7k3/can_you_recommend_any_tools_to_simulate_high/",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "IPv6",
+      "permalink": "https://www.reddit.com/r/networking/comments/1mvf116/ipv6/",
+      "score": 38,
+      "comments": 29,
+      "post_id": "t3_1mvf116",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "Emotional-Marsupial6",
+      "author_id": "t2_7hqhgf9t",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-20T13:37:05.980000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1mvf116/ipv6/",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Going coherent, what to do with our 10G services",
+      "permalink": "https://www.reddit.com/r/networking/comments/1muih8o/going_coherent_what_to_do_with_our_10g_services/",
+      "score": 33,
+      "comments": 32,
+      "post_id": "t3_1muih8o",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "thecannarella",
+      "author_id": "t2_nq6o5",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-19T13:29:34.878000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1muih8o/going_coherent_what_to_do_with_our_10g_services/",
+      "content_preview": "",
+      "flair": [
+        "Design"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "MPO cabling polarity types",
+      "permalink": "https://www.reddit.com/r/networking/comments/1mxohxo/mpo_cabling_polarity_types/",
+      "score": 3,
+      "comments": 10,
+      "post_id": "t3_1mxohxo",
+      "post_type": "text",
+      "domain": "self.networking",
+      "author": "shawnw1979",
+      "author_id": "t2_6qbvte4e",
+      "subreddit_id": "t5_2qkaf",
+      "subreddit": "r/networking",
+      "created_ts": "2025-08-23T01:29:04.746000+0000",
+      "content_href": "https://www.reddit.com/r/networking/comments/1mxohxo/mpo_cabling_polarity_types/",
+      "content_preview": "",
+      "flair": [
+        "Design"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    }
+  ],
+  "scraped_at": "2025-09-02T04:49:36.198100"
+}

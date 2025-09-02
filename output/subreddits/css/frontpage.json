@@ -1,0 +1,1010 @@
+{
+  "subreddit": "css",
+  "url": "https://www.reddit.com/r/css",
+  "meta": {
+    "title": "Cascading Style Sheets"
+  },
+  "posts": [
+    {
+      "title": "How much time will you take for styling after you have html skeleton code",
+      "permalink": "https://www.reddit.com/r/css/comments/1n6mllo/how_much_time_will_you_take_for_styling_after_you/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1n6mllo",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "Snehith220",
+      "author_id": "t2_9ucwni4v5",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-09-02T15:28:25.107000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1n6mllo/how_much_time_will_you_take_for_styling_after_you/",
+      "content_preview": "",
+      "flair": [
+        "General"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "You no longer need JavaScript: an overview of what makes modern CSS so awesome",
+      "permalink": "https://www.reddit.com/r/css/comments/1n2ock3/you_no_longer_need_javascript_an_overview_of_what/",
+      "score": 245,
+      "comments": 87,
+      "post_id": "t3_1n2ock3",
+      "post_type": "link",
+      "domain": "lyra.horse",
+      "author": "rebane2001",
+      "author_id": "t2_ba5lz",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-28T21:08:37.103000+0000",
+      "content_href": "https://lyra.horse/blog/2025/08/you-dont-need-js/",
+      "content_preview": "",
+      "flair": [
+        "Article"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3kkp1/styles/profileIcon_gSkGx-CAc7_zc.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e5088010eaba3af566bb285ca0627ea29db62dfc"
+    },
+    {
+      "title": "Advice for backend devs transitioning to frontend",
+      "permalink": "https://www.reddit.com/r/css/comments/1n6lewa/advice_for_backend_devs_transitioning_to_frontend/",
+      "score": 2,
+      "comments": 6,
+      "post_id": "t3_1n6lewa",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "sachinmukherjee",
+      "author_id": "t2_12d97h",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-09-02T14:44:02.999000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1n6lewa/advice_for_backend_devs_transitioning_to_frontend/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I've really slept on how much CSS Grid changes the layout game.",
+      "permalink": "https://www.reddit.com/r/css/comments/1mz3jl3/ive_really_slept_on_how_much_css_grid_changes_the/",
+      "score": 427,
+      "comments": 56,
+      "post_id": "t3_1mz3jl3",
+      "post_type": "multi_media",
+      "domain": "self.css",
+      "author": "creaturefeature16",
+      "author_id": "t2_7p5ef",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-24T18:34:19.793000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1mz3jl3/ive_really_slept_on_how_much_css_grid_changes_the/",
+      "content_preview": "",
+      "flair": [
+        "General"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "animation-range - The value doesn't behave how I expected... why?",
+      "permalink": "https://www.reddit.com/r/css/comments/1n6dwst/animationrange_the_value_doesnt_behave_how_i/",
+      "score": 3,
+      "comments": 2,
+      "post_id": "t3_1n6dwst",
+      "post_type": "multi_media",
+      "domain": "self.css",
+      "author": "Nice_Pen_8054",
+      "author_id": "t2_1889ghxc25",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-09-02T08:23:23.790000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1n6dwst/animationrange_the_value_doesnt_behave_how_i/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Firefox is getting support for CSS View Transitions",
+      "permalink": "https://www.reddit.com/r/css/comments/1n41pme/firefox_is_getting_support_for_css_view/",
+      "score": 149,
+      "comments": 22,
+      "post_id": "t3_1n41pme",
+      "post_type": "link",
+      "domain": "groups.google.com",
+      "author": "mcaruso",
+      "author_id": "t2_34c5m",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-30T13:31:09.279000+0000",
+      "content_href": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/JuDlPRWOFWY/m/5OjxV2Y-DgAJ",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Confused about CSS variables",
+      "permalink": "https://www.reddit.com/r/css/comments/1n5nds5/confused_about_css_variables/",
+      "score": 8,
+      "comments": 19,
+      "post_id": "t3_1n5nds5",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "Best-Marionberry-191",
+      "author_id": "t2_171zu9qaff",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-09-01T12:29:38.627000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1n5nds5/confused_about_css_variables/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_cej5nm/styles/profileIcon_z857rmocb69e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d8d4b2fe71a4d7f60425496164ff627cf51decd5"
+    },
+    {
+      "title": "CSS not updating regardless of several attempts and methods",
+      "permalink": "https://www.reddit.com/r/css/comments/1n6jz73/css_not_updating_regardless_of_several_attempts/",
+      "score": 0,
+      "comments": 21,
+      "post_id": "t3_1n6jz73",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "faris_Playz",
+      "author_id": "t2_3be8i2h9",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-09-02T13:48:32.147000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1n6jz73/css_not_updating_regardless_of_several_attempts/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Finally happy with this layout!",
+      "permalink": "https://www.reddit.com/r/css/comments/1mi04w7/finally_happy_with_this_layout/",
+      "score": 157,
+      "comments": 41,
+      "post_id": "t3_1mi04w7",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "frankentoy",
+      "author_id": "t2_1unluxhfcn",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-05T04:54:05.846000+0000",
+      "content_href": "https://i.redd.it/jbmab5lbt4hf1.png",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Which is better practice: to make body or html scrollable?",
+      "permalink": "https://www.reddit.com/r/css/comments/1n5g6wk/which_is_better_practice_to_make_body_or_html/",
+      "score": 5,
+      "comments": 7,
+      "post_id": "t3_1n5g6wk",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "Nice_Pen_8054",
+      "author_id": "t2_1889ghxc25",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-09-01T05:21:23.809000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1n5g6wk/which_is_better_practice_to_make_body_or_html/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Creating progressive blur on cards",
+      "permalink": "https://www.reddit.com/r/css/comments/1n1jxlm/creating_progressive_blur_on_cards/",
+      "score": 29,
+      "comments": 16,
+      "post_id": "t3_1n1jxlm",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "19babayaga97",
+      "author_id": "t2_ql4w70cx",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-27T15:19:26.591000+0000",
+      "content_href": "https://i.redd.it/uyl3zrxgwklf1.png",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://preview.redd.it/creating-progressive-blur-on-cards-v0-uyl3zrxgwklf1.png?width=640&crop=smart&auto=webp&s=fefc56ec396fbeb50fbc3963ba1d02f12a481d4a"
+    },
+    {
+      "title": "How can I create this type of Gallery?",
+      "permalink": "https://www.reddit.com/r/css/comments/1n4m196/how_can_i_create_this_type_of_gallery/",
+      "score": 4,
+      "comments": 13,
+      "post_id": "t3_1n4m196",
+      "post_type": "multi_media",
+      "domain": "self.css",
+      "author": "CoshgunC",
+      "author_id": "t2_1m91gmbfpc",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-31T04:56:31.753000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1n4m196/how_can_i_create_this_type_of_gallery/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "background-repeat with Oreos",
+      "permalink": "https://www.reddit.com/r/css/comments/1n43gtx/backgroundrepeat_with_oreos/",
+      "score": 26,
+      "comments": 3,
+      "post_id": "t3_1n43gtx",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "alvaromontoro",
+      "author_id": "t2_31gbedxa",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-30T14:47:17.575000+0000",
+      "content_href": "https://v.redd.it/9yc3uop066mf1",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/background-repeat-with-oreos-v0-Mzh6Y3RwcDA2Nm1mMVSxxCoRJQhA7qL4UFpMPjvJ1MSTR1d9QLujQireRJet.png?width=640&crop=smart&format=pjpg&auto=webp&s=0c85d9c821562d166c2f3611991f1ad83fff403d"
+    },
+    {
+      "title": "Using icon library instead of emojis",
+      "permalink": "https://www.reddit.com/r/css/comments/1n2girw/using_icon_library_instead_of_emojis/",
+      "score": 0,
+      "comments": 7,
+      "post_id": "t3_1n2girw",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "comptune",
+      "author_id": "t2_b4teaoe8x",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-28T16:11:16.966000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1n2girw/using_icon_library_instead_of_emojis/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "CSS RTS engine",
+      "permalink": "https://www.reddit.com/r/css/comments/1mwj9gu/css_rts_engine/",
+      "score": 84,
+      "comments": 19,
+      "post_id": "t3_1mwj9gu",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Haasva",
+      "author_id": "t2_e33ep",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-21T18:34:50.645000+0000",
+      "content_href": "https://v.redd.it/nre8gb7a2fkf1",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1suah2/styles/profileIcon_b4r4fj4wiw281.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3ea16ea04619c9844efc5ab2ec5df537769278c9"
+    },
+    {
+      "title": "`width:100%` is always based on parent's content area, exclude border, padding, gap",
+      "permalink": "https://www.reddit.com/r/css/comments/1n68vvg/width100_is_always_based_on_parents_content_area/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1n68vvg",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "Used-Building5088",
+      "author_id": "t2_fpifwh7hm",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-09-02T03:19:37.907000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1n68vvg/width100_is_always_based_on_parents_content_area/",
+      "content_preview": "",
+      "flair": [
+        "General"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Any advice how to become proficient in CSS?",
+      "permalink": "https://www.reddit.com/r/css/comments/1n3xcxq/any_advice_how_to_become_proficient_in_css/",
+      "score": 19,
+      "comments": 32,
+      "post_id": "t3_1n3xcxq",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "Jolly_Resolution_222",
+      "author_id": "t2_ammi4ohn",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-30T09:30:43.055000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1n3xcxq/any_advice_how_to_become_proficient_in_css/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "How can i get rid of this space, which coming below the SEND .",
+      "permalink": "https://www.reddit.com/r/css/comments/1myxud7/how_can_i_get_rid_of_this_space_which_coming/",
+      "score": 4,
+      "comments": 28,
+      "post_id": "t3_1myxud7",
+      "post_type": "multi_media",
+      "domain": "self.css",
+      "author": "Low_Evidence2083",
+      "author_id": "t2_1lmpstpb0x",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-24T15:00:26.976000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1myxud7/how_can_i_get_rid_of_this_space_which_coming/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "CSS Text Box Input",
+      "permalink": "https://www.reddit.com/r/css/comments/1myuh01/css_text_box_input/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1myuh01",
+      "post_type": "multi_media",
+      "domain": "self.css",
+      "author": "luciferspa",
+      "author_id": "t2_3v411mfe",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-24T12:37:53.348000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1myuh01/css_text_box_input/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "how to control the auto included translation animation ? (isotope animation)",
+      "permalink": "https://www.reddit.com/r/css/comments/1my127r/how_to_control_the_auto_included_translation/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1my127r",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "BeneficialTell8678",
+      "author_id": "t2_26a7r62e",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-23T13:10:13.328000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1my127r/how_to_control_the_auto_included_translation/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Banners stay or move with screen while scrolling issue. Thank you!",
+      "permalink": "https://www.reddit.com/r/css/comments/1mvq1da/banners_stay_or_move_with_screen_while_scrolling/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1mvq1da",
+      "post_type": "multi_media",
+      "domain": "self.css",
+      "author": "OgresRLikeOnions69",
+      "author_id": "t2_4bnss9np",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-20T20:17:24.091000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1mvq1da/banners_stay_or_move_with_screen_while_scrolling/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Windows 98 Web app",
+      "permalink": "https://www.reddit.com/r/css/comments/1n1d5e7/windows_98_web_app/",
+      "score": 13,
+      "comments": 3,
+      "post_id": "t3_1n1d5e7",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "felipe0liveira",
+      "author_id": "t2_k9uo10fz",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-27T10:17:50.382000+0000",
+      "content_href": "/r/Indiewebdev/comments/1n1d4qs/windows_98_web_app/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://preview.redd.it/windows-98-web-app-v0-v0i7yi7bfjlf1.jpg?width=640&crop=smart&auto=webp&s=7c5ae0cafbfc4ce749c9773bc11e0ffadba951ac"
+    },
+    {
+      "title": "What is your best CSS hack?",
+      "permalink": "https://www.reddit.com/r/css/comments/1mf3i7p/what_is_your_best_css_hack/",
+      "score": 71,
+      "comments": 76,
+      "post_id": "t3_1mf3i7p",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "Solid_Read9024",
+      "author_id": "t2_19ca8eedyi",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-01T17:59:44.601000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1mf3i7p/what_is_your_best_css_hack/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Is my web app’s design intuitive? Looking for CSS/UI feedback",
+      "permalink": "https://www.reddit.com/r/css/comments/1mvah81/is_my_web_apps_design_intuitive_looking_for_cssui/",
+      "score": 2,
+      "comments": 16,
+      "post_id": "t3_1mvah81",
+      "post_type": "link",
+      "domain": "strawberryfresh.com",
+      "author": "comptune",
+      "author_id": "t2_b4teaoe8x",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-20T09:56:09.624000+0000",
+      "content_href": "http://www.strawberryfresh.com",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What are some CSS noob traps?",
+      "permalink": "https://www.reddit.com/r/css/comments/1mhm13y/what_are_some_css_noob_traps/",
+      "score": 45,
+      "comments": 66,
+      "post_id": "t3_1mhm13y",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "VetoVisit",
+      "author_id": "t2_1uzjta2k7u",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-04T18:46:56.329000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1mhm13y/what_are_some_css_noob_traps/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Have picture scale down when hitting any edge rather than overflowing out of the viewport and creating a scrollbar",
+      "permalink": "https://www.reddit.com/r/css/comments/1msqgpv/have_picture_scale_down_when_hitting_any_edge/",
+      "score": 0,
+      "comments": 6,
+      "post_id": "t3_1msqgpv",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "fnxir",
+      "author_id": "t2_rusjonce",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-17T13:07:32.346000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1msqgpv/have_picture_scale_down_when_hitting_any_edge/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What is the best way to add a line like this in css?",
+      "permalink": "https://www.reddit.com/r/css/comments/1mgoblt/what_is_the_best_way_to_add_a_line_like_this_in/",
+      "score": 44,
+      "comments": 31,
+      "post_id": "t3_1mgoblt",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "No-Assistant9722",
+      "author_id": "t2_s3sddwip",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-03T16:59:24.108000+0000",
+      "content_href": "https://i.redd.it/4osrnyy75ugf1.png",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://preview.redd.it/what-is-the-best-way-to-add-a-line-like-this-in-css-v0-4osrnyy75ugf1.png?width=640&crop=smart&auto=webp&s=497b955f0a0e8fa83e595816201b3cd192c2b246"
+    },
+    {
+      "title": "Make iFrame responsive",
+      "permalink": "https://www.reddit.com/r/css/comments/1mn9ms2/make_iframe_responsive/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1mn9ms2",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "Leosentris",
+      "author_id": "t2_1vdl5stm1h",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-11T10:46:19.502000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1mn9ms2/make_iframe_responsive/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Made some minimal header design templates",
+      "permalink": "https://www.reddit.com/r/css/comments/1n3801k/made_some_minimal_header_design_templates/",
+      "score": 13,
+      "comments": 2,
+      "post_id": "t3_1n3801k",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Speedware01",
+      "author_id": "t2_lq75opp",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-29T13:50:58.622000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n3801k",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://preview.redd.it/made-some-minimal-header-design-templates-v0-4sa91d4xlylf1.png?width=640&crop=smart&auto=webp&s=a4d8faeb8adaceb315ed1abb3c907d10c2b5cbcb"
+    },
+    {
+      "title": "Css",
+      "permalink": "https://www.reddit.com/r/css/comments/1mmnz6p/css/",
+      "score": 0,
+      "comments": 7,
+      "post_id": "t3_1mmnz6p",
+      "post_type": "multi_media",
+      "domain": "self.css",
+      "author": "Practical_Net_3267",
+      "author_id": "t2_wlejw3cww",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-10T17:07:36.486000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1mmnz6p/css/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_b2l4xr/styles/profileIcon_urqptwrasbud1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f590e17e8fbdd46e3c716b9ef2caeef61b0f87a4"
+    },
+    {
+      "title": "News Paper style text wrap?",
+      "permalink": "https://www.reddit.com/r/css/comments/1n62som/news_paper_style_text_wrap/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1n62som",
+      "post_type": "multi_media",
+      "domain": "self.css",
+      "author": "Gosintary",
+      "author_id": "t2_1vebzl0usq",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-09-01T22:30:22.391000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1n62som/news_paper_style_text_wrap/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f55h91/styles/profileIcon_6372degkh2kf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=31c0af416ae8fcb0f9f4cff0f1ede527fd045a40"
+    },
+    {
+      "title": "How are you implementing dark and light mode with themes in modern CSS?",
+      "permalink": "https://www.reddit.com/r/css/comments/1n3y64a/how_are_you_implementing_dark_and_light_mode_with/",
+      "score": 9,
+      "comments": 3,
+      "post_id": "t3_1n3y64a",
+      "post_type": "multi_media",
+      "domain": "self.css",
+      "author": "mistyharsh",
+      "author_id": "t2_f7zbqgv",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-30T10:23:52.260000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1n3y64a/how_are_you_implementing_dark_and_light_mode_with/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Center first element and bottom second element vertically within div?",
+      "permalink": "https://www.reddit.com/r/css/comments/1n5k7ml/center_first_element_and_bottom_second_element/",
+      "score": 0,
+      "comments": 9,
+      "post_id": "t3_1n5k7ml",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "dg_eye",
+      "author_id": "t2_a643gjh0",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-09-01T09:32:00.729000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1n5k7ml/center_first_element_and_bottom_second_element/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "How do I make this blur effect?",
+      "permalink": "https://www.reddit.com/r/css/comments/1mlgg9z/how_do_i_make_this_blur_effect/",
+      "score": 0,
+      "comments": 12,
+      "post_id": "t3_1mlgg9z",
+      "post_type": "multi_media",
+      "domain": "self.css",
+      "author": "Mysterious-Shop6566",
+      "author_id": "t2_d6ok8ce0",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-09T04:24:38.119000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1mlgg9z/how_do_i_make_this_blur_effect/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Hi everyone, I’m an aspiring full-stack developer and have just started learning HTML and CSS on my own. I’ve built a few demo sites, but I’m not yet sure how to apply my knowledge like a professional. I’d be grateful if you could take a look and share any personal advice or recommendations.",
+      "permalink": "https://www.reddit.com/r/css/comments/1n1fphe/hi_everyone_im_an_aspiring_fullstack_developer/",
+      "score": 8,
+      "comments": 25,
+      "post_id": "t3_1n1fphe",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "Adam-6309129313",
+      "author_id": "t2_182u8sg9i8",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-27T12:30:43.141000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1n1fphe/hi_everyone_im_an_aspiring_fullstack_developer/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How would you approach creating this layout?",
+      "permalink": "https://www.reddit.com/r/css/comments/1mgvkr8/how_would_you_approach_creating_this_layout/",
+      "score": 42,
+      "comments": 48,
+      "post_id": "t3_1mgvkr8",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "playlint",
+      "author_id": "t2_oj9ffiaz",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-03T21:46:46.453000+0000",
+      "content_href": "https://i.redd.it/j99c81chkvgf1.png",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "VS Code - extension to sort the properties",
+      "permalink": "https://www.reddit.com/r/css/comments/1n4ua85/vs_code_extension_to_sort_the_properties/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1n4ua85",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "Nice_Pen_8054",
+      "author_id": "t2_1889ghxc25",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-31T13:08:59.829000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1n4ua85/vs_code_extension_to_sort_the_properties/",
+      "content_preview": "",
+      "flair": [
+        "General"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "The current sky at your approximate location, as a css gradient",
+      "permalink": "https://www.reddit.com/r/css/comments/1mlv7ho/the_current_sky_at_your_approximate_location_as_a/",
+      "score": 39,
+      "comments": 5,
+      "post_id": "t3_1mlv7ho",
+      "post_type": "link",
+      "domain": "sky.dlazaro.ca",
+      "author": "whisky_jak",
+      "author_id": "t2_o7tjy35r",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-09T17:33:35.193000+0000",
+      "content_href": "https://sky.dlazaro.ca/",
+      "content_preview": "",
+      "flair": [
+        "General"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Custom Background in ChatGPT",
+      "permalink": "https://www.reddit.com/r/css/comments/1mlahp8/custom_background_in_chatgpt/",
+      "score": 0,
+      "comments": 13,
+      "post_id": "t3_1mlahp8",
+      "post_type": "multi_media",
+      "domain": "self.css",
+      "author": "Own_Advance_7753",
+      "author_id": "t2_a191btld",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-08T23:31:50.537000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1mlahp8/custom_background_in_chatgpt/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "I created a CSS-based React Counter(Odometer) package",
+      "permalink": "https://www.reddit.com/r/css/comments/1n4b6lk/i_created_a_cssbased_react_counterodometer_package/",
+      "score": 5,
+      "comments": 0,
+      "post_id": "t3_1n4b6lk",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "stripearmy",
+      "author_id": "t2_8b5wp75t",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-30T20:05:25.111000+0000",
+      "content_href": "https://v.redd.it/226mmhhqp7mf1",
+      "content_preview": "",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Are there any places I can see what a bunch of cool CSS looks are like?",
+      "permalink": "https://www.reddit.com/r/css/comments/1mnci42/are_there_any_places_i_can_see_what_a_bunch_of/",
+      "score": 36,
+      "comments": 20,
+      "post_id": "t3_1mnci42",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "DroppingDeparture",
+      "author_id": "t2_1uzg5uqrcz",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-11T13:07:55.483000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1mnci42/are_there_any_places_i_can_see_what_a_bunch_of/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Google fonts not working & I don’t know why",
+      "permalink": "https://www.reddit.com/r/css/comments/1mkm2m8/google_fonts_not_working_i_dont_know_why/",
+      "score": 0,
+      "comments": 9,
+      "post_id": "t3_1mkm2m8",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "tofuscrambledbrain",
+      "author_id": "t2_19ylug1v7v",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-08T04:46:21.873000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1mkm2m8/google_fonts_not_working_i_dont_know_why/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Knowing CSS like a pro is the a better flex than average CSS + JS?",
+      "permalink": "https://www.reddit.com/r/css/comments/1myyxl4/knowing_css_like_a_pro_is_the_a_better_flex_than/",
+      "score": 34,
+      "comments": 33,
+      "post_id": "t3_1myyxl4",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "Nice_Pen_8054",
+      "author_id": "t2_1889ghxc25",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-24T15:41:48.777000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1myyxl4/knowing_css_like_a_pro_is_the_a_better_flex_than/",
+      "content_preview": "",
+      "flair": [
+        "General"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Buttons disappearing on bottom of Chrome PWA (Viewport issue?)",
+      "permalink": "https://www.reddit.com/r/css/comments/1n4rs1g/buttons_disappearing_on_bottom_of_chrome_pwa/",
+      "score": 0,
+      "comments": 11,
+      "post_id": "t3_1n4rs1g",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "Express_Signature_54",
+      "author_id": "t2_avdz81jb",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-31T10:58:47.701000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1n4rs1g/buttons_disappearing_on_bottom_of_chrome_pwa/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Is there a css syntaxis that you have already used many times, but has to look up every time?",
+      "permalink": "https://www.reddit.com/r/css/comments/1mkus2u/is_there_a_css_syntaxis_that_you_have_already/",
+      "score": 32,
+      "comments": 65,
+      "post_id": "t3_1mkus2u",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "Baturinsky",
+      "author_id": "t2_8671r",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-08T13:09:35.867000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1mkus2u/is_there_a_css_syntaxis_that_you_have_already/",
+      "content_preview": "",
+      "flair": [
+        "General"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How do you decide when to use CSS Grid vs. Flexbox for a layout?",
+      "permalink": "https://www.reddit.com/r/css/comments/1mmrr9x/how_do_you_decide_when_to_use_css_grid_vs_flexbox/",
+      "score": 32,
+      "comments": 35,
+      "post_id": "t3_1mmrr9x",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "pageuni",
+      "author_id": "t2_1uiizezq4b",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-10T19:32:33.678000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1mmrr9x/how_do_you_decide_when_to_use_css_grid_vs_flexbox/",
+      "content_preview": "",
+      "flair": [
+        "General"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f1jlpz/styles/profileIcon_wfr85ytiysff1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6ed13c6245aada3c4b90e3193fa13f65d57089a2"
+    },
+    {
+      "title": "issues with page height on IOS Safari",
+      "permalink": "https://www.reddit.com/r/css/comments/1n4f9hd/issues_with_page_height_on_ios_safari/",
+      "score": 1,
+      "comments": 3,
+      "post_id": "t3_1n4f9hd",
+      "post_type": "multi_media",
+      "domain": "self.css",
+      "author": "sjm5953",
+      "author_id": "t2_45s0n9q",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-30T23:05:58.460000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1n4f9hd/issues_with_page_height_on_ios_safari/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Custom css",
+      "permalink": "https://www.reddit.com/r/css/comments/1mk2n3l/custom_css/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1mk2n3l",
+      "post_type": "text",
+      "domain": "self.css",
+      "author": "mcgreidi",
+      "author_id": "t2_13lcds9",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-07T15:09:09.969000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1mk2n3l/custom_css/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Nice OKLCH Color Picker",
+      "permalink": "https://www.reddit.com/r/css/comments/1mf70ln/nice_oklch_color_picker/",
+      "score": 30,
+      "comments": 5,
+      "post_id": "t3_1mf70ln",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Remarkable_Words_439",
+      "author_id": "t2_iumendx1",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-01T20:15:31.440000+0000",
+      "content_href": "https://i.redd.it/87zmhageuggf1.png",
+      "content_preview": "",
+      "flair": [
+        "General"
+      ],
+      "thumbnail_url": "https://preview.redd.it/nice-oklch-color-picker-v0-87zmhageuggf1.png?width=640&crop=smart&auto=webp&s=9a7e89300cf0fc65d3d1b1c4113e6c742d919943"
+    },
+    {
+      "title": "Bro, what I am doing wrong",
+      "permalink": "https://www.reddit.com/r/css/comments/1n48k42/bro_what_i_am_doing_wrong/",
+      "score": 0,
+      "comments": 7,
+      "post_id": "t3_1n48k42",
+      "post_type": "multi_media",
+      "domain": "self.css",
+      "author": "miragew_megari",
+      "author_id": "t2_p3ndpgrz",
+      "subreddit_id": "t5_2qifv",
+      "subreddit": "r/css",
+      "created_ts": "2025-08-30T18:16:42.980000+0000",
+      "content_href": "https://www.reddit.com/r/css/comments/1n48k42/bro_what_i_am_doing_wrong/",
+      "content_preview": "",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6kyvd6/styles/profileIcon_k45p4mfh2brc1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=17bbe3b65b592bcbdb980e831b863dd2c5a71430"
+    }
+  ],
+  "scraped_at": "2025-09-02T10:03:08.311475"
+}
