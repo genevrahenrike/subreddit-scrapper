@@ -1,0 +1,1010 @@
+{
+  "subreddit": "cursor",
+  "url": "https://www.reddit.com/r/cursor",
+  "meta": {
+    "title": "Cursor"
+  },
+  "posts": [
+    {
+      "title": "Petition: Stop re-enabling Memories with every single update",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n6nxyz/petition_stop_reenabling_memories_with_every/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1n6nxyz",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "crowdl",
+      "author_id": "t2_3j8olugz",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T16:18:56.172000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n6nxyz/petition_stop_reenabling_memories_with_every/",
+      "content_preview": "As the title says, each time Cursor is updated, the Memories feature is automatically re-enabled. I don't use Memories as I don't want Cursor to remember temporary preferences or project-scoped design choices globally and permanently. This bug happens on Mac, not sure on other platforms.",
+      "flair": [
+        "Bug Report"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "lf cursor alternative need suggestions!",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n6nxq5/lf_cursor_alternative_need_suggestions/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n6nxq5",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "cedricvdh",
+      "author_id": "t2_ql3ub",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T16:18:41.709000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n6nxq5/lf_cursor_alternative_need_suggestions/",
+      "content_preview": "so i have the pro plan but cursor is so slow on any time given i really cant hold it anymore anyone got better alternative?",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Cursor keeps crashing when running Claude Code, anyone?",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n6nhq0/cursor_keeps_crashing_when_running_claude_code/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n6nhq0",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "Professional_Cap7519",
+      "author_id": "t2_7cfvscfp",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T16:02:22.165000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n6nhq0/cursor_keeps_crashing_when_running_claude_code/",
+      "content_preview": "When running Claude Code on my cursor terminal, cursor keeps crashing every now and then (2-3 times per day). Completely suts down and restarts, killing all terminals and progress. Anyone experiencing the same?",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "anti-patterns and patterns for achieving secure generation of code via AI",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n6nhop/antipatterns_and_patterns_for_achieving_secure/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n6nhop",
+      "post_type": "link",
+      "domain": "ghuntley.com",
+      "author": "geoffreyhuntley",
+      "author_id": "t2_6gymg5w",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T16:02:19.877000+0000",
+      "content_href": "https://ghuntley.com/secure-codegen/",
+      "content_preview": "",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/p0ckp9brhhXyOBiIAJWT-yGEoRHtC8YM_FNcgN68uwg.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=fdce394718361a637d816eb3c3fbbf5ed708f466"
+    },
+    {
+      "title": "Ever used the Bugbot?",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n6m56e/ever_used_the_bugbot/",
+      "score": 8,
+      "comments": 1,
+      "post_id": "t3_1n6m56e",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "ManuelCaserta",
+      "author_id": "t2_16zl0s6vd8",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T15:11:25.121000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n6m56e/ever_used_the_bugbot/",
+      "content_preview": "I activated the Bugbot today, and I will probably see it in action at the next PR. Do you recommend it? I only have the fear that It might broke something somehow.",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Auto-backup solution for long Cursor sessions (checkpoint alternative)",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n6lxpt/autobackup_solution_for_long_cursor_sessions/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1n6lxpt",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "Apart-Employment-592",
+      "author_id": "t2_asxjg3hor",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T15:03:35.589000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n6lxpt/autobackup_solution_for_long_cursor_sessions/",
+      "content_preview": "Hey everyone, Been using Cursor for a while now, alongside Claude Code. The checkpoint feature is invaluable, but it gets wild with dozens of changes over multi-hour sessions. I recently built something to handle this: - Auto-commits every 15 seconds to a hidden .shadowgit/ folder - GUI showing complete history with file diffs - Completely separate from main git repo (no history pollution) - One-click restore to any point from the last few hours Unexpected bonus: Connected this to Cursor via MCP. Now when debugging, Cursor can run `git diff HEAD~5` to see what just changed, or `git log -S \"function\"` to find working implementations. It actually fixes bugs faster when it can see recent history. The setup is just a file watcher + git commits. Nothing fancy, but it's saved me from several Cursor-induced disasters. Questions for the community: How do you handle long development sessions without committing dozens of times? Is anyone else doing automatic backups beyond checkpoints? Would you want Cursor to have more granular history built-in? Happy to share technical details if anyone's interested. Thank you! Alessandro",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Cursor is celebrating a successful Type check like it's something personal 😭",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n6lhwz/cursor_is_celebrating_a_successful_type_check/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n6lhwz",
+      "post_type": "multi_media",
+      "domain": "self.cursor",
+      "author": "SlippinJimmyy-",
+      "author_id": "t2_yxqoxh6io",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T14:47:08.506000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n6lhwz/cursor_is_celebrating_a_successful_type_check/",
+      "content_preview": "https://preview.redd.it/d4jqrqleormf1.jpg I asked cursor to make a Type safety check, made some changes then celebrated for 5 minutes straight, when I stopped it it said: \"You're absolutely right! �� I got carried away with the celebration emojis. Let me get back to business!\" 🤖",
+      "flair": [
+        "Random / Misc"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bdebpx/styles/profileIcon_0lonuti4lbke1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=95981e6d1fe7f3e6b7d7976bec82775b2e8820d9"
+    },
+    {
+      "title": "Anyone whaler than me?",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n6k6pd/anyone_whaler_than_me/",
+      "score": 0,
+      "comments": 10,
+      "post_id": "t3_1n6k6pd",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ManuelCaserta",
+      "author_id": "t2_16zl0s6vd8",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T13:56:38.149000+0000",
+      "content_href": "https://i.redd.it/dhdnuxrzbrmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/anyone-whaler-than-me-v0-dhdnuxrzbrmf1.jpeg?width=640&crop=smart&auto=webp&s=1d689348c55baea61d99338ba27c1cb02302ee7e"
+    },
+    {
+      "title": "Can anyone explain what does this progress in the bottom right mean? the more I chat the more the % goes up. pro user here, is it an indiciation of limit or usage of my pro plan, or this chat limit? I am using auto only to prevent unnecessary wastage.",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n6jupm/can_anyone_explain_what_does_this_progress_in_the/",
+      "score": 1,
+      "comments": 19,
+      "post_id": "t3_1n6jupm",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Oicuntmate1",
+      "author_id": "t2_j1ty76qi",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T13:43:35.200000+0000",
+      "content_href": "https://i.redd.it/9ye5wp3f9rmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6obdce/styles/profileIcon_wmjw90odgigc1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=62b09ca41f6ef8375ade56b3abe7dba9d5ad83a1"
+    },
+    {
+      "title": "I’m now 100% confident in myself now",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n6gugh/im_now_100_confident_in_myself_now/",
+      "score": 31,
+      "comments": 9,
+      "post_id": "t3_1n6gugh",
+      "post_type": "multi_media",
+      "domain": "self.cursor",
+      "author": "lyapustin",
+      "author_id": "t2_17em9g",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T11:23:55.197000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n6gugh/im_now_100_confident_in_myself_now/",
+      "content_preview": "Thanks to Cursor and Claude Sonet, I’m now 100% confident in myself! The funniest part is that Claude Sonnet keeps replying “You’re absolutely right” no matter what I ask :)",
+      "flair": [
+        "Random / Misc"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "How can I buy more Cursor Premium requests. ( Old pricing)",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n6glhm/how_can_i_buy_more_cursor_premium_requests_old/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n6glhm",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "kassandrrra",
+      "author_id": "t2_sa2yapns",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T11:10:16.125000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n6glhm/how_can_i_buy_more_cursor_premium_requests_old/",
+      "content_preview": "I am currently In the old pricing i use a debit card. I am probably gonna exaust the 500 requests after that if I want more requests how can i purchase more requests? also till when old pricing will work. Thanks.",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Just to be sure, It's not gonna cost me after trial ends, right?",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n6g8ie/just_to_be_sure_its_not_gonna_cost_me_after_trial/",
+      "score": 3,
+      "comments": 4,
+      "post_id": "t3_1n6g8ie",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "BookOdd3539",
+      "author_id": "t2_1wmn5zhdeu",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T10:50:21.594000+0000",
+      "content_href": "https://i.redd.it/3htm1qn1dqmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Vibe coding security !",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n6g1mh/vibe_coding_security/",
+      "score": 0,
+      "comments": 22,
+      "post_id": "t3_1n6g1mh",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "Last-Indication334",
+      "author_id": "t2_dsnp7d8p7",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T10:39:32.375000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n6g1mh/vibe_coding_security/",
+      "content_preview": "Hi everyone, I’m working on a project using Vibe Coding and I want to make sure it’s as secure as possible. Are there any prompts, configurations, or best practices I can use to improve security? For example, protecting against common vulnerabilities, securing API keys, and ensuring safe authentication. Any tips, resources, or security checklists would be greatly appreciated!",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Cursor seems to be great for modding games.",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n6fx2x/cursor_seems_to_be_great_for_modding_games/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6fx2x",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "Toedeli",
+      "author_id": "t2_11sf7u",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T10:31:56.365000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n6fx2x/cursor_seems_to_be_great_for_modding_games/",
+      "content_preview": "So I've been using Cursor quite a lot lately, and honestly it's great. Most of it actually is just for private use, or things where I say \"Why hasn't anyone else done this?\" - it's genuinely fun to do less \"serious\" work with game mods, but which can have a really positive impact on your or others experience. It's almost an addiction even lol, it's a lot of fun seeing something you or others dislike and being able to do something about it. I'd love to pay a developer sometimes, but can't since the game has a strict no monetization rule for example. I'm also not confident enough to ask established modders and beg them to do X. I'm sometimes also a bit ashamed of essentially relying on AI, and always fully disclose my use of it. But it's so rewarding seeing friends and other people use what you worked on and being able to make their experience unique. Just wanted to bring this out here, I'm sure I'm not the only one using this for less \"serious\" tasks. I personally wouldn't trust AI near anything more serious since I personally believe I lack the actual dev knowledge that still plays an important role in making sure everything is OK and there are no vulnerabilities. If I can't check it, I won't do it, is my opinion on that.",
+      "flair": [
+        "Appreciation"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Now you can choose to get Nightly version",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n6ewt2/now_you_can_choose_to_get_nightly_version/",
+      "score": 1,
+      "comments": 4,
+      "post_id": "t3_1n6ewt2",
+      "post_type": "multi_media",
+      "domain": "self.cursor",
+      "author": "Simon_Miller_2022",
+      "author_id": "t2_tzols88r",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T09:29:44.226000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n6ewt2/now_you_can_choose_to_get_nightly_version/",
+      "content_preview": "https://preview.redd.it/now-you-can-choose-to-get-nightly-version-v0-3obbja0a0qmf1.png https://preview.redd.it/now-you-can-choose-to-get-nightly-version-v0-ov4pxa2a0qmf1.png Now you can choose to get the nightly version.",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Cursor alternatives with proper manual mode",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n6e48e/cursor_alternatives_with_proper_manual_mode/",
+      "score": 1,
+      "comments": 4,
+      "post_id": "t3_1n6e48e",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "Morteriag",
+      "author_id": "t2_14ws3s",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T08:37:25.653000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n6e48e/cursor_alternatives_with_proper_manual_mode/",
+      "content_preview": "I use cursor for work, mostly for computer vision in ROS2. By removing the manual mode,  they basicly made it useless for me, and I am part sad and part freaked out because I relied on it. The agent mode is useless, and it allways ends up costing me more time to debug ebcause I have to read through the endless garbage code to find the overcomplicated idiotic stuff it introduced that neevr really works in a production setting. ANyeone els ewho share that experience and have found good alternatives?",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Two months with Cursor - my thoughts so far",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n6e1bw/two_months_with_cursor_my_thoughts_so_far/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1n6e1bw",
+      "post_type": "multi_media",
+      "domain": "self.cursor",
+      "author": "LuckEcstatic9842",
+      "author_id": "t2_1hev0g711g",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T08:31:49.186000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n6e1bw/two_months_with_cursor_my_thoughts_so_far/",
+      "content_preview": "https://preview.redd.it/two-months-with-cursor-my-thoughts-so-far-v0-us60obdinpmf1.png https://preview.redd.it/two-months-with-cursor-my-thoughts-so-far-v0-e0z99qmxnpmf1.png Tomorrow marks the end of my second month using Cursor. So far, I’ve spent $47 on the PRO plan. Today I actually got a warning that I’ve been using Opus 4.1 a lot - and if I want to keep going at that pace, I’d need to upgrade to PRO+ . What surprised me though is that they didn’t completely cut me off. I can still use other models like O3 , which means I basically get another full day of unlimited use. Overall, I’m pretty happy with this pricing model. It’s enough for my workflow - I’m not a “vibe coder”, I use it consciously and it does the job. Over the past two months, I’ve been experimenting with Cursor as part of my daily workflow. I primarily write code in JetBrains PHPStorm , since my stack is not just PHP but also Node.js, React, and TypeScript . For these technologies, PHPStorm still feels much more convenient than Cursor when it comes to navigation, refactoring, and overall environment support. That said, I’ve set up a plugin in PHPStorm that lets me quickly open any document in Cursor. This has become my “hybrid” setup: I keep coding in JetBrains, but whenever I need help with prompts, ideas, or agent-style tasks, I jump into Cursor. A lot of people praise Cursor for its autocomplete/tap feature — and yes, it’s great. But honestly, it doesn’t always solve my problems. I’m fine without it in PHPStorm, and I prefer to use Cursor more deliberately rather than relying on constant autocomplete. Some might ask: why not try June in PhpStorm ? A few of my friends use it, and maybe I’ll experiment with it at some point. But I genuinely like Cursor’s. For example, this month I paid $20 but ended up using about $50 worth of credits thanks to the PRO plan. That feels like good value. If at some point it balances out (pay $20, get $20), I might rethink and explore alternatives. For now, though, it works in my favor. I also tried going Cursor-only without JetBrains, but I ran into issues — especially with PHP-specific workflows. Even with extensions, Cursor falls short compared to JetBrains when it comes to code understanding, navigation, and finding function usages. So for now, I’ve settled into this combined workflow : PHPStorm for core development, Cursor for AI-powered assistance. It’s not perfect, but it’s efficient, and for the way I work, that’s what matters most. Curious how others are handling this: do you use Cursor as your main IDE, or do you also combine it with JetBrains/VSCode? Would love to hear how you balance things.",
+      "flair": [
+        "Appreciation"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Lovable vs Cursor",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n6dbv3/lovable_vs_cursor/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6dbv3",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "blunderboy",
+      "author_id": "t2_6dsmk",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T07:44:44.233000+0000",
+      "content_href": "/r/webdev/comments/1n6dbf3/lovable_vs_cursor/",
+      "content_preview": "",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Most efficient way to structure prompts?",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n6cmdw/most_efficient_way_to_structure_prompts/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n6cmdw",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "rm-minus-r",
+      "author_id": "t2_7ottk",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T06:58:21.508000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n6cmdw/most_efficient_way_to_structure_prompts/",
+      "content_preview": "I've been using Claude-4-sonnet and have been quite happy with the quality of the output, but I've burned through 30 days of requests for the pro level in just 18 days. Are there any tips to structure prompts to be as efficient as possible?",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How to use cursor on more than one machine?",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n6bpuy/how_to_use_cursor_on_more_than_one_machine/",
+      "score": 16,
+      "comments": 5,
+      "post_id": "t3_1n6bpuy",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "atomsplitter99",
+      "author_id": "t2_1wr2sdzr23",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T06:00:40.914000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n6bpuy/how_to_use_cursor_on_more_than_one_machine/",
+      "content_preview": "I am on the free plan with cursor and still evaluating it along with a windsurf pro plan. I am currently using Cursor on my desktop. How can I use it on my laptop when I travel? Will it remember all the chat history / instructions I gave it on the desktop if I just use the same account on the laptop or do I have to export something?",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Coding from phone",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n68gpa/coding_from_phone/",
+      "score": 10,
+      "comments": 13,
+      "post_id": "t3_1n68gpa",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "sukarsono",
+      "author_id": "t2_6ahpkkv",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T02:58:54.946000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n68gpa/coding_from_phone/",
+      "content_preview": "I’ve been using LLM coding CLIs on my laptop to build various projects but am often pulled away for family or other work… I toyed some weird tmux setup but it was getting awkward fast. There must be a way to do what I do from my phone though right? With all the tools out there. I like to read the changes carefully and iterate until they’re correct. But I rarely actually write code anymore, I’ve been in the biz for a quarter of a century so it’s pretty easy to describe exactly what I want.",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7wchh/styles/profileIcon_l788jvendmna1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=23462a661b5961cbd9af7c05fa5f2d37f76107d3"
+    },
+    {
+      "title": "Building Product Integrations with Cursor?",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n68abm/building_product_integrations_with_cursor/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n68abm",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "Ok-Habit7971",
+      "author_id": "t2_1qdz26r56v",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T02:49:43.973000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n68abm/building_product_integrations_with_cursor/",
+      "content_preview": "Has anyone tried to build reliable product integrations with Cursor? For example, if you have a SaaS app, and you want your users to be able to connect their own accounts in other apps (say, Salesforce, Hubspot, and Gmail), and then have your app perform actions within those integrations - can Cursor do that? Has anyone tried, and what exact issues did you encounter?",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "I have a weirdest use case of Cursor which I use everyday",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n67x3i/i_have_a_weirdest_use_case_of_cursor_which_i_use/",
+      "score": 26,
+      "comments": 14,
+      "post_id": "t3_1n67x3i",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "No-Score712",
+      "author_id": "t2_io8m3u7d",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T02:31:26.832000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n67x3i/i_have_a_weirdest_use_case_of_cursor_which_i_use/",
+      "content_preview": "So everyday, I create a new markdown file containing a big todo list with tasks I tick off as I go. Something I always had trouble with in my setup is remembering what tasks need to be added today, like remembering it has been 3 days since I watered my plants so I need to do it today, or remembering that 2 days ago I said to myself I need to do something today. So here's my weird cursor solution: I created a markdown file scheduler.md which contains a bullet pt list of all tasks I planned for some future date I also created a file crons.md which contains a list of recurring tasks with different schemes of recurrence described by human language, like \"do task X every 3 days\", or \"do task Y every Monday\" I have a cursorrules that tells the agent to read these two files and my current daily todo file, and I just run the agent every morning. Just like that, I never have to deal with the mental overhead of \"when's the last time I did task X? Do I need to do it today?\" No tasks with future deadlines gets forgotten as well. I know other task management apps can probably achieve the same, but I just love the flexibility of plain text file based todo lists. Hope this is helpful!",
+      "flair": [
+        "Random / Misc"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Grok Code Free Trial Extended - Until Sept 10!",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n67irb/grok_code_free_trial_extended_until_sept_10/",
+      "score": 26,
+      "comments": 8,
+      "post_id": "t3_1n67irb",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Iwanttorestinpiss",
+      "author_id": "t2_nu0j3h3qj",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T02:11:42.620000+0000",
+      "content_href": "https://i.redd.it/rog0bfg6unmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Random / Misc"
+      ],
+      "thumbnail_url": "https://preview.redd.it/grok-code-free-trial-extended-until-sept-10-v0-rog0bfg6unmf1.png?width=640&crop=smart&auto=webp&s=bb96a2325b835d7427c4b1425cf252507884da7f"
+    },
+    {
+      "title": "Auto mode slowing things down?",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n66wyl/auto_mode_slowing_things_down/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n66wyl",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "deparko",
+      "author_id": "t2_114ttv",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T01:42:29.863000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n66wyl/auto_mode_slowing_things_down/",
+      "content_preview": "I'm trying to get a feel for Cursor's, speed, and coding quality. When I was using Sonnet 4.0, it seemed like we were progressing really well. Then I received a message indicating that I would soon run out of  credits.  :-) They recommended switching to auto mode. However, since making that change, things seem much slower, and there are a lot more mistakes.  I understand the slow part but quality? is that true Is that the general experience people are having?",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1bcr0a/styles/profileIcon_euzskanroske1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5f2c7dfb93984947368858a057e806b0ca437ae4"
+    },
+    {
+      "title": "App Development Cheat Code: Expert Prompts → Your Dream App in Just a Few Clicks.",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n66dsb/app_development_cheat_code_expert_prompts_your/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n66dsb",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "willkode",
+      "author_id": "t2_2eczpoqs",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-02T01:16:38.425000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n66dsb/app_development_cheat_code_expert_prompts_your/",
+      "content_preview": "Crashing more than a Windows 98 machine? Errors that won’t go away no matter how many times you hit refresh? 👀 Here’s the plot twist: you don’t have a code issue, you’ve got a prompt issue . Introducing my Vibe Coding Prompt Generator → a system built on expert-crafted prompts that help you spin up the exact app you actually want. No fluff. No spaghetti code. Just a few killer prompts = your dream app. ✨ Features: Get expert-developed prompts (I’ve personally built 4 seriously complex apps with this system). Super easy to use — the AI fills in the hard questions most people trip over. Geek-approved. Non-dev-friendly. Dream-builder ready. So if you’re tired of your app feeling like a beta test gone wrong… 👉 Build the app you actually wanted all along. Check it out: https://basemvp.forgebaseai.com/",
+      "flair": [
+        "Resources & Tips"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_psjja/styles/profileIcon_7d3bnufafa4e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e2efda62b121b214b532132d63030b9c8ad2a16b"
+    },
+    {
+      "title": "Would Cursor-based, real-world tutorials by an experienced engineer & founder be useful?",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n64a9q/would_cursorbased_realworld_tutorials_by_an/",
+      "score": 7,
+      "comments": 5,
+      "post_id": "t3_1n64a9q",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "matt_cogito",
+      "author_id": "t2_1u0dioqi9d",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T23:36:50.044000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n64a9q/would_cursorbased_realworld_tutorials_by_an/",
+      "content_preview": "I can code the \"old-fashioned\" way, but I've gone all-in on Cursor and similar codegen AI tools. I'm wondering if there's interest in the Cursor community for tutorials on programming with Cursor from someone who's been around the block as an engineer, a product person and a founder. Quick background : I wrote my first piece of code when I was 8. My entire life I've been into computers and programming. I've spent the last 15+ years in software engineering, some DevOps. About a decade ago I co-founded a SaaS in the audio/podcast space that grew past $5M ARR. Over the years I wore pretty much every hat: engineering, product, support, sales, marketing, finance, ops, HR. Fun times. I see a lot of vibe-coding content out there (and I like it), but there's a gap where codegen AI meets real engineering and serious business requirements. That's the zone I care about. I would focus on 3 pillars Programming : coding best practices, designing reliable and scalable systems, architecture and patterns, databases and data modeling, testing / TDD, performance, infrastructure and deployment Product : writing clear product concepts and PRDs, product design and UX/UI, user interviews, product pricing, product marketing, funnels. Business/startup : founder POV on compliance, business development, billing / finance / taxes, team organization, the unglamorous stuff that still matters. If a few folks say this would be useful, that's the nudge I need to record some videos. Curious what you think, and if there are specific topics you'd want covered.",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Would Cursor-based, real-world tutorials by an experienced engineer and founder be useful?",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n649ll/would_cursorbased_realworld_tutorials_by_an/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n649ll",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "matt_cogito",
+      "author_id": "t2_1u0dioqi9d",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T23:35:59.348000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n649ll/would_cursorbased_realworld_tutorials_by_an/",
+      "content_preview": "I can code the \"old-fashioned\" way, but I've gone all-in on Cursor and similar codegen AI tools. I'm wondering if there's interest in the Cursor community for tutorials on programming with Cursor from someone who's been around the block as an engineer, a product person and a founder. Quick background : I wrote my first piece of code when I was 8. My entire life I've been into computers and programming. I've spent the last 15+ years in software engineering, some DevOps. About a decade ago I co-founded a SaaS in the audio/podcast space that grew past $5M ARR. Over the years I wore pretty much every hat: engineering, product, support, sales, marketing, finance, ops, HR. Fun times. I see a lot of vibe-coding content out there (and I like it), but there's a gap where codegen AI meets real engineering and serious business requirements. That's the zone I care about. I would focus on 3 pillars Programming : coding best practices, designing reliable and scalable systems, architecture and patterns, databases and data modeling, testing / TDD, performance, infrastructure and deployment Product : writing clear product concepts and PRDs, product design and UX/UI, user interviews, product pricing, product marketing, funnels. Business/startup : founder POV on compliance, business development, billing / finance / taxes, team organization, the unglamorous stuff that still matters. If a few folks say this would be useful, that's the nudge I need to record some videos. Curious what you think, and if there are specific topics you'd want covered.",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Does Cursor have deeplink capabilities for their extensions?",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n63q9d/does_cursor_have_deeplink_capabilities_for_their/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n63q9d",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "AdeptnessWhich1555",
+      "author_id": "t2_17ucx4wqwd",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T23:11:42.341000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n63q9d/does_cursor_have_deeplink_capabilities_for_their/",
+      "content_preview": "I’m building a company around a new Cursor Extension, so I’m trying to link directly to that extension within Cursor to make it easy for users to access it. I already have the extension published on Open VSX and can see it if I search for it in Cursor. Does anyone know if they have deeplinks enabled for their extension marketplace?",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "HELP! my claude.md is too big now. how do i keep context?",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n63603/help_my_claudemd_is_too_big_now_how_do_i_keep/",
+      "score": 1,
+      "comments": 3,
+      "post_id": "t3_1n63603",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "dx30",
+      "author_id": "t2_418gx",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T22:46:49.369000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n63603/help_my_claudemd_is_too_big_now_how_do_i_keep/",
+      "content_preview": "im having to /clear often for memory purpoases. how do i keep context going for my growing project?",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Anyone else find Cursor (Claude models and GPT-models) is ignoring the cursor rules all the time now?",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n631cq/anyone_else_find_cursor_claude_models_and/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n631cq",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "Wise-Tangelo3861",
+      "author_id": "t2_1rd0hh2yla",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T22:41:06.181000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n631cq/anyone_else_find_cursor_claude_models_and/",
+      "content_preview": "For the whole of the last week, I have to manually include every rule, or Cursor just ignores them. There's some for not using any, not leaving inline comments, how to order imports. Before last week they would be in most results. Now every singe time they ignore these rules and I have to reprompt including the rules and ask to fix it. Anyone else notice similar?",
+      "flair": [
+        "Bug Report"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Cursor gets stuck executing codes",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n61o47/cursor_gets_stuck_executing_codes/",
+      "score": 1,
+      "comments": 11,
+      "post_id": "t3_1n61o47",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "LOL_BOi-_-",
+      "author_id": "t2_knukg1ge",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T21:42:34.099000+0000",
+      "content_href": "https://i.redd.it/ren6d0xuhmmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Bug Report"
+      ],
+      "thumbnail_url": "https://preview.redd.it/cursor-gets-stuck-executing-codes-v0-ren6d0xuhmmf1.png?auto=webp&s=7b199d0055a9e8342a485d86697056460aadf300"
+    },
+    {
+      "title": "Is this good enough for a plug and play service",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n61lek/is_this_good_enough_for_a_plug_and_play_service/",
+      "score": 2,
+      "comments": 4,
+      "post_id": "t3_1n61lek",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "nervous-ninety",
+      "author_id": "t2_1s65sktgvx",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T21:39:28.585000+0000",
+      "content_href": "https://i.redd.it/xc1k4cmnhmmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/is-this-good-enough-for-a-plug-and-play-service-v0-xc1k4cmnhmmf1.jpeg?width=640&crop=smart&auto=webp&s=3ad121d4e414dc0869b735f5fe787a640fe13b97"
+    },
+    {
+      "title": "Using Cursor on different computers, same project",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n61g3c/using_cursor_on_different_computers_same_project/",
+      "score": 1,
+      "comments": 4,
+      "post_id": "t3_1n61g3c",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "SoftandSpicy",
+      "author_id": "t2_wdd0u",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T21:33:26.528000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n61g3c/using_cursor_on_different_computers_same_project/",
+      "content_preview": "I use cursor on one computer, working locally, backing up with Git. Is there any down side to working on a Different computer By a loading cursor and downloading from git and going back and forth.",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How to make cursor work well with a custom component library",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n617y6/how_to_make_cursor_work_well_with_a_custom/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n617y6",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "ryanzec",
+      "author_id": "t2_ofyk3",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T21:24:09.655000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n617y6/how_to_make_cursor_work_well_with_a_custom/",
+      "content_preview": "If I have a codebase that is using a custom component library, what is the best way for cursor to be able to best utilize that component library in its generation so that is does not generate code trying to add another component library or generate one off components all the time?",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "cursor agent in terminal?",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n60k1u/cursor_agent_in_terminal/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n60k1u",
+      "post_type": "multi_media",
+      "domain": "self.cursor",
+      "author": "Opposite-Gur2238",
+      "author_id": "t2_i9f32inw",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T20:58:21.467000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n60k1u/cursor_agent_in_terminal/",
+      "content_preview": "Wait, what? I just saw this in Nightly. I wonder if that's the roadmap—super exciting! https://preview.redd.it/cursor-agent-in-terminal-v0-0tlzowtiammf1.png https://preview.redd.it/cursor-agent-in-terminal-v0-vn56l0qjammf1.png",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Building AI Infused Apps?????",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n5yvov/building_ai_infused_apps/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n5yvov",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "Colin_KAJ-Analytics",
+      "author_id": "t2_1rvt29vwe3",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T19:52:59.687000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n5yvov/building_ai_infused_apps/",
+      "content_preview": "Food for thought, if you are building AI infused apps, make sure to run a prompt like this or equivalent to ensure your keeping you token costs down. If you don't trust cursor, I have a love & hate relationship with it. Use a third party, then upload your code and run the prompt. Happy coding As an expert prompt engineer and Software engineer. Please evaluate the prompts in the selected context ensure that they are highly llm compatible and using the minimal amount of tokens to keep cost down. Any questions?",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eqlxtm/styles/profileIcon_w9ufphi8okgf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=161d3bc8bb7cc361c212380dec3a980a3afa67a7"
+    },
+    {
+      "title": "First day of the month, cursor already limiting me next week",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n5w3cj/first_day_of_the_month_cursor_already_limiting_me/",
+      "score": 4,
+      "comments": 7,
+      "post_id": "t3_1n5w3cj",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "GasVarGames",
+      "author_id": "t2_zf6n3ev",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T18:09:01.183000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n5w3cj/first_day_of_the_month_cursor_already_limiting_me/",
+      "content_preview": "How does that even work? How do I prevent this? Do I really have to stick to Auto, who does more harm than good?",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Claude Code models are completely braindead last few weeks and unfortunately cursor auto mode selects that model 99%",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n5voyt/claude_code_models_are_completely_braindead_last/",
+      "score": 9,
+      "comments": 11,
+      "post_id": "t3_1n5voyt",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "BargeCptn",
+      "author_id": "t2_vutgb90y",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T17:54:05.814000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n5voyt/claude_code_models_are_completely_braindead_last/",
+      "content_preview": "I don't know what happened to Claude 4 agent, basically its brain dead. It cant follow simple directions, ignored rules in .md files. After 10 or 15 minute session with it it, have to rollback project from git as it solves debugging issues by completely deleting the functions its debugging. Anyone else notice tangible degradation? Like \"I see the problem...\" and then repeats exact same steps it did5 times prior. Its like its not even aware of chat context at all, just straight up hallucination. I'm pro user, thus keep on auto mode. My projects have extensive documentation and plenty of context. I'm not asking claude to write any code, simple tasks like rebuild the docker stack and run tail 50 on logs to generate a debug document, it shits on itself half way through and just keeps trying same failed commands in a dead-loop consuming tokens. Has anyone else noticed degraded performance? I wish auto model just picked gpt5, my life would be so much better.",
+      "flair": [
+        "Bug Report"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How I got 385 users & 6 paid in my first startup week build with Cursor",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n5vj1i/how_i_got_385_users_6_paid_in_my_first_startup/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1n5vj1i",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "MironPuzanov",
+      "author_id": "t2_m1cntqpeo",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T17:47:50.711000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n5vj1i/how_i_got_385_users_6_paid_in_my_first_startup/",
+      "content_preview": "Last week I posted that I quit my job and launched a solo-built startup with Cursor. One week later: 385 users, 6 paid and here’s exactly what happened: If you saw my post last week, I shipped my first startup solo using a vibe-coding stack (Cursor + Next.js + Supabase + Vercel). This is the 7-day follow-up with real numbers and the play-by-play. The numbers (first week): • ~200k Reddit views total (one anchor post ≈140k + a few smaller ones ≈60k) • ~4,000 site visits • 385 signups • ~90% completed the core action (generated a blueprint) • 6 paying users so far — ~$80 MRR What worked: • Wrote one narrative post with my journey, just “here’s what I built and why” • Lived in the comments, turned asks into backlog • Posted a couple of tight follow-ups with new learnings • Classic loop: signals → lean MVP → distribution → feedback → iterate. Where I messed up • Over-engineering. I started with multi-agent graphs and chains. Killed half of it and rewrote the backend in two days. Lighter, faster, more reliable • Scaling/quotas. Token-heavy flows choked under parallel runs. Fixed with queues/batching and raised model limits • Late analytics & email. Launched without them (regret). Added Sentry, GA, Resend, and used Vercel logs. Instantly saw where conversion leaked and what broke Dev flow that felt right: • Start with a landing (using 21stdev): rough concept → borrow a few components → reshape to my style → share → iterate • Backend first (Next.js + Supabase), test in terminal until outputs are sane • Wire the app UI, connect payments (Stripe), domains, logs, instrumentation • Test with real cards and a few brave humans. When error rate felt acceptable, ship and tell the story Stack: Next.js, Supabase, Vercel, Stripe, Resend, Sentry, Google Analytics. Models: OpenAI + Anthropic mix. Built and steered in Cursor What’s next: v2 based on the flood of feedback. The value is there, but it needs to be sharper to scale. Same loop, just faster",
+      "flair": [
+        "Resources & Tips"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_9mgzvi/styles/profileIcon_yqo600d021jf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=69131195262a674b4af79416c1e503b523a3a332"
+    },
+    {
+      "title": "Is cursor down?",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n5ve0p/is_cursor_down/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1n5ve0p",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "jpo183",
+      "author_id": "t2_zkxf4",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T17:42:37.824000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n5ve0p/is_cursor_down/",
+      "content_preview": "I am getting failed to read files. Restarted etc etc same error.",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Critique my Prompt",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n5v6av/critique_my_prompt/",
+      "score": 0,
+      "comments": 8,
+      "post_id": "t3_1n5v6av",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "Known_Grocery4434",
+      "author_id": "t2_fqwvbptfl",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T17:35:05.827000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n5v6av/critique_my_prompt/",
+      "content_preview": "\"Is there code to track logins and sign ups? I want to have two csv files logins.csv and sign_ups.csv saved in the root dir of the project to track metadata on sign ups as well as user logins. If there are any other metadata csvs you think would be useful, please add tracking functions to them too with their own CSV files. Use minimal external libraries for this, I think you can just write a new line to an existing text file with commas seperating the values. Make sure all the CSVs have column names.\"",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "So... What do you use now? which model? which IDE? or tool?",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n5qmhf/so_what_do_you_use_now_which_model_which_ide_or/",
+      "score": 33,
+      "comments": 55,
+      "post_id": "t3_1n5qmhf",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "x1Akaidi",
+      "author_id": "t2_6z6r94df",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T14:45:09.687000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n5qmhf/so_what_do_you_use_now_which_model_which_ide_or/",
+      "content_preview": "Am interested to know what's everyone using lately. There has been lots of change since last 2 months. - Way more aggressive limits for Cursor. - Lots of performance hindering for all Claude models overall. (am not saying they r bad, just not as good as they used to be, u need to always be holding its hand. am using in a 20k lines codebase, and it just never sticks to one thing, multiple times it keeps hallucinating lots of stuff and going back and forth between multiple solutions.) - Trae solo mode, and Kiro - GPT 5 release What's ur go to? does it feel better than what u have used before?",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "The Secret to a Maintainable Codebase",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n5qid8/the_secret_to_a_maintainable_codebase/",
+      "score": 120,
+      "comments": 12,
+      "post_id": "t3_1n5qid8",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "TechnicolorMage",
+      "author_id": "t2_dwl6zkfa",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T14:40:45.456000+0000",
+      "content_href": "https://i.redd.it/n33q3ynmekmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Resources & Tips"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4wctqx/styles/profileIcon_dl6izu9wado71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=05a892d1802729a6eae0f2d7781c79c3b23cfad6"
+    },
+    {
+      "title": "I made a VS Code Extension that works with Cursor to track coding time with beautiful charts",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n5q1bu/i_made_a_vs_code_extension_that_works_with_cursor/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n5q1bu",
+      "post_type": "multi_media",
+      "domain": "self.cursor",
+      "author": "noorAshuvo",
+      "author_id": "t2_9w2o26sn",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T14:22:22.849000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n5q1bu/i_made_a_vs_code_extension_that_works_with_cursor/",
+      "content_preview": "Hey fellow developers! 👋 I wanted to share a VS Code extension I've been working on that helps track your coding time with some nice visualizations. It's completely free and open source! What it does: Tracks your active coding time automatically Shows beautiful, interactive charts of your coding patterns Generates GitHub-style heatmaps of your activity Works seamlessly with both light and dark VS Code themes Zero configuration needed - just install and code! Key Features: 📊 Project / Git branch / Language wise Time Tracking See exactly how much time you spend on each project Break down time by day/week/month Perfect for freelancers tracking billable hours 🗺️ Activity Heatmap Visual representation of your coding patterns Quickly identify your most productive days Similar to GitHub's contribution graph 📈 Real-time Stats Today's coding time Weekly summary Monthly overview All-time statistics 🎨 Theme Compatibility Automatically matches your VS Code theme Clean, modern UI Non-intrusive design Why I made this: I needed a simple way to track my coding time across different projects without switching between apps or manually logging hours. Thought others might find it useful too! Installation: Open Cursor Go to Extensions (Ctrl+Shift+X) Search for \"Simple Coding Time Tracker\" Click Install Links: Open VSX: https://open-vsx.org/extension/noorashuvo/simple-coding-time-tracker VS Code Marketplace: https://marketplace.visualstudio.com/items?itemName=noorashuvo.simple-coding-time-tracker#:~:text=Simple%20Coding%20Time%20Tracker%20is,and%20analyze%20your%20coding%20time Github: https://github.com/twentyTwo/vsc-ext-coding-time-tracker Light Theme Dark Theme Would love to hear your feedback and suggestions! Let me know if you run into any issues or have feature requests.",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Practical Patterns for Coding with Cursor",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n5oxn5/practical_patterns_for_coding_with_cursor/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n5oxn5",
+      "post_type": "link",
+      "domain": "kirang.in",
+      "author": "kirang89",
+      "author_id": "t2_am8a7",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T13:37:54.660000+0000",
+      "content_href": "https://kirang.in/post/working-with-cursor/",
+      "content_preview": "",
+      "flair": [
+        "Resources & Tips"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Has anyone noticed a recent drop off in quality?",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n5o7kl/has_anyone_noticed_a_recent_drop_off_in_quality/",
+      "score": 0,
+      "comments": 6,
+      "post_id": "t3_1n5o7kl",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "golightlyfitness",
+      "author_id": "t2_1a4ilcfs",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T13:06:59.046000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n5o7kl/has_anyone_noticed_a_recent_drop_off_in_quality/",
+      "content_preview": "I have mostly been using GPT 5 and Claude 4, but feel like their performance the last couple of days has gotten significantly worse? I know alot of people report issues here but if lots of people seeing the same thing I want to hold off spending my money",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Weekly Cursor Project Showcase Thread",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n5o54n/weekly_cursor_project_showcase_thread/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n5o54n",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T13:04:09.303000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n5o54n/weekly_cursor_project_showcase_thread/",
+      "content_preview": "Welcome to the Weekly Project Showcase Thread ! This is your space to share cool things you’ve built using Cursor. Whether it’s a full app, a clever script, or just a fun experiment, we’d love to see it. To help others get inspired, please include: What you made (Required) How Cursor helped (e.g., specific prompts, features, or setup) (Optional) Any example that shows off your work. This could be a video, GitHub link, or other content that showcases what you built (no commercial or paid links, please) Let’s keep it friendly, constructive, and Cursor-focused. Happy building! Reminder : Spammy, bot-generated, or clearly self-promotional submissions will be removed. Repeat offenders will be banned. Let’s keep this space useful and authentic for everyone.",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+    },
+    {
+      "title": "More transparency in Cursor actions?",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n5mrdq/more_transparency_in_cursor_actions/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1n5mrdq",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "FutureNintendood",
+      "author_id": "t2_660scu1v",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T11:59:18.984000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n5mrdq/more_transparency_in_cursor_actions/",
+      "content_preview": "If I recall correctly, a few months ago you could actually see every grep and write command that the agent performed. Is there a way to turn this kind of 'verbose' output back on again? Thanks a lot in advance.",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "I have a question about using the cursor on two different computers with the same project.",
+      "permalink": "https://www.reddit.com/r/cursor/comments/1n5mbit/i_have_a_question_about_using_the_cursor_on_two/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n5mbit",
+      "post_type": "text",
+      "domain": "self.cursor",
+      "author": "srirachaninja",
+      "author_id": "t2_yj98z",
+      "subreddit_id": "t5_auffo5",
+      "subreddit": "r/cursor",
+      "created_ts": "2025-09-01T11:35:56.259000+0000",
+      "content_href": "https://www.reddit.com/r/cursor/comments/1n5mbit/i_have_a_question_about_using_the_cursor_on_two/",
+      "content_preview": "Hello, I am new to coding with Cursor. I have considerable experience as a PHP developer from previous projects. I started coding on my desktop PC successfully and wanted to continue on my laptop. Using GitHub, I downloaded the latest version of the code to my laptop and tried to work with Cursor there, but it didn't have the same understanding of the code as my PC did. As a result, it removed some essential code needed for the app to function. How can I synchronize both Cursor instances so they share the same knowledge and state?",
+      "flair": [
+        "Question / Discussion"
+      ],
+      "thumbnail_url": ""
+    }
+  ],
+  "scraped_at": "2025-09-02T11:12:23.469899"
+}

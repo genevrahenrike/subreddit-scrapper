@@ -1,0 +1,1011 @@
+{
+  "subreddit": "LocalLLM",
+  "url": "https://www.reddit.com/r/LocalLLM",
+  "meta": {
+    "title": "LocalLLM",
+    "members_text": "529,448"
+  },
+  "posts": [
+    {
+      "title": "Fine Tuning LLM on Ryzen AI 395+ Strix Halo",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n6pt9n/fine_tuning_llm_on_ryzen_ai_395_strix_halo/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6pt9n",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "Recent-Success-1520",
+      "author_id": "t2_7lunrav9",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-09-02T17:28:18.542000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1n6pt9n/fine_tuning_llm_on_ryzen_ai_395_strix_halo/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "I trapped an LLM into a Raspberry Pi and it spiraled into an existential crisis",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n50dxw/i_trapped_an_llm_into_a_raspberry_pi_and_it/",
+      "score": 85,
+      "comments": 11,
+      "post_id": "t3_1n50dxw",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "jbassi",
+      "author_id": "t2_6o6qb",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-31T17:17:56.643000+0000",
+      "content_href": "https://i.redd.it/wjkd8rty1emf1.png",
+      "content_preview": "",
+      "flair": [
+        "Project"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "I need help building a powerful PC for AI.",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n65l0d/i_need_help_building_a_powerful_pc_for_ai/",
+      "score": 27,
+      "comments": 75,
+      "post_id": "t3_1n65l0d",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "Fun-Phone6585",
+      "author_id": "t2_9jj4mpl1",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-09-02T00:38:03.593000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1n65l0d/i_need_help_building_a_powerful_pc_for_ai/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Test: fully local AI fitness trainer (Qwen 2.5 VL 7B on a 3090)",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1mtrhi6/test_fully_local_ai_fitness_trainer_qwen_25_vl_7b/",
+      "score": 222,
+      "comments": 18,
+      "post_id": "t3_1mtrhi6",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Weary-Wing-6806",
+      "author_id": "t2_1t2xvghrcr",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-18T16:49:32.485000+0000",
+      "content_href": "https://v.redd.it/u19cdtio3tjf1",
+      "content_preview": "",
+      "flair": [
+        "Project"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "OpenNotebookLM",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n6eail/opennotebooklm/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1n6eail",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "Dry_Apartment8095",
+      "author_id": "t2_6ds0phzrk",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-09-02T08:49:17.107000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1n6eail/opennotebooklm/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Cline + BasedBase/qwen3-coder-30b-a3b-instruct-480b-distill-v2 = LocalLLM Bliss",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n40jn6/cline/",
+      "score": 78,
+      "comments": 23,
+      "post_id": "t3_1n40jn6",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "Objective-Context-9",
+      "author_id": "t2_1qa5i6u85l",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-30T12:36:16.553000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1n40jn6/cline/",
+      "content_preview": "",
+      "flair": [
+        "Model"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "SQL Benchmarks: How AI models perform on text-to-SQL",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n5qebf/sql_benchmarks_how_ai_models_perform_on_texttosql/",
+      "score": 25,
+      "comments": 6,
+      "post_id": "t3_1n5qebf",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "facethef",
+      "author_id": "t2_1399ls",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-09-01T14:36:22.302000+0000",
+      "content_href": "https://i.redd.it/pceugsuj9kmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/sql-benchmarks-how-ai-models-perform-on-text-to-sql-v0-pceugsuj9kmf1.png?width=640&crop=smart&auto=webp&s=5262982e0c19322839ee91930382fe0ad84667d5"
+    },
+    {
+      "title": "Uncensored LLM For JanitorAI",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n6krew/uncensored_llm_for_janitorai/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1n6krew",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "GOROITAX",
+      "author_id": "t2_70tlsmej",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-09-02T14:19:10.029000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1n6krew/uncensored_llm_for_janitorai/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Is this the best value machine to run Local LLMs?",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1mh9izj/is_this_the_best_value_machine_to_run_local_llms/",
+      "score": 167,
+      "comments": 152,
+      "post_id": "t3_1mh9izj",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "optimism0007",
+      "author_id": "t2_14td4mcfn0",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-04T10:13:50.123000+0000",
+      "content_href": "https://i.redd.it/zcukgk8s9zgf1.png",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "When I train / fine tune GPT OSS 20B - How can I make sure the AI knows my identity when he’s talking to me?",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n5rals/when_i_train_fine_tune_gpt_oss_20b_how_can_i_make/",
+      "score": 17,
+      "comments": 19,
+      "post_id": "t3_1n5rals",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "Web3Vortex",
+      "author_id": "t2_up6olzzn3",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-09-01T15:10:50.134000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1n5rals/when_i_train_fine_tune_gpt_oss_20b_how_can_i_make/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Huawei 96GB GPU card-Atlas 300I Duo",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n4f1gs/huawei_96gb_gpu_cardatlas_300i_duo/",
+      "score": 57,
+      "comments": 44,
+      "post_id": "t3_1n4f1gs",
+      "post_type": "link",
+      "domain": "e.huawei.com",
+      "author": "AngryBirdenator",
+      "author_id": "t2_c5ses",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-30T22:55:38.835000+0000",
+      "content_href": "https://e.huawei.com/cn/products/computing/ascend/atlas-300i-duo",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1ufxc7/styles/profileIcon_ebrvr1e5o9cf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4e87334f2fcf1a85a3c8d66947419ab335ba8893"
+    },
+    {
+      "title": "What has worked for you?",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n5kosx/what_has_worked_for_you/",
+      "score": 12,
+      "comments": 8,
+      "post_id": "t3_1n5kosx",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "silent_tou",
+      "author_id": "t2_1w542olwc1",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-09-01T10:02:01.523000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1n5kosx/what_has_worked_for_you/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "vLLM vs Ollama vs LMStudio?",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n1cmq6/vllm_vs_ollama_vs_lmstudio/",
+      "score": 46,
+      "comments": 55,
+      "post_id": "t3_1n1cmq6",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "yosofun",
+      "author_id": "t2_fwdrd",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-27T09:47:19.293000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1n1cmq6/vllm_vs_ollama_vs_lmstudio/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Tested a 8GB Radxa AX-M1 M.2 card on a Raspberry Pi 4GB CM5",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n5hzrf/tested_a_8gb_radxa_axm1_m2_card_on_a_raspberry_pi/",
+      "score": 6,
+      "comments": 8,
+      "post_id": "t3_1n5hzrf",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "ChickenAndRiceIsNice",
+      "author_id": "t2_1cr99c",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-09-01T07:09:29.773000+0000",
+      "content_href": "https://www.youtube.com/watch?v=4dGTC-YSq1g",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Where are the AI cards with huge VRAM?",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1mk4mr9/where_are_the_ai_cards_with_huge_vram/",
+      "score": 144,
+      "comments": 123,
+      "post_id": "t3_1mk4mr9",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "Hace_x",
+      "author_id": "t2_cib9afr6",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-07T16:24:33.130000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1mk4mr9/where_are_the_ai_cards_with_huge_vram/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Can someone explain technically why Apple shared memory is so great that it beats many high end CPU and some low level GPUs in LLM use case?",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1mw7vy8/can_someone_explain_technically_why_apple_shared/",
+      "score": 139,
+      "comments": 65,
+      "post_id": "t3_1mw7vy8",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "Glittering_Fish_2296",
+      "author_id": "t2_81b34grx",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-21T11:08:10.973000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1mw7vy8/can_someone_explain_technically_why_apple_shared/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Is it viable to run LLM on old Server CPU ?",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n4zww2/is_it_viable_to_run_llm_on_old_server_cpu/",
+      "score": 12,
+      "comments": 28,
+      "post_id": "t3_1n4zww2",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "NoxWorld2660",
+      "author_id": "t2_atqg3ze0",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-31T16:59:13.766000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1n4zww2/is_it_viable_to_run_llm_on_old_server_cpu/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "LLM can misread a word? (gpt-oss-20b)",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n6i2ta/llm_can_misread_a_word_gptoss20b/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1n6i2ta",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "Zealousideal_Garlic8",
+      "author_id": "t2_76vclkiz",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-09-02T12:26:36.530000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1n6i2ta/llm_can_misread_a_word_gptoss20b/",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "gpt-oss:20b on Ollama, Q5_K_M and llama.cpp vulkan benchmarks",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n4wmr0/gptoss20b_on_ollama_q5_k_m_and_llamacpp_vulkan/",
+      "score": 6,
+      "comments": 4,
+      "post_id": "t3_1n4wmr0",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "tabletuser_blogspot",
+      "author_id": "t2_h52tr",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-31T14:48:00.972000+0000",
+      "content_href": "/r/ollama/comments/1n4wlzb/gptoss20b_on_ollama_q5_k_m_and_llamacpp_vulkan/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_clglu/styles/profileIcon_s1c0hncruyz41.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b813f5574951c6442501c04956a1d245c00501e0"
+    },
+    {
+      "title": "Why does this happen",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n4xnam/why_does_this_happen/",
+      "score": 4,
+      "comments": 18,
+      "post_id": "t3_1n4xnam",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "_1nv1ctus",
+      "author_id": "t2_124991",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-31T15:28:04.803000+0000",
+      "content_href": "https://i.redd.it/8f6h60s8idmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://preview.redd.it/why-does-this-happen-v0-8f6h60s8idmf1.png?width=640&crop=smart&auto=webp&s=8c7f6b5a9c8a64c6bd2ee10b53a36d66a4bfe94c"
+    },
+    {
+      "title": "deepseek r1 vs qwen 3 coder vs glm 4.5 vs kimi k2",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n32n02/deepseek_r1_vs_qwen_3_coder_vs_glm_45_vs_kimi_k2/",
+      "score": 44,
+      "comments": 27,
+      "post_id": "t3_1n32n02",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "Ni_Guh_69",
+      "author_id": "t2_5tr7bkhx",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-29T09:22:14.179000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1n32n02/deepseek_r1_vs_qwen_3_coder_vs_glm_45_vs_kimi_k2/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Current ranking of both online and locally hosted LLMs",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n4zub7/current_ranking_of_both_online_and_locally_hosted/",
+      "score": 41,
+      "comments": 29,
+      "post_id": "t3_1n4zub7",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "Spanconstant5",
+      "author_id": "t2_67t3kseh",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-31T16:56:22.619000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1n4zub7/current_ranking_of_both_online_and_locally_hosted/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Hi everyone, This is my first attempt at fine-tuning a LLaMA 3.1 8B model for roleplay",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n6f7bz/hi_everyone_this_is_my_first_attempt_at/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6f7bz",
+      "post_type": "multi_media",
+      "domain": "self.LocalLLM",
+      "author": "internal-pagal",
+      "author_id": "t2_zwqzvfxvv",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-09-02T09:48:29.796000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1n6f7bz/hi_everyone_this_is_my_first_attempt_at/",
+      "content_preview": "",
+      "flair": [
+        "LoRA"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "LLM for sumarizing a repository.",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n4o1en/llm_for_sumarizing_a_repository/",
+      "score": 5,
+      "comments": 2,
+      "post_id": "t3_1n4o1en",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "Worldly_Noise7011",
+      "author_id": "t2_179x6u9bgs",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-31T06:58:26.555000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1n4o1en/llm_for_sumarizing_a_repository/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "No Ads & Advanced Language Understanding - What are your thoughts?",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n6531t/no_ads_advanced_language_understanding_what_are/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1n6531t",
+      "post_type": "crosspost",
+      "domain": "v.redd.it",
+      "author": "Abbe100920",
+      "author_id": "t2_1dpixujr6a",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-09-02T00:14:37.033000+0000",
+      "content_href": "/r/browsers/comments/1n6514a/no_ads_advanced_language_understanding_what_are/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/no-ads-advanced-language-understanding-what-are-your-v0-OXYwbmdid3Q4bm1mMV6bDP4n-M2E0kU9pii7qxno3om2tEylOWzIiGVCfZgy.png?width=640&crop=smart&format=pjpg&auto=webp&s=232d639fd3983c0c35502b10666c58617cc5890d"
+    },
+    {
+      "title": "What LLM is best for local financial expertise",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n61bn9/what_llm_is_best_for_local_financial_expertise/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1n61bn9",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "aiconta",
+      "author_id": "t2_1wi7cdanjw",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-09-01T21:28:25.310000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1n61bn9/what_llm_is_best_for_local_financial_expertise/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Which compact hardware with $2,000 budget? Choices in post",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n3om9c/which_compact_hardware_with_2000_budget_choices/",
+      "score": 40,
+      "comments": 52,
+      "post_id": "t3_1n3om9c",
+      "post_type": "multi_media",
+      "domain": "self.LocalLLM",
+      "author": "simracerman",
+      "author_id": "t2_vbzgnic",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-30T01:04:32.122000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1n3om9c/which_compact_hardware_with_2000_budget_choices/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "I’m proud of my iOS LLM Client. It beats ChatGPT and Perplexity in some narrow web searches.",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n1wt5e/im_proud_of_my_ios_llm_client_it_beats_chatgpt/",
+      "score": 38,
+      "comments": 31,
+      "post_id": "t3_1n1wt5e",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Valuable-Run2129",
+      "author_id": "t2_n1rqaeut",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-27T23:36:06.348000+0000",
+      "content_href": "https://i.redd.it/8usxd5owdnlf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "M4 Macbook Air 24 GB vs M4 Macbook Pro 16 GB",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n2jhqb/m4_macbook_air_24_gb_vs_m4_macbook_pro_16_gb/",
+      "score": 27,
+      "comments": 47,
+      "post_id": "t3_1n2jhqb",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "karamielkookie",
+      "author_id": "t2_2fzhx2j7",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-28T18:02:04.381000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1n2jhqb/m4_macbook_air_24_gb_vs_m4_macbook_pro_16_gb/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "what LLM should I use for tagging conversation with ALOT of words",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n4ooiw/what_llm_should_i_use_for_tagging_conversation/",
+      "score": 4,
+      "comments": 1,
+      "post_id": "t3_1n4ooiw",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "allah_oh_almighty",
+      "author_id": "t2_daojghp7",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-31T07:38:56.240000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1n4ooiw/what_llm_should_i_use_for_tagging_conversation/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Best current models for running on a phone?",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n3gs7m/best_current_models_for_running_on_a_phone/",
+      "score": 3,
+      "comments": 4,
+      "post_id": "t3_1n3gs7m",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "astral_crow",
+      "author_id": "t2_mpabxr9",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-29T19:27:32.627000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1n3gs7m/best_current_models_for_running_on_a_phone/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Workstation: request info for hardware configuration for ai video 4k",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n27iog/workstation_request_info_for_hardware/",
+      "score": 2,
+      "comments": 9,
+      "post_id": "t3_1n27iog",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "blackcatyelloweye",
+      "author_id": "t2_e7ob0cwv",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-28T09:23:30.597000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1n27iog/workstation_request_info_for_hardware/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "You can now run OpenAI's gpt-oss model on your local device! (12GB RAM min.)",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1mjc494/you_can_now_run_openais_gptoss_model_on_your/",
+      "score": 135,
+      "comments": 56,
+      "post_id": "t3_1mjc494",
+      "post_type": "multi_media",
+      "domain": "self.LocalLLM",
+      "author": "yoracale",
+      "author_id": "t2_1162lx9rgr",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-06T18:11:43.448000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1mjc494/you_can_now_run_openais_gptoss_model_on_your/",
+      "content_preview": "",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Yet Another Voice Clone AI Project",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1mzrm63/yet_another_voice_clone_ai_project/",
+      "score": 10,
+      "comments": 2,
+      "post_id": "t3_1mzrm63",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "Nuvious",
+      "author_id": "t2_36loo",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-25T14:13:15.867000+0000",
+      "content_href": "https://github.com/nuvious/coqui-ai-api",
+      "content_preview": "",
+      "flair": [
+        "Project"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/GOEWJL9-t0icVV57_OJG8pXCLxdrygEyHK2nEBgj1UI.png?width=140&height=70&crop=140:70,smart&auto=webp&s=9f5d6423847a88b77fed66a9cdfd037e2019673d"
+    },
+    {
+      "title": "What sources and websites do you guys go to for scrapping the page and article to a pdf or txt file?",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1mzz4zr/what_sources_and_websites_do_you_guys_go_to_for/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1mzz4zr",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "vulgar1171",
+      "author_id": "t2_1urq336nt3",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-25T18:51:37.442000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1mzz4zr/what_sources_and_websites_do_you_guys_go_to_for/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "should I get an RT 7800 xt for LLM's?",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1mzvkwo/should_i_get_an_rt_7800_xt_for_llms/",
+      "score": 5,
+      "comments": 9,
+      "post_id": "t3_1mzvkwo",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "vulgar1171",
+      "author_id": "t2_1urq336nt3",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-25T16:40:47.628000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1mzvkwo/should_i_get_an_rt_7800_xt_for_llms/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "I asked GPT-OSS 20b for something it would refuse but shouldn't.",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n3kouw/i_asked_gptoss_20b_for_something_it_would_refuse/",
+      "score": 24,
+      "comments": 12,
+      "post_id": "t3_1n3kouw",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "soup9999999999999999",
+      "author_id": "t2_1b6hbzlg",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-29T22:05:48.268000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n3kouw",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Local/AWS Hosted model  as a replacement for Cursor AI",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1mzohfc/localaws_hosted_model_as_a_replacement_for_cursor/",
+      "score": 7,
+      "comments": 6,
+      "post_id": "t3_1mzohfc",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "zephbaxterauthor",
+      "author_id": "t2_1iedigc9de",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-25T11:58:26.264000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1mzohfc/localaws_hosted_model_as_a_replacement_for_cursor/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How to Give Your RTX 4090 Nearly Infinite Memory for LLM Inference",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1mmuudw/how_to_give_your_rtx_4090_nearly_infinite_memory/",
+      "score": 135,
+      "comments": 27,
+      "post_id": "t3_1mmuudw",
+      "post_type": "multi_media",
+      "domain": "self.LocalLLM",
+      "author": "NoVibeCoding",
+      "author_id": "t2_1neapdttam",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-10T21:34:48.637000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1mmuudw/how_to_give_your_rtx_4090_nearly_infinite_memory/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How do you classify intent to the llm if the input is general conversation or needs web search",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n5y114/how_do_you_classify_intent_to_the_llm_if_the/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n5y114",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Haunting_Stomach8967",
+      "author_id": "t2_12609wntbf",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-09-01T19:20:02.935000+0000",
+      "content_href": "/r/LocalLLaMA/comments/1n5y0s5/how_do_you_classify_intent_to_the_llm_if_the/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Chanakya – Fully Local, Open-Source Voice Assistant",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1mnt3h0/chanakya_fully_local_opensource_voice_assistant/",
+      "score": 109,
+      "comments": 29,
+      "post_id": "t3_1mnt3h0",
+      "post_type": "multi_media",
+      "domain": "self.LocalLLM",
+      "author": "rishabhbajpai24",
+      "author_id": "t2_431i5jv4",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-11T23:43:21.178000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1mnt3h0/chanakya_fully_local_opensource_voice_assistant/",
+      "content_preview": "",
+      "flair": [
+        "Project"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Epyc 9575F + 4 * 3090 inference speed?",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n5pbyu/epyc_9575f_4_3090_inference_speed/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n5pbyu",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Unhappy-Tangelo5790",
+      "author_id": "t2_b52mw4l62",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-09-01T13:54:38.948000+0000",
+      "content_href": "/r/LocalLLaMA/comments/1n5p1oj/epyc_9575f_4_3090_inference_speed/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8e5o5k/styles/profileIcon_xfknl972417f1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b1d06349ee7677955d184699e9e8b0f0e656e17e"
+    },
+    {
+      "title": "I built a CLI tool to simplify vLLM server management - looking for feedback",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1mrkn5p/i_built_a_cli_tool_to_simplify_vllm_server/",
+      "score": 104,
+      "comments": 38,
+      "post_id": "t3_1mrkn5p",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "MediumHelicopter589",
+      "author_id": "t2_m2jr6tle",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-16T04:26:41.279000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mrkn5p",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i-built-a-cli-tool-to-simplify-vllm-server-management-v0-syyi9vrc6bjf1.png?width=640&crop=smart&auto=webp&s=b560f1bc6f9e94abe39e64e7c6125898189d3b49"
+    },
+    {
+      "title": "Choosing the right model and setup for my requirements",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n5m1iv/choosing_the_right_model_and_setup_for_my/",
+      "score": 1,
+      "comments": 12,
+      "post_id": "t3_1n5m1iv",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "Old_Leshen",
+      "author_id": "t2_1pjrryy59i",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-09-01T11:20:17.946000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1n5m1iv/choosing_the_right_model_and_setup_for_my/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Brag your spec running llm.",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1mzmwu8/brag_your_spec_running_llm/",
+      "score": 2,
+      "comments": 4,
+      "post_id": "t3_1mzmwu8",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "Sweet-Answer3338",
+      "author_id": "t2_ljtynmm2p",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-25T10:34:06.319000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1mzmwu8/brag_your_spec_running_llm/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Seeking efficient OCR solution for course PDFs/images in a mobile-based AI assistant",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1mzoqt5/seeking_efficient_ocr_solution_for_course/",
+      "score": 0,
+      "comments": 5,
+      "post_id": "t3_1mzoqt5",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "Wild-Attorney-5854",
+      "author_id": "t2_135s9zsjdt",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-25T12:10:35.711000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1mzoqt5/seeking_efficient_ocr_solution_for_course/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "LLM Context Window Growth (2021-Now)",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1mynr2y/llm_context_window_growth_2021now/",
+      "score": 82,
+      "comments": 19,
+      "post_id": "t3_1mynr2y",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "jack-ster",
+      "author_id": "t2_rypy4",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-24T05:56:54.140000+0000",
+      "content_href": "https://v.redd.it/sna64unjpwkf1",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Awesome-local-LLM: New Resource Repository for Running LLMs Locally",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1mx82yn/awesomelocalllm_new_resource_repository_for/",
+      "score": 69,
+      "comments": 5,
+      "post_id": "t3_1mx82yn",
+      "post_type": "multi_media",
+      "domain": "self.LocalLLM",
+      "author": "What_to_type_here",
+      "author_id": "t2_61j496qt",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-22T14:30:17.083000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1mx82yn/awesomelocalllm_new_resource_repository_for/",
+      "content_preview": "",
+      "flair": [
+        "Project"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Is there a way to test how will a fully upgraded Mac mini will do and what it can run? (M4 pro, 14 core CPU, 20 core GPU, 64ram, with 5tb external storage)",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1mzn0og/is_there_a_way_to_test_how_will_a_fully_upgraded/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1mzn0og",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "not-bilbo-baggings",
+      "author_id": "t2_urljb77w",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-25T10:40:26.525000+0000",
+      "content_href": "/r/ollama/comments/1mzn0dc/is_there_a_way_to_test_how_will_a_fully_upgraded/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Running GLM 4.5 2 bit quant on 80GB VRAM and 128GB RAM",
+      "permalink": "https://www.reddit.com/r/LocalLLM/comments/1n1i9e4/running_glm_45_2_bit_quant_on_80gb_vram_and_128gb/",
+      "score": 24,
+      "comments": 15,
+      "post_id": "t3_1n1i9e4",
+      "post_type": "text",
+      "domain": "self.LocalLLM",
+      "author": "Jaswanth04",
+      "author_id": "t2_2n73pa",
+      "subreddit_id": "t5_84a9er",
+      "subreddit": "r/LocalLLM",
+      "created_ts": "2025-08-27T14:16:14.352000+0000",
+      "content_href": "https://www.reddit.com/r/LocalLLM/comments/1n1i9e4/running_glm_45_2_bit_quant_on_80gb_vram_and_128gb/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    }
+  ],
+  "scraped_at": "2025-09-02T11:27:33.863361"
+}

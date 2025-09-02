@@ -1,0 +1,1011 @@
+{
+  "subreddit": "cpp_questions",
+  "url": "https://www.reddit.com/r/cpp_questions",
+  "meta": {
+    "title": "c++ questions and answers",
+    "members_text": "92,220"
+  },
+  "posts": [
+    {
+      "title": "I understand pointers but don't know when to use them?",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n6oup3/i_understand_pointers_but_dont_know_when_to_use/",
+      "score": 0,
+      "comments": 21,
+      "post_id": "t3_1n6oup3",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "Lord_Sotur",
+      "author_id": "t2_1myulhz1c9",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-09-02T16:52:31.725000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n6oup3/i_understand_pointers_but_dont_know_when_to_use/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_e59zr9/styles/profileIcon_ytr7b67vg0gf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=cf58696dfc6e0439123521bf6759eb09c32430c8"
+    },
+    {
+      "title": "Are the moderators in this subreddit alive?",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n57nf9/are_the_moderators_in_this_subreddit_alive/",
+      "score": 152,
+      "comments": 46,
+      "post_id": "t3_1n57nf9",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "Historical_Flow4296",
+      "author_id": "t2_d9k9fmy3",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-31T22:12:00.668000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n57nf9/are_the_moderators_in_this_subreddit_alive/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "What about projects ?",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n6f6wc/what_about_projects/",
+      "score": 4,
+      "comments": 12,
+      "post_id": "t3_1n6f6wc",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "Veles_venice",
+      "author_id": "t2_1mnm8qh0wa",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-09-02T09:47:46.407000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n6f6wc/what_about_projects/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Why are the std headers so huge",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1mrcm91/why_are_the_std_headers_so_huge/",
+      "score": 85,
+      "comments": 78,
+      "post_id": "t3_1mrcm91",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "Good-Host-606",
+      "author_id": "t2_12hxcr6dda",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-15T22:31:43.976000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1mrcm91/why_are_the_std_headers_so_huge/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "std::optional vs output parameters vs exceptions",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n5zn2v/stdoptional_vs_output_parameters_vs_exceptions/",
+      "score": 14,
+      "comments": 38,
+      "post_id": "t3_1n5zn2v",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "Traditional_Crazy200",
+      "author_id": "t2_i8ouemqs",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-09-01T20:22:58.375000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n5zn2v/stdoptional_vs_output_parameters_vs_exceptions/",
+      "content_preview": "",
+      "flair": [
+        "DISCUSSION"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How did you learn cpp",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n2vnm9/how_did_you_learn_cpp/",
+      "score": 41,
+      "comments": 53,
+      "post_id": "t3_1n2vnm9",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "futuremitstudent",
+      "author_id": "t2_1j77cqw038",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-29T02:32:01.647000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n2vnm9/how_did_you_learn_cpp/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Good book for performant, modern C++ practices?",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n64rpc/good_book_for_performant_modern_c_practices/",
+      "score": 4,
+      "comments": 9,
+      "post_id": "t3_1n64rpc",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "debugs_with_println",
+      "author_id": "t2_xtcdj",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-09-01T23:59:56.354000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n64rpc/good_book_for_performant_modern_c_practices/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Platform Agnostic way of getting path of program in execution without using argv[0]",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n6omzq/platform_agnostic_way_of_getting_path_of_program/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1n6omzq",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "Aware_Mark_2460",
+      "author_id": "t2_196v5d0pxn",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-09-02T16:44:43.436000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n6omzq/platform_agnostic_way_of_getting_path_of_program/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Why is there no GUI standard library?",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1mjrx6t/why_is_there_no_gui_standard_library/",
+      "score": 71,
+      "comments": 103,
+      "post_id": "t3_1mjrx6t",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "Proud_Variation_477",
+      "author_id": "t2_1tvxvwedac",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-07T05:44:40.493000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1mjrx6t/why_is_there_no_gui_standard_library/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Using std::visit with rvalues",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n600ei/using_stdvisit_with_rvalues/",
+      "score": 5,
+      "comments": 6,
+      "post_id": "t3_1n600ei",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "kevkevverson",
+      "author_id": "t2_6kh90",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-09-01T20:37:05.818000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n600ei/using_stdvisit_with_rvalues/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Is it normal to struggle with logic while learning C++ ?",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n528q9/is_it_normal_to_struggle_with_logic_while/",
+      "score": 35,
+      "comments": 34,
+      "post_id": "t3_1n528q9",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "coder_spy",
+      "author_id": "t2_1wu38vwud7",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-31T18:31:24.132000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n528q9/is_it_normal_to_struggle_with_logic_while/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "ECS implementation review.",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n5p4x1/ecs_implementation_review/",
+      "score": 4,
+      "comments": 21,
+      "post_id": "t3_1n5p4x1",
+      "post_type": "multi_media",
+      "domain": "self.cpp_questions",
+      "author": "Inevitable-Crab-4499",
+      "author_id": "t2_9rta1g3sw",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-09-01T13:46:18.247000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n5p4x1/ecs_implementation_review/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_b6y4e1/styles/profileIcon_qtjx715ri6zd1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3c92bfd61cead6be50b7449aad0e05a113e16a82"
+    },
+    {
+      "title": "Area to study to improve as a C++ developer",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n0yjqr/area_to_study_to_improve_as_a_c_developer/",
+      "score": 29,
+      "comments": 23,
+      "post_id": "t3_1n0yjqr",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "dysirin",
+      "author_id": "t2_e1k019rv",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-26T21:31:16.036000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n0yjqr/area_to_study_to_improve_as_a_c_developer/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4xhd11/styles/profileIcon_rq2oaj0agli71.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=127193a6419eae7dfd21eab049e850ae5ad74606"
+    },
+    {
+      "title": "Boost::multiprecision question",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n3s8t3/boostmultiprecision_question/",
+      "score": 2,
+      "comments": 5,
+      "post_id": "t3_1n3s8t3",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "407C_Huffer",
+      "author_id": "t2_1c638606uq",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-30T04:13:16.591000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n3s8t3/boostmultiprecision_question/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "People who learnt C++ starting as a complete beginner to coding, how long did it take you to learn all or most of the topics from learncpp.com?",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1mk8u7u/people_who_learnt_c_starting_as_a_complete/",
+      "score": 70,
+      "comments": 67,
+      "post_id": "t3_1mk8u7u",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "[deleted]",
+      "author_id": "",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-07T19:02:07.258000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1mk8u7u/people_who_learnt_c_starting_as_a_complete/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "C++ multithreading tutorials",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n2fvyj/c_multithreading_tutorials/",
+      "score": 24,
+      "comments": 9,
+      "post_id": "t3_1n2fvyj",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "locus01",
+      "author_id": "t2_1w0cctgfdx",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-28T15:47:29.113000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n2fvyj/c_multithreading_tutorials/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Good ui lib for quick devtools prototyping and viz",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n17ehr/good_ui_lib_for_quick_devtools_prototyping_and_viz/",
+      "score": 0,
+      "comments": 5,
+      "post_id": "t3_1n17ehr",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "IndividualSituation8",
+      "author_id": "t2_2mfqx33n",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-27T04:18:11.841000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n17ehr/good_ui_lib_for_quick_devtools_prototyping_and_viz/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Is slapping \"constexpr\" before every function a good programming practice?",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1mxh9hn/is_slapping_constexpr_before_every_function_a/",
+      "score": 66,
+      "comments": 53,
+      "post_id": "t3_1mxh9hn",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "Consistent-Top4087",
+      "author_id": "t2_wpyxpfdq8",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-22T20:19:18.246000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1mxh9hn/is_slapping_constexpr_before_every_function_a/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "difference between sockaddr_in and sockaddr",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1mzsne8/difference_between_sockaddr_in_and_sockaddr/",
+      "score": 7,
+      "comments": 15,
+      "post_id": "t3_1mzsne8",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "MastodonFunny5180",
+      "author_id": "t2_1b0y4lfgv4",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-25T14:53:33.946000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1mzsne8/difference_between_sockaddr_in_and_sockaddr/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_cp03v5/styles/profileIcon_s70uo0ukqnxd1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=55452d6d2adb8dbc49b6411f2edec19f46768242"
+    },
+    {
+      "title": "Exceptions and error codes.",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1mzi3bd/exceptions_and_error_codes/",
+      "score": 8,
+      "comments": 26,
+      "post_id": "t3_1mzi3bd",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "Aware_Mark_2460",
+      "author_id": "t2_196v5d0pxn",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-25T05:28:40.808000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1mzi3bd/exceptions_and_error_codes/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Could you please help with Boost under MacOS (boost_systemConfig.cmake is absent)",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n6h9m2/could_you_please_help_with_boost_under_macos/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6h9m2",
+      "post_type": "multi_media",
+      "domain": "self.cpp_questions",
+      "author": "abrilevskiy",
+      "author_id": "t2_kvfey71x",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-09-02T11:46:04.979000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n6h9m2/could_you_please_help_with_boost_under_macos/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "No matching constructor for initialization of 'std::string' and std::find return type",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n6fsn1/no_matching_constructor_for_initialization_of/",
+      "score": 1,
+      "comments": 5,
+      "post_id": "t3_1n6fsn1",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "ps3_rs",
+      "author_id": "t2_mtidfweq",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-09-02T10:24:40.349000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n6fsn1/no_matching_constructor_for_initialization_of/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Unexpected std::ifstream behaviour in Windows g++",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1mzh0nq/unexpected_stdifstream_behaviour_in_windows_g/",
+      "score": 0,
+      "comments": 5,
+      "post_id": "t3_1mzh0nq",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "Impossible-Sky-5660",
+      "author_id": "t2_ifzrsmc7",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-25T04:26:40.775000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1mzh0nq/unexpected_stdifstream_behaviour_in_windows_g/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "C++ linting in VS Code",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1myyo9k/c_linting_in_vs_code/",
+      "score": 2,
+      "comments": 6,
+      "post_id": "t3_1myyo9k",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "SubhanBihan",
+      "author_id": "t2_1mh6xtpf",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-24T15:31:58.096000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1myyo9k/c_linting_in_vs_code/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Boost.algorithm",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1myyixf/boostalgorithm/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1myyixf",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "Neat_Confidence9810",
+      "author_id": "t2_upik09gp",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-24T15:26:10.114000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1myyixf/boostalgorithm/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Using C++20 , modules",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n6ei7e/using_c20_modules/",
+      "score": 0,
+      "comments": 19,
+      "post_id": "t3_1n6ei7e",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "Kooky_Tw",
+      "author_id": "t2_1l9u047kso",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-09-02T09:03:04.005000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n6ei7e/using_c20_modules/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_e8p7vs/styles/profileIcon_s524rvxr1rmf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=001951a6c2d0073cda966bc19b80a6eecb6297ec"
+    },
+    {
+      "title": "I want to learn c++ for game dev but idk where to start",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1mzndog/i_want_to_learn_c_for_game_dev_but_idk_where_to/",
+      "score": 62,
+      "comments": 38,
+      "post_id": "t3_1mzndog",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "Muzinari",
+      "author_id": "t2_auf7m0d2",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-25T11:00:53.366000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1mzndog/i_want_to_learn_c_for_game_dev_but_idk_where_to/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Best Place to learn C++",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n4jvkw/best_place_to_learn_c/",
+      "score": 22,
+      "comments": 15,
+      "post_id": "t3_1n4jvkw",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "Hour-Car-7979",
+      "author_id": "t2_l4qqe8m69",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-31T02:56:49.572000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n4jvkw/best_place_to_learn_c/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "wanted to learn about socketing",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1myvamy/wanted_to_learn_about_socketing/",
+      "score": 0,
+      "comments": 6,
+      "post_id": "t3_1myvamy",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "MastodonFunny5180",
+      "author_id": "t2_1b0y4lfgv4",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-24T13:15:12.136000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1myvamy/wanted_to_learn_about_socketing/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_cp03v5/styles/profileIcon_s70uo0ukqnxd1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=55452d6d2adb8dbc49b6411f2edec19f46768242"
+    },
+    {
+      "title": "Is ++i a statement or an expression?",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n17sic/is_i_a_statement_or_an_expression/",
+      "score": 21,
+      "comments": 18,
+      "post_id": "t3_1n17sic",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "PlasticPhilosophy579",
+      "author_id": "t2_jb19hi0ju",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-27T04:40:11.539000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n17sic/is_i_a_statement_or_an_expression/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Best way to learn more C++",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n4exxf/best_way_to_learn_more_c/",
+      "score": 19,
+      "comments": 23,
+      "post_id": "t3_1n4exxf",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "JollyStore810",
+      "author_id": "t2_a51xbz28",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-30T22:51:04.069000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n4exxf/best_way_to_learn_more_c/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What are your best pratices in C++ for avoiding circular dependencies",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n38xce/what_are_your_best_pratices_in_c_for_avoiding/",
+      "score": 18,
+      "comments": 56,
+      "post_id": "t3_1n38xce",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "GugorMV",
+      "author_id": "t2_a79h0wsx",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-29T14:27:24.370000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n38xce/what_are_your_best_pratices_in_c_for_avoiding/",
+      "content_preview": "",
+      "flair": [
+        "UPDATED"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "why does g++ need these?",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n3hvtu/why_does_g_need_these/",
+      "score": 18,
+      "comments": 35,
+      "post_id": "t3_1n3hvtu",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "deadunderthelibrary",
+      "author_id": "t2_e2is5upf",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-29T20:10:41.123000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n3hvtu/why_does_g_need_these/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Everything public in a class?",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n0kebz/everything_public_in_a_class/",
+      "score": 14,
+      "comments": 90,
+      "post_id": "t3_1n0kebz",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "heavymetalmixer",
+      "author_id": "t2_cnn8a5dz",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-26T12:24:40.924000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n0kebz/everything_public_in_a_class/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4ttjr7/styles/profileIcon_f7lvrt09j8e71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=58324c79b40fc68e4c9b27038a03a28c0459cf8b"
+    },
+    {
+      "title": "ImGui design pattern suggestions for multithread scenarios?",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1myr42n/imgui_design_pattern_suggestions_for_multithread/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1myr42n",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "OkRestaurant9285",
+      "author_id": "t2_j0z3mk1n",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-24T09:28:31.500000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1myr42n/imgui_design_pattern_suggestions_for_multithread/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Best simple IDEs/code editors?",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n4u8xq/best_simple_idescode_editors/",
+      "score": 8,
+      "comments": 15,
+      "post_id": "t3_1n4u8xq",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "-Edu4rd0-",
+      "author_id": "t2_3f0taj71",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-31T13:07:21.056000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n4u8xq/best_simple_idescode_editors/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_y7g6o/styles/profileIcon_yyojb03ukz281.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=479a013ecf31315fc349bb265ea4525d63ba5889"
+    },
+    {
+      "title": "Creating long-named folder with std::filesystem on MSVC",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n0h3up/creating_longnamed_folder_with_stdfilesystem_on/",
+      "score": 8,
+      "comments": 15,
+      "post_id": "t3_1n0h3up",
+      "post_type": "multi_media",
+      "domain": "self.cpp_questions",
+      "author": "onecable5781",
+      "author_id": "t2_n72z0adsc",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-26T09:24:07.389000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n0h3up/creating_longnamed_folder_with_stdfilesystem_on/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "How to improve memory management with SDL3?",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1mxdlad/how_to_improve_memory_management_with_sdl3/",
+      "score": 6,
+      "comments": 10,
+      "post_id": "t3_1mxdlad",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "RoundSize3818",
+      "author_id": "t2_s99s51ku",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-22T17:58:59.658000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1mxdlad/how_to_improve_memory_management_with_sdl3/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Collection of C++ books on Humble Bundle",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1mrw5ze/collection_of_c_books_on_humble_bundle/",
+      "score": 61,
+      "comments": 16,
+      "post_id": "t3_1mrw5ze",
+      "post_type": "multi_media",
+      "domain": "self.cpp_questions",
+      "author": "Fucitoll",
+      "author_id": "t2_12q4v7",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-16T14:03:32.460000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1mrw5ze/collection_of_c_books_on_humble_bundle/",
+      "content_preview": "",
+      "flair": [
+        "META"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Are there standard ways to enforce versions inside code?",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1mwi7a3/are_there_standard_ways_to_enforce_versions/",
+      "score": 6,
+      "comments": 19,
+      "post_id": "t3_1mwi7a3",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "UndefFox",
+      "author_id": "t2_v2qeaye5",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-21T17:55:25.584000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1mwi7a3/are_there_standard_ways_to_enforce_versions/",
+      "content_preview": "",
+      "flair": [
+        "SOLVED"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8izlle/styles/profileIcon_xor4x8rb76rb1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f73c8a6c0a387507c3c0c2b958e77cd1ef7bc069"
+    },
+    {
+      "title": "Implement custom List capacity operations to work the same way as std::vector?",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1mwjew9/implement_custom_list_capacity_operations_to_work/",
+      "score": 4,
+      "comments": 9,
+      "post_id": "t3_1mwjew9",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "zz9873",
+      "author_id": "t2_vesy0491",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-21T18:40:22.888000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1mwjew9/implement_custom_list_capacity_operations_to_work/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7r7wcf/styles/profileIcon_zkgeg0qj566b1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ace0fc4abde4fdcfc389c0546c8ee48db207fb2a"
+    },
+    {
+      "title": "Whats you opinion on using C++ like C with some C++ Features?",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1mrzjlo/whats_you_opinion_on_using_c_like_c_with_some_c/",
+      "score": 47,
+      "comments": 53,
+      "post_id": "t3_1mrzjlo",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "AstraRotlicht22",
+      "author_id": "t2_wqo4q",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-16T16:07:28.833000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1mrzjlo/whats_you_opinion_on_using_c_like_c_with_some_c/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "What would be some good resources to learn CPP as a complete beginner for competitive coding?",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n66pva/what_would_be_some_good_resources_to_learn_cpp_as/",
+      "score": 0,
+      "comments": 6,
+      "post_id": "t3_1n66pva",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "Pristine_Hospital140",
+      "author_id": "t2_1wxax2xpuc",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-09-02T01:32:57.880000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n66pva/what_would_be_some_good_resources_to_learn_cpp_as/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "roughly how long would it take for a beginner to implement a self hosted c++23 compiler",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1mgw3l6/roughly_how_long_would_it_take_for_a_beginner_to/",
+      "score": 46,
+      "comments": 126,
+      "post_id": "t3_1mgw3l6",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "CooperNettees",
+      "author_id": "t2_vxropljq",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-03T22:08:40.736000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1mgw3l6/roughly_how_long_would_it_take_for_a_beginner_to/",
+      "content_preview": "",
+      "flair": [
+        "SOLVED"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "What are the C++ libs that you can recommend for general purpose ?",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1mnuokv/what_are_the_c_libs_that_you_can_recommend_for/",
+      "score": 36,
+      "comments": 40,
+      "post_id": "t3_1mnuokv",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "tahsindev",
+      "author_id": "t2_10vtw4i5hn",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-12T00:53:50.161000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1mnuokv/what_are_the_c_libs_that_you_can_recommend_for/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Where to learn CryEngine C++",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n4i64i/where_to_learn_cryengine_c/",
+      "score": 8,
+      "comments": 10,
+      "post_id": "t3_1n4i64i",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "WorldlyAd3588",
+      "author_id": "t2_1nayh0fp5a",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-31T01:28:12.151000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n4i64i/where_to_learn_cryengine_c/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Disabling built-in vector operators in Clang",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1mwiiaa/disabling_builtin_vector_operators_in_clang/",
+      "score": 2,
+      "comments": 18,
+      "post_id": "t3_1mwiiaa",
+      "post_type": "multi_media",
+      "domain": "self.cpp_questions",
+      "author": "sweet_programming",
+      "author_id": "t2_87hxxetz4",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-21T18:06:37.973000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1mwiiaa/disabling_builtin_vector_operators_in_clang/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "should i read all of learncpp before learning graphics programming?",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1my23c6/should_i_read_all_of_learncpp_before_learning/",
+      "score": 35,
+      "comments": 24,
+      "post_id": "t3_1my23c6",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "MyNameIsSquare",
+      "author_id": "t2_7dag572x",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-23T13:54:38.144000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1my23c6/should_i_read_all_of_learncpp_before_learning/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Is it worth reading the entirety of learncpp?",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1mtp3c0/is_it_worth_reading_the_entirety_of_learncpp/",
+      "score": 30,
+      "comments": 28,
+      "post_id": "t3_1mtp3c0",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "SirIll6365",
+      "author_id": "t2_1f7kc0flh2",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-08-18T15:23:02.881000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1mtp3c0/is_it_worth_reading_the_entirety_of_learncpp/",
+      "content_preview": "",
+      "flair": [
+        "OPEN"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Question on single header style",
+      "permalink": "https://www.reddit.com/r/cpp_questions/comments/1n660ye/question_on_single_header_style/",
+      "score": 0,
+      "comments": 17,
+      "post_id": "t3_1n660ye",
+      "post_type": "text",
+      "domain": "self.cpp_questions",
+      "author": "Plus-Anywhere217",
+      "author_id": "t2_1s8ox6rqvs",
+      "subreddit_id": "t5_2tdbd",
+      "subreddit": "r/cpp_questions",
+      "created_ts": "2025-09-02T00:59:21.467000+0000",
+      "content_href": "https://www.reddit.com/r/cpp_questions/comments/1n660ye/question_on_single_header_style/",
+      "content_preview": "",
+      "flair": [
+        "META"
+      ],
+      "thumbnail_url": ""
+    }
+  ],
+  "scraped_at": "2025-09-02T11:10:49.588069"
+}

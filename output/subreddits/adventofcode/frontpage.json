@@ -1,0 +1,1010 @@
+{
+  "subreddit": "adventofcode",
+  "url": "https://www.reddit.com/r/adventofcode",
+  "meta": {
+    "title": "Advent of Code"
+  },
+  "posts": [
+    {
+      "title": "[2023 Day 8 (Part 2)] Why the correct answer isn't (Haunted Wasteland, camels)",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1n406vd/2023_day_8_part_2_why_the_correct_answer_isnt/",
+      "score": 2,
+      "comments": 4,
+      "post_id": "t3_1n406vd",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "AvailablePoint9782",
+      "author_id": "t2_8hza5xzi",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-08-30T12:18:33.749000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1n406vd/2023_day_8_part_2_why_the_correct_answer_isnt/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question - RESOLVED"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "How do you know when to brute force vs find an optimized solution?",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1n295vb/how_do_you_know_when_to_brute_force_vs_find_an/",
+      "score": 21,
+      "comments": 43,
+      "post_id": "t3_1n295vb",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "IDidMyOwnResearchLOL",
+      "author_id": "t2_1s3iei3r9u",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-08-28T11:01:59.271000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1n295vb/how_do_you_know_when_to_brute_force_vs_find_an/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What programming language surprised you the most during Advent of Code this year?",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1n0h8i3/what_programming_language_surprised_you_the_most/",
+      "score": 0,
+      "comments": 12,
+      "post_id": "t3_1n0h8i3",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "BambooData",
+      "author_id": "t2_1s333wnrwy",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-08-26T09:32:22.690000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1n0h8i3/what_programming_language_surprised_you_the_most/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How I completed Advent of Code 2021 on a Commodore 64 (and how you can as well)",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1mz8uql/how_i_completed_advent_of_code_2021_on_a/",
+      "score": 62,
+      "comments": 10,
+      "post_id": "t3_1mz8uql",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "H_M_X_",
+      "author_id": "t2_9yl6k67",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-08-24T22:00:58.230000+0000",
+      "content_href": "https://github.com/hmatejx/AoC64/tree/main",
+      "content_preview": "",
+      "flair": [
+        "Upping the Ante"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7gtor/styles/profileIcon_dgilr9ytc6l31.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d2ce7ea4218760e04d4457345316edf1a1ef1527"
+    },
+    {
+      "title": "[2024 Days 1-25] The Drakaina: AoC 2024 solved with a Python one-liner",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1mx1hqb/2024_days_125_the_drakaina_aoc_2024_solved_with_a/",
+      "score": 35,
+      "comments": 7,
+      "post_id": "t3_1mx1hqb",
+      "post_type": "multi_media",
+      "domain": "self.adventofcode",
+      "author": "JWinslow23",
+      "author_id": "t2_1609la",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-08-22T09:07:34.046000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1mx1hqb/2024_days_125_the_drakaina_aoc_2024_solved_with_a/",
+      "content_preview": "",
+      "flair": [
+        "Upping the Ante"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Andrew Reece streams aoc 2022",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1mw4bmu/andrew_reece_streams_aoc_2022/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1mw4bmu",
+      "post_type": "link",
+      "domain": "twitch.tv",
+      "author": "fquiver",
+      "author_id": "t2_v33mlhjk",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-08-21T07:30:08.347000+0000",
+      "content_href": "https://www.twitch.tv/videos/1669247002?collection=IPb0J8BPLhcS9g",
+      "content_preview": "",
+      "flair": [
+        "Streaming"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[YEAR 2025 Any news on AoC 2025?]",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1muhut3/year_2025_any_news_on_aoc_2025/",
+      "score": 6,
+      "comments": 5,
+      "post_id": "t3_1muhut3",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "TomTidning",
+      "author_id": "t2_zkmn0309t",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-08-19T13:04:44.570000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1muhut3/year_2025_any_news_on_aoc_2025/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question - RESOLVED"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "How do you organize your code and files for AoC challenges?",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1muc9jd/how_do_you_organize_your_code_and_files_for_aoc/",
+      "score": 7,
+      "comments": 27,
+      "post_id": "t3_1muc9jd",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "IDidMyOwnResearchLOL",
+      "author_id": "t2_1s3iei3r9u",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-08-19T08:02:04.472000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1muc9jd/how_do_you_organize_your_code_and_files_for_aoc/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[2015 Day # 7] C++ Stack Overflow",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1mt7gtd/2015_day_7_c_stack_overflow/",
+      "score": 4,
+      "comments": 4,
+      "post_id": "t3_1mt7gtd",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "Direct_Chemistry_179",
+      "author_id": "t2_1k2k6zjx22",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-08-18T00:34:36.316000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1mt7gtd/2015_day_7_c_stack_overflow/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question - RESOLVED"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "[2015 Day 14 (Part 2)] [Python] Correct distance, incorrect score for test input",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1ms5eae/2015_day_14_part_2_python_correct_distance/",
+      "score": 5,
+      "comments": 3,
+      "post_id": "t3_1ms5eae",
+      "post_type": "multi_media",
+      "domain": "self.adventofcode",
+      "author": "Pjoterro",
+      "author_id": "t2_gm9ib",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-08-16T19:38:05.579000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1ms5eae/2015_day_14_part_2_python_correct_distance/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question - RESOLVED"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "DFS for AoC-like challenges. For beginners!",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1mr68g3/dfs_for_aoclike_challenges_for_beginners/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1mr68g3",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "Grand-Sale-2343",
+      "author_id": "t2_s2my9pzca",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-08-15T18:32:34.589000+0000",
+      "content_href": "https://www.youtube.com/watch?v=kCF4Nsv5BYA&t=625s",
+      "content_preview": "",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How do you structure your codebase for AoC to avoid copy-pasting boilerplate?",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1mpvs88/how_do_you_structure_your_codebase_for_aoc_to/",
+      "score": 11,
+      "comments": 28,
+      "post_id": "t3_1mpvs88",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "BambooData",
+      "author_id": "t2_1s333wnrwy",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-08-14T09:29:16.422000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1mpvs88/how_do_you_structure_your_codebase_for_aoc_to/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Legacy code in a nutshell",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1mo5n51/legacy_code_in_a_nutshell/",
+      "score": 159,
+      "comments": 11,
+      "post_id": "t3_1mo5n51",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "IDidMyOwnResearchLOL",
+      "author_id": "t2_1s3iei3r9u",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-08-12T11:03:23.985000+0000",
+      "content_href": "https://i.redd.it/n409m4wxlkif1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Meme/Funny"
+      ],
+      "thumbnail_url": "https://preview.redd.it/legacy-code-in-a-nutshell-v0-n409m4wxlkif1.jpeg?width=640&crop=smart&auto=webp&s=86f5d8677273db9ff090fa0555a382e3c9976b76"
+    },
+    {
+      "title": "AoC vs Video Games",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1mny45m/aoc_vs_video_games/",
+      "score": 21,
+      "comments": 11,
+      "post_id": "t3_1mny45m",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "abandonedbase",
+      "author_id": "t2_1idw4gx37g",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-08-12T03:34:31.905000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1mny45m/aoc_vs_video_games/",
+      "content_preview": "",
+      "flair": [
+        "Meme/Funny"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "2023 day 5 part 2 got me like:",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1mkrer3/2023_day_5_part_2_got_me_like/",
+      "score": 241,
+      "comments": 20,
+      "post_id": "t3_1mkrer3",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "not-the-the",
+      "author_id": "t2_8qrlgjvvw",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-08-08T10:17:49.081000+0000",
+      "content_href": "https://i.redd.it/0lzolw6ztrhf1.png",
+      "content_preview": "",
+      "flair": [
+        "Meme/Funny"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8cgqd6/styles/profileIcon_wpp90kn9461b1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c7f5a4cbd0af1a0d4b36e4b61a809af05e6ba643"
+    },
+    {
+      "title": "How do you avoid AoC burnout halfway?",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1mkq4nq/how_do_you_avoid_aoc_burnout_halfway/",
+      "score": 51,
+      "comments": 35,
+      "post_id": "t3_1mkq4nq",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "IDidMyOwnResearchLOL",
+      "author_id": "t2_1s3iei3r9u",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-08-08T08:56:03.742000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1mkq4nq/how_do_you_avoid_aoc_burnout_halfway/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[2023 day 3 part 2] [TS] i'm literally doing it manually (with a bit of regex replacing) and i got the wrong answer (\"too high\") twice. what could i be doing wrong?",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1mjxrbn/2023_day_3_part_2_ts_im_literally_doing_it/",
+      "score": 0,
+      "comments": 17,
+      "post_id": "t3_1mjxrbn",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "not-the-the",
+      "author_id": "t2_8qrlgjvvw",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-08-07T11:41:02.781000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1mjxrbn/2023_day_3_part_2_ts_im_literally_doing_it/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question - RESOLVED"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8cgqd6/styles/profileIcon_wpp90kn9461b1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c7f5a4cbd0af1a0d4b36e4b61a809af05e6ba643"
+    },
+    {
+      "title": "[2023 day 4 part 2] [TS] works on sample, too high on real input?",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1mk27v7/2023_day_4_part_2_ts_works_on_sample_too_high_on/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1mk27v7",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "not-the-the",
+      "author_id": "t2_8qrlgjvvw",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-08-07T14:53:23.676000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mk27v7",
+      "content_preview": "",
+      "flair": [
+        "Help/Question - RESOLVED"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8cgqd6/styles/profileIcon_wpp90kn9461b1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c7f5a4cbd0af1a0d4b36e4b61a809af05e6ba643"
+    },
+    {
+      "title": "Can I redistribute (post on github) sample inputs from the website / sample inputs I made myself?",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1mk40um/can_i_redistribute_post_on_github_sample_inputs/",
+      "score": 0,
+      "comments": 6,
+      "post_id": "t3_1mk40um",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "not-the-the",
+      "author_id": "t2_8qrlgjvvw",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-08-07T16:01:48.312000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1mk40um/can_i_redistribute_post_on_github_sample_inputs/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8cgqd6/styles/profileIcon_wpp90kn9461b1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c7f5a4cbd0af1a0d4b36e4b61a809af05e6ba643"
+    },
+    {
+      "title": "[2022 Day 5] Finally came back and got this one",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1mfkecm/2022_day_5_finally_came_back_and_got_this_one/",
+      "score": 12,
+      "comments": 16,
+      "post_id": "t3_1mfkecm",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "SpecificMachine1",
+      "author_id": "t2_167hax1",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-08-02T07:18:10.184000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1mfkecm/2022_day_5_finally_came_back_and_got_this_one/",
+      "content_preview": "",
+      "flair": [
+        "Spoilers"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Do you reuse utility code or start fresh each day?",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1mb8upw/do_you_reuse_utility_code_or_start_fresh_each_day/",
+      "score": 13,
+      "comments": 39,
+      "post_id": "t3_1mb8upw",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "BambooData",
+      "author_id": "t2_1s333wnrwy",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-07-28T06:29:42.794000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1mb8upw/do_you_reuse_utility_code_or_start_fresh_each_day/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Secret Santa in July",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1m9bkwz/secret_santa_in_july/",
+      "score": 9,
+      "comments": 27,
+      "post_id": "t3_1m9bkwz",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "Practical-Quote1371",
+      "author_id": "t2_1ahmvo1ycg",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-07-25T21:32:54.014000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1m9bkwz/secret_santa_in_july/",
+      "content_preview": "",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "[2024 ,day2, (part2), python] Confusion removing levels",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1m5r888/2024_day2_part2_python_confusion_removing_levels/",
+      "score": 5,
+      "comments": 11,
+      "post_id": "t3_1m5r888",
+      "post_type": "multi_media",
+      "domain": "self.adventofcode",
+      "author": "Direct_Chemistry_179",
+      "author_id": "t2_1k2k6zjx22",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-07-21T18:43:20.600000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1m5r888/2024_day2_part2_python_confusion_removing_levels/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question - RESOLVED"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "What’s your go-to language for advent of Clcode, do you stick or switch?",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1m5ee1f/whats_your_goto_language_for_advent_of_clcode_do/",
+      "score": 11,
+      "comments": 43,
+      "post_id": "t3_1m5ee1f",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "BambooData",
+      "author_id": "t2_1s333wnrwy",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-07-21T09:31:50.868000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1m5ee1f/whats_your_goto_language_for_advent_of_clcode_do/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[2024 Day 24 Part 2] Manual Solution, No Electronics Or Statistics Knowledge Required",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1m2za2t/2024_day_24_part_2_manual_solution_no_electronics/",
+      "score": 17,
+      "comments": 1,
+      "post_id": "t3_1m2za2t",
+      "post_type": "multi_media",
+      "domain": "self.adventofcode",
+      "author": "ptoshkov",
+      "author_id": "t2_hxuz39nd",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-07-18T11:00:12.994000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1m2za2t/2024_day_24_part_2_manual_solution_no_electronics/",
+      "content_preview": "",
+      "flair": [
+        "Spoilers"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "2024 Day One Part Two",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1m2q3pc/2024_day_one_part_two/",
+      "score": 1,
+      "comments": 9,
+      "post_id": "t3_1m2q3pc",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "Successful_Ad_6543",
+      "author_id": "t2_b4yd30v9",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-07-18T02:05:13.998000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1m2q3pc/2024_day_one_part_two/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How do you test your solutions for these puzzles?",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1m21jw7/how_do_you_test_your_solutions_for_these_puzzles/",
+      "score": 1,
+      "comments": 15,
+      "post_id": "t3_1m21jw7",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "IDidMyOwnResearchLOL",
+      "author_id": "t2_1s3iei3r9u",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-07-17T07:52:18.194000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1m21jw7/how_do_you_test_your_solutions_for_these_puzzles/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I made a programming puzzle game where you navigate existing lines of code while they are eaten by bugs",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1m1ddgl/i_made_a_programming_puzzle_game_where_you/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1m1ddgl",
+      "post_type": "link",
+      "domain": "store.steampowered.com",
+      "author": "goldenlion5648",
+      "author_id": "t2_ymgq8",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-07-16T14:01:27.092000+0000",
+      "content_href": "https://store.steampowered.com/app/3333330/You_Are_The_Code?utm_source=aoc",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "What Self-Imposed Rules/Restrictions do you apply to youurself for AoC?",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1m0n6ym/what_selfimposed_rulesrestrictions_do_you_apply/",
+      "score": 19,
+      "comments": 25,
+      "post_id": "t3_1m0n6ym",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "ConDar15",
+      "author_id": "t2_kabko",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-07-15T16:57:51.237000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1m0n6ym/what_selfimposed_rulesrestrictions_do_you_apply/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "How has Advent of Code helped you improve as a developer?",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1m0fa2h/how_has_advent_of_code_helped_you_improve_as_a/",
+      "score": 24,
+      "comments": 21,
+      "post_id": "t3_1m0fa2h",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "IDidMyOwnResearchLOL",
+      "author_id": "t2_1s3iei3r9u",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-07-15T11:28:49.386000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1m0fa2h/how_has_advent_of_code_helped_you_improve_as_a/",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "(!FLASHING LIGHTS!) [2017]'s calendar in a terminal screensaver app",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1m0jss4/flashing_lights_2017s_calendar_in_a_terminal/",
+      "score": 5,
+      "comments": 0,
+      "post_id": "t3_1m0jss4",
+      "post_type": "link",
+      "domain": "files.catbox.moe",
+      "author": "M1n3c4rt",
+      "author_id": "t2_6x2rj12t",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-07-15T14:50:21.809000+0000",
+      "content_href": "https://files.catbox.moe/pi9ddp.mp4",
+      "content_preview": "",
+      "flair": [
+        "Visualization"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2v87g5/styles/profileIcon_ef1u0fj6tn4c1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=732b06b905511a5daf93d5da576e2b0c37fb5e9c"
+    },
+    {
+      "title": "[2022 Day 19 (part 1)][language-agnostic] Can I really produce 13 geodes using example blueprint 2?",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1m0du01/2022_day_19_part_1languageagnostic_can_i_really/",
+      "score": 2,
+      "comments": 9,
+      "post_id": "t3_1m0du01",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "ploeh",
+      "author_id": "t2_1kuyfpq13c",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-07-15T10:06:15.134000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1m0du01/2022_day_19_part_1languageagnostic_can_i_really/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question - RESOLVED"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Which data structures come up the most in AoC puzzles?",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1lw6ylw/which_data_structures_come_up_the_most_in_aoc/",
+      "score": 17,
+      "comments": 13,
+      "post_id": "t3_1lw6ylw",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "IDidMyOwnResearchLOL",
+      "author_id": "t2_1s3iei3r9u",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-07-10T07:53:05.151000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1lw6ylw/which_data_structures_come_up_the_most_in_aoc/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I created a historical puzzle game inspired by AoC",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1luowkl/i_created_a_historical_puzzle_game_inspired_by_aoc/",
+      "score": 40,
+      "comments": 73,
+      "post_id": "t3_1luowkl",
+      "post_type": "multi_media",
+      "domain": "self.adventofcode",
+      "author": "maltsev",
+      "author_id": "t2_37gh1u",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-07-08T13:42:56.832000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1luowkl/i_created_a_historical_puzzle_game_inspired_by_aoc/",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_kirfj/styles/profileIcon_kiizuv2fws291.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=666c02016169f053f8e850e1f8526a8a31a66f53"
+    },
+    {
+      "title": "How do you approach unfamiliar algorithms during AoC?",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1luirf1/how_do_you_approach_unfamiliar_algorithms_during/",
+      "score": 24,
+      "comments": 30,
+      "post_id": "t3_1luirf1",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "IDidMyOwnResearchLOL",
+      "author_id": "t2_1s3iei3r9u",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-07-08T07:52:51.432000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1luirf1/how_do_you_approach_unfamiliar_algorithms_during/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "2024 Day One",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1lubnyj/2024_day_one/",
+      "score": 5,
+      "comments": 8,
+      "post_id": "t3_1lubnyj",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "Successful_Ad_6543",
+      "author_id": "t2_b4yd30v9",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-07-08T01:11:58.474000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1lubnyj/2024_day_one/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question - RESOLVED"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How do you decide between BFS and DFS in AoC puzzles?",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1ltntsw/how_do_you_decide_between_bfs_and_dfs_in_aoc/",
+      "score": 13,
+      "comments": 12,
+      "post_id": "t3_1ltntsw",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "BambooData",
+      "author_id": "t2_1s333wnrwy",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-07-07T07:21:58.115000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1ltntsw/how_do_you_decide_between_bfs_and_dfs_in_aoc/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What tools or libraries do you use for AoC?",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1lrb19n/what_tools_or_libraries_do_you_use_for_aoc/",
+      "score": 8,
+      "comments": 33,
+      "post_id": "t3_1lrb19n",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "IDidMyOwnResearchLOL",
+      "author_id": "t2_1s3iei3r9u",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-07-04T05:42:12.563000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1lrb19n/what_tools_or_libraries_do_you_use_for_aoc/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[2024, day 7, part 1, C]",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1lnbuej/2024_day_7_part_1_c/",
+      "score": 3,
+      "comments": 4,
+      "post_id": "t3_1lnbuej",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "Due_Cap3264",
+      "author_id": "t2_qmgwi5kx",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-06-29T10:52:38.736000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1lnbuej/2024_day_7_part_1_c/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question - RESOLVED"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "[2024 Day 15 (both parts)] - Warehouse simulator",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1lmksol/2024_day_15_both_parts_warehouse_simulator/",
+      "score": 19,
+      "comments": 0,
+      "post_id": "t3_1lmksol",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "hbvhuwe",
+      "author_id": "t2_2kdytc7r",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-06-28T11:41:30.799000+0000",
+      "content_href": "https://i.redd.it/86jbkz2qnn9f1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Visualization"
+      ],
+      "thumbnail_url": "https://preview.redd.it/2024-day-15-both-parts-warehouse-simulator-v0-86jbkz2qnn9f1.jpeg?width=640&crop=smart&auto=webp&s=d3de4fbf2443292f1b90b80a9b978db5a64bc49c"
+    },
+    {
+      "title": "[2024, day 1, part 1, C]",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1li68fv/2024_day_1_part_1_c/",
+      "score": 3,
+      "comments": 7,
+      "post_id": "t3_1li68fv",
+      "post_type": "multi_media",
+      "domain": "self.adventofcode",
+      "author": "Direct_Chemistry_179",
+      "author_id": "t2_1k2k6zjx22",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-06-23T03:16:00.002000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1li68fv/2024_day_1_part_1_c/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question - RESOLVED"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "[2024 Day 5 (Part 2)] What?",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1lhjvbe/2024_day_5_part_2_what/",
+      "score": 0,
+      "comments": 23,
+      "post_id": "t3_1lhjvbe",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "ConanEdogawa317",
+      "author_id": "t2_8kg3ugza",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-06-22T09:27:18.337000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1lhjvbe/2024_day_5_part_2_what/",
+      "content_preview": "",
+      "flair": [
+        "Spoilers"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "( achievement unlocked )",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1ldmury/achievement_unlocked/",
+      "score": 31,
+      "comments": 9,
+      "post_id": "t3_1ldmury",
+      "post_type": "multi_media",
+      "domain": "self.adventofcode",
+      "author": "identity_function",
+      "author_id": "t2_1r4q1vcib7",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-06-17T13:16:02.939000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1ldmury/achievement_unlocked/",
+      "content_preview": "",
+      "flair": [
+        "Spoilers"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "2024 Day 2 Part 2",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1lbc59y/2024_day_2_part_2/",
+      "score": 4,
+      "comments": 7,
+      "post_id": "t3_1lbc59y",
+      "post_type": "multi_media",
+      "domain": "self.adventofcode",
+      "author": "Swimming_Aerie_6696",
+      "author_id": "t2_8fk2aqo2",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-06-14T16:02:34.177000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1lbc59y/2024_day_2_part_2/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Account Recovery",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1lbh64x/account_recovery/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1lbh64x",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "cetttbycettt",
+      "author_id": "t2_5ahna3lm",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-06-14T19:39:41.494000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1lbh64x/account_recovery/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question - RESOLVED"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[2019 day 13][crippled m4] Solving IntCode with just m4's define builtin",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1laodlk/2019_day_13crippled_m4_solving_intcode_with_just/",
+      "score": 4,
+      "comments": 4,
+      "post_id": "t3_1laodlk",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "e_blake",
+      "author_id": "t2_4tezwlii",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-06-13T19:10:44.862000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1laodlk/2019_day_13crippled_m4_solving_intcode_with_just/",
+      "content_preview": "",
+      "flair": [
+        "Upping the Ante"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "[2024 day 17, part 2] Help",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1laikav/2024_day_17_part_2_help/",
+      "score": 6,
+      "comments": 5,
+      "post_id": "t3_1laikav",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "Born-Minute-6638",
+      "author_id": "t2_d1hit7bx",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-06-13T15:17:08.465000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1laikav/2024_day_17_part_2_help/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question - RESOLVED"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[2024 day 17, part 2] Bug?",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1l9soxf/2024_day_17_part_2_bug/",
+      "score": 0,
+      "comments": 11,
+      "post_id": "t3_1l9soxf",
+      "post_type": "multi_media",
+      "domain": "self.adventofcode",
+      "author": "jpjacobs_",
+      "author_id": "t2_uixnedmv",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-06-12T17:39:10.983000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1l9soxf/2024_day_17_part_2_bug/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question - RESOLVED"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Help [2024 Day 7 Part 1] [C] -",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1l8d2pc/help_2024_day_7_part_1_c/",
+      "score": 2,
+      "comments": 11,
+      "post_id": "t3_1l8d2pc",
+      "post_type": "text",
+      "domain": "self.adventofcode",
+      "author": "Shinukai",
+      "author_id": "t2_iw9gs",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-06-10T22:57:50.338000+0000",
+      "content_href": "https://www.reddit.com/r/adventofcode/comments/1l8d2pc/help_2024_day_7_part_1_c/",
+      "content_preview": "",
+      "flair": [
+        "Help/Question - RESOLVED"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "[2024 Day 21] Do you all have pages and pages of scribbled notes like this?",
+      "permalink": "https://www.reddit.com/r/adventofcode/comments/1l6g2a0/2024_day_21_do_you_all_have_pages_and_pages_of/",
+      "score": 108,
+      "comments": 13,
+      "post_id": "t3_1l6g2a0",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "CarmCarmCarm",
+      "author_id": "t2_14yg45",
+      "subreddit_id": "t5_3b3wa",
+      "subreddit": "r/adventofcode",
+      "created_ts": "2025-06-08T16:19:11.294000+0000",
+      "content_href": "https://i.redd.it/qs2b4zi89q5f1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Meme/Funny"
+      ],
+      "thumbnail_url": "https://preview.redd.it/2024-day-21-do-you-all-have-pages-and-pages-of-scribbled-v0-qs2b4zi89q5f1.jpeg?width=640&crop=smart&auto=webp&s=ee6e12197cf895868834af797cf7da9a956aa2f6"
+    }
+  ],
+  "scraped_at": "2025-09-02T10:19:37.821421"
+}

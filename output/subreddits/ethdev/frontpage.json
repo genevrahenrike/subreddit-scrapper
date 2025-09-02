@@ -1,0 +1,1010 @@
+{
+  "subreddit": "ethdev",
+  "url": "https://www.reddit.com/r/ethdev",
+  "meta": {
+    "title": "Ethereum Development and DApps"
+  },
+  "posts": [
+    {
+      "title": "Why Biconomy’s Supertransaction API Stuck With Me",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1n6e1mc/why_biconomys_supertransaction_api_stuck_with_me/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n6e1mc",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "Loyal-Orange8003",
+      "author_id": "t2_1rsg7sd2bg",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-09-02T08:32:22.395000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1n6e1mc/why_biconomys_supertransaction_api_stuck_with_me/",
+      "content_preview": "",
+      "flair": [
+        "Information"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Who has a career in blockchain dev?",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1n3jtzf/who_has_a_career_in_blockchain_dev/",
+      "score": 38,
+      "comments": 18,
+      "post_id": "t3_1n3jtzf",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "QuirkyHighway3653",
+      "author_id": "t2_onb83r02o",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-29T21:29:52.720000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1n3jtzf/who_has_a_career_in_blockchain_dev/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "When would you choose an app-specific chain over deploying to an L2?",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1n5iss6/when_would_you_choose_an_appspecific_chain_over/",
+      "score": 1,
+      "comments": 3,
+      "post_id": "t3_1n5iss6",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "gareth789",
+      "author_id": "t2_k0slss28",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-09-01T08:00:36.272000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1n5iss6/when_would_you_choose_an_appspecific_chain_over/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Half of posts here are scam. they are trying to steal your money. beware",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mtnkns/half_of_posts_here_are_scam_they_are_trying_to/",
+      "score": 33,
+      "comments": 11,
+      "post_id": "t3_1mtnkns",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "IntelligentJudge515",
+      "author_id": "t2_h09go8my",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-18T14:26:53.831000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mtnkns/half_of_posts_here_are_scam_they_are_trying_to/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Exclusive Test Trials",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1n54g1b/exclusive_test_trials/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n54g1b",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "mevlanimade",
+      "author_id": "t2_mnq6kmo4",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-31T19:59:12.660000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1n54g1b/exclusive_test_trials/",
+      "content_preview": "",
+      "flair": [
+        "Information"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "The best way to build an app on Ethereum in 2025...",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1n0ozzs/the_best_way_to_build_an_app_on_ethereum_in_2025/",
+      "score": 31,
+      "comments": 14,
+      "post_id": "t3_1n0ozzs",
+      "post_type": "multi_media",
+      "domain": "self.ethdev",
+      "author": "austin_concurrence",
+      "author_id": "t2_j84isdf",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-26T15:30:02.758000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1n0ozzs/the_best_way_to_build_an_app_on_ethereum_in_2025/",
+      "content_preview": "",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5hlas/styles/profileIcon_i2kipuwyia451.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ce1e853771e93a81289a5b2f567b80977e5d4f2c"
+    },
+    {
+      "title": "Local Wallet",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1n4voo5/local_wallet/",
+      "score": 2,
+      "comments": 5,
+      "post_id": "t3_1n4voo5",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "Flaky-Hovercraft3202",
+      "author_id": "t2_e62x6494",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-31T14:09:52.707000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1n4voo5/local_wallet/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Using Trusted Execution Environments (TEEs) to Bring Privacy to Ethereum dApps",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1n4ajuh/using_trusted_execution_environments_tees_to/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n4ajuh",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "caerlower",
+      "author_id": "t2_12k6p1hee8",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-30T19:38:18.693000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1n4ajuh/using_trusted_execution_environments_tees_to/",
+      "content_preview": "",
+      "flair": [
+        "Information"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Monetizing Eliza Agents Just Got Easier with Ensemble’s Agent Hub Integration",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mk20sb/monetizing_eliza_agents_just_got_easier_with/",
+      "score": 27,
+      "comments": 6,
+      "post_id": "t3_1mk20sb",
+      "post_type": "multi_media",
+      "domain": "self.ethdev",
+      "author": "jclaslie",
+      "author_id": "t2_6ke57da1",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-07T14:45:48.836000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mk20sb/monetizing_eliza_agents_just_got_easier_with/",
+      "content_preview": "",
+      "flair": [
+        "Information"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Building a crypto-first subscription marketplace for Web3 merchants. Feedback welcome!",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1n4rpj5/building_a_cryptofirst_subscription_marketplace/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1n4rpj5",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "vnaysngh",
+      "author_id": "t2_45l79x99",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-31T10:54:26.993000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1n4rpj5/building_a_cryptofirst_subscription_marketplace/",
+      "content_preview": "",
+      "flair": [
+        "My Project"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Mass Adoption",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1n2dt7k/mass_adoption/",
+      "score": 7,
+      "comments": 43,
+      "post_id": "t3_1n2dt7k",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "Haddit12",
+      "author_id": "t2_11609e",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-28T14:30:41.372000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1n2dt7k/mass_adoption/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Quick question: Is devstage.eth a legit dev test or a scam?",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1n32ggb/quick_question_is_devstageeth_a_legit_dev_test_or/",
+      "score": 1,
+      "comments": 6,
+      "post_id": "t3_1n32ggb",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "ShipFew4069",
+      "author_id": "t2_1uv7hxt4f2",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-29T09:10:35.483000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1n32ggb/quick_question_is_devstageeth_a_legit_dev_test_or/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "ethdevnews weekly #4 | Fusaka mainnet upgrade potentially in December, US GDP onchain, r/Ethereum AMAs with builders",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1n354vz/ethdevnews_weekly_4_fusaka_mainnet_upgrade/",
+      "score": 5,
+      "comments": 0,
+      "post_id": "t3_1n354vz",
+      "post_type": "link",
+      "domain": "ethdevnews.com",
+      "author": "abcoathup",
+      "author_id": "t2_6t9z4g3",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-29T11:43:01.769000+0000",
+      "content_href": "https://ethdevnews.com/ethdevnews-weekly-4/",
+      "content_preview": "",
+      "flair": [
+        "Information"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/DXOIdkDZvGbRMuvk5lNqxqsZxJyop-vIWwYFquWdYGU.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=6bdacc275681043b92752b53d22ddd4c34319559"
+    },
+    {
+      "title": "What paid service in crypto are you using on a daily basis?",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1myvmu3/what_paid_service_in_crypto_are_you_using_on_a/",
+      "score": 2,
+      "comments": 17,
+      "post_id": "t3_1myvmu3",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "solniechniy",
+      "author_id": "t2_8d602qdf",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-24T13:30:03.976000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1myvmu3/what_paid_service_in_crypto_are_you_using_on_a/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Clearing all state in a contract",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mphrrd/clearing_all_state_in_a_contract/",
+      "score": 21,
+      "comments": 7,
+      "post_id": "t3_1mphrrd",
+      "post_type": "multi_media",
+      "domain": "self.ethdev",
+      "author": "NotDaltonn",
+      "author_id": "t2_uhpt1kt0",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-13T21:49:18.440000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mphrrd/clearing_all_state_in_a_contract/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Bug Bounty Dex223",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1n47wjs/bug_bounty_dex223/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n47wjs",
+      "post_type": "multi_media",
+      "domain": "self.ethdev",
+      "author": "Burgamistr",
+      "author_id": "t2_fyge8j2z",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-30T17:49:14.639000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1n47wjs/bug_bounty_dex223/",
+      "content_preview": "",
+      "flair": [
+        "Information"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5dt1jr/styles/profileIcon_swu2lhtbyq2d1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2bc3b06d34455ab30f19f87018b94c288a990b35"
+    },
+    {
+      "title": "Final year student trying to break into Eth dev in 2025 - need a reality check",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mz533g/final_year_student_trying_to_break_into_eth_dev/",
+      "score": 16,
+      "comments": 9,
+      "post_id": "t3_1mz533g",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "Difficult_Duty9474",
+      "author_id": "t2_cm4l9tnan",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-24T19:32:55.727000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mz533g/final_year_student_trying_to_break_into_eth_dev/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Are there any well structured builder communities?",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mrpsba/are_there_any_well_structured_builder_communities/",
+      "score": 12,
+      "comments": 13,
+      "post_id": "t3_1mrpsba",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "k_ekse",
+      "author_id": "t2_5atnmfbu",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-16T09:00:51.836000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mrpsba/are_there_any_well_structured_builder_communities/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Moralis Bad Performance",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mviiss/moralis_bad_performance/",
+      "score": 3,
+      "comments": 21,
+      "post_id": "t3_1mviiss",
+      "post_type": "multi_media",
+      "domain": "self.ethdev",
+      "author": "Minute_Tap_7229",
+      "author_id": "t2_9pl8qsa3",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-20T15:48:19.626000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mviiss/moralis_bad_performance/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "DonateYourDust - Turn Your Dust into Fortune",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mmbrum/donateyourdust_turn_your_dust_into_fortune/",
+      "score": 9,
+      "comments": 37,
+      "post_id": "t3_1mmbrum",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "Haddit12",
+      "author_id": "t2_11609e",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-10T06:53:35.245000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mmbrum/donateyourdust_turn_your_dust_into_fortune/",
+      "content_preview": "",
+      "flair": [
+        "My Project"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Guidance on transitioning into Blockchain/Web3 developer roles",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1n1jj75/guidance_on_transitioning_into_blockchainweb3/",
+      "score": 4,
+      "comments": 8,
+      "post_id": "t3_1n1jj75",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "Brave_Ad7912",
+      "author_id": "t2_1fmsnvt93x",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-27T15:04:34.667000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1n1jj75/guidance_on_transitioning_into_blockchainweb3/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Best smart contract auditors 2025",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mtn3o8/best_smart_contract_auditors_2025/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1mtn3o8",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "Significant_Eye_3051",
+      "author_id": "t2_1ss2ucngtz",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-18T14:09:09.431000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mtn3o8/best_smart_contract_auditors_2025/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Gas Matters: How to Reduce Transaction Costs in Your Solidity Code",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mi3xng/gas_matters_how_to_reduce_transaction_costs_in/",
+      "score": 8,
+      "comments": 3,
+      "post_id": "t3_1mi3xng",
+      "post_type": "multi_media",
+      "domain": "self.ethdev",
+      "author": "Resident_Anteater_35",
+      "author_id": "t2_uvjs5gr1",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-05T08:50:17.970000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mi3xng/gas_matters_how_to_reduce_transaction_costs_in/",
+      "content_preview": "",
+      "flair": [
+        "Information"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7jljwz/styles/profileIcon_cbblmqbyyzbf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=93506e40a8cd2847492bd7fe53606bff7bc65a32"
+    },
+    {
+      "title": "project idea, looking for feedback",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mt17mr/project_idea_looking_for_feedback/",
+      "score": 0,
+      "comments": 9,
+      "post_id": "t3_1mt17mr",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "chids300",
+      "author_id": "t2_qb5tpx4",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-17T20:09:58.815000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mt17mr/project_idea_looking_for_feedback/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Need some project idea for college",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1n41bf8/need_some_project_idea_for_college/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1n41bf8",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "Comprehensive_Bee903",
+      "author_id": "t2_7qev28k5",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-30T13:12:59.155000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1n41bf8/need_some_project_idea_for_college/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Feedback wanted - seeking smart‑contract developers to beta test",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mqyc8t/feedback_wanted_seeking_smartcontract_developers/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1mqyc8t",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "hassan_truscova",
+      "author_id": "t2_uhqx06i9",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-15T13:47:15.272000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mqyc8t/feedback_wanted_seeking_smartcontract_developers/",
+      "content_preview": "",
+      "flair": [
+        "My Project"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Highlights from the All Core Developers Execution (ACDE) Call #218",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mql0sr/highlights_from_the_all_core_developers_execution/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1mql0sr",
+      "post_type": "link",
+      "domain": "etherworld.co",
+      "author": "Y_K_C_",
+      "author_id": "t2_9l31ca2x",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-15T02:29:44.576000+0000",
+      "content_href": "https://etherworld.co/2025/08/14/highlights-from-the-all-core-developers-execution-acde-call-218/",
+      "content_preview": "",
+      "flair": [
+        "Information"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/rD4otHLfkgG-Rzj3qa4C8KqBSIepiI_bJrn8ndFYtbA.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=6fa8dc39f1ebdb30f38dc0cb1890a1bf9691e091"
+    },
+    {
+      "title": "Hidden Ethereum Dev Tricks: Events, Internals, Multicalls",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mv73s7/hidden_ethereum_dev_tricks_events_internals/",
+      "score": 8,
+      "comments": 3,
+      "post_id": "t3_1mv73s7",
+      "post_type": "multi_media",
+      "domain": "self.ethdev",
+      "author": "Resident_Anteater_35",
+      "author_id": "t2_uvjs5gr1",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-20T06:25:47.495000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mv73s7/hidden_ethereum_dev_tricks_events_internals/",
+      "content_preview": "",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7jljwz/styles/profileIcon_cbblmqbyyzbf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=93506e40a8cd2847492bd7fe53606bff7bc65a32"
+    },
+    {
+      "title": "Open-Source Guardian Protocol — Security Primitives & Access Layer for Ethereum Developers",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mo25xx/opensource_guardian_protocol_security_primitives/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1mo25xx",
+      "post_type": "multi_media",
+      "domain": "self.ethdev",
+      "author": "Jack_The_Mech_Tech",
+      "author_id": "t2_4qhcv4a7",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-12T07:26:15.112000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mo25xx/opensource_guardian_protocol_security_primitives/",
+      "content_preview": "",
+      "flair": [
+        "My Project"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Zora RPC Nodes are now available on GetBlock",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mngqo3/zora_rpc_nodes_are_now_available_on_getblock/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mngqo3",
+      "post_type": "multi_media",
+      "domain": "self.ethdev",
+      "author": "getblockio",
+      "author_id": "t2_4uysauvf",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-11T15:53:22.092000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mngqo3/zora_rpc_nodes_are_now_available_on_getblock/",
+      "content_preview": "",
+      "flair": [
+        "Information"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_273ytf/styles/profileIcon_8lzrtcedw1w81.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=898b217fd6bb2967fd1533f2801d2d19c6268145"
+    },
+    {
+      "title": "Is there a way to ignore `keccak256` forge linter warnings?",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1n3tmcq/is_there_a_way_to_ignore_keccak256_forge_linter/",
+      "score": 1,
+      "comments": 7,
+      "post_id": "t3_1n3tmcq",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "0x077777",
+      "author_id": "t2_dlj4ng8m",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-30T05:31:53.814000+0000",
+      "content_href": "/r/smartcontracts/comments/1n3tkqs/is_there_a_way_to_ignore_keccak256_forge_linter/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Custody contract wallet",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mkupj3/custody_contract_wallet/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1mkupj3",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "khiemzzzzz",
+      "author_id": "t2_dpo4inwz",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-08T13:06:33.550000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mkupj3/custody_contract_wallet/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Why blockchain is always getting hacked",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mj7z5a/why_blockchain_is_always_getting_hacked/",
+      "score": 0,
+      "comments": 25,
+      "post_id": "t3_1mj7z5a",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "web_sculpt",
+      "author_id": "t2_o37mikvv1",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-06T15:36:55.418000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mj7z5a/why_blockchain_is_always_getting_hacked/",
+      "content_preview": "",
+      "flair": [
+        "Information"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Open Source Rust Deposit Contract Indexer: Using Tokio/Alloy 40k blocks per second",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mxdnmv/open_source_rust_deposit_contract_indexer_using/",
+      "score": 8,
+      "comments": 0,
+      "post_id": "t3_1mxdnmv",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "alikola",
+      "author_id": "t2_btddm09",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-22T18:01:15.518000+0000",
+      "content_href": "https://github.com/BilinearLabs/beacon-contract-indexer/",
+      "content_preview": "",
+      "flair": [
+        "My Project"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/lN3LXouch6Lg6xX252GWwYEFetBLHrWGM_sZ5VyBoo4.png?width=140&height=70&crop=140:70,smart&auto=webp&s=f1fa80120ab2f726b81bc991781415359702a74b"
+    },
+    {
+      "title": "advise needed",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1n44qxo/advise_needed/",
+      "score": 4,
+      "comments": 4,
+      "post_id": "t3_1n44qxo",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "EasternInstruction38",
+      "author_id": "t2_ym197zyga",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-30T15:39:44.518000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1n44qxo/advise_needed/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Going from promising project to getting users?",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1n0vl4k/going_from_promising_project_to_getting_users/",
+      "score": 4,
+      "comments": 13,
+      "post_id": "t3_1n0vl4k",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "vklirdjikgfkttjk",
+      "author_id": "t2_gyo7x7iul",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-26T19:37:43.881000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1n0vl4k/going_from_promising_project_to_getting_users/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What programming languages do you use alongside Solidity?",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mq56gb/what_programming_languages_do_you_use_alongside/",
+      "score": 7,
+      "comments": 12,
+      "post_id": "t3_1mq56gb",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "CryptoRoommate",
+      "author_id": "t2_11xt6ooeod",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-14T16:16:31.390000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mq56gb/what_programming_languages_do_you_use_alongside/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Slippy: a simple and powerful new linter for Solidity",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1n39xap/slippy_a_simple_and_powerful_new_linter_for/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n39xap",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "fvictorio",
+      "author_id": "t2_id92b",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-29T15:06:02.440000+0000",
+      "content_href": "https://github.com/fvictorio/slippy",
+      "content_preview": "",
+      "flair": [
+        "My Project"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_agsxb/styles/profileIcon_kbhi44x0ethc1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f6a3472cb5a1cc8c0af0b774f9aecf43135379db"
+    },
+    {
+      "title": "$35k+ Grant Pool, FileCoin's Buildathon",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1n3c4qd/35k_grant_pool_filecoins_buildathon/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1n3c4qd",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "kirrttiraj",
+      "author_id": "t2_5j55runq",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-29T16:29:43.721000+0000",
+      "content_href": "/r/Buildathon/comments/1n3c3ca/35k_grant_pool_filecoins_buildathon/",
+      "content_preview": "",
+      "flair": [
+        "Information"
+      ],
+      "thumbnail_url": "https://preview.redd.it/35k-grant-pool-filecoins-buildathon-v0-22lwl6hsizlf1.png?width=640&crop=smart&auto=webp&s=7724a23a3659c127784d37b89dfb14ca7101bf6d"
+    },
+    {
+      "title": "ethdevnews weekly #0 | ethdevnews",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1metvs8/ethdevnews_weekly_0_ethdevnews/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1metvs8",
+      "post_type": "link",
+      "domain": "ethdevnews.com",
+      "author": "abcoathup",
+      "author_id": "t2_6t9z4g3",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-01T11:24:42.832000+0000",
+      "content_href": "https://ethdevnews.com/ethdevnews-weekly-0/",
+      "content_preview": "",
+      "flair": [
+        "Information"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/DXOIdkDZvGbRMuvk5lNqxqsZxJyop-vIWwYFquWdYGU.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=6bdacc275681043b92752b53d22ddd4c34319559"
+    },
+    {
+      "title": "Highlights from the All Core Developers Execution (ACDE) Call #219",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1n2u10r/highlights_from_the_all_core_developers_execution/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n2u10r",
+      "post_type": "link",
+      "domain": "etherworld.co",
+      "author": "Y_K_C_",
+      "author_id": "t2_9l31ca2x",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-29T01:15:15.627000+0000",
+      "content_href": "https://etherworld.co/2025/08/29/highlights-from-the-all-core-developers-execution-acde-call-219/",
+      "content_preview": "",
+      "flair": [
+        "Information"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/-pYmTk8ngUp4wXAOOFSd0P034wVL5Y4mRC1kADBeXf8.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=5802118ca3734a9caa4883a87f0019e3b84dd210"
+    },
+    {
+      "title": "I built a web3 game where you play Vitalik and run through World of Warcraft",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mdt9jr/i_built_a_web3_game_where_you_play_vitalik_and/",
+      "score": 15,
+      "comments": 5,
+      "post_id": "t3_1mdt9jr",
+      "post_type": "multi_media",
+      "domain": "self.ethdev",
+      "author": "WildCAptainBOy",
+      "author_id": "t2_82r90nw4",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-07-31T05:32:16.669000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mdt9jr/i_built_a_web3_game_where_you_play_vitalik_and/",
+      "content_preview": "",
+      "flair": [
+        "My Project"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Truly private Ethereum?",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mdzrl2/truly_private_ethereum/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1mdzrl2",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "Thies333",
+      "author_id": "t2_xlz3gxemj",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-07-31T12:07:04.838000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mdzrl2/truly_private_ethereum/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_b8ga7b/styles/profileIcon_pbyxxqslp43f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e75e66d4c45c4b8ac6ba7e67d4db7b79cfe8b095"
+    },
+    {
+      "title": "Yet another crypto chain arbitrage thread",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mvao21/yet_another_crypto_chain_arbitrage_thread/",
+      "score": 7,
+      "comments": 8,
+      "post_id": "t3_1mvao21",
+      "post_type": "multi_media",
+      "domain": "self.ethdev",
+      "author": "loydfar",
+      "author_id": "t2_2bxznfar",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-20T10:07:23.084000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mvao21/yet_another_crypto_chain_arbitrage_thread/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Solidity Auditors Wanted – Help Us Test “Bug Hunter”!",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mohfa7/solidity_auditors_wanted_help_us_test_bug_hunter/",
+      "score": 6,
+      "comments": 1,
+      "post_id": "t3_1mohfa7",
+      "post_type": "multi_media",
+      "domain": "self.ethdev",
+      "author": "hassan_truscova",
+      "author_id": "t2_uhqx06i9",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-12T18:53:00.398000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mohfa7/solidity_auditors_wanted_help_us_test_bug_hunter/",
+      "content_preview": "",
+      "flair": [
+        "My Project"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "The Last Mile: Turning ‘Conflict-Free’ From a Label Into a State—with Blockchain that Pays for Proof",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1n38s9d/the_last_mile_turning_conflictfree_from_a_label/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n38s9d",
+      "post_type": "link",
+      "domain": "techbullion.com",
+      "author": "qvanpol",
+      "author_id": "t2_cp1bcxnm",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-29T14:21:51.464000+0000",
+      "content_href": "https://techbullion.com/the-last-mile-turning-conflict-free-from-a-label-into-a-state-with-blockchain-that-pays-for-proof/",
+      "content_preview": "",
+      "flair": [
+        "Information"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Unified crypto exchange market data API – looking for feedback",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1n1khvj/unified_crypto_exchange_market_data_api_looking/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n1khvj",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "kmasterrr",
+      "author_id": "t2_v0gb1zot",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-27T15:40:48.252000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1n1khvj/unified_crypto_exchange_market_data_api_looking/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Does the younger generation no longer want to be real devs or professionals?",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mdc7zd/does_the_younger_generation_no_longer_want_to_be/",
+      "score": 15,
+      "comments": 20,
+      "post_id": "t3_1mdc7zd",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "CryptoRoommate",
+      "author_id": "t2_11xt6ooeod",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-07-30T17:06:52.811000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mdc7zd/does_the_younger_generation_no_longer_want_to_be/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "ethdevnews: Ethereum developer news. First issue August 1. Limited run. Subscribe now.",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mdonqy/ethdevnews_ethereum_developer_news_first_issue/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1mdonqy",
+      "post_type": "link",
+      "domain": "ethdevnews.com",
+      "author": "abcoathup",
+      "author_id": "t2_6t9z4g3",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-07-31T01:34:07.447000+0000",
+      "content_href": "https://ethdevnews.com/",
+      "content_preview": "",
+      "flair": [
+        "Information"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/DXOIdkDZvGbRMuvk5lNqxqsZxJyop-vIWwYFquWdYGU.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=6bdacc275681043b92752b53d22ddd4c34319559"
+    },
+    {
+      "title": "How do I build a secure decentralized app (dApp) with strong user authentication?",
+      "permalink": "https://www.reddit.com/r/ethdev/comments/1mzksre/how_do_i_build_a_secure_decentralized_app_dapp/",
+      "score": 6,
+      "comments": 12,
+      "post_id": "t3_1mzksre",
+      "post_type": "text",
+      "domain": "self.ethdev",
+      "author": "Champ-shady",
+      "author_id": "t2_rz66vtsp",
+      "subreddit_id": "t5_39dcn",
+      "subreddit": "r/ethdev",
+      "created_ts": "2025-08-25T08:21:22.455000+0000",
+      "content_href": "https://www.reddit.com/r/ethdev/comments/1mzksre/how_do_i_build_a_secure_decentralized_app_dapp/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    }
+  ],
+  "scraped_at": "2025-09-02T10:25:05.422178"
+}

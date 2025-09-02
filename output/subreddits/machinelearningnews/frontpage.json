@@ -1,0 +1,1010 @@
+{
+  "subreddit": "machinelearningnews",
+  "url": "https://www.reddit.com/r/machinelearningnews",
+  "meta": {
+    "title": "Machine Learning ML & Generative AI News"
+  },
+  "posts": [
+    {
+      "title": "Just launched on Product Hunt 🚀 would love your feedback on Senpai (AI data analyst)",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1n6egj9/just_launched_on_product_hunt_would_love_your/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n6egj9",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Substantial_Set2737",
+      "author_id": "t2_1nyryj7gij",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-09-02T09:00:24.565000+0000",
+      "content_href": "/r/SaaSSales/comments/1n6ebaf/just_launched_on_product_hunt_would_love_your/",
+      "content_preview": "",
+      "flair": [
+        "AI Tools"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Meta AI Introduces DeepConf: First AI Method to Achieve 99.9% on AIME 2025 with Open-Source Models Using GPT-OSS-120B",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1n1m9f4/meta_ai_introduces_deepconf_first_ai_method_to/",
+      "score": 57,
+      "comments": 3,
+      "post_id": "t3_1n1m9f4",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-27T16:46:05.200000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/27/meta-ai-introduces-deepconf-first-ai-method-to-achieve-99-9-on-aime-2025-with-open-source-models-using-gpt-oss-120b/",
+      "content_preview": "",
+      "flair": [
+        "Research"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/-Q5aUnrYjxnRFUe3Xr1LVO086cseubcsSwmpLVzsCwo.png?width=140&height=93&crop=140:93,smart&auto=webp&s=468d77660cf8e66af4635edab274adcc4bc55111"
+    },
+    {
+      "title": "Implementing OAuth 2.1 for MCP Servers with Scalekit: A Step-by-Step Coding Tutorial",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1n5z9n2/implementing_oauth_21_for_mcp_servers_with/",
+      "score": 5,
+      "comments": 0,
+      "post_id": "t3_1n5z9n2",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-09-01T20:08:11.938000+0000",
+      "content_href": "https://www.marktechpost.com/2025/09/01/implementing-oauth-2-1-for-mcp-servers-with-scalekit-a-step-by-step-coding-tutorial/",
+      "content_preview": "",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/Y5dR9EsxDJdANTe-mlOYoG9HjBbuum-GYvRACBoS3mY.png?width=140&height=100&crop=140:100,smart&auto=webp&s=9341aec4de83e64f9744efccc3cb0503e5402c67"
+    },
+    {
+      "title": "NVIDIA AI Just Released the Largest Open-Source Speech AI Dataset and State-of-the-Art Models for European Languages",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mrn4bw/nvidia_ai_just_released_the_largest_opensource/",
+      "score": 136,
+      "comments": 1,
+      "post_id": "t3_1mrn4bw",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-16T06:34:32.155000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/15/nvidia-ai-just-released-the-largest-open-source-speech-ai-dataset-and-state-of-the-art-models-for-european-languages/",
+      "content_preview": "",
+      "flair": [
+        "Cool Stuff"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/WWIO-JuG48llqDZ0PT0qZtdWoLemCTIaOwk3CtXYbDM.png?width=140&height=98&crop=140:98,smart&auto=webp&s=c83035011cab03074a991ab016a561c5ba762883"
+    },
+    {
+      "title": "StepFun AI Releases Step-Audio 2 Mini: An Open-Source 8B Speech-to-Speech AI Model that Surpasses GPT-4o-Audio",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1n5hws9/stepfun_ai_releases_stepaudio_2_mini_an/",
+      "score": 23,
+      "comments": 1,
+      "post_id": "t3_1n5hws9",
+      "post_type": "crosspost",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-09-01T07:04:27.500000+0000",
+      "content_href": "/r/voiceaii/comments/1n5hwlb/stepfun_ai_releases_stepaudio_2_mini_an/",
+      "content_preview": "",
+      "flair": [
+        "Cool Stuff"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/stepfun-ai-releases-step-audio-2-mini-an-open-source-8b-v0-jwygNwugnYTH7SLP4_eEufHMUU8LquOtqKiAtj0IA68.png?width=640&crop=smart&auto=webp&s=5425b8d6d9ea29714e94d6e04d592412480aeeac"
+    },
+    {
+      "title": "NVIDIA AI Released Jet-Nemotron: 53x Faster Hybrid-Architecture Language Model Series that Translates to a 98% Cost Reduction for Inference at Scale",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1n13s9i/nvidia_ai_released_jetnemotron_53x_faster/",
+      "score": 57,
+      "comments": 4,
+      "post_id": "t3_1n13s9i",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-27T01:19:46.896000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/26/nvidia-ai-released-jet-nemotron-53x-faster-hybrid-architecture-language-model-series-that-translates-to-a-98-cost-reduction-for-inference-at-scale/",
+      "content_preview": "",
+      "flair": [
+        "Cool Stuff"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/JCTCpmvGmLSbdIVU1cGtr0Yb3e7Byt37ids8zA0Ft28.png?width=140&height=100&crop=140:100,smart&auto=webp&s=0e96cd4eb7984a31e2734a51ffdaae181ffe003c"
+    },
+    {
+      "title": "How to Build a Conversational Research AI Agent with LangGraph: Step Replay and Time-Travel Checkpoints",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1n4pv5o/how_to_build_a_conversational_research_ai_agent/",
+      "score": 9,
+      "comments": 0,
+      "post_id": "t3_1n4pv5o",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-31T08:55:56.845000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/31/how-to-build-a-conversational-research-ai-agent-with-langgraph-step-replay-and-time-travel-checkpoints/",
+      "content_preview": "",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/wNrnu02FLtSed6RI0v0EKyqgMbQsHE2KziB-5BUjAhg.png?width=140&height=100&crop=140:100,smart&auto=webp&s=c68b794495390a2504f6e642d91cb5648610c8a1"
+    },
+    {
+      "title": "Building and Optimizing Intelligent Machine Learning Pipelines with TPOT for Complete Automation and Performance Enhancement",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1n3ca1z/building_and_optimizing_intelligent_machine/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n3ca1z",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-29T16:35:26.417000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/29/building-and-optimizing-intelligent-machine-learning-pipelines-with-tpot-for-complete-automation-and-performance-enhancement/",
+      "content_preview": "",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/91ZAMSkPYCG-8HFk5xHJt2EgnQO92amzhnlCtxkfWlI.png?width=140&height=100&crop=140:100,smart&auto=webp&s=fa57a42ef65de8b174cb9f15344d1f5216568922"
+    },
+    {
+      "title": "Meta AI Just Released DINOv3: A State-of-the-Art Computer Vision Model Trained with Self-Supervised Learning, Generating High-Resolution Image Features",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mqb0lt/meta_ai_just_released_dinov3_a_stateoftheart/",
+      "score": 101,
+      "comments": 1,
+      "post_id": "t3_1mqb0lt",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-14T19:44:57.736000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/14/meta-ai-just-released-dinov3-a-state-of-the-art-computer-vision-model-trained-with-self-supervised-learning-generating-high-resolution-image-features/",
+      "content_preview": "",
+      "flair": [
+        "Cool Stuff"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/6dTOj2PYYgIF3yV5FXdRbjTulFHxGSV3tSJxcCWuYlE.png?width=140&height=78&crop=140:78,smart&auto=webp&s=7e6678e5473991072819d0189ba72bd4b9bc8d0a"
+    },
+    {
+      "title": "How to Build a Multi-Round Deep Research Agent with Gemini, DuckDuckGo API, and Automated Reporting?",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1n2leh6/how_to_build_a_multiround_deep_research_agent/",
+      "score": 9,
+      "comments": 0,
+      "post_id": "t3_1n2leh6",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-28T19:14:43.320000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/28/how-to-build-a-multi-round-deep-research-agent-with-gemini-duckduckgo-api-and-automated-reporting/",
+      "content_preview": "",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/T7x5yaLUxZacHZ6dH9GSYwEs4nXDAER8t_H5X_LzaFM.png?width=140&height=107&crop=140:107,smart&auto=webp&s=0b431d7383b51e001a5a984013528464c6499422"
+    },
+    {
+      "title": "Google AI’s New Regression Language Model (RLM) Framework Enables LLMs to Predict Industrial System Performance Directly from Raw Text Data",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1n1a866/google_ais_new_regression_language_model_rlm/",
+      "score": 45,
+      "comments": 2,
+      "post_id": "t3_1n1a866",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-27T07:08:45.245000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/27/google-ais-new-regression-language-model-rlm-framework-enables-llms-to-predict-industrial-system-performance-directly-from-raw-text-data/",
+      "content_preview": "",
+      "flair": [
+        "Research"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/WquO94zZtyHO71C8EF2PmuBMzLRSR_AKXGVcWqNesQQ.png?width=140&height=100&crop=140:100,smart&auto=webp&s=51882c42527593bcb6021159d6f9acf00b59ffd9"
+    },
+    {
+      "title": "Understanding Model Reasoning Through Thought Anchors: A Comparative Study of Qwen3 and DeepSeek-R1",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1n04p0o/understanding_model_reasoning_through_thought/",
+      "score": 7,
+      "comments": 5,
+      "post_id": "t3_1n04p0o",
+      "post_type": "link",
+      "domain": "huggingface.co",
+      "author": "asankhs",
+      "author_id": "t2_e0bph",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-25T22:25:24.790000+0000",
+      "content_href": "https://huggingface.co/blog/codelion/understanding-model-reasoning-thought-anchors",
+      "content_preview": "",
+      "flair": [
+        "Research"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/smgku65C5QbLhnP3GtL_PF5XDIXwmebpGd71AYDFPRc.png?width=140&height=75&crop=140:75,smart&auto=webp&s=0c595d60cc147ad6992293620522aaf26770841c"
+    },
+    {
+      "title": "Alibaba Qwen Team Releases Mobile-Agent-v3 and GUI-Owl: Next-Generation Multi-Agent Framework for GUI Automation",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1n4qmkf/alibaba_qwen_team_releases_mobileagentv3_and/",
+      "score": 28,
+      "comments": 1,
+      "post_id": "t3_1n4qmkf",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-31T09:45:43.398000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/31/alibaba-qwen-team-releases-mobile-agent-v3-and-gui-owl-next-generation-multi-agent-framework-for-gui-automation/",
+      "content_preview": "",
+      "flair": [
+        "Research"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "We are Pax & Petra, Stanford Online’s AI Program Directors - AMA!",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mzxdo9/we_are_pax_petra_stanford_onlines_ai_program/",
+      "score": 5,
+      "comments": 1,
+      "post_id": "t3_1mzxdo9",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Stanford_Online",
+      "author_id": "t2_5jtot0sw",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-25T17:46:26.069000+0000",
+      "content_href": "/r/AMA/comments/1mzwxtr/we_are_pax_petra_stanford_onlines_ai_program/",
+      "content_preview": "",
+      "flair": [
+        "AI Event"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2e1tk7/styles/profileIcon_ygx9mdjmavxa1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2dabf2c04ffa6aae9c2699b489e4cada51c4e751"
+    },
+    {
+      "title": "A team at DeepMind wrote this piece on how you must think about GPUs. Essential for AI engineers and researchers",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mz4vnt/a_team_at_deepmind_wrote_this_piece_on_how_you/",
+      "score": 90,
+      "comments": 3,
+      "post_id": "t3_1mz4vnt",
+      "post_type": "link",
+      "domain": "jax-ml.github.io",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-24T19:24:53.699000+0000",
+      "content_href": "https://jax-ml.github.io/scaling-book/gpus/",
+      "content_preview": "",
+      "flair": [
+        "Cool Stuff"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Microsoft AI Lab Unveils MAI-Voice-1 and MAI-1-Preview: New In-House Models for Voice AI",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1n3m45k/microsoft_ai_lab_unveils_maivoice1_and/",
+      "score": 27,
+      "comments": 0,
+      "post_id": "t3_1n3m45k",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-29T23:07:17.997000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/29/microsoft-ai-lab-unveils-mai-voice-1-and-mai-1-preview-new-in-house-models-for-voice-ai/",
+      "content_preview": "",
+      "flair": [
+        "Research"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/1yhh7GKLwnrHX-CONhlUIqDO-ckYas-aONMqEoHOVNA.png?width=140&height=100&crop=140:100,smart&auto=webp&s=5d55b8e7c60cd0ba7a1dd3b7e53a04e12bf5d5c7"
+    },
+    {
+      "title": "Grounding Medical AI in Expert‑Labeled Data: A Case Study on PadChest-GR- the First Multimodal, Bilingual, Sentence‑Level Dataset for Radiology Reporting",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1n2q4ui/grounding_medical_ai_in_expertlabeled_data_a_case/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n2q4ui",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-28T22:21:16.202000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/28/grounding-medical-ai-in-expert%e2%80%91labeled-data-a-case-study-on-padchest-gr-the-first-multimodal-bilingual-sentence%e2%80%91level-dataset-for-radiology-reporting/",
+      "content_preview": "",
+      "flair": [
+        "Research"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/KiBmy10g_85flSrKUo-xj-gkH2h6pDcYP5meSZH2sbE.png?width=140&height=100&crop=140:100,smart&auto=webp&s=3281ef575c66d22db5a2c58c56c553dd4958dced"
+    },
+    {
+      "title": "A Full Code Implementation to Design a Graph-Structured AI Agent with Gemini for Task Planning, Retrieval, Computation, and Self-Critique",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mynzwh/a_full_code_implementation_to_design_a/",
+      "score": 15,
+      "comments": 0,
+      "post_id": "t3_1mynzwh",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-24T06:11:31.957000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/23/a-full-code-implementation-to-design-a-graph-structured-ai-agent-with-gemini-for-task-planning-retrieval-computation-and-self-critique/",
+      "content_preview": "",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/QyJk07sT1O-mB_w3ouq4xpzdrF9YPvaRChlnR4ZIy9A.png?width=140&height=121&crop=140:121,smart&auto=webp&s=5500441eb9f4a113c66eeec30fbf25c24665512a"
+    },
+    {
+      "title": "Alibaba AI Team Just Released Ovis 2.5 Multimodal LLMs: A Major Leap in Open-Source AI with Enhanced Visual Perception and Reasoning Capabilities",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mtejfk/alibaba_ai_team_just_released_ovis_25_multimodal/",
+      "score": 90,
+      "comments": 3,
+      "post_id": "t3_1mtejfk",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-18T06:40:25.610000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/17/alibaba-ai-team-just-released-ovis-2-5-multimodal-llms-a-major-leap-in-open-source-ai-with-enhanced-visual-perception-and-reasoning-capabilities/",
+      "content_preview": "",
+      "flair": [
+        "Cool Stuff"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "MemU: The Next-Gen Memory System for AI Companions",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1ml0voi/memu_the_nextgen_memory_system_for_ai_companions/",
+      "score": 84,
+      "comments": 4,
+      "post_id": "t3_1ml0voi",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Ok_Wolverine6828",
+      "author_id": "t2_1sc1gjg9gz",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-08T17:06:23.569000+0000",
+      "content_href": "https://i.redd.it/rn7p7tteuthf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Research"
+      ],
+      "thumbnail_url": "https://preview.redd.it/memu-the-next-gen-memory-system-for-ai-companions-v0-rn7p7tteuthf1.jpeg?width=640&crop=smart&auto=webp&s=a4778442d99a39fa8fbe8fc361bdeac69a57881e"
+    },
+    {
+      "title": "Zhipu AI Unveils ComputerRL: An AI Framework Scaling End-to-End Reinforcement Learning for Computer Use Agents",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mx0q6j/zhipu_ai_unveils_computerrl_an_ai_framework/",
+      "score": 21,
+      "comments": 0,
+      "post_id": "t3_1mx0q6j",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-22T08:18:08.325000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/22/zhipu-ai-unveils-computerrl-an-ai-framework-scaling-end-to-end-reinforcement-learning-for-computer-use-agents/",
+      "content_preview": "",
+      "flair": [
+        "Research"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/cXRG2VtVgp7Tf0q0tCSqWRMcPGJpDLyK_LqGb2Qpxpg.png?width=140&height=80&crop=140:80,smart&auto=webp&s=2eff8f71ad948d34ba69638db5a13b2aef19e937"
+    },
+    {
+      "title": "AutoThink: Adaptive Reasoning for Large Language Models",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mw85ch/autothink_adaptive_reasoning_for_large_language/",
+      "score": 17,
+      "comments": 4,
+      "post_id": "t3_1mw85ch",
+      "post_type": "link",
+      "domain": "huggingface.co",
+      "author": "asankhs",
+      "author_id": "t2_e0bph",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-21T11:21:43.309000+0000",
+      "content_href": "https://huggingface.co/blog/codelion/autothink",
+      "content_preview": "",
+      "flair": [
+        "Research"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/0l0Vm2V9BTYrL-u5yA0ie8bRzxhmIOYFgw7kYuiHkY0.png?width=140&height=75&crop=140:75,smart&auto=webp&s=84707b753c46adbf00b5ec59f0a09da008c4ba11"
+    },
+    {
+      "title": "Find 100+ AI Agent, MCP, LLM Tutorials with Full Codes in our Repo here",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mudp2f/find_100_ai_agent_mcp_llm_tutorials_with_full/",
+      "score": 20,
+      "comments": 0,
+      "post_id": "t3_1mudp2f",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-19T09:34:01.841000+0000",
+      "content_href": "https://github.com/Marktechpost/AI-Tutorial-Codes-Included",
+      "content_preview": "",
+      "flair": [
+        "Cool Stuff"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/KnJma9ag2iOmP9QQP6-ADl_7fiEpEMvzyP3458F7AzE.png?width=140&height=70&crop=140:70,smart&auto=webp&s=4c8162eaac1b8c74f7e60784b047058f1c50bc3d"
+    },
+    {
+      "title": "A Coding Guide to Building a Brain-Inspired Hierarchical Reasoning AI Agent with Hugging Face Models",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1n4bgnw/a_coding_guide_to_building_a_braininspired/",
+      "score": 22,
+      "comments": 0,
+      "post_id": "t3_1n4bgnw",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-30T20:17:30.527000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/30/a-coding-guide-to-building-a-brain-inspired-hierarchical-reasoning-ai-agent-with-hugging-face-models/",
+      "content_preview": "",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Building an MCP-Powered AI Agent with Gemini and mcp-agent Framework: A Step-by-Step Implementation Guide",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mtdd0r/building_an_mcppowered_ai_agent_with_gemini_and/",
+      "score": 8,
+      "comments": 1,
+      "post_id": "t3_1mtdd0r",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-18T05:30:09.797000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/17/building-an-mcp-powered-ai-agent-with-gemini-and-mcp-agent-framework-a-step-by-step-implementation-guide/",
+      "content_preview": "",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/_uk3YXMhUvYgDqBvAhlW22dSbwAeecQ53gAL97L3KdY.png?width=140&height=100&crop=140:100,smart&auto=webp&s=61c53480d070e3ee95713358ec4f9a71846e5aab"
+    },
+    {
+      "title": "Introducing Pivotal Token Search (PTS): Targeting Critical Decision Points in LLM Training",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mt4hhh/introducing_pivotal_token_search_pts_targeting/",
+      "score": 14,
+      "comments": 1,
+      "post_id": "t3_1mt4hhh",
+      "post_type": "link",
+      "domain": "huggingface.co",
+      "author": "asankhs",
+      "author_id": "t2_e0bph",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-17T22:21:20.950000+0000",
+      "content_href": "https://huggingface.co/blog/codelion/pts",
+      "content_preview": "",
+      "flair": [
+        "Research"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/62RAs-Zg9cYMfWIvvllOyIviQrCOVk-vOJLR7n3kNnY.png?width=140&height=75&crop=140:75,smart&auto=webp&s=9af626105aa0582f1dce57889b258b91e66ce9a4"
+    },
+    {
+      "title": "NEO - SOTA ML Engineering Agent achieved 34.2% on MLE Bench",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1muggoa/neo_sota_ml_engineering_agent_achieved_342_on_mle/",
+      "score": 12,
+      "comments": 3,
+      "post_id": "t3_1muggoa",
+      "post_type": "text",
+      "domain": "self.machinelearningnews",
+      "author": "gvij",
+      "author_id": "t2_6leknyp4",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-19T12:03:22.769000+0000",
+      "content_href": "https://www.reddit.com/r/machinelearningnews/comments/1muggoa/neo_sota_ml_engineering_agent_achieved_342_on_mle/",
+      "content_preview": "",
+      "flair": [
+        "Agentic AI"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "How to Test an OpenAI Model Against Single-Turn Adversarial Attacks Using deepteam",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mt0lq3/how_to_test_an_openai_model_against_singleturn/",
+      "score": 9,
+      "comments": 0,
+      "post_id": "t3_1mt0lq3",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-17T19:46:21.639000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/17/how-to-test-an-openai-model-against-single-turn-adversarial-attacks-using-deepteam/",
+      "content_preview": "",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/qWjcpxpq1gDmvrLC_fUI_i4uct2DKDdxCw4bg6JhfMA.png?width=140&height=100&crop=140:100,smart&auto=webp&s=0995324a22c8c43487598ed32287c0038cb81d73"
+    },
+    {
+      "title": "FREE WEBINAR: Architecting the Post-Fortinet VPN Enterprise [how you can achieve radically simple Zero Trust Network Access with NetBird]",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1micjlo/free_webinar_architecting_the_postfortinet_vpn/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1micjlo",
+      "post_type": "link",
+      "domain": "netbird.io",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-05T15:37:57.456000+0000",
+      "content_href": "https://netbird.io/webinars/architecting-the-post-fortinet-vpn-enterprise-with-netbird?utm_campaign=106673367-switch-from-fortinet&utm_source=marktechpost&utm_medium=marktechpost",
+      "content_preview": "",
+      "flair": [
+        "AI Event"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "NVIDIA AI Just Released Streaming Sortformer: A Real-Time Speaker Diarization that Figures Out Who’s Talking in Meetings and Calls Instantly",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mwi5rg/nvidia_ai_just_released_streaming_sortformer_a/",
+      "score": 81,
+      "comments": 6,
+      "post_id": "t3_1mwi5rg",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-21T17:53:49.702000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/21/nvidia-ai-just-released-streaming-sortformer-a-real-time-speaker-diarization-that-figures-out-whos-talking-in-meetings-and-calls-instantly/",
+      "content_preview": "",
+      "flair": [
+        "Cool Stuff"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/G5TxNCQa9YVYScw5JnaiUG1qPSDP41XRpSD0WlWH5Sc.png?width=140&height=78&crop=140:78,smart&auto=webp&s=e4f3a3f73b2128c586a927f2a0a8779a2e0d3b72"
+    },
+    {
+      "title": "Microsoft Released VibeVoice-1.5B: An Open-Source Text-to-Speech Model that can Synthesize up to 90 Minutes of Speech with Four Distinct Speakers",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1n06e9u/microsoft_released_vibevoice15b_an_opensource/",
+      "score": 80,
+      "comments": 4,
+      "post_id": "t3_1n06e9u",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-25T23:38:14.035000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/25/microsoft-released-vibevoice-1-5b-an-open-source-text-to-speech-model-that-can-synthesize-up-to-90-minutes-of-speech-with-four-distinct-speakers/",
+      "content_preview": "",
+      "flair": [
+        "Cool Stuff"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/p_TnsUmWQCvDreqHQKcPQtpoP1-PobGZ_qXFft-ieNI.png?width=140&height=74&crop=140:74,smart&auto=webp&s=f0dda6383440681ac09cd8a428000d6642adcdbf"
+    },
+    {
+      "title": "Want the Latest AI Agent and Agentic AI News? These 10 Websites Are a Must-Visit! (2025 Update)",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1moyxsq/want_the_latest_ai_agent_and_agentic_ai_news/",
+      "score": 8,
+      "comments": 0,
+      "post_id": "t3_1moyxsq",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-13T08:36:39.875000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/13/want-the-latest-ai-agent-and-agentic-ai-news-these-10-websites-are-a-must-visit-2025-update/",
+      "content_preview": "",
+      "flair": [
+        "Agentic AI"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/6xOSf1S9q2KQSXLPKO7C6KLtkZGryW00NFD3lfM2d7c.png?width=140&height=78&crop=140:78,smart&auto=webp&s=8677e35faf9c63261d16470bfe1c2c519f47944c"
+    },
+    {
+      "title": "Nous Research Team Releases Hermes 4: A Family of Open-Weight AI Models with Hybrid Reasoning",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1n23l1n/nous_research_team_releases_hermes_4_a_family_of/",
+      "score": 22,
+      "comments": 1,
+      "post_id": "t3_1n23l1n",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-28T05:11:07.847000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/27/nous-research-team-releases-hermes-4-a-family-of-open-weight-ai-models-with-hybrid-reasoning/",
+      "content_preview": "",
+      "flair": [
+        "Research"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/6chtPM3CimwqquMGPMdFJ3mzLyltz2J7218TpkF2bP8.png?width=140&height=100&crop=140:100,smart&auto=webp&s=26141ab66eb319323641f684c36fa9494b41cd2c"
+    },
+    {
+      "title": "Building a Secure and Memory-Enabled Cipher Workflow for AI Agents with Dynamic LLM Selection and API Integration",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mnwb82/building_a_secure_and_memoryenabled_cipher/",
+      "score": 7,
+      "comments": 0,
+      "post_id": "t3_1mnwb82",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-12T02:07:42.180000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/11/building-a-secure-and-memory-enabled-cipher-workflow-for-ai-agents-with-dynamic-llm-selection-and-api-integration/",
+      "content_preview": "",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/ur6M7POQRm0PuR-_TD-ay_ozmUQ-KBu5h5MYiFl6wOc.png?width=140&height=110&crop=140:110,smart&auto=webp&s=5037bc549908f42487702318e7c5a129360002ca"
+    },
+    {
+      "title": "Google AI Releases MLE-STAR: A State-of-the-Art Machine Learning Engineering Agent Capable of Automating Various AI Tasks",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mg937b/google_ai_releases_mlestar_a_stateoftheart/",
+      "score": 80,
+      "comments": 3,
+      "post_id": "t3_1mg937b",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-03T03:25:04.297000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/02/google-ai-releases-mle-star-a-state-of-the-art-machine-learning-engineering-agent-capable-of-automating-various-ai-tasks/",
+      "content_preview": "",
+      "flair": [
+        "Cool Stuff"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/xcsx7JMy0D_aQ24KfZURwD306Izs5wykCB_xkgrrymg.png?width=140&height=118&crop=140:118,smart&auto=webp&s=9dfb87a16f3deed54de1723a85e785d85d4a3a8d"
+    },
+    {
+      "title": "How to Cut Your AI Training Bill by 80%? Oxford’s New Optimizer Delivers 7.5x Faster Training by Optimizing How a Model Learns",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1n32i9l/how_to_cut_your_ai_training_bill_by_80_oxfords/",
+      "score": 18,
+      "comments": 2,
+      "post_id": "t3_1n32i9l",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-29T09:13:47.272000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/29/how-to-cut-your-ai-training-bill-by-80-oxfords-new-optimizer-delivers-7-5x-faster-training-by-optimizing-how-a-model-learns/",
+      "content_preview": "",
+      "flair": [
+        "Research"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Google AI Introduces Gemma 3 270M: A Compact Model for Hyper-Efficient, Task-Specific Fine-Tuning",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mqdd3g/google_ai_introduces_gemma_3_270m_a_compact_model/",
+      "score": 62,
+      "comments": 5,
+      "post_id": "t3_1mqdd3g",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-14T21:10:07.581000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/14/google-ai-introduces-gemma-3-270m-a-compact-model-for-hyper-efficient-task-specific-fine-tuning/",
+      "content_preview": "",
+      "flair": [
+        "Research"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "NASA Releases Galileo: The Open-Source Multimodal Model Advancing Earth Observation and Remote Sensing",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mhuuaa/nasa_releases_galileo_the_opensource_multimodal/",
+      "score": 59,
+      "comments": 1,
+      "post_id": "t3_1mhuuaa",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-05T00:36:43.255000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/04/nasa-releases-galileo-the-open-source-multimodal-model-advancing-earth-observation-and-remote-sensing/",
+      "content_preview": "",
+      "flair": [
+        "Cool Stuff"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/GuZQLhbEVkPsxedRzZ-Yg0LJ0UbSTL9OP2j7wte-fSQ.png?width=140&height=77&crop=140:77,smart&auto=webp&s=eca43f661b8381aa5c9da0922b2a914305c318ee"
+    },
+    {
+      "title": "Building an Advanced PaperQA2 Research Agent with Google Gemini for Scientific Literature Analysis",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mm08j1/building_an_advanced_paperqa2_research_agent_with/",
+      "score": 11,
+      "comments": 0,
+      "post_id": "t3_1mm08j1",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-09T21:03:52.459000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/09/building-an-advanced-paperqa2-research-agent-with-google-gemini-for-scientific-literature-analysis/",
+      "content_preview": "",
+      "flair": [
+        "Cool Stuff"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/WS4cUkaKqymFvH2klEonljw0OGpwmMvvnZKi1zHehms.png?width=140&height=118&crop=140:118,smart&auto=webp&s=c083c7e558f58ccb3c97947125bb064be7515dc8"
+    },
+    {
+      "title": "AgentSociety: An Open Source AI Framework for Simulating Large-Scale Societal Interactions with LLM Agents",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mefa34/agentsociety_an_open_source_ai_framework_for/",
+      "score": 23,
+      "comments": 2,
+      "post_id": "t3_1mefa34",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-07-31T22:17:35.208000+0000",
+      "content_href": "https://www.marktechpost.com/2025/07/31/agentsociety-an-open-source-ai-framework-for-simulating-large-scale-societal-interactions-with-llm-agents/",
+      "content_preview": "",
+      "flair": [
+        "Agentic AI"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/tn8aJxD3n-D344ifKQjI7l-ep2u6Qij6dvC8bCK_Obk.png?width=140&height=100&crop=140:100,smart&auto=webp&s=836c02eed761bba2dc12c1266313756dbd3e1634"
+    },
+    {
+      "title": "Meet LEANN: The Tiniest Vector Database that Democratizes Personal AI with Storage-Efficient Approximate Nearest Neighbor (ANN) Search Index",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1moewba/meet_leann_the_tiniest_vector_database_that/",
+      "score": 50,
+      "comments": 2,
+      "post_id": "t3_1moewba",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-12T17:21:41.377000+0000",
+      "content_href": "https://www.marktechpost.com/2025/08/12/meet-leann-the-tiniest-vector-database-that-democratizes-personal-ai-with-storage-efficient-approximate-nearest-neighbor-ann-search-index/",
+      "content_preview": "",
+      "flair": [
+        "Research"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/vVPDiKV1XfpCRn4rJVDkPOEdqiPjIvhH2ovmWXAf1Ow.jpeg?width=140&height=94&crop=140:94,smart&auto=webp&s=99dea453b8e0b905d07131e71699c56c81e9dc70"
+    },
+    {
+      "title": "A Coding Guide to Build an Intelligent Conversational AI Agent with Agent Memory Using Cognee and Free Hugging Face Models",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1meh5x3/a_coding_guide_to_build_an_intelligent/",
+      "score": 7,
+      "comments": 1,
+      "post_id": "t3_1meh5x3",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-07-31T23:39:42.871000+0000",
+      "content_href": "https://www.marktechpost.com/2025/07/31/a-coding-guide-to-build-an-intelligent-conversational-ai-agent-with-agent-memory-using-cognee-and-free-hugging-face-models/",
+      "content_preview": "",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/jJyGdLCY2uOHzqhpOpWTwmDcSBlqKid0VL5ZUohQbfs.png?width=140&height=117&crop=140:117,smart&auto=webp&s=4505e671fae548e8d6cc72649f5924caf7777e3a"
+    },
+    {
+      "title": "🌍 Google DeepMind’s AlphaEarth Foundations is redefining how we map and understand our planet! This AI-powered “virtual satellite” fuses petabytes of Earth observation data into detailed, 10m-resolution global maps—enabling rapid, accurate monitoring for everything from crops to climate change....",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mdvkl6/google_deepminds_alphaearth_foundations_is/",
+      "score": 27,
+      "comments": 0,
+      "post_id": "t3_1mdvkl6",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-07-31T07:57:31.845000+0000",
+      "content_href": "https://www.marktechpost.com/2025/07/31/meet-alphaearth-foundations-google-deepminds-so-called-virtual-satellite-in-ai-driven-planetary-mapping/",
+      "content_preview": "",
+      "flair": [
+        "Research"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/eYc7f7iol3bSHwR4o5gdh6p2DI3RQYnSlgqyfc51e98.png?width=140&height=116&crop=140:116,smart&auto=webp&s=0349cfd8884f4cc1470424af736e52b2bfd06431"
+    },
+    {
+      "title": "NVIDIA AI Presents ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mdi6ci/nvidia_ai_presents_thinkact_visionlanguageaction/",
+      "score": 25,
+      "comments": 0,
+      "post_id": "t3_1mdi6ci",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-07-30T20:53:05.842000+0000",
+      "content_href": "https://www.marktechpost.com/2025/07/30/nvidia-ai-presents-thinkact-vision-language-action-reasoning-via-reinforced-visual-latent-planning/",
+      "content_preview": "",
+      "flair": [
+        "ML/CV/DL News"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/Kk31nMj2QCRa1TYdzMxzUqTBq3WSc-4_ftVIUT4c6_8.png?width=140&height=69&crop=140:69,smart&auto=webp&s=cf819980a2144aa2d2d639da40112ee1adda4e06"
+    },
+    {
+      "title": "LangGraph Tutorial: A Step-by-Step Guide to Creating a Text Analysis Pipeline",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mdj00f/langgraph_tutorial_a_stepbystep_guide_to_creating/",
+      "score": 11,
+      "comments": 0,
+      "post_id": "t3_1mdj00f",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-07-30T21:25:57.494000+0000",
+      "content_href": "https://www.marktechpost.com/2025/07/30/langgraph-tutorial-a-step-by-step-guide-to-creating-a-text-analysis-pipeline/",
+      "content_preview": "",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Too Much Thinking Can Break LLMs: Inverse Scaling in Test-Time Compute",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1md1fol/too_much_thinking_can_break_llms_inverse_scaling/",
+      "score": 13,
+      "comments": 0,
+      "post_id": "t3_1md1fol",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-07-30T08:51:31.923000+0000",
+      "content_href": "https://www.marktechpost.com/2025/07/30/too-much-thinking-can-break-llms-inverse-scaling-in-test-time-compute/",
+      "content_preview": "",
+      "flair": [
+        "Research"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/OYUmXEbTaFndUQxUrqwrP1KK5GN-KupThzMEeVo10zM.jpeg?width=140&height=117&crop=140:117,smart&auto=webp&s=78388fea2249eefb6925f4ceb588181fa181a5a1"
+    },
+    {
+      "title": "Rubrics as Rewards (RaR): A Reinforcement Learning Framework for Training Language Models with Structured, Multi-Criteria Evaluation Signals",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mcx000/rubrics_as_rewards_rar_a_reinforcement_learning/",
+      "score": 21,
+      "comments": 1,
+      "post_id": "t3_1mcx000",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-07-30T04:17:27.234000+0000",
+      "content_href": "https://www.marktechpost.com/2025/07/29/rubrics-as-rewards-rar-a-reinforcement-learning-framework-for-training-language-models-with-structured-multi-criteria-evaluation-signals/",
+      "content_preview": "",
+      "flair": [
+        "Research"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/ybKeXHfht2B7mz8Rls-1FiZSkhbi1ccXg5jDVU7AndM.png?width=140&height=65&crop=140:65,smart&auto=webp&s=d18ea88d2880b0a7729f163a5d0ff2518e58fe77"
+    },
+    {
+      "title": "A Coding Guide to Build a Scalable Multi-Agent System with Google ADK",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1md023k/a_coding_guide_to_build_a_scalable_multiagent/",
+      "score": 7,
+      "comments": 0,
+      "post_id": "t3_1md023k",
+      "post_type": "link",
+      "domain": "marktechpost.com",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-07-30T07:19:57.583000+0000",
+      "content_href": "https://www.marktechpost.com/2025/07/30/a-coding-guide-to-build-a-scalable-multi-agent-system-with-google-adk/",
+      "content_preview": "",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/8PSttgZV8UbSq2bznXiTWIgoFiBJROh0yWOWLTJvfD0.png?width=140&height=114&crop=140:114,smart&auto=webp&s=3ab19da23b784792c757a34f1d54d5797bb55e8d"
+    },
+    {
+      "title": "NVIDIA just released over 26M lines of synthetic data that was used to train the Llama Nemotron Super v1.5 model",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mepzdi/nvidia_just_released_over_26m_lines_of_synthetic/",
+      "score": 47,
+      "comments": 2,
+      "post_id": "t3_1mepzdi",
+      "post_type": "link",
+      "domain": "huggingface.co",
+      "author": "ai-lover",
+      "author_id": "t2_2wsvqwhg",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-08-01T07:23:50.617000+0000",
+      "content_href": "https://huggingface.co/datasets/nvidia/Nemotron-Post-Training-Dataset-v1",
+      "content_preview": "",
+      "flair": [
+        "Open-Source"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/DAE9-qUrjbF25vktOtxnQ5NQHp0ctXItSzW_ZNmajhM.png?width=140&height=75&crop=140:75,smart&auto=webp&s=d1f2533602d6ac3dc4107d6363f7281c1bcfec04"
+    },
+    {
+      "title": "Scientists use quantum machine learning to create semiconductors for the first time – and it could transform how chips are made",
+      "permalink": "https://www.reddit.com/r/machinelearningnews/comments/1mcxzkl/scientists_use_quantum_machine_learning_to_create/",
+      "score": 10,
+      "comments": 0,
+      "post_id": "t3_1mcxzkl",
+      "post_type": "link",
+      "domain": "livescience.com",
+      "author": "donutloop",
+      "author_id": "t2_81yj9s9",
+      "subreddit_id": "t5_57h1vy",
+      "subreddit": "r/machinelearningnews",
+      "created_ts": "2025-07-30T05:12:43.600000+0000",
+      "content_href": "https://www.livescience.com/technology/computing/scientists-use-quantum-machine-learning-to-create-semiconductors-for-the-first-time-and-it-could-transform-how-chips-are-made",
+      "content_preview": "",
+      "flair": [
+        "ML/CV/DL News"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/hmAxYkvgF005Uv5O3i1hcU5qnA1l7M_hmQsobPLZeic.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=32f504384b134e3558e9ea466ee847ee86980956"
+    }
+  ],
+  "scraped_at": "2025-09-02T11:04:28.045056"
+}

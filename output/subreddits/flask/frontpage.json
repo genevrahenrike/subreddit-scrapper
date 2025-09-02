@@ -1,0 +1,1010 @@
+{
+  "subreddit": "flask",
+  "url": "https://www.reddit.com/r/flask",
+  "meta": {
+    "title": "Flask"
+  },
+  "posts": [
+    {
+      "title": "Having trouble with Flask session management - sessions not persisting across requests",
+      "permalink": "https://www.reddit.com/r/flask/comments/1n2ejar/having_trouble_with_flask_session_management/",
+      "score": 2,
+      "comments": 4,
+      "post_id": "t3_1n2ejar",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "New-Worry6487",
+      "author_id": "t2_1wl60d6y2u",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-28T14:57:34.295000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1n2ejar/having_trouble_with_flask_session_management/",
+      "content_preview": "Hey everyone, I'm relatively new to Flask and I'm running into a frustrating issue with session management that I can't seem to figure out. The Problem: I'm building a simple web app where users need to stay logged in across different pages, but my sessions aren't persisting. Every time I navigate to a new route or refresh the page, the session data disappears and users get logged out. My Setup: Flask 3.1.2 Running on localhost:5000 for development Using the default session implementation What I've tried: Set app.secret_key = 'my-secret-key' in my config Tried both session['user_id'] = user.id and session.permanent = True Checked that I'm not accidentally calling session.clear() anywhere Verified cookies are enabled in my browser Code snippet: @app.route('/login', methods=['POST'])\ndef login():\n    # ... authentication logic ...\n    if user_is_valid:\n        session['user_id'] = user.id\n        session['username'] = user.username\n        return redirect('/dashboard')\n    \n@app.route('/dashboard')\ndef dashboard():\n    if 'user_id' not in session:  # This always triggers!\n        return redirect('/login')\n    return render_template('dashboard.html') The weird thing is that the session seems to work within the same request, but as soon as I hit another route, session comes back empty.Am I missing something obvious here? I feel like this should be basic functionality but I'm clearly doing something wrong. Any help would be really appreciated!Edit: Using Chrome, tried clearing cookies and cache already.",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Need help: My Flask app.py file is over 3000 lines. Should I split it now or later?",
+      "permalink": "https://www.reddit.com/r/flask/comments/1n28em6/need_help_my_flask_apppy_file_is_over_3000_lines/",
+      "score": 7,
+      "comments": 15,
+      "post_id": "t3_1n28em6",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "DefenderXD",
+      "author_id": "t2_qyp796xs",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-28T10:18:07.058000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1n28em6/need_help_my_flask_apppy_file_is_over_3000_lines/",
+      "content_preview": "Hi everyone, I’m working on a Flask app, and right now everything is in one file — app.py . That one file has over 3000 lines of code. It has: All my routes Database setup Forms Helper functions Everything else The app is not fully finished yet . I’m still adding the main features. I’m starting to feel like the file is too big and hard to manage. But I’m not sure how to organize it Any advice or examples would really help! Thanks a lot!",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Flask desktop application",
+      "permalink": "https://www.reddit.com/r/flask/comments/1n58eqw/flask_desktop_application/",
+      "score": 1,
+      "comments": 5,
+      "post_id": "t3_1n58eqw",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "NotShareef6149",
+      "author_id": "t2_1lpzrc82go",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-31T22:46:13.813000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1n58eqw/flask_desktop_application/",
+      "content_preview": "Hi everyone! I’ve built a project using Flask (with SQLite) as the backend and React for the frontend. I want to package it into a .exe desktop app so I can share it with others, and they can easily install and use it. I tried using Electron.js, but I ran into issues and couldn’t get it working properly. Before I spend more time troubleshooting, I’m wondering: Is Electron the best option for this use case, or are there better alternatives for packaging a Flask + React app into a desktop application? I’d really appreciate any suggestions or guidance!",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "I measure my worth in how many tests I have",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mqq8ex/i_measure_my_worth_in_how_many_tests_i_have/",
+      "score": 23,
+      "comments": 8,
+      "post_id": "t3_1mqq8ex",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Hopeful_Beat7161",
+      "author_id": "t2_1b5lneklla",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-15T07:01:26.352000+0000",
+      "content_href": "https://i.redd.it/ferlwlkdt4jf1.png",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i-measure-my-worth-in-how-many-tests-i-have-v0-ferlwlkdt4jf1.png?width=640&crop=smart&auto=webp&s=e9ac0060ca31e7218dca49f287ee4e0d00f41799"
+    },
+    {
+      "title": "Tutorials: Database application linked with webpage",
+      "permalink": "https://www.reddit.com/r/flask/comments/1n4zr0y/tutorials_database_application_linked_with_webpage/",
+      "score": 1,
+      "comments": 8,
+      "post_id": "t3_1n4zr0y",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "Lexuwux",
+      "author_id": "t2_7wq02eq3",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-31T16:52:45.009000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1n4zr0y/tutorials_database_application_linked_with_webpage/",
+      "content_preview": "Hello! In the great scheme of things I am almost a beginner in terms of web development. I’m at an intermediate level with HTML and CSS, and have been learning the syntax for python as an intermediate level programmer in other languages. I’m working to make a small database application where the user can use a webpage to enter books and cds to a database and view/query/edit existing data. After some research, Flask has seemed like a great option. I am struggling with interweaving Python & HTML/CSS though, even after following online documentation. Does anyone have any tutorials or pages they can recommend to help with what I’m looking to do? Thank you!",
+      "flair": [
+        "Tutorials and Guides"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Basic little flask app to track steps and walk to the lonely mountain",
+      "permalink": "https://www.reddit.com/r/flask/comments/1n3fg4j/basic_little_flask_app_to_track_steps_and_walk_to/",
+      "score": 7,
+      "comments": 1,
+      "post_id": "t3_1n3fg4j",
+      "post_type": "multi_media",
+      "domain": "self.flask",
+      "author": "Turusko",
+      "author_id": "t2_fcjl6",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-29T18:35:15.798000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1n3fg4j/basic_little_flask_app_to_track_steps_and_walk_to/",
+      "content_preview": "The app is a single file, very bare bones and basic, saving steps to a text file for me to personally track my steps and compare it to how far to the lonly mounting i am to encourage me walking more. chat gpt was used for the html/css from flask import Flask, render_template_string, request, redirect, url_for\nfrom datetime import datetime\n\napp = Flask(__name__)\n\njourney = [\n    (\"Bag End\", 0),\n    (\"Rivendell\", 450),\n    (\"Misty Mountains\", 600),\n    (\"Mirkwood\", 900),\n    (\"Lake-town (Esgaroth)\", 1200),\n    (\"Lonely Mountain (Erebor)\", 1250)\n]\n\nSTEPS_PER_MILE = 2348\nDATA_FILE = \"step_counter.txt\"\n\ndef steps_to_miles(steps):\n    return steps / STEPS_PER_MILE\n\ndef get_location(miles_walked):\n    for i in range(len(journey)-1):\n        if journey[i][1] <= miles_walked < journey[i+1][1]:\n            progress = (miles_walked - journey[i][1]) / (journey[i+1][1] - journey[i][1]) * 100\n            return f\"You are between {journey[i][0]} and {journey[i+1][0]} ({progress:.1f}% of the way to {journey[i+1][0]}).\"\n    return \"You’ve reached the Lonely Mountain!\"\n\ndef get_total_steps():\n    total_steps = 0\n    try:\n        with open(DATA_FILE, \"r\") as file:\n            for line in file:\n                try:\n                    _, steps = line.strip().split(\": \")\n                    total_steps += int(steps)\n                except ValueError:\n                    continue\n    except FileNotFoundError:\n        pass\n    return total_steps\n\ndef save_steps(steps):\n    with open(DATA_FILE, \"r\") as file:\n        for line in file.read().strip().split(\"\\n\"):\n                date, saved_steps = line.strip().split(\": \")\n                if date == str(datetime.now().date()):\n                    steps = int(steps) - int(saved_steps)\n    if steps > 0:\n        with open(DATA_FILE, \"a\") as file:\n            file.write(f\"{datetime.now().date()}: {steps}\\n\")\n\n@app.route(\"/\", methods=[\"GET\", \"POST\"])\ndef index():\n    if request.method == \"POST\":\n        steps = request.form.get(\"steps\")\n        if steps and steps.isdigit():\n            save_steps(int(steps))\n        return redirect(url_for(\"index\"))\n\n    total_steps = get_total_steps()\n    miles = steps_to_miles(total_steps)\n    location = get_location(miles)\n\n    html = f\"\"\"\n    <!doctype html>\n    <html lang=\"en\">\n    <head>\n    <meta charset=\"UTF-8\">\n    <title>Hobbit Journey Tracker 🏞️</title>\n    <style>\n        body {{\n            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n            background: linear-gradient(to bottom, #f0e6d2, #c7b299);\n            color: #333;\n            text-align: center;\n            padding: 2rem;\n        }}\n        h1 {{\n            color: #6b4e16;\n        }}\n        .stats {{\n            background-color: rgba(255,255,255,0.8);\n            display: inline-block;\n            padding: 1rem 2rem;\n            border-radius: 12px;\n            margin-bottom: 1.5rem;\n            box-shadow: 2px 2px 12px rgba(0,0,0,0.2);\n        }}\n        form input[type=\"text\"] {{\n            padding: 0.5rem;\n            font-size: 1rem;\n            border-radius: 6px;\n            border: 1px solid #aaa;\n            width: 120px;\n            text-align: center;\n        }}\n        form input[type=\"submit\"] {{\n            padding: 0.5rem 1rem;\n            font-size: 1rem;\n            border-radius: 6px;\n            border: none;\n            background-color: #6b4e16;\n            color: #fff;\n            cursor: pointer;\n            margin-left: 0.5rem;\n        }}\n        form input[type=\"submit\"]:hover {{\n            background-color: #8a6321;\n        }}\n        .progress-container {{\n            width: 80%;\n            background-color: #ddd;\n            border-radius: 12px;\n            margin: 1rem auto;\n            height: 24px;\n        }}\n        .progress-bar {{\n            height: 100%;\n            border-radius: 12px;\n            background: linear-gradient(to right, #f4d35e, #ee9b00);\n            width: {min(100, (miles/journey[-1][1]*100)):.1f}%;\n            text-align: center;\n            color: #000;\n            font-weight: bold;\n            line-height: 24px;\n        }}\n    </style>\n    </head>\n    <body>\n    <h1>Hobbit Journey Tracker 🏞️</h1>\n\n    <div class=\"stats\">\n        <p><strong>Total Steps:</strong> {total_steps:,}</p>\n        <p><strong>Total Miles:</strong> {miles:.1f}</p>\n        <p><strong>Location:</strong> {location}</p>\n    </div>\n\n    <div class=\"progress-container\">\n        <div class=\"progress-bar\">{min(100, (miles/journey[-1][1]*100)):.1f}%</div>\n    </div>\n\n    <form method=\"post\">\n        Enter steps for today: <input type=\"text\" name=\"steps\" placeholder=\"e.g., 5000\">\n        <input type=\"submit\" value=\"Add Steps\">\n    </form>\n    </body>\n    </html>\n    \"\"\"\n\n    return render_template_string(html, total_steps=total_steps, miles=miles, location=location)\n\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+      "flair": [
+        "Show and Tell"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Session management on cross domains",
+      "permalink": "https://www.reddit.com/r/flask/comments/1n1exhd/session_management_on_cross_domains/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n1exhd",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "Amazing-Read-3573",
+      "author_id": "t2_1cmtr7stor",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-27T11:54:02.887000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1n1exhd/session_management_on_cross_domains/",
+      "content_preview": "I had a Quart application, and I implemented a session version of it in Flask, possibly to identify an error. Below is my Flask implementation. I have tested it with the front-end application running on a different system, and the login was successful; however, upon changing the window location to dashboard.html, it redirects to the login page once again, and the session is lost. What could the issues be? import os\nimport uuid\nfrom datetime import timedelta\nfrom http import HTTPStatus\nfrom functools import wraps\n\nimport redis\nfrom flask import Flask, render_template_string, request, session, redirect, url_for, jsonify\nfrom flask_session import Session\nfrom flask_cors import CORS\n\n\n# Create the Flask application\napp = Flask(__name__)\n\n# Details on the Secret Key: https://flask.palletsprojects.com/en/3.0.x/config/#SECRET_KEY\n# NOTE: The secret key is used to cryptographically-sign the cookies used for storing\n#       the session identifier.\napp.secret_key = os.getenv('SECRET_KEY', default='BAD_SECRET_KEY')\nCORS(app, supports_credentials=True, resources={r\"/*\": {\"origins\": ['http://192.168.0.12:3000']}})\n\n# Configure Redis for storing the session data on the server-side\napp.config['SESSION_TYPE'] = 'redis'\napp.config['SESSION_PERMANENT'] = False\napp.config['SESSION_USE_SIGNER'] = True\napp.config['SESSION_REDIS'] = redis.from_url('redis://127.0.0.1:6379')\n\napp.config[\"SESSION_COOKIE_DOMAIN\"] = \"192.168.0.24\"\napp.config[\"SESSION_COOKIE_PATH\"] = \"/\"\napp.config[\"SESSION_COOKIE_HTTPONLY\"] = True\napp.config[\"SESSION_COOKIE_SAMESITE\"] = \"None\"\napp.config[\"SESSION_COOKIE_SECURE\"] = False  # since you're on HTTP\n\n# Create and initialize the Flask-Session object AFTER `app` has been configured\nserver_session = Session(app)\n\nusers = [\n    {\n        \"id\": 1,\n        \"name\": \"Alice\",\n        \"email\": \"alice@example.com\",\n        \"last_login\": \"2025-08-27T10:00:00Z\"\n    },\n    {\n        \"id\": 2,\n        \"name\": \"Bob\",\n        \"email\": \"bob@example.com\",\n        \"last_login\": \"2025-08-26T15:30:00Z\"\n    },\n    {\n        \"id\": 3,\n        \"name\": \"Charlie\",\n        \"email\": \"charlie@example.com\",\n        \"last_login\": \"2025-08-25T08:15:00Z\"\n    }\n]\n\ndef get_user_by_id(user_id):\n    \"\"\"\n    Finds and returns a user dictionary from the 'users' list by their ID.\n    \n    Args:\n        user_id (int): The ID of the user to find.\n        \n    Returns:\n        dict or None: The user dictionary if found, otherwise None.\n    \"\"\"\n    for user in users:\n        if user[\"id\"] == user_id:\n            return user\n    return None\n\ndef get_user_by_email(user_email):\n    for user in users:\n        if user[\"email\"] == user_email:\n            return user\n    return None\n\ndef login_required(func):\n    @wraps(func)\n    def inner(*args, **kwargs):\n        if \"user_id\" not in session:\n            return jsonify({\"error\": \"Login required\"}), HTTPStatus.FORBIDDEN\n\n        return func(*args, **kwargs)\n\n    return inner\n\n@app.post(\"/auth/login\")\ndef login():\n    data = request.get_json()\n    user = get_user_by_email(data[\"email\"])\n\n    if not user:\n        return jsonify({\"error\": \"User not found\"}), HTTPStatus.BAD_REQUEST\n\n    session[\"user_id\"] = user[\"id\"]\n    user[\"token\"] = str(uuid.uuid4())\n    return jsonify(user), 200\n\n@app.get(\"/auth/get-user-details\")\n@login_required\ndef me():\n    return jsonify(get_user_by_id(session['user_id'])), 200\n\n\n@app.delete(\"/auth/logout\")\n@login_required\ndef logout():\n    session.clear()\n    return jsonify({\"message\": \"Logout successfully.\"}), 200 I created a simple Express that serves front-end pages for testing as follows. I added alerts to pose and visualise the responses in dev tools. https://github.com/colinochieng/samples/tree/main/front-end",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Make “Ship Happen”: Use Docker to Deploy your Flask App to Render",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mpwxrq/make_ship_happen_use_docker_to_deploy_your_flask/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mpwxrq",
+      "post_type": "multi_media",
+      "domain": "self.flask",
+      "author": "21stmandela",
+      "author_id": "t2_2jd2ywwe",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-14T10:35:27.827000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1mpwxrq/make_ship_happen_use_docker_to_deploy_your_flask/",
+      "content_preview": "My latest published in Level Up Coding. Free \"friend link\" (no paywall) available here: https://levelup.gitconnected.com/make-ship-happen-use-docker-to-deploy-your-flask-app-to-render-6e526edb8fb2?sk=944038dbd6034a448c3c268316afc835 https://preview.redd.it/uamwuuq9wzif1.jpg",
+      "flair": [
+        "Tutorials and Guides"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Stop refreshing Google Flights - build your own flight price tracker!",
+      "permalink": "https://www.reddit.com/r/flask/comments/1my6rd8/stop_refreshing_google_flights_build_your_own/",
+      "score": 16,
+      "comments": 6,
+      "post_id": "t3_1my6rd8",
+      "post_type": "multi_media",
+      "domain": "self.flask",
+      "author": "AI_Pythonista",
+      "author_id": "t2_s2dqrunaj",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-23T16:59:52.781000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1my6rd8/stop_refreshing_google_flights_build_your_own/",
+      "content_preview": "In my latest tutorial, I'll show you how to scrape real-time flight data (prices, airlines, layovers, even logos) using Python, Flask, and SerpAPI - all displayed in a simple web app you control. This is perfect if you: - Want the cheapest flights without checking manually every day - Are a dev curious about scraping + automation - Need a starter project for building a full flight tracker with alerts Tools: Python, Flask, SerpAPI, Bootstrap Check the video here: YouTube video 📌 Bonus: In my next video, I'll show you how to add price drop alerts via Telegram/Email",
+      "flair": [
+        "Show and Tell"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Learning hosting solutions through books or articles?",
+      "permalink": "https://www.reddit.com/r/flask/comments/1n02cj5/learning_hosting_solutions_through_books_or/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n02cj5",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "No-Ice-2476",
+      "author_id": "t2_1up01jraji",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-25T20:53:29.319000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1n02cj5/learning_hosting_solutions_through_books_or/",
+      "content_preview": "good evening fellas! Basically, I am pretty new to flask but really like it so far. I have trained myself to learn from books since a couple years for the guarantee of high quality content and completeness. So far I really like it, but it takes a lot of time and effort. I only know the basics about networking and am interested in hosting my new project on my own hardware, and therefore need some sort of http server software like apache or nginx. Would you, assuming you are already pretty familiar with hosting solutions on own hardware, recommend learning apache or nginx through books, or through articles or videos? I really have no clue how long I will be busy learning how to install and configure, and really get comfortable with the process of hosting. I would love to hear what you guys have to say. Have a great night and take care, peace",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Best practice for restarting a deployed Flask app from the app itself",
+      "permalink": "https://www.reddit.com/r/flask/comments/1n0x4al/best_practice_for_restarting_a_deployed_flask_app/",
+      "score": 6,
+      "comments": 7,
+      "post_id": "t3_1n0x4al",
+      "post_type": "multi_media",
+      "domain": "self.flask",
+      "author": "mdezzi",
+      "author_id": "t2_70f76",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-26T20:35:29.910000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1n0x4al/best_practice_for_restarting_a_deployed_flask_app/",
+      "content_preview": "I have a flask web application that allows a user to load \"scripts\" (snippets of python code) that the app will import and execute. Occasionally, i need to delete and reupload a modified version of a script. I have created this functionality, but it seems that the application (or rather python itself) keeps a cached version of the old code when it is executed. I have deployed my webapp via gunicorn in a docker container, so a simple restart of the container fixes the problem. However i'd like to automate this at time of \"re-import\". Is there a best practice for restarting flask/gunicorn from within the app itself? I stumbled upon this blog post that talks about sending \"kill -HUP [PID]\", and as far as I can tell my master worker is alwasy PID 1, so i could just send that command with os.system(), but i am wondering if that is considered the best practice for a situation like this. Any tips?",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Looking for contributors on a 5E compatible character generator",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mzk5v1/looking_for_contributors_on_a_5e_compatible/",
+      "score": 3,
+      "comments": 9,
+      "post_id": "t3_1mzk5v1",
+      "post_type": "link",
+      "domain": "arcanapdf.onedice.org",
+      "author": "argtsag",
+      "author_id": "t2_lqs5luhda",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-25T07:39:20.892000+0000",
+      "content_href": "https://arcanapdf.onedice.org",
+      "content_preview": "",
+      "flair": [
+        "Show and Tell"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/7FpbncuwFcjJA6d50XzRR7325B61KLMCizS_F9fbbns.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=70296455fd04027edfc1eb2ecd6583b233dbe895"
+    },
+    {
+      "title": "Should I ban robot scripts?",
+      "permalink": "https://www.reddit.com/r/flask/comments/1n0oij2/should_i_ban_robot_scripts/",
+      "score": 5,
+      "comments": 3,
+      "post_id": "t3_1n0oij2",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "ImCovax",
+      "author_id": "t2_cm7v32wo",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-26T15:12:10.262000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1n0oij2/should_i_ban_robot_scripts/",
+      "content_preview": "Well, the question is more like a general query about good practices than directly related to flask, but I'll try. I have a flask app running in the production, facing the Internet. So, I also have a bunch of scanning attempts looking for typical weaknesses, like: 2025-08-25 10:46:36,791 - ERROR: [47.130.152.98][anonymous_user]404 error: https://my.great.app/site/wp-includes/wlwmanifest.xml\n2025-08-25 13:32:50,656 - ERROR: [3.83.226.115][anonymous_user]404 error: https://my.great.app/web/wp-includes/wlwmanifest.xml\n2025-08-25 07:13:03,168 - ERROR: [4.223.168.126][anonymous_user]404 error: https://my.great.app/wp-includes/js/tinymce/plugins/compat3x/css.php So, the question is really if I should do anything about it - like banning the IP address on the app level, or just ignore it. There is a WAF in front of the VPS (public hosting), and the above attempts are not really harmful other than flooding the logs. There are no typical .php, .xml or similar components.",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Novice web dev. Javascript/React with Flask backend question",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mwtmez/novice_web_dev_javascriptreact_with_flask_backend/",
+      "score": 1,
+      "comments": 3,
+      "post_id": "t3_1mwtmez",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "the_dalailama134",
+      "author_id": "t2_91fyj8az",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-22T01:42:06.575000+0000",
+      "content_href": "/r/webdev/comments/1mwtl3o/novice_web_dev_javascriptreact_with_flask_backend/",
+      "content_preview": "",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Where to Run DB Migrations with Shared Models Package?",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mscy1u/where_to_run_db_migrations_with_shared_models/",
+      "score": 8,
+      "comments": 13,
+      "post_id": "t3_1mscy1u",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "Pitiful_Cry_858",
+      "author_id": "t2_1nmykpdzlu",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-17T00:39:14.377000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1mscy1u/where_to_run_db_migrations_with_shared_models/",
+      "content_preview": "I have two apps (A and B) sharing a single database. Both apps use a private shared-models package (separate repo) for DB models. Question: Where should migrations live, and which app (or package) should run them? Should migrations be in shared-models or one of the apps? Should one app’s CI/CD run migrations (e.g., app A deploys → upgrades DB), or should shared-models handle it? How have you solved this? Thanks!",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "python_sri - A Subresource Integrity hash generator",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mw5j2s/python_sri_a_subresource_integrity_hash_generator/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1mw5j2s",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "lv_oz2",
+      "author_id": "t2_krlz9npm",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-21T08:47:55.134000+0000",
+      "content_href": "/r/Python/comments/1mvylz9/python_sri_a_subresource_integrity_hash_generator/",
+      "content_preview": "",
+      "flair": [
+        "Show and Tell"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Weird Flask bug: MySQL time not showing in HTML",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mobprf/weird_flask_bug_mysql_time_not_showing_in_html/",
+      "score": 4,
+      "comments": 2,
+      "post_id": "t3_1mobprf",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "DefenderXD",
+      "author_id": "t2_qyp796xs",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-12T15:24:14.088000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1mobprf/weird_flask_bug_mysql_time_not_showing_in_html/",
+      "content_preview": "Title: Weird Flask/MySQL bug: start_time won’t show in <input type=\"time\"> , but end_time does Body: I’m running into a strange issue in my Flask app with MySQL TIME columns. Table snippet: mysql> desc tests;\n+-------------+-------+\n| Field       | Type  |\n+-------------+-------+\n| start_time  | time  |\n| end_time    | time  |\n+-------------+-------+ Python code: if test_Data:\n    print(\"DEBUG-----------------------\", test_Data[9])\n    print(\"DEBUG-----------------------\", test_Data[10])\n    test_Data = {\n        'test_id': test_Data[0],\n        'test_name': test_Data[3],\n        'test_start_time': test_Data[9],\n        'test_end_time': test_Data[10]\n    } Debug output: DEBUG-----------------------  8:30:00\nDEBUG-----------------------  12:30:00 HTML: <input type=\"time\" id=\"start_time\" value=\"{{ test_Data.test_start_time }}\">\n<input type=\"time\" id=\"end_time\" value=\"{{ test_Data.test_end_time }}\"> The weird part: end_time shows up fine in the <input type=\"time\"> field. start_time doesn’t display anything, even though the debug print shows a valid 8:30:00 . Why would one TIME field from MySQL work and the other not, when they’re the same type and retrieved in the same query?",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Best way to showcase pre-production?",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mmy9uw/best_way_to_showcase_preproduction/",
+      "score": 1,
+      "comments": 12,
+      "post_id": "t3_1mmy9uw",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "No-Yak4416",
+      "author_id": "t2_1efi4dcf6i",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-11T00:06:08.322000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1mmy9uw/best_way_to_showcase_preproduction/",
+      "content_preview": "I’m currently working on a website for a friend, who doesn’t have much technical experience. I want to show him the progress I have so far, and let him try it out, but I don’t want to pay for anything. I’m kind of new to this stuff myself, but I have heard of GitHub pages. I believe it is only for static sites though. Is there a good free alternative for flask sites?",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "I generated a visual diagram for Flask",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mopr9e/i_generated_a_visual_diagram_for_flask/",
+      "score": 4,
+      "comments": 2,
+      "post_id": "t3_1mopr9e",
+      "post_type": "multi_media",
+      "domain": "self.flask",
+      "author": "ivan_m21",
+      "author_id": "t2_diabq",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-13T00:22:05.644000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1mopr9e/i_generated_a_visual_diagram_for_flask/",
+      "content_preview": "Hey all I recently created an open-source project which generates accurate diagrams for codebases. As I have used flask multiple times in my past for simple endpoint projects I generated one for the community here: https://preview.redd.it/i-generated-a-visual-diagram-for-flask-v0-ttm0nghbkoif1.png It is quite interesting to see how it differentiates from other framework as the diagram gives a quick overview of what actually happens under the hood. The diagram is interactive and you can click and explore the components of it and also see the relevant source code files, check the full diagram is here: https://github.com/CodeBoarding/GeneratedOnBoardings/blob/main/flask/on_boarding.md And the open-source tool for generation is: https://github.com/CodeBoarding/CodeBoarding",
+      "flair": [
+        "Made with AI"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Hello",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mpp01q/hello/",
+      "score": 4,
+      "comments": 4,
+      "post_id": "t3_1mpp01q",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "Beautiful_Brief",
+      "author_id": "t2_7dp7j7a6",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-14T03:04:18.249000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1mpp01q/hello/",
+      "content_preview": "Hello friends, I am a beginner developer and I am creating a website, I almost finished my first project, I got stuck on adding a promo code, the intended page and the user must enter the promo code to receive the product. I am interested in your opinion, how good an idea is it to add promo codes to the database (in my case I use ssms) and from there check if such a promo code exists, then I will give the product to the user and if it does not exist then Flash will throw an error. Promo codes should be different and unique. I am also wondering if there is a way to solve this problem without using the database. Thanks for the answer <3",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "eQuacks Toy Currency",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mnj5z8/equacks_toy_currency/",
+      "score": 4,
+      "comments": 4,
+      "post_id": "t3_1mnj5z8",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "Important-Sound2614",
+      "author_id": "t2_1dqjxobqer",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-11T17:20:58.401000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1mnj5z8/equacks_toy_currency/",
+      "content_preview": "eQuacks is my attempt at a toy currency. This currency has no monetary value and is not a cryptocurrency. It should not be treated as such. It literally has not use, but it works normally. It has a clean, minimalistic web interface and is written in Python Flask. It has many features, including: A fun way to earn the currency, through answering riddles. A receipt system to prove transactions. A full currency system! Link: https://equacks.seafoodstudios.com/ Source Code: https://github.com/SeafoodStudios/eQuacks",
+      "flair": [
+        "Show and Tell"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_d0y8nj/styles/profileIcon_f5w6vg6iw6jf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=dff5cca38574e90a11456bedff2ddfabb6810bfe"
+    },
+    {
+      "title": "Developing a Real-time Dashboard with Flask, Postgres, and Socket.IO",
+      "permalink": "https://www.reddit.com/r/flask/comments/1n2c696/developing_a_realtime_dashboard_with_flask/",
+      "score": 4,
+      "comments": 1,
+      "post_id": "t3_1n2c696",
+      "post_type": "link",
+      "domain": "testdriven.io",
+      "author": "michaelherman",
+      "author_id": "t2_aie3t",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-28T13:25:43.049000+0000",
+      "content_href": "https://testdriven.io/blog/flask-postgres-socketio/",
+      "content_preview": "",
+      "flair": [
+        "Tutorials and Guides"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "How to fix import error on pythonanywhere",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mkxmi6/how_to_fix_import_error_on_pythonanywhere/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1mkxmi6",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Klutzy_Letterhead578",
+      "author_id": "t2_dumlr4u2z",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-08T15:03:44.019000+0000",
+      "content_href": "https://i.redd.it/nkch5ea69thf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": "https://preview.redd.it/how-to-fix-import-error-on-pythonanywhere-v0-nkch5ea69thf1.jpeg?width=640&crop=smart&auto=webp&s=c387850c04b255387231592cda18d321ea41fdba"
+    },
+    {
+      "title": "What I believe to be a minor change, caused my flask startup to break...can someone explain why?",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mkbhyj/what_i_believe_to_be_a_minor_change_caused_my/",
+      "score": 0,
+      "comments": 21,
+      "post_id": "t3_1mkbhyj",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "Mach_Juan",
+      "author_id": "t2_13on9n",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-07T20:43:51.434000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1mkbhyj/what_i_believe_to_be_a_minor_change_caused_my/",
+      "content_preview": "The following are 2 rudimentary test pages.  One is just a proof of concept button toggle.  The second one adds toggleing gpio pins on my pi's button actions. The first one could be started with flask run --host=0.0.0.0  The second requires:  FLASK_APP=app.routes flask run --host=0.0.0.0 from flask import Flask, render_template\napp = Flask(__name__)\n\nled1_state = False\nled2_state = False\n\n.route(\"/\")\ndef index():\n    return render_template(\"index.html\", led1=led1_state, led2=led2_state)\n\n.route(\"/toggle/<int:led>\")\ndef toggle(led):\n    global led1_state, led2_state\n\n    if led == 1:\n        led1_state = not led1_state\n    elif led == 2:\n        led2_state = not led2_state\n\n    return render_template(\"index.html\", led1=led1_state, led2=led2_state)\n\nif __name__ == \"__main__\":\n    app.run(debug=True)\n\n\nAND-\n\n\nfrom flask import Flask, render_template, redirect, url_for\nfrom app.gpio_env import Gpio\n\napp = Flask(__name__)\ngpio = Gpio()\n\n.route(\"/\")\ndef index():\n    status = gpio.status()\n    led1 = status[\"0\"] == \"On\"\n    led2 = status[\"1\"] == \"On\"\n    return render_template(\"index.html\", led1=led1, led2=led2)\n\n.route(\"/toggle/<int:led>\")\ndef toggle(led):\n    if led in [1, 2]:\n        gpio.toggle(led - 1)  # 1-based from web → 0-based for Gpio\n    return redirect(url_for(\"index\"))\n\nif __name__ == \"__main__\":\n    app.run(host=\"0.0.0.0\", port=5000, debug=True) Any help?",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Flask x SocketIO appears to be buffering socket.emit()'s with a 10 second pause when running on gevent integrated server",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mf1n3h/flask_x_socketio_appears_to_be_buffering/",
+      "score": 3,
+      "comments": 9,
+      "post_id": "t3_1mf1n3h",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "enigma_0Z",
+      "author_id": "t2_bgvix",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-01T16:49:13.193000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1mf1n3h/flask_x_socketio_appears_to_be_buffering/",
+      "content_preview": "So I am trying to make a (relatively small) webapp production ready by moving off of the builtin WSGI server, and am encountering some issues with flask-socketio and gevent integration .  I don't have my heart set on this integration, but it was the easiest to implement first, and the issues I'm experiencing feel more like I'm doing something wrong than a failing of the tooling itself. With gevent installed, the issue I'm having is that while the server logs that messages are being sent as soon as they arrive, the frontend shows them arriving in ~10s bursts.  That is to say that the server will log messages emitted in a smooth stream, but the frontend shows no messages, for roughly a 5 to 10 second pause, then shows all of the messages arriving at the same time. The built-in WSGI sever does not seem to have this issue, messages are sent and arrive as soon as they are logged that they've been sent. I'm pretty confident I'm simply doing something wrong, but I'm not sure what.  What follows is a non-exhaustive story of what I've tried, how things work currently, and where I'm at.  I'd like to switch over from the built-in WSGI server because it's kinda slow when writing out a response with large-ish objects (~1MB) from memory. What I've tried / know Installing gevent Installing eventlet instead Switching to gevent flavored Thread and Queue in the queue processing loop thread which emits the socket events Adding gevent.sleep() s into the queue processing loop (I had a similar issue with API calls which were long running blocking others because of how gevent works). Adding a gevent-flavordd sleep after sending queued messages Setting this sleep ^ to longer values (upwards of 0.1s) -- this just slows down the sending of messages, but they still buffer and send every 10s or so.  All this did was just make everything else take longer Both dev WSGI server and gevent integration show a successful upgrade to websocket (status 101) when the frontend connects, so as best as I can tell it's not dropping down to polling? What I haven't tried Other \"production ready\" methods of running a flask app (e.g. gunicorn, uWSGI, etc...) How the relevant code works (simplified) class ThreadQueueInterface(BaseInterface):\n  def __init__(self, socket: SocketIO = None):\n    self.queue = Queue()\n    self.socket = socket\n    self.thread = Thread(\n      target=self.thread_target,\n      daemon=True\n    )\n\n  ...\n\n  def send(self, message): # simplified\n    self.queue.put(message)\n\n  def run(self):\n    '''Start the queue processing thread'''\n    if (self.socket != None):\n      logger.info('Starting socket queue thread')\n      self.thread.start()\n    else:\n      raise ValueError(\"Socket has not been initialized\")\n\n  def thread_target(self):\n    while True:\n      try:\n        message = self.queue.get(block=False)\n        if type(message) != BaseMessageEvent:\n          logger.debug(f'sending message: {message}')\n          self.socket.emit(message.type, message.data)\n        else:\n          logger.debug(f'skipping message: {message}')\n      except Empty:\n        logger.debug('No message in queue, sleeping')\n        sleep(1) # gevent flavored sleep\n      except Exception as ex:\n        logger.error(f'Error in TheadQueueInterface.thread_target(): {ex}')\n      finally:\n        sleep() ThreadQueueInterface is declared as a singleton for the flask app, as is an instance of SocketIO, which is passed in as a parameter to the constructor.  Anything that needs to send a message over the socket does so through this queue.  I'm doing it this way because I originally wrote this tool for a CLI, and previously had print() statements where now it's sending stuff to the socket.  Rewriting it via an extensible interface (the CLI interface just prints where this puts onto a queue) seemed to make the most sense, especially since I have a soft need for the messages to stay in order. I can see the backend debug logging sending message: {message} in a smooth stream while the frontend pauses for upwards of 10s, then receives all of the backlogged messages.  On the frontend, I'm gathering this info via the network tab on my browser, not even logging in my FE code, and since switching back to the dev WSGI server resolves the issue, I'm 99% sure this is an issue with my backend. Edits: Added more info on what I've tried and know so far.",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Improving the bottlenecks of a Flask API",
+      "permalink": "https://www.reddit.com/r/flask/comments/1n1s7i8/improving_the_bottlenecks_of_a_flask_api/",
+      "score": 2,
+      "comments": 5,
+      "post_id": "t3_1n1s7i8",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "Cwlrs",
+      "author_id": "t2_80ont",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-27T20:29:08.508000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1n1s7i8/improving_the_bottlenecks_of_a_flask_api/",
+      "content_preview": "Hi everyone, I have an API which is served using gunicorn, azure container app (aws lambda rough equivalent), and has a flexible server postgres db behind it (aws RDS equivalent). I am often looking to improve the throughput of the API. The most recent bottleneck has been the number of concurrent DB connections allowed. I was on the cheapest DB plan which supported 50 DB connections. My Flask worker config was 2 workers, 2 threads which I believed meant for each replica, 4 DB engines were created. Then under a load test, the number of DB connections reached the ceiling. Therefore some API users were getting denied Auth as the table couldn't be reached. The DB has some 'reserved' connections so in the monitoring it would cap out at 38 but ~12 were reserved for the cloud provider/admin access etc. Anyway - I bumped the DB size 1 level high which gave me access to 400 DB connections which resolved that bottleneck. The new bottleneck seems to be - I can now support 20 Virtual Users in a postman load test. But when I increase this load test to 40 VUs, the response time doubles, and therefore the requests per second halves. So I am not actually achieving more throughput even though The error rate is 0.77% with a ESOCKETTIMEDOUT error on those failures. In my gunicorn config file I have a time out of 60s declared. So clearly it is the lack of throughput although I don't particularly understand where the bottleneck is. In terms of what the API is doing - the incoming payload is quite large, imagine some detailed time series data. Where there are 3 writes to blob storage, 3 writes to the postgres db, and some processing of the payload before returning a response. (I completely accept that the writes to DB should ideally be excluded and managed by a separate blob -> db job as these are essentially duplicates of the writes to blob, but when you're a team of 1 you gotta pick your battles) I think the bottleneck in this setup is the I/O of the various writes to cloud. In particular the writes to postgres where I understand there is a queuing policy to prevent problems. Does blob have a similar policy? Where else in the stack would you look for bottlenecks? Essentially what I want to happen is the performance of the API to scale horizontally... perfectly? Like if I go from 20 VUs to 40 VUs, I want the response time to stay the same but the number of replicas of the API to increase, and I suppose this would mean I also want the throughput of the DB to also increase? I'm not sure - but any thoughts + advice would be greatly appreciated! One other bit of info that might be helpful - historically the API has moved from CPU bound to RAM bound and back etc. So we've needed to change the gunicorn worker setup fairly often. The current setup of 2 workers 2 threads seems balanced between the RAM requirements of some ML models held in memory, and the historical requirement of not overwhelming the CPU. I think as of today I might be able to increase the thread count if anyone thinks that might help performance? In particular - if anyone has any ideas on what to inspect in terms of monitoring of the DB and/or container app, that would be great. API CPU appears to be low. Memory looks fine. DB connections look fine. I'm not sure what to check for things like postgres queuing - if that is even a think. But ideas like that. There are so many metrics to check.",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[AF]Debugging help: Flaskapp can't find static files",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mmptbh/afdebugging_help_flaskapp_cant_find_static_files/",
+      "score": 3,
+      "comments": 7,
+      "post_id": "t3_1mmptbh",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "Job_Trunicht",
+      "author_id": "t2_3gtjyjd3",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-10T18:18:12.505000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1mmptbh/afdebugging_help_flaskapp_cant_find_static_files/",
+      "content_preview": "I'm running flask 3.0.3 with python 3.11 and have a strange issue where it can't find a simple css file I have in there. When I give a path to my static file I get a 404 can't be found. my file structure is like the below: project\n    __init__.py\n    controller.py\n    config.py\n    templates\n        templatefile.html\n    static\n        style.css I haven't tried a lot yet, I started seeing if I made a mistake compared to how it's done in the flask tutorial but I can't see where I've gone wrong, I also looked on stack overflow a bit. I've tried setting a path directly to the static folder, inside __init__.py app = Flask(__name__, static_folder=STATIC_DIR) Is there a way I can debug this and find what path it is looking for static files in? Edit: Additional info from questions in comments. I am using url_for <link rel=\"stylesheet\" href=\"{{ url_for('static', filename='style.css') }}\"> It resolves to http://127.0.0.1:5000/static/style.css which is what I was expecting STATIC_DIR is set to os.path.abspath('static') which resolves correctly when I try and navigate to it in my file browser EDIT2 I did a bad job checking the file name. there was no style.css but there was a syle.css Thanks for the advice.",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "OAuth/API Authorization Redirects to Wrong App - Flask/Strava API",
+      "permalink": "https://www.reddit.com/r/flask/comments/1me12p8/oauthapi_authorization_redirects_to_wrong_app/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1me12p8",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "jarno050304",
+      "author_id": "t2_56k017pzi",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-07-31T13:06:43.970000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1me12p8/oauthapi_authorization_redirects_to_wrong_app/",
+      "content_preview": "Hey all, I'm building a small web app with a Flask backend and Vue frontend. I'm trying to use the Strava API for user authentication, but I'm running into a very strange problem. When a user tries to log in, my Flask backend correctly uses my application's Client ID to build the authorization URL. However, the resulting page is for a completely different app called \"Simon's Journey Viz\" (with its own name, description, and scopes). I've double-checked my Client ID/Secret, cleared my browser's cache, and even verified my app.py is loading the correct credentials. I've also found that I can't manage my own Strava API app (I can't delete it or create a new one). Has anyone seen a similar OAuth/API redirect issue where the wrong application is triggered on the authorization page? Could this be related to a specific Flask configuration or something on the API's server-side? Any insights or potential solutions would be much appreciated! Thanks",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Feedback for an orchestration project",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mexvj3/feedback_for_an_orchestration_project/",
+      "score": 3,
+      "comments": 2,
+      "post_id": "t3_1mexvj3",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "RelevantLecture9127",
+      "author_id": "t2_1anjgthsmi",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-01T14:24:52.755000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1mexvj3/feedback_for_an_orchestration_project/",
+      "content_preview": "I have a project in mind that I want feedback about. The project consists: - Server with a REST-API - Multiple agent with a REST-API Both REST-API's will be made through flask-restful. The communication should be initiated by the server through SSL connection and the agent should respond. And what the server will do: asking to execute command like statuses, changing configuration of an specific application and restart the application. The agent does the actual execution. So the type of data is not realtime, so there is no need to use websockets. But I can't rap my head around about the following: - Is it wise to have multi-agent architecture with REST-api's on both sides or is there a better way? - In case of multiple agents that potentially generate a lot of traffic: Should I use a message broker and in what way in case of the REST-API's? - What else do I need to take into consideration? (I already thought about authentication and authorization, what is going to be token-based and ACL's)",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Documentation generator for Flask+React apps",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mermm1/documentation_generator_for_flaskreact_apps/",
+      "score": 4,
+      "comments": 2,
+      "post_id": "t3_1mermm1",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "Proof-Indication-581",
+      "author_id": "t2_k9jk2bd1",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-01T09:10:34.859000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1mermm1/documentation_generator_for_flaskreact_apps/",
+      "content_preview": "Hi folks, I built a tool that reads your Flask app code (plus React frontend) and automatically generates API and UI documentation from it. It's called AutoDocAI . You upload a zipped project, and it returns clean Markdown docs for your backend routes and frontend components. I'd love for flask devs here to give it a try. Especially, against a bit more complex apps that could benefit from docs. I'd be happy to jump on a zoom* call with eager developers who would be happy to discuss this project along with testing it. Just zip and upload your Flask+React codebase and upload it. And you'll get a zipped folder with your app's documentation in markdown format. Appreciate any feedback, bugs, or suggestions. 🙏 Thanks! *On a free Zoom account but I'll be happy to catch up over any other video conf app. Update: I'm okay with apps that are not important, but can be valuable from an evaluation perspective. At this stage, I'm only willing to test whether this is effective. If there's a need, I'll build an offline binary that can work with local, Ollama integration too.",
+      "flair": [
+        "Show and Tell"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Can't deploy Flask application in Render",
+      "permalink": "https://www.reddit.com/r/flask/comments/1menxd3/cant_deploy_flask_application_in_render/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1menxd3",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "BlackberryCareful849",
+      "author_id": "t2_11ca04yrkx",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-01T05:17:39.656000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1menxd3/cant_deploy_flask_application_in_render/",
+      "content_preview": "I'm having trouble trying to deploy my Flask backend in Render. I keep getting the same error: gunicorn.errors.AppImportError: Failed to find attribute 'app' in 'app'. I had to hide some other information This is my app.py and it's not inside any other file: # app.py\n\nfrom flask import Flask\n\ndef create_app():\n    app = Flask(__name__)\n    CORS(app)\n\nif __name__ == '__main__':\n    create_app().run(debug=True, port=5000)",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Flask - AI-powered Image Search App using OpenAI’s CLIP model - Step by Step!!",
+      "permalink": "https://www.reddit.com/r/flask/comments/1me0i1t/flask_aipowered_image_search_app_using_openais/",
+      "score": 8,
+      "comments": 0,
+      "post_id": "t3_1me0i1t",
+      "post_type": "multi_media",
+      "domain": "self.flask",
+      "author": "ResearcherOver845",
+      "author_id": "t2_78yggdcz",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-07-31T12:41:14.838000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1me0i1t/flask_aipowered_image_search_app_using_openais/",
+      "content_preview": "https://youtu.be/38LsOFesigg?si=RgTFuHGytW6vEs3t Learn how to build an AI-powered Image Search App using OpenAI’s CLIP model and Flask — step by step! This project shows you how to: Generate embeddings for images using CLIP. Perform text-to-image search. Build a Flask web app to search and display similar images. Run everything on CPU — no GPU required! GitHub Repo: https://github.com/datageekrj/Flask-Image-Search-YouTube-Tutorial AI, image search, CLIP model, Python tutorial, Flask tutorial, OpenAI CLIP, image search engine, AI image search, computer vision, machine learning, search engine with AI, Python AI project, beginner AI project, flask AI project, CLIP image search",
+      "flair": [
+        "Tutorials and Guides"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Flask + PostgreSQL + Flask-Migrate works locally but not on Render (no tables created)",
+      "permalink": "https://www.reddit.com/r/flask/comments/1md6i0f/flask_postgresql_flaskmigrate_works_locally_but/",
+      "score": 3,
+      "comments": 13,
+      "post_id": "t3_1md6i0f",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "caraxes_007",
+      "author_id": "t2_q9hdcqs0c",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-07-30T13:23:34.708000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1md6i0f/flask_postgresql_flaskmigrate_works_locally_but/",
+      "content_preview": "I'm deploying a Flask app to Render using PostgreSQL and Flask-Migrate. Everything works fine on localhost — tables get created, data stores properly, no issues at all. But after deploying to Render: The app runs, but any DB-related operation causes a 500 Internal Server Error. I’ve added the DATABASE_URL in Render environment . My app uses Flask-Migrate. I’ve run flask db init , m igrate , and upgrade locally. On Render, I don’t see any tables created in the database (even after deployment). How to solve this ? Can anybody give full steps i asked claude , gpt ,grok etc  but no use i am missing out something.",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ehvz0p/styles/profileIcon_ixiq0r19m0ff1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fb3fad4f926a1be502f4cfcf41e284def11b4b5c"
+    },
+    {
+      "title": "Flask for AI Web App – When to Use Class-Based Views? Do I Need Flask-RESTX",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mc9cel/flask_for_ai_web_app_when_to_use_classbased_views/",
+      "score": 5,
+      "comments": 1,
+      "post_id": "t3_1mc9cel",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "sadsandwichhh",
+      "author_id": "t2_oeot3ow80",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-07-29T11:52:44.245000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1mc9cel/flask_for_ai_web_app_when_to_use_classbased_views/",
+      "content_preview": "Hi everyone, I'm new to Flask and currently working on an AI-based web application. It's a complete portal with role-based access control (RBAC) and real-time computer vision surveillance. Our manager chose Flask as the backend because of its lightweight nature. I have a couple of questions: How do I decide whether to use class-based views or function-based views in Flask? Are there any clear signs or guidelines? Is it common practice to use Flask-RESTX (or similar REST libraries) with Flask for building APIs? Or should I stick with plain Flask routes and logic? Would appreciate any advice or best practices from those who’ve built full-stack or AI-related apps using Flask. Thanks in advance!",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Project recommendations",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mbffnv/project_recommendations/",
+      "score": 4,
+      "comments": 2,
+      "post_id": "t3_1mbffnv",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "Forsaken-Towel-9329",
+      "author_id": "t2_ao1nm7ji",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-07-28T12:56:54.571000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1mbffnv/project_recommendations/",
+      "content_preview": "I recently started learning Flask and have now successfully created a website for films with information about actors and films. I understand flask well, i.e. how to pass data to flask with Python to fill the website with the data. I want to become more professional and deepen my knowledge of Flask. Therefore, I'm asking what ideas you have for Flask web development. Thanks.",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Need Career Advice: Stuck in .NET Web Forms, Should I Switch to Python Flask?",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mbebbe/need_career_advice_stuck_in_net_web_forms_should/",
+      "score": 4,
+      "comments": 11,
+      "post_id": "t3_1mbebbe",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "Abrarulhassan",
+      "author_id": "t2_9zgu8qe8",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-07-28T12:03:19.541000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1mbebbe/need_career_advice_stuck_in_net_web_forms_should/",
+      "content_preview": "Hi everyone, I’ve been working at a company for the past 4 months. I was hired to work on a .NET Web Forms project, but the pace of work is extremely slow. For the last 3 months, I haven’t written any real code — I’ve just been learning about Web Forms. The company is saying they’ll give me actual work on an ERP project starting next week, but honestly, I’m not feeling confident. I’ve been told there will be no proper mentorship or guidance, and I find ERP systems really hard to grasp. On the other hand, I’m passionate about innovation and working with new technologies. I really enjoy Python and I’ve been considering switching over to Flask development instead, since it aligns more with what I want to do in the future. I’m feeling a lot of stress and confusion right now. Should I stick it out with this company and the ERP/.NET stuff, or should I start focusing on Python Flask and make a shift in that direction? Any advice from experienced developers would be really appreciated. Thanks! #CareerAdvice #DotNet #Python #Flask #ERP #WebForms #JuniorDeveloper #ProgrammingHelp",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4nmyot/styles/profileIcon_pt1yjzwmsxee1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=0ad682c37c975f3fa6c329fa4b6a592c94d0fefc"
+    },
+    {
+      "title": "Caching API Responses in Flask",
+      "permalink": "https://www.reddit.com/r/flask/comments/1maybu0/caching_api_responses_in_flask/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1maybu0",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "Glass_Historian_3938",
+      "author_id": "t2_78ew3iye",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-07-27T21:37:19.039000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1maybu0/caching_api_responses_in_flask/",
+      "content_preview": "Guys, kindly have a read about implementing simple caching in your Flask APIs. It is an easy to understand guide for a first timer. https://flask-india.hashnode.dev/caching-api-responses-in-flask",
+      "flair": [
+        "Tutorials and Guides"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Does this drive you crazy?",
+      "permalink": "https://www.reddit.com/r/flask/comments/1m86yjz/does_this_drive_you_crazy/",
+      "score": 1,
+      "comments": 3,
+      "post_id": "t3_1m86yjz",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "DamienBois82",
+      "author_id": "t2_bbl49a5b",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-07-24T15:09:37.540000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1m86yjz/does_this_drive_you_crazy/",
+      "content_preview": "Is it just me, or is it just the most annoying thing in the world how, when using the logging module, Flask uses a single log message, spanning over multiple lines for this startup message?  It gets worse when you have a log format that aligns everything, but this message screws what up. 2025-07-24 10:53:56  INFO: WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\n * Running on all addresses (0.0.0.0)\n * Running on http://127.0.0.1:8000\n * Running on http://192.168.0.160:8000\n2025-07-24 10:53:56  INFO: Press CTRL+C to quit I did write a quick workaround with a custom formatter, but this feels like a really bad way of doing this log message on Flask's end... is there any benefit? class MultiLineFormatter(logging.Formatter):\n    def format(self, record):\n        message = super().format(record)\n        \n        if \"\\n\" in record.getMessage():\n            first_line = message.split('\\n')[0]\n            prefix = first_line[:first_line.find(record.getMessage())]\n            \n            lines = []\n            for line in record.getMessage().splitlines():\n                new_record = logging.LogRecord(\n                    record.name, record.levelno, record.pathname, \n                    record.lineno, line, record.args, record.exc_info,\n                    func=record.funcName\n                )\n                formatted_line = super().format(new_record)\n                lines.append(formatted_line)\n                \n            return \"\\n\".join(lines)\n        return message sorry if this sounds stupid--I don't post a lot 😅",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4bsk26/styles/profileIcon_pcempjh3wpme1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d99783a49e35dc7aefdbac4dfb5af27a93ad6018"
+    },
+    {
+      "title": "[HELP] Ensuring complete transactions with long running tasks and API requests with SQLAlchemy",
+      "permalink": "https://www.reddit.com/r/flask/comments/1ms7bgc/help_ensuring_complete_transactions_with_long/",
+      "score": 3,
+      "comments": 3,
+      "post_id": "t3_1ms7bgc",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "SpaceParmesan",
+      "author_id": "t2_1kamzzo",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-16T20:49:42.564000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1ms7bgc/help_ensuring_complete_transactions_with_long/",
+      "content_preview": "Hello, I am having some trouble with my Flask App having to wait long periods of time for to obtain a read write lock on database entries, that are simultaneously being read / written on by long running celery tasks (~1 minute). For context, I have a Flask App, and a Celery App, both interacting with the same database. I have a table that I use to track jobs that are being ran by the Celery app. Lets call these objects JobDBO. I send a request to Flask to create the Job, and trigger the Celery task. Celery runs the job (~1 minute) During the 1 minute job I send a request to cancel the job. (This sets a flag on the JobDBO). However, this request stalls because the Celery task has read that same JobDBO and is keeping 1 continuous SQLAlchemy session The task finally completes. The original request to cancel the job is fulfilled (or times out by now waiting to obtain a lock) and both the request and celery tasks SQL operations are fulfilled. Now I understand that this could obviously be solved by keeping short lived sql alchemy sessions, and only opening when reading or writing quickly, however one thing I want to ensure is that I keep transactions fully intact. If my app throws an exception during a Flask request or celery task, I don't want any of the database operations to be committed. But I'm obviously doing something wrong here. Currently with my Flask requests, I provide every request 1 singular session which are initialized in the before_request and after_request / teardown_request annotations. This seems fine because of how quick they are, and I like keeping those operations together. Do I need a different strategy for the long running tasks? I'm thinking this approach may not be feasible to keep a session open during the entire task, and how can I manage these short lived sessions properly if this is the case? Maybe I'm managing my database interactions completely wrong and I need to restructure this. Does anyone have any advice or guidance on how I can get this working? It's been quite the headache for me.",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "New project",
+      "permalink": "https://www.reddit.com/r/flask/comments/1maidp8/new_project/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1maidp8",
+      "post_type": "crosspost",
+      "domain": "github.com",
+      "author": "Apex_Levo",
+      "author_id": "t2_geje4cege",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-07-27T09:49:59.145000+0000",
+      "content_href": "/r/webdev/comments/1maibsn/new_project/",
+      "content_preview": "",
+      "flair": [
+        "Show and Tell"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/new-project-v0-ixAJ0yiGSZNch7p3voZ-GkHZ4baXaU9d3XoiHi21xvo.png?width=640&crop=smart&auto=webp&s=82fdbe26cab95974fa2af19afcf908e2e090a6bd"
+    },
+    {
+      "title": "Setting up a Windows 2016 server to run a flask app",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mi71lg/setting_up_a_windows_2016_server_to_run_a_flask/",
+      "score": 2,
+      "comments": 7,
+      "post_id": "t3_1mi71lg",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "ericdano",
+      "author_id": "t2_36rzo",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-05T11:51:11.235000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1mi71lg/setting_up_a_windows_2016_server_to_run_a_flask/",
+      "content_preview": "greetings, I have a windows 2016 server that I’m having a real issue trying to setup to serve out a flask app. I’ve googled several “how tos” and they just don’t seem to work right. Can someone point me to an actual step by step tutorial on how to set it up? I need this running on a windows server due to having issues connecting Linux machines to a remote mmsql database server. thanks ------UPDATE-------- I abandoned the idea of running this on Windows and instead got it working on Linux. So much easier. Thanks for the input.",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "About flask",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mq2e7s/about_flask/",
+      "score": 2,
+      "comments": 4,
+      "post_id": "t3_1mq2e7s",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "Azarashiseal234",
+      "author_id": "t2_j87pm9ikr",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-14T14:34:06.778000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1mq2e7s/about_flask/",
+      "content_preview": "Ok now I'm familiar with laravel and springboot now I wanna start with flask but I have to ask do I use vscode or inteliji also for sql can i use xampp or is it a good practice to use workbench, also Does it have something like spring initializer.io or not Is there any youtube video that tackles a video tutorial on starting flask.",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Illnesses or Conditions Among Programmers",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mjl3gv/illnesses_or_conditions_among_programmers/",
+      "score": 2,
+      "comments": 6,
+      "post_id": "t3_1mjl3gv",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "chriiisduran",
+      "author_id": "t2_x0oura59q",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-07T00:05:59.238000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1mjl3gv/illnesses_or_conditions_among_programmers/",
+      "content_preview": "Hey coders, I'm conducting research on the most common health issues among programmers—whether physical, psychological, or emotional—such as joint problems, eye strain, anxiety, migraines, sleep disorders, and others. I believe it's a topic that doesn't get enough attention, and I'd really appreciate your input. The direct question is: Have you developed any condition as a result of spending long hours in front of a computer? What are you doing to manage it, and what advice would you give to the next generation of programmers to help them avoid it?",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_b5q0qc/styles/profileIcon_xjcmp6l31qqc1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3d4babcdb244cea1b7f31300d3fe7cc22d1d5af0"
+    },
+    {
+      "title": "First repository (Appointment booking system)",
+      "permalink": "https://www.reddit.com/r/flask/comments/1m9v9c7/first_repository_appointment_booking_system/",
+      "score": 9,
+      "comments": 4,
+      "post_id": "t3_1m9v9c7",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "Apex_Levo",
+      "author_id": "t2_geje4cege",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-07-26T14:51:46.187000+0000",
+      "content_href": "https://github.com/AtharvaManale/Appointment-Booking",
+      "content_preview": "",
+      "flair": [
+        "Show and Tell"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/0hlM0wRXxMcSCh1-QuGBl0uLVslI5_iww0cyb8Erc0k.png?width=140&height=70&crop=140:70,smart&auto=webp&s=f0e4895fd483965e0d3baa45fb29316d3d541c5c"
+    },
+    {
+      "title": "Flask Web Development",
+      "permalink": "https://www.reddit.com/r/flask/comments/1m9pbk5/flask_web_development/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1m9pbk5",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "Glass_Historian_3938",
+      "author_id": "t2_78ew3iye",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-07-26T09:43:46.552000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1m9pbk5/flask_web_development/",
+      "content_preview": "Guys, I would like to have some suggestions from you regarding topics that you would like me to explore in Flask India Blogs. This is my small contribution to giving back to the community.",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Programming Pi LAN server with Flask",
+      "permalink": "https://www.reddit.com/r/flask/comments/1mk107z/programming_pi_lan_server_with_flask/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1mk107z",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "JohnBeer227",
+      "author_id": "t2_1ub9hk18tt",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-08-07T14:05:19.670000+0000",
+      "content_href": "/r/RASPBERRY_PI_PROJECTS/comments/1mhz51p/programming_pi_lan_server_with_flask/",
+      "content_preview": "",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Flask-Nova: A New Flask Extension for Zero-Boilerplate APIs with Auto Docs & Type Safety",
+      "permalink": "https://www.reddit.com/r/flask/comments/1m81swl/flasknova_a_new_flask_extension_for/",
+      "score": 12,
+      "comments": 6,
+      "post_id": "t3_1m81swl",
+      "post_type": "multi_media",
+      "domain": "self.flask",
+      "author": "treasuremani",
+      "author_id": "t2_14acemb9sb",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-07-24T11:25:34.281000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1m81swl/flasknova_a_new_flask_extension_for/",
+      "content_preview": "Hey r/flask , As much as we love Flask for its simplicity and flexibility, let's be real: building modern APIs with authentication, validation, and proper documentation can become a repetitive grind. I kept finding myself writing the same boilerplate code project after project. That's why I'm excited to share Flask-Nova – a new extension for Flask designed to drastically accelerate API development! What is Flask-Nova? Flask-Nova is a modern extension that helps you build APIs faster by baking in essential features like: Automatic OpenAPI/Swagger docs ( /docs ): Get interactive API documentation with zero extra effort. No more hand-written docs. Type-safe input models : Define your request data using Pydantic-style models, ensuring automatic validation and cleaner code. Decorator-based routing : Define your API endpoints with simple, elegant decorators – say goodbye to verbose boilerplate. Built-in HTTPException : Handle API errors cleanly and consistently with semantic HTTP status codes. Status helpers : Use intuitive constants like status.CREATED , status.BAD_REQUEST , etc. Depend() for Dependency Injection : Write cleaner, more modular, and testable code by easily injecting dependencies into your route handlers. Extensible and Pythonic design : Built with Flask developers in mind, it feels natural and easy to extend. Compatible with native Flask : Seamlessly integrates into your existing Flask applications. Why should you check it out? Stop writing the same boilerplate : Focus on your application's unique logic instead of repetitive setup. Get instant, up-to-date documentation : Swagger UI is generated automatically, making it easy for others (and your future self) to understand your API. Write safer, more robust code : Type-safe input models catch validation errors early. Keep your codebase clean and organized : Decorator-based routing and dependency injection promote better structure. Installation Super easy to get started: pip install flask-nova See it in Action Check out the Example App on GitHub for a quick demonstration of Flask-Nova's capabilities. How You Can Help Star the GitHub repo : If you like the idea, showing your support with a star helps others discover the project. Try it out in your projects : Give Flask-Nova a spin and see how it speeds up your API development. Report any issues : Found a bug? Please open an issue on the GitHub repo. Share your ideas : Have a feature request or suggestion? Let's discuss it. Contribute : Pull requests are welcome! If you're interested in contributing to the project, I'd love to collaborate. Links GitHub: https://github.com/manitreasure1/flasknova PyPI: https://pypi.org/project/flask-nova/ Example App: https://github.com/manitreasure1/flask-nova-tutorials I'm really excited about Flask-Nova and believe it can significantly improve the Flask API development experience. I'd love for you to check it out, provide feedback, and help me make it even better! TL;DR: Flask API development feeling repetitive? Check out Flask-Nova for automatic Swagger docs, type-safe inputs, and zero boilerplate routing! Give it a star and try it out.",
+      "flair": [
+        "Show and Tell"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "From Zero to Live: Deploy your Flask Web App on Heroku’s Cloud Platform",
+      "permalink": "https://www.reddit.com/r/flask/comments/1m1fhng/from_zero_to_live_deploy_your_flask_web_app_on/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1m1fhng",
+      "post_type": "multi_media",
+      "domain": "self.flask",
+      "author": "21stmandela",
+      "author_id": "t2_2jd2ywwe",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-07-16T15:24:07.894000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1m1fhng/from_zero_to_live_deploy_your_flask_web_app_on/",
+      "content_preview": "Just published in Level Up Coding (after a long break!) (This article was originally posted for AppSignal, a platform for performance and error monitoring) Free friend link here: https://levelup.gitconnected.com/from-zero-to-live-deploy-your-flask-web-app-on-herokus-cloud-platform-921ef68c359b?sk=1e665a570bcbc789639549dd32cd2f29 https://preview.redd.it/from-zero-to-live-deploy-your-flask-web-app-on-herokus-v0-spg949md89df1.png",
+      "flair": [
+        "Tutorials and Guides"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Flask REST BoilerPlate generator",
+      "permalink": "https://www.reddit.com/r/flask/comments/1lykwa6/flask_rest_boilerplate_generator/",
+      "score": 4,
+      "comments": 6,
+      "post_id": "t3_1lykwa6",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "JustDoIt-2024",
+      "author_id": "t2_aj7zzrv4",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-07-13T05:22:21.692000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1lykwa6/flask_rest_boilerplate_generator/",
+      "content_preview": "Hey everyone, I'm thinking of building a free web app where developers can select features they need for a Flask-RESTful-based backend, and download a ready-to-run ZIP with all boilerplate code. Some of the options you'd be able to choose from: Flask-RESTful API structure Logging (console + file, separate error log) Firebase Auth integration with decorators Stripe payment + webhook integration Plan validation support in API Request/response logging, HTTP header validation Basic analytics hooks (with possible analytics storage in Firebase via Celery+Redis) API endpoint to call different LLMs (mainly OpenAI first to start with). The idea is that you'd just add your business logic — all the tedious, repeating saas setup is done for you. This is not AI generation, just boilerplate generation based on different selections by the user. You’d be able to toggle features via UI and get a zip with tailored code + README. Would something like this be useful to you or your team? Or is this already being solved better by existing tools (e.g., Bolt, Base44, Lovable)? Any features you'd love to see included? If this looks useful, I can later add boilerplate for React UI as well, with login/signup/plans/checkout/payment pages and analytics dashboard. Appreciate your thoughts and feedback! 🙏",
+      "flair": [
+        "Show and Tell"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "How do I present to my team that celery is better option and multiprocessing in Flask backend.",
+      "permalink": "https://www.reddit.com/r/flask/comments/1m7uxt3/how_do_i_present_to_my_team_that_celery_is_better/",
+      "score": 2,
+      "comments": 6,
+      "post_id": "t3_1m7uxt3",
+      "post_type": "text",
+      "domain": "self.flask",
+      "author": "Gulimanto",
+      "author_id": "t2_5w631zbx",
+      "subreddit_id": "t5_2s1s3",
+      "subreddit": "r/flask",
+      "created_ts": "2025-07-24T04:32:06.031000+0000",
+      "content_href": "https://www.reddit.com/r/flask/comments/1m7uxt3/how_do_i_present_to_my_team_that_celery_is_better/",
+      "content_preview": "I recently joined this new project were they are planing to use multiprocessing file creation and processing while user gets mesage as \"WIP\". We haven't started to implement this. I worked with celery and Django on previous project but time was limited, only 6 months. I feel this team isn't aware about celery. Is it even a good idea to use multiprocessing for Flask or RESTful APIs architecture? If not how can I present this to my team?",
+      "flair": [
+        "Ask r/Flask"
+      ],
+      "thumbnail_url": ""
+    }
+  ],
+  "scraped_at": "2025-09-02T11:13:25.902334"
+}

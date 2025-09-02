@@ -126,15 +126,22 @@ def _worker_process(
             for idx, name in batch:
                 try:
                     if (not overwrite) and already_scraped(name):
+                        print(f"[w{worker_id} skip] {name}")
                         continue
                     data = scraper.scrape_frontpage(name)
                     scraper.save_frontpage(data["subreddit"], data)
                     done += 1
                     last_index = idx
                     last_name = name
+                    posts_n = len(data.get("posts", []))
+                    if data.get("error"):
+                        print(f"[w{worker_id} saved] {name} idx={idx} posts={posts_n} error={data.get('error')}")
+                    else:
+                        print(f"[w{worker_id} saved] {name} idx={idx} posts={posts_n}")
                     # gentle pacing per worker
                     time.sleep(random.uniform(0.5, 1.2))
                 except Exception:
+                    print(f"[w{worker_id} error] {name} idx={idx}")
                     # Best-effort: continue to next subreddit in this worker
                     continue
         finally:

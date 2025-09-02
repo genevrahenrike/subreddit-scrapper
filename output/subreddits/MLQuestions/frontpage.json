@@ -1,0 +1,1011 @@
+{
+  "subreddit": "MLQuestions",
+  "url": "https://www.reddit.com/r/MLQuestions",
+  "meta": {
+    "title": "Machine Learning Questions",
+    "members_text": "2,989,780"
+  },
+  "posts": [
+    {
+      "title": "[D] Working with Optuna + AutoSampler in massive search spaces",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n6964w/d_working_with_optuna_autosampler_in_massive/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6964w",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Unlikeghost",
+      "author_id": "t2_8wq1ujx1",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-09-02T03:34:28.009000+0000",
+      "content_href": "/r/MachineLearning/comments/1n3iiam/d_working_with_optuna_autosampler_in_massive/",
+      "content_preview": "",
+      "flair": [
+        "Other ❓"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What is the difference between creativity and hallucination?",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n3xf8t/what_is_the_difference_between_creativity_and/",
+      "score": 10,
+      "comments": 23,
+      "post_id": "t3_1n3xf8t",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "drop_panda",
+      "author_id": "t2_ewqpu",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-30T09:35:11.395000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n3xf8t/what_is_the_difference_between_creativity_and/",
+      "content_preview": "",
+      "flair": [
+        "Natural Language Processing 💬"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "in a company, What’s the scope of each role in an end to end ML project in production",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n69095/in_a_company_whats_the_scope_of_each_role_in_an/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n69095",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "GridPwr",
+      "author_id": "t2_11yng8ef64",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-09-02T03:25:55.557000+0000",
+      "content_href": "/r/learnmachinelearning/comments/1n686wk/in_a_company_whats_the_scope_of_each_role_in_an/",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Beginner's Machine Learning",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1muotsd/beginners_machine_learning/",
+      "score": 58,
+      "comments": 37,
+      "post_id": "t3_1muotsd",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "SolutionUnusual4136",
+      "author_id": "t2_1n8xrp9u8z",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-19T17:21:36.377000+0000",
+      "content_href": "https://i.redd.it/xlwt9bevd0kf1.png",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": "https://preview.redd.it/beginners-machine-learning-v0-xlwt9bevd0kf1.png?width=640&crop=smart&auto=webp&s=bdddf0d85a83d8706505ee8bc00cbcae4694e072"
+    },
+    {
+      "title": "Question about folder names when fetching/preparing a dataset for binary img classification",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n67lv6/question_about_folder_names_when/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n67lv6",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "AncientGearAI",
+      "author_id": "t2_7fu6wdgo",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-09-02T02:16:07.890000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n67lv6/question_about_folder_names_when/",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_381k5v/styles/profileIcon_ie6w1cavzykc1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f99dc2d08d7a46a68235465532a8b014ccad2d03"
+    },
+    {
+      "title": "Any advice or improvements I can make ?🎀",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n1owuf/any_advice_or_improvements_i_can_make/",
+      "score": 10,
+      "comments": 9,
+      "post_id": "t3_1n1owuf",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "OrdinaryCheck4667",
+      "author_id": "t2_v2q58m37",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-27T18:24:00.669000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n1owuf",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8518zn/styles/profileIcon_5rzkrspa63hf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d4e48788ee78e24f09603f7f6cc3e123586c7739"
+    },
+    {
+      "title": "Looking for a solution to automatically group of a lot of photos per day by object similarity",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n5zyzi/looking_for_a_solution_to_automatically_group_of/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1n5zyzi",
+      "post_type": "link",
+      "domain": "reddit.com",
+      "author": "Odd-Community6827",
+      "author_id": "t2_8wleawk7",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-09-01T20:35:37.633000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Neural networks-forecaatimg",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n60pkn/neural_networksforecaatimg/",
+      "score": 1,
+      "comments": 4,
+      "post_id": "t3_1n60pkn",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "Sea_King2699",
+      "author_id": "t2_rebys8ps",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-09-01T21:04:09.191000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n60pkn/neural_networksforecaatimg/",
+      "content_preview": "",
+      "flair": [
+        "Graph Neural Networks🌐"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "ML System Design interview focused on AI Engineering",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1mjtd4j/ml_system_design_interview_focused_on_ai/",
+      "score": 33,
+      "comments": 10,
+      "post_id": "t3_1mjtd4j",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "adiznats",
+      "author_id": "t2_82a44fva",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-07T07:13:35.575000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1mjtd4j/ml_system_design_interview_focused_on_ai/",
+      "content_preview": "",
+      "flair": [
+        "Career question 💼"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "XGBoost regression output oscillating, how to troubleshoot?",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n5jmhf/xgboost_regression_output_oscillating_how_to/",
+      "score": 5,
+      "comments": 4,
+      "post_id": "t3_1n5jmhf",
+      "post_type": "multi_media",
+      "domain": "self.MLQuestions",
+      "author": "wearelev",
+      "author_id": "t2_29gv30wa",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-09-01T08:54:48.123000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n5jmhf/xgboost_regression_output_oscillating_how_to/",
+      "content_preview": "",
+      "flair": [
+        "Time series 📈"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2is4ij/styles/profileIcon_s5z190jyqec81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=79acbad24666dd5f218673a2eed1e05d3d413abf"
+    },
+    {
+      "title": "Anyone using Transformer type models for other use cases than LLMs?",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n1ocdy/anyone_using_transformer_type_models_for_other/",
+      "score": 9,
+      "comments": 6,
+      "post_id": "t3_1n1ocdy",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "niles55",
+      "author_id": "t2_f7gfx",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-27T18:03:03.966000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n1ocdy/anyone_using_transformer_type_models_for_other/",
+      "content_preview": "",
+      "flair": [
+        "Time series 📈"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Question about a visualization in the 3Blue1Brown backpropagation video",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n5jj4h/question_about_a_visualization_in_the_3blue1brown/",
+      "score": 3,
+      "comments": 2,
+      "post_id": "t3_1n5jj4h",
+      "post_type": "multi_media",
+      "domain": "self.MLQuestions",
+      "author": "PmghE",
+      "author_id": "t2_16cxro18b0",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-09-01T08:48:33.111000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n5jj4h/question_about_a_visualization_in_the_3blue1brown/",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Is MLOps a good career option and what is the future of MLOps ?",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n4mbz8/is_mlops_a_good_career_option_and_what_is_the/",
+      "score": 8,
+      "comments": 3,
+      "post_id": "t3_1n4mbz8",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "wildwarrior007",
+      "author_id": "t2_1c5tursug0",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-31T05:13:56.456000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n4mbz8/is_mlops_a_good_career_option_and_what_is_the/",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Looking for advice as fresher in ml",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n3vt3f/looking_for_advice_as_fresher_in_ml/",
+      "score": 0,
+      "comments": 9,
+      "post_id": "t3_1n3vt3f",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "Living-Person-123",
+      "author_id": "t2_nsngcrvii",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-30T07:47:34.076000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n3vt3f/looking_for_advice_as_fresher_in_ml/",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Got 6min? I need your help for my PhD!",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1mzoxys/got_6min_i_need_your_help_for_my_phd/",
+      "score": 22,
+      "comments": 9,
+      "post_id": "t3_1mzoxys",
+      "post_type": "multi_media",
+      "domain": "self.MLQuestions",
+      "author": "Ok-Ebb6307",
+      "author_id": "t2_1u7sb8hce8",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-25T12:20:03.977000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1mzoxys/got_6min_i_need_your_help_for_my_phd/",
+      "content_preview": "",
+      "flair": [
+        "Survey ✍"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Article on Loss Functions",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n5mnmj/article_on_loss_functions/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1n5mnmj",
+      "post_type": "gif",
+      "domain": "medium.com",
+      "author": "Thick-Split9511",
+      "author_id": "t2_1wv8hsn286",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-09-01T11:53:49.782000+0000",
+      "content_href": "https://medium.com/@adityagupta041050/easy-way-to-understand-and-visualize-loss-and-cost-functions-72cb73137353",
+      "content_preview": "",
+      "flair": [
+        "Educational content 📖"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Pls review my updated resume",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n4xuwa/pls_review_my_updated_resume/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n4xuwa",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "IntentionLazy9359",
+      "author_id": "t2_1t1xv9vrp2",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-31T15:36:33.512000+0000",
+      "content_href": "/r/MachineLearningJobs/comments/1n4xr8n/pls_review_my_updated_resume/",
+      "content_preview": "",
+      "flair": [
+        "Career question 💼"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Upcoming interviews at frontier labs, tips?",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n3e379/upcoming_interviews_at_frontier_labs_tips/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1n3e379",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "bci-hacker",
+      "author_id": "t2_56s4a0u6",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-29T17:43:39.566000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n3e379/upcoming_interviews_at_frontier_labs_tips/",
+      "content_preview": "",
+      "flair": [
+        "Career question 💼"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "So frustrated and confused",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n33s5e/so_frustrated_and_confused/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n33s5e",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "glow-rishi",
+      "author_id": "t2_nir1sm6u8",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-29T10:30:34.375000+0000",
+      "content_href": "/r/learnmachinelearning/comments/1n33rsp/so_frustrated_and_confused/",
+      "content_preview": "",
+      "flair": [
+        "Career question 💼"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Should I pursue a Master’s in AI/ML or focus on certifications + projects? (10 yrs dev exp, 1 yr ML exp)",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1mysqb9/should_i_pursue_a_masters_in_aiml_or_focus_on/",
+      "score": 22,
+      "comments": 15,
+      "post_id": "t3_1mysqb9",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "Vegetable-Net-4923",
+      "author_id": "t2_u5jyuvdf",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-24T11:05:52.076000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1mysqb9/should_i_pursue_a_masters_in_aiml_or_focus_on/",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "What can we do differently in our project",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n2zzmm/what_can_we_do_differently_in_our_project/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1n2zzmm",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "Imaginary-Spring-779",
+      "author_id": "t2_vl564x6j",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-29T06:30:33.512000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n2zzmm/what_can_we_do_differently_in_our_project/",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Career advice on transitioning from pure maths to AI",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n38kvo/career_advice_on_transitioning_from_pure_maths_to/",
+      "score": 8,
+      "comments": 9,
+      "post_id": "t3_1n38kvo",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "FrameAppropriate568",
+      "author_id": "t2_82xxajux",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-29T14:13:46.827000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n38kvo/career_advice_on_transitioning_from_pure_maths_to/",
+      "content_preview": "",
+      "flair": [
+        "Career question 💼"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Backend dev pivoting to AI – eat or be eaten?",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1mxx8nt/backend_dev_pivoting_to_ai_eat_or_be_eaten/",
+      "score": 20,
+      "comments": 14,
+      "post_id": "t3_1mxx8nt",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "Jamil-afouri",
+      "author_id": "t2_85jfwy9u",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-23T09:48:33.429000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1mxx8nt/backend_dev_pivoting_to_ai_eat_or_be_eaten/",
+      "content_preview": "",
+      "flair": [
+        "Career question 💼"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Tips on how to create photographic datasets.",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n2v1mj/tips_on_how_to_create_photographic_datasets/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n2v1mj",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "Pretend-Gap-9054",
+      "author_id": "t2_e55qsc44",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-29T02:03:01.050000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n2v1mj/tips_on_how_to_create_photographic_datasets/",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Supervised vs Unsupervised Learning",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1mniqcn/supervised_vs_unsupervised_learning/",
+      "score": 20,
+      "comments": 14,
+      "post_id": "t3_1mniqcn",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "lapriceTV",
+      "author_id": "t2_7v8pzylt",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-11T17:05:50.745000+0000",
+      "content_href": "https://i.redd.it/yxbjbufc9fif1.png",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Are there any multi-LLM platforms you'd recommend for under $20/month all-in?",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n2rocl/are_there_any_multillm_platforms_youd_recommend/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n2rocl",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "Garaged_4594",
+      "author_id": "t2_egjph7dk",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-28T23:27:33.499000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n2rocl/are_there_any_multillm_platforms_youd_recommend/",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "typo by vapnik?",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1mjjzqq/typo_by_vapnik/",
+      "score": 19,
+      "comments": 11,
+      "post_id": "t3_1mjjzqq",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Glittering_Farmer707",
+      "author_id": "t2_10qw07wiei",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-06T23:18:06.264000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mjjzqq",
+      "content_preview": "",
+      "flair": [
+        "Physics-Informed Neural Networks 🚀"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Making Sure an NLP Project Workflow is Good",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n1c30s/making_sure_an_nlp_project_workflow_is_good/",
+      "score": 7,
+      "comments": 0,
+      "post_id": "t3_1n1c30s",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "Designer_Dog6015",
+      "author_id": "t2_u2k8cj86i",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-27T09:12:22.682000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n1c30s/making_sure_an_nlp_project_workflow_is_good/",
+      "content_preview": "",
+      "flair": [
+        "Natural Language Processing 💬"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Can’t download buffalo_l.zip from InsightFace v0.7 — is the model link dead?",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n4x12a/cant_download_buffalo_lzip_from_insightface_v07/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n4x12a",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "National-Rip2412",
+      "author_id": "t2_eyz74npz",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-31T15:03:37.020000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n4x12a/cant_download_buffalo_lzip_from_insightface_v07/",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_53xssv/styles/profileIcon_kg2hkx2cl1d81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=dcc71e64d593fecb5ebd203faf9c86812d43cde0"
+    },
+    {
+      "title": "For those who wanted to go the ML route, but didn’t (or couldn’t), why?",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n0geru/for_those_who_wanted_to_go_the_ml_route_but_didnt/",
+      "score": 6,
+      "comments": 9,
+      "post_id": "t3_1n0geru",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "kewday96",
+      "author_id": "t2_kmjly",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-26T08:38:17.828000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n0geru/for_those_who_wanted_to_go_the_ml_route_but_didnt/",
+      "content_preview": "",
+      "flair": [
+        "Career question 💼"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Open-Set Recognition Problem using Deep learning",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n4v5ec/openset_recognition_problem_using_deep_learning/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n4v5ec",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "ProfessionalType9800",
+      "author_id": "t2_1ds5ec3pzs",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-31T13:46:51.689000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n4v5ec/openset_recognition_problem_using_deep_learning/",
+      "content_preview": "",
+      "flair": [
+        "Other ❓"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Transitioning from Web Dev to Data Science/ML — Need Advice on Projects & Open Source Contributions",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n4l8jq/transitioning_from_web_dev_to_data_scienceml_need/",
+      "score": 6,
+      "comments": 0,
+      "post_id": "t3_1n4l8jq",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "Ok_Ratio_2368",
+      "author_id": "t2_uso1249l",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-31T04:10:59.509000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n4l8jq/transitioning_from_web_dev_to_data_scienceml_need/",
+      "content_preview": "",
+      "flair": [
+        "Career question 💼"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Best workflows/best practices for hyperparameter tuning on large tabular datasets?",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n1a6vz/best_workflowsbest_practices_for_hyperparameter/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n1a6vz",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "Opposite-Rhubarb6034",
+      "author_id": "t2_kjnaukqbl",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-27T07:06:29.541000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n1a6vz/best_workflowsbest_practices_for_hyperparameter/",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Interview Preparing",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n27ksk/interview_preparing/",
+      "score": 6,
+      "comments": 2,
+      "post_id": "t3_1n27ksk",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "Character-Dare-732",
+      "author_id": "t2_1b3w2jynv2",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-28T09:27:09.289000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n27ksk/interview_preparing/",
+      "content_preview": "",
+      "flair": [
+        "Educational content 📖"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Splitting experts into many more experts in LLM MoE models",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n3hvpm/splitting_experts_into_many_more_experts_in_llm/",
+      "score": 5,
+      "comments": 3,
+      "post_id": "t3_1n3hvpm",
+      "post_type": "multi_media",
+      "domain": "self.MLQuestions",
+      "author": "snapo84",
+      "author_id": "t2_114brs",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-29T20:10:32.140000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n3hvpm/splitting_experts_into_many_more_experts_in_llm/",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Hyperparam tuning for “large” training",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n0qypd/hyperparam_tuning_for_large_training/",
+      "score": 5,
+      "comments": 8,
+      "post_id": "t3_1n0qypd",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "Lexski",
+      "author_id": "t2_581f2xyj",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-26T16:44:28.752000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n0qypd/hyperparam_tuning_for_large_training/",
+      "content_preview": "",
+      "flair": [
+        "Other ❓"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Navigating career options post-grad",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n065nd/navigating_career_options_postgrad/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n065nd",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "aldann2",
+      "author_id": "t2_rthm2kt",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-25T23:27:38.757000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n065nd/navigating_career_options_postgrad/",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "ML System design",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1mmgq88/ml_system_design/",
+      "score": 17,
+      "comments": 8,
+      "post_id": "t3_1mmgq88",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "Fun_Temperature_1888",
+      "author_id": "t2_16gphjutl8",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-10T12:00:25.260000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1mmgq88/ml_system_design/",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Is it normal to apply for internships even if I don't meet all the required qualifications?",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1mzt9nc/is_it_normal_to_apply_for_internships_even_if_i/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1mzt9nc",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "Dokja_Kim_07",
+      "author_id": "t2_1nz7ol45cy",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-25T15:16:10.018000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1mzt9nc/is_it_normal_to_apply_for_internships_even_if_i/",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "how much time does it really takes to be good at ai field (nlp, cv etc)??",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n4nfet/how_much_time_does_it_really_takes_to_be_good_at/",
+      "score": 5,
+      "comments": 7,
+      "post_id": "t3_1n4nfet",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "nouman6093",
+      "author_id": "t2_5idhmacx",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-31T06:19:44.134000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n4nfet/how_much_time_does_it_really_takes_to_be_good_at/",
+      "content_preview": "",
+      "flair": [
+        "Career question 💼"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2dluuy/styles/profileIcon_e8jx8o0uus0b1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1b591808cf5fe759e02293ab96204e122273b604"
+    },
+    {
+      "title": "Handling variable-length sensor sequences in gesture recognition – padding or something else?",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1mzlr8o/handling_variablelength_sensor_sequences_in/",
+      "score": 2,
+      "comments": 4,
+      "post_id": "t3_1mzlr8o",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "Pristine-Air4867",
+      "author_id": "t2_vdwzdfaks",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-25T09:24:39.069000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1mzlr8o/handling_variablelength_sensor_sequences_in/",
+      "content_preview": "",
+      "flair": [
+        "Time series 📈"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Yelp Dataset clarification: Is review_count colomn cheating?",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1mzhtgt/yelp_dataset_clarification_is_review_count_colomn/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1mzhtgt",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "AdInevitable1362",
+      "author_id": "t2_zhiluby8x",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-25T05:12:27.163000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1mzhtgt/yelp_dataset_clarification_is_review_count_colomn/",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Need help starting an education-focused neural network project with LLMs – architecture & tech stack advice?",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n09ja7/need_help_starting_an_educationfocused_neural/",
+      "score": 5,
+      "comments": 2,
+      "post_id": "t3_1n09ja7",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "Live-Lawfulness7821",
+      "author_id": "t2_lcd5nj5o",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-26T02:00:13.430000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n09ja7/need_help_starting_an_educationfocused_neural/",
+      "content_preview": "",
+      "flair": [
+        "Natural Language Processing 💬"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "How did they start in this world? What do you recommend to enter this world?",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1mzggi8/how_did_they_start_in_this_world_what_do_you/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1mzggi8",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "bengiCoder",
+      "author_id": "t2_1m184e44ci",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-25T03:56:07.403000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1mzggi8/how_did_they_start_in_this_world_what_do_you/",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Survey on computational power needs for Machine Learning",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1n1b80p/survey_on_computational_power_needs_for_machine/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1n1b80p",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "OkPalpitation584",
+      "author_id": "t2_1wj6ww3r97",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-27T08:14:35.247000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1n1b80p/survey_on_computational_power_needs_for_machine/",
+      "content_preview": "",
+      "flair": [
+        "Survey ✍"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Making DL algorithms from scratch?",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1mrpn8h/making_dl_algorithms_from_scratch/",
+      "score": 17,
+      "comments": 40,
+      "post_id": "t3_1mrpn8h",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "[deleted]",
+      "author_id": "",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-16T08:52:45.722000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1mrpn8h/making_dl_algorithms_from_scratch/",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "using matlab to design my own custom way to train CNNs (no backprop, manual gradients only). I'm noticing that avgpool is SIGNIFICANTLY faster than maxpool in forward and backwards passes… does that sound right? Is maxpool is “unoptimized” in matlab compared to other frameworks like pytorch?",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1mzdgid/using_matlab_to_design_my_own_custom_way_to_train/",
+      "score": 3,
+      "comments": 3,
+      "post_id": "t3_1mzdgid",
+      "post_type": "link",
+      "domain": "reddit.com",
+      "author": "ComeTooEarly",
+      "author_id": "t2_1flelngci2",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-25T01:25:38.442000+0000",
+      "content_href": "https://www.reddit.com/r/matlab/comments/1mzd17b/making_a_custom_way_to_train_cnns_and_i_am/",
+      "content_preview": "",
+      "flair": [
+        "Computer Vision 🖼️"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "ML algorithm for fraud detection",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1mixoqc/ml_algorithm_for_fraud_detection/",
+      "score": 16,
+      "comments": 31,
+      "post_id": "t3_1mixoqc",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "a10ua",
+      "author_id": "t2_1pu49au6kf",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-06T06:55:48.031000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1mixoqc/ml_algorithm_for_fraud_detection/",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Graph Neural Network",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1mnuozk/graph_neural_network/",
+      "score": 15,
+      "comments": 7,
+      "post_id": "t3_1mnuozk",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "Sad_Departure4297",
+      "author_id": "t2_pjins5s4",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-12T00:54:21.107000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1mnuozk/graph_neural_network/",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Working as ML engineer, Do you need to understand the low level math?",
+      "permalink": "https://www.reddit.com/r/MLQuestions/comments/1mijhd2/working_as_ml_engineer_do_you_need_to_understand/",
+      "score": 13,
+      "comments": 23,
+      "post_id": "t3_1mijhd2",
+      "post_type": "text",
+      "domain": "self.MLQuestions",
+      "author": "bamboorabbit",
+      "author_id": "t2_3gtrlz70",
+      "subreddit_id": "t5_30rel",
+      "subreddit": "r/MLQuestions",
+      "created_ts": "2025-08-05T19:54:00.913000+0000",
+      "content_href": "https://www.reddit.com/r/MLQuestions/comments/1mijhd2/working_as_ml_engineer_do_you_need_to_understand/",
+      "content_preview": "",
+      "flair": [
+        "Beginner question 👶"
+      ],
+      "thumbnail_url": ""
+    }
+  ],
+  "scraped_at": "2025-09-02T11:26:04.912960"
+}

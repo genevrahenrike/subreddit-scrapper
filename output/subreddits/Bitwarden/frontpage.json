@@ -1,0 +1,1010 @@
+{
+  "subreddit": "Bitwarden",
+  "url": "https://www.reddit.com/r/Bitwarden",
+  "meta": {
+    "title": "Bitwarden | Password Manager - Secrets Manager - Passwordless.dev - Authenticator"
+  },
+  "posts": [
+    {
+      "title": "Local http website - fill doesn't work",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n6bmh0/local_http_website_fill_doesnt_work/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1n6bmh0",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "Several-Teach1515",
+      "author_id": "t2_xpa15d9vv",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-09-02T05:54:59.413000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n6bmh0/local_http_website_fill_doesnt_work/",
+      "content_preview": "Seems that at some point my password fill on Safari iPhone stopped working on my local router sign in. I got asus riuter and it looks like it's related to HTTP as it's the only place where password doesn't work and only place that's http. Is this by design?",
+      "flair": [
+        "I need help!"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Fully switching over to Bitwarden, but I have some concerns.",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n6ag4g/fully_switching_over_to_bitwarden_but_i_have_some/",
+      "score": 31,
+      "comments": 37,
+      "post_id": "t3_1n6ag4g",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "ChipsAhoiMcCoy",
+      "author_id": "t2_rtj90bc",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-09-02T04:44:34.867000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n6ag4g/fully_switching_over_to_bitwarden_but_i_have_some/",
+      "content_preview": "So my main concern, honestly, is with Two-Factor Authentication. I am totally fine with using 2FA on my accounts, but I am super worried about setting it up on Bitwarden itself. The main reason being that I'm always afraid that if my phone ever gets stolen, or if I ever lose my phone, I would quite literally lose access to everything. The idea of that is terrifying. So far, I have been setting up 2FA on all my services that I use, and making sure that I save the Authentication Keys in Bitwarden itself, so that they're at least stored on the app incase I do ever need to use them, but I have yet to set up 2FA on my  Bitwarden itself, for the reasons mentioned above. When you guys are using 2FA on Bitwarden, which method do you use? And also, if I decide to pay for premium, and I get TOTP generation in the app itself, would I still need to use a separate app in order to generate the TOTP for the Bitwarden app itself? I mean, I figure I would since I would have to be signed in to access those codes, but I thought I would ask, since it seems silly to have an entire separate Authenticator app to worry about before logging in to Bitwarden. Would it be bad to just simply use a strong password for your master password? Like 30 characters, capitals, numbers, symbols, the works?",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Maintenance Planned: Sept. 2nd 2025",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n66n8v/maintenance_planned_sept_2nd_2025/",
+      "score": 33,
+      "comments": 0,
+      "post_id": "t3_1n66n8v",
+      "post_type": "link",
+      "domain": "status.bitwarden.com",
+      "author": "dwbitw",
+      "author_id": "t2_joa57gme",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-09-02T01:29:29.302000+0000",
+      "content_href": "https://status.bitwarden.com/issues/68b60962a877241d1996341e",
+      "content_preview": "",
+      "flair": [
+        "Maintenance"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5ulgrp/styles/profileIcon_rgy661s1rs7e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e83534ee9aa5893fc825c187b7e57f3497c370ae"
+    },
+    {
+      "title": "Bitwarden unlock delay -> Brave",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n66n02/bitwarden_unlock_delay_brave/",
+      "score": 2,
+      "comments": 6,
+      "post_id": "t3_1n66n02",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "Haunting_Orange_8185",
+      "author_id": "t2_1mfk0qc74h",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-09-02T01:29:09.437000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n66n02/bitwarden_unlock_delay_brave/",
+      "content_preview": "Greetings everyone. so I had the issue recently, that when I unlock the vault, it is delayed by 2-3  sec. It freezes and then unlockes. This is new, I wonder is there a change to the encryption process or is this an current issue? Sorry if this has already been answered or posted, I'm new to Reddit.",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Corrupted Extension (Micrsoft Edge)",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n64rfy/corrupted_extension_micrsoft_edge/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n64rfy",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "NoAd8573",
+      "author_id": "t2_8awyq6rt",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-09-01T23:59:35.530000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n64rfy/corrupted_extension_micrsoft_edge/",
+      "content_preview": "I don't know if there are other reports, but I have been using Bitwarden for a few years with Microsoft Edge, and since yesterday, the extension has already corrupted twice. What should I do to resolve this issue?",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Keeps uninstalling.",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n5ucd1/keeps_uninstalling/",
+      "score": 0,
+      "comments": 10,
+      "post_id": "t3_1n5ucd1",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "RobubieArt",
+      "author_id": "t2_n5i35ytm",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-09-01T17:04:46.995000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n5ucd1/keeps_uninstalling/",
+      "content_preview": "This is the second time I went to use bitwarden and it was just fully uninstalled from my computer, anyone know whats going on here?",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Upgrade question, from Premium Personal to Family.",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n5tytq/upgrade_question_from_premium_personal_to_family/",
+      "score": 7,
+      "comments": 5,
+      "post_id": "t3_1n5tytq",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "Just_Another_User80",
+      "author_id": "t2_kmajqq2by",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-09-01T16:51:12.158000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n5tytq/upgrade_question_from_premium_personal_to_family/",
+      "content_preview": "Hello everyone. I am trying to upgrade to the family plan on my Premium Personal account. I created an organization, free, because the post said it can later be upgraded... so when I go to billing to upgrade, it charges 40us a year, I thought I should prorrate the personal premium account amount I already bought around June 2025, so the Family price should be less. Or am I wrong ? Thanks In Advance",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Why???",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n5sg5r/why/",
+      "score": 2,
+      "comments": 4,
+      "post_id": "t3_1n5sg5r",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "Merlin258",
+      "author_id": "t2_1wpddqvv2f",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-09-01T15:54:57.312000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n5sg5r/why/",
+      "content_preview": "I toggle on Unlock with biometrics It's on Now the fingerprint scanner on screen. Das alright. Unlock with biometrics immediately toggled off. I tried uninstalling and installing the app. Didn't work. Also didn't see any bug related to this in github. Any soln? Android app",
+      "flair": [
+        "I need help!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Firefox not able to resolve any passwords",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n5ln5b/firefox_not_able_to_resolve_any_passwords/",
+      "score": 1,
+      "comments": 7,
+      "post_id": "t3_1n5ln5b",
+      "post_type": "multi_media",
+      "domain": "self.Bitwarden",
+      "author": "liveflex8",
+      "author_id": "t2_aafm0",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-09-01T10:58:41.178000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n5ln5b/firefox_not_able_to_resolve_any_passwords/",
+      "content_preview": "I've used Bitwarden for years on Firefox. Just recently (in the last week or so), the addon is not working correctly - I'm just shown a spinning loading signal. The browser icon correctly shows the number of matching logins for each page that I'm on, but I can't actually select any of them. The actual Bitwarden App (Mac) also works completely fine. --- Edit --- I just checked, and the exact same thing is happening in Chrome. So I'm assuming that this is some OS level issue. Version: 2025.8.1 SDK: 'main (29c6158)' Server version: 2025.8.0 MacOS 15.6.1 https://preview.redd.it/firefox-not-able-to-resolve-any-passwords-v0-979692tbbjmf1.png",
+      "flair": [
+        "I need help!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "I cant make btiwarden my default PW manager on firefox?",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n5lm6b/i_cant_make_btiwarden_my_default_pw_manager_on/",
+      "score": 3,
+      "comments": 6,
+      "post_id": "t3_1n5lm6b",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Substantial_Bet_1007",
+      "author_id": "t2_1k5l5gb1lj",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-09-01T10:57:04.098000+0000",
+      "content_href": "https://i.redd.it/w1epfuszajmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Question regarding US/EU servers",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n5ipxu/question_regarding_useu_servers/",
+      "score": 13,
+      "comments": 19,
+      "post_id": "t3_1n5ipxu",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "Gio20400",
+      "author_id": "t2_77yu3v",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-09-01T07:55:30.802000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n5ipxu/question_regarding_useu_servers/",
+      "content_preview": "I was recently made aware that apparently, european servers exist, which I obviously didn't know when I made my account, I'm from europe. So my question is, does the way Bitwarden handle data remain the same regardless of region, will everything still be GDPR-compliant? Because like I said, I was never made aware of the existence of european servers.",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_90qq6/styles/profileIcon_ak985kljiuqe1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=44f987214128d570dbd11cb74fe8db96d4c3de5c"
+    },
+    {
+      "title": "Locked out of Account",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n5exdc/locked_out_of_account/",
+      "score": 5,
+      "comments": 17,
+      "post_id": "t3_1n5exdc",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "Rich_Librarian9956",
+      "author_id": "t2_a58f2l8c",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-09-01T04:11:29.791000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n5exdc/locked_out_of_account/",
+      "content_preview": "Hi. About 2 months ago I was locked out of my email outlook email address that I have had for close to 20 years (I have tried to get it back but crickets from Microsoft... now my Bitwarden account wants me to reconfirm my account and it says that it has sent an email to my now locked account when I try and sign in... it lets me sign in on my phone but not my PC. is there any way around this? cheers",
+      "flair": [
+        "I need help!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Bitwarden & Yubikey",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n5bcwz/bitwarden_yubikey/",
+      "score": 7,
+      "comments": 28,
+      "post_id": "t3_1n5bcwz",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "wfsrgs",
+      "author_id": "t2_eqtlv1m1",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-09-01T01:07:36.591000+0000",
+      "content_href": "https://i.redd.it/bdfkscwsdgmf1.png",
+      "content_preview": "",
+      "flair": [
+        "I need help!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "[GITHUB] \"Work is tracked outside of GitHub\" message. Where? What tool(s)?",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n58aox/github_work_is_tracked_outside_of_github_message/",
+      "score": 2,
+      "comments": 7,
+      "post_id": "t3_1n58aox",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "RebirdgeCardiologist",
+      "author_id": "t2_h1awpct0",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-31T22:41:04.225000+0000",
+      "content_href": "https://i.redd.it/iah50o8dlfmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://preview.redd.it/github-work-is-tracked-outside-of-github-message-where-what-v0-iah50o8dlfmf1.png?width=640&crop=smart&auto=webp&s=828f031e74daba0e8832fc18a7ff732868b7afce"
+    },
+    {
+      "title": "Windows hello changes and enter key changes?",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n53u0a/windows_hello_changes_and_enter_key_changes/",
+      "score": 3,
+      "comments": 13,
+      "post_id": "t3_1n53u0a",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "Impressive-Call-7017",
+      "author_id": "t2_1wfoiqt9sp",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-31T19:34:31.724000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n53u0a/windows_hello_changes_and_enter_key_changes/",
+      "content_preview": "I have 2 issues with bitwarden that I noticed after the most recent update version 2025.8.2. First is the change to windows hello. I setup my settings a while back to allow windows hello login and the browser integration for biometrics. With the latest update I now noticed that the windows hello option is now disabled upon first boot or restart and I have to sign in with my master password at least once now during that session. If I shutdown or restart and log back in it disables it again. Anyway to allow windows hello login? For reference my security settings are as follows: Vault timeout: on restart Timeout action: Lock Unlock with biometrics is checked off. Which brings me to my next issue on the bitwarden extension in edge. I used to be able to type my master password hit enter and that would unlock the vault. Now when I type in my master password and hit enter it closes the extension window as if I clicked out of it and leaves it locked. I now have to click unlock after typing my master password. Not a big deal at all but just an odd thing to change.",
+      "flair": [
+        "I need help!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "How to add payment alternatives to Family plan?",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n50tit/how_to_add_payment_alternatives_to_family_plan/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n50tit",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "thedaniel1998",
+      "author_id": "t2_3lv7tsdw",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-31T17:35:17.969000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n50tit/how_to_add_payment_alternatives_to_family_plan/",
+      "content_preview": "Hello, I use the Families Plan, and I would like to know how to add more than one credit card for the payment renovation. The situation: Card 1 fail, it will try to charge in card 2.",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "But what if I win the Powerball?",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n4wtvp/but_what_if_i_win_the_powerball/",
+      "score": 3,
+      "comments": 16,
+      "post_id": "t3_1n4wtvp",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "djasonpenney",
+      "author_id": "t2_9jbs9",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-31T14:55:55.576000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n4wtvp/but_what_if_i_win_the_powerball/",
+      "content_preview": "I admit, I dropped a few bucks on the last Powerball drawing. The jackpot is now about one billion dollars. Sometimes I like to dream, you know? When I was looking up the winning numbers yesterday, I noticed an article that says the odds of winning the Powerball jackpot are one in 292 million. That’s measurably better than one in a billion.  A one followed by nine zeros. This leads to an important lesson involving your passwords and your password manager in general. I see people taking  precautions with their passwords such as 20 random characters or perhaps a four word DiceWare passphrase. But what does that really mean? Assuming these passwords are randomly selected (just like my Powerball tickets), a 20 character password has a probability of roughly a one followed by TWENTY-TWO zeros. A four word passphrase has a probability of a one followed by FIFTEEN zeros. Put another way, the odds of someone guessing such a passphrase is roughly equal to winning the Powerball ONE MILLION TIMES. And yet some users are convinced they need to do more to secure their passwords. I have news for you. If you won the Powerball one million times, everyone would know that you were cheating the system.  In a similar manner, if someone is going to guess a strong password, they didn’t really “guess” it. They found a “cheat”.   Powerball. One million times. In other words, the weak point in your security is no longer your passwords.  It’s something else: physical security on your devices, you failed to keep your devices patched, you downloaded malware onto one of your devices, you let someone watch you enter the password, et cetera. There is no such thing as “perfect” security.  Someone is going to win the Powerball, sooner or later. Your job as a responsible password user is to pick the level of risk you are comfortable with. But whatever you do, don’t go out and buy a million Powerball tickets. That isn’t responsible management of risk/reward. If you want to improve your security, your resources are better spent elsewhere.",
+      "flair": [
+        "Tips & Tricks"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Feel like this should be disabled by default",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n4iknz/feel_like_this_should_be_disabled_by_default/",
+      "score": 113,
+      "comments": 12,
+      "post_id": "t3_1n4iknz",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "DazzlingConflict5725",
+      "author_id": "t2_9gv1at0yp",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-31T01:49:02.736000+0000",
+      "content_href": "https://i.redd.it/szo2zpzwf9mf1.png",
+      "content_preview": "",
+      "flair": [
+        "Idea"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Argon2id Settings vs Brute Force Secure Enough?",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n4hndw/argon2id_settings_vs_brute_force_secure_enough/",
+      "score": 9,
+      "comments": 14,
+      "post_id": "t3_1n4hndw",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "Elegant-Bathroom-671",
+      "author_id": "t2_1v8x0uebrz",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-31T01:02:27.290000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n4hndw/argon2id_settings_vs_brute_force_secure_enough/",
+      "content_preview": "Hi r/Bitwarden , I set my vault to Argon2id with these settings: Memory: 500 MB Iterations: 6 Parallelism: 8 My master password is 30+ characters, Diceware inspired with mixed uppercase lowercase letters, numbers, and special characters. Login takes about 6-7 seconds on my phone. I'm only using Bitwarden for secure notes, not passwords, so I won't be using autofill at all. Are these settings strong enough to protect against brute force attacks? Should I increase memory or iterations, or is this good? Any advice on how these hold up against brute forcing for a notes only vault? Thanks!",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Keeping cyphertext on the cloud with the app, is that possible?",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n4a40p/keeping_cyphertext_on_the_cloud_with_the_app_is/",
+      "score": 2,
+      "comments": 16,
+      "post_id": "t3_1n4a40p",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "Kerguelen_Avon",
+      "author_id": "t2_63s6dej2",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-30T19:19:39.326000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n4a40p/keeping_cyphertext_on_the_cloud_with_the_app_is/",
+      "content_preview": "I'm new to this so a couple of questions that I was not able to find in the FAQ and are surely naive: - I have the app installed on my Android phone. So I assume the app keeps my info as an encrypted, offline file in my phone's physical memory. Is that so? - Once I unlock the screen of the phone I can access the app (through biometrics, PIN or passwd). At that time I assume the key to my data is regenerated, blob decrypted, and the plaintext is put on the screen, cashed etc . Correct, right? So the questions are 1)If I lose my phone and IF the phone is (somehow) unlocked - what can I do to prevent brute forcing the key to BW? 2)Is there a way for me to dump the blob to the cloud every time after the completion of the session - so that no encrypted blob is kept on my device - and retrieve the blob back ONLY when I need to decrypt it The point is to avoid having an offline copy (which CAN be brute forced), and force the possible perpetrator to request the chypertext from the cloud (which CANNOT be brute forced). Hope that makes sense. Thanks",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "suddenly Biometrics not working",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n48v31/suddenly_biometrics_not_working/",
+      "score": 4,
+      "comments": 3,
+      "post_id": "t3_1n48v31",
+      "post_type": "multi_media",
+      "domain": "self.Bitwarden",
+      "author": "Bebo991_Gaming",
+      "author_id": "t2_apxot5zk",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-30T18:28:54.660000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n48v31/suddenly_biometrics_not_working/",
+      "content_preview": "https://preview.redd.it/suddenly-biometrics-not-working-v0-cjenw016a7mf1.png i disabled and re-enabled biometrics login on the desktop app, but didnt ask for a pin or anything, just instantly ticked, same for the extenstion, re-enabling browser integration didnt fix the issue happened since last update",
+      "flair": [
+        "I need help!"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Anyone using Bitwarden Self Hosted Open Source in enterprise setup as central password manager.?",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n47aez/anyone_using_bitwarden_self_hosted_open_source_in/",
+      "score": 4,
+      "comments": 1,
+      "post_id": "t3_1n47aez",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "Important_Evening511",
+      "author_id": "t2_1fxetxg5ho",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-30T17:23:49.506000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n47aez/anyone_using_bitwarden_self_hosted_open_source_in/",
+      "content_preview": "Another question - Anyone here using Bitwarden Self Hosted Open Source in enterprise setup as central password manager.? - How you find BW as central password manager .? - Admin overhead is normal or too much .? - Any critical security features missing .? - How you are securing password manager .? - Features like HA and Clustering available in open source.?",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Biometrics keep automatically get disabled on Android",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n45qks/biometrics_keep_automatically_get_disabled_on/",
+      "score": 1,
+      "comments": 8,
+      "post_id": "t3_1n45qks",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "NUYvbT6vTPs",
+      "author_id": "t2_dj8oogbt",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-30T16:20:42.200000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n45qks/biometrics_keep_automatically_get_disabled_on/",
+      "content_preview": "Extremely annoying bug, does anyone has a solution? I will turn on the biometrics unlock* and it will randomly get turn off, forcing me to use master password to login instead. I'm on Pixel 9 Pro XL if that helps. Have already tried a reinstall. edit*",
+      "flair": [
+        "I need help!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Edge (Android) defaulting to Google PM and MS PM even when disabled?",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n43oov/edge_android_defaulting_to_google_pm_and_ms_pm/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1n43oov",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "CoarseRainbow",
+      "author_id": "t2_8pp23ezm",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-30T14:56:18.213000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n43oov/edge_android_defaulting_to_google_pm_and_ms_pm/",
+      "content_preview": "Tried this on the BW forum but no responses so trying here: Cant see this brought up before but im using MS Edge as a browser on Android. The issue i have is whenever i go to any site that needs a login the saved logins are from i believe MS password manager and passkey brings up Google password manager. (i then need to go into More Options… then select BW and i can use it). In Android settings i have BitWarden set as my default passkey. In Autofill i have BitWarden selected (and both MS Authenticator and Google password manager unchecked/disabled). In BW client itself i have “Autofill services” checked, set to Inline. I also have “Use Brave/Chome” autofill integration boxes ticked. Keyboard used is Swiftkey. In Edge itself in password manager, everything is unticked, no offer to save passwords, no auto sign in, no autofill for apps. In Chrome and Brave this DOES work - i get a BW and only a BW popup for logins and passkeys. In Edge i seem to get MS and Google PM regardless of the fact they’re disabled everywhere i can see. Bit Warden does work but only via “More options…” for passkeys or deleting the autofilled text from the dialogs manually before it appears for normal logins. Phone is a Android 16 Pixel 9 Pro. I get identical behaviour on my Galaxy Tab s5e running Android 15 (Lineage 22).",
+      "flair": [
+        "I need help!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Paraphrase separators: is hyphen used by default because it’s the most secure, or will any special character be just as good / secure?",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n43nz3/paraphrase_separators_is_hyphen_used_by_default/",
+      "score": 18,
+      "comments": 12,
+      "post_id": "t3_1n43nz3",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "AdFit8727",
+      "author_id": "t2_ktwf4kls",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-30T14:55:28.324000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n43nz3/paraphrase_separators_is_hyphen_used_by_default/",
+      "content_preview": "Question marks, exclamation marks, @ symbols etc, can they be used too?",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "\"Error sending request\" when trying to create a new DDG email alias",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n43be2/error_sending_request_when_trying_to_create_a_new/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1n43be2",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "Blacksmith0311",
+      "author_id": "t2_6dnclgf9",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-30T14:41:11.768000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n43be2/error_sending_request_when_trying_to_create_a_new/",
+      "content_preview": "Since about 30 minutes ago, whenever I try to create a new duck duck go email alias, I get \"error sending request\" error. Using BW 2025.8.0 with a Samsung A54 on Android 15. Any ideas or is this a known issue?",
+      "flair": [
+        "Possible Bug"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Once again Windows Hello is broken",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n42o69/once_again_windows_hello_is_broken/",
+      "score": 5,
+      "comments": 13,
+      "post_id": "t3_1n42o69",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "DollinVans",
+      "author_id": "t2_10wexo",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-30T14:14:08.687000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n42o69/once_again_windows_hello_is_broken/",
+      "content_preview": "Again. This keeps happening so often. That makes me really salty and I'm considering to cancel my subscription and move to an other app. So Windows Hello checkbox is checked on the desktop app, but it does absolutely nothing. Turning on and off -> nothing. Restart -> nothing. And on the same PC Hello also does not work in the Browser extension. If I turn it on and off here it just keeps waiting for the desktop app to verify the Windows Hello ---> nothing Any suggestions? Am I alone with this problem?",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Anyone having problems with duckduckgo alias generation on android phones lately?",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n42ctu/anyone_having_problems_with_duckduckgo_alias/",
+      "score": 5,
+      "comments": 4,
+      "post_id": "t3_1n42ctu",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "PR_freak",
+      "author_id": "t2_pzruvgbc",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-30T14:00:45.141000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n42ctu/anyone_having_problems_with_duckduckgo_alias/",
+      "content_preview": "Basically title, when I try to generate a new address it shows a banner saying \"error sending request\" Weirdly the app keeps forgetting i enabled biometric access on my phone, probably not related but i figured it's worth mentioning because these issues started at about the same time Works just fine on a desktop",
+      "flair": [
+        "I need help!"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Android forwarded email address fastmail error sending request",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n41pg1/android_forwarded_email_address_fastmail_error/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n41pg1",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "reditsagi",
+      "author_id": "t2_ekmf6",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-30T13:30:56.210000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n41pg1/android_forwarded_email_address_fastmail_error/",
+      "content_preview": "Hi. I am facing error sending request with the username generator using Fastmail forwarded email address. This was working a few weeks ago or last month. I have already cleared cache and data but still the same.",
+      "flair": [
+        "Possible Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Thoughts about current state of passkeys",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n41ozf/thoughts_about_current_state_of_passkeys/",
+      "score": 9,
+      "comments": 17,
+      "post_id": "t3_1n41ozf",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "franzel_ka",
+      "author_id": "t2_72mpaepm",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-30T13:30:24.609000+0000",
+      "content_href": "/r/Passkeys/comments/1n3lgx1/thoughts_about_current_state_of_passkeys/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "8.1 Is Still vulnerable to clickjacking",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n41oku/81_is_still_vulnerable_to_clickjacking/",
+      "score": 288,
+      "comments": 139,
+      "post_id": "t3_1n41oku",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "robis87",
+      "author_id": "t2_ixgcoja",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-30T13:29:54.485000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n41oku/81_is_still_vulnerable_to_clickjacking/",
+      "content_preview": "So turns out even the 8.1 version is still vulnerable to clickjacking and it's not safe to use your BW browser extension for autofill. And BW not only silent about that but lied when presenting the update and letting users thing it's been patched. Ridiculous how you can tarnish your long accrued reputation in a few weeks. https://x.com/marektoth/status/1959465162081001542",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Problems with the CLI for months - now it almost works but man is it SLOW. Anybody else?",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n405or/problems_with_the_cli_for_months_now_it_almost/",
+      "score": 4,
+      "comments": 7,
+      "post_id": "t3_1n405or",
+      "post_type": "multi_media",
+      "domain": "self.Bitwarden",
+      "author": "purepersistence",
+      "author_id": "t2_vpo5qtgz",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-30T12:16:53.677000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n405or/problems_with_the_cli_for_months_now_it_almost/",
+      "content_preview": "I run a script to backup vaults for my organization and couple private vaults about once a month. Most months lately, that includes updating to the latest version of the CLI. I'm on 2025.8.0 now. In the last release, my backup would report errors syncing vaults. But inspecting the backups I saw no problem. Now in this release, syncing works fine but exporting attachments is REAL slow (extracting attachments). The script took over 30 minutes to execute and usually finishes in maybe a minute or two. During the time, my bitwarden VM was using way less than 1% of the CPU and doing just a few kb of disk i/o. And I can drag and drop big files like 50M into my VeraCrypt volume in Windows Explorer - no problem with the speed of writing to it. I have about 1GB network thruput from my workstation to the VM. My script also reports an error copying one particular attachment. But when I inspect the attachment it looks fine. And iterating thru the attachments, there's a couple that download twice now. I haven't change the script in about eight months. Anybody else having weird problems like this using the CLI? Windows batch file output",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Security key - feeling good",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n3sbdj/security_key_feeling_good/",
+      "score": 107,
+      "comments": 84,
+      "post_id": "t3_1n3sbdj",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "garlicbreeder",
+      "author_id": "t2_jogmwt0s",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-30T04:17:10.693000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n3sbdj/security_key_feeling_good/",
+      "content_preview": "So, after reading about a few people getting their bitwarden account hacked, I started getting a bit worried. I had my TOTP enabled but I felt it wasn't enough. So I bought 2 security keys. Well, although it's less convenient than TOTP, it's not a big issue. O don't have to log in from scratch every day. Not even every month. It's basically set and forget. As a bonus, I then secured my google and apple accounts. That's it. Just these 3. And I've done the same for my wife. I feel more \"safe\" than before. For 50 USD, I think it's worth it. Google and bitwarden are my most important services. Is it an overkill? I hope it is. I hope nobody ever even tries to hack me. I strongly recommend it for everyone here.",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Bitwarden secret manager as HashiCorp Vault Replacement",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n3nho3/bitwarden_secret_manager_as_hashicorp_vault/",
+      "score": 6,
+      "comments": 9,
+      "post_id": "t3_1n3nho3",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "Important_Evening511",
+      "author_id": "t2_1fxetxg5ho",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-30T00:09:53.588000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n3nho3/bitwarden_secret_manager_as_hashicorp_vault/",
+      "content_preview": "Anyone has used, Bitwarden secret manager as HashiCorp Vault Enterprise Replacement .? what are they key differences and which features are not supported by Bitwarden, For us HashiCorp Vault has been developer friendly with integrations like, Jenkin, K8 and rabbitmq. Is Bitwarden same level.?",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "I'm new to Bitwarden. Would adding my email as an additional Two-Step layer weaken the security of my account if I'm already using a TOTP app? What scenario would I receive an email verification?",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n3ju1y/im_new_to_bitwarden_would_adding_my_email_as_an/",
+      "score": 30,
+      "comments": 23,
+      "post_id": "t3_1n3ju1y",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "timeformypenance",
+      "author_id": "t2_1qyn3qa421",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-29T21:29:58.304000+0000",
+      "content_href": "https://i.redd.it/z95ibbak01mf1.png",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_emsizq/styles/profileIcon_5vf51k0do8lf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f702d1b4f40a678cf0e3a17c7a98c08cf1335b70"
+    },
+    {
+      "title": "Export question",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n3gfdx/export_question/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1n3gfdx",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "starman57575757",
+      "author_id": "t2_5vt224tn",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-29T19:13:10.375000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n3gfdx/export_question/",
+      "content_preview": "Why does the Bitwarden export go straight to the Win 11 downloads folder? I want the only destination to be an external drive…",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "2-step login recovery code DOESN'T work",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n3fecu/2step_login_recovery_code_doesnt_work/",
+      "score": 8,
+      "comments": 24,
+      "post_id": "t3_1n3fecu",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Juilek",
+      "author_id": "t2_17ec0u",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-29T18:33:24.722000+0000",
+      "content_href": "https://i.redd.it/w08rpb1x30mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://preview.redd.it/2-step-login-recovery-code-doesnt-work-v0-w08rpb1x30mf1.jpeg?width=640&crop=smart&auto=webp&s=5ff64e0f4d0b4ad4f9c70420e0dbcc7b4a7a128d"
+    },
+    {
+      "title": "duck address with bitwarden",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n3dp0f/duck_address_with_bitwarden/",
+      "score": 4,
+      "comments": 10,
+      "post_id": "t3_1n3dp0f",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "sobresal",
+      "author_id": "t2_vt6ph7g",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-29T17:29:01.202000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n3dp0f/duck_address_with_bitwarden/",
+      "content_preview": "I'm looking into using duck address with bitwarden. One of the disadvantages of duck address, from what I've seen so far,  is that you can't manage our aliases and can't delete specific addresses if you find they are getting spammed.  When integrated with bitwarden do we have any more control over these things or does those limitations remain?",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Bitwarden Autofill Mobile Solution",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n3a8ej/bitwarden_autofill_mobile_solution/",
+      "score": 46,
+      "comments": 17,
+      "post_id": "t3_1n3a8ej",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "nigel_ydv",
+      "author_id": "t2_19tetyjzgh",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-29T15:17:45.298000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n3a8ej",
+      "content_preview": "",
+      "flair": [
+        "Tips & Tricks"
+      ],
+      "thumbnail_url": "https://preview.redd.it/bitwarden-autofill-mobile-solution-v0-6lv2uy7t6zlf1.jpg?width=640&crop=smart&auto=webp&s=038d781ca10a35a3426079fca3280ead19094ff7"
+    },
+    {
+      "title": "PSA Warning about PassKeys",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n372dn/psa_warning_about_passkeys/",
+      "score": 0,
+      "comments": 9,
+      "post_id": "t3_1n372dn",
+      "post_type": "multi_media",
+      "domain": "self.Bitwarden",
+      "author": "xenomorph-85",
+      "author_id": "t2_6oelop3",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-29T13:11:37.706000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n372dn/psa_warning_about_passkeys/",
+      "content_preview": "See this https://labs.sqrx.com/passkeys-pwned-0dbddb7ade1a Passkeys are not as secure as people through",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "BitWarden.eu",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n35pqo/bitwardeneu/",
+      "score": 0,
+      "comments": 21,
+      "post_id": "t3_1n35pqo",
+      "post_type": "multi_media",
+      "domain": "self.Bitwarden",
+      "author": "Substantial-Mail-222",
+      "author_id": "t2_l758oz4x",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-29T12:11:22.302000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n35pqo/bitwardeneu/",
+      "content_preview": "Are there any plans for BitWarden to migrate from Microsoft Cloud? https://www.theregister.com/2025/08/27/ovhcloud_interview/",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Ctrl + Shift + L not working for first time ever on Firefox",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n35oeg/ctrl_shift_l_not_working_for_first_time_ever_on/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1n35oeg",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "CompetitionKindly665",
+      "author_id": "t2_oxob3rjtt",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-29T12:09:34.361000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n35oeg/ctrl_shift_l_not_working_for_first_time_ever_on/",
+      "content_preview": "Hello, everyone. Since yesterday I've been having this issue on Firefox. I have uninstalled and reinstalled the Bitwarden extension. I have not changed any settings within Firefox or Bitwarden. I am not having this issue on Microsoft Edge, as of now. In the extension shortcuts, \"Autofill the last used login for the current website\" is where I use Ctrl + Shift + L. How can I fix this problem? Thank you.",
+      "flair": [
+        "I need help!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "📅 Join us today for Vault Hours 55 — Product updates and Q&A",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n343ia/join_us_today_for_vault_hours_55_product_updates/",
+      "score": 8,
+      "comments": 0,
+      "post_id": "t3_1n343ia",
+      "post_type": "link",
+      "domain": "bitwarden.com",
+      "author": "dwbitw",
+      "author_id": "t2_joa57gme",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-29T10:48:40.200000+0000",
+      "content_href": "https://bitwarden.com/events/vault-hours-55/",
+      "content_preview": "",
+      "flair": [
+        "Events"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5ulgrp/styles/profileIcon_rgy661s1rs7e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e83534ee9aa5893fc825c187b7e57f3497c370ae"
+    },
+    {
+      "title": "i NEED HELP",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n33txb/i_need_help/",
+      "score": 5,
+      "comments": 10,
+      "post_id": "t3_1n33txb",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "Agile-Boysenberry160",
+      "author_id": "t2_v73761in",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-29T10:33:25.421000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n33txb/i_need_help/",
+      "content_preview": "so i saved my authenticator password in bitwarden and i want to use i remember that master password but i saved my authentictor password in bitwarden and for bitwarden i need to use authenticator what i do?",
+      "flair": [
+        "I need help!"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8ho4z2/styles/profileIcon_7y4j9hkac04f1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=73e0b4477220d8d4a3a972cfd52844f8d1d9fcef"
+    },
+    {
+      "title": "Autofill not working on Opera Desktop browser. Help.",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n2y0fb/autofill_not_working_on_opera_desktop_browser_help/",
+      "score": 5,
+      "comments": 2,
+      "post_id": "t3_1n2y0fb",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "discooscar1",
+      "author_id": "t2_uvghbgbbl",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-29T04:32:26.978000+0000",
+      "content_href": "https://i.redd.it/lsi03l3fzvlf1.png",
+      "content_preview": "",
+      "flair": [
+        "I need help!"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ava4rz/styles/profileIcon_2jf4cis90d0e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=576df747f249bc0608d512325b13795691daceda"
+    },
+    {
+      "title": "Disabling certain login accounts as autofill suggestions?",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n2tr64/disabling_certain_login_accounts_as_autofill/",
+      "score": 4,
+      "comments": 2,
+      "post_id": "t3_1n2tr64",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "DazzlingConflict5725",
+      "author_id": "t2_9gv1at0yp",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-29T01:02:08.977000+0000",
+      "content_href": "https://i.redd.it/koa50nv6xulf1.png",
+      "content_preview": "",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Bitwarden Mobile issue",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n2j2yp/bitwarden_mobile_issue/",
+      "score": 15,
+      "comments": 6,
+      "post_id": "t3_1n2j2yp",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "nigel_ydv",
+      "author_id": "t2_19tetyjzgh",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-28T17:46:52.380000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n2j2yp/bitwarden_mobile_issue/",
+      "content_preview": "I have been experiencing an issue with Bitwarden’s autofill on mobile. Previously, when I tapped the autofill popup, it would seamlessly fill the credentials. However, since yesterday, tapping the popup instead shows the “fill options\" according to website for a few seconds, then abruptly redirects me back to Bitwarden’s home screen without completing the autofill. As a result, I am forced to manually search for the password inside the app and copy it, which feels both less secure and far less convenient. No, I have changed any setting in bitwarden and I even tried uninstalling and reinstalling. issue still persists.",
+      "flair": [
+        "I need help!"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Bitwarden login info closing",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n2iadr/bitwarden_login_info_closing/",
+      "score": 6,
+      "comments": 3,
+      "post_id": "t3_1n2iadr",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "redditer_shuush",
+      "author_id": "t2_8a7km31j",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-28T17:17:25.383000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n2iadr/bitwarden_login_info_closing/",
+      "content_preview": "Bitwarden works but whenever i try to save a new login info or try to input one through the bitwarden autofill prompt, it loads the normal screen which lets you choose which autofill but then it closes and goes to the bitwarden vault screen (screen once you login into your vault). On android 15 Samsung using the app does anyone know why this happens. Any fixes?",
+      "flair": [
+        "Possible Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "How to login to Bitwarden when you first need to login to your google account?",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n2gv1v/how_to_login_to_bitwarden_when_you_first_need_to/",
+      "score": 13,
+      "comments": 34,
+      "post_id": "t3_1n2gv1v",
+      "post_type": "text",
+      "domain": "self.Bitwarden",
+      "author": "gutty976",
+      "author_id": "t2_e7a0d",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-28T16:24:05.554000+0000",
+      "content_href": "https://www.reddit.com/r/Bitwarden/comments/1n2gv1v/how_to_login_to_bitwarden_when_you_first_need_to/",
+      "content_preview": "I have never found a solution to this problem.  When you get a new phone or do a factory reset you need to get into your google account before you can install any apps on your phone but my password is inside bitwarden but I can't install bitwarden.  I just found it was easier to change the password to something real easy and I have to disable 2fa i hate doing that but i have not found any other way.  I even tried  making a dumb account just to install BW. but then you still have the 2fa issue with bitwarden.",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Interesting summary of 2FA",
+      "permalink": "https://www.reddit.com/r/Bitwarden/comments/1n2bhhg/interesting_summary_of_2fa/",
+      "score": 30,
+      "comments": 11,
+      "post_id": "t3_1n2bhhg",
+      "post_type": "link",
+      "domain": "pcworld.com",
+      "author": "djasonpenney",
+      "author_id": "t2_9jbs9",
+      "subreddit_id": "t5_3imub",
+      "subreddit": "r/Bitwarden",
+      "created_ts": "2025-08-28T12:55:57.665000+0000",
+      "content_href": "https://www.pcworld.com/article/2888970/4-ways-hackers-can-break-2fa-and-why-you-should-still-use-it-anyway.html",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/bU7FrOWGzyn4nixvhaJI9GdVZe-xFryyPO7LUHs_MLo.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=47000e37dc80125bd2098e27300a65bf2c9f8ee0"
+    }
+  ],
+  "scraped_at": "2025-09-02T11:13:02.088939"
+}
