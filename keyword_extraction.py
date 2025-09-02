@@ -47,6 +47,32 @@ from dataclasses import dataclass
 from glob import glob
 from typing import Dict, Iterable, List, Tuple
 
+# Optional word segmentation backstops (used for glued lowercase names)
+_HAS_WORDSEGMENT = False
+_HAS_WORDNINJA = False
+_WORDSEGMENT_LOADED = False
+try:
+    from wordsegment import load as _ws_load, segment as _ws_segment  # type: ignore
+    _HAS_WORDSEGMENT = True
+except Exception:
+    _HAS_WORDSEGMENT = False
+
+try:
+    import wordninja as _wordninja  # type: ignore
+    _HAS_WORDNINJA = True
+except Exception:
+    _HAS_WORDNINJA = False
+
+
+def _ensure_wordsegment_loaded() -> None:
+    global _WORDSEGMENT_LOADED
+    if _HAS_WORDSEGMENT and not _WORDSEGMENT_LOADED:
+        try:
+            _ws_load()
+            _WORDSEGMENT_LOADED = True
+        except Exception:
+            globals()["_HAS_WORDSEGMENT"] = False
+
 
 # -----------------------
 # Configuration defaults
@@ -58,6 +84,15 @@ DEFAULT_OUTPUT_DIR = "output/keywords"
 DEFAULT_NAME_WEIGHT = 3.0
 DEFAULT_DESC_WEIGHT = 1.0
 DEFAULT_MIN_TOKEN_LEN = 2  # allow short domain terms like ai, ml, uk, us, 3ds
+
+# Description phrase boosts (favor multi-word phrases over generic unigrams)
+DEFAULT_DESC_PHRASE_BOOST_BIGRAM = 1.2
+DEFAULT_DESC_PHRASE_BOOST_TRIGRAM = 1.4
+
+# Ensure local description phrases even if pruned by global df thresholds
+DEFAULT_ENSURE_PHRASES = True
+DEFAULT_ENSURE_PHRASES_K = 3
+
 
 
 # Curated light stopword list: English + subreddit boilerplate
@@ -244,6 +279,34 @@ def heuristic_segment_lower(token: str) -> List[str]:
     return final
 
 
+def segment_token_lower(token: str) -> List[str]:
+    """
+    Try to segment a glued lowercase token into natural-language words using
+    optional libraries, then fall back to heuristic segmentation.
+    """
+    if not token or not token.isalpha() or not token.islower() or len(token) < 9:
+        return [token]
+    # Try wordsegment
+    if _HAS_WORDSEGMENT:
+        try:
+            _ensure_wordsegment_loaded()
+            segs = _ws_segment(token)
+            if segs and len(segs) >= 2:
+                return [s.lower() for s in segs if s]
+        except Exception:
+            pass
+    # Try wordninja
+    if _HAS_WORDNINJA:
+        try:
+            segs = _wordninja.split(token)
+            if segs and len(segs) >= 2:
+                return [s.lower() for s in segs if s]
+        except Exception:
+            pass
+    # Fallback heuristic
+    return heuristic_segment_lower(token)
+
+
 def expand_token(token: str) -> List[str]:
     """
     Expand common acronyms/tokens into phrases (lowercase). Return list of phrases (strings with spaces).
@@ -314,9 +377,9 @@ def extract_name_terms(raw_name: str) -> List[str]:
         for part in split_camel_and_digits(tok):
             if not part:
                 continue
-            # If lowercase long glue, try heuristic segmentation
+            # If lowercase long glue, try segmentation backstops (wordsegment/wordninja) then heuristic
             if part.isalpha() and part.islower() and len(part) >= 9:
-                split_tokens.extend(heuristic_segment_lower(part))
+                split_tokens.extend(segment_token_lower(part))
             else:
                 split_tokens.append(part.lower())
 
@@ -388,7 +451,7 @@ def extract_name_full_phrase(raw_name: str) -> Tuple[str, str]:
                 continue
             # For long lowercase globs, try heuristic segmentation
             if part.isalpha() and part.islower() and len(part) >= 9:
-                segs = heuristic_segment_lower(part)
+                segs = segment_token_lower(part)
             else:
                 segs = [part]
 
@@ -493,7 +556,7 @@ def compute_tfidf_per_doc(
     """
     Compute TF-IDF for description text of a single document.
     idf = log((1 + N) / (1 + df)) + 1  (smooth)
-    score = tf * idf
+    score = tf * idf * boost
 
     Additionally prunes rare multi-grams:
       - bigrams kept only if df >= min_df_bigram
@@ -509,7 +572,12 @@ def compute_tfidf_per_doc(
         if n_words == 3 and df < min_df_trigram:
             continue
         idf = math.log((1.0 + total_docs) / (1.0 + df)) + 1.0
-        tfidf[g] = tf * idf
+        boost = 1.0
+        if n_words == 2:
+            boost = DEFAULT_DESC_PHRASE_BOOST_BIGRAM
+        elif n_words == 3:
+            boost = DEFAULT_DESC_PHRASE_BOOST_TRIGRAM
+        tfidf[g] = tf * idf * boost
     return tfidf
 
 
@@ -616,6 +684,24 @@ def process_inputs(
                 desc_tfidf = compute_tfidf_per_doc(
                     desc_tokens, docfreq, total_docs, max_ngram, min_df_bigram, min_df_trigram
                 )
+
+                # Ensure local multi-word phrases even if globally rare (keeps fuller phrases)
+                if DEFAULT_ENSURE_PHRASES and DEFAULT_ENSURE_PHRASES_K > 0 and desc_tokens:
+                    local_grams = tokens_to_ngrams(desc_tokens, max_ngram)
+                    candidates = [
+                        (g, tf)
+                        for g, tf in local_grams.items()
+                        if (g.count(" ") + 1) >= 2 and g not in desc_tfidf
+                    ]
+                    if candidates:
+                        candidates.sort(key=lambda x: x[1], reverse=True)
+                        for g, tf in candidates[:DEFAULT_ENSURE_PHRASES_K]:
+                            n_words = g.count(" ") + 1
+                            boost = DEFAULT_DESC_PHRASE_BOOST_BIGRAM if n_words == 2 else (
+                                DEFAULT_DESC_PHRASE_BOOST_TRIGRAM if n_words == 3 else 1.0
+                            )
+                            # fallback score uses TF with a small phrase boost (no IDF)
+                            desc_tfidf[g] = tf * boost
 
                 # Name terms
                 name_terms = sub.name_terms
