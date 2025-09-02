@@ -144,6 +144,83 @@ Notes:
 - Skips already scraped subreddits unless `--overwrite` is provided.
 - Outputs to `output/subreddits/<name>/frontpage.json`; per-run manifest at `output/subreddits/manifest.json`.
 
+## Subreddit posts + comments (next step)
+After front pages are scraped you can deepen collection by visiting individual post permalinks and capturing:
+- Full post metadata + body text
+- A bounded slice of the comment tree (configurable depth & count)
+
+File: `subreddit_posts_scraper.py`
+
+### Why a separate script?
+Separation keeps frontpage collection fast/light and lets you apply stricter filters (score, age, type) before paying the cost of loading full threads and comments.
+
+### Data organization
+```
+output/
+	subreddits/
+		<sub>/
+			frontpage.json             # from frontpage scraper
+			posts/                     # new per-post directory
+				t3_<id>.json             # one file per post w/ comments slice
+			posts_manifest.json        # summary list of post files
+```
+
+Each post JSON baseline fields (prefixed frontpage_* when sourced from frontpage):
+- permalink, subreddit, post_title, text_body, score, comment_count, created_timestamp
+- comments[]: list of { id, parent_id, depth, author, score, award_count, content_type, created_ts, text }
+- comment_count_scraped: number of comment nodes captured (may be < comment_count)
+- scraped_at: ISO timestamp
+- frontpage_*: original frontpage summary attributes for provenance (e.g. frontpage_score, frontpage_flair)
+- media fields: media_images[], media_videos[], primary_image (if available), is_locked, is_stickied, is_archived
+
+### Run (ranked order) example
+Process top 50 ranked subreddits (based on earlier community ranking pages):
+```zsh
+source .venv/bin/activate
+python subreddit_posts_scraper.py --ranked --ranked-limit 50 --min-score 5 --max-posts 8 --max-comments 120 --max-depth 5
+```
+
+### Run (explicit subreddits)
+```zsh
+source .venv/bin/activate
+python subreddit_posts_scraper.py --subs r/python r/machinelearning --min-score 10 --allowed-types text image --max-posts 5
+```
+
+### Key filtering flags
+- `--min-score N` : skip low-engagement posts (uses frontpage score)
+- `--max-age-hours H` : skip older than H hours (uses created timestamp attribute if present)
+- `--allowed-types ...` : restrict to specific post types (e.g. text, image, video, link)
+- `--max-posts` : cap posts per subreddit per run
+- `--max-comments` : cap comment nodes captured (breadth-first by DOM order)
+- `--max-depth` : ignore deeper nested comments
+
+### Comment loading strategy
+The script:
+1. Loads the post page and waits for `<shreddit-post>`.
+2. Performs incremental scrolls to trigger lazy comment loads.
+3. Clicks up to two "More replies" buttons per loop (best-effort).
+4. Stops when reaching limits or stagnation.
+
+### Overwriting
+Use `--overwrite` to re-fetch existing post JSON files (otherwise skipped).
+
+### Batch mode across many subs (concurrent)
+```zsh
+source .venv/bin/activate
+python batch_scrape_subreddit_posts.py --order rank --ranked-limit 100 --concurrency 3 --min-score 5 --max-posts 6 --max-comments 100
+```
+Writes progress manifest: `output/subreddits/posts_batch_manifest.json`.
+
+### Extensibility ideas
+Future add-ons (not yet implemented):
+- Media asset extraction (images/video URLs)
+- Award counts / flair parsing inside comments
+- Thread ranking heuristics (e.g., prioritize posts with high comments/score ratio)
+- Optional recursive expansion of hidden comment branches beyond initial slice
+
+### Caution
+Full-thread scraping is heavier. Keep `max_posts` & `max_comments` conservative to reduce risk of triggering anti-bot measures. Consider longer delays if you scale concurrency.
+
 ## Notes & Tips
 - Respect target site terms and rate limits. The local scraper includes short randomized delays; tune in `LocalScraperConfig`.
 - If a page fails to render, increase timeouts in `LocalScraperConfig` and/or add retries.
