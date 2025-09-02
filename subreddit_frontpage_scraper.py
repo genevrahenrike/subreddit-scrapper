@@ -12,6 +12,7 @@ Also writes HTML snapshots on failure for debugging.
 from __future__ import annotations
 
 import os
+import argparse
 import re
 import time
 import random
@@ -506,4 +507,34 @@ def quick_demo(subs: List[str]):
 
 
 if __name__ == "__main__":
-    quick_demo(["r/funny", "r/AskReddit"])  # simple smoke demo
+    parser = argparse.ArgumentParser(description="Scrape subreddit front pages with Playwright and save JSON outputs.")
+    parser.add_argument("--subs", nargs="*", default=["r/funny", "r/AskReddit"], help="List of subreddit names or URLs (e.g., r/aww r/funny)")
+    parser.add_argument("--min-posts", type=int, default=50, help="Target number of posts to load before stopping")
+    parser.add_argument("--headless", action="store_true", default=True, help="Run browser headless (default)")
+    parser.add_argument("--no-headless", dest="headless", action="store_false", help="Run with visible browser window")
+    parser.add_argument("--proxy", type=str, default=os.getenv("PROXY_SERVER") or None, help="Proxy server, e.g. http://user:pass@host:port")
+    parser.add_argument("--debug-html", action="store_true", help="Save a debug HTML snapshot when too few posts are found")
+    args = parser.parse_args()
+
+    cfg = FPConfig(
+        headless=args.headless,
+        proxy_server=args.proxy,
+        min_posts=args.min_posts,
+        save_debug_html=True if args.debug_html else True,  # keep debug snapshots on by default
+    )
+    scraper = SubredditFrontPageScraper(cfg)
+    scraper._start()
+    try:
+        for target in args.subs:
+            data = scraper.scrape_frontpage(target)
+            scraper.save_frontpage(data["subreddit"], data)
+            posts_n = len(data.get("posts", []))
+            error = data.get("error")
+            out_path = Path("output/subreddits") / data["subreddit"] / "frontpage.json"
+            if error:
+                print(f"[saved] {out_path} — posts={posts_n}, error={error}")
+            else:
+                print(f"[saved] {out_path} — posts={posts_n}")
+            time.sleep(random.uniform(0.6, 1.1))
+    finally:
+        scraper._stop()

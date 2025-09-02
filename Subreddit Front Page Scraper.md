@@ -28,7 +28,17 @@ Optional:
 This scrapes a couple of popular subreddits and writes JSON to `output/subreddits/*/frontpage.json`.
 
 ```bash
-python subreddit_frontpage_scraper.py
+python subreddit_frontpage_scraper.py --subs r/funny r/AskReddit
+```
+
+CLI options:
+```bash
+python subreddit_frontpage_scraper.py \
+  --subs r/aww r/funny \
+  --min-posts 50 \
+  --no-headless \
+  --proxy "http://user:pass@host:port" \
+  --debug-html
 ```
 
 ### Programmatic usage

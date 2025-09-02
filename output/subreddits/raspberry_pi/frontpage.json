@@ -1,0 +1,1008 @@
+{
+  "subreddit": "raspberry_pi",
+  "url": "https://www.reddit.com/r/raspberry_pi",
+  "meta": {
+    "title": "Raspberry Pi - More than just magic mirrors and kodi!"
+  },
+  "posts": [
+    {
+      "title": "Simulator/Emulator for RPI I/O?",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n6cey7/simulatoremulator_for_rpi_io/",
+      "score": 3,
+      "comments": 4,
+      "post_id": "t3_1n6cey7",
+      "post_type": "text",
+      "domain": "self.raspberry_pi",
+      "author": "blounsbury",
+      "author_id": "t2_48c4d",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-09-02T06:44:24.675000+0000",
+      "content_href": "https://www.reddit.com/r/raspberry_pi/comments/1n6cey7/simulatoremulator_for_rpi_io/",
+      "content_preview": "",
+      "flair": [
+        "Community Insights"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "My first Pi Mini Lab!",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n0jc7a/my_first_pi_mini_lab/",
+      "score": 884,
+      "comments": 50,
+      "post_id": "t3_1n0jc7a",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "RetroArchangel",
+      "author_id": "t2_3fob98n0",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-26T11:33:27.894000+0000",
+      "content_href": "https://i.redd.it/68av5ctsnclf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Raspberry pi5 power button came loose",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n5k4yu/raspberry_pi5_power_button_came_loose/",
+      "score": 39,
+      "comments": 5,
+      "post_id": "t3_1n5k4yu",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Separate_Book_9832",
+      "author_id": "t2_t254tvxg",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-09-01T09:27:07.581000+0000",
+      "content_href": "https://i.redd.it/y9z1crxzuimf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Troubleshooting"
+      ],
+      "thumbnail_url": "https://preview.redd.it/raspberry-pi5-power-button-came-loose-v0-y9z1crxzuimf1.jpeg?width=640&crop=smart&auto=webp&s=416b073862b98ee81f1ba8f076f0cd7ed3a2b076"
+    },
+    {
+      "title": "My 26 years old GPU works with my pi 5.",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1mimn12/my_26_years_old_gpu_works_with_my_pi_5/",
+      "score": 3207,
+      "comments": 116,
+      "post_id": "t3_1mimn12",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "emuboy85",
+      "author_id": "t2_p3uqz",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-05T21:55:20.646000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mimn12",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://preview.redd.it/my-26-years-old-gpu-works-with-my-pi-5-v0-x74ppl8vv9hf1.jpg?width=640&crop=smart&auto=webp&s=f3375bfb615f4fbbc7fac81036bdb0bd147532a9"
+    },
+    {
+      "title": "DIY Chess-Playing Robot – just missing a multiplexer, endstops, and a camera!",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n4uka1/diy_chessplaying_robot_just_missing_a_multiplexer/",
+      "score": 52,
+      "comments": 8,
+      "post_id": "t3_1n4uka1",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Abject_Jackfruit_510",
+      "author_id": "t2_iy0ywnuxb",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-31T13:21:05.688000+0000",
+      "content_href": "/user/Abject_Jackfruit_510/comments/1n4uh0e/diy_chessplaying_robot_just_missing_a_multiplexer/",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "PianoPi - Robot Piano Player",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n4ymbs/pianopi_robot_piano_player/",
+      "score": 623,
+      "comments": 96,
+      "post_id": "t3_1n4ymbs",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Weegert",
+      "author_id": "t2_yvxyr",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-31T16:07:14.601000+0000",
+      "content_href": "https://v.redd.it/f7trlxdyodmf1",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Installing miraclecast",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n4no17/installing_miraclecast/",
+      "score": 13,
+      "comments": 4,
+      "post_id": "t3_1n4no17",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Triangleheadboi",
+      "author_id": "t2_kzuw9v3d",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-31T06:34:39.375000+0000",
+      "content_href": "https://i.redd.it/djvv1lgbvamf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Troubleshooting"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Pi-Hole of Raspberry Pi 4 running PADD",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n6bp62/pihole_of_raspberry_pi_4_running_padd/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n6bp62",
+      "post_type": "multi_media",
+      "domain": "self.raspberry_pi",
+      "author": "Odd-Change9844",
+      "author_id": "t2_9792w2x7",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-09-02T05:59:34.345000+0000",
+      "content_href": "https://www.reddit.com/r/raspberry_pi/comments/1n6bp62/pihole_of_raspberry_pi_4_running_padd/",
+      "content_preview": "",
+      "flair": [
+        "Troubleshooting"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_42t07y/styles/profileIcon_wx4mtf7lgldf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b327874f64b8d19e8103b9486b1fb55a3b58cfde"
+    },
+    {
+      "title": "Raspberry Pi decibel monitor + SNMP = instant parental justice",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1moiw8k/raspberry_pi_decibel_monitor_snmp_instant/",
+      "score": 3155,
+      "comments": 167,
+      "post_id": "t3_1moiw8k",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ozh",
+      "author_id": "t2_34ev1",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-12T19:47:21.580000+0000",
+      "content_href": "https://i.redd.it/u2lftx97smif1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://preview.redd.it/raspberry-pi-decibel-monitor-snmp-instant-parental-justice-v0-u2lftx97smif1.jpeg?width=640&crop=smart&auto=webp&s=bb3ed490b99e7ccf049dcefe821428f89b36c472"
+    },
+    {
+      "title": "plug&play system file management",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n4fjdn/plugplay_system_file_management/",
+      "score": 3,
+      "comments": 4,
+      "post_id": "t3_1n4fjdn",
+      "post_type": "text",
+      "domain": "self.raspberry_pi",
+      "author": "goggi_mega",
+      "author_id": "t2_ilqxz8rhn",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-30T23:18:46.204000+0000",
+      "content_href": "https://www.reddit.com/r/raspberry_pi/comments/1n4fjdn/plugplay_system_file_management/",
+      "content_preview": "",
+      "flair": [
+        "Project Advice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "A side project I created as a beginner",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n32s63/a_side_project_i_created_as_a_beginner/",
+      "score": 514,
+      "comments": 20,
+      "post_id": "t3_1n32s63",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "IzumiNaraki",
+      "author_id": "t2_ehfrpozt9",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-29T09:30:59.581000+0000",
+      "content_href": "https://i.redd.it/mm8k9nmtgxlf1.png",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://preview.redd.it/a-side-project-i-created-as-a-beginner-v0-mm8k9nmtgxlf1.png?width=640&crop=smart&auto=webp&s=a2b97f6f41434f607ece43df1061fa223aca0a4d"
+    },
+    {
+      "title": "Hardware failures, two on the same day",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n489c8/hardware_failures_two_on_the_same_day/",
+      "score": 5,
+      "comments": 6,
+      "post_id": "t3_1n489c8",
+      "post_type": "text",
+      "domain": "self.raspberry_pi",
+      "author": "Squeeze_Toy2004",
+      "author_id": "t2_r9lmzh5be",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-30T18:03:58.198000+0000",
+      "content_href": "https://www.reddit.com/r/raspberry_pi/comments/1n489c8/hardware_failures_two_on_the_same_day/",
+      "content_preview": "",
+      "flair": [
+        "Community Insights"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Pi Zero W 2 AV-USB: A simple solution to add USB, Audio and Video ports.",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n0ucgl/pi_zero_w_2_avusb_a_simple_solution_to_add_usb/",
+      "score": 443,
+      "comments": 70,
+      "post_id": "t3_1n0ucgl",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "RETROCUTION",
+      "author_id": "t2_164pcsod",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-26T18:50:09.610000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n0ucgl",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://preview.redd.it/pi-zero-w-2-av-usb-a-simple-solution-to-add-usb-audio-and-v0-3uugdqcztelf1.jpg?width=640&crop=smart&auto=webp&s=cfc18052055bdf7740ef43a018c37f6402b5e8ce"
+    },
+    {
+      "title": "Ability to swipe between two web dashboards",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n41bi5/ability_to_swipe_between_two_web_dashboards/",
+      "score": 9,
+      "comments": 7,
+      "post_id": "t3_1n41bi5",
+      "post_type": "text",
+      "domain": "self.raspberry_pi",
+      "author": "irlrobins",
+      "author_id": "t2_our76brs",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-30T13:13:04.940000+0000",
+      "content_href": "https://www.reddit.com/r/raspberry_pi/comments/1n41bi5/ability_to_swipe_between_two_web_dashboards/",
+      "content_preview": "",
+      "flair": [
+        "Project Advice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Day 1 of building a Pi e-ink bike computer",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1mz3nb4/day_1_of_building_a_pi_eink_bike_computer/",
+      "score": 2442,
+      "comments": 65,
+      "post_id": "t3_1mz3nb4",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "heiwiwnejo",
+      "author_id": "t2_4ix0d3xd",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-24T18:38:18.091000+0000",
+      "content_href": "https://i.redd.it/4frs69i1i0lf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://preview.redd.it/day-1-of-building-a-pi-e-ink-bike-computer-v0-4frs69i1i0lf1.jpeg?width=640&crop=smart&auto=webp&s=1206718265371d1b5eb105df02a90c618b812819"
+    },
+    {
+      "title": "I'm working on a pi zero 2 robot",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1mt99ws/im_working_on_a_pi_zero_2_robot/",
+      "score": 1706,
+      "comments": 48,
+      "post_id": "t3_1mt99ws",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "classical-pianist",
+      "author_id": "t2_hqnzd8jh",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-18T01:59:47.759000+0000",
+      "content_href": "https://v.redd.it/sn1n0tffqojf1",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5n42wb/styles/profileIcon_8bnga3nfy7e91.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=cf0a3ab817242145ab8d212be42d55421b0781f6"
+    },
+    {
+      "title": "I built a Dual Screen Raspberry Pi Handheld",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1mx40b2/i_built_a_dual_screen_raspberry_pi_handheld/",
+      "score": 1598,
+      "comments": 63,
+      "post_id": "t3_1mx40b2",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "True_Shock5764",
+      "author_id": "t2_8lp1vu5z",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-22T11:34:06.962000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mx40b2",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3b19uv/styles/profileIcon_zkqvt9wcxqaf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=94c635c9b0e85fe5ad36b538cf614e2eefd9f120"
+    },
+    {
+      "title": "Camera module v2 or v3 for robotics project?",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n45xpb/camera_module_v2_or_v3_for_robotics_project/",
+      "score": 3,
+      "comments": 5,
+      "post_id": "t3_1n45xpb",
+      "post_type": "text",
+      "domain": "self.raspberry_pi",
+      "author": "ravagedtime",
+      "author_id": "t2_5ge56lh6",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-30T16:28:36.857000+0000",
+      "content_href": "https://www.reddit.com/r/raspberry_pi/comments/1n45xpb/camera_module_v2_or_v3_for_robotics_project/",
+      "content_preview": "",
+      "flair": [
+        "Project Advice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Built a device that intercepts the RPM sensor of my exercise bike and transmits it over the internet. Built a web interface and a Minecraft Bike-Powered Minecart",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1mldt4q/built_a_device_that_intercepts_the_rpm_sensor_of/",
+      "score": 954,
+      "comments": 23,
+      "post_id": "t3_1mldt4q",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "0r1g1n0",
+      "author_id": "t2_7u8276d0",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-09T02:08:52.380000+0000",
+      "content_href": "https://i.redd.it/tlyl0ejmjwhf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "I built a custom handheld gaming ‘console’ with a raspberry pi 5",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n51w5x/i_built_a_custom_handheld_gaming_console_with_a/",
+      "score": 296,
+      "comments": 9,
+      "post_id": "t3_1n51w5x",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "mcass_37",
+      "author_id": "t2_1dvam9kj",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-31T18:17:27.511000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n51w5x",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i-built-a-custom-handheld-gaming-console-with-a-raspberry-v0-xkpoxg6pcemf1.jpg?width=640&crop=smart&auto=webp&s=9184bace40cad4988919e2b39cf2083a3b397ff6"
+    },
+    {
+      "title": "Can I use Kivy for creating good Raspberry Pi apps?",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n44sla/can_i_use_kivy_for_creating_good_raspberry_pi_apps/",
+      "score": 2,
+      "comments": 10,
+      "post_id": "t3_1n44sla",
+      "post_type": "text",
+      "domain": "self.raspberry_pi",
+      "author": "Cool_Boy997",
+      "author_id": "t2_7da56xf1",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-30T15:41:36.172000+0000",
+      "content_href": "https://www.reddit.com/r/raspberry_pi/comments/1n44sla/can_i_use_kivy_for_creating_good_raspberry_pi_apps/",
+      "content_preview": "",
+      "flair": [
+        "Project Advice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Argon one v5 thermal pads replacement",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n6amn8/argon_one_v5_thermal_pads_replacement/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6amn8",
+      "post_type": "text",
+      "domain": "self.raspberry_pi",
+      "author": "darkside10g",
+      "author_id": "t2_6e2in3v8",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-09-02T04:55:07.427000+0000",
+      "content_href": "https://www.reddit.com/r/raspberry_pi/comments/1n6amn8/argon_one_v5_thermal_pads_replacement/",
+      "content_preview": "",
+      "flair": [
+        "Project Advice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Open Source M.2 M-Key to A/E-Key Adapter (Google Coral, etc)",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n2xuzu/open_source_m2_mkey_to_aekey_adapter_google_coral/",
+      "score": 296,
+      "comments": 21,
+      "post_id": "t3_1n2xuzu",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "mehrdadfeller",
+      "author_id": "t2_dc5f7",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-29T04:24:04.660000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n2xuzu",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://preview.redd.it/open-source-m-2-m-key-to-a-e-key-adapter-google-coral-etc-v0-5cj2j3crxvlf1.jpg?width=640&crop=smart&auto=webp&s=e11d526bcf2f65d81f4a3063586fb99989230650"
+    },
+    {
+      "title": "First time building a NAS with PI 5",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n1owo3/first_time_building_a_nas_with_pi_5/",
+      "score": 290,
+      "comments": 35,
+      "post_id": "t3_1n1owo3",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "shahxaibb",
+      "author_id": "t2_3b6sds3g",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-27T18:23:48.993000+0000",
+      "content_href": "https://i.redd.it/gpcyv6p6ullf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://preview.redd.it/first-time-building-a-nas-with-pi-5-v0-gpcyv6p6ullf1.jpeg?width=640&crop=smart&auto=webp&s=7166d4a2215a107e02971802febb0b3fe3011586"
+    },
+    {
+      "title": "2025 Sep 1 Stickied -FAQ- & -HELPDESK- thread - Boot problems? Power supply problems? Display problems? Networking problems? Need ideas? Get help with these and other questions!",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n629hz/2025_sep_1_stickied_faq_helpdesk_thread_boot/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1n629hz",
+      "post_type": "multi_media",
+      "domain": "self.raspberry_pi",
+      "author": "FozzTexx",
+      "author_id": "t2_3fzay",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-09-01T22:07:24.999000+0000",
+      "content_href": "https://www.reddit.com/r/raspberry_pi/comments/1n629hz/2025_sep_1_stickied_faq_helpdesk_thread_boot/",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_21e2dj/styles/profileIcon_by0tr0wdq70f1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=916804362c28b4952e7f8a942c0356e581c69183"
+    },
+    {
+      "title": "Most reliable and fast microSD?",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n042b6/most_reliable_and_fast_microsd/",
+      "score": 10,
+      "comments": 18,
+      "post_id": "t3_1n042b6",
+      "post_type": "text",
+      "domain": "self.raspberry_pi",
+      "author": "Steroid_Cyborg",
+      "author_id": "t2_xu4j29k5t",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-25T21:59:38.049000+0000",
+      "content_href": "https://www.reddit.com/r/raspberry_pi/comments/1n042b6/most_reliable_and_fast_microsd/",
+      "content_preview": "",
+      "flair": [
+        "Project Advice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Found in the wild, robot toilet",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1mfsb0l/found_in_the_wild_robot_toilet/",
+      "score": 582,
+      "comments": 41,
+      "post_id": "t3_1mfsb0l",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Strange-Ask-739",
+      "author_id": "t2_vva0ku79o",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-02T14:46:11.326000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mfsb0l",
+      "content_preview": "",
+      "flair": [
+        "A Wild Pi Appears"
+      ],
+      "thumbnail_url": "https://preview.redd.it/found-in-the-wild-robot-toilet-v0-e2irhdskcmgf1.jpg?width=640&crop=smart&auto=webp&s=d87cf8e66328ddb9a355d40c7972b28cd45721ec"
+    },
+    {
+      "title": "Can't rotate display using OS Lite (Bookworm) Kiosk mode.",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n5s5mz/cant_rotate_display_using_os_lite_bookworm_kiosk/",
+      "score": 5,
+      "comments": 3,
+      "post_id": "t3_1n5s5mz",
+      "post_type": "text",
+      "domain": "self.raspberry_pi",
+      "author": "jaytango",
+      "author_id": "t2_bdqog",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-09-01T15:43:52.504000+0000",
+      "content_href": "https://www.reddit.com/r/raspberry_pi/comments/1n5s5mz/cant_rotate_display_using_os_lite_bookworm_kiosk/",
+      "content_preview": "",
+      "flair": [
+        "Troubleshooting"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "My Raspberry Pi Pico cant seem to be connected to my SPI OLED Display",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1mzu488/my_raspberry_pi_pico_cant_seem_to_be_connected_to/",
+      "score": 14,
+      "comments": 3,
+      "post_id": "t3_1mzu488",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Possible-Pension708",
+      "author_id": "t2_gko2fkhf1",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-25T15:47:11.375000+0000",
+      "content_href": "https://i.redd.it/wno4wd5fs6lf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Troubleshooting"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "trouble getting CEC on raspi 4 to work (using libreELEC)",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n5bhhf/trouble_getting_cec_on_raspi_4_to_work_using/",
+      "score": 3,
+      "comments": 2,
+      "post_id": "t3_1n5bhhf",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "temmiesayshoi",
+      "author_id": "t2_1yrggo5n",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-09-01T01:13:56.122000+0000",
+      "content_href": "/r/libreELEC/comments/1mtb3ve/trouble_getting_cec_on_raspi_4_to_work/",
+      "content_preview": "",
+      "flair": [
+        "Troubleshooting"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I built my dream Raspberry Pi setup!",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1mgy5le/i_built_my_dream_raspberry_pi_setup/",
+      "score": 574,
+      "comments": 78,
+      "post_id": "t3_1mgy5le",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "the_trident_guy",
+      "author_id": "t2_1uvnni2s4a",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-03T23:40:11.587000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mgy5le",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Low-power ARM cluster raspiberry pi with silicone-fluid immersion cooling",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1mokxty/lowpower_arm_cluster_raspiberry_pi_with/",
+      "score": 563,
+      "comments": 72,
+      "post_id": "t3_1mokxty",
+      "post_type": "gif",
+      "domain": "v.redd.it",
+      "author": "code-2244",
+      "author_id": "t2_8gxe0a62",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-12T21:03:39.207000+0000",
+      "content_href": "https://v.redd.it/m8b6l92oknif1",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/low-power-arm-cluster-raspiberry-pi-with-silicone-fluid-v0-Yng4dTE2M29rbmlmMc0xqtK4BYn6cQBAVEMCPrTnSG7RWZyi3ULlfLOZyQGy.png?format=pjpg&auto=webp&s=e58935cbef32e0e764ea533573ddc3f1543297de"
+    },
+    {
+      "title": "The jankiest NAS you've ever seen? But I love it",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n2kv9e/the_jankiest_nas_youve_ever_seen_but_i_love_it/",
+      "score": 228,
+      "comments": 18,
+      "post_id": "t3_1n2kv9e",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "IIb-dII",
+      "author_id": "t2_1996co4u",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-28T18:54:13.708000+0000",
+      "content_href": "https://i.redd.it/qwu301s44tlf1.png",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Used a Raspberry Pi 5 as a Steam Link for my vintage TV!",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n4fywj/used_a_raspberry_pi_5_as_a_steam_link_for_my/",
+      "score": 178,
+      "comments": 7,
+      "post_id": "t3_1n4fywj",
+      "post_type": "crosspost",
+      "domain": "v.redd.it",
+      "author": "GreedyPaint",
+      "author_id": "t2_3sfavhq8",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-30T23:39:31.091000+0000",
+      "content_href": "/r/duneawakening/comments/1n4fa3i/got_dune_awakening_running_on_a_vintage_crt_tv/",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2msnp5/styles/profileIcon_tnmamb9upzx41.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3991ac5970ce7deb27e1a96e0513613950a87e7b"
+    },
+    {
+      "title": "My DIY Robotic Arm Base – 15lbs of Steel, Pi 5, Arduino, and Custom Power Distribution",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1mylmvj/my_diy_robotic_arm_base_15lbs_of_steel_pi_5/",
+      "score": 20,
+      "comments": 0,
+      "post_id": "t3_1mylmvj",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Abject_Jackfruit_510",
+      "author_id": "t2_iy0ywnuxb",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-24T03:55:20.183000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mylmvj",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "had an idea for a slideshow pi. looking for program suggestions mostly and a build log for ideas would be cool.",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1myhnwg/had_an_idea_for_a_slideshow_pi_looking_for/",
+      "score": 6,
+      "comments": 3,
+      "post_id": "t3_1myhnwg",
+      "post_type": "text",
+      "domain": "self.raspberry_pi",
+      "author": "msanangelo",
+      "author_id": "t2_ipg2y",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-24T00:28:47.527000+0000",
+      "content_href": "https://www.reddit.com/r/raspberry_pi/comments/1myhnwg/had_an_idea_for_a_slideshow_pi_looking_for/",
+      "content_preview": "",
+      "flair": [
+        "Project Advice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I'm running a ridiculous 1000-pixel wooden display with a Raspberry Pi",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1moku9q/im_running_a_ridiculous_1000pixel_wooden_display/",
+      "score": 555,
+      "comments": 25,
+      "post_id": "t3_1moku9q",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ticcev",
+      "author_id": "t2_95v83",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-12T20:59:59.986000+0000",
+      "content_href": "https://i.redd.it/qxt396mvjnif1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "DIY NAS with Radxa Penta SATA HAT & Raspberry Pi 5 (Open Source)",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1mjdeoe/diy_nas_with_radxa_penta_sata_hat_raspberry_pi_5/",
+      "score": 532,
+      "comments": 27,
+      "post_id": "t3_1mjdeoe",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "mehrdadfeller",
+      "author_id": "t2_dc5f7",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-06T19:00:05.467000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mjdeoe",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://preview.redd.it/diy-nas-with-radxa-penta-sata-hat-raspberry-pi-5-open-source-v0-edmxakwz4ghf1.png?width=640&crop=smart&auto=webp&s=a3af83da48e08e4e557d8206477bb7249e5c79f5"
+    },
+    {
+      "title": "“Google it” or snark isn’t helpful. Don’t argue. Don’t downvote. Just report.",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1mk3u06/google_it_or_snark_isnt_helpful_dont_argue_dont/",
+      "score": 503,
+      "comments": 81,
+      "post_id": "t3_1mk3u06",
+      "post_type": "multi_media",
+      "domain": "self.raspberry_pi",
+      "author": "FozzTexx",
+      "author_id": "t2_3fzay",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-07T15:54:43.219000+0000",
+      "content_href": "https://www.reddit.com/r/raspberry_pi/comments/1mk3u06/google_it_or_snark_isnt_helpful_dont_argue_dont/",
+      "content_preview": "",
+      "flair": [
+        "Community"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_21e2dj/styles/profileIcon_by0tr0wdq70f1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=916804362c28b4952e7f8a942c0356e581c69183"
+    },
+    {
+      "title": "Running without user pi but using something other than root",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1mye6q6/running_without_user_pi_but_using_something_other/",
+      "score": 4,
+      "comments": 4,
+      "post_id": "t3_1mye6q6",
+      "post_type": "text",
+      "domain": "self.raspberry_pi",
+      "author": "Gamerfrom61",
+      "author_id": "t2_198zuzldu4",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-23T21:53:36.275000+0000",
+      "content_href": "https://www.reddit.com/r/raspberry_pi/comments/1mye6q6/running_without_user_pi_but_using_something_other/",
+      "content_preview": "",
+      "flair": [
+        "Community Insights"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "pulseaudio + libpulse0 not updating despite updating",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1myd8pw/pulseaudio_libpulse0_not_updating_despite_updating/",
+      "score": 3,
+      "comments": 8,
+      "post_id": "t3_1myd8pw",
+      "post_type": "text",
+      "domain": "self.raspberry_pi",
+      "author": "Blayer98",
+      "author_id": "t2_x808s",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-23T21:14:07.914000+0000",
+      "content_href": "https://www.reddit.com/r/raspberry_pi/comments/1myd8pw/pulseaudio_libpulse0_not_updating_despite_updating/",
+      "content_preview": "",
+      "flair": [
+        "Troubleshooting"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "USB-C PD Negotiator - Rp2040 (Open-Source)",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1mlvpxd/usbc_pd_negotiator_rp2040_opensource/",
+      "score": 412,
+      "comments": 33,
+      "post_id": "t3_1mlvpxd",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "CentyVin",
+      "author_id": "t2_bumitzl4",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-09T17:54:20.797000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mlvpxd",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://preview.redd.it/usb-c-pd-negotiator-rp2040-open-source-v0-e0wwozyx11if1.jpg?width=640&crop=smart&auto=webp&s=7876af1ec82b91b0dfb1d9a6cbe8e73249a4e171"
+    },
+    {
+      "title": "OS alternatives, What's your experience?",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n54vg9/os_alternatives_whats_your_experience/",
+      "score": 2,
+      "comments": 24,
+      "post_id": "t3_1n54vg9",
+      "post_type": "text",
+      "domain": "self.raspberry_pi",
+      "author": "sir__hennihau",
+      "author_id": "t2_110kdmb875",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-31T20:16:20.942000+0000",
+      "content_href": "https://www.reddit.com/r/raspberry_pi/comments/1n54vg9/os_alternatives_whats_your_experience/",
+      "content_preview": "",
+      "flair": [
+        "Topic Debate"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bl8k4j/styles/profileIcon_e7200za2pykf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b113654f9ea48e916a69bdfc5edd68f40ef87272"
+    },
+    {
+      "title": "Incorrect / not working Samba password when scripted",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1my8wfb/incorrect_not_working_samba_password_when_scripted/",
+      "score": 3,
+      "comments": 3,
+      "post_id": "t3_1my8wfb",
+      "post_type": "text",
+      "domain": "self.raspberry_pi",
+      "author": "Gamerfrom61",
+      "author_id": "t2_198zuzldu4",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-23T18:21:04.506000+0000",
+      "content_href": "https://www.reddit.com/r/raspberry_pi/comments/1my8wfb/incorrect_not_working_samba_password_when_scripted/",
+      "content_preview": "",
+      "flair": [
+        "Troubleshooting"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "RPI Zero W 2’s that control each others RGB lights through LoRa",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1n3oa2q/rpi_zero_w_2s_that_control_each_others_rgb_lights/",
+      "score": 129,
+      "comments": 10,
+      "post_id": "t3_1n3oa2q",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Ban_of_the_Valar",
+      "author_id": "t2_74p1jglc",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-30T00:48:09.095000+0000",
+      "content_href": "https://v.redd.it/k1dy65kk02mf1",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/rpi-zero-w-2s-that-control-each-others-rgb-lights-through-v0-YnBpcnZjN2swMm1mMafiBX2W5vL57y6U3LhsZ-CQc1mfdHCqfXRYJyx0I8jR.png?width=640&crop=smart&format=pjpg&auto=webp&s=2ca987904941179ec6ad2c6a37844591a8d8b939"
+    },
+    {
+      "title": "Correct way to upgrade OS",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1my25nz/correct_way_to_upgrade_os/",
+      "score": 4,
+      "comments": 13,
+      "post_id": "t3_1my25nz",
+      "post_type": "text",
+      "domain": "self.raspberry_pi",
+      "author": "sorhead",
+      "author_id": "t2_4nna2",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-23T13:57:25.048000+0000",
+      "content_href": "https://www.reddit.com/r/raspberry_pi/comments/1my25nz/correct_way_to_upgrade_os/",
+      "content_preview": "",
+      "flair": [
+        "Project Advice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Argo: A tiny CM5 Carrier PCB",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1mw4pvn/argo_a_tiny_cm5_carrier_pcb/",
+      "score": 403,
+      "comments": 43,
+      "post_id": "t3_1mw4pvn",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "AmountOk3836",
+      "author_id": "t2_85uip7jy",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-21T07:55:28.573000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mw4pvn",
+      "content_preview": "",
+      "flair": [
+        "Show-and-Tell"
+      ],
+      "thumbnail_url": "https://preview.redd.it/argo-a-tiny-cm5-carrier-pcb-v0-4rdfcns6vbkf1.jpg?width=640&crop=smart&auto=webp&s=50cbefcd0c31062035a407e261519fd22c9b850e"
+    },
+    {
+      "title": "NVME hats don't work with large SSD(4TB)",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1mxywbn/nvme_hats_dont_work_with_large_ssd4tb/",
+      "score": 4,
+      "comments": 6,
+      "post_id": "t3_1mxywbn",
+      "post_type": "multi_media",
+      "domain": "self.raspberry_pi",
+      "author": "aj3423",
+      "author_id": "t2_kvwp211r",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-23T11:24:26.607000+0000",
+      "content_href": "https://www.reddit.com/r/raspberry_pi/comments/1mxywbn/nvme_hats_dont_work_with_large_ssd4tb/",
+      "content_preview": "",
+      "flair": [
+        "Troubleshooting"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Upgraded micro SD card in every way, but Raspberry Pi 5 is very noticeably slower.",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1mjdbyr/upgraded_micro_sd_card_in_every_way_but_raspberry/",
+      "score": 396,
+      "comments": 105,
+      "post_id": "t3_1mjdbyr",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Treholt",
+      "author_id": "t2_jcj03",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-06T18:57:09.694000+0000",
+      "content_href": "https://i.redd.it/fc2ombw34ghf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "In the FAQ"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_cw5bs/styles/profileIcon_l4tc8omur8j81.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f0145ad7eca123b3778ecf055a21dfd16f4c23c7"
+    },
+    {
+      "title": "Setting a 4:3 aspect ratio on a 16:9 LCD",
+      "permalink": "https://www.reddit.com/r/raspberry_pi/comments/1myfkc4/setting_a_43_aspect_ratio_on_a_169_lcd/",
+      "score": 0,
+      "comments": 10,
+      "post_id": "t3_1myfkc4",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "CheezyJesus",
+      "author_id": "t2_ul0v5trg",
+      "subreddit_id": "t5_2syto",
+      "subreddit": "r/raspberry_pi",
+      "created_ts": "2025-08-23T22:52:01.845000+0000",
+      "content_href": "https://i.redd.it/wr3n20aemukf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Troubleshooting"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    }
+  ],
+  "scraped_at": "2025-09-02T03:04:25.884196"
+}

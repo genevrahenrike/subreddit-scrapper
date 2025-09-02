@@ -1,0 +1,1010 @@
+{
+  "subreddit": "linux",
+  "url": "https://www.reddit.com/r/linux",
+  "meta": {
+    "title": "Linux, GNU/Linux, free software..."
+  },
+  "posts": [
+    {
+      "title": "Nividia driver for an old card",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n6djdz/nividia_driver_for_an_old_card/",
+      "score": 1,
+      "comments": 15,
+      "post_id": "t3_1n6djdz",
+      "post_type": "text",
+      "domain": "self.linux",
+      "author": "Neither_Start4958",
+      "author_id": "t2_47mrxw0nw",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-09-02T07:58:37.457000+0000",
+      "content_href": "https://www.reddit.com/r/linux/comments/1n6djdz/nividia_driver_for_an_old_card/",
+      "content_preview": "I have an old NVIDIA GeForce GT 430 card and it works on my desktop with the Nouveau driver. However, this driver is very limited. I am using Linux Mint 22 and I can't install the 390 driver of Nividia (Fermi-based GPUs) which will have hardware acceleration for my card. I have tried many ways but it didn't work for me. This driver is working on Mint 21 but I don't want to downgrade my kernel. Is there anyone who succeed to install it on Linux kernel 6.8? If so, how can can I do it? Thanks a lot for your help!",
+      "flair": [
+        "Hardware"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Corporations are the new police! - Google wants to verify the identity of all developers who distribute apps on Android, even if it’s outside the Play Store",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n0isi8/corporations_are_the_new_police_google_wants_to/",
+      "score": 4453,
+      "comments": 580,
+      "post_id": "t3_1n0isi8",
+      "post_type": "link",
+      "domain": "androidauthority.com",
+      "author": "B3_Kind_R3wind_",
+      "author_id": "t2_65v7y5x01",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-26T11:04:45.096000+0000",
+      "content_href": "https://www.androidauthority.com/android-developer-verification-requirements-3590911/",
+      "content_preview": "",
+      "flair": [
+        "Privacy"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "I just missclicked w in terminal and… discovered new command?",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n61n1r/i_just_missclicked_w_in_terminal_and_discovered/",
+      "score": 158,
+      "comments": 55,
+      "post_id": "t3_1n61n1r",
+      "post_type": "text",
+      "domain": "self.linux",
+      "author": "Mister_Magister",
+      "author_id": "t2_lw7a2by",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-09-01T21:41:21.207000+0000",
+      "content_href": "https://www.reddit.com/r/linux/comments/1n61n1r/i_just_missclicked_w_in_terminal_and_discovered/",
+      "content_preview": "w  displays  information about the users currently on the machine, and their processes.  The header shows, in this order, the current time, how long the system has been running, how many users are currently logged on, and the system load averages for the past 1,  \n5, and 15 minutes. Interesting!",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Happy 34th birthday Linux!",
+      "permalink": "https://www.reddit.com/r/linux/comments/1mz4gb4/happy_34th_birthday_linux/",
+      "score": 5525,
+      "comments": 144,
+      "post_id": "t3_1mz4gb4",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "darwinbsd",
+      "author_id": "t2_1gf3e53qaf",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-24T19:08:38.025000+0000",
+      "content_href": "https://i.redd.it/nvim9o0qm0lf1.png",
+      "content_preview": "",
+      "flair": [
+        "Kernel"
+      ],
+      "thumbnail_url": "https://preview.redd.it/happy-34th-birthday-linux-v0-nvim9o0qm0lf1.png?width=640&crop=smart&auto=webp&s=0e48885ffa6605a0730beb466da48afe2b5e827c"
+    },
+    {
+      "title": "Windows strikes (out) again",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n5yffn/windows_strikes_out_again/",
+      "score": 95,
+      "comments": 36,
+      "post_id": "t3_1n5yffn",
+      "post_type": "text",
+      "domain": "self.linux",
+      "author": "Phydoux",
+      "author_id": "t2_1jc3gj3",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-09-01T19:35:19.315000+0000",
+      "content_href": "https://www.reddit.com/r/linux/comments/1n5yffn/windows_strikes_out_again/",
+      "content_preview": "My daughter just installed Linux Mint on her PC because of this whole windows 11 debacle. It gave her that error code and she couldn't use her computer for work with Windows 11. Great job Microsoft... Proud daddy right here!.",
+      "flair": [
+        "Fluff"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Happy birthday Linux!",
+      "permalink": "https://www.reddit.com/r/linux/comments/1mztuuq/happy_birthday_linux/",
+      "score": 4317,
+      "comments": 101,
+      "post_id": "t3_1mztuuq",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Unique-Armadillo6957",
+      "author_id": "t2_9c59pgxs",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-25T15:37:37.251000+0000",
+      "content_href": "https://i.redd.it/q2bqysppq6lf1.png",
+      "content_preview": "",
+      "flair": [
+        "Event"
+      ],
+      "thumbnail_url": "https://preview.redd.it/happy-birthday-linux-v0-q2bqysppq6lf1.png?width=640&crop=smart&auto=webp&s=ab5484cc041fafbc5fe89a4f6bfa909563824dc2"
+    },
+    {
+      "title": "Orbitiny 1.0 Pilot 5 Released - A Major & Significant New Update",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n60ish/orbitiny_10_pilot_5_released_a_major_significant/",
+      "score": 19,
+      "comments": 8,
+      "post_id": "t3_1n60ish",
+      "post_type": "multi_media",
+      "domain": "self.linux",
+      "author": "sash-au",
+      "author_id": "t2_17ku0uw3kx",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-09-01T20:56:57.320000+0000",
+      "content_href": "https://www.reddit.com/r/linux/comments/1n60ish/orbitiny_10_pilot_5_released_a_major_significant/",
+      "content_preview": "Orbitiny Desktop Environment Pilot 5 Test Release is a significant and major new update with many severe bug fixes and many new features. https://preview.redd.it/orbitiny-1-0-pilot-5-released-a-major-significant-new-update-v0-687am8gs7mmf1.png Changes in Orbitiny 1.0 Pilot 5: BugFix : Fixed rubber band selections not working under some circumferences. BugFix : Fixed issues with dashboard sometimes hanging when requesting to close it BugFix : Fixed panels displaying incorrectly on non-1080p screens BugFix : Fixed Orbitiny not starting properly in dedicated mode BugFix : Fixed wallpaper not stretching when Orbitiny portable folder/dir is run on a computer with a resolution screen higher than the one it was run on. BugFix : Fixed panel not resizing properly when display resolution is changed BugFix : Fixed desktop window not resizing properly when display resolution is changed BugFix : Fixed some graphical theming glitches in panel vertical mode BugFix : Now the panel can be re-positioned to the edges of the screen reliably by holding the panel handles or the edge button while moving the mouse pointer New : Added initial/preliminary/experimental MTP support - now you can MTP your device and manage files New : Brand new File Copy/Delete dialog with big speed imprisonments and two new additional buttons: \"Errors\" and \"Reports\". Clicking the \"Errors\" button will produce an error report about errors that may have occurred during the file-copy operation (or delete, move, symlink etc) and the \"Reports\" button produces a report of all the files that get copied (source to destination) and also shows the speed rate each file got copied at. Really handy for benchmarking. The actual reports are ASCII files and are saved in /tmp so they are gone after a PC reboot. The file-copy dialog gets automatically closed when the operation is complete unless errors have occurred OR the cursor is hovering the dialog when the file op is complete. This is by design and it is to give you a chance to click the \"Reports\" button in case you want to analyze what's been done. I was thinking of adding a \"Close dialog when finished\" check box but I will do that in the next release. New : Added a search box in the mount points menu which is accessed via clicking a button in the toolbar. New : User home directories (any user) now have dedicated icons. This is similar to the dedicated icons feature I added for mount points. So let's say you are userA using PC1 and you are using Qutiny as a file manager and you navigate to /home. Each of the users' home dir will have a dedicated icon so you won't have the standard directory icons used by your icon theme. This works regardless of what the location, it doesn't have to be /home. It is not hard coded to \"/home\". New : keyboard shortcuts for scroll to top and scroll to bottoom in Qutiny file manager. CTRL+DOWN arrow to scroll to bottom and CTRL+UP arrow to scroll to top. New : \"Generate File List\" to the context menu in Qutiny. When clicked, it produces a list of files recursively in a log files and opens it up for viewing. New : Now when pressing Alt+Enter key will bring the file properties dialog like other file managers do. And just a note to anyone that does not know. The three panes in the Orbitiny's menu can be resized or hidden. There is a transparent splitter bar between the panes and that last pane on the right can be completely hidden. Just drag the splitter bar all the way to the right and when it stops moving, still, continue to drag and it will snap/close completely. To re-show it, just drag from the right edge to the left and it will reappear. Orbitiny Desktop Environment is a new, innovative and traditional Qt based desktop environment for Linux. My target audience is anyone who wants a familiar and traditional desktop but at the same time a desktop that offers innovative and additional features not offered by any other desktop and this release brings you yet another innovative feature (this time with the file manager) not seen on any other desktop before. Again, I can't stress enough, please continue to report bugs . I will not and I do not ignore your reports. If you don't report the bug, it will never be fixed because I won't be aware of it. Code : https://gitea.com/sasko.usinov/orbitiny-desktop Download : https://sourceforge.net/projects/orbitiny-desktop/ At the moment, Orbitiny Desktop binary releases are hosted on SourceForge.net and at the time of writing this, several big and popular Linux projects are hosted on SourceForge.net . Again I want to point out that Orbitiny isn't going anywhere and is here to stay and I am developing it because I do not like what's currently on offer and although my primary focus is X11, I do not dismiss Wayland support in the future. It is just not my priority right now.",
+      "flair": [
+        "Desktop Environment / WM News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Linux command line AI",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n6dj91/linux_command_line_ai/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1n6dj91",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Glittering-Koala-750",
+      "author_id": "t2_6vq0lpzcd",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-09-02T07:58:21.766000+0000",
+      "content_href": "/r/AIcliCoding/comments/1n6diw9/linux_command_line_ai/",
+      "content_preview": "",
+      "flair": [
+        "Tips and Tricks"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Interesting slide from microsoft",
+      "permalink": "https://www.reddit.com/r/linux/comments/1mi110h/interesting_slide_from_microsoft/",
+      "score": 4822,
+      "comments": 629,
+      "post_id": "t3_1mi110h",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Moltenlava5",
+      "author_id": "t2_47vjoa1i",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-05T05:45:12.030000+0000",
+      "content_href": "https://i.redd.it/xg138ccs25hf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Fluff"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_256ojh/styles/profileIcon_w14i8h9vroi41.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=dff436fa2d8efcb364dd73aa492e78c97507eaac"
+    },
+    {
+      "title": "Switching From i915 To Xe Linux Drivers Can Yield Some Big Gains For Intel Arc A-Series",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n62oyp/switching_from_i915_to_xe_linux_drivers_can_yield/",
+      "score": 13,
+      "comments": 1,
+      "post_id": "t3_1n62oyp",
+      "post_type": "link",
+      "domain": "phoronix.com",
+      "author": "reps_up",
+      "author_id": "t2_2op3d34c",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-09-01T22:25:48.475000+0000",
+      "content_href": "https://www.phoronix.com/review/intel-i915-xe-linux-2025",
+      "content_preview": "",
+      "flair": [
+        "Hardware"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Arch Linux running natively on my phone",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n3jnzv/arch_linux_running_natively_on_my_phone/",
+      "score": 3780,
+      "comments": 166,
+      "post_id": "t3_1n3jnzv",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "anh0l",
+      "author_id": "t2_10j2s5o097",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-29T21:22:52.551000+0000",
+      "content_href": "https://i.redd.it/rlreifpyz0mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bjfwyq/styles/profileIcon_26fdplpb332e1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=df26ef91867f006ac137bf11c5194200ee33c129"
+    },
+    {
+      "title": "2026 - Year of the Linux Phone?",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n5f3l6/2026_year_of_the_linux_phone/",
+      "score": 293,
+      "comments": 212,
+      "post_id": "t3_1n5f3l6",
+      "post_type": "text",
+      "domain": "self.linux",
+      "author": "lokiwhite",
+      "author_id": "t2_mj53u",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-09-01T04:20:35.216000+0000",
+      "content_href": "https://www.reddit.com/r/linux/comments/1n5f3l6/2026_year_of_the_linux_phone/",
+      "content_preview": "Okay, the title is tinged with a little sarcasm, but the sentiment is honest. I made a comment on a Linux mobile post about a month ago saying that we were one egregious, unpalatable announcement away from seeing real progress in mobile Linux. With Android’s recent announcement about killing side-loading, is this the opportunity Linux devs need to justify dedicating more resources to mobile Linux? I have only been using linux for a bit over a year and I am interested to hear from the old-heads on this one. Linux is starting to (modestly) surge in popularity on the desktop/laptop side of things which I know has been years if not decades in the making. With the current Linux landscape, is there any reason to expect Linux mobile to get increased attention, and if so when would be reasonable to expect mature software that could see wide uptake? From what I have found, it isn’t there yet but I do not have the knowledge to understand how far away this future may be.",
+      "flair": [
+        "Mobile Linux"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Over 10 years of using Linux, and I think I'm done",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n36qin/over_10_years_of_using_linux_and_i_think_im_done/",
+      "score": 2115,
+      "comments": 1231,
+      "post_id": "t3_1n36qin",
+      "post_type": "text",
+      "domain": "self.linux",
+      "author": "Leniwcowaty",
+      "author_id": "t2_1a0ujqm3a9",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-29T12:57:49.832000+0000",
+      "content_href": "https://www.reddit.com/r/linux/comments/1n36qin/over_10_years_of_using_linux_and_i_think_im_done/",
+      "content_preview": "Not in the way of \"I'm done with Linux\", oh no no. It's just... I think in the life of every Linux person (or maybe it appeals to other hobbies/passions) there comes a time, when you're just simply DONE. Done reinstalling the system every couple of weeks. Done finding the best, newest trend there is. Done spending hours and hours troubleshooting and fixing issues with your extremely customized setup. Done scouring the forums and Reddit looking for answers on why this absolute newest, bleeding edge RC kernel is causing you problems. Just DONE. I've been distrohopping since I can remember. I had a brief year of using Arch (but not really, I was hopping between all Arch-based distros), then about a year or two using Fedora, but still trying out everything new that was coming out. I was in awe with all the new and shiny. But now I'm in my 30s. I don't have time, nor headspace to wonder if my system will boot today, if the update won't break anything, if this new kernel won't cause me some weird, unexplainable issues. My OS has to boot and get out of my way. It's my terminal to the work, not my work. So here I am. Writing this on Waterfox (basically Firefox ESR) from Linux Mint 22.1 with LTS kernel, installed on absolutely ridiculously powerful gaming machine. Do I care if I don't get new bells and whistles that come with newer kernels, newer DE versions, newer Firefox releases? No. I absolutely do not. I value the fact, that in about a year of having this Mint installation, I have NEVER had to reinstall it or fix anything. It just works. I feel no incentive to change anything here. I even use the default theming. So, what's your story? Am I the only one, who came up to this mindset? Or maybe there are more of us? I leave the comments to you. EDIT: I see there's a confusion. \"Why would you have to reinstall every couple of weeks?! Just learn to use Linux!\" Guys... I'm working as sysadmin for 8 years, I know how to use Linux :P I didn't HAVE TO or NEED to reinstall my system. I just WANTED TO. To try new distro, new DE, new function, change something in my life. It was purely for fun and games. But I don't have time, nor headspace for this anymore, so I don't do this. This is what all this post is about.",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What do you think about Ikey's another distro which is AerynOS?",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n5jvl6/what_do_you_think_about_ikeys_another_distro/",
+      "score": 95,
+      "comments": 84,
+      "post_id": "t3_1n5jvl6",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "BlokZNCR",
+      "author_id": "t2_8whkqkst",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-09-01T09:10:39.364000+0000",
+      "content_href": "https://i.redd.it/ki1lgt0zrimf1.png",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/what-do-you-think-about-ikeys-another-distro-which-is-v0-ki1lgt0zrimf1.png?width=640&crop=smart&auto=webp&s=acc45b96e3201205986868df6227253fd4e2b030"
+    },
+    {
+      "title": "What was your first Linux distro and have you ever switched?",
+      "permalink": "https://www.reddit.com/r/linux/comments/1mokjbq/what_was_your_first_linux_distro_and_have_you/",
+      "score": 4378,
+      "comments": 2072,
+      "post_id": "t3_1mokjbq",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "inguinha",
+      "author_id": "t2_f4wqn",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-12T20:48:29.626000+0000",
+      "content_href": "https://i.redd.it/hp3u1x43emif1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/what-was-your-first-linux-distro-and-have-you-ever-switched-v0-hp3u1x43emif1.jpeg?width=640&crop=smart&auto=webp&s=761dc41abaee0ac5daaf2634797243351b00ff4c"
+    },
+    {
+      "title": "scroll wayland compositor stable release 1.11.5",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n5syce/scroll_wayland_compositor_stable_release_1115/",
+      "score": 19,
+      "comments": 1,
+      "post_id": "t3_1n5syce",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "dawsers",
+      "author_id": "t2_aw179lsfe",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-09-01T16:13:13.812000+0000",
+      "content_href": "https://github.com/dawsers/scroll",
+      "content_preview": "",
+      "flair": [
+        "Software Release"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "I've been daily driving and developing mobile linux for the past decade. AMA",
+      "permalink": "https://www.reddit.com/r/linux/comments/1mzla4h/ive_been_daily_driving_and_developing_mobile/",
+      "score": 1274,
+      "comments": 169,
+      "post_id": "t3_1mzla4h",
+      "post_type": "multi_media",
+      "domain": "self.linux",
+      "author": "Mister_Magister",
+      "author_id": "t2_lw7a2by",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-25T08:53:52.915000+0000",
+      "content_href": "https://www.reddit.com/r/linux/comments/1mzla4h/ive_been_daily_driving_and_developing_mobile/",
+      "content_preview": "My story with mobile linux started a decade ago when i was roughly 18, and I was getting into linux and mentioned to my friend that \"I wish I had linux on a phone\", and they mentioned SailfishOS. Back then I didn't even know english, had no money, and the only SFOS (sailfishos shortened) available was released year ago Jolla Phone. So how do I get my hand on SFOS? Well the only option was to port it to my phone. Action of porting is adjusting OS to a device so that every feature works, unlike desktop, where thanks to ACPI and drivers and generalized hardware stuff generally just works. Phones are not really generalized hardware and each has its quirks so it needs a wee bit of work. So I've acquired, then vastly uninteresting Motorola Moto G2, back when Motorola was under Google. And with my trash english in hand and my motorola in other I went to #sailfishos-porters on freenode IRC. Now up till this point I've had quite an experience flashing custom ROMs on my old htc explorer. So I went to IRC and started porting sfos with help of very nice and very helpful people there. Now fast forward cause I don't want this to be too long, I've ported g2, then went to port nexus 7, moto x2, moto x force, huawei p8 lite, moto z, moto x, moto x play, moto x pro, moto g2 LTE, moto g3, fxtec pro1 asus zenfone 5z, 8, and recently oneplus 6 and xiaomi pad 6. Yeah, I've been busy. Beside doing more ports than Jolla (SailfishOS owner) at the time, I've been studying software engineering and decided to make an app, then another, and another. Currently I've developed 10 apps, and as of today I'm supporting 6 devices, including Motorola moto G2 from a decade ago. Yes its still alive. Yes I'm still using it daily. Some of my apps worth noting are youtube client and telegram client. Youtube client people praise to be better than android/ios ones. People when talking about mobile linux just tend to flat out ignore the biggest alternative to android/IOS we have to date like it never even existed which is very weird, and tad annoying. Some people say that \"SailfishOS is proprietary\" but no, no it's not. I couldn't have contributed to it if it was closed source don't you think? Yes, it's partially proprietary but in places you wouldn't even notice. All the OS part and hardware adaptation is *opensource, thanks to that, other OSs like ubuntu touch or mobian or halium could exist, because people forgot where libhybris comes from, and it comes from Sailfishos. The only closed source parts is the gui and in very small amount because all libraries surrounding it are opensource. It's quite difficult to come across something closed source. Now I said \"biggest alternative to android/IOS to date\", this is true. People who have been in this space for as long as I've been know that. SailfishOS is the oldest one, and has the most amount of apps, AND they're most polished. Second place on the podium would've been taken by ubuntu touch, as its also using libhybris and it has many apps but ecosystem is not as great as SailfishOS. Then is the rest of small fries but pmos as a project to port mainline kernel would probably take a third spot. But libhybris is way faster and way easier to achieve compatibility. So ye, if you read all that, thanks, now AMA. I'll be here all day (+- next 12h)",
+      "flair": [
+        "Mobile Linux"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Wallpaper Engine on Linux!",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n6ayeb/wallpaper_engine_on_linux/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n6ayeb",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "AceroR",
+      "author_id": "t2_25xibsmg",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-09-02T05:14:21.334000+0000",
+      "content_href": "https://youtu.be/Dvm1AfAZkpI",
+      "content_preview": "",
+      "flair": [
+        "Popular Application"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "LibreOffice project and community recap: August 2025",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n5jhoq/libreoffice_project_and_community_recap_august/",
+      "score": 66,
+      "comments": 12,
+      "post_id": "t3_1n5jhoq",
+      "post_type": "link",
+      "domain": "blog.documentfoundation.org",
+      "author": "themikeosguy",
+      "author_id": "t2_dv8kz",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-09-01T08:45:55.062000+0000",
+      "content_href": "https://blog.documentfoundation.org/blog/2025/09/01/libreoffice-project-and-community-recap-august-2025/",
+      "content_preview": "",
+      "flair": [
+        "Popular Application"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "How to save an old Lexmark Z32-33 printer using QEMU and Debian",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n5o7r6/how_to_save_an_old_lexmark_z3233_printer_using/",
+      "score": 22,
+      "comments": 4,
+      "post_id": "t3_1n5o7r6",
+      "post_type": "text",
+      "domain": "self.linux",
+      "author": "joshuatranchant",
+      "author_id": "t2_4drz5qlb",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-09-01T13:07:12.768000+0000",
+      "content_href": "https://www.reddit.com/r/linux/comments/1n5o7r6/how_to_save_an_old_lexmark_z3233_printer_using/",
+      "content_preview": "I recently got my hands on a Lexmark Z33 inkjet printer. I thought it would be a cakewalk to set up with Gutenprint — but it turns out the Z33 is the only Lexmark inkjet that runs on a proprietary, undocumented “Z-code” driver, with no PPDs and zero Gutenprint support. The only saving grace is that Lexmark still hosts their ancient Linux driver for Red Hat 7.3 (2001): CJLZ33TC.TAR.GZ → https://www.downloaddelivery.com/downloads/cpd/CJLZ33TC.TAR.GZ After days of trial and error (Raspberry Pi emulation, failed source builds, etc.), I found a working method: run Red Hat Linux 8.0 in QEMU with the original Lexmark driver, and forward its LPD queue to modern CUPS (2.4.x) on Debian Trixie. Cyan ink still fails inside RH8, but works fine once bridged to modern CUPS. On the Debian host, install QEMU and CUPS: sudo apt update\nsudo apt install qemu-system-i386 qemu-utils cups Unload usblp so it doesn’t grab the printer before QEMU does: sudo rmmod usblp Grab the Red Hat Linux 8.0 Professional DVD ISO (from the Internet Archive). Create a disk image: qemu-img create -f qcow2 redhat8.qcow2 4G Boot the installer with USB passthrough and VNC enabled: sudo qemu-system-i386 \\\n  -m 384 \\\n  -hda redhat8.qcow2 \\\n  -boot d \\\n  -cdrom red-hat-linux-8.0-professional-install-dvd.iso \\\n  -net nic,model=rtl8139 \\\n  -net user,hostfwd=tcp::515-:515 \\\n  -usb -device piix3-usb-uhci \\\n  -device usb-host,vendorid=0x043d,productid=0x0021 \\\n  -vga cirrus \\\n  -display vnc=0.0.0.0:1 At the boot prompt, type: linux text vga=normal If you skip this, the Lexmark installer will later fail due to console restrictions. After installation, boot normally with the same command, but -boot c . From another machine, connect to QEMU’s VNC session: vncviewer <host-ip>:1 (or use xtightvncviewer / vinagre depending on your distro). Inside the VM, mount the CD: mount /dev/cdrom /mnt/cdrom Install required RPMs from the RH8 DVD: rpm -ivh /mnt/cdrom/RedHat/RPMS/slang-1.4*.rpm \\\n          /mnt/cdrom/RedHat/RPMS/enscript-1.6*.rpm \\\n          /mnt/cdrom/RedHat/RPMS/gcc-2.96*.rpm \\\n          /mnt/cdrom/RedHat/RPMS/make-3*.rpm \\\n          /mnt/cdrom/RedHat/RPMS/libstdc++-2.96*.rpm \\\n          /mnt/cdrom/RedHat/RPMS/libstdc++-devel-2.96*.rpm Start X11 so the Lexmark installer can run its GUI: startx Download and run the Lexmark driver: wget https://www.downloaddelivery.com/downloads/cpd/CJLZ33TC.TAR.GZ\ntar -xvzf CJLZ33TC.TAR.GZ\ncd lexmarkz33-1.0-3\n./lexmarkz33-1.0-3.sh This will install through a GUI and create an LPD queue called lexmarkz33 . Start the print daemon: /etc/init.d/lpd start To check the printer is talking, or to print the test page (cyan will fail here), run inside an xterm under startx: z23-z33lsc On the Debian Trixie host, open the CUPS web interface at http://localhost:631 → Administration → Add Printer. Add a Generic PostScript Printer with this URI: lpd://<IP>:515/lexmarkz33 Now the RH8 VM acts as a bridge, and modern CUPS 2.4.x handles the jobs correctly (including cyan). To start the VM invisibly at boot, add this to /etc/rc.local on Debian: #!/bin/sh -e\n#\n# rc.local\n#\n\n# Free the printer from usblp so QEMU can grab it\n/sbin/rmmod usblp 2>/dev/null || true\n\n# Start RH8 VM in background\n/usr/bin/qemu-system-i386 \\\n  -m 384 \\\n  -hda /home/printer/redhat8.qcow2 \\\n  -boot c \\\n  -net nic,model=rtl8139 \\\n  -net user,hostfwd=tcp::515-:515 \\\n  -usb -device piix3-usb-uhci \\\n  -device usb-host,vendorid=0x043d,productid=0x0021 \\\n  -serial file:/var/log/rh8-vm-serial.log \\\n  -daemonize -display none -serial file:/var/log/rh8-vm.log\n\nexit 0 Then voila, the LPD queue, and the Z33 is now available through CUPS on the trixie machine, regardless of the missing Gutenprint, CUPS, and PPD driver files. If anyone (which is very unlikely) tries this and runs into an issue, feel free to ask. I have spent days on this and probably have had the same issue.",
+      "flair": [
+        "Tips and Tricks"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "What's your arrangement for the top of the window buttons?",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n5j7ss/whats_your_arrangement_for_the_top_of_the_window/",
+      "score": 18,
+      "comments": 44,
+      "post_id": "t3_1n5j7ss",
+      "post_type": "text",
+      "domain": "self.linux",
+      "author": "Ranma-sensei",
+      "author_id": "t2_86j4sx6a",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-09-01T08:27:41.047000+0000",
+      "content_href": "https://www.reddit.com/r/linux/comments/1n5j7ss/whats_your_arrangement_for_the_top_of_the_window/",
+      "content_preview": "I realized some years ago that my preferred button order is \"Close - Title Bar - Minimize - Maximize\", because it feels the most natural to me. I haven't seen many users on linux-based systems doing that specific order. So, I am curious: What is your preferred order and why?",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3bb918/styles/profileIcon_dn8rlcehgcmb1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ff209a2c14f61ce19e610e4fc63f88ceecc2045a"
+    },
+    {
+      "title": "Linus Torvalds Marks Bcachefs As Now \"Externally Maintained\"",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n3g8k2/linus_torvalds_marks_bcachefs_as_now_externally/",
+      "score": 1007,
+      "comments": 250,
+      "post_id": "t3_1n3g8k2",
+      "post_type": "link",
+      "domain": "phoronix.com",
+      "author": "tisti",
+      "author_id": "t2_3e8xl",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-29T19:05:42.782000+0000",
+      "content_href": "https://www.phoronix.com/news/Bcachefs-Externally-Maintained",
+      "content_preview": "",
+      "flair": [
+        "Kernel"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Windows UEFI Secure Boot while dual booting Linux is NOT easy.",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n69qrq/windows_uefi_secure_boot_while_dual_booting_linux/",
+      "score": 0,
+      "comments": 15,
+      "post_id": "t3_1n69qrq",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "The-Communist-Cat",
+      "author_id": "t2_2v3cfkll",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-09-02T04:04:41.290000+0000",
+      "content_href": "/r/pcmasterrace/comments/1n69pnd/windows_uefi_secure_boot_while_dual_booting_linux/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "The Former Lead For Apple Graphics Drivers On Linux Is Now Working At Intel",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n1elhr/the_former_lead_for_apple_graphics_drivers_on/",
+      "score": 668,
+      "comments": 100,
+      "post_id": "t3_1n1elhr",
+      "post_type": "link",
+      "domain": "phoronix.com",
+      "author": "reps_up",
+      "author_id": "t2_2op3d34c",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-27T11:37:07.821000+0000",
+      "content_href": "https://www.phoronix.com/news/Alyssa-Rosenzweig-Joins-Intel",
+      "content_preview": "",
+      "flair": [
+        "Hardware"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Been using Linux for 20 years, this is my story.",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n3fcal/been_using_linux_for_20_years_this_is_my_story/",
+      "score": 700,
+      "comments": 152,
+      "post_id": "t3_1n3fcal",
+      "post_type": "text",
+      "domain": "self.linux",
+      "author": "Jff_f",
+      "author_id": "t2_6wsqv5xn",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-29T18:31:11.863000+0000",
+      "content_href": "https://www.reddit.com/r/linux/comments/1n3fcal/been_using_linux_for_20_years_this_is_my_story/",
+      "content_preview": "I pick a mainstream distro that “just works”, then I forget about it and just use my computer. I might revisit my decision in 4 or 5 years if my system needs a wiping or the OS reached EoL and/or has trouble updating to the latest version… or maybe not. The end.",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "image, gifs, videos, webcam to ascii art converter",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n53dkv/image_gifs_videos_webcam_to_ascii_art_converter/",
+      "score": 82,
+      "comments": 9,
+      "post_id": "t3_1n53dkv",
+      "post_type": "gif",
+      "domain": "i.redd.it",
+      "author": "Oppai_chan69",
+      "author_id": "t2_5gc1jx7q",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-31T19:16:15.808000+0000",
+      "content_href": "https://i.redd.it/qnzi4rdsmemf1.gif",
+      "content_preview": "",
+      "flair": [
+        "Fluff"
+      ],
+      "thumbnail_url": "https://preview.redd.it/image-gifs-videos-webcam-to-ascii-art-converter-v0-qnzi4rdsmemf1.gif?width=640&crop=smart&format=png8&s=8295b24b7e2aaf6302167ea8b38e98c2a1a68067"
+    },
+    {
+      "title": "LibreOffice is hiring a full time UI developer!",
+      "permalink": "https://www.reddit.com/r/linux/comments/1mlkfw1/libreoffice_is_hiring_a_full_time_ui_developer/",
+      "score": 3145,
+      "comments": 258,
+      "post_id": "t3_1mlkfw1",
+      "post_type": "link",
+      "domain": "blog.documentfoundation.org",
+      "author": "Spooked_DE",
+      "author_id": "t2_10idbectuy",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-09T08:29:30.793000+0000",
+      "content_href": "https://blog.documentfoundation.org/blog/2025/08/07/join-the-libreoffice-team-as-a-paid-developer-focusing-on-ui-with-initial-emphasis-on-macos-preferably-full-time-remote-m-f-d/",
+      "content_preview": "",
+      "flair": [
+        "Popular Application"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Do you use disk encryption? Why? Why not?",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n4w1jg/do_you_use_disk_encryption_why_why_not/",
+      "score": 169,
+      "comments": 341,
+      "post_id": "t3_1n4w1jg",
+      "post_type": "text",
+      "domain": "self.linux",
+      "author": "sir__hennihau",
+      "author_id": "t2_110kdmb875",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-31T14:24:24.393000+0000",
+      "content_href": "https://www.reddit.com/r/linux/comments/1n4w1jg/do_you_use_disk_encryption_why_why_not/",
+      "content_preview": "Context: - I set up a new raspberry pi and while setting up, i stumpled upon the question of security on a shared device - During research, I noticed that even when you set a password, your file repository can be read, including the stored keys of your browser - To prevent that, you would need to encrypt your disk (that's different from just using a password for your user) --- So, how do you do it? Do you encrypt your disk? Do you enter the password twice then on boot or do did you configure auto login after decryption? I might set up my Fedora + Rasp Pi new with it enabled, I assume it can be easily set up during installation? How do you handle it?",
+      "flair": [
+        "Security"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bl8k4j/styles/profileIcon_e7200za2pykf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b113654f9ea48e916a69bdfc5edd68f40ef87272"
+    },
+    {
+      "title": "Graph of where Linux distros (and other *NIXs) are in my mind",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n66n9x/graph_of_where_linux_distros_and_other_nixs_are/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n66n9x",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "christmasmanexists",
+      "author_id": "t2_lg0fxvug",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-09-02T01:29:32.020000+0000",
+      "content_href": "https://i.redd.it/cez86i78mnmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Fluff"
+      ],
+      "thumbnail_url": "https://preview.redd.it/graph-of-where-linux-distros-and-other-nixs-are-in-my-mind-v0-cez86i78mnmf1.png?width=640&crop=smart&auto=webp&s=7afbeb72a5e95051006cd694177ca117ee7c4d4b"
+    },
+    {
+      "title": "For Nvidia + Wayland users having rendering problems with Minecraft after resume from sleep...",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n595tf/for_nvidia_wayland_users_having_rendering/",
+      "score": 24,
+      "comments": 4,
+      "post_id": "t3_1n595tf",
+      "post_type": "text",
+      "domain": "self.linux",
+      "author": "LinsaFTW",
+      "author_id": "t2_4hkjz9bq",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-31T23:20:18.558000+0000",
+      "content_href": "https://www.reddit.com/r/linux/comments/1n595tf/for_nvidia_wayland_users_having_rendering/",
+      "content_preview": "I had a lot of rendering problems with Minecraft lately when optimizing my Nvidia GPU power management. I use a hybrid GPU laptop which has a Intel and Nvidia GPU (Gigabyte G5 RTX 3050ti with propietary drivers) laptop and I want to have the maximum energy savings while still keeping performance. The thing is, after tinkering for DAYS, I found up the culprit of every rendering problem happening when resuming from sleep with Nvidia GPU, it was not the nvidia GPU causing corrupted graphics on Minecraft, it was Minecraft's OPENGL. I first noticed this when Vulkan games didnt crash but OpenGL did. Then I installed the Vulkan mod for fabric and DONE, Minecraft stopped corrupting graphics on resume for the nvidia propietary drivers. Just install this and you are done, big kudos to the author: https://www.curseforge.com/minecraft/mc-mods/vulkanmod Personal Note: I hope this gets into Sodium somehow, Vulkan must be standard as of now!",
+      "flair": [
+        "Tips and Tricks"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_241gva/styles/profileIcon_deufrklvsljf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=689de3631a3c5fe34bd98579edbfca7c791c8a65"
+    },
+    {
+      "title": "AerynOS: August 2025 project update and new ISO",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n56scw/aerynos_august_2025_project_update_and_new_iso/",
+      "score": 18,
+      "comments": 1,
+      "post_id": "t3_1n56scw",
+      "post_type": "crosspost",
+      "domain": "github.com",
+      "author": "NomadicCore",
+      "author_id": "t2_1j9iixfr9x",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-31T21:34:30.562000+0000",
+      "content_href": "/r/AerynOS/comments/1n56rum/aerynos_august_2025_project_update_and_new_iso/",
+      "content_preview": "",
+      "flair": [
+        "Distro News"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dljrtr/styles/profileIcon_f8hvjucmk3je1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=cbddaa14a70d46c136859500f0a5becfe5599dba"
+    },
+    {
+      "title": "Childproof Linux distro",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n51o6g/childproof_linux_distro/",
+      "score": 33,
+      "comments": 50,
+      "post_id": "t3_1n51o6g",
+      "post_type": "text",
+      "domain": "self.linux",
+      "author": "AngeNeige",
+      "author_id": "t2_t3g1qja5m",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-31T18:08:49.576000+0000",
+      "content_href": "https://www.reddit.com/r/linux/comments/1n51o6g/childproof_linux_distro/",
+      "content_preview": "By that I mean you could put any well behaved child on a window computer (such as I at the time) who won't use administrative rights, and you'll hardly find ways of breaking the system. (Now I remember bottlenecking the hard drive on windows XP but that's nothing a reboot or total data wipe could not fix) Ideally I wish not to do much after the first booting, so I figured Reddit would have an answer",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "xterm-nvim a neovim terminal wrapper release 0.1.0 is out!",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n4hm68/xtermnvim_a_neovim_terminal_wrapper_release_010/",
+      "score": 12,
+      "comments": 0,
+      "post_id": "t3_1n4hm68",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "-EDX-",
+      "author_id": "t2_24emgp9n",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-31T01:00:45.048000+0000",
+      "content_href": "https://github.com/eylles/xterm-nvim",
+      "content_preview": "",
+      "flair": [
+        "Software Release"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "With Apple M1/M2 Graphics Driver Code Working, Alyssa Rosenzweig Stepping Away From Asahi Linux",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n130cp/with_apple_m1m2_graphics_driver_code_working/",
+      "score": 601,
+      "comments": 109,
+      "post_id": "t3_1n130cp",
+      "post_type": "link",
+      "domain": "phoronix.com",
+      "author": "anh0516",
+      "author_id": "t2_24zthge3",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-27T00:43:29.052000+0000",
+      "content_href": "https://www.phoronix.com/news/Rosenzweig-Leaving-Apple-Asahi",
+      "content_preview": "",
+      "flair": [
+        "Development"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "I just ran `sudo rm -rf ~` by mistake.",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n4r5sv/i_just_ran_sudo_rm_rf_by_mistake/",
+      "score": 816,
+      "comments": 426,
+      "post_id": "t3_1n4r5sv",
+      "post_type": "text",
+      "domain": "self.linux",
+      "author": "28jb11",
+      "author_id": "t2_lv6xz",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-31T10:19:35.096000+0000",
+      "content_href": "https://www.reddit.com/r/linux/comments/1n4r5sv/i_just_ran_sudo_rm_rf_by_mistake/",
+      "content_preview": "I've been using linux since 2002 and it's the first time I've done anything like this. I thought it was essentially impossible and anyone who did it is dumb. I guess the egg is on my face! I may be cooked? Wish me luck!",
+      "flair": [
+        "Fluff"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Has anyone used this system?",
+      "permalink": "https://www.reddit.com/r/linux/comments/1mpqbh8/has_anyone_used_this_system/",
+      "score": 2973,
+      "comments": 125,
+      "post_id": "t3_1mpqbh8",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "RoKyELi",
+      "author_id": "t2_1eecvbn4ei",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-14T04:11:22.435000+0000",
+      "content_href": "https://i.redd.it/e5molna9uwif1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Tips and Tricks"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_d1wusz/styles/profileIcon_l3sco8ozcese1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=0452d2c88cb02198b2340d75ab1e873312b205d3"
+    },
+    {
+      "title": "What’s the deal with these flashy setups?",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n48rye/whats_the_deal_with_these_flashy_setups/",
+      "score": 28,
+      "comments": 45,
+      "post_id": "t3_1n48rye",
+      "post_type": "text",
+      "domain": "self.linux",
+      "author": "yqsx",
+      "author_id": "t2_ja295beow",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-30T18:25:22.459000+0000",
+      "content_href": "https://www.reddit.com/r/linux/comments/1n48rye/whats_the_deal_with_these_flashy_setups/",
+      "content_preview": "Been on Linux for years—Ubuntu, RHEL, servers, Docker, plain terminals. Lately I see people with cool socratic GNOME, colored shells, 3D icons, and wallpapers. What are they using? it look super fancy ngl",
+      "flair": [
+        "GNOME"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Linus Torvalds is still using an 8-year-old \"same old boring\" RX 580 paired with a 5K monitor",
+      "permalink": "https://www.reddit.com/r/linux/comments/1mewo61/linus_torvalds_is_still_using_an_8yearold_same/",
+      "score": 2732,
+      "comments": 401,
+      "post_id": "t3_1mewo61",
+      "post_type": "link",
+      "domain": "pcguide.com",
+      "author": "Tiny-Independent273",
+      "author_id": "t2_tgusc3bz",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-01T13:35:34.464000+0000",
+      "content_href": "https://www.pcguide.com/news/linus-torvalds-is-still-using-an-8-year-old-same-old-boring-rx-580-paired-with-a-5k-monitor/",
+      "content_preview": "",
+      "flair": [
+        "Fluff"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Surprised by everything working in Arch",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n3gobb/surprised_by_everything_working_in_arch/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1n3gobb",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "jb19701",
+      "author_id": "t2_2f086uu2",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-29T19:23:04.893000+0000",
+      "content_href": "/r/arch/comments/1n3gnn3/surprised_by_everything_working/",
+      "content_preview": "",
+      "flair": [
+        "Popular Application"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Just a moment...EU proposal to scan all private messages gains momentum",
+      "permalink": "https://www.reddit.com/r/linux/comments/1mox8ed/just_a_momenteu_proposal_to_scan_all_private/",
+      "score": 2552,
+      "comments": 255,
+      "post_id": "t3_1mox8ed",
+      "post_type": "link",
+      "domain": "cointelegraph.com",
+      "author": "smilelyzen",
+      "author_id": "t2_6vkn320",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-13T06:46:43.531000+0000",
+      "content_href": "https://cointelegraph.com/news/eu-chat-control-plan-gains-support-threatens-encryption",
+      "content_preview": "",
+      "flair": [
+        "Privacy"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Why are all Linux phones so bad?",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n4ljq6/why_are_all_linux_phones_so_bad/",
+      "score": 699,
+      "comments": 319,
+      "post_id": "t3_1n4ljq6",
+      "post_type": "text",
+      "domain": "self.linux",
+      "author": "Darkhog",
+      "author_id": "t2_4diej",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-31T04:28:35.437000+0000",
+      "content_href": "https://www.reddit.com/r/linux/comments/1n4ljq6/why_are_all_linux_phones_so_bad/",
+      "content_preview": "I really want to have a phone that runs full GNU/Linux, but the specs on stuff like Pinephone or Librem are laughable compared to Android phones, even the budget ones. 3GB RAM? Really? Mali SoC? WTF?! How about a Snapdragon? Why are the Linux phones so bad?",
+      "flair": [
+        "Hardware"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_20sxlj/styles/profileIcon_28j6thyg62nc1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a66517a4745b9cbe77a449558152e38ea7dc5d2a"
+    },
+    {
+      "title": "Bitnami just killed off their free Docker images and I'm scrambling",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n2hn0j/bitnami_just_killed_off_their_free_docker_images/",
+      "score": 502,
+      "comments": 181,
+      "post_id": "t3_1n2hn0j",
+      "post_type": "text",
+      "domain": "self.linux",
+      "author": "vitaminZaman",
+      "author_id": "t2_7ze93f8k",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-28T16:53:33.885000+0000",
+      "content_href": "https://www.reddit.com/r/linux/comments/1n2hn0j/bitnami_just_killed_off_their_free_docker_images/",
+      "content_preview": "I've been using Bitnami images for years in my homelab setup, mostly for stuff like PostgreSQL and Redis because they were straightforward and kept up with security patches without much hassle. Now Broadcom decides to pull the plug on the free tier and shove everything behind a paywall? It's frustrating as hell, especially since a lot of my deployments rely on these pulls not failing out of nowhere. I've got a couple of weeks to fix this before things start breaking. Anyone got solid alternatives for these? I'm looking at official images but worried about the CVE counts spiking. What's everyone switching to?",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4b5j2b/styles/profileIcon_7pi41fy9s7gf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3ed152e1be430bfadd76dabfd9aee2a06cde8038"
+    },
+    {
+      "title": "TIL: Linux also has a \"BSOD\"",
+      "permalink": "https://www.reddit.com/r/linux/comments/1mwl9d4/til_linux_also_has_a_bsod/",
+      "score": 2148,
+      "comments": 295,
+      "post_id": "t3_1mwl9d4",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "bkj512",
+      "author_id": "t2_jzm3nl55",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-21T19:49:58.626000+0000",
+      "content_href": "https://i.redd.it/iwkiqlkyffkf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Anybody using multi-seat? This is my Ubuntu 24.04 multi-seat setup for my kids.",
+      "permalink": "https://www.reddit.com/r/linux/comments/1mxcodi/anybody_using_multiseat_this_is_my_ubuntu_2404/",
+      "score": 1965,
+      "comments": 317,
+      "post_id": "t3_1mxcodi",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "Rob_Bob_you_choose",
+      "author_id": "t2_1di2usya",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-22T17:24:16.540000+0000",
+      "content_href": "/r/Ubuntu/comments/1mxcn6w/anybody_using_multiseat_this_is_my_ubuntu_2404/",
+      "content_preview": "",
+      "flair": [
+        "Fluff"
+      ],
+      "thumbnail_url": "https://preview.redd.it/anybody-using-multi-seat-this-is-my-ubuntu-24-04-multi-seat-v0-vlldi06sulkf1.jpeg?width=640&crop=smart&auto=webp&s=a2f607b0a363d20c6eca42e6307ba0120e817d3b"
+    },
+    {
+      "title": "Finally got WinApps to work, this tool is incredible.",
+      "permalink": "https://www.reddit.com/r/linux/comments/1mtg20d/finally_got_winapps_to_work_this_tool_is/",
+      "score": 1911,
+      "comments": 293,
+      "post_id": "t3_1mtg20d",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "lapse23",
+      "author_id": "t2_8j735t50",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-18T08:15:05.122000+0000",
+      "content_href": "https://i.redd.it/lpff2apdlqjf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Fluff"
+      ],
+      "thumbnail_url": "https://preview.redd.it/finally-got-winapps-to-work-this-tool-is-incredible-v0-lpff2apdlqjf1.jpeg?width=640&crop=smart&auto=webp&s=18ac6c5cdb0b29f1d15f6df79fdd1db162414f84"
+    },
+    {
+      "title": "GDPR meant nothing: chat control ends privacy for the EU",
+      "permalink": "https://www.reddit.com/r/linux/comments/1msltp3/gdpr_meant_nothing_chat_control_ends_privacy_for/",
+      "score": 1897,
+      "comments": 196,
+      "post_id": "t3_1msltp3",
+      "post_type": "link",
+      "domain": "reddit.com",
+      "author": "smilelyzen",
+      "author_id": "t2_6vkn320",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-17T08:47:55.907000+0000",
+      "content_href": "https://www.reddit.com/r/Romania/comments/1msjxqp/gdpr_meant_nothing_chat_control_ends_privacy_for/",
+      "content_preview": "",
+      "flair": [
+        "Privacy"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Rolling release distros that run KDE?",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n6271w/rolling_release_distros_that_run_kde/",
+      "score": 0,
+      "comments": 29,
+      "post_id": "t3_1n6271w",
+      "post_type": "text",
+      "domain": "self.linux",
+      "author": "emrldgh",
+      "author_id": "t2_i5rtpfsi",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-09-01T22:04:29.822000+0000",
+      "content_href": "https://www.reddit.com/r/linux/comments/1n6271w/rolling_release_distros_that_run_kde/",
+      "content_preview": "I know some of the basic ones, things like Fedora KDE and openSUSE Tumbleweed. I'm just curious what else is out there, since for my use case KDE fits me quite well, and I do tend to go for rolling release distros. What would you guys recommend? I'd like to have a good amount of software in whatever package manager the distro uses but I'm also perfectly fine using flatpaks or additional repos if needed. (Currently using Arch, have used Fedora before.)",
+      "flair": [
+        "KDE"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "We should have more of this on the Linux desktop",
+      "permalink": "https://www.reddit.com/r/linux/comments/1mj0zrp/we_should_have_more_of_this_on_the_linux_desktop/",
+      "score": 1850,
+      "comments": 321,
+      "post_id": "t3_1mj0zrp",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "[deleted]",
+      "author_id": "",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-06T10:28:23.257000+0000",
+      "content_href": "https://i.redd.it/sb86hyzsldhf1.png",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/we-should-have-more-of-this-on-the-linux-desktop-v0-sb86hyzsldhf1.png?auto=webp&s=6fac414d2c29eb9ab342068268f70cdde62d28d8"
+    },
+    {
+      "title": "free, open-sourece file scanner",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n33eok/free_opensourece_file_scanner/",
+      "score": 0,
+      "comments": 13,
+      "post_id": "t3_1n33eok",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "JustSouochi",
+      "author_id": "t2_1uvzo7nhua",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-29T10:09:10.976000+0000",
+      "content_href": "https://github.com/pompelmi/pompelmi",
+      "content_preview": "",
+      "flair": [
+        "Software Release"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f30drf/styles/profileIcon_ba8nkt7ulsgf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f7e81fa68c6d5a97f6a37fefc2119277b1e8f89e"
+    },
+    {
+      "title": "I aged 30 years in a comment",
+      "permalink": "https://www.reddit.com/r/linux/comments/1n0nz3b/i_aged_30_years_in_a_comment/",
+      "score": 451,
+      "comments": 104,
+      "post_id": "t3_1n0nz3b",
+      "post_type": "text",
+      "domain": "self.linux",
+      "author": "robprobasco",
+      "author_id": "t2_ou42r",
+      "subreddit_id": "t5_2qh1a",
+      "subreddit": "r/linux",
+      "created_ts": "2025-08-26T14:52:08.315000+0000",
+      "content_href": "https://www.reddit.com/r/linux/comments/1n0nz3b/i_aged_30_years_in_a_comment/",
+      "content_preview": "I was on r/linuxmemes and saw a comment about Gentoo teaches you how OSs work by installing everything by tarball. I had a flashback to Mandrake and having no idea what I was doing but following the manual and slowly figuring out what a tarball was and how it word. Untarballing stuff in the wrong place for this version. Hours on forums trying to get my wireless to work. Standard early Linux stuff. Then I looked up when Mandrake was current and I realized I am an old man.",
+      "flair": [
+        "Historical"
+      ],
+      "thumbnail_url": ""
+    }
+  ],
+  "scraped_at": "2025-09-02T03:10:14.304330"
+}
