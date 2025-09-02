@@ -360,3 +360,205 @@ Summary of outcomes
 All edits compile and run; outputs were produced and inspected as described above. This completes the requested analysis, code upgrades, tests, and documentation updates.
 ---
 
+
+--- 
+v2.1 Composite Fairness upgrade: IDF-anchored composition, fair scaling, and guardrails
+
+Why
+- Previous composition multiplied two normalized sub-1.0 signals, unfairly suppressing high-quality composites and pushing them to the tail.
+- Goal: rank composed phrases fairly alongside originals on the same TF-IDF scale, with controls to prevent flooding.
+
+What changed (code)
+- New IDF-anchored factor for theme composition
+  - Factor computed in [_compute_anchor_factor()](keyword_extraction.py:864) using posts corpus DF built by [build_posts_docfreq()](keyword_extraction.py:653).
+  - Default mode "idf_blend": factor = multiplier × max(floor, min(cap, (1 − alpha) + alpha × idf_eff(anchor))).
+  - Defaults are non-suppressive: multiplier=1.0, floor=1.0, cap=2.0, alpha=0.7.
+- Fair scale for composed terms
+  - Composition now separates selection vs magnitude in [compose_theme_anchored_from_posts()](keyword_extraction.py:909):
+    - Selection/order: seed_scores_for_ordering (local TF or embed-reranked).
+    - Magnitude/scale: base_scores_for_scale = posts TF-IDF from [compute_posts_tfidf_for_frontpage()](keyword_extraction.py:692).
+- Guardrails to avoid flooding and ensure quality
+  - Max composed per subreddit (DEFAULT_COMPOSE_ANCHOR_MAX_PER_SUB).
+  - Minimum seed TF-IDF to compose (DEFAULT_COMPOSE_ANCHOR_MIN_BASE_SCORE).
+  - Cap composed/base ratio (DEFAULT_COMPOSE_ANCHOR_MAX_RATIO) before semantic rerank.
+  - Independent weight for composed terms in merge: posts-composed-weight wired in [process_inputs()](keyword_extraction.py:1419).
+- CLI additions in [main()](keyword_extraction.py:1791)
+  - --posts-composed-weight FLOAT (defaults to --posts-weight when omitted)
+  - --compose-anchor-score-mode {fraction,idf_blend}
+  - --compose-anchor-alpha FLOAT
+  - --compose-anchor-floor FLOAT
+  - --compose-anchor-cap FLOAT
+  - --compose-anchor-max-per-sub INT (cap per subreddit; 0 disables)
+  - --compose-anchor-min-base-score FLOAT
+  - --compose-anchor-max-ratio FLOAT
+
+Defaults (changed)
+- DEFAULT_COMPOSE_ANCHOR_MULTIPLIER = 1.0 (no suppression)
+- DEFAULT_COMPOSE_ANCHOR_SCORE_MODE = "idf_blend"
+- Guardrails enabled with conservative defaults (cap=8, min_base=3.0, max_ratio=2.0).
+
+Runs and results (page_31 cohort)
+- v2e (pre-guardrails sanity pass)
+  - Command: python3 keyword_extraction.py ... --output-dir output/keywords_v2e --compose-anchor-top-m 200 --embed-candidate-pool posts_composed
+  - Observed with [scripts/analyze_posts_composed.py](scripts/analyze_posts_composed.py):
+    - subs_with_posts_composed: 12 / 250
+    - total_posts_composed_terms: 16
+    - rank_stats.mean: 25.56 (min=3, max=40)
+    - ratio_stats (composed/seed score): mean=1.36, median=1.70 (n=4)
+  - Interpretation: still under-surfacing; too conservative.
+- v2f (fair factor, no guardrails)
+  - Command: python3 keyword_extraction.py ... --output-dir output/keywords_v2f --compose-anchor-score-mode idf_blend --compose-anchor-top-m 200
+  - Results:
+    - subs_with_posts_composed: 244 / 250
+    - total_posts_composed_terms: 7,598
+    - rank_stats.mean: 20.21 (min=1, max=40)
+    - ratio_stats: mean=2.43, median=2.85 (n=478)
+  - Interpretation: fair scaling works, but flooding occurs.
+- v2g (fair factor + guardrails)
+  - Command: python3 keyword_extraction.py ... --output-dir output/keywords_v2g --compose-anchor-top-m 200 --compose-anchor-max-per-sub 8 --compose-anchor-min-base-score 3.0 --compose-anchor-max-ratio 2.0
+  - Results:
+    - subs_with_posts_composed: 242 / 250
+    - total_posts_composed_terms: 1,931
+    - rank_stats.mean: 7.49 (min=1, max=31)
+    - ratio_stats: mean=2.45, median=2.86 (n=998)
+  - Interpretation: composed terms surface near the top when justified, without overwhelming the list; ratios indicate higher specificity vs seeds.
+
+Spot examples (from analyzer)
+- r/gridfinity:
+  - "gridfinity base plate" rank=2, ratio≈2.92 (seed "base plate")
+- r/meteorology:
+  - "meteorology nice looking storms" rank=3, ratio≈2.93 (seed "nice looking storms")
+- r/pastlives:
+  - "Past Lives past life" rank=1, ratio≈1.94 (seed "past life")
+
+Operational guidance
+- Prefer v2.1 defaults for fair presence of composed terms.
+- To surface more or fewer composed terms:
+  - Increase/decrease --compose-anchor-max-per-sub (e.g., 4–12).
+  - Lower/raise --compose-anchor-min-base-score to include/exclude weaker seeds.
+  - Adjust --compose-anchor-max-ratio in [1.5 .. 3.0] to shape aggressiveness.
+  - Tune posts-composed-weight to control their contribution independently in merging.
+- Keep semantic nudging scoped:
+  - Continue to use --embed-candidate-pool posts_composed so only composed terms are nudged semantically.
+
+Artifacts
+- Outputs:
+  - output/keywords_v2e/page_31.keywords.jsonl
+  - output/keywords_v2f/page_31.keywords.jsonl
+  - output/keywords_v2g/page_31.keywords.jsonl
+- Analyzer:
+  - [scripts/analyze_posts_composed.py](scripts/analyze_posts_composed.py)
+
+Conclusion
+- v2.1 introduces a rigorous, fair scoring path for composed phrases with strong defaults and protective guardrails. Composites now rank comparably to strong seeds and can appear at the top for on-theme, high-quality cases, while avoiding list flooding.
+
+---
+Implemented a fair, rigorous scoring system for composed (“theme-anchored”) keywords, added guardrails to prevent flooding, introduced separate weighting for composed terms, updated docs, and validated empirically on a representative page.
+
+What changed (code)
+- Fair scoring with IDF-anchored factor and same-scale composition
+  - Composition now separates ordering from magnitude, using seed-order scores to select seeds and posts TF-IDF as the scale for composed outputs in [compose_theme_anchored_from_posts()](keyword_extraction.py:909). This removes the prior sub-1× multiplicative suppression.
+  - The anchor factor is computed from posts-corpus IDF with a non-suppressive default using [_compute_anchor_factor()](keyword_extraction.py:864), blending IDF of the anchor phrase or token with floor/cap:
+    - factor = compose_anchor_multiplier × max(floor, min(cap, (1 − alpha) + alpha × idf_eff(anchor)))
+    - idf_eff(anchor) = max(idf(anchor_phrase), idf(anchor_token), 1.0) ** posts_idf_power
+  - Posts TF-IDF basis for seed/base scores comes from [compute_posts_tfidf_for_frontpage()](keyword_extraction.py:692), and posts DF used in factor is from [build_posts_docfreq()](keyword_extraction.py:653).
+
+- Defaults and new guardrails
+  - Composition defaults now favor fairness:
+    - DEFAULT_COMPOSE_ANCHOR_MULTIPLIER=1.0 and DEFAULT_COMPOSE_ANCHOR_SCORE_MODE="idf_blend" in [keyword_extraction.py](keyword_extraction.py:134).
+  - Added guardrails to avoid list flooding and enforce quality:
+    - Max composed per subreddit, min seed base score, and composed/base ratio cap, all enforced in [compose_theme_anchored_from_posts()](keyword_extraction.py:909). Constants/CLI wiring in [main()](keyword_extraction.py:1791) and [process_inputs()](keyword_extraction.py:1419).
+
+- Separate weighting for composed terms
+  - Merging now supports a dedicated posts-composed weight via --posts-composed-weight in [process_inputs()](keyword_extraction.py:1729) and wired in [main()](keyword_extraction.py:1791).
+
+- CLI additions (wired in [main()](keyword_extraction.py:1791)):
+  - --posts-composed-weight FLOAT
+  - --compose-anchor-score-mode {fraction,idf_blend}
+  - --compose-anchor-alpha FLOAT
+  - --compose-anchor-floor FLOAT
+  - --compose-anchor-cap FLOAT
+  - --compose-anchor-max-per-sub INT
+  - --compose-anchor-min-base-score FLOAT
+  - --compose-anchor-max-ratio FLOAT
+
+Documentation and tooling
+- Added v2.1 “Composite Fairness” section to [Subreddit Keyword Extraction Pipeline.md](Subreddit Keyword Extraction Pipeline.md:1) outlining the new scoring, guardrails, knobs, and a recommended config.
+- Logged changes, runs, and guidance in [DevLogs-keyword-extraction.md](DevLogs-keyword-extraction.md:1).
+- Added analyzer utility [scripts/analyze_posts_composed.py](scripts/analyze_posts_composed.py:1) for quick corpus-level stats and examples.
+
+Empirical results (page_31)
+- Baseline with older behavior (v2e):
+  - subs_with_posts_composed = 12/250, total_composed=16, mean rank=25.56
+  - composed/seed ratio mean=1.36 (n=4)
+- Fair factor without guardrails (v2f):
+  - subs_with_posts_composed = 244/250, total_composed=7,598, mean rank=20.21
+  - ratio mean=2.43, median=2.85
+- Fair factor with guardrails (v2g; recommended):
+  - subs_with_posts_composed = 242/250, total_composed=1,931, mean rank=7.49, min=1, max=31
+  - ratio mean=2.45, median=2.86 (n=998)
+- Interpretation: Composed phrases now surface proportionally more (and earlier) when justified by on-theme anchor + strong seeds, but do not flood the list.
+
+How to reproduce (example)
+- Recommended run (already executed) from the docs’ v2.1 block:
+  - See the v2.1 “Recommended configuration” snippet in [Subreddit Keyword Extraction Pipeline.md](Subreddit Keyword Extraction Pipeline.md:1).
+- Outputs produced:
+  - output/keywords_v2e/page_31.keywords.jsonl (sanity baseline)
+  - output/keywords_v2f/page_31.keywords.jsonl (fair, no guardrails)
+  - output/keywords_v2g/page_31.keywords.jsonl (fair + guardrails)
+
+Design rationale relative to your concerns
+- Removed the arbitrary suppressive multiplication across two normalized (<1) signals that pushed valuable composites to the bottom.
+- Replaced with: same-scale scoring as the seed plus an anchor factor tied to corpus rarity and bounded by floor/cap and guardrails. This aligns with the intuition that on-brand anchored phrases are predictably higher quality and should not be penalized.
+- If you prefer category separation instead of ranking: with the new --posts-composed-weight you can effectively reduce their influence in the merged list (e.g., set to 0.0) while they still exist in source for specialized consumption. A follow-on change could optionally emit a separate “posts_composed_list” field if needed.
+
+Net effect
+- The pipeline remains deterministic, computationally light, and tunable. Composed terms receive fair treatment, rise appropriately in rankings, and can be modulated with dedicated knobs without compromising the rest of the list.
+
+Key anchors in code
+- Factor and fairness: [_compute_anchor_factor()](keyword_extraction.py:864), [compose_theme_anchored_from_posts()](keyword_extraction.py:909)
+- Posts TF-IDF base and DF: [compute_posts_tfidf_for_frontpage()](keyword_extraction.py:692), [build_posts_docfreq()](keyword_extraction.py:653)
+- Merge and composed weighting: [process_inputs()](keyword_extraction.py:1419)
+- CLI wiring: [main()](keyword_extraction.py:1791)
+
+This completes the analysis, implementation, validation, and documentation updates for fair composite keyword scoring with guardrails.
+
+---
+Addressed the edge case: prevented composing “anchor + seed” when the seed is essentially the same as the anchor (e.g., “pastlife past life”, “past life past life”).
+
+What changed (logic)
+- Added a loose lexical-equality guard used during composition to skip composing when the anchor and the seed are equivalent after normalization (whitespace-insensitive, case-insensitive, and conservative singularization).
+  - Helpers:
+    - [_norm_nospace()](keyword_extraction.py:868) normalizes by lowercasing and removing whitespace, plus a conservative irregular plural mapping “lives → life”.
+    - [_equal_lex_loose()](keyword_extraction.py:881) compares normalized forms and tolerates a single trailing “s”.
+  - Enforced at composition time:
+    - [compose_theme_anchored_from_posts()](keyword_extraction.py:1009) now early-continues when _equal_lex_loose(seed, anchor_phrase_lower) or _equal_lex_loose(seed, anchor_token) is true.
+
+Why this solves your example
+- Anchor for r/pastlives is “Past Lives” (normalized anchor phrase) and/or “pastlives” (token).
+- Seed “past life” equals anchor semantically once normalized (lives → life), so composing “pastlives past life” or “past lives past life” is now filtered out.
+- Longer seeds like “past life regression” are not equal to the anchor and still compose (e.g., “Past Lives past life regression”), which is desired.
+
+Validation on page_31
+- Ran with the fairness + guardrails config and re-scanned:
+  - No “pastlives past life” or “past lives past life” present.
+  - Allowed and reasonable composites remain, for example:
+    - “Past Lives past life regression”
+    - “pastlives past life regression”
+- Evidence: grep shows r/pastlives line containing only multi-word, distinct seeds after the anchor; “past life” (the base seed) remains as a non-composed posts term, and the undesired duplicate “anchor + same seed” is not present.
+
+Relevant code anchors
+- Loose-equality helpers:
+  - [_norm_nospace()](keyword_extraction.py:868)
+  - [_equal_lex_loose()](keyword_extraction.py:881)
+- Composition guard:
+  - [compose_theme_anchored_from_posts()](keyword_extraction.py:1009)
+
+Notes and tunables
+- The equality test is intentionally conservative:
+  - It only handles whitespace, case, trailing “s”, and the irregular mapping “lives → life” to catch the specific “Past Lives” vs “past life” case without being over-aggressive.
+- If you ever want to tighten this further (e.g., block anchor + seed when the seed is a strict substring of the anchor or vice-versa), a small extension can be added in [compose_theme_anchored_from_posts()](keyword_extraction.py:1009) after the current equality check.
+
+This completes the fix for duplicate self-concatenation while preserving legitimate, more specific composites.
+
+---

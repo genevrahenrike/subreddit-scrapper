@@ -274,3 +274,138 @@ LLM as a final optional stage
 
 Summary
 - v2 makes the pipeline less brittle in sparse/biased corpora, removes editorial dependence, and uses embeddings where they add semantic lift without becoming the sole arbiter. The result is a more robust, scalable alternative or precursor to LLM-heavy approaches.
+
+### Follow-up Analysis: Scoring of Composite Phrases
+
+A sensitivity analysis was performed to understand why high-quality, human-validated composite phrases (e.g., "Mazda CX-5 oil change") receive significantly lower scores than their high-frequency, single-phrase counterparts (e.g., "oil change").
+
+**Core Finding:** The low scores are a direct and expected consequence of the **multiplicative scoring logic** used during composition.
+
+**Scoring Mechanism:**
+1.  The pipeline identifies a base keyword (e.g., "oil change") and an anchor (e.g., "mazda cx-5"), each with its own TF-IDF-based score.
+2.  These scores are normalized to a [0, 1] range.
+3.  The final score for the composite phrase is calculated by **multiplying** these normalized scores.
+
+**Implication:**
+- Multiplying two numbers that are less than 1.0 will always produce a smaller number. For example, if "oil change" has a normalized score of 0.3 and "mazda cx-5" has a normalized score of 0.4, the composite score is `0.3 * 0.4 = 0.12`.
+- This mathematical property is the sole reason for the lower scores. It is not influenced by Document Frequency (DF) at the composition stage, nor is it related to the BGE embedding model, which is only used as an optional final re-ranking step *after* all initial scores are calculated.
+
+**Interpretation and Trade-offs:**
+- **Current Behavior:** The system correctly identifies and generates valuable, long-tail composite keywords. However, the scoring mechanism inherently ranks them lower than their popular, constituent parts. This makes them vulnerable to being filtered out if a global quality threshold is applied.
+- **Is this a problem?** It depends on the goal.
+    - If the goal is to have a single ranked list where only the absolute highest-signal terms appear, the current behavior is acceptable.
+    - If the goal is to treat these "value-engineered" composite phrases as premium outputs that deserve special consideration, then their low scores are problematic as they don't reflect their engineered quality.
+- **Alternative Perspectives:**
+    - One could argue that a composite phrase like "Mazda CX-5 oil change" is a significant quality *improvement* over its parts and its score should reflect that (i.e., be higher, not lower).
+    - Alternatively, these composite phrases could be treated as a separate category of output, not to be ranked against standard TF-IDF keywords, but presented as a distinct, high-quality set.
+
+**Path Forward:**
+A fair ranking system would require a more rigorous scoring method for composites. This could involve exploring alternative scoring functions (e.g., averaging, weighted-averaging) or applying source-specific normalization. For now, the most effective way to ensure these valuable composites appear in the final output is to use a sufficiently large `--topk` value or the `--ensure-k-from-posts-composed` flag, rather than relying on a score-based quality filter.
+## 6. v2.1 Composite Fairness: IDF-anchored scoring, separated scale, and guardrails
+
+Motivation
+- Earlier composition multiplied two sub-1.0 normalized signals, systematically suppressing high-quality composites.
+- v2.1 replaces this with an IDF-anchored factor and composes on the same TF-IDF scale as seeds, so composed phrases are fairly comparable to original posts terms.
+
+Implementation overview (code anchors)
+- Separate selection vs magnitude:
+  - Seed selection (ordering) can use local TF or embed-reranked signals; see [compose_theme_anchored_from_posts()](keyword_extraction.py:909).
+  - Magnitude (scale) for composed terms uses the posts TF-IDF base from [compute_posts_tfidf_for_frontpage()](keyword_extraction.py:692).
+- Anchor factor driven by posts corpus IDF:
+  - Factor computation lives in [_compute_anchor_factor()](keyword_extraction.py:864) and uses posts DF from [build_posts_docfreq()](keyword_extraction.py:653).
+  - Formula:
+    - idf_eff(anchor) = max(idf(anchor_phrase), idf(anchor_token), 1.0) ** posts_idf_power
+    - factor = compose_anchor_multiplier × max(floor, min(cap, (1 − alpha) + alpha × idf_eff(anchor)))
+  - Defaults are safe and non-suppressive:
+    - compose_anchor_multiplier = 1.0
+    - compose_anchor_score_mode = "idf_blend"
+    - alpha = 0.7, floor = 1.0, cap = 2.0
+- Guardrails to avoid flooding and ensure quality:
+  - Hard cap per subreddit: DEFAULT_COMPOSE_ANCHOR_MAX_PER_SUB (see constants near the top of [keyword_extraction.py](keyword_extraction.py)).
+  - Minimum seed strength: DEFAULT_COMPOSE_ANCHOR_MIN_BASE_SCORE (seed TF-IDF must be ≥ threshold).
+  - Ratio cap: DEFAULT_COMPOSE_ANCHOR_MAX_RATIO to bound composed/base score pre-rerank.
+  - Independent weighting for composed terms in merge via posts-composed-weight; see [process_inputs()](keyword_extraction.py:1419).
+
+Scoring details (one-pass summary)
+- Selection order uses "seed_scores_for_ordering" (local TF, TF-IDF, or embed-ranked) to pick the top-M seeds.
+- Each composed variant is scored on the posts TF-IDF scale via the seed’s base TF-IDF score, scaled by the anchor factor and bounded by guardrails in [compose_theme_anchored_from_posts()](keyword_extraction.py:909).
+
+New CLI flags
+- --posts-composed-weight FLOAT (defaults to --posts-weight if omitted)
+- --compose-anchor-score-mode {fraction,idf_blend} (default idf_blend)
+- --compose-anchor-alpha FLOAT
+- --compose-anchor-floor FLOAT
+- --compose-anchor-cap FLOAT
+- --compose-anchor-max-per-sub INT (0 = unlimited; default guards on)
+- --compose-anchor-min-base-score FLOAT
+- --compose-anchor-max-ratio FLOAT
+- All flags are wired in [main()](keyword_extraction.py:1791).
+
+Empirical results on page_31 (r/CX5 page cohort)
+- v2e (pre-fairness baseline with idf_blend defaults but without guardrails/separate scale): 
+  - subs_with_posts_composed ≈ 12/250; total_composed = 16
+  - mean rank ≈ 25.56; ratio (composed/seed) ≈ 1.36 (n=4) → under-surfaced composites.
+- v2f (fair factor + 1.0 multiplier, no guardrails): 
+  - subs_with_posts_composed ≈ 244/250; total_composed = 7,598
+  - mean rank ≈ 20.21; ratio mean ≈ 2.43 (median ≈ 2.85) → strong but over-abundant (flooding risk).
+- v2.1 (v2g; fair factor + guardrails):
+  - subs_with_posts_composed ≈ 242/250; total_composed = 1,931
+  - mean rank ≈ 7.49; ratio mean ≈ 2.45 (median ≈ 2.86), min rank = 1, max ≈ 31
+  - Interpretation: composed phrases now surface near the top when justified, without flooding.
+
+Recommended v2.1 configuration (example)
+- Deterministic, engagement-off, seed embed rerank, composed-only embed nudging, with fairness/guardrails:
+```bash
+python3 keyword_extraction.py \
+  --input-file output/pages/page_31.json \
+  --frontpage-glob 'output/subreddits/*/frontpage.json' \
+  --output-dir output/keywords_v2g \
+  --topk 40 \
+  --name-weight 3.0 \
+  --desc-weight 1.0 \
+  --posts-weight 1.5 \
+  --posts-halflife-days 3650 \
+  --min-df-bigram 2 \
+  --min-df-trigram 2 \
+  --posts-drop-generic-unigrams \
+  --posts-generic-df-ratio 0.10 \
+  --posts-phrase-boost-bigram 1.35 \
+  --posts-phrase-boost-trigram 1.7 \
+  --posts-stopwords-extra config/posts_stopwords_extra.txt \
+  --posts-phrase-stoplist config/posts_phrase_stoplist.txt \
+  --desc-idf-power 0.8 \
+  --posts-idf-power 0.4 \
+  --posts-engagement-alpha 0.0 \
+  --compose-seed-source posts_local_tf \
+  --compose-seed-embed \
+  --compose-seed-embed-alpha 0.9 \
+  --compose-anchor-top-m 200 \
+  --compose-anchor-score-mode idf_blend \
+  --compose-anchor-alpha 0.7 \
+  --compose-anchor-floor 1.0 \
+  --compose-anchor-cap 2.0 \
+  --compose-anchor-max-per-sub 8 \
+  --compose-anchor-min-base-score 3.0 \
+  --compose-anchor-max-ratio 2.0 \
+  --posts-composed-weight 1.5 \
+  --posts-ensure-k 10 \
+  --embed-rerank \
+  --embed-model 'BAAI/bge-small-en-v1.5' \
+  --embed-alpha 0.35 \
+  --embed-k-terms 120 \
+  --embed-candidate-pool posts_composed
+```
+
+Tuning guidance
+- More composed presence: increase --compose-anchor-max-per-sub, lower --compose-anchor-min-base-score modestly, or raise --posts-composed-weight.
+- Stronger anchor influence: increase --compose-anchor-alpha and/or --compose-anchor-cap, but keep --compose-anchor-max-ratio reasonable (≈2.0–3.0).
+- Stricter outputs: decrease --compose-anchor-cap, lower --compose-anchor-max-per-sub, or increase --compose-anchor-min-base-score.
+
+Backward compatibility
+- Legacy "fraction" mode is preserved via --compose-anchor-score-mode fraction, which behaves like the old multiplier-only path (now with a non-suppressive floor if configured).
+
+Where to look in code
+- Anchor factor and fairness: [_compute_anchor_factor()](keyword_extraction.py:864)
+- Composition with separated ordering vs scale and guardrails: [compose_theme_anchored_from_posts()](keyword_extraction.py:909)
+- Posts TF-IDF base scale: [compute_posts_tfidf_for_frontpage()](keyword_extraction.py:692)
+- CLI wiring: [main()](keyword_extraction.py:1791)

@@ -133,11 +133,21 @@ DEFAULT_EMBED_CANDIDATE_POOL = "union"
 
 # Composed theme-anchored keywords defaults
 DEFAULT_COMPOSE_ANCHOR_POSTS = True
-DEFAULT_COMPOSE_ANCHOR_MULTIPLIER = 0.85
+DEFAULT_COMPOSE_ANCHOR_MULTIPLIER = 1.0
 DEFAULT_COMPOSE_ANCHOR_TOP_M = 20
 DEFAULT_COMPOSE_ANCHOR_INCLUDE_UNIGRAMS = False
 DEFAULT_COMPOSE_ANCHOR_MAX_FINAL_WORDS = 6
 DEFAULT_COMPOSE_ANCHOR_USE_TITLE = True
+
+# New: scoring behavior for composed phrases
+DEFAULT_COMPOSE_ANCHOR_SCORE_MODE = "idf_blend"  # choices: "fraction", "idf_blend"
+DEFAULT_COMPOSE_ANCHOR_ALPHA = 0.7               # strength of IDF contribution (0..1)
+DEFAULT_COMPOSE_ANCHOR_FLOOR = 1.0               # non-suppressive floor for composed factor
+DEFAULT_COMPOSE_ANCHOR_CAP = 2.0                 # optional cap to prevent runaway boosts
+# New: guardrails to prevent composed flooding and unfair overshadow
+DEFAULT_COMPOSE_ANCHOR_MAX_PER_SUB = 8           # hard cap of composed terms per subreddit (0=unlimited)
+DEFAULT_COMPOSE_ANCHOR_MIN_BASE_SCORE = 3.0      # minimum TF-IDF score of seed to be eligible for composition
+DEFAULT_COMPOSE_ANCHOR_MAX_RATIO = 2.0           # cap composed/base ratio before rerank (0=disabled)
 
 # Seed selection controls for composition
 DEFAULT_COMPOSE_SEED_EMBED = False
@@ -855,23 +865,151 @@ def _simplify_seed_for_composition(term: str) -> str:
         return " ".join(toks)
     return term
 
+def _norm_nospace(s: Optional[str]) -> str:
+    """
+    Normalize by lowercasing and removing all whitespace characters.
+    Also applies a light singularization for irregular plural 'lives' -> 'life'
+    so that 'past lives' ~= 'past life'. This is intentionally conservative.
+    """
+    if not s:
+        return ""
+    ns = re.sub(r"\s+", "", s.strip().lower())
+    # handle irregular plural: 'lives' -> 'life'
+    ns = re.sub(r"lives$", "life", ns)
+    return ns
+
+def _equal_lex_loose(a: Optional[str], b: Optional[str]) -> bool:
+    """
+    Loose lexical equality to avoid composing anchor + seed when they are essentially the same term.
+    - Lowercase
+    - Strip whitespace
+    - Ignore a single trailing 's' pluralization difference
+    """
+    na = _norm_nospace(a)
+    nb = _norm_nospace(b)
+    if not na or not nb:
+        return False
+    if na == nb:
+        return True
+    # singularize one trailing 's'
+    if na.endswith("s"):
+        na_s = na[:-1]
+    else:
+        na_s = na
+    if nb.endswith("s"):
+        nb_s = nb[:-1]
+    else:
+        nb_s = nb
+    return na_s == nb_s
+
+# duplicate helper removed (see first _norm_nospace)
+
+def _compute_anchor_factor(
+    anchor_phrase_lower: Optional[str],
+    anchor_token: Optional[str],
+    posts_docfreq: Counter,
+    posts_total_docs: int,
+    idf_power: float,
+    score_mode: str,
+    alpha: float,
+    floor: float,
+    cap: float,
+    multiplier: float,
+) -> float:
+    """
+    Compute multiplicative factor to apply to a seed score when composing an anchored variant.
+
+    Modes:
+      - "fraction": return multiplier (legacy behavior)
+      - "idf_blend": return multiplier * max(floor, min(cap, (1-alpha) + alpha * idf_eff))
+        where idf_eff = max(idf(anchor_phrase), idf(anchor_token), 1.0) ** idf_power
+    """
+    # Legacy mode (still respect floor/cap)
+    if score_mode == "fraction":
+        base = float(multiplier)
+        if cap > 0:
+            base = min(cap, base)
+        return max(floor, base)
+
+    N = max(1, int(posts_total_docs))
+
+    def _idf_eff(term: Optional[str]) -> float:
+        if not term:
+            return 1.0
+        df = posts_docfreq.get(term, 0)
+        idf = math.log((1.0 + N) / (1.0 + df)) + 1.0
+        return idf ** max(0.0, float(idf_power))
+
+    anchor_idf = max(_idf_eff(anchor_phrase_lower), _idf_eff(anchor_token), 1.0)
+    a = max(0.0, min(1.0, float(alpha)))
+    base = (1.0 - a) + a * float(anchor_idf)
+    factor = float(multiplier) * base
+    if cap > 0:
+        factor = min(cap, factor)
+    factor = max(floor, factor)
+    return factor
+
 def compose_theme_anchored_from_posts(
-    posts_scores: Counter,
+    seed_scores_for_ordering: Counter,
+    base_scores_for_scale: Counter,
     anchor_phrase_lower: Optional[str],
     anchor_token: Optional[str],
     top_m: int,
     include_unigrams: bool,
     max_final_words: int,
     multiplier: float,
+    score_mode: str,
+    anchor_alpha: float,
+    anchor_floor: float,
+    anchor_cap: float,
+    max_per_sub: int,
+    min_base_score: float,
+    max_ratio: float,
+    posts_docfreq: Counter,
+    posts_total_docs: int,
+    idf_power: float,
 ) -> Counter:
-    if not posts_scores:
+    """
+    Compose anchored variants using:
+      - seed_scores_for_ordering: ranking/selection signal (e.g., local TF or embed-reranked)
+      - base_scores_for_scale: TF-IDF scale used for composed score magnitude
+      - max_per_sub: cap number of composed variants per subreddit (0 = unlimited)
+      - min_base_score: require seed TF-IDF >= this threshold to compose
+      - max_ratio: cap composed/base ratio before rerank (0 = disabled)
+    """
+    if not seed_scores_for_ordering:
         return Counter()
     out = Counter()
-    # Select top-M seed terms by score
-    items = sorted(posts_scores.items(), key=lambda kv: kv[1], reverse=True)
+    produced = 0
+    # Select top-M seeds by the ordering signal
+    items = sorted(seed_scores_for_ordering.items(), key=lambda kv: kv[1], reverse=True)
     seeds = items[: max(0, top_m)]
-    for term, sc in seeds:
+
+    # Compute a single anchor factor per subreddit (depends only on anchor + corpus)
+    factor = _compute_anchor_factor(
+        anchor_phrase_lower,
+        anchor_token,
+        posts_docfreq,
+        posts_total_docs,
+        idf_power,
+        score_mode,
+        anchor_alpha,
+        anchor_floor,
+        anchor_cap,
+        multiplier,
+    )
+
+    # Normalize guards
+    mbs = max(0.0, float(min_base_score))
+    mr = float(max_ratio)
+
+    for term, _seed_rank in seeds:
+        if max_per_sub and produced >= max_per_sub:
+            break
         seed = _simplify_seed_for_composition(term)
+        # Avoid composing when the anchor equals the seed (e.g., "pastlife" vs "past life", including 'lives' -> 'life')
+        if _equal_lex_loose(seed, anchor_phrase_lower) or _equal_lex_loose(seed, anchor_token):
+            continue
         n_words = seed.count(" ") + 1
         if n_words == 1 and not include_unigrams:
             continue
@@ -891,9 +1029,25 @@ def compose_theme_anchored_from_posts(
             final_words = 1 + n_words
             if final_words <= max_final_words:
                 variants.append(f"{anchor_token} {seed}")
+
+        # Score composed variants on the same scale as base TF-IDF (fairness)
+        sc_base = float(base_scores_for_scale.get(term, seed_scores_for_ordering.get(term, 0.0)))
+        if sc_base < mbs:
+            continue
+        # Pre-rerank composed score with ratio cap
+        composed_score = sc_base * factor
+        if mr > 0.0:
+            composed_score = min(composed_score, sc_base * mr)
+
         for v in variants:
-            if v not in posts_scores and v not in out:
-                out[v] = sc * multiplier
+            if v in base_scores_for_scale or v in out:
+                continue
+            out[v] = composed_score
+            produced += 1
+            if max_per_sub and produced >= max_per_sub:
+                break
+        if max_per_sub and produced >= max_per_sub:
+            break
     return out
 
 def compose_theme_anchored_from_seeds(
@@ -1346,6 +1500,7 @@ def process_inputs(
     # Posts integration (optional)
     frontpage_glob: Optional[str] = None,
     posts_weight: float = DEFAULT_POSTS_WEIGHT,
+    posts_composed_weight: Optional[float] = None,
     posts_halflife_days: float = DEFAULT_POSTS_HALFLIFE_DAYS,
     posts_generic_df_ratio: float = DEFAULT_POSTS_GENERIC_DF_RATIO,
     posts_ensure_k: int = DEFAULT_ENSURE_PHRASES_K,
@@ -1380,6 +1535,14 @@ def process_inputs(
     embed_candidate_pool: str = DEFAULT_EMBED_CANDIDATE_POOL,
     compose_seed_embed: bool = DEFAULT_COMPOSE_SEED_EMBED,
     compose_seed_embed_alpha: float = DEFAULT_COMPOSE_SEED_EMBED_ALPHA,
+    # New: composed scoring behavior
+    compose_anchor_score_mode: str = DEFAULT_COMPOSE_ANCHOR_SCORE_MODE,
+    compose_anchor_alpha: float = DEFAULT_COMPOSE_ANCHOR_ALPHA,
+    compose_anchor_floor: float = DEFAULT_COMPOSE_ANCHOR_FLOOR,
+    compose_anchor_cap: float = DEFAULT_COMPOSE_ANCHOR_CAP,
+    compose_anchor_max_per_sub: int = DEFAULT_COMPOSE_ANCHOR_MAX_PER_SUB,
+    compose_anchor_min_base_score: float = DEFAULT_COMPOSE_ANCHOR_MIN_BASE_SCORE,
+    compose_anchor_max_ratio: float = DEFAULT_COMPOSE_ANCHOR_MAX_RATIO,
 ) -> None:
     if not input_paths:
         print("No input files matched.", file=sys.stderr)
@@ -1599,12 +1762,23 @@ def process_inputs(
 
                                     composed_from_top = compose_theme_anchored_from_posts(
                                         seed_scored,
+                                        posts_scores,
                                         anchor_phrase_lower or "",
                                         canon_key or "",
                                         compose_anchor_top_m,
                                         compose_anchor_include_unigrams,
                                         compose_anchor_max_final_words,
                                         compose_anchor_multiplier,
+                                        compose_anchor_score_mode,
+                                        compose_anchor_alpha,
+                                        compose_anchor_floor,
+                                        compose_anchor_cap,
+                                        compose_anchor_max_per_sub,
+                                        compose_anchor_min_base_score,
+                                        compose_anchor_max_ratio,
+                                        posts_docfreq,
+                                        posts_total_docs,
+                                        posts_idf_power,
                                     )
                                     composed_scores = Counter()
                                     composed_scores.update(composed_from_top)
@@ -1636,7 +1810,7 @@ def process_inputs(
                     (desc_tfidf, desc_weight, "description"),
                     (name_scores, name_weight, "name"),
                     (posts_scores, posts_weight, "posts"),
-                    (composed_scores, posts_weight, "posts_composed"),
+                    (composed_scores, (posts_composed_weight if posts_composed_weight is not None else posts_weight), "posts_composed"),
                 ])
 
                 # Embedding-based rerank (optional): theme = whole name phrase + top description terms
@@ -1709,6 +1883,7 @@ def main():
     # Posts integration CLI
     ap.add_argument("--frontpage-glob", type=str, default=None, help="Glob for frontpage JSON files, e.g., 'output/subreddits/*/frontpage.json'")
     ap.add_argument("--posts-weight", type=float, default=DEFAULT_POSTS_WEIGHT, help="Weight multiplier for posts-derived scores (applied in merge)")
+    ap.add_argument("--posts-composed-weight", type=float, default=None, help="Weight multiplier for composed posts terms; if omitted, defaults to --posts-weight")
     ap.add_argument("--posts-halflife-days", type=float, default=DEFAULT_POSTS_HALFLIFE_DAYS, help="Recency halflife in days for posts weighting")
     ap.add_argument("--posts-generic-df-ratio", type=float, default=DEFAULT_POSTS_GENERIC_DF_RATIO, help="DF ratio threshold for considering a posts term 'generic'")
     ap.add_argument("--posts-ensure-k", type=int, default=DEFAULT_ENSURE_PHRASES_K, help="Ensure up to K local bigrams/trigrams per frontpage even if pruned by global DF")
@@ -1745,6 +1920,13 @@ def main():
     ap.add_argument("--compose-seed-source", type=str, default="hybrid", choices=["posts_tfidf", "posts_local_tf", "hybrid"], help="Seed source for composition (TF-IDF, local TF, or hybrid)")
     ap.add_argument("--compose-seed-embed", action="store_true", help="Use embedding similarity to rerank local seeds for composition")
     ap.add_argument("--compose-seed-embed-alpha", type=float, default=DEFAULT_COMPOSE_SEED_EMBED_ALPHA, help="Blend for seed rerank: 0=count-only, 1=embedding-only")
+    ap.add_argument("--compose-anchor-score-mode", type=str, default=DEFAULT_COMPOSE_ANCHOR_SCORE_MODE, choices=["fraction","idf_blend"], help="Scoring mode for composed variants")
+    ap.add_argument("--compose-anchor-alpha", type=float, default=DEFAULT_COMPOSE_ANCHOR_ALPHA, help="Alpha for IDF blend (0..1)")
+    ap.add_argument("--compose-anchor-floor", type=float, default=DEFAULT_COMPOSE_ANCHOR_FLOOR, help="Floor for composed factor to avoid suppression (>=1.0)")
+    ap.add_argument("--compose-anchor-cap", type=float, default=DEFAULT_COMPOSE_ANCHOR_CAP, help="Cap for composed factor to prevent runaway boosts")
+    ap.add_argument("--compose-anchor-max-per-sub", type=int, default=DEFAULT_COMPOSE_ANCHOR_MAX_PER_SUB, help="Maximum number of composed terms to generate per subreddit (0=disable cap)")
+    ap.add_argument("--compose-anchor-min-base-score", type=float, default=DEFAULT_COMPOSE_ANCHOR_MIN_BASE_SCORE, help="Minimum TF-IDF score of seed required to compose")
+    ap.add_argument("--compose-anchor-max-ratio", type=float, default=DEFAULT_COMPOSE_ANCHOR_MAX_RATIO, help="Maximum composed/base score ratio before rerank (0=disabled)")
     # Deprecated editorial whitelist (ignored in v2, kept for CLI compatibility)
     ap.add_argument("--compose-subjects-path", type=str, default=None, help="Deprecated: subject whitelist is ignored")
     ap.add_argument("--compose-subjects-bonus", type=float, default=DEFAULT_COMPOSE_SUBJECTS_BONUS, help="Deprecated: unused")
@@ -1768,6 +1950,7 @@ def main():
         min_df_trigram=args.min_df_trigram,
         frontpage_glob=args.frontpage_glob,
         posts_weight=args.posts_weight,
+        posts_composed_weight=args.posts_composed_weight,
         posts_halflife_days=args.posts_halflife_days,
         posts_generic_df_ratio=args.posts_generic_df_ratio,
         posts_ensure_k=args.posts_ensure_k,
@@ -1798,6 +1981,13 @@ def main():
         compose_seed_embed=args.compose_seed_embed,
         compose_seed_embed_alpha=args.compose_seed_embed_alpha,
         embed_candidate_pool=args.embed_candidate_pool,
+        compose_anchor_score_mode=args.compose_anchor_score_mode,
+        compose_anchor_alpha=args.compose_anchor_alpha,
+        compose_anchor_floor=args.compose_anchor_floor,
+        compose_anchor_cap=args.compose_anchor_cap,
+        compose_anchor_max_per_sub=args.compose_anchor_max_per_sub,
+        compose_anchor_min_base_score=args.compose_anchor_min_base_score,
+        compose_anchor_max_ratio=args.compose_anchor_max_ratio,
     )
 
 
