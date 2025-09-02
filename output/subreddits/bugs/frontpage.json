@@ -1,0 +1,1011 @@
+{
+  "subreddit": "bugs",
+  "url": "https://www.reddit.com/r/bugs",
+  "meta": {
+    "title": "Found a possible Reddit bug? Report it here.",
+    "members_text": "250,343"
+  },
+  "posts": [
+    {
+      "title": "[iOS/Android] Allow users to search for \"For Mods Only\" Post Flair",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n6qtld/iosandroid_allow_users_to_search_for_for_mods/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6qtld",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "bakonydraco",
+      "author_id": "t2_3sch0",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-02T18:05:56.385000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n6qtld/iosandroid_allow_users_to_search_for_for_mods/",
+      "content_preview": "",
+      "flair": [
+        "iOS"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "[Desktop web, edge] All of my reddit chats vanished from my inbox",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n2a466/desktop_web_edge_all_of_my_reddit_chats_vanished/",
+      "score": 45,
+      "comments": 65,
+      "post_id": "t3_1n2a466",
+      "post_type": "multi_media",
+      "domain": "self.bugs",
+      "author": "Adamtheduude",
+      "author_id": "t2_17gnmud48d",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-08-28T11:51:31.584000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n2a466/desktop_web_edge_all_of_my_reddit_chats_vanished/",
+      "content_preview": "",
+      "flair": [
+        "Dev/Admin Responded"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Android App double tap upvote no longer working - version 2025.34.0.2534040",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n6e54h/android_app_double_tap_upvote_no_longer_working/",
+      "score": 6,
+      "comments": 4,
+      "post_id": "t3_1n6e54h",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "_abyss_walker",
+      "author_id": "t2_3obwmwc0",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-02T08:39:09.111000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n6e54h/android_app_double_tap_upvote_no_longer_working/",
+      "content_preview": "",
+      "flair": [
+        "Dev/Admin Responded"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I’m an Irish Redditor on iOS. The app version has started asking me to confirm my age in accordance with UK laws. I live in Ireland and not the UK.",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1my0tgx/im_an_irish_redditor_on_ios_the_app_version_has/",
+      "score": 126,
+      "comments": 36,
+      "post_id": "t3_1my0tgx",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "hufflewaffle",
+      "author_id": "t2_9zex9",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-08-23T12:59:39.829000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1my0tgx/im_an_irish_redditor_on_ios_the_app_version_has/",
+      "content_preview": "",
+      "flair": [
+        "Dev/Admin Responded"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[Android] Dark mode not working correctly - version 2025.34.0",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n6jqky/android_dark_mode_not_working_correctly_version/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1n6jqky",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "20Caspar03",
+      "author_id": "t2_5v3gz5lb",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-02T13:39:03.720000+0000",
+      "content_href": "https://i.redd.it/vyokk5xu8rmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Dev/Admin Responded"
+      ],
+      "thumbnail_url": "https://preview.redd.it/android-dark-mode-not-working-correctly-version-2025-34-0-v0-vyokk5xu8rmf1.jpeg?width=640&crop=smart&auto=webp&s=5edaac4be929178b2b25c7b18422db4d922b38f5"
+    },
+    {
+      "title": "[Android] Comment double tap upvote is broken. Version 2025.34.0",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n5k5e3/android_comment_double_tap_upvote_is_broken/",
+      "score": 39,
+      "comments": 8,
+      "post_id": "t3_1n5k5e3",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "tminx49",
+      "author_id": "t2_52ufx2c",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-01T09:27:55.213000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n5k5e3/android_comment_double_tap_upvote_is_broken/",
+      "content_preview": "",
+      "flair": [
+        "Android"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "[Android] Avatar not showing up in my new or previous comments after update a few days ago.Buld Version 2025.34.0.2534040",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n6bptu/android_avatar_not_showing_up_in_my_new_or/",
+      "score": 4,
+      "comments": 9,
+      "post_id": "t3_1n6bptu",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Multitrak",
+      "author_id": "t2_1btz1b4a",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-02T06:00:36.984000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n6bptu",
+      "content_preview": "",
+      "flair": [
+        "Dev/Admin Responded"
+      ],
+      "thumbnail_url": "https://preview.redd.it/android-avatar-not-showing-up-in-my-new-or-previous-v0-z27kwke2zomf1.jpg?width=640&crop=smart&auto=webp&s=f3e4658ddf1f90b791c4c8abcaf4645508fd1873"
+    },
+    {
+      "title": "Chrome and Firefox, Reddit- Youtube videos are telling me to sign in.",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n6qsih/chrome_and_firefox_reddit_youtube_videos_are/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6qsih",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "shadow234542",
+      "author_id": "t2_f4m4b",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-02T18:04:48.178000+0000",
+      "content_href": "https://i.redd.it/w0i3pdhljsmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Desktop Web"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_cz66s/styles/profileIcon_tzim6nf6u31e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ec9b41bbda1ae05a7ce46ed2bfda4fae71e405ec"
+    },
+    {
+      "title": "[Firefox] \"your request has been blocked by network security try login with your reddit account\" error",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1mqj063/firefox_your_request_has_been_blocked_by_network/",
+      "score": 115,
+      "comments": 54,
+      "post_id": "t3_1mqj063",
+      "post_type": "multi_media",
+      "domain": "self.bugs",
+      "author": "SongsForBats",
+      "author_id": "t2_16si4y",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-08-15T00:58:04.483000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1mqj063/firefox_your_request_has_been_blocked_by_network/",
+      "content_preview": "",
+      "flair": [
+        "Dev/Admin Responded"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_16p9np/styles/profileIcon_fv986ysr3v561.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7ba84514e62086918f8793a8ef34fa4e7f5b5404"
+    },
+    {
+      "title": "IOS NSFW recurring post",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n6a2rv/ios_nsfw_recurring_post/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1n6a2rv",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Illustrious-Ship61",
+      "author_id": "t2_lzknkf22p",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-02T04:23:20.654000+0000",
+      "content_href": "https://i.redd.it/6rtvyhqphomf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "iOS"
+      ],
+      "thumbnail_url": "https://preview.redd.it/6rtvyhqphomf1.jpeg?width=1080&crop=smart&blur=40&format=pjpg&auto=webp&s=9d974878f11114b8e91c1b7d88215ef8b3b79418"
+    },
+    {
+      "title": "[Android] Cant upvote comments by double tapping.",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n2f2de/android_cant_upvote_comments_by_double_tapping/",
+      "score": 23,
+      "comments": 10,
+      "post_id": "t3_1n2f2de",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Jazzlike_Wheel602",
+      "author_id": "t2_ngy420m6",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-08-28T15:16:35.951000+0000",
+      "content_href": "https://v.redd.it/mie69f3p1slf1",
+      "content_preview": "",
+      "flair": [
+        "Android"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/android-cant-upvote-comments-by-double-tapping-v0-ZHJ2OWFsNHAxc2xmMWakuWqMz5cIOvkPKqFKIpU7GVL5WYjJTwBwoxIwovb7.png?width=640&crop=smart&format=pjpg&auto=webp&s=042952e77fe9c66a1108bba2c780db42f9897e2a"
+    },
+    {
+      "title": "iOS video sound keeps unmuting by itself",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n6bq7d/ios_video_sound_keeps_unmuting_by_itself/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1n6bq7d",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "Scarcity-Pretend",
+      "author_id": "t2_5vpj0bl7",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-02T06:01:07.664000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n6bq7d/ios_video_sound_keeps_unmuting_by_itself/",
+      "content_preview": "",
+      "flair": [
+        "iOS"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[Android,web browser] Cant load chats.",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n2atpw/androidweb_browser_cant_load_chats/",
+      "score": 22,
+      "comments": 9,
+      "post_id": "t3_1n2atpw",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Extreme-Leading5048",
+      "author_id": "t2_1pvus0xola",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-08-28T12:25:17.483000+0000",
+      "content_href": "https://i.redd.it/gamc5n927rlf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Dev/Admin Responded"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_erq6p8/styles/profileIcon_qprf6wivddlf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3d93fa015342350212bcfae097326aed09589127"
+    },
+    {
+      "title": "Subreddit stylesheet pages are now visible to everyone on old Reddit. Desktop Web",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n672fh/subreddit_stylesheet_pages_are_now_visible_to/",
+      "score": 3,
+      "comments": 2,
+      "post_id": "t3_1n672fh",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "lh7884",
+      "author_id": "t2_22q9bt9y",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-02T01:49:48.640000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n672fh/subreddit_stylesheet_pages_are_now_visible_to/",
+      "content_preview": "",
+      "flair": [
+        "Dev/Admin Responded"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "iPhone/iOS Comments not loading",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n05lmp/iphoneios_comments_not_loading/",
+      "score": 108,
+      "comments": 44,
+      "post_id": "t3_1n05lmp",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "6ftover",
+      "author_id": "t2_obr7x",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-08-25T23:03:19.833000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n05lmp/iphoneios_comments_not_loading/",
+      "content_preview": "",
+      "flair": [
+        "Dev/Admin Responded"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "On android",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n687qj/on_android/",
+      "score": 2,
+      "comments": 10,
+      "post_id": "t3_1n687qj",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "Square-Youth-4266",
+      "author_id": "t2_rnmhqvf3e",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-02T02:46:11.925000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n687qj/on_android/",
+      "content_preview": "",
+      "flair": [
+        "Android"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I’m on iOS and I can’t upvote or downvote on comments?",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1mir9r6/im_on_ios_and_i_cant_upvote_or_downvote_on/",
+      "score": 105,
+      "comments": 93,
+      "post_id": "t3_1mir9r6",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "pinto_bean13",
+      "author_id": "t2_3dy3sslx",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-08-06T01:15:05.749000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1mir9r6/im_on_ios_and_i_cant_upvote_or_downvote_on/",
+      "content_preview": "",
+      "flair": [
+        "Dev/Admin Responded"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[iOS] \"Allow Tracking on Reddit\" popup every time 2025.34.0",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n6qdcw/ios_allow_tracking_on_reddit_popup_every_time/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6qdcw",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "ghkddbsgk",
+      "author_id": "t2_wxqkm",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-02T17:49:12.555000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n6qdcw/ios_allow_tracking_on_reddit_popup_every_time/",
+      "content_preview": "",
+      "flair": [
+        "iOS"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Why is it forcing these on? Android",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1mm6u3j/why_is_it_forcing_these_on_android/",
+      "score": 79,
+      "comments": 28,
+      "post_id": "t3_1mm6u3j",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Tinywolf2005_",
+      "author_id": "t2_tp64rz7kw",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-08-10T02:16:00.629000+0000",
+      "content_href": "https://v.redd.it/sjs06ps0q3if1",
+      "content_preview": "",
+      "flair": [
+        "Android"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_aqyvol/styles/profileIcon_ya1qgqk81rmf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2047faf0f0385fd9175a3fee387d573815b8bdf1"
+    },
+    {
+      "title": "[IOS] Can’t edit custom user flair in any sub",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n61pwg/ios_cant_edit_custom_user_flair_in_any_sub/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n61pwg",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "ObsessedKilljoy",
+      "author_id": "t2_1cxcw99728",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-01T21:44:38.388000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n61pwg/ios_cant_edit_custom_user_flair_in_any_sub/",
+      "content_preview": "",
+      "flair": [
+        "iOS"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[iOS] the option to edit user flair is broken - Version 2025.34.0",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n60w4i/ios_the_option_to_edit_user_flair_is_broken/",
+      "score": 3,
+      "comments": 3,
+      "post_id": "t3_1n60w4i",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "RailFan879",
+      "author_id": "t2_sfjfky8n4",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-01T21:11:07.588000+0000",
+      "content_href": "https://i.redd.it/1fnilxnlcmmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "iOS"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_amb3md/styles/profileIcon_pbwuhj0ee3ff1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8597fdb8deae2e11a78e5c4da1cb0e4d39639aeb"
+    },
+    {
+      "title": "Latest feed not loading  iOS",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n00zcm/latest_feed_not_loading_ios/",
+      "score": 67,
+      "comments": 45,
+      "post_id": "t3_1n00zcm",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "[deleted]",
+      "author_id": "",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-08-25T20:01:49.406000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n00zcm/latest_feed_not_loading_ios/",
+      "content_preview": "",
+      "flair": [
+        "Dev/Admin Responded"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Redgifs Crashing Firefox and Windows 10. Maxing out Windows Defender.",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n6391s/redgifs_crashing_firefox_and_windows_10_maxing/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n6391s",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "lfohnoudidnt",
+      "author_id": "t2_218nwxgu",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-01T22:50:34.100000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n6391s/redgifs_crashing_firefox_and_windows_10_maxing/",
+      "content_preview": "",
+      "flair": [
+        "Desktop Web"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[Android] Try again' button is impossible to press as its behind the 'hide all apps' button.",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n5zp8c/android_try_again_button_is_impossible_to_press/",
+      "score": 3,
+      "comments": 3,
+      "post_id": "t3_1n5zp8c",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "CactuarLOL",
+      "author_id": "t2_7civ8",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-01T20:25:19.888000+0000",
+      "content_href": "https://i.redd.it/8yfr21jf4mmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Android"
+      ],
+      "thumbnail_url": "https://preview.redd.it/android-try-again-button-is-impossible-to-press-as-its-v0-8yfr21jf4mmf1.png?width=640&crop=smart&auto=webp&s=46eafe4dcd66d45874e3c8e05838c55d87dbbb7a"
+    },
+    {
+      "title": "[Android] My feed isn't updating and my Reddit streak isn't working",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1mif5bg/android_my_feed_isnt_updating_and_my_reddit/",
+      "score": 64,
+      "comments": 41,
+      "post_id": "t3_1mif5bg",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "Helpful-Citron-463",
+      "author_id": "t2_aitkgos4",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-08-05T17:15:29.803000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1mif5bg/android_my_feed_isnt_updating_and_my_reddit/",
+      "content_preview": "",
+      "flair": [
+        "Dev/Admin Responded"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_408qrf/styles/profileIcon_dfyjxnb1sqca1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=680c2cdb012c2d53cdb400efe5fd1a55c5855c46"
+    },
+    {
+      "title": "Android disable notifications on replies option gone",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n5wq39/android_disable_notifications_on_replies_option/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1n5wq39",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "xXStretcHXx117",
+      "author_id": "t2_529oqttl",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-01T18:31:58.958000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n5wq39/android_disable_notifications_on_replies_option/",
+      "content_preview": "",
+      "flair": [
+        "Android"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "[Android] Telling you to sign up despite already been signed up.. is it normal? [2025.34.0]",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n5vwlw/android_telling_you_to_sign_up_despite_already/",
+      "score": 2,
+      "comments": 6,
+      "post_id": "t3_1n5vwlw",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "diligent_rooodie",
+      "author_id": "t2_1wwifp1t6u",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-01T18:02:08.351000+0000",
+      "content_href": "https://i.redd.it/1dxshimvelmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Android"
+      ],
+      "thumbnail_url": "https://preview.redd.it/android-telling-you-to-sign-up-despite-already-been-signed-v0-1dxshimvelmf1.png?width=640&crop=smart&auto=webp&s=436086951ef60dd4c5d17a1870ab0bd81b345457"
+    },
+    {
+      "title": "[Android] \"sharing this?\" banner keeps popping up constantly 2025.34.0",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n5plgm/android_sharing_this_banner_keeps_popping_up/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n5plgm",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "alancake",
+      "author_id": "t2_lti30",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-01T14:05:03.868000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n5plgm",
+      "content_preview": "",
+      "flair": [
+        "Android"
+      ],
+      "thumbnail_url": "https://preview.redd.it/android-sharing-this-banner-keeps-popping-up-constantly-v0-z4a3sw0l8kmf1.png?width=640&crop=smart&auto=webp&s=89c2fd60cd54be577a4c51d25838d073977057a3"
+    },
+    {
+      "title": "New home page on iOS tabs are useless, can’t swipe anymore",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1mk6ztg/new_home_page_on_ios_tabs_are_useless_cant_swipe/",
+      "score": 61,
+      "comments": 17,
+      "post_id": "t3_1mk6ztg",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "Agreeable-Nature-128",
+      "author_id": "t2_axcwlmhr",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-08-07T17:52:39.527000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1mk6ztg/new_home_page_on_ios_tabs_are_useless_cant_swipe/",
+      "content_preview": "",
+      "flair": [
+        "iOS"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "iOS unable to load comments section from users profile 2025.34.0.616491",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n425nj/ios_unable_to_load_comments_section_from_users/",
+      "score": 21,
+      "comments": 9,
+      "post_id": "t3_1n425nj",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "PoorChoices2",
+      "author_id": "t2_fdsghgdk",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-08-30T13:51:46.268000+0000",
+      "content_href": "https://i.redd.it/bk3ftf5ew5mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "iOS"
+      ],
+      "thumbnail_url": "https://preview.redd.it/ios-unable-to-load-comments-section-from-users-profile-2025-v0-bk3ftf5ew5mf1.jpeg?width=640&crop=smart&auto=webp&s=c26f26d54aaaee7acadf05362f1c5dffc08e8dc6"
+    },
+    {
+      "title": "Messages Not Appearing in Inbox Across Multiple Accounts, desktop web, android",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n2aep5/messages_not_appearing_in_inbox_across_multiple/",
+      "score": 20,
+      "comments": 6,
+      "post_id": "t3_1n2aep5",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "Foreign-Chip-8316",
+      "author_id": "t2_147nsppkbx",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-08-28T12:05:45.245000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n2aep5/messages_not_appearing_in_inbox_across_multiple/",
+      "content_preview": "",
+      "flair": [
+        "Dev/Admin Responded"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "IOS Mobile app jumps down in comments when clicking into a post",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n5se2s/ios_mobile_app_jumps_down_in_comments_when/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n5se2s",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "DLXCPCTR",
+      "author_id": "t2_57mlxkkr",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-01T15:52:44.289000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n5se2s/ios_mobile_app_jumps_down_in_comments_when/",
+      "content_preview": "",
+      "flair": [
+        "iOS"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "iOS Lost Features in new UI 2025.31.1.616451",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1mktg7x/ios_lost_features_in_new_ui_2025311616451/",
+      "score": 46,
+      "comments": 24,
+      "post_id": "t3_1mktg7x",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "Confused_recursion",
+      "author_id": "t2_soydj75b",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-08-08T12:09:10.016000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1mktg7x/ios_lost_features_in_new_ui_2025311616451/",
+      "content_preview": "",
+      "flair": [
+        "Dev/Admin Responded"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[Android] Next comment button skips too far [version 2025.30.0]",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1mjlr9p/android_next_comment_button_skips_too_far_version/",
+      "score": 46,
+      "comments": 25,
+      "post_id": "t3_1mjlr9p",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "SoundSerendipity",
+      "author_id": "t2_87dsxya8",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-08-07T00:35:31.292000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1mjlr9p/android_next_comment_button_skips_too_far_version/",
+      "content_preview": "",
+      "flair": [
+        "Dev/Admin Responded"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Latest feed not responding in ios",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n023us/latest_feed_not_responding_in_ios/",
+      "score": 40,
+      "comments": 10,
+      "post_id": "t3_1n023us",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Sxxmit_",
+      "author_id": "t2_7z7dneqfh",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-08-25T20:44:14.725000+0000",
+      "content_href": "https://i.redd.it/5ikdhx5f98lf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Dev/Admin Responded"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "[chrome] Reddit admin bots are removing our posts - probably incorrectly and without any opportunity for us to review them",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n6q5wf/chrome_reddit_admin_bots_are_removing_our_posts/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n6q5wf",
+      "post_type": "multi_media",
+      "domain": "self.bugs",
+      "author": "gm310509",
+      "author_id": "t2_6d167rfx",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-02T17:41:31.270000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n6q5wf/chrome_reddit_admin_bots_are_removing_our_posts/",
+      "content_preview": "",
+      "flair": [
+        "Dev/Admin Responded"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Have to save new ad campaign before it will allow me to set an end date for the ad campaign - desktop web, chrome, windows 11",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n6pn95/have_to_save_new_ad_campaign_before_it_will_allow/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6pn95",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "stickfigurerecords",
+      "author_id": "t2_9ubi0jse",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-02T17:21:59.936000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n6pn95/have_to_save_new_ad_campaign_before_it_will_allow/",
+      "content_preview": "",
+      "flair": [
+        "Desktop Web"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3qdnr7/styles/profileIcon_wro4kds68mb61.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b182c1b4389c7c2c19f4d82d829ca0e60a326f2b"
+    },
+    {
+      "title": "[Android] Comment jump button goes to wrong comment (still not fixed after several weeks)",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n0reb2/android_comment_jump_button_goes_to_wrong_comment/",
+      "score": 21,
+      "comments": 5,
+      "post_id": "t3_1n0reb2",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "daniscross",
+      "author_id": "t2_15h5pp1g",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-08-26T17:00:21.886000+0000",
+      "content_href": "/r/bugs/comments/1m7bu4j/android_comment_jump_button_goes_to_wrong_comment/",
+      "content_preview": "",
+      "flair": [
+        "Dev/Admin Responded"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[ios]Redgifs stopped autoplaying.",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1mp43wu/iosredgifs_stopped_autoplaying/",
+      "score": 38,
+      "comments": 42,
+      "post_id": "t3_1mp43wu",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "Expensive-Text2956",
+      "author_id": "t2_nuzwvj4l",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-08-13T13:13:44.905000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1mp43wu/iosredgifs_stopped_autoplaying/",
+      "content_preview": "",
+      "flair": [
+        "Dev/Admin Responded"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "iOS no comments showing in the comment section",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n4gogr/ios_no_comments_showing_in_the_comment_section/",
+      "score": 19,
+      "comments": 4,
+      "post_id": "t3_1n4gogr",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "United-Vanilla-1212",
+      "author_id": "t2_vlvg0d93",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-08-31T00:14:09.290000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n4gogr/ios_no_comments_showing_in_the_comment_section/",
+      "content_preview": "",
+      "flair": [
+        "iOS"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "News tab gone iOS",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1mkgay7/news_tab_gone_ios/",
+      "score": 33,
+      "comments": 10,
+      "post_id": "t3_1mkgay7",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "arabella_meyer",
+      "author_id": "t2_1y5xrxox",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-08-08T00:03:41.147000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1mkgay7/news_tab_gone_ios/",
+      "content_preview": "",
+      "flair": [
+        "iOS"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Getting post replies in my notifications, but can't  find them when I visit the post. (firefox, web)",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n6p66s/getting_post_replies_in_my_notifications_but_cant/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6p66s",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "ATornadoOfKittens",
+      "author_id": "t2_1hdvi0azii",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-02T17:04:08.975000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n6p66s/getting_post_replies_in_my_notifications_but_cant/",
+      "content_preview": "",
+      "flair": [
+        "Desktop Web"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "[Chrome] [all platforms] Reddit (deliberately?) keeping me from making viral posts",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n5ro82/chrome_all_platforms_reddit_deliberately_keeping/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1n5ro82",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "lutavsc",
+      "author_id": "t2_myvgkin",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-01T15:25:13.614000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n5ro82/chrome_all_platforms_reddit_deliberately_keeping/",
+      "content_preview": "",
+      "flair": [
+        "Android"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[Android] search bar doubling the first letter",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n5j5nf/android_search_bar_doubling_the_first_letter/",
+      "score": 4,
+      "comments": 6,
+      "post_id": "t3_1n5j5nf",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Infinite-Island-7310",
+      "author_id": "t2_6d80bv0v",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-01T08:23:44.955000+0000",
+      "content_href": "https://v.redd.it/r1v505vojimf1",
+      "content_preview": "",
+      "flair": [
+        "Android"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3bp690/styles/profileIcon_8t0eove0ej5c1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=bc2a19b9eea0b603661f170513e49d1c1bb61f48"
+    },
+    {
+      "title": "[Android] Avatar on comments not matching my snoo [Version 2025.34.0]",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n5ifq0/android_avatar_on_comments_not_matching_my_snoo/",
+      "score": 3,
+      "comments": 7,
+      "post_id": "t3_1n5ifq0",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "pollyp0cketpussy",
+      "author_id": "t2_8udqc9dg",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-01T07:37:27.946000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n5ifq0/android_avatar_on_comments_not_matching_my_snoo/",
+      "content_preview": "",
+      "flair": [
+        "Android"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Latest feed does not refresh? iOS",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1mka6gy/latest_feed_does_not_refresh_ios/",
+      "score": 32,
+      "comments": 8,
+      "post_id": "t3_1mka6gy",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "[deleted]",
+      "author_id": "",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-08-07T19:53:21.940000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1mka6gy/latest_feed_does_not_refresh_ios/",
+      "content_preview": "",
+      "flair": [
+        "iOS"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "IOS NEWS Disappeared",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1mjjruc/ios_news_disappeared/",
+      "score": 32,
+      "comments": 15,
+      "post_id": "t3_1mjjruc",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "ItsyBitsyBurmese",
+      "author_id": "t2_p2r1xj7j",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-08-06T23:08:39.852000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1mjjruc/ios_news_disappeared/",
+      "content_preview": "",
+      "flair": [
+        "iOS"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Chrome - Reddit \"Insights\" Can't Math Part II",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n6ov2r/chrome_reddit_insights_cant_math_part_ii/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n6ov2r",
+      "post_type": "multi_media",
+      "domain": "self.bugs",
+      "author": "XGempler",
+      "author_id": "t2_fawxo",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-02T16:52:53.806000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n6ov2r/chrome_reddit_insights_cant_math_part_ii/",
+      "content_preview": "",
+      "flair": [
+        "Mod Tools - All Platforms"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[chrome] Unable to choose 'Show fewer posts like this' for some subreddits",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n6oqy9/chrome_unable_to_choose_show_fewer_posts_like/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6oqy9",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "Zalminen",
+      "author_id": "t2_hay8o",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-02T16:48:45.951000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n6oqy9/chrome_unable_to_choose_show_fewer_posts_like/",
+      "content_preview": "",
+      "flair": [
+        "Mobile Web"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Excluir conversas no Android",
+      "permalink": "https://www.reddit.com/r/bugs/comments/1n6ol9n/excluir_conversas_no_android/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n6ol9n",
+      "post_type": "text",
+      "domain": "self.bugs",
+      "author": "Angel-Ananke",
+      "author_id": "t2_gzrqqmeq",
+      "subreddit_id": "t5_2h84o",
+      "subreddit": "r/bugs",
+      "created_ts": "2025-09-02T16:42:56.322000+0000",
+      "content_href": "https://www.reddit.com/r/bugs/comments/1n6ol9n/excluir_conversas_no_android/",
+      "content_preview": "",
+      "flair": [
+        "Android"
+      ],
+      "thumbnail_url": ""
+    }
+  ],
+  "scraped_at": "2025-09-02T11:42:23.357709"
+}

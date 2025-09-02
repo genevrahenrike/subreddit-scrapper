@@ -1,0 +1,1010 @@
+{
+  "subreddit": "Discord_Bots",
+  "url": "https://www.reddit.com/r/Discord_Bots",
+  "meta": {
+    "title": "Discord Bots"
+  },
+  "posts": [
+    {
+      "title": "Is this bot safe to use?  and what discord bot site is safe to use?",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n5qd1p/is_this_bot_safe_to_use_and_what_discord_bot_site/",
+      "score": 0,
+      "comments": 10,
+      "post_id": "t3_1n5qd1p",
+      "post_type": "multi_media",
+      "domain": "self.Discord_Bots",
+      "author": "SkilletInMyHead",
+      "author_id": "t2_veufhjal",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-09-01T14:35:01.758000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n5qd1p/is_this_bot_safe_to_use_and_what_discord_bot_site/",
+      "content_preview": "https://discordbotlist.com/bots/engagerly <-- is the bot I saw that I wanted to use but i'm unsure if it's safe or not.",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_80v0of/styles/profileIcon_thandpmikzjf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d9d5fef581f38cc68001d88dd1855fc95c66a2f4"
+    },
+    {
+      "title": "Discord Bot Custom Status",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n421on/discord_bot_custom_status/",
+      "score": 7,
+      "comments": 1,
+      "post_id": "t3_1n421on",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "J6ydenz",
+      "author_id": "t2_lghiobwi",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-30T13:46:38.599000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n421on/discord_bot_custom_status/",
+      "content_preview": "is there anyway I can set a custom status for my bot? Like instead of saying playing, watching, or streaming. There will be an actual status, im using vs code + python 3.11.6",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Need help on coding",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n69em6/need_help_on_coding/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n69em6",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "eieiei101010",
+      "author_id": "t2_rub3dy6uk",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-09-02T03:46:49.579000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n69em6/need_help_on_coding/",
+      "content_preview": "Is there a way to create a discord bot to check for whether a user has a server tag or not, ik its a UI but ive seen some servers done it and also a discord bot to check for whether someone is an alt acc or not (like double counter)",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "a bot that dms members when banned?",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1mjkbw6/a_bot_that_dms_members_when_banned/",
+      "score": 5,
+      "comments": 32,
+      "post_id": "t3_1mjkbw6",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "very-gay-betch",
+      "author_id": "t2_7vsxuifj",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-06T23:32:48.905000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1mjkbw6/a_bot_that_dms_members_when_banned/",
+      "content_preview": "i’ve been looking for a bot that messages a user when they are banned, but my only issue is that mee6, carl bot and dyno all require premium for this to work. carl bot’s automod does most of the bans, so i was wondering if there was a bot that detects when a user is banned and sends them a custom message?",
+      "flair": [
+        "Bot Request [Existing ONLY]"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Imposter assignment",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n61xmu/imposter_assignment/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1n61xmu",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "SnooSprouts6860",
+      "author_id": "t2_5ossfxd4",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-09-01T21:53:40.214000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n61xmu/imposter_assignment/",
+      "content_preview": "Edit: I ended up learning how to make one. It took a while but if anyone ends up wanting this let me know and I can share the code. Looking for a bot that can randomly and secretly assign a user as an imposter. I saw someone play repo but with an imposter and want to try it with my friends.",
+      "flair": [
+        "Bot Request [Free]"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "censoring bot",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n1kdjn/censoring_bot/",
+      "score": 7,
+      "comments": 14,
+      "post_id": "t3_1n1kdjn",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "KaishiChann",
+      "author_id": "t2_9cep6maa",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-27T15:36:11.006000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n1kdjn/censoring_bot/",
+      "content_preview": "hey guys, is there any bot that would help me in automatic censoring words on dc server? I mean not ban but censor like the spoiler do. Thank u.",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3kbnsl/styles/profileIcon_zbd0hmtuijlf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=42cbb30a656d919436d241607d17d53ed97f4415"
+    },
+    {
+      "title": "How to setup a website for html transcripts?",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n5mmpl/how_to_setup_a_website_for_html_transcripts/",
+      "score": 0,
+      "comments": 8,
+      "post_id": "t3_1n5mmpl",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "eieiei101010",
+      "author_id": "t2_rub3dy6uk",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-09-01T11:52:30.421000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n5mmpl/how_to_setup_a_website_for_html_transcripts/",
+      "content_preview": "Hi, im coding my own ticket bot but recently im struggling tryna figure out how to get the bot to make the html transcript onto a website like how ticket tool does it. I tried render but it always shows up as an error. Anyone can help me with this?",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "is there any disscord nuke bot that is specific made for application command? such as /nuke",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n4jxh8/is_there_any_disscord_nuke_bot_that_is_specific/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n4jxh8",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "No_Deal2402",
+      "author_id": "t2_10pzr9pcg0",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-31T02:59:44.744000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n4jxh8/is_there_any_disscord_nuke_bot_that_is_specific/",
+      "content_preview": "am a anti-nuke bot dev that have patch many discord nuke bot before, i just wanted to help the discord community",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Looking for a bot that acts like an announcement channel",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1mxqovf/looking_for_a_bot_that_acts_like_an_announcement/",
+      "score": 4,
+      "comments": 2,
+      "post_id": "t3_1mxqovf",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "ReadingRainbowRider",
+      "author_id": "t2_l4v0bgbbi",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-23T03:19:49.649000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1mxqovf/looking_for_a_bot_that_acts_like_an_announcement/",
+      "content_preview": "May seem basic to some. We have a server that acts like a nerve cell but each alliance had their own discord. Looking for a bot that acts like a publish/announcement function without the 10/hr limit that can automatically post what’s mentioned in one server to another. However, I don’t want anyone on the receiving end to be able to post back. Just view what’s said.",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ae85eu/styles/profileIcon_w6vf7zk838uc1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=523104e387df723a12553f8955d6c76a60b8c5bc"
+    },
+    {
+      "title": "Looking for a good/easy music bot",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n55vs6/looking_for_a_goodeasy_music_bot/",
+      "score": 1,
+      "comments": 4,
+      "post_id": "t3_1n55vs6",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "shu_reddit",
+      "author_id": "t2_8dcjamjn",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-31T20:57:02.189000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n55vs6/looking_for_a_goodeasy_music_bot/",
+      "content_preview": "I'm sure this has been asked a MILLION times before but I'm looking for a good and (ideally) easy way to listen to music with friends in a server while we play games in a voice channel. Does anyone have any recommendations for best bots or ways to go about it?",
+      "flair": [
+        "Bot Request [Existing ONLY]"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "[HIRING] Discord Bot Dev / Marketplace-style listings, queues, DM confirmations, ratings, scoring system, automated flows (PAID)",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n0nn72/hiring_discord_bot_dev_marketplacestyle_listings/",
+      "score": 4,
+      "comments": 6,
+      "post_id": "t3_1n0nn72",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "atrecks",
+      "author_id": "t2_105fp0v",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-26T14:39:29.147000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n0nn72/hiring_discord_bot_dev_marketplacestyle_listings/",
+      "content_preview": "Seeking an experienced Discord bot dev to build a marketplace-style bot: create/manage listings, users queue under listings, DM confirmations (timezone-aware), post-action ratings/rep, clean embeds, auto-cleanup of expired, user scoring, group finder system, etc.. more details will be provided. Stack: discord.py or Node.js (slash cmds/views), Postgres (Supabase), async/rate limits, deploy on Railway/Docker. Deliverables: prod-ready code, DB schema, README, basic stats. Timeline: Delivery within ~2–3 weeks from agreement. Budget: paid/negotiable. DM portfolio + shipped bots + rough quote/ETA.",
+      "flair": [
+        "Discord Library"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Problema con Reaction roles de Carlbot",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n54rsg/problema_con_reaction_roles_de_carlbot/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n54rsg",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "Zeballitos",
+      "author_id": "t2_h92tol2b",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-31T20:12:16.109000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n54rsg/problema_con_reaction_roles_de_carlbot/",
+      "content_preview": "Estoy haciendo un servidor para estudiar en la facultad con varios compañeros y puse roles para cada materia de la carrera y uno extra de Estudiante para ver la pestaña de comunidad. Todos los mensajes de Carlbot están en un mismo lugar y funcionan, únicamente no otorga el rol en el mensaje de Estudiante. Ya le di todos los permisos y probé reeditando el mensaje. Tampoco sobrepasé ningún límites de roles ni nada por el estilo ¿alguien tiene alguna posible solución?",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Looking for a Chore reminder bot...",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n11i2o/looking_for_a_chore_reminder_bot/",
+      "score": 4,
+      "comments": 5,
+      "post_id": "t3_1n11i2o",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "Suspicious_Sky4441",
+      "author_id": "t2_11euoe5nhm",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-26T23:35:02.441000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n11i2o/looking_for_a_chore_reminder_bot/",
+      "content_preview": "As an April fools joke, a guy on reels designed a custom discord server that reminded him and his roommate of weekly chores, had a shopping list, and other cool gadgets. While I am new to discord, I wanted to see if that really existed, and where to find it. I wanted something that randomly choose someone to do something at a weekly basis (or bi-weekly, or some odd number of days). Question is, do I do a chat GPT custom job, or does something like this exist?",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "discohook utils: cant get rid of \"edited\" underneath embed",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n4mcfh/discohook_utils_cant_get_rid_of_edited_underneath/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1n4mcfh",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "Physical_Hyena_3389",
+      "author_id": "t2_lewm3wn6z",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-31T05:14:45.436000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n4mcfh/discohook_utils_cant_get_rid_of_edited_underneath/",
+      "content_preview": "this is really bothering me i was following a tutorial on youtube and saw people having the same problem in the comments as me but the author said nothing that actually helped. ive posted an embed with button to assign roles to members when they click on them, but once i add the button, there is an annoying \"edited\" text underneath the embed which ruins the flow. i would send an image to show but it wont let me. does anyone have a solution?",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "is there a bot which can display html provided by the owner of the server or an admin, while it is fully interactable",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1mhxzc6/is_there_a_bot_which_can_display_html_provided_by/",
+      "score": 4,
+      "comments": 6,
+      "post_id": "t3_1mhxzc6",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "Your_moms_slipper",
+      "author_id": "t2_l3dhjgj7z",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-05T03:02:21.037000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1mhxzc6/is_there_a_bot_which_can_display_html_provided_by/",
+      "content_preview": "i need a bot to display a cool cipher html i made and the people on my server can use it. Any bots out there that can do this? Thanks in advance.",
+      "flair": [
+        "[SOLVED]"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Custom AIO bot",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n4jyfc/custom_aio_bot/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1n4jyfc",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "ItsArkayian",
+      "author_id": "t2_2hb55lft",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-31T03:00:59.929000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n4jyfc/custom_aio_bot/",
+      "content_preview": "Im building an all in one bot, mostly just to learn new things and keep my mind sane when i have nothing else to do.    My question is.  What are some ideas I should try and add?",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_s2k3s/styles/profileIcon_nyurdwjihxef1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b1c3e0beb65f1385bde345b89ca26fd00b7f140b"
+    },
+    {
+      "title": "needle thread bot creating random threads from old posts and reacting to random posts",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1mzvgsk/needle_thread_bot_creating_random_threads_from/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1mzvgsk",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "doodlebags",
+      "author_id": "t2_vtc3u80",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-25T16:36:40.784000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1mzvgsk/needle_thread_bot_creating_random_threads_from/",
+      "content_preview": "I have the needle discord bot that creates auto threads in my server, so that i can keep art channels organized. it works fine, but recently, i've been hearing from users that the bot keeps randomly reacting to their older threads and it also started creating random threads in channels that i hadn't had the bot in until a month ago. how do i stop it from creating threads out of old posts and reacting to old threads?",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_he5e6/styles/profileIcon_vcnojwyxvaca1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=cdf774e799407249e5078b78f0c4663afc25ca67"
+    },
+    {
+      "title": "The reality of oracle cloud “free tier” (DO NOT USE IT)",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1mz1953/the_reality_of_oracle_cloud_free_tier_do_not_use/",
+      "score": 0,
+      "comments": 8,
+      "post_id": "t3_1mz1953",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "Motor-Scholar-6502",
+      "author_id": "t2_t07kn7r5c",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-24T17:09:03.828000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1mz1953/the_reality_of_oracle_cloud_free_tier_do_not_use/",
+      "content_preview": "So i signed up for oracle cloud free tier in hopes that my hosting costs can be eliminated now although my account was accepted it took like weeks before i even finally got a free tier account loaded up  and honestly for the first month or two it was actually looking good didnt spend a dime and was getting 24 gb. It felt way too good to be true. Until reality kicked in. I got a email a few months later from oracle telljng me i have a unpaid invoice of about 112 dollars Btw this is basically how much it would cost to host my bot on a cheap VPS for like 2-3 years I tried ignoring it because i was on a “free tier” account and thought it mightve been some bug or something. I then get another email a month later saying they will be suspending my account in a month if the invoice is unpaid. And then i start realizing im fucked. They then immediately shut off all my vps and all my bots turned off i lost all my files and data i had saved in it and then shut down my account. I called a tech support guy and he told me basically this verbatim The always free tier means that its always free “for that time period” essentially its free for a certain period of time until they make you pay I went into this thinking i was going to make money with free hosting ended up paying more than i even wouldve paid on my normal vps",
+      "flair": [
+        "Meta"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Good hosting service for bots(preferably free)",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1myh7ms/good_hosting_service_for_botspreferably_free/",
+      "score": 0,
+      "comments": 13,
+      "post_id": "t3_1myh7ms",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "Klutzy_Letterhead578",
+      "author_id": "t2_dumlr4u2z",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-24T00:06:48.707000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1myh7ms/good_hosting_service_for_botspreferably_free/",
+      "content_preview": "anything except raspberry Pi or pella(its glitchy)",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Discord that use to dm whole server when joining it",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n1jbx7/discord_that_use_to_dm_whole_server_when_joining/",
+      "score": 0,
+      "comments": 13,
+      "post_id": "t3_1n1jbx7",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "Mecin",
+      "author_id": "t2_3dc5k036",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-27T14:57:05.789000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n1jbx7/discord_that_use_to_dm_whole_server_when_joining/",
+      "content_preview": "Yea, you heard that right. Can anyone teach me or tell me how to make a bot/account that auto dm the people on the server that it's just joined? And no, my purpose is not to raid someone. It's just a discord that I manage and I want suprise my friend by secretly dm'ing the whole server to shout my friend's birthday with pics and text of instructions on when we should do it, my friend's birthday is in a week btw, care to help me?",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "HELP with creating BANNER EMBED",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n1qc8b/help_with_creating_banner_embed/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1n1qc8b",
+      "post_type": "multi_media",
+      "domain": "self.Discord_Bots",
+      "author": "dedeleledede",
+      "author_id": "t2_5x8e5j41",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-27T19:17:36.172000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n1qc8b/help_with_creating_banner_embed/",
+      "content_preview": "I need to create an embed like the example. somehow this person has been able to use a webhook to link an image on top of everything and I'd like assistance with this, can't figure it out the example: https://cdn.discordapp.com/attachments/781008768925433876/1410342394326552626/image.png?ex=68b0ab35&is=68af59b5&hm=3cc4762e7a8f10d5401cc011d81c277c3036c0bcc2e03701847aa5f1419ec4c5&",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "looking for a bot or possibly to have one created for bets like twitch bets",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n2f3k6/looking_for_a_bot_or_possibly_to_have_one_created/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1n2f3k6",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "Sensitive_Outside140",
+      "author_id": "t2_gknka899",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-28T15:17:46.638000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n2f3k6/looking_for_a_bot_or_possibly_to_have_one_created/",
+      "content_preview": "im looking for something like twitch bets so people could generate points from chatting in discord or something else arbitrary and then we could make custom bets and the pay outs would be based on like the amount voted and which side people vote on.",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Has anyone actually gotten Message Content Intent approved lately? Getting really frustrated here...",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1mw624o/has_anyone_actually_gotten_message_content_intent/",
+      "score": 0,
+      "comments": 20,
+      "post_id": "t3_1mw624o",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "MouT_me",
+      "author_id": "t2_1vbygjco",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-21T09:21:47.271000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1mw624o/has_anyone_actually_gotten_message_content_intent/",
+      "content_preview": "Hey everyone, Just got denied for Message Content Intent again and honestly feeling pretty defeated. Looking for advice from other bot devs who might have been through this. Our use case: - Community management bot with AI-powered features - Auto Q&A for users (natural language, not slash commands) - Advanced spam detection beyond AutoMod Discord's response: - Said our use cases can be implemented without Message Content Intent - Suggested using slash commands and AutoMod instead - Mentioned concerns about AI/ML processing message content (even though we don't store data or train models) The confusing part: We specifically outlined scenarios where slash commands don't work, where Discord's native features fall short, and included actual user requests from our community managers asking for these exact features. But the reviewer just keeps saying it's not \"unique\" enough without actually addressing any of our points. What's really frustrating is that we researched a bunch of approved bots (MEE6, WickBot, BoltBot, etc.) that are doing very similar things and they all have Message Content Intent. Like, our features feel pretty standard for community management bots. Questions: Has anyone successfully appealed a denial or got approved on a second try? What made your use case \"unique and compelling\" in Discord's eyes? Any tips for better positioning AI-powered features? Really could use some guidance here - feels like I'm missing something obvious but can't figure out what. Thanks in advance! 🙏",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Botghost now paid?",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1mutet4/botghost_now_paid/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1mutet4",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "Calzizzle1",
+      "author_id": "t2_1ab0svojlt",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-19T20:05:11.801000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1mutet4/botghost_now_paid/",
+      "content_preview": "I noticed botghost is now a paid service, I mostly use discord bots for personal stuff not selling so I can't justify buy in purchase, are there any alternatives?",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Is there a way to get sapphire to send messages on command?",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n45yfd/is_there_a_way_to_get_sapphire_to_send_messages/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n45yfd",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "Ok_Construction_6906",
+      "author_id": "t2_mn7xi5xsb",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-30T16:29:27.176000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n45yfd/is_there_a_way_to_get_sapphire_to_send_messages/",
+      "content_preview": "For example, I send a message in a chat and then sapphire sends a pre-written message in a different chat? Context: I use discord for my Hayday neighborhood. Our neighborhood has a policy that if members miss 2 derbies (2 week long events) with 0 participation, they will be kicked out. I would like to send a warning/reminder message to members who have missed one Derby letting them know if they miss another they will be kicked out. Ideally, I would send messages with the of the users of users and Sapphire would either DM them or put it in a specific specific channel. Is this possible? I appreciate any and all help!",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "New Discord bot with Stripe",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n0iwte/new_discord_bot_with_stripe/",
+      "score": 0,
+      "comments": 5,
+      "post_id": "t3_1n0iwte",
+      "post_type": "multi_media",
+      "domain": "self.Discord_Bots",
+      "author": "enterrrrrrr",
+      "author_id": "t2_uual5asr",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-26T11:11:10.520000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n0iwte/new_discord_bot_with_stripe/",
+      "content_preview": "Hi everyone, I’m working on Sublyna - a platform to monetize Discord or Telegram communities with simple Stripe payments. It’s not live yet, but early adopters will get 0% fees (limited time). Would love your feedback on the concept before launch!",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Discord Booster 3 months",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n0f9o9/discord_booster_3_months/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n0f9o9",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "NoNegotiation350",
+      "author_id": "t2_1vzbuyjcmx",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-26T07:22:29.498000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n0f9o9/discord_booster_3_months/",
+      "content_preview": "디스코드 부스터를 3개월 동안 최저가로 구매하고 싶고, 계속 구매할 계획입니다. 14달러 미만으로 3개월 동안 부스터 15개가 많으면 좋을 것 같습니다.",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Car Discord Bot",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1murt4p/car_discord_bot/",
+      "score": 0,
+      "comments": 6,
+      "post_id": "t3_1murt4p",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "Behrley",
+      "author_id": "t2_1vywba4gy4",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-19T19:06:56.295000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1murt4p/car_discord_bot/",
+      "content_preview": "Hi! I'm wanting to make a discord bot that sends random pictures of cars every 5-10 minutes or every hour or so and have no experience of programming or bot making. Can anyone help me with this? - If someone knows of a bot that already does this, please let me know so i can invite it to my server, thank you!",
+      "flair": [
+        "Is this possible?"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "The Limit",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1mtxzbj/the_limit/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mtxzbj",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Eepymika",
+      "author_id": "t2_1v9pg13etx",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-18T20:45:07.197000+0000",
+      "content_href": "/r/discordbots/comments/1mtxytx/the_limit/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f4lvvz/styles/profileIcon_ygwywh9kpthf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a5f4426a146b73fff3d045317eba3684ed11e70c"
+    },
+    {
+      "title": "Would you adopt an AI Community Manager?",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1mtlbuy/would_you_adopt_an_ai_community_manager/",
+      "score": 0,
+      "comments": 7,
+      "post_id": "t3_1mtlbuy",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "Due_Worker5102",
+      "author_id": "t2_93an7hrn",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-18T12:58:57.715000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1mtlbuy/would_you_adopt_an_ai_community_manager/",
+      "content_preview": "I ran a Discord community for 4 years. When I stopped posting for a few days, activity dropped. The hard part wasn’t drama it was the daily routine: post a topic, remind people, run a small event, follow up. I’m exploring an AI helper that does those routine tasks while people keep the voice and decisions. Not selling anything, just asking. Would you use it if: it suggests a weekly plan and only posts/DMs after you approve, you set simple rules (time, channel, DM limits) and can pause/undo, bot messages are clearly labeled? What must stay human? What could be automated without hurting the community? Mods/owners, would this help you, or no?",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Wanting to build a bot not working",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1ms0f0x/wanting_to_build_a_bot_not_working/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1ms0f0x",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "CrunchyNutMilk",
+      "author_id": "t2_5v184jcj",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-16T16:38:59.999000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1ms0f0x/wanting_to_build_a_bot_not_working/",
+      "content_preview": "I'm building a code to record Discord in Python. Had commands working then it updated, now they don't show up, on my other server they show but they dont work, help, please and thank",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "R/Place with a Bot",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1mu74k8/rplace_with_a_bot/",
+      "score": 4,
+      "comments": 3,
+      "post_id": "t3_1mu74k8",
+      "post_type": "multi_media",
+      "domain": "self.Discord_Bots",
+      "author": "TheCouchComfy",
+      "author_id": "t2_9gq5nbbxc",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-19T03:11:49.450000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1mu74k8/rplace_with_a_bot/",
+      "content_preview": "I made a bot that lets you play r/place . You get a pixel every minute and can place them on a canvas. https://imgur.com/a/fUQZAFm",
+      "flair": [
+        "Discord Library"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_88wd4z/styles/profileIcon_855584sahkua1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=845116f1d9da2cc305197b54d51525658b9756e0"
+    },
+    {
+      "title": "Curious if any gambling bots where no currency is used",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n4dccb/curious_if_any_gambling_bots_where_no_currency_is/",
+      "score": 1,
+      "comments": 4,
+      "post_id": "t3_1n4dccb",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "SirCampMasterSponge",
+      "author_id": "t2_2lsb8dcn",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-30T21:38:41.727000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n4dccb/curious_if_any_gambling_bots_where_no_currency_is/",
+      "content_preview": "Evening, what I mean by no currency is used is that no points or anything. Like you aren't given any server credits or anything, you are just able to play the games as is without needing any sort of literal crypto or server points or anything, just the games as is.",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_rd0td/styles/profileIcon_9hgjzemn40b71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=416b5138627913a9351f2642f97a5bd2f804555d"
+    },
+    {
+      "title": "In search of a free bot that makes it so if someone has 2 specific roles, then a third role gets added..",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n49lg4/in_search_of_a_free_bot_that_makes_it_so_if/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n49lg4",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "moethebro1103",
+      "author_id": "t2_3zynir0h",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-30T18:58:55.611000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n49lg4/in_search_of_a_free_bot_that_makes_it_so_if/",
+      "content_preview": "Title is a bit self explanatory but I will go further into detail. I have Patreon Bot & ofc server boosters. I want to make so if someone has both the patreon & booster role then a cool third role is added to them called \"Patreon + Booster\"",
+      "flair": [
+        "Is this possible?"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Any suggestions on how to improve my first bot?",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1mn2cgi/any_suggestions_on_how_to_improve_my_first_bot/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1mn2cgi",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "The-New-Traders",
+      "author_id": "t2_v6xtpqol",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-11T03:23:16.582000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1mn2cgi/any_suggestions_on_how_to_improve_my_first_bot/",
+      "content_preview": "I would appreciate any thoughts on how to improve my first discord bot LewdLlama, it's an ai chatbot. Is this worth improving or moving on to a new one? Are there any features that make chatbots stand out more?",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Does anyone have old discord accounts I could use?",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1mzzw35/does_anyone_have_old_discord_accounts_i_could_use/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1mzzw35",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "Fit-Celebration-4639",
+      "author_id": "t2_1fntnvb24e",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-25T19:19:52.199000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1mzzw35/does_anyone_have_old_discord_accounts_i_could_use/",
+      "content_preview": "I want to have other accounts but If i make a new one it'll be weird that account was made today",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Bot Ideas",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1mzbhm3/bot_ideas/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1mzbhm3",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "nolieventiatric",
+      "author_id": "t2_wo8lmrz28",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-24T23:53:07.925000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1mzbhm3/bot_ideas/",
+      "content_preview": "I need ideas for a JavaScript possible bot for my PTFS server and would like it to be aviation themed btw chatgpt making it just need ideas and features",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Level up bots with season leaderboards?",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1mf9irg/level_up_bots_with_season_leaderboards/",
+      "score": 5,
+      "comments": 6,
+      "post_id": "t3_1mf9irg",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "Justin_Fairchild",
+      "author_id": "t2_9biwqvrr",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-01T21:57:43.003000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1mf9irg/level_up_bots_with_season_leaderboards/",
+      "content_preview": "I'm looking for a bot for levelling up with certain things. One where I can adjust it so you earn a certain amount of XP based on how much I write. (I.e. 10 characters = 1 XP) One with a season leaderboard that can show how much xp someone has earned within a single month. One where I can set no-xp channels as well. One that is easy to use. Most importantly one that won't drain my bank account.",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Making free bots!",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1mz9b8h/making_free_bots/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1mz9b8h",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "skibidisigm1111",
+      "author_id": "t2_1o1ui8bp9a",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-24T22:19:29.112000+0000",
+      "content_href": "/r/discordbots/comments/1mz86r0/making_free_bots/",
+      "content_preview": "",
+      "flair": [
+        "Bot Request [Free]"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eabfpe/styles/profileIcon_auvrrkrsgskf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e127ed030c71ad6f8c995b57f3234d46a335621e"
+    },
+    {
+      "title": "[nodemon] app crashed - waiting for file changes before starting...",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n4bic8/nodemon_app_crashed_waiting_for_file_changes/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n4bic8",
+      "post_type": "multi_media",
+      "domain": "self.Discord_Bots",
+      "author": "ScreenAdvanced6483",
+      "author_id": "t2_10ab7r0n56",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-30T20:19:32.970000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n4bic8/nodemon_app_crashed_waiting_for_file_changes/",
+      "content_preview": "Resolved Hi, I tried to create a bot to learn basic discord development, but encountered this issue. I watched this youtube tutorial . When I tried to run \"nodemon\", i get the error \"[nodemon] app crashed - waiting for file changes before starting...\". I'm not sure what's wrong, and neither does ChatGPT. Does anyone know what's happening? This is my code (same as the guy from youtube): const { Client, IntentsBitField } = require(\"discord.js\"); const client = new Client({ intents: [ IntentsBitField.Flags.Guilds, IntentsBitField.Flags.GuildMembers, IntentsBitField.Flags.GuildMessages, IntentsBitField.Flags.MessageContent, ] }); client.login( \"discord token\" );",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_biiay8/styles/profileIcon_fzz3i89q1mif1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=0e97ff7eba87f38c818db59024b726971bdb0453"
+    },
+    {
+      "title": "Creating a 1 Guild only bot",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1mnr9ya/creating_a_1_guild_only_bot/",
+      "score": 3,
+      "comments": 16,
+      "post_id": "t3_1mnr9ya",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "Olive_Plenty",
+      "author_id": "t2_88ws099u",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-11T22:26:48.093000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1mnr9ya/creating_a_1_guild_only_bot/",
+      "content_preview": "So I'm making a bot for a discord server and I want it to be used only for that 1 discord server. Under the bot settings I have \"Public Bot\" set to \"off\" but now I need to also disable the install link? How can I install it then? Anyone come across this?",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Bot to generate invite links.",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1mf1fbq/bot_to_generate_invite_links/",
+      "score": 2,
+      "comments": 10,
+      "post_id": "t3_1mf1fbq",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "TakkDogg",
+      "author_id": "t2_14yyi7nspt",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-01T16:41:04.293000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1mf1fbq/bot_to_generate_invite_links/",
+      "content_preview": "I have a small Discord server with just enough friends to want to set up some automation. I want people to be able to rejoin the Discord through a one time use invite URL to be able to hard-reset their Reaction Role preferences. I have a chat that opens, but now just want a way to be sent a one time invite from a bot as they get kicked. I have Roles to keep whatever roles they need. This is just raid prevention. So what Bot can send custom invites when triggered, preferably through PM/DM?",
+      "flair": [
+        "Bot Request [Existing ONLY]"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "handling rate limits",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1mze014/handling_rate_limits/",
+      "score": 3,
+      "comments": 8,
+      "post_id": "t3_1mze014",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "jjwax",
+      "author_id": "t2_d3xfj",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-25T01:51:37.337000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1mze014/handling_rate_limits/",
+      "content_preview": "so I've got a bot I made with discord.py to handle giveaway entries on my server.  It makes a thread with a button for users to click, and does some logging to a backend db.  Each time a user clicks the button, it sends an ephemeral message to them in the thread confirming they're 'in'.  in addition to that, it pools the entries, and every 2 seconds it spits out a list of new entries to the thread as well.  Each giveaway allows exactly 100 entries.  After 100 entries, it closes, removes the button, and spits out a list of all the users that entered, that we run through random.org to select a winner live. For the 'not insanely popular' (they're all popular) giveaways, it works like a charm, but for the REALLY popular ones, so many people are pressing the button so fast I'm getting rate limited and the bot chokes with the confirmation messages due to rate limits. Any tips on how to handle this better? I really want confirmations sent for anyone that enters the confirmations should be as close to real time as possible",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_cs3x0/styles/profileIcon_37jn3767lmw91.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c2e4d19c88ce8018fbb79df1b0fd069482688fd7"
+    },
+    {
+      "title": "Bot that repeats messages",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1me9s6e/bot_that_repeats_messages/",
+      "score": 2,
+      "comments": 6,
+      "post_id": "t3_1me9s6e",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "fizzyjem",
+      "author_id": "t2_1a270notvx",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-07-31T18:43:15.058000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1me9s6e/bot_that_repeats_messages/",
+      "content_preview": "I'm wondering if there's a bot that sends a message in a channel when enough messages have been sent since the last one? I know there's bots that can send a message say, every 10min. But I specifically want a bot that would send the repeating message after, for example, 20 messages have been sent since the last repeating message. Does anyone know of an existing bot that can do this?",
+      "flair": [
+        "[SOLVED]"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Opinion on Staff Bot",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1mz9asl/opinion_on_staff_bot/",
+      "score": 0,
+      "comments": 10,
+      "post_id": "t3_1mz9asl",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "skibidisigm1111",
+      "author_id": "t2_1o1ui8bp9a",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-24T22:18:58.318000+0000",
+      "content_href": "/r/discordbots/comments/1mz92wi/opinion_on_staff_bot/",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eabfpe/styles/profileIcon_auvrrkrsgskf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e127ed030c71ad6f8c995b57f3234d46a335621e"
+    },
+    {
+      "title": "Relay Bot with Multiple Character bots",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1n1woq7/relay_bot_with_multiple_character_bots/",
+      "score": 1,
+      "comments": 7,
+      "post_id": "t3_1n1woq7",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "Brave-Coyote-8124",
+      "author_id": "t2_1wkr9nh5w4",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-27T23:30:32.525000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1n1woq7/relay_bot_with_multiple_character_bots/",
+      "content_preview": "Hello! I'm in search of a bot that would allow me to roleplay with others while keeping who plays which character a secret. For example, if I message in #private \"Hello!\", then a bot would relay that message to #public as a character that I have created for it. I've been experimenting with using tupperbox, but it doesn't seem to have that message relaying capabilities. Does such a bot exist? Best, u/Brave-Coyote-8124",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Looking for a giveaway bot that checks for Server tags",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1me6c18/looking_for_a_giveaway_bot_that_checks_for_server/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1me6c18",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "nathlapatate",
+      "author_id": "t2_146pwk",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-07-31T16:32:29.244000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1me6c18/looking_for_a_giveaway_bot_that_checks_for_server/",
+      "content_preview": "It's a good way to boost visibility, but are there any that have this feature yet? Since server tags are rather new Example of a giveaway's rules : Have the server's tag equipped and type anything",
+      "flair": [
+        "Bot Request [Existing ONLY]"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Bot to send commands to another bot?",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1me6em2/bot_to_send_commands_to_another_bot/",
+      "score": 0,
+      "comments": 6,
+      "post_id": "t3_1me6em2",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "chapel976",
+      "author_id": "t2_668js",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-07-31T16:35:16.091000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1me6em2/bot_to_send_commands_to_another_bot/",
+      "content_preview": "We use carl-bot to lock and unlock our Discord server. This is currently a manual process of a moderator going in, unlocking it and then coming back at the end of the day to close it. We want to automate the closing and opening. Currently we just send a message of !lock/unlock server in a mod bot channel to do it. I just need to have it scheduled to turn it off daily at 830pm Eastern and then open it on certain days at 3pm (when we have staff to monitor and moderate) I tried a message scheduler bot, but the messages don't get sent the right way and carlbot doesn't respond to them because it's like a weird embedded message",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Looking for a auto message bot",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1mnswcc/looking_for_a_auto_message_bot/",
+      "score": 3,
+      "comments": 5,
+      "post_id": "t3_1mnswcc",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "badfnfplayer",
+      "author_id": "t2_coaip8vu4",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-08-11T23:34:47.879000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1mnswcc/looking_for_a_auto_message_bot/",
+      "content_preview": "I'm looking for a discord bot to automatically sends a message randomly within a time frame in a channel. (Ex: sending a gif every hour or so)",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Craig Bot",
+      "permalink": "https://www.reddit.com/r/Discord_Bots/comments/1me7v1a/craig_bot/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1me7v1a",
+      "post_type": "text",
+      "domain": "self.Discord_Bots",
+      "author": "theyenvyem",
+      "author_id": "t2_ebqjgin2",
+      "subreddit_id": "t5_3erjs",
+      "subreddit": "r/Discord_Bots",
+      "created_ts": "2025-07-31T17:30:24.870000+0000",
+      "content_href": "https://www.reddit.com/r/Discord_Bots/comments/1me7v1a/craig_bot/",
+      "content_preview": "So I need a bot to recrod my audio for youtube, so I wanted to use the craig bot. But everytime I try to record myself singing it cuts in and out a lot. I'm not sure why. Any ideas?",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8evk7l/styles/profileIcon_bud75qukf6vb1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=89c616398fb79fe2af5b39602a5980e07f9b7529"
+    }
+  ],
+  "scraped_at": "2025-09-02T12:29:43.343376"
+}

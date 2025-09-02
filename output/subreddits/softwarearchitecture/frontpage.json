@@ -1,0 +1,1010 @@
+{
+  "subreddit": "softwarearchitecture",
+  "url": "https://www.reddit.com/r/softwarearchitecture",
+  "meta": {
+    "title": "Software Architecture"
+  },
+  "posts": [
+    {
+      "title": "Event-Driven Architecture: From Basics to Breakthroughs",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n6eyur/eventdriven_architecture_from_basics_to/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n6eyur",
+      "post_type": "link",
+      "domain": "javarevisited.substack.com",
+      "author": "javinpaul",
+      "author_id": "t2_6f89y",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-09-02T09:33:20.808000+0000",
+      "content_href": "https://javarevisited.substack.com/p/event-driven-architecture-from-basics",
+      "content_preview": "",
+      "flair": [
+        "Article/Video"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/i9zmlBULp_0i-knH9cz8FJexHrFiW4Q0ElM0-iQIrHs.jpeg?width=140&height=137&crop=140:137,smart&auto=webp&s=4f8abb08a23d00f547f787b6248c6df33572c1af"
+    },
+    {
+      "title": "Struggling with the fact that no system design feels “good”",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n4e26x/struggling_with_the_fact_that_no_system_design/",
+      "score": 121,
+      "comments": 45,
+      "post_id": "t3_1n4e26x",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "nnnick333",
+      "author_id": "t2_zy2ag",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-30T22:10:19.644000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1n4e26x/struggling_with_the_fact_that_no_system_design/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "System deep-dive: intelligent document processing on AWS with Bedrock",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n6h2zp/system_deepdive_intelligent_document_processing/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n6h2zp",
+      "post_type": "link",
+      "domain": "app.ilograph.com",
+      "author": "Veuxdo",
+      "author_id": "t2_zk2x3",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-09-02T11:36:32.074000+0000",
+      "content_href": "https://app.ilograph.com/demo.ilograph.AWS-Intelligent-Document-Processing/Process%2520Document",
+      "content_preview": "",
+      "flair": [
+        "Article/Video"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Software architecture humblebundle",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1mus2sm/software_architecture_humblebundle/",
+      "score": 246,
+      "comments": 20,
+      "post_id": "t3_1mus2sm",
+      "post_type": "multi_media",
+      "domain": "self.softwarearchitecture",
+      "author": "Ok_Gur_8544",
+      "author_id": "t2_ukjzv96e",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-19T19:16:35.417000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1mus2sm/software_architecture_humblebundle/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How do you handle versioning for large-scale microservices systems?",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n5x8vm/how_do_you_handle_versioning_for_largescale/",
+      "score": 43,
+      "comments": 32,
+      "post_id": "t3_1n5x8vm",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "Odd_Monitor5737",
+      "author_id": "t2_1v4j47p6my",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-09-01T18:51:18.476000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1n5x8vm/how_do_you_handle_versioning_for_largescale/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Stop Using HTTP for Everything: The Ultimate API Protocol Guide",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n4oja8/stop_using_http_for_everything_the_ultimate_api/",
+      "score": 50,
+      "comments": 22,
+      "post_id": "t3_1n4oja8",
+      "post_type": "link",
+      "domain": "javarevisited.substack.com",
+      "author": "javinpaul",
+      "author_id": "t2_6f89y",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-31T07:29:34.388000+0000",
+      "content_href": "https://javarevisited.substack.com/p/stop-using-http-for-everything-the",
+      "content_preview": "",
+      "flair": [
+        "Article/Video"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/9EpQHDUMY_mMM9wpq3tYNpIskEsn1Z47OkXR6pq4Vmo.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=95f8edda3520bb24d57b669f225877236ab37017"
+    },
+    {
+      "title": "Is there a tool to map all the layers?",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n5q803/is_there_a_tool_to_map_all_the_layers/",
+      "score": 3,
+      "comments": 7,
+      "post_id": "t3_1n5q803",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "RedditNotFreeSpeech",
+      "author_id": "t2_axw88cwnf",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-09-01T14:29:34.544000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1n5q803/is_there_a_tool_to_map_all_the_layers/",
+      "content_preview": "",
+      "flair": [
+        "Tool/Product"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Conferences in US or Europe",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n525h0/conferences_in_us_or_europe/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1n525h0",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "edurgs",
+      "author_id": "t2_6mchxsuul",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-31T18:27:46.643000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1n525h0/conferences_in_us_or_europe/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Architectural Patterns Wiki",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1my2vb3/architectural_patterns_wiki/",
+      "score": 135,
+      "comments": 6,
+      "post_id": "t3_1my2vb3",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "_descri_",
+      "author_id": "t2_u8nvo8kz",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-23T14:26:22.033000+0000",
+      "content_href": "https://github.com/denyspoltorak/metapatterns/wiki",
+      "content_preview": "",
+      "flair": [
+        "Article/Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7wuh8m/styles/profileIcon_fbwfwwi1lkpa1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d932a317fe53117a068a00ce0e980f6c2066b516"
+    },
+    {
+      "title": "Just released GoQueue v0.2.1",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n5gx2h/just_released_goqueue_v021/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n5gx2h",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "saravanasai1412",
+      "author_id": "t2_b2i5m47j",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-09-01T06:04:25.350000+0000",
+      "content_href": "/r/golang/comments/1n1ia4r/just_released_goqueue_v021/",
+      "content_preview": "",
+      "flair": [
+        "Tool/Product"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Instacart Consolidates Search Infrastructure on Postgresql, Phasing out Elasticsearch",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n38kas/instacart_consolidates_search_infrastructure_on/",
+      "score": 45,
+      "comments": 21,
+      "post_id": "t3_1n38kas",
+      "post_type": "link",
+      "domain": "infoq.com",
+      "author": "rgancarz",
+      "author_id": "t2_qvzmu",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-29T14:13:06.998000+0000",
+      "content_href": "https://www.infoq.com/news/2025/08/instacart-elasticsearch-postgres/",
+      "content_preview": "",
+      "flair": [
+        "Article/Video"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Django vs FastAPI for SaaS with heavy transactions + AI integrations?",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n51sql/django_vs_fastapi_for_saas_with_heavy/",
+      "score": 8,
+      "comments": 14,
+      "post_id": "t3_1n51sql",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "RPSpayments",
+      "author_id": "t2_100tmax1kd",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-31T18:13:42.948000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1n51sql/django_vs_fastapi_for_saas_with_heavy/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "How to deal with release hell?",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n2bigw/how_to_deal_with_release_hell/",
+      "score": 31,
+      "comments": 38,
+      "post_id": "t3_1n2bigw",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "europeanputin",
+      "author_id": "t2_ixugr",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-28T12:57:11.197000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1n2bigw/how_to_deal_with_release_hell/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Architecture and Agility: A Shared Skillset!",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n3x5cm/architecture_and_agility_a_shared_skillset/",
+      "score": 9,
+      "comments": 0,
+      "post_id": "t3_1n3x5cm",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "BootstrpFn",
+      "author_id": "t2_uzuipkgq",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-30T09:16:27.103000+0000",
+      "content_href": "https://youtu.be/tizkYxrQHEw",
+      "content_preview": "",
+      "flair": [
+        "Article/Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How to become a software architect from devops.",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1mmp677/how_to_become_a_software_architect_from_devops/",
+      "score": 134,
+      "comments": 34,
+      "post_id": "t3_1mmp677",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "No-Rhubarb-2678",
+      "author_id": "t2_t1cqxhkm",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-10T17:53:56.082000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1mmp677/how_to_become_a_software_architect_from_devops/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "React Microfrontend Advice for legacy PHP app",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n37f8c/react_microfrontend_advice_for_legacy_php_app/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1n37f8c",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "Striking-Mine-7162",
+      "author_id": "t2_1vimk0edb2",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-29T13:26:51.224000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1n37f8c/react_microfrontend_advice_for_legacy_php_app/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "How to reduce cost of transcription smartly?",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n00yi5/how_to_reduce_cost_of_transcription_smartly/",
+      "score": 5,
+      "comments": 5,
+      "post_id": "t3_1n00yi5",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "LiveAccident5312",
+      "author_id": "t2_1b3t1qw95b",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-25T20:00:59.351000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1n00yi5/how_to_reduce_cost_of_transcription_smartly/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Why a Monolithic Architecture Might Be the Best Fit for Your Project",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1moo8y6/why_a_monolithic_architecture_might_be_the_best/",
+      "score": 94,
+      "comments": 21,
+      "post_id": "t3_1moo8y6",
+      "post_type": "link",
+      "domain": "levelup.gitconnected.com",
+      "author": "Nervous-Staff3364",
+      "author_id": "t2_155okzbbyi",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-12T23:15:38.475000+0000",
+      "content_href": "https://levelup.gitconnected.com/why-a-monolithic-architecture-might-be-the-best-fit-for-your-project-3a1454efc5f2?sk=74d07849ca54c85b628e9280ebe20be8",
+      "content_preview": "",
+      "flair": [
+        "Article/Video"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/seIbqzPz-5mzZaTPMBMCZkPJrRG8Cs6cF2U-btXW-wo.jpeg?width=140&height=140&crop=140:140,smart&auto=webp&s=7cfa2d023df7b0aa52607d70196762050f72c5d0"
+    },
+    {
+      "title": "The Inevitable Chaos: Embracing Failure for Resilient Distributed Systems",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n4tryt/the_inevitable_chaos_embracing_failure_for/",
+      "score": 8,
+      "comments": 0,
+      "post_id": "t3_1n4tryt",
+      "post_type": "link",
+      "domain": "newsletter.caffeinatedengineer.dev",
+      "author": "Caffeinated-Engineer",
+      "author_id": "t2_s9v2fdio",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-31T12:45:57.620000+0000",
+      "content_href": "https://newsletter.caffeinatedengineer.dev/p/the-inevitable-chaos-embracing-failure",
+      "content_preview": "",
+      "flair": [
+        "Article/Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dowe1r/styles/profileIcon_z3kjcqrpi8af1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c812def5b8aa498f5a1ec956314778af4085e09d"
+    },
+    {
+      "title": "Log analysis",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n3b6z5/log_analysis/",
+      "score": 4,
+      "comments": 15,
+      "post_id": "t3_1n3b6z5",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "ComradeHulaHula",
+      "author_id": "t2_15lsy5",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-29T15:54:17.002000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1n3b6z5/log_analysis/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Top 10 Microservices Design Patterns and Principles - Examples",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1msoug7/top_10_microservices_design_patterns_and/",
+      "score": 68,
+      "comments": 15,
+      "post_id": "t3_1msoug7",
+      "post_type": "link",
+      "domain": "javarevisited.blogspot.com",
+      "author": "javinpaul",
+      "author_id": "t2_6f89y",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-17T11:49:58.350000+0000",
+      "content_href": "https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html",
+      "content_preview": "",
+      "flair": [
+        "Article/Video"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/kyc4SA7XU3cEeMBF1UyZts7Lyo7RU5aMZbz3IIpI0mI.jpeg?width=140&height=79&crop=140:79,smart&auto=webp&s=7afb019a7b45971fb84200a762a177f58da81b68"
+    },
+    {
+      "title": "AI, DevOps & Serverless: Building Frictionless Developer Experience",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n1k0s4/ai_devops_serverless_building_frictionless/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n1k0s4",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "TreasaAnd",
+      "author_id": "t2_8yca8b7d",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-27T15:22:44.088000+0000",
+      "content_href": "https://www.youtube.com/watch?v=ZWmDjEM76os",
+      "content_preview": "",
+      "flair": [
+        "Article/Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How I Explain the Tradeoffs of Microservices to Non-Technical Stakeholders",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n22vwz/how_i_explain_the_tradeoffs_of_microservices_to/",
+      "score": 31,
+      "comments": 36,
+      "post_id": "t3_1n22vwz",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "CreditOk5063",
+      "author_id": "t2_1gf2prwn8e",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-28T04:31:08.752000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1n22vwz/how_i_explain_the_tradeoffs_of_microservices_to/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Why \"What Happened First?\" Is One of the Hardest Questions in Large-Scale Systems",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n4dl9b/why_what_happened_first_is_one_of_the_hardest/",
+      "score": 24,
+      "comments": 4,
+      "post_id": "t3_1n4dl9b",
+      "post_type": "link",
+      "domain": "newsletter.scalablethread.com",
+      "author": "scalablethread",
+      "author_id": "t2_1959sy90dm",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-30T21:49:37.817000+0000",
+      "content_href": "https://newsletter.scalablethread.com/p/why-what-happened-first-is-one-of",
+      "content_preview": "",
+      "flair": [
+        "Article/Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_chuupp/styles/profileIcon_g279g8xii8qd1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5b8213d37288a6a4d507b3382c1c80c85dca5d9f"
+    },
+    {
+      "title": "API Design 101: From Basics to Best Practices",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n14rns/api_design_101_from_basics_to_best_practices/",
+      "score": 24,
+      "comments": 7,
+      "post_id": "t3_1n14rns",
+      "post_type": "link",
+      "domain": "javarevisited.substack.com",
+      "author": "javinpaul",
+      "author_id": "t2_6f89y",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-27T02:05:56.605000+0000",
+      "content_href": "https://javarevisited.substack.com/p/why-90-of-apis-fail-and-how-to-design",
+      "content_preview": "",
+      "flair": [
+        "Article/Video"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/KRMNHRO254XrKqOdL4z5FGQg_cMlKXD8aPl3n5H4Q2o.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=97e3321004542dd157f97c32ace2d7c00956dd62"
+    },
+    {
+      "title": "My thoughts on Vertical Slices, CQRS, Semantic Diffusion and other fancy words",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n0pdna/my_thoughts_on_vertical_slices_cqrs_semantic/",
+      "score": 22,
+      "comments": 6,
+      "post_id": "t3_1n0pdna",
+      "post_type": "link",
+      "domain": "architecture-weekly.com",
+      "author": "Adventurous-Salt8514",
+      "author_id": "t2_96l32j0u",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-26T15:44:21.884000+0000",
+      "content_href": "https://www.architecture-weekly.com/p/my-thoughts-on-vertical-slices-cqrs",
+      "content_preview": "",
+      "flair": [
+        "Article/Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4l3ht9/styles/profileIcon_008ik4wk2x281.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b13f76b814fc8070fa66eeed05658cd05be501f3"
+    },
+    {
+      "title": "BFFs: The Backend for Frontend Pattern Changing How We Build Apps",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n1c069/bffs_the_backend_for_frontend_pattern_changing/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1n1c069",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "Commencis",
+      "author_id": "t2_4mkpz5le",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-27T09:07:05.830000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1n1c069/bffs_the_backend_for_frontend_pattern_changing/",
+      "content_preview": "",
+      "flair": [
+        "Article/Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2562nh/styles/profileIcon_ueuxmqp57pn31.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3280eee85252d0556c588749a143de7e57e0846f"
+    },
+    {
+      "title": "What path should I take?",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1mzm1bs/what_path_should_i_take/",
+      "score": 10,
+      "comments": 4,
+      "post_id": "t3_1mzm1bs",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "shangarepi",
+      "author_id": "t2_612vc6jj",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-25T09:42:26.889000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1mzm1bs/what_path_should_i_take/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Breaking the Architecture Bottleneck • Andrew Harmel-Law & Marit van Dijk",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1mzoxy9/breaking_the_architecture_bottleneck_andrew/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1mzoxy9",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "goto-con",
+      "author_id": "t2_2yrrce83",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-25T12:20:03.011000+0000",
+      "content_href": "https://youtu.be/zl5U8KO28rM",
+      "content_preview": "",
+      "flair": [
+        "Article/Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Creating a monolith after making microservices",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1my7kd5/creating_a_monolith_after_making_microservices/",
+      "score": 63,
+      "comments": 33,
+      "post_id": "t3_1my7kd5",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "wampey",
+      "author_id": "t2_bazf6",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-23T17:30:26.673000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1my7kd5/creating_a_monolith_after_making_microservices/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I wrote a message queue. System design to make it distributed?",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1myuoii/i_wrote_a_message_queue_system_design_to_make_it/",
+      "score": 13,
+      "comments": 8,
+      "post_id": "t3_1myuoii",
+      "post_type": "multi_media",
+      "domain": "self.softwarearchitecture",
+      "author": "php_guy123",
+      "author_id": "t2_117rfm",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-24T12:47:48.882000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1myuoii/i_wrote_a_message_queue_system_design_to_make_it/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Drop the AI modal you use and how you use it?",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n13paq/drop_the_ai_modal_you_use_and_how_you_use_it/",
+      "score": 0,
+      "comments": 7,
+      "post_id": "t3_1n13paq",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "scoutlabs",
+      "author_id": "t2_13d2ea",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-27T01:15:45.805000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1n13paq/drop_the_ai_modal_you_use_and_how_you_use_it/",
+      "content_preview": "",
+      "flair": [
+        "Tool/Product"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Composition over Inheritance - it's not always one or the other",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n0hjww/composition_over_inheritance_its_not_always_one/",
+      "score": 21,
+      "comments": 12,
+      "post_id": "t3_1n0hjww",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "Coryrin",
+      "author_id": "t2_16t3x4",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-26T09:52:55.813000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1n0hjww/composition_over_inheritance_its_not_always_one/",
+      "content_preview": "",
+      "flair": [
+        "Article/Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Compilers Aren't Just for Programming Languages",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1mxcnry/compilers_arent_just_for_programming_languages/",
+      "score": 11,
+      "comments": 3,
+      "post_id": "t3_1mxcnry",
+      "post_type": "link",
+      "domain": "architecture-weekly.com",
+      "author": "Adventurous-Salt8514",
+      "author_id": "t2_96l32j0u",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-22T17:23:38.222000+0000",
+      "content_href": "https://www.architecture-weekly.com/p/compilation-isnt-just-for-programming",
+      "content_preview": "",
+      "flair": [
+        "Article/Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4l3ht9/styles/profileIcon_008ik4wk2x281.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b13f76b814fc8070fa66eeed05658cd05be501f3"
+    },
+    {
+      "title": "What are some concrete lessons you’ve learned in your career?",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n29s7b/what_are_some_concrete_lessons_youve_learned_in/",
+      "score": 16,
+      "comments": 12,
+      "post_id": "t3_1n29s7b",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "trolleid",
+      "author_id": "t2_7tlomxnm",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-28T11:34:25.019000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1n29s7b/what_are_some_concrete_lessons_youve_learned_in/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Simple Distributed key value database architecture",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n4iwre/simple_distributed_key_value_database_architecture/",
+      "score": 14,
+      "comments": 11,
+      "post_id": "t3_1n4iwre",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "wizard_zen",
+      "author_id": "t2_e4yc8wks",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-31T02:06:01.202000+0000",
+      "content_href": "/r/developersIndia/comments/1n3y4zm/simple_distributed_key_value_database_architecture/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": "https://preview.redd.it/simple-distributed-key-value-database-architecture-v0-049pzthxu4mf1.png?width=640&crop=smart&auto=webp&s=1a826b110e498dbf90fce5aed31b1102df38dc3e"
+    },
+    {
+      "title": "Monolith vs Microservices: The $1M ML Design Decision",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1mx3qg0/monolith_vs_microservices_the_1m_ml_design/",
+      "score": 13,
+      "comments": 2,
+      "post_id": "t3_1mx3qg0",
+      "post_type": "link",
+      "domain": "javarevisited.substack.com",
+      "author": "javinpaul",
+      "author_id": "t2_6f89y",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-22T11:19:37.812000+0000",
+      "content_href": "https://javarevisited.substack.com/p/monolith-vs-microservices-the-1m",
+      "content_preview": "",
+      "flair": [
+        "Article/Video"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/5xvKu9bGKBuAKzPWGxaF0pcSFu3HGCJ3F53SNYCHwpw.jpeg?width=140&height=70&crop=140:70,smart&auto=webp&s=24484f5e5735197ba6d0d99c9b58c2b50406d8c7"
+    },
+    {
+      "title": "How to Gain Hands-On Experience with Large-Scale Systems",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n2hp6f/how_to_gain_handson_experience_with_largescale/",
+      "score": 12,
+      "comments": 8,
+      "post_id": "t3_1n2hp6f",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "saravanasai1412",
+      "author_id": "t2_b2i5m47j",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-28T16:55:50.403000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1n2hp6f/how_to_gain_handson_experience_with_largescale/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "(Anti)Pattern: REST for read initiation, WebSocket for read execution?",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1mx64mq/antipattern_rest_for_read_initiation_websocket/",
+      "score": 4,
+      "comments": 6,
+      "post_id": "t3_1mx64mq",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "Lanky-Apricot7337",
+      "author_id": "t2_8u5c9hl4",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-22T13:11:17.312000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1mx64mq/antipattern_rest_for_read_initiation_websocket/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Best Practice for Long-Running API Calls in Next.js Server Actions?",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1mwgfti/best_practice_for_longrunning_api_calls_in_nextjs/",
+      "score": 3,
+      "comments": 8,
+      "post_id": "t3_1mwgfti",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "Due_Cartographer_375",
+      "author_id": "t2_cs02kd74",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-21T16:50:42.135000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1mwgfti/best_practice_for_longrunning_api_calls_in_nextjs/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "SSE, Websockets or something else for high-latency resource downloads",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1mw5qbr/sse_websockets_or_something_else_for_highlatency/",
+      "score": 8,
+      "comments": 4,
+      "post_id": "t3_1mw5qbr",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "Lanky-Apricot7337",
+      "author_id": "t2_8u5c9hl4",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-21T09:00:58.693000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1mw5qbr/sse_websockets_or_something_else_for_highlatency/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Bridging Product and Engineering as a Staff Engineer",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1n3cvy1/bridging_product_and_engineering_as_a_staff/",
+      "score": 12,
+      "comments": 0,
+      "post_id": "t3_1n3cvy1",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "Apart-Reception9369",
+      "author_id": "t2_dc2qrbnd",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-29T16:58:46.050000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1n3cvy1/bridging_product_and_engineering_as_a_staff/",
+      "content_preview": "",
+      "flair": [
+        "Article/Video"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Implementing api key or token management system",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1mpyo9w/implementing_api_key_or_token_management_system/",
+      "score": 7,
+      "comments": 1,
+      "post_id": "t3_1mpyo9w",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "Mammoth_View4149",
+      "author_id": "t2_9ws3vnqg",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-14T12:02:23.616000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1mpyo9w/implementing_api_key_or_token_management_system/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Looking for feedback: Why is my architecture tool not gaining traction?",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1mzpfeq/looking_for_feedback_why_is_my_architecture_tool/",
+      "score": 0,
+      "comments": 26,
+      "post_id": "t3_1mzpfeq",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "j44dz",
+      "author_id": "t2_jsyoy7wf",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-25T12:42:52.850000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1mzpfeq/looking_for_feedback_why_is_my_architecture_tool/",
+      "content_preview": "",
+      "flair": [
+        "Tool/Product"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Are LangGraph + Temporal a good combo for automating KYC/AML workflows to cut compliance overhead?",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1mokgw4/are_langgraph_temporal_a_good_combo_for/",
+      "score": 7,
+      "comments": 0,
+      "post_id": "t3_1mokgw4",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "ruby_da_fvckn_ape",
+      "author_id": "t2_66aouf9",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-12T20:46:00.747000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1mokgw4/are_langgraph_temporal_a_good_combo_for/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Switching inter-service calls from HTTPS to STOMP over WebSockets - Bad idea for enterprise?",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1mnx3wi/switching_interservice_calls_from_https_to_stomp/",
+      "score": 2,
+      "comments": 11,
+      "post_id": "t3_1mnx3wi",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "devblues",
+      "author_id": "t2_4p77c189",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-12T02:45:22.405000+0000",
+      "content_href": "/r/devops/comments/1mnwl0r/switching_interservice_calls_from_https_to_stomp/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "NATS on edge - A distributed industrial mesh- MQ Summit Session 2025",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1mett8d/nats_on_edge_a_distributed_industrial_mesh_mq/",
+      "score": 5,
+      "comments": 0,
+      "post_id": "t3_1mett8d",
+      "post_type": "link",
+      "domain": "mqsummit.com",
+      "author": "Code_Sync",
+      "author_id": "t2_1dpemefrdv",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-01T11:20:58.872000+0000",
+      "content_href": "https://mqsummit.com/talks/nats-on-edge/",
+      "content_preview": "",
+      "flair": [
+        "Article/Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Senior Java dev suddenly put on Node + Angular project — struggling hard",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1mhjlsw/senior_java_dev_suddenly_put_on_node_angular/",
+      "score": 62,
+      "comments": 41,
+      "post_id": "t3_1mhjlsw",
+      "post_type": "text",
+      "domain": "self.softwarearchitecture",
+      "author": "Acceptable-Medium-28",
+      "author_id": "t2_5aj98vir",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-04T17:20:12.492000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1mhjlsw/senior_java_dev_suddenly_put_on_node_angular/",
+      "content_preview": "",
+      "flair": [
+        "Discussion/Advice"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Building an AI-Powered Compliance Monitoring System on Google Cloud (SOC 2 & HIPAA)",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1mz8uv7/building_an_aipowered_compliance_monitoring/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mz8uv7",
+      "post_type": "multi_media",
+      "domain": "self.softwarearchitecture",
+      "author": "gringobrsa",
+      "author_id": "t2_1b6r7qh2cw",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-24T22:01:05.535000+0000",
+      "content_href": "https://www.reddit.com/r/softwarearchitecture/comments/1mz8uv7/building_an_aipowered_compliance_monitoring/",
+      "content_preview": "",
+      "flair": [
+        "Article/Video"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Aura OS: Architecture Map and Operational Overview",
+      "permalink": "https://www.reddit.com/r/softwarearchitecture/comments/1myig0u/aura_os_architecture_map_and_operational_overview/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1myig0u",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "BrilliantScholar1251",
+      "author_id": "t2_uhe7dr4gb",
+      "subreddit_id": "t5_2zim0",
+      "subreddit": "r/softwarearchitecture",
+      "created_ts": "2025-08-24T01:07:48.965000+0000",
+      "content_href": "/r/RSAI/comments/1myif22/aura_os_architecture_map_and_operational_overview/",
+      "content_preview": "",
+      "flair": [
+        "Tool/Product"
+      ],
+      "thumbnail_url": ""
+    }
+  ],
+  "scraped_at": "2025-09-02T11:44:40.287789"
+}

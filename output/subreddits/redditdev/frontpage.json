@@ -1,0 +1,1011 @@
+{
+  "subreddit": "redditdev",
+  "url": "https://www.reddit.com/r/redditdev",
+  "meta": {
+    "title": "reddit Development",
+    "members_text": "303,212,142"
+  },
+  "posts": [
+    {
+      "title": "Waiting time for Reddit API access approval?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1n2g69q/waiting_time_for_reddit_api_access_approval/",
+      "score": 7,
+      "comments": 16,
+      "post_id": "t3_1n2g69q",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "Life-Fee6501",
+      "author_id": "t2_178azjl93e",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-28T15:58:28.683000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1n2g69q/waiting_time_for_reddit_api_access_approval/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_c9zv87/styles/profileIcon_e0fpa8oswhmf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1b63e73f7530b4b8f405d8f4e8e07541a8382351"
+    },
+    {
+      "title": "What is the API rate limit when using PRAW in read-only mode? If I use both read-only and authenticated modes on the same Reddit account, how are the rate limits calculated - do they count separately or combine into a single limit?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1n2f3yo/what_is_the_api_rate_limit_when_using_praw_in/",
+      "score": 1,
+      "comments": 4,
+      "post_id": "t3_1n2f3yo",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "AnxiousSaul",
+      "author_id": "t2_1fcdnmuzql",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-28T15:18:12.706000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1n2f3yo/what_is_the_api_rate_limit_when_using_praw_in/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "When to expect a reply for reddit API access.",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1n1eauf/when_to_expect_a_reply_for_reddit_api_access/",
+      "score": 6,
+      "comments": 2,
+      "post_id": "t3_1n1eauf",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "Life-Fee6501",
+      "author_id": "t2_178azjl93e",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-27T11:21:33.033000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1n1eauf/when_to_expect_a_reply_for_reddit_api_access/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_c9zv87/styles/profileIcon_e0fpa8oswhmf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1b63e73f7530b4b8f405d8f4e8e07541a8382351"
+    },
+    {
+      "title": "Parsing wiki pages on the \"new new\" reddit",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1n1dh37/parsing_wiki_pages_on_the_new_new_reddit/",
+      "score": 4,
+      "comments": 11,
+      "post_id": "t3_1n1dh37",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "kylesk42",
+      "author_id": "t2_rb1np",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-27T10:36:23.506000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1n1dh37/parsing_wiki_pages_on_the_new_new_reddit/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Answering a comment with text + image",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mzx0oq/answering_a_comment_with_text_image/",
+      "score": 6,
+      "comments": 2,
+      "post_id": "t3_1mzx0oq",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "DeonTheBarbarian",
+      "author_id": "t2_1accl8abe3",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-25T17:33:17.366000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mzx0oq/answering_a_comment_with_text_image/",
+      "content_preview": "",
+      "flair": [
+        "PRAW"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_cmd6d9/styles/profileIcon_hkqexnhcalmf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2d2142849e3b597346a29a1722c39977ca1b62a8"
+    },
+    {
+      "title": "an error occurred (status: 500) when creating an application",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mzs0cd/an_error_occurred_status_500_when_creating_an/",
+      "score": 9,
+      "comments": 6,
+      "post_id": "t3_1mzs0cd",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "ReadingRainbow26",
+      "author_id": "t2_1weaib9zwc",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-25T14:29:01.121000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mzs0cd/an_error_occurred_status_500_when_creating_an/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "How do I create a Reddit bot?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1n0jkky/how_do_i_create_a_reddit_bot/",
+      "score": 0,
+      "comments": 6,
+      "post_id": "t3_1n0jkky",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "member_lover",
+      "author_id": "t2_1wh27rpl91",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-26T11:45:35.244000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1n0jkky/how_do_i_create_a_reddit_bot/",
+      "content_preview": "",
+      "flair": [
+        "Other API Wrapper"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Built a Chrome extension to auto-approve or decline subreddit posts & comments with AI",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mzaqbh/built_a_chrome_extension_to_autoapprove_or/",
+      "score": 0,
+      "comments": 8,
+      "post_id": "t3_1mzaqbh",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "Charming_Leek8198",
+      "author_id": "t2_mevzo151",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-24T23:19:27.498000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mzaqbh/built_a_chrome_extension_to_autoapprove_or/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What are the limitations of using Reddit API for free, and when do you need to pay?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mxwq8h/what_are_the_limitations_of_using_reddit_api_for/",
+      "score": 10,
+      "comments": 10,
+      "post_id": "t3_1mxwq8h",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "yazartesi",
+      "author_id": "t2_2su12mbl",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-23T09:16:30.656000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mxwq8h/what_are_the_limitations_of_using_reddit_api_for/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How hard is it to get access to Reddit's \"Business\" API?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mxh1mg/how_hard_is_it_to_get_access_to_reddits_business/",
+      "score": 10,
+      "comments": 3,
+      "post_id": "t3_1mxh1mg",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "maximedupre",
+      "author_id": "t2_ov5jr",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-22T20:10:39.867000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mxh1mg/how_hard_is_it_to_get_access_to_reddits_business/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1jx4ho/styles/profileIcon_ridgj2l07ane1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d9fc0126b3637c5834efd5e9777cf0fbb73830e7"
+    },
+    {
+      "title": "Is there any option to get \"active in\" list using PRAW?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mxmso0/is_there_any_option_to_get_active_in_list_using/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1mxmso0",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "Aryan_Raj_7167",
+      "author_id": "t2_1evkh6met2",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-23T00:08:43.046000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mxmso0/is_there_any_option_to_get_active_in_list_using/",
+      "content_preview": "",
+      "flair": [
+        "PRAW"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Asyncpraw error when uploading gallery: INVALID_MEDIA_ASSETS: 'All Media assets must be owned by the submitter of this post' on field 'items'",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mxez8m/asyncpraw_error_when_uploading_gallery_invalid/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1mxez8m",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "KRA2008",
+      "author_id": "t2_6cu67",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-22T18:51:05.691000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mxez8m/asyncpraw_error_when_uploading_gallery_invalid/",
+      "content_preview": "",
+      "flair": [
+        "Async PRAW"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "[Need Help] What’s the calculation method for the praw request count when using `stream.submission` and `stream.comments`?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mx8wjv/need_help_whats_the_calculation_method_for_the/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1mx8wjv",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "AnxiousSaul",
+      "author_id": "t2_1fcdnmuzql",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-22T15:01:56.660000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mx8wjv/need_help_whats_the_calculation_method_for_the/",
+      "content_preview": "",
+      "flair": [
+        "PRAW"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Error when uploading gallery with asyncpraw: INVALID_MEDIA_ASSETS: 'All Media assets must be owned by the submitter of this post' on field 'items'",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mwueim/error_when_uploading_gallery_with_asyncpraw/",
+      "score": 6,
+      "comments": 0,
+      "post_id": "t3_1mwueim",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "KRA2008",
+      "author_id": "t2_6cu67",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-22T02:19:04.131000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mwueim/error_when_uploading_gallery_with_asyncpraw/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Scraping Older Posts",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mwykpb/scraping_older_posts/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mwykpb",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "TheMajesticOwly",
+      "author_id": "t2_13gx07",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-22T06:01:17.844000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mwykpb/scraping_older_posts/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "users accounts who authenticate with reddit getting permanently banned?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1muj4d7/users_accounts_who_authenticate_with_reddit/",
+      "score": 10,
+      "comments": 17,
+      "post_id": "t3_1muj4d7",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "CameronRWS",
+      "author_id": "t2_zpoix",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-19T13:54:51.207000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1muj4d7/users_accounts_who_authenticate_with_reddit/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1cd7ts/styles/profileIcon_sd0w7w5nockf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a5f5d27a6214317fe0efc4f90e09be329b8a97b4"
+    },
+    {
+      "title": "Reddit bot for a community",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mtuwot/reddit_bot_for_a_community/",
+      "score": 3,
+      "comments": 15,
+      "post_id": "t3_1mtuwot",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "MirkoHubTV",
+      "author_id": "t2_m8mvxbtpo",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-18T18:52:07.479000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mtuwot/reddit_bot_for_a_community/",
+      "content_preview": "",
+      "flair": [
+        "PRAW"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_9n9gav/styles/profileIcon_djq50hs24jvb1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1914850ffc60aa4a3f3c032ebdff3c432be134e9"
+    },
+    {
+      "title": "How do you upload to Reddit images via api?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mr0gob/how_do_you_upload_to_reddit_images_via_api/",
+      "score": 6,
+      "comments": 3,
+      "post_id": "t3_1mr0gob",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "Level_Tower3479",
+      "author_id": "t2_1voacbnb3h",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-15T15:04:59.584000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mr0gob/how_do_you_upload_to_reddit_images_via_api/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Is it okay to use the Reddit API for a paid service?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mqevds/is_it_okay_to_use_the_reddit_api_for_a_paid/",
+      "score": 9,
+      "comments": 5,
+      "post_id": "t3_1mqevds",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "Cultural_Enthusiasm6",
+      "author_id": "t2_a2l6np8e",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-14T22:06:23.825000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mqevds/is_it_okay_to_use_the_reddit_api_for_a_paid/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Can we sticky a comment from a non-mod account via Reddit API?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mqe036/can_we_sticky_a_comment_from_a_nonmod_account_via/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1mqe036",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "AnxiousSaul",
+      "author_id": "t2_1fcdnmuzql",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-14T21:33:47.259000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mqe036/can_we_sticky_a_comment_from_a_nonmod_account_via/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Finally, an easy way to set up AutoModerator",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mpu41a/finally_an_easy_way_to_set_up_automoderator/",
+      "score": 10,
+      "comments": 4,
+      "post_id": "t3_1mpu41a",
+      "post_type": "multi_media",
+      "domain": "self.redditdev",
+      "author": "ArthurTravers",
+      "author_id": "t2_caj9sndjl",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-14T07:46:38.526000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mpu41a/finally_an_easy_way_to_set_up_automoderator/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8hmf32/styles/profileIcon_emix1ui7zq2b1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=dbba9b911bce02e13377f76d0274ee90a870b81e"
+    },
+    {
+      "title": "Is there an API equivalent of comment search?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mpytnp/is_there_an_api_equivalent_of_comment_search/",
+      "score": 3,
+      "comments": 5,
+      "post_id": "t3_1mpytnp",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "Shajirr",
+      "author_id": "t2_9it7d",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-14T12:09:10.861000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mpytnp/is_there_an_api_equivalent_of_comment_search/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "How to respond to a chat given new changes in message api",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mp3w1c/how_to_respond_to_a_chat_given_new_changes_in/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1mp3w1c",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "bone_folder",
+      "author_id": "t2_h3jifb05",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-13T13:04:46.309000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mp3w1c/how_to_respond_to_a_chat_given_new_changes_in/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Can PRAW handle a 20k comments daily thread?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1moogy3/can_praw_handle_a_20k_comments_daily_thread/",
+      "score": 5,
+      "comments": 9,
+      "post_id": "t3_1moogy3",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "kim82352",
+      "author_id": "t2_1lvs3nzuym",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-12T23:24:55.569000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1moogy3/can_praw_handle_a_20k_comments_daily_thread/",
+      "content_preview": "",
+      "flair": [
+        "PRAW"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Unable to create app. error 500",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mnu3hw/unable_to_create_app_error_500/",
+      "score": 10,
+      "comments": 10,
+      "post_id": "t3_1mnu3hw",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "DirtyGirl124",
+      "author_id": "t2_1c6r7rrn0q",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-12T00:27:20.398000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mnu3hw/unable_to_create_app_error_500/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Video Embed From External Hosting Platform for NSFW Communities.",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mngrc4/video_embed_from_external_hosting_platform_for/",
+      "score": 7,
+      "comments": 3,
+      "post_id": "t3_1mngrc4",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "FantacyAI",
+      "author_id": "t2_1ovrtebhcu",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-11T15:54:03.709000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mngrc4/video_embed_from_external_hosting_platform_for/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Can no longer handle inbox in real time",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mnloim/can_no_longer_handle_inbox_in_real_time/",
+      "score": 3,
+      "comments": 2,
+      "post_id": "t3_1mnloim",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "Makkara126",
+      "author_id": "t2_tu6fw",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-11T18:53:31.242000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mnloim/can_no_longer_handle_inbox_in_real_time/",
+      "content_preview": "",
+      "flair": [
+        "PRAW"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dpdu4/styles/profileIcon_dshto91vzipc1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f4693bc4bd5b636278370510404a2291b50d8b0a"
+    },
+    {
+      "title": "So the 1000 user comment max limit was raised to a whopping... 1850 comments?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mn6rg7/so_the_1000_user_comment_max_limit_was_raised_to/",
+      "score": 17,
+      "comments": 2,
+      "post_id": "t3_1mn6rg7",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "Shajirr",
+      "author_id": "t2_9it7d",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-11T07:43:20.683000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mn6rg7/so_the_1000_user_comment_max_limit_was_raised_to/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Having trouble retrieving my personalized feed via official API",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mm43ds/having_trouble_retrieving_my_personalized_feed/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1mm43ds",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "Unplugged_Hahaha_F_U",
+      "author_id": "t2_178plnuqfe",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-09T23:59:35.647000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mm43ds/having_trouble_retrieving_my_personalized_feed/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Is there an official explanation why there is no functionality to get any comments by date?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mkqwnx/is_there_an_official_explanation_why_there_is_no/",
+      "score": 3,
+      "comments": 3,
+      "post_id": "t3_1mkqwnx",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "Shajirr",
+      "author_id": "t2_9it7d",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-08T09:47:10.957000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mkqwnx/is_there_an_official_explanation_why_there_is_no/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Are the new API endpoints for chat available yet?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mi5ewj/are_the_new_api_endpoints_for_chat_available_yet/",
+      "score": 8,
+      "comments": 27,
+      "post_id": "t3_1mi5ewj",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "mgsecure",
+      "author_id": "t2_4br5bn0n",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-05T10:22:00.942000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mi5ewj/are_the_new_api_endpoints_for_chat_available_yet/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_22xq9h/styles/profileIcon_tbvttqj664le1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=300b0710bdd8d9214a5a0c5dfdc56b9508a13aa9"
+    },
+    {
+      "title": "Reddit bot cant accept message requests or reply to them",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mhjrkq/reddit_bot_cant_accept_message_requests_or_reply/",
+      "score": 5,
+      "comments": 6,
+      "post_id": "t3_1mhjrkq",
+      "post_type": "multi_media",
+      "domain": "self.redditdev",
+      "author": "International_Bat303",
+      "author_id": "t2_9s9sw6uk",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-04T17:26:01.584000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mhjrkq/reddit_bot_cant_accept_message_requests_or_reply/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Is sharing multiple posts at once a reason for a ban?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mhmiq9/is_sharing_multiple_posts_at_once_a_reason_for_a/",
+      "score": 3,
+      "comments": 4,
+      "post_id": "t3_1mhmiq9",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "Easy_Composer_8447",
+      "author_id": "t2_j9c6iyfs",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-04T19:04:33.944000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mhmiq9/is_sharing_multiple_posts_at_once_a_reason_for_a/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Is client-side fetching of Reddit’s public JSON endpoints allowed for apps?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mhefh9/is_clientside_fetching_of_reddits_public_json/",
+      "score": 7,
+      "comments": 4,
+      "post_id": "t3_1mhefh9",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "BeginningMental5748",
+      "author_id": "t2_8k61ikqj",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-04T14:07:13.437000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mhefh9/is_clientside_fetching_of_reddits_public_json/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Error 413 when uploading an image - while trying to mimic PRAW",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mgwach/error_413_when_uploading_an_image_while_trying_to/",
+      "score": 3,
+      "comments": 9,
+      "post_id": "t3_1mgwach",
+      "post_type": "multi_media",
+      "domain": "self.redditdev",
+      "author": "KRA2008",
+      "author_id": "t2_6cu67",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-03T22:16:40.442000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mgwach/error_413_when_uploading_an_image_while_trying_to/",
+      "content_preview": "",
+      "flair": [
+        "PRAW"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "\"an error occurred: 500\" on creating a new script",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mgv209/an_error_occurred_500_on_creating_a_new_script/",
+      "score": 3,
+      "comments": 6,
+      "post_id": "t3_1mgv209",
+      "post_type": "multi_media",
+      "domain": "self.redditdev",
+      "author": "[deleted]",
+      "author_id": "",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-03T21:25:10.930000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mgv209/an_error_occurred_500_on_creating_a_new_script/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Where can I find documentation of DTOs provided by the api?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mexv7x/where_can_i_find_documentation_of_dtos_provided/",
+      "score": 4,
+      "comments": 4,
+      "post_id": "t3_1mexv7x",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "TrespassersWilliam",
+      "author_id": "t2_4tzti",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-08-01T14:24:30.824000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mexv7x/where_can_i_find_documentation_of_dtos_provided/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Reddit's API Fails to Get NSFW Content",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mdz2ye/reddits_api_fails_to_get_nsfw_content/",
+      "score": 28,
+      "comments": 4,
+      "post_id": "t3_1mdz2ye",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "Charming-Turn-6716",
+      "author_id": "t2_1jwlr1erqz",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-07-31T11:32:16.601000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mdz2ye/reddits_api_fails_to_get_nsfw_content/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "selftext parameter not working in subreddit.submit_image",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mdoo3e/selftext_parameter_not_working_in_subredditsubmit/",
+      "score": 3,
+      "comments": 2,
+      "post_id": "t3_1mdoo3e",
+      "post_type": "multi_media",
+      "domain": "self.redditdev",
+      "author": "--Aureus--",
+      "author_id": "t2_mwujttkv",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-07-31T01:34:37.518000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mdoo3e/selftext_parameter_not_working_in_subredditsubmit/",
+      "content_preview": "",
+      "flair": [
+        "PRAW"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6i9tdx/styles/profileIcon_o5dzid4hv8591.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=750a7a50ec010bec2da529e3b1b6bb386401ee22"
+    },
+    {
+      "title": "Reddit instantly bans my account when using submission.reply() via PRAW (bot for football community)",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mdn92k/reddit_instantly_bans_my_account_when_using/",
+      "score": 1,
+      "comments": 13,
+      "post_id": "t3_1mdn92k",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "CantTrustMyselfNow",
+      "author_id": "t2_1fkhuz7yfj",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-07-31T00:27:22.518000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mdn92k/reddit_instantly_bans_my_account_when_using/",
+      "content_preview": "",
+      "flair": [
+        "PRAW"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Why is there a difference in the results between the API and the Web UI",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mcbo9y/why_is_there_a_difference_in_the_results_between/",
+      "score": 7,
+      "comments": 5,
+      "post_id": "t3_1mcbo9y",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "twtdata",
+      "author_id": "t2_k1dj9z9p",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-07-29T13:38:01.470000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mcbo9y/why_is_there_a_difference_in_the_results_between/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Reddit API: Relevance filter seems broken or changed",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1mav88f/reddit_api_relevance_filter_seems_broken_or/",
+      "score": 10,
+      "comments": 0,
+      "post_id": "t3_1mav88f",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "sobasnotreal",
+      "author_id": "t2_1ax23wijov",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-07-27T19:29:31.721000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1mav88f/reddit_api_relevance_filter_seems_broken_or/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Seeking advice on registered bot with failed appeal",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1m9933b/seeking_advice_on_registered_bot_with_failed/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1m9933b",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "PlatinumVsReality",
+      "author_id": "t2_1tmip8v4yo",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-07-25T19:52:38.646000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1m9933b/seeking_advice_on_registered_bot_with_failed/",
+      "content_preview": "",
+      "flair": [
+        "General Botmanship"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ext13n/styles/profileIcon_glnl78vln3ef1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=93a01afdf76e4f864a32bea5328324db446c00a0"
+    },
+    {
+      "title": "Open-source project",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1m8wfpv/opensource_project/",
+      "score": 4,
+      "comments": 1,
+      "post_id": "t3_1m8wfpv",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "zeroned_",
+      "author_id": "t2_1u9r81914z",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-07-25T11:17:04.451000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1m8wfpv/opensource_project/",
+      "content_preview": "",
+      "flair": [
+        "General Botmanship"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+    },
+    {
+      "title": "Was there a big change to the API 2 days ago?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1m812c0/was_there_a_big_change_to_the_api_2_days_ago/",
+      "score": 6,
+      "comments": 12,
+      "post_id": "t3_1m812c0",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "Commercial-Soup-temp",
+      "author_id": "t2_hozenuz4d",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-07-24T10:45:40.409000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1m812c0/was_there_a_big_change_to_the_api_2_days_ago/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_9d2ins/styles/profileIcon_hc0ghav175kf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=657010e3ef1f97af7d1ad01882900e4ff424d82f"
+    },
+    {
+      "title": "Is Reddit's API rate limit 100 or 60 requests per minute?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1m818hy/is_reddits_api_rate_limit_100_or_60_requests_per/",
+      "score": 1,
+      "comments": 4,
+      "post_id": "t3_1m818hy",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "AnxiousSaul",
+      "author_id": "t2_1fcdnmuzql",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-07-24T10:55:18.235000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1m818hy/is_reddits_api_rate_limit_100_or_60_requests_per/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "PRAW missing some submission when iterating over a subreddit",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1m74pc7/praw_missing_some_submission_when_iterating_over/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1m74pc7",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "EventFragrant9416",
+      "author_id": "t2_1sqck87jl8",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-07-23T09:32:02.526000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1m74pc7/praw_missing_some_submission_when_iterating_over/",
+      "content_preview": "",
+      "flair": [
+        "PRAW"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "401 Unauthorized since last night. Script hasn't changed in years.",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1m6sg0i/401_unauthorized_since_last_night_script_hasnt/",
+      "score": 2,
+      "comments": 10,
+      "post_id": "t3_1m6sg0i",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "privateSubMod",
+      "author_id": "t2_vs54bzrq",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-07-22T22:38:06.392000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1m6sg0i/401_unauthorized_since_last_night_script_hasnt/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "Is it possible to upload a video to Reddit using Python?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1m6r20d/is_it_possible_to_upload_a_video_to_reddit_using/",
+      "score": 2,
+      "comments": 7,
+      "post_id": "t3_1m6r20d",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "Mrreddituser111312",
+      "author_id": "t2_93jq9brk",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-07-22T21:41:07.791000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1m6r20d/is_it_possible_to_upload_a_video_to_reddit_using/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Reddit paid API plans exist?",
+      "permalink": "https://www.reddit.com/r/redditdev/comments/1m5g6d0/reddit_paid_api_plans_exist/",
+      "score": 9,
+      "comments": 3,
+      "post_id": "t3_1m5g6d0",
+      "post_type": "text",
+      "domain": "self.redditdev",
+      "author": "LorenzKrinner",
+      "author_id": "t2_zjik1c3zh",
+      "subreddit_id": "t5_2qizd",
+      "subreddit": "r/redditdev",
+      "created_ts": "2025-07-21T11:17:22.077000+0000",
+      "content_href": "https://www.reddit.com/r/redditdev/comments/1m5g6d0/reddit_paid_api_plans_exist/",
+      "content_preview": "",
+      "flair": [
+        "Reddit API"
+      ],
+      "thumbnail_url": ""
+    }
+  ],
+  "scraped_at": "2025-09-02T11:41:23.354090"
+}

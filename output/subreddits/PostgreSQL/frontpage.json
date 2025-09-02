@@ -1,0 +1,1010 @@
+{
+  "subreddit": "PostgreSQL",
+  "url": "https://www.reddit.com/r/PostgreSQL",
+  "meta": {
+    "title": "PostgreSQL"
+  },
+  "posts": [
+    {
+      "title": "SQL Coding Agents - Expert Opinions?",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1n3qehq/sql_coding_agents_expert_opinions/",
+      "score": 0,
+      "comments": 8,
+      "post_id": "t3_1n3qehq",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "immutato",
+      "author_id": "t2_msd76ets0",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-30T02:33:58.263000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1n3qehq/sql_coding_agents_expert_opinions/",
+      "content_preview": "",
+      "flair": [
+        "Tools"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "DuckDB Can Query Your PostgreSQL. We Built a UI For It.",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1n1kcuq/duckdb_can_query_your_postgresql_we_built_a_ui/",
+      "score": 31,
+      "comments": 4,
+      "post_id": "t3_1n1kcuq",
+      "post_type": "crosspost",
+      "domain": "v.redd.it",
+      "author": "Sea-Assignment6371",
+      "author_id": "t2_sgy5sedla",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-27T15:35:26.934000+0000",
+      "content_href": "/r/dataengineering/comments/1n1kaa7/duckdb_can_query_your_postgresql_we_built_a_ui/",
+      "content_preview": "",
+      "flair": [
+        "Projects"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/duckdb-can-query-your-postgresql-we-built-a-ui-for-it-v0-cjVieHZlcTh6a2xmMa4_lwwVtNbPcwYeE0mOaQx5OHFLDdwbZyKZszF-hrDo.png?width=640&crop=smart&format=pjpg&auto=webp&s=5d66f8ba9bbfd4727e00341b029dd75707c3f521"
+    },
+    {
+      "title": "What's the best way to deploy a DB in a CI/CD pipeline?",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1n59a5x/whats_the_best_way_to_deploy_a_db_in_a_cicd/",
+      "score": 9,
+      "comments": 19,
+      "post_id": "t3_1n59a5x",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "david_fire_vollie",
+      "author_id": "t2_16i6ta9r9o",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-31T23:26:01.451000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1n59a5x/whats_the_best_way_to_deploy_a_db_in_a_cicd/",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Indexing JSONB in Postgres",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mp5dka/indexing_jsonb_in_postgres/",
+      "score": 77,
+      "comments": 11,
+      "post_id": "t3_1mp5dka",
+      "post_type": "link",
+      "domain": "crunchydata.com",
+      "author": "craigkerstiens",
+      "author_id": "t2_lrss8s7",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-13T14:03:47.328000+0000",
+      "content_href": "https://www.crunchydata.com/blog/indexing-jsonb-in-postgres",
+      "content_preview": "",
+      "flair": [
+        "How-To"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4qvh6/styles/profileIcon_st59tz4x0q1a1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d967edbc1d29590831e3dac99726cb52bf89c833"
+    },
+    {
+      "title": "After an all-nighter, I successfully created a Postgres HA setup with Patroni, HAProxy, and etcd. The database is now resilient.",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1n4t1nx/after_an_allnighter_i_successfully_created_a/",
+      "score": 10,
+      "comments": 14,
+      "post_id": "t3_1n4t1nx",
+      "post_type": "crosspost",
+      "domain": "v.redd.it",
+      "author": "ban_rakash",
+      "author_id": "t2_xoatn4pb4",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-31T12:09:53.170000+0000",
+      "content_href": "/r/developersIndia/comments/1n3pmu1/after_an_allnighter_i_successfully_created_a/",
+      "content_preview": "",
+      "flair": [
+        "Projects"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_b8pozp/styles/profileIcon_yfz07d1ov11d1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=86315659d80a29a1676cbeac48762b03dd8b7ee8"
+    },
+    {
+      "title": "Postgres 15 to 13",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1n3djkd/postgres_15_to_13/",
+      "score": 28,
+      "comments": 30,
+      "post_id": "t3_1n3djkd",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "erwagon",
+      "author_id": "t2_135dlz",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-29T17:23:16.975000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1n3djkd/postgres_15_to_13/",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Painless equivalent in PostgreSQL?",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1n4r9l7/painless_equivalent_in_postgresql/",
+      "score": 0,
+      "comments": 13,
+      "post_id": "t3_1n4r9l7",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "Practical-Garbage-48",
+      "author_id": "t2_pzj31wnkf",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-31T10:26:09.288000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1n4r9l7/painless_equivalent_in_postgresql/",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "LLM rules for PostgreSQL",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1n39n0f/llm_rules_for_postgresql/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1n39n0f",
+      "post_type": "link",
+      "domain": "wispbit.com",
+      "author": "PoisonMinion",
+      "author_id": "t2_aifoo",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-29T14:55:14.959000+0000",
+      "content_href": "https://wispbit.com/blog/llm-rules-for-postgres",
+      "content_preview": "",
+      "flair": [
+        "How-To"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Postgred as a queue | Lessons after 6.7T events",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mmy4xn/postgred_as_a_queue_lessons_after_67t_events/",
+      "score": 44,
+      "comments": 13,
+      "post_id": "t3_1mmy4xn",
+      "post_type": "link",
+      "domain": "rudderstack.com",
+      "author": "ephemeral404",
+      "author_id": "t2_cbh6ollo",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-11T00:00:00.661000+0000",
+      "content_href": "https://www.rudderstack.com/blog/scaling-postgres-queue/",
+      "content_preview": "",
+      "flair": [
+        "Community"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/aV3tEqolMaDJssV_PI1UlFVAU5RS19YnLHgCc_lDYm4.png?width=140&height=53&crop=140:53,smart&auto=webp&s=e3c20f8b0d96b9af8485c6eb05a4f5e121dff2dc"
+    },
+    {
+      "title": "Optimising Cold Page Reads in PostgreSQL",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1n3bip5/optimising_cold_page_reads_in_postgresql/",
+      "score": 6,
+      "comments": 0,
+      "post_id": "t3_1n3bip5",
+      "post_type": "link",
+      "domain": "pgedge.com",
+      "author": "pgEdge_Postgres",
+      "author_id": "t2_1cyt28ivpk",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-29T16:06:22.591000+0000",
+      "content_href": "https://www.pgedge.com/blog/optimising-cold-page-reads-in-postgresql",
+      "content_preview": "",
+      "flair": [
+        "How-To"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_cwge5w/styles/profileIcon_e52ayb8p6w3f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=534aae8a21e18ef2c022e93f683881b9e4111cb8"
+    },
+    {
+      "title": "Introduction to Postgres Extension Development",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1n0tmhz/introduction_to_postgres_extension_development/",
+      "score": 26,
+      "comments": 4,
+      "post_id": "t3_1n0tmhz",
+      "post_type": "link",
+      "domain": "pgedge.com",
+      "author": "fullofbones",
+      "author_id": "t2_545y4",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-26T18:22:24.000000+0000",
+      "content_href": "https://www.pgedge.com/blog/introduction-to-postgres-extension-development",
+      "content_preview": "",
+      "flair": [
+        "How-To"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_206ukm/styles/profileIcon_fsxcel7gf8af1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c0cf701c8422e645852a0969e59f8568fcc3ccd5"
+    },
+    {
+      "title": "Postgres as a Graph Database: (Ab)using pgRouting",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1n1kw9w/postgres_as_a_graph_database_abusing_pgrouting/",
+      "score": 19,
+      "comments": 4,
+      "post_id": "t3_1n1kw9w",
+      "post_type": "link",
+      "domain": "supabase.com",
+      "author": "kiwicopple",
+      "author_id": "t2_16u7oy",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-27T15:56:09.353000+0000",
+      "content_href": "https://supabase.com/blog/pgrouting-postgres-graph-database",
+      "content_preview": "",
+      "flair": [
+        "Tools"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Initialization script for docker, but every time the container starts",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1n355bi/initialization_script_for_docker_but_every_time/",
+      "score": 1,
+      "comments": 6,
+      "post_id": "t3_1n355bi",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "LukeZNotFound",
+      "author_id": "t2_w147y0xj",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-29T11:43:37.246000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1n355bi/initialization_script_for_docker_but_every_time/",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "You should add debugging views to your DB",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mq8o0n/you_should_add_debugging_views_to_your_db/",
+      "score": 30,
+      "comments": 12,
+      "post_id": "t3_1mq8o0n",
+      "post_type": "link",
+      "domain": "chrispenner.ca",
+      "author": "ChrisPenner",
+      "author_id": "t2_14oqdg",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-14T18:20:03.547000+0000",
+      "content_href": "https://chrispenner.ca/posts/views-for-debugging",
+      "content_preview": "",
+      "flair": [
+        "How-To"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_aoefh/styles/profileIcon_bzl93o6y634e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=54a7c70abed570658c20d02804df63ad0381e9fa"
+    },
+    {
+      "title": "How do you administer postgres once you get to the scale that something is always happening?",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mvhxig/how_do_you_administer_postgres_once_you_get_to/",
+      "score": 24,
+      "comments": 37,
+      "post_id": "t3_1mvhxig",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "davvblack",
+      "author_id": "t2_2zjzd",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-20T15:26:46.968000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1mvhxig/how_do_you_administer_postgres_once_you_get_to/",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Can't get postgres container to let me in :/",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1n1ppzn/cant_get_postgres_container_to_let_me_in/",
+      "score": 0,
+      "comments": 15,
+      "post_id": "t3_1n1ppzn",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "Blender-Fan",
+      "author_id": "t2_mwqkgc1s",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-27T18:54:18.402000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1n1ppzn/cant_get_postgres_container_to_let_me_in/",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "GitHub - h4kbas/pgcalendar: A PostgreSQL extension that provides infinite calendar functionality for recurring schedules with exceptions.",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1n2adta/github_h4kbaspgcalendar_a_postgresql_extension/",
+      "score": 17,
+      "comments": 3,
+      "post_id": "t3_1n2adta",
+      "post_type": "link",
+      "domain": "github.com",
+      "author": "huseyinakbas",
+      "author_id": "t2_sflx1",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-28T12:04:33.093000+0000",
+      "content_href": "https://github.com/h4kbas/pgcalendar",
+      "content_preview": "",
+      "flair": [
+        "Projects"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/q8bDgCV7eE8p3Ao_oz-vE2S5aThX2k47uQiJAxtImwE.png?width=140&height=70&crop=140:70,smart&auto=webp&s=a52b04652fa46c0f68a0a1b3ef5809afe52d9201"
+    },
+    {
+      "title": "Speeding up querying of large tables",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mjvxlv/speeding_up_querying_of_large_tables/",
+      "score": 16,
+      "comments": 24,
+      "post_id": "t3_1mjvxlv",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "ScottishVigilante",
+      "author_id": "t2_9yh0s6n7",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-07T09:58:02.088000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1mjvxlv/speeding_up_querying_of_large_tables/",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3u7c5h/styles/profileIcon_2rtdpuocn8r71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=29f03502a86282f2625cea95aa15290558e3efe9"
+    },
+    {
+      "title": "'permission' (i think) problems with restored schema",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mzsezt/permission_i_think_problems_with_restored_schema/",
+      "score": 2,
+      "comments": 10,
+      "post_id": "t3_1mzsezt",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ArbereshDoqetejete",
+      "author_id": "t2_s48yoebzj",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-25T14:44:48.441000+0000",
+      "content_href": "https://i.redd.it/oce15y6zd6lf1.png",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_al74q9/styles/profileIcon_fupm7jpv69rc1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=9ec866c208a5d951a63f1464888ffeb28a96c844"
+    },
+    {
+      "title": "How hard is the postgreSQL 12 to 13 upgrade?",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1n0u5ix/how_hard_is_the_postgresql_12_to_13_upgrade/",
+      "score": 6,
+      "comments": 25,
+      "post_id": "t3_1n0u5ix",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "joeeames",
+      "author_id": "t2_2nwibpat",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-26T18:42:52.334000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1n0u5ix/how_hard_is_the_postgresql_12_to_13_upgrade/",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Why there are two different \"postgres\" users and why it matters",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mys99a/why_there_are_two_different_postgres_users_and/",
+      "score": 0,
+      "comments": 23,
+      "post_id": "t3_1mys99a",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "river-zezere",
+      "author_id": "t2_cacjh3hy",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-24T10:38:11.922000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1mys99a/why_there_are_two_different_postgres_users_and/",
+      "content_preview": "",
+      "flair": [
+        "Projects"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "psql on NetBSD doesn't seem to have vi mode support?",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1n26tzh/psql_on_netbsd_doesnt_seem_to_have_vi_mode_support/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n26tzh",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "I0I0I0I",
+      "author_id": "t2_366hv",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-28T08:38:45.315000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1n26tzh/psql_on_netbsd_doesnt_seem_to_have_vi_mode_support/",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "gotrue jwt in docker migration script",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mw4yt6/gotrue_jwt_in_docker_migration_script/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1mw4yt6",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "thefunnyape",
+      "author_id": "t2_5hmjrrsa",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-21T08:11:29.319000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1mw4yt6/gotrue_jwt_in_docker_migration_script/",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "helo me find the supabase migrations.",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mxyii8/helo_me_find_the_supabase_migrations/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1mxyii8",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "thefunnyape",
+      "author_id": "t2_5hmjrrsa",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-23T11:03:26.131000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1mxyii8/helo_me_find_the_supabase_migrations/",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "What do you have to do to show outline in VS Code?",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1n1iazs/what_do_you_have_to_do_to_show_outline_in_vs_code/",
+      "score": 0,
+      "comments": 10,
+      "post_id": "t3_1n1iazs",
+      "post_type": "multi_media",
+      "domain": "self.PostgreSQL",
+      "author": "Jazzlike_770",
+      "author_id": "t2_1aurueewxc",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-27T14:18:02.111000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1n1iazs/what_do_you_have_to_do_to_show_outline_in_vs_code/",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Mastering cross-database operations with PostgreSQL FDW",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mx3u7f/mastering_crossdatabase_operations_with/",
+      "score": 6,
+      "comments": 2,
+      "post_id": "t3_1mx3u7f",
+      "post_type": "link",
+      "domain": "packagemain.tech",
+      "author": "der_gopher",
+      "author_id": "t2_149tyuiyao",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-22T11:25:09.697000+0000",
+      "content_href": "https://packagemain.tech/p/mastering-cross-database-operations-with-postgres-fdw",
+      "content_preview": "",
+      "flair": [
+        "Windows"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/WM8iot-lc67msIAsQYbku82_jTiMhDysWQRPxcJpq3M.jpeg?width=140&height=76&crop=140:76,smart&auto=webp&s=246feaf36104a88d1a7ff27ce46bcec700d01707"
+    },
+    {
+      "title": "What are scripts you like to use to diagnose issues in a database?",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mxilj5/what_are_scripts_you_like_to_use_to_diagnose/",
+      "score": 14,
+      "comments": 7,
+      "post_id": "t3_1mxilj5",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "LargeSinkholesInNYC",
+      "author_id": "t2_1svlatr6zb",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-22T21:11:50.827000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1mxilj5/what_are_scripts_you_like_to_use_to_diagnose/",
+      "content_preview": "",
+      "flair": [
+        "Tools"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Building Secure API Key Management with Supabase, KSUID & PostgreSQL",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mvgem4/building_secure_api_key_management_with_supabase/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1mvgem4",
+      "post_type": "link",
+      "domain": "blog.mansueli.com",
+      "author": "mansueli",
+      "author_id": "t2_p2mqc",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-20T14:30:19.895000+0000",
+      "content_href": "https://blog.mansueli.com/building-secure-api-key-management-with-supabase-ksuid-and-postgresql",
+      "content_preview": "",
+      "flair": [
+        "How-To"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/Pz5QKYU9C6uowUD7SBCzEHTyUB9cvS4yLafHVpqi5TU.png?width=140&height=73&crop=140:73,smart&auto=webp&s=bd6335c9d84a7cd1fec345d8450e63529ec49261"
+    },
+    {
+      "title": "How should I implement table level GC?",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1muzcm5/how_should_i_implement_table_level_gc/",
+      "score": 2,
+      "comments": 7,
+      "post_id": "t3_1muzcm5",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "Axcentric_Jabaroni",
+      "author_id": "t2_9mnwp5lx",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-19T23:57:15.096000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1muzcm5/how_should_i_implement_table_level_gc/",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5ev40j/styles/profileIcon_3x2xnrmonsua1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c0bd6dd71e62affbfe387ebfc4d8507ed7580e79"
+    },
+    {
+      "title": "stagDB - Open Source database manager with instant branching for Dev Teams",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mx1gbg/stagdb_open_source_database_manager_with_instant/",
+      "score": 7,
+      "comments": 3,
+      "post_id": "t3_1mx1gbg",
+      "post_type": "multi_media",
+      "domain": "self.PostgreSQL",
+      "author": "observantwallflower",
+      "author_id": "t2_24iwic25",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-22T09:04:58.984000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1mx1gbg/stagdb_open_source_database_manager_with_instant/",
+      "content_preview": "",
+      "flair": [
+        "Tools"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Postgres Replication Slots: Confirmed Flush LSN vs. Restart LSN",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mi98hh/postgres_replication_slots_confirmed_flush_lsn_vs/",
+      "score": 14,
+      "comments": 3,
+      "post_id": "t3_1mi98hh",
+      "post_type": "link",
+      "domain": "morling.dev",
+      "author": "gunnarmorling",
+      "author_id": "t2_bxjjl",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-05T13:29:31.808000+0000",
+      "content_href": "https://www.morling.dev/blog/postgres-replication-slots-confirmed-flush-lsn-vs-restart-lsn/",
+      "content_preview": "",
+      "flair": [
+        "How-To"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How to get postgres to stop doing sequential scans when an index is available.",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mwdkos/how_to_get_postgres_to_stop_doing_sequential/",
+      "score": 6,
+      "comments": 13,
+      "post_id": "t3_1mwdkos",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "jackass",
+      "author_id": "t2_44ju",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-21T15:07:08.709000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1mwdkos/how_to_get_postgres_to_stop_doing_sequential/",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Is there any useful script you would add to this list?",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mqxbio/is_there_any_useful_script_you_would_add_to_this/",
+      "score": 13,
+      "comments": 5,
+      "post_id": "t3_1mqxbio",
+      "post_type": "link",
+      "domain": "gist.github.com",
+      "author": "LargeSinkholesInNYC",
+      "author_id": "t2_1svlatr6zb",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-15T13:06:50.430000+0000",
+      "content_href": "https://gist.github.com/rgreenjr/3637525",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Syncing with Postgres: Logical Replication vs. ETL",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mut7f8/syncing_with_postgres_logical_replication_vs_etl/",
+      "score": 6,
+      "comments": 5,
+      "post_id": "t3_1mut7f8",
+      "post_type": "link",
+      "domain": "paradedb.com",
+      "author": "philippemnoel",
+      "author_id": "t2_4iwrwdc0",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-19T19:57:48.301000+0000",
+      "content_href": "https://www.paradedb.com/blog/etl_vs_logical_replication",
+      "content_preview": "",
+      "flair": [
+        "How-To"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/G9E5HndCx2b66xK49Gl2inWpu8c5yHShEjaKgT3_Byw.png?width=140&height=73&crop=140:73,smart&auto=webp&s=abc34ec630977ff95052afc3e4aae5fd04a8d078"
+    },
+    {
+      "title": "multi dimensional dataset for learning postgreSQL",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mut3ez/multi_dimensional_dataset_for_learning_postgresql/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1mut3ez",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "Jespor",
+      "author_id": "t2_cshd3",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-19T19:53:47.765000+0000",
+      "content_href": "/r/learndatascience/comments/1mudb7r/multi_dimensional_dataset_for_learning_postgresql/",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "High Availability and Postgres full-sync replication",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mjxvdu/high_availability_and_postgres_fullsync/",
+      "score": 13,
+      "comments": 1,
+      "post_id": "t3_1mjxvdu",
+      "post_type": "link",
+      "domain": "multigres.com",
+      "author": "kiwicopple",
+      "author_id": "t2_16u7oy",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-07T11:46:42.089000+0000",
+      "content_href": "https://multigres.com/blog/postgres-ha-full-sync",
+      "content_preview": "",
+      "flair": [
+        "Projects"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Future-Ready: How YugabyteDB Keeps Pace with PostgreSQL Innovation",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1muqll7/futureready_how_yugabytedb_keeps_pace_with/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1muqll7",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "Hk_90",
+      "author_id": "t2_agpete5",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-19T18:24:25.249000+0000",
+      "content_href": "/r/YugabyteDB/comments/1muj9x1/futureready_how_yugabytedb_keeps_pace_with/",
+      "content_preview": "",
+      "flair": [
+        "Feature"
+      ],
+      "thumbnail_url": "https://preview.redd.it/future-ready-how-yugabytedb-keeps-pace-with-postgresql-v0-pi750r2tfzjf1.jpeg?width=640&crop=smart&auto=webp&s=218839caa74f5854a23f480095f82bee1b422992"
+    },
+    {
+      "title": "DROP PARTITION issues with function",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mufs63/drop_partition_issues_with_function/",
+      "score": 1,
+      "comments": 3,
+      "post_id": "t3_1mufs63",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "paulcarron",
+      "author_id": "t2_16ry13",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-19T11:30:12.228000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1mufs63/drop_partition_issues_with_function/",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "What's your favorite database client for desktop?",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mvc54o/whats_your_favorite_database_client_for_desktop/",
+      "score": 12,
+      "comments": 44,
+      "post_id": "t3_1mvc54o",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "finally_i_found_one",
+      "author_id": "t2_k4vsy393",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-20T11:27:59.972000+0000",
+      "content_href": "/r/Database/comments/1mvbyjc/whats_your_favorite_database_client_for_desktop/",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "How to compare 2 Databases?",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mu1tba/how_to_compare_2_databases/",
+      "score": 5,
+      "comments": 20,
+      "post_id": "t3_1mu1tba",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "brink668",
+      "author_id": "t2_xl3c8",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-18T23:14:37.504000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1mu1tba/how_to_compare_2_databases/",
+      "content_preview": "",
+      "flair": [
+        "How-To"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Is there any way to create a row in a table when the value of a column in a different table is modified?",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1muvg6y/is_there_any_way_to_create_a_row_in_a_table_when/",
+      "score": 0,
+      "comments": 8,
+      "post_id": "t3_1muvg6y",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "ashkanahmadi",
+      "author_id": "t2_61vn3cfd",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-19T21:19:59.403000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1muvg6y/is_there_any_way_to_create_a_row_in_a_table_when/",
+      "content_preview": "",
+      "flair": [
+        "How-To"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Alternatives to pgstatindex + REINDEX for index bloat management in PG17?",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mtewc1/alternatives_to_pgstatindex_reindex_for_index/",
+      "score": 3,
+      "comments": 3,
+      "post_id": "t3_1mtewc1",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "StriderAR7",
+      "author_id": "t2_127iwf",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-18T07:01:58.969000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1mtewc1/alternatives_to_pgstatindex_reindex_for_index/",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Find table partitions for deletion",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mqtv0p/find_table_partitions_for_deletion/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1mqtv0p",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "paulcarron",
+      "author_id": "t2_16ry13",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-15T10:27:59.321000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1mqtv0p/find_table_partitions_for_deletion/",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "pgbackrest stream replication w/ TLS",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1meecol/pgbackrest_stream_replication_w_tls/",
+      "score": 3,
+      "comments": 8,
+      "post_id": "t3_1meecol",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "Moriksan",
+      "author_id": "t2_7q1mfgqx",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-07-31T21:40:10.560000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1meecol/pgbackrest_stream_replication_w_tls/",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Does logical replication automatically happen to all nodes on postgres or is just syncing tables on one instance?",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mebbzd/does_logical_replication_automatically_happen_to/",
+      "score": 4,
+      "comments": 9,
+      "post_id": "t3_1mebbzd",
+      "post_type": "multi_media",
+      "domain": "self.PostgreSQL",
+      "author": "Willing_Sentence_858",
+      "author_id": "t2_y3cjyfj1m",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-07-31T19:42:28.423000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1mebbzd/does_logical_replication_automatically_happen_to/",
+      "content_preview": "",
+      "flair": [
+        "How-To"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+    },
+    {
+      "title": "Hierarchical Data in Postgres Queries",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mdn2r7/hierarchical_data_in_postgres_queries/",
+      "score": 9,
+      "comments": 5,
+      "post_id": "t3_1mdn2r7",
+      "post_type": "link",
+      "domain": "docs.google.com",
+      "author": "bowbahdoe",
+      "author_id": "t2_e1okh",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-07-31T00:18:58.260000+0000",
+      "content_href": "https://docs.google.com/presentation/d/1YJ_35vrqW3b-JesbNGrbHa7OJra7OmnNzXkkqCOnwus/edit?usp=sharing",
+      "content_preview": "",
+      "flair": [
+        "Projects"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "Sharding Postgres at network speed",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mdc2cr/sharding_postgres_at_network_speed/",
+      "score": 25,
+      "comments": 4,
+      "post_id": "t3_1mdc2cr",
+      "post_type": "link",
+      "domain": "pgdog.dev",
+      "author": "levkk1",
+      "author_id": "t2_ji5rf6nd",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-07-30T17:01:15.909000+0000",
+      "content_href": "https://pgdog.dev/blog/sharding-postgres-at-network-speed",
+      "content_preview": "",
+      "flair": [
+        "Projects"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5tmq2a/styles/profileIcon_0l87lnncq1gf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=512067715f1cd438bda0128d51d70119d3466339"
+    },
+    {
+      "title": "Set to null on delete",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mtvudq/set_to_null_on_delete/",
+      "score": 0,
+      "comments": 14,
+      "post_id": "t3_1mtvudq",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "Altruistic-Treat8458",
+      "author_id": "t2_fc3sjx6d",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-08-18T19:25:55.309000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1mtvudq/set_to_null_on_delete/",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "PostgreSQL IDEs on Windows. pgAdmin feels rough, looking for alternatives",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1md1k5b/postgresql_ides_on_windows_pgadmin_feels_rough/",
+      "score": 8,
+      "comments": 70,
+      "post_id": "t3_1md1k5b",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "Roguetron",
+      "author_id": "t2_1ug6muzens",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-07-30T08:59:46.450000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1md1k5b/postgresql_ides_on_windows_pgadmin_feels_rough/",
+      "content_preview": "",
+      "flair": [
+        "Help Me!"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f19ps6/styles/profileIcon_3rffqxn5bgff1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=90d6c00fccbab439bd2d351ea727adb5464eebb7"
+    },
+    {
+      "title": "Most Admired Database 2025",
+      "permalink": "https://www.reddit.com/r/PostgreSQL/comments/1mcpq3k/most_admired_database_2025/",
+      "score": 44,
+      "comments": 23,
+      "post_id": "t3_1mcpq3k",
+      "post_type": "text",
+      "domain": "self.PostgreSQL",
+      "author": "Straight_Waltz_9530",
+      "author_id": "t2_hwzgnf0t",
+      "subreddit_id": "t5_2qvw7",
+      "subreddit": "r/PostgreSQL",
+      "created_ts": "2025-07-29T22:33:33.835000+0000",
+      "content_href": "https://www.reddit.com/r/PostgreSQL/comments/1mcpq3k/most_admired_database_2025/",
+      "content_preview": "",
+      "flair": [
+        "Community"
+      ],
+      "thumbnail_url": ""
+    }
+  ],
+  "scraped_at": "2025-09-02T12:15:47.918597"
+}
