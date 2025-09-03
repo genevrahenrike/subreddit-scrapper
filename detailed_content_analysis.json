@@ -1,0 +1,1005 @@
+[
+  {
+    "file": "output/pages/CPTSD_NSCommunity_frontpage_debug_20250902_184820.html",
+    "detailed_posts": [
+      {
+        "post_index": 0,
+        "attributes": {
+          "data-ks-item": "",
+          "class": [
+            "block",
+            "relative",
+            "cursor-pointer",
+            "group",
+            "bg-neutral-background",
+            "focus-within:bg-neutral-background-hover",
+            "hover:bg-neutral-background-hover",
+            "xs:rounded-4",
+            "px-md",
+            "py-2xs",
+            "my-2xs",
+            "nd:visible"
+          ],
+          "permalink": "/r/CPTSD_NSCommunity/comments/1n6w4st/leaving_a_high_paying_career/",
+          "content-href": "https://www.reddit.com/r/CPTSD_NSCommunity/comments/1n6w4st/leaving_a_high_paying_career/",
+          "view-context": "SubredditFeed",
+          "comment-count": "5",
+          "view-type": "cardView",
+          "vote-type": "",
+          "pdp-target": "_self",
+          "feedindex": "3",
+          "user-id": "",
+          "moderation-verdict": "",
+          "previous-actions-feature": "",
+          "item-state": "",
+          "is-embeddable": "",
+          "is-desktop-viewport": "",
+          "boost-post-page-exp": "",
+          "is-not-brand-safe": "",
+          "created-timestamp": "2025-09-02T21:26:19.280000+0000",
+          "domain": "self.CPTSD_NSCommunity",
+          "id": "t3_1n6w4st",
+          "post-title": "Leaving a high paying career",
+          "post-type": "text",
+          "score": "3",
+          "subreddit-id": "t5_4qdiih",
+          "subreddit-prefixed-name": "r/CPTSD_NSCommunity",
+          "author-id": "t2_1nmg345",
+          "author": "third-second-best",
+          "icon": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+          "data-expected-lcp": "",
+          "subreddit-name": "CPTSD_NSCommunity"
+        },
+        "slot_elements": [
+          {
+            "tag": "a",
+            "classes": [
+              "hover:no-underline",
+              "no-underline",
+              "pointer-events-none",
+              "text-neutral-content",
+              "visited:text-neutral-content-weak"
+            ],
+            "text_content": "Hi friends - Hopefully some folks in here can relate to what I’m going to share and offer some advice.I recently turned 40 and am several years into my healing journey. I still have a long long way to",
+            "text_length": 1384,
+            "children_count": 7,
+            "has_links": false,
+            "innerHTML_snippet": "<a class=\"hover:no-underline no-underline pointer-events-none text-neutral-content visited:text-neutral-content-weak\" href=\"/r/CPTSD_NSCommunity/comments/1n6w4st/leaving_a_high_paying_career/\" slot=\"text-body\">\n<div class=\"mb-xs overflow-hidden\" data-post-click-location=\"text-body\">\n<div about=\"t3_1..."
+          }
+        ],
+        "text_elements": [],
+        "all_selectors_found": {
+          "[slot=\"text-body\"]": [
+            {
+              "tag": "a",
+              "text_preview": "Hi friends - Hopefully some folks in here can relate to what I’m going to share and offer some advic...",
+              "text_length": 1384,
+              "is_url": false,
+              "has_children": true
+            }
+          ],
+          "div[class*=\"text\"]": [
+            {
+              "tag": "div",
+              "text_preview": "Hi friends - Hopefully some folks in here can relate to what I’m going to share and offer some advic...",
+              "text_length": 1384,
+              "is_url": false,
+              "has_children": true
+            }
+          ],
+          "p": [
+            {
+              "tag": "p",
+              "text_preview": "Hi friends - Hopefully some folks in here can relate to what I’m going to share and offer some advic...",
+              "text_length": 102,
+              "is_url": false,
+              "has_children": false
+            },
+            {
+              "tag": "p",
+              "text_preview": "I recently turned 40 and am several years into my healing journey. I still have a long long way to g...",
+              "text_length": 368,
+              "is_url": false,
+              "has_children": false
+            },
+            {
+              "tag": "p",
+              "text_preview": "I am beginning to explore selling them, but restaurants are notoriously hard to sell and not as valu...",
+              "text_length": 375,
+              "is_url": false,
+              "has_children": false
+            },
+            {
+              "tag": "p",
+              "text_preview": "My big worry is that I won’t find any path that will allow me to earn what I am currently earning. I...",
+              "text_length": 361,
+              "is_url": false,
+              "has_children": false
+            },
+            {
+              "tag": "p",
+              "text_preview": "Has anyone faced a similar situation and left a high paying but soul crushing career? How did you fi...",
+              "text_length": 178,
+              "is_url": false,
+              "has_children": false
+            }
+          ]
+        }
+      },
+      {
+        "post_index": 1,
+        "attributes": {
+          "data-ks-item": "",
+          "class": [
+            "block",
+            "relative",
+            "cursor-pointer",
+            "group",
+            "bg-neutral-background",
+            "focus-within:bg-neutral-background-hover",
+            "hover:bg-neutral-background-hover",
+            "xs:rounded-4",
+            "px-md",
+            "py-2xs",
+            "my-2xs",
+            "nd:visible"
+          ],
+          "permalink": "/r/CPTSD_NSCommunity/comments/1n6i1hq/how_do_i_know_what_is_real_here_i_have_had_the/",
+          "content-href": "https://www.reddit.com/r/CPTSD_NSCommunity/comments/1n6i1hq/how_do_i_know_what_is_real_here_i_have_had_the/",
+          "view-context": "SubredditFeed",
+          "comment-count": "19",
+          "view-type": "cardView",
+          "vote-type": "",
+          "pdp-target": "_self",
+          "feedindex": "4",
+          "user-id": "",
+          "moderation-verdict": "",
+          "previous-actions-feature": "",
+          "item-state": "",
+          "is-embeddable": "",
+          "is-desktop-viewport": "",
+          "boost-post-page-exp": "",
+          "is-not-brand-safe": "",
+          "created-timestamp": "2025-09-02T12:24:48.075000+0000",
+          "domain": "self.CPTSD_NSCommunity",
+          "id": "t3_1n6i1hq",
+          "post-title": "How do I know what is real here? I have had the same issue in trauma therapy for the four years I have went there and still don't know what is real and if I can trust my perception",
+          "post-type": "text",
+          "score": "15",
+          "subreddit-id": "t5_4qdiih",
+          "subreddit-prefixed-name": "r/CPTSD_NSCommunity",
+          "author-id": "t2_1r0c0y4ws7",
+          "author": "MauveMyosotis",
+          "icon": "https://preview.redd.it/snoovatar/avatars/a936fd85-bdc1-45b8-98a5-a767eb416bf9-headshot.png?width=64&height=64&auto=webp&s=fbb498be0fab4155e19d977b85fe046d787f726a",
+          "data-expected-lcp": "",
+          "subreddit-name": "CPTSD_NSCommunity"
+        },
+        "slot_elements": [
+          {
+            "tag": "a",
+            "classes": [
+              "hover:no-underline",
+              "no-underline",
+              "pointer-events-none",
+              "text-neutral-content",
+              "visited:text-neutral-content-weak"
+            ],
+            "text_content": "This is a long post, I'm trying to describe the situation to my best effort and if somebody can have any inside if I'm wrong to trust my perception. Or her perception...Like today, I was telling my th",
+            "text_length": 8847,
+            "children_count": 12,
+            "has_links": false,
+            "innerHTML_snippet": "<a class=\"hover:no-underline no-underline pointer-events-none text-neutral-content visited:text-neutral-content-weak\" href=\"/r/CPTSD_NSCommunity/comments/1n6i1hq/how_do_i_know_what_is_real_here_i_have_had_the/\" slot=\"text-body\">\n<div class=\"mb-xs overflow-hidden\" data-post-click-location=\"text-body\"..."
+          }
+        ],
+        "text_elements": [],
+        "all_selectors_found": {
+          "[slot=\"text-body\"]": [
+            {
+              "tag": "a",
+              "text_preview": "This is a long post, I'm trying to describe the situation to my best effort and if somebody can have...",
+              "text_length": 8847,
+              "is_url": false,
+              "has_children": true
+            }
+          ],
+          "div[class*=\"text\"]": [
+            {
+              "tag": "div",
+              "text_preview": "Seeking Advice",
+              "text_length": 14,
+              "is_url": false,
+              "has_children": false
+            },
+            {
+              "tag": "div",
+              "text_preview": "This is a long post, I'm trying to describe the situation to my best effort and if somebody can have...",
+              "text_length": 8847,
+              "is_url": false,
+              "has_children": true
+            }
+          ],
+          "div[class*=\"content\"]": [
+            {
+              "tag": "div",
+              "text_preview": "Seeking Advice",
+              "text_length": 14,
+              "is_url": false,
+              "has_children": false
+            }
+          ],
+          "p": [
+            {
+              "tag": "p",
+              "text_preview": "This is a long post, I'm trying to describe the situation to my best effort and if somebody can have...",
+              "text_length": 169,
+              "is_url": false,
+              "has_children": false
+            },
+            {
+              "tag": "p",
+              "text_preview": "Like today, I was telling my therapist about going to watch my nephew's football game last Friday an...",
+              "text_length": 682,
+              "is_url": false,
+              "has_children": false
+            },
+            {
+              "tag": "p",
+              "text_preview": "My T has a habit of explaining things to me. This time too, she started by saying how kids change wh...",
+              "text_length": 2084,
+              "is_url": false,
+              "has_children": false
+            },
+            {
+              "tag": "p",
+              "text_preview": "So, when I feel unseen, I tell her that. And in her effort of explaining that she didn't mean it, I ...",
+              "text_length": 1107,
+              "is_url": false,
+              "has_children": false
+            },
+            {
+              "tag": "p",
+              "text_preview": "I said to her I'm tired and want to leave after 25 minutes, she took her calendar and asked if the s...",
+              "text_length": 1548,
+              "is_url": false,
+              "has_children": false
+            },
+            {
+              "tag": "p",
+              "text_preview": "Today I was able to rip myself out of it by telling her that her way of interacting with me is causi...",
+              "text_length": 1234,
+              "is_url": false,
+              "has_children": true
+            },
+            {
+              "tag": "p",
+              "text_preview": "I can't fathom what is real here and what is not. I know I was dysregulated, I know trauma and fragm...",
+              "text_length": 1035,
+              "is_url": false,
+              "has_children": false
+            },
+            {
+              "tag": "p",
+              "text_preview": "And why would somebody pay triumphic attention to \"so there is such a part??\" when I'm in the middle...",
+              "text_length": 918,
+              "is_url": false,
+              "has_children": false
+            },
+            {
+              "tag": "p",
+              "text_preview": "My GOD what a novel. My sincere thank you if you read the whole thing.",
+              "text_length": 70,
+              "is_url": false,
+              "has_children": false
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "file": "output/pages/taintedgrail_frontpage_debug_20250902_184801.html",
+    "detailed_posts": [
+      {
+        "post_index": 0,
+        "attributes": {
+          "data-ks-item": "",
+          "class": [
+            "block",
+            "relative",
+            "cursor-pointer",
+            "group",
+            "bg-neutral-background",
+            "focus-within:bg-neutral-background-hover",
+            "hover:bg-neutral-background-hover",
+            "xs:rounded-4",
+            "px-md",
+            "py-2xs",
+            "my-2xs",
+            "nd:visible"
+          ],
+          "permalink": "/r/taintedgrail/comments/1n6brci/wyrdknight_question/",
+          "content-href": "https://www.reddit.com/r/taintedgrail/comments/1n6brci/wyrdknight_question/",
+          "view-context": "SubredditFeed",
+          "comment-count": "14",
+          "view-type": "cardView",
+          "vote-type": "",
+          "pdp-target": "_self",
+          "feedindex": "4",
+          "user-id": "",
+          "moderation-verdict": "",
+          "previous-actions-feature": "",
+          "item-state": "",
+          "is-embeddable": "",
+          "is-desktop-viewport": "",
+          "is-awardable": "",
+          "boost-post-page-exp": "",
+          "created-timestamp": "2025-09-02T06:03:01.977000+0000",
+          "domain": "self.taintedgrail",
+          "id": "t3_1n6brci",
+          "post-title": "Wyrdknight question.",
+          "post-type": "text",
+          "score": "1",
+          "subreddit-id": "t5_tsapu",
+          "subreddit-prefixed-name": "r/taintedgrail",
+          "author-id": "t2_fp7pk1x5",
+          "author": "ththisbutascratch",
+          "icon": "https://styles.redditmedia.com/t5_5oc6ju/styles/profileIcon_snoof182a7e0-ad6c-47d7-ab30-176819048511-headshot.png?width=64&height=64&frame=1&auto=webp&crop=64%253A64%252Csmart&s=627d0ff76596495f74989c431161f63361020127",
+          "data-expected-lcp": "",
+          "subreddit-name": "taintedgrail"
+        },
+        "slot_elements": [
+          {
+            "tag": "a",
+            "classes": [
+              "hover:no-underline",
+              "no-underline",
+              "pointer-events-none",
+              "text-neutral-content",
+              "visited:text-neutral-content-weak"
+            ],
+            "text_content": "Hello! So i´m unsure about how the Wyrdknight works in terms of respawning. Is there one per map/act?  In another post someone suggested he appears to fight you each time you find anArthur relic, with",
+            "text_length": 254,
+            "children_count": 4,
+            "has_links": false,
+            "innerHTML_snippet": "<a class=\"hover:no-underline no-underline pointer-events-none text-neutral-content visited:text-neutral-content-weak\" href=\"/r/taintedgrail/comments/1n6brci/wyrdknight_question/\" slot=\"text-body\">\n<div class=\"mb-xs overflow-hidden\" data-post-click-location=\"text-body\">\n<div about=\"t3_1n6brci_\" class..."
+          }
+        ],
+        "text_elements": [],
+        "all_selectors_found": {
+          "[slot=\"text-body\"]": [
+            {
+              "tag": "a",
+              "text_preview": "Hello! So i´m unsure about how the Wyrdknight works in terms of respawning. Is there one per map/act...",
+              "text_length": 254,
+              "is_url": false,
+              "has_children": true
+            }
+          ],
+          "div[class*=\"text\"]": [
+            {
+              "tag": "div",
+              "text_preview": "Tainted Grail: FoA - Videogame",
+              "text_length": 30,
+              "is_url": false,
+              "has_children": false
+            },
+            {
+              "tag": "div",
+              "text_preview": "Hello! So i´m unsure about how the Wyrdknight works in terms of respawning. Is there one per map/act...",
+              "text_length": 254,
+              "is_url": false,
+              "has_children": true
+            }
+          ],
+          "div[class*=\"content\"]": [
+            {
+              "tag": "div",
+              "text_preview": "Tainted Grail: FoA - Videogame",
+              "text_length": 30,
+              "is_url": false,
+              "has_children": false
+            }
+          ],
+          "p": [
+            {
+              "tag": "p",
+              "text_preview": "Hello! So i´m unsure about how the Wyrdknight works in terms of respawning. Is there one per map/act...",
+              "text_length": 254,
+              "is_url": false,
+              "has_children": true
+            }
+          ]
+        }
+      },
+      {
+        "post_index": 1,
+        "attributes": {
+          "data-ks-item": "",
+          "class": [
+            "block",
+            "relative",
+            "cursor-pointer",
+            "group",
+            "bg-neutral-background",
+            "focus-within:bg-neutral-background-hover",
+            "hover:bg-neutral-background-hover",
+            "xs:rounded-4",
+            "px-md",
+            "py-2xs",
+            "my-2xs",
+            "nd:visible"
+          ],
+          "permalink": "/r/taintedgrail/comments/1n5z8gk/mage_and_crits/",
+          "content-href": "https://www.reddit.com/r/taintedgrail/comments/1n5z8gk/mage_and_crits/",
+          "view-context": "SubredditFeed",
+          "comment-count": "14",
+          "view-type": "cardView",
+          "vote-type": "",
+          "pdp-target": "_self",
+          "feedindex": "5",
+          "user-id": "",
+          "moderation-verdict": "",
+          "previous-actions-feature": "",
+          "item-state": "",
+          "is-embeddable": "",
+          "is-desktop-viewport": "",
+          "is-awardable": "",
+          "boost-post-page-exp": "",
+          "created-timestamp": "2025-09-01T20:06:54.229000+0000",
+          "domain": "self.taintedgrail",
+          "id": "t3_1n5z8gk",
+          "post-title": "Mage and crits",
+          "post-type": "text",
+          "score": "6",
+          "subreddit-id": "t5_tsapu",
+          "subreddit-prefixed-name": "r/taintedgrail",
+          "author-id": "t2_pr0cj0v5",
+          "author": "gakkieNL",
+          "icon": "https://styles.redditmedia.com/t5_6o53x4/styles/profileIcon_a666ku1ma63c1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%253A64%252Csmart&s=f1ac3f91f33cabc789eb4802a3b3b57474c808ae",
+          "data-expected-lcp": "",
+          "subreddit-name": "taintedgrail"
+        },
+        "slot_elements": [
+          {
+            "tag": "a",
+            "classes": [
+              "hover:no-underline",
+              "no-underline",
+              "pointer-events-none",
+              "text-neutral-content",
+              "visited:text-neutral-content-weak"
+            ],
+            "text_content": "I play as a mage and use a fast cold projectile, my mana is so high I can keep spamming it. I’ve invested in crits and consecutive hits raise crit to a max of +20%.How can I tell I crit? I’m under the",
+            "text_length": 261,
+            "children_count": 4,
+            "has_links": false,
+            "innerHTML_snippet": "<a class=\"hover:no-underline no-underline pointer-events-none text-neutral-content visited:text-neutral-content-weak\" href=\"/r/taintedgrail/comments/1n5z8gk/mage_and_crits/\" slot=\"text-body\">\n<div class=\"mb-xs overflow-hidden\" data-post-click-location=\"text-body\">\n<div about=\"t3_1n5z8gk_\" class=\"md ..."
+          }
+        ],
+        "text_elements": [],
+        "all_selectors_found": {
+          "[slot=\"text-body\"]": [
+            {
+              "tag": "a",
+              "text_preview": "I play as a mage and use a fast cold projectile, my mana is so high I can keep spamming it. I’ve inv...",
+              "text_length": 261,
+              "is_url": false,
+              "has_children": true
+            }
+          ],
+          "div[class*=\"text\"]": [
+            {
+              "tag": "div",
+              "text_preview": "Tainted Grail: FoA - Videogame",
+              "text_length": 30,
+              "is_url": false,
+              "has_children": false
+            },
+            {
+              "tag": "div",
+              "text_preview": "I play as a mage and use a fast cold projectile, my mana is so high I can keep spamming it. I’ve inv...",
+              "text_length": 261,
+              "is_url": false,
+              "has_children": true
+            }
+          ],
+          "div[class*=\"content\"]": [
+            {
+              "tag": "div",
+              "text_preview": "Tainted Grail: FoA - Videogame",
+              "text_length": 30,
+              "is_url": false,
+              "has_children": false
+            }
+          ],
+          "p": [
+            {
+              "tag": "p",
+              "text_preview": "I play as a mage and use a fast cold projectile, my mana is so high I can keep spamming it. I’ve inv...",
+              "text_length": 164,
+              "is_url": false,
+              "has_children": false
+            },
+            {
+              "tag": "p",
+              "text_preview": "How can I tell I crit? I’m under the impression I never crit. I also never get the slomo deaths…?",
+              "text_length": 97,
+              "is_url": false,
+              "has_children": false
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "file": "output/pages/WorldsBeyondNumber_frontpage_debug_20250902_184741.html",
+    "detailed_posts": [
+      {
+        "post_index": 0,
+        "attributes": {
+          "data-ks-item": "",
+          "class": [
+            "block",
+            "relative",
+            "cursor-pointer",
+            "group",
+            "bg-neutral-background",
+            "focus-within:bg-neutral-background-hover",
+            "hover:bg-neutral-background-hover",
+            "xs:rounded-4",
+            "px-md",
+            "py-2xs",
+            "my-2xs",
+            "nd:visible"
+          ],
+          "permalink": "/r/WorldsBeyondNumber/comments/1n6wvay/in_defense_if_brennan/",
+          "content-href": "https://i.redd.it/42lqsu6iptmf1.jpeg",
+          "view-context": "SubredditFeed",
+          "comment-count": "6",
+          "view-type": "cardView",
+          "vote-type": "",
+          "pdp-target": "_self",
+          "feedindex": "4",
+          "user-id": "",
+          "moderation-verdict": "",
+          "previous-actions-feature": "",
+          "item-state": "",
+          "is-embeddable": "",
+          "is-desktop-viewport": "",
+          "is-awardable": "",
+          "boost-post-page-exp": "",
+          "created-timestamp": "2025-09-02T21:55:56.049000+0000",
+          "domain": "i.redd.it",
+          "id": "t3_1n6wvay",
+          "post-title": "In defense if Brennan",
+          "post-type": "image",
+          "score": "3",
+          "subreddit-id": "t5_7p6a59",
+          "subreddit-prefixed-name": "r/WorldsBeyondNumber",
+          "author-id": "t2_7mqelqnj",
+          "author": "rulosenlanoche",
+          "icon": "https://styles.redditmedia.com/t5_2yyc9l/styles/profileIcon_sd3scp5902g51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%253A64%252Csmart&s=d9b3f9e5e03cb4e15771d757489dd6a8116429fe",
+          "data-expected-lcp": "",
+          "subreddit-name": "WorldsBeyondNumber"
+        },
+        "slot_elements": [],
+        "text_elements": [],
+        "all_selectors_found": {
+          "div[class*=\"text\"]": [
+            {
+              "tag": "div",
+              "text_preview": "Fireside Chat 🔥",
+              "text_length": 15,
+              "is_url": false,
+              "has_children": false
+            }
+          ],
+          "div[class*=\"content\"]": [
+            {
+              "tag": "div",
+              "text_preview": "Fireside Chat 🔥",
+              "text_length": 15,
+              "is_url": false,
+              "has_children": false
+            }
+          ]
+        }
+      },
+      {
+        "post_index": 1,
+        "attributes": {
+          "data-ks-item": "",
+          "class": [
+            "block",
+            "relative",
+            "cursor-pointer",
+            "group",
+            "bg-neutral-background",
+            "focus-within:bg-neutral-background-hover",
+            "hover:bg-neutral-background-hover",
+            "xs:rounded-4",
+            "px-md",
+            "py-2xs",
+            "my-2xs",
+            "nd:visible"
+          ],
+          "permalink": "/r/WorldsBeyondNumber/comments/1n6kkzy/witches_and_subtle_spellcasting/",
+          "content-href": "https://www.reddit.com/r/WorldsBeyondNumber/comments/1n6kkzy/witches_and_subtle_spellcasting/",
+          "view-context": "SubredditFeed",
+          "comment-count": "7",
+          "view-type": "cardView",
+          "vote-type": "",
+          "pdp-target": "_self",
+          "feedindex": "5",
+          "user-id": "",
+          "moderation-verdict": "",
+          "previous-actions-feature": "",
+          "item-state": "",
+          "is-embeddable": "",
+          "is-desktop-viewport": "",
+          "is-awardable": "",
+          "boost-post-page-exp": "",
+          "created-timestamp": "2025-09-02T14:12:05.380000+0000",
+          "domain": "self.WorldsBeyondNumber",
+          "id": "t3_1n6kkzy",
+          "post-title": "Witches and subtle spellcasting",
+          "post-type": "text",
+          "score": "11",
+          "subreddit-id": "t5_7p6a59",
+          "subreddit-prefixed-name": "r/WorldsBeyondNumber",
+          "author-id": "t2_3e03dg78",
+          "author": "wathever-20",
+          "icon": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+          "data-expected-lcp": "",
+          "subreddit-name": "WorldsBeyondNumber"
+        },
+        "slot_elements": [
+          {
+            "tag": "a",
+            "classes": [
+              "hover:no-underline",
+              "no-underline",
+              "pointer-events-none",
+              "text-neutral-content",
+              "visited:text-neutral-content-weak"
+            ],
+            "text_content": "Witches can make Tokens and Talismans, both can be used to cast spells. The DMG at p220 saysSome magic items allow the user to cast a spell from the item. The spell is cast at the lowest possible spel",
+            "text_length": 723,
+            "children_count": 7,
+            "has_links": false,
+            "innerHTML_snippet": "<a class=\"hover:no-underline no-underline pointer-events-none text-neutral-content visited:text-neutral-content-weak\" href=\"/r/WorldsBeyondNumber/comments/1n6kkzy/witches_and_subtle_spellcasting/\" slot=\"text-body\">\n<div class=\"mb-xs overflow-hidden\" data-post-click-location=\"text-body\">\n<div about=\"..."
+          }
+        ],
+        "text_elements": [],
+        "all_selectors_found": {
+          "[slot=\"text-body\"]": [
+            {
+              "tag": "a",
+              "text_preview": "Witches can make Tokens and Talismans, both can be used to cast spells. The DMG at p220 saysSome mag...",
+              "text_length": 723,
+              "is_url": false,
+              "has_children": true
+            }
+          ],
+          "div[class*=\"text\"]": [
+            {
+              "tag": "div",
+              "text_preview": "Question",
+              "text_length": 8,
+              "is_url": false,
+              "has_children": false
+            },
+            {
+              "tag": "div",
+              "text_preview": "Witches can make Tokens and Talismans, both can be used to cast spells. The DMG at p220 saysSome mag...",
+              "text_length": 723,
+              "is_url": false,
+              "has_children": true
+            }
+          ],
+          "div[class*=\"content\"]": [
+            {
+              "tag": "div",
+              "text_preview": "Question",
+              "text_length": 8,
+              "is_url": false,
+              "has_children": false
+            }
+          ],
+          "p": [
+            {
+              "tag": "p",
+              "text_preview": "Witches can make Tokens and Talismans, both can be used to cast spells. The DMG at p220 says",
+              "text_length": 92,
+              "is_url": false,
+              "has_children": false
+            },
+            {
+              "tag": "p",
+              "text_preview": "Some magic items allow the user to cast a spell from the item. The spell is cast at the lowest possi...",
+              "text_length": 246,
+              "is_url": false,
+              "has_children": true
+            },
+            {
+              "tag": "p",
+              "text_preview": "Does this mean that both Tokens and Talismans can be used to subtly cast spells as you don't need ve...",
+              "text_length": 385,
+              "is_url": false,
+              "has_children": false
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "file": "output/pages/GhibliArt_frontpage_debug_20250902_184719.html",
+    "detailed_posts": [
+      {
+        "post_index": 0,
+        "attributes": {
+          "data-ks-item": "",
+          "class": [
+            "block",
+            "relative",
+            "cursor-pointer",
+            "group",
+            "bg-neutral-background",
+            "focus-within:bg-neutral-background-hover",
+            "hover:bg-neutral-background-hover",
+            "xs:rounded-4",
+            "px-md",
+            "py-2xs",
+            "my-2xs",
+            "nd:visible"
+          ],
+          "permalink": "/r/GhibliArt/comments/1mzto6m/if_it_exists/",
+          "content-href": "https://i.redd.it/sz1k8p4ip6lf1.jpeg",
+          "view-context": "SubredditFeed",
+          "comment-count": "3",
+          "view-type": "cardView",
+          "vote-type": "",
+          "pdp-target": "_self",
+          "feedindex": "4",
+          "user-id": "",
+          "moderation-verdict": "",
+          "previous-actions-feature": "",
+          "item-state": "",
+          "is-embeddable": "",
+          "is-desktop-viewport": "",
+          "is-awardable": "",
+          "boost-post-page-exp": "",
+          "created-timestamp": "2025-08-25T15:30:49.150000+0000",
+          "domain": "i.redd.it",
+          "id": "t3_1mzto6m",
+          "post-title": "If it exists",
+          "post-type": "image",
+          "score": "39",
+          "subreddit-id": "t5_35ch1",
+          "subreddit-prefixed-name": "r/GhibliArt",
+          "author-id": "t2_2h6k82jm",
+          "author": "toolaroola12",
+          "icon": "https://preview.redd.it/snoovatar/avatars/e5a9a22d-f4b4-40c8-8f10-6892207b9ab9-headshot.png?width=64&height=64&auto=webp&s=a4788d85f21dc4bd32a41f295a1a3d3981de8b2d",
+          "data-expected-lcp": "",
+          "subreddit-name": "GhibliArt"
+        },
+        "slot_elements": [],
+        "text_elements": [],
+        "all_selectors_found": {}
+      },
+      {
+        "post_index": 1,
+        "attributes": {
+          "data-ks-item": "",
+          "class": [
+            "block",
+            "relative",
+            "cursor-pointer",
+            "group",
+            "bg-neutral-background",
+            "focus-within:bg-neutral-background-hover",
+            "hover:bg-neutral-background-hover",
+            "xs:rounded-4",
+            "px-md",
+            "py-2xs",
+            "my-2xs",
+            "nd:visible"
+          ],
+          "permalink": "/r/GhibliArt/comments/1mzh2qo/my_neighbor_totoro_artwork/",
+          "content-href": "/r/ghibli/comments/1mzh0x5/my_neighbor_totoro_artwork/",
+          "view-context": "SubredditFeed",
+          "comment-count": "0",
+          "view-type": "cardView",
+          "vote-type": "",
+          "pdp-target": "_self",
+          "feedindex": "5",
+          "user-id": "",
+          "moderation-verdict": "",
+          "previous-actions-feature": "",
+          "item-state": "",
+          "is-crosspost": "",
+          "is-embeddable": "",
+          "is-desktop-viewport": "",
+          "is-awardable": "",
+          "boost-post-page-exp": "",
+          "created-timestamp": "2025-08-25T04:30:01.963000+0000",
+          "domain": "i.redd.it",
+          "id": "t3_1mzh2qo",
+          "post-title": "My Neighbor Totoro artwork",
+          "post-type": "crosspost",
+          "score": "42",
+          "subreddit-id": "t5_35ch1",
+          "subreddit-prefixed-name": "r/GhibliArt",
+          "author-id": "t2_7knyj0k00",
+          "author": "Puzzled-Newt-6963",
+          "icon": "https://styles.redditmedia.com/t5_83ca24/styles/profileIcon_ddnkj4oj5fbe1.png?width=64&height=64&frame=1&auto=webp&crop=64%253A64%252Csmart&s=44d96db85f1aca567654bd22247f4d178cc65bae",
+          "data-expected-lcp": "",
+          "subreddit-name": "GhibliArt"
+        },
+        "slot_elements": [],
+        "text_elements": [],
+        "all_selectors_found": {
+          "div[class*=\"text\"]": [
+            {
+              "tag": "div",
+              "text_preview": "r/ghibli•9 days ago",
+              "text_length": 19,
+              "is_url": false,
+              "has_children": true
+            },
+            {
+              "tag": "div",
+              "text_preview": "635upvotes·10comments",
+              "text_length": 21,
+              "is_url": false,
+              "has_children": true
+            },
+            {
+              "tag": "div",
+              "text_preview": "635upvotes·10comments",
+              "text_length": 21,
+              "is_url": false,
+              "has_children": true
+            }
+          ],
+          "div[class*=\"content\"]": [
+            {
+              "tag": "div",
+              "text_preview": "r/ghibli•9 days ago",
+              "text_length": 19,
+              "is_url": false,
+              "has_children": true
+            },
+            {
+              "tag": "div",
+              "text_preview": "635upvotes·10comments",
+              "text_length": 21,
+              "is_url": false,
+              "has_children": true
+            },
+            {
+              "tag": "div",
+              "text_preview": "635upvotes·10comments",
+              "text_length": 21,
+              "is_url": false,
+              "has_children": true
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "file": "output/pages/tomochanwaonnanoko_frontpage_debug_20250902_184659.html",
+    "detailed_posts": [
+      {
+        "post_index": 0,
+        "attributes": {
+          "data-ks-item": "",
+          "class": [
+            "block",
+            "relative",
+            "cursor-pointer",
+            "group",
+            "bg-neutral-background",
+            "focus-within:bg-neutral-background-hover",
+            "hover:bg-neutral-background-hover",
+            "xs:rounded-4",
+            "px-md",
+            "py-2xs",
+            "my-2xs",
+            "nd:visible"
+          ],
+          "permalink": "/r/tomochanwaonnanoko/comments/1n4ljfv/tomos_mom_knows_something/",
+          "content-href": "https://www.reddit.com/gallery/1n4ljfv",
+          "view-context": "SubredditFeed",
+          "comment-count": "12",
+          "view-type": "cardView",
+          "vote-type": "",
+          "pdp-target": "_self",
+          "feedindex": "4",
+          "user-id": "",
+          "moderation-verdict": "",
+          "previous-actions-feature": "",
+          "item-state": "",
+          "is-embeddable": "",
+          "is-desktop-viewport": "",
+          "is-awardable": "",
+          "boost-post-page-exp": "",
+          "gallery": "",
+          "created-timestamp": "2025-08-31T04:28:09.494000+0000",
+          "domain": "reddit.com",
+          "id": "t3_1n4ljfv",
+          "post-title": "Tomo's mom knows something",
+          "post-type": "gallery",
+          "score": "2695",
+          "subreddit-id": "t5_3aajo",
+          "subreddit-prefixed-name": "r/tomochanwaonnanoko",
+          "author-id": "t2_1lw6a465ey",
+          "author": "Salt_Client_3005",
+          "icon": "https://preview.redd.it/snoovatar/avatars/75037c75-4fc3-428e-9ac8-8da979f3df5a-headshot.png?width=64&height=64&auto=webp&s=1de89c5b3daa54d09e9d84bfa0cf89388407a6d0",
+          "data-expected-lcp": "",
+          "subreddit-name": "tomochanwaonnanoko"
+        },
+        "slot_elements": [],
+        "text_elements": [],
+        "all_selectors_found": {}
+      },
+      {
+        "post_index": 1,
+        "attributes": {
+          "data-ks-item": "",
+          "class": [
+            "block",
+            "relative",
+            "cursor-pointer",
+            "group",
+            "bg-neutral-background",
+            "focus-within:bg-neutral-background-hover",
+            "hover:bg-neutral-background-hover",
+            "xs:rounded-4",
+            "px-md",
+            "py-2xs",
+            "my-2xs",
+            "nd:visible"
+          ],
+          "permalink": "/r/tomochanwaonnanoko/comments/1n40uv9/i_dont_know_why_it_looks_more_lovely_in_the_manga/",
+          "content-href": "https://www.reddit.com/gallery/1n40uv9",
+          "view-context": "SubredditFeed",
+          "comment-count": "7",
+          "view-type": "cardView",
+          "vote-type": "",
+          "pdp-target": "_self",
+          "feedindex": "5",
+          "user-id": "",
+          "moderation-verdict": "",
+          "previous-actions-feature": "",
+          "item-state": "",
+          "is-embeddable": "",
+          "is-desktop-viewport": "",
+          "is-awardable": "",
+          "boost-post-page-exp": "",
+          "gallery": "",
+          "created-timestamp": "2025-08-30T12:51:28.021000+0000",
+          "domain": "reddit.com",
+          "id": "t3_1n40uv9",
+          "post-title": "I don't know why it looks more lovely in the manga!",
+          "post-type": "gallery",
+          "score": "593",
+          "subreddit-id": "t5_3aajo",
+          "subreddit-prefixed-name": "r/tomochanwaonnanoko",
+          "author-id": "t2_1lw6a465ey",
+          "author": "Salt_Client_3005",
+          "icon": "https://preview.redd.it/snoovatar/avatars/75037c75-4fc3-428e-9ac8-8da979f3df5a-headshot.png?width=64&height=64&auto=webp&s=1de89c5b3daa54d09e9d84bfa0cf89388407a6d0",
+          "data-expected-lcp": "",
+          "subreddit-name": "tomochanwaonnanoko"
+        },
+        "slot_elements": [],
+        "text_elements": [],
+        "all_selectors_found": {}
+      }
+    ]
+  }
+]

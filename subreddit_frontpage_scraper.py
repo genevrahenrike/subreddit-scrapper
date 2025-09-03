@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import os
 import argparse
+import json
 import re
 import time
 import random
@@ -358,11 +359,44 @@ class SubredditFrontPageScraper:
                     permalink = f"https://www.reddit.com{permalink}"
                 # Extract text preview for self/text posts
                 content_preview = ""
-                text_body = post.find("shreddit-post-text-body")
-                if text_body:
-                    preview_div = text_body.find("div", class_=re.compile(r"feed-card-text-preview|md"))
-                    if preview_div:
-                        content_preview = preview_div.get_text(" ", strip=True)
+                # Try multiple selectors based on analysis of actual HTML structure
+                preview_selectors = [
+                    '[slot="text-body"]',        # Most reliable based on analysis
+                    'div[slot="text-body"]',     # Alternative slot syntax
+                    'shreddit-post-text-body',   # Original selector (keep as fallback)
+                    'div[class*="text"]',        # Text-related classes
+                    'p'                          # Simple paragraph elements
+                ]
+                
+                for selector in preview_selectors:
+                    try:
+                        if selector == 'shreddit-post-text-body':
+                            # Original logic for this specific element
+                            text_body = post.find("shreddit-post-text-body")
+                            if text_body:
+                                preview_div = text_body.find("div", class_=re.compile(r"feed-card-text-preview|md"))
+                                if preview_div:
+                                    content_preview = preview_div.get_text(" ", strip=True)
+                        else:
+                            # Use CSS selector for other cases
+                            elements = post.select(selector)
+                            for elem in elements:
+                                text = elem.get_text(strip=True)
+                                # Only use substantial text content, avoid short labels/flairs and URLs
+                                if (text and 
+                                    len(text) > 20 and 
+                                    not text.lower().startswith(('r/', 'u/', 'general discussion')) and
+                                    not text.startswith(('http://', 'https://')) and
+                                    not (text == post.get('content_href', '')) and  # Don't use if it matches content_href
+                                    'http' not in text.lower()[:50]):  # Avoid any text that starts with URLs
+                                    content_preview = text
+                                    break
+                        
+                        # If we found content, stop trying other selectors
+                        if content_preview:
+                            break
+                    except Exception:
+                        continue
                 # Flair texts
                 flair = []
                 flair_host = post.find("shreddit-post-flair")
@@ -419,11 +453,42 @@ class SubredditFrontPageScraper:
                     author_a = card.find("a", href=re.compile(r"^/user/"))
                     if author_a:
                         author = author_a.get_text(strip=True)
-                    # Basic content preview text within card
+                    # Enhanced content preview text within card
                     content_preview = ""
-                    preview = card.find("div", class_=re.compile(r"line-clamp|md|RichTextJSON|text|content"))
-                    if preview:
-                        content_preview = preview.get_text(" ", strip=True)
+                    # Try multiple selectors based on HTML analysis
+                    preview_selectors = [
+                        '[slot="text-body"]',
+                        'div[slot="text-body"]', 
+                        'div[class*="text"]',
+                        'div[class*="content"]',
+                        'div[data-testid="post-content"]',
+                        'p',
+                        'div[class*="md"]'  # Keep original as fallback
+                    ]
+                    
+                    for selector in preview_selectors:
+                        try:
+                            elements = card.select(selector)
+                            for elem in elements:
+                                text = elem.get_text(" ", strip=True)
+                                # Only use substantial text, avoid short labels and URLs
+                                if (text and 
+                                    len(text) > 20 and 
+                                    not text.lower().startswith(('r/', 'u/', 'general discussion')) and
+                                    not text.startswith(('http://', 'https://')) and
+                                    'http' not in text.lower()[:50]):  # Avoid any text that starts with URLs
+                                    content_preview = text
+                                    break
+                            if content_preview:
+                                break
+                        except Exception:
+                            continue
+                    
+                    # Original fallback if new selectors don't work
+                    if not content_preview:
+                        preview = card.find("div", class_=re.compile(r"line-clamp|md|RichTextJSON|text|content"))
+                        if preview:
+                            content_preview = preview.get_text(" ", strip=True)
                     thumb = card.find("img")
                     thumbnail_url = thumb.get("src") if thumb and thumb.get("src") else ""
                     posts.append({
@@ -478,7 +543,6 @@ class SubredditFrontPageScraper:
     def save_frontpage(self, subreddit: str, data: Dict):
         out_dir = Path("output/subreddits") / subreddit
         out_dir.mkdir(parents=True, exist_ok=True)
-        import json
         with (out_dir / "frontpage.json").open("w", encoding="utf-8") as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
 
