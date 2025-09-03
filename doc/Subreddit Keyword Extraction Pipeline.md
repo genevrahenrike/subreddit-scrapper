@@ -1,6 +1,6 @@
 # Subreddit Keyword Extraction Pipeline — Technical Notes
 
-This document provides a comprehensive overview of the keyword extraction pipeline implemented in [`keyword_extraction.py`](keyword_extraction.py:1). It details the system's architecture, from initial tokenization to advanced semantic reranking, and summarizes the experimental findings that have shaped its design.
+This document provides a comprehensive overview of the keyword extraction pipeline implemented in [`__main__.py`](src/keyword_extraction/__main__.py:1). It details the system's architecture, from initial tokenization to advanced semantic reranking, and summarizes the experimental findings that have shaped its design.
 
 ## 1. Core Objective: Thematic Keyword Extraction
 
@@ -26,7 +26,7 @@ The pipeline begins by calculating the document frequency for all n-grams (1 to 
 
 This global DF is crucial for the TF-IDF calculation in the next stage, as it allows the system to down-weight terms that are common across many subreddits (e.g., "game," "video," "discussion").
 
-*   **Code Anchors:** [`build_docfreq()`](keyword_extraction.py:912), [`build_posts_docfreq()`](keyword_extraction.py:627)
+*   **Code Anchors:** [`scoring.build_docfreq()`](src/keyword_extraction/scoring.py:14), [`posts_processing.build_posts_docfreq()`](src/keyword_extraction/posts_processing.py:56)
 
 **Stage 2: Per-Subreddit Keyword Generation**
 
@@ -37,25 +37,25 @@ For each subreddit, keywords are generated from three primary sources:
     *   Applying heuristic and ML-based segmentation for concatenated lowercase names (e.g., "itisallspelllikethis" -> "it is all spell like this").
     *   Expanding common acronyms (e.g., "fps" -> "first person shooter").
     *   The full, cleaned name phrase (e.g., "Alcohol Liver Support") is given a significant score boost to ensure it ranks highly.
-    *   **Code Anchors:** [`extract_name_terms()`](keyword_extraction.py:401), [`extract_name_full_phrase()`](keyword_extraction.py:478)
+    *   **Code Anchors:** [`name_processing.extract_name_terms()`](src/keyword_extraction/name_processing.py:16), [`name_processing.extract_name_full_phrase()`](src/keyword_extraction/name_processing.py:93)
 
 2.  **Description:** The description is processed using a standard TF-IDF model, with boosts applied to bigrams and trigrams to favor phrases. An "ensure phrases" mechanism guarantees that the top locally frequent phrases are retained, even if they are rare globally.
-    *   **Code Anchors:** [`compute_tfidf_per_doc()`](keyword_extraction.py:934)
+    *   **Code Anchors:** [`scoring.compute_tfidf_per_doc()`](src/keyword_extraction/scoring.py:36)
 
 3.  **Posts:** Frontpage post titles are processed with a more sophisticated TF-IDF model that incorporates:
     *   **Engagement Weighting:** The term frequency (TF) is weighted by the post's score and comment count (`1 + log1p(score) + 0.5*log1p(comments)`).
     *   **Recency Weighting:** Scores decay based on the post's age, with a configurable half-life (`--posts-halflife-days`).
-    *   **Code Anchors:** [`compute_posts_tfidf_for_frontpage()`](keyword_extraction.py:666)
+    *   **Code Anchors:** [`posts_processing.compute_posts_tfidf_for_frontpage()`](src/keyword_extraction/posts_processing.py:95)
 
 **Stage 3: Scoring and Merging**
 
 The scores from the three sources are merged, with configurable weights (`--name-weight`, `--desc-weight`, `--posts-weight`). At this stage, two important thematic alignment features are applied:
 
 1.  **Anchored Variants (Generics):** Generic, high-frequency terms from posts are optionally replaced with an "anchored" version (e.g., "system" -> "valorant system"). This provides context and improves relevance.
-    *   **Code Anchors:** [`apply_anchored_variants_for_generic_posts_terms()`](keyword_extraction.py:768)
+    *   **Code Anchors:** [`posts_processing.apply_anchored_variants_for_generic_posts_terms()`](src/keyword_extraction/posts_processing.py:206)
 
 2.  **Theme Penalty:** A penalty is applied to posts-only terms that have no token overlap with the subreddit's "theme" (defined as its name and top description keywords). This down-weights terms that are likely off-topic.
-    *   **Code Anchors:** [`process_inputs()`](keyword_extraction.py:1148)
+    *   **Code Anchors:** [`__main__.process_inputs()`](src/keyword_extraction/__main__.py:81)
 
 3.  **Theme-Anchored Composition (New):** Compose high-quality composite keywords by prepending a subreddit anchor to top posts phrases and/or subject-whitelisted phrases present in the subreddit’s frontpage titles. Two anchor forms are supported:
     *   Subreddit token (e.g., "cx5").
@@ -64,7 +64,7 @@ The scores from the three sources are merged, with configurable weights (`--name
         - Top-M posts TF-IDF phrases by score.
         - A whitelist of subject phrases (e.g., "oil change", "cabin air filter") when they appear in the subreddit’s own posts.
     *   Scores for composed variants are a fraction of the source phrase score (configurable), so originals remain the primary signal.
-    *   **Code Anchors:** [`compose_theme_anchored_from_posts()`](keyword_extraction.py:812), [`compose_theme_anchored_from_seeds()`](keyword_extraction.py:872), [`_collect_present_grams()`](keyword_extraction.py:897), [`recase_anchored_display()`](keyword_extraction.py:864)
+    *   **Code Anchors:** [`composition.compose_theme_anchored_from_posts()`](src/keyword_extraction/composition.py:125), [`composition.compose_theme_anchored_from_seeds()`](src/keyword_extraction/composition.py:227), [`composition._collect_present_grams()`](src/keyword_extraction/composition.py:272), [`composition.recase_anchored_display()`](src/keyword_extraction/composition.py:299)
 
 **Stage 4: Optional Embedding-Based Reranking**
 
@@ -72,13 +72,13 @@ To further enhance semantic relevance, an optional reranking step can be enabled
 
 *   **Mechanism:** `new_score = old_score * ((1 - alpha) + alpha * similarity)`
 *   This boosts terms that are semantically related to the theme, even if they don't share any tokens.
-*   **Code Anchors:** [`embed_rerank_terms()`](keyword_extraction.py:1063)
+*   **Code Anchors:** [`embedding.embed_rerank_terms()`](src/keyword_extraction/embedding.py:101)
 
 **Stage 5: Normalization and Output**
 
 Finally, the scores for each subreddit's keywords are normalized to sum to 1.0, and the top K (`--topk`) are written to a JSONL file.
 
-*   **Code Anchors:** [`normalize_weights()`](keyword_extraction.py:1020)
+*   **Code Anchors:** [`scoring.normalize_weights()`](src/keyword_extraction/scoring.py:125)
 
 ## 3. Experimental Findings and Tuning
 
@@ -99,7 +99,7 @@ Experiments were conducted to evaluate the impact of various tuning parameters, 
 The following command represents the best-performing configuration, balancing thematic relevance, phrase quality, and computational cost. It also enables subject-whitelist composition for practical, on-brand composites:
 
 ```bash
-python3 keyword_extraction.py \
+python3 -m src.keyword_extraction \
     --input-glob 'output/pages/page_*.json' \
     --frontpage-glob 'output/subreddits/*/frontpage.json' \
     --output-dir output/keywords_final \
@@ -138,7 +138,7 @@ This outcome is by design. The system correctly prioritizes keywords based on de
 
 Composition controls (CLI):
 - `--no-compose-anchor-posts`: disable composition entirely (enabled by default).
-- `--compose-anchor-multiplier FLOAT`: score fraction applied to composed terms (default 0.85).
+- `--compose-anchor-multiplier FLOAT`: score fraction applied to composed terms (default 1.0).
 - `--compose-anchor-top-m INT`: top-M posts phrases to consider for composition (default 20).
 - `--compose-anchor-include-unigrams`: allow composing from unigram posts terms (off by default).
 - `--compose-anchor-max-final-words INT`: cap final composed phrase length (default 6).
@@ -210,7 +210,7 @@ Design rationale aligned to observed issues
 Reproduction examples (v2 patterns)
 - Engagement-off, DF-damped, local-TF seeds with semantic seed rerank, rerank only composed outputs:
   ```
-  python3 keyword_extraction.py \
+  python3 -m src.keyword_extraction \
       --input-file output/pages/page_31.json \
       --frontpage-glob 'output/subreddits/*/frontpage.json' \
       --output-dir output/keywords_v2d \
@@ -262,7 +262,7 @@ Practical guidance
   - Consider --embed-candidate-pool posts_composed so only composed terms are nudged semantically
 
 Where to look in code
-- Implementation and CLI wiring are in [`keyword_extraction.py`](keyword_extraction.py). Search for:
+- Implementation and CLI wiring are in [`__main__.py`](src/keyword_extraction/__main__.py:1). Search for:
   - desc-idf-power, posts-idf-power
   - posts-engagement-alpha
   - compose-seed-source, compose-seed-embed, compose-seed-embed-alpha
@@ -309,10 +309,10 @@ Motivation
 
 Implementation overview (code anchors)
 - Separate selection vs magnitude:
-  - Seed selection (ordering) can use local TF or embed-reranked signals; see [compose_theme_anchored_from_posts()](keyword_extraction.py:909).
-  - Magnitude (scale) for composed terms uses the posts TF-IDF base from [compute_posts_tfidf_for_frontpage()](keyword_extraction.py:692).
+  - Seed selection (ordering) can use local TF or embed-reranked signals; see [composition.compose_theme_anchored_from_posts()](src/keyword_extraction/composition.py:125).
+  - Magnitude (scale) for composed terms uses the posts TF-IDF base from [posts_processing.compute_posts_tfidf_for_frontpage()](src/keyword_extraction/posts_processing.py:95).
 - Anchor factor driven by posts corpus IDF:
-  - Factor computation lives in [_compute_anchor_factor()](keyword_extraction.py:864) and uses posts DF from [build_posts_docfreq()](keyword_extraction.py:653).
+  - Factor computation lives in [composition._compute_anchor_factor()](src/keyword_extraction/composition.py:79) and uses posts DF from [posts_processing.build_posts_docfreq()](src/keyword_extraction/posts_processing.py:56).
   - Formula:
     - idf_eff(anchor) = max(idf(anchor_phrase), idf(anchor_token), 1.0) ** posts_idf_power
     - factor = compose_anchor_multiplier × max(floor, min(cap, (1 − alpha) + alpha × idf_eff(anchor)))
@@ -321,14 +321,14 @@ Implementation overview (code anchors)
     - compose_anchor_score_mode = "idf_blend"
     - alpha = 0.7, floor = 1.0, cap = 2.0
 - Guardrails to avoid flooding and ensure quality:
-  - Hard cap per subreddit: DEFAULT_COMPOSE_ANCHOR_MAX_PER_SUB (see constants near the top of [keyword_extraction.py](keyword_extraction.py)).
-  - Minimum seed strength: DEFAULT_COMPOSE_ANCHOR_MIN_BASE_SCORE (seed TF-IDF must be ≥ threshold).
-  - Ratio cap: DEFAULT_COMPOSE_ANCHOR_MAX_RATIO to bound composed/base score pre-rerank.
-  - Independent weighting for composed terms in merge via posts-composed-weight; see [process_inputs()](keyword_extraction.py:1419).
+  - Hard cap per subreddit: DEFAULT_COMPOSE_ANCHOR_MAX_PER_SUB (see [config.py](src/keyword_extraction/config.py:57)).
+  - Minimum seed strength: DEFAULT_COMPOSE_ANCHOR_MIN_BASE_SCORE (seed TF-IDF must be ≥ threshold) (see [config.py](src/keyword_extraction/config.py:58)).
+  - Ratio cap: DEFAULT_COMPOSE_ANCHOR_MAX_RATIO to bound composed/base score pre-rerank (see [config.py](src/keyword_extraction/config.py:59)).
+  - Independent weighting for composed terms in merge via posts-composed-weight; see [`__main__.process_inputs()`](src/keyword_extraction/__main__.py:81).
 
 Scoring details (one-pass summary)
 - Selection order uses "seed_scores_for_ordering" (local TF, TF-IDF, or embed-ranked) to pick the top-M seeds.
-- Each composed variant is scored on the posts TF-IDF scale via the seed’s base TF-IDF score, scaled by the anchor factor and bounded by guardrails in [compose_theme_anchored_from_posts()](keyword_extraction.py:909).
+- Each composed variant is scored on the posts TF-IDF scale via the seed’s base TF-IDF score, scaled by the anchor factor and bounded by guardrails in [composition.compose_theme_anchored_from_posts()](src/keyword_extraction/composition.py:125).
 
 New CLI flags
 - --posts-composed-weight FLOAT (defaults to --posts-weight if omitted)
@@ -339,7 +339,7 @@ New CLI flags
 - --compose-anchor-max-per-sub INT (0 = unlimited; default guards on)
 - --compose-anchor-min-base-score FLOAT
 - --compose-anchor-max-ratio FLOAT
-- All flags are wired in [main()](keyword_extraction.py:1791).
+- All flags are wired in [__main__.main()](src/keyword_extraction/__main__.py:491).
 
 Empirical results on page_31 (r/CX5 page cohort)
 - v2e (pre-fairness baseline with idf_blend defaults but without guardrails/separate scale): 
@@ -356,7 +356,7 @@ Empirical results on page_31 (r/CX5 page cohort)
 Recommended v2.1 configuration (example)
 - Deterministic, engagement-off, seed embed rerank, composed-only embed nudging, with fairness/guardrails:
 ```bash
-python3 keyword_extraction.py \
+python3 -m src.keyword_extraction \
   --input-file output/pages/page_31.json \
   --frontpage-glob 'output/subreddits/*/frontpage.json' \
   --output-dir output/keywords_v2g \
@@ -405,7 +405,7 @@ Backward compatibility
 - Legacy "fraction" mode is preserved via --compose-anchor-score-mode fraction, which behaves like the old multiplier-only path (now with a non-suppressive floor if configured).
 
 Where to look in code
-- Anchor factor and fairness: [_compute_anchor_factor()](keyword_extraction.py:864)
-- Composition with separated ordering vs scale and guardrails: [compose_theme_anchored_from_posts()](keyword_extraction.py:909)
-- Posts TF-IDF base scale: [compute_posts_tfidf_for_frontpage()](keyword_extraction.py:692)
-- CLI wiring: [main()](keyword_extraction.py:1791)
+- Anchor factor and fairness: [`composition._compute_anchor_factor()`](src/keyword_extraction/composition.py:79)
+- Composition with separated ordering vs scale and guardrails: [`composition.compose_theme_anchored_from_posts()`](src/keyword_extraction/composition.py:125)
+- Posts TF-IDF base scale: [`posts_processing.compute_posts_tfidf_for_frontpage()`](src/keyword_extraction/posts_processing.py:95)
+- CLI wiring: [`__main__.main()`](src/keyword_extraction/__main__.py:491)

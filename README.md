@@ -230,3 +230,35 @@ Full-thread scraping is heavier. Keep `max_posts` & `max_comments` conservative 
 - Playwright not installed: run `python -m playwright install chromium` in your venv.
 - Modules not found (e.g., `bs4`): `pip install -r requirements.txt`.
 - Bot detection hiccups: try enabling a proxy, increasing delays, or running non-headless for debugging.
+
+## Keyword Extraction (refactored)
+
+The keyword extraction pipeline has been refactored into a package under `src/keyword_extraction`. Use the module entrypoint instead of the old monolith script.
+
+- Entrypoint: [__main__.py](src/keyword_extraction/__main__.py:1)
+- Pipeline technical notes: [doc/Subreddit Keyword Extraction Pipeline.md](doc/Subreddit%20Keyword%20Extraction%20Pipeline.md:1)
+- CLI definition: [__main__.main()](src/keyword_extraction/__main__.py:491)
+
+Examples:
+```zsh
+# Single page file
+python3 -m src.keyword_extraction --input-file output/pages/page_60.json --output-dir output/keywords
+
+# Many page files
+python3 -m src.keyword_extraction --input-glob "output/pages/page_*.json" --output-dir output/keywords
+
+# Include posts/frontpages (optional but recommended for better keywords)
+python3 -m src.keyword_extraction \
+  --input-glob "output/pages/page_*.json" \
+  --frontpage-glob "output/subreddits/*/frontpage.json" \
+  --output-dir output/keywords_final \
+  --topk 25
+```
+
+Output:
+- For each input page_N.json, the extractor writes: `output/keywords/page_N.keywords.jsonl`
+- Each line is a JSON record with per-subreddit keywords and weights.
+
+Notes:
+- Embedding-based rerank is optional; install `sentence-transformers` if you plan to enable `--embed-rerank`.
+- The old `keyword_extraction.py` entrypoint was replaced by the package entrypoint shown above.
