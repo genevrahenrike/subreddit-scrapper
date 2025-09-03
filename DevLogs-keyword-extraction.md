@@ -589,3 +589,43 @@ Notes:
 Pending next steps:
 - Execute the small verification run and grep to confirm theme_summary exists in the output.
 - Add minimal documentation snippets to DevLogs-keyword-extraction.md and Subreddit Keyword Extraction Pipeline.md describing EMBED_DEVICE, LLM_* usage and example commands.
+
+--- 
+
+Refactoring complete (turn the old monolith keyword_extraction.py to new 'keyword_extraction' subfolder) and parity verified.
+
+What I checked
+- Entrypoint and CLI: [__main__.py](src/keyword_extraction/__main__.py:1) matches the monolith’s [keyword_extraction.main()](keyword_extraction.py:1870) for all flags and defaults described in [Subreddit Keyword Extraction Pipeline.md](Subreddit%20Keyword%20Extraction%20Pipeline.md:1).
+- Core pipeline:
+  - Description DF/TF‑IDF: [scoring.build_docfreq()](src/keyword_extraction/scoring.py:14), [scoring.compute_tfidf_per_doc()](src/keyword_extraction/scoring.py:36)
+  - Name parsing + full phrase: [name_processing.extract_name_terms()](src/keyword_extraction/name_processing.py:16), [name_processing.extract_name_full_phrase()](src/keyword_extraction/name_processing.py:93)
+  - Posts DF/TF‑IDF: [posts_processing.build_posts_docfreq()](src/keyword_extraction/posts_processing.py:56), [posts_processing.compute_posts_tfidf_for_frontpage()](src/keyword_extraction/posts_processing.py:95)
+  - Generic anchoring for posts: [posts_processing.apply_anchored_variants_for_generic_posts_terms()](src/keyword_extraction/posts_processing.py:206)
+  - Theme‑anchored composition with guardrails: [composition._compute_anchor_factor()](src/keyword_extraction/composition.py:79), [composition.compose_theme_anchored_from_posts()](src/keyword_extraction/composition.py:125), display recasing [composition.recase_anchored_display()](src/keyword_extraction/composition.py:299)
+  - Merge/normalize: [scoring.merge_sources()](src/keyword_extraction/scoring.py:95), [scoring.normalize_weights()](src/keyword_extraction/scoring.py:125)
+  - Optional embedding rerank with graceful fallback: [embedding._get_embedder()](src/keyword_extraction/embedding.py:22), [embedding._build_theme_text()](src/keyword_extraction/embedding.py:35), [embedding.embed_rerank_terms()](src/keyword_extraction/embedding.py:48)
+  - Subreddit data and keys: [subreddit_data.iter_subreddits_from_file()](src/keyword_extraction/subreddit_data.py:12), [subreddit_data.canonicalize_subreddit_key()](src/keyword_extraction/subreddit_data.py:28), [subreddit_data.subreddit_display_key()](src/keyword_extraction/subreddit_data.py:60)
+  - IO helpers: [file_utils._build_frontpage_index()](src/keyword_extraction/file_utils.py:16), [file_utils.out_path_for_input()](src/keyword_extraction/file_utils.py:10)
+  - Defaults/constants: [config.py](src/keyword_extraction/config.py:1), [constants.py](src/keyword_extraction/constants.py:1)
+- Deprecated editorial subject list remains wired at CLI for compatibility and is intentionally ignored (as documented).
+
+End‑to‑end parity tests (executed)
+- Basic run with frontpage composition on a small fixture exercising description, name, posts, anchored variants, title‑anchor recasing:
+  - Refactored package vs monolith outputs identical; 2 lines each; unified diff empty; SHA1: c745eab5fa416237b3fbcd5d31ded4b2c0a6d5bc for both files.
+- Advanced run toggling options (embed‑rerank flag, drop generic unigrams, phrase boosts) to stress CLI wiring and code paths:
+  - Outputs identical; 2 lines each; unified diff empty; SHA1: 5537b609fe15044f0772c12321ee7d3a26ffcbcd for both files.
+- Note: A urllib3 NotOpenSSLWarning was emitted by the environment; it does not affect this pipeline.
+
+Conclusion
+- The refactor under src/keyword_extraction is correct and complete. Functional behavior matches the original keyword_extraction.py, and CLI parity is verified by identical outputs and checksums under multiple configurations. The moduleized design adheres to the v2/v2.1 behavior specified in the reference document, including IDF‑damped scoring, optional engagement blending, local‑TF seed composition with IDF‑anchored fairness, and optional embedding reranking.
+
+Reproduction (real data)
+- Package:
+  - python3 -m src.keyword_extraction --input-glob "output/pages/page_*.json" --frontpage-glob "output/subreddits/*/frontpage.json" --output-dir output/keywords_pkg
+- Monolith:
+  - python3 keyword_extraction.py --input-glob "output/pages/page_*.json" --frontpage-glob "output/subreddits/*/frontpage.json" --output-dir output/keywords_mono
+- Diff:
+  - diff -u output/keywords_pkg/page_*.keywords.jsonl output/keywords_mono/page_*.keywords.jsonl
+
+---
+
