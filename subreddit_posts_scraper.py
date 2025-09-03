@@ -455,8 +455,14 @@ class SubredditPostsScraper:
                 continue
             post_id = p.get("post_id") or self._infer_post_id_from_permalink(permalink)
             out_path = out_dir / f"{post_id or 'unknown'}.json"
-            if out_path.exists() and not overwrite:
-                continue
+            if out_path.exists():
+                if overwrite:
+                    try:
+                        out_path.unlink()
+                    except Exception:
+                        pass
+                else:
+                    continue
             # Polite delay between posts
             time.sleep(random.uniform(self.config.min_delay, self.config.max_delay))
             data = self.scrape_post(permalink)
