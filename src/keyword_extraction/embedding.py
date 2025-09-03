@@ -4,7 +4,15 @@ Functions for embedding-based reranking of keywords.
 from collections import Counter
 from typing import Dict, List, Optional, Tuple
 
+import os
+import sys
 import numpy as np
+try:
+    import torch  # type: ignore
+    _HAS_TORCH = True
+except Exception:
+    torch = None  # type: ignore
+    _HAS_TORCH = False
 
 # Optional sentence-transformers for embedding rerank
 _HAS_ST = False
@@ -18,15 +26,60 @@ except Exception:
 # Lazy model cache for embeddings
 _EMBED_MODEL_CACHE: Dict[str, "SentenceTransformer"] = {}
 
+def _select_device(env_key: str = "EMBED_DEVICE") -> str:
+    """
+    Select torch device with Apple Metal (MPS) preference on Apple Silicon.
+    Order:
+      1) Explicit override via env EMBED_DEVICE in {mps,cuda,cpu}
+      2) Auto-detect: MPS -> CUDA -> CPU
+    Also enables PYTORCH_ENABLE_MPS_FALLBACK=1 for stability on Metal.
+    """
+    dev = (os.getenv(env_key) or "").strip().lower()
+    if dev in {"mps", "cuda", "cpu"}:
+        if dev == "mps":
+            os.environ.setdefault("PYTORCH_ENABLE_MPS_FALLBACK", "1")
+        return dev
+    if _HAS_TORCH:
+        try:
+            if hasattr(torch.backends, "mps") and torch.backends.mps.is_available():
+                os.environ.setdefault("PYTORCH_ENABLE_MPS_FALLBACK", "1")
+                return "mps"
+        except Exception:
+            pass
+        try:
+            if torch.cuda.is_available():
+                return "cuda"
+        except Exception:
+            pass
+    return "cpu"
+
+def _device_banner(kind: str, model_name: str) -> None:
+    try:
+        print(f"[embed] device={kind} model={model_name}", file=sys.stderr)
+    except Exception:
+        pass
+
 
 def _get_embedder(model_name: str) -> Optional["SentenceTransformer"]:
     if not _HAS_ST:
         return None
-    if model_name in _EMBED_MODEL_CACHE:
-        return _EMBED_MODEL_CACHE[model_name]
+    device = _select_device("EMBED_DEVICE")
+    cache_key = f"{model_name}@{device}"
+    if cache_key in _EMBED_MODEL_CACHE:
+        return _EMBED_MODEL_CACHE[cache_key]
     try:
-        model = SentenceTransformer(model_name)
-        _EMBED_MODEL_CACHE[model_name] = model
+        # Prefer passing device to constructor (supported in sentence-transformers>=2.2)
+        try:
+            model = SentenceTransformer(model_name, device=device)
+        except TypeError:
+            model = SentenceTransformer(model_name)
+            try:
+                if _HAS_TORCH:
+                    model.to(device)
+            except Exception:
+                pass
+        _EMBED_MODEL_CACHE[cache_key] = model
+        _device_banner(device, model_name)
         return model
     except Exception:
         return None

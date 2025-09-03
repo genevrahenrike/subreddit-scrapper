@@ -1,0 +1,20 @@
+{
+  "subreddits": [
+    {
+      "community_id": "t5_test1",
+      "name": "r/CX5",
+      "url": "/r/CX5/",
+      "rank": 12345,
+      "subscribers_count": 100000,
+      "description": "Discussion about Mazda CX-5 maintenance, parts, and ownership tips. Common topics include oil change interval, cabin air filter, tires, and infotainment updates."
+    },
+    {
+      "community_id": "t5_test2",
+      "name": "r/AskPhysics",
+      "url": "/r/AskPhysics/",
+      "rank": 54321,
+      "subscribers_count": 250000,
+      "description": "Questions and answers about physics. Topics include double slit experiment, quantum mechanics, relativity, and classical mechanics problems."
+    }
+  ]
+}

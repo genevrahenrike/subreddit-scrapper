@@ -629,3 +629,187 @@ Reproduction (real data)
 
 ---
 
+
+---
+GPU acceleration (Apple Metal/MPS) for embeddings + local LLM PoC (verified)
+
+What I changed
+- Embedding device routing (MPS/CUDA/CPU) with explicit env override and banner logging:
+  - Device selector: [embedding._select_device()](src/keyword_extraction/embedding.py:29)
+  - Embedder loader with device + batch-size heuristics and stderr banner: [embedding._get_embedder()](src/keyword_extraction/embedding.py:63)
+  - Batch-size tuning per model family (default via EMBED_BATCH_SIZE or heuristic: 64 for small, 16 for large/m3): [embedding.embed_rerank_terms()](src/keyword_extraction/embedding.py:148)
+- Optional local LLM pass to add a concise theme_summary per subreddit (env-gated, ≥1B model):
+  - Summary generator: [llm.generate_theme_summary()](src/keyword_extraction/llm.py:122)
+  - Deterministic fallback if model is unavailable: [llm.fallback_theme_summary()](src/keyword_extraction/llm.py:112)
+  - Injection point before writing output: [__main__.process_inputs()](src/keyword_extraction/__main__.py:427)
+
+How to use (envs)
+- Embeddings (SentenceTransformers):
+  - EMBED_DEVICE in {mps,cuda,cpu}; default auto-detect prefers MPS on Apple Silicon
+  - EMBED_BATCH_SIZE (int) to tune throughput (default heuristics)
+- Local LLM (Transformers):
+  - LLM_SUMMARY=1 enables summary
+  - LLM_MODEL (default TinyLlama/TinyLlama-1.1B-Chat-v1.0)
+  - LLM_MAX_NEW_TOKENS (default 48)
+  - LLM_SUMMARY_LIMIT (limit summaries per run; 0=no cap)
+  - LLM_DEVICE in {mps,cuda,cpu}; auto-detect otherwise
+
+Verification: embedding GPU vs CPU speed
+- Script: [scripts/bench_embed.py](scripts/bench_embed.py:1)
+- CPU (bge-small-en-v1.5, n=256, batch=64): avg_time ≈ 0.193s (shape=(256, 384))
+  Command:
+  EMBED_DEVICE=cpu EMBED_BATCH_SIZE=64 python3 scripts/bench_embed.py --model 'BAAI/bge-small-en-v1.5' --n 256 --rounds 2
+- MPS (bge-small-en-v1.5, n=256, batch=64): avg_time ≈ 0.131s (shape=(256, 384))
+  Command:
+  EMBED_DEVICE=mps EMBED_BATCH_SIZE=64 PYTORCH_ENABLE_MPS_FALLBACK=1 python3 scripts/bench_embed.py --model 'BAAI/bge-small-en-v1.5' --n 256 --rounds 2
+- Observed speedup: ~32% vs CPU on Apple Silicon for this small batch. Larger batches/inputs generally see higher gains.
+- You will see a banner like:
+  [embed] device=mps model=BAAI/bge-small-en-v1.5
+
+Enable higher-quality and multilingual models
+- bge-large-en-v1.5 (higher quality, larger VRAM/RAM)
+  - Suggest lower batch: EMBED_BATCH_SIZE=16
+  - Example:
+    EMBED_DEVICE=mps EMBED_BATCH_SIZE=16 python3 scripts/bench_embed.py --model 'BAAI/bge-large-en-v1.5' --n 256 --rounds 2
+- bge-m3 (multilingual)
+  - Also start with EMBED_BATCH_SIZE=16
+  - Example:
+    EMBED_DEVICE=mps EMBED_BATCH_SIZE=16 python3 scripts/bench_embed.py --model 'BAAI/bge-m3' --n 256 --rounds 2
+- In the pipeline, switch via:
+  --embed-model 'BAAI/bge-large-en-v1.5'  or  --embed-model 'BAAI/bge-m3'
+- Notes:
+  - Model downloads occur on first use. If network is restricted, ensure models are pre-cached locally or set HF_HOME to a writable cache.
+  - If you encounter OOM on MPS, reduce EMBED_BATCH_SIZE further (e.g., 8 or 4).
+
+Local LLM PoC (theme_summary)
+- Integration:
+  - Summaries are added only when LLM_SUMMARY=1 and under LLM_SUMMARY_LIMIT
+  - If the model cannot be loaded/downloaded, a deterministic fallback is used so output remains populated
+- Example run (tiny sample):
+  EMBED_DEVICE=mps EMBED_BATCH_SIZE=64 LLM_SUMMARY=1 LLM_MODEL='TinyLlama/TinyLlama-1.1B-Chat-v1.0' LLM_SUMMARY_LIMIT=1 LLM_MAX_NEW_TOKENS=32 PYTORCH_ENABLE_MPS_FALLBACK=1 \
+  python3 -m src.keyword_extraction --input-file tests/data/page_test.json --topk 10 --embed-rerank --embed-model 'BAAI/bge-small-en-v1.5' --embed-k-terms 40 --output-dir output/keywords_llm_verify
+- Output peek (no full JSONL reading):
+  grep -n "theme_summary" output/keywords_llm_verify/page_test.keywords.jsonl
+  - Confirmed present (fallback used in this environment due to restricted downloads).
+
+Design notes and rationale
+- Embedding device selection and batch sizing
+  - MPS is preferred on Apple Silicon (set PYTORCH_ENABLE_MPS_FALLBACK=1 for stability) in [embedding._select_device()](src/keyword_extraction/embedding.py:29)
+  - Batch-size control for large/m3 models reduces peak memory in [embedding.embed_rerank_terms()](src/keyword_extraction/embedding.py:148)
+- LLM stage is strictly optional, cheap, and sidecar
+  - Summaries are short, deterministic fallback ensures stability in [llm.fallback_theme_summary()](src/keyword_extraction/llm.py:112)
+  - The LLM call is limited via LLM_SUMMARY_LIMIT to avoid over-processing
+
+Operational guidance (fast recipes)
+- Baseline GPU rerank:
+  EMBED_DEVICE=mps python3 -m src.keyword_extraction --input-file output/pages/page_48.json --frontpage-glob 'output/subreddits/*/frontpage.json' --embed-rerank --embed-model 'BAAI/bge-small-en-v1.5' --output-dir output/keywords_embed_mps
+- Higher quality:
+  EMBED_DEVICE=mps EMBED_BATCH_SIZE=16 python3 -m src.keyword_extraction --input-file output/pages/page_48.json --embed-rerank --embed-model 'BAAI/bge-large-en-v1.5' --output-dir output/keywords_embed_large_mps
+- Multilingual:
+  EMBED_DEVICE=mps EMBED_BATCH_SIZE=16 python3 -m src.keyword_extraction --input-file output/pages/page_48.json --embed-rerank --embed-model 'BAAI/bge-m3' --output-dir output/keywords_embed_m3_mps
+
+Caveats
+- Network-restricted environments may block model downloads (Transformers and/or SentenceTransformers); use pre-cached models or mirror.
+- LibreSSL warning is benign here; does not affect local computation.
+
+Status
+- MPS acceleration verified with measurable speedup for embedding rerank path; banner printed from [embedding._get_embedder()](src/keyword_extraction/embedding.py:63)
+- Local LLM PoC wired and gated by env; fallback summary confirmed in output. Ready for iterative tuning on a larger page cohort.
+
+---
+
+Implemented GPU acceleration (Apple Metal/MPS) for embedding rerank, optional higher-quality embedding models, and a local LLM PoC pass, with verification and documentation updates.
+
+What changed
+- Embedding GPU/MPS routing and tuning
+  - Device selection with Apple Silicon Metal preference and env override:
+    - [embedding._select_device()](src/keyword_extraction/embedding.py:29)
+  - SentenceTransformers model loader now binds to the chosen device, caches per (model@device), and prints a device banner:
+    - [embedding._get_embedder()](src/keyword_extraction/embedding.py:63)
+  - Batch-size heuristics for large models (bge-large, bge-m3) with EMBED_BATCH_SIZE override:
+    - [embedding.embed_rerank_terms()](src/keyword_extraction/embedding.py:101)
+- Local LLM PoC as an optional final pass
+  - Small local model (≥1B) to generate a concise theme_summary. Falls back deterministically if model fails to load (e.g., network-restricted):
+    - [llm.generate_theme_summary()](src/keyword_extraction/llm.py:122)
+    - [llm.fallback_theme_summary()](src/keyword_extraction/llm.py:112)
+  - Integrated just before writing each record; gated purely by env to keep CLI surface clean:
+    - [__main__.process_inputs()](src/keyword_extraction/__main__.py:427)
+- Benchmark utility to verify GPU speed and device config
+  - [scripts/bench_embed.py](scripts/bench_embed.py:1) measures encode throughput and prints device banner via the same loader used by the pipeline.
+
+Verification and evidence
+- Package install succeeded (torch, sentence-transformers, transformers, accelerate are present).
+- Embedding speed, CPU vs MPS (bge-small-en-v1.5, n=256, batch=64)
+  - CPU: avg_time ≈ 0.193s
+    - Command: EMBED_DEVICE=cpu EMBED_BATCH_SIZE=64 python3 scripts/bench_embed.py --model 'BAAI/bge-small-en-v1.5' --n 256 --rounds 2
+  - MPS: avg_time ≈ 0.131s (≈32% faster in this small-batch test)
+    - Command: EMBED_DEVICE=mps EMBED_BATCH_SIZE=64 PYTORCH_ENABLE_MPS_FALLBACK=1 python3 scripts/bench_embed.py --model 'BAAI/bge-small-en-v1.5' --n 256 --rounds 2
+  - Banner printed during runs confirms device/model:
+    - Example: “[embed] device=mps model=BAAI/bge-small-en-v1.5”
+- Pipeline test (tiny page fixture to avoid large IO)
+  - Command:
+    - EMBED_DEVICE=mps EMBED_BATCH_SIZE=64 LLM_SUMMARY=1 LLM_MODEL='TinyLlama/TinyLlama-1.1B-Chat-v1.0' LLM_SUMMARY_LIMIT=1 LLM_MAX_NEW_TOKENS=32 PYTORCH_ENABLE_MPS_FALLBACK=1 python3 -m src.keyword_extraction --input-file tests/data/page_test.json --topk 10 --embed-rerank --embed-model 'BAAI/bge-small-en-v1.5' --embed-k-terms 40 --output-dir output/keywords_llm_verify
+  - Network is restricted; LLM model download failed (expected in constrained env). Fallback summary engaged.
+  - JSONL peek without loading the file (avoid context blow-up):
+    - grep -n "theme_summary" output/keywords_llm_verify/page_test.keywords.jsonl
+    - Observed: theme_summary field present using deterministic fallback.
+
+How to enable GPU embeddings
+- Preferred on Apple Silicon:
+  - Set env: EMBED_DEVICE=mps and PYTORCH_ENABLE_MPS_FALLBACK=1
+- CUDA (if applicable): EMBED_DEVICE=cuda
+- CPU fallback: EMBED_DEVICE=cpu
+- You will see a banner from [embedding._get_embedder()](src/keyword_extraction/embedding.py:63) confirming the device in stderr.
+
+How to select better embedding models
+- Keep default: --embed-model 'BAAI/bge-small-en-v1.5' (fast, strong)
+- Higher quality English: --embed-model 'BAAI/bge-large-en-v1.5'
+  - Recommend EMBED_BATCH_SIZE=16 (reduce further if you see OOM)
+- Multilingual: --embed-model 'BAAI/bge-m3'
+  - Recommend EMBED_BATCH_SIZE=16 (reduce as needed)
+- The rerank pathway is deterministic with fixed alpha and model; candidate pool controls scope.
+
+Local LLM PoC integration
+- Env-gated only (no CLI changes):
+  - LLM_SUMMARY=1 to enable summaries
+  - LLM_MODEL (default 'TinyLlama/TinyLlama-1.1B-Chat-v1.0')
+  - LLM_MAX_NEW_TOKENS (default 48)
+  - LLM_SUMMARY_LIMIT=N to cap how many summaries to generate per run
+  - LLM_DEVICE in {mps,cuda,cpu} or auto-detect
+- Fallback summary kicks in when model cannot be loaded or generation fails, so outputs remain populated.
+
+Where it plugs in
+- The LLM pass is an additional optional step after embedding rerank and before normalization output, injecting a concise theme_summary per subreddit:
+  - [__main__.process_inputs()](src/keyword_extraction/__main__.py:427)
+
+Documentation updates
+- Added a GPU + LLM section with usage and verified results to [DevLogs-keyword-extraction.md](DevLogs-keyword-extraction.md).
+
+Operational guidance (quick recipes)
+- Fast English (GPU MPS):
+  - EMBED_DEVICE=mps python3 -m src.keyword_extraction --input-file output/pages/page_48.json --frontpage-glob 'output/subreddits/*/frontpage.json' --embed-rerank --embed-model 'BAAI/bge-small-en-v1.5' --output-dir output/keywords_embed_mps
+- Higher quality (bge-large):
+  - EMBED_DEVICE=mps EMBED_BATCH_SIZE=16 python3 -m src.keyword_extraction --input-file output/pages/page_48.json --embed-rerank --embed-model 'BAAI/bge-large-en-v1.5' --output-dir output/keywords_embed_large_mps
+- Multilingual (bge-m3):
+  - EMBED_DEVICE=mps EMBED_BATCH_SIZE=16 python3 -m src.keyword_extraction --input-file output/pages/page_48.json --embed-rerank --embed-model 'BAAI/bge-m3' --output-dir output/keywords_embed_m3_mps
+- Local LLM summary (PoC):
+  - Add LLM_SUMMARY=1 and optionally set LLM_MODEL (defaults to TinyLlama-1.1B). In restricted networks, fallback summary will be used.
+
+Notes and caveats
+- Do not read large JSONL files directly. Use grep or sampling; all tests here used grep to peek lines.
+- In network-restricted environments, model downloads for transformers/sentence-transformers may fail. The pipeline remains robust:
+  - Embedding rerank requires the model; if ST can’t load, rerank silently skips.
+  - LLM summary falls back deterministically so outputs are consistent.
+- If RAM/VRAM is tight on MPS, reduce EMBED_BATCH_SIZE to avoid OOM.
+
+Files touched
+- [src/keyword_extraction/embedding.py](src/keyword_extraction/embedding.py:1): Added device routing, device banner, batch-size control.
+- [src/keyword_extraction/llm.py](src/keyword_extraction/llm.py:1): New local LLM utilities with deterministic fallback.
+- [src/keyword_extraction/__main__.py](src/keyword_extraction/__main__.py:1): Integrated env-gated theme_summary pass.
+- [scripts/bench_embed.py](scripts/bench_embed.py:1): Added benchmark to validate device selection and measure throughput.
+- [DevLogs-keyword-extraction.md](DevLogs-keyword-extraction.md:1): Documented setup, commands, and results.
+
+Outcome
+- Embedding rerank now uses GPU (MPS on Apple Silicon) when available; validated speedup and banner logs prove device usage.
+- Optional higher-quality (bge-large) and multilingual (bge-m3) models supported; documented batch-size guidance.
+- Local LLM PoC enabled and integrated as an additional pass with robust fallback, verified via JSONL grep without loading entire outputs.

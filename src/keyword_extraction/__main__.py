@@ -54,6 +54,7 @@ from .composition import (
 )
 from .description_processing import extract_desc_terms
 from .embedding import _build_theme_text, embed_rerank_terms
+from .llm import generate_theme_summary, fallback_theme_summary
 from .file_utils import _build_frontpage_index, ensure_dir, out_path_for_input
 from .name_processing import extract_name_full_phrase
 from .posts_processing import (
@@ -138,6 +139,15 @@ def process_inputs(
         return
 
     ensure_dir(output_dir)
+
+    # Optional local LLM theme summarization gating (env-controlled)
+    llm_summary_enabled = (os.getenv("LLM_SUMMARY", "").strip().lower() not in {"", "0", "false", "no", "off"})
+    try:
+        llm_summary_limit = int(os.getenv("LLM_SUMMARY_LIMIT", "0"))
+    except Exception:
+        llm_summary_limit = 0
+    llm_summaries_done = 0
+    llm_model_env = os.getenv("LLM_MODEL") or None
 
     # Optional: load extra posts stopwords from file
     posts_extra_stopwords_set: Set[str] = set()
@@ -414,6 +424,24 @@ def process_inputs(
                         candidate_pool=embed_candidate_pool,
                     )
 
+                # Optional local LLM theme summary (env: LLM_SUMMARY=1, LLM_SUMMARY_LIMIT, LLM_MODEL)
+                theme_summary_val = ""
+                if llm_summary_enabled and (llm_summary_limit <= 0 or llm_summaries_done < llm_summary_limit):
+                    try:
+                        theme_text_for_summary = _build_theme_text(full_lower, desc_tfidf, posts_theme_top_desc_k)
+                    except Exception:
+                        theme_text_for_summary = ""
+                    try:
+                        # If local LLM generation fails, fall back to deterministic summary
+                        theme_summary_val = generate_theme_summary(theme_text_for_summary, model_id=llm_model_env) or fallback_theme_summary(theme_text_for_summary)
+                        if theme_summary_val:
+                            llm_summaries_done += 1
+                    except Exception:
+                        try:
+                            theme_summary_val = fallback_theme_summary(theme_text_for_summary)
+                        except Exception:
+                            theme_summary_val = ""
+
                 ranked = normalize_weights(merged)
                 top = ranked[:topk]
                 # Ensure the whole subreddit name phrase is present in Top-K if available
@@ -450,6 +478,10 @@ def process_inputs(
                         for (t, w, s, src) in top
                     ],
                 }
+                # Attach theme_summary only when generated to avoid bloating output
+                if theme_summary_val:
+                    rec["theme_summary"] = theme_summary_val
+
                 fout.write(json.dumps(rec, ensure_ascii=False) + "\n")
                 count_written += 1
 
