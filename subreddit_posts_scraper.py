@@ -308,33 +308,93 @@ class SubredditPostsScraper:
             data["is_archived"] = bool(status_host.find(class_=re.compile(r"archived-status")) and not status_host.find(class_=re.compile(r"archived-status")).get("class"," ").count("hidden"))
         except Exception:
             pass
-        # Media extraction (images & videos inside post scope)
-        images: List[str] = []
-        try:
-            for img in node.find_all("img"):
-                src = img.get("src")
-                if src and src.startswith("http") and src not in images:
-                    images.append(src)
-        except Exception:
-            pass
-        videos: List[str] = []
-        try:
-            for v in node.find_all("video"):
-                # prefer <source>
-                src = ""
-                src_tag = v.find("source")
-                if src_tag and src_tag.get("src"):
-                    src = src_tag.get("src")
-                elif v.get("src"):
-                    src = v.get("src")
-                if src and src.startswith("http") and src not in videos:
-                    videos.append(src)
-        except Exception:
-            pass
-        data["media_images"] = images
-        data["media_videos"] = videos
-        if images:
-            data.setdefault("primary_image", images[0])
+            # --- Enhanced Media Extraction --- #
+            images: List[str] = []
+            gallery: List[str] = []
+            gifs: List[str] = []
+            try:
+                # Gallery support
+                gallery_node = node.find("shreddit-gallery") or node.find("div", class_=re.compile(r"media-gallery"))
+                if gallery_node:
+                    for img in gallery_node.find_all("img"):
+                        src = img.get("src")
+                        if src and src.startswith("http") and src not in gallery:
+                            gallery.append(src)
+                # GIFs
+                for img in node.find_all("img"):
+                    src = img.get("src")
+                    if src and src.startswith("http"):
+                        if src.lower().endswith(".gif") and src not in gifs:
+                            gifs.append(src)
+                        if src not in images:
+                            images.append(src)
+                videos: List[str] = []
+                for v in node.find_all("video"):
+                    src = ""
+                    src_tag = v.find("source")
+                    if src_tag and src_tag.get("src"):
+                        src = src_tag.get("src")
+                    elif v.get("src"):
+                        src = v.get("src")
+                    if src and src.startswith("http"):
+                        if src.lower().endswith(".gif") or "gif" in src:
+                            gifs.append(src)
+                        if src not in images:
+                            images.append(src)
+                        if src not in videos:
+                            videos.append(src)
+                # Embedded media (iframe, external)
+                embeds = []
+                for iframe in node.find_all("iframe"):
+                    src = iframe.get("src")
+                    if src and src.startswith("http"):
+                        embeds.append(src)
+                for a in node.find_all("a"):
+                    href = a.get("href")
+                    if href and any(domain in href for domain in ["youtube.com", "youtu.be", "imgur.com", "gfycat.com"]):
+                        embeds.append(href)
+                data["media_embeds"] = embeds
+            except Exception:
+                pass
+            data["media_images"] = images
+            data["media_gallery"] = gallery
+            data["media_gifs"] = gifs
+            data["media_videos"] = videos
+            if images:
+                data.setdefault("primary_image", images[0])
+            # --- Awards, Flair, Badges --- #
+            try:
+                awards = []
+                awards_bar = node.find("div", class_=re.compile(r"awards-bar"))
+                if awards_bar:
+                    for award in awards_bar.find_all("span", class_=re.compile(r"award")):
+                        award_info = {
+                            "id": award.get("data-award-id"),
+                            "count": award.get("data-count"),
+                            "icon": None,
+                            "name": award.get_text(strip=True)
+                        }
+                        icon_img = award.find("img")
+                        if icon_img and icon_img.get("src"):
+                            award_info["icon"] = icon_img.get("src")
+                        awards.append(award_info)
+                data["awards"] = awards
+            except Exception:
+                data["awards"] = []
+            try:
+                flair = []
+                for span in node.find_all("span", class_=re.compile(r"flair|post-flair|comment-flair")):
+                    flair.append(span.get_text(strip=True))
+                data["flair"] = flair
+            except Exception:
+                data["flair"] = []
+            try:
+                badges = []
+                for span in node.find_all("span", class_=re.compile(r"badge|author-badge")):
+                    badges.append(span.get_text(strip=True))
+                data["badges"] = badges
+            except Exception:
+                data["badges"] = []
         # Numeric cast
         data["score"] = self._to_int(data.get("score"))
         data["comment_count"] = self._to_int(data.get("comment_count"))
@@ -351,6 +411,36 @@ class SubredditPostsScraper:
                 parent = c.get("parentid") or None
                 author = c.get("author") or ""
                 score = self._to_int(c.get("score"))
+                # --- Enhanced awards/flair/badges for comments --- #
+                awards = []
+                try:
+                    awards_bar = c.find("div", class_=re.compile(r"awards-bar"))
+                    if awards_bar:
+                        for award in awards_bar.find_all("span", class_=re.compile(r"award")):
+                            award_info = {
+                                "id": award.get("data-award-id"),
+                                "count": award.get("data-count"),
+                                "icon": None,
+                                "name": award.get_text(strip=True)
+                            }
+                            icon_img = award.find("img")
+                            if icon_img and icon_img.get("src"):
+                                award_info["icon"] = icon_img.get("src")
+                            awards.append(award_info)
+                except Exception:
+                    pass
+                flair = []
+                try:
+                    for span in c.find_all("span", class_=re.compile(r"flair|comment-flair")):
+                        flair.append(span.get_text(strip=True))
+                except Exception:
+                    pass
+                badges = []
+                try:
+                    for span in c.find_all("span", class_=re.compile(r"badge|author-badge")):
+                        badges.append(span.get_text(strip=True))
+                except Exception:
+                    pass
                 award_count = self._to_int(c.get("award-count")) if c.get("award-count") else 0
                 content_type = c.get("content-type") or ""
                 # Text content div id pattern: <commentid>-post-rtjson-content
@@ -372,13 +462,17 @@ class SubredditPostsScraper:
                     "author": author,
                     "score": score,
                     "award_count": award_count,
+                    "awards": awards,
+                    "flair": flair,
+                    "badges": badges,
                     "content_type": content_type,
                     "created_ts": created_ts,
                     "text": text,
                 })
                 if len(out) >= self.config.max_comments_per_post:
                     break
-            except Exception:
+            except Exception as e:
+                print(f"[error] Failed to parse comment: {e}")
                 continue
         return out
 
