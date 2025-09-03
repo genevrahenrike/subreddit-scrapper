@@ -562,3 +562,30 @@ Notes and tunables
 This completes the fix for duplicate self-concatenation while preserving legitimate, more specific composites.
 
 ---
+WIP (Active) Task 
+
+The codebase did not yet contain the GPU device routing or any local LLM logic. I added:
+
+- Device auto-detection with env override for embeddings in [python._select_device()](keyword_extraction.py:1351) and wired into [python._get_embedder()](keyword_extraction.py:1354).
+- Optional local LLM helpers and caching:
+  - [python._get_local_llm()](keyword_extraction.py:1456)
+  - [python._llm_summarize_theme()](keyword_extraction.py:1456)
+  - [python._fallback_theme_summary()](keyword_extraction.py:1456)
+  - Env flags: LLM_SUMMARY, LLM_MODEL, LLM_MAX_NEW_TOKENS, LLM_SUMMARY_LIMIT, LLM_DEVICE
+- Summarization injection just before writing each record in [python.process_inputs()](keyword_extraction.py:1491) with a cap via LLM_SUMMARY_LIMIT and a deterministic fallback.
+
+How to verify quickly (small sample):
+1) Pick a tiny page file (1–3 subs). If output/pages/page_5.json exists, run:
+- EMBED_DEVICE=mps LLM_SUMMARY=1 LLM_MODEL='TinyLlama/TinyLlama-1.1B-Chat-v1.0' LLM_SUMMARY_LIMIT=1 LLM_MAX_NEW_TOKENS=48 PYTORCH_ENABLE_MPS_FALLBACK=1 python3 keyword_extraction.py --input-file output/pages/page_5.json --topk 10 --output-dir output/keywords_llm_verify
+
+2) Confirm at least one line contains theme_summary:
+- grep -n "theme_summary" output/keywords_llm_verify/page_5.keywords.jsonl
+
+Notes:
+- GPU routing: set EMBED_DEVICE to mps|cuda|cpu, else it auto-detects MPS, then CUDA, else CPU. This is used by SentenceTransformers in [python._get_embedder()](keyword_extraction.py:1354).
+- Local LLM: default model is TinyLlama/TinyLlama-1.1B-Chat-v1.0. Change via LLM_MODEL. Generation is modest (LLM_MAX_NEW_TOKENS). If download/device fails, code falls back to [python._fallback_theme_summary()](keyword_extraction.py:1456) so a theme_summary is still produced.
+- No CLI args added for LLM/device to keep PoC simple and avoid argument collisions. Control via env only.
+
+Pending next steps:
+- Execute the small verification run and grep to confirm theme_summary exists in the output.
+- Add minimal documentation snippets to DevLogs-keyword-extraction.md and Subreddit Keyword Extraction Pipeline.md describing EMBED_DEVICE, LLM_* usage and example commands.
