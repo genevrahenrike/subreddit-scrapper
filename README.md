@@ -230,6 +230,25 @@ Full-thread scraping is heavier. Keep `max_posts` & `max_comments` conservative 
 - Playwright not installed: run `python -m playwright install chromium` in your venv.
 - Modules not found (e.g., `bs4`): `pip install -r requirements.txt`.
 - Bot detection hiccups: try enabling a proxy, increasing delays, or running non-headless for debugging.
+- Empty page files (114 bytes, count=0): Some pages may fail during scraping due to network issues or rate limiting. Re-scrape specific pages using the local scraper:
+```zsh
+python3 -c "
+from local_reddit_scraper import LocalRedditCommunitiesScraper, LocalScraperConfig
+import json
+from datetime import datetime
+
+cfg = LocalScraperConfig(headless=True)
+scraper = LocalRedditCommunitiesScraper(cfg)
+failed_pages = [869, 870]  # Replace with your failed page numbers
+
+for page_num in failed_pages:
+    subreddits = scraper.scrape_page(page_num)
+    page_data = {'page': page_num, 'count': len(subreddits), 'subreddits': subreddits, 'scraped_at': datetime.now().isoformat(), 'error': None}
+    with open(f'output/pages/page_{page_num}.json', 'w') as f:
+        json.dump(page_data, f, indent=2)
+    print(f'Re-scraped page {page_num}: {len(subreddits)} subreddits')
+"
+```
 
 ## Keyword Extraction (refactored)
 
