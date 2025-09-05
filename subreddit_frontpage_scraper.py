@@ -321,15 +321,164 @@ class SubredditFrontPageScraper:
         # Title
         if soup.title and soup.title.string:
             meta["title"] = soup.title.string.strip()
-        # Members count (best-effort)
+        
+        # Community details
         try:
-            # Look for common numeric fields in sidebar-like elements
-            text = soup.get_text(" ")
-            m = re.search(r"(\d[\d,\. ]+)(?:\s+members|\s+readers)", text, re.I)
-            if m:
-                meta["members_text"] = m.group(1).strip()
+            header = soup.find("shreddit-subreddit-header")
+            if header:
+                meta["description"] = header.get("description")
+                meta["subscribers"] = self._to_int(header.get("subscribers"))
+
+            # Extract online users count from faceplate-number elements
+            # Look for pattern: <faceplate-number number="1375" pretty="">1.4K</faceplate-number> followed by "online"
+            online_elements = soup.find_all("faceplate-number")
+            for element in online_elements:
+                # Check if the next text content contains "online"
+                next_text = ""
+                current = element
+                while current and not next_text.strip():
+                    current = current.next_sibling
+                    if current and hasattr(current, 'get_text'):
+                        next_text = current.get_text(strip=True)
+                    elif current and isinstance(current, str):
+                        next_text = current.strip()
+                
+                if "online" in next_text.lower():
+                    # Extract the number from the 'number' attribute
+                    online_count = element.get("number")
+                    if online_count:
+                        meta["online_users"] = self._to_int(online_count)
+                        break
+
+            # Fallback for created date
+            created_tag = soup.find("faceplate-timeago")
+            if created_tag and created_tag.has_attr('ts'):
+                meta['created_timestamp'] = created_tag['ts']
+
         except Exception:
             pass
+
+        # Sidebar widgets
+        meta["sidebar_widgets"] = []
+        try:
+            sidebar = soup.select_one("#right-sidebar-contents")
+            if sidebar:
+                # Find all potential widget containers. This selector is more specific.
+                for widget in sidebar.select("div.py-md > div.px-md"):
+                    title_tag = widget.find(['h2', 'h3', 'span'], class_=re.compile(r"font-bold|text-12", re.I))
+                    if title_tag:
+                        title = title_tag.get_text(strip=True)
+                        
+                        # Check if this widget contains multiple links (bookmarks/resources/etc)
+                        bookmark_links = widget.find_all('a', href=True)
+                        
+                        # If we have multiple links, treat it as a links widget
+                        if len(bookmark_links) >= 2:
+                            bookmarks = []
+                            for link in bookmark_links:
+                                # Extract text more carefully to avoid duplicates from hover states
+                                link_text = ""
+                                
+                                # Strategy 1: Look for visible i18n-translatable-text spans (not hidden)
+                                visible_spans = link.find_all('span', class_=re.compile(r'i18n-translatable-text'))
+                                for span in visible_spans:
+                                    span_classes = span.get('class', [])
+                                    if not any(cls in span_classes for cls in ['hidden', 'group-hover:block']):
+                                        link_text = span.get_text(strip=True)
+                                        break
+                                
+                                # Strategy 2: If no visible span found, take first i18n-translatable-text
+                                if not link_text and visible_spans:
+                                    link_text = visible_spans[0].get_text(strip=True)
+                                
+                                # Strategy 3: Fallback to link text, but clean up duplicates
+                                if not link_text:
+                                    full_text = link.get_text(strip=True)
+                                    # Simple deduplication: if text repeats, take first occurrence
+                                    words = full_text.split()
+                                    if len(words) >= 3 and words[0] == words[len(words)//2]:
+                                        # Likely duplicated, take first half
+                                        link_text = " ".join(words[:len(words)//3])
+                                    else:
+                                        link_text = full_text
+                                
+                                link_href = link.get('href', '')
+                                if link_text and link_href:
+                                    bookmarks.append({
+                                        "text": link_text,
+                                        "url": link_href
+                                    })
+                            
+                            if bookmarks:
+                                meta["sidebar_widgets"].append({
+                                    "title": title,
+                                    "content": bookmarks
+                                })
+                        else:
+                            # Default handling for other widgets
+                            content_text = ""
+                            
+                            # Special handling for Community Info - extract from HTML structure
+                            if "community info" in title.lower():
+                                # Look for the content div with proper HTML structure
+                                content_div = widget.find('div', class_=re.compile(r'i18n-translatable-text.*overflow-hidden'))
+                                if content_div:
+                                    # Remove SC_OFF/SC_ON comments
+                                    for comment in content_div.find_all(string=lambda text: isinstance(text, str) and ('SC_OFF' in text or 'SC_ON' in text)):
+                                        comment.extract()
+                                    
+                                    # Extract paragraphs and preserve structure with proper spacing
+                                    content_parts = []
+                                    for p in content_div.find_all('p'):
+                                        # Use get_text with separator to preserve spaces around links
+                                        p_text = p.get_text(separator=" ", strip=True)
+                                        if p_text:
+                                            content_parts.append(p_text)
+                                    
+                                    if content_parts:
+                                        content_text = "\n\n".join(content_parts)
+                            
+                            # Fallback to generic text extraction if specific handling didn't work
+                            if not content_text:
+                                # Get text but exclude sub-widget titles to avoid duplication
+                                content_parts = []
+                                for content_element in widget.find_all(string=True, recursive=True):
+                                    # A simple heuristic to filter out noisy script/style content and technical markers
+                                    text = content_element.strip()
+                                    if (content_element.parent.name not in ['script', 'style', 'button', 'a', 'h2', 'h3', 'span'] 
+                                        and len(text) > 2 
+                                        and 'SC_OFF' not in text 
+                                        and 'SC_ON' not in text
+                                        and text != title):  # Exclude duplicate title
+                                        content_parts.append(text)
+                                
+                                content_text = " ".join(content_parts)
+                            
+                            if title and content_text and title.lower() not in ['rules', 'moderators']:
+                                 meta["sidebar_widgets"].append({"title": title, "content": content_text.strip()})
+        except Exception:
+            pass
+        
+        # Rules
+        meta["rules"] = []
+        try:
+            # More specific selector for the rules container
+            rules_widget = soup.find('h2', string=re.compile("r/.* Rules"))
+            if rules_widget:
+                rules_container = rules_widget.find_parent('div', class_=re.compile("py-md"))
+                if rules_container:
+                    for rule_details in rules_container.find_all('details'):
+                        summary = rule_details.find('summary')
+                        description_div = rule_details.find('div', id=re.compile("rule-"))
+                        if summary and description_div:
+                            rule_title = summary.get_text(" ", strip=True)
+                            # Strip leading number from rule title
+                            rule_title = re.sub(r"^\d+\s*", "", rule_title).strip()
+                            rule_desc = description_div.get_text(" ", strip=True)
+                            meta["rules"].append({"title": rule_title, "description": rule_desc})
+        except Exception:
+            pass
+            
         return meta
 
     def _parse_posts_new_reddit(self, soup: BeautifulSoup) -> List[Dict]:

@@ -1,36 +1,267 @@
 {
-  "subreddit": "Python",
-  "url": "https://www.reddit.com/r/Python",
+  "subreddit": "python",
+  "url": "https://www.reddit.com/r/python",
   "meta": {
     "title": "Python",
-    "members_text": "24,731"
+    "description": "The official Python community for Reddit! Stay up to date with the latest news, packages, and meta information relating to the Python programming language. \n---\n\nIf you have questions or are new to Python use r/LearnPython",
+    "subscribers": 1390335,
+    "online_users": 135,
+    "created_timestamp": "2025-09-05T01:16:46.097000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Bookmarks",
+        "content": [
+          {
+            "text": "Python.org",
+            "url": "https://www.python.org/"
+          },
+          {
+            "text": "About the PSF",
+            "url": "https://www.python.org/psf-landing/"
+          },
+          {
+            "text": "Newsletter",
+            "url": "https://www.python.org/psf/newsletter/"
+          },
+          {
+            "text": "PyCon US",
+            "url": "https://us.pycon.org"
+          },
+          {
+            "text": "Volunteer",
+            "url": "https://www.python.org/psf/volunteer/"
+          },
+          {
+            "text": "Sponsors",
+            "url": "https://www.python.org/psf/sponsors/"
+          },
+          {
+            "text": "Become a Sponsor",
+            "url": "https://www.python.org/sponsors/application/"
+          },
+          {
+            "text": "Donate",
+            "url": "https://www.python.org/psf/donations/"
+          },
+          {
+            "text": "Daily megathreads",
+            "url": "https://www.reddit.com/r/Python/?f=flair_name%3A\"Daily%20Thread\""
+          },
+          {
+            "text": "Python Discord",
+            "url": "https://discord.gg/python"
+          }
+        ]
+      },
+      {
+        "title": "r/Python Rules",
+        "content": "If you are about to ask a question about how to do something in python, please check out It is a very helpful community that is focused on helping people get answers that they understand. Please use other subreddits for things that are more generally programmer related, or for things that involve large snakes. When posting a project please include an image showing your project if applicable, a textual description of your project including how Python is relevant to it and a link to source code. We do not want an arbitrary link that we then have to go read to understand. When posting a project you must use a showcase flair & use a text post, not an image post, video post or similar. Using new Reddit you may embed these media types within the post body, including multiple images in one post. Please write a bit about your project instead of just dumping links since it will increase the relevance of your project to the Python subreddit. Titles for all submissions should describe the topic of the post and offer redditors an idea of what the link or text covers. Vague titles which require clicking through to clarify the subject matter of the post will be removed. This also goes for just posting abstract links with no description about what it is you are sharing. All shared resources in posts and comments must be freely accessible without payment or subscription. This includes, but is not limited to, articles, courses, tutorials, and code repositories. Redirect paywalled content to anywhere but here. Banned links can include Medium.com and similar content and paywalled content. Low quality blogs and similar (similar to what is hosted on many Medium.com articles) is not allowed. To ensure effective communication and ease of moderation within the community, all posts and comments must be in English. All non-English content should translated before posting. This is mostly due to the capabilities and time constraints of the moderation staff and the predominance of English-speaking users in our community. Obviously we can't enforce this one very easily, it more is a level of trust we have in our users. Please do not downvote comments without providing valid reasoning for doing so. This rule helps maintain a positive atmosphere on the subreddit with both posts and comments. Showcase posts must have these sections in order to give a good idea for target audience, intended use, goals, etc. What My Project Does Target Audience (e.g., Is it meant for production, just a toy project, etc. Comparison (A brief comparison explaining how it differs from existing alternatives.) Due to an increase of showcases featuring AI content such as working with multiple AI models or wrappers around APIs, this is no longer allowed. Please post your showcases in the appropriate daily thread instead."
+      },
+      {
+        "title": "Search by Flair",
+        "content": [
+          {
+            "text": "Discussion",
+            "url": "/r/Python/?f=flair_name%3A%22Discussion%22"
+          },
+          {
+            "text": "Resource",
+            "url": "/r/Python/?f=flair_name%3A%22Resource%22"
+          },
+          {
+            "text": "Meta",
+            "url": "/r/Python/?f=flair_name%3A%22Meta%22"
+          },
+          {
+            "text": "Daily Thread",
+            "url": "/r/Python/?f=flair_name%3A%22%3ApythonLogo%3A%20Daily%20Thread%22"
+          },
+          {
+            "text": "Official Event",
+            "url": "/r/Python/?f=flair_name%3A%22%3ApythonLogo%3A%20Official%20Event%22"
+          },
+          {
+            "text": "Showcase",
+            "url": "/r/Python/?f=flair_name%3A%22Showcase%22"
+          },
+          {
+            "text": "News",
+            "url": "/r/Python/?f=flair_name%3A%22News%22"
+          },
+          {
+            "text": "Tutorial",
+            "url": "/r/Python/?f=flair_name%3A%22Tutorial%22"
+          },
+          {
+            "text": "Official PyCon",
+            "url": "/r/Python/?f=flair_name%3A%22%3ApythonLogo%3A%20Official%20PyCon%22"
+          }
+        ]
+      },
+      {
+        "title": "Events",
+        "content": "September 6, 2025 September 9, 2025 September 12, 2025 September 12, 2025 September 12, 2025"
+      },
+      {
+        "title": "Related Python communities",
+        "content": [
+          {
+            "text": "r/madeinpython",
+            "url": "/r/madeinpython"
+          },
+          {
+            "text": "r/learnpython",
+            "url": "/r/learnpython"
+          },
+          {
+            "text": "r/PythonJobs",
+            "url": "/r/PythonJobs"
+          },
+          {
+            "text": "r/pythontips",
+            "url": "/r/pythontips"
+          }
+        ]
+      },
+      {
+        "title": "Job Board",
+        "content": "Python job board"
+      },
+      {
+        "title": "Resources",
+        "content": [
+          {
+            "text": "Automate the Boring Stuff with Python",
+            "url": "https://automatetheboringstuff.com/"
+          },
+          {
+            "text": "Think Python",
+            "url": "http://www.greenteapress.com/thinkpython2/index.html"
+          },
+          {
+            "text": "Fluent Python",
+            "url": "https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/"
+          },
+          {
+            "text": "The Quick Python Book, 4ed.",
+            "url": "https://www.manning.com/books/the-quick-python-book-fourth-edition"
+          },
+          {
+            "text": "Learn Python on Excercism",
+            "url": "https://exercism.org/tracks/python"
+          },
+          {
+            "text": "Invent Your Own Computer Games with Python",
+            "url": "http://inventwithpython.com/"
+          },
+          {
+            "text": "PyMotW: Python Module of the Week",
+            "url": "https://pymotw.com/3/"
+          },
+          {
+            "text": "Beginner's Guide Reference",
+            "url": "http://wiki.python.org/moin/BeginnersGuide"
+          },
+          {
+            "text": "Five life jackets to throw to the new coder (things to do after getting a handle on python)",
+            "url": "https://learnbyexample.github.io/curated-resources/python-intermediate/"
+          },
+          {
+            "text": "Full Stack Python",
+            "url": "http://www.fullstackpython.com/"
+          },
+          {
+            "text": "Learn By Example \"I know Python basics, what next?\" blog post",
+            "url": "https://learnbyexample.github.io/curated-resources/python-intermediate/"
+          },
+          {
+            "text": "Test-Driven Development with Python",
+            "url": "http://www.obeythetestinggoat.com/pages/book.html"
+          },
+          {
+            "text": "Program Arcade Games",
+            "url": "/http://programarcadegames.com/"
+          },
+          {
+            "text": "Python for Scientists and Engineers",
+            "url": "http://pythonforengineers.com/python-for-scientists-and-engineers/"
+          },
+          {
+            "text": "Dan Bader's Tips and Trickers",
+            "url": "https://dbader.org/"
+          },
+          {
+            "text": "JetBrain's \"What does this package do?\" series on YouTube",
+            "url": "https://www.youtube.com/playlist?list=PLCTHcU1KoD99ZWRvzAGrvF6ZBCrkmZk4t"
+          },
+          {
+            "text": "Python Cheatsheet",
+            "url": "https://github.com/gto76/python-cheatsheet"
+          },
+          {
+            "text": "Python Crash Course cheatsheet",
+            "url": "https://ehmatthes.github.io/pcc_3e/cheat_sheets/"
+          },
+          {
+            "text": "Scientific Python cheatsheet",
+            "url": "https://ipgp.github.io/scientific_python_cheat_sheet/"
+          },
+          {
+            "text": "Python RegEx cheatsheet",
+            "url": "https://learnbyexample.github.io/python-regex-cheatsheet/"
+          },
+          {
+            "text": "Python Discord Resources",
+            "url": "https://pythondiscord.com/pages/resources"
+          },
+          {
+            "text": "Python Discord's YouTube channel",
+            "url": "https://www.youtube.com/pythondiscord"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/Python/moderators/"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "I built a Python bot that automatically finds remote jobs and sends them to Telegram.",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n6fm1w/i_built_a_python_bot_that_automatically_finds/",
-      "score": 2,
-      "comments": 0,
-      "post_id": "t3_1n6fm1w",
-      "post_type": "multi_media",
+      "title": "Highly relevant moderation rant",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n8ryo5/highly_relevant_moderation_rant/",
+      "score": 0,
+      "comments": 6,
+      "post_id": "t3_1n8ryo5",
+      "post_type": "text",
       "domain": "self.Python",
-      "author": "Due_Care_7629",
-      "author_id": "t2_1jkh5ait84",
+      "author": "Druber13",
+      "author_id": "t2_om2hs",
       "subreddit_id": "t5_2qh0y",
       "subreddit": "r/Python",
-      "created_ts": "2025-09-02T10:13:47.786000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n6fm1w/i_built_a_python_bot_that_automatically_finds/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T01:16:46.097000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n8ryo5/highly_relevant_moderation_rant/",
+      "content_preview": "I’ve tried several times to ask questions or get advice here and things have been flagged, reported, and removed. It’s never been why isn’t my hello world working or other super basic things.I think this really needs to be adjusted as most online searches are useless now days. The amount of AI garbage you get when looking stuff up is out of hand. Stack overflow is about useless for anything I’ve looked at recently.Leaving folk looking for somewhere like this to find real people that can actually help or offer useful opinions. In fact typing this is telling me it’s probably going to be flagged…. It feels like this is defending the purpose of this subreddit and any community that can be built.",
       "flair": [
-        "Showcase"
+        "Discussion"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": ""
     },
     {
       "title": "Python feels easy… until it doesn’t. What was your first real struggle?",
       "permalink": "https://www.reddit.com/r/Python/comments/1n324wb/python_feels_easy_until_it_doesnt_what_was_your/",
-      "score": 757,
-      "comments": 533,
+      "score": 783,
+      "comments": 541,
       "post_id": "t3_1n324wb",
       "post_type": "text",
       "domain": "self.Python",
@@ -40,36 +271,36 @@
       "subreddit": "r/Python",
       "created_ts": "2025-08-29T08:49:52.610000+0000",
       "content_href": "https://www.reddit.com/r/Python/comments/1n324wb/python_feels_easy_until_it_doesnt_what_was_your/",
-      "content_preview": "",
+      "content_preview": "When I started Python, I thought it was the easiest language ever… until virtual environments and package management hit me like a truck.What was your first ‘Oh no, this isn’t as easy as I thought’ moment with Python?",
       "flair": [
         "Discussion"
       ],
       "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
     },
     {
-      "title": "Python + OCR: Automatically analyze Dota 2 player stats 👀",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n5ux0w/python_ocr_automatically_analyze_dota_2_player/",
-      "score": 23,
+      "title": "I'm building local, open-source, fast minimal, and extendible python RAG library and CLI tool",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n8jasr/im_building_local_opensource_fast_minimal_and/",
+      "score": 13,
       "comments": 1,
-      "post_id": "t3_1n5ux0w",
+      "post_id": "t3_1n8jasr",
       "post_type": "multi_media",
       "domain": "self.Python",
-      "author": "N3uvin",
-      "author_id": "t2_1wmvzgei2u",
+      "author": "Avienir",
+      "author_id": "t2_16tmui",
       "subreddit_id": "t5_2qh0y",
       "subreddit": "r/Python",
-      "created_ts": "2025-09-01T17:25:57.738000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n5ux0w/python_ocr_automatically_analyze_dota_2_player/",
-      "content_preview": "",
+      "created_ts": "2025-09-04T19:13:21.936000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n8jasr/im_building_local_opensource_fast_minimal_and/",
+      "content_preview": "I got tired of overengineered and bloated AI libraries and needed something to prototype local RAG apps quickly so I decided to make my own library,Features:➡️ Get to prototyping local RAG applications in seconds: uvx rocketrag prepare & uv rocketrag ask is all you need➡️ CLI first interface, you can even visualize embeddings in your terminal➡️ Native llama.cpp bindings - no Ollama bullshit➡️ Ready to use minimalistic web app with chat, vectors visualization and browsing documents➡️ Minimal footprint: milvus-lite, llama.cpp, kreuzberg, simple html web app➡️ Tiny but powerful - use any chucking method from chonkie, any LLM with .gguf provided and any embedding model from sentence-transformers➡️ Easily extendible - implement your own document loaders, chunkers and BDs, contributions welcome!Link to repo:https://github.com/TheLion-ai/RocketRAGLet me know what you think. If anybody wants to collaborate and contribute DM me or just open a PR!What My Project DoesRocketRAG is a high-performance Retrieval-Augmented Generation (RAG) library that loads documents (PDF/TXT/MD…), performs semantic chunking, indexes embeddings into a fast vector DB, then serves answers via a local LLM. It provides both a CLI and a FastAPI-based web server with OpenAI-compatible/askand streaming endpoints, and is built to prioritize speed, a minimal code footprint, and easy extensibilityTarget AudienceDevelopers and researchers who want a fast, modular RAG stack for local or self-hosted inference (GGUF / llama-cpp-python), and teams who value low-latency document processing and a plug-and-play architecture. It’s suitable both for experimentation and for production-ready local/offline deployments where performance and customizability matter.Comparison (how it differs from existing alternatives)Unlike heavier, opinionated frameworks, RocketRAG focuses on performance-first building blocks: ultra-fast document loaders (Kreuzberg), semantic chunking (Chonkie/model2vec), Sentence-Transformers embeddings, Milvus Lite for sub-millisecond search, and llama-cpp-python for GGUF inference — all in a pluggable architecture with a small footprint. The goal is lower latency and easier swapping of components compared to larger ecosystems, while still offering a nice CLI",
       "flair": [
         "Showcase"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+      "thumbnail_url": ""
     },
     {
       "title": "Axiom, a new kind of \"truth engine\" as a tool to fight my own schizophrenia. Now open-sourcing it.",
       "permalink": "https://www.reddit.com/r/Python/comments/1miaw6m/axiom_a_new_kind_of_truth_engine_as_a_tool_to/",
-      "score": 526,
+      "score": 527,
       "comments": 315,
       "post_id": "t3_1miaw6m",
       "post_type": "multi_media",
@@ -80,37 +311,97 @@
       "subreddit": "r/Python",
       "created_ts": "2025-08-05T14:34:54.719000+0000",
       "content_href": "https://www.reddit.com/r/Python/comments/1miaw6m/axiom_a_new_kind_of_truth_engine_as_a_tool_to/",
-      "content_preview": "",
+      "content_preview": "I AM ACCEPTING THAT I CANNOT HANDLE BEING SO INVOLVED IN THE COMMENTS SO I AM EDITING THIS POSTif anyone wants to be invited to change the repo fix the repoor improve itprotect itsecure itthen please by all means DM me get in touch with me so i can add you to the repo as a trusted contributor *Current changes and updates made:No more API keys:discorvery_RSS is now entirely freefractal permutation shuffle for each node: stops the raging stampeding hoard of nodes from hitting the same RSSfeed, we now have a respected way to direct traffic efficiently and ethically to be a welcome guest.working blockchain: Hash cryptographically stored and sealed Ledger of discoveries (fact/contradiction/coordination/ source) is tamper proof, will be upgraded to be more efficient (e.g 2 classes of nodes one for full nodes and one for user client nodes which will be scalable and lightweight no one should have to download 100GBs of the system just to find a truthful answer. a client node would only hold the hash headers for blocks. this should scale up efficiently, only Full nodes would be doing the heavy lifting **still being discussed and worked on )many more stability and framework improvements.current team of 3 maintainersMAJOR UPDATES AND CHANGES CAN BE REVIEWED AND SEEN ON THE MAIN REPOif you decide to bash the project in the comments below or attack me for being uneducated unwelcome dumb crazy and inexperienced stupid or whatever just expect an equally useless response from me everyone else I love and appreciate your feedback your concerns and questions it means the world to mefor those who wish to argue complain cry call me out call me this call me that... just know they're triggering and you might get a negative very toxic ugly response from me even if it was not intentional it was just how I was feeling at the moment when I read it if i ever read it... thank youhere is the live site where you can test the engine.(there is only a few blocks of facts and no real 100% truths yet this will grow as more contributors grow the mesh p2p network)its a work in progress and I see a lot of work ahead of usyou can try the engine here just ask a questionhttps://artisticintentionz.github.io/AxiomEngine/REPO found hererepo",
       "flair": [
         "Showcase"
       ],
       "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
     },
     {
-      "title": "Tuesday Daily Thread: Advanced questions",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n64s7q/tuesday_daily_thread_advanced_questions/",
-      "score": 3,
+      "title": "PyCon 2025 Workshop: Agentic Apps with Pydantic-AI",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n8f0xu/pycon_2025_workshop_agentic_apps_with_pydanticai/",
+      "score": 9,
       "comments": 1,
-      "post_id": "t3_1n64s7q",
-      "post_type": "multi_media",
+      "post_id": "t3_1n8f0xu",
+      "post_type": "text",
       "domain": "self.Python",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
+      "author": "aherontas",
+      "author_id": "t2_52az9xwp",
       "subreddit_id": "t5_2qh0y",
       "subreddit": "r/Python",
-      "created_ts": "2025-09-02T00:00:30.440000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n64s7q/tuesday_daily_thread_advanced_questions/",
-      "content_preview": "",
+      "created_ts": "2025-09-04T16:31:51.531000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n8f0xu/pycon_2025_workshop_agentic_apps_with_pydanticai/",
+      "content_preview": "Hey all!I recently gave a workshop talk atPyCon Greece 2025about building production-ready agent systems.To check it out, I put together a demo repo (slides coming soon on my blog:petrostechchronicles.com):Repo:github.com/Aherontas/Pycon_Greece_2025_Presentation_AgentsThe idea: show how multiple AI agents can collaborate usingFastAPI + Pydantic-AI, with protocols likeMCP (Model Context Protocol)andA2A (Agent-to-Agent)for safe communication and orchestration.Features:Multiple agents running in containersMCP servers (Brave search, GitHub, filesystem, etc.) as toolsA2A communication between servicesMinimal UI for experimentation (e.g., repo analysis)Why I built this:Most agent frameworks look great in isolated demos, but fall apart when you try to glue agents together into a real application.My goal was to help people experiment with these patterns and move closer to real-world use cases.It’s not production-grade, but I’d lovefeedback, criticism, or war storiesfrom anyone who’s tried building multi-agent systems.Big question for discussion:Do you think agent-to-agent protocols like MCP/A2A will stick?Or will the future be mostly single powerful LLMs with plugin stacks?",
       "flair": [
-        "Daily Thread"
+        "Tutorial"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Zuban is now Open Source",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n7e1oa/zuban_is_now_open_source/",
+      "score": 191,
+      "comments": 48,
+      "post_id": "t3_1n7e1oa",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "zubanls",
+      "author_id": "t2_koxr9y58",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-03T12:55:41.856000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n7e1oa/zuban_is_now_open_source/",
+      "content_preview": "Zuban, the successor of Jedi is now Open Source:https://github.com/zubanls/zubanZuban is a high-performance Python Language Server and type checker implemented in Rust, by the author of Jedi. Zuban is 20–200× faster than Mypy, while using roughly half the memory and CPU compared to Ty and Pyrefly. It offers both a PyRight-like mode and a Mypy-compatible mode, which behaves just like Mypy; supporting the same config files, command-line flags, and error messages.Most important LSP features are supported. Features include diagnostics, completions, goto, references, rename, hover and document highlights.Zuban passes over 95% of Mypy’s relevant test suite and offers comprehensive support for Python'stype system.",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_co88aa/styles/profileIcon_wx6sgpsy1j7f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4f7cb4b480118dcfcf10a421cdac6019bef8fafc"
+    },
+    {
+      "title": "I made a script that identifies graded Pokemon cards with OCR",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n86hnz/i_made_a_script_that_identifies_graded_pokemon/",
+      "score": 18,
+      "comments": 0,
+      "post_id": "t3_1n86hnz",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "haddock420",
+      "author_id": "t2_3nhn2",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-04T10:29:31.392000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n86hnz/i_made_a_script_that_identifies_graded_pokemon/",
+      "content_preview": "Hi everyone,I run aPokemon deal findersite that finds deals on Pokemon cards on eBay by comparing listing prices to historical card values.I used to have graded cards on there, but I had to remove them from the site because too many people would lie in the title about what grade it is. For example, they might put \"PSA 10\" when it's only a PSA 9 or they might put \"Easily a PSA 10\" or \"Potential PSA 10\" when the card was ungraded. There were enough cards like this that I had to remove graded cards from the site because there were too many misleading graded listings.I decided to try to use OCR on the card images to identify the grade rather than trusting what the user says in the title. I managed to write a surprisingly accurate script for identifying the grade of PSA 9 and PSA 10 cards.It uses the cv2 and easyocr libraries, and it searches for sections that look purely black and white in the image (likely to be text), then it scans that section for the words \"MINT\" (grade 9) or \"GEM MT\" (grade 10) to determine the grade of the card.It works surprisingly well, and the best thing is there are no false positives.Now I've got graded cards back on my site, and they all seem to be identified correctly.What My Project DoesTakes an image of a Pokemon card, and determiners whether it's a grade 9 or 10 or ungraded.Target AudienceThis is mainly for myself as a tool to add graded cards back to my site. Though it could be useful for anyone who needs to identify a graded card from an image.ComparisonWhen I was first writing this, I did search on Google to see if anyone had done OCR recognition on graded Pokemon cards, but I didn't really find anything. I think this is unique in that regard.You can run it with get_grade_ocr() on either a filename or a URL.Github:https://github.com/sgriffin53/pokemon_ocr",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+    },
+    {
+      "title": "What Server to use for YOLOv11.",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n8roey/what_server_to_use_for_yolov11/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1n8roey",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "Batkid_760",
+      "author_id": "t2_aa81o1gq",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-05T01:03:05.821000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n8roey/what_server_to_use_for_yolov11/",
+      "content_preview": "Hello,I am looking for a compute server systems that uses YOLOv11 on high resolution Hikvision IP cameras. Rough 20-25 cameras will be installed for object detection and will need a high GPU and CPU. What do you guys recommend?",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
     },
     {
       "title": "Whats your favorite Python trick or lesser known feature?",
       "permalink": "https://www.reddit.com/r/Python/comments/1n0ng7f/whats_your_favorite_python_trick_or_lesser_known/",
       "score": 446,
-      "comments": 285,
+      "comments": 289,
       "post_id": "t3_1n0ng7f",
       "post_type": "text",
       "domain": "self.Python",
@@ -120,171 +411,111 @@
       "subreddit": "r/Python",
       "created_ts": "2025-08-26T14:31:52.335000+0000",
       "content_href": "https://www.reddit.com/r/Python/comments/1n0ng7f/whats_your_favorite_python_trick_or_lesser_known/",
-      "content_preview": "",
+      "content_preview": "I'm always amazed at the hidden gems in python that can make code cleaner or more efficient. Weather its clever use of comprehensions to underrated standard library modules - whats a Python trick you’ve discovered that really saved you some time or made your projects easier",
       "flair": [
         "Discussion"
       ],
       "thumbnail_url": "https://styles.redditmedia.com/t5_f3qk9p/styles/profileIcon_e9q6mfelz8kf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5a5602f3cf9bc6a3068ac5aa26b1d56b0a741a10"
     },
     {
-      "title": "Introducing DLType, an ultra-fast runtime type and shape checking library for deep learning tensors!",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n5q8n0/introducing_dltype_an_ultrafast_runtime_type_and/",
-      "score": 14,
-      "comments": 2,
-      "post_id": "t3_1n5q8n0",
-      "post_type": "multi_media",
-      "domain": "self.Python",
-      "author": "onyx-zero-software",
-      "author_id": "t2_9f92l0yf",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-09-01T14:30:17.627000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n5q8n0/introducing_dltype_an_ultrafast_runtime_type_and/",
-      "content_preview": "",
-      "flair": [
-        "Showcase"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Python OOP is clever",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n6fgah/python_oop_is_clever/",
-      "score": 0,
-      "comments": 3,
-      "post_id": "t3_1n6fgah",
-      "post_type": "text",
-      "domain": "self.Python",
-      "author": "FickleAd3708",
-      "author_id": "t2_bkobkpdj",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-09-02T10:03:56.315000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n6fgah/python_oop_is_clever/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "But really, why use ‘uv’?",
-      "permalink": "https://www.reddit.com/r/Python/comments/1mfd3ww/but_really_why_use_uv/",
-      "score": 450,
-      "comments": 232,
-      "post_id": "t3_1mfd3ww",
-      "post_type": "multi_media",
-      "domain": "self.Python",
-      "author": "kingfuriousd",
-      "author_id": "t2_5izvg3b6",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-08-02T00:41:11.182000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1mfd3ww/but_really_why_use_uv/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "[UPDATE] DocStrange - Structured data extraction from images/pdfs/docs",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n5jjnl/update_docstrange_structured_data_extraction_from/",
-      "score": 21,
-      "comments": 8,
-      "post_id": "t3_1n5jjnl",
-      "post_type": "text",
-      "domain": "self.Python",
-      "author": "LostAmbassador6872",
-      "author_id": "t2_1mv39a664r",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-09-01T08:49:32.926000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n5jjnl/update_docstrange_structured_data_extraction_from/",
-      "content_preview": "",
-      "flair": [
-        "Resource"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "pd.col: Expressions are coming to pandas",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n26zm9/pdcol_expressions_are_coming_to_pandas/",
-      "score": 189,
-      "comments": 81,
-      "post_id": "t3_1n26zm9",
-      "post_type": "multi_media",
-      "domain": "self.Python",
-      "author": "marcogorelli",
-      "author_id": "t2_sidsyck1",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-08-28T08:49:19.086000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n26zm9/pdcol_expressions_are_coming_to_pandas/",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "Looking for a study buddy in Angela Yu\"s 100 Days of Python, day 32",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n5sf57/looking_for_a_study_buddy_in_angela_yus_100_days/",
-      "score": 3,
-      "comments": 2,
-      "post_id": "t3_1n5sf57",
-      "post_type": "text",
-      "domain": "self.Python",
-      "author": "2TB_NVME",
-      "author_id": "t2_14c8jyl99n",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-09-01T15:53:53.344000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n5sf57/looking_for_a_study_buddy_in_angela_yus_100_days/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Python: The Documentary premieres on YouTube in a few hours",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n1k42a/python_the_documentary_premieres_on_youtube_in_a/",
-      "score": 107,
-      "comments": 9,
-      "post_id": "t3_1n1k42a",
-      "post_type": "multi_media",
-      "domain": "self.Python",
-      "author": "byaruhaf",
-      "author_id": "t2_fah3f",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-08-27T15:26:11.204000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n1k42a/python_the_documentary_premieres_on_youtube_in_a/",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_baawc/styles/profileIcon_8wajp05vtywd1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6d56783063920e73c5ce8ed90c69c46c30e3c2cf"
-    },
-    {
-      "title": "Omni-LPR: A multi-interface server for automatic license plate recognition in Python",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n5idvx/omnilpr_a_multiinterface_server_for_automatic/",
-      "score": 6,
+      "title": "PyconFR at Lyon (France)",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n84hjt/pyconfr_at_lyon_france/",
+      "score": 20,
       "comments": 0,
-      "post_id": "t3_1n5idvx",
-      "post_type": "multi_media",
+      "post_id": "t3_1n84hjt",
+      "post_type": "text",
       "domain": "self.Python",
-      "author": "No_Pomegranate7508",
-      "author_id": "t2_138f5rku2o",
+      "author": "MelcoreHat",
+      "author_id": "t2_1ezkytkp",
       "subreddit_id": "t5_2qh0y",
       "subreddit": "r/Python",
-      "created_ts": "2025-09-01T07:34:17.338000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n5idvx/omnilpr_a_multiinterface_server_for_automatic/",
-      "content_preview": "",
+      "created_ts": "2025-09-04T08:24:02.336000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n84hjt/pyconfr_at_lyon_france/",
+      "content_preview": "The French-Speaking Python Association (AFPy) is organizing PyConFR 2025 from Thursday, October 30 to Sunday, November 2. For this 16th edition, we’ll be hosted by the René Cassin Campus in Lyon!PyConFR is a free, four-day event centered around the Python programming language. It includes two days of collaborative development (sprints), followed by two days of talks and workshops.The call for proposals is now closed, and we’ll be publishing the schedule soon athttps://www.pycon.fr/2025/en/schedule.html. There will be an English-language track.While attendance is free, registration is required for all participants.As every year, we offer support to people who are usually underrepresented at conferences — help with finding a topic, writing a proposal, preparing slides, and rehearsing. Feel free to contact us atdiversite@afpy.org",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2myg3c/styles/profileIcon_pezj6q5hz1nf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=61f42df369831474d6d0952fc50c5cf4ff541b89"
+    },
+    {
+      "title": "Niche Python tools, libraries and features - whats your favourite?",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n7r4xb/niche_python_tools_libraries_and_features_whats/",
+      "score": 112,
+      "comments": 136,
+      "post_id": "t3_1n7r4xb",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "OllieOps",
+      "author_id": "t2_1w8qx8f8xs",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-03T21:11:38.836000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n7r4xb/niche_python_tools_libraries_and_features_whats/",
+      "content_preview": "I know we see this get asked every other week, but it always makes for a good discussion.I only just found out aboutpathlib- makes working with files so much cleaner.Whats a python tool or library you wish youd known about earlier?",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "FileSweep, a fast duplicate & clutter file cleaner",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n8c4ou/filesweep_a_fast_duplicate_clutter_file_cleaner/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1n8c4ou",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "zeya07",
+      "author_id": "t2_1ox4fp",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-04T14:44:14.525000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n8c4ou/filesweep_a_fast_duplicate_clutter_file_cleaner/",
+      "content_preview": "Hey everyone! I built FileSweep, a utility to help keep duplicates and clutter under control. I have the bad habit of downloading files and thencopyingthem someplace else, instead of moving and deleting them. My downloads folder is currently 23 gigabytes, with 4 year old files and quadruple copies. Checking 3200 files manually is a monumental task, and I would never start doing it. That is why I build FileSweep. It is designed to allow fine-grained control over what gets deleted, with a focus on file duplicates.Get the source code athttps://github.com/ramsteak/FileSweepWhat My Project DoesFileSweep is a set-and-forget utility that:is easily configurable for your own system,detects duplicates across multiple folders, with per-directory priorities and policies,moves files to recycle bin / trash with send2trash,is very fast (with cache enabled, scans the above-described download directory in 1.2 seconds) with only the necessary disk reads,is cross-platform,can select files based on name, extension, regex, size and age,supports different policies (from keep to always delete),has dry-run mode for safe testing, guaranteeing that no file is deleted,can be set up as a cron / task scheduler task, and work in the background.How it worksYou set up a filesweep.yaml config describing which folders to scan, their priorities, and what to do with duplicates or matches (an example config with the explanation for every field is available in the repo)FileSweep builds a cache of file metadata and hashes, so future runs are much fasterRespect rules for filetype, size, age, ...Target AudienceAny serial downloader of files that wants to keep their hard drive in checkComparisondupeGuru is another duplicate-manager software. It uses Qt5 as GUI, so it can be more intuitive to beginners, and the user manually parses through duplicates. FileSweep is an automated CLI tool, can be configured and run without the need of a display and with minimal user intervention.FileSweep is freely available (MIT License) from thegithub repoTested with Python 3.12+",
       "flair": [
         "Showcase"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": ""
+    },
+    {
+      "title": "PySimpleGUI Hobbyist License Canceled",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n4ilwx/pysimplegui_hobbyist_license_canceled/",
+      "score": 94,
+      "comments": 57,
+      "post_id": "t3_1n4ilwx",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "teslah3",
+      "author_id": "t2_l1uek2wbl",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-31T01:50:49.768000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n4ilwx/pysimplegui_hobbyist_license_canceled/",
+      "content_preview": "So I used PySimpleGUI for a single project and received the 30 day free trial assuming Id be able to get the hobbyist version once it was over. Is it crazy to anyone else that it cost $99 to just save a few lines of code considering I can create the same, if not a more customizable GUI using C/C++. My project which wasnt too crazy (firetv remote using adb protocol) is now garbage because I will not pay for the dumb licensing fee, but hey maybe a single person should pay the same amount a billion dollar company pays right???`",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I built a Python library to simplify complex SQLAlchemy queries with a clean architecture.",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n8b41e/i_built_a_python_library_to_simplify_complex/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1n8b41e",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "LordPeter_s",
+      "author_id": "t2_aio7giou",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-04T14:06:15.678000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n8b41e/i_built_a_python_library_to_simplify_complex/",
+      "content_preview": "Hey r/Python,Like many of you, I've spent countless hours writing boilerplate code for web APIs that use SQLAlchemy. Handling dynamic query parameters for filtering on nested relationships, sorting, full-text search, and pagination always felt repetitive and prone to errors.To solve this, I createdfastapi-query-builder.Don't let the name fool you! While it was born from a FastAPI project, it's fundamentally a powerful, structured way to handle SQLAlchemy queries that can be adapted to any Python framework (Flask, Django Ninja, etc.).The most unique part is its installation, inspired by shadcn/ui. Instead of being just another black-box package, you run query-builder init, and it copies the entire source code into your project. This gives youfull ownershipto customize, extend, or fix anything you need.GitHub Repo:https://github.com/Pedroffda/fastapi-query-builderHow it Works: A Clean ArchitectureThe library encourages a clean, three-layer architecture to separate concerns:BaseService: The data access layer. It talks to the database using SQLAlchemy and the core QueryBuilder. It only deals with SQLAlchemy models.BaseMapper: The presentation layer. It's responsible for transforming SQLAlchemy models into Pydantic schemas, intelligently handling relationship loading and field selection (select_fields).BaseUseCase: The business logic layer. It coordinates the service and the mapper. Your API endpoint talks to this layer, keeping your routes incredibly clean.A Quick, Realistic ExampleHere’s a one-time setup for a Post model that has a relationship with a User model.# --- In your project, after running 'query-builder init' ---\n\n# Import from your local, customizable copy\nfrom query_builder import BaseService, BaseMapper, BaseUseCase, get_dynamic_relations_map\nfrom your_models import User, Post\nfrom your_schemas import UserView, PostView\n\n# 1. Define Mappers (SQLAlchemy Model -> Pydantic Schema)\nuser_mapper = BaseMapper(model_class=User, view_class=UserView, ...)\npost_mapper = BaseMapper(\n    model_class=Post,\n    view_class=PostView,\n    relationship_map={\n        'user': {'mapper': user_mapper.map_to_view, ...}\n    }\n)\n\n# 2. Define the Service (Handles all the DB logic)\npost_service = BaseService(\n    model_class=Post,\n    relationship_map=get_dynamic_relations_map(Post),\n    searchable_fields=[\"title\", \"content\", \"user.name\"] # <-- Search across relationships!\n)\n\n# 3. Define the UseCase (Connects Service & Mapper)\npost_use_case = BaseUseCase(\n    service=post_service,\n    map_to_view=post_mapper.map_to_view,\n    map_list_to_view=post_mapper.map_list_to_view\n)After this setup, your API endpoint becomes trivial. Here's a FastAPI example, but you can adapt the principle to any framework:from query_builder import QueryBuilder\n\nquery_builder = QueryBuilder()\n\nu/router.get(\"/posts\")\nasync def get_posts(query_params: QueryParams = Depends(), ...):\n    filter_params = query_builder.parse_filters(query_params)\n    \n    # The UseCase handles everything!\n    return await post_use_case.get_all(\n        db=db,\n        filter_params=filter_params,\n        ... # all other params like search, sort_by, etc.\n    )This setup unlocks powerful, clean, and complex queries directly from your URL, like:Find posts with \"Python\" in the title, by authors named \"Pedro\":.../posts?filter[title][ilike]=%Python%&filter[user.name][ilike]=%Pedro%Sort posts by user's name, then by post ID descending:.../posts?sort_by=user.name,-idSelect specific fields from both the post and the related user:.../posts?select_fields=id,title,user.id,user.nameI'd love your feedback!This is my first open-source library, and I’m keen to hear from experienced Python developers.What are your thoughts on the three-layer (Service, Mapper, UseCase) architecture?Is the shadcn/ui \"vendoring\" approach (copying the code into your project) appealing?What crucial features do you think are missing?Any obvious pitfalls or suggestions for improvement in the code?It's on TestPyPI now, and I'm hoping to make a full release after getting some community feedback.TestPyPI Link:https://test.pypi.org/project/fastapi-query-builder/Thanks for taking the time to look at my project",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
     },
     {
       "title": "Astral's first paid offering announced - pyx, a private package registry and pypi frontend",
@@ -300,131 +531,131 @@
       "subreddit": "r/Python",
       "created_ts": "2025-08-13T19:55:10.131000+0000",
       "content_href": "https://www.reddit.com/r/Python/comments/1mperw4/astrals_first_paid_offering_announced_pyx_a/",
-      "content_preview": "",
+      "content_preview": "Looks like this is how they're going to try to make a profit? Seems pretty not evil, though I haven't had the problems they're solving.",
       "flair": [
         "News"
       ],
       "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
     },
     {
-      "title": "My first kinda complicated code (started like a month ago)",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n562vq/my_first_kinda_complicated_code_started_like_a/",
-      "score": 22,
-      "comments": 8,
-      "post_id": "t3_1n562vq",
+      "title": "Friday Daily Thread: r/Python Meta and Free-Talk Fridays",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n8qcam/friday_daily_thread_rpython_meta_and_freetalk/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n8qcam",
       "post_type": "text",
       "domain": "self.Python",
-      "author": "Rollgus",
-      "author_id": "t2_mtbzkvqv",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
       "subreddit_id": "t5_2qh0y",
       "subreddit": "r/Python",
-      "created_ts": "2025-08-31T21:04:57.571000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n562vq/my_first_kinda_complicated_code_started_like_a/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T00:00:47.843000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n8qcam/friday_daily_thread_rpython_meta_and_freetalk/",
+      "content_preview": "Weekly Thread: Meta Discussions and Free Talk Friday 🎙️Welcome to Free Talk Friday onr/Python! This is the place to discuss ther/Pythoncommunity (meta discussions), Python news, projects, or anything else Python-related!How it Works:Open Mic: Share your thoughts, questions, or anything you'd like related to Python or the community.Community Pulse: Discuss what you feel is working well or what could be improved in ther/pythoncommunity.News & Updates: Keep up-to-date with the latest in Python and share any news you find interesting.Guidelines:All topics should be related to Python or ther/pythoncommunity.Be respectful and follow Reddit'sCode of Conduct.Example Topics:New Python Release: What do you think about the new features in Python 3.11?Community Events: Any Python meetups or webinars coming up?Learning Resources: Found a great Python tutorial? Share it here!Job Market: How has Python impacted your career?Hot Takes: Got a controversial Python opinion? Let's hear it!Community Ideas: Something you'd like to see us do? tell us.Let's keep the conversation going. Happy discussing! 🌟",
+      "flair": [
+        "Daily Thread"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+    },
+    {
+      "title": "Typewriter sound program",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n85285/typewriter_sound_program/",
+      "score": 6,
+      "comments": 5,
+      "post_id": "t3_1n85285",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "Consistent-Hat-6032",
+      "author_id": "t2_wwia7ihjj",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-04T09:02:18.585000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n85285/typewriter_sound_program/",
+      "content_preview": "I love the sound of a typewriter. I like the mechanical sound but I don't like typing on mechanical keyboards. How would one go about writing a program that imitates the typewriter sound as I'm typing?",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+    },
+    {
+      "title": "Showcase: ecma426: Source Maps in Pure Python",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n84top/showcase_ecma426_source_maps_in_pure_python/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n84top",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "klaasvanschelven",
+      "author_id": "t2_1aj3h40s",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-04T08:46:38.645000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n84top/showcase_ecma426_source_maps_in_pure_python/",
+      "content_preview": "What My Project Doesecma426is a pure-Python implementation ofECMA-426: Source Maps. It decodes and encodes sourcemaps, including index maps withsections, and aims to stay close to the specification.Target AudienceAnyone working with JavaScript toolchains from Python. For example, build systems, bundlers, error trackers, or debugging tools that need to parse or emit sourcemaps. It’s intended for production use, not just experimentation.ComparisonMost Python sourcemap libraries are either unmaintained or only handle decoding.ecma426covers both directions (decode and encode) and supportssectionsas defined in the spec, while staying dependency-free.Usageimport ecma426, json\n\nsmap = ecma426.loads(json.load(open(\"app.min.js.map\")))\n\n# strict lookup (exact match only, raises KeyError if absent)\nm = smap[(10, 42)]\n\n# nearest-left lookup (devtools convention)\nm = smap.lookup_left(10, 42)\n\n# map back into the original text\nline = smap.raw[\"sourcesContent\"][0].splitlines()[m.original_line]\nprint(line)\nprint(\" \" * m.original_column + \"^ here\")Sourcehttps://github.com/bugsink/ecma426",
       "flair": [
         "Showcase"
       ],
       "thumbnail_url": ""
     },
     {
-      "title": "gen-dual: Python library for high-order partial derivatives with dual numbers",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n4v2zm/gendual_python_library_for_highorder_partial/",
-      "score": 15,
-      "comments": 0,
-      "post_id": "t3_1n4v2zm",
-      "post_type": "multi_media",
-      "domain": "self.Python",
-      "author": "PretendLead3104",
-      "author_id": "t2_1wtl04mt3g",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-08-31T13:43:57.685000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n4v2zm/gendual_python_library_for_highorder_partial/",
-      "content_preview": "",
-      "flair": [
-        "Showcase"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "I Built a tool that auto-syncs pre-commit hook versions with `uv.lock`",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n2gypa/i_built_a_tool_that_autosyncs_precommit_hook/",
-      "score": 102,
-      "comments": 23,
-      "post_id": "t3_1n2gypa",
-      "post_type": "multi_media",
-      "domain": "self.Python",
-      "author": "tsvikas",
-      "author_id": "t2_zkxbw",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-08-28T16:27:48.938000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n2gypa/i_built_a_tool_that_autosyncs_precommit_hook/",
-      "content_preview": "",
-      "flair": [
-        "Showcase"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "[ANN] tblkit — Swiss-army CLI for tabular data (CSV/TSV)",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n6aos0/ann_tblkit_swissarmy_cli_for_tabular_data_csvtsv/",
-      "score": 2,
-      "comments": 0,
-      "post_id": "t3_1n6aos0",
-      "post_type": "multi_media",
-      "domain": "self.Python",
-      "author": "Kooky_Fee_4423",
-      "author_id": "t2_1wxndjymth",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-09-02T04:58:43.903000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n6aos0/ann_tblkit_swissarmy_cli_for_tabular_data_csvtsv/",
-      "content_preview": "",
-      "flair": [
-        "Resource"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "Why Python's deepcopy() is surprisingly slow (and better alternatives)",
-      "permalink": "https://www.reddit.com/r/Python/comments/1mehrc0/why_pythons_deepcopy_is_surprisingly_slow_and/",
-      "score": 278,
-      "comments": 66,
-      "post_id": "t3_1mehrc0",
-      "post_type": "multi_media",
-      "domain": "self.Python",
-      "author": "ml_guy1",
-      "author_id": "t2_5qcxjns0",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-08-01T00:06:18.750000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1mehrc0/why_pythons_deepcopy_is_surprisingly_slow_and/",
-      "content_preview": "",
-      "flair": [
-        "Resource"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "I created a playground to my python UI framework DARS",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n69tas/i_created_a_playground_to_my_python_ui_framework/",
-      "score": 1,
-      "comments": 0,
-      "post_id": "t3_1n69tas",
+      "title": "Is it a good idea to teach students Python but using an old version?",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n658es/is_it_a_good_idea_to_teach_students_python_but/",
+      "score": 83,
+      "comments": 121,
+      "post_id": "t3_1n658es",
       "post_type": "text",
       "domain": "self.Python",
-      "author": "ZtaDev",
-      "author_id": "t2_1sdhvfjtgs",
+      "author": "frankieepurr",
+      "author_id": "t2_afsbf7l5",
       "subreddit_id": "t5_2qh0y",
       "subreddit": "r/Python",
-      "created_ts": "2025-09-02T04:08:34.367000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n69tas/i_created_a_playground_to_my_python_ui_framework/",
-      "content_preview": "",
+      "created_ts": "2025-09-02T00:21:40.004000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n658es/is_it_a_good_idea_to_teach_students_python_but/",
+      "content_preview": "EDIT: Talking about IDLE hereSorry if this is the wrong sub.When i went to high school (UK) in 2018, we had 3.4.2 (which at the time wasn't even the latest 3.4.x). In 2020 they upgraded to 3.7, but just days later downgraded back to 3.4.2. I asked IT manager why and they said its because of older students working on long projects. But doubt that was the reason because fast forward to 2023 the school still had 3.4.2 which was end of life.Moved to a college that same year that had 3.12, but this summer 2025, after computer upgrades to windows 11, we are now on 3.10 for some reason. I start a new year in college today so I'll be sure to ask the teacher.Are there any drawbacks to teaching using an old version? It will just be the basics and a project or 2",
       "flair": [
-        "Resource"
+        "Discussion"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_esmz94/styles/profileIcon_as0opipk7g9f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a62190cc5db9f6b365994ed344ed40248a956bc0"
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Removing a dependency - Major, Minor or Patch bump?",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n7pe37/removing_a_dependency_major_minor_or_patch_bump/",
+      "score": 24,
+      "comments": 23,
+      "post_id": "t3_1n7pe37",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "jcfitzpatrick12",
+      "author_id": "t2_1thf7ddzp7",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-03T20:05:24.087000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n7pe37/removing_a_dependency_major_minor_or_patch_bump/",
+      "content_preview": "I've been collaborating on anissueforSpectre, a Python program for recording radio spectrograms with software-defined radios. The motivation for the issue was to removeScipyas dependency from a Python package used by the program calledspectre-core.ThePRintroduced no changes from the perspective of the public API of the package. It just reimplemented the same functionality for our particular use case. However, we removed Scipy as a dependency since it was no longer required. Undersemantic versioning, would this constitute a major, minor or patch bump?I considered making this a major bump, since any consumer of the package relying on Scipy being a transitive dependency would see a breaking change. But since the Scipy functionality wasn't exposed publically, I didn't think this argument was strong enough and so opted for a minor bump. What would you do?",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ex7q7g/styles/profileIcon_eo4ukij2audf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d6caa16eb3f9d106982376a0baf28ea02502a887"
+    },
+    {
+      "title": "Airfoil Optimizer.",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n800hy/airfoil_optimizer/",
+      "score": 4,
+      "comments": 1,
+      "post_id": "t3_1n800hy",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "Turbulent-Start-4840",
+      "author_id": "t2_1ky2wf3wij",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-04T03:52:16.210000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n800hy/airfoil_optimizer/",
+      "content_preview": "Hey yall!So recently, for a personal plane project of mine, I developed FoilNet,https://github.com/AvnehSBhatia/FoilNetIt's an airfoil optimizer, as the title suggests. However, I am not too certain about these results that I'm getting from the optimizer.If anyone knows a good bit about Airfoils and think they can validate my results, please feel free to do so!Any comments or criticism is appreciated.Thanks!",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
     },
     {
       "title": "Kreuzberg v3.11: the ultimate Python text extraction library",
@@ -440,189 +671,9 @@
       "subreddit": "r/Python",
       "created_ts": "2025-08-10T08:02:07.705000+0000",
       "content_href": "https://www.reddit.com/r/Python/comments/1mmcufh/kreuzberg_v311_the_ultimate_python_text/",
-      "content_preview": "",
+      "content_preview": "Hi Peeps,I'm excited to share Kreuzberg v3.11, which has evolved significantly since the v3.1 release I shared here last time. We've been hard at work improving performance, adding features, and most importantly - benchmarking against competitors. You can seethe full benchmarks hereandthe changelog here.For those unfamiliar - Kreuzberg is a document intelligence framework that offers fast, lightweight, and highly performant CPU-based text extraction from virtually any document format.Major Improvements Since v3.1:Performance overhaul: 30-50% faster extraction based on deep profiling (v3.8)Document classification: AI-powered automatic document type detection - invoices, contracts, forms, etc. (v3.9)MCP server integration: Direct integration with Claude and other AI assistants (v3.7)PDF password support: Handle encrypted documents with the crypto extra (v3.10)Python 3.10+ optimizations: Match statements, dict merge operators for cleaner code (v3.11)CLI tool: Extract documents directly viauvx kreuzberg extractREST API: Dockerized API server for microservice architecturesLicense cleanup: Removed GPL dependencies for pure MIT compatibility (v3.5)Target AudienceThe library is ideal for developers building RAG (Retrieval-Augmented Generation) applications, document processing pipelines, or anyone needing reliable text extraction. It's particularly suited for:Teams needing local processing without cloud dependenciesServerless/containerized deployments (71MB footprint)Applications requiring both sync and async APIsMulti-language document processing workflowsComparisonBased on ourcomprehensive benchmarks, here's how Kreuzberg stacks up:Unstructured.io: More enterprise features but 4x slower (4.8 vs 32 files/sec), uses 4x more memory (1.3GB vs 360MB), and 2x larger install (146MB). Good if you need their specific format supports, which is the widest.Markitdown (Microsoft): Similar memory footprint but limited format support. Fast on supported formats (26 files/sec on tiny files) but unstable for larger files.Docling (IBM): Advanced ML understanding but extremely slow (0.26 files/sec) and heavy (1.7GB memory, 1GB+ install). Non viable for real production workloads with GPU acceleration.Extractous: Rust-based with decent performance (3-4 files/sec) and excellent memory stability. This is a viable CPU based alternative. It had limited format support and less mature ecosystem.Key differentiator: Kreuzberg is the only framework with 100% success rate in our benchmarks - zero timeouts or failures across all tested formats.Performance HighlightsFrameworkSpeed (files/sec)MemoryInstall SizeSuccess RateKreuzberg32360MB71MB100%Unstructured4.81.3GB146MB98.8%Markitdown26*360MB251MB98.2%Docling0.261.7GB1GB+98.5%You can see the codebase on GitHub:https://github.com/Goldziher/kreuzberg. If you find this library useful, please star it ⭐ - it really helps with motivation and visibility.We'd love to hear about your use cases and any feedback on the new features!",
       "flair": [
         "Showcase"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "IntentGraph – Open-source Python library for repo dependency graphs & clustering",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n4pitk/intentgraph_opensource_python_library_for_repo/",
-      "score": 18,
-      "comments": 2,
-      "post_id": "t3_1n4pitk",
-      "post_type": "multi_media",
-      "domain": "self.Python",
-      "author": "Raytracer",
-      "author_id": "t2_3568d",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-08-31T08:33:40.350000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n4pitk/intentgraph_opensource_python_library_for_repo/",
-      "content_preview": "",
-      "flair": [
-        "Showcase"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "My python mini project",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n4nhbk/my_python_mini_project/",
-      "score": 9,
-      "comments": 1,
-      "post_id": "t3_1n4nhbk",
-      "post_type": "text",
-      "domain": "self.Python",
-      "author": "esSdoem",
-      "author_id": "t2_19sd9oia8d",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-08-31T06:23:00.214000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n4nhbk/my_python_mini_project/",
-      "content_preview": "",
-      "flair": [
-        "Resource"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_ck9uee/styles/profileIcon_25sysvj8f3je1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8f7b34d5b301f9d07738f902e4d7e914a0d24c70"
-    },
-    {
-      "title": "SecBrowser: A simple visual interface for SEC Filings",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n4mipq/secbrowser_a_simple_visual_interface_for_sec/",
-      "score": 6,
-      "comments": 2,
-      "post_id": "t3_1n4mipq",
-      "post_type": "multi_media",
-      "domain": "self.Python",
-      "author": "status-code-200",
-      "author_id": "t2_11vrzr30h6",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-08-31T05:25:05.936000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n4mipq/secbrowser_a_simple_visual_interface_for_sec/",
-      "content_preview": "",
-      "flair": [
-        "Showcase"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Python type system",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n4hc9e/python_type_system/",
-      "score": 10,
-      "comments": 28,
-      "post_id": "t3_1n4hc9e",
-      "post_type": "multi_media",
-      "domain": "self.Python",
-      "author": "No_Blackberry_617",
-      "author_id": "t2_czz36orog",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-08-31T00:46:58.741000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n4hc9e/python_type_system/",
-      "content_preview": "",
-      "flair": [
-        "Resource"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Sunday Daily Thread: What's everyone working on this week?",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n4gdyj/sunday_daily_thread_whats_everyone_working_on/",
-      "score": 2,
-      "comments": 6,
-      "post_id": "t3_1n4gdyj",
-      "post_type": "text",
-      "domain": "self.Python",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-08-31T00:00:19.787000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n4gdyj/sunday_daily_thread_whats_everyone_working_on/",
-      "content_preview": "",
-      "flair": [
-        "Daily Thread"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Feedback on my daily python newsletter",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n3i9r3/feedback_on_my_daily_python_newsletter/",
-      "score": 6,
-      "comments": 0,
-      "post_id": "t3_1n3i9r3",
-      "post_type": "multi_media",
-      "domain": "self.Python",
-      "author": "freshly_brewed_ai",
-      "author_id": "t2_v9ixmtgt",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-08-29T20:26:06.768000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n3i9r3/feedback_on_my_daily_python_newsletter/",
-      "content_preview": "",
-      "flair": [
-        "Resource"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Prédire un match virtuel FIFA sur un bookmakers comme 1xbet",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n65ef0/prédire_un_match_virtuel_fifa_sur_un_bookmakers/",
-      "score": 0,
-      "comments": 1,
-      "post_id": "t3_1n65ef0",
-      "post_type": "text",
-      "domain": "self.Python",
-      "author": "Top-Hawk8095",
-      "author_id": "t2_1sxvb1cq7u",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-09-02T00:29:29.057000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n65ef0/pr%C3%A9dire_un_match_virtuel_fifa_sur_un_bookmakers/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Abstracting a script for general use",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n37c65/abstracting_a_script_for_general_use/",
-      "score": 7,
-      "comments": 7,
-      "post_id": "t3_1n37c65",
-      "post_type": "text",
-      "domain": "self.Python",
-      "author": "amosmj",
-      "author_id": "t2_66ogv",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-08-29T13:23:09.644000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n37c65/abstracting_a_script_for_general_use/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Can I get some feedback on the documentation of jsonyx?",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n32lxf/can_i_get_some_feedback_on_the_documentation_of/",
-      "score": 5,
-      "comments": 10,
-      "post_id": "t3_1n32lxf",
-      "post_type": "text",
-      "domain": "self.Python",
-      "author": "Ninteendo19d0",
-      "author_id": "t2_79t3jeqx",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-08-29T09:20:23.139000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n32lxf/can_i_get_some_feedback_on_the_documentation_of/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
       ],
       "thumbnail_url": ""
     },
@@ -640,71 +691,111 @@
       "subreddit": "r/Python",
       "created_ts": "2025-08-16T13:09:43.846000+0000",
       "content_href": "https://www.reddit.com/r/Python/comments/1mrutnf/knowing_a_little_c_goes_a_long_way_in_python/",
-      "content_preview": "",
+      "content_preview": "I've been branching out and learning some C while working on the latest release forSpectre. Specifically, I was migrating from a Python implementation of the short-time fast Fourier transform from Scipy, to a custom implementation using theFFTW C library(via the excellentpyfftw).What I thought was quite cool was that doing the implementation first in C went a long way when writing the same in Python. In each case,You fill up a buffer in memory with the values you want to transform.You tell FFTW to execute the DFT in-place on the buffer.You copy the DFT out of the buffer, into the spectrogram.Understanding what the memory model looked like in C, meant it could basically be lift-and-shifted into Python. For the curious (and critical, do have mercy - it's new to me), the core loop in C looks like (seehere on GitHub):for (size_t n = 0; n < num_spectrums; n++)\n    {\n        // Fill up the buffer, centering the window for the current frame.\n        for (size_t m = 0; m < window_size; m++)\n        {\n            signal_index = m - window_midpoint + hop * n;\n            if (signal_index >= 0 && signal_index < (int)signal->num_samples)\n            {\n                buffer->samples[m][0] =\n                    signal->samples[signal_index][0] * window->samples[m][0];\n                buffer->samples[m][1] =\n                    signal->samples[signal_index][1] * window->samples[m][1];\n            }\n            else\n            {\n                buffer->samples[m][0] = 0.0;\n                buffer->samples[m][1] = 0.0;\n            }\n        }\n\n        // Compute the DFT in-place, to produce the spectrum.\n        fftw_execute(p);\n\n        // Copy the spectrum out the buffer into the spectrogram.\n        memcpy(s.samples + n * window_size,\n               buffer->samples,\n               sizeof(fftw_complex) * window_size);\n    }The same loop in Python looks strikingly similar (seehere on GitHub):for n in range(num_spectrums):\n        # Center the window for the current frame\n        center = window_hop * n\n        start = center - window_size // 2\n        stop = start + window_size\n\n        # The window is fully inside the signal.\n        if start >= 0 and stop <= signal_size:\n            buffer[:] = signal[start:stop] * window\n\n        # The window partially overlaps with the signal.\n        else:\n            # Zero the buffer and apply the window only to valid signal samples\n            signal_indices = np.arange(start, stop)\n            valid_mask = (signal_indices >= 0) & (signal_indices < signal_size)\n            buffer[:] = 0.0\n            buffer[valid_mask] = signal[signal_indices[valid_mask]] * window[valid_mask]\n\n        # Compute the DFT in-place, to produce the spectrum.\n        fftw_obj.execute()\n\n        // Copy the spectrum out the buffer into the spectrogram.\n        dynamic_spectra[:, n] = np.abs(buffer)",
       "flair": [
         "Discussion"
       ],
       "thumbnail_url": "https://styles.redditmedia.com/t5_ex7q7g/styles/profileIcon_eo4ukij2audf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d6caa16eb3f9d106982376a0baf28ea02502a887"
     },
     {
-      "title": "Phicode Runtime Engine (Open-Source)",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n36mcu/phicode_runtime_engine_opensource/",
-      "score": 2,
-      "comments": 1,
-      "post_id": "t3_1n36mcu",
+      "title": "Notes for Python",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n8lp06/notes_for_python/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1n8lp06",
       "post_type": "multi_media",
       "domain": "self.Python",
-      "author": "InternationalBoat727",
-      "author_id": "t2_vcgrdfpl7",
+      "author": "Trustycoat",
+      "author_id": "t2_1a0v7yn8dm",
       "subreddit_id": "t5_2qh0y",
       "subreddit": "r/Python",
-      "created_ts": "2025-08-29T12:52:43.965000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n36mcu/phicode_runtime_engine_opensource/",
-      "content_preview": "",
+      "created_ts": "2025-09-04T20:45:49.975000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n8lp06/notes_for_python/",
+      "content_preview": "I have completed the course for Python and now want to have a complete notes. I made my notes but it’s lost now. A complete structured note would be very helpful. Here’s the course that I did:- 100 days of python by code with harryhttps://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&si=8P7E4j1RuSqOiVRI",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "I built my own torch in the last two weeks!",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n40rht/i_built_my_own_torch_in_the_last_two_weeks/",
+      "score": 58,
+      "comments": 13,
+      "post_id": "t3_1n40rht",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "tigert1998",
+      "author_id": "t2_1d5fiym8",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-30T12:46:54.303000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n40rht/i_built_my_own_torch_in_the_last_two_weeks/",
+      "content_preview": "What my project does:In the last two weeks, I have been working on building my own toy project: a deep learning training framework. It is named \"mytorch\". It was written from scratch except that I use cublaslt for high performance matmul operations. Now it can do most of the pytorch stuff:- cuda support for forward/backward operators in CNN MNIST training and evaluations, such as, BN, Conv, Linear, many elementwise ops, many reduce ops, many essential ops;- SGD optimizer;- Load/save state dict for module/optimizer- Dataset/DataLoader- Autograd system: topsort for backward.Target Audience:It is a toy project for education.Comparison with other products:In terms of results, when training MNIST for 3 epochs in my 4060 laptop, PyTorch takes 33 seconds while \"mytorch\" takes 41 seconds which is just 25% slower. PyTorch is a highly optimized framework for production. But my project is for fun and for learning more about cuda programming/autograd system.Please leave a star on my git repo or leave a comment below if you are interested. Thanks so much!s://github.com/tigert1998/mytorch/tree/main",
       "flair": [
         "Showcase"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": ""
     },
     {
-      "title": "Friday Daily Thread: r/Python Meta and Free-Talk Fridays",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n2sexh/friday_daily_thread_rpython_meta_and_freetalk/",
-      "score": 3,
-      "comments": 1,
-      "post_id": "t3_1n2sexh",
+      "title": "Why does ProcessPoolExecutor mark some tasks as \"running\" even though all workers are busy?",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n7sr1x/why_does_processpoolexecutor_mark_some_tasks_as/",
+      "score": 10,
+      "comments": 6,
+      "post_id": "t3_1n7sr1x",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "Ordinary_Run_2513",
+      "author_id": "t2_b95a7eew",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-03T22:16:26.898000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n7sr1x/why_does_processpoolexecutor_mark_some_tasks_as/",
+      "content_preview": "I’m using Python’sProcessPoolExecutorto run a bunch of tasks. Something I noticed is that some tasks are marked asrunningeven though all the workers are already working on other tasks.From my understanding, a task should only switch frompendingtorunningonce a worker actually starts executing it. But in my case, it seems like the executor marks extra tasks as running before they’re really picked up.Is this normal behavior ofProcessPoolExecutor? Or am I missing something about how it manages its internal task queue?",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Thursday Daily Thread: Python Careers, Courses, and Furthering Education!",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n7v62y/thursday_daily_thread_python_careers_courses_and/",
+      "score": 5,
+      "comments": 0,
+      "post_id": "t3_1n7v62y",
       "post_type": "text",
       "domain": "self.Python",
       "author": "AutoModerator",
       "author_id": "t2_6l4z3",
       "subreddit_id": "t5_2qh0y",
       "subreddit": "r/Python",
-      "created_ts": "2025-08-29T00:00:55.193000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n2sexh/friday_daily_thread_rpython_meta_and_freetalk/",
-      "content_preview": "",
+      "created_ts": "2025-09-04T00:00:34.181000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n7v62y/thursday_daily_thread_python_careers_courses_and/",
+      "content_preview": "Weekly Thread: Professional Use, Jobs, and Education 🏢Welcome to this week's discussion on Python in the professional world! This is your spot to talk about job hunting, career growth, and educational resources in Python. Please note, this thread isnot for recruitment.How it Works:Career Talk: Discuss using Python in your job, or the job market for Python roles.Education Q&A: Ask or answer questions about Python courses, certifications, and educational resources.Workplace Chat: Share your experiences, challenges, or success stories about using Python professionally.Guidelines:This thread isnot for recruitment. For job postings, please seer/PythonJobsor the recruitment thread in the sidebar.Keep discussions relevant to Python in the professional and educational context.Example Topics:Career Paths: What kinds of roles are out there for Python developers?Certifications: Are Python certifications worth it?Course Recommendations: Any good advanced Python courses to recommend?Workplace Tools: What Python libraries are indispensable in your professional work?Interview Tips: What types of Python questions are commonly asked in interviews?Let's help each other grow in our careers and education. Happy discussing! 🌟",
       "flair": [
         "Daily Thread"
       ],
       "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
     },
     {
-      "title": "Forget metaclasses; Python’s `__init_subclass__` is all you really need",
-      "permalink": "https://www.reddit.com/r/Python/comments/1mevs3i/forget_metaclasses_pythons_init_subclass_is_all/",
-      "score": 244,
-      "comments": 60,
-      "post_id": "t3_1mevs3i",
-      "post_type": "text",
+      "title": "Streamledge - Launch YouTube and Twitch Videos in a Minimal Browser Window",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n7neyq/streamledge_launch_youtube_and_twitch_videos_in_a/",
+      "score": 5,
+      "comments": 0,
+      "post_id": "t3_1n7neyq",
+      "post_type": "multi_media",
       "domain": "self.Python",
-      "author": "Extension-Ad8670",
-      "author_id": "t2_1ujnutr3ru",
+      "author": "Blasman13",
+      "author_id": "t2_ysw95",
       "subreddit_id": "t5_2qh0y",
       "subreddit": "r/Python",
-      "created_ts": "2025-08-01T12:56:57.960000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1mevs3i/forget_metaclasses_pythons_init_subclass_is_all/",
-      "content_preview": "",
+      "created_ts": "2025-09-03T18:51:08.378000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n7neyq/streamledge_launch_youtube_and_twitch_videos_in_a/",
+      "content_preview": "Streamledge is a command-line tool for playing YouTube andTwitch.tvvideos.",
       "flair": [
-        "Discussion"
+        "Showcase"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
     },
     {
       "title": "What packages should intermediate Devs know like the back of their hand?",
@@ -720,31 +811,11 @@
       "subreddit": "r/Python",
       "created_ts": "2025-08-07T17:07:59.512000+0000",
       "content_href": "https://www.reddit.com/r/Python/comments/1mk5sk8/what_packages_should_intermediate_devs_know_like/",
-      "content_preview": "",
+      "content_preview": "Of course it's highly dependent on why you use python. But I would argue there are essentials that apply for almost all types of Devs including requests, typing, os, etc.Very curious to know what other packages are worth experimenting with and committing to memory",
       "flair": [
         "Discussion"
       ],
       "thumbnail_url": "https://styles.redditmedia.com/t5_55vugr/styles/profileIcon_q9n5ac5edwma1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5b588ecaad2acc79f469e8b433755513de06b896"
-    },
-    {
-      "title": "Job application requirement",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n5yppn/job_application_requirement/",
-      "score": 0,
-      "comments": 2,
-      "post_id": "t3_1n5yppn",
-      "post_type": "text",
-      "domain": "self.Python",
-      "author": "Royal-Bug-5025",
-      "author_id": "t2_7pv29o7g",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-09-01T19:46:23.738000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n5yppn/job_application_requirement/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_2zrq83/styles/profileIcon_u3vkqbvt1uj91.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3ed2c23e2cc91b957408b3114442026d74f59234"
     },
     {
       "title": "PEP 802 – Display Syntax for the Empty Set",
@@ -760,31 +831,111 @@
       "subreddit": "r/Python",
       "created_ts": "2025-08-12T00:36:16.178000+0000",
       "content_href": "https://www.reddit.com/r/Python/comments/1mnuan1/pep_802_display_syntax_for_the_empty_set/",
-      "content_preview": "",
+      "content_preview": "We propose a new notation,{/}, to construct and represent the empty set. This is modelled after the corresponding mathematical symbol ‘∅’.",
       "flair": [
         "News"
       ],
       "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
     },
     {
-      "title": "PySimpleGUI Hobbyist License Canceled",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n4ilwx/pysimplegui_hobbyist_license_canceled/",
-      "score": 87,
-      "comments": 56,
-      "post_id": "t3_1n4ilwx",
-      "post_type": "text",
+      "title": "Python for impatient people - Basics in 10 minutes",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n7qs6r/python_for_impatient_people_basics_in_10_minutes/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n7qs6r",
+      "post_type": "multi_media",
       "domain": "self.Python",
-      "author": "teslah3",
-      "author_id": "t2_l1uek2wbl",
+      "author": "Priler96",
+      "author_id": "t2_3f6mwzcl",
       "subreddit_id": "t5_2qh0y",
       "subreddit": "r/Python",
-      "created_ts": "2025-08-31T01:50:49.768000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n4ilwx/pysimplegui_hobbyist_license_canceled/",
-      "content_preview": "",
+      "created_ts": "2025-09-03T20:57:56.298000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n7qs6r/python_for_impatient_people_basics_in_10_minutes/",
+      "content_preview": "Hey everyone,I just uploaded a short and beginner-friendlyPython tutorialon YouTube where I explain the core concepts in only 10 minutes. Perfect if you're just starting out or need a quick refresher.👉Watch it here on YouTubeI kept it simple, practical, and straight to the point - no fluff, just code and examples.Would love your feedback on whether you'd like to see more quick lessons like this!Thanks!",
+      "flair": [
+        "Tutorial"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Django vs FastAPI for SaaS with heavy transactions + AI integrations?",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n54kbx/django_vs_fastapi_for_saas_with_heavy/",
+      "score": 48,
+      "comments": 42,
+      "post_id": "t3_1n54kbx",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "RPSpayments",
+      "author_id": "t2_100tmax1kd",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-31T20:03:48.391000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n54kbx/django_vs_fastapi_for_saas_with_heavy/",
+      "content_preview": "I’m building a SaaS that processes lots of transactions, handles AI-driven communications, and integrates with multiple external APIs.Would you start with Django for quick ramp up or FastAPI for long-term flexibility? Is Django feasible for my use case? While FastAPI seems to be better due to async, my lack of experience with prod grade DB management makes Django seem good too, due to things such as automated migrations and the in built ORM. Current setup is FastAPI + SQLAlchemy and Alembic.Anyone successfully combine them, Django for the monolith, FastAPI for specific endpoints?",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "What are your tips to find the newest libraries/tools?",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n39ov5/what_are_your_tips_to_find_the_newest/",
+      "score": 43,
+      "comments": 19,
+      "post_id": "t3_1n39ov5",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "n1k0h1k0",
+      "author_id": "t2_soqhf",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-29T14:57:17.680000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n39ov5/what_are_your_tips_to_find_the_newest/",
+      "content_preview": "The question is more for your intended use case, but it still stands for improvements I might not even know that I wanted.I've tried looking through my favorite libraries for documentation updates, listening to podcasts and watching Youtube videos, etc.",
       "flair": [
         "Discussion"
       ],
       "thumbnail_url": ""
+    },
+    {
+      "title": "pd.col: Expressions are coming to pandas",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n26zm9/pdcol_expressions_are_coming_to_pandas/",
+      "score": 190,
+      "comments": 83,
+      "post_id": "t3_1n26zm9",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "marcogorelli",
+      "author_id": "t2_sidsyck1",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-28T08:49:19.086000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n26zm9/pdcol_expressions_are_coming_to_pandas/",
+      "content_preview": "In pandas 3.0, the following syntax will be valid:",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+    },
+    {
+      "title": "PyLine Update - terminal based text editor (Linux, WSL, MacOS) (New Feats)",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n6v3tl/pyline_update_terminal_based_text_editor_linux/",
+      "score": 36,
+      "comments": 3,
+      "post_id": "t3_1n6v3tl",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "Xgf_01",
+      "author_id": "t2_jeplcyt6",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-02T20:46:35.396000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n6v3tl/pyline_update_terminal_based_text_editor_linux/",
+      "content_preview": "Hello, this is a hobby project I coded entirely in Python 3 , created longer time ago. But came back to it this spring. Now updated with new functionality and better code structure currently at v0.9.7.Source at -PyLine GitHub repo(you can see screenshots in readme)What My Project Does:It is CLI text editor with:- function like wc - cw - counts chars, words and lines- open / create / truncate file- exec mode that is like file browser and work with directories- scroll-able text-buffer, currently set to 52 lines- supports all clipboards for GUI: X11,Wayland, win32yank for WSL and pbpaste for MacOS- multiple lines selection copy/paste/overwrite and delete- edit history implemented via LIFO - Last In First Out (limit set to 120)- highlighting of .py syntax (temporary tho, will find the better way)- comes with proper install scriptNew features:- Support of args <filename>, -i/--info and -h/--help- Modular hooks system with priority, runtime enable/disable, cross-language support (Python, Perl, Bash, Ruby, Lua, Node.js, PHP)- Hook manager UI (list, enable/disable, reload hooks, show info)- BufferManager, NavigationManager, SelectionManager, PasteBuffer, UndoManager all refactored for composition and extensibility (micro-kernel like architecture)- Hook-enabled file loading/saving, multi-language event handlers- Enhanced config and state management (per-user config dir)- Improved argument parsing and info screensIt also comes with prepackaged hooks like smart tab indent.The editor is using built-in to the terminal foreground/background but I plan to implement themes and config.ini alongside search / replace feature.Target Audience:Basically anyone with Linux, WSL or other Unix-like OS. Nothing complicated to use.(I know it's not too much.. I don't have any degree in CS or IT engineering or so, just passion)",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
     },
     {
       "title": "I created this polygon screenshot tool for myself, I must say it may be useful to others!",
@@ -800,212 +951,292 @@
       "subreddit": "r/Python",
       "created_ts": "2025-08-25T17:44:18.821000+0000",
       "content_href": "https://www.reddit.com/r/Python/comments/1mzxbia/i_created_this_polygon_screenshot_tool_for_myself/",
-      "content_preview": "",
+      "content_preview": "What My Project Does -Take a screenshot by drawing a precise polygon rather than being limited to a rectangular or manual free-form shapeTarget Audience -Meant forproduction (For me, my professor just give notes pdf with everything jumbled together so I wanted to keep them organized, obviously on my note by taking screenshots of them)Comparison -I am a windows user, neither does windows provide default polygon screenshot tool nor are they available on anywhere else on internetYou can check it out on github:https://github.com/sultanate-sultan/polygon-screenshot-toolYou can find the demo video on my github repo page",
       "flair": [
         "Showcase"
       ],
       "thumbnail_url": ""
     },
     {
-      "title": "Monday Daily Thread: Project ideas!",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n59zyk/monday_daily_thread_project_ideas/",
-      "score": 2,
+      "title": "Just built: pydantic-gsheets to bring Google Sheets and Pydantic together",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n4rahf/just_built_pydanticgsheets_to_bring_google_sheets/",
+      "score": 34,
       "comments": 0,
-      "post_id": "t3_1n59zyk",
+      "post_id": "t3_1n4rahf",
       "post_type": "multi_media",
       "domain": "self.Python",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
+      "author": "YoussefBenhammouda",
+      "author_id": "t2_dynbhr9yj",
       "subreddit_id": "t5_2qh0y",
       "subreddit": "r/Python",
-      "created_ts": "2025-09-01T00:00:32.235000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n59zyk/monday_daily_thread_project_ideas/",
-      "content_preview": "",
+      "created_ts": "2025-08-31T10:27:49.528000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n4rahf/just_built_pydanticgsheets_to_bring_google_sheets/",
+      "content_preview": "Hey everyone,I have developed a small experimental package calledpydantic-gsheets.What My Project Doespydantic-gsheetsis a small experimental package that lets you read and write Google Sheets data in Python using nothing but Pydantic models. Define a BaseModel, and you can validate, parse, and sync data with Sheets without extra boilerplate.Target AudienceIt’s meant for quick prototypes, small projects, or teams that love using Google Sheets but want type safety when bringing that data into Python. At this stage it’s stillexperimental, so not yet recommended for production — but great for tinkering, demos, or internal tools.ComparisonThere are other ways to connect Python to Google Sheets (e.g., gspread, pygsheets), but they typically give you raw dicts or lists that you then have to validate manually. The difference here is that pydantic-gsheets plugs directly intoPydantic BaseModels, so your schema, validation, and type coercion happen automatically. You don’t have to write glue code.LinksLinks if you want to peek:* Blog: [Exploring pydantic-gsheets](https://youssef.benhammouda.ma/blog/pydantic-gsheets)* Docs: [pydantic-gsheets documentation](https://youssefbenhammouda.github.io/pydantic-gsheets/)* GitHub: [pydantic-gsheets repo](https://github.com/Youssefbenhammouda/pydantic-gsheets)Would love to hear thoughts or ideas if you try it out 🙂PS: If you find it useful and want to use it, please know it’s stillexperimental. That also means collaborators arevery welcome,whether it’s testing, bug reports, or PRs.",
       "flair": [
-        "Daily Thread"
+        "Showcase"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
     },
     {
-      "title": "How is Python 4 ever going to reach critical mass once everyone is using AI to write code?",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n5229t/how_is_python_4_ever_going_to_reach_critical_mass/",
-      "score": 0,
-      "comments": 58,
-      "post_id": "t3_1n5229t",
-      "post_type": "text",
-      "domain": "self.Python",
-      "author": "big_like_a_pickle",
-      "author_id": "t2_7suvt",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-08-31T18:24:10.116000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n5229t/how_is_python_4_ever_going_to_reach_critical_mass/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "[Project] Weekend project: System Monitor in Python with PyQt5",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n03s8h/project_weekend_project_system_monitor_in_python/",
-      "score": 9,
-      "comments": 2,
-      "post_id": "t3_1n03s8h",
+      "title": "DINOv3-CLIP Adapter",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n7ibkk/dinov3clip_adapter/",
+      "score": 4,
+      "comments": 4,
+      "post_id": "t3_1n7ibkk",
       "post_type": "multi_media",
       "domain": "self.Python",
-      "author": "Apprehensive_Sea_302",
-      "author_id": "t2_mpwt5wav",
+      "author": "papersashimi",
+      "author_id": "t2_618pjzkm",
       "subreddit_id": "t5_2qh0y",
       "subreddit": "r/Python",
-      "created_ts": "2025-08-25T21:48:31.839000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n03s8h/project_weekend_project_system_monitor_in_python/",
-      "content_preview": "",
+      "created_ts": "2025-09-03T15:44:11.778000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n7ibkk/dinov3clip_adapter/",
+      "content_preview": "Created a tiny adapter that connects DINOv3's image encoder to CLIP's text space.Essentially, DINOv3 has better vision than CLIP, but no text capabilities. This lets you use dinov3 for images and CLIP for text prompts. This is still v1 so the next stages will be mentioned down below.Target Audience:ML engineers who want zero-shot image search without training massive modelsWorks for zero shot image search/labeling. Way smaller than full CLIP. Performance is definitely lower because it wasnt trained on image-text pairs.Next steps: May do image-text pair training. Definitely adding a segmentation or OD head. Better calibration and prompt templatesCode and more info can be found here:https://github.com/duriantaco/dinov3clipIf you'll like to colab or whatever do ping me here or drop me an email.",
       "flair": [
-        "Resource"
+        "Showcase"
       ],
       "thumbnail_url": ""
     },
     {
-      "title": "Learning bots with python",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n00eqa/learning_bots_with_python/",
-      "score": 3,
-      "comments": 8,
-      "post_id": "t3_1n00eqa",
-      "post_type": "text",
+      "title": "I built a CLI tool for database migration",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n6jfon/i_built_a_cli_tool_for_database_migration/",
+      "score": 4,
+      "comments": 2,
+      "post_id": "t3_1n6jfon",
+      "post_type": "multi_media",
       "domain": "self.Python",
-      "author": "Ok_Presentation9879",
-      "author_id": "t2_e5268e5r",
+      "author": "s_basu",
+      "author_id": "t2_108f9l",
       "subreddit_id": "t5_2qh0y",
       "subreddit": "r/Python",
-      "created_ts": "2025-08-25T19:39:49.936000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n00eqa/learning_bots_with_python/",
-      "content_preview": "",
+      "created_ts": "2025-09-02T13:26:45.887000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n6jfon/i_built_a_cli_tool_for_database_migration/",
+      "content_preview": "What My Project DoesWandern is a CLI tool similar to alembic or django migrations to manage and apply SQL migrations, currently supporting sqlite and postgresql.It  keeps track of the sequence of migrations applied and allows specifying additional migration metadata such as author name, tags to filter migrations. You can generate empty migrations and write the SQL yourself, or use the prompting feature (requires additional dependency and LLM API key) to let the agent generate the migration. The agent support is added using pydantic-ai, and can generate revisions based on previous migration file contexts.It is very lightweight, only supporting sqlite out-of-box, needing to install additional dependency for postgresql or agents.Target AudienceI primarily intended to built this to use myself, partly because I wanted to get away from the bulky setup that comes with alembic or sqlalchemy for smaller projects. So this is for anyone who prefers to write their own SQL statements, and those who want to have versioned migration without the added overhead of the sqlalchemy ecosystem, and with a nicer TUI and support for AI agents,ComparisonWandern is meant to be a minimal and configurable CLI alternative to existing tools like Alembic or Django migrations for smaller or more barebone projects. I thought adding agents would be a cool addition as well so there's that.You can find it on Github here:https://github.com/s-bose/wandernOr download from Pypi:https://pypi.org/project/wandern/",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "Adding asyncio.sleep(0) made my data pipeline (150 ms) not spike to (5500 ms)",
+      "permalink": "https://www.reddit.com/r/Python/comments/1mzcxyc/adding_asynciosleep0_made_my_data_pipeline_150_ms/",
+      "score": 172,
+      "comments": 39,
+      "post_id": "t3_1mzcxyc",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "Chuyito",
+      "author_id": "t2_4oo4p",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-25T01:00:45.898000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1mzcxyc/adding_asynciosleep0_made_my_data_pipeline_150_ms/",
+      "content_preview": "I've been rolling out the oddest fix across my async code today, and its one of those that feels dirty to say the least.Data pipeline has 2 long running asyncio.gather() tasks:1 reads 6k rows over websocket every 100ms and stores them to a global dict of dicts2 ETLs a deepcopy of the dicts and dumps it to a DB.After ~30sec of running, this job gets insanely slow.04:42:01 PM Processed 6745 async_run_batch_insert in 159.8427 ms\n04:42:02 PM Processed 6711 async_run_batch_insert in 162.3137 ms\n...\n04:42:09 PM Processed 6712 async_run_batch_insert in 5489.2745 msUp to 5k rows, this job was happily running for months. Once I scaled it up beyond 5k rows, it hit this random slowdown.Adding an `asyncio.sleep(0)` at the end of my function completely got rid of the \"slow\" runs and its consistently 150-160ms for days with the full 6700 rows. Pseudocode:async def etl_to_db():\n  # grab a deepcopy of the global msg cache\n  # etl it\n  # await dump_to_db(etl_msg)\n  await asyncio.sleep(0)  # <-- This \"fixed it\"\n\n\nasync def dump_books_to_db():\n  while True:\n    # Logic to check the ws is connected\n    await etl_to_db()\n    await asyncio.sleep(0.1)\n\nawait asyncio.gather(\n  dump_books_to_db(),\n  sub_websocket()\n )I believe the sleep yields control back to the GIL? Both gpt and grok were a bit useless in debugging this, and kept trying to approach it from the database schema being the reason for the slowdown.Given we're in 2025 and python 3.11, this feels insanely hacky... but it works. am I missing something",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": ""
     },
     {
-      "title": "[R] Advanced Conformal Prediction – A Complete Resource from First Principles to Real-World",
-      "permalink": "https://www.reddit.com/r/Python/comments/1mzmaj1/r_advanced_conformal_prediction_a_complete/",
-      "score": 16,
-      "comments": 13,
-      "post_id": "t3_1mzmaj1",
-      "post_type": "text",
-      "domain": "self.Python",
-      "author": "predict_addict",
-      "author_id": "t2_i1v4jkg4",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-08-25T09:58:28.202000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1mzmaj1/r_advanced_conformal_prediction_a_complete/",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_68jup3/styles/profileIcon_nxvjhyts09u81.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=72571d97f2c1e88d4cac7bad355d4e9f9c8b2ea2"
-    },
-    {
-      "title": "I built a Python Prisoner's Dilemma Simulator",
-      "permalink": "https://www.reddit.com/r/Python/comments/1mzbj8n/i_built_a_python_prisoners_dilemma_simulator/",
-      "score": 20,
-      "comments": 8,
-      "post_id": "t3_1mzbj8n",
+      "title": "[ANN] tblkit — Swiss-army CLI for tabular data (CSV/TSV)",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n6aos0/ann_tblkit_swissarmy_cli_for_tabular_data_csvtsv/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1n6aos0",
       "post_type": "multi_media",
       "domain": "self.Python",
-      "author": "jaaberg1981",
-      "author_id": "t2_dvovy",
+      "author": "Kooky_Fee_4423",
+      "author_id": "t2_1wxndjymth",
       "subreddit_id": "t5_2qh0y",
       "subreddit": "r/Python",
-      "created_ts": "2025-08-24T23:55:07.681000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1mzbj8n/i_built_a_python_prisoners_dilemma_simulator/",
-      "content_preview": "",
+      "created_ts": "2025-09-02T04:58:43.903000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n6aos0/ann_tblkit_swissarmy_cli_for_tabular_data_csvtsv/",
+      "content_preview": "A small, fast command-line tool for the table chores between raw files and a notebook—clean/rename, robust column selects, filter/unique, exact & fuzzy joins, numeric/date-aware sort, group/aggregate, pivot/melt, pretty view. Plays nicely with pipes.Designed for data scientists preparing analysis-ready tables quickly.pip install git+https://github.com/nbatada/tblkitRepo & README:https://github.com/nbatada/tblkitAvailable commands aretblkit --commands\ntblkit\n├── col                         (Column operations)\n│   ├── add                     (Add a new column)\n│   ├── clean                   (Normalize string values in selected columns.)\n│   ├── drop                    (Drop columns by name/glob/position/regex)\n│   ├── extract                 (Extract regex groups into new columns.)\n│   ├── join                    (Join values from multiple columns into a new column.)\n│   ├── move                    (Reorder columns by moving a selection.)\n│   ├── rename                  (Rename column(s) via map string)\n│   ├── replace                 (Value replacement in selected columns.)\n│   ├── split                   (Split a column by pattern into multiple columns)\n│   ├── strip                   (Trim/squeeze whitespace; optional substring/fixed-count strip.)\n│   └── subset                  (Select a subset of columns by name/glob/position/regex)\n├── header                      (Header operations)\n│   ├── add                     (Add a generated header to a headerless file.)\n│   ├── add-prefix              (Add a fixed prefix to columns.)\n│   ├── add-suffix              (Add a fixed suffix to columns.)\n│   ├── clean                   (Normalize all column names (deprecated; use: tbl clean))\n│   ├── prefix-num              (Prefix headers with 1_, 2_, ... (or custom fmt).)\n│   ├── rename                  (Rename headers via map string or file)\n│   └── view                    (View header column names)\n├── row                         (Row operations)\n│   ├── add                     (Add a row with specified values.)\n│   ├── drop                    (Drop rows by 1-based index.)\n│   ├── grep                    (Filter rows by a list of words or phrases.)\n│   ├── head                    (Select first N rows)\n│   ├── sample                  (Randomly sample rows)\n│   ├── shuffle                 (Randomly shuffle all rows.)\n│   ├── subset                  (Select a subset of rows using a query expression)\n│   ├── tail                    (Select last N rows)\n│   └── unique                  (Filter unique or duplicate rows)\n├── sort                        (Sort rows or columns)\n│   ├── cols                    (Sort columns by their names)\n│   └── rows                    (Sort rows by column values)\n├── tbl                         (Whole-table operations)\n│   ├── aggregate               (Group and aggregate numeric columns.)\n│   ├── clean                   (Clean headers and string values throughout the table.)\n│   ├── collapse                (Group rows and collapse column values into delimited strings.)\n│   ├── concat                  (Concatenate tables vertically.)\n│   ├── frequency               (Show top N values per column.)\n│   ├── join                    (Relational join between two tables.)\n│   ├── melt                    (Melt table to long format.)\n│   ├── pivot                   (Pivot wider.)\n│   ├── sort                    (Sort rows by column values (alias for 'sort rows').)\n│   └── transpose               (Transpose the table.)\n└── view                        (Pretty-print a table (ASCII, non-folding).)Why shell scripters may want itHandles CSV edge cases (quotes, commas, encodings) better than ad-hoc sed/awk/join.Column- and type-aware operations reduce brittle regex and indexing hacks.One focused tool instead of long chains; easier to read, test, and reuse in scripts or Makefiles.Why notebook/one-off Python users may want itFaster first mile: prepare tidy inputs before opening a notebook.Less boilerplate than short pandas scripts; declarative commands you can paste into CI.Consistent results across machines; easy to share as a single CLI pipeline.Feedback, bug reports, and contributions are very welcome.",
+      "flair": [
+        "Resource"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "A declarative fake data generator for sqlalchemy ORM",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n2h87o/a_declarative_fake_data_generator_for_sqlalchemy/",
+      "score": 14,
+      "comments": 5,
+      "post_id": "t3_1n2h87o",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "francoisnt",
+      "author_id": "t2_3e9c3fsw",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-28T16:37:49.138000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n2h87o/a_declarative_fake_data_generator_for_sqlalchemy/",
+      "content_preview": "SeedLayer: Declarative Fake Data for SQLAlchemy ORMWhat My Project DoesSeedLayer is a Python library that simplifies generating realistic fake data for SQLAlchemy ORM models. It allows you to define seeding behavior directly in model definitions using a declarative approach, respecting primary key (PK), foreign key (FK), and unique constraints. By leveraging theFakerlibrary, it generates data for testing, development, and demo environments, automatically handling model and inter-column dependencies. The example below shows a schema with related tables (Category,Product,Customer,Order,OrderItem) to demonstrate FK relationships, a link table, and inter-column dependencies.Example:from sqlalchemy import create_engine, Integer, String, Text, ForeignKey\nfrom sqlalchemy.orm import DeclarativeBase, Session\nfrom seedlayer import SeedLayer, SeededColumn, Seed, ColumnReference\n\nclass Base(DeclarativeBase):\n    pass\n\nclass Category(Base):\n    __tablename__ = \"categories\"\n    id = SeededColumn(Integer, primary_key=True, autoincrement=True)\n    name = SeededColumn(String, seed=\"word\")\n\nclass Product(Base):\n    __tablename__ = \"products\"\n    id = SeededColumn(Integer, primary_key=True, autoincrement=True)\n    name = SeededColumn(String, seed=\"word\")\n    description = SeededColumn(\n        Text,\n        seed=Seed(\n            faker_provider=\"sentence\",\n            faker_kwargs={\"nb_words\": ColumnReference(\"name\", transform=lambda x: len(x.split()) + 5)}\n        )\n    )\n    category_id = SeededColumn(Integer, ForeignKey(\"categories.id\"))\n\nclass Customer(Base):\n    __tablename__ = \"customers\"\n    id = SeededColumn(Integer, primary_key=True, autoincrement=True)\n    name = SeededColumn(String, seed=\"name\", unique=True)\n\nclass Order(Base):\n    __tablename__ = \"orders\"\n    id = SeededColumn(Integer, primary_key=True, autoincrement=True)\n    customer_id = SeededColumn(Integer, ForeignKey(\"customers.id\"))\n\nclass OrderItem(Base):\n    __tablename__ = \"order_items\"\n    order_id = SeededColumn(Integer, ForeignKey(\"orders.id\"), primary_key=True)\n    product_id = SeededColumn(Integer, ForeignKey(\"products.id\"), primary_key=True)\n\nengine = create_engine(\"sqlite:///:memory:\")\nBase.metadata.create_all(engine)\nseed_plan = {\n    Category: 5,\n    Product: 10,\n    Customer: 8,\n    Order: 15,\n    OrderItem: 20\n}\nwith Session(engine) as session:\n    seeder = SeedLayer(session, seed_plan)\n    seeder.seed()  # Seeds related tables with realistic dataThis example creates a schema where:CategoryandCustomerhave simple attributes with fake data.Producthas an FK toCategoryand adescriptionthat depends onnameviaColumnReference.Orderhas an FK toCustomer.OrderItemis a link table connectingOrderandProduct.Check out theGitHub repositoryfor more details and installation instructions.Target AudienceSeedLayer is designed for Python developers using SQLAlchemy ORM, particularly those working on:Testing: Generate realistic test data for unit tests, integration tests, or CI/CD pipelines.Development: Populate local databases for prototyping or debugging.Demos: Create demo data for showcasing applications (e.g., Flask, FastAPI, or Django apps using SQLAlchemy).Learning: Help beginners explore SQLAlchemy by quickly seeding models with data.It’s suitable for both production-grade testing setups and educational projects, especially for developers familiar with SQLAlchemy who want a streamlined way to generate fake data without manual scripting.ComparisonUnlike existing alternatives, SeedLayer emphasizes adeclarativeapproach integrated with SQLAlchemy’s ORM:Manual Faker Usage: UsingFakerdirectly requires writing custom scripts to generate and insert data, manually handling constraints like FKs and uniqueness. SeedLayer automates this, respecting model relationships and constraints out of the box.factory_boy: A popular library for creating test fixtures,factory_boyis great for Python ORMs but requires defining separate factory classes. SeedLayer embeds seeding logic in model definitions, reducing boilerplate and aligning closely with SQLAlchemy’s declarative style.SQLAlchemy-Fixtures: This library focuses on predefined data fixtures, which can be rigid. SeedLayer generates dynamic, randomized data with Faker, offering more flexibility for varied test scenarios.Alembic Seeding: Alembic’s seeding capabilities are limited and not designed for fake data generation. SeedLayer provides a robust, Faker-powered solution tailored for SQLAlchemy ORM.SeedLayer stands out for its seamless integration with SQLAlchemy models, automatic dependency resolution, and support for complex scenarios like link tables and inter-column dependencies, making it a lightweight yet powerful tool for testing and development.I’d love feedback from the Python community! Have you faced challenges generating test data for SQLAlchemy? Try SeedLayer and let me know your thoughts:GitHub link.",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    },
+    {
+      "title": "Python + OCR: Automatically analyze Dota 2 player stats 👀",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n5ux0w/python_ocr_automatically_analyze_dota_2_player/",
+      "score": 31,
+      "comments": 3,
+      "post_id": "t3_1n5ux0w",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "N3uvin",
+      "author_id": "t2_1wmvzgei2u",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-01T17:25:57.738000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n5ux0w/python_ocr_automatically_analyze_dota_2_player/",
+      "content_preview": "What My Project DoesThis Python script uses OCR to read Dota 2 friend IDs from your screen, fetches match data from the OpenDota API, and calculates winrates and most played heroes to detect potential smurfs.It provides a simple GUI that shows overall winrate and the most played hero of the selected player.Target AudiencePython enthusiasts, Dota 2 players, or anyone interested in game data analysis and automation.This is mainly an educational and experimental project, not intended for cheating or modifying the game.ComparisonUnlike other Dota 2 analytics tools, this script uses OCR to automatically read friend IDs from the screen, eliminating the need to manually input player IDs.It combines GUI feedback, Python automation, and API integration in a single lightweight tool.GitHub RepositoryI’m open to feedback, feature suggestions, or any ideas to improve the script!",
       "flair": [
         "Showcase"
       ],
       "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
     },
     {
-      "title": "take an existing excel invoice template and makes a .py easily modifies it with simple inputs",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n001ny/take_an_existing_excel_invoice_template_and_makes/",
-      "score": 0,
-      "comments": 3,
-      "post_id": "t3_1n001ny",
+      "title": "Python-Based Magic: The Gathering Commander Deck Builder",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n3ne68/pythonbased_magic_the_gathering_commander_deck/",
+      "score": 30,
+      "comments": 9,
+      "post_id": "t3_1n3ne68",
       "post_type": "text",
       "domain": "self.Python",
-      "author": "DerrickBagels",
-      "author_id": "t2_2ft064zs",
+      "author": "styrofoamshotgun",
+      "author_id": "t2_ioa31",
       "subreddit_id": "t5_2qh0y",
       "subreddit": "r/Python",
-      "created_ts": "2025-08-25T19:25:50.387000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n001ny/take_an_existing_excel_invoice_template_and_makes/",
-      "content_preview": "",
+      "created_ts": "2025-08-30T00:05:10.615000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n3ne68/pythonbased_magic_the_gathering_commander_deck/",
+      "content_preview": "Hi r/Python, I've been working off-and-on (mostly off) on a Python-based deck builder for a Magic: the Gathering Commander format. Last week I had a mostly working command line driven version I shared over on those related subs, but this week I've got a fleshed out build, this time with a fully-featured web UI.This is my first actual software dev release and I'm proud to put it out there.What my Project DoesPick your commander and up to three themes (e.g., Aristocrats, +1/+1, Kindred, Aggro).It proposes a clean 100‑card list that fits those themes, with clear stage‑by‑stage reasons.Multi‑copy strategies? If your pick supports Persistent Petitioners, Dragon’s Approach, or Shadowborn Apostle, it offers a package. You choose how many, it keeps you at 100, and you can include Thrumming Stone when it makes sense.Web: multi‑copy packages are now offered right after commander selection, so there are no surprises later.Web: the package is applied first, and land building happens after—counts and targets auto‑adjust so the deck stays clean at 100.Web polish: the UI shows when targets were adjusted and if anything was clamped. Small fixes for names with apostrophes.Target AudienceMagic: The Gathering fansPeople like me, who like to theorycraft, who like to throw together decks online they may not ever actually usePeople who just want to give a base set of instructions and have something throw a deck together for themComparisonHonestly I'm not sure if there is one or at least that I've seen? Obviously EDHRec and Moxfield/Archidekt can help with the deck building, but you generally need to do input every step of the way.I originally started working on this last November because I wanted a way to throw a bunch of decks together without needing to do it all manually. At the time I wasn't really seeing anything Python-based or otherwise that does it in a more hands-off way.This way also let's me throw together a handful of the decks with the same commander, themes, and ideologies, then compare them for differences or see what's different.Web UI at a glanceMobile support not quite working (landscape get squished), recommended to load from a computer or in portrait mode\"New Deck” modal: search commander, pick up to 3 themes (AND/OR), choose bracket (not fully implemented), an optional deck name, and the ideal counts for a variety of card types you'll want in every deck (lands, card draw, wipes, etc...).Multi-copy packages: suggests Petitioners/Approach/Apostles when relevant; you pick counts (Thrumming Stone optional). Applied first with auto target tweaks and a 100-card clamp.Fast iteration: lock favorites, Replace any pick with alternatives (Owned-only filter), and Rerun Stage to re-roll just creatures/spells/lands (respects locks).Use your collection: upload TXT/CSV owned lists; build owned-only or prefer owned. Short owned-only builds get a recommendations file.Visual clarity: Mana Curve, Color Pips, and Sources with hover-to-highlight and cross-highlighting; includes colorless ‘C’.Exports: TXT for Moxfield/Archidekt, CSV with tags (and Owned column), plus a simple printout.Nice-to-use touches: optional virtualized lists for speed, lazy-loaded images, reduced-motion friendly, theme selector, and helpful keyboard shortcuts.Tune and iterateLock cards you love so reruns keep them.Swap any pick for an alternative; filter to owned cards if you want.Compare versions side‑by‑side to see what changed.Use your collectionDrop TXT/CSV lists of your owned cards.Build using only owned cards, or simply prefer owned while still picking the best fits.If an owned‑only build runs short, it exports a “recommended pickups” list so you can finish it out.At‑a‑glance clarityMana curve and color sources summaries with hover‑to‑highlight matching cards.CSV export marks which cards you own.ExportsTXT ready for Moxfield/ArchidektCSV with tags and detailsSimple printable listTry itLive example available here:https://deck-builder.wiz-ops.com/(do note if you run the setup/tag it will take a few minutes)Docker Hub (easiest, opens the Web UI):https://hub.docker.com/r/mwisnowski/mtg-python-deckbuilderUse the dockerhub-docker-compose.yml file to do it all for you.Windows EXE or run from source: see the latest release below.LinksLatest release (notes + downloads):https://github.com/mwisnowski/mtg_python_deckbuilder/releases/latestSource:https://github.com/mwisnowski/mtg_python_deckbuilderRoadmapProper bracket implementation: tighter, consistent power targets across all stages.Random modes: “surprise me” overall, random by theme, and one‑click random complete builds.Budget mode: soft/hard caps with price tiers and a pickups list that fits a budget.Must‑include / must‑exclude lists: lock in pet cards or avoid specific pieces.Smarter land bases: basics‑heavy vs. fixing‑heavy profiles guided by curve and color pips.Expanded multi‑copy helpers (where legal) with clearer guidance when they’re viable.Missing a theme for your favorite commander or found a bug? Issues/PRs welcome.",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+    },
+    {
+      "title": "Lightweight Statistical Forecasting (Own Model Design)",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n2ekkm/lightweight_statistical_forecasting_own_model/",
+      "score": 7,
+      "comments": 0,
+      "post_id": "t3_1n2ekkm",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "Optimal_Act_6987",
+      "author_id": "t2_13rgmg6blt",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-28T14:58:51.251000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n2ekkm/lightweight_statistical_forecasting_own_model/",
+      "content_preview": "Hi everyone! I’ve released a new Python library called randomstatsmodels that bundles error metrics (MAE, RMSE, MAPE, SMAPE) with auto tuned forecasting models like AutoNEO, AutoFourier, AutoKNN, AutoPolymath and AutoThetaAR. The library makes it easy to benchmark and build univariate forecasts; each model automatically selects hyperparameters for you.The package is available on PyPI:https://pypi.org/project/randomstatsmodels/(install viapip install randomstatsmodels).I’d love any feedback, questions or contributions!The GitHub for the code is:https://github.com/jacobwright32/randomstatsmodels",
       "flair": [
         "Resource"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
     },
     {
-      "title": "Is it normal for a package to overwrite/add files of another already installed package?",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n1t36y/is_it_normal_for_a_package_to_overwriteadd_files/",
-      "score": 69,
-      "comments": 29,
-      "post_id": "t3_1n1t36y",
+      "title": "My first kinda complicated code (started like a month ago)",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n562vq/my_first_kinda_complicated_code_started_like_a/",
+      "score": 30,
+      "comments": 9,
+      "post_id": "t3_1n562vq",
       "post_type": "text",
       "domain": "self.Python",
-      "author": "bemna94",
-      "author_id": "t2_mt2kpdj",
+      "author": "Rollgus",
+      "author_id": "t2_mtbzkvqv",
       "subreddit_id": "t5_2qh0y",
       "subreddit": "r/Python",
-      "created_ts": "2025-08-27T21:04:05.305000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n1t36y/is_it_normal_for_a_package_to_overwriteadd_files/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "What's the worst Python feature you've ever encountered in programs?",
-      "permalink": "https://www.reddit.com/r/Python/comments/1myytuq/whats_the_worst_python_feature_youve_ever/",
-      "score": 15,
-      "comments": 152,
-      "post_id": "t3_1myytuq",
-      "post_type": "text",
-      "domain": "self.Python",
-      "author": "ConstantSpirited2039",
-      "author_id": "t2_1lk4mxv5hn",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-08-24T15:37:50.902000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1myytuq/whats_the_worst_python_feature_youve_ever/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "I built my own torch in the last two weeks!",
-      "permalink": "https://www.reddit.com/r/Python/comments/1n40rht/i_built_my_own_torch_in_the_last_two_weeks/",
-      "score": 57,
-      "comments": 13,
-      "post_id": "t3_1n40rht",
-      "post_type": "text",
-      "domain": "self.Python",
-      "author": "tigert1998",
-      "author_id": "t2_1d5fiym8",
-      "subreddit_id": "t5_2qh0y",
-      "subreddit": "r/Python",
-      "created_ts": "2025-08-30T12:46:54.303000+0000",
-      "content_href": "https://www.reddit.com/r/Python/comments/1n40rht/i_built_my_own_torch_in_the_last_two_weeks/",
-      "content_preview": "",
+      "created_ts": "2025-08-31T21:04:57.571000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n562vq/my_first_kinda_complicated_code_started_like_a/",
+      "content_preview": "WHAT MY PROJECT DOES I have made a card game where you are against a bot, and is trying to be the first to have only one Card left.TARGET AUDIENCE This is just a project I made for fun, but I hope some people who are new to Python, or is interested in small text based games Will like this.COMPARISON I haven't seen any project like this, and I at least hope there aren't any. I feel this is a unique fun card game.GitHub link:https://github.com/Simonkamon11/One-Card.git",
       "flair": [
         "Showcase"
       ],
       "thumbnail_url": ""
+    },
+    {
+      "title": "I built a simple, open-source Windows wallpaper changer because the built-in one kept failing.",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n64bla/i_built_a_simple_opensource_windows_wallpaper/",
+      "score": 29,
+      "comments": 0,
+      "post_id": "t3_1n64bla",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "msarabi",
+      "author_id": "t2_yq3e4",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-01T23:38:36.611000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n64bla/i_built_a_simple_opensource_windows_wallpaper/",
+      "content_preview": "What My Project DoesThis is a simple, lightweight desktop application for Windows that automatically changes your desktop wallpaper from a folder of images. You can choose a folder, set a custom time interval (in seconds, minutes, or hours), and have your pictures shuffle randomly. It can be minimized to the system tray. The application is built usingcustomtkinterfor the GUI andpystrayfor the system tray functionality.Target AudienceI write it for personal use and for anyone who wants a simple and minimalist way to manage their desktop wallpapers. It is a \"toy project\" in the sense that it started as a solution to a personal frustration, but it is meant to be a tool for everyday use.ComparisonI wrote this because the built-in Windows slideshow feature randomly stops working, which is incredibly frustrating and annoying, and they have been too lazy to fix it. Other third-party programs I looked at were often too cluttered with features I didn't need and/or were also resource-hungry. This application is meant to be a clean, minimal alternative that focuses on its single task.You can find it here:Wallpaper Changer",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1d6ew1/styles/profileIcon_92budx9xiw771.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=168c5b48d3ee412e8681704a0f5a9b96f12b9253"
+    },
+    {
+      "title": "Need someone to guide me on my Audio to text script",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n24hu3/need_someone_to_guide_me_on_my_audio_to_text/",
+      "score": 9,
+      "comments": 4,
+      "post_id": "t3_1n24hu3",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "DarkRevolutionary320",
+      "author_id": "t2_1tb5elz7bg",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-08-28T06:06:43.488000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n24hu3/need_someone_to_guide_me_on_my_audio_to_text/",
+      "content_preview": "I have been trying to make script with converts my .mp4 file to text, which enables audio diarization and timestamp. Tried whisperx, pyanote, kaldi and more. My output isn’t able to recognize speaker and diarize it. Need some guidance.",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    },
+    {
+      "title": "Meet THOAD, High Order Derivatives for PyTorch Graphs",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n6xw8z/meet_thoad_high_order_derivatives_for_pytorch/",
+      "score": 28,
+      "comments": 0,
+      "post_id": "t3_1n6xw8z",
+      "post_type": "multi_media",
+      "domain": "self.Python",
+      "author": "WildAppearance2153",
+      "author_id": "t2_d78km77y",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-02T22:37:59.872000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n6xw8z/meet_thoad_high_order_derivatives_for_pytorch/",
+      "content_preview": "I’m excited to sharethoad(short for PyTorchHighOrderAutomaticDifferentiation), a Python only library that computes arbitrary order partial derivatives directly on a PyTorch computational graph. The package has been developed within a research project at Universidad Pontificia de Comillas (ICAI), and we are considering publishing an academic article in the future that reviews the mathematical details and the implementation design.At its core, thoad takes a one output to many inputs view of the graph and pushes high order derivatives back to the leaf tensors. Although a 1→N problem can be rewritten as 1→1 by concatenating flattened inputs, as in functional approaches such asjax.jetorfunctorch, thoad’s graph aware formulation enables an optimization based onunifying independent dimensions(especially batch). This deliversasymptotically better scalingwith respect to batch size. Additionally, we compute derivativesvectoriallyrather than component by component, which is what makes a pure PyTorch implementation practical without resorting to custom C++ or CUDA.The package iseasy to maintain, because it is written entirely in Python and usesPyTorchas its only dependency. The implementation stays at a high level and leans on PyTorch’s vectorized operations, which means no custom C++ or CUDA bindings, no build systems to manage, and fewer platform specific issues.The package can be installed fromGitHuborPyPI:GitHub:https://github.com/mntsx/thoadPyPI:https://pypi.org/project/thoad/In our benchmarks,thoad outperformstorch.autogradfor Hessian calculations even on CPU. See the notebook that reproduces the comparison:https://github.com/mntsx/thoad/blob/master/examples/benchmarks/benchmark_vs_torch_autograd.ipynb.The user experience has been one of our main concerns during development.thoadis designed to align closely with PyTorch’s interface philosophy, so running the high order backward pass is practically indistinguishable from calling PyTorch’s ownbackward. When you need finer control, you can keep or reduce Schwarz symmetries, group variables to restrict mixed partials, and fetch the exact mixed derivative you need. Shapes and independence metadata are also exposed to keep interpretation straightforward.USING THE PACKAGEthoadexposes two primary interfaces for computing high-order derivatives:thoad.backward: a function-based interface that closely resemblestorch.Tensor.backward. It provides a quick way to compute high-order gradients without needing to manage an explicit controller object, but it offers only the core functionality (derivative computation and storage).thoad.Controller: a class-based interface that wraps the output tensor’s subgraph in a controller object. In addition to performing the same high-order backward pass, it gives access to advanced features such as fetching specific mixed partials, inspecting batch-dimension optimizations, overriding backward-function implementations, retaining intermediate partials, and registering custom hooks.thoad.backwardThethoad.backwardfunction computes high-order partial derivatives of a given output tensor and stores them in each leaf tensor’s.hgradattribute.Arguments:tensor: A PyTorch tensor from which to start the backward pass. This tensor must require gradients and be part of a differentiable graph.order: A positive integer specifying the maximum order of derivatives to compute.gradient: A tensor with the same shape astensorto seed the vector-Jacobian product (i.e., custom upstream gradient). If omitted, the default is used.crossings: A boolean flag (default=False). If set toTrue, mixed partial derivatives (i.e., derivatives that involve more than one distinct leaf tensor) will be computed.groups: An iterable of disjoint groups of leaf tensors. Whencrossings=False, only those mixed partials whose participating leaf tensors all lie within a single group will be calculated. Ifcrossings=Trueandgroupsis provided, aValueErrorwill be raised (they are mutually exclusive).keep_batch: A boolean flag (default=False) that controls how output dimensions are organized in the computed gradients.Whenkeep_batch=False**:** Gradients are returned in a fully flattened form. Concretely, think of the gradient tensor as having:A single “output” axis that lists every element of the original output tensor (flattened into one dimension).One axis per derivative order, each listing every element of the corresponding input (also flattened).For an N-th order derivative of a leaf tensor withinput_numelelements and an output withoutput_numelelements, the gradient shape is:Axis 1:indexes alloutput_numeloutputsAxes 2…(N+1):each indexes allinput_numelinputsWhenkeep_batch=True**:** Gradients preserve both a flattened “output” axis and each original output dimension before any input axes. You can visualize it as:Axis 1flattens all elements of the output tensor (size =output_numel).Axes 2...(k+1)correspond to dimensions shared by multiple input tensors and treated independently throughout the graph. These are dimensions that are only operated on element-wise (e.g. batch dimensions).Axes (k+2)...(k+N+1)each flatten allinput_numelelements of the leaf tensor, one axis per derivative order.keep_schwarz: A boolean flag (default=False). IfTrue, symmetric (Schwarz) permutations are retained explicitly instead of being canonicalized/reduced—useful for debugging or inspecting non-reduced layouts.Returns:An instance ofthoad.Controllerwrapping the same tensor and graphExecuting the automatic differentiation viathoad.backproplooks like this.import torch\nimport thoad\nfrom torch.nn import functional as F\n\n#### Normal PyTorch workflow\nX = torch.rand(size=(10,15), requires_grad=True)\nY = torch.rand(size=(15,20), requires_grad=True)\nZ = F.scaled_dot_product_attention(query=X, key=Y.T, value=Y.T)\n\n#### Call thoad backward\norder = 2\nthoad.backward(tensor=Z, order=order)\n\n#### Checks\n## check derivative shapes\nfor o in range(1, 1 + order):\n   assert X.hgrad[o - 1].shape == (Z.numel(), *(o * tuple(X.shape)))\n   assert Y.hgrad[o - 1].shape == (Z.numel(), *(o * tuple(Y.shape)))\n## check first derivatives (jacobians)\nfn = lambda x, y: F.scaled_dot_product_attention(x, y.T, y.T)\nJ = torch.autograd.functional.jacobian(fn, (X, Y))\nassert torch.allclose(J[0].flatten(), X.hgrad[0].flatten(), atol=1e-6)\nassert torch.allclose(J[1].flatten(), Y.hgrad[0].flatten(), atol=1e-6)\n## check second derivatives (hessians)\nfn = lambda x, y: F.scaled_dot_product_attention(x, y.T, y.T).sum()\nH = torch.autograd.functional.hessian(fn, (X, Y))\nassert torch.allclose(H[0][0].flatten(), X.hgrad[1].sum(0).flatten(), atol=1e-6)\nassert torch.allclose(H[1][1].flatten(), Y.hgrad[1].sum(0).flatten(), atol=1e-6)InstantiationUse the constructor to create a controller for any tensor requiring gradients:controller = thoad.Controller(tensor=GO)  ## takes graph output tensortensor: A PyTorchTensorwithrequires_grad=Trueand a non-Nonegrad_fn.Properties.tensor → TensorThe output tensor underlying this controller.Setter: Replaces the tensor (after validation), rebuilds the internal computation graph, and invalidates any previously computed gradients..compatible → boolIndicates whether every backward function in the tensor’s subgraph has a supported high-order implementation. IfFalse, some derivatives may fall back or be unavailable..index → Dict[Type[torch.autograd.Function], Type[ExtendedAutogradFunction]]A mapping from base PyTorchautograd.Functionclasses to thoad’sExtendedAutogradFunctionimplementations.Setter: Validates and injects your custom high-order extensions.Core Methods.backward(order, gradient=None, crossings=False, groups=None, keep_batch=False, keep_schwarz=False) → NonePerforms the high-order backward pass up to the specified derivativeorder, storing all computed partials in each leaf tensor’s.hgradattribute.order(int > 0): maximum derivative order.gradient(Optional[Tensor]): custom upstream gradient with the same shape ascontroller.tensor.crossings(bool, defaultFalse): IfTrue, mixed partial derivatives across different leaf tensors will be computed.groups(Optional[Iterable[Iterable[Tensor]]], defaultNone): Whencrossings=False, restricts mixed partials to those whose leaf tensors all lie within a single group. Ifcrossings=Trueandgroupsis provided, aValueErroris raised.keep_batch(bool, defaultFalse): controls whether independent output axes are kept separate (batched) or merged (flattened) in stored/retrieved gradients.keep_schwarz(bool, defaultFalse): ifTrue, retains symmetric permutations explicitly (no Schwarz reduction)..display_graph() → NonePrints a tree representation of the tensor’s backward subgraph. Supported nodes are shown normally; unsupported ones are annotated with(not supported)..register_backward_hook(variables: Sequence[Tensor], hook: Callable) → NoneRegisters a user-providedhookto run during the backward pass whenever gradients for any of the specified leafvariablesare computed.variables(Sequence[Tensor]): Leaf tensors to monitor.hook(Callable[[Tuple[Tensor, Tuple[Shape, ...], Tuple[Indep, ...]], dict[AutogradFunction, set[Tensor]]], Tuple[Tensor, Tuple[Shape, ...], Tuple[Indep, ...]]]): Receives the current(Tensor, shapes, indeps)plus contextual info, and must return the modified triple..require_grad_(variables: Sequence[Tensor]) → NoneMarks the given leafvariablesso that all intermediate partials involving them are retained, even if not required for the final requested gradients. Useful for inspecting or re-using higher-order intermediates..fetch_hgrad(variables: Sequence[Tensor], keep_batch: bool = False, keep_schwarz: bool = False) → Tuple[Tensor, Tuple[Tuple[Shape, ...], Tuple[Indep, ...], VPerm]]Retrieves the precomputed high-order partial corresponding to the ordered sequence of leafvariables.variables(Sequence[Tensor]): the leaf tensors whose mixed partial you want.keep_batch(bool, defaultFalse): ifTrue, each independent output axis remains a separate batch dimension in the returned tensor; ifFalse, independent axes are distributed/merged into derivative dimensions.keep_schwarz(bool, defaultFalse): ifTrue, returns derivatives retaining symmetric permutations explicitly.Returns a pair:Gradient tensor: the computed partial derivatives, shaped according to output and input dimensions (respectingkeep_batch/keep_schwarz).Metadata tupleShapes(Tuple[Shape, ...]): the original shape of each leaf tensor.Indeps(Tuple[Indep, ...]): for each variable, indicates which output axes remained independent (batch) vs. which were merged into derivative axes.VPerm(Tuple[int, ...]): a permutation that maps the internal derivative layout to the requestedvariablesorder.Use the combination of independent-dimension info and shapes to reshape or interpret the returned gradient tensor in your workflow.import torch\nimport thoad\nfrom torch.nn import functional as F\n        \n#### Normal PyTorch workflow\nX = torch.rand(size=(10,15), requires_grad=True)\nY = torch.rand(size=(15,20), requires_grad=True)\nZ = F.scaled_dot_product_attention(query=X, key=Y.T, value=Y.T)\n        \n#### Instantiate thoad controller and call backward\norder = 2\ncontroller = thoad.Controller(tensor=Z)\ncontroller.backward(order=order, crossings=True)\n        \n#### Fetch Partial Derivatives\n## fetch X and Y 2nd order derivatives\npartial_XX, _ = controller.fetch_hgrad(variables=(X, X))\npartial_YY, _ = controller.fetch_hgrad(variables=(Y, Y))\nassert torch.allclose(partial_XX, X.hgrad[1])\nassert torch.allclose(partial_YY, Y.hgrad[1])\n## fetch cross derivatives\npartial_XY, _ = controller.fetch_hgrad(variables=(X, Y))\npartial_YX, _ = controller.fetch_hgrad(variables=(Y, X))NOTE. A more detailed user guide with examples and feature walkthroughs is available in the notebook:https://github.com/mntsx/thoad/blob/master/examples/user_guide.ipynbIf you give it a try, I would love feedback on the API.",
+      "flair": [
+        "Showcase"
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "title": "What is an application?",
+      "permalink": "https://www.reddit.com/r/Python/comments/1n8gzmy/what_is_an_application/",
+      "score": 0,
+      "comments": 14,
+      "post_id": "t3_1n8gzmy",
+      "post_type": "text",
+      "domain": "self.Python",
+      "author": "_Drkshdw_",
+      "author_id": "t2_1p1zvix95q",
+      "subreddit_id": "t5_2qh0y",
+      "subreddit": "r/Python",
+      "created_ts": "2025-09-04T17:45:48.321000+0000",
+      "content_href": "https://www.reddit.com/r/Python/comments/1n8gzmy/what_is_an_application/",
+      "content_preview": "If I write a hello world print statement in a Python file and that's it, is that considered an application?My friend is arguing with me about what an application and a micro service is. I keep saying that micro services are just small applications, and  that even a hello world print in a Python statement is considered an application, but he's saying no.Who's right?",
+      "flair": [
+        "Meta"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
     }
   ],
-  "scraped_at": "2025-09-02T03:41:50.706981"
+  "scraped_at": "2025-09-04T21:20:51.386366"
 }

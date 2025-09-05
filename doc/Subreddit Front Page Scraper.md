@@ -7,6 +7,8 @@ This guide explains how to use `subreddit_frontpage_scraper.py`, what it saves, 
 - Handles cookie/consent and mature content interstitials best‑effort without login.
 - Auto-scrolls to trigger lazy loading until a target number of posts are rendered.
 - Parses rich post metadata from the new Reddit UI (the `shreddit-post` web component).
+- **Extracts comprehensive subreddit metadata** including online user counts and sidebar widgets.
+- **Intelligently parses sidebar content** with special handling for link collections and formatted text.
 - Falls back to `https://old.reddit.com/r/<subreddit>/` if the new UI yields no/too few posts.
 - Saves JSON to `output/subreddits/<name>/frontpage.json`; optionally saves HTML snapshots for debugging.
 
@@ -95,11 +97,52 @@ File: `output/subreddits/<name>/frontpage.json`
 Top-level keys:
 - `subreddit` — the normalized subreddit name.
 - `url` — the attempted new-Reddit URL.
-- `meta` — best-effort page metadata (e.g., `title`).
+- `meta` — comprehensive page metadata (see below).
 - `posts` — list of parsed posts (see below).
 - `scraped_at` — ISO timestamp.
 - `error` — present only on failure.
 
+### Meta section structure
+The `meta` object includes rich subreddit information:
+- `title` — subreddit display title (e.g., "r/gaming")
+- `description` — community description text
+- `subscribers` — total member count (numeric)
+- `online_users` — current online user count (numeric) 
+- `created_timestamp` — ISO timestamp of subreddit creation
+- `sidebar_widgets` — array of parsed sidebar sections (see below)
+- `rules` — array of community rules (when available)
+
+### Sidebar widgets structure
+The `sidebar_widgets` array contains different types of parsed content:
+
+**Link collections** (Community Bookmarks, Useful Resources, etc.):
+```json
+{
+  "title": "Community Bookmarks",
+  "content": [
+    {"text": "Community Rules", "url": "https://www.reddit.com/r/gaming/wiki/index"},
+    {"text": "Other communities", "url": "https://www.reddit.com/r/gaming/wiki/faq"}
+  ]
+}
+```
+
+**Formatted text content** (Community Info, etc.):
+```json
+{
+  "title": "Community Info", 
+  "content": "If your submission does not appear, do not delete it. Simply message the moderators and ask us to look into it.\n\nPlease note, you are required to have some r/gaming Community Karma to make a post. Please comment around before posting.\n\nDo NOT private message or use reddit chat to contact moderators about moderator actions. Only message the team via the link above. Directly messaging individual moderators may result in a temporary ban."
+}
+```
+
+**Other widgets** (simple text):
+```json
+{
+  "title": "Installed Apps",
+  "content": "Get Flair!"
+}
+```
+
+### Post structure
 Each `post` (new Reddit UI) typically includes:
 - `title`, `permalink`, `score`, `comments`
 - `post_id` (e.g., `t3_...`), `post_type` (text/link/media), `domain`
@@ -114,6 +157,96 @@ Each `post` (new Reddit UI) typically includes:
 Fallback (old.reddit) returns a simpler subset: `title`, `permalink`, `score`, `comments`. The scraper merges any old-Reddit-specific `meta` back into `meta`.
 
 Debug HTML snapshot: When too few posts are found, a page snapshot is saved to `output/pages/<sub>_frontpage_debug_<timestamp>.html` for inspection.
+
+---
+
+## Example output improvements
+
+### Enhanced metadata (new features)
+```json
+{
+  "subreddit": "gaming",
+  "meta": {
+    "title": "r/gaming", 
+    "description": "The Number One Gaming forum on the Internet.",
+    "subscribers": 47085481,
+    "online_users": 1374,
+    "created_timestamp": "2025-09-05T03:54:52.345000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Bookmarks",
+        "content": [
+          {"text": "Community Rules", "url": "https://www.reddit.com/r/gaming/wiki/index"},
+          {"text": "Other communities", "url": "https://www.reddit.com/r/gaming/wiki/faq"}
+        ]
+      },
+      {
+        "title": "Community Info",
+        "content": "If your submission does not appear, do not delete it. Simply message the moderators and ask us to look into it.\n\nPlease note, you are required to have some r/gaming Community Karma to make a post. Please comment around before posting.\n\nDo NOT private message or use reddit chat to contact moderators about moderator actions. Only message the team via the link above. Directly messaging individual moderators may result in a temporary ban."
+      }
+    ]
+  }
+}
+```
+
+### Cross-subreddit compatibility
+The scraper automatically adapts to different subreddit layouts:
+
+**r/AskReddit** - Many bookmarks:
+```json
+{
+  "title": "Community Bookmarks",
+  "content": [
+    {"text": "Wiki", "url": "/r/AskReddit/wiki/index/"}, 
+    {"text": "Ask Others", "url": "https://www.reddit.com/r/AskReddit/wiki/sidebarsubs#wiki_ask_others"},
+    {"text": "AskReddit Offshoots", "url": "https://www.reddit.com/r/AskReddit/wiki/sidebarsubs#wiki_askreddit_offshoots"},
+    {"text": "Find a Subreddit", "url": "https://www.reddit.com/r/AskReddit/wiki/sidebarsubs#wiki_find_a_subreddit"}
+  ]
+}
+```
+
+**r/sports** - Different naming convention:
+```json
+{
+  "title": "Useful Resources", 
+  "content": [
+    {"text": "sports subreddits", "url": "http://www.reddit.com/r/sports/wiki/related"},
+    {"text": "reddiquette", "url": "https://www.reddit.com/wiki/reddiquette"},
+    {"text": "self-promotion", "url": "https://www.reddit.com/wiki/selfpromotion"}
+  ]
+}
+```
+
+---
+
+## Metadata parsing features
+
+### Online users detection
+The scraper automatically detects and extracts the current number of online users by:
+- Locating `faceplate-number` elements with numeric attributes
+- Identifying elements followed by "online" text
+- Extracting the raw numeric value (not the formatted display text)
+- Storing as `online_users` in the metadata
+
+### Flexible sidebar widget parsing
+The scraper intelligently handles various sidebar content types:
+
+**Automatic link collection detection**: Any sidebar section with 2+ links is automatically parsed as structured link data, regardless of title. Works with:
+- "Community Bookmarks" (common)
+- "Useful Resources" (r/sports style)
+- "Quick Links", "Related Links", etc.
+
+**Smart text extraction**: For non-link sections like Community Info:
+- Preserves paragraph structure with proper line breaks
+- Removes technical artifacts (SC_OFF/SC_ON markers)
+- Handles proper spacing around links and text
+- Filters out duplicate titles and noise
+
+**Robust link text parsing**: For link collections:
+- Handles hover states and hidden elements
+- Eliminates duplicate text from accessibility features
+- Extracts clean link text and URLs
+- Supports complex HTML structures with multiple spans
 
 ---
 
@@ -175,6 +308,8 @@ If the new UI yields no posts (or far fewer than expected), the scraper visits `
 - The `shreddit-post` element often exposes more attributes that can be pulled in similarly to how `title`, `author`, etc. are extracted now.
 - For media posts, additional selectors inside the post card may expose higher‑quality thumbnails or gallery info.
 - For comments count and score, Reddit may defer rendering; prefer attribute values when present, and fall back to visible text.
+- **Sidebar widget parsing** is highly flexible and automatically adapts to new widget types and naming conventions across different subreddits.
+- **Metadata extraction** can be extended by adding new selectors to the `_parse_meta` method for additional community information.
 
 ---
 
@@ -210,7 +345,13 @@ PROXY_SERVER="http://user:pass@host:port" python -c "from subreddit_frontpage_sc
   - `_apply_stealth`, `_dismiss_banners`, `_handle_mature_gate`
   - `_auto_scroll_to_load_posts` (lazy-load logic and stopping conditions)
   - `_parse_posts_new_reddit` (rich parsing of `shreddit-post`)
+  - `_parse_meta` (comprehensive metadata extraction including online users and sidebar widgets)
   - `_fetch_old_reddit` (fallback parsing)
   - `save_frontpage` (writes JSON)
+
+**Key parsing methods:**
+- `_parse_meta`: Handles online users, sidebar widgets, creation timestamps
+- Sidebar parsing logic: Automatically detects link collections vs. text content
+- Text extraction: Preserves formatting and handles complex HTML structures
 
 For a quick sanity test, run the demo or instantiate with `headless=False` to watch the browser and confirm that posts keep loading as you scroll.
