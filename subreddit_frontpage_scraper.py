@@ -802,6 +802,8 @@ if __name__ == "__main__":
     parser.add_argument("--include-promoted", action="store_true", default=True, help="Include promoted/ad posts in results (default)")
     parser.add_argument("--exclude-promoted", dest="include_promoted", action="store_false", help="Exclude promoted/ad posts from results")
     parser.add_argument("--overwrite", action="store_true", help="Re-scrape even if output already exists")
+    parser.add_argument("--skip-failed", action="store_true", default=True, help="Only skip successfully scraped subreddits (default)")
+    parser.add_argument("--skip-all", dest="skip_failed", action="store_false", help="Skip any existing output files, even failed ones")
     args = parser.parse_args()
 
     # Determine target subreddits
@@ -836,10 +838,25 @@ if __name__ == "__main__":
     )
     
     def already_scraped(name: str) -> bool:
-        """Check if subreddit already scraped."""
+        """Check if subreddit already scraped successfully."""
         if name.startswith('r/'):
             name = name[2:]
-        return (Path("output/subreddits") / name / "frontpage.json").exists()
+        frontpage_file = Path("output/subreddits") / name / "frontpage.json"
+        if not frontpage_file.exists():
+            return False
+        
+        if not args.skip_failed:
+            # Old behavior: skip if file exists regardless of content
+            return True
+        
+        try:
+            with open(frontpage_file, 'r') as f:
+                data = json.load(f)
+            # Consider it scraped ONLY if no error (regardless of posts count)
+            return not data.get("error")
+        except Exception:
+            # If we can't read the file, consider it not scraped
+            return False
     
     scraper = SubredditFrontPageScraper(cfg)
     scraper._start()

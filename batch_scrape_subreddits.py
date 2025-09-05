@@ -76,8 +76,24 @@ def canonical_sub_name(name_or_url: str) -> str:
     return s
 
 
-def already_scraped(name: str) -> bool:
-    return (SUB_DIR / name / "frontpage.json").exists()
+def already_scraped(name: str, skip_failed: bool = True) -> bool:
+    """Check if subreddit already scraped successfully."""
+    frontpage_file = SUB_DIR / name / "frontpage.json"
+    if not frontpage_file.exists():
+        return False
+    
+    if not skip_failed:
+        # Old behavior: skip if file exists regardless of content
+        return True
+    
+    try:
+        with open(frontpage_file, 'r') as f:
+            data = json.load(f)
+        # Consider it scraped ONLY if no error (regardless of posts count)
+        return not data.get("error")
+    except Exception:
+        # If we can't read the file, consider it not scraped
+        return False
 
 
 def save_manifest(done: int, total: int, last_index: int, last_name: str):
@@ -100,6 +116,7 @@ def _worker_process(
     overwrite: bool,
     proxy: Optional[str],
     jitter_s: float,
+    skip_failed: bool = True,
 ):
     """Worker that processes a list of (index, subreddit) sequentially with one
     browser per chunk, returning stats for progress tracking.
@@ -125,7 +142,7 @@ def _worker_process(
         try:
             for idx, name in batch:
                 try:
-                    if (not overwrite) and already_scraped(name):
+                    if (not overwrite) and already_scraped(name, skip_failed):
                         print(f"[w{worker_id} skip] {name}")
                         continue
                     data = scraper.scrape_frontpage(name)
@@ -176,6 +193,8 @@ def main():
     ap.add_argument("--order", choices=["rank", "alpha"], default="rank", help="Ordering of subreddits: by original rank or alphabetically")
     ap.add_argument("--concurrency", type=int, default=2, help="Number of parallel browser processes (safe: 1-3)")
     ap.add_argument("--initial-jitter-s", type=float, default=2.0, help="Max random stagger per worker at start (seconds)")
+    ap.add_argument("--skip-failed", action="store_true", default=True, help="Only skip successfully scraped subreddits (default)")
+    ap.add_argument("--skip-all", dest="skip_failed", action="store_false", help="Skip any existing output files, even failed ones")
     args = ap.parse_args()
 
     # Safer for Playwright + multiprocessing on macOS/Linux
@@ -217,7 +236,7 @@ def main():
             try:
                 for i in range(idx, chunk_end):
                     name = subs[i]
-                    if not args.overwrite and already_scraped(name):
+                    if not args.overwrite and already_scraped(name, args.skip_failed):
                         print(f"[skip] {name} (exists)")
                         continue
                     data = scraper.scrape_frontpage(name)
@@ -255,6 +274,7 @@ def main():
                 args.overwrite,
                 proxy,
                 float(args.initial_jitter_s),
+                args.skip_failed,
             )
             futures.append(fut)
 

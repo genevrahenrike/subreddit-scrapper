@@ -58,7 +58,9 @@ python subreddit_frontpage_scraper.py \
   --no-headless \
   --proxy "http://user:pass@host:port" \
   --debug-html \
-  --exclude-promoted
+  --exclude-promoted \
+  --offset 1000 \
+  --overwrite
 ```
 
 ### Promoted content handling
@@ -80,6 +82,44 @@ The output will show promoted content statistics:
 [saved] output/subreddits/technology/frontpage.json — posts=32 (promoted=4)
 ```
 
+### Parallel execution and range splitting
+For large-scale scraping across multiple servers or processes:
+
+```bash
+# Single server with 12 processes
+CONCURRENCY=12 OVERWRITE=1 ./scripts/run_frontpage_batch.sh
+
+# Split across 6 servers with 4 processes each (24 total)
+# Server 1
+PROXY_SERVER="http://proxy1:port" CONCURRENCY=4 OVERWRITE=1 \
+./scripts/run_frontpage_batch.sh --start 0 --limit 55472
+
+# Server 2  
+PROXY_SERVER="http://proxy2:port" CONCURRENCY=4 OVERWRITE=1 \
+./scripts/run_frontpage_batch.sh --start 55472 --limit 55472
+
+# And so on...
+```
+
+Use the job generator for automatic splitting:
+```bash
+# Generate commands for 6 servers
+python3 scripts/generate_parallel_jobs.py --servers 6 --concurrency 4
+```
+
+### Individual scraper with offset support
+The main scraper now supports offset for manual parallelization:
+
+```bash
+# Process 1: Start from beginning
+python subreddit_frontpage_scraper.py --subs r/sub1 r/sub2 r/sub3 --offset 0
+
+# Process 2: Skip first subreddit, start from second
+python subreddit_frontpage_scraper.py --subs r/sub1 r/sub2 r/sub3 --offset 1
+
+# With file input (if using retry lists)
+python subreddit_frontpage_scraper.py --file retry_list.txt --offset 5000 --overwrite
+```
 ### Batch mode (ranked front pages)
 Use the helper script to scrape many subreddits from `output/pages/page_*.json` with safe, low parallelism.
 
@@ -109,14 +149,39 @@ Pacing & safety:
 - Each worker sleeps 0.5–1.2s between subreddits and staggers its start by up to `INITIAL_JITTER_S`.
 - Keep `CONCURRENCY` low (2–3) unless you have ample IP capacity.
 
+### Error analysis and retry functionality
+Analyze scraping results to identify and retry failed subreddits:
+
+```bash
+# Analyze current results
+python3 scripts/analyze_results.py
+
+# Generate retry list for connection errors
+python3 scripts/analyze_results.py --generate-retry --error-types CONNECTION_REFUSED CONNECTION_RESET TIMEOUT
+
+# Retry failed subreddits
+python subreddit_frontpage_scraper.py --file retry_subreddits.txt --overwrite
+```
+
+The analyzer categorizes errors:
+- `CONNECTION_REFUSED` / `CONNECTION_RESET` - Network connectivity issues
+- `TIMEOUT` - Request timeouts, often retryable  
+- `SERVICE_UNAVAILABLE` / `BAD_GATEWAY` - Server-side issues
+- `NOT_FOUND` - Subreddit doesn't exist
+- `NO_POSTS` - Subreddit exists but no posts found
+- `OTHER` - Miscellaneous errors
+
 ### Programmatic usage
 ```python
 from subreddit_frontpage_scraper import FPConfig, SubredditFrontPageScraper
 
 cfg = FPConfig(
-    headless=True,            # set False to watch the browser
-    min_posts=50,             # target number of posts to load
-    include_promoted=True,    # include promoted/ad content (default)
+    headless=True,                    # set False to watch the browser
+    min_posts=50,                     # target number of posts to load
+    include_promoted=True,            # include promoted/ad content (default)
+    max_attempts=3,                   # retry attempts (increased from 2)
+    retry_connection_errors=True,     # retry on connection errors
+    retry_delay_base=2.0,            # base delay for exponential backoff
 )
 scraper = SubredditFrontPageScraper(cfg)
 scraper._start()
@@ -329,7 +394,12 @@ Key options you may want to tune:
 - `proxy_server` (str | None): Use a proxy (also read from `PROXY_SERVER`).
 - `timeout_ms` (int): Playwright page/context default timeouts.
 - `user_agent` (str): Overrides the UA string.
-- `max_attempts` (int): Browser retry attempts within one scrape.
+- `max_attempts` (int, default 3): Browser retry attempts within one scrape (increased from 2).
+- `include_promoted` (bool, default True): Whether to include promoted/ad content in results.
+
+Enhanced error handling:
+- `retry_connection_errors` (bool, default True): Retry on connection errors like ERR_CONNECTION_REFUSED.
+- `retry_delay_base` (float, default 2.0): Base delay for exponential backoff between retries.
 
 Lazy-load / scrolling knobs:
 - `min_posts` (int, default 50): Target number of posts to load before stopping.
@@ -374,6 +444,14 @@ If the new UI yields no posts (or far fewer than expected), the scraper visits `
   - Lower `min_posts` when speed matters.
   - Rotate proxies if scraping many subreddits in a batch.
   - Keep batch `CONCURRENCY` at 2–3 and use `INITIAL_JITTER_S` to avoid synchronized bursts.
+- Connection errors:
+  - Most connection errors (ERR_CONNECTION_REFUSED, timeouts) are automatically retried
+  - Use `scripts/analyze_results.py` to identify patterns in failed subreddits
+  - Generate retry lists for persistent failures: `--generate-retry --error-types CONNECTION_REFUSED`
+- Large-scale scraping:
+  - Split work across multiple servers using `--start` and `--limit` arguments
+  - Use different proxies/IPs per server to avoid rate limiting
+  - Monitor progress with `output/subreddits/manifest.json`
 
 ---
 
@@ -391,6 +469,25 @@ If the new UI yields no posts (or far fewer than expected), the scraper visits `
 - On success: returns a dict with `posts` and writes JSON when `save_frontpage` is called.
 - On error or repeated timeouts: returns a dict with `posts: []` and `error: <message>`;
   a debug HTML snapshot may also be saved if enabled.
+
+### Enhanced retry logic
+The scraper now includes intelligent retry logic:
+- **Retryable errors**: Connection refused, timeouts, 5xx server errors are automatically retried
+- **Exponential backoff**: Delays increase between retries (2s, 4s, 8s...) with jitter
+- **Error categorization**: Different handling for network vs. application errors
+- **Retry logging**: Shows retry attempts with truncated error messages
+
+Example retry output:
+```
+[retry] singapore attempt 2/3 after 2.1s (error: Page.goto: net::ERR_CONNECTION_REFUSED at https://www.reddit.com/r/singapore...)
+```
+
+### Batch processing improvements
+Enhanced error logging in batch mode categorizes errors:
+- `[w5 conn-error]` - Connection-related errors
+- `[w5 timeout]` - Timeout errors  
+- `[w5 error]` - Other errors
+- `[w5 exception]` - Unexpected exceptions
 
 ---
 
@@ -429,5 +526,10 @@ PROXY_SERVER="http://user:pass@host:port" python -c "from subreddit_frontpage_sc
 - Promoted content detection: Uses element type and aria-label attributes to identify ads
 - Sidebar parsing logic: Automatically detects link collections vs. text content
 - Text extraction: Preserves formatting and handles complex HTML structures
+
+**New utility scripts:**
+- `scripts/generate_parallel_jobs.py`: Generate commands for splitting work across multiple servers
+- `scripts/analyze_results.py`: Analyze scraping results and generate retry lists
+- Enhanced error handling in `scrape_frontpage` with intelligent retry logic and exponential backoff
 
 For a quick sanity test, run the demo or instantiate with `headless=False` to watch the browser and confirm that posts keep loading as you scroll.
