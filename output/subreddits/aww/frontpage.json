@@ -4,8 +4,8 @@
   "meta": {
     "title": "A subreddit for cute and cuddly pictures",
     "description": "Things that make you go AWW! -- like puppies, bunnies, babies, and so on...\n\nFeel free to post original pictures and videos of cute things.",
-    "subscribers": 37616877,
-    "online_users": 754,
+    "subscribers": 37616775,
+    "online_users": 702,
     "created_timestamp": "2025-09-05T11:18:20.197000+0000",
     "sidebar_widgets": [
       {
@@ -208,6 +208,83 @@
     ],
     "rules": []
   },
-  "posts": [],
-  "scraped_at": "2025-09-05T11:52:53.764716"
+  "posts": [
+    {
+      "title": "my cat watching me fix the sink 😆",
+      "permalink": "https://www.reddit.com/r/aww/comments/1n92hlr/my_cat_watching_me_fix_the_sink/",
+      "score": 21521,
+      "comments": 192,
+      "post_id": "t3_1n92hlr",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Jarednapoleon",
+      "author_id": "t2_ata4m6d6",
+      "subreddit_id": "t5_2qh1o",
+      "subreddit": "r/aww",
+      "created_ts": "2025-09-05T11:18:20.197000+0000",
+      "content_href": "https://i.redd.it/5sv916lhybnf1.jpeg",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://preview.redd.it/my-cat-watching-me-fix-the-sink-v0-5sv916lhybnf1.jpeg?width=640&crop=smart&auto=webp&s=ed360ac43cde45a4f22af345403d9c53753a6e85",
+      "is_promoted": false
+    },
+    {
+      "title": "ICYMI: Shelters and rescues are full, but just one pet’s adoption can transform the lives of many. That’s The Rescue Effect. Use our Shelter Finder to locate adoptable pets near you!🐾",
+      "permalink": "https://www.reddit.com/user/ASPCA/comments/1n5syli/icymi_shelters_and_rescues_are_full_but_just_one/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n5syli",
+      "post_type": "video",
+      "domain": "aspca.org",
+      "author": "ASPCA",
+      "author_id": "t2_7kpjd",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-01T16:13:30.138000+0000",
+      "content_href": "https://v.redd.it/m5eqrvyydjmf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1y6ivg/styles/profileIcon_24o6hj564obf1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=a04f9a5bad0400d5923f78bb2f3490c4e471c11f",
+      "is_promoted": true
+    },
+    {
+      "title": "This is Muffin. He's not mine, but ever since my daughter hurt herself in the garden a while ago, he comes every day. He sits at the back door watching till he sees her and knows she ok. 🥰😍😻",
+      "permalink": "https://www.reddit.com/r/aww/comments/1mwmu7x/this_is_muffin_hes_not_mine_but_ever_since_my/",
+      "score": 70758,
+      "comments": 587,
+      "post_id": "t3_1mwmu7x",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "rawforager",
+      "author_id": "t2_bddfp5t",
+      "subreddit_id": "t5_2qh1o",
+      "subreddit": "r/aww",
+      "created_ts": "2025-08-21T20:50:15.502000+0000",
+      "content_href": "https://i.redd.it/u0ttdswtqfkf1.jpeg",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Rescued from the streets in Thailand and came back with me to the UK. The bestest boy.",
+      "permalink": "https://www.reddit.com/r/aww/comments/1n90z4g/rescued_from_the_streets_in_thailand_and_came/",
+      "score": 15876,
+      "comments": 150,
+      "post_id": "t3_1n90z4g",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Longjumping_Leg2213",
+      "author_id": "t2_1x1jpx08mz",
+      "subreddit_id": "t5_2qh1o",
+      "subreddit": "r/aww",
+      "created_ts": "2025-09-05T09:52:48.012000+0000",
+      "content_href": "https://i.redd.it/i7ort3i6jbnf1.jpeg",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    }
+  ],
+  "scraped_at": "2025-09-05T15:42:11.729647"
 }

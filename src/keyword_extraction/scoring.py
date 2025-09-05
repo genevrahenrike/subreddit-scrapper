@@ -41,6 +41,10 @@ def compute_tfidf_per_doc(
     min_df_bigram: int,
     min_df_trigram: int,
     desc_idf_power: float = config.DEFAULT_DESC_IDF_POWER,
+    desc_drop_generic_unigrams: bool = config.DEFAULT_DESC_DROP_GENERIC_UNIGRAMS,
+    desc_generic_df_ratio: float = config.DEFAULT_DESC_GENERIC_DF_RATIO,
+    desc_drop_generic_phrases: bool = config.DEFAULT_DESC_DROP_GENERIC_PHRASES,
+    desc_generic_phrase_df_ratio: float = config.DEFAULT_DESC_GENERIC_PHRASE_DF_RATIO,
 ) -> Counter:
     """
     Compute TF-IDF for description text of a single document.
@@ -48,19 +52,39 @@ def compute_tfidf_per_doc(
       idf_eff = idf ** desc_idf_power (0..1 reduces DF dominance)
     score = tf * idf_eff * boost
 
-    Additionally prunes rare multi-grams:
-      - bigrams kept only if df >= min_df_bigram
-      - trigrams kept only if df >= min_df_trigram
+    Additionally:
+      - Prunes rare multi-grams:
+          * bigrams kept only if df >= min_df_bigram
+          * trigrams kept only if df >= min_df_trigram
+      - Optionally drops globally generic unigrams based on DF ratio across subreddits:
+          * if desc_drop_generic_unigrams and (df / N) >= desc_generic_df_ratio
+      - Optionally drops globally generic phrases (bi/tri-grams) based on DF ratio across subreddits:
+          * if desc_drop_generic_phrases and (df / N) >= desc_generic_phrase_df_ratio
     """
     grams = tokens_to_ngrams(tokens, max_ngram)
     tfidf = Counter()
     for g, tf in grams.items():
         n_words = g.count(" ") + 1
         df = docfreq.get(g, 0)
+
+        # Rare multi-gram pruning
         if n_words == 2 and df < min_df_bigram:
             continue
         if n_words == 3 and df < min_df_trigram:
             continue
+
+        # Generic unigram pruning by DF ratio across descriptions
+        if n_words == 1 and desc_drop_generic_unigrams:
+            df_ratio = (df / total_docs) if total_docs > 0 else 0.0
+            if df_ratio >= desc_generic_df_ratio:
+                continue
+
+        # Generic phrase pruning by DF ratio across descriptions
+        if n_words >= 2 and desc_drop_generic_phrases:
+            df_ratio = (df / total_docs) if total_docs > 0 else 0.0
+            if df_ratio >= desc_generic_phrase_df_ratio:
+                continue
+
         idf = math.log((1.0 + total_docs) / (1.0 + df)) + 1.0
         idf_eff = idf ** max(0.0, float(desc_idf_power))
         boost = 1.0

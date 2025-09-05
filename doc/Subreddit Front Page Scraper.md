@@ -3,29 +3,17 @@
 This guide explains how to use `subreddit_frontpage_scraper.py`, what it saves, and the non-obvious behavior (scrolling, gate handling, fallbacks, and tuning).
 
 ### What it does
-- Loads `https://www.reddit.com/r/<subreddit## Configuration (FPConfig)
-Key options you may want to tune:
-- `headless` (bool): Run without UI. Set to `False` to watch scrolling and aid debugging.
-- `proxy_server` (str | None): Use a proxy (also read from `PROXY_SERVER`).
-- `timeout_ms` (int): Playwright page/context default timeouts.
-- `user_agent` (str): Overrides the UA string.
-- `max_attempts` (int): Browser retry attempts within one scrape.
-- `include_promoted` (bool, default True): Whether to include promoted/ad content in results.
-
-Lazy-load / scrolling knobs:
-- `min_posts` (int, default 50): Target number of posts to load before stopping.
-- `max_scroll_loops` (int): Hard cap on scroll iterations.
-- `scroll_step_px` (int): How far to wheel-scroll per iteration.
-- `scroll_wait_ms` (int): Wait after each scroll to allow network/render.
-- `stagnant_loops` (int): Stop if post count hasn't increased for this many iterations.
-- `max_page_seconds` (float, default 75.0): Overall time budget for a single page.
-- `save_debug_html` (bool): Write a debug HTML snapshot if too few posts.ght (Chromium).
+- Loads `https://www.reddit.com/r/<subreddit>` front page with Playwright using multiple browser engines.
+- **Multi-browser fingerprinting**: Supports Chromium, WebKit (Safari-like), and Firefox engines with authentic user agent profiles.
+- **Intelligent profile rotation**: Automatically switches between browser profiles to reduce detection and blocking.
+- **Persistent session support**: Maintains cookies and cache across requests for improved performance and authenticity.
 - Handles cookie/consent and mature content interstitials best‑effort without login.
 - Auto-scrolls to trigger lazy loading until a target number of posts are rendered.
 - Parses rich post metadata from the new Reddit UI (the `shreddit-post` and `shreddit-ad-post` web components).
 - **Detects and handles promoted content** (ads) with configurable filtering options.
 - **Extracts comprehensive subreddit metadata** including online user counts and sidebar widgets.
 - **Intelligently parses sidebar content** with special handling for link collections and formatted text.
+- **Enhanced anti-detection**: Human-like scrolling patterns, randomized delays, and engine-specific stealth evasions.
 - Falls back to `https://old.reddit.com/r/<subreddit>/` if the new UI yields no/too few posts.
 - Saves JSON to `output/subreddits/<name>/frontpage.json`; optionally saves HTML snapshots for debugging.
 
@@ -34,7 +22,11 @@ Lazy-load / scrolling knobs:
 ## Prerequisites
 - Python 3.9+
 - Dependencies: `pip install -r requirements.txt`
-- One-time browser install: `playwright install chromium`
+- Browser engines (install as needed):
+  - Chromium (default): `playwright install chromium`
+  - WebKit (Safari-like): `playwright install webkit`  
+  - Firefox: `playwright install firefox`
+  - All browsers: `playwright install`
 
 Optional:
 - Proxy: set `PROXY_SERVER` (e.g. `http://user:pass@host:port` or `socks5://host:port`).
@@ -60,8 +52,154 @@ python subreddit_frontpage_scraper.py \
   --debug-html \
   --exclude-promoted \
   --offset 1000 \
-  --overwrite
+  --overwrite \
+  --multi-profile \
+  --persistent-session \
+  --disable-images \
+  --wait-for-internet \
+  --internet-check-interval 15.0
 ```
+
+---
+
+## Bandwidth optimization and connectivity handling
+
+### Image download control
+By default, the scraper blocks image downloads to save bandwidth, especially important when using residential proxies with data limits:
+
+```bash
+# Images blocked by default (recommended for bandwidth saving)
+python subreddit_frontpage_scraper.py --subs r/technology
+
+# Explicitly disable images
+python subreddit_frontpage_scraper.py --subs r/technology --disable-images
+
+# Enable image downloads (uses more bandwidth)
+python subreddit_frontpage_scraper.py --subs r/technology --enable-images
+```
+
+**Benefits of blocking images:**
+- Significantly reduced bandwidth usage (often 70-90% savings)
+- Faster page loading times
+- More efficient for residential proxy usage
+- Post metadata and text content remain fully available
+
+### Internet connectivity monitoring
+The scraper can distinguish between rate limiting and actual internet connectivity issues, automatically waiting for connection restoration:
+
+```bash
+# Wait for internet connection (default behavior)
+python subreddit_frontpage_scraper.py --subs r/technology
+
+# Don't wait for internet, fail immediately on connectivity issues
+python subreddit_frontpage_scraper.py --subs r/technology --no-wait-internet
+
+# Use custom connectivity check endpoint and interval
+python subreddit_frontpage_scraper.py --subs r/technology \
+  --internet-check-url "https://httpbin.org/status/204" \
+  --internet-check-interval 5.0
+```
+
+**How connectivity monitoring works:**
+- Automatically detects internet connectivity errors (vs rate limiting)
+- Uses Google's generate_204 endpoint for reliable connectivity checks
+- Waits and retries until internet connection is restored
+- Resets retry counter when connection is back
+- Distinguishes between network issues and Reddit rate limiting
+
+**Common connectivity error patterns detected:**
+- `ERR_INTERNET_DISCONNECTED` - Complete internet loss
+- `ERR_NETWORK_CHANGED` - Network interface changes
+- `ERR_PROXY_CONNECTION_FAILED` - Proxy connectivity issues
+- `ECONNREFUSED` / `EHOSTUNREACH` - Network unreachable
+
+---
+
+## Browser Fingerprinting & Anti-Detection Features
+
+### Browser Engine Selection
+Choose from multiple browser engines to diversify your fingerprints and reduce detection:
+
+```bash
+# Use WebKit (Safari-like) - most human-like on macOS
+python subreddit_frontpage_scraper.py --subs r/technology --browser-engine webkit
+
+# Use Firefox for different fingerprint  
+python subreddit_frontpage_scraper.py --subs r/programming --browser-engine firefox
+
+# Use Chromium (default)
+python subreddit_frontpage_scraper.py --subs r/gaming --browser-engine chromium
+```
+
+**Browser Profiles:**
+- **WebKit**: Safari 18.6 profile with authentic macOS headers and user agent
+- **Chromium**: Chrome 124 profile with comprehensive stealth evasions
+- **Firefox**: Firefox 130 profile with Mozilla-specific headers
+
+### Multi-Profile Rotation
+Automatically rotate between different browser profiles to maximize fingerprint diversity:
+
+```bash
+# Enable multi-profile rotation (switches every 3 requests)
+python subreddit_frontpage_scraper.py --subs r/a r/b r/c r/d r/e --multi-profile
+
+# Output shows which profile was used:
+# [saved] output/subreddits/a/frontpage.json [webkit] — posts=25 (promoted=2)
+# [saved] output/subreddits/b/frontpage.json [webkit] — posts=30 (promoted=1) 
+# [saved] output/subreddits/c/frontpage.json [webkit] — posts=22 (promoted=3)
+# [profile] Switching browser profile after 3 requests
+# [browser] Started firefox engine
+# [saved] output/subreddits/d/frontpage.json [firefox] — posts=28 (promoted=2)
+```
+
+**How Multi-Profile Works:**
+- Profiles are shuffled randomly on startup
+- Switches browser engine every 3 subreddits by default
+- Closes and restarts browser when changing engines
+- Creates fresh context for same-engine switches
+- Shows current profile in output for transparency
+
+### Persistent Sessions
+Enable persistent browser sessions with cookies and cache for improved performance and authenticity:
+
+```bash
+# Use persistent session with default directory
+python subreddit_frontpage_scraper.py --subs r/news --persistent-session
+
+# Use custom user data directory  
+python subreddit_frontpage_scraper.py --subs r/worldnews --persistent-session --user-data-dir ./my_browser_data
+
+# Combine with specific browser engine
+python subreddit_frontpage_scraper.py --subs r/science --browser-engine webkit --persistent-session
+```
+
+**Benefits of Persistent Sessions:**
+- Maintains cookies across requests (appears as returning user)
+- Leverages browser cache for faster page loads
+- Preserves session state and preferences
+- Reduces network traffic and improves throughput
+- More authentic browsing patterns
+
+### Advanced Anti-Detection Features
+
+**Human-like Behavior:**
+- Randomized scroll patterns (varying speeds, multiple small scrolls)
+- Mouse movements before clicking elements
+- Variable delays between actions (0.5-1.2s jitter)
+- Realistic viewport sizes (1280-1440x800-900)
+
+**Engine-Specific Stealth:**
+- **WebKit**: Safari vendor strings, Apple-specific navigator properties
+- **Chromium**: Chrome runtime objects, plugin emulation, permissions API
+- **Firefox**: Mozilla build IDs, Gecko-specific properties
+
+**Enhanced Error Recovery:**
+- Context recycling on connection errors for fresh fingerprints
+- Automatic profile switching during retries
+- Exponential backoff with jitter (2s, 4s, 8s...)
+- Intelligent retry patterns based on error type
+
+---
 
 ### Promoted content handling
 By default, the scraper includes promoted content (ads) in the results. You can control this behavior:
@@ -175,19 +313,33 @@ The analyzer categorizes errors:
 ```python
 from subreddit_frontpage_scraper import FPConfig, SubredditFrontPageScraper
 
+# Basic configuration with bandwidth optimization
 cfg = FPConfig(
     headless=True,                    # set False to watch the browser
     min_posts=50,                     # target number of posts to load
     include_promoted=True,            # include promoted/ad content (default)
     max_attempts=3,                   # retry attempts (increased from 2)
-    retry_connection_errors=True,     # retry on connection errors
     retry_delay_base=2.0,            # base delay for exponential backoff
+    disable_images=True,             # block images to save bandwidth (default)
+    wait_for_internet=True,          # wait for internet restoration (default)
 )
-scraper = SubredditFrontPageScraper(cfg)
+
+# Advanced browser fingerprinting configuration with connectivity monitoring
+cfg_advanced = FPConfig(
+    headless=True,
+    retry_connection_errors=True,
+    disable_images=True,             # save bandwidth on residential proxies
+    wait_for_internet=True,          # intelligent connectivity handling
+    internet_check_interval=15.0,   # check every 15 seconds when offline
+)
+
+scraper = SubredditFrontPageScraper(cfg_advanced)
 scraper._start()
 try:
-    data = scraper.scrape_frontpage("r/aww")
-    scraper.save_frontpage(data["subreddit"], data)
+    # Scrape multiple subreddits with profile rotation
+    for sub in ["r/technology", "r/programming"]:
+        data = scraper.scrape_frontpage(sub)
+        scraper.save_frontpage(data["subreddit"], data)
 finally:
     scraper._stop()
 ```
@@ -393,9 +545,19 @@ Key options you may want to tune:
 - `headless` (bool): Run without UI. Set to `False` to watch scrolling and aid debugging.
 - `proxy_server` (str | None): Use a proxy (also read from `PROXY_SERVER`).
 - `timeout_ms` (int): Playwright page/context default timeouts.
-- `user_agent` (str): Overrides the UA string.
+- `user_agent` (str): Overrides the UA string (auto-set by browser_engine).
 - `max_attempts` (int, default 3): Browser retry attempts within one scrape (increased from 2).
 - `include_promoted` (bool, default True): Whether to include promoted/ad content in results.
+- `browser_engine` (str, default "chromium"): Browser engine to use - "chromium", "webkit", or "firefox"
+- `multi_profile` (bool, default False): Rotate between different browser profiles for fingerprint diversity
+- `persistent_session` (bool, default False): Use persistent user data directory with cookies and cache
+- `user_data_dir` (str | None): Custom directory for persistent browser user data (auto-generated if None)
+
+Bandwidth optimization:
+- `disable_images` (bool, default True): Block image downloads to save bandwidth and improve speed
+- `wait_for_internet` (bool, default True): Wait for internet connection to be restored before continuing
+- `internet_check_url` (str, default "https://www.google.com/generate_204"): Reliable endpoint for connectivity checks
+- `internet_check_interval` (float, default 5.0): Seconds between connectivity checks when offline
 
 Enhanced error handling:
 - `retry_connection_errors` (bool, default True): Retry on connection errors like ERR_CONNECTION_REFUSED.
@@ -418,9 +580,14 @@ How the auto-scroll works:
 ---
 
 ## Consent/NSFW gates and stealth
-- Cookie / consent banners: Attempts to click common Accept buttons.
-- Mature content interstitial: Attempts to continue without login.
-- Stealth: Sets `navigator.webdriver` to undefined, reasonable `navigator.languages`, `platform`, and a modern UA.
+- Cookie / consent banners: Attempts to click common Accept buttons with human-like delays and mouse movements.
+- Mature content interstitial: Attempts to continue without login using multiple selectors.
+- **Multi-engine stealth**: Engine-specific anti-detection measures:
+  - **WebKit**: Safari vendor strings, Apple navigator properties, authentic macOS fingerprint
+  - **Chromium**: Chrome runtime objects, plugin emulation, permissions API, sec-ch-ua headers
+  - **Firefox**: Mozilla build IDs, Gecko-specific properties, Firefox navigator attributes
+- **Human-like behavior**: Randomized delays, mouse movements, variable scroll patterns, realistic viewport sizes
+- **Context recycling**: Fresh browser contexts on errors for improved fingerprint diversity
 
 Limitations: Some subreddits or sessions may hard‑require login; in such cases, fallback to old.reddit is attempted but may still be limited.
 
@@ -438,17 +605,23 @@ If the new UI yields no posts (or far fewer than expected), the scraper visits `
   - Try `headless=False` to watch the scroll behavior.
 - Suspected gating:
   - Manually verify if the subreddit requires login (try in a fresh incognito browser).
-  - Consider using a residential proxy (`PROXY_SERVER`) and a more common UA.
+  - **Try different browser engines**: `--browser-engine webkit` or `--browser-engine firefox`
+  - **Enable multi-profile rotation**: `--multi-profile` to switch between fingerprints
+  - Consider using a residential proxy (`PROXY_SERVER`) and persistent sessions (`--persistent-session`)
 - Rate limiting / flaky loads:
   - Add small sleeps between subreddits.
   - Lower `min_posts` when speed matters.
+  - **Use multi-profile mode**: `--multi-profile` to rotate between browser fingerprints
   - Rotate proxies if scraping many subreddits in a batch.
   - Keep batch `CONCURRENCY` at 2–3 and use `INITIAL_JITTER_S` to avoid synchronized bursts.
-- Connection errors:
+- Connection errors / blocking episodes:
+  - **Switch browser engines**: WebKit often bypasses Chrome-specific blocks
+  - **Enable context recycling**: Automatic on retries with enhanced error recovery
   - Most connection errors (ERR_CONNECTION_REFUSED, timeouts) are automatically retried
   - Use `scripts/analyze_results.py` to identify patterns in failed subreddits
   - Generate retry lists for persistent failures: `--generate-retry --error-types CONNECTION_REFUSED`
 - Large-scale scraping:
+  - **Use different browser engines per server**: Distribute fingerprint diversity
   - Split work across multiple servers using `--start` and `--limit` arguments
   - Use different proxies/IPs per server to avoid rate limiting
   - Monitor progress with `output/subreddits/manifest.json`
@@ -504,21 +677,131 @@ PROXY_SERVER="http://user:pass@host:port" python -c "from subreddit_frontpage_sc
 
 ---
 
+## Browser Fingerprinting Examples & Best Practices
+
+### Quick Anti-Detection Tests
+Test different browser engines to see which works best for your use case:
+
+```bash
+# Test WebKit (Safari-like) - often most successful on macOS
+python3 subreddit_frontpage_scraper.py --subs r/technology --browser-engine webkit --min-posts 10
+
+# Test Firefox - good middle ground  
+python3 subreddit_frontpage_scraper.py --subs r/technology --browser-engine firefox --min-posts 10
+
+# Test Chromium - most features but also most detected
+python3 subreddit_frontpage_scraper.py --subs r/technology --browser-engine chromium --min-posts 10
+```
+
+### Production Multi-Profile Setup
+For large-scale scraping with maximum fingerprint diversity:
+
+```bash
+# Multi-profile with persistent sessions and proxy
+python3 subreddit_frontpage_scraper.py \
+  --file subreddit_list.txt \
+  --multi-profile \
+  --persistent-session \
+  --proxy "http://user:pass@residential-proxy:port" \
+  --min-posts 25 \
+  --overwrite
+
+# Output shows profile rotation:
+# [browser] Started webkit engine
+# [saved] output/subreddits/tech/frontpage.json [webkit] — posts=32 (promoted=3)
+# [saved] output/subreddits/prog/frontpage.json [webkit] — posts=28 (promoted=2)
+# [saved] output/subreddits/web/frontpage.json [webkit] — posts=30 (promoted=1)
+# [profile] Switching browser profile after 3 requests
+# [browser] Started firefox engine
+# [saved] output/subreddits/python/frontpage.json [firefox] — posts=25 (promoted=2)
+```
+
+### Batch Processing with Fingerprint Diversity
+Split work across multiple processes/servers with different browser profiles:
+
+```bash
+# Server 1: WebKit engine with proxy 1
+PROXY_SERVER="http://proxy1:port" python3 subreddit_frontpage_scraper.py \
+  --file batch1.txt --browser-engine webkit --persistent-session
+
+# Server 2: Firefox engine with proxy 2  
+PROXY_SERVER="http://proxy2:port" python3 subreddit_frontpage_scraper.py \
+  --file batch2.txt --browser-engine firefox --persistent-session
+
+# Server 3: Multi-profile rotation with proxy 3
+PROXY_SERVER="http://proxy3:port" python3 subreddit_frontpage_scraper.py \
+  --file batch3.txt --multi-profile --persistent-session
+```
+
+### Recovery from Blocking Episodes
+When experiencing connection refusal or rate limiting:
+
+```bash
+# Generate retry list from failed attempts
+python3 scripts/analyze_results.py --generate-retry --error-types CONNECTION_REFUSED TIMEOUT
+
+# Retry with different browser engine and fresh sessions
+python3 subreddit_frontpage_scraper.py \
+  --file retry_subreddits.txt \
+  --browser-engine webkit \
+  --overwrite \
+  --min-posts 15
+
+# If still blocked, try multi-profile with longer delays
+python3 subreddit_frontpage_scraper.py \
+  --file retry_subreddits.txt \
+  --multi-profile \
+  --persistent-session \
+  --overwrite
+```
+
+### Debugging Browser Fingerprints
+Watch browser behavior to debug detection issues:
+
+```bash
+# Watch WebKit in action (non-headless)
+python3 subreddit_frontpage_scraper.py \
+  --subs r/test \
+  --browser-engine webkit \
+  --no-headless \
+  --debug-html
+
+# Compare behavior across engines
+for engine in webkit firefox chromium; do
+  echo "Testing $engine engine..."
+  python3 subreddit_frontpage_scraper.py \
+    --subs r/test --browser-engine $engine --overwrite --min-posts 5
+done
+```
+
+---
+
 ## Known limitations
 - Login‑gated or quarantined subs may not expose content to anonymous sessions.
 - The new Reddit UI changes frequently; selectors/attributes may require maintenance.
-- Heavy scraping may trigger rate limiting; use conservative pacing and proxies.
+- Heavy scraping may trigger rate limiting; use conservative pacing, proxies, and profile rotation.
+- **WebKit limitations**: Fewer configuration options compared to Chromium, but often most successful.
+- **Firefox limitations**: Some persistent session features work differently than Chromium.
 
 ---
 
 ## Where to look in the code
 - Class: `SubredditFrontPageScraper`
-  - `_apply_stealth`, `_dismiss_banners`, `_handle_mature_gate`
-  - `_auto_scroll_to_load_posts` (lazy-load logic and stopping conditions)
+  - `_start`, `_start_browser` (multi-engine browser initialization)
+  - `_get_current_profile`, `_recycle_browser_for_multi_profile` (profile rotation logic)
+  - `_apply_stealth`, `_dismiss_banners`, `_handle_mature_gate` (enhanced anti-detection)
+  - `_auto_scroll_to_load_posts` (human-like scrolling with randomization)
   - `_parse_posts_new_reddit` (rich parsing of `shreddit-post` and `shreddit-ad-post`)
   - `_parse_meta` (comprehensive metadata extraction including online users and sidebar widgets)
   - `_fetch_old_reddit` (fallback parsing)
   - `save_frontpage` (writes JSON)
+
+**Key browser fingerprinting components:**
+- `BROWSER_PROFILES`: Dictionary of authentic browser profiles (WebKit, Chromium, Firefox)
+- `_apply_stealth`: Engine-specific anti-detection measures
+- Multi-profile rotation: Automatic browser switching every 3 requests
+- Context recycling: Fresh fingerprints on connection errors
+- Human behavior simulation: Randomized delays, mouse movements, scroll patterns
 
 **Key parsing methods:**
 - `_parse_meta`: Handles online users, sidebar widgets, creation timestamps
@@ -531,5 +814,65 @@ PROXY_SERVER="http://user:pass@host:port" python -c "from subreddit_frontpage_sc
 - `scripts/generate_parallel_jobs.py`: Generate commands for splitting work across multiple servers
 - `scripts/analyze_results.py`: Analyze scraping results and generate retry lists
 - Enhanced error handling in `scrape_frontpage` with intelligent retry logic and exponential backoff
+
+---
+
+## Try it
+
+### Quick test with different browser engines
+Scrape one subreddit and save JSON with different browser fingerprints:
+
+```bash
+# Test WebKit (Safari-like) - recommended for macOS
+python3 subreddit_frontpage_scraper.py --subs r/aww --browser-engine webkit --min-posts 10
+
+# Test with persistent session for cache benefits
+python3 subreddit_frontpage_scraper.py --subs r/funny --browser-engine webkit --persistent-session --min-posts 10
+
+# Test multi-profile rotation  
+python3 subreddit_frontpage_scraper.py --subs r/a r/b r/c r/d --multi-profile --min-posts 5
+```
+
+### Advanced fingerprinting test with bandwidth optimization
+Scrape with maximum anti-detection features and bandwidth savings:
+
+```bash
+# Multi-profile + persistent sessions + proxy + bandwidth optimization
+PROXY_SERVER="http://user:pass@host:port" python3 subreddit_frontpage_scraper.py \
+  --subs r/technology r/programming r/webdev \
+  --multi-profile \
+  --persistent-session \
+  --disable-images \
+  --wait-for-internet \
+  --min-posts 20 \
+  --debug-html
+```
+
+### Programmatic test with all features
+```python
+from subreddit_frontpage_scraper import FPConfig, SubredditFrontPageScraper
+
+# Maximum anti-detection configuration with bandwidth optimization
+cfg = FPConfig(
+    browser_engine="webkit",          # Safari-like engine
+    multi_profile=True,               # Rotate profiles
+    persistent_session=True,          # Maintain cookies/cache
+    disable_images=True,              # Save bandwidth
+    wait_for_internet=True,           # Handle connectivity issues
+    headless=True,                    # or False to watch
+    min_posts=20,
+    max_attempts=3,
+)
+
+scraper = SubredditFrontPageScraper(cfg)
+scraper._start()
+try:
+    for sub in ["r/technology", "r/programming", "r/webdev"]:
+        data = scraper.scrape_frontpage(sub)
+        scraper.save_frontpage(data["subreddit"], data)
+        print(f"✅ {sub}: {len(data['posts'])} posts with {scraper._current_engine}")
+finally:
+    scraper._stop()
+```
 
 For a quick sanity test, run the demo or instantiate with `headless=False` to watch the browser and confirm that posts keep loading as you scroll.

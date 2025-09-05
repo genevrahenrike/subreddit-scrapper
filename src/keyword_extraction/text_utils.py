@@ -5,6 +5,10 @@ from typing import Iterable, List, Optional, Set
 from . import config
 from .constants import EXPANSIONS, HEURISTIC_SUFFIXES, STOPWORDS
 
+# Sentinel token inserted at removed-stopword positions to prevent forming n-grams across them.
+# This avoids unnatural phrases like "common topics oil" from "... common topics include oil ..."
+BOUNDARY_TOKEN = "<_>"
+
 # Optional word segmentation backstops (used for glued lowercase names)
 _HAS_WORDSEGMENT = False
 _HAS_WORDNINJA = False
@@ -170,34 +174,102 @@ def expand_token(token: str) -> List[str]:
     return EXPANSIONS.get(token.lower(), [])
 
 
-def filter_stop_tokens(tokens: Iterable[str], extra_stopwords: Optional[Set[str]] = None) -> List[str]:
-    out = []
+def filter_stop_tokens(
+    tokens: Iterable[str],
+    extra_stopwords: Optional[Set[str]] = None,
+    insert_boundaries: bool = False,
+) -> List[str]:
+    """
+    Token filter that supports:
+    - Optional curated stopword usage (config.DEFAULT_USE_CURATED_STOPWORDS)
+    - Caller-provided extra stopwords
+    - Numeric/year pruning and short-token pruning with a small allowlist
+    - Optional general English frequency pruning (Zipf ≥ threshold) via wordfreq
+    - Optional insertion of BOUNDARY_TOKEN at removed-stopword positions (prevents cross-stopword n-grams)
+    """
+    out: List[str] = []
     extra = extra_stopwords or set()
+
+    # Optional general English frequency via wordfreq (Zipf scale).
+    # Safe to import here; Python caches imports so this is negligible after first call.
+    try:
+        from wordfreq import zipf_frequency as _zipf_frequency  # type: ignore
+        _has_wf = True
+    except Exception:
+        _has_wf = False
+
+    allow_short = {"ai", "vr", "uk", "us", "eu", "3d"}
+
+    def _append_boundary_once():
+        if insert_boundaries and out and out[-1] != BOUNDARY_TOKEN:
+            out.append(BOUNDARY_TOKEN)
+
     for t in tokens:
-        lt = t.lower()
-        if lt in STOPWORDS or lt in extra:
+        lt = (t or "").lower().strip()
+        if not lt:
+            _append_boundary_once()
             continue
+
+        # Curated stopwords (optional)
+        if config.DEFAULT_USE_CURATED_STOPWORDS and (lt in STOPWORDS):
+            _append_boundary_once()
+            continue
+        # Always respect caller-provided extra stopwords
+        if lt in extra:
+            _append_boundary_once()
+            continue
+
         # Drop numeric-only tokens and common years
         if lt.isdigit():
+            _append_boundary_once()
             continue
         if re.fullmatch(r"(19|20)\d{2}", lt):
+            _append_boundary_once()
             continue
         if re.fullmatch(r"\d{2,}", lt):
+            _append_boundary_once()
             continue
-        if len(lt) < config.DEFAULT_MIN_TOKEN_LEN and lt not in {"ai", "vr", "uk", "us", "eu", "3d"}:
+
+        # Short tokens (allow some domain-meaningful short tokens)
+        if len(lt) < config.DEFAULT_MIN_TOKEN_LEN and lt not in allow_short:
+            _append_boundary_once()
             continue
+
+        # General English frequency pruning for very common words (unigrams only)
+        if config.DEFAULT_USE_GENERAL_ZIPF and _has_wf and lt not in allow_short:
+            try:
+                if _zipf_frequency(lt, "en") >= float(config.DEFAULT_GENERAL_ZIPF_THRESHOLD):
+                    _append_boundary_once()
+                    continue
+            except Exception:
+                # if wordfreq throws for any reason, skip pruning for this token
+                pass
+
+        # Keep token
         out.append(lt)
+
+    # Trim trailing boundary if present
+    if out and out[-1] == BOUNDARY_TOKEN:
+        out.pop()
+
     return out
 
 
 def tokens_to_ngrams(tokens: List[str], max_n: int) -> Counter:
+    """
+    Build contiguous n-grams but do not cross BOUNDARY_TOKEN markers.
+    Any window that contains the boundary sentinel is skipped.
+    """
     grams = Counter()
     n = len(tokens)
     for k in range(1, max_n + 1):
         if n < k:
             break
         for i in range(0, n - k + 1):
-            gram = " ".join(tokens[i : i + k])
+            window = tokens[i : i + k]
+            if BOUNDARY_TOKEN in window:
+                continue
+            gram = " ".join(window)
             if gram:
                 grams[gram] += 1
     return grams

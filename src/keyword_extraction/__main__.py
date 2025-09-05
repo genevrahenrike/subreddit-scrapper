@@ -119,6 +119,8 @@ def process_inputs(
     embed_k_terms: int = config.DEFAULT_EMBED_K_TERMS,
     # New controls
     desc_idf_power: float = config.DEFAULT_DESC_IDF_POWER,
+    desc_drop_generic_unigrams: bool = config.DEFAULT_DESC_DROP_GENERIC_UNIGRAMS,
+    desc_generic_df_ratio: float = config.DEFAULT_DESC_GENERIC_DF_RATIO,
     posts_idf_power: float = config.DEFAULT_POSTS_IDF_POWER,
     posts_engagement_alpha: float = config.DEFAULT_POSTS_ENGAGEMENT_ALPHA,
     compose_seed_source: str = "hybrid",
@@ -202,6 +204,25 @@ def process_inputs(
     docfreq, total_docs = build_docfreq(input_paths, max_ngram)
     print(f"[desc:pass1] total_docs={total_docs:,}, unique_terms={len(docfreq):,}", file=sys.stderr)
 
+    # Build dynamic cross-subreddit common unigram set for descriptions (optional).
+    # Guard against tiny corpora where DF ratios are unstable (disable when total_docs < 5).
+    desc_common_unigrams_set: Set[str] = set()
+    if desc_drop_generic_unigrams and total_docs >= 5:
+        thr = max(0.0, float(desc_generic_df_ratio))
+        # Require a minimum absolute DF to avoid over-pruning in small corpora
+        min_abs_df = max(2, int(round(0.05 * total_docs)))
+        for g, df in docfreq.items():
+            if " " not in g:
+                if df >= min_abs_df:
+                    df_ratio = df / total_docs
+                    if df_ratio >= thr:
+                        desc_common_unigrams_set.add(g)
+    if desc_common_unigrams_set:
+        try:
+            print(f"[desc:pass1] dynamic common unigrams={len(desc_common_unigrams_set)} (df_ratio≥{desc_generic_df_ratio})", file=sys.stderr)
+        except Exception:
+            pass
+
     # Cache for loaded frontpage JSONs
     frontpage_cache: Dict[str, dict] = {}
 
@@ -214,9 +235,19 @@ def process_inputs(
         with open(outp, "w", encoding="utf-8") as fout:
             for sub in iter_subreddits_from_file(inp):
                 # Description TF-IDF
-                desc_tokens = extract_desc_terms(sub.desc_text, max_ngram)
+                desc_tokens = extract_desc_terms(sub.desc_text, max_ngram, extra_stopwords=desc_common_unigrams_set)
                 desc_tfidf = compute_tfidf_per_doc(
-                    desc_tokens, docfreq, total_docs, max_ngram, min_df_bigram, min_df_trigram, desc_idf_power
+                    desc_tokens,
+                    docfreq,
+                    total_docs,
+                    max_ngram,
+                    min_df_bigram,
+                    min_df_trigram,
+                    desc_idf_power,
+                    desc_drop_generic_unigrams,
+                    desc_generic_df_ratio,
+                    config.DEFAULT_DESC_DROP_GENERIC_PHRASES,
+                    config.DEFAULT_DESC_GENERIC_PHRASE_DF_RATIO,
                 )
 
                 # Ensure local multi-word phrases even if globally rare (keeps fuller phrases)
@@ -501,6 +532,21 @@ def main():
     ap.add_argument("--min-df-bigram", type=int, default=2, help="Minimum document frequency to keep bigrams")
     ap.add_argument("--min-df-trigram", type=int, default=2, help="Minimum document frequency to keep trigrams")
 
+    # Tokenization/global stopword and general-frequency controls
+    g_sw = ap.add_mutually_exclusive_group()
+    g_sw.add_argument("--use-curated-stopwords", dest="use_curated_stopwords", action="store_true", default=config.DEFAULT_USE_CURATED_STOPWORDS, help="Use curated stopword list (project-specific)")
+    g_sw.add_argument("--no-curated-stopwords", dest="use_curated_stopwords", action="store_false", help="Disable curated stopword list; rely on DF/Zipf")
+    g_zipf = ap.add_mutually_exclusive_group()
+    g_zipf.add_argument("--use-general-zipf", dest="use_general_zipf", action="store_true", default=config.DEFAULT_USE_GENERAL_ZIPF, help="Use general English Zipf frequency to drop very common unigrams")
+    g_zipf.add_argument("--no-general-zipf", dest="use_general_zipf", action="store_false", help="Disable Zipf-based unigram pruning")
+    ap.add_argument("--general-zipf-threshold", type=float, default=config.DEFAULT_GENERAL_ZIPF_THRESHOLD, help="Zipf threshold for 'very common' words (>= threshold drops; 5.0 typical)")
+
+    # Description generic unigram pruning across subreddits
+    g_dd = ap.add_mutually_exclusive_group()
+    g_dd.add_argument("--desc-drop-generic-unigrams", dest="desc_drop_generic_unigrams", action="store_true", default=config.DEFAULT_DESC_DROP_GENERIC_UNIGRAMS, help="Drop description unigrams with DF ratio >= --desc-generic-df-ratio")
+    g_dd.add_argument("--no-desc-drop-generic-unigrams", dest="desc_drop_generic_unigrams", action="store_false", help="Do not drop description unigrams by DF ratio")
+    ap.add_argument("--desc-generic-df-ratio", type=float, default=config.DEFAULT_DESC_GENERIC_DF_RATIO, help="DF ratio threshold for generic unigrams in descriptions")
+
     # Posts integration CLI
     ap.add_argument("--frontpage-glob", type=str, default=None, help="Glob for frontpage JSON files, e.g., 'output/subreddits/*/frontpage.json'")
     ap.add_argument("--posts-weight", type=float, default=config.DEFAULT_POSTS_WEIGHT, help="Weight multiplier for posts-derived scores (applied in merge)")
@@ -514,6 +560,7 @@ def main():
     ap.add_argument("--posts-drop-generic-unigrams", action="store_true", help="Drop unigram posts terms whose global DF ratio >= --posts-generic-df-ratio")
     ap.add_argument("--posts-theme-penalty", type=float, default=0.65, help="Multiplier to apply to posts terms with zero overlap to subreddit theme tokens (name + top description terms)")
     ap.add_argument("--posts-theme-top-desc-k", type=int, default=6, help="How many top description terms to include when forming the theme token set")
+    ap.add_argument("--include-content-preview", action="store_true", help="Include posts.content_preview in tokenization (off by default)")
 
     # New scoring controls
     ap.add_argument("--desc-idf-power", type=float, default=config.DEFAULT_DESC_IDF_POWER, help="Raise description IDF to this power (0..1 dampens DF influence)")
@@ -558,6 +605,16 @@ def main():
         inputs = [args.input_file]
     else:
         inputs = sorted(glob(args.input_glob))
+
+    # Apply global config toggles that affect tokenization
+    config.DEFAULT_USE_CURATED_STOPWORDS = bool(args.use_curated_stopwords)
+    config.DEFAULT_USE_GENERAL_ZIPF = bool(args.use_general_zipf)
+    try:
+        config.DEFAULT_GENERAL_ZIPF_THRESHOLD = float(args.general_zipf_threshold)
+    except Exception:
+        pass
+    if args.include_content_preview:
+        config.DEFAULT_INCLUDE_CONTENT_PREVIEW = True
 
     # Guard against huge memory by processing only selected files; each page file is small.
     process_inputs(

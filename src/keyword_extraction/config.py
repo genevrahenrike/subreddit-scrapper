@@ -27,6 +27,9 @@ DEFAULT_INCLUDE_CONTENT_PREVIEW = False  # keep off by default (often empty/nois
 # Posts phrase preference (posts-specific; can be tuned via CLI)
 DEFAULT_POSTS_PHRASE_BOOST_BIGRAM = 1.25
 DEFAULT_POSTS_PHRASE_BOOST_TRIGRAM = 1.5
+# Posts phrase commonness controls (optional)
+DEFAULT_POSTS_DROP_GENERIC_PHRASES = False
+DEFAULT_POSTS_GENERIC_PHRASE_DF_RATIO = 0.50
 
 # Embedding rerank defaults
 DEFAULT_EMBED_RERANK = False
@@ -39,6 +42,21 @@ DEFAULT_DESC_IDF_POWER = 0.85
 DEFAULT_POSTS_IDF_POWER = 0.65
 DEFAULT_POSTS_ENGAGEMENT_ALPHA = 0.0
 DEFAULT_EMBED_CANDIDATE_POOL = "union"
+
+# Dynamic commonness filtering and general-frequency controls
+# - Curated stopwords can be disabled to rely primarily on corpus DF + general English frequency.
+DEFAULT_USE_CURATED_STOPWORDS = True
+# - Enable/disable use of general English word frequency (Zipf scale) to drop very common unigrams.
+DEFAULT_USE_GENERAL_ZIPF = True
+# - Words with Zipf frequency >= threshold are considered very common (e.g., 5.0 ~ common English words).
+#   Set to 0 or negative to disable.
+DEFAULT_GENERAL_ZIPF_THRESHOLD = 5.0
+# - Description TF-IDF: optionally drop globally generic unigrams by DF ratio across subreddits.
+DEFAULT_DESC_DROP_GENERIC_UNIGRAMS = True
+DEFAULT_DESC_GENERIC_DF_RATIO = 0.10  # if appears in >=10% of descriptions, treat as generic
+# - Optionally drop globally generic phrases (bi/tri-grams) in descriptions by DF ratio.
+DEFAULT_DESC_DROP_GENERIC_PHRASES = False
+DEFAULT_DESC_GENERIC_PHRASE_DF_RATIO = 0.50
 
 # Composed theme-anchored keywords defaults
 DEFAULT_COMPOSE_ANCHOR_POSTS = True

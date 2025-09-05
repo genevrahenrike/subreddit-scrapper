@@ -409,3 +409,78 @@ Where to look in code
 - Composition with separated ordering vs scale and guardrails: [`composition.compose_theme_anchored_from_posts()`](src/keyword_extraction/composition.py:125)
 - Posts TF-IDF base scale: [`posts_processing.compute_posts_tfidf_for_frontpage()`](src/keyword_extraction/posts_processing.py:95)
 - CLI wiring: [`__main__.main()`](src/keyword_extraction/__main__.py:491)
+
+## 7. v2.2: Cross-subreddit commonness, Zipf-based filtering, and phrase-level DF pruning
+
+Motivation
+- Reduce inclusion of low-value, common conversational words without maintaining large curated stoplists.
+- Use the actual cross-subreddit corpus to identify generic tokens per run.
+- Add a language-level prior (general English frequency) to further suppress boilerplate unigrams.
+- Extend “generic” logic beyond unigrams to phrases, with safety guards for small corpora.
+
+What changed (code anchors)
+- Cross-subreddit dynamic common unigrams (description):
+  - Build DF across selected pages then derive a per-run set of common unigrams and use them as extra stopwords during description tokenization.
+  - Guardrails: only enabled when total_docs ≥ 5; also require a minimum absolute DF to avoid small-corpus over-pruning.
+  - Implementation and wiring: [`__main__.process_inputs()`](src/keyword_extraction/__main__.py:196) → extra_stopwords passed into [`description_processing.extract_desc_terms()`](src/keyword_extraction/description_processing.py:9) and scored via [`scoring.compute_tfidf_per_doc()`](src/keyword_extraction/scoring.py:36).
+- General English frequency (Zipf) for tokens:
+  - Optional per-token filter using wordfreq’s Zipf scale inside [`text_utils.filter_stop_tokens()`](src/keyword_extraction/text_utils.py:173).
+  - Controlled by config and CLI (see below). Falls back safely if the library isn’t installed.
+- Phrase-level generic DF pruning:
+  - Description TF-IDF: optional drop of globally generic bigrams/trigrams by DF ratio in [`scoring.compute_tfidf_per_doc()`](src/keyword_extraction/scoring.py:36).
+  - Posts TF-IDF: optional drop of globally generic bigrams/trigrams by DF ratio in [`posts_processing.compute_posts_tfidf_for_frontpage()`](src/keyword_extraction/posts_processing.py:95), including respect for ensure-K to avoid flooding.
+- Optional inclusion of content preview:
+  - Tokenization gate exposed in CLI; wired to config read by [`posts_processing._tokenize_post_text()`](src/keyword_extraction/posts_processing.py:43).
+
+New/updated defaults and config switches
+- Config (selected):
+  - Dynamic toggles:
+    - DEFAULT_USE_CURATED_STOPWORDS (default True)
+    - DEFAULT_USE_GENERAL_ZIPF (default True), DEFAULT_GENERAL_ZIPF_THRESHOLD (default 5.0)
+  - Description genericity:
+    - DEFAULT_DESC_DROP_GENERIC_UNIGRAMS (default True), DEFAULT_DESC_GENERIC_DF_RATIO (default 0.10)
+    - DEFAULT_DESC_DROP_GENERIC_PHRASES (default False), DEFAULT_DESC_GENERIC_PHRASE_DF_RATIO (default 0.50)
+  - Posts genericity:
+    - DEFAULT_POSTS_DROP_GENERIC_PHRASES (default False), DEFAULT_POSTS_GENERIC_PHRASE_DF_RATIO (default 0.50)
+- CLI (added):
+  - Stopword and Zipf controls:
+    - --use-curated-stopwords / --no-curated-stopwords
+    - --use-general-zipf / --no-general-zipf
+    - --general-zipf-threshold FLOAT
+  - Preview gate:
+    - --include-content-preview (off by default)
+
+Example runs
+- Strict, DF-driven baseline (no curated list; rely on corpus + Zipf):
+  ```
+  python3 -m src.keyword_extraction \
+    --input-glob 'output/pages/page_*.json' \
+    --output-dir output/keywords_v22 \
+    --topk 25 \
+    --min-df-bigram 2 \
+    --min-df-trigram 2 \
+    --no-curated-stopwords \
+    --use-general-zipf \
+    --general-zipf-threshold 5.0
+  ```
+- Phrase pruning on sparse corpora (use cautiously; start with descriptions only):
+  - Set config DEFAULT_DESC_DROP_GENERIC_PHRASES=True and DEFAULT_DESC_GENERIC_PHRASE_DF_RATIO in [config.py](src/keyword_extraction/config.py:1), or extend CLI (future) similarly.
+
+Operational guidance
+- If outputs still include boilerplate unigrams:
+  - Disable curated stopwords, enable Zipf filtering, and keep the threshold near 5.0–5.5.
+  - Ensure at least 5 page files in your run so dynamic unigram derivation is enabled (guarded).
+- If multi-gram chatter floods:
+  - Turn on description phrase generic pruning first; if that’s insufficient, enable posts phrase pruning next.
+  - Keep ensure-K locals enabled to preserve strong local phrases.
+- Small-corpus safety:
+  - Dynamic unigrams are disabled under 5 documents; either expand the corpus or rely more on Zipf in those cases.
+
+Effect
+- Reduced generic unigrams without manually curating large stoplists.
+- More room for salient multi-word phrases by suppressing common fillers.
+- Phrase-level pruning options help prevent “chatter” phrases from dominating, while ensure-K preserves high-signal locals.
+
+Notes
+- All filters are deterministic and accept reasonable defaults. The embedding reranker stage remains optional and unchanged.
+- If wordfreq cannot be installed due to environment limits, Zipf filtering silently disables; dynamic DF features still work.

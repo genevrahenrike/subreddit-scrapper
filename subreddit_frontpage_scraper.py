@@ -17,6 +17,7 @@ import json
 import re
 import time
 import random
+import requests
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
@@ -31,10 +32,41 @@ except Exception:
     PlaywrightTimeoutError = Exception
 
 
-DEFAULT_UA = (
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5_0) AppleWebKit/537.36 "
-    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-)
+# Browser profile configurations
+BROWSER_PROFILES = {
+    "chromium": {
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "accept_language": "en-US,en;q=0.9",
+        "sec_fetch_site": "none",
+        "sec_fetch_mode": "navigate",
+        "sec_fetch_dest": "document",
+        "sec_ch_ua": '"Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"',
+        "sec_ch_ua_mobile": "?0",
+        "sec_ch_ua_platform": '"macOS"',
+    },
+    "webkit": {
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "accept_language": "en-US,en;q=0.9",
+        "accept_encoding": "gzip, deflate, br",
+        "sec_fetch_site": "none",
+        "sec_fetch_mode": "navigate",
+        "sec_fetch_dest": "document",
+        "priority": "u=0, i",
+    },
+    "firefox": {
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:130.0) Gecko/20100101 Firefox/130.0",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8",
+        "accept_language": "en-US,en;q=0.5",
+        "accept_encoding": "gzip, deflate, br, zstd",
+        "sec_fetch_dest": "document",
+        "sec_fetch_mode": "navigate",
+        "sec_fetch_site": "none",
+    }
+}
+
+DEFAULT_UA = BROWSER_PROFILES["chromium"]["user_agent"]
 
 
 @dataclass
@@ -45,11 +77,16 @@ class FPConfig:
     user_agent: str = DEFAULT_UA
     min_delay: float = 1.0
     max_delay: float = 2.0
-    max_page_seconds: float = 75.0
+    max_page_seconds: float = 75.0  # Restored to original value
     max_attempts: int = 3  # Increased from 2 to 3
+    # Browser profile and session options
+    browser_engine: str = "chromium"  # chromium, webkit, firefox
+    persistent_session: bool = False  # Use persistent user data directory
+    multi_profile: bool = False  # Rotate between browser profiles
+    user_data_dir: Optional[str] = None  # Custom user data directory
     # Scrolling / loading behavior
     min_posts: int = 50
-    max_scroll_loops: int = 80
+    max_scroll_loops: int = 80  # Restored to original value
     scroll_step_px: int = 1600
     scroll_wait_ms: int = 900
     stagnant_loops: int = 5
@@ -59,33 +96,99 @@ class FPConfig:
     # Enhanced error handling
     retry_delay_base: float = 2.0  # Base delay for exponential backoff
     retry_connection_errors: bool = True  # Retry on connection errors
+    # Bandwidth optimization
+    disable_images: bool = True  # Block image downloads to save bandwidth (default enabled)
+    # Internet connectivity monitoring
+    wait_for_internet: bool = True  # Wait for internet connection to be restored before continuing
+    internet_check_url: str = "https://www.google.com/generate_204"  # Reliable endpoint for connectivity checks
+    internet_check_interval: float = 5.0  # Seconds between connectivity checks when offline
 
 
 class SubredditFrontPageScraper:
     def __init__(self, config: Optional[FPConfig] = None):
         self.config = config or FPConfig(proxy_server=os.getenv("PROXY_SERVER") or None)
+        self._current_profile_index = 0
+        self._available_profiles = list(BROWSER_PROFILES.keys())
+        random.shuffle(self._available_profiles)  # Randomize profile order
 
     # --------------- Browser lifecycle --------------- #
     def _start(self):
         if sync_playwright is None:
-            raise RuntimeError("Playwright not installed. Run: pip install -r requirements.txt && playwright install chromium")
+            raise RuntimeError("Playwright not installed. Run: pip install -r requirements.txt && playwright install")
         self._pw = sync_playwright().start()
-        launch_kwargs = {
-            "headless": self.config.headless,
-            "args": ["--disable-blink-features=AutomationControlled", "--no-sandbox", "--disable-dev-shm-usage"],
-        }
-        if self.config.proxy_server:
-            launch_kwargs["proxy"] = {"server": self.config.proxy_server}
-        self._browser = self._pw.chromium.launch(**launch_kwargs)
-        self._new_context()
+        
+        # Determine browser engine (use already set if available)
+        if not hasattr(self, '_current_engine'):
+            if self.config.multi_profile:
+                engine = self._available_profiles[self._current_profile_index % len(self._available_profiles)]
+                self._current_profile_index += 1
+            else:
+                engine = self.config.browser_engine
+            self._current_engine = engine
+        
+        self._start_browser()
+
+    def _get_current_browser_engine(self) -> str:
+        """Get the current browser engine to use, with rotation support."""
+        if self.config.multi_profile:
+            # Rotate through available profiles
+            engine = self._available_profiles[self._current_profile_index % len(self._available_profiles)]
+            self._current_profile_index += 1
+            return engine
+        else:
+            return self.config.browser_engine
+
+    def _get_current_profile(self) -> Dict:
+        """Get the current browser profile configuration."""
+        if not hasattr(self, '_current_engine'):
+            if self.config.multi_profile:
+                # Rotate through available profiles
+                engine = self._available_profiles[self._current_profile_index % len(self._available_profiles)]
+                self._current_profile_index += 1
+            else:
+                engine = self.config.browser_engine
+            self._current_engine = engine
+        return BROWSER_PROFILES[self._current_engine]
 
     def _new_context(self):
-        self._context = self._browser.new_context(
-            user_agent=self.config.user_agent,
-            locale="en-US",
-            timezone_id="America/Los_Angeles",
-            viewport={"width": random.randint(1280, 1440), "height": random.randint(800, 900)},
-        )
+        profile = self._get_current_profile()
+        
+        # Create context with profile-specific settings
+        context_kwargs = {
+            "user_agent": profile["user_agent"],
+            "locale": "en-US",
+            "timezone_id": "America/Los_Angeles",
+            "viewport": {"width": random.randint(1280, 1440), "height": random.randint(800, 900)},
+        }
+        
+        # Add extra headers based on browser profile
+        extra_headers = {}
+        for key, value in profile.items():
+            if key.startswith("accept"):
+                header_name = key.replace("_", "-")
+                extra_headers[header_name] = value
+            elif key in ["sec_fetch_site", "sec_fetch_mode", "sec_fetch_dest", "priority"]:
+                header_name = key.replace("_", "-")
+                extra_headers[header_name] = value
+            elif key.startswith("sec_ch_ua"):
+                header_name = key.replace("_", "-")
+                extra_headers[header_name] = value
+                
+        if extra_headers:
+            context_kwargs["extra_http_headers"] = extra_headers
+            
+        self._context = self._browser.new_context(**context_kwargs)
+        
+        # Block image resources if disabled to save bandwidth
+        if self.config.disable_images:
+            def block_images(route):
+                if route.request.resource_type in ["image", "media", "imageset"]:
+                    route.abort()
+                else:
+                    route.continue_()
+            
+            self._context.route("**/*", block_images)
+            
         try:
             self._context.set_default_timeout(self.config.timeout_ms)
         except Exception:
@@ -110,31 +213,220 @@ class SubredditFrontPageScraper:
         except Exception:
             pass
 
+    def _recycle_browser_for_multi_profile(self):
+        """Recycle browser context to switch profiles in multi-profile mode."""
+        if not self.config.multi_profile:
+            return
+            
+        try:
+            # Close current page and context
+            if hasattr(self, '_page') and self._page:
+                self._page.close()
+            if hasattr(self, '_context') and self._context:
+                self._context.close()
+        except Exception:
+            pass
+            
+        # Select next engine
+        next_engine = self._available_profiles[self._current_profile_index % len(self._available_profiles)]
+        self._current_profile_index += 1
+        current_engine = getattr(self, '_current_engine', None)
+        
+        if next_engine != current_engine:
+            # Need to restart browser with different engine
+            try:
+                if hasattr(self, '_browser') and self._browser:
+                    self._browser.close()
+            except Exception:
+                pass
+            # Reset the engine and restart just the browser (not playwright)
+            self._current_engine = next_engine
+            self._start_browser()
+        else:
+            # Just create new context with same browser
+            # Reset the engine to force new profile selection
+            self._current_engine = next_engine
+            self._new_context()
+
+    def _start_browser(self):
+        """Start just the browser (not the entire playwright instance)"""
+        engine = self._current_engine
+        
+        # Setup launch arguments
+        launch_kwargs = {
+            "headless": self.config.headless,
+        }
+        
+        # Add engine-specific args
+        if engine == "chromium":
+            launch_kwargs["args"] = [
+                "--disable-blink-features=AutomationControlled", 
+                "--no-sandbox", 
+                "--disable-dev-shm-usage",
+                "--disable-web-security",
+                "--disable-features=VizDisplayCompositor"
+            ]
+        elif engine == "webkit":
+            # WebKit has fewer configuration options but we can still tune some basics
+            launch_kwargs["args"] = ["--no-startup-window"]
+        elif engine == "firefox":
+            # Firefox has different argument handling
+            launch_kwargs["args"] = ["-no-remote"]
+            
+        # Add proxy if specified
+        if self.config.proxy_server:
+            launch_kwargs["proxy"] = {"server": self.config.proxy_server}
+            
+        # Add persistent user data directory if enabled  
+        if self.config.persistent_session and engine == "chromium":
+            # Only Chromium supports user_data_dir in launch args properly
+            user_data_dir = self.config.user_data_dir or f"./browser_profiles/{engine}_profile"
+            Path(user_data_dir).mkdir(parents=True, exist_ok=True)
+            launch_kwargs["user_data_dir"] = user_data_dir
+            
+        # Launch the appropriate browser
+        if engine == "chromium":
+            self._browser = self._pw.chromium.launch(**launch_kwargs)
+        elif engine == "webkit":
+            self._browser = self._pw.webkit.launch(**launch_kwargs)
+        elif engine == "firefox":
+            self._browser = self._pw.firefox.launch(**launch_kwargs)
+        else:
+            raise ValueError(f"Unsupported browser engine: {engine}")
+            
+        print(f"[browser] Started {engine} engine")
+        self._new_context()
+
     # --------------- Stealth and banners --------------- #
+    def _check_internet_connectivity(self) -> bool:
+        """Check if internet connection is available using a reliable endpoint."""
+        try:
+            # Use a simple HTTP request with short timeout
+            # Google's generate_204 is designed for connectivity checks - returns 204 with no content
+            response = requests.get(
+                self.config.internet_check_url,
+                timeout=5.0,
+                headers={"User-Agent": "Mozilla/5.0 (compatible; ConnectivityCheck)"}
+            )
+            return response.status_code == 204 or 200 <= response.status_code < 300
+        except requests.exceptions.RequestException:
+            # Any request exception means no connectivity
+            return False
+        except Exception:
+            # Any other exception, assume no connectivity
+            return False
+
+    def _wait_for_internet_connection(self):
+        """Wait for internet connection to be restored, checking periodically."""
+        if not self.config.wait_for_internet:
+            return
+            
+        print(f"[internet] Checking connectivity to {self.config.internet_check_url}...")
+        
+        # First check - if it's working, no need to wait
+        if self._check_internet_connectivity():
+            print("[internet] Internet connection is working")
+            return
+            
+        print(f"[internet] No internet connection detected. Will check every {self.config.internet_check_interval}s...")
+        wait_count = 0
+        max_wait_cycles = 360  # Don't wait forever, max ~30 minutes with 5s intervals
+        
+        while wait_count < max_wait_cycles:
+            if self._check_internet_connectivity():
+                print("[internet] Internet connection restored. Continuing...")
+                return
+                
+            wait_count += 1
+            if wait_count % 12 == 0:  # Print status every minute (12 * 5s intervals)
+                elapsed_minutes = (wait_count * self.config.internet_check_interval) / 60
+                print(f"[internet] Still waiting for connection... ({elapsed_minutes:.1f} minutes elapsed)")
+            
+            time.sleep(self.config.internet_check_interval)
+        
+        print(f"[internet] Gave up waiting for internet connection after {max_wait_cycles * self.config.internet_check_interval / 60:.1f} minutes")
+        # Don't raise an exception, let the normal retry logic handle it
+
+    def _is_internet_connectivity_error(self, error_str: str) -> bool:
+        """Check if error is related to internet connectivity rather than rate limiting."""
+        connectivity_patterns = [
+            "ERR_INTERNET_DISCONNECTED",
+            "ERR_NETWORK_CHANGED", 
+            "ERR_NETWORK_ACCESS_DENIED",
+            "ERR_PROXY_CONNECTION_FAILED",
+            "ERR_NAME_NOT_RESOLVED",
+            "ERR_ADDRESS_UNREACHABLE",
+            "net::ERR_NETWORK_ACCESS_DENIED",
+            "net::ERR_INTERNET_DISCONNECTED",
+            "getaddrinfo ENOTFOUND",
+            "ECONNREFUSED",
+            "EHOSTUNREACH",
+            "ENETUNREACH"
+        ]
+        return any(pattern in error_str for pattern in connectivity_patterns)
+
     def _apply_stealth(self, page):
-        evasions = [
+        engine = getattr(self, '_current_engine', 'chromium')
+        
+        # Common stealth evasions
+        common_evasions = [
             "Object.defineProperty(navigator, 'webdriver', {get: () => undefined});",
             "Object.defineProperty(navigator, 'languages', {get: () => ['en-US','en']});",
             "Object.defineProperty(navigator, 'platform', {get: () => 'MacIntel'});",
-            "window.chrome = window.chrome || { runtime: {} };",
         ]
-        for js in evasions:
+        
+        # Engine-specific evasions
+        if engine == "chromium":
+            common_evasions.extend([
+                "window.chrome = window.chrome || { runtime: {} };",
+                "Object.defineProperty(navigator, 'permissions', {get: () => ({query: () => Promise.resolve({state: 'granted'})})});",
+                "Object.defineProperty(navigator, 'plugins', {get: () => [{name: 'Chrome PDF Plugin', filename: 'internal-pdf-viewer', description: 'Portable Document Format'}]});",
+            ])
+        elif engine == "webkit":
+            # Safari-specific evasions
+            common_evasions.extend([
+                "delete navigator.__proto__.webdriver;",
+                "Object.defineProperty(navigator, 'vendor', {get: () => 'Apple Computer, Inc.'});",
+                "Object.defineProperty(navigator, 'appVersion', {get: () => '5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15'});",
+            ])
+        elif engine == "firefox":
+            # Firefox-specific evasions  
+            common_evasions.extend([
+                "Object.defineProperty(navigator, 'buildID', {get: () => '20100101'});",
+                "Object.defineProperty(navigator, 'oscpu', {get: () => 'Intel Mac OS X 10.15'});",
+            ])
+            
+        for js in common_evasions:
             try:
                 page.add_init_script(js)
             except Exception:
                 pass
 
     def _dismiss_banners(self):
+        """Dismiss various banners and popups with human-like timing."""
+        self._add_human_delay(0.2)  # Brief pause before interacting
+        
         sel_try = [
             "button:has-text('Accept all')",
-            "button:has-text('Accept')",
+            "button:has-text('Accept')", 
+            "button:has-text('I Agree')",
+            "button:has-text('Continue')",
             "#onetrust-accept-btn-handler",
             "button[aria-label*='accept']",
+            "button[aria-label*='close']",
+            "[data-testid='close-button']",
+            ".icon-close",
+            # Reddit-specific selectors
+            "button:has-text('Maybe Later')",
+            "button:has-text('Not now')",
+            "[aria-label='Close']",
         ]
+        
         for s in sel_try:
             try:
-                if self._page.is_visible(s):
+                if self._page.is_visible(s, timeout=1000):
                     self._page.click(s)
+                    self._add_human_delay(0.3)  # Pause after clicking
                     break
             except Exception:
                 continue
@@ -143,18 +435,27 @@ class SubredditFrontPageScraper:
         """Attempt to bypass NSFW or mature content interstitials without login.
         Best-effort only; if login is required, we'll fallback to old.reddit later.
         """
+        self._add_human_delay(0.3)  # Human-like pause before interaction
+        
         gate_selectors = [
             "button:has-text('Yes')",
             "button:has-text('Continue')",
             "button:has-text('I am over 18')",
+            "button:has-text('View')",
             "button[aria-label*='continue']",
+            "button[data-testid='age-gate-button']",
+            "[data-click-id='age_gate_continue']",
         ]
+        
         for s in gate_selectors:
             try:
-                if self._page.is_visible(s):
+                if self._page.is_visible(s, timeout=2000):
+                    # Add slight mouse movement before clicking for more human behavior
+                    self._page.mouse.move(random.randint(100, 200), random.randint(100, 200))
+                    self._add_human_delay(0.1)
                     self._page.click(s)
                     # give UI a moment to refresh
-                    self._page.wait_for_timeout(800)
+                    self._page.wait_for_timeout(random.randint(800, 1200))
                     break
             except Exception:
                 continue
@@ -228,6 +529,14 @@ class SubredditFrontPageScraper:
                 last_error = str(e)
                 elapsed = time.monotonic() - start
                 
+                # Check if this is an internet connectivity error
+                if self._is_internet_connectivity_error(last_error):
+                    print(f"[internet] Internet connectivity error detected: {last_error[:100]}...")
+                    self._wait_for_internet_connection()
+                    # Reset attempts counter when internet is restored
+                    attempts = 0
+                    continue
+                
                 # Check if we should retry based on error type and time
                 should_retry = (
                     attempts < self.config.max_attempts and
@@ -247,13 +556,34 @@ class SubredditFrontPageScraper:
                 print(f"[retry] {sub_name} attempt {attempts}/{self.config.max_attempts} after {delay:.1f}s (error: {last_error[:100]})")
                 time.sleep(delay)
                 
-                # Recycle page and retry
-                try:
-                    self._page.close()
-                except Exception:
-                    pass
-                self._page = self._context.new_page()
-                self._apply_stealth(self._page)
+                # Enhanced recovery: recycle context on connection errors for fresh fingerprint
+                if "CONNECTION" in last_error or "PROXY" in last_error or attempts >= 2:
+                    try:
+                        print(f"[retry] Recycling browser context for fresh fingerprint")
+                        self._page.close()
+                        self._context.close()
+                        
+                        # In multi-profile mode, switch to a different profile
+                        if self.config.multi_profile:
+                            self._new_context()  # This will pick next profile
+                        else:
+                            self._new_context()  # Fresh context with same profile
+                    except Exception:
+                        # Fallback to just recycling the page
+                        try:
+                            self._page.close()
+                        except Exception:
+                            pass
+                        self._page = self._context.new_page()
+                        self._apply_stealth(self._page)
+                else:
+                    # Light recycle: just create new page
+                    try:
+                        self._page.close()
+                    except Exception:
+                        pass
+                    self._page = self._context.new_page()
+                    self._apply_stealth(self._page)
         return {
             "subreddit": sub_name,
             "url": url,
@@ -322,12 +652,25 @@ class SubredditFrontPageScraper:
                     last_post.scroll_into_view_if_needed()
                 except Exception:
                     pass
-                # Wheel and also scroll to bottom to ensure we hit the page end
-                self._page.mouse.wheel(0, self.config.scroll_step_px)
-                try:
-                    self._page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-                except Exception:
-                    pass
+                
+                # Add human-like scroll variation
+                scroll_variation = random.uniform(0.8, 1.3)
+                scroll_amount = int(self.config.scroll_step_px * scroll_variation)
+                
+                # Sometimes do multiple smaller scrolls instead of one big one
+                if random.random() < 0.3:  # 30% chance
+                    for _ in range(2):
+                        self._page.mouse.wheel(0, scroll_amount // 2)
+                        time.sleep(random.uniform(0.1, 0.3))
+                else:
+                    self._page.mouse.wheel(0, scroll_amount)
+                
+                # Occasionally scroll to absolute bottom
+                if random.random() < 0.7:  # 70% chance
+                    try:
+                        self._page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+                    except Exception:
+                        pass
             except Exception:
                 try:
                     self._page.evaluate("window.scrollBy(0, arguments[0])", self.config.scroll_step_px)
@@ -345,6 +688,11 @@ class SubredditFrontPageScraper:
                 )
             except Exception:
                 pass
+
+    def _add_human_delay(self, base_delay: float = 0.5):
+        """Add human-like delay with randomization."""
+        delay = base_delay + random.uniform(0, base_delay * 0.5)
+        time.sleep(delay)
 
     def _normalize_target(self, name_or_url: str) -> Tuple[str, str]:
         if name_or_url.startswith("http"):
@@ -804,7 +1152,59 @@ if __name__ == "__main__":
     parser.add_argument("--overwrite", action="store_true", help="Re-scrape even if output already exists")
     parser.add_argument("--skip-failed", action="store_true", default=True, help="Only skip successfully scraped subreddits (default)")
     parser.add_argument("--skip-all", dest="skip_failed", action="store_false", help="Skip any existing output files, even failed ones")
+    
+    # Browser fingerprinting and profile options
+    parser.add_argument("--browser-engine", choices=["chromium", "webkit", "firefox"], default="chromium", 
+                        help="Browser engine to use (default: chromium)")
+    parser.add_argument("--persistent-session", action="store_true", 
+                        help="Use persistent browser session with cookies and cache")
+    parser.add_argument("--multi-profile", action="store_true", 
+                        help="Rotate between different browser profiles for better fingerprint diversity")
+    parser.add_argument("--user-data-dir", type=str, 
+                        help="Custom directory for persistent browser user data")
+    
+    # Bandwidth and connectivity options
+    parser.add_argument("--enable-images", dest="disable_images", action="store_false", 
+                        help="Enable image downloads (images are blocked by default to save bandwidth)")
+    parser.add_argument("--disable-images", dest="disable_images", action="store_true", default=True,
+                        help="Disable image downloads to save bandwidth (default)")
+    parser.add_argument("--no-wait-internet", dest="wait_for_internet", action="store_false", default=True,
+                        help="Don't wait for internet connection to be restored, fail immediately on connectivity issues")
+    parser.add_argument("--internet-check-url", type=str, default="https://www.google.com/generate_204",
+                        help="URL to use for internet connectivity checks (default: Google's generate_204)")
+    parser.add_argument("--internet-check-interval", type=float, default=5.0,
+                        help="Seconds between internet connectivity checks when offline (default: 5.0)")
+    
+    # Network priority options
+    parser.add_argument("--low-priority", action="store_true",
+                        help="Run with lower network and CPU priority (background mode)")
+    parser.add_argument("--nice-level", type=int, default=10, choices=range(0, 20),
+                        help="Process nice level when using --low-priority (0-19, higher = lower priority, default: 10)")
+    
     args = parser.parse_args()
+
+    # Apply low priority settings if requested
+    if args.low_priority:
+        try:
+            import os
+            # Set process priority to lower (nice level)
+            os.nice(args.nice_level)
+            print(f"[priority] Process priority lowered (nice level: {args.nice_level})")
+            
+            # On macOS/Unix, also try to set I/O priority if available
+            try:
+                import subprocess
+                import sys
+                # Try to use ionice if available (Linux) or equivalent
+                subprocess.run(['ionice', '-c', '3', '-p', str(os.getpid())], 
+                             stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+                print("[priority] I/O priority lowered (idle class)")
+            except (FileNotFoundError, subprocess.CalledProcessError):
+                # ionice not available or failed, continue without it
+                pass
+                
+        except Exception as e:
+            print(f"[priority] Warning: Could not set low priority: {e}")
 
     # Determine target subreddits
     targets = []
@@ -835,6 +1235,14 @@ if __name__ == "__main__":
         min_posts=args.min_posts,
         save_debug_html=True if args.debug_html else True,  # keep debug snapshots on by default
         include_promoted=args.include_promoted,
+        browser_engine=args.browser_engine,
+        persistent_session=args.persistent_session,
+        multi_profile=args.multi_profile,
+        user_data_dir=args.user_data_dir,
+        disable_images=args.disable_images,
+        wait_for_internet=args.wait_for_internet,
+        internet_check_url=args.internet_check_url,
+        internet_check_interval=args.internet_check_interval,
     )
     
     def already_scraped(name: str) -> bool:
@@ -861,10 +1269,15 @@ if __name__ == "__main__":
     scraper = SubredditFrontPageScraper(cfg)
     scraper._start()
     try:
-        for target in targets:
+        for i, target in enumerate(targets):
             if not args.overwrite and already_scraped(target):
                 print(f"[skip] {target} (already exists)")
                 continue
+                
+            # Recycle browser profile every few requests in multi-profile mode
+            if cfg.multi_profile and i > 0 and i % 3 == 0:
+                print(f"[profile] Switching browser profile after {i} requests")
+                scraper._recycle_browser_for_multi_profile()
                 
             data = scraper.scrape_frontpage(target)
             scraper.save_frontpage(data["subreddit"], data)
@@ -872,10 +1285,15 @@ if __name__ == "__main__":
             promoted_n = len([p for p in data.get("posts", []) if p.get("is_promoted", False)])
             error = data.get("error")
             out_path = Path("output/subreddits") / data["subreddit"] / "frontpage.json"
+            
+            # Show which browser profile was used
+            current_engine = getattr(scraper, '_current_engine', cfg.browser_engine)
+            profile_info = f" [{current_engine}]" if cfg.multi_profile else ""
+            
             if error:
-                print(f"[saved] {out_path} — posts={posts_n} (promoted={promoted_n}), error={error[:100]}...")
+                print(f"[saved] {out_path}{profile_info} — posts={posts_n} (promoted={promoted_n}), error={error[:100]}...")
             else:
-                print(f"[saved] {out_path} — posts={posts_n} (promoted={promoted_n})")
+                print(f"[saved] {out_path}{profile_info} — posts={posts_n} (promoted={promoted_n})")
             time.sleep(random.uniform(0.6, 1.1))
     finally:
         scraper._stop()

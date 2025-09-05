@@ -107,6 +107,8 @@ def compute_posts_tfidf_for_frontpage(
     posts_phrase_boost_trigram: float = config.DEFAULT_POSTS_PHRASE_BOOST_TRIGRAM,
     drop_generic_unigrams: bool = False,
     generic_df_ratio: float = config.DEFAULT_POSTS_GENERIC_DF_RATIO,
+    drop_generic_phrases: bool = config.DEFAULT_POSTS_DROP_GENERIC_PHRASES,
+    generic_phrase_df_ratio: float = config.DEFAULT_POSTS_GENERIC_PHRASE_DF_RATIO,
     idf_power: float = config.DEFAULT_POSTS_IDF_POWER,
     engagement_alpha: float = config.DEFAULT_POSTS_ENGAGEMENT_ALPHA,
 ) -> Tuple[Counter, Counter]:
@@ -119,6 +121,10 @@ def compute_posts_tfidf_for_frontpage(
         recency = 0.5 ** (age_days / halflife_days)
     - Weighted TF sums across posts:
         TF_post = count_grams_in_post * (base * recency)
+
+    Generic filtering:
+    - Optionally drop globally generic unigrams (by DF ratio across frontpages)
+    - Optionally drop globally generic phrases (bi/tri-grams) by DF ratio across frontpages
 
     Returns (tfidf_scores, local_grams_tf) where local_grams_tf are raw bigram/trigram counts for composition.
     """
@@ -176,6 +182,12 @@ def compute_posts_tfidf_for_frontpage(
             df_ratio = (df / total_docs) if total_docs > 0 else 0.0
             if df_ratio >= generic_df_ratio:
                 continue
+        # Optionally drop globally generic phrases
+        if n_words >= 2 and drop_generic_phrases:
+            df_ratio = (df / total_docs) if total_docs > 0 else 0.0
+            if df_ratio >= generic_phrase_df_ratio:
+                continue
+
         idf = math.log((1.0 + total_docs) / (1.0 + df)) + 1.0
         idf_eff = idf ** max(0.0, float(idf_power))
         boost = 1.0
@@ -193,12 +205,22 @@ def compute_posts_tfidf_for_frontpage(
         ]
         if candidates:
             candidates.sort(key=lambda x: x[1], reverse=True)
-            for g, tf in candidates[:ensure_k]:
+            added = 0
+            for g, tf in candidates:
+                if added >= ensure_k:
+                    break
+                # Respect generic phrase drop when ensuring
+                if drop_generic_phrases:
+                    df = docfreq.get(g, 0)
+                    df_ratio = (df / total_docs) if total_docs > 0 else 0.0
+                    if df_ratio >= generic_phrase_df_ratio:
+                        continue
                 n_words = g.count(" ") + 1
                 boost = posts_phrase_boost_bigram if n_words == 2 else (
                     posts_phrase_boost_trigram if n_words == 3 else 1.0
                 )
                 tfidf[g] = tf * boost  # fallback: local TF × small phrase boost
+                added += 1
 
     return tfidf, local_grams_tf
 
