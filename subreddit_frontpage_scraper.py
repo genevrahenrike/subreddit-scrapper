@@ -793,6 +793,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Scrape subreddit front pages with Playwright and save JSON outputs.")
     parser.add_argument("--subs", nargs="*", help="List of subreddit names or URLs (e.g., r/aww r/funny)")
     parser.add_argument("--file", type=str, help="File containing list of subreddit names (one per line)")
+    parser.add_argument("--offset", type=int, default=0, help="Skip the first N subreddits in the input list")
     parser.add_argument("--min-posts", type=int, default=50, help="Target number of posts to load before stopping")
     parser.add_argument("--headless", action="store_true", default=True, help="Run browser headless (default)")
     parser.add_argument("--no-headless", dest="headless", action="store_false", help="Run with visible browser window")
@@ -817,6 +818,14 @@ if __name__ == "__main__":
         targets = args.subs
     else:
         targets = ["r/funny", "r/AskReddit"]  # Default
+
+    # Apply offset if specified
+    if args.offset > 0:
+        if args.offset >= len(targets):
+            print(f"Offset {args.offset} is greater than the number of targets ({len(targets)}). Nothing to do.")
+            exit(0)
+        print(f"Skipping first {args.offset} subreddits (offset)")
+        targets = targets[args.offset:]
 
     cfg = FPConfig(
         headless=args.headless,

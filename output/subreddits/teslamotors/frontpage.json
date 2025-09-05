@@ -5,7 +5,7 @@
     "title": "r/TeslaMotors - The original and largest Tesla community!",
     "description": "The original and largest Tesla community on Reddit! An unofficial forum of owners and enthusiasts. See r/TeslaLounge for relaxed posting, and user experiences! \n\nTesla Inc. is an energy + technology company originally from California and currently headquartered in Austin, Texas. \n\nTheir mission is to accelerate the world's transition to sustainable energy. They produce vertically integrated electric vehicles, batteries, solar, and AI software and hardware solutions.",
     "subscribers": 3429225,
-    "online_users": 71,
+    "online_users": 90,
     "created_timestamp": "2025-09-04T04:13:42.163000+0000",
     "sidebar_widgets": [
       {
@@ -46,166 +46,6 @@
           {
             "text": "Kilowatts App",
             "url": "https://apps.apple.com/us/app/kilowatts-app/id6475490809"
-          }
-        ]
-      },
-      {
-        "title": "r/teslamotors Rules",
-        "content": "Treat others with respect; don't be a nuisance or troll.  Participate in good faith, avoiding toxicity and bad faith interactions. Follow Reddiquette.  Health and safety violations or participation in toxic subreddits will result in bans. All posts must be related to Tesla or sub-specific (products, business, or people). Avoid editorialized titles, but discuss competitors if relevant. Comments should stay on-topic, with no threadjacking or discussion of bypassing safety features. Technical help should go to official channels or appropriate subreddits. No politics except for Tesla-specific policy discussions. Limit to two posts on the same topic. No advertising or referral requests including YouTube video spam, Tesla events, or accessories. Self-posted content must be accompanied by active participation in comments to avoid being considered spam. Posts about Elon Musk should go to unless directly Tesla-related. Due to the severity of threats like death threats and the challenging environment on Reddit, we prioritize the safety of our community. Moderators have full discretion to enforce rules and may conduct internal votes on rule-breaking cases. We are committed to protecting our community, akin to safeguarding a fort in a zombie apocalypse."
-      },
-      {
-        "title": "Our Related Communities",
-        "content": [
-          {
-            "text": "r/TeslaLounge",
-            "url": "/r/TeslaLounge"
-          },
-          {
-            "text": "r/TeslaSupport",
-            "url": "/r/TeslaSupport"
-          },
-          {
-            "text": "r/cybertruck",
-            "url": "/r/cybertruck"
-          },
-          {
-            "text": "r/teslaclassifieds",
-            "url": "/r/teslaclassifieds"
-          },
-          {
-            "text": "r/elonmusk",
-            "url": "/r/elonmusk"
-          },
-          {
-            "text": "r/TeslaCam",
-            "url": "/r/TeslaCam"
-          },
-          {
-            "text": "r/TeslaCollision",
-            "url": "/r/TeslaCollision"
-          },
-          {
-            "text": "r/TeslaModelS",
-            "url": "/r/TeslaModelS"
-          },
-          {
-            "text": "r/TeslaModelX",
-            "url": "/r/TeslaModelX"
-          },
-          {
-            "text": "r/TeslaModel3",
-            "url": "/r/TeslaModel3"
-          }
-        ]
-      },
-      {
-        "title": "Sort by Topic (Flair)",
-        "content": [
-          {
-            "text": "Vehicles - Model S",
-            "url": "/r/teslamotors/?f=flair_name%3A%22Vehicles%20-%20Model%20S%22"
-          },
-          {
-            "text": "Vehicles - Model 3",
-            "url": "/r/teslamotors/?f=flair_name%3A%22Vehicles%20-%20Model%203%22"
-          },
-          {
-            "text": "Vehicles - Model X",
-            "url": "/r/teslamotors/?f=flair_name%3A%22Vehicles%20-%20Model%20X%22"
-          },
-          {
-            "text": "Vehicles - Model Y",
-            "url": "/r/teslamotors/?f=flair_name%3A%22Vehicles%20-%20Model%20Y%22"
-          },
-          {
-            "text": "Vehicles - Cybertruck",
-            "url": "/r/teslamotors/?f=flair_name%3A%22Vehicles%20-%20Cybertruck%22"
-          },
-          {
-            "text": "Vehicles - Roadster",
-            "url": "/r/teslamotors/?f=flair_name%3A%22Vehicles%20-%20Roadster%22"
-          },
-          {
-            "text": "Vehicles - Semi",
-            "url": "/r/teslamotors/?f=flair_name%3A%22Vehicles%20-%20Semi%22"
-          },
-          {
-            "text": "Energy - Charging",
-            "url": "/r/teslamotors/?f=flair_name%3A%22Energy%20-%20Charging%22"
-          },
-          {
-            "text": "$TSLA Investing - Financials/Earnings",
-            "url": "/r/teslamotors/?f=flair_name%3A%22%24TSLA%20Investing%20-%20Financials%2FEarnings%22"
-          },
-          {
-            "text": "Full Self-Driving / Autopilot",
-            "url": "/r/teslamotors/?f=flair_name%3A%22Full%20Self-Driving%20%2F%20Autopilot%22"
-          },
-          {
-            "text": "Factories",
-            "url": "/r/teslamotors/?f=flair_name%3A%22Factories%22"
-          }
-        ]
-      },
-      {
-        "title": "Moderators",
-        "content": [
-          {
-            "text": "Learn More",
-            "url": "https://support.reddithelp.com/hc/articles/360049499032"
-          },
-          {
-            "text": "View all moderators",
-            "url": "/mod/teslamotors/moderators/"
-          }
-        ]
-      },
-      {
-        "title": "Installed Apps",
-        "content": [
-          {
-            "text": "Remove Macro",
-            "url": "https://developers.reddit.com/apps/purge-user"
-          },
-          {
-            "text": "Modmail Automator",
-            "url": "https://developers.reddit.com/apps/auto-modmail"
-          },
-          {
-            "text": "Modmail Quick User Summary",
-            "url": "https://developers.reddit.com/apps/modmail-userinfo"
-          },
-          {
-            "text": "Banhammer",
-            "url": "https://developers.reddit.com/apps/banhammerapp"
-          },
-          {
-            "text": "Spotlight",
-            "url": "https://developers.reddit.com/apps/spotlight-app"
-          },
-          {
-            "text": "Evasion Guard",
-            "url": "https://developers.reddit.com/apps/evasion-guard"
-          },
-          {
-            "text": "Subreddit Statistics",
-            "url": "https://developers.reddit.com/apps/sub-stats-bot"
-          },
-          {
-            "text": "Automod Sync",
-            "url": "https://developers.reddit.com/apps/automod-sync"
-          },
-          {
-            "text": "Comment Mop",
-            "url": "https://developers.reddit.com/apps/comment-nuke"
-          },
-          {
-            "text": "Hive Protector",
-            "url": "https://developers.reddit.com/apps/hive-protect"
-          },
-          {
-            "text": "Admin Tattler",
-            "url": "https://developers.reddit.com/apps/admin-tattler"
           }
         ]
       }
@@ -319,22 +159,22 @@
       "is_promoted": false
     },
     {
-      "title": "Less doomscrolling — more skill building. Learn in-demand technical skills and build a career you won’t need to escape from.",
-      "permalink": "https://www.reddit.com/user/codecademy/comments/1iex7tb/less_doomscrolling_more_skill_building_learn/",
+      "title": "No Surprises, Just Results. BlueChew gives you upfront pricing, free consultation, and a prescription if approved.",
+      "permalink": "https://www.reddit.com/user/Bluechew_Official/comments/1mztbql/no_surprises_just_results_bluechew_gives_you/",
       "score": 0,
       "comments": 0,
-      "post_id": "t3_1iex7tb",
+      "post_id": "t3_1mztbql",
       "post_type": "image",
-      "domain": "codecademy.com",
-      "author": "codecademy",
-      "author_id": "t2_5ox9y",
+      "domain": "start.bluechew.com",
+      "author": "Bluechew_Official",
+      "author_id": "t2_9nse1pqo",
       "subreddit_id": "",
       "subreddit": "",
-      "created_ts": "2025-02-01T03:20:17.737000+0000",
-      "content_href": "https://www.codecademy.com/?utm_source=reddit&utm_medium=paid-social&utm_campaign=US-REDD-TOF-Display+Video-Evergreen-PRSP&utm_content=TechnologyComputingInterest-Mobile-Static_Screen-V2",
-      "content_preview": "Try Codecademy Pro today",
+      "created_ts": "2025-08-25T15:18:17.542000+0000",
+      "content_href": "https://start.bluechew.com/?coupn=reddit&utm_source=reddit&utm_campaign={{CAMPAIGN_NAME}}-{{ADGROUP_NAME}}&utm_medium=paid&utm_content={{AD_NAME}}",
+      "content_preview": "",
       "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1zptmv/styles/profileIcon_juy9eyrk2s7d1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=59beb7662661e185e12b53a0eb43b1293fd942df",
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3o8m8m/styles/profileIcon_pjut7tlp37x91.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=ef545b2acabbbf428b7c991829216858bb75c697",
       "is_promoted": true
     },
     {
@@ -485,22 +325,22 @@
       "is_promoted": false
     },
     {
-      "title": "Didn't Know Costco Had That? Explore Member-Only Savings on Insurance, Home, Auto & Business Needs!",
-      "permalink": "https://www.reddit.com/user/CostcoServices/comments/1mpiec9/didnt_know_costco_had_that_explore_memberonly/",
+      "title": "Warning: Semaglutide from SkinnyRx may cause easy weight loss. Learn More.",
+      "permalink": "https://www.reddit.com/user/Try_SkinnyRx/comments/1k1ltzp/warning_semaglutide_from_skinnyrx_may_cause_easy/",
       "score": 0,
       "comments": 0,
-      "post_id": "t3_1mpiec9",
-      "post_type": "gallery",
-      "domain": "costco.com",
-      "author": "CostcoServices",
-      "author_id": "t2_fsloqpv73",
+      "post_id": "t3_1k1ltzp",
+      "post_type": "image",
+      "domain": "skinnyrx.com",
+      "author": "Try_SkinnyRx",
+      "author_id": "t2_1i8lemncsm",
       "subreddit_id": "",
       "subreddit": "",
-      "created_ts": "2025-08-13T22:13:58.029000+0000",
-      "content_href": "https://www.costco.com/services.html?EXTID=SVC_REDDIT_FY25_PRO_Awareness_Add3_Q325_BrandLiftStudy_Carousel_Business_V1_ALL_08.14.25",
+      "created_ts": "2025-04-17T19:45:31.343000+0000",
+      "content_href": "https://skinnyrx.com/quiz-hp2?utm_source=Reddit&utm_campaign=SkinnyRx_Conversions_2025&utm_term=InterestTargeting&utm_content=Easy_AppetiteControl",
       "content_preview": "",
       "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_8vddf4/styles/profileIcon_7oic1kkogoib1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=5bbc9c4883afe8b2ae480472179c40e4409f3741",
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dyw3yo/styles/profileIcon_j70ukgb53upe1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=07b7ff6239aa9f1e800d90c023c676ab0c924ded",
       "is_promoted": true
     },
     {
@@ -565,64 +405,24 @@
       "is_promoted": false
     },
     {
-      "title": "Cybertruck at Starbase TX helps a stuck Ford F-350 Dually",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1myaqql/cybertruck_at_starbase_tx_helps_a_stuck_ford_f350/",
-      "score": 148,
-      "comments": 35,
-      "post_id": "t3_1myaqql",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "TeslaModel11",
-      "author_id": "t2_r9be8rw",
+      "title": "Tesla officially launches 6-seater Model Y L in China",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mu503x/tesla_officially_launches_6seater_model_y_l_in/",
+      "score": 730,
+      "comments": 92,
+      "post_id": "t3_1mu503x",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Intelligent_Air_2916",
+      "author_id": "t2_zr5fxqy3u",
       "subreddit_id": "t5_2s3j5",
       "subreddit": "r/teslamotors",
-      "created_ts": "2025-08-23T19:33:40.468000+0000",
-      "content_href": "https://v.redd.it/dua4zh3ymtkf1",
-      "content_preview": "Vehicles - Cybertruck",
-      "flair": [
-        "Vehicles - Cybertruck"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
-      "is_promoted": false
-    },
-    {
-      "title": "Robotaxi spotted in San Francisco",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1my7gzh/robotaxi_spotted_in_san_francisco/",
-      "score": 215,
-      "comments": 47,
-      "post_id": "t3_1my7gzh",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "magic_5014",
-      "author_id": "t2_xsc7o154b",
-      "subreddit_id": "t5_2s3j5",
-      "subreddit": "r/teslamotors",
-      "created_ts": "2025-08-23T17:26:49.564000+0000",
-      "content_href": "https://www.reddit.com/gallery/1my7gzh",
-      "content_preview": "Full Self-Driving / Autopilot",
-      "flair": [
-        "Full Self-Driving / Autopilot"
-      ],
-      "thumbnail_url": "https://preview.redd.it/robotaxi-spotted-in-san-francisco-v0-swx0i3ed0tkf1.jpg?width=640&crop=smart&auto=webp&s=29002a924cae2d5cf712bd9985b6e67126fc3e2a",
-      "is_promoted": false
-    },
-    {
-      "title": "Experience the seats of the Model YL",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mxbsua/experience_the_seats_of_the_model_yl/",
-      "score": 94,
-      "comments": 57,
-      "post_id": "t3_1mxbsua",
-      "post_type": "link",
-      "domain": "x.com",
-      "author": "rcnfive",
-      "author_id": "t2_5fk0w",
-      "subreddit_id": "t5_2s3j5",
-      "subreddit": "r/teslamotors",
-      "created_ts": "2025-08-22T16:51:05.268000+0000",
-      "content_href": "https://x.com/boolusilan/status/1958725497656893602",
+      "created_ts": "2025-08-19T01:34:44.623000+0000",
+      "content_href": "https://i.redd.it/ynl1sy1qqvjf1.png",
       "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "",
+      "flair": [
+        "Vehicles - Model Y"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
       "is_promoted": false
     },
     {
@@ -645,187 +445,6 @@
       ],
       "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
       "is_promoted": false
-    },
-    {
-      "title": "Car shopping made worry-free",
-      "permalink": "https://www.reddit.com/user/eBay_Inc/comments/1mnqnt0/car_shopping_made_worryfree/",
-      "score": 0,
-      "comments": 0,
-      "post_id": "t3_1mnqnt0",
-      "post_type": "image",
-      "domain": "ebay.com",
-      "author": "eBay_Inc",
-      "author_id": "t2_2wd4vm6f",
-      "subreddit_id": "",
-      "subreddit": "",
-      "created_ts": "2025-08-11T22:02:37.057000+0000",
-      "content_href": "https://pages.ebay.com/secure-purchase?mkcid=16&mkevt=1&mkrid=711-165211-958615-5&reddit_campaignid={{CAMPAIGN_ID}}&reddit_adgroupid={{ADGROUP_ID}}&reddit_adid={{AD_ID}}&reddit_postid={{POST_ID}}&reddit_clickid={{CLICK_ID}}",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_tt1tt/styles/profileIcon_pcysa4k79ote1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=a1d563f525d1a7a37fc18368a9a1ef191f44f34f",
-      "is_promoted": true
-    },
-    {
-      "title": "Tesla Model S Plaid: New Info from Chief Designer and Engineer | Jay Leno's Garage",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1n5z9a9/tesla_model_s_plaid_new_info_from_chief_designer/",
-      "score": 167,
-      "comments": 40,
-      "post_id": "t3_1n5z9a9",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "rcnfive",
-      "author_id": "t2_5fk0w",
-      "subreddit_id": "t5_2s3j5",
-      "subreddit": "r/teslamotors",
-      "created_ts": "2025-09-01T20:07:48.286000+0000",
-      "content_href": "https://www.youtube.com/watch?v=JXkOKm9OnR0",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "",
-      "is_promoted": false
-    },
-    {
-      "title": "Tesla now offering lease deals on pre-owned vehicles",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mwxofk/tesla_now_offering_lease_deals_on_preowned/",
-      "score": 184,
-      "comments": 91,
-      "post_id": "t3_1mwxofk",
-      "post_type": "multi_media",
-      "domain": "self.teslamotors",
-      "author": "NationGamingChannel",
-      "author_id": "t2_fvunmnney",
-      "subreddit_id": "t5_2s3j5",
-      "subreddit": "r/teslamotors",
-      "created_ts": "2025-08-22T05:08:33.332000+0000",
-      "content_href": "https://www.reddit.com/r/teslamotors/comments/1mwxofk/tesla_now_offering_lease_deals_on_preowned/",
-      "content_preview": "For California/Texas customers!",
-      "flair": [
-        "General"
-      ],
-      "thumbnail_url": "",
-      "is_promoted": false
-    },
-    {
-      "title": "Tesla Semi Factory - Two Words - BRIDGE CRANES!",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mvx448/tesla_semi_factory_two_words_bridge_cranes/",
-      "score": 48,
-      "comments": 11,
-      "post_id": "t3_1mvx448",
-      "post_type": "link",
-      "domain": "x.com",
-      "author": "rcnfive",
-      "author_id": "t2_5fk0w",
-      "subreddit_id": "t5_2s3j5",
-      "subreddit": "r/teslamotors",
-      "created_ts": "2025-08-21T01:07:40.993000+0000",
-      "content_href": "https://x.com/HinrichsZane/status/1958190242709770634",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "",
-      "is_promoted": false
-    },
-    {
-      "title": "Tesla officially launches 6-seater Model Y L in China",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mu503x/tesla_officially_launches_6seater_model_y_l_in/",
-      "score": 730,
-      "comments": 92,
-      "post_id": "t3_1mu503x",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Intelligent_Air_2916",
-      "author_id": "t2_zr5fxqy3u",
-      "subreddit_id": "t5_2s3j5",
-      "subreddit": "r/teslamotors",
-      "created_ts": "2025-08-19T01:34:44.623000+0000",
-      "content_href": "https://i.redd.it/ynl1sy1qqvjf1.png",
-      "content_preview": "",
-      "flair": [
-        "Vehicles - Model Y"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
-      "is_promoted": false
-    },
-    {
-      "title": "NEW Tesla Service & Sales Center Coming Soon Whitehall, PA (Lehigh Valley)",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mtrvyn/new_tesla_service_sales_center_coming_soon/",
-      "score": 31,
-      "comments": 7,
-      "post_id": "t3_1mtrvyn",
-      "post_type": "text",
-      "domain": "self.teslamotors",
-      "author": "Jason0648",
-      "author_id": "t2_q4b76",
-      "subreddit_id": "t5_2s3j5",
-      "subreddit": "r/teslamotors",
-      "created_ts": "2025-08-18T17:03:57.003000+0000",
-      "content_href": "https://www.reddit.com/r/teslamotors/comments/1mtrvyn/new_tesla_service_sales_center_coming_soon/",
-      "content_preview": "Hey everyone, just wanted to share what looks like a legitin‑progressdevelopment:I recently stopped by955 Grape Street, Whitehall Township(formerly Toys R US/Babies R US Building) and saw crews actively retrofitting both the interior and exterior.This isn’t speculation, it lines up with reports confirming aTesla sales + service center is plannedfor that exact location. The facility is slated to be theonly Tesla service center in the Lehigh Valley.As of now, the site is“opening soon”, not yet operational. I’ll be keeping an eye out for launch updates or any signage that gives more clues on timing.This is great news, especially for local Tesla owners who have been driving long distances for service. Looking forward to seeing how this unfolds!",
-      "flair": [
-        "General"
-      ],
-      "thumbnail_url": "",
-      "is_promoted": false
-    },
-    {
-      "title": "Model Y Performance (UK site)",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1n318ee/model_y_performance_uk_site/",
-      "score": 127,
-      "comments": 38,
-      "post_id": "t3_1n318ee",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "pi9",
-      "author_id": "t2_8ggav",
-      "subreddit_id": "t5_2s3j5",
-      "subreddit": "r/teslamotors",
-      "created_ts": "2025-08-29T07:50:40.303000+0000",
-      "content_href": "https://i.redd.it/vndno732zwlf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Vehicles - Model Y"
-      ],
-      "thumbnail_url": "https://preview.redd.it/model-y-performance-uk-site-v0-vndno732zwlf1.jpeg?width=640&crop=smart&auto=webp&s=3059573bf120a5678eca2537fd46fc753bd54bde",
-      "is_promoted": false
-    },
-    {
-      "title": "Still no Grok for Tesla vehicles in Canada",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mpw0w0/still_no_grok_for_tesla_vehicles_in_canada/",
-      "score": 114,
-      "comments": 88,
-      "post_id": "t3_1mpw0w0",
-      "post_type": "link",
-      "domain": "teslaoracle.com",
-      "author": "CarCooler",
-      "author_id": "t2_125wq4",
-      "subreddit_id": "t5_2s3j5",
-      "subreddit": "r/teslamotors",
-      "created_ts": "2025-08-14T09:43:38.241000+0000",
-      "content_href": "https://www.teslaoracle.com/2025/08/14/tesla-begins-wide-release-of-the-2025-26-7-update-grok-is-still-delayed-in-canada/",
-      "content_preview": "",
-      "flair": [
-        "Software - Tesla App"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/z0uTgTkEdSWmFX87MlJAw32xSHfPrQZPsyBmfWbUm6A.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=5b808c22becff27ba08188891e6d60f7c01bfa07",
-      "is_promoted": false
-    },
-    {
-      "title": "Get purpose-built solutions tailored to you. And only you.",
-      "permalink": "https://www.reddit.com/user/SiliconVlyBank/comments/1n2hr0d/get_purposebuilt_solutions_tailored_to_you_and/",
-      "score": 2,
-      "comments": 0,
-      "post_id": "t3_1n2hr0d",
-      "post_type": "image",
-      "domain": "svb.com",
-      "author": "SiliconVlyBank",
-      "author_id": "t2_tl6a6iz3h",
-      "subreddit_id": "",
-      "subreddit": "",
-      "created_ts": "2025-08-28T16:57:47.142000+0000",
-      "content_href": "https://www.svb.com/yes/solutions/?utm_source=reddit&utm_medium=paid-online-advertising-social&utm_campaign=us-2025-08-co-br-na-na-na-na-na-el&utm_content=1pr_esl_scl_bt_redkywds_infeed_p1brandpartnershipsstepleapv3&utm_id=mar-68094",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_b032ei/styles/profileIcon_hlqkba8wmioc1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=baa275544e4b2fe06d0d3c2cc5e9203a976721df",
-      "is_promoted": true
     },
     {
       "title": "First look at the new upcoming model Y L in China",
@@ -870,24 +489,369 @@
       "is_promoted": false
     },
     {
-      "title": "Tesla Windshield Replacement (Good to know)",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mhgfja/tesla_windshield_replacement_good_to_know/",
-      "score": 161,
-      "comments": 98,
-      "post_id": "t3_1mhgfja",
-      "post_type": "text",
-      "domain": "self.teslamotors",
-      "author": "Capital_Elderberry28",
-      "author_id": "t2_a2x63ny9",
+      "title": "You’ve been visited by the meat whisperer *psspsspss youwantanOscarMayersandwichpsspssspss*",
+      "permalink": "https://www.reddit.com/user/OscarMayerOfficial/comments/1l9p5j6/youve_been_visited_by_the_meat_whisperer/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1l9p5j6",
+      "post_type": "image",
+      "domain": "oscarmayer.com",
+      "author": "OscarMayerOfficial",
+      "author_id": "t2_76z4bmr1",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-06-12T15:20:09.181000+0000",
+      "content_href": "https://www.oscarmayer.com/products/00044700030509-oven-roasted-turkey-breast-sliced-lunch-meat-for-a-low-carb-lifestyle/?utm_medium=paidsocial&utm_source=reddit&utm_campaign={{CAMPAIGN_ID}}&utm_adgroup={{ADGROUP_ID}}&utm_content={{AD_ID}}",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2u4u3b/styles/profileIcon_unix7tbipewc1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=d4027ddafdf685916d4b41e707ade90949cdd0e7",
+      "is_promoted": true
+    },
+    {
+      "title": "Cybertruck at Starbase TX helps a stuck Ford F-350 Dually",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1myaqql/cybertruck_at_starbase_tx_helps_a_stuck_ford_f350/",
+      "score": 148,
+      "comments": 35,
+      "post_id": "t3_1myaqql",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "TeslaModel11",
+      "author_id": "t2_r9be8rw",
       "subreddit_id": "t5_2s3j5",
       "subreddit": "r/teslamotors",
-      "created_ts": "2025-08-04T15:23:40.369000+0000",
-      "content_href": "https://www.reddit.com/r/teslamotors/comments/1mhgfja/tesla_windshield_replacement_good_to_know/",
-      "content_preview": "I was contemplating buying the Tesla windshield insurance for approximately $12-$13 a month since windshield replacement cost is getting very expensive nowadays. I called my insurer “Progressive” and talked to them about it and they said Florida (where I live) has a “no deductible windshield replacement policy”. That means my $750 deductible doesn’t apply if I require a windshield. So I’ve decided not to buy the Tesla windshield insurance.",
+      "created_ts": "2025-08-23T19:33:40.468000+0000",
+      "content_href": "https://v.redd.it/dua4zh3ymtkf1",
+      "content_preview": "Vehicles - Cybertruck",
+      "flair": [
+        "Vehicles - Cybertruck"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Spotted a Tesla Roadster in Seattle today! Its rare i get to be this close!",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mv4his/spotted_a_tesla_roadster_in_seattle_today_its/",
+      "score": 574,
+      "comments": 27,
+      "post_id": "t3_1mv4his",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Lewi1541",
+      "author_id": "t2_qy22q",
+      "subreddit_id": "t5_2s3j5",
+      "subreddit": "r/teslamotors",
+      "created_ts": "2025-08-20T03:57:11.555000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mv4his",
+      "content_preview": "",
+      "flair": [
+        "Vehicles - Roadster"
+      ],
+      "thumbnail_url": "https://preview.redd.it/spotted-a-tesla-roadster-in-seattle-today-its-rare-i-get-to-v0-7gz10uo6l3kf1.jpg?width=640&crop=smart&auto=webp&s=91feaadc27e93601001e8107618e7d684ae9bd80",
+      "is_promoted": false
+    },
+    {
+      "title": "Tesla Cybertruck secures 5-Star NHTSA safety ratings for driver and passenger - TeslaNorth",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mxlgkc/tesla_cybertruck_secures_5star_nhtsa_safety/",
+      "score": 436,
+      "comments": 236,
+      "post_id": "t3_1mxlgkc",
+      "post_type": "link",
+      "domain": "teslanorth.com",
+      "author": "twinbee",
+      "author_id": "t2_artk",
+      "subreddit_id": "t5_2s3j5",
+      "subreddit": "r/teslamotors",
+      "created_ts": "2025-08-22T23:09:28.949000+0000",
+      "content_href": "https://teslanorth.com/2025/08/22/tesla-cybertruck-secures-5-star-nhtsa-safety-ratings-for-driver-and-passenger/",
+      "content_preview": "Vehicles - Cybertruck",
+      "flair": [
+        "Vehicles - Cybertruck"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Robotaxi spotted in San Francisco",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1my7gzh/robotaxi_spotted_in_san_francisco/",
+      "score": 215,
+      "comments": 47,
+      "post_id": "t3_1my7gzh",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "magic_5014",
+      "author_id": "t2_xsc7o154b",
+      "subreddit_id": "t5_2s3j5",
+      "subreddit": "r/teslamotors",
+      "created_ts": "2025-08-23T17:26:49.564000+0000",
+      "content_href": "https://www.reddit.com/gallery/1my7gzh",
+      "content_preview": "Full Self-Driving / Autopilot",
+      "flair": [
+        "Full Self-Driving / Autopilot"
+      ],
+      "thumbnail_url": "https://preview.redd.it/robotaxi-spotted-in-san-francisco-v0-swx0i3ed0tkf1.jpg?width=640&crop=smart&auto=webp&s=29002a924cae2d5cf712bd9985b6e67126fc3e2a",
+      "is_promoted": false
+    },
+    {
+      "title": "Model Y Performance revealed",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1n31a3c/model_y_performance_revealed/",
+      "score": 96,
+      "comments": 30,
+      "post_id": "t3_1n31a3c",
+      "post_type": "link",
+      "domain": "x.com",
+      "author": "kingmathers313",
+      "author_id": "t2_f9bwl",
+      "subreddit_id": "t5_2s3j5",
+      "subreddit": "r/teslamotors",
+      "created_ts": "2025-08-29T07:53:49.525000+0000",
+      "content_href": "https://x.com/teslaeurope/status/1961311692274692585",
+      "content_preview": "",
+      "flair": [
+        "Vehicles - Model Y"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Experience the seats of the Model YL",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mxbsua/experience_the_seats_of_the_model_yl/",
+      "score": 94,
+      "comments": 57,
+      "post_id": "t3_1mxbsua",
+      "post_type": "link",
+      "domain": "x.com",
+      "author": "rcnfive",
+      "author_id": "t2_5fk0w",
+      "subreddit_id": "t5_2s3j5",
+      "subreddit": "r/teslamotors",
+      "created_ts": "2025-08-22T16:51:05.268000+0000",
+      "content_href": "https://x.com/boolusilan/status/1958725497656893602",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Elon Musk: (Model YL) doesn’t start production in the US until the end of next year. Might not ever, given the advent of self-driving in America.",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mvjl8p/elon_musk_model_yl_doesnt_start_production_in_the/",
+      "score": 429,
+      "comments": 229,
+      "post_id": "t3_1mvjl8p",
+      "post_type": "link",
+      "domain": "x.com",
+      "author": "zeno4sure",
+      "author_id": "t2_9qdw89fu",
+      "subreddit_id": "t5_2s3j5",
+      "subreddit": "r/teslamotors",
+      "created_ts": "2025-08-20T16:25:45.703000+0000",
+      "content_href": "https://x.com/elonmusk/status/1958069174892474729?s=46&t=cMnriIZdH42EN5jz3kdtDA",
+      "content_preview": "",
+      "flair": [
+        "Vehicles - Model Y"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3p210p/styles/profileIcon_k9vml4gxbxbf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6160dc78576630b90141e126d478cfec7403a583",
+      "is_promoted": false
+    },
+    {
+      "title": "What's next in tech is now at Walmart",
+      "permalink": "https://www.reddit.com/user/walmart/comments/1mijhfg/whats_next_in_tech_is_now_at_walmart/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mijhfg",
+      "post_type": "multi_media",
+      "domain": "",
+      "author": "walmart",
+      "author_id": "t2_1ozytczjf4",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-05T19:54:04.702000+0000",
+      "content_href": "https://www.reddit.com/r/u_walmart/comments/1mijhfg/whats_next_in_tech_is_now_at_walmart/",
+      "content_preview": "You know the brands. Now, get the upgrades.The latest from Dell, the Nintendo Switch 2 system & more is on tap at Walmart, ready to sync with your space, your schedule & your style. From smarter sound to savvy skincare tools, hit refresh with tech that levels up your life & looks insanely good doing it.Press play on a new era of soundPlaces to be, playlists to curate—the right devices make it all hit different.Dial up the audio detail with brands like Sonos. Clearer sound & smarter design deliver powerful, portable vibes that are ready when you are.Essentials that work harder so you don’t have to: this is tech that keeps up. And it’s all at Walmart. Who knew?Unwind mode: activatedYour days don’t slow down, but you certainly can. Skip the burnout & take a beat with sleek speakers or the Nintendo Switch 2 system.Make life’s little in-between moments feel like a major reset. Because we all deserve some joy on-demand.Your space, but smarterYou don’t need a DJ setup to make your space sound amazing—just a speaker that knows what it’s doing.The Sonos Era 100 Voice-Controlled Smart Speaker keeps things crisp & controlled for when bad audio’s not an option & aesthetic actually matters.Clear sound, fast responses & a super-clean design. Available now at Walmart. Who knew? Power moves made easy.Power moves made easyThere’s nothing better than tech that just works. Especially the kind that gets your espresso order right on the first try. (Looking at you, Ninja Luxe Cafe Premier Series!)From productivity boosts to gaming breaks that keep you sane, it’s the small, well-designed things that make life feel smoother.The biggest life hack: you got it all from Walmart. Who knew?",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eeni6o/styles/profileIcon_np6zi2gr6kkf1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=f228dada134a60870a6ead226ca12efea5301a99",
+      "is_promoted": true
+    },
+    {
+      "title": "The model Y L is officially out in. China around $46 000 USD hopefully it comes to North America one day",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mu4z4i/the_model_y_l_is_officially_out_in_china_around/",
+      "score": 425,
+      "comments": 109,
+      "post_id": "t3_1mu4z4i",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "ConfidentImage4266",
+      "author_id": "t2_a1luqbuj",
+      "subreddit_id": "t5_2s3j5",
+      "subreddit": "r/teslamotors",
+      "created_ts": "2025-08-19T01:33:26.865000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mu4z4i",
+      "content_preview": "",
+      "flair": [
+        "Vehicles - Model Y"
+      ],
+      "thumbnail_url": "https://preview.redd.it/the-model-y-l-is-officially-out-in-china-around-46-000-usd-v0-5q3a864nqvjf1.jpg?width=640&crop=smart&auto=webp&s=85abdf15420246d8584d5839e4aa087afb48191f",
+      "is_promoted": false
+    },
+    {
+      "title": "Tesla now offering lease deals on pre-owned vehicles",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mwxofk/tesla_now_offering_lease_deals_on_preowned/",
+      "score": 184,
+      "comments": 91,
+      "post_id": "t3_1mwxofk",
+      "post_type": "multi_media",
+      "domain": "self.teslamotors",
+      "author": "NationGamingChannel",
+      "author_id": "t2_fvunmnney",
+      "subreddit_id": "t5_2s3j5",
+      "subreddit": "r/teslamotors",
+      "created_ts": "2025-08-22T05:08:33.332000+0000",
+      "content_href": "https://www.reddit.com/r/teslamotors/comments/1mwxofk/tesla_now_offering_lease_deals_on_preowned/",
+      "content_preview": "For California/Texas customers!",
       "flair": [
         "General"
       ],
       "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Tesla Semi Factory - Two Words - BRIDGE CRANES!",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mvx448/tesla_semi_factory_two_words_bridge_cranes/",
+      "score": 48,
+      "comments": 11,
+      "post_id": "t3_1mvx448",
+      "post_type": "link",
+      "domain": "x.com",
+      "author": "rcnfive",
+      "author_id": "t2_5fk0w",
+      "subreddit_id": "t5_2s3j5",
+      "subreddit": "r/teslamotors",
+      "created_ts": "2025-08-21T01:07:40.993000+0000",
+      "content_href": "https://x.com/HinrichsZane/status/1958190242709770634",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "NEW Tesla Service & Sales Center Coming Soon Whitehall, PA (Lehigh Valley)",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mtrvyn/new_tesla_service_sales_center_coming_soon/",
+      "score": 31,
+      "comments": 7,
+      "post_id": "t3_1mtrvyn",
+      "post_type": "text",
+      "domain": "self.teslamotors",
+      "author": "Jason0648",
+      "author_id": "t2_q4b76",
+      "subreddit_id": "t5_2s3j5",
+      "subreddit": "r/teslamotors",
+      "created_ts": "2025-08-18T17:03:57.003000+0000",
+      "content_href": "https://www.reddit.com/r/teslamotors/comments/1mtrvyn/new_tesla_service_sales_center_coming_soon/",
+      "content_preview": "Hey everyone, just wanted to share what looks like a legitin‑progressdevelopment:I recently stopped by955 Grape Street, Whitehall Township(formerly Toys R US/Babies R US Building) and saw crews actively retrofitting both the interior and exterior.This isn’t speculation, it lines up with reports confirming aTesla sales + service center is plannedfor that exact location. The facility is slated to be theonly Tesla service center in the Lehigh Valley.As of now, the site is“opening soon”, not yet operational. I’ll be keeping an eye out for launch updates or any signage that gives more clues on timing.This is great news, especially for local Tesla owners who have been driving long distances for service. Looking forward to seeing how this unfolds!",
+      "flair": [
+        "General"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Tesla Model S Plaid: New Info from Chief Designer and Engineer | Jay Leno's Garage",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1n5z9a9/tesla_model_s_plaid_new_info_from_chief_designer/",
+      "score": 167,
+      "comments": 40,
+      "post_id": "t3_1n5z9a9",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "rcnfive",
+      "author_id": "t2_5fk0w",
+      "subreddit_id": "t5_2s3j5",
+      "subreddit": "r/teslamotors",
+      "created_ts": "2025-09-01T20:07:48.286000+0000",
+      "content_href": "https://www.youtube.com/watch?v=JXkOKm9OnR0",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "The longer Tesla Y L with captains chairs, previously only announced for the Chinese market, has been spotted testing in Europe.",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mogist/the_longer_tesla_y_l_with_captains_chairs/",
+      "score": 404,
+      "comments": 75,
+      "post_id": "t3_1mogist",
+      "post_type": "link",
+      "domain": "teslarati.com",
+      "author": "eatmyopinions",
+      "author_id": "t2_108gba",
+      "subreddit_id": "t5_2s3j5",
+      "subreddit": "r/teslamotors",
+      "created_ts": "2025-08-12T18:20:20.637000+0000",
+      "content_href": "https://www.teslarati.com/tesla-model-y-l-spotted-europe-ahead-september-china-launch/",
+      "content_preview": "",
+      "flair": [
+        "Vehicles - Model Y"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/Shlv-x9VhQwKUDjUYvYd_TqIMK4EWHsfn8NYnNprD0Y.jpeg?width=140&height=84&crop=140:84,smart&auto=webp&s=17db40d99edba0a945172f505a498b71bdf79175",
+      "is_promoted": false
+    },
+    {
+      "title": "Captain Morgan Original Spiced Rum. Your tastebuds will thank you for this one.",
+      "permalink": "https://www.reddit.com/user/CaptainMorganUS/comments/1n7kbjy/captain_morgan_original_spiced_rum_your_tastebuds/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n7kbjy",
+      "post_type": "gallery",
+      "domain": "ad.doubleclick.net",
+      "author": "CaptainMorganUS",
+      "author_id": "t2_3tmrb47g",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-03T16:56:54.858000+0000",
+      "content_href": "https://ad.doubleclick.net/ddm/trackclk/N1243037.3195240REDDITINC/B33960065.427587227;dc_trk_aid=620723823;dc_trk_cid=240217529;dc_lat=;dc_rdid={{ADVERTISING_ID}};tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_23wjlx/styles/profileIcon_jdwluzu0fth81.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=f49cc22a5e8b70f733dfa8c99e1baf8c77fd866b",
+      "is_promoted": true
+    },
+    {
+      "title": "Model Y Performance (UK site)",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1n318ee/model_y_performance_uk_site/",
+      "score": 127,
+      "comments": 38,
+      "post_id": "t3_1n318ee",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "pi9",
+      "author_id": "t2_8ggav",
+      "subreddit_id": "t5_2s3j5",
+      "subreddit": "r/teslamotors",
+      "created_ts": "2025-08-29T07:50:40.303000+0000",
+      "content_href": "https://i.redd.it/vndno732zwlf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Vehicles - Model Y"
+      ],
+      "thumbnail_url": "https://preview.redd.it/model-y-performance-uk-site-v0-vndno732zwlf1.jpeg?width=640&crop=smart&auto=webp&s=3059573bf120a5678eca2537fd46fc753bd54bde",
+      "is_promoted": false
+    },
+    {
+      "title": "Elon says \"LiDAR also does not work well in snow, rain or dust due to reflection scatter. That’s why Waymos stop working in any heavy precipitation.\"",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1n0u1zy/elon_says_lidar_also_does_not_work_well_in_snow/",
+      "score": 397,
+      "comments": 547,
+      "post_id": "t3_1n0u1zy",
+      "post_type": "link",
+      "domain": "x.com",
+      "author": "komocode_",
+      "author_id": "t2_pm399lgkx",
+      "subreddit_id": "t5_2s3j5",
+      "subreddit": "r/teslamotors",
+      "created_ts": "2025-08-26T18:39:06.848000+0000",
+      "content_href": "https://x.com/elonmusk/status/1960385338699874758",
+      "content_preview": "Full Self-Driving / Autopilot",
+      "flair": [
+        "Full Self-Driving / Autopilot"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
       "is_promoted": false
     },
     {
@@ -912,6 +876,130 @@
       "is_promoted": false
     },
     {
+      "title": "Model Y Performance announced for Europe",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1n3060i/model_y_performance_announced_for_europe/",
+      "score": 25,
+      "comments": 6,
+      "post_id": "t3_1n3060i",
+      "post_type": "link",
+      "domain": "instagram.com",
+      "author": "Dwhumans",
+      "author_id": "t2_hztac",
+      "subreddit_id": "t5_2s3j5",
+      "subreddit": "r/teslamotors",
+      "created_ts": "2025-08-29T06:41:29.525000+0000",
+      "content_href": "https://www.instagram.com/reel/DN7Uhp-DuEG/?igsh=NTc4MTIwNjQ2YQ==",
+      "content_preview": "",
+      "flair": [
+        "Vehicles - Model Y"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Still no Grok for Tesla vehicles in Canada",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mpw0w0/still_no_grok_for_tesla_vehicles_in_canada/",
+      "score": 114,
+      "comments": 88,
+      "post_id": "t3_1mpw0w0",
+      "post_type": "link",
+      "domain": "teslaoracle.com",
+      "author": "CarCooler",
+      "author_id": "t2_125wq4",
+      "subreddit_id": "t5_2s3j5",
+      "subreddit": "r/teslamotors",
+      "created_ts": "2025-08-14T09:43:38.241000+0000",
+      "content_href": "https://www.teslaoracle.com/2025/08/14/tesla-begins-wide-release-of-the-2025-26-7-update-grok-is-still-delayed-in-canada/",
+      "content_preview": "",
+      "flair": [
+        "Software - Tesla App"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/z0uTgTkEdSWmFX87MlJAw32xSHfPrQZPsyBmfWbUm6A.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=5b808c22becff27ba08188891e6d60f7c01bfa07",
+      "is_promoted": false
+    },
+    {
+      "title": "Port Coquitlam, BC grand opening",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mych64/port_coquitlam_bc_grand_opening/",
+      "score": 394,
+      "comments": 78,
+      "post_id": "t3_1mych64",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "SmoothMeasurement974",
+      "author_id": "t2_7381187i",
+      "subreddit_id": "t5_2s3j5",
+      "subreddit": "r/teslamotors",
+      "created_ts": "2025-08-23T20:42:43.746000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mych64",
+      "content_preview": "",
+      "flair": [
+        "General"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2t2fzn/styles/profileIcon_riquvvu3dw081.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3bf4ec48fed3d4f794f4bdf3d07ba60af7073c38",
+      "is_promoted": false
+    },
+    {
+      "title": "Dive into a Capri Sun, with refreshing all natural ingredients and no artificial flavors or colors.",
+      "permalink": "https://www.reddit.com/user/capri_sun_official/comments/1l35hzt/dive_into_a_capri_sun_with_refreshing_all_natural/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1l35hzt",
+      "post_type": "video",
+      "domain": "kraftheinz.com",
+      "author": "capri_sun_official",
+      "author_id": "t2_qgv19r0q",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-06-04T13:25:02.807000+0000",
+      "content_href": "https://v.redd.it/q6lrtkisev4f1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6rl08e/styles/profileIcon_lholyni3nr1d1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=4d3d72568f8920dd075ee7b72877b365f4efa556",
+      "is_promoted": true
+    },
+    {
+      "title": "Tesla Windshield Replacement (Good to know)",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mhgfja/tesla_windshield_replacement_good_to_know/",
+      "score": 161,
+      "comments": 98,
+      "post_id": "t3_1mhgfja",
+      "post_type": "text",
+      "domain": "self.teslamotors",
+      "author": "Capital_Elderberry28",
+      "author_id": "t2_a2x63ny9",
+      "subreddit_id": "t5_2s3j5",
+      "subreddit": "r/teslamotors",
+      "created_ts": "2025-08-04T15:23:40.369000+0000",
+      "content_href": "https://www.reddit.com/r/teslamotors/comments/1mhgfja/tesla_windshield_replacement_good_to_know/",
+      "content_preview": "I was contemplating buying the Tesla windshield insurance for approximately $12-$13 a month since windshield replacement cost is getting very expensive nowadays. I called my insurer “Progressive” and talked to them about it and they said Florida (where I live) has a “no deductible windshield replacement policy”. That means my $750 deductible doesn’t apply if I require a windshield. So I’ve decided not to buy the Tesla windshield insurance.",
+      "flair": [
+        "General"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Elon: \"Once it became clear that all paths converged to AI6, I had to shut down Dojo and make some tough personnel choices, as Dojo 2 was now an evolutionary dead end. Dojo 3 arguably lives on in the form of a large number of AI6 SoCs on a single board.\"",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mmvj6n/elon_once_it_became_clear_that_all_paths/",
+      "score": 376,
+      "comments": 139,
+      "post_id": "t3_1mmvj6n",
+      "post_type": "link",
+      "domain": "x.com",
+      "author": "twinbee",
+      "author_id": "t2_artk",
+      "subreddit_id": "t5_2s3j5",
+      "subreddit": "r/teslamotors",
+      "created_ts": "2025-08-10T22:03:38.435000+0000",
+      "content_href": "https://x.com/elonmusk/status/1954569832956830066",
+      "content_preview": "Full Self-Driving / Autopilot",
+      "flair": [
+        "Full Self-Driving / Autopilot"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
       "title": "Sharing superchargers with others",
       "permalink": "https://www.reddit.com/r/teslamotors/comments/1mg8bbs/sharing_superchargers_with_others/",
       "score": 673,
@@ -933,24 +1021,24 @@
       "is_promoted": false
     },
     {
-      "title": "Spotted a Tesla Roadster in Seattle today! Its rare i get to be this close!",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mv4his/spotted_a_tesla_roadster_in_seattle_today_its/",
-      "score": 574,
-      "comments": 27,
-      "post_id": "t3_1mv4his",
+      "title": "New Superchargers in Ajax, Ontario. Once completed, this will be Canada's largest Supercharger installation (44 stalls). And it's right up the road from me!",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mjzd5v/new_superchargers_in_ajax_ontario_once_completed/",
+      "score": 366,
+      "comments": 28,
+      "post_id": "t3_1mjzd5v",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "Lewi1541",
-      "author_id": "t2_qy22q",
+      "author": "MrGruntsworthy",
+      "author_id": "t2_oxqy7",
       "subreddit_id": "t5_2s3j5",
       "subreddit": "r/teslamotors",
-      "created_ts": "2025-08-20T03:57:11.555000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mv4his",
+      "created_ts": "2025-08-07T12:57:02.435000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mjzd5v",
       "content_preview": "",
       "flair": [
-        "Vehicles - Roadster"
+        "Energy - Charging"
       ],
-      "thumbnail_url": "https://preview.redd.it/spotted-a-tesla-roadster-in-seattle-today-its-rare-i-get-to-v0-7gz10uo6l3kf1.jpg?width=640&crop=smart&auto=webp&s=91feaadc27e93601001e8107618e7d684ae9bd80",
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
       "is_promoted": false
     },
     {
@@ -996,44 +1084,23 @@
       "is_promoted": false
     },
     {
-      "title": "Learn more about KEYTRUDA (pembrolizumab) Injection 100mg",
-      "permalink": "https://www.reddit.com/user/keytruda/comments/1lwj4iw/learn_more_about_keytruda_pembrolizumab_injection/",
+      "title": "Lunch is important. But not every kid gets a proper one. Purchase Dietz & Watson this back-to-school season and help us support No Kid Hungry. Learn more at DietzPackItForward.com.",
+      "permalink": "https://www.reddit.com/user/_dietzandwatson/comments/1mf6p6n/lunch_is_important_but_not_every_kid_gets_a/",
       "score": 0,
       "comments": 0,
-      "post_id": "t3_1lwj4iw",
+      "post_id": "t3_1mf6p6n",
       "post_type": "video",
-      "domain": "keytruda.com",
-      "author": "keytruda",
-      "author_id": "t2_t9y4r6ww",
+      "domain": "reddit.com",
+      "author": "_dietzandwatson",
+      "author_id": "t2_b2rn9xj67",
       "subreddit_id": "",
       "subreddit": "",
-      "created_ts": "2025-07-10T17:45:02.950000+0000",
-      "content_href": "https://v.redd.it/jdu3ztzxl1cf1",
-      "content_preview": "Please clickherefor full Prescribing Information and clickherefor Med Guide",
-      "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_76prev/styles/profileIcon_nx7j73qgq3ra1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=86d8f20f3b7545cfbe090f6e72dbebc543e5911f",
-      "is_promoted": true
-    },
-    {
-      "title": "Tesla Model Y Performance launched in Europe!",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1n31xsn/tesla_model_y_performance_launched_in_europe/",
-      "score": 108,
-      "comments": 44,
-      "post_id": "t3_1n31xsn",
-      "post_type": "link",
-      "domain": "youtu.be",
-      "author": "SoeppoeS",
-      "author_id": "t2_i92d8",
-      "subreddit_id": "t5_2s3j5",
-      "subreddit": "r/teslamotors",
-      "created_ts": "2025-08-29T08:36:47.173000+0000",
-      "content_href": "https://youtu.be/_XvHhFjrbn0?si=qXoK4bUtGx5tMXTP",
+      "created_ts": "2025-08-01T20:02:49.980000+0000",
+      "content_href": "https://v.redd.it/5rbdm7omafgf1",
       "content_preview": "",
-      "flair": [
-        "Vehicles - Model Y"
-      ],
-      "thumbnail_url": "",
-      "is_promoted": false
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8dyux9/styles/profileIcon_vwjoj9elql0b1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=8ffa625367ff4c1dc430c73b294b5f5c25ef14c7",
+      "is_promoted": true
     },
     {
       "title": "First car",
@@ -1078,316 +1145,89 @@
       "is_promoted": false
     },
     {
-      "title": "Model Y Performance revealed",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1n31a3c/model_y_performance_revealed/",
-      "score": 96,
-      "comments": 30,
-      "post_id": "t3_1n31a3c",
+      "title": "Tesla Model Y Performance launched in Europe!",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1n31xsn/tesla_model_y_performance_launched_in_europe/",
+      "score": 108,
+      "comments": 44,
+      "post_id": "t3_1n31xsn",
       "post_type": "link",
-      "domain": "x.com",
-      "author": "kingmathers313",
-      "author_id": "t2_f9bwl",
+      "domain": "youtu.be",
+      "author": "SoeppoeS",
+      "author_id": "t2_i92d8",
       "subreddit_id": "t5_2s3j5",
       "subreddit": "r/teslamotors",
-      "created_ts": "2025-08-29T07:53:49.525000+0000",
-      "content_href": "https://x.com/teslaeurope/status/1961311692274692585",
+      "created_ts": "2025-08-29T08:36:47.173000+0000",
+      "content_href": "https://youtu.be/_XvHhFjrbn0?si=qXoK4bUtGx5tMXTP",
       "content_preview": "",
       "flair": [
         "Vehicles - Model Y"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Tesla Sweden finally makes IF Metall union give up 600-day strike",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mr8ytn/tesla_sweden_finally_makes_if_metall_union_give/",
+      "score": 294,
+      "comments": 111,
+      "post_id": "t3_1mr8ytn",
+      "post_type": "link",
+      "domain": "teslarati.com",
+      "author": "Peeniskatteus",
+      "author_id": "t2_1civ0xlq5p",
+      "subreddit_id": "t5_2s3j5",
+      "subreddit": "r/teslamotors",
+      "created_ts": "2025-08-15T20:13:51.780000+0000",
+      "content_href": "https://www.teslarati.com/tesla-sweden-makes-if-metall-union-give-up-600-day-strike/",
+      "content_preview": "",
+      "flair": [
+        "General"
       ],
       "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
       "is_promoted": false
     },
     {
-      "title": "Model Y Performance announced for Europe",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1n3060i/model_y_performance_announced_for_europe/",
-      "score": 25,
-      "comments": 6,
-      "post_id": "t3_1n3060i",
-      "post_type": "link",
-      "domain": "instagram.com",
-      "author": "Dwhumans",
-      "author_id": "t2_hztac",
-      "subreddit_id": "t5_2s3j5",
-      "subreddit": "r/teslamotors",
-      "created_ts": "2025-08-29T06:41:29.525000+0000",
-      "content_href": "https://www.instagram.com/reel/DN7Uhp-DuEG/?igsh=NTc4MTIwNjQ2YQ==",
-      "content_preview": "",
-      "flair": [
-        "Vehicles - Model Y"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
-      "is_promoted": false
-    },
-    {
-      "title": "Tesla Cybertruck secures 5-Star NHTSA safety ratings for driver and passenger - TeslaNorth",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mxlgkc/tesla_cybertruck_secures_5star_nhtsa_safety/",
-      "score": 436,
-      "comments": 236,
-      "post_id": "t3_1mxlgkc",
-      "post_type": "link",
-      "domain": "teslanorth.com",
-      "author": "twinbee",
-      "author_id": "t2_artk",
-      "subreddit_id": "t5_2s3j5",
-      "subreddit": "r/teslamotors",
-      "created_ts": "2025-08-22T23:09:28.949000+0000",
-      "content_href": "https://teslanorth.com/2025/08/22/tesla-cybertruck-secures-5-star-nhtsa-safety-ratings-for-driver-and-passenger/",
-      "content_preview": "Vehicles - Cybertruck",
-      "flair": [
-        "Vehicles - Cybertruck"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
-      "is_promoted": false
-    },
-    {
-      "title": "Elon Musk: (Model YL) doesn’t start production in the US until the end of next year. Might not ever, given the advent of self-driving in America.",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mvjl8p/elon_musk_model_yl_doesnt_start_production_in_the/",
-      "score": 429,
-      "comments": 229,
-      "post_id": "t3_1mvjl8p",
-      "post_type": "link",
-      "domain": "x.com",
-      "author": "zeno4sure",
-      "author_id": "t2_9qdw89fu",
-      "subreddit_id": "t5_2s3j5",
-      "subreddit": "r/teslamotors",
-      "created_ts": "2025-08-20T16:25:45.703000+0000",
-      "content_href": "https://x.com/elonmusk/status/1958069174892474729?s=46&t=cMnriIZdH42EN5jz3kdtDA",
-      "content_preview": "",
-      "flair": [
-        "Vehicles - Model Y"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_3p210p/styles/profileIcon_k9vml4gxbxbf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6160dc78576630b90141e126d478cfec7403a583",
-      "is_promoted": false
-    },
-    {
-      "title": "Celebrate excellence in storytelling. Stream Emmy-nominated series only on Disney+ and Hulu.",
-      "permalink": "https://www.reddit.com/user/Hulu_Official/comments/1n2t1pw/celebrate_excellence_in_storytelling_stream/",
-      "score": 0,
-      "comments": 0,
-      "post_id": "t3_1n2t1pw",
-      "post_type": "video",
-      "domain": "hulu.com",
-      "author": "Hulu_Official",
-      "author_id": "t2_sdam4",
-      "subreddit_id": "",
-      "subreddit": "",
-      "created_ts": "2025-08-29T00:30:09.840000+0000",
-      "content_href": "https://v.redd.it/wio3f47xatlf1",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_7i8r2/styles/profileIcon_rh60na2yijf91.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=f25180592095a4606229f604a0bc5ee36426f881",
-      "is_promoted": true
-    },
-    {
-      "title": "The model Y L is officially out in. China around $46 000 USD hopefully it comes to North America one day",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mu4z4i/the_model_y_l_is_officially_out_in_china_around/",
-      "score": 425,
-      "comments": 109,
-      "post_id": "t3_1mu4z4i",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "ConfidentImage4266",
-      "author_id": "t2_a1luqbuj",
-      "subreddit_id": "t5_2s3j5",
-      "subreddit": "r/teslamotors",
-      "created_ts": "2025-08-19T01:33:26.865000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mu4z4i",
-      "content_preview": "",
-      "flair": [
-        "Vehicles - Model Y"
-      ],
-      "thumbnail_url": "https://preview.redd.it/the-model-y-l-is-officially-out-in-china-around-46-000-usd-v0-5q3a864nqvjf1.jpg?width=640&crop=smart&auto=webp&s=85abdf15420246d8584d5839e4aa087afb48191f",
-      "is_promoted": false
-    },
-    {
-      "title": "Tesla Robotaxi will be expanding rapidly",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1me0vaz/tesla_robotaxi_will_be_expanding_rapidly/",
-      "score": 128,
-      "comments": 60,
-      "post_id": "t3_1me0vaz",
-      "post_type": "text",
-      "domain": "self.teslamotors",
-      "author": "eenchev",
-      "author_id": "t2_17g66f",
-      "subreddit_id": "t5_2s3j5",
-      "subreddit": "r/teslamotors",
-      "created_ts": "2025-07-31T12:57:54.790000+0000",
-      "content_href": "https://www.reddit.com/r/teslamotors/comments/1me0vaz/tesla_robotaxi_will_be_expanding_rapidly/",
-      "content_preview": "Full Self-Driving / Autopilot",
-      "flair": [
-        "Full Self-Driving / Autopilot"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
-      "is_promoted": false
-    },
-    {
-      "title": "Tesla’s ride-hailing service is officially live in the Bay Area in their Robotaxi app",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mdrdrh/teslas_ridehailing_service_is_officially_live_in/",
-      "score": 605,
-      "comments": 204,
-      "post_id": "t3_1mdrdrh",
+      "title": "New Superchargers in Riverdale, NJ (15 stalls)",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mor1g0/new_superchargers_in_riverdale_nj_15_stalls/",
+      "score": 284,
+      "comments": 22,
+      "post_id": "t3_1mor1g0",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "ConfidentImage4266",
-      "author_id": "t2_a1luqbuj",
+      "author": "Mrddboy",
+      "author_id": "t2_3v3latnh",
       "subreddit_id": "t5_2s3j5",
       "subreddit": "r/teslamotors",
-      "created_ts": "2025-07-31T03:47:15.654000+0000",
-      "content_href": "https://i.redd.it/gs7k7o27t4gf1.jpeg",
-      "content_preview": "Full Self-Driving / Autopilot",
-      "flair": [
-        "Full Self-Driving / Autopilot"
-      ],
-      "thumbnail_url": "https://preview.redd.it/teslas-ride-hailing-service-is-officially-live-in-the-bay-v0-gs7k7o27t4gf1.jpeg?width=640&crop=smart&auto=webp&s=a9db269b1b86ecd652b030ff86c074fb76dfc50d",
-      "is_promoted": false
-    },
-    {
-      "title": "The Tesla Model X And Model S Are Dead In Europe",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1md5x3h/the_tesla_model_x_and_model_s_are_dead_in_europe/",
-      "score": 365,
-      "comments": 116,
-      "post_id": "t3_1md5x3h",
-      "post_type": "link",
-      "domain": "insideevs.com",
-      "author": "chrisdh79",
-      "author_id": "t2_2uwit82z",
-      "subreddit_id": "t5_2s3j5",
-      "subreddit": "r/teslamotors",
-      "created_ts": "2025-07-30T12:58:26.104000+0000",
-      "content_href": "https://insideevs.com/news/767444/tesla-model-s-model-x-dead-europe/",
+      "created_ts": "2025-08-13T01:20:20.557000+0000",
+      "content_href": "https://i.redd.it/tn2veeqsuoif1.jpeg",
       "content_preview": "",
       "flair": [
-        "Vehicles - Model S"
+        "Energy - Charging"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/kfRjy_HIjF6hewRDiI-5ZHL8NOw_aYJJ1MqycYtr6cU.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=0c7f5bb5e6b6af90e79b3e6c2ec24e4742c33263",
+      "thumbnail_url": "https://preview.redd.it/new-superchargers-in-riverdale-nj-15-stalls-v0-tn2veeqsuoif1.jpeg?width=640&crop=smart&auto=webp&s=d40574defbd72379424e9fa9d4d0e36c81fd48bc",
       "is_promoted": false
     },
     {
-      "title": "Probably my favourite photo of the new Model Y",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mcj99i/probably_my_favourite_photo_of_the_new_model_y/",
-      "score": 836,
-      "comments": 64,
-      "post_id": "t3_1mcj99i",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "CarsofGlasgow",
-      "author_id": "t2_rlghrcz8h",
-      "subreddit_id": "t5_2s3j5",
-      "subreddit": "r/teslamotors",
-      "created_ts": "2025-07-29T18:23:58.751000+0000",
-      "content_href": "https://i.redd.it/d2o9pr2ovuff1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Vehicles - Model Y"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_bncfnl/styles/profileIcon_m49lu7h3xe9f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e7737b698ccfd7212a323e9077baf39ec9488352",
-      "is_promoted": false
-    },
-    {
-      "title": "Grok volume bug fixed in the 2025.26.4 OTA update",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mcnau1/grok_volume_bug_fixed_in_the_2025264_ota_update/",
-      "score": 102,
-      "comments": 59,
-      "post_id": "t3_1mcnau1",
+      "title": "The U.S. Air Force Wants to Buy Cybertrucks So America Can Use Them for Target Practice",
+      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mk9j70/the_us_air_force_wants_to_buy_cybertrucks_so/",
+      "score": 256,
+      "comments": 87,
+      "post_id": "t3_1mk9j70",
       "post_type": "link",
-      "domain": "teslaoracle.com",
+      "domain": "roadandtrack.com",
       "author": "CarCooler",
       "author_id": "t2_125wq4",
       "subreddit_id": "t5_2s3j5",
       "subreddit": "r/teslamotors",
-      "created_ts": "2025-07-29T20:56:07.186000+0000",
-      "content_href": "https://www.teslaoracle.com/2025/07/29/tesla-update-2025-26-4-goes-wide-release-grok-bug-fixed-release-notes/",
-      "content_preview": "",
+      "created_ts": "2025-08-07T19:28:34.062000+0000",
+      "content_href": "https://www.roadandtrack.com/news/a65625976/us-air-force-tesla-cybertruck-target-practice/",
+      "content_preview": "Vehicles - Cybertruck",
       "flair": [
-        "Software - Tesla App"
+        "Vehicles - Cybertruck"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/O9Rg4CNOlt8-f5EEFz8riQHwus88HSuHybIRnzXP1bI.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=4972b6094206d599fbb76ccdab35125437e4780e",
-      "is_promoted": false
-    },
-    {
-      "title": "Tesla says the New Roadster Will Be the 'Last Best Driver's Car'",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mbl9z7/tesla_says_the_new_roadster_will_be_the_last_best/",
-      "score": 295,
-      "comments": 185,
-      "post_id": "t3_1mbl9z7",
-      "post_type": "link",
-      "domain": "motor1.com",
-      "author": "AreaFifty1",
-      "author_id": "t2_30reqdpi",
-      "subreddit_id": "t5_2s3j5",
-      "subreddit": "r/teslamotors",
-      "created_ts": "2025-07-28T16:42:41.360000+0000",
-      "content_href": "https://www.motor1.com/news/767123/tesla-roadster-last-best-driver-car/",
-      "content_preview": "",
-      "flair": [
-        "Vehicles - Roadster"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
-      "is_promoted": false
-    },
-    {
-      "title": "Good morning to ketchup-with-breakfast-people ONLY",
-      "permalink": "https://www.reddit.com/user/HeinzUS/comments/1n0w4ca/good_morning_to_ketchupwithbreakfastpeople_only/",
-      "score": 0,
-      "comments": 0,
-      "post_id": "t3_1n0w4ca",
-      "post_type": "video",
-      "domain": "heinz.com",
-      "author": "HeinzUS",
-      "author_id": "t2_6j2d3vtw",
-      "subreddit_id": "",
-      "subreddit": "",
-      "created_ts": "2025-08-26T19:58:17.707000+0000",
-      "content_href": "https://v.redd.it/p6zh8b1modlf1",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_2ogv4u/styles/profileIcon_vh9qpkllftnb1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=d9939823d810e49eb14c33eb9fef57f09ddd3d30",
-      "is_promoted": true
-    },
-    {
-      "title": "The longer Tesla Y L with captains chairs, previously only announced for the Chinese market, has been spotted testing in Europe.",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mogist/the_longer_tesla_y_l_with_captains_chairs/",
-      "score": 404,
-      "comments": 75,
-      "post_id": "t3_1mogist",
-      "post_type": "link",
-      "domain": "teslarati.com",
-      "author": "eatmyopinions",
-      "author_id": "t2_108gba",
-      "subreddit_id": "t5_2s3j5",
-      "subreddit": "r/teslamotors",
-      "created_ts": "2025-08-12T18:20:20.637000+0000",
-      "content_href": "https://www.teslarati.com/tesla-model-y-l-spotted-europe-ahead-september-china-launch/",
-      "content_preview": "",
-      "flair": [
-        "Vehicles - Model Y"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/Shlv-x9VhQwKUDjUYvYd_TqIMK4EWHsfn8NYnNprD0Y.jpeg?width=140&height=84&crop=140:84,smart&auto=webp&s=17db40d99edba0a945172f505a498b71bdf79175",
-      "is_promoted": false
-    },
-    {
-      "title": "Samsung has struck a $16.5 billion deal to produce semiconductors for Tesla, boosting its underperforming foundry division",
-      "permalink": "https://www.reddit.com/r/teslamotors/comments/1mbcxo1/samsung_has_struck_a_165_billion_deal_to_produce/",
-      "score": 269,
-      "comments": 31,
-      "post_id": "t3_1mbcxo1",
-      "post_type": "link",
-      "domain": "bloomberg.com",
-      "author": "ConfidentImage4266",
-      "author_id": "t2_a1luqbuj",
-      "subreddit_id": "t5_2s3j5",
-      "subreddit": "r/teslamotors",
-      "created_ts": "2025-07-28T10:50:12.282000+0000",
-      "content_href": "https://www.bloomberg.com/news/articles/2025-07-28/samsung-bags-16-5-billion-deal-in-big-win-for-chipmaking-arm",
-      "content_preview": "",
-      "flair": [
-        "Factories"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/RvmvndRLVxVfJ3V7A6woRpJmkFDiRXf-AgBmHHyuZgU.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=8c1688ca090414b5da11781851a3bd8768a8427a",
+      "thumbnail_url": "https://external-preview.redd.it/Onx4gS8N-BxEb2IQFsyvJFv8nzJUaYRCDJxW9TfVc8g.jpeg?width=140&height=70&crop=140:70,smart&auto=webp&s=040bdc1e443aab688e937dd220a13966ddfcf67d",
       "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-05T03:31:10.898992"
+  "scraped_at": "2025-09-05T03:37:20.131104"
 }
