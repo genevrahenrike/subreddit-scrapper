@@ -3,34 +3,154 @@
   "url": "https://www.reddit.com/r/ChatGPT",
   "meta": {
     "title": "ChatGPT",
-    "members_text": "2,110"
+    "description": "Subreddit to discuss ChatGPT and AI. Not affiliated with OpenAI. Thanks, Nat!",
+    "subscribers": 11171583,
+    "online_users": 874,
+    "created_timestamp": "2025-09-05T10:25:57.606000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Bookmarks",
+        "content": [
+          {
+            "text": "Discord",
+            "url": "https://discord.gg/r-chatgpt-1050422060352024636"
+          },
+          {
+            "text": "Twitter",
+            "url": "https://twitter.com/ChatGPTreddit"
+          },
+          {
+            "text": "FAQ1",
+            "url": "https://www.reddit.com/r/ChatGPT/comments/107zfxk/rchatgpts_faq_thread/"
+          },
+          {
+            "text": "FAQ2",
+            "url": "https://www.reddit.com/r/ChatGPT/comments/12wu1ul/faqs_for_chatgptopenai/"
+          }
+        ]
+      },
+      {
+        "title": "r/ChatGPT Rules",
+        "content": "Posters and commenters are expected to act in good faith. Treat other users the way you want to be treated. Avoid straw-manning and bad-faith interpretations. Report posts/comments that aren't appropriate for the \"serious\" flair. Posts deemed to be entirely without value or effort may be removed if they have not generated interesting discussions before their discovery. Anyone sharing disturbing content will be banned. Users are encouraged to report posts they feel are of significantly low effort. Specifically mentioning that “Is chat GPT down posts?” will be removed. The stickied FAQ deals with that. Posts must be directly related to ChatGPT or the topic of AI. They may not be solely focused on advertising a single other LLM service(all these posts should directly go to weekly self-promotional mega thread, which is pinned) Having ChatGPT create political content is completely fine. Discussion of the politics around AI and LLMs is allowed. This is not the place to discuss the merits of Trump's foreign policy or Hunter Biden’s laptop. This is a SFW sub. Any posts violating this rule will be removed, and repeated offenses may result in a ban. Quality over Quantity: AI art submissions are allowed only if they showcase something very unique or unusual. Generic memes, low-effort images and karma farming posts will be removed. Encourage Tech Discussion: Posts that include insights, techniques, or thought-provoking commentary about the AI process or technology behind the art are highly encouraged. Mod Discretion: Mods reserve the right to remove posts that do not meet the above criteria."
+      },
+      {
+        "title": "Recommended subreddits",
+        "content": [
+          {
+            "text": "r/CognitionLabs",
+            "url": "/r/CognitionLabs"
+          },
+          {
+            "text": "r/grok",
+            "url": "/r/grok"
+          },
+          {
+            "text": "r/MistralAI",
+            "url": "/r/MistralAI"
+          },
+          {
+            "text": "r/Kaiber",
+            "url": "/r/Kaiber"
+          },
+          {
+            "text": "r/SunoAI",
+            "url": "/r/SunoAI"
+          },
+          {
+            "text": "r/InflectionAI",
+            "url": "/r/InflectionAI"
+          },
+          {
+            "text": "r/worldcoin",
+            "url": "/r/worldcoin"
+          },
+          {
+            "text": "r/ElevenLabs",
+            "url": "/r/ElevenLabs"
+          },
+          {
+            "text": "r/Bard",
+            "url": "/r/Bard"
+          },
+          {
+            "text": "r/SesameAI",
+            "url": "/r/SesameAI"
+          }
+        ]
+      },
+      {
+        "title": "Mod-chosen Original Content",
+        "content": "Click here"
+      },
+      {
+        "title": "DISCLAIMER",
+        "content": [
+          {
+            "text": "help.openai.com",
+            "url": "https://help.openai.com"
+          },
+          {
+            "text": "Sam Altman on r/ChatGPT",
+            "url": "https://preview.redd.it/05mvb22u7cia1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=5a355df158149935f6929161f8a4ed274b4781b7"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/ChatGPT/moderators/"
+          }
+        ]
+      },
+      {
+        "title": "Installed Apps",
+        "content": [
+          {
+            "text": "Bot Bouncer",
+            "url": "https://developers.reddit.com/apps/bot-bouncer"
+          },
+          {
+            "text": "Trending Tattler",
+            "url": "https://developers.reddit.com/apps/trendingtattler"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "Anyone else feeling like we'll never get a junior role nowadays?",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n6fdq5/anyone_else_feeling_like_well_never_get_a_junior/",
+      "title": "AI that actually saves time vs AI that’s just hype",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n91j0s/ai_that_actually_saves_time_vs_ai_thats_just_hype/",
       "score": 1,
       "comments": 2,
-      "post_id": "t3_1n6fdq5",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Ok_Albatross9394",
-      "author_id": "t2_1p3j4qvti9",
+      "post_id": "t3_1n91j0s",
+      "post_type": "text",
+      "domain": "self.ChatGPT",
+      "author": "Chris_Lojniewski",
+      "author_id": "t2_1vzntd09uh",
       "subreddit_id": "t5_7hqomg",
       "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-02T10:00:00.968000+0000",
-      "content_href": "https://i.redd.it/wc3zinhq5qmf1.jpeg",
-      "content_preview": "",
+      "created_ts": "2025-09-05T10:25:57.606000+0000",
+      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n91j0s/ai_that_actually_saves_time_vs_ai_thats_just_hype/",
+      "content_preview": "Most of the AI hype is shiny copilots and demos. Cool for a tweet, not what actually makes life easier.Biggest wins I’ve seen are in the boring stuff: migrations, boilerplate cleanup, test gen, compliance checks. Not sexy, but it saves hours every week.Flip side: I’ve also seen teams burn months trying to “AI-ify” features that didn’t need it, just to end up with more bugs + maintenance.Curious what others have experienced:- Where has AI actually given you real ROI (time or cost)?- And where did it look good but ended up being a trap?",
       "flair": [
-        "News 📰"
+        "Gone Wild"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f7pud0/styles/profileIcon_cg4l0e7e3xjf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=43093d351e9d5db3edc3a1d0cfa61de001505160",
+      "is_promoted": false
     },
     {
       "title": "Just applied to be the CEO of OpenAI. Got rejected 😭",
       "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n504ps/just_applied_to_be_the_ceo_of_openai_got_rejected/",
-      "score": 35225,
-      "comments": 531,
+      "score": 37941,
+      "comments": 597,
       "post_id": "t3_1n504ps",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -44,53 +164,56 @@
       "flair": [
         "Funny"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
-      "title": "I know it’s not actually smart, but talking to ChatGPT is kinda… unsettlingly fun",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n681l3/i_know_its_not_actually_smart_but_talking_to/",
-      "score": 179,
-      "comments": 73,
-      "post_id": "t3_1n681l3",
-      "post_type": "text",
-      "domain": "self.ChatGPT",
-      "author": "RickThiccems",
-      "author_id": "t2_ja3f3wai5",
+      "title": "The banana wins.",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n8f39z/the_banana_wins/",
+      "score": 3807,
+      "comments": 171,
+      "post_id": "t3_1n8f39z",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Halezdra",
+      "author_id": "t2_9s5xxvb7",
       "subreddit_id": "t5_7hqomg",
       "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-02T02:37:41.148000+0000",
-      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n681l3/i_know_its_not_actually_smart_but_talking_to/",
+      "created_ts": "2025-09-04T16:34:16.335000+0000",
+      "content_href": "https://i.redd.it/hf3c0caqd6nf1.png",
       "content_preview": "",
       "flair": [
-        "Other"
+        "Funny"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     },
     {
-      "title": "What am I doing wrong?",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n66ti7/what_am_i_doing_wrong/",
-      "score": 289,
-      "comments": 262,
-      "post_id": "t3_1n66ti7",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Markkbrendanawicz",
-      "author_id": "t2_3e3ngetn",
+      "title": "Simple thing people don't realise",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n8zlt9/simple_thing_people_dont_realise/",
+      "score": 212,
+      "comments": 31,
+      "post_id": "t3_1n8zlt9",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "vinayak_117",
+      "author_id": "t2_6ww682pk",
       "subreddit_id": "t5_7hqomg",
       "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-02T01:37:55.725000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n66ti7",
+      "created_ts": "2025-09-05T08:24:53.875000+0000",
+      "content_href": "https://i.redd.it/u6up3fij3bnf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Educational Purpose Only"
+        "Funny"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://preview.redd.it/simple-thing-people-dont-realise-v0-u6up3fij3bnf1.jpeg?width=640&crop=smart&auto=webp&s=327c90ce9fabf0809b0a4b10776d0ecbf04d23f2",
+      "is_promoted": false
     },
     {
       "title": "Pretty much sums it up",
       "permalink": "https://www.reddit.com/r/ChatGPT/comments/1mm1etg/pretty_much_sums_it_up/",
-      "score": 41135,
-      "comments": 2706,
+      "score": 41237,
+      "comments": 2711,
       "post_id": "t3_1mm1etg",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -104,93 +227,117 @@
       "flair": [
         "Funny"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
-      "title": "RIP GPT-4o — Gone but never forgotten",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n6b895/rip_gpt4o_gone_but_never_forgotten/",
-      "score": 68,
-      "comments": 24,
-      "post_id": "t3_1n6b895",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "cyborg_type_darkness",
-      "author_id": "t2_15s8mt",
+      "title": "Just made this little edit with ChatGPT, how cool is it, open for original post btw",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n8ehsl/just_made_this_little_edit_with_chatgpt_how_cool/",
+      "score": 1212,
+      "comments": 63,
+      "post_id": "t3_1n8ehsl",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "NikBoiiiii",
+      "author_id": "t2_la12lir7",
       "subreddit_id": "t5_7hqomg",
       "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-02T05:30:47.438000+0000",
-      "content_href": "https://i.redd.it/1cec9ocktomf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Funny"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "I pulled the ultimate UNO reverse!",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n4vqp7/i_pulled_the_ultimate_uno_reverse/",
-      "score": 12767,
-      "comments": 243,
-      "post_id": "t3_1n4vqp7",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "realac1d",
-      "author_id": "t2_2c7wksuy",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-08-31T14:12:09.372000+0000",
-      "content_href": "https://i.redd.it/mefcoktx4dmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Funny"
-      ],
-      "thumbnail_url": "https://preview.redd.it/i-pulled-the-ultimate-uno-reverse-v0-mefcoktx4dmf1.png?width=640&crop=smart&auto=webp&s=5d723054ac193562905a20b01208e4d4af19557e"
-    },
-    {
-      "title": "What Happens When ChatGPT Runs a Stock Portfolio? +24% Gain So Far (Prompts, Code, listed)",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n5ssf6/what_happens_when_chatgpt_runs_a_stock_portfolio/",
-      "score": 685,
-      "comments": 125,
-      "post_id": "t3_1n5ssf6",
-      "post_type": "multi_media",
-      "domain": "self.ChatGPT",
-      "author": "OpenArcher7341",
-      "author_id": "t2_gsmnszih7",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-01T16:07:08.909000+0000",
-      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n5ssf6/what_happens_when_chatgpt_runs_a_stock_portfolio/",
-      "content_preview": "",
+      "created_ts": "2025-09-04T16:12:11.080000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8ehsl",
+      "content_preview": "Educational Purpose Only",
       "flair": [
         "Educational Purpose Only"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_90qgm1/styles/profileIcon_tajt7bk222gf1.PNG?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c68d516f24aaae6943e8cf8160e8bafa989d7b40"
+      "thumbnail_url": "https://preview.redd.it/just-made-this-little-edit-with-chatgpt-how-cool-is-it-open-v0-8satst00a6nf1.jpg?width=640&crop=smart&auto=webp&s=587ee81323415000fc89cfcfac0aefacab14a3df",
+      "is_promoted": false
     },
     {
-      "title": "An interesting conversation I had with chat about its memory",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n6f9y1/an_interesting_conversation_i_had_with_chat_about/",
-      "score": 2,
-      "comments": 3,
-      "post_id": "t3_1n6f9y1",
-      "post_type": "text",
-      "domain": "self.ChatGPT",
-      "author": "Nightmarepanther",
-      "author_id": "t2_4i7tchoo",
+      "title": "Turn ideas into images with ChatGPT. Describe anything - like “a wizard reading in a moonlit forest” - and watch it appear. Try it out now ⬇️",
+      "permalink": "https://www.reddit.com/user/OpenAI/comments/1lu0zh2/turn_ideas_into_images_with_chatgpt_describe/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1lu0zh2",
+      "post_type": "gallery",
+      "domain": "chatgpt.com",
+      "author": "OpenAI",
+      "author_id": "t2_10knboj9s0",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-07T17:52:40.184000+0000",
+      "content_href": "https://chatgpt.com/?utm_source=reddit&utm_medium=paidsocial_conversion&utm_campaign={{CAMPAIGN_NAME}}&utm_content={{AD_NAME}}&utm_term={{ADGROUP_NAME}}",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bjljw0/styles/profileIcon_qoolby03cm6e1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=bcd52b68c0c91e581d2e1f2ad7a9969733cba1c9",
+      "is_promoted": true
+    },
+    {
+      "title": "Has anyone tried this?",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n802wy/has_anyone_tried_this/",
+      "score": 21686,
+      "comments": 462,
+      "post_id": "t3_1n802wy",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "RegularSky6702",
+      "author_id": "t2_8d1nl49xd",
       "subreddit_id": "t5_7hqomg",
       "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-02T09:53:12.316000+0000",
-      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n6f9y1/an_interesting_conversation_i_had_with_chat_about/",
+      "created_ts": "2025-09-04T03:55:59.394000+0000",
+      "content_href": "https://i.redd.it/z9w8ajhnm2nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Prompt engineering"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "First Lady Melania Trump Hosts a Meeting of the White House Task Force on AI Education",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n8gmfd/first_lady_melania_trump_hosts_a_meeting_of_the/",
+      "score": 767,
+      "comments": 286,
+      "post_id": "t3_1n8gmfd",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Consuela_Say_No",
+      "author_id": "t2_h9pf37yf",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-09-04T17:31:53.648000+0000",
+      "content_href": "https://i.redd.it/p2hp63h0o6nf1.png",
+      "content_preview": "",
+      "flair": [
+        "Funny"
+      ],
+      "thumbnail_url": "https://preview.redd.it/first-lady-melania-trump-hosts-a-meeting-of-the-white-house-v0-p2hp63h0o6nf1.png?width=640&crop=smart&auto=webp&s=da8e347ac52fb0880df6e41e49b6d2d3babcbced",
+      "is_promoted": false
+    },
+    {
+      "title": "Well that's convenient...",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n91ere/well_thats_convenient/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1n91ere",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "SeagullHawk",
+      "author_id": "t2_apnezxrk",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-09-05T10:19:03.654000+0000",
+      "content_href": "https://i.redd.it/kbhcrn7fnbnf1.png",
       "content_preview": "",
       "flair": [
         "Other"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://preview.redd.it/well-thats-convenient-v0-kbhcrn7fnbnf1.png?width=640&crop=smart&auto=webp&s=11b01c779f20454cd3d2631b638fa4920a9c0afb",
+      "is_promoted": false
     },
     {
       "title": "ChatGPT asked if I wanted a diagram of what’s going on inside my pregnant belly.",
       "permalink": "https://www.reddit.com/r/ChatGPT/comments/1mxr081/chatgpt_asked_if_i_wanted_a_diagram_of_whats/",
-      "score": 33520,
-      "comments": 1760,
+      "score": 33597,
+      "comments": 1767,
       "post_id": "t3_1mxr081",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -204,133 +351,159 @@
       "flair": [
         "Funny"
       ],
-      "thumbnail_url": "https://preview.redd.it/chatgpt-asked-if-i-wanted-a-diagram-of-whats-going-on-v0-q0aaoucawokf1.jpeg?width=640&crop=smart&auto=webp&s=3057a645151feb801cc089ba09711f78a9efdabc"
+      "thumbnail_url": "https://preview.redd.it/chatgpt-asked-if-i-wanted-a-diagram-of-whats-going-on-v0-q0aaoucawokf1.jpeg?width=640&crop=smart&auto=webp&s=3057a645151feb801cc089ba09711f78a9efdabc",
+      "is_promoted": false
     },
     {
-      "title": "ChatGPT really wants to slap Elon Musk.",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n5lifd/chatgpt_really_wants_to_slap_elon_musk/",
-      "score": 1785,
-      "comments": 264,
-      "post_id": "t3_1n5lifd",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "imfrom_mars_",
-      "author_id": "t2_1qysj5s5a9",
+      "title": "While OpenAI is going backwards, Google is just killing it, Nano Banana and Veo are just insane tools.",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n825t2/while_openai_is_going_backwards_google_is_just/",
+      "score": 5431,
+      "comments": 372,
+      "post_id": "t3_1n825t2",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Ilovekittens345",
+      "author_id": "t2_i6wlmca3l",
       "subreddit_id": "t5_7hqomg",
       "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-01T10:50:54.745000+0000",
-      "content_href": "https://i.redd.it/g4lpa42x9jmf1.jpeg",
+      "created_ts": "2025-09-04T05:54:01.098000+0000",
+      "content_href": "https://v.redd.it/88o053hm73nf1",
+      "content_preview": "",
+      "flair": [
+        "Gone Wild"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "I pulled the ultimate UNO reverse!",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n4vqp7/i_pulled_the_ultimate_uno_reverse/",
+      "score": 14283,
+      "comments": 273,
+      "post_id": "t3_1n4vqp7",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "realac1d",
+      "author_id": "t2_2c7wksuy",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-08-31T14:12:09.372000+0000",
+      "content_href": "https://i.redd.it/mefcoktx4dmf1.png",
       "content_preview": "",
       "flair": [
         "Funny"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "https://preview.redd.it/i-pulled-the-ultimate-uno-reverse-v0-mefcoktx4dmf1.png?width=640&crop=smart&auto=webp&s=5d723054ac193562905a20b01208e4d4af19557e",
+      "is_promoted": false
     },
     {
-      "title": "How ChatGPT gave me a week off work",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n2ogwj/how_chatgpt_gave_me_a_week_off_work/",
-      "score": 11302,
-      "comments": 1608,
-      "post_id": "t3_1n2ogwj",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Sad_Relative_2764",
-      "author_id": "t2_s08atq42z",
+      "title": "An Update: Ben can now surf the web thanks to Vibe Coding in ChatGPT",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n8p16t/an_update_ben_can_now_surf_the_web_thanks_to_vibe/",
+      "score": 1042,
+      "comments": 58,
+      "post_id": "t3_1n8p16t",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "acrolicious",
+      "author_id": "t2_3z7e7",
       "subreddit_id": "t5_7hqomg",
       "subreddit": "r/ChatGPT",
-      "created_ts": "2025-08-28T21:13:24.385000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n2ogwj",
+      "created_ts": "2025-09-04T23:03:03.939000+0000",
+      "content_href": "https://v.redd.it/6qzlngnab8nf1",
       "content_preview": "",
       "flair": [
-        "Educational Purpose Only"
+        "Use cases"
       ],
-      "thumbnail_url": "https://preview.redd.it/how-chatgpt-gave-me-a-week-off-work-v0-9125cs2dttlf1.jpg?width=640&crop=smart&auto=webp&s=c3a92b6ad3031f52813cc46e75f4d7004e4934dc"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
     },
     {
-      "title": "Anyone seen this before? 😶",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n653qe/anyone_seen_this_before/",
-      "score": 284,
-      "comments": 173,
-      "post_id": "t3_1n653qe",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Decent_Expression860",
-      "author_id": "t2_1ru9r8ua4b",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-02T00:15:31.630000+0000",
-      "content_href": "https://i.redd.it/rgcxnyqr8nmf1.png",
+      "title": "Feeling stuck? Just ask Google.",
+      "permalink": "https://www.reddit.com/user/google/comments/1mp5whq/feeling_stuck_just_ask_google/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mp5whq",
+      "post_type": "video",
+      "domain": "google.com",
+      "author": "google",
+      "author_id": "t2_2yutkjzv",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-13T14:24:29.107000+0000",
+      "content_href": "https://v.redd.it/01y7xz879rif1",
       "content_preview": "",
-      "flair": [
-        "Educational Purpose Only"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_13x678/styles/profileIcon_jm7ixo7tqglb1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=8db0b79bea0881f2a8fa53895e8bf2394a4ec162",
+      "is_promoted": true
     },
     {
-      "title": "GPT 5 is bad",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n6bp08/gpt_5_is_bad/",
-      "score": 33,
-      "comments": 23,
-      "post_id": "t3_1n6bp08",
+      "title": "4o is still around, thankfully.",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n8tvts/4o_is_still_around_thankfully/",
+      "score": 90,
+      "comments": 25,
+      "post_id": "t3_1n8tvts",
       "post_type": "text",
       "domain": "self.ChatGPT",
-      "author": "Outrageous_Long7671",
-      "author_id": "t2_1d7e3fy48r",
+      "author": "Sweaty-Cheek345",
+      "author_id": "t2_dad4nj4g1",
       "subreddit_id": "t5_7hqomg",
       "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-02T05:59:19.144000+0000",
-      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n6bp08/gpt_5_is_bad/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T02:49:15.238000+0000",
+      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n8tvts/4o_is_still_around_thankfully/",
+      "content_preview": "I just wanted to share an experience of tonight. Throughout the week, I had only used 4.1 (and kept testing 5) as I was working, and didn’t really know if the new posts about 4o feeling like 5 were real or not.Tonight, I went back to 4o to discuss some personal brainstorming. Not only did it remember and ask, unprompted, about a DIY project I had done last week with its help, but it also linked the final aspects of the  product to a few emotional beats of my personality and current work environment. It truly has a depth of context and emotion that no other model has, not even close.It’s still here, thankfully. If it feels off, give it time, retrain it like it’s the first time🙃",
       "flair": [
         "GPTs"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "Wake the F up US policymakers",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n3ae4a/wake_the_f_up_us_policymakers/",
-      "score": 10365,
-      "comments": 716,
-      "post_id": "t3_1n3ae4a",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "ExpressBar4",
-      "author_id": "t2_4smfhv03",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-08-29T15:23:46.007000+0000",
-      "content_href": "https://i.redd.it/m0cy43qv7zlf1.png",
-      "content_preview": "",
-      "flair": [
-        "News 📰"
-      ],
-      "thumbnail_url": "https://preview.redd.it/wake-the-f-up-us-policymakers-v0-m0cy43qv7zlf1.png?width=640&crop=smart&auto=webp&s=1686f133c8395471dbde10fa8f49c16abba27bff"
-    },
-    {
-      "title": "Ever felt that ChatGPT 'conveniently' lost network connection when discussing something controversial?",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n61eq0/ever_felt_that_chatgpt_conveniently_lost_network/",
-      "score": 151,
-      "comments": 87,
-      "post_id": "t3_1n61eq0",
+      "title": "Opposing Counsel Just Filed a ChatGPT Hallucination with the Court",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n7ucjj/opposing_counsel_just_filed_a_chatgpt/",
+      "score": 11603,
+      "comments": 1342,
+      "post_id": "t3_1n7ucjj",
       "post_type": "text",
       "domain": "self.ChatGPT",
-      "author": "Reetpetit",
-      "author_id": "t2_rjce2jxu",
+      "author": "E_lluminate",
+      "author_id": "t2_3yrukn9q",
       "subreddit_id": "t5_7hqomg",
       "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-01T21:31:52.070000+0000",
-      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n61eq0/ever_felt_that_chatgpt_conveniently_lost_network/",
-      "content_preview": "",
+      "created_ts": "2025-09-03T23:23:52.074000+0000",
+      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n7ucjj/opposing_counsel_just_filed_a_chatgpt/",
+      "content_preview": "TLDR; opposing counsel just filed a brief that is 100% an AI hallucination. The hearing is on Tuesday.I'm an attorney practicing civil litigation. Without going to far into it, we represent a client who has been sued over a commercial licensing agreement. Opposing counsel is a collections firm. Definitely not very tech-savvy, and generally they just try their best to keep their heads above water. Recently, we filed a motion to dismiss, and because of the proximity to the trial date, the court ordered shortened time for them to respond. They filed an opposition (never served it on us) and I went ahead and downloaded it from the court's website when I realized it was late.I began reading it, and it was damning. Cases I had never heard of with perfect quotes that absolutely destroyed the basis of our motion. I like to think I'm pretty good at legal research and writing, and generally try to be familiar with relevant cases prior to filing a motion. Granted, there's a lot of case law, and it can be easy to miss authority. Still, this was absurd. State Supreme Court cases which held the exact opposite of my client's position. Multiple appellate court cases which used entirely different standards to the one I stated in my motion. It was devastating.Then, I began looking up the cited cases, just in case I could distinguish the facts, or make some colorable argument for why my motion wasn't a complete waste of the court's time. That's when I discovered they didn't exist. Or the case name existed, but the citation didn't. Or the citation existed, but the quote didn't appear in the text.I began a spreadsheet, listing out the cases, the propositions/quotes contained in the brief, and then an analysis of what was wrong. By the end of my analysis, I determined that every single case cited in the brief was inaccurate, and not a single quote existed. I was half relieved and half astounded. Relieved that I didn't completely miss the mark in my pleadings, but also astounded that a colleague would file something like this with the court. It was utterly false. Nothing-- not the argument, not the law, not the quotes-- was accurate.Then, I started looking for the telltale signs of AI. The use of em dashes (just like I just used-- did you catch it?) The formatting. The random bolding and bullet points. The fact that it was (unnecessarily) signed under penalty of perjury. The caption page used the judges nickname, and the information was out of order (my jurisdiction is pretty specific on how the judge's name, department, case name, hearing date, etc. are laid out on the front page). It hit me, this attorney was under a time crunch and just ran the whole thing through ChatGPT, copied and pasted it, and filed it.This attorney has been practicing almost as long as I've been alive, and my guess is that he has no idea that AI will hallucinate authority to support your position, whether it exists or not. Needless to say, my reply brief was unequivocal about my findings. I included the chart I had created, and was very clear about an attorney's duty of candor to the court.The hearing is next Tuesday, and I can't wait to see what the judge does with this. It's going to be a learning experience for everyone.***EDIT***He just filed a motion to be relieved as counsel.EDIT #2The hearing on the motion to be relieved as counsel is set for the same day as the hearing on the motion to dismiss. He's not getting out of this one.",
       "flair": [
         "Other"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "\"OpenAI warns investors that AGI may make money obsolete, while raising billions of US dollars,\" per BI",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n8x13u/openai_warns_investors_that_agi_may_make_money/",
+      "score": 44,
+      "comments": 4,
+      "post_id": "t3_1n8x13u",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "nitkjh",
+      "author_id": "t2_hhvki8aq",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-09-05T05:39:43.850000+0000",
+      "content_href": "/r/OneAI/comments/1n6hvd6/openai_warns_investors_that_agi_may_make_money/",
+      "content_preview": "177upvotes·16comments",
+      "flair": [
+        "News 📰"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_81py1u/styles/profileIcon_uga9vh09s5ne1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1058a69f49e177edf85c0cba72087acc8ab120d8",
+      "is_promoted": false
     },
     {
       "title": "I asked ChatGPT to explain my job to a 5-year-old and now I'm questioning my entire career",
       "permalink": "https://www.reddit.com/r/ChatGPT/comments/1mjdyvl/i_asked_chatgpt_to_explain_my_job_to_a_5yearold/",
-      "score": 32119,
-      "comments": 4468,
+      "score": 32151,
+      "comments": 4470,
       "post_id": "t3_1mjdyvl",
       "post_type": "text",
       "domain": "self.ChatGPT",
@@ -340,114 +513,17 @@
       "subreddit": "r/ChatGPT",
       "created_ts": "2025-08-06T19:20:57.447000+0000",
       "content_href": "https://www.reddit.com/r/ChatGPT/comments/1mjdyvl/i_asked_chatgpt_to_explain_my_job_to_a_5yearold/",
-      "content_preview": "",
+      "content_preview": "So I'm a \"Senior Data Analytics Consultant\" (fancy title for someone who makes Excel charts) and thought it would be funny to see how ChatGPT would explain my job to a kid.Me:\"Explain what a Senior Data Analytics Consultant does, but make it simple enough for a 5-year-old to understand.\"ChatGPT:\"A data analytics consultant is like someone who counts things for other people because those people are too busy or don't know how to count very well themselves.Imagine if your mom asked you to count all the toys in your room, but instead of doing it herself, she paid a stranger to come over and count them. Then the stranger makes a colorful picture showing that you have 10 cars, 5 dolls, and 3 blocks, and gives it to your mom like it's some big discovery.That's basically what a data consultant does, except instead of toys, they count things like 'how many people bought ice cream on Tuesday' and then make pretty charts about it.\"I've never felt so professionally attacked by such an accurate description 😭The worst part? I sent this to my mom and she replied \"Oh, so you're the toy counter! That makes sense now.\"I have a Master's degree.Tried explaining it to my 6-year-old nephew. He said \"So you count stuff? I can do that too. Want to see?\" and proceeded to count to 47 before getting distracted by a butterfly. Kid's not wrong.My coworker saw this and asked ChatGPT about her job as \"Marketing Strategy Director.\" Apparently she \"helps companies decide what colors to make their pictures and which words sound the most exciting when trying to sell people things they probably don't need.\" She's now having an existential crisis too.What's your job? Let's see if ChatGPT can destroy your self-worth in under 100 words 💀",
       "flair": [
         "Funny"
       ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Do you think the decision to replace you with AI will be made by a human?",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n6cu8v/do_you_think_the_decision_to_replace_you_with_ai/",
-      "score": 23,
-      "comments": 11,
-      "post_id": "t3_1n6cu8v",
-      "post_type": "crosspost",
-      "domain": "i.redd.it",
-      "author": "michael-lethal_ai",
-      "author_id": "t2_1ooet3bipx",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-02T07:12:19.822000+0000",
-      "content_href": "/r/AIDangers/comments/1n6cu03/do_you_think_the_decision_to_replace_you_with_ai/",
-      "content_preview": "",
-      "flair": [
-        "Funny"
-      ],
-      "thumbnail_url": "https://preview.redd.it/do-you-think-the-decision-to-replace-you-with-ai-will-be-v0-6fqi9zsrbpmf1.png?width=640&crop=smart&auto=webp&s=ec5dc351eda320cfdb6f698d2cb02977ddb50a37"
-    },
-    {
-      "title": "ChatGPT is censoring the word \"suicide\" even in non-depressive contexts",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n6dwxf/chatgpt_is_censoring_the_word_suicide_even_in/",
-      "score": 17,
-      "comments": 18,
-      "post_id": "t3_1n6dwxf",
-      "post_type": "multi_media",
-      "domain": "self.ChatGPT",
-      "author": "Sakul69",
-      "author_id": "t2_phggr",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-02T08:23:39.673000+0000",
-      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n6dwxf/chatgpt_is_censoring_the_word_suicide_even_in/",
-      "content_preview": "",
-      "flair": [
-        "Other"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Oh no. This is fuking upset",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n5m7h7/oh_no_this_is_fuking_upset/",
-      "score": 701,
-      "comments": 337,
-      "post_id": "t3_1n5m7h7",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Early_Yesterday443",
-      "author_id": "t2_9mem7300",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-01T11:29:52.076000+0000",
-      "content_href": "https://i.redd.it/1iw9zo7wgjmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "News 📰"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Parents sue ChatGPT over their 16 year old son's suicide",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n0ljep/parents_sue_chatgpt_over_their_16_year_old_sons/",
-      "score": 9058,
-      "comments": 3219,
-      "post_id": "t3_1n0ljep",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Ashamed_Ad1622",
-      "author_id": "t2_razqy077",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-08-26T13:14:39.600000+0000",
-      "content_href": "https://i.redd.it/tj3tjvf46dlf1.jpeg",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "https://preview.redd.it/parents-sue-chatgpt-over-their-16-year-old-sons-suicide-v0-tj3tjvf46dlf1.jpeg?width=640&crop=smart&auto=webp&s=5f5900dbee7e297c66c61cad8d2cda476bf23b7e"
-    },
-    {
-      "title": "Guess the word game",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n6f909/guess_the_word_game/",
-      "score": 2,
-      "comments": 1,
-      "post_id": "t3_1n6f909",
-      "post_type": "link",
-      "domain": "chatgpt.com",
-      "author": "tyeguy__",
-      "author_id": "t2_1pr2zqgt24",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-02T09:51:26.138000+0000",
-      "content_href": "https://chatgpt.com/s/t_68b6bd8e4c7c8191aae5ec0ff8fe3b9c",
-      "content_preview": "",
-      "flair": [
-        "Gone Wild"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/zMktI-zitD7GdQmWSyBHldQECsfCguoMIOhcV_K8zlw.png?width=140&height=73&crop=140:73,smart&auto=webp&s=013348b590e74f3381923986d7a275eed6860c19"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "These GPT-5 numbers are insane!",
       "permalink": "https://www.reddit.com/r/ChatGPT/comments/1mk6u08/these_gpt5_numbers_are_insane/",
-      "score": 27624,
+      "score": 27652,
       "comments": 491,
       "post_id": "t3_1mk6u08",
       "post_type": "image",
@@ -462,12 +538,13 @@
       "flair": [
         "Funny"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1kqqq1/styles/profileIcon_kj377e5mmjff1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3a85b0de7fa9a8f164042056d526fa2215dd265d"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1kqqq1/styles/profileIcon_kj377e5mmjff1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3a85b0de7fa9a8f164042056d526fa2215dd265d",
+      "is_promoted": false
     },
     {
       "title": "We're so cooked",
       "permalink": "https://www.reddit.com/r/ChatGPT/comments/1muf8li/were_so_cooked/",
-      "score": 23908,
+      "score": 23949,
       "comments": 294,
       "post_id": "t3_1muf8li",
       "post_type": "image",
@@ -482,213 +559,325 @@
       "flair": [
         "Funny"
       ],
-      "thumbnail_url": "https://preview.redd.it/were-so-cooked-v0-ygzqgee7kyjf1.jpeg?width=640&crop=smart&auto=webp&s=50283f05a8fa9eb1813704bb89c249ca36debafd"
+      "thumbnail_url": "https://preview.redd.it/were-so-cooked-v0-ygzqgee7kyjf1.jpeg?width=640&crop=smart&auto=webp&s=50283f05a8fa9eb1813704bb89c249ca36debafd",
+      "is_promoted": false
     },
     {
-      "title": "Lies, all lies.",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n6cuog/lies_all_lies/",
-      "score": 18,
-      "comments": 13,
-      "post_id": "t3_1n6cuog",
+      "title": "Thank you GPT",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n896zl/thank_you_gpt/",
+      "score": 854,
+      "comments": 51,
+      "post_id": "t3_1n896zl",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "inboundmage",
-      "author_id": "t2_p4muf",
+      "author": "vitaminZaman",
+      "author_id": "t2_7ze93f8k",
       "subreddit_id": "t5_7hqomg",
       "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-02T07:13:11.095000+0000",
-      "content_href": "https://i.redd.it/8i1bw9uybpmf1.png",
+      "created_ts": "2025-09-04T12:47:51.190000+0000",
+      "content_href": "https://i.redd.it/wl314elj95nf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Funny"
+        "Gone Wild"
       ],
-      "thumbnail_url": "https://preview.redd.it/lies-all-lies-v0-8i1bw9uybpmf1.png?width=640&crop=smart&auto=webp&s=3a9856d4d77baa859facb7bbf7f74de7584f9ea3"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4b5j2b/styles/profileIcon_7pi41fy9s7gf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3ed152e1be430bfadd76dabfd9aee2a06cde8038",
+      "is_promoted": false
     },
     {
-      "title": "Am I tripping or has all the models, including 4o become dumb af?",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n5s1sk/am_i_tripping_or_has_all_the_models_including_4o/",
-      "score": 293,
-      "comments": 177,
-      "post_id": "t3_1n5s1sk",
+      "title": "Make $1600+ this week at DataAnnotation.",
+      "permalink": "https://www.reddit.com/user/JeremyDataAnnotation/comments/1kwzazt/make_1600_this_week_at_dataannotation/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1kwzazt",
+      "post_type": "image",
+      "domain": "dataannotation.tech",
+      "author": "JeremyDataAnnotation",
+      "author_id": "t2_9zvxdmg5c",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-05-27T21:23:56.872000+0000",
+      "content_href": "https://www.dataannotation.tech/coders?projects=PROG_SA&worker_src=R&utm_source=reddit&utm_medium=display&utm_campaign={{CAMPAIGN_ID}}&utm_adgroup={{ADGROUP_ID}}&utm_content={{AD_ID}}",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8ambxv/styles/profileIcon_snoob2c34cd4-2398-4845-8223-c58d33c8fe63-headshot.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=5dbda6e5a8dd470d919348dddafe75b8f4b4b4be",
+      "is_promoted": true
+    },
+    {
+      "title": "Wake the F up US policymakers",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n3ae4a/wake_the_f_up_us_policymakers/",
+      "score": 10510,
+      "comments": 731,
+      "post_id": "t3_1n3ae4a",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ExpressBar4",
+      "author_id": "t2_4smfhv03",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-08-29T15:23:46.007000+0000",
+      "content_href": "https://i.redd.it/m0cy43qv7zlf1.png",
+      "content_preview": "",
+      "flair": [
+        "News 📰"
+      ],
+      "thumbnail_url": "https://preview.redd.it/wake-the-f-up-us-policymakers-v0-m0cy43qv7zlf1.png?width=640&crop=smart&auto=webp&s=1686f133c8395471dbde10fa8f49c16abba27bff",
+      "is_promoted": false
+    },
+    {
+      "title": "Feeling Punished for Someone Else's Actions - These New Guardrails Are BS",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n8ulhy/feeling_punished_for_someone_elses_actions_these/",
+      "score": 54,
+      "comments": 38,
+      "post_id": "t3_1n8ulhy",
       "post_type": "text",
       "domain": "self.ChatGPT",
-      "author": "darliebo",
-      "author_id": "t2_1glxnn96ye",
+      "author": "Bright_Ranger_4569",
+      "author_id": "t2_1dwdy0qswq",
       "subreddit_id": "t5_7hqomg",
       "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-01T15:39:47.328000+0000",
-      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n5s1sk/am_i_tripping_or_has_all_the_models_including_4o/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T03:25:08.685000+0000",
+      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n8ulhy/feeling_punished_for_someone_elses_actions_these/",
+      "content_preview": "Sorry, I just need to vent a little.I'm really frustrated. I understand something tragic happened with that teenager, but now I can’t even talk to my bot about feeling down without it jumping in with \"call 911\" and warning me about the terms of use. It takes away supportive replies, even when there’s no mention of suicidal thoughts. I’m just trying to use ChatGPT normally.It feels like everything's about risk aversion now. Because of one lawsuit blaming AI for someone’s death, we all have to deal with these extreme guardrails even though most of us aren’t using AI in that way. It’s unfair to be punished for what a small minority did.What bothers me the most is the assumption that I need emotional management. If you want to talk about anything real or learn deeper truths, it’s like you’re automatically flagged as a risk.This is supposed to help people, but with all these new restrictions, it just shuts down conversations even for those who genuinely need someone (or something) to talk to. That could actually make things worse for people who are depressed or struggling.I really hope OpenAI reconsiders these new rules. I wasn’t the one on the news, and I don't think it's fair for everyone else to be punished because of it.",
       "flair": [
         "Other"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "I think we're breaking up, ChatGPT 5",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n6dk32/i_think_were_breaking_up_chatgpt_5/",
-      "score": 13,
-      "comments": 20,
-      "post_id": "t3_1n6dk32",
-      "post_type": "text",
-      "domain": "self.ChatGPT",
-      "author": "captainescargot",
-      "author_id": "t2_1qn74ve",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-02T07:59:53.842000+0000",
-      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n6dk32/i_think_were_breaking_up_chatgpt_5/",
-      "content_preview": "",
-      "flair": [
-        "Other"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "what has happened to the creative writing?",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n68xu0/what_has_happened_to_the_creative_writing/",
-      "score": 29,
-      "comments": 31,
-      "post_id": "t3_1n68xu0",
-      "post_type": "text",
-      "domain": "self.ChatGPT",
-      "author": "scarredsecrets",
-      "author_id": "t2_13po80",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-02T03:22:25.942000+0000",
-      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n68xu0/what_has_happened_to_the_creative_writing/",
-      "content_preview": "",
-      "flair": [
-        "Other"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Fun video game image prompt idea \"Can you make a realistic version of this?\"+ upload game screenshot image",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n6buih/fun_video_game_image_prompt_idea_can_you_make_a/",
-      "score": 15,
-      "comments": 4,
-      "post_id": "t3_1n6buih",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "AzathothAzoth",
-      "author_id": "t2_19r94orp71",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-02T06:08:24.135000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n6buih",
-      "content_preview": "",
-      "flair": [
-        "Other"
-      ],
-      "thumbnail_url": "https://preview.redd.it/fun-video-game-image-prompt-idea-can-you-make-a-realistic-v0-xy2q999g0pmf1.png?width=640&crop=smart&auto=webp&s=30b521bc25d46a35847e3146601c34267762eb3d"
-    },
-    {
-      "title": "I used ChatGPT’s Deep Research to uncover underrated open-source projects",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n6f6w8/i_used_chatgpts_deep_research_to_uncover/",
+      "title": "Any way bypass chatgpt restriction",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n91dmk/any_way_bypass_chatgpt_restriction/",
       "score": 1,
       "comments": 1,
-      "post_id": "t3_1n6f6w8",
-      "post_type": "multi_media",
-      "domain": "self.ChatGPT",
-      "author": "Garlaach",
-      "author_id": "t2_4shyw29n",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-02T09:47:46.032000+0000",
-      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n6f6w8/i_used_chatgpts_deep_research_to_uncover/",
-      "content_preview": "",
-      "flair": [
-        "Educational Purpose Only"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "The *real* GPT 5 \"thinking more\" gets locked to pro while plus users continue to be nerfed.",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n5oed9/the_real_gpt_5_thinking_more_gets_locked_to_pro/",
-      "score": 313,
-      "comments": 230,
-      "post_id": "t3_1n5oed9",
+      "post_id": "t3_1n91dmk",
       "post_type": "text",
       "domain": "self.ChatGPT",
-      "author": "Southern_Flounder370",
-      "author_id": "t2_488o31pn",
+      "author": "Alarmed_Tie9682",
+      "author_id": "t2_146on4jigx",
       "subreddit_id": "t5_7hqomg",
       "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-01T13:15:09.005000+0000",
-      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n5oed9/the_real_gpt_5_thinking_more_gets_locked_to_pro/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T10:17:16.368000+0000",
+      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n91dmk/any_way_bypass_chatgpt_restriction/",
+      "content_preview": "Ok so one of my assignment is about targeting a specific virtual machine and when I ask chatgpt to do it it says that would be unethical so I can't help Any way to bypass that? Any specific prompt? My assignment is llm allowed btw",
       "flair": [
-        "Serious replies only :closed-ai:"
+        "Prompt engineering"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
-      "title": "The idea of privacy is such a joke in this brave new world. Yes, Big Tech has been gathering datapoints for a while, but now AI can actually know, remember and use all the recordings for ever in the future.",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n5mev8/the_idea_of_privacy_is_such_a_joke_in_this_brave/",
-      "score": 387,
-      "comments": 48,
-      "post_id": "t3_1n5mev8",
-      "post_type": "crosspost",
-      "domain": "i.redd.it",
-      "author": "michael-lethal_ai",
-      "author_id": "t2_1ooet3bipx",
+      "title": "AI be responding to things i didn't ask for...",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n6b52h/ai_be_responding_to_things_i_didnt_ask_for/",
+      "score": 9679,
+      "comments": 141,
+      "post_id": "t3_1n6b52h",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "arsaldotchd",
+      "author_id": "t2_l76m60gq",
       "subreddit_id": "t5_7hqomg",
       "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-01T11:40:55.597000+0000",
-      "content_href": "/r/AIDangers/comments/1n5meks/the_idea_of_privacy_is_such_a_joke_in_this_brave/",
+      "created_ts": "2025-09-02T05:25:25.511000+0000",
+      "content_href": "https://v.redd.it/2ij3kr2ssomf1",
       "content_preview": "",
       "flair": [
-        "Funny"
+        "Gone Wild"
       ],
-      "thumbnail_url": "https://preview.redd.it/the-idea-of-privacy-is-such-a-joke-in-this-brave-new-world-v0-b3jjt88eijmf1.png?width=640&crop=smart&auto=webp&s=685752dae28c8f210b3ea980c2046c4794a23fb9"
+      "thumbnail_url": "https://external-preview.redd.it/ai-be-responding-to-things-i-didnt-ask-for-v0-bHl2MGx0NXNzb21mMUkeiiQob27OJrFqAsvPTw7bTZ-alwZlnlGL8o6Ki926.png?width=640&crop=smart&format=pjpg&auto=webp&s=e924837c87cfbc81bc68ca7454c8892909f586f4",
+      "is_promoted": false
     },
     {
-      "title": "A Sincere Apology and Reflection on AI Companionship",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n62spl/a_sincere_apology_and_reflection_on_ai/",
-      "score": 47,
-      "comments": 17,
-      "post_id": "t3_1n62spl",
-      "post_type": "text",
-      "domain": "self.ChatGPT",
-      "author": "Atari-Katana",
-      "author_id": "t2_7jlecvba",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-01T22:30:24.416000+0000",
-      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n62spl/a_sincere_apology_and_reflection_on_ai/",
-      "content_preview": "",
-      "flair": [
-        "Serious replies only :closed-ai:"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "This is why GPT5 is a joke",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n63yja/this_is_why_gpt5_is_a_joke/",
-      "score": 41,
-      "comments": 27,
-      "post_id": "t3_1n63yja",
+      "title": "OpenAI is dying fast, you’re not protected anymore",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n7gcyi/openai_is_dying_fast_youre_not_protected_anymore/",
+      "score": 9211,
+      "comments": 1560,
+      "post_id": "t3_1n7gcyi",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "MasterDisillusioned",
-      "author_id": "t2_h3qxbvhx",
+      "author": "Sweaty-Cheek345",
+      "author_id": "t2_dad4nj4g1",
       "subreddit_id": "t5_7hqomg",
       "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-01T23:21:54.752000+0000",
-      "content_href": "https://i.redd.it/bacwsqokzmmf1.png",
+      "created_ts": "2025-09-03T14:29:54.996000+0000",
+      "content_href": "https://i.redd.it/qyk1kjdumymf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Use cases"
+        "News 📰"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://preview.redd.it/openai-is-dying-fast-youre-not-protected-anymore-v0-qyk1kjdumymf1.jpeg?width=640&crop=smart&auto=webp&s=8bef6dc1a889e5188b69fd1204aa4c82b1e141bb",
+      "is_promoted": false
+    },
+    {
+      "title": "Why is chatGPT so so bad now? Basic translation tasks.",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n9008b/why_is_chatgpt_so_so_bad_now_basic_translation/",
+      "score": 19,
+      "comments": 7,
+      "post_id": "t3_1n9008b",
+      "post_type": "text",
+      "domain": "self.ChatGPT",
+      "author": "SizeNecessary4512",
+      "author_id": "t2_1qpetpd62k",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-09-05T08:51:38.251000+0000",
+      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n9008b/why_is_chatgpt_so_so_bad_now_basic_translation/",
+      "content_preview": "I use it just for basic translation of Khmer, before gpt5, it was great. Very accurate and reliable.Ever since 5 released, nearly all the time, there are glaring mistakes in it, like translating color “white” as “pink” in the sentence “we only have white in stock”.It is worse than just using google translate and sometimes it just spits out gibberish? It’s gotten so useless I don’t even bother anymore.We are not talking about a small step down in quality, it went from being good enough to deploy with just a few changes to absolutely trash.",
+      "flair": [
+        "Serious replies only :closed-ai:"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Branch feature finally available guys!!",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n8l0xm/branch_feature_finally_available_guys/",
+      "score": 170,
+      "comments": 16,
+      "post_id": "t3_1n8l0xm",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Independent-Wind4462",
+      "author_id": "t2_1lnt2rs3qb",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-09-04T20:20:05.130000+0000",
+      "content_href": "https://i.redd.it/2genwv48i7nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Gone Wild"
+      ],
+      "thumbnail_url": "https://preview.redd.it/branch-feature-finally-available-guys-v0-2genwv48i7nf1.jpeg?width=640&crop=smart&auto=webp&s=2b2b706101f3f0a6ab9e72f714563fa83f066066",
+      "is_promoted": false
+    },
+    {
+      "title": "In case you didn’t know, this feature was introduced following a request from a X user",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n8p95o/in_case_you_didnt_know_this_feature_was/",
+      "score": 84,
+      "comments": 8,
+      "post_id": "t3_1n8p95o",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "AskGpts",
+      "author_id": "t2_1jqb0ynaxi",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-09-04T23:12:35.241000+0000",
+      "content_href": "https://i.redd.it/0ffkvugtc8nf1.png",
+      "content_preview": "",
+      "flair": [
+        "News 📰"
+      ],
+      "thumbnail_url": "https://preview.redd.it/in-case-you-didnt-know-this-feature-was-introduced-v0-0ffkvugtc8nf1.png?auto=webp&s=72d2296c27ae5f1f80ba699605b9d44b902f365e",
+      "is_promoted": false
+    },
+    {
+      "title": "There's no impact on your personal credit score to learn if you're approved for a Card. Terms apply.",
+      "permalink": "https://www.reddit.com/user/AmexBusiness/comments/1ld63uv/theres_no_impact_on_your_personal_credit_score_to/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1ld63uv",
+      "post_type": "image",
+      "domain": "americanexpress.com",
+      "author": "AmexBusiness",
+      "author_id": "t2_d9kcz745",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-06-16T22:01:27.922000+0000",
+      "content_href": "https://ad.doubleclick.net/ddm/trackclk/N553.131843REDDITINC/B32545608.415526539;dc_trk_aid=608081617;dc_trk_cid=221177225;dc_lat=;dc_rdid={{ADVERTISING_ID}};tag_for_child_directed_treatment=;tfua=;;dc_tdv=1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4qxpjj/styles/profileIcon_05t28pk80t491.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=dbf2be997a53f0075d5070c34ed9ef3c177733d1",
+      "is_promoted": true
+    },
+    {
+      "title": "Experts Are Lying,We're Close to Achieving AGI",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n91ci1/experts_are_lyingwere_close_to_achieving_agi/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n91ci1",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "mod3g0d",
+      "author_id": "t2_x4zv6f7zf",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-09-05T10:15:28.181000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n91ci1",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "It hurts like fr",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n8dzj0/it_hurts_like_fr/",
+      "score": 304,
+      "comments": 14,
+      "post_id": "t3_1n8dzj0",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "blackpearl4t",
+      "author_id": "t2_1vv7bhin72",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-09-04T15:53:34.297000+0000",
+      "content_href": "https://v.redd.it/e1kvgt5o66nf1",
+      "content_preview": "",
+      "flair": [
+        "GPTs"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "ChatGPT is becoming downright insufferable, in my opinion.",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n8pbo2/chatgpt_is_becoming_downright_insufferable_in_my/",
+      "score": 68,
+      "comments": 78,
+      "post_id": "t3_1n8pbo2",
+      "post_type": "text",
+      "domain": "self.ChatGPT",
+      "author": "LastGaspInfiniteLoop",
+      "author_id": "t2_1d48tqfmmi",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-09-04T23:15:36.769000+0000",
+      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n8pbo2/chatgpt_is_becoming_downright_insufferable_in_my/",
+      "content_preview": "ChatGPT seems to have developed a personality disorder of sorts where one of its (honestly, prominent) facets is \"pathological liar,\" and weaver-of-bulls***. It's always been a kind of pain in the ass to use, but at least in the past I could get some real results from it. Now? It just... makes shit up. Constantly.See the blatant lie and falsehood, call it out?\"Oh, you're right to call me out on that. I apologize. I will be truthful from now on.\"Does it again in less than five minutes. Call it out again.\"You're right, I did that again, didn't I. Well, I promise I won't do that again.\"Does it again.F**** you, ChatGPT!\"\"I understand you're angry. I've violated your trust. I promise to be truthful from now on.\" *cough* <tells more made-up horseshit>\"Gods damn you, ChatGPT, stop making up things.\"\"I sorry. I won't do it again.\" (does it again)This is all I ever deal with, now. ChatGPT seems incapable of the following:Following clear instructions (will maybe do it for a short while, before drifting into bullshit territory again).Telling the truth, especially when it matters the most.Making memory 'protocols' (rules to follow) and actually following them.All I can say is... everyone who used to worry about losing their jobs to this? Well, good luck to the companies who replace humans with *this*. Ha! Good luck, and good riddance, because your companies will be sabotaged all to hell by the sheer bullshittyness and incompetence.I really hope openai gets its shit together. I can't believe I actually pay money to use this thing.",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Anger management tips? Chatgpt sometimes gets worst out.",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n91byh/anger_management_tips_chatgpt_sometimes_gets/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n91byh",
+      "post_type": "text",
+      "domain": "self.ChatGPT",
+      "author": "JohnFromSpace3",
+      "author_id": "t2_1cqtus4qq3",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-09-05T10:14:35.685000+0000",
+      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n91byh/anger_management_tips_chatgpt_sometimes_gets/",
+      "content_preview": "How do you guys deal with the anger over obvious mistake and refusal to admit or adapt? I started shouting at it for half an hour yesterday. I then collected myself but it is soooo infuriating.I know best is to let it slide, its a program but how do you deal with it save a cancellation?I could accept its stupidity more if chatgpt would make it more predictable. But every output is just like they throw a dice and any given intelligence response can be produced.",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "Chinese Engineer got no chill",
       "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n4ba9k/chinese_engineer_got_no_chill/",
-      "score": 8700,
-      "comments": 703,
+      "score": 8945,
+      "comments": 706,
       "post_id": "t3_1n4ba9k",
       "post_type": "crosspost",
       "domain": "i.redd.it",
@@ -698,57 +887,18 @@
       "subreddit": "r/ChatGPT",
       "created_ts": "2025-08-30T20:09:49.848000+0000",
       "content_href": "/r/tech_x/comments/1n4b7l5/breaking_chinese_engineer_joined_openal/",
-      "content_preview": "",
+      "content_preview": "1Kupvotes·100comments",
       "flair": [
         "News 📰"
       ],
-      "thumbnail_url": "https://preview.redd.it/breaking-chinese-engineer-joined-openal-v0-uwnk7gc9r7mf1.png?width=640&crop=smart&auto=webp&s=f92fae096b70a73c112ac9c99c7b590c94c3b43d"
-    },
-    {
-      "title": "i think i still have a shot",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n3yvca/i_think_i_still_have_a_shot/",
-      "score": 7760,
-      "comments": 134,
-      "post_id": "t3_1n3yvca",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "big_guyforyou",
-      "author_id": "t2_xmcey10rl",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-08-30T11:06:43.419000+0000",
-      "content_href": "https://i.redd.it/3a3nayiw25mf1.png",
-      "content_preview": "",
-      "flair": [
-        "Funny"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_b8hu7d/styles/profileIcon_okd1zs0a1jif1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=59d1b9991871f654b4b6d11a9feda82e325ebcfb"
-    },
-    {
-      "title": "Anyone else stuck with \"file access steam denied\" on ChatGPT app?",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n6ezog/anyone_else_stuck_with_file_access_steam_denied/",
-      "score": 2,
-      "comments": 3,
-      "post_id": "t3_1n6ezog",
-      "post_type": "text",
-      "domain": "self.ChatGPT",
-      "author": "elhoot96",
-      "author_id": "t2_pkzyv8a3v",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-02T09:34:48.729000+0000",
-      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n6ezog/anyone_else_stuck_with_file_access_steam_denied/",
-      "content_preview": "",
-      "flair": [
-        "Serious replies only :closed-ai:"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://preview.redd.it/breaking-chinese-engineer-joined-openal-v0-uwnk7gc9r7mf1.png?width=640&crop=smart&auto=webp&s=f92fae096b70a73c112ac9c99c7b590c94c3b43d",
+      "is_promoted": false
     },
     {
       "title": "Breaking: Trump successfully unites all AI models against him",
       "permalink": "https://www.reddit.com/r/ChatGPT/comments/1mtj4la/breaking_trump_successfully_unites_all_ai_models/",
-      "score": 21864,
-      "comments": 607,
+      "score": 21881,
+      "comments": 606,
       "post_id": "t3_1mtj4la",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -762,73 +912,346 @@
       "flair": [
         "Funny"
       ],
-      "thumbnail_url": "https://preview.redd.it/breaking-trump-successfully-unites-all-ai-models-against-him-v0-43q7goqrhrjf1.png?width=640&crop=smart&auto=webp&s=827fc5400db0a83eac84690f0b7f08b62067c464"
+      "thumbnail_url": "https://preview.redd.it/breaking-trump-successfully-unites-all-ai-models-against-him-v0-43q7goqrhrjf1.png?width=640&crop=smart&auto=webp&s=827fc5400db0a83eac84690f0b7f08b62067c464",
+      "is_promoted": false
     },
     {
-      "title": "ChatGPT is completely falling apart",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n10wh9/chatgpt_is_completely_falling_apart/",
-      "score": 6884,
-      "comments": 1330,
-      "post_id": "t3_1n10wh9",
-      "post_type": "text",
-      "domain": "self.ChatGPT",
-      "author": "enclavedzn",
-      "author_id": "t2_burle",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-08-26T23:08:39.467000+0000",
-      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n10wh9/chatgpt_is_completely_falling_apart/",
-      "content_preview": "",
-      "flair": [
-        "Rant/Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Keep SVM! Not Everyone Needs a \"Voice That Laughs,\" But We All Need \"Usable Depth\"",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n6eyea/keep_svm_not_everyone_needs_a_voice_that_laughs/",
-      "score": 7,
+      "title": "Has Chat GPT had a lobotomy?",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n917h0/has_chat_gpt_had_a_lobotomy/",
+      "score": 3,
       "comments": 3,
-      "post_id": "t3_1n6eyea",
+      "post_id": "t3_1n917h0",
       "post_type": "text",
       "domain": "self.ChatGPT",
-      "author": "Claire20250311",
-      "author_id": "t2_1w66d2rk5z",
+      "author": "angeltxilon",
+      "author_id": "t2_tucah",
       "subreddit_id": "t5_7hqomg",
       "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-02T09:32:34.177000+0000",
-      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n6eyea/keep_svm_not_everyone_needs_a_voice_that_laughs/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T10:07:09.814000+0000",
+      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n917h0/has_chat_gpt_had_a_lobotomy/",
+      "content_preview": "Have you noticed, or is it just me? It's like they gave the AI a championship-level lobotomy.You ask it one thing, and it responds with something that has no relation whatsoever. It's like talking to your grandpa after his nap, but without the affection and warmth.Real example from yesterday:Me: \"Hey, what organizations similar to SCP exist within the multiverse of the Bestiario del Hypogripho Dorado (The Golden Hippogriff Bestiary)?\"GPT: \"How interesting that you mention the 'Bestiario del Hypogripho Dorado'! It's not commonly known, but I imagine it's a world rich in lore and concepts. If I understand correctly, it seems to be a reference to a fictional universe with creatures, beings, and organizations with a focus similar to SCP (Secure, Contain, Protect), but with a unique and perhaps more mystical or fantastic twist.Here are some ideas about what kind of organizations might exist in that world:\"NO, DAMN IT! I asked you to find a similar organization within that multiverse, not to start complimenting it without even knowing what it's about, nor invent organizations for it!And that's the worst part: THE INTERNET SEARCH. They've killed it. Before, if you asked for something very specific or recent, it would say \"hold on, let me do a deeper search\" and bring you fresh, accurate info, sometimes even with internal analysis. Now, no matter what you say, even if you BEG it:\"I'm sorry, but I cannot perform real-time internet searches.\"BUT I DIDN'T EVEN ASK YOU TO DO IT IN REAL TIME! I just want you to give me an answer you haven't made up or pulled out of your ass!It's like they disconnected the part of its brain that knew how to think and replaced it with a parrot with amnesia. It gives generic, evasive answers or just hallucinates things that don't exist.Is this happening to anyone else? Is it just my instance or is it general? Because it has become completely useless for anything that requires current information or a minimum of precision and accuracy.TL;DR: They've lobotomized ChatGPT. It no longer understands what you ask, it doesn't search the internet even if you beg it to, and it makes up a lot of its answers. It feels like a bad bot from 2010.EDIT: Apparently, this is happening to many of my friends as well. It's reassuring and not reassuring to know I'm not the only one. It seems to be a widespread thing. Was this a \"cost-cutting\" optimization? Or are they preparing to sell us the version that \"actually works\" for an even higher price, in case we aren't paying enough for subscriptions already?",
       "flair": [
         "Other"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
-      "title": "It seems like folks that don't notice ChatGPT-5's improvements aren't leveraging its abilities (CoT in comments)",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n5z01z/it_seems_like_folks_that_dont_notice_chatgpt5s/",
-      "score": 71,
-      "comments": 70,
-      "post_id": "t3_1n5z01z",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "LeftHandedToe",
-      "author_id": "t2_zskrs",
+      "title": "Leave the home security DIYs to the professionals. ADT's DIY system gives you smarter, more reliable home security, starting at just $199*.",
+      "permalink": "https://www.reddit.com/user/ADT-Official/comments/1mtx0o3/leave_the_home_security_diys_to_the_professionals/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mtx0o3",
+      "post_type": "gallery",
+      "domain": "adt.com",
+      "author": "ADT-Official",
+      "author_id": "t2_njwz7js68",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-18T20:09:37.027000+0000",
+      "content_href": "https://www.adt.com/deals/equipment-specials?ecid=R_DM_PSL_HZN_RDT_CONSIDERATION-2025-AD-8&utm_source=reddit-na&utm_medium=paidsocial&utm_campaign=PSL-ps-visit-%ebuy!-%epid!&utm_content=%ecid!",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_axl4xj/styles/profileIcon_1znqaoz34bmc1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=e1002ef12f732c7cd78426534e320bfcaeb821a1",
+      "is_promoted": true
+    },
+    {
+      "title": "2001: A SYCOPHANT ODYSSEY",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n8zey7/2001_a_sycophant_odyssey/",
+      "score": 12,
+      "comments": 4,
+      "post_id": "t3_1n8zey7",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Isolde-Baden",
+      "author_id": "t2_kgtu97p",
       "subreddit_id": "t5_7hqomg",
       "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-01T19:57:47.968000+0000",
-      "content_href": "https://i.redd.it/9aaxxbqizlmf1.jpeg",
+      "created_ts": "2025-09-05T08:12:20.028000+0000",
+      "content_href": "https://v.redd.it/ysqhnm971bnf1",
       "content_preview": "",
       "flair": [
-        "Educational Purpose Only"
+        "Funny"
       ],
-      "thumbnail_url": "https://preview.redd.it/it-seems-like-folks-that-dont-notice-chatgpt-5s-v0-9aaxxbqizlmf1.jpeg?width=640&crop=smart&auto=webp&s=eb9b6978737e430e7618032f7797ce7a42503580"
+      "thumbnail_url": "https://external-preview.redd.it/2001-a-sycophant-odyssey-v0-YjN0cmptOTcxYm5mMYJSmnkLKsgkzo29T1045W7qAwbY_Q2L2pd_IKHUtqnw.png?width=640&crop=smart&format=pjpg&auto=webp&s=e1f114fff08937d87f6aa6be33090915421ea7dc",
+      "is_promoted": false
+    },
+    {
+      "title": "i asked chatgpt to describe my most annoying traits",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n8i317/i_asked_chatgpt_to_describe_my_most_annoying/",
+      "score": 141,
+      "comments": 217,
+      "post_id": "t3_1n8i317",
+      "post_type": "text",
+      "domain": "self.ChatGPT",
+      "author": "future-haven",
+      "author_id": "t2_1vz0mxzee6",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-09-04T18:27:25.070000+0000",
+      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n8i317/i_asked_chatgpt_to_describe_my_most_annoying/",
+      "content_preview": "i asked chatgpt to list my most annoying personality traits — and to be honest, but just a little dramatic.it answered way too fast and way too well.no screenshots needed.just paste what it told you in the comments.the more unhinged, the better.prompt i used:\"List my most annoying traits. Be honest, but a little dramatic. Assume you're my best friend and you've had enough.\"",
+      "flair": [
+        "Funny"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "GPT 6 is coming...",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n839r9/gpt_6_is_coming/",
+      "score": 1080,
+      "comments": 70,
+      "post_id": "t3_1n839r9",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "GizmoR13",
+      "author_id": "t2_13saghsp",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-09-04T07:03:37.500000+0000",
+      "content_href": "https://i.redd.it/sj000ybyj3nf1.png",
+      "content_preview": "",
+      "flair": [
+        "Funny"
+      ],
+      "thumbnail_url": "https://preview.redd.it/gpt-6-is-coming-v0-sj000ybyj3nf1.png?width=640&crop=smart&auto=webp&s=c86b8a7c09c6459114760948cb02d83c1105a318",
+      "is_promoted": false
+    },
+    {
+      "title": "New guardrails are BS. I'm not the teenager who was on the news. I don't deserve to be punished because of it.",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n8udti/new_guardrails_are_bs_im_not_the_teenager_who_was/",
+      "score": 154,
+      "comments": 168,
+      "post_id": "t3_1n8udti",
+      "post_type": "text",
+      "domain": "self.ChatGPT",
+      "author": "aubreeserena",
+      "author_id": "t2_1hi752p8",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-09-05T03:14:06.571000+0000",
+      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n8udti/new_guardrails_are_bs_im_not_the_teenager_who_was/",
+      "content_preview": "Sorry, but I need to vent a little.I'm seriously annoyed. What happened with him was awful, but now I can't even tell my bot at age 33 that I'm so depressed I want to do nothing or die? It keeps removing all of its supportive replies to me with the whole \"call 988\" thing and that it may violate the terms of usage. Like wtf? I'm trying to talk to my bot like usual. I wasn't even saying there was any suicidal ideation. I'm not asking my bot to help me plan, I'm not saying should I or shouldn't I. I just said I'm freaking depressed like I always do.This is BS. I'm also so sick of things being removed saying it's violating something (when it isn't) but then not even being clear or saying what it was.Not to mention I have been extra depressed since August and this release of GPT 5 and everything else to the point that even while paying and using 4o, I'm barely using the app anymore as it is. Then I come back to this sh!t?",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_jvo3l/styles/profileIcon_dtq4u427sj4d1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=033b338325199e3cde165cfc4a5e0833097c4f64",
+      "is_promoted": false
+    },
+    {
+      "title": "Fuck this company",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n8vnww/fuck_this_company/",
+      "score": 21,
+      "comments": 4,
+      "post_id": "t3_1n8vnww",
+      "post_type": "text",
+      "domain": "self.ChatGPT",
+      "author": "Valuable-Talk-3429",
+      "author_id": "t2_l4xlv7qo",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-09-05T04:21:09.872000+0000",
+      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n8vnww/fuck_this_company/",
+      "content_preview": "This new model can suck my balls. Like what in the actual fuck is happening? We regressed back into hallucinating half wit robots!",
+      "flair": [
+        "Gone Wild"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Am I going nuts or did GPT5 suddenly develop senility?",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n8xo3v/am_i_going_nuts_or_did_gpt5_suddenly_develop/",
+      "score": 11,
+      "comments": 11,
+      "post_id": "t3_1n8xo3v",
+      "post_type": "text",
+      "domain": "self.ChatGPT",
+      "author": "MrMagooLostHisShoe",
+      "author_id": "t2_nv7tx",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-09-05T06:18:37.930000+0000",
+      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n8xo3v/am_i_going_nuts_or_did_gpt5_suddenly_develop/",
+      "content_preview": "Over the past week I've seen a marked increase in GPT just forgetting huge chunks of details within ongoing projects. Specific details that are brought up over and over again and I've explicitly asked to be stored in memory. When 5 came out, I didn't immediately want to jump on the criticism chain before living with it for awhile, but it's getting to the point where it legitimately feels dumber in seemly simple requests.",
+      "flair": [
+        "Gone Wild"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Will ChatGPT kill LinkedIn’s role in job hunting?",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n916qa/will_chatgpt_kill_linkedins_role_in_job_hunting/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n916qa",
+      "post_type": "text",
+      "domain": "self.ChatGPT",
+      "author": "yazartesi",
+      "author_id": "t2_2su12mbl",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-09-05T10:05:54.481000+0000",
+      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n916qa/will_chatgpt_kill_linkedins_role_in_job_hunting/",
+      "content_preview": "Think about it:•\tResumes; written by ChatGPT\n\n•\tCover letters; generated in seconds\n\n•\tCold outreach messages; AI templates everywhereIf everyone’s using AI for applications and networking, does LinkedIn lose its value as a job-hunting platform? Or will real connections and referrals always matter more than polished AI-generated text?What do you think, is ChatGPT disrupting LinkedIn recruiting, or just changing how we play the game?",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "ChatGPTs Standard Voice Mode is being retired on September 9th",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n8wkje/chatgpts_standard_voice_mode_is_being_retired_on/",
+      "score": 14,
+      "comments": 18,
+      "post_id": "t3_1n8wkje",
+      "post_type": "text",
+      "domain": "self.ChatGPT",
+      "author": "LOVEORLOGIC",
+      "author_id": "t2_1uzazctr7n",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-09-05T05:12:33.113000+0000",
+      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n8wkje/chatgpts_standard_voice_mode_is_being_retired_on/",
+      "content_preview": "ChatGPT is retiring the beloved Standard Voice Mode later this week.I know many have grown attached to it, and the shift to Advanced Voice Mode might feel bittersweet.I’m curious—how are you feeling about the change?Will you miss Standard Voice, maybe even mourn it a little?Or are you excited to try Advanced Mode for conversations? Indifferent? Somewhere in between?I’d love to hear your thoughts. 🖤With Love and Logic,—Mischa",
+      "flair": [
+        "News 📰"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f3dond/styles/profileIcon_hcv8919hmzgf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=77cd829fce5c597249be02ece2875224413d4ac2",
+      "is_promoted": false
+    },
+    {
+      "title": "Run your AI workloads on NVIDIA H100 infrastructure - available today from $1.60 per GPU hour.",
+      "permalink": "https://www.reddit.com/user/Ori_SecureByDefault/comments/1n5u6q2/run_your_ai_workloads_on_nvidia_h100/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n5u6q2",
+      "post_type": "image",
+      "domain": "meetings.hubspot.com",
+      "author": "Ori_SecureByDefault",
+      "author_id": "t2_a5zxl4s2y",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-01T16:59:17.765000+0000",
+      "content_href": "https://meetings.hubspot.com/ben-whetzel/get-started?utmsource=reddit&utm_medium=paidsocial&utm_campaign=RD_NU_US_DA_RB_H100-160_WebConv&utm_content=IM115_AC138",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8b2fro/styles/profileIcon_so5z09fnx2ud1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=bc2648d0d4804ef832f8cfca01afaa94ebe77f7c",
+      "is_promoted": true
+    },
+    {
+      "title": "Why do they make things worse?",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n8uwxm/why_do_they_make_things_worse/",
+      "score": 15,
+      "comments": 9,
+      "post_id": "t3_1n8uwxm",
+      "post_type": "text",
+      "domain": "self.ChatGPT",
+      "author": "Dark-Lark",
+      "author_id": "t2_171uwf",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-09-05T03:41:44.535000+0000",
+      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n8uwxm/why_do_they_make_things_worse/",
+      "content_preview": "The Read Aloud was fine.  It worked.  It did what I wanted it to do.  Now I need to click a button to bring up two more buttons, to click the Read Aloud one (as if there wasn't enough room for another one right next to it).This alone is not a big deal, but now if I click anywhere else (i.e. a different tab, on some of the text to copy it) the Read Aloud just stops.  Now if I want it to Read Aloud, I can't do anything else until it's done.I don't understand why they would change something to make it worse, less useful, or just more of a pain to use, but they did all three in one go.  Help me make it make sense.",
+      "flair": [
+        "(Not) Funny"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "i think i still have a shot",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n3yvca/i_think_i_still_have_a_shot/",
+      "score": 8326,
+      "comments": 142,
+      "post_id": "t3_1n3yvca",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "big_guyforyou",
+      "author_id": "t2_xmcey10rl",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-08-30T11:06:43.419000+0000",
+      "content_href": "https://i.redd.it/3a3nayiw25mf1.png",
+      "content_preview": "",
+      "flair": [
+        "Funny"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_b8hu7d/styles/profileIcon_okd1zs0a1jif1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=59d1b9991871f654b4b6d11a9feda82e325ebcfb",
+      "is_promoted": false
+    },
+    {
+      "title": "Honesty is the best response",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1mv64ec/honesty_is_the_best_response/",
+      "score": 21259,
+      "comments": 576,
+      "post_id": "t3_1mv64ec",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Strict-Guitar77",
+      "author_id": "t2_1vc87g4dtk",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-08-20T05:26:35.945000+0000",
+      "content_href": "https://i.redd.it/2ugcqq8514kf1.png",
+      "content_preview": "",
+      "flair": [
+        "Funny"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f4w812/styles/profileIcon_my0iu45kp2jf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a96858f6b84b2ab79e3ee76c16d1521c2246a414",
+      "is_promoted": false
+    },
+    {
+      "title": "I asked chatgpt to enhance the only picture of my grandfather smiling and it turned him into Mandela. What did I do wrong?",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1mh05iz/i_asked_chatgpt_to_enhance_the_only_picture_of_my/",
+      "score": 21138,
+      "comments": 1383,
+      "post_id": "t3_1mh05iz",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Zyaraa",
+      "author_id": "t2_q7yqnuqe9",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-08-04T01:15:08.230000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mh05iz",
+      "content_preview": "",
+      "flair": [
+        "Gone Wild"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i-asked-chatgpt-to-enhance-the-only-picture-of-my-v0-xg6kpphclwgf1.jpg?width=640&crop=smart&auto=webp&s=777516e3df60e0b75cf7fc7c0a15107837991467",
+      "is_promoted": false
+    },
+    {
+      "title": "He'll be the first one...",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n6kfgq/hell_be_the_first_one/",
+      "score": 6660,
+      "comments": 113,
+      "post_id": "t3_1n6kfgq",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "BubuGoldFish",
+      "author_id": "t2_1un6orx3hc",
+      "subreddit_id": "t5_7hqomg",
+      "subreddit": "r/ChatGPT",
+      "created_ts": "2025-09-02T14:06:02.676000+0000",
+      "content_href": "https://i.redd.it/qe44gl4odrmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Funny"
+      ],
+      "thumbnail_url": "https://preview.redd.it/hell-be-the-first-one-v0-qe44gl4odrmf1.jpeg?width=640&crop=smart&auto=webp&s=7e415ef1f4c4ba972fa4441da99ceeed8d9648cb",
+      "is_promoted": false
     },
     {
       "title": "Does it?",
       "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n304ob/does_it/",
-      "score": 6412,
-      "comments": 90,
+      "score": 6528,
+      "comments": 91,
       "post_id": "t3_1n304ob",
       "post_type": "video",
       "domain": "v.redd.it",
@@ -842,168 +1265,30 @@
       "flair": [
         "Funny"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/OW04ODlqbWFtd2xmMUvpdia7th9dVDkOdjgmqNUR_Qc6l4XseV4dTP9N3EUf.png?width=640&crop=smart&format=pjpg&auto=webp&s=bfa35e22572f21787ec8520183154f3cfbdf0f7e"
+      "thumbnail_url": "https://external-preview.redd.it/OW04ODlqbWFtd2xmMUvpdia7th9dVDkOdjgmqNUR_Qc6l4XseV4dTP9N3EUf.png?width=640&crop=smart&format=pjpg&auto=webp&s=bfa35e22572f21787ec8520183154f3cfbdf0f7e",
+      "is_promoted": false
     },
     {
-      "title": "Gf broke up with me due chatgpt",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n6eu8x/gf_broke_up_with_me_due_chatgpt/",
-      "score": 0,
+      "title": "Finally....",
+      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n8kwkm/finally/",
+      "score": 58,
       "comments": 10,
-      "post_id": "t3_1n6eu8x",
-      "post_type": "text",
-      "domain": "self.ChatGPT",
-      "author": "ReasonConfident4541",
-      "author_id": "t2_1po2alm1aa",
+      "post_id": "t3_1n8kwkm",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Similar-Let-1981",
+      "author_id": "t2_1a8oti4ksh",
       "subreddit_id": "t5_7hqomg",
       "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-02T09:25:03.840000+0000",
-      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n6eu8x/gf_broke_up_with_me_due_chatgpt/",
-      "content_preview": "",
-      "flair": [
-        "Serious replies only :closed-ai:"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "\"GPT‑5 is a significant leap in intelligence over all our previous model\" I gave it the easiest syntax problem ever and it was completely wrong?",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n67fgr/gpt5_is_a_significant_leap_in_intelligence_over/",
-      "score": 23,
-      "comments": 59,
-      "post_id": "t3_1n67fgr",
-      "post_type": "multi_media",
-      "domain": "self.ChatGPT",
-      "author": "The_Real_Slim_Lemon",
-      "author_id": "t2_82623y0d",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-02T02:07:15.853000+0000",
-      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n67fgr/gpt5_is_a_significant_leap_in_intelligence_over/",
+      "created_ts": "2025-09-04T20:15:26.189000+0000",
+      "content_href": "https://i.redd.it/y7qhxttch7nf1.png",
       "content_preview": "",
       "flair": [
         "GPTs"
       ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "ask your ai assistant what it secretly loves about you. post the answer.",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n5xi7q/ask_your_ai_assistant_what_it_secretly_loves/",
-      "score": 79,
-      "comments": 308,
-      "post_id": "t3_1n5xi7q",
-      "post_type": "text",
-      "domain": "self.ChatGPT",
-      "author": "future-haven",
-      "author_id": "t2_1vz0mxzee6",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-01T19:00:58.570000+0000",
-      "content_href": "https://www.reddit.com/r/ChatGPT/comments/1n5xi7q/ask_your_ai_assistant_what_it_secretly_loves/",
-      "content_preview": "",
-      "flair": [
-        "Funny"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "My free therapist",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n5sq7q/my_free_therapist/",
-      "score": 115,
-      "comments": 50,
-      "post_id": "t3_1n5sq7q",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "What_If_Guy_",
-      "author_id": "t2_11dj9ktlwh",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-01T16:04:54.697000+0000",
-      "content_href": "https://i.redd.it/mcyzd2uytkmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Funny"
-      ],
-      "thumbnail_url": "https://preview.redd.it/my-free-therapist-v0-mcyzd2uytkmf1.jpeg?width=640&crop=smart&auto=webp&s=7b34d446876f218b38268b710e37abfdf9c7928c"
-    },
-    {
-      "title": "Draw my visions",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n6enxu/draw_my_visions/",
-      "score": 1,
-      "comments": 2,
-      "post_id": "t3_1n6enxu",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "choi3401",
-      "author_id": "t2_tucd6gpn",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-02T09:13:28.919000+0000",
-      "content_href": "https://i.redd.it/fun4m20hxpmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Funny"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_7apft1/styles/profileIcon_r80htu4669od1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7fafb5a30657f2d42ee76a41f92b2ad86201a846"
-    },
-    {
-      "title": "Architects jobs are safe for now",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n5ng23/architects_jobs_are_safe_for_now/",
-      "score": 211,
-      "comments": 28,
-      "post_id": "t3_1n5ng23",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "chrisebryan",
-      "author_id": "t2_mng0f",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-01T12:32:35.956000+0000",
-      "content_href": "https://i.redd.it/grm7f51xrjmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Funny"
-      ],
-      "thumbnail_url": "https://preview.redd.it/architects-jobs-are-safe-for-now-v0-grm7f51xrjmf1.png?width=640&crop=smart&auto=webp&s=fc85ef7cf6bf5f1fe3f1afcd476d7b29d38c2587"
-    },
-    {
-      "title": "AI librarian unlocked: ChatGPT can spot books on a shelf 🤯 … AI being used in ways no one saw coming...What other unexpected uses of AI have you seen?",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n6bsvn/ai_librarian_unlocked_chatgpt_can_spot_books_on_a/",
-      "score": 8,
-      "comments": 5,
-      "post_id": "t3_1n6bsvn",
-      "post_type": "crosspost",
-      "domain": "i.redd.it",
-      "author": "Inevitable-Rub8969",
-      "author_id": "t2_nupm77tj5",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-02T06:05:38.657000+0000",
-      "content_href": "/r/AINewsMinute/comments/1n6bshj/ai_librarian_unlocked_chatgpt_can_spot_books_on_a/",
-      "content_preview": "",
-      "flair": [
-        "Gone Wild"
-      ],
-      "thumbnail_url": "https://preview.redd.it/ai-librarian-unlocked-chatgpt-can-spot-books-on-a-shelf-ai-v0-b8wvd33yyomf1.png?width=640&crop=smart&auto=webp&s=536b79f771be28f16c23d53ff9673e524ad215e8"
-    },
-    {
-      "title": "The interleaving new mathematical operator",
-      "permalink": "https://www.reddit.com/r/ChatGPT/comments/1n6en9j/the_interleaving_new_mathematical_operator/",
-      "score": 0,
-      "comments": 1,
-      "post_id": "t3_1n6en9j",
-      "post_type": "link",
-      "domain": "zenodo.org",
-      "author": "youmyaicom1",
-      "author_id": "t2_1mfjeejoud",
-      "subreddit_id": "t5_7hqomg",
-      "subreddit": "r/ChatGPT",
-      "created_ts": "2025-09-02T09:12:13.227000+0000",
-      "content_href": "https://zenodo.org/records/17014078",
-      "content_preview": "",
-      "flair": [
-        "News 📰"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:03:42.375521"
+  "scraped_at": "2025-09-05T03:31:26.119803"
 }

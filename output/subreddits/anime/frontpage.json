@@ -2,34 +2,478 @@
   "subreddit": "anime",
   "url": "https://www.reddit.com/r/anime",
   "meta": {
-    "title": "/r/Anime"
+    "title": "/r/Anime",
+    "description": "Reddit's premier anime community.",
+    "subscribers": 14084562,
+    "online_users": 945,
+    "created_timestamp": "2025-09-05T10:16:54.825000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Bookmarks",
+        "content": [
+          {
+            "text": "Rules",
+            "url": "https://www.reddit.com/r/anime/wiki/rules"
+          },
+          {
+            "text": "Daily Megathread",
+            "url": "https://redd.it/1n860d1"
+          },
+          {
+            "text": "Anime of the Week",
+            "url": "https://redd.it/1mzbnjd"
+          },
+          {
+            "text": "Casual Disc Fridays",
+            "url": "https://redd.it/1n8qc0z"
+          },
+          {
+            "text": "Monthly Meta Thread",
+            "url": "https://redd.it/1mg53vm"
+          },
+          {
+            "text": "Anime Watch Orders",
+            "url": "https://www.reddit.com/r/anime/wiki/watch_order"
+          },
+          {
+            "text": "Index",
+            "url": "https://reddit.com/r/anime/wiki"
+          },
+          {
+            "text": "FAAQ",
+            "url": "https://reddit.com/r/anime/w/faaq"
+          },
+          {
+            "text": "Mods",
+            "url": "https://www.reddit.com/r/anime/wiki/mods"
+          },
+          {
+            "text": "AMAs",
+            "url": "https://www.reddit.com/r/anime/wiki/amas"
+          },
+          {
+            "text": "Events",
+            "url": "https://www.reddit.com/r/anime/wiki/events"
+          },
+          {
+            "text": "Rewatches",
+            "url": "https://www.reddit.com/r/anime/wiki/rewatches"
+          },
+          {
+            "text": "Recommendations",
+            "url": "https://www.reddit.com/r/anime/wiki/recommendations"
+          },
+          {
+            "text": "Related Subreddits",
+            "url": "https://www.reddit.com/r/anime/wiki/related_subreddits"
+          },
+          {
+            "text": "Related Websites",
+            "url": "https://www.reddit.com/r/anime/wiki/related_sites"
+          },
+          {
+            "text": "Get A Flair!",
+            "url": "https://flair.r-anime.moe"
+          },
+          {
+            "text": "Old Reddit",
+            "url": "https://old.reddit.com/r/anime/"
+          }
+        ]
+      },
+      {
+        "title": "Contests",
+        "content": [
+          {
+            "text": "Bracket Archive",
+            "url": "/r/anime/wiki/brackets"
+          },
+          {
+            "text": "Best Seiyuu Spring 2025",
+            "url": "/r/anime/search?q=flair%3A%22contest%22+%22%5BSpring+2025%5D+Best+Seiyuu+of+the+season%22&restrict_sr=on&sort=new&t=all"
+          },
+          {
+            "text": "Best Girl 12",
+            "url": "/r/anime/search?q=flair%3Acontest+title%3A%22Best+Girl+12%3A+Spice+and+Salt%21%22&restrict_sr=on&sort=new&t=all"
+          },
+          {
+            "text": "Best Girl Spring 2025",
+            "url": "/r/anime/search?q=flair%3A%22contest%22+%22Best+Girl+of+Spring+2025%3A+Seasonal+Salt%21%22&restrict_sr=on&sort=new&t=all"
+          },
+          {
+            "text": "Best Seiyuu Winter 2025",
+            "url": "/r/anime/search?q=%22%5BWinter+2025%5D+Best+Seiyuu+of+the+Season%22&restrict_sr=on&sort=new&t=all"
+          }
+        ]
+      },
+      {
+        "title": "AMAs",
+        "content": [
+          {
+            "text": "AMA Archive",
+            "url": "https://www.reddit.com/r/anime/wiki/amas"
+          },
+          {
+            "text": "Joseph Chou",
+            "url": "/comments/1llczd2"
+          },
+          {
+            "text": "r/anime Moderator Team",
+            "url": "/comments/1d57ge9"
+          },
+          {
+            "text": "Joseph Chou",
+            "url": "/comments/17cmxar"
+          }
+        ]
+      },
+      {
+        "title": "Other Discussions",
+        "content": [
+          {
+            "text": "Whereabouts of Tomorrow: Ashita no Arika",
+            "url": "/comments/1n6icg5"
+          },
+          {
+            "text": "MAKE A GIRL",
+            "url": "/comments/1n55vd5"
+          },
+          {
+            "text": "Senpai wa Otokonoko Movie: Ame",
+            "url": "/comments/1n2m2ey"
+          },
+          {
+            "text": "Mononoke Movie: Hinezumi • Mononoke The Movie: Chapter II - The Ashes of Rage",
+            "url": "/comments/1mr0h0r"
+          },
+          {
+            "text": "Bullet/Bullet 1-8",
+            "url": "/comments/1m172wo"
+          },
+          {
+            "text": "Leviathan 1-12",
+            "url": "/comments/1lw6pvr"
+          },
+          {
+            "text": "Ganbatte Ikimasshoi • Give It All",
+            "url": "/comments/1lavjzn"
+          },
+          {
+            "text": "Dan Da Dan: Evil Eye",
+            "url": "/comments/1l4fyut"
+          },
+          {
+            "text": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… Movie • My Next Life As a Villainess: All Routes Lead to Doom! -The Movie-",
+            "url": "/comments/1koycdd"
+          },
+          {
+            "text": "Versailles no Bara Movie • The Rose of Versailles Movie",
+            "url": "/comments/1kbyxgk"
+          },
+          {
+            "text": "Kono Subarashii Sekai ni Shukufuku wo! Season 3 - BONUS STAGE- • KonoSuba: God's blessing on this wonderful world! Season 3 -BONUS STAGE-",
+            "url": "/comments/1k7bxgy"
+          },
+          {
+            "text": "Overlord: Sei",
+            "url": "/comments/1k7bqer"
+          }
+        ]
+      },
+      {
+        "title": "Megathreads",
+        "content": [
+          {
+            "text": "Anime Questions, Recommendations, and Discussion",
+            "url": "https://redd.it/1n860d1"
+          },
+          {
+            "text": "Anime of the Week",
+            "url": "https://redd.it/1mzbnjd"
+          },
+          {
+            "text": "Casual Discussion Fridays",
+            "url": "https://redd.it/1n8qc0z"
+          },
+          {
+            "text": "Meta Thread",
+            "url": "https://redd.it/1mg53vm"
+          }
+        ]
+      },
+      {
+        "title": "Spoilers",
+        "content": "All spoilers must be tagged. The code to make a spoiler in a comment or text post body is: [Spoiler source] >!Spoiler goes here!< This shows up as: [Spoiler source] The source of a spoiler (the title of the thing it's spoiling) must be clearly listed somewhere before the spoiler in your post or comment using [] to identify it. Do not post spoilers in the submission title. Links to external articles/images with spoilers should have the [Spoiler] flair as well as the name of the show. Spoilers can sometimes prove difficult to interpret. If possible, when reporting a spoiler tell us how the comment/thread is a spoiler. Source material scenes/info that were left out of the anime are still spoilers. Tag them appropriately. If you repeatedly fail to properly use spoiler tags you will be banned."
+      },
+      {
+        "title": "r/anime Rules",
+        "content": [
+          {
+            "text": "visit our rules page.",
+            "url": "https://www.reddit.com/r/anime/wiki/rules#wiki_everything_posted_here_must_be_anime_specific"
+          },
+          {
+            "text": "r/anime",
+            "url": "/r/anime/"
+          },
+          {
+            "text": "visit our rules page.",
+            "url": "https://www.reddit.com/r/anime/wiki/rules#wiki_do_not_post_untagged_spoilers"
+          },
+          {
+            "text": "visit our rules page.",
+            "url": "https://www.reddit.com/r/anime/wiki/rules"
+          },
+          {
+            "text": "A list of legal streams can be found here",
+            "url": "https://www.reddit.com/r/anime/wiki/legal_streams"
+          },
+          {
+            "text": "visit our rules page.",
+            "url": "https://www.reddit.com/r/anime/wiki/rules#wiki_do_not_link_to_illegal_content"
+          },
+          {
+            "text": "r/anime",
+            "url": "/r/anime/"
+          },
+          {
+            "text": "You can find the latest one here.",
+            "url": "https://www.reddit.com/r/anime/search?q=subreddit%3Aanime+title%3A%22Meta+Thread%22&restrict_sr=on&sort=new&t=month"
+          },
+          {
+            "text": "Daily Anime",
+            "url": "/r/anime/search?sort=new&restrict_sr=on&q=flair%3ADaily"
+          },
+          {
+            "text": "visit our rules page.",
+            "url": "/r/anime/wiki/rules#wiki_fanart"
+          },
+          {
+            "text": "r/anime",
+            "url": "/r/anime/"
+          },
+          {
+            "text": "visit our rules page.",
+            "url": "https://www.reddit.com/r/anime/wiki/rules#wiki_restricted_content"
+          },
+          {
+            "text": "visit our rules page.",
+            "url": "/r/anime/wiki/rules#wiki_clips.2C_edits.2C_and_videos"
+          },
+          {
+            "text": "r/anime",
+            "url": "/r/anime/"
+          },
+          {
+            "text": "r/anime",
+            "url": "/r/anime/"
+          },
+          {
+            "text": "r/anime",
+            "url": "/r/anime/"
+          },
+          {
+            "text": "Visit this post for more detail on the Source Material Corner.",
+            "url": "https://redd.it/b8kytv"
+          }
+        ]
+      },
+      {
+        "title": "Miscellaneous rules",
+        "content": [
+          {
+            "text": "[WT!] Archive",
+            "url": "https://www.reddit.com/r/anime/wiki/watchthisarchive"
+          },
+          {
+            "text": "See our wiki for other miscellaneous reasons for removal",
+            "url": "https://www.reddit.com/r/anime/wiki/rules#wiki_miscellaneous_reasons_for_removal"
+          }
+        ]
+      },
+      {
+        "title": "Helpful Links",
+        "content": [
+          {
+            "text": "Discord",
+            "url": "https://discord.gg/r-anime"
+          },
+          {
+            "text": "Twitter",
+            "url": "https://twitter.com/RedditChan"
+          },
+          {
+            "text": "Watch Order Wiki",
+            "url": "https://www.reddit.com/r/anime/wiki/watch_order"
+          },
+          {
+            "text": "Anime-Related Subreddits",
+            "url": "https://www.reddit.com/r/anime/wiki/related_subreddits"
+          },
+          {
+            "text": "[Watch This!] Archive",
+            "url": "https://www.reddit.com/r/anime/wiki/watchthisarchive"
+          },
+          {
+            "text": "Set Your Subreddit Flair",
+            "url": "https://flair.r-anime.moe/set"
+          }
+        ]
+      },
+      {
+        "title": "Helpful links",
+        "content": [
+          {
+            "text": "/r/anime wiki",
+            "url": "/r/anime/w/index"
+          },
+          {
+            "text": "/r/anime",
+            "url": "/r/anime"
+          },
+          {
+            "text": "Frequently Asked Anime Questions (Check this before you post a question!)",
+            "url": "/r/anime/w/faaq"
+          },
+          {
+            "text": "The recommendation wiki",
+            "url": "/r/anime/w/recommendations"
+          },
+          {
+            "text": "How to use our comment faces",
+            "url": "/r/anime/w/commentfaces"
+          },
+          {
+            "text": "List of anime related subreddits",
+            "url": "/r/anime/w/related_subreddits"
+          },
+          {
+            "text": "List of anime related websites",
+            "url": "/r/anime/w/related_sites"
+          },
+          {
+            "text": "Current Season Anime List",
+            "url": "/r/anime/w/current_season_anime"
+          },
+          {
+            "text": "Episodic Discussion Archive",
+            "url": "/r/anime/w/discussion_archive"
+          },
+          {
+            "text": "Current/Upcoming/Completed Rewatches",
+            "url": "/r/anime/w/rewatches"
+          },
+          {
+            "text": "Watch Order Wiki",
+            "url": "/r/anime/w/watch_order"
+          },
+          {
+            "text": "iqdb",
+            "url": "http://www.iqdb.org"
+          },
+          {
+            "text": "Google Images",
+            "url": "http://images.google.com"
+          },
+          {
+            "text": "SauceNAO",
+            "url": "http://saucenao.com"
+          },
+          {
+            "text": "TinEye",
+            "url": "https://www.tineye.com"
+          },
+          {
+            "text": "trace.moe",
+            "url": "https://trace.moe"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/anime/moderators/"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "Need help finding something specific",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n6eyst/need_help_finding_something_specific/",
-      "score": 1,
+      "title": "Haigakura - Episode 10 discussion",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n91deg/haigakura_episode_10_discussion/",
+      "score": 2,
       "comments": 1,
-      "post_id": "t3_1n6eyst",
-      "post_type": "text",
+      "post_id": "t3_1n91deg",
+      "post_type": "multi_media",
       "domain": "self.anime",
-      "author": "Round-Wolf8076",
-      "author_id": "t2_8e4hfcb8",
+      "author": "AutoLovepon",
+      "author_id": "t2_1jzq3sy",
       "subreddit_id": "t5_2qh22",
       "subreddit": "r/anime",
-      "created_ts": "2025-09-02T09:33:14.647000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n6eyst/need_help_finding_something_specific/",
+      "created_ts": "2025-09-05T10:16:54.825000+0000",
+      "content_href": "https://www.reddit.com/r/anime/comments/1n91deg/haigakura_episode_10_discussion/",
+      "content_preview": "Haigakura, episode 10Reminder:Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.StreamsNoneShow informationMyAnimeListAniListAniDBAnime-PlanetOfficial WebsiteAll discussionsEpisodeLink1Link2Link3Link4Link5Link6Link7Link8Link9Link10LinkThis post was created by a bot. Message the mod team for feedback and comments.The original source code can be found onGitHub.",
+      "flair": [
+        "Episode"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_15wxjo/styles/profileIcon_71yvqhtbxhka1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c4a7a641d5ae7b86add9ab40ae96bf5fdd1b6404",
+      "is_promoted": false
+    },
+    {
+      "title": "JUJUTSU KAISEN Culling Game New PV",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n4t5b7/jujutsu_kaisen_culling_game_new_pv/",
+      "score": 3720,
+      "comments": 613,
+      "post_id": "t3_1n4t5b7",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "Turbostrider27",
+      "author_id": "t2_t27vp",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-08-31T12:14:53.290000+0000",
+      "content_href": "https://www.youtube.com/watch?v=MePL_vS-G9Q",
       "content_preview": "",
       "flair": [
-        "Help"
+        "Official Media"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Summer Pockets new key visual",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n908x1/summer_pockets_new_key_visual/",
+      "score": 64,
+      "comments": 8,
+      "post_id": "t3_1n908x1",
+      "post_type": "image",
+      "domain": "summerpockets-anime.jp",
+      "author": "tsukiakari2216",
+      "author_id": "t2_p0h95dmi",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-09-05T09:07:13.521000+0000",
+      "content_href": "https://summerpockets-anime.jp/wp_summer/wp-content/themes/summerpocket_thema/img/kv08.jpg",
+      "content_preview": "",
+      "flair": [
+        "Official Media"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
       "title": "My Taiga cosplay (Toradora)",
       "permalink": "https://www.reddit.com/r/anime/comments/1n2mmhh/my_taiga_cosplay_toradora/",
-      "score": 9087,
-      "comments": 217,
+      "score": 9240,
+      "comments": 231,
       "post_id": "t3_1n2mmhh",
       "post_type": "gallery",
       "domain": "reddit.com",
@@ -43,92 +487,116 @@
       "flair": [
         "Cosplay"
       ],
-      "thumbnail_url": "https://preview.redd.it/my-taiga-cosplay-toradora-v0-zjmwuhnjgtlf1.jpg?width=640&crop=smart&auto=webp&s=78624ad07c228c67eeb296582c2ba306f3e414ef"
+      "thumbnail_url": "https://preview.redd.it/my-taiga-cosplay-toradora-v0-zjmwuhnjgtlf1.jpg?width=640&crop=smart&auto=webp&s=78624ad07c228c67eeb296582c2ba306f3e414ef",
+      "is_promoted": false
     },
     {
-      "title": "Studio SHAFT 50th Anniversary Visual by \"Monogatari\" character designer Akio Watanabe",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n5kjhd/studio_shaft_50th_anniversary_visual_by/",
-      "score": 2457,
-      "comments": 102,
-      "post_id": "t3_1n5kjhd",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "ToonAdventure",
-      "author_id": "t2_905hwre0",
+      "title": "‘Scarlet’ Review: ‘Belle’ Director Mamoru Hosoda Returns with a Bloody Anime ‘Hamlet’ that Has Nothing to Say",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n8x43q/scarlet_review_belle_director_mamoru_hosoda/",
+      "score": 101,
+      "comments": 31,
+      "post_id": "t3_1n8x43q",
+      "post_type": "link",
+      "domain": "indiewire.com",
+      "author": "BaronGikkingen",
+      "author_id": "t2_5p91dj9t",
       "subreddit_id": "t5_2qh22",
       "subreddit": "r/anime",
-      "created_ts": "2025-09-01T09:52:56.411000+0000",
-      "content_href": "https://i.redd.it/dms98aelzimf1.jpeg",
+      "created_ts": "2025-09-05T05:44:33.902000+0000",
+      "content_href": "https://www.indiewire.com/criticism/movies/scarlet-anime-review-mamoru-hosoda-1235149140/#recipient_hashed=ee41b0625c85528bbbbadc1168c47c85b724d664d7febf1607316391439c9aa7&recipient_salt=fbe5044adc3008d7feb25bae0800363098dbc335ac23f46097bca31d34969d7c&utm_medium=email&utm_source=exacttarget&utm_campaign=BreakingNews&utm_content=631307_09-04-2025&utm_term=2449118&utm_medium=&utm_source=&utm_campaign=&utm_content=&utm_id=",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/ogWgenQBwZNVC5Fym9loYgrarhXMlY7_1JzV2wje7Ag.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=baed603fbfc678f9af24ee0d94db545485c37b6d",
+      "is_promoted": false
+    },
+    {
+      "title": "[Highlight] BACK-TO-BACK BRISCOE! Chase Briscoe does it again in the Southern 500!",
+      "permalink": "https://www.reddit.com/user/nascar/comments/1n6u5z3/highlight_backtoback_briscoe_chase_briscoe_does/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n6u5z3",
+      "post_type": "video",
+      "domain": "amazon.com",
+      "author": "nascar",
+      "author_id": "t2_395je",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-02T20:11:25.126000+0000",
+      "content_href": "https://v.redd.it/lslsb0pbprmf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_21i4ox/styles/profileIcon_3ks81botk2fc1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=0d8ba9223cd6e41e67b600b4a3c6b3f01fcaf707",
+      "is_promoted": true
+    },
+    {
+      "title": "SPY x FAMILY Season 3 Key Visual",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n4jxo2/spy_x_family_season_3_key_visual/",
+      "score": 2982,
+      "comments": 142,
+      "post_id": "t3_1n4jxo2",
+      "post_type": "image",
+      "domain": "spy-family.net",
+      "author": "zenzen_0",
+      "author_id": "t2_3absrqx1",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-08-31T03:00:01.104000+0000",
+      "content_href": "https://spy-family.net/tvseries/assets/img/top/mv_p_s3.jpg",
       "content_preview": "",
       "flair": [
         "Official Media"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_x3pri/styles/profileIcon_zxhmg9308ar81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=88de52d58699b79b179e73967b230c69a2f00b33",
+      "is_promoted": false
     },
     {
-      "title": "AniTier Website Launch Announcement",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n650j7/anitier_website_launch_announcement/",
-      "score": 193,
-      "comments": 20,
-      "post_id": "t3_1n650j7",
-      "post_type": "multi_media",
-      "domain": "self.anime",
-      "author": "BuriySagiri",
-      "author_id": "t2_dt3l4wpu",
+      "title": "Sony / Crunchyroll will now release Chainsaw Man – The Movie: Reze Arc on October 24, 2025.",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n8h1y3/sony_crunchyroll_will_now_release_chainsaw_man/",
+      "score": 867,
+      "comments": 34,
+      "post_id": "t3_1n8h1y3",
+      "post_type": "link",
+      "domain": "bsky.app",
+      "author": "mobpiecedunchaindan",
+      "author_id": "t2_vngyzk3zi",
       "subreddit_id": "t5_2qh22",
       "subreddit": "r/anime",
-      "created_ts": "2025-09-02T00:11:12.994000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n650j7/anitier_website_launch_announcement/",
+      "created_ts": "2025-09-04T17:48:17.170000+0000",
+      "content_href": "https://bsky.app/profile/boxofficereport.bsky.social/post/3lxzp3urlks2e",
       "content_preview": "",
       "flair": [
-        "Misc."
+        "News"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_4vjp4i/styles/profileIcon_o8w6l6cv4ulf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f28ff046674370919c2c2eda6d76ac5e8cce7511"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_d7l85v/styles/profileIcon_ugjob29yk69e1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1223f2d03c1e95dc7ada2ce93f84aceade56eaf8",
+      "is_promoted": false
     },
     {
-      "title": "Lewdest Hand Holding Ever 🫣 [DAN DA DAN]",
-      "permalink": "https://www.reddit.com/r/anime/comments/1mkgpsx/lewdest_hand_holding_ever_dan_da_dan/",
-      "score": 6924,
-      "comments": 348,
-      "post_id": "t3_1mkgpsx",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "SCVGoodT0GoSir",
-      "author_id": "t2_kqylm",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-08-08T00:22:46.475000+0000",
-      "content_href": "https://v.redd.it/92qaqjdevohf1",
-      "content_preview": "",
-      "flair": [
-        "Clip"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Grand Blue Season 2 • Grand Blue Dreaming Season 2 - Episode 9 discussion",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n5tjbz/grand_blue_season_2_grand_blue_dreaming_season_2/",
-      "score": 706,
-      "comments": 107,
-      "post_id": "t3_1n5tjbz",
+      "title": "looking for legit clothing sites",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n915nw/looking_for_legit_clothing_sites/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1n915nw",
       "post_type": "text",
       "domain": "self.anime",
-      "author": "AutoLovepon",
-      "author_id": "t2_1jzq3sy",
+      "author": "shannonmiaxox",
+      "author_id": "t2_cpymifa4",
       "subreddit_id": "t5_2qh22",
       "subreddit": "r/anime",
-      "created_ts": "2025-09-01T16:34:53.236000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n5tjbz/grand_blue_season_2_grand_blue_dreaming_season_2/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T10:04:05.769000+0000",
+      "content_href": "https://www.reddit.com/r/anime/comments/1n915nw/looking_for_legit_clothing_sites/",
+      "content_preview": "i used to use shokai clothing but they closed down recently, and i am scared to use anywhere else as anywhere else i’ve brought from has been terrible quality. could anyone suggest where they use please? TIA:)))",
       "flair": [
-        "Episode"
+        "Help"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_15wxjo/styles/profileIcon_71yvqhtbxhka1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c4a7a641d5ae7b86add9ab40ae96bf5fdd1b6404"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "Investigation Reveals Earth’s Defender Goku Has Ties to Sexual Predator Living on Private Island",
       "permalink": "https://www.reddit.com/r/anime/comments/1mzzwp8/investigation_reveals_earths_defender_goku_has/",
-      "score": 8161,
+      "score": 8183,
       "comments": 203,
       "post_id": "t3_1mzzwp8",
       "post_type": "link",
@@ -143,52 +611,282 @@
       "flair": [
         "Satire"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/ptHjAGEi842dqs3ckvhkxV2iHYLsf1epUhENW_xAW2Y.jpeg?width=140&height=74&crop=140:74,smart&auto=webp&s=896e0de7f78f1ed6354976626e610639c35aad13"
+      "thumbnail_url": "https://external-preview.redd.it/ptHjAGEi842dqs3ckvhkxV2iHYLsf1epUhENW_xAW2Y.jpeg?width=140&height=74&crop=140:74,smart&auto=webp&s=896e0de7f78f1ed6354976626e610639c35aad13",
+      "is_promoted": false
     },
     {
-      "title": "What’s your most rewatched anime of all time?",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n5qrzq/whats_your_most_rewatched_anime_of_all_time/",
-      "score": 884,
-      "comments": 1798,
-      "post_id": "t3_1n5qrzq",
-      "post_type": "text",
-      "domain": "self.anime",
-      "author": "Wrong-Ease-6129",
-      "author_id": "t2_jl8moqol",
+      "title": "Li'l Miss Vampire Can't Suck Right New Visual",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n905u3/lil_miss_vampire_cant_suck_right_new_visual/",
+      "score": 33,
+      "comments": 6,
+      "post_id": "t3_1n905u3",
+      "post_type": "image",
+      "domain": "ogre.natalie.mu",
+      "author": "Turbostrider27",
+      "author_id": "t2_t27vp",
       "subreddit_id": "t5_2qh22",
       "subreddit": "r/anime",
-      "created_ts": "2025-09-01T14:51:05.683000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n5qrzq/whats_your_most_rewatched_anime_of_all_time/",
+      "created_ts": "2025-09-05T09:01:55.521000+0000",
+      "content_href": "https://ogre.natalie.mu/media/news/comic/2025/0905/kyuketsukichan_kv_logo.jpg?imwidth=1460&imdensity=1&impolicy=hq",
       "content_preview": "",
       "flair": [
-        "What to Watch?"
+        "Official Media"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "I really need help. This is driving me crazy",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n6eh9p/i_really_need_help_this_is_driving_me_crazy/",
+      "title": "Studio SHAFT 50th Anniversary Visual by \"Monogatari\" character designer Akio Watanabe",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n5kjhd/studio_shaft_50th_anniversary_visual_by/",
+      "score": 2779,
+      "comments": 110,
+      "post_id": "t3_1n5kjhd",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ToonAdventure",
+      "author_id": "t2_905hwre0",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-09-01T09:52:56.411000+0000",
+      "content_href": "https://i.redd.it/dms98aelzimf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Official Media"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Red Ranger Isekai x Konosuba: Red Ranger meet YunYun",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n8umuf/red_ranger_isekai_x_konosuba_red_ranger_meet/",
+      "score": 81,
+      "comments": 1,
+      "post_id": "t3_1n8umuf",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Ganma12",
+      "author_id": "t2_pt9jhall",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-09-05T03:27:04.497000+0000",
+      "content_href": "https://i.redd.it/yh14pex6m9nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Fanart"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Dishes so clean, you can get dirty. Biobased Seventh Generation Dish Liquid gets dishes sparkling clean.",
+      "permalink": "https://www.reddit.com/user/Seventh_Gen_Clean/comments/1m3bj45/dishes_so_clean_you_can_get_dirty_biobased/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1m3bj45",
+      "post_type": "gif",
+      "domain": "shop.pricespider.com",
+      "author": "Seventh_Gen_Clean",
+      "author_id": "t2_1q8qijt0gu",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-18T19:26:19.910000+0000",
+      "content_href": "https://v.redd.it/bmrugqxc7ndf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ejtobz/styles/profileIcon_imuoebad3a3f1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=dd10aca8ae4d5a723f1212646f51738887828d10",
+      "is_promoted": true
+    },
+    {
+      "title": "One Punch Man Season 3 New Key Visual",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n72fat/one_punch_man_season_3_new_key_visual/",
+      "score": 2324,
+      "comments": 219,
+      "post_id": "t3_1n72fat",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "zenzen_0",
+      "author_id": "t2_3absrqx1",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-09-03T02:00:26.544000+0000",
+      "content_href": "https://i.redd.it/vkszrah4xumf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Official Media"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_x3pri/styles/profileIcon_zxhmg9308ar81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=88de52d58699b79b179e73967b230c69a2f00b33",
+      "is_promoted": false
+    },
+    {
+      "title": "Mizu Zokusei no Mahoutsukai Daiichibu • The Water Magician - Episode 9 discussion",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n8j2ua/mizu_zokusei_no_mahoutsukai_daiichibu_the_water/",
+      "score": 382,
+      "comments": 172,
+      "post_id": "t3_1n8j2ua",
+      "post_type": "text",
+      "domain": "self.anime",
+      "author": "AutoLovepon",
+      "author_id": "t2_1jzq3sy",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-09-04T19:04:54.769000+0000",
+      "content_href": "https://www.reddit.com/r/anime/comments/1n8j2ua/mizu_zokusei_no_mahoutsukai_daiichibu_the_water/",
+      "content_preview": "Mizu Zokusei no Mahoutsukai Daiichibu, episode 9Reminder:Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.StreamsCrunchyrollShow informationMyAnimeListAniListAniDBOfficial WebsiteAll discussionsEpisodeLink1Link2Link3Link4Link5Link6Link7Link8Link9LinkThis post was created by a bot. Message the mod team for feedback and comments.The original source code can be found onGitHub.",
+      "flair": [
+        "Episode"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_15wxjo/styles/profileIcon_71yvqhtbxhka1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c4a7a641d5ae7b86add9ab40ae96bf5fdd1b6404",
+      "is_promoted": false
+    },
+    {
+      "title": "Your Lie in April Pilgrimage + Cosplay",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n1gx8e/your_lie_in_april_pilgrimage_cosplay/",
+      "score": 7763,
+      "comments": 193,
+      "post_id": "t3_1n1gx8e",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "seichimegurinn",
+      "author_id": "t2_1tow7r9yaf",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-08-27T13:22:45.531000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n1gx8e",
+      "content_preview": "",
+      "flair": [
+        "Misc."
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ey3zcf/styles/profileIcon_wzfktsmxkqkf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=705b0d66d6c3a059dfd8167beb89ca57f8a29849",
+      "is_promoted": false
+    },
+    {
+      "title": "Lewdest Hand Holding Ever 🫣 [DAN DA DAN]",
+      "permalink": "https://www.reddit.com/r/anime/comments/1mkgpsx/lewdest_hand_holding_ever_dan_da_dan/",
+      "score": 6961,
+      "comments": 352,
+      "post_id": "t3_1mkgpsx",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "SCVGoodT0GoSir",
+      "author_id": "t2_kqylm",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-08-08T00:22:46.475000+0000",
+      "content_href": "https://v.redd.it/92qaqjdevohf1",
+      "content_preview": "",
+      "flair": [
+        "Clip"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Horny transformation [Shingeki no Bahamut: Virgin Soul]",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n4ypgc/horny_transformation_shingeki_no_bahamut_virgin/",
+      "score": 2207,
+      "comments": 109,
+      "post_id": "t3_1n4ypgc",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Timely-Respond-8223",
+      "author_id": "t2_qtvomwbij",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-08-31T16:10:44.737000+0000",
+      "content_href": "https://v.redd.it/oi1yfuqzpdmf1",
+      "content_preview": "",
+      "flair": [
+        "Clip"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/horny-transformation-shingeki-no-bahamut-virgin-soul-v0-aDliNnV1ZjJxZG1mMcFPrNWHJQaKqY3nVW10e04_S1A4w8BKRyIenWu3eSqH.png?width=640&crop=smart&format=pjpg&auto=webp&s=ec4cfb8bdbfa035300ce432bf4261f4a69706bb5",
+      "is_promoted": false
+    },
+    {
+      "title": "Dr. Stone Science Future Part 2 - Episode 9 discussion",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n8b8xl/dr_stone_science_future_part_2_episode_9/",
+      "score": 904,
+      "comments": 340,
+      "post_id": "t3_1n8b8xl",
+      "post_type": "text",
+      "domain": "self.anime",
+      "author": "AutoLovepon",
+      "author_id": "t2_1jzq3sy",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-09-04T14:10:54.049000+0000",
+      "content_href": "https://www.reddit.com/r/anime/comments/1n8b8xl/dr_stone_science_future_part_2_episode_9/",
+      "content_preview": "Dr. Stone Science Future Part 2, episode 9Reminder:Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.StreamsCrunchyrollShow informationMyAnimeListAniListAniDBKitsuOfficial Websiter/DrStoneAll discussionsEpisodeLink1Link2Link3Link4Link5Link6Link7Link8Link9LinkThis post was created by a bot. Message the mod team for feedback and comments.The original source code can be found onGitHub.",
+      "flair": [
+        "Episode"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_15wxjo/styles/profileIcon_71yvqhtbxhka1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c4a7a641d5ae7b86add9ab40ae96bf5fdd1b6404",
+      "is_promoted": false
+    },
+    {
+      "title": "Anime Questions, Recommendations, and Discussion - September 05, 2025",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n914gw/anime_questions_recommendations_and_discussion/",
       "score": 1,
-      "comments": 3,
-      "post_id": "t3_1n6eh9p",
-      "post_type": "text",
+      "comments": 2,
+      "post_id": "t3_1n914gw",
+      "post_type": "multi_media",
       "domain": "self.anime",
-      "author": "Local-Astronomer8509",
-      "author_id": "t2_8cikzapa",
+      "author": "AnimeMod",
+      "author_id": "t2_6wrl6",
       "subreddit_id": "t5_2qh22",
       "subreddit": "r/anime",
-      "created_ts": "2025-09-02T09:01:27.477000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n6eh9p/i_really_need_help_this_is_driving_me_crazy/",
+      "created_ts": "2025-09-05T10:02:07.999000+0000",
+      "content_href": "https://www.reddit.com/r/anime/comments/1n914gw/anime_questions_recommendations_and_discussion/",
+      "content_preview": "This is a daily megathread for general chatter about anime. Have questions or need recommendations? Here to show off your merch? Want to talk about what you just watched?This is the Place!All spoilers must be tagged.Use[anime name]to indicate the anime you're talking about before the spoiler tag, e.g. [Attack on Titan]This is a popular anime.Prefer Discord? Check out our server: https://discord.gg/r-animeRecommendationsDon't know what to start next?Check our wiki first!Not sure how to ask for a recommendation? Fill this out, or simply use it as a guideline, and other users will find it much easier to recommend you an anime!I'm looking for:A certain genre? Something specific like characters traveling to another world?Shows I've already seen that are similar:You can include a link to a list on another site if you have one, e.g.MyAnimeListorAniList.ResourcesWatch orders for many animeList of streaming sitesandfind where to watch a specific animeLooking for the source of an image?Currently airing anime:AniChart.net|LiveChart.me|MyAnimeList.netFrequently Asked Anime QuestionsRelated subredditsOther Threads« Previous Thread|Next Thread »Mononoke— Discussion for the selected anime of the week.Watch This! Compilation— Read recommendations from other users.Casual Discussion— Off-topic thread for non-anime talk.Meta Thread— Discussion aboutr/anime's rules and moderation.Mod Applications—Make a magical girl contract today!",
+      "flair": [
+        "Daily"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Learn more and talk to your doctor about APRETUDE. See PI, Patient Info and Important Warning: https://gsk.to/4dqMlLP",
+      "permalink": "https://www.reddit.com/user/APRETUDE_US/comments/1kxl9cd/learn_more_and_talk_to_your_doctor_about_apretude/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1kxl9cd",
+      "post_type": "video",
+      "domain": "apretude.com",
+      "author": "APRETUDE_US",
+      "author_id": "t2_1ofwui8f4u",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-05-28T16:17:16.842000+0000",
+      "content_href": "https://v.redd.it/a76ciwt4bi3f1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ec2zpa/styles/profileIcon_vwxvp3mor4ye1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=a10e7c81f5bf38013deb62f89c7386f7797b26a9",
+      "is_promoted": true
+    },
+    {
+      "title": "Digimon Beatbreak Character Group Visual",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n8u30d/digimon_beatbreak_character_group_visual/",
+      "score": 81,
+      "comments": 15,
+      "post_id": "t3_1n8u30d",
+      "post_type": "image",
+      "domain": "pbs.twimg.com",
+      "author": "Turbostrider27",
+      "author_id": "t2_t27vp",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-09-05T02:59:18.059000+0000",
+      "content_href": "https://pbs.twimg.com/media/G0DLpf0b0AAo5Gh.jpg",
       "content_preview": "",
       "flair": [
-        "Help"
+        "Official Media"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
       "title": "No, this is not an edit. This is a genuine, unaltered clip from the show [CITY THE ANIMATION]",
       "permalink": "https://www.reddit.com/r/anime/comments/1mmmjus/no_this_is_not_an_edit_this_is_a_genuine/",
-      "score": 6269,
+      "score": 6293,
       "comments": 297,
       "post_id": "t3_1mmmjus",
       "post_type": "video",
@@ -203,113 +901,119 @@
       "flair": [
         "Clip"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_2l4feq/styles/profileIcon_98hi8zsghfab1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=abe3ab1c31153a96a6f5b08aa589fe567428830f"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2l4feq/styles/profileIcon_98hi8zsghfab1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=abe3ab1c31153a96a6f5b08aa589fe567428830f",
+      "is_promoted": false
     },
     {
-      "title": "“Gachiakuta” New Character Visuals",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n5utln/gachiakuta_new_character_visuals/",
-      "score": 542,
-      "comments": 15,
-      "post_id": "t3_1n5utln",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "AashyLarry",
-      "author_id": "t2_zh844",
+      "title": "Anyone got anime or manga recommendations?",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n90lsz/anyone_got_anime_or_manga_recommendations/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1n90lsz",
+      "post_type": "text",
+      "domain": "self.anime",
+      "author": "Strik3r_666",
+      "author_id": "t2_bqojez701",
       "subreddit_id": "t5_2qh22",
       "subreddit": "r/anime",
-      "created_ts": "2025-09-01T17:22:28.034000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5utln",
+      "created_ts": "2025-09-05T09:29:58.204000+0000",
+      "content_href": "https://www.reddit.com/r/anime/comments/1n90lsz/anyone_got_anime_or_manga_recommendations/",
+      "content_preview": "What I've watched: Beastars (Favorite 💕) My hero academia Jujutsu Kaisen Berserk (Manga) Death note Monster Chainsaw man Demon Slayer Dandadan Attack on titan Solo LevelingDropped: Kakegurui One Punch Man Danganronpa Magical Girl Site",
+      "flair": [
+        "What to Watch?"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Jujutsu Kaisen: Shibuya x Culling Games Movie Key Visual",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n4ta72/jujutsu_kaisen_shibuya_x_culling_games_movie_key/",
+      "score": 2150,
+      "comments": 61,
+      "post_id": "t3_1n4ta72",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Mechabeastchild",
+      "author_id": "t2_333mmim2",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-08-31T12:21:39.726000+0000",
+      "content_href": "https://i.redd.it/d0lguj78lcmf1.jpeg",
       "content_preview": "",
       "flair": [
         "Official Media"
       ],
-      "thumbnail_url": "https://preview.redd.it/gachiakuta-new-character-visuals-v0-om886l0t7lmf1.jpg?width=640&crop=smart&auto=webp&s=d15cadb5887a6014e61edf43d1e2f8fb8391a0a5"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_vebgb/styles/profileIcon_thygmemvgpu41.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b2790605e70cc756ede1105326030a2f4ec17ac8",
+      "is_promoted": false
     },
     {
-      "title": "Your Lie in April Pilgrimage + Cosplay",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n1gx8e/your_lie_in_april_pilgrimage_cosplay/",
-      "score": 7678,
-      "comments": 187,
-      "post_id": "t3_1n1gx8e",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "seichimegurinn",
-      "author_id": "t2_1tow7r9yaf",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-08-27T13:22:45.531000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n1gx8e",
-      "content_preview": "",
-      "flair": [
-        "Misc."
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_ey3zcf/styles/profileIcon_wzfktsmxkqkf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=705b0d66d6c3a059dfd8167beb89ca57f8a29849"
-    },
-    {
-      "title": "Life feels boring and sad after watching a good anime.",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n681vz/life_feels_boring_and_sad_after_watching_a_good/",
-      "score": 87,
-      "comments": 35,
-      "post_id": "t3_1n681vz",
+      "title": "Summer hikaru died is too good",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n8jsrw/summer_hikaru_died_is_too_good/",
+      "score": 279,
+      "comments": 71,
+      "post_id": "t3_1n8jsrw",
       "post_type": "text",
       "domain": "self.anime",
-      "author": "attack_panda925",
-      "author_id": "t2_ccriehjj",
+      "author": "tellcall081",
+      "author_id": "t2_1253lq1cml",
       "subreddit_id": "t5_2qh22",
       "subreddit": "r/anime",
-      "created_ts": "2025-09-02T02:38:06.266000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n681vz/life_feels_boring_and_sad_after_watching_a_good/",
-      "content_preview": "",
-      "flair": [
-        "Help"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Panty and Stocking cosplay by my sister and I!",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n1shhl/panty_and_stocking_cosplay_by_my_sister_and_i/",
-      "score": 4714,
-      "comments": 95,
-      "post_id": "t3_1n1shhl",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "arorea",
-      "author_id": "t2_qxzrd",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-08-27T20:40:13.383000+0000",
-      "content_href": "https://i.redd.it/3nmparv2hmlf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Cosplay"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "Best sequel/season 2 in anime?",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n6c5e5/best_sequelseason_2_in_anime/",
-      "score": 42,
-      "comments": 77,
-      "post_id": "t3_1n6c5e5",
-      "post_type": "text",
-      "domain": "self.anime",
-      "author": "ChoiceSupermarket230",
-      "author_id": "t2_58qotfqe",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-09-02T06:27:10.485000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n6c5e5/best_sequelseason_2_in_anime/",
-      "content_preview": "",
+      "created_ts": "2025-09-04T19:32:30.713000+0000",
+      "content_href": "https://www.reddit.com/r/anime/comments/1n8jsrw/summer_hikaru_died_is_too_good/",
+      "content_preview": "I just finished watching the show and wow, it is so unbelievably good, I'm so happy to see a well written, shonen ai leaning plot where  the show isn't about two \"really close male  best friends with the same female crush\" or \"male needs to be saved by pure cute female character\" and I'm even more happy that the show isn't about being gay, but instead an in-depth plot with good writing and even better written dialogue and relationship dynamics and emotions. WOW. my socks were blown.Also loved the guy with the hamster- he's my fav character so far- the whole ghost spirit thing is utterly genius, I didn't know I needed a supernatural anime until I watched this show. The comedy moments are actually funny and hikaru is a total cutie (who deserves to be happy) also animation and character design is utterly beautifulShow was giving Mandela tapes which sort of bought meTotally pumped for new epsWhat did you think of it?Any suggestions for shows I should watch like TSHD?Also does anyone know the name of the song the hamster guy always sings? It's catchy as fuck.",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_3nwqfo/styles/profileIcon_94vb1uxqh4hf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=08e764ffcc28f50de49508404d290385848978a1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bqsadt/styles/profileIcon_qf609baftb2f1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=397e34f3095b758abd2411793c4242fd20c4ad24",
+      "is_promoted": false
+    },
+    {
+      "title": "\"Inexpressive Kashiwada and Expressive Oota\" New Visual",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n90eq5/inexpressive_kashiwada_and_expressive_oota_new/",
+      "score": 35,
+      "comments": 4,
+      "post_id": "t3_1n90eq5",
+      "post_type": "image",
+      "domain": "kashiwada-ohta.com",
+      "author": "dorkmax_executives",
+      "author_id": "t2_1498cg",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-09-05T09:17:21.785000+0000",
+      "content_href": "https://kashiwada-ohta.com/wordpress/wp-content/uploads/2025/09/03142150/kashiwada_kv_%E7%AC%AC2%E5%BC%BE_%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E5%85%A5%E3%82%8A.png",
+      "content_preview": "",
+      "flair": [
+        "Official Media"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/inexpressive-kashiwada-and-expressive-oota-new-visual-v0-L80txNGq9aFDFqL7BzO-FIav3KvrSZrm1xrbROTDfw8.png?width=640&crop=smart&auto=webp&s=b607a1a4cf4b3e4f7d1f6e3afe5aa9ed152e8ab0",
+      "is_promoted": false
+    },
+    {
+      "title": "Shitty Isekai I can turn my brain off to",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n8rtt9/shitty_isekai_i_can_turn_my_brain_off_to/",
+      "score": 54,
+      "comments": 136,
+      "post_id": "t3_1n8rtt9",
+      "post_type": "text",
+      "domain": "self.anime",
+      "author": "CreditComplex6206",
+      "author_id": "t2_1vsw0xhxws",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-09-05T01:10:18.719000+0000",
+      "content_href": "https://www.reddit.com/r/anime/comments/1n8rtt9/shitty_isekai_i_can_turn_my_brain_off_to/",
+      "content_preview": "looking for some stupid or simple isekai I can kinda just turn my brain off to. preferably with good dub since reading requires turning my brain on,",
+      "flair": [
+        "What to Watch?"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
       "title": "'Sekiro: No Defeat' Anime Announced",
       "permalink": "https://www.reddit.com/r/anime/comments/1muqh46/sekiro_no_defeat_anime_announced/",
-      "score": 6053,
-      "comments": 465,
+      "score": 6072,
+      "comments": 470,
       "post_id": "t3_1muqh46",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -323,12 +1027,74 @@
       "flair": [
         "Official Media"
       ],
-      "thumbnail_url": "https://preview.redd.it/sekiro-no-defeat-anime-announced-v0-v4hnz3d7q0kf1.jpeg?width=640&crop=smart&auto=webp&s=7a6975c40cde7a7abe63d50d02b907485c19adaf"
+      "thumbnail_url": "https://preview.redd.it/sekiro-no-defeat-anime-announced-v0-v4hnz3d7q0kf1.jpeg?width=640&crop=smart&auto=webp&s=7a6975c40cde7a7abe63d50d02b907485c19adaf",
+      "is_promoted": false
+    },
+    {
+      "title": "Learn how to get the new Samsung Galaxy Z Flip7 on us without paying for the most expensive plan.",
+      "permalink": "https://www.reddit.com/user/Official_ATT/comments/1n2ifqk/learn_how_to_get_the_new_samsung_galaxy_z_flip7/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n2ifqk",
+      "post_type": "video",
+      "domain": "att.com",
+      "author": "Official_ATT",
+      "author_id": "t2_3hc2ryxv",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-28T17:22:55.015000+0000",
+      "content_href": "https://v.redd.it/rwckptmp6rlf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_yqklc/styles/profileIcon_0x6svhxi53ke1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=1be7fca3ef0756c89f133b8a0ca6779dbbc62517",
+      "is_promoted": true
+    },
+    {
+      "title": "Sono Bisque Doll wa Koi wo Suru Season 2 • My Dress-Up Darling Season 2 - Episode 9 discussion",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n460nb/sono_bisque_doll_wa_koi_wo_suru_season_2_my/",
+      "score": 2113,
+      "comments": 492,
+      "post_id": "t3_1n460nb",
+      "post_type": "text",
+      "domain": "self.anime",
+      "author": "AutoLovepon",
+      "author_id": "t2_1jzq3sy",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-08-30T16:31:54.985000+0000",
+      "content_href": "https://www.reddit.com/r/anime/comments/1n460nb/sono_bisque_doll_wa_koi_wo_suru_season_2_my/",
+      "content_preview": "Sono Bisque Doll wa Koi wo Suru Season 2, episode 9Reminder:Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.StreamsCrunchyrollShow informationMyAnimeListAniListAniDBKitsuOfficial Websiter/SonoBisqueDollAll discussionsEpisodeLink1Link2Link3Link4Link5Link6Link7Link8Link9LinkThis post was created by a bot. Message the mod team for feedback and comments.The original source code can be found onGitHub.",
+      "flair": [
+        "Episode"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_15wxjo/styles/profileIcon_71yvqhtbxhka1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c4a7a641d5ae7b86add9ab40ae96bf5fdd1b6404",
+      "is_promoted": false
+    },
+    {
+      "title": "Mommy issues at its most severe [Brain Powerd]",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n87pnj/mommy_issues_at_its_most_severe_brain_powerd/",
+      "score": 594,
+      "comments": 68,
+      "post_id": "t3_1n87pnj",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "BufalloCrapSmeller",
+      "author_id": "t2_c0p1qoqx6",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-09-04T11:36:56.768000+0000",
+      "content_href": "https://v.redd.it/p5ghjo8vw4nf1",
+      "content_preview": "",
+      "flair": [
+        "Video Edit"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/mommy-issues-at-its-most-severe-brain-powerd-v0-cnhjcm1nOXZ3NG5mMbr82Cane5Rxft3qS02aCy_usgIJ2vSf2XfnWZAfgrbg.png?width=640&crop=smart&format=pjpg&auto=webp&s=e412888e56238500de8b69ebd1a34b18853990ae",
+      "is_promoted": false
     },
     {
       "title": "“Made in Abyss” New Anime Movie Series Announced",
       "permalink": "https://www.reddit.com/r/anime/comments/1mk2eem/made_in_abyss_new_anime_movie_series_announced/",
-      "score": 5632,
+      "score": 5647,
       "comments": 546,
       "post_id": "t3_1mk2eem",
       "post_type": "image",
@@ -343,33 +1109,14 @@
       "flair": [
         "Official Media"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_x3pri/styles/profileIcon_zxhmg9308ar81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=88de52d58699b79b179e73967b230c69a2f00b33"
-    },
-    {
-      "title": "Recs for a long time Otaku",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n6efxd/recs_for_a_long_time_otaku/",
-      "score": 0,
-      "comments": 5,
-      "post_id": "t3_1n6efxd",
-      "post_type": "text",
-      "domain": "self.anime",
-      "author": "mishraboi",
-      "author_id": "t2_5c0cjiy2",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-09-02T08:59:18.537000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n6efxd/recs_for_a_long_time_otaku/",
-      "content_preview": "",
-      "flair": [
-        "What to Watch?"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_2sxylh/styles/profileIcon_k0ak8jj1d26f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=0c4a639c9456070f4451e4ad9a2ff2ff0a0732cc"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_x3pri/styles/profileIcon_zxhmg9308ar81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=88de52d58699b79b179e73967b230c69a2f00b33",
+      "is_promoted": false
     },
     {
       "title": "Mage vs Mimic [Frieren: Beyond Journey's End]",
       "permalink": "https://www.reddit.com/r/anime/comments/1mpkzmm/mage_vs_mimic_frieren_beyond_journeys_end/",
-      "score": 5283,
-      "comments": 204,
+      "score": 5297,
+      "comments": 208,
       "post_id": "t3_1mpkzmm",
       "post_type": "video",
       "domain": "v.redd.it",
@@ -383,12 +1130,179 @@
       "flair": [
         "Clip"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/mage-vs-mimic-frieren-beyond-journeys-end-v0-cnliYmYxM2lsdmlmMYtdDl-siEaA04kZk_u0xH_yevBh5cL7IXhMQOYEIc2W.png?width=640&crop=smart&format=pjpg&auto=webp&s=0e9956151ec9089da6c66d56cbe88e622339f625"
+      "thumbnail_url": "https://external-preview.redd.it/mage-vs-mimic-frieren-beyond-journeys-end-v0-cnliYmYxM2lsdmlmMYtdDl-siEaA04kZk_u0xH_yevBh5cL7IXhMQOYEIc2W.png?width=640&crop=smart&format=pjpg&auto=webp&s=0e9956151ec9089da6c66d56cbe88e622339f625",
+      "is_promoted": false
+    },
+    {
+      "title": "\"Butt Detective\" new season visual",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n8yt8u/butt_detective_new_season_visual/",
+      "score": 13,
+      "comments": 3,
+      "post_id": "t3_1n8yt8u",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "mr_beanoz",
+      "author_id": "t2_21j5jy0f",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-09-05T07:31:21.173000+0000",
+      "content_href": "https://i.redd.it/kvnwci1xtanf1.png",
+      "content_preview": "",
+      "flair": [
+        "Official Media"
+      ],
+      "thumbnail_url": "https://preview.redd.it/butt-detective-new-season-visual-v0-kvnwci1xtanf1.png?width=640&crop=smart&auto=webp&s=727d6ce56a78435a289fc3685f90c9e3b98a382c",
+      "is_promoted": false
+    },
+    {
+      "title": "『Yofukashi no Uta Season2』Nanakusa Nazuna（CV：Amamiya Sora）Sleeping Together ASMR #04",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n8wrvn/yofukashi_no_uta_season2nanakusa_nazunacvamamiya/",
+      "score": 18,
+      "comments": 1,
+      "post_id": "t3_1n8wrvn",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "inspyral",
+      "author_id": "t2_8q4qq",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-09-05T05:24:30.230000+0000",
+      "content_href": "https://www.youtube.com/watch?v=_tZQfn_lZaM",
+      "content_preview": "",
+      "flair": [
+        "Official Media"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1x8lpf/styles/profileIcon_6mmxepexdtm71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=bab274996e5a59ffd502b568067282185d5ba2ed",
+      "is_promoted": false
+    },
+    {
+      "title": "Summer Pockets new 8th PV",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n90a2i/summer_pockets_new_8th_pv/",
+      "score": 17,
+      "comments": 5,
+      "post_id": "t3_1n90a2i",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "tsukiakari2216",
+      "author_id": "t2_p0h95dmi",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-09-05T09:09:12.841000+0000",
+      "content_href": "https://youtu.be/HuOLlioGHa0?si=zOqEGSSYcbEvtlBT",
+      "content_preview": "",
+      "flair": [
+        "Official Media"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Trade soggy takeout fries for crispy, fluffy perfection at home with Ore-Ida",
+      "permalink": "https://www.reddit.com/user/OreIdaPotatoes/comments/1n5u28d/trade_soggy_takeout_fries_for_crispy_fluffy/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n5u28d",
+      "post_type": "image",
+      "domain": "kraftheinz.com",
+      "author": "OreIdaPotatoes",
+      "author_id": "t2_9frftyk0",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-01T16:54:35.438000+0000",
+      "content_href": "https://www.kraftheinz.com/ore-ida/products/00013120014178-extra-crispy-fast-food-french-fries-french-fried-potatoes?utm_medium=paidsocial&utm_source=reddit&utm_campaign={{CAMPAIGN_ID}}&utm_adgroup={{ADGROUP_ID}}&utm_content={{AD_ID}}",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3lisg9/styles/profileIcon_vhnvmn5dbplc1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=3285f33886dc7954c05cadfbaf97088e6a9d8418",
+      "is_promoted": true
+    },
+    {
+      "title": "Tatsuki Fujimoto Before Chainsaw Man: 17-21 Anime Announced (Teaser Visual)",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n6lv0x/tatsuki_fujimoto_before_chainsaw_man_1721_anime/",
+      "score": 1936,
+      "comments": 133,
+      "post_id": "t3_1n6lv0x",
+      "post_type": "image",
+      "domain": "ogre.natalie.mu",
+      "author": "zenzen_0",
+      "author_id": "t2_3absrqx1",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-09-02T15:00:53.456000+0000",
+      "content_href": "https://ogre.natalie.mu/media/news/comic/2025/0902/fujimototasuki17-26.jpg",
+      "content_preview": "",
+      "flair": [
+        "Official Media"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_x3pri/styles/profileIcon_zxhmg9308ar81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=88de52d58699b79b179e73967b230c69a2f00b33",
+      "is_promoted": false
+    },
+    {
+      "title": "Bloom into You (Yagate Kimi ni Naru) Rewatch Episode 6 Discussion",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n8nj7s/bloom_into_you_yagate_kimi_ni_naru_rewatch/",
+      "score": 52,
+      "comments": 83,
+      "post_id": "t3_1n8nj7s",
+      "post_type": "multi_media",
+      "domain": "self.anime",
+      "author": "ClemFire",
+      "author_id": "t2_13e1qb",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-09-04T21:59:40.866000+0000",
+      "content_href": "https://www.reddit.com/r/anime/comments/1n8nj7s/bloom_into_you_yagate_kimi_ni_naru_rewatch/",
+      "content_preview": "Episode 6:Words Kept Repressed/Words Used to RepressPrevious Episode/Schedule/ Next EpisodeImportant note there is a post credit scene you definitely don't wanna miss!Discussion question for the day:Now much can a person change while still staying the one you love?Quote of the day: \"Because I already know the real you and I still want to stay by your side,\" YuuCommenters shout-outs:u/siegfried72for not only their detailedpostwithplentyofgreatscreenshots, but also great engagement while also running their K-On! rewatch.u/AguyinaRPG'spostwhich highlighted the importance of slower episodes like this to really get into  Yuu and Touko's day to day dynamicsFan Made Content:Hectopascal English Cover(Okay I promise this is the last Hectopascal cover I'm going to highlight, and it's my favorite)Again caution when strolling through the YouTube comments for potential spoilersLastly, I will be out after work today, so I won't be as quick about responding but plan to read everyone's thoughts when I return late tonight.Show InfoMAL/Anilist/AniDBLanguage dubs available: Japanese & EnglishStreaming info:Most commonly available to stream onHiDive, onAmazonvia the HiDive extension, or throughHulu.Other options may be available to you based on region.As a friendly reminder please do not postuntagged spoilersto ensure first timers have a good time too. The same goes for manga readers when discussing points past the current episode. If you would like to discuss further developments please use the spoiler tag systemhere. Thank you! I got the chance to go into Bloom into You blind, so I would love if everyone else gets the same opportunity.",
+      "flair": [
+        "Rewatch"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Help finding this anime about q church",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n908ws/help_finding_this_anime_about_q_church/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1n908ws",
+      "post_type": "text",
+      "domain": "self.anime",
+      "author": "SuspiciousNormalDude",
+      "author_id": "t2_aw4fo8c9",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-09-05T09:07:12.323000+0000",
+      "content_href": "https://www.reddit.com/r/anime/comments/1n908ws/help_finding_this_anime_about_q_church/",
+      "content_preview": "Ok bren helping a friend with searching a anime he started a while back but cant find somce site has closed down and its driving us crazy.Plot was something like this: Youmg man had spherical red orb ob the back of his hand that another country wanted since they had the blue one (dont know ehat the orbs fid but they choose their masters or something like that) Boy was from a destroyed country and he enters a church (bug central one) to ask for asylum, he joins the church.This is as far as he remembers and i don't have a lot to go on. Anyone can help us out ? Thanks",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "WIT Studio reported a net loss of 170 million yen (~$1.1 million) and revenue of 4.5 billion yen (~$30.5 million) for the fiscal year ending May 2025",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n5rb89/wit_studio_reported_a_net_loss_of_170_million_yen/",
+      "score": 1923,
+      "comments": 195,
+      "post_id": "t3_1n5rb89",
+      "post_type": "link",
+      "domain": "gamebiz.jp",
+      "author": "AdNecessary7641",
+      "author_id": "t2_8pp7tjau",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-09-01T15:11:27.089000+0000",
+      "content_href": "https://gamebiz.jp/news/411722",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
     },
     {
       "title": "60% of the companies actually producing anime saw declining profit or losses in 2024, despite industry revenue being at an all-time high",
       "permalink": "https://www.reddit.com/r/anime/comments/1mve5y9/60_of_the_companies_actually_producing_anime_saw/",
-      "score": 5125,
+      "score": 5129,
       "comments": 454,
       "post_id": "t3_1mve5y9",
       "post_type": "link",
@@ -403,33 +1317,75 @@
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "l think that the new JJK trailer hides an ARG style easter eggs",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n5zrfx/l_think_that_the_new_jjk_trailer_hides_an_arg/",
-      "score": 154,
-      "comments": 6,
-      "post_id": "t3_1n5zrfx",
-      "post_type": "text",
-      "domain": "self.anime",
-      "author": "darkerxxxthanxxdark",
-      "author_id": "t2_mo9qj4b7",
+      "title": "Mato Seihei no Slave (Chained Soldier) Season 2 PV1",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n852kp/mato_seihei_no_slave_chained_soldier_season_2_pv1/",
+      "score": 507,
+      "comments": 62,
+      "post_id": "t3_1n852kp",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "zenzen_0",
+      "author_id": "t2_3absrqx1",
       "subreddit_id": "t5_2qh22",
       "subreddit": "r/anime",
-      "created_ts": "2025-09-01T20:27:43.115000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n5zrfx/l_think_that_the_new_jjk_trailer_hides_an_arg/",
+      "created_ts": "2025-09-04T09:02:56.460000+0000",
+      "content_href": "https://www.youtube.com/watch?v=HV5DcLBjN2I",
       "content_preview": "",
       "flair": [
-        "Discussion"
+        "Official Media"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://styles.redditmedia.com/t5_x3pri/styles/profileIcon_zxhmg9308ar81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=88de52d58699b79b179e73967b230c69a2f00b33",
+      "is_promoted": false
+    },
+    {
+      "title": "[Rewatch] K-ON! Rewatch (2025) - S1E04 \"Training Camp!\"",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n8mgj7/rewatch_kon_rewatch_2025_s1e04_training_camp/",
+      "score": 46,
+      "comments": 120,
+      "post_id": "t3_1n8mgj7",
+      "post_type": "multi_media",
+      "domain": "self.anime",
+      "author": "siegfried72",
+      "author_id": "t2_6z93l",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-09-04T21:15:53.708000+0000",
+      "content_href": "https://www.reddit.com/r/anime/comments/1n8mgj7/rewatch_kon_rewatch_2025_s1e04_training_camp/",
+      "content_preview": "Official SchedulePrevious ThreadNext ThreadS1E03\"Cram Session\"S1E05\"Adviser!\"Legal StreamsIn the US and Canada, HIDIVE is the only legal place to watch K-ON at the moment. For other countries, please checkthis website.HIDIVE Links:Season 1-Season 2-MovieInterest sitesMAL-AniList-ANN-KyoAni Discord[A quick note for the rewatchers:]To retain what little surprise there might be, let's please keep all mentions of Azusa in spoiler tags until she arrives!Activities CornerFor more information on the \"Activities Corner\", please check out the detailed instructions on the first episode's posthere.Comment ShoutoutI want to give a shoutout tou/Zeallfnonexforthiscomment they made yesterday. I continue to be impressed by the quality of analysis from first time watchers this year, and especially enjoyed the comparison they made between the personalities of Yui and Ritsu!Songs of the DayToday, we'll be listening to two songs!Mio - Hello Little Girl- Since we get to know a little more about Mio this episode, here is her first season one image song, sung by none other than her VA Hikasa Yōko!Hereis the song andhereare the translated lyrics.Sweet Bitter Beauty Song- Next up, we'll looking at the \"B-side\" included alongside the EDDon't say \"lazy\". There are B-sides to all of the OPs and EDs, and, while they don't alwaysdirectlyrelate to the story of the series, they still often align with the themes of K-ON and are super fun! As such, they'll simply get tossed into the mix where we have room in the schedule.Hereis the song andhereare the lyrics.Questions of the DayThe episode shows the keion girls bonding through shared experiences like the beach day and fireworks, even though they didn't accomplish Mio's original practice goals. For first timers, how do you feel like this balance (or lack thereof) between \"work\" and \"play\" might affect the club in the long run (if you haven't already talked about it in today's post)? For everyone, how important is a good balance of work and fun, especially in a group setting?We are starting to get a deeper look at Mio's character. What are we seeing in this episode that we haven't seen in the first three? For those that want to dive into the lyrics ofHello Little Girl, how do they relate to show's portrayal of Mio thus far?I find the fireworks scene to be very special, especially since we see it through the eyes of Yui and the rest of the club. If you didn't already talk about it today, what did you think of it? Did it make you feel anything in particular?Visuals of the DayHereis the VotD album for S1E03!If you include a Visual of the Day pick in your comment, please label it with \"VotD\" so I can easily find them with ctrl+f when I am preparing the album! :)Tomorrow's ActivitiesIf you want to get a head start on the song(s) and question(s) of the day for tomorrow's episode, here they are![SotD 1]Nodoka - Coolly Hotty Tension Hi!!- sung by Nodoka's VA, Fujitō Chika. Yes, Nodoka gets image songs as well! It's important to note that this was Chika's very first job as a VA, so you have to really appreciate how great she sounds here!Hereis the song andhereare the translated lyrics.[SotD 2]Death Devil - Maddy Candy- There are two full songs for Death Devil made for season one! Sawako's VA, Sanada Asami, puts on quite the badass performance in both of these songs.Hereis the song andhereare the translated lyrics.[SotD 3]Death Devil - Hell the World-Hereis the song andhereare the translated lyrics.[About the songs](Don't worry, it won't be often that we have three songs of the day. There's just no better place to put them - sorry!)[QotD 1]We can see Mio faint in terror at the prospect of being a vocalist for the group. How well do you handle doing things like speaking or otherwise performing in front of a group?[QotD 2]Taking that idea a different direction, it's also worth noting that, while the idea of singing in front of the crowd is terrifying to Mio,sheis the one that writes the club's first original song and presents it to the girls. Would you be more nervous putting yourself in front of a group like we discussed in the last question, or presenting a personal project you poured yourself into to your peers?[QotD 3]For first time watchers: how do you think the club's first performance will go?REMINDER: UNTAGGED SPOILERS WILL NOT BE TOLERATED.BE AFRAID OF THE MOE POLICE.",
+      "flair": [
+        "Rewatch"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Get more hand protection when you use Huggies XL Wipes that are 20% larger*. *vs. Huggies Simply Clean",
+      "permalink": "https://www.reddit.com/user/HuggiesBabyWipes/comments/1l9r5a3/get_more_hand_protection_when_you_use_huggies_xl/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1l9r5a3",
+      "post_type": "image",
+      "domain": "amazon.com",
+      "author": "HuggiesBabyWipes",
+      "author_id": "t2_1h7sx3utp1",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-06-12T16:39:06.731000+0000",
+      "content_href": "https://www.amazon.com/Huggies-Extra-Unscented-Flip-Top-Packaging/dp/B0DPR78B37/ref=sr_1_6?crid=YU4ZOHK3JHRW&dib=eyJ2IjoiMSJ9.Kfj4cy0HLXj0ZM3xNvdhOHVA7G9fsZczijBmvmaUurinwMao8v7PUV7u_t-JQE6A0DRe2yFM3Y6c8bfbQpyPKXOMxoRf_7HL70C6IAvCSgx6ypzKOgqWLnWlvYLrKv_fKhiFBXnMFB0Fr5-Mf43hbZSEagHx36f_OpNYpSUj-lAuLDkfVzmxGHdK7qOV5uRa8QIpXEiWQiL4TC4cOYRTDVVh-ifzzqbScrJS0sqY_mSVVBfG7ZOg6XtW8SAlruvUrvYPWuGjnqp0qMxa4pN8f0EvBajXggmM6xGpAWDvQaE.AbpYa0v-ZaaNnQxaciJY9cGjuea9z45AXzkVjKb1K5Y&dib_tag=se&keywords=extra%2Blarge%2Bwipes&qid=1749243192&sprefix=extra%2Blarge%2Bwipe%2Caps%2C164&sr=8-6&th=1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dczk9d/styles/profileIcon_u09icbgj78ef1.Jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=1c311bf8cc54d3c38b05a893dafe58f3b7e514fc",
+      "is_promoted": true
     },
     {
       "title": "Frieren Director Keiichirou Saitou Voices Concern on Overseas Anime Fans' Bias Towards Certain Popular Trends",
       "permalink": "https://www.reddit.com/r/anime/comments/1mo90b8/frieren_director_keiichirou_saitou_voices_concern/",
-      "score": 5029,
-      "comments": 1098,
+      "score": 5037,
+      "comments": 1094,
       "post_id": "t3_1mo90b8",
       "post_type": "link",
       "domain": "animecorner.me",
@@ -443,13 +1399,180 @@
       "flair": [
         "Misc."
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "“A Mangaka's Weirdly Wonderful Workplace” New Key Visual",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n87wjt/a_mangakas_weirdly_wonderful_workplace_new_key/",
+      "score": 258,
+      "comments": 31,
+      "post_id": "t3_1n87wjt",
+      "post_type": "image",
+      "domain": "egatae.com",
+      "author": "zenzen_0",
+      "author_id": "t2_3absrqx1",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-09-04T11:46:50.344000+0000",
+      "content_href": "https://www.egatae.com/dist/img/top/kv3.png",
+      "content_preview": "",
+      "flair": [
+        "Official Media"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_x3pri/styles/profileIcon_zxhmg9308ar81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=88de52d58699b79b179e73967b230c69a2f00b33",
+      "is_promoted": false
+    },
+    {
+      "title": "Silent Witch: Chinmoku no Majo no Kakushigoto • Secrets of the Silent Witch - Episode 9 discussion",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n3c9k4/silent_witch_chinmoku_no_majo_no_kakushigoto/",
+      "score": 1544,
+      "comments": 441,
+      "post_id": "t3_1n3c9k4",
+      "post_type": "text",
+      "domain": "self.anime",
+      "author": "AutoLovepon",
+      "author_id": "t2_1jzq3sy",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-08-29T16:34:53.533000+0000",
+      "content_href": "https://www.reddit.com/r/anime/comments/1n3c9k4/silent_witch_chinmoku_no_majo_no_kakushigoto/",
+      "content_preview": "Silent Witch: Chinmoku no Majo no Kakushigoto, episode 9Reminder:Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.StreamsCrunchyrollShow informationMyAnimeListAniListAniDBAnime-PlanetOfficial Websiter/TheSilentWitchAll discussionsEpisodeLink1Link2Link3Link4Link5Link6Link7Link8Link9LinkThis post was created by a bot. Message the mod team for feedback and comments.The original source code can be found onGitHub.",
+      "flair": [
+        "Episode"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_15wxjo/styles/profileIcon_71yvqhtbxhka1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c4a7a641d5ae7b86add9ab40ae96bf5fdd1b6404",
+      "is_promoted": false
+    },
+    {
+      "title": "#9「Various Names for Quartz」｜Special Program for Enjoying「Ruri no Houseki」More『Mo～tto！Koubutsu Seikatsu no Susume！』",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n8wp2z/9various_names_for_quartzspecial_program_for/",
+      "score": 10,
+      "comments": 0,
+      "post_id": "t3_1n8wp2z",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "inspyral",
+      "author_id": "t2_8q4qq",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-09-05T05:20:04.129000+0000",
+      "content_href": "https://www.youtube.com/watch?v=VhvOv12qIkc",
+      "content_preview": "",
+      "flair": [
+        "Official Media"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1x8lpf/styles/profileIcon_6mmxepexdtm71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=bab274996e5a59ffd502b568067282185d5ba2ed",
+      "is_promoted": false
+    },
+    {
+      "title": "What for me and my mom(56) to watch for her first anime",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n8pfkp/what_for_me_and_my_mom56_to_watch_for_her_first/",
+      "score": 29,
+      "comments": 144,
+      "post_id": "t3_1n8pfkp",
+      "post_type": "text",
+      "domain": "self.anime",
+      "author": "Stock_Potato7793",
+      "author_id": "t2_1qqqm2deku",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-09-04T23:20:20.994000+0000",
+      "content_href": "https://www.reddit.com/r/anime/comments/1n8pfkp/what_for_me_and_my_mom56_to_watch_for_her_first/",
+      "content_preview": "Nothing too gory, but definetly can have blood. nothing romantic or any sexual scenes. nothing horror. nothing too comedic or silly.",
+      "flair": [
+        "What to Watch?"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Pokemon Concierge Season 1 Part 2 - Episode 3 discussion",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n8s3cx/pokemon_concierge_season_1_part_2_episode_3/",
+      "score": 19,
+      "comments": 2,
+      "post_id": "t3_1n8s3cx",
+      "post_type": "text",
+      "domain": "self.anime",
+      "author": "AutoLovepon",
+      "author_id": "t2_1jzq3sy",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-09-05T01:23:03.180000+0000",
+      "content_href": "https://www.reddit.com/r/anime/comments/1n8s3cx/pokemon_concierge_season_1_part_2_episode_3/",
+      "content_preview": "Pokemon Concierge Season 1 Part 2, episode 3Reminder:Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.StreamsNetflixNote: Netflix shows these as episodes 5-8, continuing on from Part 1/the initial season released in 2023.Show informationMyAnimeListAniListAniDBKitsuOfficial Websiter/PokemonAll discussionsEpisodeLink1Link2Link3Link4LinkThis post was created by a mysteriousbiscuit. Message the mod team for feedback and comments.The original source code can be found onGitHub.",
+      "flair": [
+        "Episode"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_15wxjo/styles/profileIcon_71yvqhtbxhka1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c4a7a641d5ae7b86add9ab40ae96bf5fdd1b6404",
+      "is_promoted": false
+    },
+    {
+      "title": "“Witch Hat Atelier” composer Yuka Kitamura says the anime’s music will sound very different from her previous work on Elden Ring, Bloodborne, Dark Souls III, and Sekiro",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n53a8j/witch_hat_atelier_composer_yuka_kitamura_says_the/",
+      "score": 1523,
+      "comments": 78,
+      "post_id": "t3_1n53a8j",
+      "post_type": "link",
+      "domain": "playstationinside.fr",
+      "author": "AashyLarry",
+      "author_id": "t2_zh844",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-08-31T19:12:41.371000+0000",
+      "content_href": "https://playstationinside.fr/yuka-kitamura-interview-elden-ring-dark-souls-bloodborne-sekiro-english-version",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/v23ckdBlciyK8Tud9bBb4A5QrqnYrIp-esIGSs7vJKM.jpeg?width=140&height=69&crop=140:69,smart&auto=webp&s=9d2801d7f620ea8c55785d3040b6dc14b1785def",
+      "is_promoted": false
+    },
+    {
+      "title": "You’re right, Reddit. If it’s not Kraft Singles, it’s not a grilled cheese. Shop now and get Melty Goodness. Every Single Time.",
+      "permalink": "https://www.reddit.com/user/KraftSingles/comments/1ld1p2v/youre_right_reddit_if_its_not_kraft_singles_its/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1ld1p2v",
+      "post_type": "image",
+      "domain": "kraftheinz.com",
+      "author": "KraftSingles",
+      "author_id": "t2_e1afw9zm",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-06-16T19:08:14.216000+0000",
+      "content_href": "https://www.kraftheinz.com/kraft-singles/products?utm_medium=paidsocial&utm_source=reddit&utm_campaign={{CAMPAIGN_ID}}&utm_adgroup={{ADGROUP_ID}}&utm_content={{AD_ID}}",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4xf7vv/styles/profileIcon_d88gwwfpm9h81.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=91b9df174bd32e78180273c10558fdeec609017a",
+      "is_promoted": true
+    },
+    {
+      "title": "Panty and Stocking cosplay by my sister and I!",
+      "permalink": "https://www.reddit.com/r/anime/comments/1n1shhl/panty_and_stocking_cosplay_by_my_sister_and_i/",
+      "score": 4758,
+      "comments": 101,
+      "post_id": "t3_1n1shhl",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "arorea",
+      "author_id": "t2_qxzrd",
+      "subreddit_id": "t5_2qh22",
+      "subreddit": "r/anime",
+      "created_ts": "2025-08-27T20:40:13.383000+0000",
+      "content_href": "https://i.redd.it/3nmparv2hmlf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Cosplay"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
       "title": "Im 35 still watching anime... and they say Im childish",
       "permalink": "https://www.reddit.com/r/anime/comments/1mv0ka5/im_35_still_watching_anime_and_they_say_im/",
-      "score": 4171,
-      "comments": 2435,
+      "score": 4173,
+      "comments": 2442,
       "post_id": "t3_1mv0ka5",
       "post_type": "text",
       "domain": "self.anime",
@@ -459,552 +1582,13 @@
       "subreddit": "r/anime",
       "created_ts": "2025-08-20T00:50:31.835000+0000",
       "content_href": "https://www.reddit.com/r/anime/comments/1mv0ka5/im_35_still_watching_anime_and_they_say_im/",
-      "content_preview": "",
+      "content_preview": "My colleagues at work saying I'm so childish bringing up topic about anime and recommending it to them, I  dunno maybe Im just unlucky they dont like what Im into or they are just too mature minded, most of the time when we have lunch there topics are always politics, healthy living, celebrities etc.. and thats why sometimes I eat lunch alone at my table watching anime episodes :)",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Where do I watch Madoka Magica?",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n6ef5r/where_do_i_watch_madoka_magica/",
-      "score": 2,
-      "comments": 6,
-      "post_id": "t3_1n6ef5r",
-      "post_type": "text",
-      "domain": "self.anime",
-      "author": "Temporary-Bed-7800",
-      "author_id": "t2_1paiy1owcr",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-09-02T08:57:49.884000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n6ef5r/where_do_i_watch_madoka_magica/",
-      "content_preview": "",
-      "flair": [
-        "Help"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "Please don't stare. (Konosuba S3)",
-      "permalink": "https://www.reddit.com/r/anime/comments/1mmxof9/please_dont_stare_konosuba_s3/",
-      "score": 4143,
-      "comments": 137,
-      "post_id": "t3_1mmxof9",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "gabbie39",
-      "author_id": "t2_49zfjwf6",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-08-10T23:38:30.721000+0000",
-      "content_href": "https://v.redd.it/0pll2w8t2aif1",
-      "content_preview": "",
-      "flair": [
-        "Clip"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Horror anime that's actually scary?",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n62tkl/horror_anime_thats_actually_scary/",
-      "score": 104,
-      "comments": 162,
-      "post_id": "t3_1n62tkl",
-      "post_type": "text",
-      "domain": "self.anime",
-      "author": "Jeamer_",
-      "author_id": "t2_5nspd0ix",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-09-01T22:31:24.206000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n62tkl/horror_anime_thats_actually_scary/",
-      "content_preview": "",
-      "flair": [
-        "What to Watch?"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Sakamoto Days Part 2 - Episode 9 discussion",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n5s20z/sakamoto_days_part_2_episode_9_discussion/",
-      "score": 340,
-      "comments": 100,
-      "post_id": "t3_1n5s20z",
-      "post_type": "text",
-      "domain": "self.anime",
-      "author": "AutoLovepon",
-      "author_id": "t2_1jzq3sy",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-09-01T15:40:03.050000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n5s20z/sakamoto_days_part_2_episode_9_discussion/",
-      "content_preview": "",
-      "flair": [
-        "Episode"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_15wxjo/styles/profileIcon_71yvqhtbxhka1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c4a7a641d5ae7b86add9ab40ae96bf5fdd1b6404"
-    },
-    {
-      "title": "I drew eva 01",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n6e74y/i_drew_eva_01/",
-      "score": 37,
-      "comments": 2,
-      "post_id": "t3_1n6e74y",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Prize_Leg7687",
-      "author_id": "t2_16l6snx6xa",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-09-02T08:42:54.106000+0000",
-      "content_href": "https://i.redd.it/qblwo1czrpmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Fanart"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "Medalist Pilgrimage in Nagoya",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n0mkkr/medalist_pilgrimage_in_nagoya/",
-      "score": 3341,
-      "comments": 60,
-      "post_id": "t3_1n0mkkr",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "seichimegurinn",
-      "author_id": "t2_1tow7r9yaf",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-08-26T13:57:18.450000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n0mkkr",
-      "content_preview": "",
-      "flair": [
-        "Misc."
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_ey3zcf/styles/profileIcon_wzfktsmxkqkf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=705b0d66d6c3a059dfd8167beb89ca57f8a29849"
-    },
-    {
-      "title": "Summer Pockets - Episode 22 discussion",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n5r4za/summer_pockets_episode_22_discussion/",
-      "score": 228,
-      "comments": 133,
-      "post_id": "t3_1n5r4za",
-      "post_type": "text",
-      "domain": "self.anime",
-      "author": "AutoLovepon",
-      "author_id": "t2_1jzq3sy",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-09-01T15:04:55.024000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n5r4za/summer_pockets_episode_22_discussion/",
-      "content_preview": "",
-      "flair": [
-        "Episode"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_15wxjo/styles/profileIcon_71yvqhtbxhka1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c4a7a641d5ae7b86add9ab40ae96bf5fdd1b6404"
-    },
-    {
-      "title": "JUJUTSU KAISEN Culling Game New PV",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n4t5b7/jujutsu_kaisen_culling_game_new_pv/",
-      "score": 3622,
-      "comments": 589,
-      "post_id": "t3_1n4t5b7",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "Turbostrider27",
-      "author_id": "t2_t27vp",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-08-31T12:14:53.290000+0000",
-      "content_href": "https://www.youtube.com/watch?v=MePL_vS-G9Q",
-      "content_preview": "",
-      "flair": [
-        "Official Media"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "Kijin Gentoushou • Sword of the Demon Hunter: Kijin Gentōshō - Episode 21 discussion",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n5r52p/kijin_gentoushou_sword_of_the_demon_hunter_kijin/",
-      "score": 197,
-      "comments": 112,
-      "post_id": "t3_1n5r52p",
-      "post_type": "multi_media",
-      "domain": "self.anime",
-      "author": "AutoLovepon",
-      "author_id": "t2_1jzq3sy",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-09-01T15:05:01.850000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n5r52p/kijin_gentoushou_sword_of_the_demon_hunter_kijin/",
-      "content_preview": "",
-      "flair": [
-        "Episode"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_15wxjo/styles/profileIcon_71yvqhtbxhka1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c4a7a641d5ae7b86add9ab40ae96bf5fdd1b6404"
-    },
-    {
-      "title": "\"Akane-banashi\" Anime Announced (Teaser Visual)",
-      "permalink": "https://www.reddit.com/r/anime/comments/1mhagqj/akanebanashi_anime_announced_teaser_visual/",
-      "score": 4061,
-      "comments": 323,
-      "post_id": "t3_1mhagqj",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "zenzen_0",
-      "author_id": "t2_3absrqx1",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-08-04T11:08:09.670000+0000",
-      "content_href": "https://i.redd.it/a6jmo11ijzgf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Official Media"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_x3pri/styles/profileIcon_zxhmg9308ar81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=88de52d58699b79b179e73967b230c69a2f00b33"
-    },
-    {
-      "title": "[Rewatch] K-ON! Rewatch (2025) - S1E01 \"Disband the Club!\"",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n60zvv/rewatch_kon_rewatch_2025_s1e01_disband_the_club/",
-      "score": 59,
-      "comments": 160,
-      "post_id": "t3_1n60zvv",
-      "post_type": "text",
-      "domain": "self.anime",
-      "author": "siegfried72",
-      "author_id": "t2_6z93l",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-09-01T21:15:18.208000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n60zvv/rewatch_kon_rewatch_2025_s1e01_disband_the_club/",
-      "content_preview": "",
-      "flair": [
-        "Rewatch"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "30th Anniversary Neon Genesis Evagelion + Rebuilds Rewatch Interest Thread",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n60lt2/30th_anniversary_neon_genesis_evagelion_rebuilds/",
-      "score": 60,
-      "comments": 37,
-      "post_id": "t3_1n60lt2",
-      "post_type": "multi_media",
-      "domain": "self.anime",
-      "author": "LittleIslander",
-      "author_id": "t2_ok92d",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-09-01T21:00:16.319000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n60lt2/30th_anniversary_neon_genesis_evagelion_rebuilds/",
-      "content_preview": "",
-      "flair": [
-        "Rewatch"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "Dandadan Season 2 - Episode 9 discussion",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n2gcpd/dandadan_season_2_episode_9_discussion/",
-      "score": 3107,
-      "comments": 636,
-      "post_id": "t3_1n2gcpd",
-      "post_type": "text",
-      "domain": "self.anime",
-      "author": "AutoLovepon",
-      "author_id": "t2_1jzq3sy",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-08-28T16:04:56.956000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n2gcpd/dandadan_season_2_episode_9_discussion/",
-      "content_preview": "",
-      "flair": [
-        "Episode"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_15wxjo/styles/profileIcon_71yvqhtbxhka1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c4a7a641d5ae7b86add9ab40ae96bf5fdd1b6404"
-    },
-    {
-      "title": "Need some good Action/Romance recommendations",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n6dzvo/need_some_good_actionromance_recommendations/",
-      "score": 1,
-      "comments": 10,
-      "post_id": "t3_1n6dzvo",
-      "post_type": "text",
-      "domain": "self.anime",
-      "author": "Best-Personality-655",
-      "author_id": "t2_jpo0rmld",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-09-02T08:29:14.347000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n6dzvo/need_some_good_actionromance_recommendations/",
-      "content_preview": "",
-      "flair": [
-        "What to Watch?"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Romance anime with a quiet male lead",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n696si/romance_anime_with_a_quiet_male_lead/",
-      "score": 16,
-      "comments": 28,
-      "post_id": "t3_1n696si",
-      "post_type": "text",
-      "domain": "self.anime",
-      "author": "Character-Ad-4014",
-      "author_id": "t2_gb3yqdbv",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-09-02T03:35:23.123000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n696si/romance_anime_with_a_quiet_male_lead/",
-      "content_preview": "",
-      "flair": [
-        "What to Watch?"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "I'm kinda in awe of how good Ruri Rocks looks",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n5nf81/im_kinda_in_awe_of_how_good_ruri_rocks_looks/",
-      "score": 251,
-      "comments": 58,
-      "post_id": "t3_1n5nf81",
-      "post_type": "text",
-      "domain": "self.anime",
-      "author": "someinsanity01",
-      "author_id": "t2_lqheyk7o",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-09-01T12:31:26.867000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n5nf81/im_kinda_in_awe_of_how_good_ruri_rocks_looks/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Looking for an anime scene with a child, taser, and strange transformation",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n6dkup/looking_for_an_anime_scene_with_a_child_taser_and/",
-      "score": 3,
-      "comments": 4,
-      "post_id": "t3_1n6dkup",
-      "post_type": "text",
-      "domain": "self.anime",
-      "author": "Min730",
-      "author_id": "t2_1wxygz4w7b",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-09-02T08:01:05.858000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n6dkup/looking_for_an_anime_scene_with_a_child_taser_and/",
-      "content_preview": "",
-      "flair": [
-        "Help"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "Anime to Fall Asleep to?",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n6d5gj/anime_to_fall_asleep_to/",
-      "score": 0,
-      "comments": 29,
-      "post_id": "t3_1n6d5gj",
-      "post_type": "text",
-      "domain": "self.anime",
-      "author": "vampireslime",
-      "author_id": "t2_1vkesxe58f",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-09-02T07:32:57.825000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n6d5gj/anime_to_fall_asleep_to/",
-      "content_preview": "",
-      "flair": [
-        "What to Watch?"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "Just wanted to take a moment and recommend an anime that I think truly changed me for the better. Namely, Orb on the Movements of the Earth.",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n5vtck/just_wanted_to_take_a_moment_and_recommend_an/",
-      "score": 86,
-      "comments": 17,
-      "post_id": "t3_1n5vtck",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "Sweetcreems",
-      "author_id": "t2_y1u9kxw",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-09-01T17:58:50.164000+0000",
-      "content_href": "https://www.youtube.com/watch?v=mPRl1BNlCwo",
-      "content_preview": "",
-      "flair": [
-        "Video"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Japanese voice actor Takaya Hashi deceased on August 27th, 2025, due to a sudden myocardial infarction",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n2acko/japanese_voice_actor_takaya_hashi_deceased_on/",
-      "score": 2988,
-      "comments": 117,
-      "post_id": "t3_1n2acko",
-      "post_type": "link",
-      "domain": "aptepro.jp",
-      "author": "Unknown123Known",
-      "author_id": "t2_r0vbh",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-08-28T12:02:54.283000+0000",
-      "content_href": "https://aptepro.jp/news/2793.html",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/S-6XlYG1nY0HAJDdOdIfKoa-08aIA-VGb_wlFDxTlTE.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=55cdeaa1558a3c38c857d0d841f2066f15ef57b3"
-    },
-    {
-      "title": "SPY x FAMILY Season 3 Key Visual",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n4jxo2/spy_x_family_season_3_key_visual/",
-      "score": 2870,
-      "comments": 137,
-      "post_id": "t3_1n4jxo2",
-      "post_type": "image",
-      "domain": "spy-family.net",
-      "author": "zenzen_0",
-      "author_id": "t2_3absrqx1",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-08-31T03:00:01.104000+0000",
-      "content_href": "https://spy-family.net/tvseries/assets/img/top/mv_p_s3.jpg",
-      "content_preview": "",
-      "flair": [
-        "Official Media"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_x3pri/styles/profileIcon_zxhmg9308ar81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=88de52d58699b79b179e73967b230c69a2f00b33"
-    },
-    {
-      "title": "Bloom into You (Yagate Kimi ni Naru) Rewatch Episode 3 Discussion",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n623ag/bloom_into_you_yagate_kimi_ni_naru_rewatch/",
-      "score": 38,
-      "comments": 66,
-      "post_id": "t3_1n623ag",
-      "post_type": "multi_media",
-      "domain": "self.anime",
-      "author": "ClemFire",
-      "author_id": "t2_13e1qb",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-09-01T22:00:20.110000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n623ag/bloom_into_you_yagate_kimi_ni_naru_rewatch/",
-      "content_preview": "",
-      "flair": [
-        "Rewatch"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Voice actress Toyosaki Aki will pause her work because her husband passed away due to subarachnoid hemorrhage",
-      "permalink": "https://www.reddit.com/r/anime/comments/1mqmomg/voice_actress_toyosaki_aki_will_pause_her_work/",
-      "score": 4055,
-      "comments": 104,
-      "post_id": "t3_1mqmomg",
-      "post_type": "link",
-      "domain": "toyosakiaki.com",
-      "author": "justinCandy",
-      "author_id": "t2_fkq0o",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-08-15T03:49:23.896000+0000",
-      "content_href": "https://www.toyosakiaki.com/info/archive/?576287",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "You get used to it [Goblin Slayer]",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n1hpse/you_get_used_to_it_goblin_slayer/",
-      "score": 2139,
-      "comments": 119,
-      "post_id": "t3_1n1hpse",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "NekoWafers",
-      "author_id": "t2_iau18",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-08-27T13:54:46.992000+0000",
-      "content_href": "https://v.redd.it/p263xzushklf1",
-      "content_preview": "",
-      "flair": [
-        "Video Edit"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "Recommendationfor japanese culture and daily life",
-      "permalink": "https://www.reddit.com/r/anime/comments/1n6cim7/recommendationfor_japanese_culture_and_daily_life/",
-      "score": 0,
-      "comments": 5,
-      "post_id": "t3_1n6cim7",
-      "post_type": "text",
-      "domain": "self.anime",
-      "author": "OnlyHateForGiffith",
-      "author_id": "t2_j0qnl1mb0",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-09-02T06:51:15.552000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1n6cim7/recommendationfor_japanese_culture_and_daily_life/",
-      "content_preview": "",
-      "flair": [
-        "What to Watch?"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Dandadan Season 2 - Episode 6 discussion",
-      "permalink": "https://www.reddit.com/r/anime/comments/1mk46p1/dandadan_season_2_episode_6_discussion/",
-      "score": 3909,
-      "comments": 946,
-      "post_id": "t3_1mk46p1",
-      "post_type": "text",
-      "domain": "self.anime",
-      "author": "AutoLovepon",
-      "author_id": "t2_1jzq3sy",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-08-07T16:07:44.421000+0000",
-      "content_href": "https://www.reddit.com/r/anime/comments/1mk46p1/dandadan_season_2_episode_6_discussion/",
-      "content_preview": "",
-      "flair": [
-        "Episode"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_15wxjo/styles/profileIcon_71yvqhtbxhka1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c4a7a641d5ae7b86add9ab40ae96bf5fdd1b6404"
-    },
-    {
-      "title": "Anime is outgrowing the rest of Netflix viewership 10-to-1",
-      "permalink": "https://www.reddit.com/r/anime/comments/1mfhmgt/anime_is_outgrowing_the_rest_of_netflix/",
-      "score": 3336,
-      "comments": 244,
-      "post_id": "t3_1mfhmgt",
-      "post_type": "link",
-      "domain": "open.substack.com",
-      "author": "MilesExpress999",
-      "author_id": "t2_kbejh",
-      "subreddit_id": "t5_2qh22",
-      "subreddit": "r/anime",
-      "created_ts": "2025-08-02T04:33:16.392000+0000",
-      "content_href": "https://open.substack.com/pub/animebythenumbers/p/anime-is-outgrowing-the-rest-of-netflix",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/TvYvJWfedLOoCbw1iRMc8X3dBg6MkgOmm68ZjvbobVk.jpeg?width=140&height=70&crop=140:70,smart&auto=webp&s=81750a32ceedb72e7d64889647f309fa18b7a013"
+      "thumbnail_url": "",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:01:18.916140"
+  "scraped_at": "2025-09-05T03:31:22.016115"
 }

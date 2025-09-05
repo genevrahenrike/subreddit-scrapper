@@ -3,94 +3,357 @@
   "url": "https://www.reddit.com/r/wow",
   "meta": {
     "title": "World of Warcraft",
-    "members_text": "6,039,999"
+    "description": "World of Warcraft on Reddit!",
+    "subscribers": 3047302,
+    "online_users": 758,
+    "created_timestamp": "2025-09-05T10:26:43.385000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Bookmarks",
+        "content": [
+          {
+            "text": "Message the Mods",
+            "url": "https://reddit.com/message/compose?to=/r/wow"
+          },
+          {
+            "text": "Discord",
+            "url": "https://discord.gg/wow"
+          },
+          {
+            "text": "r/WoW's Full Rules",
+            "url": "https://www.reddit.com/r/wow/wiki/rules/"
+          },
+          {
+            "text": "Back to Old Reddit",
+            "url": "https://old.reddit.com/r/wow/"
+          }
+        ]
+      },
+      {
+        "title": "r/wow Rules",
+        "content": [
+          {
+            "text": "read our longer rules",
+            "url": "https://www.reddit.com/r/wow/wiki/rules#wowbtn:~:text=in%20your%20title.-,Spam/Self%20Promotion,-Excessive%20submissions%20or"
+          },
+          {
+            "text": "r/wowguilds",
+            "url": "/r/wowguilds/"
+          },
+          {
+            "text": "wiki page for related Discord servers",
+            "url": "https://www.reddit.com/r/wow/wiki/discord"
+          },
+          {
+            "text": "r/wowraf",
+            "url": "/r/wowraf/"
+          },
+          {
+            "text": "this link",
+            "url": "https://www.reddit.com/r/wow/wiki/rules#wowbtn:~:text=top%20level%20comment.-,Quick%2DFire%20Rules,-Pictures%20of%20chat"
+          }
+        ]
+      },
+      {
+        "title": "TWW Patch 11.2 is live!",
+        "content": [
+          {
+            "text": "Latest WoW News",
+            "url": "https://news.blizzard.com/en-us/world-of-warcraft"
+          },
+          {
+            "text": "Ghosts of K'aresh - Patch 11.2 - Latest Content Update Notes",
+            "url": "https://worldofwarcraft.blizzard.com/en-us/content-update-notes"
+          }
+        ]
+      },
+      {
+        "title": "Weekly Threads",
+        "content": [
+          {
+            "text": "Murloc Mondays (New players)",
+            "url": "http://bit.ly/1W4wloe#monday"
+          },
+          {
+            "text": "Reset Recruitment",
+            "url": "https://bit.ly/3bDLdXg#tuesday"
+          },
+          {
+            "text": "Midweek Mending",
+            "url": "http://bit.ly/1U1MRlm#wednesday"
+          },
+          {
+            "text": "Tanking Thursday",
+            "url": "http://bit.ly/337ZCq4#thursday"
+          },
+          {
+            "text": "Firepower Friday (DPS)",
+            "url": "http://bit.ly/22hlyaf#friday"
+          },
+          {
+            "text": "Saturday Achievement and Loot Thread",
+            "url": "http://bit.ly/1VbjFuM#saturday"
+          },
+          {
+            "text": "Skirmish Sundays (PvP)",
+            "url": "http://bit.ly/2brlcyt#sunday"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "content": [
+          {
+            "text": "/r/WoW's Rules",
+            "url": "/r/wow/wiki/rules#wowbtn"
+          },
+          {
+            "text": "Community Raids",
+            "url": "/r/wow/wiki/communityraids#wowbtn"
+          },
+          {
+            "text": "Frequently Asked Questions",
+            "url": "/r/wow/wiki/faqs"
+          },
+          {
+            "text": "The War Within FAQ & Info Hub",
+            "url": "https://www.reddit.com/r/wow/wiki/tww"
+          },
+          {
+            "text": "Frequently Asked Questions. WoW Classic Edition",
+            "url": "/r/wow/wiki/classicfaq"
+          },
+          {
+            "text": "Discuss the subreddit at /r/WoWMeta",
+            "url": "/r/wowmeta#wowbtn"
+          },
+          {
+            "text": "Battle.net Friend List",
+            "url": "http://bit.ly/1U1MHuj"
+          },
+          {
+            "text": "Signup for Friend List",
+            "url": "http://bit.ly/1YFRFOK"
+          },
+          {
+            "text": "WoW site",
+            "url": "http://worldofwarcraft.com"
+          },
+          {
+            "text": "Related Websites",
+            "url": "/r/wow/wiki/resources"
+          },
+          {
+            "text": "Flair",
+            "url": "/r/wow/wiki/flair"
+          },
+          {
+            "text": "Tired of seeing Art? Filter your r/wow experience with this guide!",
+            "url": "https://www.reddit.com/r/wow/wiki/filtering-reddit"
+          }
+        ]
+      },
+      {
+        "title": "Features",
+        "content": [
+          {
+            "text": "/r/wownoob",
+            "url": "/r/wownoob"
+          },
+          {
+            "text": "/r/woweconomy",
+            "url": "/r/woweconomy"
+          },
+          {
+            "text": "/r/transmogrification",
+            "url": "/r/transmogrification"
+          },
+          {
+            "text": "/r/classicwow",
+            "url": "/r/classicwow"
+          },
+          {
+            "text": "/r/classicwowtbc",
+            "url": "/r/classicwowtbc"
+          },
+          {
+            "text": "All related subreddits",
+            "url": "/r/wow/wiki/related"
+          },
+          {
+            "text": "Undermine Exchange",
+            "url": "https://undermine.exchange//"
+          },
+          {
+            "text": "Related sites",
+            "url": "/r/wow/wiki/resources"
+          }
+        ]
+      },
+      {
+        "title": "Blizzard Subreddits",
+        "content": [
+          {
+            "text": "r/Overwatch",
+            "url": "/r/Overwatch"
+          },
+          {
+            "text": "r/hearthstone",
+            "url": "/r/hearthstone"
+          },
+          {
+            "text": "r/starcraft",
+            "url": "/r/starcraft"
+          },
+          {
+            "text": "r/heroesofthestorm",
+            "url": "/r/heroesofthestorm"
+          },
+          {
+            "text": "r/Diablo",
+            "url": "/r/Diablo"
+          },
+          {
+            "text": "r/WC3",
+            "url": "/r/WC3"
+          },
+          {
+            "text": "r/classicwow",
+            "url": "/r/classicwow"
+          },
+          {
+            "text": "r/warcraft3",
+            "url": "/r/warcraft3"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/wow/moderators/"
+          }
+        ]
+      },
+      {
+        "title": "Installed Apps",
+        "content": [
+          {
+            "text": "Toolbox Notes Transfer",
+            "url": "https://developers.reddit.com/apps/toolboxnotesxfer"
+          },
+          {
+            "text": "Modqueue Tools",
+            "url": "https://developers.reddit.com/apps/modqueue-tools"
+          },
+          {
+            "text": "Toolbox Notes Pruner",
+            "url": "https://developers.reddit.com/apps/toolbox-pruner"
+          },
+          {
+            "text": "Banhammer",
+            "url": "https://developers.reddit.com/apps/banhammerapp"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "The \"Hearing Test\" on your AirPods Pro 2 is calling you out. 😬 Are you b...",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n6fgk9/the_hearing_test_on_your_airpods_pro_2_is_calling/",
+      "title": "Issue with Account-Wide Zones Showing as Completed on New Characters",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n91jil/issue_with_accountwide_zones_showing_as_completed/",
       "score": 0,
       "comments": 0,
-      "post_id": "t3_1n6fgk9",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "Dry-Needleworker7262",
-      "author_id": "t2_1mrbd2kydk",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-09-02T10:04:25.036000+0000",
-      "content_href": "https://youtube.com/watch?v=FmQChvM5Zak&si=1DPjRJKasPI2OT-p",
-      "content_preview": "",
-      "flair": [
-        "Video"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Blizzard already made perfect Amani trolls",
-      "permalink": "https://www.reddit.com/r/wow/comments/1mz0w6y/blizzard_already_made_perfect_amani_trolls/",
-      "score": 7086,
-      "comments": 486,
-      "post_id": "t3_1mz0w6y",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "NeverScream",
-      "author_id": "t2_f9yh3",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-08-24T16:55:46.653000+0000",
-      "content_href": "https://i.redd.it/firy9cxqzzkf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Lore"
-      ],
-      "thumbnail_url": "https://preview.redd.it/blizzard-already-made-perfect-amani-trolls-v0-firy9cxqzzkf1.jpeg?width=640&crop=smart&auto=webp&s=ac5f27622e73ddc01d04be4d3a94a5d78523b6b2"
-    },
-    {
-      "title": "Classic Tyrande Whisperwind cosplay",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n5rq7i/classic_tyrande_whisperwind_cosplay/",
-      "score": 3239,
-      "comments": 34,
-      "post_id": "t3_1n5rq7i",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "ritsured",
-      "author_id": "t2_56bm1jka",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-09-01T15:27:18.783000+0000",
-      "content_href": "https://i.redd.it/cr76tw79nkmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Cosplay"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_29wj1f/styles/profileIcon_bz6fjvgzw2ee1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=825bcacd130adad63c51cb4468042ef04c8101de"
-    },
-    {
-      "title": "Which class just screams \"Warcraft\" to you?",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n66hq5/which_class_just_screams_warcraft_to_you/",
-      "score": 198,
-      "comments": 251,
-      "post_id": "t3_1n66hq5",
+      "post_id": "t3_1n91jil",
       "post_type": "text",
       "domain": "self.wow",
-      "author": "Clawmaster2013",
-      "author_id": "t2_luhg2",
+      "author": "Difficult-Disk-2984",
+      "author_id": "t2_9cb8t115",
       "subreddit_id": "t5_2qio8",
       "subreddit": "r/wow",
-      "created_ts": "2025-09-02T01:22:06.514000+0000",
-      "content_href": "https://www.reddit.com/r/wow/comments/1n66hq5/which_class_just_screams_warcraft_to_you/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T10:26:43.385000+0000",
+      "content_href": "https://www.reddit.com/r/wow/comments/1n91jil/issue_with_accountwide_zones_showing_as_completed/",
+      "content_preview": "Hi everyone,I'm rather new to World of Warcraft and I'm doing a challenge to complete loremaster on all expansions with 1 character. So far I have done TBC, WOTlk, Cataclysm and Mists of Pandaria with this character. Of boredom I made an alt and I have done the spawn zone of this race (Teldrassil) and then I appeared in Stormwind. From curiosity I looked on the map and noticed, that some zones for example 5 of 8 exping zones in Northrend are labelled as finished, the same goes for most of zones in Pandaria and also for Twilight Highlands, Mount Hyjal, Vashj'ir and even for Searing gorge. Is it normal or is my game is bugged?Thank you for answers.",
       "flair": [
         "Question"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_cz16z/styles/profileIcon_0swyg11ei9n61.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ca821c2f82cc16d6e77dcfc7f0b1e4362b0c7153"
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "WoW devs want to 'step back' from the 'world-ending' stakes, and back to quests like 'oats for Blanchy'",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n5jrn4/wow_devs_want_to_step_back_from_the_worldending/",
+      "score": 7181,
+      "comments": 1414,
+      "post_id": "t3_1n5jrn4",
+      "post_type": "link",
+      "domain": "pcgamer.com",
+      "author": "HatingGeoffry",
+      "author_id": "t2_ltf12e37",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-09-01T09:03:38.997000+0000",
+      "content_href": "https://www.pcgamer.com/games/world-of-warcraft/wow-devs-want-to-step-back-from-the-world-ending-stakes-where-you-get-called-a-pitiful-mortal-lots-and-back-to-quests-like-oats-for-blanchy-presumably-without-sending-the-horse-to-hell-afterwards/",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/Uw1ul7TpYW4ZpWDEO1BjKyzkB9OcdROlbCYPSXUTT8w.png?width=140&height=78&crop=140:78,smart&auto=webp&s=753631fb640719ad7676fb3511c38b6c6e3a64b0",
+      "is_promoted": false
+    },
+    {
+      "title": "LFR Dimensius encounter start portal hotfixed",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n8qzon/lfr_dimensius_encounter_start_portal_hotfixed/",
+      "score": 671,
+      "comments": 78,
+      "post_id": "t3_1n8qzon",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "minimaxir",
+      "author_id": "t2_5f2eg",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-09-05T00:30:56.762000+0000",
+      "content_href": "https://i.redd.it/hxq5470kq8nf1.png",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3khar/styles/profileIcon_id23v56405w61.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=693cc37bc3625492c0a2166e9a6de02fd95df52f",
+      "is_promoted": false
+    },
+    {
+      "title": "Interesting M+ Interaction",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n8zra4/interesting_m_interaction/",
+      "score": 224,
+      "comments": 53,
+      "post_id": "t3_1n8zra4",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "FrickleStyn",
+      "author_id": "t2_1jqmz1eg",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-09-05T08:35:08.348000+0000",
+      "content_href": "https://i.redd.it/c8gw2d395bnf1.png",
+      "content_preview": "",
+      "flair": [
+        "Humor / Meme"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
       "title": "Im sorry but I had to post this 😭",
       "permalink": "https://www.reddit.com/r/wow/comments/1mtg8ma/im_sorry_but_i_had_to_post_this/",
-      "score": 14766,
-      "comments": 253,
+      "score": 14793,
+      "comments": 251,
       "post_id": "t3_1mtg8ma",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -104,92 +367,116 @@
       "flair": [
         "Humor / Meme"
       ],
-      "thumbnail_url": "https://preview.redd.it/im-sorry-but-i-had-to-post-this-v0-xmec0c4hnqjf1.jpeg?width=640&crop=smart&auto=webp&s=da4b5d20ad1bfcae4bfa2ffafda9980eb44de50d"
+      "thumbnail_url": "https://preview.redd.it/im-sorry-but-i-had-to-post-this-v0-xmec0c4hnqjf1.jpeg?width=640&crop=smart&auto=webp&s=da4b5d20ad1bfcae4bfa2ffafda9980eb44de50d",
+      "is_promoted": false
     },
     {
-      "title": "Wife agreed to try WoW tonight. Should I roll a character with her or just watch and let her do her own thing?",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n62tth/wife_agreed_to_try_wow_tonight_should_i_roll_a/",
-      "score": 793,
-      "comments": 412,
-      "post_id": "t3_1n62tth",
-      "post_type": "text",
-      "domain": "self.wow",
-      "author": "Gannan308",
-      "author_id": "t2_4pot66ng",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-09-01T22:31:41.027000+0000",
-      "content_href": "https://www.reddit.com/r/wow/comments/1n62tth/wife_agreed_to_try_wow_tonight_should_i_roll_a/",
-      "content_preview": "",
-      "flair": [
-        "Question"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "We still have not forgotten Blizzard.",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n2qljc/we_still_have_not_forgotten_blizzard/",
-      "score": 5220,
-      "comments": 366,
-      "post_id": "t3_1n2qljc",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "No_Frosting2528",
-      "author_id": "t2_7sf02ani",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-08-28T22:41:06.130000+0000",
-      "content_href": "https://i.redd.it/5wgcouix8ulf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Complaint"
-      ],
-      "thumbnail_url": "https://preview.redd.it/we-still-have-not-forgotten-blizzard-v0-5wgcouix8ulf1.jpeg?width=640&crop=smart&auto=webp&s=04e2e7ba255fae01c7763b694108f717e653f57d"
-    },
-    {
-      "title": "DPS Brain strikes again",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n5zn5d/dps_brain_strikes_again/",
-      "score": 850,
-      "comments": 254,
-      "post_id": "t3_1n5zn5d",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "DumbDumbProductions",
-      "author_id": "t2_3ahrvsb8",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-09-01T20:23:02.953000+0000",
-      "content_href": "https://i.redd.it/f1x0yjw04mmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Complaint"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_x52q9/styles/profileIcon_lecv1l670zba1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=61e9a636491c38261a1deb8c0961a35d3a6efd87"
-    },
-    {
-      "title": "What are your must have addons to RP?",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n6fdxs/what_are_your_must_have_addons_to_rp/",
-      "score": 1,
+      "title": "Three rows of ev luxury. Discover the 2026 All-Electric VISTIQ.",
+      "permalink": "https://www.reddit.com/user/cadillac/comments/1n6uk5e/three_rows_of_ev_luxury_discover_the_2026/",
+      "score": 0,
       "comments": 0,
-      "post_id": "t3_1n6fdxs",
-      "post_type": "text",
-      "domain": "self.wow",
-      "author": "Acrobatic_Airline605",
-      "author_id": "t2_7uqe0tykr",
+      "post_id": "t3_1n6uk5e",
+      "post_type": "video",
+      "domain": "cadillac.com",
+      "author": "cadillac",
+      "author_id": "t2_ihjbwyxr",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-02T20:26:02.975000+0000",
+      "content_href": "https://v.redd.it/uwgz07zxrrmf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5npz9t/styles/profileIcon_giyjcw8923nc1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=68c0aac58a2e6034c69181eaa3e0aeb43eac76ef",
+      "is_promoted": true
+    },
+    {
+      "title": "To casuals who have never set foot on Mythic, do you feel motivated enough by the 46g to even try?",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n8fvq3/to_casuals_who_have_never_set_foot_on_mythic_do/",
+      "score": 2262,
+      "comments": 370,
+      "post_id": "t3_1n8fvq3",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Internal-Success2759",
+      "author_id": "t2_hxtfg46u",
       "subreddit_id": "t5_2qio8",
       "subreddit": "r/wow",
-      "created_ts": "2025-09-02T10:00:18.294000+0000",
-      "content_href": "https://www.reddit.com/r/wow/comments/1n6fdxs/what_are_your_must_have_addons_to_rp/",
+      "created_ts": "2025-09-04T17:03:46.053000+0000",
+      "content_href": "https://i.redd.it/hyrkscesi6nf1.png",
       "content_preview": "",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://preview.redd.it/to-casuals-who-have-never-set-foot-on-mythic-do-you-feel-v0-hyrkscesi6nf1.png?auto=webp&s=0480c2f4178b2d3d6a92744a890253bc395c0075",
+      "is_promoted": false
+    },
+    {
+      "title": "Classic Tyrande Whisperwind cosplay",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n5rq7i/classic_tyrande_whisperwind_cosplay/",
+      "score": 4060,
+      "comments": 49,
+      "post_id": "t3_1n5rq7i",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ritsured",
+      "author_id": "t2_56bm1jka",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-09-01T15:27:18.783000+0000",
+      "content_href": "https://i.redd.it/cr76tw79nkmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Cosplay"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_29wj1f/styles/profileIcon_bz6fjvgzw2ee1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=825bcacd130adad63c51cb4468042ef04c8101de",
+      "is_promoted": false
+    },
+    {
+      "title": "I don't heal, I pump",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n8n2rn/i_dont_heal_i_pump/",
+      "score": 837,
+      "comments": 219,
+      "post_id": "t3_1n8n2rn",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "fox112",
+      "author_id": "t2_6jekv",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-09-04T21:40:50.146000+0000",
+      "content_href": "https://i.redd.it/65xiz3h9w7nf1.png",
+      "content_preview": "",
+      "flair": [
+        "Humor / Meme"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Some Warcraft musings from a long-time rogue",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n91ibs/some_warcraft_musings_from_a_longtime_rogue/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n91ibs",
+      "post_type": "text",
+      "domain": "self.wow",
+      "author": "Yrrving",
+      "author_id": "t2_ezf8r",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-09-05T10:24:46.533000+0000",
+      "content_href": "https://www.reddit.com/r/wow/comments/1n91ibs/some_warcraft_musings_from_a_longtime_rogue/",
+      "content_preview": "Hey everyone,Just wanted to share a bit of personal WoW philosophy. For me, WoW has often been a sort of fallback in life – a little sacred ground where I can find peace. I’m 40, have grown-up kids, life is fairly calm on that front. I work in IT and learning, and while work can get intense, I often carve out some “me time” in Azeroth during the week.My main has always been my rogue since TBC, and I’ve basically done every questline up to the current expansion. I’m also an engineer and keep that maxed, so I’m pretty up to speed and generally content.But – like I suspect many of you – I also have a ridiculous number of alts. To me, they almost represent little “phases” or “dips.” •\tMaybe I saw a cool plate transmog and suddenly rolled a paladin, only to realize how much easier certain things are for that class. •\tMaybe I felt like trying druid, and discovered “wow, this class can literally do everything – it’s the ultimate main class.” •\tOr maybe I just got the urge to run around as a marksman hunter, roleplaying a wandering loner.I’m sure many of you can relate.I love Horde. But there’s something I might love even more – not Alliance, but dwarves. Sure, with Earthen you can squeeze them into Horde now, but still… the pull is there.The truth is, every autumn I tend to drift away from WoW a bit. And that’s probably healthy in some ways – it’s not the end of the world. But still, something in me itches to log in, do my weeklies, fish while listening to music, just… be there.And yet, I always circle back to the same question: Can I, for once in my life, just stick to my main?The most natural answer is: of course, your rogue is 18 years old. And every time I seriously play an alt, I eventually hit that same realization:“Wait, I’ve already done all this with my main.”And then I return to her. Because why repeat everything again and again?Right now, though, I don’t really feel it for my rogue. But whenever I start a new class or race, the cycle just repeats. Loop after loop. You get the picture.Sometimes I think I should just delete all my alts. Log in, see only my one, old main, and move forward with her. After all, there’s always something new to do in Azeroth. And maybe that’s the whole point – my alts just remind me that I haven’t actually finished what I started with my rogue.Anyway… that’s where my head’s at. Maybe I should quit. Maybe I should just fish. Maybe I should roll another dwarf. Who knows.Thanks for reading – do any of you wrestle with the same loop?",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "Decided to spend 3 minutes fixing Liadrin.",
       "permalink": "https://www.reddit.com/r/wow/comments/1muxjxj/decided_to_spend_3_minutes_fixing_liadrin/",
-      "score": 9904,
+      "score": 9940,
       "comments": 580,
       "post_id": "t3_1muxjxj",
       "post_type": "image",
@@ -204,113 +491,159 @@
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_3qojs/styles/profileIcon_quepplcbxfff1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=82ae4a35b12eb33ddc1aaf90201265f660911a3f"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3qojs/styles/profileIcon_quepplcbxfff1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=82ae4a35b12eb33ddc1aaf90201265f660911a3f",
+      "is_promoted": false
     },
     {
-      "title": "I'm not wearing pants till transmog inflation goes down.",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n5y14n/im_not_wearing_pants_till_transmog_inflation_goes/",
-      "score": 1001,
-      "comments": 237,
-      "post_id": "t3_1n5y14n",
-      "post_type": "image",
+      "title": "Its spy time!",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n8ht29/its_spy_time/",
+      "score": 1013,
+      "comments": 33,
+      "post_id": "t3_1n8ht29",
+      "post_type": "gif",
       "domain": "i.redd.it",
-      "author": "Yenii_3025",
-      "author_id": "t2_7ekblpw6",
+      "author": "Top_Bid_6872",
+      "author_id": "t2_7fc87u18",
       "subreddit_id": "t5_2qio8",
       "subreddit": "r/wow",
-      "created_ts": "2025-09-01T19:20:09.757000+0000",
-      "content_href": "https://i.redd.it/vnrb2on9slmf1.png",
+      "created_ts": "2025-09-04T18:16:51.428000+0000",
+      "content_href": "https://i.redd.it/sym8mmhnv6nf1.gif",
       "content_preview": "",
       "flair": [
-        "Discussion"
+        "Transmog"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_31a50o/styles/profileIcon_gpjhif9d00me1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=dbccefabf7013e3f23dd6e300287c76b5068cee0",
+      "is_promoted": false
     },
     {
-      "title": "a very very old character",
-      "permalink": "https://www.reddit.com/r/wow/comments/1mzx374/a_very_very_old_character/",
-      "score": 5180,
-      "comments": 275,
-      "post_id": "t3_1mzx374",
+      "title": "My experience trying to PuG Heroic Dimensius",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n85ujg/my_experience_trying_to_pug_heroic_dimensius/",
+      "score": 3926,
+      "comments": 246,
+      "post_id": "t3_1n85ujg",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "Ok_Calendar_851",
-      "author_id": "t2_kt9u9dsts",
+      "author": "FaroraSF",
+      "author_id": "t2_7aw5lm03",
       "subreddit_id": "t5_2qio8",
       "subreddit": "r/wow",
-      "created_ts": "2025-08-25T17:35:55.443000+0000",
-      "content_href": "https://i.redd.it/w6gzzaqrb7lf1.png",
-      "content_preview": "",
-      "flair": [
-        "Nostalgia"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "WoW devs want to 'step back' from the 'world-ending' stakes, and back to quests like 'oats for Blanchy'",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n5jrn4/wow_devs_want_to_step_back_from_the_worldending/",
-      "score": 6811,
-      "comments": 1351,
-      "post_id": "t3_1n5jrn4",
-      "post_type": "link",
-      "domain": "pcgamer.com",
-      "author": "HatingGeoffry",
-      "author_id": "t2_ltf12e37",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-09-01T09:03:38.997000+0000",
-      "content_href": "https://www.pcgamer.com/games/world-of-warcraft/wow-devs-want-to-step-back-from-the-world-ending-stakes-where-you-get-called-a-pitiful-mortal-lots-and-back-to-quests-like-oats-for-blanchy-presumably-without-sending-the-horse-to-hell-afterwards/",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/Uw1ul7TpYW4ZpWDEO1BjKyzkB9OcdROlbCYPSXUTT8w.png?width=140&height=78&crop=140:78,smart&auto=webp&s=753631fb640719ad7676fb3511c38b6c6e3a64b0"
-    },
-    {
-      "title": "Footage of a recent discussion with our guild leader",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n2gzlr/footage_of_a_recent_discussion_with_our_guild/",
-      "score": 4728,
-      "comments": 311,
-      "post_id": "t3_1n2gzlr",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "TheMentelgen",
-      "author_id": "t2_mo4ny",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-08-28T16:28:42.491000+0000",
-      "content_href": "https://i.redd.it/md4vuk8deslf1.png",
+      "created_ts": "2025-09-04T09:51:16.492000+0000",
+      "content_href": "https://i.redd.it/tiqhxlvod4nf1.jpeg",
       "content_preview": "",
       "flair": [
         "Humor / Meme"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+      "thumbnail_url": "https://preview.redd.it/my-experience-trying-to-pug-heroic-dimensius-v0-tiqhxlvod4nf1.jpeg?width=640&crop=smart&auto=webp&s=54726e54540cc6118f3dc7ab63bfe34fbb0f840e",
+      "is_promoted": false
     },
     {
-      "title": "Make Herioc Dungeons just M0s that you can queue?",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n5xcdn/make_herioc_dungeons_just_m0s_that_you_can_queue/",
-      "score": 734,
-      "comments": 204,
-      "post_id": "t3_1n5xcdn",
-      "post_type": "text",
-      "domain": "self.wow",
-      "author": "Turbulent-Neat-624",
-      "author_id": "t2_1sw67fvytj",
+      "title": "You're not alone in feeling alone. Jesus felt it too. Learn more at HeGetsUs.com",
+      "permalink": "https://www.reddit.com/user/hegetsus/comments/1mokijw/youre_not_alone_in_feeling_alone_jesus_felt_it/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mokijw",
+      "post_type": "video",
+      "domain": "hegetsus.com",
+      "author": "hegetsus",
+      "author_id": "t2_s3yaxv6w",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-12T20:47:40.432000+0000",
+      "content_href": "https://v.redd.it/bdos51un0mif1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": true
+    },
+    {
+      "title": "Saurfang work in progress",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n8tdv7/saurfang_work_in_progress/",
+      "score": 237,
+      "comments": 12,
+      "post_id": "t3_1n8tdv7",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Saurfangs_Bitch",
+      "author_id": "t2_1aq0p1sjs1",
       "subreddit_id": "t5_2qio8",
       "subreddit": "r/wow",
-      "created_ts": "2025-09-01T18:55:04.040000+0000",
-      "content_href": "https://www.reddit.com/r/wow/comments/1n5xcdn/make_herioc_dungeons_just_m0s_that_you_can_queue/",
+      "created_ts": "2025-09-05T02:25:00.232000+0000",
+      "content_href": "https://i.redd.it/h7yyp72cb9nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Fluff"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_cnsooh/styles/profileIcon_gfoxhzr1gfmf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8023a539bd3702135a6d24079d1711c617fefec2",
+      "is_promoted": false
+    },
+    {
+      "title": "Got kicked out of the game and it seems like most of the European servers are down, is anyone else experiencing this?",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n8ynay/got_kicked_out_of_the_game_and_it_seems_like_most/",
+      "score": 88,
+      "comments": 87,
+      "post_id": "t3_1n8ynay",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "_Redlocking_",
+      "author_id": "t2_k71m53jv0",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-09-05T07:20:31.475000+0000",
+      "content_href": "https://i.redd.it/jiudzifuranf1.png",
       "content_preview": "",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "https://preview.redd.it/got-kicked-out-of-the-game-and-it-seems-like-most-of-the-v0-jiudzifuranf1.png?width=640&crop=smart&auto=webp&s=d81edcfbfe05048320be2756c789c029c63cfe88",
+      "is_promoted": false
+    },
+    {
+      "title": "\"Lady Liadrin looks nothing like herself\" Meanwhile Liadrin's first official art 10+ years ago",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n4yncy/lady_liadrin_looks_nothing_like_herself_meanwhile/",
+      "score": 3660,
+      "comments": 756,
+      "post_id": "t3_1n4yncy",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Cloud_Retainer_2424",
+      "author_id": "t2_1w3izi5ott",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-08-31T16:08:23.938000+0000",
+      "content_href": "https://i.redd.it/r9tox8blpdmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "3am gamer where you at?",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n8aqsj/3am_gamer_where_you_at/",
+      "score": 1913,
+      "comments": 61,
+      "post_id": "t3_1n8aqsj",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ramiadel363",
+      "author_id": "t2_1wls7gn310",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-09-04T13:53:17.892000+0000",
+      "content_href": "https://i.redd.it/1xbh3q66l5nf1.png",
+      "content_preview": "",
+      "flair": [
+        "Humor / Meme"
+      ],
+      "thumbnail_url": "https://preview.redd.it/3am-gamer-where-you-at-v0-1xbh3q66l5nf1.png?width=640&crop=smart&auto=webp&s=b4ecf65227a2438ea603e0e0397f523fa0d352a9",
+      "is_promoted": false
     },
     {
       "title": "Only just realized Midnight will be patch 12.0 aka when the clock strikes 12",
       "permalink": "https://www.reddit.com/r/wow/comments/1mr67zt/only_just_realized_midnight_will_be_patch_120_aka/",
-      "score": 8546,
-      "comments": 343,
+      "score": 8558,
+      "comments": 342,
       "post_id": "t3_1mr67zt",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -324,33 +657,35 @@
       "flair": [
         "Speculation"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_7oef7/styles/profileIcon_5i5fm0z38ud81.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5c7b57093aee7fb2ee3446ca2cc71120df897ffa"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7oef7/styles/profileIcon_5i5fm0z38ud81.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5c7b57093aee7fb2ee3446ca2cc71120df897ffa",
+      "is_promoted": false
     },
     {
-      "title": "Blood DK",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n6fc5v/blood_dk/",
-      "score": 1,
-      "comments": 2,
-      "post_id": "t3_1n6fc5v",
-      "post_type": "text",
-      "domain": "self.wow",
-      "author": "BendJumpy2268",
-      "author_id": "t2_3a7kf1rf",
+      "title": "vulpera best race",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n8m6uw/vulpera_best_race/",
+      "score": 474,
+      "comments": 205,
+      "post_id": "t3_1n8m6uw",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "bonitogatito",
+      "author_id": "t2_yzx6qhusr",
       "subreddit_id": "t5_2qio8",
       "subreddit": "r/wow",
-      "created_ts": "2025-09-02T09:57:08.458000+0000",
-      "content_href": "https://www.reddit.com/r/wow/comments/1n6fc5v/blood_dk/",
+      "created_ts": "2025-09-04T21:05:06.459000+0000",
+      "content_href": "https://i.redd.it/488rcnh9q7nf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Discussion"
+        "Transmog"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://preview.redd.it/vulpera-best-race-v0-488rcnh9q7nf1.jpeg?auto=webp&s=95bd364b5a5d6d5107002a6338a8d2895efbc74e",
+      "is_promoted": false
     },
     {
       "title": "Who ever designed this needs a paid vacation",
       "permalink": "https://www.reddit.com/r/wow/comments/1mxb8zb/who_ever_designed_this_needs_a_paid_vacation/",
-      "score": 8371,
-      "comments": 529,
+      "score": 8378,
+      "comments": 527,
       "post_id": "t3_1mxb8zb",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -364,13 +699,199 @@
       "flair": [
         "Feedback"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Guinness is raising a pint to the fans who keep believing after every highlight, heartbreak, and hard-fought point this season. Because hope pours on.",
+      "permalink": "https://www.reddit.com/user/GuinnessUS/comments/1n0uto1/guinness_is_raising_a_pint_to_the_fans_who_keep/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n0uto1",
+      "post_type": "video",
+      "domain": "productshop.guinness.com",
+      "author": "GuinnessUS",
+      "author_id": "t2_v4fe4fsh",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-26T19:08:28.937000+0000",
+      "content_href": "https://v.redd.it/v1myhh3qfdlf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7mqyrg/styles/profileIcon_i5cv1so3ao8a1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=6363576c6f0aaa720e532fdda0270206a737272c",
+      "is_promoted": true
+    },
+    {
+      "title": "Randomly maxed with tww factions",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n90tlx/randomly_maxed_with_tww_factions/",
+      "score": 0,
+      "comments": 8,
+      "post_id": "t3_1n90tlx",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Chopperplays0w0",
+      "author_id": "t2_nsj54tbf",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-09-05T09:43:12.477000+0000",
+      "content_href": "https://i.redd.it/0mqk18kihbnf1.png",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://preview.redd.it/randomly-maxed-with-tww-factions-v0-0mqk18kihbnf1.png?auto=webp&s=ea1cacabc50e7979e6023878b8ac0753179eb52e",
+      "is_promoted": false
+    },
+    {
+      "title": "World Server Down",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n8xa2s/world_server_down/",
+      "score": 76,
+      "comments": 20,
+      "post_id": "t3_1n8xa2s",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Repulsive-Freedom-95",
+      "author_id": "t2_4nz1v1lm",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-09-05T05:54:51.265000+0000",
+      "content_href": "https://i.redd.it/xd4id58kcanf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/world-server-down-v0-xd4id58kcanf1.jpeg?width=640&crop=smart&auto=webp&s=5057b194509b18de37b6a01a2baad759b6c2dcf8",
+      "is_promoted": false
+    },
+    {
+      "title": "Be Careful When Killing Dimensius",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n8kvit/be_careful_when_killing_dimensius/",
+      "score": 427,
+      "comments": 53,
+      "post_id": "t3_1n8kvit",
+      "post_type": "text",
+      "domain": "self.wow",
+      "author": "FoxDKnight",
+      "author_id": "t2_12w2sj",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-09-04T20:14:17.012000+0000",
+      "content_href": "https://www.reddit.com/r/wow/comments/1n8kvit/be_careful_when_killing_dimensius/",
+      "content_preview": "So this week my guild and I managed to kill Dimensius for the second time, but this time with a bigger roster to give guildies the mount.It was all going okay but almost wiped to the boss the last 5% on P3, we somehow managed to make him do the death animation where he implodes while having 0 people alive but this is the part that made him bug out. Turns out, after killing him, the achievements pop but the boss doesn't drop ANY loot and nothing was mailed afterwards, thus consuming our save so even if we kill him again this week, nothing will drop.I feel bad not because of the gear Dimensius drops, but because the Royal Voidwing mount is awarded through a quest item that drops as loot, thus basically having to rekill him next week and be mindful of forcing a total wipe if necessary to avoid this bug again.I knew beforehand that CS's policy is \"tough luck, go kick rocks\" regarding loot but doesn't make it any less annoying to be basically playtesting a game live.",
+      "flair": [
+        "Tech Support"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Blizzard already made perfect Amani trolls",
+      "permalink": "https://www.reddit.com/r/wow/comments/1mz0w6y/blizzard_already_made_perfect_amani_trolls/",
+      "score": 7096,
+      "comments": 487,
+      "post_id": "t3_1mz0w6y",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "NeverScream",
+      "author_id": "t2_f9yh3",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-08-24T16:55:46.653000+0000",
+      "content_href": "https://i.redd.it/firy9cxqzzkf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Lore"
+      ],
+      "thumbnail_url": "https://preview.redd.it/blizzard-already-made-perfect-amani-trolls-v0-firy9cxqzzkf1.jpeg?width=640&crop=smart&auto=webp&s=ac5f27622e73ddc01d04be4d3a94a5d78523b6b2",
+      "is_promoted": false
+    },
+    {
+      "title": "After over 20 years of playing WoW, I got a tattoo of my Night Elf Hunter main both retail and classic.",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n8o6rv/after_over_20_years_of_playing_wow_i_got_a_tattoo/",
+      "score": 220,
+      "comments": 22,
+      "post_id": "t3_1n8o6rv",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Tastes-Jammy",
+      "author_id": "t2_osvlv",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-09-04T22:26:53.395000+0000",
+      "content_href": "https://i.redd.it/wy00srmu48nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Art"
+      ],
+      "thumbnail_url": "https://preview.redd.it/after-over-20-years-of-playing-wow-i-got-a-tattoo-of-my-v0-wy00srmu48nf1.jpeg?width=640&crop=smart&auto=webp&s=792a20ded3f7f53e875dbe44c4d4b37484d36a30",
+      "is_promoted": false
+    },
+    {
+      "title": "Legion Remix Toy Shop: Maybe rotate one of these?",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n8dsh2/legion_remix_toy_shop_maybe_rotate_one_of_these/",
+      "score": 644,
+      "comments": 68,
+      "post_id": "t3_1n8dsh2",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "luxtheelementalist",
+      "author_id": "t2_89qwzj",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-09-04T15:46:08.907000+0000",
+      "content_href": "https://i.redd.it/w9k9dm4e46nf1.png",
+      "content_preview": "",
+      "flair": [
+        "Humor / Meme"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5xqb9/styles/profileIcon_cn49t0wzg3ta1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5a6906917cc1a92843bd096b5476402d367b8c28",
+      "is_promoted": false
+    },
+    {
+      "title": "I am going to have words with Tormak bro, what is this",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n90cfv/i_am_going_to_have_words_with_tormak_bro_what_is/",
+      "score": 7,
+      "comments": 2,
+      "post_id": "t3_1n90cfv",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "EEdwardNigma",
+      "author_id": "t2_gya9l",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-09-05T09:13:21.928000+0000",
+      "content_href": "https://i.redd.it/p4szguguabnf1.png",
+      "content_preview": "",
+      "flair": [
+        "Humor / Meme"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_e2e3z/styles/profileIcon_lalt6ld5q6c01.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2c3abcd09d914545bdb0cf2e24c86ac80ff1587f",
+      "is_promoted": false
+    },
+    {
+      "title": "YSK: 90% of cats agree, this cat food is something to meow about. Get great taste and visible results with IAMS™ Healthy Weight.",
+      "permalink": "https://www.reddit.com/user/IAMS/comments/1leql7w/ysk_90_of_cats_agree_this_cat_food_is_something/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1leql7w",
+      "post_type": "video",
+      "domain": "iams.com",
+      "author": "IAMS",
+      "author_id": "t2_1md87spmae",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-06-18T19:44:03.740000+0000",
+      "content_href": "https://v.redd.it/d74erpc67p7f1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_e2ot1n/styles/profileIcon_l76svjukqp7f1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=3a088191f01bd6c96c995c51f44daf944c2d629b",
+      "is_promoted": true
     },
     {
       "title": "Times change.",
       "permalink": "https://www.reddit.com/r/wow/comments/1mnor72/times_change/",
-      "score": 6618,
-      "comments": 358,
+      "score": 6629,
+      "comments": 357,
       "post_id": "t3_1mnor72",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -384,113 +905,77 @@
       "flair": [
         "Humor / Meme"
       ],
-      "thumbnail_url": "https://preview.redd.it/times-change-v0-0ra7kvqadgif1.jpeg?width=640&crop=smart&auto=webp&s=4da6ccc5b27cb6e0ab7802e0be6ed85c11a47a98"
+      "thumbnail_url": "https://preview.redd.it/times-change-v0-0ra7kvqadgif1.jpeg?width=640&crop=smart&auto=webp&s=4da6ccc5b27cb6e0ab7802e0be6ed85c11a47a98",
+      "is_promoted": false
     },
     {
-      "title": "Can someone help me understand damage in this game",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n6f9xk/can_someone_help_me_understand_damage_in_this_game/",
+      "title": "How fast do you get a response when you open a ticket?",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n90bq3/how_fast_do_you_get_a_response_when_you_open_a/",
       "score": 0,
-      "comments": 1,
-      "post_id": "t3_1n6f9xk",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "extraFreshmaker",
-      "author_id": "t2_wpf68",
+      "comments": 7,
+      "post_id": "t3_1n90bq3",
+      "post_type": "text",
+      "domain": "self.wow",
+      "author": "idan3211",
+      "author_id": "t2_46e5iwhz",
       "subreddit_id": "t5_2qio8",
       "subreddit": "r/wow",
-      "created_ts": "2025-09-02T09:53:11.486000+0000",
-      "content_href": "https://i.redd.it/fyc8nlht3qmf1.jpeg",
-      "content_preview": "",
+      "created_ts": "2025-09-05T09:12:05.429000+0000",
+      "content_href": "https://www.reddit.com/r/wow/comments/1n90bq3/how_fast_do_you_get_a_response_when_you_open_a/",
+      "content_preview": "A few days ago I got suspended and I have no idea why. So I opened a ticket trying to figure out why I got suspended for the second time in a month. I'm a very very friendly player, never advertise, treating others with respect, so I honestly have no idea why I got suspended!I opened the ticket 4 days ago, when my suspension is for a week. So I'm trying to get an answer before it's over, or even after, just get a respond.",
       "flair": [
         "Question"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "How Legion Feedback seems to feel",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n1km2n/how_legion_feedback_seems_to_feel/",
-      "score": 4491,
-      "comments": 527,
-      "post_id": "t3_1n1km2n",
+      "title": "WoW Housing Vibes",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n44ee2/wow_housing_vibes/",
+      "score": 3382,
+      "comments": 54,
+      "post_id": "t3_1n44ee2",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "quincy98",
-      "author_id": "t2_156qmz",
+      "author": "CptJonah",
+      "author_id": "t2_1r2diu4nb6",
       "subreddit_id": "t5_2qio8",
       "subreddit": "r/wow",
-      "created_ts": "2025-08-27T15:45:19.186000+0000",
-      "content_href": "https://i.redd.it/084drc1x1llf1.jpeg",
+      "created_ts": "2025-08-30T15:25:14.098000+0000",
+      "content_href": "https://i.redd.it/99kir05rc6mf1.png",
       "content_preview": "",
       "flair": [
         "Humor / Meme"
       ],
-      "thumbnail_url": "https://preview.redd.it/how-legion-feedback-seems-to-feel-v0-084drc1x1llf1.jpeg?width=640&crop=smart&auto=webp&s=75457698afdd978fa6fcc7e13c1625c0fba112ec"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_en7x01/styles/profileIcon_q0bd8xs5xn5f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=0b9d5819dc443ed3ac7f9508e4e7370f80be1cf9",
+      "is_promoted": false
     },
     {
-      "title": "Returning Player",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n6f9ez/returning_player/",
-      "score": 0,
-      "comments": 0,
-      "post_id": "t3_1n6f9ez",
+      "title": "World server down?",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n8wdfh/world_server_down/",
+      "score": 56,
+      "comments": 90,
+      "post_id": "t3_1n8wdfh",
       "post_type": "text",
       "domain": "self.wow",
-      "author": "Old-Entertainment844",
-      "author_id": "t2_lsbdedw2",
+      "author": "stephenheroirl",
+      "author_id": "t2_1gy8dfemw0",
       "subreddit_id": "t5_2qio8",
       "subreddit": "r/wow",
-      "created_ts": "2025-09-02T09:52:10.602000+0000",
-      "content_href": "https://www.reddit.com/r/wow/comments/1n6f9ez/returning_player/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T05:01:01.832000+0000",
+      "content_href": "https://www.reddit.com/r/wow/comments/1n8wdfh/world_server_down/",
+      "content_preview": "Im on EU Al'Akir. Is it just me or did we all get zapped?*edit: was able to get in at 8am server time but once i tried to log over to other toon, error occurred again. *edit2: blizz working on a fix aka see ya'll tmrw!",
       "flair": [
-        "Discussion"
+        "Question"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Should've made his cap 99 if the UI is gonna be like this",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n5y960/shouldve_made_his_cap_99_if_the_ui_is_gonna_be/",
-      "score": 596,
-      "comments": 32,
-      "post_id": "t3_1n5y960",
-      "post_type": "multi_media",
-      "domain": "self.wow",
-      "author": "CruzaaJe",
-      "author_id": "t2_4pydd167",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-09-01T19:28:40.038000+0000",
-      "content_href": "https://www.reddit.com/r/wow/comments/1n5y960/shouldve_made_his_cap_99_if_the_ui_is_gonna_be/",
-      "content_preview": "",
-      "flair": [
-        "Fluff"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_269v3q/styles/profileIcon_odo50rs6mdfd1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=9fece72763ba163d0173f3ba02e5025c1247f0be"
-    },
-    {
-      "title": "It's not much but it's mine",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n66q51/its_not_much_but_its_mine/",
-      "score": 189,
-      "comments": 10,
-      "post_id": "t3_1n66q51",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Due_Winter4034",
-      "author_id": "t2_axbn7ryvg",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-09-02T01:33:20.721000+0000",
-      "content_href": "https://i.redd.it/e4vk2smdnnmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Nostalgia"
-      ],
-      "thumbnail_url": "https://preview.redd.it/its-not-much-but-its-mine-v0-e4vk2smdnnmf1.jpeg?width=640&crop=smart&auto=webp&s=1199540679fc50e246b9f9e8fedf14bddb3247bb"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "I swear...",
       "permalink": "https://www.reddit.com/r/wow/comments/1my7v4o/i_swear/",
-      "score": 6311,
-      "comments": 1026,
+      "score": 6322,
+      "comments": 1024,
       "post_id": "t3_1my7v4o",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -504,112 +989,158 @@
       "flair": [
         "Humor / Meme"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "Friend finally finished the Alliance side of leveling and is caught up on TWW. Gave him another quiz",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n6d98g/friend_finally_finished_the_alliance_side_of/",
-      "score": 36,
-      "comments": 17,
-      "post_id": "t3_1n6d98g",
-      "post_type": "text",
-      "domain": "self.wow",
-      "author": "Proudnoob4393",
-      "author_id": "t2_3qycwdc9",
+      "title": "A character commission that I did",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n3hb6r/a_character_commission_that_i_did/",
+      "score": 3302,
+      "comments": 93,
+      "post_id": "t3_1n3hb6r",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "skr3m_art",
+      "author_id": "t2_a724ulyh",
       "subreddit_id": "t5_2qio8",
       "subreddit": "r/wow",
-      "created_ts": "2025-09-02T07:39:52.917000+0000",
-      "content_href": "https://www.reddit.com/r/wow/comments/1n6d98g/friend_finally_finished_the_alliance_side_of/",
+      "created_ts": "2025-08-29T19:47:56.265000+0000",
+      "content_href": "https://i.redd.it/vjb6zizvi0mf1.png",
+      "content_preview": "",
+      "flair": [
+        "Art"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4ngpse/styles/profileIcon_myki6ycd8dac1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e477b32ee09ddea47a66385f27db29850b375ec3",
+      "is_promoted": false
+    },
+    {
+      "title": "When an Evoker Rescues you, is because of the Shield",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n87rmn/when_an_evoker_rescues_you_is_because_of_the/",
+      "score": 1072,
+      "comments": 287,
+      "post_id": "t3_1n87rmn",
+      "post_type": "text",
+      "domain": "self.wow",
+      "author": "Puzzleheaded-Ad-5189",
+      "author_id": "t2_5b9cv6hz",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-09-04T11:39:50.421000+0000",
+      "content_href": "https://www.reddit.com/r/wow/comments/1n87rmn/when_an_evoker_rescues_you_is_because_of_the/",
+      "content_preview": "Pretty much what the title says.I try to use Rescue as often as possible on my team mates for the Guardian Angel shield. It is a 30% dmg reduction for both of us!80% of the time, an Evoker will Rescue just because of this, not even moving you around.But man... I lost count of the amount of times my team mates just type ??? or Wtf so I decided to make this post, hopefuly, raising a bit of awareness towards this.Talking about awareness. If there's any class/spec that is better off without Rescue, just let me know in the comments. Hopefuly we can all learn a bit.And for you my fellow Evokers; just use the god damn ability. It might takena bit to get used to, but the defensive potential is enourmous.Bless you all 🙏",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_33htk8/styles/profileIcon_bpiax0cohmmf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=54bb97a895eec6bb19cc7711f52d26594ce59a2d",
+      "is_promoted": false
+    },
+    {
+      "title": "Who was responsible: Tommy or the Devil? Stream Let The Devil In, only on MGM+.",
+      "permalink": "https://www.reddit.com/user/mgmplus/comments/1n2g599/who_was_responsible_tommy_or_the_devil_stream_let/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n2g599",
+      "post_type": "video",
+      "domain": "amazon.com",
+      "author": "mgmplus",
+      "author_id": "t2_e5s2cmm6",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-28T15:57:25.447000+0000",
+      "content_href": "https://v.redd.it/t01uew6grqlf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6uevhd/styles/profileIcon_vyil7ub38uib1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=1f5db3e1131031d03656e8f2fe0746b419cd2c8e",
+      "is_promoted": true
+    },
+    {
+      "title": "Duality of Man",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n8pnm7/duality_of_man/",
+      "score": 117,
+      "comments": 53,
+      "post_id": "t3_1n8pnm7",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "donthemegaladon",
+      "author_id": "t2_7u7njrg9",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-09-04T23:30:07.559000+0000",
+      "content_href": "https://i.redd.it/u1jakxw4g8nf1.jpeg",
       "content_preview": "",
       "flair": [
         "Humor / Meme"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://preview.redd.it/duality-of-man-v0-u1jakxw4g8nf1.jpeg?width=640&crop=smart&auto=webp&s=dab577e90077cea3c4380207e7fc9fa9ae5293b7",
+      "is_promoted": false
     },
     {
-      "title": "What were your initial thoughts after watching the Broken Shore cinematic?",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n67cx1/what_were_your_initial_thoughts_after_watching/",
-      "score": 99,
-      "comments": 65,
-      "post_id": "t3_1n67cx1",
+      "title": "Tanks, do you feel motivated to tank LFR for a Crystal Satchel of Cooperation?",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n8tn0i/tanks_do_you_feel_motivated_to_tank_lfr_for_a/",
+      "score": 65,
+      "comments": 76,
+      "post_id": "t3_1n8tn0i",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "theforgottenton",
-      "author_id": "t2_dmg2hmo2",
+      "author": "Paluker173",
+      "author_id": "t2_u3mmc579",
       "subreddit_id": "t5_2qio8",
       "subreddit": "r/wow",
-      "created_ts": "2025-09-02T02:03:45.359000+0000",
-      "content_href": "https://i.redd.it/edfzss6tsnmf1.jpeg",
+      "created_ts": "2025-09-05T02:37:11.485000+0000",
+      "content_href": "https://i.redd.it/7fpbjn6hd9nf1.jpeg",
       "content_preview": "",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://preview.redd.it/what-were-your-initial-thoughts-after-watching-the-broken-v0-edfzss6tsnmf1.jpeg?width=640&crop=smart&auto=webp&s=18422315bb6cb75fcb3773a85a42e60fc4956610"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "there was this clusterfuck of an M+ run, but ...",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n67lfg/there_was_this_clusterfuck_of_an_m_run_but/",
-      "score": 84,
-      "comments": 52,
-      "post_id": "t3_1n67lfg",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "_mae_b_",
-      "author_id": "t2_14be2x",
+      "title": "Checkmate, Ecological Succession haters.",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n8f6rm/checkmate_ecological_succession_haters/",
+      "score": 373,
+      "comments": 199,
+      "post_id": "t3_1n8f6rm",
+      "post_type": "link",
+      "domain": "imgur.com",
+      "author": "Leon978",
+      "author_id": "t2_7ow9h",
       "subreddit_id": "t5_2qio8",
       "subreddit": "r/wow",
-      "created_ts": "2025-09-02T02:15:30.162000+0000",
-      "content_href": "https://i.redd.it/3b642zocunmf1.jpeg",
+      "created_ts": "2025-09-04T16:37:55.056000+0000",
+      "content_href": "https://imgur.com/a/wmEmGQD",
       "content_preview": "",
       "flair": [
         "Humor / Meme"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "Housing: I want pictures of my alts on these frames",
-      "permalink": "https://www.reddit.com/r/wow/comments/1mzu5sv/housing_i_want_pictures_of_my_alts_on_these_frames/",
-      "score": 3823,
-      "comments": 282,
-      "post_id": "t3_1mzu5sv",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "cub4nito",
-      "author_id": "t2_1h91m8ot",
+      "title": "Turtle WoW 'Is A Criminal Front', So Blizzard Invoked RICO",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n90aft/turtle_wow_is_a_criminal_front_so_blizzard/",
+      "score": 0,
+      "comments": 5,
+      "post_id": "t3_1n90aft",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "Fast-State9988",
+      "author_id": "t2_1n52anxt6r",
       "subreddit_id": "t5_2qio8",
       "subreddit": "r/wow",
-      "created_ts": "2025-08-25T15:48:50.464000+0000",
-      "content_href": "https://i.redd.it/cake1gihs6lf1.jpeg",
+      "created_ts": "2025-09-05T09:09:51.913000+0000",
+      "content_href": "https://youtube.com/watch?v=PWMKYJ7adbQ&si=XfuebnSqd6sk44Ys",
       "content_preview": "",
       "flair": [
-        "Feedback"
+        "Video"
       ],
-      "thumbnail_url": "https://preview.redd.it/housing-i-want-pictures-of-my-alts-on-these-frames-v0-cake1gihs6lf1.jpeg?width=640&crop=smart&auto=webp&s=2dad788d39eac8796a9a9e4b4a9f6b05b2a49838"
-    },
-    {
-      "title": "Blizz Do SOMETHING About This",
-      "permalink": "https://www.reddit.com/r/wow/comments/1myrz8n/blizz_do_something_about_this/",
-      "score": 3541,
-      "comments": 429,
-      "post_id": "t3_1myrz8n",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "king_sludg",
-      "author_id": "t2_dlpk29ay",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-08-24T10:21:29.903000+0000",
-      "content_href": "https://i.redd.it/wkfw4ya11ykf1.png",
-      "content_preview": "",
-      "flair": [
-        "Feedback"
-      ],
-      "thumbnail_url": "https://preview.redd.it/blizz-do-something-about-this-v0-wkfw4ya11ykf1.png?width=640&crop=smart&auto=webp&s=280203a26a20bff734168598e6c0affb80b4f7ae"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     },
     {
       "title": "The Light Answers",
       "permalink": "https://www.reddit.com/r/wow/comments/1muu2ry/the_light_answers/",
-      "score": 6213,
+      "score": 6220,
       "comments": 432,
       "post_id": "t3_1muu2ry",
       "post_type": "image",
@@ -624,92 +1155,13 @@
       "flair": [
         "Humor / Meme"
       ],
-      "thumbnail_url": "https://preview.redd.it/the-light-answers-v0-klqi5g66d1kf1.png?width=640&crop=smart&auto=webp&s=5d31b88fed9f0a6be01e675f449f9e39fd8ccea9"
-    },
-    {
-      "title": "A character commission that I did",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n3hb6r/a_character_commission_that_i_did/",
-      "score": 3234,
-      "comments": 90,
-      "post_id": "t3_1n3hb6r",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "skr3m_art",
-      "author_id": "t2_a724ulyh",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-08-29T19:47:56.265000+0000",
-      "content_href": "https://i.redd.it/vjb6zizvi0mf1.png",
-      "content_preview": "",
-      "flair": [
-        "Art"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_4ngpse/styles/profileIcon_myki6ycd8dac1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e477b32ee09ddea47a66385f27db29850b375ec3"
-    },
-    {
-      "title": "did this today when i was bored and also flying around on my earthen  feels pretty chill",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n67pnp/did_this_today_when_i_was_bored_and_also_flying/",
-      "score": 83,
-      "comments": 18,
-      "post_id": "t3_1n67pnp",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Meep-meep8673",
-      "author_id": "t2_1glyiqz9jj",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-09-02T02:21:11.470000+0000",
-      "content_href": "https://i.redd.it/yp91t7ejvnmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Cosplay"
-      ],
-      "thumbnail_url": "https://preview.redd.it/did-this-today-when-i-was-bored-and-also-flying-around-on-v0-yp91t7ejvnmf1.png?width=640&crop=smart&auto=webp&s=67fc777583ff8be35f9ff6e821449f25c978ae3c"
-    },
-    {
-      "title": "WoW Housing Vibes",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n44ee2/wow_housing_vibes/",
-      "score": 3301,
-      "comments": 50,
-      "post_id": "t3_1n44ee2",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "CptJonah",
-      "author_id": "t2_1r2diu4nb6",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-08-30T15:25:14.098000+0000",
-      "content_href": "https://i.redd.it/99kir05rc6mf1.png",
-      "content_preview": "",
-      "flair": [
-        "Humor / Meme"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_en7x01/styles/profileIcon_q0bd8xs5xn5f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=0b9d5819dc443ed3ac7f9508e4e7370f80be1cf9"
-    },
-    {
-      "title": "PTR Legion Remix isn't fun, this feels nothing like a remix event",
-      "permalink": "https://www.reddit.com/r/wow/comments/1myyjg7/ptr_legion_remix_isnt_fun_this_feels_nothing_like/",
-      "score": 3114,
-      "comments": 579,
-      "post_id": "t3_1myyjg7",
-      "post_type": "multi_media",
-      "domain": "self.wow",
-      "author": "Void-kun",
-      "author_id": "t2_u56a7",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-08-24T15:26:44.053000+0000",
-      "content_href": "https://www.reddit.com/r/wow/comments/1myyjg7/ptr_legion_remix_isnt_fun_this_feels_nothing_like/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://preview.redd.it/the-light-answers-v0-klqi5g66d1kf1.png?width=640&crop=smart&auto=webp&s=5d31b88fed9f0a6be01e675f449f9e39fd8ccea9",
+      "is_promoted": false
     },
     {
       "title": "All campaign long. My bestie Xal’atath won’t stop complimenting me",
       "permalink": "https://www.reddit.com/r/wow/comments/1momhau/all_campaign_long_my_bestie_xalatath_wont_stop/",
-      "score": 6028,
+      "score": 6033,
       "comments": 265,
       "post_id": "t3_1momhau",
       "post_type": "image",
@@ -724,288 +1176,278 @@
       "flair": [
         "Humor / Meme"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_d2lnqc/styles/profileIcon_xue2ulb0oade1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c7d569963b6557fcdf496581d61df81ef1b22ed8"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_d2lnqc/styles/profileIcon_xue2ulb0oade1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c7d569963b6557fcdf496581d61df81ef1b22ed8",
+      "is_promoted": false
     },
     {
-      "title": "Boss Dead, door still closed. Unable to finish the dungeon :)",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n5ua12/boss_dead_door_still_closed_unable_to_finish_the/",
-      "score": 428,
-      "comments": 43,
-      "post_id": "t3_1n5ua12",
+      "title": "Tone matters, Magni",
+      "permalink": "https://www.reddit.com/r/wow/comments/1mkdb1y/tone_matters_magni/",
+      "score": 5320,
+      "comments": 173,
+      "post_id": "t3_1mkdb1y",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "nevotheless",
-      "author_id": "t2_bbni6",
+      "author": "Deathleach",
+      "author_id": "t2_65yyb",
       "subreddit_id": "t5_2qio8",
       "subreddit": "r/wow",
-      "created_ts": "2025-09-01T17:02:22.613000+0000",
-      "content_href": "https://i.redd.it/ih9xit9r3lmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Fluff"
-      ],
-      "thumbnail_url": "https://preview.redd.it/boss-dead-door-still-closed-unable-to-finish-the-dungeon-v0-ih9xit9r3lmf1.png?width=640&crop=smart&auto=webp&s=3dfdc4c2ec17d776af90dc1dedda7e2fd47dbd31"
-    },
-    {
-      "title": "Why arent people who join a LFR after a boss dies given some kind of extra currency for it?",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n5nyl8/why_arent_people_who_join_a_lfr_after_a_boss_dies/",
-      "score": 868,
-      "comments": 137,
-      "post_id": "t3_1n5nyl8",
-      "post_type": "text",
-      "domain": "self.wow",
-      "author": "simplytoaskquestions",
-      "author_id": "t2_4tcj5elm",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-09-01T12:56:24.779000+0000",
-      "content_href": "https://www.reddit.com/r/wow/comments/1n5nyl8/why_arent_people_who_join_a_lfr_after_a_boss_dies/",
-      "content_preview": "",
-      "flair": [
-        "Complaint"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "We just found out about /lean",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n5mlj2/we_just_found_out_about_lean/",
-      "score": 993,
-      "comments": 59,
-      "post_id": "t3_1n5mlj2",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "SandToast",
-      "author_id": "t2_hjytw",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-09-01T11:50:46.200000+0000",
-      "content_href": "https://i.redd.it/keuyj8lmkjmf1.jpeg",
+      "created_ts": "2025-08-07T21:55:02.039000+0000",
+      "content_href": "https://i.redd.it/d4dr5eoj5ohf1.png",
       "content_preview": "",
       "flair": [
         "Humor / Meme"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_d7qyb/styles/profileIcon_l3xl670zhnc61.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ef7d0ae8680fb35e7361cf491c0793583101f91c",
+      "is_promoted": false
     },
     {
-      "title": "Legion Remix and how it differs from the MoP version",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n11re2/legion_remix_and_how_it_differs_from_the_mop/",
-      "score": 2823,
-      "comments": 852,
-      "post_id": "t3_1n11re2",
-      "post_type": "multi_media",
-      "domain": "self.wow",
-      "author": "Mantid9",
-      "author_id": "t2_d1y8dgrw",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-08-26T23:46:15.616000+0000",
-      "content_href": "https://www.reddit.com/r/wow/comments/1n11re2/legion_remix_and_how_it_differs_from_the_mop/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "Why im always secretly mad about WoW (the Themepark choice and no Exploration mechanics)",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n6f30w/why_im_always_secretly_mad_about_wow_the/",
+      "title": "Parenting penalties happen when you’re hungry. Snickers satisfies",
+      "permalink": "https://www.reddit.com/user/snickers/comments/1mjbvje/parenting_penalties_happen_when_youre_hungry/",
       "score": 0,
-      "comments": 7,
-      "post_id": "t3_1n6f30w",
-      "post_type": "multi_media",
-      "domain": "self.wow",
-      "author": "shadowpunkz",
-      "author_id": "t2_15xyhl",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-09-02T09:40:53.538000+0000",
-      "content_href": "https://www.reddit.com/r/wow/comments/1n6f30w/why_im_always_secretly_mad_about_wow_the/",
+      "comments": 0,
+      "post_id": "t3_1mjbvje",
+      "post_type": "video",
+      "domain": "snickers.com",
+      "author": "snickers",
+      "author_id": "t2_59d0auqi",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-06T18:02:13.522000+0000",
+      "content_href": "https://v.redd.it/ej5gvp6odehf1",
       "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2atdb2/styles/profileIcon_391z08ljtjb41.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=ac4963a264fa5a06440f140733d670a5efe7db1e",
+      "is_promoted": true
     },
     {
-      "title": "Any vanilla players? What was the community reaction when the first new races were announced?",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n1zlxt/any_vanilla_players_what_was_the_community/",
-      "score": 2805,
-      "comments": 1352,
-      "post_id": "t3_1n1zlxt",
+      "title": "[I Made] Female Pandarens",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n8klc5/i_made_female_pandarens/",
+      "score": 196,
+      "comments": 19,
+      "post_id": "t3_1n8klc5",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "UltraRoboNinja",
-      "author_id": "t2_bjs1lv28",
+      "author": "DouglasDraco85",
+      "author_id": "t2_r1ylzrgs",
       "subreddit_id": "t5_2qio8",
       "subreddit": "r/wow",
-      "created_ts": "2025-08-28T01:45:31.116000+0000",
-      "content_href": "https://i.redd.it/3faueoxz0olf1.jpeg",
+      "created_ts": "2025-09-04T20:03:14.870000+0000",
+      "content_href": "https://i.redd.it/u5xkvmx2f7nf1.png",
       "content_preview": "",
       "flair": [
-        "Nostalgia"
+        "Art"
       ],
-      "thumbnail_url": "https://preview.redd.it/any-vanilla-players-what-was-the-community-reaction-when-v0-3faueoxz0olf1.jpeg?width=640&crop=smart&auto=webp&s=23220b6ae8d4464638bc247f5384ea57db7197a8"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8445dn/styles/profileIcon_jefq6i47ojwe1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2f38b8558223627ec2215d479c957e62612bec58",
+      "is_promoted": false
     },
     {
-      "title": "The blue loading bar goes passed the border.",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n0bw2w/the_blue_loading_bar_goes_passed_the_border/",
-      "score": 2512,
-      "comments": 128,
-      "post_id": "t3_1n0bw2w",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Indurum",
-      "author_id": "t2_4mzq0s2g",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-08-26T03:58:26.128000+0000",
-      "content_href": "https://i.redd.it/j5qhswbpealf1.png",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://preview.redd.it/the-blue-loading-bar-goes-passed-the-border-v0-j5qhswbpealf1.png?width=640&crop=smart&auto=webp&s=a53b955615c9ee5b81592aa54d7cd784e6a1c08d"
-    },
-    {
-      "title": "Childhood dream fulfilled. PvP Solo Mode made it possible!",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n5hefa/childhood_dream_fulfilled_pvp_solo_mode_made_it/",
-      "score": 1970,
-      "comments": 145,
-      "post_id": "t3_1n5hefa",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Penguinpower8305",
-      "author_id": "t2_dgn9nb",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-09-01T06:33:27.872000+0000",
-      "content_href": "https://i.redd.it/eq3iqw1mjhmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Nostalgia"
-      ],
-      "thumbnail_url": "https://preview.redd.it/childhood-dream-fulfilled-pvp-solo-mode-made-it-possible-v0-eq3iqw1mjhmf1.png?width=640&crop=smart&auto=webp&s=2f24d5c5982fde6f79d2bb8d224f8f86242abecf"
-    },
-    {
-      "title": "I'm playing with my dad again after 13 years and I'm feeling happy but I also have a sense of grief..",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n5quf2/im_playing_with_my_dad_again_after_13_years_and/",
-      "score": 405,
-      "comments": 74,
-      "post_id": "t3_1n5quf2",
+      "title": "Servers",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n902w0/servers/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1n902w0",
       "post_type": "text",
       "domain": "self.wow",
-      "author": "Express_Quarter3888",
-      "author_id": "t2_og14j6eh",
+      "author": "Revilgaz77",
+      "author_id": "t2_1tosn3uo5z",
       "subreddit_id": "t5_2qio8",
       "subreddit": "r/wow",
-      "created_ts": "2025-09-01T14:53:48.614000+0000",
-      "content_href": "https://www.reddit.com/r/wow/comments/1n5quf2/im_playing_with_my_dad_again_after_13_years_and/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Fireside Chat: Ion Hazzikostas on WoW Midnight at gamescom 2025",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n616hi/fireside_chat_ion_hazzikostas_on_wow_midnight_at/",
-      "score": 114,
-      "comments": 65,
-      "post_id": "t3_1n616hi",
-      "post_type": "link",
-      "domain": "youtu.be",
-      "author": "chazmarius",
-      "author_id": "t2_mkuqh",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-09-01T21:22:30.365000+0000",
-      "content_href": "https://youtu.be/BwvuBvM7XJ4",
-      "content_preview": "",
-      "flair": [
-        "Video"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "It's 3:45 AM and I thought this was a Cinnamon Roll.",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n5ji6w/its_345_am_and_i_thought_this_was_a_cinnamon_roll/",
-      "score": 1096,
-      "comments": 54,
-      "post_id": "t3_1n5ji6w",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "staramethysta",
-      "author_id": "t2_1bf4u1a",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-09-01T08:46:49.250000+0000",
-      "content_href": "https://i.redd.it/zusjihldnimf1.png",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "Possibly the coolest thing I’ve ever received as a gift😂",
-      "permalink": "https://www.reddit.com/r/wow/comments/1mg055x/possibly_the_coolest_thing_ive_ever_received_as_a/",
-      "score": 5325,
-      "comments": 103,
-      "post_id": "t3_1mg055x",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Pitts16",
-      "author_id": "t2_q80f2i0",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-08-02T20:16:10.299000+0000",
-      "content_href": "https://i.redd.it/fkvkoe5gzngf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Fluff"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Is This Guy OK?",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n5u1nt/is_this_guy_ok/",
-      "score": 183,
-      "comments": 17,
-      "post_id": "t3_1n5u1nt",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "trashtierjeff",
-      "author_id": "t2_2q2s72zu",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-09-01T16:54:03.291000+0000",
-      "content_href": "https://i.redd.it/d9tufiyb2lmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Fluff"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_280tqi/styles/profileIcon_hdw9hhamadn41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e6703918c00a0f74896665dda8be19fa452c6a8c"
-    },
-    {
-      "title": "Haven't played WoW in years, thinking of giving retail a go again, are there ways to catch-up on gear or is it just best to wait for the next expansion?",
-      "permalink": "https://www.reddit.com/r/wow/comments/1n6exfj/havent_played_wow_in_years_thinking_of_giving/",
-      "score": 1,
-      "comments": 11,
-      "post_id": "t3_1n6exfj",
-      "post_type": "text",
-      "domain": "self.wow",
-      "author": "Nukro77",
-      "author_id": "t2_di33u",
-      "subreddit_id": "t5_2qio8",
-      "subreddit": "r/wow",
-      "created_ts": "2025-09-02T09:30:50.556000+0000",
-      "content_href": "https://www.reddit.com/r/wow/comments/1n6exfj/havent_played_wow_in_years_thinking_of_giving/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T08:56:39.072000+0000",
+      "content_href": "https://www.reddit.com/r/wow/comments/1n902w0/servers/",
+      "content_preview": "Are EU servers still down and unplayable ?",
       "flair": [
         "Question"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "My favorite character from Midnight's cinematic",
+      "permalink": "https://www.reddit.com/r/wow/comments/1mvtnqg/my_favorite_character_from_midnights_cinematic/",
+      "score": 5279,
+      "comments": 217,
+      "post_id": "t3_1mvtnqg",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Firenger",
+      "author_id": "t2_1wqf298i",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-08-20T22:36:21.858000+0000",
+      "content_href": "https://i.redd.it/n4plzm0q49kf1.png",
+      "content_preview": "",
+      "flair": [
+        "Humor / Meme"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "We still have not forgotten Blizzard.",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n2qljc/we_still_have_not_forgotten_blizzard/",
+      "score": 5273,
+      "comments": 367,
+      "post_id": "t3_1n2qljc",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "No_Frosting2528",
+      "author_id": "t2_7sf02ani",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-08-28T22:41:06.130000+0000",
+      "content_href": "https://i.redd.it/5wgcouix8ulf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Complaint"
+      ],
+      "thumbnail_url": "https://preview.redd.it/we-still-have-not-forgotten-blizzard-v0-5wgcouix8ulf1.jpeg?width=640&crop=smart&auto=webp&s=04e2e7ba255fae01c7763b694108f717e653f57d",
+      "is_promoted": false
+    },
+    {
+      "title": "a very very old character",
+      "permalink": "https://www.reddit.com/r/wow/comments/1mzx374/a_very_very_old_character/",
+      "score": 5186,
+      "comments": 276,
+      "post_id": "t3_1mzx374",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Ok_Calendar_851",
+      "author_id": "t2_kt9u9dsts",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-08-25T17:35:55.443000+0000",
+      "content_href": "https://i.redd.it/w6gzzaqrb7lf1.png",
+      "content_preview": "",
+      "flair": [
+        "Nostalgia"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "One Warband to Rule them All",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n7stk2/one_warband_to_rule_them_all/",
+      "score": 3044,
+      "comments": 102,
+      "post_id": "t3_1n7stk2",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Dbulge",
+      "author_id": "t2_147ts8",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-09-03T22:19:27.044000+0000",
+      "content_href": "https://i.redd.it/xjxa3y5my0nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Transmog"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_18xwh6/styles/profileIcon_d1spsniep7jf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5166b00340e564afd454c1ae181b748b4ec2e981",
+      "is_promoted": false
+    },
+    {
+      "title": "Biggest Win this patch for me: Return of WQs that just require to kill one guy",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n4gpf2/biggest_win_this_patch_for_me_return_of_wqs_that/",
+      "score": 2796,
+      "comments": 147,
+      "post_id": "t3_1n4gpf2",
+      "post_type": "multi_media",
+      "domain": "self.wow",
+      "author": "Muntaacas",
+      "author_id": "t2_4y3otra8",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-08-31T00:15:24.545000+0000",
+      "content_href": "https://www.reddit.com/r/wow/comments/1n4gpf2/biggest_win_this_patch_for_me_return_of_wqs_that/",
+      "content_preview": "You are as beautiful as the day we lost you",
+      "flair": [
+        "Fluff"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Every time a class was the main antagonist of a raid.",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n4ftq3/every_time_a_class_was_the_main_antagonist_of_a/",
+      "score": 2710,
+      "comments": 624,
+      "post_id": "t3_1n4ftq3",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Hedonism_Enjoyer",
+      "author_id": "t2_ky56xckt",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-08-30T23:32:19.949000+0000",
+      "content_href": "https://i.redd.it/0ot0sq0wr8mf1.png",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "We watch. And we're always there. The new series Talamasca: The Secret Order premieres October 26 on AMC and AMC+.",
+      "permalink": "https://www.reddit.com/user/AMCPlus/comments/1n8l2u8/we_watch_and_were_always_there_the_new_series/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n8l2u8",
+      "post_type": "video",
+      "domain": "amcplus.com",
+      "author": "AMCPlus",
+      "author_id": "t2_81kk2xiz",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-04T20:22:09.323000+0000",
+      "content_href": "https://v.redd.it/l9ml0ut116nf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_33p1j2/styles/profileIcon_je0cxcq2bhq51.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=7e683a378e3e58046078ba211c4ed2ad396ee909",
+      "is_promoted": true
+    },
+    {
+      "title": "Blue Dragonflight Battlemage",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n4qr1w/blue_dragonflight_battlemage/",
+      "score": 2598,
+      "comments": 58,
+      "post_id": "t3_1n4qr1w",
+      "post_type": "gif",
+      "domain": "i.redd.it",
+      "author": "Puzzleheaded_Tart322",
+      "author_id": "t2_7wcw5kms",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-08-31T09:54:18.302000+0000",
+      "content_href": "https://i.redd.it/9m1xn5wsubmf1.gif",
+      "content_preview": "",
+      "flair": [
+        "Transmog"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Turtle Denial-of-Service attack?",
+      "permalink": "https://www.reddit.com/r/wow/comments/1n8zkbi/turtle_denialofservice_attack/",
+      "score": 0,
+      "comments": 5,
+      "post_id": "t3_1n8zkbi",
+      "post_type": "text",
+      "domain": "self.wow",
+      "author": "BlackMushrooms",
+      "author_id": "t2_t4o9x",
+      "subreddit_id": "t5_2qio8",
+      "subreddit": "r/wow",
+      "created_ts": "2025-09-05T08:22:13.208000+0000",
+      "content_href": "https://www.reddit.com/r/wow/comments/1n8zkbi/turtle_denialofservice_attack/",
+      "content_preview": "I've found my aluminum foil hat. Would it be plausible that the servers have been slow over the last few days because the Turtle team has been sore over the Rico lawsuit and DOS-attacked Blizzard servers?",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:08:08.366114"
+  "scraped_at": "2025-09-05T03:32:21.954923"
 }

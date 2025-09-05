@@ -3,93 +3,292 @@
   "url": "https://www.reddit.com/r/leagueoflegends",
   "meta": {
     "title": "League of Legends",
-    "members_text": "2,638,835"
+    "description": "This is a subreddit devoted to the game League of Legends.",
+    "subscribers": 8294865,
+    "online_users": 1204,
+    "created_timestamp": "2025-09-05T10:23:20.675000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "r/leagueoflegends Rules",
+        "content": [
+          {
+            "text": "Link to Full Subreddit Rules here",
+            "url": "https://www.reddit.com/r/leagueoflegends/wiki/subredditrules/"
+          },
+          {
+            "text": "Full description",
+            "url": "https://reddit.com/r/leagueoflegends/wiki/subredditrules#wiki_no_personal_attacks"
+          },
+          {
+            "text": "Full Description",
+            "url": "https://www.reddit.com/r/leagueoflegends/wiki/subredditrules#wiki_claims_require_evidence"
+          },
+          {
+            "text": "Full Description",
+            "url": "https://www.reddit.com/r/leagueoflegends/wiki/subredditrules#wiki_no_excessively_sexual_or_violent_content"
+          },
+          {
+            "text": "Full description",
+            "url": "https://reddit.com/r/leagueoflegends/wiki/subredditrules#wiki_don.27t_share_how_to_cheat"
+          },
+          {
+            "text": "Full description",
+            "url": "https://www.reddit.com/r/leagueoflegends/wiki/subredditrules#wiki_must_be_directly_related_to_league_of_legends"
+          },
+          {
+            "text": "Full description",
+            "url": "https://www.reddit.com/r/leagueoflegends/wiki/subredditrules#wiki_specific_content_restrictions"
+          },
+          {
+            "text": "Full description",
+            "url": "https://www.reddit.com/r/leagueoflegends/wiki/subredditrules#wiki_don.27t_address_individuals"
+          },
+          {
+            "text": "Full description",
+            "url": "https://www.reddit.com/r/leagueoflegends/wiki/subredditrules/#wiki_esports_content_restrictions"
+          },
+          {
+            "text": "Full description",
+            "url": "https://reddit.com/r/leagueoflegends/wiki/subredditrules#wiki_titles_require_context"
+          },
+          {
+            "text": "Full Description",
+            "url": "https://www.reddit.com/r/leagueoflegends/wiki/subredditrules/#wiki_short_duration_content_belongs_in_a_text_post"
+          }
+        ]
+      },
+      {
+        "title": "Announcements",
+        "content": [
+          {
+            "text": "Patch 25.16 Notes",
+            "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-16-notes/"
+          },
+          {
+            "text": "Patch 25.16 Bug Megathread",
+            "url": "https://sh.reddit.com/r/leagueoflegends/comments/1mozumz/patch_2516_bug_megathread/"
+          }
+        ]
+      },
+      {
+        "title": "Subreddit Information",
+        "content": [
+          {
+            "text": "Full Subreddit Rules",
+            "url": "https://www.reddit.com/r/leagueoflegends/wiki/subredditrules"
+          },
+          {
+            "text": "Subreddit Discord",
+            "url": "http://discord.gg/lol"
+          },
+          {
+            "text": "Spoiler Free Subreddit",
+            "url": "https://goo.gl/F8Zkt6"
+          }
+        ]
+      },
+      {
+        "title": "Upcoming Matches",
+        "content": [
+          {
+            "text": "1d 4h",
+            "url": "https://itsalmo.st/match-113487569888189667"
+          },
+          {
+            "text": "1d 9h",
+            "url": "https://itsalmo.st/match-114833970802335523"
+          },
+          {
+            "text": "1d 5h",
+            "url": "https://itsalmo.st/match-114834056013693249"
+          },
+          {
+            "text": "21h",
+            "url": "https://itsalmo.st/match-113503500599535504"
+          },
+          {
+            "text": "1d 19h",
+            "url": "https://itsalmo.st/match-114692101032636023"
+          },
+          {
+            "text": "1d 22h",
+            "url": "https://itsalmo.st/match-114692101032636017"
+          }
+        ]
+      },
+      {
+        "title": "Esports Wiki Pages",
+        "content": [
+          {
+            "text": "Live Discussion Archive",
+            "url": "https://www.reddit.com/r/leagueoflegends/wiki/livediscussionarchive"
+          },
+          {
+            "text": "Best Esports Games in History",
+            "url": "https://www.reddit.com/r/leagueoflegends/wiki/gamestowatch"
+          }
+        ]
+      },
+      {
+        "title": "AMAs",
+        "content": [
+          {
+            "text": "Here",
+            "url": "https://www.reddit.com/r/leagueoflegends/comments/1llw4k0/were_the_team_behind_leagues_newest_aram_updates/"
+          },
+          {
+            "text": "Here",
+            "url": "https://www.reddit.com/r/leagueoflegends/comments/1k0mauf/ama_were_the_team_behind_leagues_newest_mode/"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "content": [
+          {
+            "text": "PBE Changes",
+            "url": "https://www.reddit.com/r/leagueoflegends/wiki/pbechanges"
+          },
+          {
+            "text": "Comment Faces",
+            "url": "https://www.reddit.com/r/leagueoflegends/wiki/comment-faces"
+          },
+          {
+            "text": "Related Subreddits",
+            "url": "https://www.reddit.com/r/leagueoflegends/wiki/relatedsubreddits"
+          },
+          {
+            "text": "Client Not Working?",
+            "url": "https://support.riotgames.com/hc/en-us/articles/224826367"
+          },
+          {
+            "text": "More Resources",
+            "url": "https://www.reddit.com/r/leagueoflegends/wiki/resources"
+          }
+        ]
+      },
+      {
+        "title": "Other Riot Games",
+        "content": [
+          {
+            "text": "r/VALORANT",
+            "url": "/r/VALORANT"
+          },
+          {
+            "text": "r/TeamfightTactics",
+            "url": "/r/TeamfightTactics"
+          },
+          {
+            "text": "r/LegendsOfRuneterra",
+            "url": "/r/LegendsOfRuneterra"
+          },
+          {
+            "text": "r/wildrift",
+            "url": "/r/wildrift"
+          },
+          {
+            "text": "r/2XKO",
+            "url": "/r/2XKO"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/leagueoflegends/moderators/"
+          }
+        ]
+      },
+      {
+        "title": "Installed Apps",
+        "content": [
+          {
+            "text": "Admin Tattler",
+            "url": "https://developers.reddit.com/apps/admin-tattler"
+          },
+          {
+            "text": "Comment Mop",
+            "url": "https://developers.reddit.com/apps/comment-nuke"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "JD Gaming vs. LGD Gaming / LPL 2025 Grand Finals Qualification Match 4 / Game 1 Discussion",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n6f63p/jd_gaming_vs_lgd_gaming_lpl_2025_grand_finals/",
-      "score": 10,
-      "comments": 2,
-      "post_id": "t3_1n6f63p",
+      "title": "Nongshim RedForce vs. BNK FEARX / LCK 2025 Season Play-In - LCK Playoffs Qualification Match / Game 3 Discussion",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n91hem/nongshim_redforce_vs_bnk_fearx_lck_2025_season/",
+      "score": 28,
+      "comments": 63,
+      "post_id": "t3_1n91hem",
       "post_type": "multi_media",
       "domain": "self.leagueoflegends",
-      "author": "Ultimintree",
-      "author_id": "t2_5oufu2lf",
+      "author": "Yujin-Ha",
+      "author_id": "t2_1tmiij1uqi",
       "subreddit_id": "t5_2rfxx",
       "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-02T09:46:22.497000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n6f63p/jd_gaming_vs_lgd_gaming_lpl_2025_grand_finals/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T10:23:20.675000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n91hem/nongshim_redforce_vs_bnk_fearx_lck_2025_season/",
+      "content_preview": "falseNongshim RedForce vs. BNK FEARX / LCK 2025 Season Play-In - LCK Playoffs Qualification Match / Game 3 DiscussionLCK 2025 SEASON PLAY-INOfficial page|Leaguepedia|Liquipedia|Eventvods.com|New to LoLNongshim RedForce 1-2 BNK FEARXNS|Leaguepedia|Liquipedia|Website|Twitter|Facebook|YouTubeBFX|Leaguepedia|Liquipedia|Website|Twitter|Facebook|YouTubeMATCH 3: NS vs. BFXWinner: Nongshim RedForcein 33mRunes|Game BreakdownBans 1Bans 2GKTD/BNSsion renekton trundlepoppy maokai64.8k237H2CT5BFXpantheon azir yonejayce jax61.2k224C1HT3CT4B6NS23-22-46vs22-23-47BFXKingen gnar33-4-3TOP3-4-63gwen ClearGIDEON vi24-6-10JNG7-5-124naafiri RaptorCalix ahri23-3-7MID2-3-81aurora VicLaJiwoo kaisa313-5-8BOT9-5-61lucian DiableLehends neeko10-4-18SUP1-6-152braum Kellin*Patch 25.17This thread was created by the Post-Match Team.",
       "flair": [
         "Esports"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ext3mg/styles/profileIcon_02jgsq12kelf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=18f85cefc2a2ba96cbb59458d9c0f08a630ba5fa",
+      "is_promoted": false
     },
     {
-      "title": "T1 Pyke taunt animation is him pulling out his kill list with the champions, who were played by BLG in Game 5 of Worlds 2024 Finals. The order of champions on the list is the order in which BLG champions were slain by T1 during the game-winning team fight.",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n38ljj/t1_pyke_taunt_animation_is_him_pulling_out_his/",
-      "score": 5629,
-      "comments": 141,
-      "post_id": "t3_1n38ljj",
+      "title": "Peak mechanics from TheShy",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n6repf/peak_mechanics_from_theshy/",
+      "score": 8606,
+      "comments": 157,
+      "post_id": "t3_1n6repf",
       "post_type": "video",
       "domain": "v.redd.it",
-      "author": "Ultimintree",
-      "author_id": "t2_5oufu2lf",
+      "author": "Life-Chicken7183",
+      "author_id": "t2_1q3u3wyrrw",
       "subreddit_id": "t5_2rfxx",
       "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-08-29T14:14:29.230000+0000",
-      "content_href": "https://v.redd.it/zcsmpkunsylf1",
+      "created_ts": "2025-09-02T18:27:28.834000+0000",
+      "content_href": "https://v.redd.it/6ws8swztnsmf1",
       "content_preview": "",
       "flair": [
-        "Esports"
+        "Gameplay"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "Los Ratones will officially participate in EMEA Masters 2025 Summer Split",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n5ouw0/los_ratones_will_officially_participate_in_emea/",
-      "score": 2554,
-      "comments": 425,
-      "post_id": "t3_1n5ouw0",
-      "post_type": "text",
-      "domain": "self.leagueoflegends",
-      "author": "Dynamixus_023",
-      "author_id": "t2_838i0q4f",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-01T13:34:35.979000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n5ouw0/los_ratones_will_officially_participate_in_emea/",
-      "content_preview": "",
-      "flair": [
-        "Esports"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "2 Hours ranked match",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n62xkp/2_hours_ranked_match/",
-      "score": 194,
-      "comments": 87,
-      "post_id": "t3_1n62xkp",
+      "title": "Nongshim RedForce vs. BNK FEARX / LCK 2025 Season Play-In - LCK Playoffs Qualification Match / Game 1 Discussion",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n8zsek/nongshim_redforce_vs_bnk_fearx_lck_2025_season/",
+      "score": 84,
+      "comments": 89,
+      "post_id": "t3_1n8zsek",
       "post_type": "multi_media",
       "domain": "self.leagueoflegends",
-      "author": "apocryphon69",
-      "author_id": "t2_20anzoh6",
+      "author": "Yujin-Ha",
+      "author_id": "t2_1tmiij1uqi",
       "subreddit_id": "t5_2rfxx",
       "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-01T22:36:19.603000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n62xkp/2_hours_ranked_match/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T08:37:09.970000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n8zsek/nongshim_redforce_vs_bnk_fearx_lck_2025_season/",
+      "content_preview": "falseNongshim RedForce vs. BNK FEARX / LCK 2025 Season Play-In - LCK Playoffs Qualification Match / Game 1 DiscussionLCK 2025 SEASON PLAY-INOfficial page|Leaguepedia|Liquipedia|Eventvods.com|New to LoLNongshim RedForce 0-1 BNK FEARXNS|Leaguepedia|Liquipedia|Website|Twitter|Facebook|YouTubeBFX|Leaguepedia|Liquipedia|Website|Twitter|Facebook|YouTubeMATCH 1: NS vs. BFXWinner: BNK FEARXin 28mRunes|Game BreakdownBans 1Bans 2GKTD/BNSxinzhao trundle kaisaneeko xayah49.0k103M1I3BFXpantheon azir taliyahornn aurora59.5k238H2HT4B5NS10-23-14vs23-10-50BFXKingen galio34-3-3TOP4-3-122rumble ClearGIDEON nocturne22-5-4JNG4-2-111wukong RaptorCalix orianna22-5-3MID2-4-61annie VicLaJiwoo  yunara12-4-0BOT13-0-33corki DiableLehends alistar30-6-4SUP0-1-184rakan Kellin*Patch 25.17This thread was created by the Post-Match Team.",
       "flair": [
-        "Discussion"
+        "Esports"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ext3mg/styles/profileIcon_02jgsq12kelf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=18f85cefc2a2ba96cbb59458d9c0f08a630ba5fa",
+      "is_promoted": false
     },
     {
       "title": "A beautiful Baus escape",
       "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1mrttet/a_beautiful_baus_escape/",
-      "score": 5778,
+      "score": 5803,
       "comments": 199,
       "post_id": "t3_1mrttet",
       "post_type": "video",
@@ -104,33 +303,159 @@
       "flair": [
         "Gameplay"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/a-beautiful-baus-escape-v0-MWxrdWRkZzRqZGpmMWLQ0to3OHrcEHQFlLHu-c8PVKbNMGBEPMbNz6cjBaVv.png?width=640&crop=smart&format=pjpg&auto=webp&s=f499f2676a0fc05352f5bcff305ad96ec626f3f0"
+      "thumbnail_url": "https://external-preview.redd.it/a-beautiful-baus-escape-v0-MWxrdWRkZzRqZGpmMWLQ0to3OHrcEHQFlLHu-c8PVKbNMGBEPMbNz6cjBaVv.png?width=640&crop=smart&format=pjpg&auto=webp&s=f499f2676a0fc05352f5bcff305ad96ec626f3f0",
+      "is_promoted": false
     },
     {
-      "title": "Tracking jungle camp timers isn't the fun part of league",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n5wkpw/tracking_jungle_camp_timers_isnt_the_fun_part_of/",
-      "score": 976,
-      "comments": 343,
-      "post_id": "t3_1n5wkpw",
-      "post_type": "text",
+      "title": "FlyQuest leaving LTA?",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n8jhf4/flyquest_leaving_lta/",
+      "score": 794,
+      "comments": 211,
+      "post_id": "t3_1n8jhf4",
+      "post_type": "multi_media",
       "domain": "self.leagueoflegends",
-      "author": "SecretSauceHaver",
-      "author_id": "t2_1vkz3kp7lw",
+      "author": "bosenlol",
+      "author_id": "t2_3a0d0ixq",
       "subreddit_id": "t5_2rfxx",
       "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-01T18:26:28.972000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n5wkpw/tracking_jungle_camp_timers_isnt_the_fun_part_of/",
+      "created_ts": "2025-09-04T19:20:27.308000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n8jhf4/flyquest_leaving_lta/",
+      "content_preview": "This was recently posted via Instagram. I feel like this would be a massive loss for the LTA as FlyQuest has been absolutely dominating. It seems weird to announce a departure mid playoffs. What are your thoughts?",
+      "flair": [
+        "Esports"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_x1334/styles/profileIcon_xvlnj8vbzh971.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=86a06cd4daa5a0e6caceff4c8c35ce5e3fbdcf92",
+      "is_promoted": false
+    },
+    {
+      "title": "T1 Pyke taunt animation is him pulling out his kill list with the champions, who were played by BLG in Game 5 of Worlds 2024 Finals. The order of champions on the list is the order in which BLG champions were slain by T1 during the game-winning team fight.",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n38ljj/t1_pyke_taunt_animation_is_him_pulling_out_his/",
+      "score": 5727,
+      "comments": 144,
+      "post_id": "t3_1n38ljj",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Ultimintree",
+      "author_id": "t2_5oufu2lf",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-08-29T14:14:29.230000+0000",
+      "content_href": "https://v.redd.it/zcsmpkunsylf1",
       "content_preview": "",
+      "flair": [
+        "Esports"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "What is the most consistently fun and least frustrating champion to play as?",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n8z650/what_is_the_most_consistently_fun_and_least/",
+      "score": 51,
+      "comments": 100,
+      "post_id": "t3_1n8z650",
+      "post_type": "text",
+      "domain": "self.leagueoflegends",
+      "author": "PhscZ",
+      "author_id": "t2_13k97w",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-09-05T07:55:49.249000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n8z650/what_is_the_most_consistently_fun_and_least/",
+      "content_preview": "A champion that is rather consistent, fits most drafts, has no or very few matchups (that you can then ban/dodge), that does not make you want to uninstall the game!",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Your favorite schools face off LIVE on Big Ten Saturday, with exclusive games all season long on Peacock.",
+      "permalink": "https://www.reddit.com/user/Peacock/comments/1n2ejwn/your_favorite_schools_face_off_live_on_big_ten/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n2ejwn",
+      "post_type": "video",
+      "domain": "peacocktv.com",
+      "author": "Peacock",
+      "author_id": "t2_4kfv0g6z",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-28T14:58:10.290000+0000",
+      "content_href": "https://v.redd.it/6yd5k92wgqlf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_24ourf/styles/profileIcon_61dcu0b8a8191.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=89f39e4736a915bbf8ad7107d2e8c70730530858",
+      "is_promoted": true
+    },
+    {
+      "title": "How did thresh q pull cancelles",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n90lkj/how_did_thresh_q_pull_cancelles/",
+      "score": 0,
+      "comments": 10,
+      "post_id": "t3_1n90lkj",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "ahmadphd98",
+      "author_id": "t2_1z16i9mc",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-09-05T09:29:29.697000+0000",
+      "content_href": "https://v.redd.it/y2km62b2fbnf1",
+      "content_preview": "",
+      "flair": [
+        "Gameplay"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/how-did-thresh-q-pull-cancelles-v0-cGhxenQyMjJmYm5mMRrAarwi69yHCz9ebW0m5QqdmyXoJQJLshcdQtEcxNpd.png?width=640&crop=smart&format=pjpg&auto=webp&s=a6f080184ac55daffef774a0636432392c9a95fe",
+      "is_promoted": false
+    },
+    {
+      "title": "Pentaless (the 40 wins 0 losses in plat guy) has been banned across all accounts.",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1mubc3y/pentaless_the_40_wins_0_losses_in_plat_guy_has/",
+      "score": 4501,
+      "comments": 1419,
+      "post_id": "t3_1mubc3y",
+      "post_type": "text",
+      "domain": "self.leagueoflegends",
+      "author": "Okidoki101011",
+      "author_id": "t2_7at0nc6l",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-08-19T07:04:09.981000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1mubc3y/pentaless_the_40_wins_0_losses_in_plat_guy_has/",
+      "content_preview": "Many people were wondering exactly how serious riot was about the anti smurfing Thing and doubted that there’d be any real consequences. Well, it appears riot has made their stand and have indeed permanently banned pentaless across ALL his accounts. Harsh? Sure, and while the original account in question was indeed hand leveled, they found out he had plays a number of games on purchased accounts, which was grounds for this sort of action. I personally think this is great, and having zero tolerance policy for this sort of smurfing will hopefully immediately cease content creation of the type.",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "TL Spawn: “I'm the person that gets to do all the interviews when we win. It’s also my job to do them when we’re shit” - lcsprofiles",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n8hike/tl_spawn_im_the_person_that_gets_to_do_all_the/",
+      "score": 459,
+      "comments": 60,
+      "post_id": "t3_1n8hike",
+      "post_type": "link",
+      "domain": "lcsprofiles.com",
+      "author": "untamedlazyeye",
+      "author_id": "t2_gx1fs",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-09-04T18:05:39.786000+0000",
+      "content_href": "https://lcsprofiles.com/interview/tl-spawn-im-the-person-that-gets-to-do-all-the-interviews-when-we-win-its-also-my-job-to-do-them-when-were-shit/",
+      "content_preview": "",
+      "flair": [
+        "Esports"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "Mind control is now in pro play",
       "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n33g94/mind_control_is_now_in_pro_play/",
-      "score": 5502,
-      "comments": 145,
+      "score": 5570,
+      "comments": 146,
       "post_id": "t3_1n33g94",
       "post_type": "video",
       "domain": "v.redd.it",
@@ -144,92 +469,95 @@
       "flair": [
         "Gameplay"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "There is only one way Riot can clean up this Missing Weekly Skin Sale Mess",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n6cq8j/there_is_only_one_way_riot_can_clean_up_this/",
-      "score": 39,
+      "title": "My first Penta",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n8yhlc/my_first_penta/",
+      "score": 34,
       "comments": 4,
-      "post_id": "t3_1n6cq8j",
-      "post_type": "multi_media",
-      "domain": "self.leagueoflegends",
-      "author": "Formal_Delay_2697",
-      "author_id": "t2_1k7g1rtn2a",
+      "post_id": "t3_1n8yhlc",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Bohamm",
+      "author_id": "t2_g3zp49u4",
       "subreddit_id": "t5_2rfxx",
       "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-02T07:05:15.412000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n6cq8j/there_is_only_one_way_riot_can_clean_up_this/",
+      "created_ts": "2025-09-05T07:09:56.235000+0000",
+      "content_href": "https://v.redd.it/wn38y5klpanf1",
       "content_preview": "",
       "flair": [
-        "Discussion"
+        "Gameplay"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://external-preview.redd.it/my-first-penta-v0-dnd0eTQ2a2xwYW5mMT9EkdOloknbkFWB-FqW4RLzkIMIRCuJzrpqVGCSTGDp.png?width=640&crop=smart&format=pjpg&auto=webp&s=d415beac6f61593b5a55e57306a8fdca8af90651",
+      "is_promoted": false
     },
     {
-      "title": "guess we're dodging",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n6ep05/guess_were_dodging/",
-      "score": 0,
-      "comments": 2,
-      "post_id": "t3_1n6ep05",
-      "post_type": "multi_media",
+      "title": "The recent incident at the summoners rift.",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n5bl11/the_recent_incident_at_the_summoners_rift/",
+      "score": 4879,
+      "comments": 93,
+      "post_id": "t3_1n5bl11",
+      "post_type": "text",
       "domain": "self.leagueoflegends",
-      "author": "m5-erino-portoncino",
-      "author_id": "t2_3zwg9wn2",
+      "author": "yellowsupercar88",
+      "author_id": "t2_ho6oosw",
       "subreddit_id": "t5_2rfxx",
       "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-02T09:15:25.818000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n6ep05/guess_were_dodging/",
-      "content_preview": "",
+      "created_ts": "2025-09-01T01:18:52.780000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n5bl11/the_recent_incident_at_the_summoners_rift/",
+      "content_preview": "The recent incident at the summoners rift has caused a disproportionate online uproar. It's all about the famous cannon minion, of course. Yes, I smited it. Yes, I did it quickly. But as I've always said, cannons are first come, first served.I understand that some laners might not like it, but please, let's not make a all chat scandal out of the cannon minion. It's just a cannon minion, if you were faster, you would have it. Regarding all chat rage, I remind you that insulting a fellow player is subject to TOS. All offensive comments, flame and insinuations will be analyzed for the possibility of taking the matter to Drew Lewin on X.",
       "flair": [
         "Humor"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5w75q/styles/profileIcon_1zn8h0saqh301.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=965dc237302fdef2f47a7789809666b8f859e930",
+      "is_promoted": false
     },
     {
-      "title": "Jensen announces his retirement",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1mg2rf3/jensen_announces_his_retirement/",
-      "score": 5213,
-      "comments": 481,
-      "post_id": "t3_1mg2rf3",
-      "post_type": "text",
+      "title": "Dplus KIA vs. BNK FEARX / LCK 2025 Season Play-In - Upper Bracket Round 1 / Post-Match Discussion",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n88iel/dplus_kia_vs_bnk_fearx_lck_2025_season_playin/",
+      "score": 926,
+      "comments": 473,
+      "post_id": "t3_1n88iel",
+      "post_type": "multi_media",
       "domain": "self.leagueoflegends",
-      "author": "Fncrs",
-      "author_id": "t2_zf0gn",
+      "author": "Yujin-Ha",
+      "author_id": "t2_1tmiij1uqi",
       "subreddit_id": "t5_2rfxx",
       "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-08-02T22:10:40.202000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1mg2rf3/jensen_announces_his_retirement/",
-      "content_preview": "",
+      "created_ts": "2025-09-04T12:16:20.059000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n88iel/dplus_kia_vs_bnk_fearx_lck_2025_season_playin/",
+      "content_preview": "falseDplus KIA vs. BNK FEARX / LCK 2025 Season Play-In - Upper Bracket Round 1 / Post-Match DiscussionLCK 2025 SEASON PLAY-INOfficial page|Leaguepedia|Liquipedia|Eventvods.com|New to LoLDplus KIA 2-3 BNK FEARXPlayer of the Match: ClearBNK FEARX will face Nongshim RedForce for the 1st LCK 2025 Playoff Qualification match .While Dplus KIA drops to the lower bracket and will play against OKSavingsBank BRION in an elimination match.DK|Leaguepedia|Liquipedia|Website|Twitter|Facebook|YouTubeBFX|Leaguepedia|Liquipedia|Website|Twitter|Facebook|YouTubeMATCH 1: DK vs. BFXWinner: Dplus KIAin 30mRunes|Game BreakdownBans 1Bans 2GKTD/BDKrumble pantheon neekorakan braum64.2k229CT1M2H3HT4HT5B6BFXyunara wukong vipoppy bard52.3k121NoneDK22-12-43vs12-22-24BFXSiwoo aurora24-1-2TOP3-2-22ambessa ClearLucid trundle20-0-13JNG2-5-71xinzhao RaptorShowMaker azir15-0-2MID2-2-51taliyah VicLaAiming corki313-4-8BOT3-5-44sivir DiableBeryL nautilus30-7-18SUP2-8-63alistar KellinMATCH 2: BFX vs. DKWinner: BNK FEARXin 28mRunes|Game BreakdownBans 1Bans 2GKTD/BBFXgwen ornn oriannavarus lucian58.7k249M2H3HT4HT5B6DKyunara rumble wukongsion ryze44.6k42CT1BFX24-4-66vs4-24-7DKClear aatrox37-1-9TOP0-5-22renekton SiwooRaptor pantheon16-1-10JNG1-6-11jarvaniv LucidVicLa morgana31-1-19MID1-5-11annie ShowMakerDiable kaisa28-1-11BOT2-4-13xayah AimingKellin neeko22-0-17SUP0-4-24lulu BeryLMATCH 3: DK vs. BFXWinner: BNK FEARXin 27mRunes|Game BreakdownBans 1Bans 2GKTD/BDKsion gwen poppysylas orianna40.6k30NoneBFXyunara rumble wukongrakan bard56.3k2910O1CT2H3M4DK3-29-8vs29-3-87BFXSiwoo ksante21-7-1TOP2-1-201sion ClearLucid vi11-7-2JNG11-1-134naafiri RaptorShowMaker ahri20-2-2MID4-0-113ryze VicLaAiming kalista30-6-1BOT11-1-151lucian DiableBeryL renataglasc31-7-2SUP1-0-282braum KellinMATCH 4: DK vs. BFXWinner: Dplus KIAin 38mRunes|Game BreakdownBans 1Bans 2GKTD/BDKakali nocturne dravenzeri varus74.1k189M1I2H3C4B6C8B9BFXorianna poppy yonetwistedfate jayce67.9k137C5C7DK18-13-29vs13-18-37BFXSiwoo gwen26-3-5TOP5-5-61rumble ClearLucid sejuani33-1-8JNG2-4-91wukong RaptorShowMaker viego35-4-3MID2-3-83galio VicLaAiming yunara11-1-6BOT4-1-44vayne DiableBeryL rell23-4-7SUP0-5-102rakan KellinMATCH 5: BFX vs. DKWinner: BNK FEARXin 30mRunes|Game BreakdownBans 1Bans 2GKTD/BBFXorianna jax yoneornn gragas62.4k189H3M4B6DKnocturne thresh yorickzeri karma51.5k102I1C2M5BFX18-10-49vs10-18-29DKClear jayce23-2-12TOP3-4-24camille SiwooRaptor skarner26-1-8JNG2-3-62zed LucidVicLa twistedfate11-3-11MID5-3-43mel ShowMakerDiable ezreal38-1-5BOT0-4-81jhin AimingKellin leona30-3-13SUP0-4-91bard BeryL*Patch 25.17This thread was created by the Post-Match Team.",
       "flair": [
         "Esports"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ext3mg/styles/profileIcon_02jgsq12kelf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=18f85cefc2a2ba96cbb59458d9c0f08a630ba5fa",
+      "is_promoted": false
     },
     {
-      "title": "We now have last hit indicators.",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n5p2q4/we_now_have_last_hit_indicators/",
-      "score": 864,
-      "comments": 425,
-      "post_id": "t3_1n5p2q4",
-      "post_type": "link",
-      "domain": "youtu.be",
-      "author": "Substantial-Love755",
-      "author_id": "t2_a2stsg17",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-01T13:43:43.325000+0000",
-      "content_href": "https://youtu.be/0uAuz8OEk7M?si=rFehAUxfA9PRwCpR",
+      "title": "Are you cool under pressure? Can you think fast and act faster? Test your skills with the Navy Special Operations challenge. TL;DR Step up to see if you’re Navy Special Operations elite.",
+      "permalink": "https://www.reddit.com/user/AmericasNavy/comments/1lqsxjf/are_you_cool_under_pressure_can_you_think_fast/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1lqsxjf",
+      "post_type": "image",
+      "domain": "usnavy.jebbit.com",
+      "author": "AmericasNavy",
+      "author_id": "t2_168xzlex",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-03T15:45:53.873000+0000",
+      "content_href": "https://usnavy.jebbit.com/dftdeege?L=Reddit&JC=MainAd",
       "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_hwnx6/styles/profileIcon_fiv8totbimxa1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=f4d4379045e29a9a9bee4adc43e45f66e498071d",
+      "is_promoted": true
     },
     {
       "title": "Sjokz wins the Esports On-Air Talent of the Decade!",
       "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1mzvdzc/sjokz_wins_the_esports_onair_talent_of_the_decade/",
-      "score": 4436,
+      "score": 4443,
       "comments": 184,
       "post_id": "t3_1mzvdzc",
       "post_type": "text",
@@ -240,96 +568,183 @@
       "subreddit": "r/leagueoflegends",
       "created_ts": "2025-08-25T16:33:50.292000+0000",
       "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1mzvdzc/sjokz_wins_the_esports_onair_talent_of_the_decade/",
-      "content_preview": "",
+      "content_preview": "Sjokz is the winner of the Esport On-Air Talent of the decade! Congratulations on the award and here is to many more years of these awards and Sjokz hosting the LEC and internationals!",
       "flair": [
         "Esports"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
-      "title": "DSG DARKWINGS: “My favorite part about the roster is how nice and funny everyone is (other than Ido he bullies me).”",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n5wsgk/dsg_darkwings_my_favorite_part_about_the_roster/",
-      "score": 257,
-      "comments": 4,
-      "post_id": "t3_1n5wsgk",
+      "title": "Would Thresh be strong again if his ancient nerfs were reversed?",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n88vxc/would_thresh_be_strong_again_if_his_ancient_nerfs/",
+      "score": 827,
+      "comments": 177,
+      "post_id": "t3_1n88vxc",
+      "post_type": "text",
+      "domain": "self.leagueoflegends",
+      "author": "NewMetaMessiah",
+      "author_id": "t2_nemzw",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-09-04T12:33:54.545000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n88vxc/would_thresh_be_strong_again_if_his_ancient_nerfs/",
+      "content_preview": "A long time ago Thresh's W used to give an AOE shield and every wall of his R did damage even if one was already broken. Back then, those were considered broken and removed.Now that is has been more than a decade, do you think it is time to give back these mechanics to Thresh? I'm sure nowadays a small AOE shield on lantern and extra damage on his R won't break him.",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "LEC scrims rumors before playoffs",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n8fc3e/lec_scrims_rumors_before_playoffs/",
+      "score": 375,
+      "comments": 84,
+      "post_id": "t3_1n8fc3e",
+      "post_type": "multi_media",
+      "domain": "self.leagueoflegends",
+      "author": "Gabel4n",
+      "author_id": "t2_1w0lb39ivf",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-09-04T16:43:42.664000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n8fc3e/lec_scrims_rumors_before_playoffs/",
+      "content_preview": "Here are the leaks you need to lose your mind and massively overreact before the summer split Bo5s.The Spanish shows (AlLioPodcast and Esportmaniacos) have once again shared their insights on how LEC teams’ scrims are going, and here’s a summary:Scrim Cup Rankings:G2→ The undisputed world champions of scrims are back to reclaim their throne.GIANTX→ The former scrim gods have lost their crown to G2, but they’re still stomping everyone else under the #GenGX banner./4.MKOI & FNC→ The clowns of scrims. They stomp and get stomped. Every block ends 3–2 or 2-3.KC→ Pure chaos. Great with Vladi, terrible with Nisqy. And yes, Nisqy still plays full scrim blocks.Vitality→ The honey moon phase ended right after beating KC.BDS→ Not scrimming against the top 4 because those teams hate scrimming them.Heretics → The weakest playoff team. They also don’t get scrims vs top 4 and can’t beat the teams they do scrim against.Extra Info:G2→ Best team in Europe right now.MKOI→ Their scrims are still fiesta coinflips full of mistakes.FNC→ Showing improvement compared to their regular season results.KC→ (here’s the juicy part) They’re still rotating midlaners, with some blocks on Vladi and others on Nisqy. Other teams feel thatKC players try harder when Nisqy is playing, but they actually get better results with Vladi.BDS→ Top 4 (+GX) teams actively avoid scrimming them after bad experiences: showing up late, 1-hour reviews mid-block, and endless remakes.VIT→ No signs that their performance vs KC was the norm rather than a miracle. Theyshouldbeat Heretics comfortably. Important to note: MAC and PAD were reportedly told they’d be fired if Vitality don’t finish top 4.Sources:https://youtu.be/DswnfRfiAO4?t=3792https://youtu.be/N6lQgVCMVBo?t=1813",
+      "flair": [
+        "Esports"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Does the game need new supports? What kind of supports would you want to see if they do get added?",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n8s9xa/does_the_game_need_new_supports_what_kind_of/",
+      "score": 70,
+      "comments": 145,
+      "post_id": "t3_1n8s9xa",
+      "post_type": "text",
+      "domain": "self.leagueoflegends",
+      "author": "GreekFreakFan",
+      "author_id": "t2_2wxsdo9e",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-09-05T01:31:42.384000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n8s9xa/does_the_game_need_new_supports_what_kind_of/",
+      "content_preview": "The last engage support to be added was Rell back in 2020, the last enchanter was Milio in 2023, Hwei, also a 2023 release, can be played support and he does get played support but I always think of him as a midlaner.I think we're due for another engage/tank support, I like the pool as it stands but it would be nice to have a fresh tank support considering the last tank released was K'Sante.",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Someone check their ankles",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n7p6w0/someone_check_their_ankles/",
+      "score": 4173,
+      "comments": 126,
+      "post_id": "t3_1n7p6w0",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "AspiringKindredMain",
+      "author_id": "t2_587psn0y",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-09-03T19:57:49.750000+0000",
+      "content_href": "https://v.redd.it/orwllfkb90nf1",
+      "content_preview": "",
+      "flair": [
+        "Gameplay"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "turret weaving with large champions! (my favorite piece of niche knowledge)",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n831k1/turret_weaving_with_large_champions_my_favorite/",
+      "score": 1535,
+      "comments": 33,
+      "post_id": "t3_1n831k1",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "RatSlammer",
+      "author_id": "t2_a30qhrfn",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-09-04T06:49:01.802000+0000",
+      "content_href": "https://v.redd.it/gruz66s8h3nf1",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3uwx53/styles/profileIcon_vc1lq3wclq0d1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2a77714322cbdbb744651cf887d3dafac6c29d94",
+      "is_promoted": false
+    },
+    {
+      "title": "GenG and T1 have played more games, than whole LEC this summer split.",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n3w2mg/geng_and_t1_have_played_more_games_than_whole_lec/",
+      "score": 2867,
+      "comments": 228,
+      "post_id": "t3_1n3w2mg",
+      "post_type": "text",
+      "domain": "self.leagueoflegends",
+      "author": "MrPraedor",
+      "author_id": "t2_t6jll",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-08-30T08:04:12.959000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n3w2mg/geng_and_t1_have_played_more_games_than_whole_lec/",
+      "content_preview": "LEC summer split just ended last week and LCK is finishing their summer split now too. There been lots of talk about how few games whole LEC split has had.One clear example of this is that there has been more games with T1 or GenG playing than there has been in whole LEC regular split. These 2 teams have more stage games than whole region put together.Number of LEC games 47Number of games with T1 or Geng 49",
+      "flair": [
+        "Esports"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Guinness presents: A Lovely Day",
+      "permalink": "https://www.reddit.com/user/GuinnessUS/comments/1lp8gmx/guinness_presents_a_lovely_day/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1lp8gmx",
+      "post_type": "image",
+      "domain": "productshop.guinness.com",
+      "author": "GuinnessUS",
+      "author_id": "t2_v4fe4fsh",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-01T17:53:06.645000+0000",
+      "content_href": "https://ad.doubleclick.net/ddm/trackclk/N1243037.3195240REDDITINC/B33652922.423004075;dc_trk_aid=616061947;dc_trk_cid=237201897;dc_lat=;dc_rdid={{ADVERTISING_ID}};tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7mqyrg/styles/profileIcon_i5cv1so3ao8a1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=6363576c6f0aaa720e532fdda0270206a737272c",
+      "is_promoted": true
+    },
+    {
+      "title": "MKOI Myrwn: \"I will show Oscar and Razork who Daddy is [...] I played Rek'Sai in solo queue, and I’m not scared to say it—teams should be ready\" | Sheep Esports",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n8clu6/mkoi_myrwn_i_will_show_oscar_and_razork_who_daddy/",
+      "score": 295,
+      "comments": 36,
+      "post_id": "t3_1n8clu6",
       "post_type": "link",
-      "domain": "thepiltoverpost.com",
-      "author": "untamedlazyeye",
-      "author_id": "t2_gx1fs",
+      "domain": "sheepesports.com",
+      "author": "ArmandLuque",
+      "author_id": "t2_1f9uw746sp",
       "subreddit_id": "t5_2rfxx",
       "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-01T18:34:22.711000+0000",
-      "content_href": "https://thepiltoverpost.com/2025/08/31/dsg-darkwings-my-favorite-part-about-the-roster-is-how-nice-and-funny-everyone-is-other-than-ido-he-bullies-me/",
+      "created_ts": "2025-09-04T15:01:53.569000+0000",
+      "content_href": "https://www.sheepesports.com/en/articles/mkoi-myrwn-i-will-show-oscar-and-razork-who-daddy-is/en",
       "content_preview": "",
       "flair": [
         "Esports"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/fVqhSI_Z0uECPN772twyeGuagi7J6p4nRlVH5kj1nYg.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=a335371e58c4382f64efe16dd43541703e45302c"
-    },
-    {
-      "title": "LEC Continuously Moving Their Games For Valorant Is Unserious And Embarrassing For The Sport",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n25zsd/lec_continuously_moving_their_games_for_valorant/",
-      "score": 3258,
-      "comments": 268,
-      "post_id": "t3_1n25zsd",
-      "post_type": "text",
-      "domain": "self.leagueoflegends",
-      "author": "Distinct_Piccolo_654",
-      "author_id": "t2_9k7mmaqz",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-08-28T07:42:54.043000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n25zsd/lec_continuously_moving_their_games_for_valorant/",
-      "content_preview": "",
-      "flair": [
-        "Esports"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Why isn’t there a life stolen metric on items like Doran’s blade or bloodthirster?",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n5wbdc/why_isnt_there_a_life_stolen_metric_on_items_like/",
-      "score": 237,
-      "comments": 44,
-      "post_id": "t3_1n5wbdc",
-      "post_type": "text",
-      "domain": "self.leagueoflegends",
-      "author": "TomatoClown24",
-      "author_id": "t2_1a3xgqhu0x",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-01T18:17:09.352000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n5wbdc/why_isnt_there_a_life_stolen_metric_on_items_like/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "Pentaless (the 40 wins 0 losses in plat guy) has been banned across all accounts.",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1mubc3y/pentaless_the_40_wins_0_losses_in_plat_guy_has/",
-      "score": 4496,
-      "comments": 1417,
-      "post_id": "t3_1mubc3y",
-      "post_type": "text",
-      "domain": "self.leagueoflegends",
-      "author": "Okidoki101011",
-      "author_id": "t2_7at0nc6l",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-08-19T07:04:09.981000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1mubc3y/pentaless_the_40_wins_0_losses_in_plat_guy_has/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_d5gj01/styles/profileIcon_lb0hg5dehj7e1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4d0949a9020b7ef9661725a2ed3e6f52e47ae6ec",
+      "is_promoted": false
     },
     {
       "title": "Did he just... break his own ankles?",
       "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1mpcp43/did_he_just_break_his_own_ankles/",
-      "score": 3963,
+      "score": 3969,
       "comments": 102,
       "post_id": "t3_1mpcp43",
       "post_type": "video",
@@ -344,12 +759,13 @@
       "flair": [
         "Humor"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     },
     {
       "title": "I added W A S D movement to Lol Dodge Game so you can try out the difference!",
       "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1mtjg40/i_added_w_a_s_d_movement_to_lol_dodge_game_so_you/",
-      "score": 3393,
+      "score": 3396,
       "comments": 361,
       "post_id": "t3_1mtjg40",
       "post_type": "video",
@@ -364,12 +780,221 @@
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/i-added-w-a-s-d-movement-to-lol-dodge-game-so-you-can-try-v0-Y2lha29qZzhrcmpmMTIpkJJgVozwhgfOE6IHMbX3aVtbOMCBBwV4O9fYTcw9.png?width=640&crop=smart&format=pjpg&auto=webp&s=534001d3c2bdb5933f5453a0d87d1280183fa154"
+      "thumbnail_url": "https://external-preview.redd.it/i-added-w-a-s-d-movement-to-lol-dodge-game-so-you-can-try-v0-Y2lha29qZzhrcmpmMTIpkJJgVozwhgfOE6IHMbX3aVtbOMCBBwV4O9fYTcw9.png?width=640&crop=smart&format=pjpg&auto=webp&s=534001d3c2bdb5933f5453a0d87d1280183fa154",
+      "is_promoted": false
+    },
+    {
+      "title": "Nongshim RedForce vs. BNK FEARX / LCK 2025 Season Play-In - LCK Playoffs Qualification Match / Game 2 Discussion",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n90kfi/nongshim_redforce_vs_bnk_fearx_lck_2025_season/",
+      "score": 72,
+      "comments": 99,
+      "post_id": "t3_1n90kfi",
+      "post_type": "multi_media",
+      "domain": "self.leagueoflegends",
+      "author": "Yujin-Ha",
+      "author_id": "t2_1tmiij1uqi",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-09-05T09:27:26.760000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n90kfi/nongshim_redforce_vs_bnk_fearx_lck_2025_season/",
+      "content_preview": "falseNongshim RedForce vs. BNK FEARX / LCK 2025 Season Play-In - LCK Playoffs Qualification Match / Game 2 DiscussionLCK 2025 SEASON PLAY-INOfficial page|Leaguepedia|Liquipedia|Eventvods.com|New to LoLNongshim RedForce 0-2 BNK FEARXNS|Leaguepedia|Liquipedia|Website|Twitter|Facebook|YouTubeBFX|Leaguepedia|Liquipedia|Website|Twitter|Facebook|YouTubeMATCH 2: NS vs. BFXWinner: BNK FEARXin 28mRunes|Game BreakdownBans 1Bans 2GKTD/BNSkaisa vi neekolucian kalista48.1k53CT5BFXpantheon azir trundlerenekton aatrox57.6k159I1O2H3CT4B6NS5-15-6vs15-5-37BFXKingen yorick32-2-1TOP3-1-52ambessa ClearGIDEON jarvaniv22-4-2JNG4-1-61xinzhao RaptorCalix ryze11-2-1MID2-1-71taliyah VicLaJiwoo sivir20-3-1BOT5-1-63zeri DiableLehends bard30-4-1SUP1-1-134rell Kellin*Patch 25.17This thread was created by the Post-Match Team.",
+      "flair": [
+        "Esports"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ext3mg/styles/profileIcon_02jgsq12kelf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=18f85cefc2a2ba96cbb59458d9c0f08a630ba5fa",
+      "is_promoted": false
+    },
+    {
+      "title": "I just achieved gold for the first time and it feels nice :)",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n8lu9k/i_just_achieved_gold_for_the_first_time_and_it/",
+      "score": 93,
+      "comments": 20,
+      "post_id": "t3_1n8lu9k",
+      "post_type": "text",
+      "domain": "self.leagueoflegends",
+      "author": "menemenetekelvparsin",
+      "author_id": "t2_692zkfbw",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-09-04T20:51:30.254000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n8lu9k/i_just_achieved_gold_for_the_first_time_and_it/",
+      "content_preview": "I've been playing league on and off for a long time (started when jinx got released) but i was never good at the game. It was always just more of a tool to talk with friends and have a good time.this season i really tried. looked at how to manage waves, how to cs better and tried to reflect on my positioning and getting to gold was pretty effortless. i know it's not a high rank by any means, but i'll try to get to plat now :)Just wanted to share this and happy soloq",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Why did my Renek W target a minion despite target champs only being toggled on?",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n90ixl/why_did_my_renek_w_target_a_minion_despite_target/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1n90ixl",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "Possiblynotaweeb",
+      "author_id": "t2_20n4uo0n",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-09-05T09:24:41.996000+0000",
+      "content_href": "https://youtu.be/K1hqB14h6y8",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "ReUpload the DoomBots Bible Guide, 80+ pages. Covered: from teamcomp template, laning, all minigames, everything about veigar final boss and build guides.",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n8m94a/reupload_the_doombots_bible_guide_80_pages/",
+      "score": 87,
+      "comments": 5,
+      "post_id": "t3_1n8m94a",
+      "post_type": "multi_media",
+      "domain": "self.leagueoflegends",
+      "author": "Top_General6257",
+      "author_id": "t2_v4dhlzz9",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-09-04T21:07:30.309000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n8m94a/reupload_the_doombots_bible_guide_80_pages/",
+      "content_preview": "Tired of seeing people complained about DoomBots so my friend made the Doombots Bible guide from start to finish how to win doombots veigar's evil:https://docs.google.com/document/d/1lXP_qgjlmfwCy3mR5Mp4ZFu39kwqfLLqKkRApUOCEZI/edit?pli=1&tab=t.0Consist of:chapter 3 teamcomp template,chapter 5 items,chapter 8 laning,chapter 9 all minigames,chapter 10 all about veigar final boss tipsandbuild guides chapter 6, also hall of fame chapter 11.Also includedsuper fun buildslike:Jhin build(the flash)andSecretMiss Fortune Tanky ADC (also the flash FullGuide)(3 pagesfor MF's laning tips,teamfighting tips,build guide, when vs veigar)Ctrl+Fkey words:\"jhin build\"super fun,\"mf build\",“viego build”, “sylas build”, “taric build”, “gwen build”, \"hwei build\", mages build etc..)DoomBots Guide Fun Facts:Doombots Veigar's Evil will gives everybody 200 item haste. So trinity is 0.67 secs, Sundered sky is 4 secs from 8, Eclipse is 3 secs from 6, Maw of Malmortius is 30 secs shield with 10% omnivamp until the combat ends, etc. more on chapter 5 itemsyasuocanblock Veigar's Ultsthatdestroysurnexus turrets, inhibitors and the nexus(idk about samira, mel)Also did the math for Demon king's Crown chapter 5 (sucks at math but just want to prove the item is OP)Since there are a lot item builds or runes u can go so my build guide is not really perfect... Not really confident on the item build but other chapters are good.Made the Bible since 28.08Tysm for reading the bible <33Without Serene♡ reading hundred of my doombots text exchange and helping me i would have never made the guide TYSM Serene❤All credits toTinWiunssince they couldnt post this on reddit and no ads or socials, they just want people to win or win more Doombots and Veigar's Evil mode and also to actually have fun like they did with doombots and the guide .",
+      "flair": [
+        "Rotating Event"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Scrubbing Bubbles Easy Clean: Yes, there will be bubbles. Yes, your bathroom will get clean. Yes, it will be the easiest job in the world.",
+      "permalink": "https://www.reddit.com/user/scrubbingbubbles_us/comments/1n6qxis/scrubbing_bubbles_easy_clean_yes_there_will_be/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n6qxis",
+      "post_type": "gallery",
+      "domain": "shop.mikmak.ai",
+      "author": "scrubbingbubbles_us",
+      "author_id": "t2_1ipz8tpc3n",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-02T18:09:55.129000+0000",
+      "content_href": "https://shop.mikmak.ai/social/67b782bc03a07306e7cf81fa?utm_medium=paid_social&utm_campaign=social_scj_fy26_sbm_014&utm_term=touch-up_tamers&utm_marketing_tactic=awareness&utm_format=carousel_-_anna",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dj311i/styles/profileIcon_vbez1qhkmome1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=a1833416ce13723f7cb9e4f9285a5bf69b523ad8",
+      "is_promoted": true
+    },
+    {
+      "title": "Los Ratones will officially participate in EMEA Masters 2025 Summer Split",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n5ouw0/los_ratones_will_officially_participate_in_emea/",
+      "score": 2754,
+      "comments": 460,
+      "post_id": "t3_1n5ouw0",
+      "post_type": "text",
+      "domain": "self.leagueoflegends",
+      "author": "Dynamixus_023",
+      "author_id": "t2_838i0q4f",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-09-01T13:34:35.979000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n5ouw0/los_ratones_will_officially_participate_in_emea/",
+      "content_preview": "On Caedrel's latestInstagram post:We made it ! 3 splits 3 trophies. A lot of work went in from everyone all year long, so it's great that all of it paid off.Now up next is EMEA masters where we have decided to compete to try to achieve the first ever Golden road in tier 2 league.After that, I have no clue where LR will go. The team was started as a fun content idea this time last year between myself, Baus & Nemesis. The size that it's grown to and the amount of support for the team is absolutely unimaginable. And with that in mind, I really want to keep pushing the boundaries of what's possible and not repeat what we've done this year.Taking it to the next level for next year so far has been a challenge. Towards the end of the year, I'll do a long video to give insights about most things that have happened behind the scenes and ideas that were floated around. Lots and lots of discussions over the last few months in attempts to open up doors for next year have started closing, and there has been endless barriers. But there's still a promise of possibilities for next year, so fingers crossed we can find the right direction 🤞2025 will always be remembered in my mind as the year of Los Ratones regardless ❤️ This group of players has been absolutely magical to work with in my first year of coaching, and they're all so incredibly talented.For now, eyes on the Golden Road or, I guess, Silver Road ?And then, hopefully, we will have a plan ready for next year 😌There's been a lot of discourse on whether Los Ratones will proceed to EMEA Masters or do content instead on a bootcamp in Korea. I honestly think this is better, having a definite competition and goal to work on will be more interesting for me since there are stakes. I am curious on how Caedrel will balance being a Costreamer for Worlds and being a Coach (assuming they go far again this time). What are you guys' thoughts on this?",
+      "flair": [
+        "Esports"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "LEC Continuously Moving Their Games For Valorant Is Unserious And Embarrassing For The Sport",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n25zsd/lec_continuously_moving_their_games_for_valorant/",
+      "score": 3285,
+      "comments": 270,
+      "post_id": "t3_1n25zsd",
+      "post_type": "text",
+      "domain": "self.leagueoflegends",
+      "author": "Distinct_Piccolo_654",
+      "author_id": "t2_9k7mmaqz",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-08-28T07:42:54.043000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n25zsd/lec_continuously_moving_their_games_for_valorant/",
+      "content_preview": "It feels like returning to the days of NA and EU LCS, where we had to base our entire schedule around when the Americans were playing. To think that Riot is running two of the biggest esports in the world but can't be bothered to make a second studio is absurd. It would be unheard of in any other serious sport, especially one with this level of budget behind it: Imagine a tennis event being rescheduled cause they have to use the same arena to run paddle that weekend, when the arena was built to play tennis!The schedule is already a mess, and now I have to check every week for if the games are randomly played on a Tuesday instead? Patently ridiculous. If you can't run the two games at the same time, which a company of Riot's size absolutely should be able to, then at least prioritize the game you actuallybuilt the studio for.Riot's released documentaries in the past about how they can have event spaces ready for Worlds in a month, but Riot can't be bothered to set up an alternate venue for Valorant in case of conflict clashes?Ridiculous.",
+      "flair": [
+        "Esports"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Varus VS Irelia fanart for the LEC",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n8xgkt/varus_vs_irelia_fanart_for_the_lec/",
+      "score": 15,
+      "comments": 1,
+      "post_id": "t3_1n8xgkt",
+      "post_type": "multi_media",
+      "domain": "self.leagueoflegends",
+      "author": "GabiTheBestOfAll",
+      "author_id": "t2_1dqlahgdpf",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-09-05T06:05:36.251000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n8xgkt/varus_vs_irelia_fanart_for_the_lec/",
+      "content_preview": "Did this for the LEC art competiton! it'd be of great help if you could upvote it! :D here's the link to the contest, many thanks in advancehttps://ftw.riotgames.com/league-of-legends/challenges/break-and-cheerhttps://cdn.discordapp.com/attachments/1116245658094010378/1409262338426667039/image.png?ex=68bb3dd4&is=68b9ec54&hm=f88635706fa0b2598b23e537c8acfd708d31fa0988e48ab564223932ea39b833&",
+      "flair": [
+        "Art"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Kha or Rengar",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n90cug/kha_or_rengar/",
+      "score": 0,
+      "comments": 10,
+      "post_id": "t3_1n90cug",
+      "post_type": "text",
+      "domain": "self.leagueoflegends",
+      "author": "jajaopasf",
+      "author_id": "t2_24cwfkbj",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-09-05T09:14:04.708000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n90cug/kha_or_rengar/",
+      "content_preview": "Who is better for soloque jungling and curious how eve fits here ?Seems there are much more high elo rengar junglers that get spotlight for example NattyNat. Why is this",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_o13cn/styles/profileIcon_e85i7nnguy921.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=febd538d06da480f5f07c8989237ba9d61b3d281",
+      "is_promoted": false
+    },
+    {
+      "title": "A non-limited skin is slated to be removed from the store",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n3kehf/a_nonlimited_skin_is_slated_to_be_removed_from/",
+      "score": 2160,
+      "comments": 89,
+      "post_id": "t3_1n3kehf",
+      "post_type": "multi_media",
+      "domain": "self.leagueoflegends",
+      "author": "Luliani",
+      "author_id": "t2_xidm3en9c",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-08-29T21:53:56.741000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n3kehf/a_nonlimited_skin_is_slated_to_be_removed_from/",
+      "content_preview": "As you can seeon the storeand withthis tweet from Riot, Little Demon Tristana, a skin that was never limited in the past, is now marked as limited and is slated to be removed from the store once the Doom Bots event is over.The tweet says that the skin was \"resurrected\" (it never went away) and that it will \"go back to the vault\" (it was never there), so I'm guessing that it could be a mistake. An employee might have thought that the skin was already limited. If so, I hope Riot realize that.There's already more than enough limited content in the game.",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
       "title": "Zilean joins the 1000 days without skin club for the 4th time",
       "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1mob5oi/zilean_joins_the_1000_days_without_skin_club_for/",
-      "score": 3219,
+      "score": 3223,
       "comments": 172,
       "post_id": "t3_1mob5oi",
       "post_type": "text",
@@ -380,76 +1005,78 @@
       "subreddit": "r/leagueoflegends",
       "created_ts": "2025-08-12T15:02:58.345000+0000",
       "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1mob5oi/zilean_joins_the_1000_days_without_skin_club_for/",
-      "content_preview": "",
+      "content_preview": "Zilean is currentely 978 days without any skin (source:https://www.dayssinceskin.com/mostDaysSince.html)And it was just teased on skinspotilight the skins for the next patch, from Trynda, Jarvan, Garen and Alistar (https://x.com/SkinSpotlights/status/1955267903604847063)With that in mind and patches taking 14 days to release, Zilean is going to be 1000 days without a new skin again for the FOURTH time...",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "Doombots only fun for first 15 minutes",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n5i46k/doombots_only_fun_for_first_15_minutes/",
-      "score": 1591,
-      "comments": 249,
-      "post_id": "t3_1n5i46k",
-      "post_type": "text",
-      "domain": "self.leagueoflegends",
-      "author": "Timely-Librarian-386",
-      "author_id": "t2_sg4dvcol",
+      "title": "Cloudtemplar's Analysis on Day 1 & 2 of LCK Play-Ins (Part 2 of 2)",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n8ovtr/cloudtemplars_analysis_on_day_1_2_of_lck_playins/",
+      "score": 56,
+      "comments": 3,
+      "post_id": "t3_1n8ovtr",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "artisanal_cocaine",
+      "author_id": "t2_5ivaix37",
       "subreddit_id": "t5_2rfxx",
       "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-01T07:17:01.475000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n5i46k/doombots_only_fun_for_first_15_minutes/",
+      "created_ts": "2025-09-04T22:56:51.940000+0000",
+      "content_href": "https://youtu.be/TRvuYW1Eprw?si=jm5NjFV_6jq_9kZy",
       "content_preview": "",
       "flair": [
-        "Rotating Event"
+        "Esports"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "Qiyana currently has a 56% win rate with a 4.5% pick rate in D2+. Her WR only goes up as you go higher in rank. Do you think this is acceptable for what is supposed to be one of the highest skilled mids in League?",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n5ksku/qiyana_currently_has_a_56_win_rate_with_a_45_pick/",
-      "score": 921,
-      "comments": 462,
-      "post_id": "t3_1n5ksku",
+      "title": "Customize your coverage to fit within your budget with Nationwide pet insurance.",
+      "permalink": "https://www.reddit.com/user/NationwidePet/comments/1mogx3e/customize_your_coverage_to_fit_within_your_budget/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mogx3e",
+      "post_type": "image",
+      "domain": "petinsurance.com",
+      "author": "NationwidePet",
+      "author_id": "t2_anfpzhwa",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-12T18:34:41.464000+0000",
+      "content_href": "https://www.petinsurance.com",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_41i69h/styles/profileIcon_9wknk9fhbhk61.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=480aed8aeb365dc03aab21561f25a173bcfe05e1",
+      "is_promoted": true
+    },
+    {
+      "title": "Best Wave Clear Champs",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n8x4s5/best_wave_clear_champs/",
+      "score": 13,
+      "comments": 39,
+      "post_id": "t3_1n8x4s5",
       "post_type": "text",
       "domain": "self.leagueoflegends",
-      "author": "Scrambled1432",
-      "author_id": "t2_74bss",
+      "author": "Exciting_Annual7820",
+      "author_id": "t2_fr8v2izp",
       "subreddit_id": "t5_2rfxx",
       "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-01T10:07:44.523000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n5ksku/qiyana_currently_has_a_56_win_rate_with_a_45_pick/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T05:45:43.664000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n8x4s5/best_wave_clear_champs/",
+      "content_preview": "I wanted to know your guys' thoughts on what champs have the best wave clear that is accessible early to mid game (you don't need all of your items to clear the wave), such as Sion or maybe a Malzahar. What do you guys think?",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "“MESSIAH” - Arcane Fanart",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n65yq2/messiah_arcane_fanart/",
-      "score": 51,
-      "comments": 1,
-      "post_id": "t3_1n65yq2",
-      "post_type": "multi_media",
-      "domain": "self.leagueoflegends",
-      "author": "Treetrunki",
-      "author_id": "t2_azugmz4q",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-02T00:56:25.745000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n65yq2/messiah_arcane_fanart/",
-      "content_preview": "",
-      "flair": [
-        "Art"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_5njdc9/styles/profileIcon_opsc78oaz0h91.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d388eefeeee6ea8380093bc057194a31d326c2c3"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
       "title": "GX Noah on the LEC Format: By the way,this format is so sh*t we Wait 17 days to play one series, then need to wait 10 days to play another series. only two series in 27 days is crazy sh*t while lck and lpl are playing 2 series a week xd",
       "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n1azw5/gx_noah_on_the_lec_format_by_the_waythis_format/",
-      "score": 3149,
+      "score": 3166,
       "comments": 222,
       "post_id": "t3_1n1azw5",
       "post_type": "text",
@@ -460,176 +1087,59 @@
       "subreddit": "r/leagueoflegends",
       "created_ts": "2025-08-27T07:59:50.144000+0000",
       "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n1azw5/gx_noah_on_the_lec_format_by_the_waythis_format/",
-      "content_preview": "",
+      "content_preview": "By the way,this format is so sh*t we Wait 17 days to play one series, then need to wait 10 days to play another series. only two series in 27 days is crazy sh*t while lck and lpl are playing 2 series a week xd",
       "flair": [
         "Esports"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_ext3mg/styles/profileIcon_02jgsq12kelf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=18f85cefc2a2ba96cbb59458d9c0f08a630ba5fa"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ext3mg/styles/profileIcon_02jgsq12kelf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=18f85cefc2a2ba96cbb59458d9c0f08a630ba5fa",
+      "is_promoted": false
     },
     {
-      "title": "Lucky bounce",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1mhab1l/lucky_bounce/",
-      "score": 3015,
-      "comments": 73,
-      "post_id": "t3_1mhab1l",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Aziale",
-      "author_id": "t2_duexn",
+      "title": "The Rise Of Riot Games",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n90arc/the_rise_of_riot_games/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n90arc",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "Ok_Result9795",
+      "author_id": "t2_nfjrzn6y",
       "subreddit_id": "t5_2rfxx",
       "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-08-04T11:00:03.250000+0000",
-      "content_href": "https://v.redd.it/8n1m0fgxhzgf1",
+      "created_ts": "2025-09-05T09:10:26.928000+0000",
+      "content_href": "https://youtu.be/anzFqI8astk?si=39CH3oeiu6ebPw00",
       "content_preview": "",
       "flair": [
-        "Gameplay"
+        "News"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6eii4k/styles/profileIcon_mbqfwdc168nf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fc246d84b4ebf0a84bf686af9398d425a342e713",
+      "is_promoted": false
     },
     {
-      "title": "My Gwen cosplay [kalosta_qwq]",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n68g5h/my_gwen_cosplay_kalosta_qwq/",
-      "score": 29,
-      "comments": 4,
-      "post_id": "t3_1n68g5h",
-      "post_type": "multi_media",
-      "domain": "self.leagueoflegends",
-      "author": "kalosta_qwq",
-      "author_id": "t2_qk4suq3g",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-02T02:58:08.241000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n68g5h/my_gwen_cosplay_kalosta_qwq/",
-      "content_preview": "",
-      "flair": [
-        "Art"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_90xmwe/styles/profileIcon_qwqweo14kglf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ecd4e430c3b9f230d91963e86cbe464f17e9ac54"
-    },
-    {
-      "title": "The 2024 World Champions, here to stay. The T1 Worlds Skins have taken their place in PBE.",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n0og0u/the_2024_world_champions_here_to_stay_the_t1/",
-      "score": 2854,
-      "comments": 243,
-      "post_id": "t3_1n0og0u",
+      "title": "[DK vs BFX] Absolute cinema",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n87hvt/dk_vs_bfx_absolute_cinema/",
+      "score": 315,
+      "comments": 18,
+      "post_id": "t3_1n87hvt",
       "post_type": "video",
       "domain": "v.redd.it",
       "author": "Yujin-Ha",
       "author_id": "t2_1tmiij1uqi",
       "subreddit_id": "t5_2rfxx",
       "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-08-26T15:09:38.193000+0000",
-      "content_href": "https://v.redd.it/vd6cv1emqdlf1",
+      "created_ts": "2025-09-04T11:25:26.029000+0000",
+      "content_href": "https://v.redd.it/ez0eqxqpu4nf1",
       "content_preview": "",
       "flair": [
         "Esports"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_ext3mg/styles/profileIcon_02jgsq12kelf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=18f85cefc2a2ba96cbb59458d9c0f08a630ba5fa"
-    },
-    {
-      "title": "I made a league of legends purity test!",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n645rf/i_made_a_league_of_legends_purity_test/",
-      "score": 53,
-      "comments": 86,
-      "post_id": "t3_1n645rf",
-      "post_type": "text",
-      "domain": "self.leagueoflegends",
-      "author": "BarSoapIllumi",
-      "author_id": "t2_mdr73twe9",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-01T23:30:59.443000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n645rf/i_made_a_league_of_legends_purity_test/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "Wow we made it Veigar with both buffs! We might actually win! Enter, the nerfarious Malz Minions.",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n62m4h/wow_we_made_it_veigar_with_both_buffs_we_might/",
-      "score": 59,
-      "comments": 10,
-      "post_id": "t3_1n62m4h",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "EllieInHiding",
-      "author_id": "t2_77pdbv",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-01T22:22:19.701000+0000",
-      "content_href": "https://v.redd.it/i71bd2p1pmmf1",
-      "content_preview": "",
-      "flair": [
-        "Rotating Event"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_89sbx/styles/profileIcon_fqe1rbcmn7n61.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2ab6dc33ba8f60b386b1536ba49e4dff66cfa041"
-    },
-    {
-      "title": "help me dostlar",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n6eamq/help_me_dostlar/",
-      "score": 0,
-      "comments": 0,
-      "post_id": "t3_1n6eamq",
-      "post_type": "text",
-      "domain": "self.leagueoflegends",
-      "author": "huseyiiin01",
-      "author_id": "t2_1ut6mbh9rx",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-02T08:49:27.478000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n6eamq/help_me_dostlar/",
-      "content_preview": "",
-      "flair": [
-        "Gameplay"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "GenG and T1 have played more games, than whole LEC this summer split.",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n3w2mg/geng_and_t1_have_played_more_games_than_whole_lec/",
-      "score": 2828,
-      "comments": 225,
-      "post_id": "t3_1n3w2mg",
-      "post_type": "text",
-      "domain": "self.leagueoflegends",
-      "author": "MrPraedor",
-      "author_id": "t2_t6jll",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-08-30T08:04:12.959000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n3w2mg/geng_and_t1_have_played_more_games_than_whole_lec/",
-      "content_preview": "",
-      "flair": [
-        "Esports"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "The recent incident at the summoners rift.",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n5bl11/the_recent_incident_at_the_summoners_rift/",
-      "score": 4613,
-      "comments": 87,
-      "post_id": "t3_1n5bl11",
-      "post_type": "text",
-      "domain": "self.leagueoflegends",
-      "author": "yellowsupercar88",
-      "author_id": "t2_ho6oosw",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-01T01:18:52.780000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n5bl11/the_recent_incident_at_the_summoners_rift/",
-      "content_preview": "",
-      "flair": [
-        "Humor"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_5w75q/styles/profileIcon_1zn8h0saqh301.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=965dc237302fdef2f47a7789809666b8f859e930"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ext3mg/styles/profileIcon_02jgsq12kelf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=18f85cefc2a2ba96cbb59458d9c0f08a630ba5fa",
+      "is_promoted": false
     },
     {
       "title": "BLG (Former MAD Lions) Jungler \"Shad0w\" confirmed to be an Italian national after a fan reported him for having dual citizenship.",
       "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1mkxfqi/blg_former_mad_lions_jungler_shad0w_confirmed_to/",
-      "score": 2934,
+      "score": 2935,
       "comments": 408,
       "post_id": "t3_1mkxfqi",
       "post_type": "text",
@@ -640,96 +1150,78 @@
       "subreddit": "r/leagueoflegends",
       "created_ts": "2025-08-08T14:56:40.161000+0000",
       "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1mkxfqi/blg_former_mad_lions_jungler_shad0w_confirmed_to/",
-      "content_preview": "",
+      "content_preview": "Someone suspected that Shad0w secretly has dual passports, and reported him to Immigration. Wenzhou police investigated and confirmed that Shad0w is using an Italian passport and has lost his Chinese citizenship.",
       "flair": [
         "Esports"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     },
     {
-      "title": "On this day 9 years ago, Doublelift gave us the most iconic play in LCS history, kiting out Cloud9 in the 2016 LCS Summer Finals, the height of the LCS",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n2hmzh/on_this_day_9_years_ago_doublelift_gave_us_the/",
-      "score": 2505,
-      "comments": 364,
-      "post_id": "t3_1n2hmzh",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Yujin-Ha",
-      "author_id": "t2_1tmiij1uqi",
+      "title": "LTA North Promotion Tournament",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n8gx3e/lta_north_promotion_tournament/",
+      "score": 87,
+      "comments": 19,
+      "post_id": "t3_1n8gx3e",
+      "post_type": "link",
+      "domain": "lolesports.com",
+      "author": "LeapYearCake",
+      "author_id": "t2_71p35",
       "subreddit_id": "t5_2rfxx",
       "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-08-28T16:53:32.155000+0000",
-      "content_href": "https://v.redd.it/de6m7ywyislf1",
+      "created_ts": "2025-09-04T17:43:07.810000+0000",
+      "content_href": "https://lolesports.com/en-US/news/lta-north-promotion-tournament",
       "content_preview": "",
       "flair": [
         "Esports"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_ext3mg/styles/profileIcon_02jgsq12kelf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=18f85cefc2a2ba96cbb59458d9c0f08a630ba5fa"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "League of Legends is a good game, and I’m tired of pretending it’s not.",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n11swe/league_of_legends_is_a_good_game_and_im_tired_of/",
-      "score": 2451,
-      "comments": 634,
-      "post_id": "t3_1n11swe",
+      "title": "What’s the most annoying ability in the game?",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n8cwz5/whats_the_most_annoying_ability_in_the_game/",
+      "score": 136,
+      "comments": 233,
+      "post_id": "t3_1n8cwz5",
       "post_type": "text",
       "domain": "self.leagueoflegends",
-      "author": "Grimfield",
-      "author_id": "t2_15mh5j",
+      "author": "BlackDoom_26",
+      "author_id": "t2_1v0lf1h2qa",
       "subreddit_id": "t5_2rfxx",
       "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-08-26T23:48:07.517000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n11swe/league_of_legends_is_a_good_game_and_im_tired_of/",
-      "content_preview": "",
+      "created_ts": "2025-09-04T15:13:23.973000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n8cwz5/whats_the_most_annoying_ability_in_the_game/",
+      "content_preview": "Honestly, for me it has to be Teemo’s shrooms. No matter how much I try to avoid them, I still end up stepping on one at the worst time. Curious what abilities always seem to get you too?",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
-      "title": "The amount of complaints about doombots being to hard makes me feel like its successful",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n2oz89/the_amount_of_complaints_about_doombots_being_to/",
-      "score": 2280,
-      "comments": 455,
-      "post_id": "t3_1n2oz89",
-      "post_type": "text",
-      "domain": "self.leagueoflegends",
-      "author": "Godgamer6942000",
-      "author_id": "t2_1175pdqkoa",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-08-28T21:33:27.402000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n2oz89/the_amount_of_complaints_about_doombots_being_to/",
-      "content_preview": "",
-      "flair": [
-        "Rotating Event"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Summoner Spell Tracker - A feature that should be implemented in the in-game UI to help people like me (explanation inside)",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n6dvc4/summoner_spell_tracker_a_feature_that_should_be/",
+      "title": "Precision in motion. Get a bird's‑eye view with HD Surround Vision in the 2026 All-Electric VISTIQ.",
+      "permalink": "https://www.reddit.com/user/cadillac/comments/1n6uk5q/precision_in_motion_get_a_birdseye_view_with_hd/",
       "score": 0,
-      "comments": 5,
-      "post_id": "t3_1n6dvc4",
-      "post_type": "text",
-      "domain": "self.leagueoflegends",
-      "author": "Klaastz",
-      "author_id": "t2_b3j6e",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-02T08:20:41.146000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n6dvc4/summoner_spell_tracker_a_feature_that_should_be/",
+      "comments": 0,
+      "post_id": "t3_1n6uk5q",
+      "post_type": "video",
+      "domain": "cadillac.com",
+      "author": "cadillac",
+      "author_id": "t2_ihjbwyxr",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-02T20:26:03.452000+0000",
+      "content_href": "https://v.redd.it/99ozdnzxrrmf1",
       "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5npz9t/styles/profileIcon_giyjcw8923nc1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=68c0aac58a2e6034c69181eaa3e0aeb43eac76ef",
+      "is_promoted": true
     },
     {
       "title": "Rakan dipped the moment money hit his account",
       "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1mur6pq/rakan_dipped_the_moment_money_hit_his_account/",
-      "score": 2920,
+      "score": 2921,
       "comments": 97,
       "post_id": "t3_1mur6pq",
       "post_type": "video",
@@ -744,268 +1236,175 @@
       "flair": [
         "Gameplay"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "My 320$ Immortalized Legend Ahri statue arrived today and the quality is shockingly bad. Broken parts, awful paint and it doesn't even hold together..",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1ms18be/my_320_immortalized_legend_ahri_statue_arrived/",
-      "score": 2912,
-      "comments": 258,
-      "post_id": "t3_1ms18be",
-      "post_type": "multi_media",
-      "domain": "self.leagueoflegends",
-      "author": "unkirativ",
-      "author_id": "t2_2jxv4bzg",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-08-16T17:08:11.681000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1ms18be/my_320_immortalized_legend_ahri_statue_arrived/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "Doombots take advantage of bad and uncooperative players and that's what's making them think it's impossible.",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n5l1ls/doombots_take_advantage_of_bad_and_uncooperative/",
-      "score": 456,
-      "comments": 102,
-      "post_id": "t3_1n5l1ls",
+      "title": "help me get the perfect meme for a new master friend",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n907zs/help_me_get_the_perfect_meme_for_a_new_master/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n907zs",
       "post_type": "text",
       "domain": "self.leagueoflegends",
-      "author": "Beautiful_Divide1720",
-      "author_id": "t2_1spn3fanl6",
+      "author": "BedDull5753",
+      "author_id": "t2_13g3id1snh",
       "subreddit_id": "t5_2rfxx",
       "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-01T10:22:46.373000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n5l1ls/doombots_take_advantage_of_bad_and_uncooperative/",
-      "content_preview": "",
-      "flair": [
-        "Rotating Event"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "League of Legends saved me from a drug addiction",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1mhnk4a/league_of_legends_saved_me_from_a_drug_addiction/",
-      "score": 2826,
-      "comments": 285,
-      "post_id": "t3_1mhnk4a",
-      "post_type": "text",
-      "domain": "self.leagueoflegends",
-      "author": "LeagueSchmeague",
-      "author_id": "t2_1uzmgpsgsy",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-08-04T19:42:57.891000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1mhnk4a/league_of_legends_saved_me_from_a_drug_addiction/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Caedrel describes his experience trying WASD and gives his thoughts on it",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1mq36pj/caedrel_describes_his_experience_trying_wasd_and/",
-      "score": 2788,
-      "comments": 1118,
-      "post_id": "t3_1mq36pj",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "fastestchair",
-      "author_id": "t2_iy6f0ozy",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-08-14T15:03:35.796000+0000",
-      "content_href": "https://v.redd.it/w30h8dnh10jf1",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_5q6w5t/styles/profileIcon_5kowhz9quyt91.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e97e7b79f1788f644d07e95fd960a2ac4efa8674"
-    },
-    {
-      "title": "[Sheep Esports] Sources: NAVI closing buyout of KC Blue’s TheRock as new LEC Head Coach",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n5qh4v/sheep_esports_sources_navi_closing_buyout_of_kc/",
-      "score": 202,
-      "comments": 43,
-      "post_id": "t3_1n5qh4v",
-      "post_type": "link",
-      "domain": "sheepesports.com",
-      "author": "ItsClarke17",
-      "author_id": "t2_11tdnf",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-01T14:39:26.602000+0000",
-      "content_href": "https://www.sheepesports.com/en/articles/sources-therock-set-to-join-natus-vincere-in-the-lec-fredy122-is-benched/en",
-      "content_preview": "",
-      "flair": [
-        "Esports"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/MEffim5INc00RhApEhfLRndnf3RNArolgfFJTaqrnUo.png?width=140&height=73&crop=140:73,smart&auto=webp&s=2de440899ab6fb6d0003ca64bfdade0ba0bc6414"
-    },
-    {
-      "title": "PSA: If you're struggling with Doom Bots on Veigar's Evil, play Darius",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n5jtep/psa_if_youre_struggling_with_doom_bots_on_veigars/",
-      "score": 534,
-      "comments": 86,
-      "post_id": "t3_1n5jtep",
-      "post_type": "multi_media",
-      "domain": "self.leagueoflegends",
-      "author": "PhilosophyforOne",
-      "author_id": "t2_cyla8",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-01T09:06:48.216000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n5jtep/psa_if_youre_struggling_with_doom_bots_on_veigars/",
-      "content_preview": "",
-      "flair": [
-        "Rotating Event"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "No skins on weekly sale right now",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n5ykfm/no_skins_on_weekly_sale_right_now/",
-      "score": 61,
-      "comments": 31,
-      "post_id": "t3_1n5ykfm",
-      "post_type": "text",
-      "domain": "self.leagueoflegends",
-      "author": "Dull-House-9916",
-      "author_id": "t2_gf1pje52m",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-01T19:40:35.870000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n5ykfm/no_skins_on_weekly_sale_right_now/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "A non-limited skin is slated to be removed from the store",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n3kehf/a_nonlimited_skin_is_slated_to_be_removed_from/",
-      "score": 2142,
-      "comments": 87,
-      "post_id": "t3_1n3kehf",
-      "post_type": "multi_media",
-      "domain": "self.leagueoflegends",
-      "author": "Luliani",
-      "author_id": "t2_xidm3en9c",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-08-29T21:53:56.741000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n3kehf/a_nonlimited_skin_is_slated_to_be_removed_from/",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "When you get a little silly playing Jhin in Urf",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1mi1jru/when_you_get_a_little_silly_playing_jhin_in_urf/",
-      "score": 2628,
-      "comments": 60,
-      "post_id": "t3_1mi1jru",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "IIxToolxII",
-      "author_id": "t2_bl81n",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-08-05T06:16:42.871000+0000",
-      "content_href": "https://v.redd.it/j9w1vre285hf1",
-      "content_preview": "",
+      "created_ts": "2025-09-05T09:05:35.206000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n907zs/help_me_get_the_perfect_meme_for_a_new_master/",
+      "content_preview": "I have a large group of lol player friends.in that group we are currently 4 to have ever reach master,i have a friend that i think will soon make it too (he is d1 and non stop being 1 game off master)i want to create a fun meme where there is like 1 person (film, show, anime) joining a group of 4 person and this group accept him and welcome him.i would make all our names appear on top of all these person's head.do you have any idea what would be a great scene for this meme ? (if you have a scene in a anime its perfect because we are all weebs)",
       "flair": [
         "Humor"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_buc9qj/styles/profileIcon_ztwnrc2yu1ke1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b5a34520b0f18e35f8f52b9fce7d53cd566c0ad0",
+      "is_promoted": false
     },
     {
-      "title": "Has anyone beaten Doom Bots on Hard mode?",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n6duq4/has_anyone_beaten_doom_bots_on_hard_mode/",
-      "score": 0,
-      "comments": 10,
-      "post_id": "t3_1n6duq4",
-      "post_type": "text",
+      "title": "I am briefly the #1 Trundle in NA after one-tricking Trundle Support to Masters.  AMA!",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n8gxuv/i_am_briefly_the_1_trundle_in_na_after/",
+      "score": 85,
+      "comments": 58,
+      "post_id": "t3_1n8gxuv",
+      "post_type": "multi_media",
       "domain": "self.leagueoflegends",
-      "author": "HistoricalRabbit9142",
-      "author_id": "t2_1m9orxnr78",
+      "author": "mint-patty",
+      "author_id": "t2_7dybkdpvk",
       "subreddit_id": "t5_2rfxx",
       "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-02T08:19:30.343000+0000",
-      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n6duq4/has_anyone_beaten_doom_bots_on_hard_mode/",
-      "content_preview": "",
+      "created_ts": "2025-09-04T17:43:56.370000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n8gxuv/i_am_briefly_the_1_trundle_in_na_after/",
+      "content_preview": "Here's myop.gg, and here isLeague of Graphs' NA ranking.This is not my first account, and I've reached a peak of Masters 100 LP before, but I have struggled to get back to Masters in the last ~18 months.  I have never one-tricked a champion as intensively as the ~80 games of Trundle I played in a row these last weeks.Ask me anything!  I love talking about League of Legends and have many opinions.",
       "flair": [
-        "Discussion"
+        "AMA"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
-      "title": "[FLY vs SR] Jungle Tryndamere Pentakill",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n595sw/fly_vs_sr_jungle_tryndamere_pentakill/",
-      "score": 1319,
-      "comments": 113,
-      "post_id": "t3_1n595sw",
-      "post_type": "video",
-      "domain": "v.redd.it",
+      "title": "LCK Fries Group All-Pro Teams",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n88ebm/lck_fries_group_allpro_teams/",
+      "score": 166,
+      "comments": 27,
+      "post_id": "t3_1n88ebm",
+      "post_type": "text",
+      "domain": "self.leagueoflegends",
+      "author": "rglampa",
+      "author_id": "t2_5otd50kg",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-09-04T12:10:51.963000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n88ebm/lck_fries_group_allpro_teams/",
+      "content_preview": "Just here to honor the players that runs the dominant half of the LCK. Legend groups need to be aware of these players in playoffs.Cast your own votes or your hot takes!1st Team Top: Clear Jg: Raptor Mid: Clozer ADC: Diable Sup: Kellin2nd Team Top: Rich Jg: Lucid Mid: Vicla ADC: Aiming Sup: Beryl3rd Team Top: Siwoo Jg: Croco Mid: Showmaker playmeyka ADC: Hype/Teddy Sup: not applicable",
+      "flair": [
+        "Esports"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "LCK Awards 2025: Chovy wins MVP, Diable wins rookie of the year, Coach Kim wins head coach of the year,  ALL LCK 1st team: All GEN.G, All LCK 2nd team: Doran, Oner, BDD, Viper, Keria , ALL LCK 3rd team: Zeus, Peanut, Faker, Gumayusi, Delight",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n7wxzj/lck_awards_2025_chovy_wins_mvp_diable_wins_rookie/",
+      "score": 896,
+      "comments": 328,
+      "post_id": "t3_1n7wxzj",
+      "post_type": "multi_media",
+      "domain": "self.leagueoflegends",
       "author": "Yujin-Ha",
       "author_id": "t2_1tmiij1uqi",
       "subreddit_id": "t5_2rfxx",
       "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-08-31T23:20:17.448000+0000",
-      "content_href": "https://v.redd.it/movh7mmpufmf1",
+      "created_ts": "2025-09-04T01:22:35.131000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n7wxzj/lck_awards_2025_chovy_wins_mvp_diable_wins_rookie/",
+      "content_preview": "Regular Round MVP:Chovy",
+      "flair": [
+        "Esports"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ext3mg/styles/profileIcon_02jgsq12kelf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=18f85cefc2a2ba96cbb59458d9c0f08a630ba5fa",
+      "is_promoted": false
+    },
+    {
+      "title": "Cloudtemplar's Analysis on Day 1 & 2 of LCK Play-Ins (Part 1 of 2)",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n8just/cloudtemplars_analysis_on_day_1_2_of_lck_playins/",
+      "score": 31,
+      "comments": 5,
+      "post_id": "t3_1n8just",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "artisanal_cocaine",
+      "author_id": "t2_5ivaix37",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-09-04T19:34:43.902000+0000",
+      "content_href": "https://youtu.be/TRvuYW1Eprw?si=OWNrnkaiPzBR4Uka",
       "content_preview": "",
       "flair": [
         "Esports"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_ext3mg/styles/profileIcon_02jgsq12kelf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=18f85cefc2a2ba96cbb59458d9c0f08a630ba5fa"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "League of Legends LCP Wild Card Playoffs winners!",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n68wbg/league_of_legends_lcp_wild_card_playoffs_winners/",
-      "score": 7,
+      "title": "Common mistakes that people do when they get stuck",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n8p1io/common_mistakes_that_people_do_when_they_get_stuck/",
+      "score": 11,
+      "comments": 5,
+      "post_id": "t3_1n8p1io",
+      "post_type": "text",
+      "domain": "self.leagueoflegends",
+      "author": "yughiro_destroyer",
+      "author_id": "t2_1ftzteo3nh",
+      "subreddit_id": "t5_2rfxx",
+      "subreddit": "r/leagueoflegends",
+      "created_ts": "2025-09-04T23:03:27.453000+0000",
+      "content_href": "https://www.reddit.com/r/leagueoflegends/comments/1n8p1io/common_mistakes_that_people_do_when_they_get_stuck/",
+      "content_preview": "Hello!I play League of Legends for 10 years and I have had my periods of being stuck - sometimes for long periods of time in lower divisions. I am not saying that the game doesn't have some problems like smurfs ruining low elo, people purposefully slow inting games or how the itemization for some champions suck, but until these start to become real problems there's a lot a player can do to improve their playstyle.So, here's my list of what things a player should or not should do in order to increase their winrate :=>Don't play if you are tired. If you played a game take a break, at least for a few minutes. Clear your mind, relax. Don't push yourself in a streak of games, especially if you are on a losing streak. The fatigue and accumulated frustration will only cloud your strategies and patience.=>Don't be greedy. Most of the comebacks come from opponents getting cocky and being greedy, exposing themselves in unfavorable positions. Wait for them to do this mistake and punish them for it, take the shutdown gold and scale to close the gap.=>Be positive. Contrary to the belief that you shouldn't use chat, in fact, use it. Try to calm down teammates that are flaming each other. Sometimes it doesn't work, I know, but there are instances where it can work and that just means an extra chance of winning that costs you nothing.=>If you feel like you're gonna lose a game, like, it's a feeling that suddenly comes out, then you should probably dodge. Like, seeing a Nunu support instalocking with ghost and clearence or having them already flame in champion select due to support not giving the mid his pick position.=>Play champions you are the most comfortable with. Your mechanical and micro movements skill expression will be better even against a counter than playing a champion you barely know how to move with. Have a rotation pool for at least 3 champions you knew really well for different situations such as when your team needs a tank, an AP or an AD.=>Focus to end the games. Don't try to stall a game for trying an 1v5 pentakill. Pentakills are great dopamine rush cocktails but they are quite rare to achieve due to how many things are out of your control. It's enough for a Malzahar to flash and R you and your quadrakill/pentakill is gone but also you gave your enemies some gold to scale and comeback.=>If you play with a duo try to maximize the cooperation between you by playing either adc + supp or top and mid. Avoid playing jungle or any other combination. Why is that? Because as top and mid, if you can pick late game champions and just farm, you have a better chance of controlling how enemies are getting fed and you both can keep an even pressure on the map. If one of you goes alone as adc or supp, they rely on a random that might not perform as expected so there's wasted potential.At least that would be it from my experience. Applying some of these tips should improve one's winrate from 30-40% to 60-75%, that of course, until they reach their peak division. What other advice would you add on that list and how well or potent these advices do you think are?Thanks.",
+      "flair": [
+        "Gameplay"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Experience a fruity sour explosion.",
+      "permalink": "https://www.reddit.com/user/skittles/comments/1log74h/experience_a_fruity_sour_explosion/",
+      "score": 0,
       "comments": 0,
-      "post_id": "t3_1n68wbg",
-      "post_type": "link",
-      "domain": "facebook.com",
-      "author": "Shiraori_S",
-      "author_id": "t2_1pr9s3zi1n",
-      "subreddit_id": "t5_2rfxx",
-      "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-02T03:20:16.891000+0000",
-      "content_href": "https://www.facebook.com/share/p/16aobTAcDD/",
+      "post_id": "t3_1log74h",
+      "post_type": "video",
+      "domain": "skittles.com",
+      "author": "skittles",
+      "author_id": "t2_59cwgkcz",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-06-30T19:05:43.829000+0000",
+      "content_href": "https://v.redd.it/tnx3e3n9n2af1",
       "content_preview": "",
-      "flair": [
-        "Esports"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_ehukbc/styles/profileIcon_24hwfcvb0kmf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b6b3fecadec3155fe289c838e8f8e427d56160e9"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2atc1a/styles/profileIcon_h8onqcwzq8b41.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=ca27eb009eeba8582beb2f0a150b7abaf13c8f39",
+      "is_promoted": true
     },
     {
-      "title": "Vitality Carzzy: “Personally I do not care much if we end up first or fourth. If you are a good team, you have to beat everyone anyway.”",
-      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n5vnq2/vitality_carzzy_personally_i_do_not_care_much_if/",
-      "score": 37,
-      "comments": 12,
-      "post_id": "t3_1n5vnq2",
-      "post_type": "link",
-      "domain": "lolnow.gg",
-      "author": "Soft_Bed_412",
-      "author_id": "t2_tosht5fsa",
+      "title": "Need recommendations for a coach",
+      "permalink": "https://www.reddit.com/r/leagueoflegends/comments/1n8zzem/need_recommendations_for_a_coach/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1n8zzem",
+      "post_type": "crosspost",
+      "domain": "reddit.com",
+      "author": "smokebringer",
+      "author_id": "t2_b3sbc",
       "subreddit_id": "t5_2rfxx",
       "subreddit": "r/leagueoflegends",
-      "created_ts": "2025-09-01T17:52:46.304000+0000",
-      "content_href": "https://lolnow.gg/vitality-carzzy-personally-i-do-not-care-much-if-we-end-up-first-or-fourth-if-you-are-a-good-team-you-have-to-beat-everyone-anyway/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T08:50:09.307000+0000",
+      "content_href": "/r/supportlol/comments/1n8zmqu/need_recommendations_for_a_coach/",
+      "content_preview": "Hello!I'll have some time to dedicate to finally buy some coaching sessions (WEU region)I am high Emerald, low Diam in SoloQ.I would like some recommendations and advices from people who already bought that kind of services. Bonus point if it is in French, but I can handle in English).Thanks in advance.",
       "flair": [
-        "Esports"
+        "Discussion"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:06:04.629626"
+  "scraped_at": "2025-09-05T03:32:19.210393"
 }

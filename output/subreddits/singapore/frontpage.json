@@ -3,94 +3,216 @@
   "url": "https://www.reddit.com/r/singapore",
   "meta": {
     "title": "Singapore",
-    "members_text": "330,600"
+    "description": "Welcome to /r/singapore: The place for anything Singapore.",
+    "subscribers": 1766439,
+    "online_users": 452,
+    "created_timestamp": "2025-09-05T10:26:58.622000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "r/singapore Rules",
+        "content": [
+          {
+            "text": "reddiquette",
+            "url": "https://www.reddithelp.com/en/categories/reddit-101/reddit-basics/reddiquette"
+          },
+          {
+            "text": "Reddit's official stance on self-promotion",
+            "url": "https://www.reddit.com/wiki/selfpromotion"
+          },
+          {
+            "text": "r/singapore",
+            "url": "/r/singapore/"
+          },
+          {
+            "text": "/r/IAmA's wiki",
+            "url": "https://www.reddit.com/r/IAmA/wiki/index#wiki_3._what_constitutes_.22proof.22.3F"
+          },
+          {
+            "text": "r/singapore",
+            "url": "/r/singapore/"
+          }
+        ]
+      },
+      {
+        "title": "Filter by Flair",
+        "content": [
+          {
+            "text": "Image",
+            "url": "/r/singapore/?f=flair_name%3A%22Image%22"
+          },
+          {
+            "text": "News",
+            "url": "/r/singapore/?f=flair_name%3A%22News%22"
+          },
+          {
+            "text": "Opinion/Fluff Post",
+            "url": "/r/singapore/?f=flair_name%3A%22Opinion%2FFluff%20Post%22"
+          },
+          {
+            "text": "Politics",
+            "url": "/r/singapore/?f=flair_name%3A%22Politics%22"
+          },
+          {
+            "text": "Discussion",
+            "url": "/r/singapore/?f=flair_name%3A%22Discussion%22"
+          },
+          {
+            "text": "Serious Discussion",
+            "url": "/r/singapore/?f=flair_name%3A%22Serious%20Discussion%22"
+          },
+          {
+            "text": "I Made This",
+            "url": "/r/singapore/?f=flair_name%3A%22I%20Made%20This%22"
+          },
+          {
+            "text": "Satire/Parody",
+            "url": "/r/singapore/?f=flair_name%3A%22Satire%2FParody%22"
+          },
+          {
+            "text": "Meme",
+            "url": "/r/singapore/?f=flair_name%3A%22Meme%22"
+          },
+          {
+            "text": "Announcement",
+            "url": "/r/singapore/?f=flair_name%3A%22Announcement%22"
+          }
+        ]
+      },
+      {
+        "title": "Other SG related Subs",
+        "content": [
+          {
+            "text": "r/askSingapore",
+            "url": "/r/askSingapore"
+          },
+          {
+            "text": "r/SGExams",
+            "url": "/r/SGExams"
+          },
+          {
+            "text": "r/NationalServiceSG",
+            "url": "/r/NationalServiceSG"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/singapore/moderators/"
+          }
+        ]
+      },
+      {
+        "title": "Installed Apps",
+        "content": [
+          {
+            "text": "Remove Macro",
+            "url": "https://developers.reddit.com/apps/purge-user"
+          },
+          {
+            "text": "Flooding Assistant",
+            "url": "https://developers.reddit.com/apps/floodassistant"
+          },
+          {
+            "text": "Modmail Automator",
+            "url": "https://developers.reddit.com/apps/auto-modmail"
+          },
+          {
+            "text": "Banhammer",
+            "url": "https://developers.reddit.com/apps/banhammerapp"
+          },
+          {
+            "text": "Evasion Guard",
+            "url": "https://developers.reddit.com/apps/evasion-guard"
+          },
+          {
+            "text": "Admin Tattler",
+            "url": "https://developers.reddit.com/apps/admin-tattler"
+          },
+          {
+            "text": "Comment Mop",
+            "url": "https://developers.reddit.com/apps/comment-nuke"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "PAP & WP's mean credibility scores converged in IPS Post-GE2025 election survey",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n6f292/pap_wps_mean_credibility_scores_converged_in_ips/",
-      "score": 13,
-      "comments": 6,
-      "post_id": "t3_1n6f292",
-      "post_type": "link",
-      "domain": "mothership.sg",
-      "author": "QuietSkein",
-      "author_id": "t2_rh6i5d8z",
+      "title": "Starhub cheapskate",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n91jo3/starhub_cheapskate/",
+      "score": 5,
+      "comments": 0,
+      "post_id": "t3_1n91jo3",
+      "post_type": "text",
+      "domain": "self.singapore",
+      "author": "ConditionPrudent1648",
+      "author_id": "t2_a12tjtze",
       "subreddit_id": "t5_2qh8c",
       "subreddit": "r/singapore",
-      "created_ts": "2025-09-02T09:39:31.867000+0000",
-      "content_href": "https://mothership.sg/2025/09/pap-wp-credibility-scores-ips/",
+      "created_ts": "2025-09-05T10:26:58.622000+0000",
+      "content_href": "https://www.reddit.com/r/singapore/comments/1n91jo3/starhub_cheapskate/",
+      "content_preview": "Been using starhub broadband for close to 8 years now. No longer under contract. Terminated their service recently as Simba offer high speed at lower price.Starhub wants to collect back the crappy modem inorder to terminate the service. If u have replaced their modem years ago, then u now need to pay them extra inorder to terminate the service. Also need to go down personally to their store to pay.Kinda cheapskate and making life hard for people who want to switch. If u have lost the customer, the last thing u will wanna do is to make the switch difficult for them. Sure fire way of 100% leaving a bad taste.I will now terminate all my mobile servcie with starhub too. I am 100% not going to starthub no matter how good the deal is in the future.Short sightedness for a market this small such as SG.",
+      "flair": [
+        "Opinion/Fluff Post"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Italian swimmers let off with warning after alleged shoplifting case at Changi Airport: Reports",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n3x6nb/italian_swimmers_let_off_with_warning_after/",
+      "score": 1077,
+      "comments": 195,
+      "post_id": "t3_1n3x6nb",
+      "post_type": "link",
+      "domain": "straitstimes.com",
+      "author": "Fearless_Help_8231",
+      "author_id": "t2_ssej3bi8w",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-08-30T09:18:49.964000+0000",
+      "content_href": "https://www.straitstimes.com/sport/italian-swimmers-let-off-with-warning-after-alleged-shoplifting-case-at-changi-airport-reports",
       "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Ex-Thai PM Thaksin fails to land in S'pore in private jet as Seletar Airport closes at 10pm",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n8wm4z/exthai_pm_thaksin_fails_to_land_in_spore_in/",
+      "score": 140,
+      "comments": 26,
+      "post_id": "t3_1n8wm4z",
+      "post_type": "link",
+      "domain": "mothership.sg",
+      "author": "fatenumber",
+      "author_id": "t2_3k1qqutw",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-09-05T05:15:12.126000+0000",
+      "content_href": "https://mothership.sg/2025/09/former-thai-pm-tries-to-fly-spore/",
+      "content_preview": "Tabloid/Low-quality source",
       "flair": [
         "Tabloid/Low-quality source"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "Perfectly Balanced Crescent Moon On MBS Tower",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n27pyx/perfectly_balanced_crescent_moon_on_mbs_tower/",
-      "score": 2604,
-      "comments": 69,
-      "post_id": "t3_1n27pyx",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "MervSoon",
-      "author_id": "t2_8auhy5a",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-08-28T09:36:26.198000+0000",
-      "content_href": "https://i.redd.it/t0nafye0dqlf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Image"
-      ],
-      "thumbnail_url": "https://preview.redd.it/perfectly-balanced-crescent-moon-on-mbs-tower-v0-t0nafye0dqlf1.jpeg?width=640&crop=smart&auto=webp&s=d874350e49b935f1c384aaa118a6382a6de92e3d"
-    },
-    {
-      "title": "Almost 400,000 Singapore bank customers stow away over S$30 billion under money lock feature",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n68p0n/almost_400000_singapore_bank_customers_stow_away/",
-      "score": 157,
-      "comments": 87,
-      "post_id": "t3_1n68p0n",
-      "post_type": "link",
-      "domain": "businesstimes.com.sg",
-      "author": "stackeddd888",
-      "author_id": "t2_1fe9q8wk7b",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-09-02T03:10:10.639000+0000",
-      "content_href": "https://www.businesstimes.com.sg/singapore/almost-400000-singapore-bank-customers-stow-away-over-s30-billion-under-money-lock-feature",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "All medical practitioners must report Kpod cases to CNB, MOH within 7 days",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n673ea/all_medical_practitioners_must_report_kpod_cases/",
-      "score": 196,
-      "comments": 222,
-      "post_id": "t3_1n673ea",
-      "post_type": "link",
-      "domain": "straitstimes.com",
-      "author": "deangsana",
-      "author_id": "t2_2raxwf4m",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-09-02T01:51:03.454000+0000",
-      "content_href": "https://www.straitstimes.com/singapore/courts-crime/all-medical-practitioners-must-report-kpod-cases-to-cnb-moh-within-7-days",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/3bPI9eWUUXcnEc-kbUFZRvTVddqefedBRtcWAF1HcuM.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=79fbae5522e2b6f1c4ab0e06c22159604922536d"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "Sorry 'No, Thanks' is Sold Out",
       "permalink": "https://www.reddit.com/r/singapore/comments/1mitpwc/sorry_no_thanks_is_sold_out/",
-      "score": 3107,
-      "comments": 81,
+      "score": 3116,
+      "comments": 82,
       "post_id": "t3_1mitpwc",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -104,92 +226,261 @@
       "flair": [
         "Image"
       ],
-      "thumbnail_url": "https://preview.redd.it/sorry-no-thanks-is-sold-out-v0-f3t8c8h9gbhf1.jpeg?width=640&crop=smart&auto=webp&s=43569c68f361a37f1afd3206846b14fab977599d"
+      "thumbnail_url": "https://preview.redd.it/sorry-no-thanks-is-sold-out-v0-f3t8c8h9gbhf1.jpeg?width=640&crop=smart&auto=webp&s=43569c68f361a37f1afd3206846b14fab977599d",
+      "is_promoted": false
     },
     {
-      "title": "FairPrice doubles discounts for blue, orange Chas cardholders with large families till Dec 31",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n687iu/fairprice_doubles_discounts_for_blue_orange_chas/",
-      "score": 61,
-      "comments": 23,
-      "post_id": "t3_1n687iu",
+      "title": "Man assaulted ex-girlfriend repeatedly, waiting for her under block and dragging her to car and hotel room",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n8w74d/man_assaulted_exgirlfriend_repeatedly_waiting_for/",
+      "score": 133,
+      "comments": 32,
+      "post_id": "t3_1n8w74d",
       "post_type": "link",
-      "domain": "straitstimes.com",
-      "author": "Rel4x1corner",
-      "author_id": "t2_16h95ebrxc",
+      "domain": "channelnewsasia.com",
+      "author": "G8ful_Lurker",
+      "author_id": "t2_4s6xp89x",
       "subreddit_id": "t5_2qh8c",
       "subreddit": "r/singapore",
-      "created_ts": "2025-09-02T02:45:53.743000+0000",
-      "content_href": "https://www.straitstimes.com/singapore/fairprice-doubles-discounts-for-blue-orange-chas-cardholders-with-large-families-till-dec-31",
+      "created_ts": "2025-09-05T04:51:04.765000+0000",
+      "content_href": "https://www.channelnewsasia.com/singapore/man-assault-ex-girlfriend-drag-car-hotel-5333956",
       "content_preview": "",
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/04R8nBiCrdJa9TNxidReODeYapsJTZugpbVY4mrgwv8.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=a19b5949a24fddf9eaefa62ce9abfb4b523c8a90"
+      "thumbnail_url": "https://external-preview.redd.it/vcGNBrOkVE2O3HdvdjWBXul-xWq8R02dglUjV99stWU.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=3f99a04c46824aaba151ec9c5a1487531b36e474",
+      "is_promoted": false
     },
     {
-      "title": "Norfasarie exposes how her son was penalised for choosing education over football",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n13x0v/norfasarie_exposes_how_her_son_was_penalised_for/",
-      "score": 1572,
-      "comments": 288,
-      "post_id": "t3_1n13x0v",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Rel4x1corner",
-      "author_id": "t2_16h95ebrxc",
+      "title": "September Bingo lai",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n5ckpk/september_bingo_lai/",
+      "score": 947,
+      "comments": 45,
+      "post_id": "t3_1n5ckpk",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "goldenpummel",
+      "author_id": "t2_e329p",
       "subreddit_id": "t5_2qh8c",
       "subreddit": "r/singapore",
-      "created_ts": "2025-08-27T01:25:49.977000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n13x0v",
+      "created_ts": "2025-09-01T02:09:28.704000+0000",
+      "content_href": "https://i.redd.it/6vx4dzqtogmf1.png",
       "content_preview": "",
       "flair": [
-        "Opinion/Fluff Post"
+        "Image"
       ],
-      "thumbnail_url": "https://preview.redd.it/norfasarie-exposes-how-her-son-was-penalised-for-choosing-v0-eard90yjsglf1.jpg?width=640&crop=smart&auto=webp&s=b65168a8e26d7f56860bdd1dda82f2bbed923216"
+      "thumbnail_url": "https://preview.redd.it/september-bingo-lai-v0-6vx4dzqtogmf1.png?width=640&crop=smart&auto=webp&s=bf70273e5d1cdeb7612536d6e2568d4a61ae0e3d",
+      "is_promoted": false
     },
     {
-      "title": "Rising COE prices is driving long-term car leasing",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n65gco/rising_coe_prices_is_driving_longterm_car_leasing/",
-      "score": 66,
-      "comments": 63,
-      "post_id": "t3_1n65gco",
-      "post_type": "link",
-      "domain": "youtu.be",
-      "author": "Extension-Mode-3584",
-      "author_id": "t2_fk2fked2",
+      "title": "Eden’s Prescription NAD+ Injections – Save Up to $81, No Office Visit Needed.",
+      "permalink": "https://www.reddit.com/user/TryEdenNow/comments/1modug3/edens_prescription_nad_injections_save_up_to_81/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1modug3",
+      "post_type": "image",
+      "domain": "tryeden.com",
+      "author": "TryEdenNow",
+      "author_id": "t2_tsach4qio",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-12T16:43:15.848000+0000",
+      "content_href": "https://www.tryeden.com/treatment/nad?srsltid=AfmBOopJ4JAWiz32ln4p2Jh85TCUAtHU_t1DqogvmfxhvCf3BGhKm64Zhttps://",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_arbfpe/styles/profileIcon_mqq74yfa5dhc1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=ebbff8ba34ac1a59201e6b767d8de7ace648229a",
+      "is_promoted": true
+    },
+    {
+      "title": "Would you consider this an excellent poster design?",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n8ttlg/would_you_consider_this_an_excellent_poster_design/",
+      "score": 157,
+      "comments": 76,
+      "post_id": "t3_1n8ttlg",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Annual_View3611",
+      "author_id": "t2_b8bmsjcq",
       "subreddit_id": "t5_2qh8c",
       "subreddit": "r/singapore",
-      "created_ts": "2025-09-02T00:31:56.052000+0000",
-      "content_href": "https://youtu.be/oqX3BuEtEFk?si=gsVNBzHE9eDt5iGM",
+      "created_ts": "2025-09-05T02:46:09.542000+0000",
+      "content_href": "https://i.redd.it/dmow66p3f9nf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Opinion/Fluff Post"
+        "Discussion"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://preview.redd.it/would-you-consider-this-an-excellent-poster-design-v0-dmow66p3f9nf1.jpeg?width=640&crop=smart&auto=webp&s=43458be7289cf0e9b89ee3cc9e4fa9ee28244a9b",
+      "is_promoted": false
     },
     {
-      "title": "Upswing in younger voters backing status quo in GE2025: IPS study",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n6eiz6/upswing_in_younger_voters_backing_status_quo_in/",
-      "score": 31,
-      "comments": 62,
-      "post_id": "t3_1n6eiz6",
+      "title": "Owners of old resale flats are 'willing buyers' who shouldn't expect 'special goodies' from govt: Ho Ching on VERS",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n8ya5j/owners_of_old_resale_flats_are_willing_buyers_who/",
+      "score": 97,
+      "comments": 99,
+      "post_id": "t3_1n8ya5j",
       "post_type": "link",
-      "domain": "straitstimes.com",
-      "author": "Waikuku3",
-      "author_id": "t2_4qu9k08c",
+      "domain": "mothership.sg",
+      "author": "justmewayne",
+      "author_id": "t2_uazlr",
       "subreddit_id": "t5_2qh8c",
       "subreddit": "r/singapore",
-      "created_ts": "2025-09-02T09:04:30.346000+0000",
-      "content_href": "https://www.straitstimes.com/singapore/politics/upswing-in-younger-voters-backing-status-quo-in-ge2025-ips-study",
+      "created_ts": "2025-09-05T06:57:08.175000+0000",
+      "content_href": "https://mothership.sg/2025/09/resale-buyers-willing-buyers-ho-ching/",
+      "content_preview": "Tabloid/Low-quality source",
+      "flair": [
+        "Tabloid/Low-quality source"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Perfectly Balanced Crescent Moon On MBS Tower",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n27pyx/perfectly_balanced_crescent_moon_on_mbs_tower/",
+      "score": 2668,
+      "comments": 73,
+      "post_id": "t3_1n27pyx",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "MervSoon",
+      "author_id": "t2_8auhy5a",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-08-28T09:36:26.198000+0000",
+      "content_href": "https://i.redd.it/t0nafye0dqlf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Image"
+      ],
+      "thumbnail_url": "https://preview.redd.it/perfectly-balanced-crescent-moon-on-mbs-tower-v0-t0nafye0dqlf1.jpeg?width=640&crop=smart&auto=webp&s=d874350e49b935f1c384aaa118a6382a6de92e3d",
+      "is_promoted": false
+    },
+    {
+      "title": "CDC vouchers a bitter pill for retailers excluded from scheme despite repeated appeals",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n8spwu/cdc_vouchers_a_bitter_pill_for_retailers_excluded/",
+      "score": 151,
+      "comments": 76,
+      "post_id": "t3_1n8spwu",
+      "post_type": "link",
+      "domain": "channelnewsasia.com",
+      "author": "Powerful_Office3936",
+      "author_id": "t2_16f1259vey",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-09-05T01:53:10.596000+0000",
+      "content_href": "https://www.channelnewsasia.com/singapore/cdc-vouchers-scheme-retailers-inconsistency-excluded-heartland-essential-services-5332431?fbclid=PAQ0xDSwMnIcVleHRuA2FlbQIxMQABp8EQ8DNtSbIdRZxwnG34uafmr3mLX0ykLOqbxm-iRq05DkEuD7kspI3R8YCF_aem_UOCk_MTZP2WK9y2kWn5Ulw",
       "content_preview": "",
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/b1auL81ByQV5c8JxPWj77B6iF41SyEruLemXMgSyigc.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=5915f970e07bc6884e0c0534da7bae0eb5d62ece"
+      "thumbnail_url": "https://external-preview.redd.it/h1dZEFS48reAfcPlmV8N42r5hgCFiihb4ivzLjRoZo0.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=b857c6320a1e64c757c8705b342b0480764e5812",
+      "is_promoted": false
+    },
+    {
+      "title": "Woman admits making false rape report because man refused to pay her S$1,200 after sex",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n5e9l2/woman_admits_making_false_rape_report_because_man/",
+      "score": 902,
+      "comments": 402,
+      "post_id": "t3_1n5e9l2",
+      "post_type": "link",
+      "domain": "channelnewsasia.com",
+      "author": "FlipFlopForALiving",
+      "author_id": "t2_4d9j1fn0",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-09-01T03:36:46.757000+0000",
+      "content_href": "https://www.channelnewsasia.com/singapore/woman-false-rape-police-report-sex-payment-5326051?utm_source=dlvr.it&utm_medium=threads",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/EGouCn_mryhC6Xpmn14Ej0V2qeK4cjFy4hcjDTbPP3k.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=f0316a631533318e985a4d97addedeeb18ffd918",
+      "is_promoted": false
+    },
+    {
+      "title": "Cost of living, jobs, S’pore’s future set to be on agenda when Parliament opens on Sept 5: Experts",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n8tux5/cost_of_living_jobs_spores_future_set_to_be_on/",
+      "score": 92,
+      "comments": 54,
+      "post_id": "t3_1n8tux5",
+      "post_type": "link",
+      "domain": "straitstimes.com",
+      "author": "ImpressiveStrike4196",
+      "author_id": "t2_gxsidbbj",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-09-05T02:47:58.889000+0000",
+      "content_href": "https://www.straitstimes.com/singapore/politics/cost-of-living-jobs-spores-future-to-be-on-the-agenda-when-parliament-opens-on-sept-5-experts",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/yTmLGORQNvLOpGOgu3RYJjyWRf71cC0KjKQogtVG7AY.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=1684bda4ddd80075af8a41e3143ccdf34ef12f4d",
+      "is_promoted": false
+    },
+    {
+      "title": "Three rows of ev luxury. Discover the 2026 All-Electric VISTIQ.",
+      "permalink": "https://www.reddit.com/user/cadillac/comments/1n6uk5e/three_rows_of_ev_luxury_discover_the_2026/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n6uk5e",
+      "post_type": "video",
+      "domain": "cadillac.com",
+      "author": "cadillac",
+      "author_id": "t2_ihjbwyxr",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-02T20:26:02.975000+0000",
+      "content_href": "https://v.redd.it/uwgz07zxrrmf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5npz9t/styles/profileIcon_giyjcw8923nc1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=68c0aac58a2e6034c69181eaa3e0aeb43eac76ef",
+      "is_promoted": true
+    },
+    {
+      "title": "‘Enough is enough’: Leong Mun Wai slams govt’s reluctance to tackle root causes of train disruptions",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n801xv/enough_is_enough_leong_mun_wai_slams_govts/",
+      "score": 854,
+      "comments": 185,
+      "post_id": "t3_1n801xv",
+      "post_type": "link",
+      "domain": "theonlinecitizen.com",
+      "author": "One-Employment-4887",
+      "author_id": "t2_bakidw9q",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-09-04T03:54:28.714000+0000",
+      "content_href": "https://www.theonlinecitizen.com/2025/09/04/enough-is-enough-leong-mun-wai-slams-govts-reluctance-to-tackle-root-causes-of-train-disruptions/",
+      "content_preview": "Tabloid/Low-quality source",
+      "flair": [
+        "Tabloid/Low-quality source"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Forum: Buyers, sellers of HDB flats must fully grasp impact of lease decay",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n8q9c0/forum_buyers_sellers_of_hdb_flats_must_fully/",
+      "score": 63,
+      "comments": 138,
+      "post_id": "t3_1n8q9c0",
+      "post_type": "link",
+      "domain": "straitstimes.com",
+      "author": "davechua",
+      "author_id": "t2_fyexv",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-09-04T23:57:14.351000+0000",
+      "content_href": "https://www.straitstimes.com/opinion/forum/forum-make-workshops-on-99-year-leasehold-mandatory-for-buyers-and-sellers",
+      "content_preview": "",
+      "flair": [
+        "Opinion / Fluff Post"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/LwDfVxDbWgibiDckZmIMRmQBg_8qxVC7riEDIA5fkMM.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=509623f34c250e4b8ce4cc318ed63c0ec4c01804",
+      "is_promoted": false
     },
     {
       "title": "Famous last words - if I raise my fist you're no match for me",
       "permalink": "https://www.reddit.com/r/singapore/comments/1mi10p1/famous_last_words_if_i_raise_my_fist_youre_no/",
-      "score": 2463,
+      "score": 2471,
       "comments": 560,
       "post_id": "t3_1mi10p1",
       "post_type": "video",
@@ -204,112 +495,34 @@
       "flair": [
         "Video"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/famous-last-words-if-i-raise-my-fist-youre-no-match-for-me-v0-cGE2NXR3MmoyNWhmMelJL0AptC3Dh05yS92jH-7gxbDVWTI6R8upIqDE9ptQ.png?format=pjpg&auto=webp&s=dfd745396ac08aaca5601ae03269025cfbb3f094"
+      "thumbnail_url": "https://external-preview.redd.it/famous-last-words-if-i-raise-my-fist-youre-no-match-for-me-v0-cGE2NXR3MmoyNWhmMelJL0AptC3Dh05yS92jH-7gxbDVWTI6R8upIqDE9ptQ.png?format=pjpg&auto=webp&s=dfd745396ac08aaca5601ae03269025cfbb3f094",
+      "is_promoted": false
     },
     {
-      "title": "Forum: Boatman refused to take us from Ubin unless we paid more",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n5pgbg/forum_boatman_refused_to_take_us_from_ubin_unless/",
-      "score": 316,
-      "comments": 136,
-      "post_id": "t3_1n5pgbg",
-      "post_type": "link",
-      "domain": "straitstimes.com",
-      "author": "Jammy_buttons2",
-      "author_id": "t2_3d6rv89u",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-09-01T13:59:34.377000+0000",
-      "content_href": "https://www.straitstimes.com/opinion/forum/forum-boatman-refused-to-take-us-from-ubin-unless-we-paid-more",
-      "content_preview": "",
-      "flair": [
-        "Opinion / Fluff Post"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/LwDfVxDbWgibiDckZmIMRmQBg_8qxVC7riEDIA5fkMM.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=509623f34c250e4b8ce4cc318ed63c0ec4c01804"
-    },
-    {
-      "title": "Photo from 2009 at Jurong East station",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n273yk/photo_from_2009_at_jurong_east_station/",
-      "score": 1122,
-      "comments": 91,
-      "post_id": "t3_1n273yk",
+      "title": "September Bingo (Round 2)",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n71ie8/september_bingo_round_2/",
+      "score": 842,
+      "comments": 47,
+      "post_id": "t3_1n71ie8",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "nandasithu",
-      "author_id": "t2_ijvzn",
+      "author": "goldenpummel",
+      "author_id": "t2_e329p",
       "subreddit_id": "t5_2qh8c",
       "subreddit": "r/singapore",
-      "created_ts": "2025-08-28T08:57:26.202000+0000",
-      "content_href": "https://i.redd.it/g6h9c8v16qlf1.jpeg",
+      "created_ts": "2025-09-03T01:18:20.240000+0000",
+      "content_href": "https://i.redd.it/uida0nvipumf1.png",
       "content_preview": "",
       "flair": [
         "Image"
       ],
-      "thumbnail_url": "https://preview.redd.it/photo-from-2009-at-jurong-east-station-v0-g6h9c8v16qlf1.jpeg?width=640&crop=smart&auto=webp&s=442c45fe6f9c29b6e800167b1d947913b2689b0b"
-    },
-    {
-      "title": "2 ST Engineering workers hurt after car, truck collide in Upper Changi Road; one was trapped in seat",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n5zk8i/2_st_engineering_workers_hurt_after_car_truck/",
-      "score": 76,
-      "comments": 26,
-      "post_id": "t3_1n5zk8i",
-      "post_type": "link",
-      "domain": "straitstimes.com",
-      "author": "Im_scrub",
-      "author_id": "t2_lj6kh",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-09-01T20:19:53.889000+0000",
-      "content_href": "https://www.straitstimes.com/singapore/2-hurt-after-car-crashes-head-on-into-truck-in-upper-changi-road-one-was-trapped-in-drivers-seat",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/Xg0_II30gGGLwcAErgM0VmqjVCHfO6W7-_s-l6HTV9U.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=6cffbaa0499e184a357ae9e13d83b8f38ff00169"
-    },
-    {
-      "title": "Italian swimmers let off with warning after alleged shoplifting case at Changi Airport: Reports",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n3x6nb/italian_swimmers_let_off_with_warning_after/",
-      "score": 1052,
-      "comments": 193,
-      "post_id": "t3_1n3x6nb",
-      "post_type": "link",
-      "domain": "straitstimes.com",
-      "author": "Fearless_Help_8231",
-      "author_id": "t2_ssej3bi8w",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-08-30T09:18:49.964000+0000",
-      "content_href": "https://www.straitstimes.com/sport/italian-swimmers-let-off-with-warning-after-alleged-shoplifting-case-at-changi-airport-reports",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "CNA Explains: What backbench MPs do in parliament",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n64qgh/cna_explains_what_backbench_mps_do_in_parliament/",
-      "score": 33,
-      "comments": 33,
-      "post_id": "t3_1n64qgh",
-      "post_type": "link",
-      "domain": "channelnewsasia.com",
-      "author": "Jonnyboo234",
-      "author_id": "t2_46ldeyud",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-09-01T23:58:14.630000+0000",
-      "content_href": "https://www.channelnewsasia.com/singapore/parliament-backbench-mp-questions-motions-cna-explains-5324151",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://preview.redd.it/september-bingo-round-2-v0-uida0nvipumf1.png?width=640&crop=smart&auto=webp&s=9a474be19bee1dde705f81c736b0770986751cc4",
+      "is_promoted": false
     },
     {
       "title": "THE PROJECTOR: THE END OF AN ERA",
       "permalink": "https://www.reddit.com/r/singapore/comments/1mu8jme/the_projector_the_end_of_an_era/",
-      "score": 2137,
+      "score": 2139,
       "comments": 359,
       "post_id": "t3_1mu8jme",
       "post_type": "image",
@@ -324,132 +537,76 @@
       "flair": [
         "Image"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
-      "title": "Comedy festival Just For Laughs to launch in Singapore with shows by Jimmy O Yang, John Bishop and an 'all-star' gala",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n6e9be/comedy_festival_just_for_laughs_to_launch_in/",
-      "score": 31,
-      "comments": 16,
-      "post_id": "t3_1n6e9be",
+      "title": "Mothership: Hotel Miramar closing down, staff gets 52-month severance pay for working 52 years",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n80vpr/mothership_hotel_miramar_closing_down_staff_gets/",
+      "score": 778,
+      "comments": 84,
+      "post_id": "t3_1n80vpr",
       "post_type": "link",
-      "domain": "cnalifestyle.channelnewsasia.com",
-      "author": "dodgethis_sg",
-      "author_id": "t2_gb9ot",
+      "domain": "mothership.sg",
+      "author": "tom-slacker",
+      "author_id": "t2_48ars611",
       "subreddit_id": "t5_2qh8c",
       "subreddit": "r/singapore",
-      "created_ts": "2025-09-02T08:46:59.904000+0000",
-      "content_href": "https://cnalifestyle.channelnewsasia.com/entertainment/just-laughs-singapore-2025-jimmy-o-yang-470591",
-      "content_preview": "",
+      "created_ts": "2025-09-04T04:38:35.340000+0000",
+      "content_href": "https://mothership.sg/2025/09/hotel-miramar-severance/",
+      "content_preview": "Tabloid/Low-quality source",
       "flair": [
-        "Opinion / Fluff Post"
+        "Tabloid/Low-quality source"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "Woman admits making false rape report because man refused to pay her S$1,200 after sex",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n5e9l2/woman_admits_making_false_rape_report_because_man/",
-      "score": 865,
-      "comments": 400,
-      "post_id": "t3_1n5e9l2",
-      "post_type": "link",
-      "domain": "channelnewsasia.com",
-      "author": "FlipFlopForALiving",
-      "author_id": "t2_4d9j1fn0",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-09-01T03:36:46.757000+0000",
-      "content_href": "https://www.channelnewsasia.com/singapore/woman-false-rape-police-report-sex-payment-5326051?utm_source=dlvr.it&utm_medium=threads",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/EGouCn_mryhC6Xpmn14Ej0V2qeK4cjFy4hcjDTbPP3k.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=f0316a631533318e985a4d97addedeeb18ffd918"
-    },
-    {
-      "title": "US comedian Sammy Obeid issued Singapore POFMA order over claims he was told to edit his script",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n5klkr/us_comedian_sammy_obeid_issued_singapore_pofma/",
-      "score": 347,
-      "comments": 234,
-      "post_id": "t3_1n5klkr",
-      "post_type": "link",
-      "domain": "channelnewsasia.com",
-      "author": "Rel4x1corner",
-      "author_id": "t2_16h95ebrxc",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-09-01T09:56:40.932000+0000",
-      "content_href": "https://www.channelnewsasia.com/singapore/sammy-obeid-issued-pofma-imda-censorship-mddi-5326591",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/-X-ATnFDIGSLjBRL9VuaVvuJUqFuthTHraWFtMjqJXk.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=c66ea839f185a31adf6e4831fccb34496a571e7a"
-    },
-    {
-      "title": "Shanmugam lays out S’pore’s approach to helping Palestinians, responding to Israel’s actions in Gaza",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n6dkz6/shanmugam_lays_out_spores_approach_to_helping/",
-      "score": 23,
-      "comments": 0,
-      "post_id": "t3_1n6dkz6",
+      "title": "Jail for man who drove at up to 140kmh, causing crash that split car and killed his 2 passengers",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n8bo4j/jail_for_man_who_drove_at_up_to_140kmh_causing/",
+      "score": 336,
+      "comments": 105,
+      "post_id": "t3_1n8bo4j",
       "post_type": "link",
       "domain": "straitstimes.com",
-      "author": "Twrd4321",
-      "author_id": "t2_ojuqd",
+      "author": "wlscle",
+      "author_id": "t2_1opor4ye",
       "subreddit_id": "t5_2qh8c",
       "subreddit": "r/singapore",
-      "created_ts": "2025-09-02T08:01:17.129000+0000",
-      "content_href": "https://www.straitstimes.com/singapore/politics/shanmugam-lays-out-spores-approach-to-helping-palestinians-responding-to-israels-actions-in-gaza",
+      "created_ts": "2025-09-04T14:26:44.270000+0000",
+      "content_href": "https://www.straitstimes.com/singapore/courts-crime/jail-for-man-who-drove-at-140kmh-and-caused-crash-that-split-car-and-killed-both-his-passengers",
       "content_preview": "",
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
     },
     {
-      "title": "Surprised someone would dare to do this in Singapore",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n2r31b/surprised_someone_would_dare_to_do_this_in/",
-      "score": 860,
-      "comments": 110,
-      "post_id": "t3_1n2r31b",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "mrnakabutt",
-      "author_id": "t2_pu8r31fl6",
+      "title": "Italian swimmers given conditional warning for shoplifting at Changi, banned from re-entering S'pore",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n850nl/italian_swimmers_given_conditional_warning_for/",
+      "score": 401,
+      "comments": 124,
+      "post_id": "t3_1n850nl",
+      "post_type": "link",
+      "domain": "straitstimes.com",
+      "author": "drwackadoodles",
+      "author_id": "t2_7d6tqbqj",
       "subreddit_id": "t5_2qh8c",
       "subreddit": "r/singapore",
-      "created_ts": "2025-08-28T23:01:56.149000+0000",
-      "content_href": "https://i.redd.it/c7hjk02qculf1.jpeg",
+      "created_ts": "2025-09-04T08:59:42.549000+0000",
+      "content_href": "https://www.straitstimes.com/singapore/italian-swimmers-given-conditional-warning-for-shoplifting-at-changi-banned-from-re-entering-spore",
       "content_preview": "",
       "flair": [
-        "Image"
+        "News"
       ],
-      "thumbnail_url": "https://preview.redd.it/surprised-someone-would-dare-to-do-this-in-singapore-v0-c7hjk02qculf1.jpeg?width=640&crop=smart&auto=webp&s=618f1ed1e61f38fe03175ea39b713c03ca4c6d50"
-    },
-    {
-      "title": "September Bingo lai",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n5ckpk/september_bingo_lai/",
-      "score": 834,
-      "comments": 34,
-      "post_id": "t3_1n5ckpk",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "goldenpummel",
-      "author_id": "t2_e329p",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-09-01T02:09:28.704000+0000",
-      "content_href": "https://i.redd.it/6vx4dzqtogmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Image"
-      ],
-      "thumbnail_url": "https://preview.redd.it/september-bingo-lai-v0-6vx4dzqtogmf1.png?width=640&crop=smart&auto=webp&s=bf70273e5d1cdeb7612536d6e2568d4a61ae0e3d"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     },
     {
       "title": "Happy Neh-ational Day",
       "permalink": "https://www.reddit.com/r/singapore/comments/1mlcolk/happy_nehational_day/",
-      "score": 2126,
+      "score": 2131,
       "comments": 90,
       "post_id": "t3_1mlcolk",
       "post_type": "image",
@@ -464,192 +621,53 @@
       "flair": [
         "Opinion/Fluff Post"
       ],
-      "thumbnail_url": "https://preview.redd.it/happy-neh-ational-day-v0-m84n0r12awhf1.jpeg?width=640&crop=smart&auto=webp&s=b3e1cbe14218e33d7d8c0779db1054706baa19b2"
+      "thumbnail_url": "https://preview.redd.it/happy-neh-ational-day-v0-m84n0r12awhf1.jpeg?width=640&crop=smart&auto=webp&s=b3e1cbe14218e33d7d8c0779db1054706baa19b2",
+      "is_promoted": false
     },
     {
-      "title": "School camp instructor sent photo of private parts to 15-year-old girl, gets jail",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n5lk92/school_camp_instructor_sent_photo_of_private/",
-      "score": 279,
-      "comments": 30,
-      "post_id": "t3_1n5lk92",
-      "post_type": "link",
-      "domain": "channelnewsasia.com",
-      "author": "Im_scrub",
-      "author_id": "t2_lj6kh",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-09-01T10:54:01.194000+0000",
-      "content_href": "https://www.channelnewsasia.com/singapore/school-camp-instructor-jail-photo-private-girl-5326506",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/kv0vwLquYwudTPaUw_WCSdjp8qalguv2zKKOYjpMkyI.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=62303d4433550d38790b6f8ba243a9c848871218"
-    },
-    {
-      "title": "No Country For Young Grads",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n4q9o5/no_country_for_young_grads/",
-      "score": 688,
-      "comments": 195,
-      "post_id": "t3_1n4q9o5",
-      "post_type": "link",
-      "domain": "kainesianmacro.substack.com",
-      "author": "assault_potato1",
-      "author_id": "t2_r78dqew",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-08-31T09:21:50.696000+0000",
-      "content_href": "https://kainesianmacro.substack.com/p/no-country-for-young-grads",
-      "content_preview": "",
-      "flair": [
-        "Opinion/Fluff Post"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/Fs8snfz8zb_1SUjyRMzuRQrgVnQ6_qhKsIUHSEniL-k.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=0d90ede832207a1968be5095b68e3af07037fc5c"
-    },
-    {
-      "title": "Singapore parents, students taken aback by tough vaping rules in schools, say teens may find ways around them",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n5qp7v/singapore_parents_students_taken_aback_by_tough/",
-      "score": 133,
-      "comments": 62,
-      "post_id": "t3_1n5qp7v",
-      "post_type": "link",
-      "domain": "channelnewsasia.com",
-      "author": "Waikuku3",
-      "author_id": "t2_4qu9k08c",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-09-01T14:48:08.895000+0000",
-      "content_href": "https://www.channelnewsasia.com/singapore/vaping-schools-nicotine-test-metal-detectors-5320866?cid=internal_sharetool_androidphone_01092025_cna",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/eLg_NzmhrkYjX5D7CzhlvxLtzmlalSBW2ErwESVVPoM.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=37c8aa4a6433c34368bcfdaf99209e6c2bdfcf5a"
-    },
-    {
-      "title": "McDonald’s Singapore launches new McCrispy burger; customers can get them free at stores on Sept 4",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n5jfzb/mcdonalds_singapore_launches_new_mccrispy_burger/",
-      "score": 173,
-      "comments": 48,
-      "post_id": "t3_1n5jfzb",
-      "post_type": "link",
-      "domain": "straitstimes.com",
-      "author": "Waikuku3",
-      "author_id": "t2_4qu9k08c",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-09-01T08:42:46.371000+0000",
-      "content_href": "https://www.straitstimes.com/life/food/mcdonalds-singapore-launches-new-mccrispy-burger-customers-can-get-them-free-at-stores-on-sept-4",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/n6rEpPJ63tEVoOwHgvBvr8DIhdSHoMZTMAtIKY6vABQ.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=5b8a970c77f510f90de070e0b5d7ed9c6fd6e0ca"
-    },
-    {
-      "title": "Singapore, Australia and Japan join countries suspending post to US",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n0g10e/singapore_australia_and_japan_join_countries/",
-      "score": 674,
-      "comments": 129,
-      "post_id": "t3_1n0g10e",
-      "post_type": "link",
-      "domain": "channelnewsasia.com",
-      "author": "AgileComparison3957",
-      "author_id": "t2_br5bahx70",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-08-26T08:12:26.775000+0000",
-      "content_href": "https://www.channelnewsasia.com/world/australia-singpost-suspends-post-us-donald-trump-tariffs-5313976?cid=WAcna_09062023",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/rLT2fn5BjZXDO1Vk9Z6NXjBVMGw81-GqXLJps3s0Veo.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=979e2c1166ccca6ff3411093e32086ed43a0dd9a"
-    },
-    {
-      "title": "The People Don’t Even Know The Crescent Moon Is Behind Them…",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n38thz/the_people_dont_even_know_the_crescent_moon_is/",
-      "score": 668,
-      "comments": 27,
-      "post_id": "t3_1n38thz",
+      "title": "Fortune favors the ambitious. Get ahead with WSJ+, offering insights from The Wall Street Journal, Barron’s, MarketWatch and Investor’s Business Daily.",
+      "permalink": "https://www.reddit.com/user/WSJ_Official/comments/1n6jbb1/fortune_favors_the_ambitious_get_ahead_with_wsj/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n6jbb1",
       "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "MervSoon",
-      "author_id": "t2_8auhy5a",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-08-29T14:23:15.199000+0000",
-      "content_href": "https://i.redd.it/bir9uwg3xylf1.jpeg",
+      "domain": "wsj.com",
+      "author": "WSJ_Official",
+      "author_id": "t2_a1tiz0z",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-02T13:21:37.155000+0000",
+      "content_href": "https://www.wsj.com/subscribe/?page=wsjpluss&swg=true&trackingCode=a064c536&ucid=WSJ_BMK_RED_BRA_BND_WBC_SAL_NAP_F5S_NAP&n2IKsaD9=n2IKsaD9&Pg9aWOPT=Pg9aWOPT&Cp5dKJWb=Cp5dKJWb&APCc9OU1=APCc9OU1",
       "content_preview": "",
-      "flair": [
-        "Image"
-      ],
-      "thumbnail_url": "https://preview.redd.it/the-people-dont-even-know-the-crescent-moon-is-behind-them-v0-bir9uwg3xylf1.jpeg?auto=webp&s=8548511962c6308ba9a10c865afbaa14f8e13e58"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7i0ok/styles/profileIcon_cdx7wxzsbh651.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=b24f28cc2b5384a3efa7db1824c0e13adefeb491",
+      "is_promoted": true
     },
     {
-      "title": "Prive Group shuts all its restaurants, the latest F&B casualty",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n5dml8/prive_group_shuts_all_its_restaurants_the_latest/",
-      "score": 390,
-      "comments": 130,
-      "post_id": "t3_1n5dml8",
+      "title": "Malaysia 2-[1] Singapore - Ilhan Fandi 72 (Great Goal)",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n8cqu2/malaysia_21_singapore_ilhan_fandi_72_great_goal/",
+      "score": 112,
+      "comments": 21,
+      "post_id": "t3_1n8cqu2",
       "post_type": "link",
-      "domain": "straitstimes.com",
-      "author": "Jammy_buttons2",
-      "author_id": "t2_3d6rv89u",
+      "domain": "streamain.com",
+      "author": "AthleticAsthmatic",
+      "author_id": "t2_3z525s19",
       "subreddit_id": "t5_2qh8c",
       "subreddit": "r/singapore",
-      "created_ts": "2025-09-01T03:02:56.089000+0000",
-      "content_href": "https://www.straitstimes.com/life/food/prive-group-shuts-all-its-restaurants-the-latest-fb-casualty?utm_campaign=stfb&utm_medium=social&utm_source=facebook&fbclid=IwZnRzaAMh6_xleHRuA2FlbQIxMQABHvW9pi-hEU1WIwEXT63ih3IsMpIB2SrudxmN7YOk7ja90gBwOJ9tiNtTnUGD_aem_b3Pya8NeOfqp9fibVqug-Q",
+      "created_ts": "2025-09-04T15:07:04.853000+0000",
+      "content_href": "https://streamain.com/en/poBl65kSH3cD2JH/watch",
       "content_preview": "",
       "flair": [
-        "News"
+        "Video"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/wMbVRWehjtXNSHgTcLi4L8r1QW7HF20eBgz7ZIv2q-0.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=51491fa56dc307cb1addb673aa40926faab5d52a"
-    },
-    {
-      "title": "Mediacorp lays off 93 employees amid evolving media landscape, economic uncertainty",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n5g558/mediacorp_lays_off_93_employees_amid_evolving/",
-      "score": 255,
-      "comments": 74,
-      "post_id": "t3_1n5g558",
-      "post_type": "link",
-      "domain": "straitstimes.com",
-      "author": "deangsana",
-      "author_id": "t2_2raxwf4m",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-09-01T05:18:38.607000+0000",
-      "content_href": "https://www.straitstimes.com/singapore/mediacorp-lays-off-93-employees-amid-evolving-media-landscape-economic-uncertainty",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/0Lg1aaomXiD0I1pxdp15HXVlK0sgiypTpYMzfugdi94.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=ad6bb0ea8eea7223a4903bf47521ecac78da5745"
-    },
-    {
-      "title": "Chick-fil-A opening first full-service restaurants in Singapore",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n1cz42/chickfila_opening_first_fullservice_restaurants/",
-      "score": 652,
-      "comments": 172,
-      "post_id": "t3_1n1cz42",
-      "post_type": "link",
-      "domain": "sg.news.yahoo.com",
-      "author": "nftskeptics",
-      "author_id": "t2_j2wpsyo5",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-08-27T10:07:44.429000+0000",
-      "content_href": "https://sg.news.yahoo.com/chick-fil-opening-first-full-164611745.html",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://external-preview.redd.it/oWacHKa5N7Zc9OvF1BhxJcUOw4KBP1N1omE7DKOsSEs.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=60c99d937a0d0ced25e51ca90e0d907f742e4173",
+      "is_promoted": false
     },
     {
       "title": "When there are troubles to go through",
       "permalink": "https://www.reddit.com/r/singapore/comments/1mlpmgp/when_there_are_troubles_to_go_through/",
-      "score": 1827,
+      "score": 1829,
       "comments": 70,
       "post_id": "t3_1mlpmgp",
       "post_type": "image",
@@ -664,153 +682,596 @@
       "flair": [
         "Image"
       ],
-      "thumbnail_url": "https://preview.redd.it/when-there-are-troubles-to-go-through-v0-shog0ppjyzhf1.jpeg?width=640&crop=smart&auto=webp&s=7f1af64a2778c49bff4f2fefe563cb379607b3e7"
+      "thumbnail_url": "https://preview.redd.it/when-there-are-troubles-to-go-through-v0-shog0ppjyzhf1.jpeg?width=640&crop=smart&auto=webp&s=7f1af64a2778c49bff4f2fefe563cb379607b3e7",
+      "is_promoted": false
     },
     {
-      "title": "Pov: CCL commuter today",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n5c1pb/pov_ccl_commuter_today/",
-      "score": 316,
-      "comments": 4,
-      "post_id": "t3_1n5c1pb",
-      "post_type": "image",
-      "domain": "i.redd.it",
+      "title": "4-bedder condo in Marina Bay lost over S$3 million in just 3 years",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n85uyb/4bedder_condo_in_marina_bay_lost_over_s3_million/",
+      "score": 266,
+      "comments": 70,
+      "post_id": "t3_1n85uyb",
+      "post_type": "link",
+      "domain": "99.co",
+      "author": "DrCalFun",
+      "author_id": "t2_13cxur",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-09-04T09:52:00.604000+0000",
+      "content_href": "https://www.99.co/singapore/insider/marina-bay-residences-condo-loss-3-million-2025/?utm_source=telegram&utm_medium=99co+property+insider",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "US comedian Sammy Obeid fails to comply with POFMA order; Meta, X directed to take action",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n84l9b/us_comedian_sammy_obeid_fails_to_comply_with/",
+      "score": 205,
+      "comments": 96,
+      "post_id": "t3_1n84l9b",
+      "post_type": "link",
+      "domain": "channelnewsasia.com",
       "author": "Rel4x1corner",
       "author_id": "t2_16h95ebrxc",
       "subreddit_id": "t5_2qh8c",
       "subreddit": "r/singapore",
-      "created_ts": "2025-09-01T01:42:31.815000+0000",
-      "content_href": "https://i.redd.it/bxbyk2u3kgmf1.jpeg",
+      "created_ts": "2025-09-04T08:30:52.908000+0000",
+      "content_href": "https://www.channelnewsasia.com/singapore/sammy-obeid-pofma-meta-x-targeted-correction-direction-imda-mddi-censorship-5332381",
       "content_preview": "",
       "flair": [
-        "Meme"
+        "News"
       ],
-      "thumbnail_url": "https://preview.redd.it/pov-ccl-commuter-today-v0-bxbyk2u3kgmf1.jpeg?width=640&crop=smart&auto=webp&s=9b61066863d22e270889c5ed0c0355f8e793b184"
+      "thumbnail_url": "https://external-preview.redd.it/E-oj4hk5E9RoZ4RppLx5EU43S2sFSzWmcOY_fBVBZnc.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=029a26ca4c7f3b5940d0242ffbc0579eb3c24a78",
+      "is_promoted": false
     },
     {
-      "title": "Singapore authorities in discussions about app-based bookings for cross-border taxi services",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n6dibw/singapore_authorities_in_discussions_about/",
-      "score": 15,
-      "comments": 11,
-      "post_id": "t3_1n6dibw",
+      "title": "Mandatory treatment order for aesthetic doctor who harassed ex-girlfriend, abducted her off the street",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n86ddn/mandatory_treatment_order_for_aesthetic_doctor/",
+      "score": 128,
+      "comments": 35,
+      "post_id": "t3_1n86ddn",
       "post_type": "link",
       "domain": "channelnewsasia.com",
-      "author": "lemonmangotart",
-      "author_id": "t2_102dhgkylp",
+      "author": "deangsana",
+      "author_id": "t2_2raxwf4m",
       "subreddit_id": "t5_2qh8c",
       "subreddit": "r/singapore",
-      "created_ts": "2025-09-02T07:56:33.257000+0000",
-      "content_href": "https://www.channelnewsasia.com/singapore/causeway-jb-malaysia-taxi-cross-border-ride-hailing-apps-5327931",
+      "created_ts": "2025-09-04T10:22:46.612000+0000",
+      "content_href": "https://www.channelnewsasia.com/singapore/chua-cheng-yu-veritas-medical-aesthetics-doctor-abduction-5332466",
       "content_preview": "",
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/HmQPYa6d6F-kR0AbVeWui83ZM1S5RXq5dRmh8B4TwJI.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=97d94a2ccce33fb282d05389e9d8855eef90721a"
+      "thumbnail_url": "https://external-preview.redd.it/6T-TWbdbkHn5DDMeBsUSftWAZj8-MJAVtFaU3SKFa3Q.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=cb012adae26d0416d8e1a709a961f65e04290173",
+      "is_promoted": false
     },
     {
-      "title": "PM Wong to visit India from Sept 2 to 4, marking 60 years of diplomatic ties",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n6cj7f/pm_wong_to_visit_india_from_sept_2_to_4_marking/",
-      "score": 39,
-      "comments": 13,
-      "post_id": "t3_1n6cj7f",
+      "title": "'Extremely unreasonable': Judge rejects wife's claims for maintenance and university fee payment by husband",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n83941/extremely_unreasonable_judge_rejects_wifes_claims/",
+      "score": 214,
+      "comments": 49,
+      "post_id": "t3_1n83941",
       "post_type": "link",
-      "domain": "straitstimes.com",
-      "author": "ImpressiveStrike4196",
-      "author_id": "t2_gxsidbbj",
+      "domain": "channelnewsasia.com",
+      "author": "onemanbrigade",
+      "author_id": "t2_12ypv8",
       "subreddit_id": "t5_2qh8c",
       "subreddit": "r/singapore",
-      "created_ts": "2025-09-02T06:52:22.607000+0000",
-      "content_href": "https://www.straitstimes.com/singapore/politics/pm-wong-to-visit-india-from-sept-2-to-4-marking-60-years-of-diplomatic-ties",
+      "created_ts": "2025-09-04T07:02:24.461000+0000",
+      "content_href": "https://www.channelnewsasia.com/singapore/judge-reject-claim-maintenance-university-fees-wife-5332071",
       "content_preview": "",
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/9CAE1gxG5UhZ73F2480WKY8cqbBne8ZY9ts06Pzc_3w.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=77e4314642bcece398428cdf15829a8d643be3de"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "What’s with the heavy flak that we are receiving over supposedly “censoring” comedy?",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n6997h/whats_with_the_heavy_flak_that_we_are_receiving/",
+      "title": "Mothership: S'pore woman, 56, spends S$915 on matchmaking service, denied refund after matches didn't meet her criteria",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n8xz5j/mothership_spore_woman_56_spends_s915_on/",
+      "score": 47,
+      "comments": 21,
+      "post_id": "t3_1n8xz5j",
+      "post_type": "link",
+      "domain": "mothership.sg",
+      "author": "tom-slacker",
+      "author_id": "t2_48ars611",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-09-05T06:37:56.332000+0000",
+      "content_href": "https://mothership.sg/2025/09/woman-matchmaking-agency-denied-refund/",
+      "content_preview": "Tabloid/Low-quality source",
+      "flair": [
+        "Tabloid/Low-quality source"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "ELI5: How do I navigate the coverage and assistance options of an injectable? We’re here to help.",
+      "permalink": "https://www.reddit.com/user/CABENUVA_US/comments/1l9c4r7/eli5_how_do_i_navigate_the_coverage_and/",
       "score": 0,
-      "comments": 19,
-      "post_id": "t3_1n6997h",
-      "post_type": "text",
-      "domain": "self.singapore",
-      "author": "throwaway_151516",
-      "author_id": "t2_kc278a899",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-09-02T03:39:00.216000+0000",
-      "content_href": "https://www.reddit.com/r/singapore/comments/1n6997h/whats_with_the_heavy_flak_that_we_are_receiving/",
-      "content_preview": "With the recent Sammy Obeid saga with IMDA and MDDI over his alleged “censorship of comedy” and the requirement to send a script for checking before the show, there has been a lot of criticism of Singapore’s “regulation of comedy” especially on his own Instagram and X comments where everyone is currently shitting on us for “restricting what can or can not be said” but do they fail to realise it also applies to other countries? If one were to host a standup comedy in Thailand and make crude jokes about the monarchy, would they expect to walk off scot free or even be allowed to return without needing to face repercussions? Same can be said if one hosts a standup comedy in Malaysia or the Middle East and make a joke about religion, do they also expect to walk off with zero accountability or retribution? It’s extremely hypocritical how we are getting flamed online for requiring a license or whatever regulatory framework that needs to be submitted online when it is also the same or worse in other countries. There’s no doubt that we can do better in terms of regulations but people cant seem to see the greater good of it by preventing any negative externalities on society if a certain group gets offended and things start to get worse from there on and it’s especially those who ARENT Singaporeans nor have any experience regarding how the comedy scene making the most noise online and they are expecting western culture and expectations to be accepted and implemented in non-western societies where one can make a snobby comment and pass it off as a joke and expecting us to be “okay with it” TLDR: Why are we getting so much criticism while it is not the same given to countries with relatively stricter standards and regulations regarding comedy?",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
+      "comments": 0,
+      "post_id": "t3_1l9c4r7",
+      "post_type": "video",
+      "domain": "cabenuva.com",
+      "author": "CABENUVA_US",
+      "author_id": "t2_1pw87yfa2s",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-06-12T03:15:33.165000+0000",
+      "content_href": "https://v.redd.it/esd5n9cchd6f1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eie89a/styles/profileIcon_nzqipq663b2f1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=8e5d3e0b929eee856c214e07ea80bcf2db98ed15",
+      "is_promoted": true
     },
     {
-      "title": "Cathay Cineplexes to undergo voluntary liquidation",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n5b72e/cathay_cineplexes_to_undergo_voluntary_liquidation/",
-      "score": 144,
-      "comments": 53,
-      "post_id": "t3_1n5b72e",
+      "title": "Singapore Airlines just launched their new inflight safety video. What does everyone think about it?",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n80o5o/singapore_airlines_just_launched_their_new/",
+      "score": 221,
+      "comments": 87,
+      "post_id": "t3_1n80o5o",
       "post_type": "link",
-      "domain": "businesstimes.com.sg",
-      "author": "MyWholeTeamsDead",
-      "author_id": "t2_kot5z",
+      "domain": "youtube.com",
+      "author": "ClearlyCryptic",
+      "author_id": "t2_ul8ypv",
       "subreddit_id": "t5_2qh8c",
       "subreddit": "r/singapore",
-      "created_ts": "2025-09-01T00:59:33.772000+0000",
-      "content_href": "https://www.businesstimes.com.sg/companies-markets/cathay-cineplexes-undergo-voluntary-liquidation",
+      "created_ts": "2025-09-04T04:27:05.357000+0000",
+      "content_href": "https://www.youtube.com/watch?v=dOpwFr5-iEw",
       "content_preview": "",
       "flair": [
-        "News"
+        "Video"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "Rents for privately held HDB shops double in past year; prices hold steady for those leased from HDB",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n59s32/rents_for_privately_held_hdb_shops_double_in_past/",
-      "score": 143,
-      "comments": 38,
-      "post_id": "t3_1n59s32",
+      "title": "No Country For Young Grads",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n4q9o5/no_country_for_young_grads/",
+      "score": 714,
+      "comments": 195,
+      "post_id": "t3_1n4q9o5",
       "post_type": "link",
-      "domain": "straitstimes.com",
-      "author": "davechua",
-      "author_id": "t2_fyexv",
+      "domain": "kainesianmacro.substack.com",
+      "author": "assault_potato1",
+      "author_id": "t2_r78dqew",
       "subreddit_id": "t5_2qh8c",
       "subreddit": "r/singapore",
-      "created_ts": "2025-08-31T23:49:44.142000+0000",
-      "content_href": "https://www.straitstimes.com/singapore/housing/rents-for-privately-held-hdb-shops-double-in-past-year-prices-hold-steady-for-those-leased-from-hdb",
+      "created_ts": "2025-08-31T09:21:50.696000+0000",
+      "content_href": "https://kainesianmacro.substack.com/p/no-country-for-young-grads",
       "content_preview": "",
       "flair": [
-        "News"
+        "Opinion/Fluff Post"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/fEgTjlQ_UoDWsDWw0-RCl6rjTmQCo75VB7GqZ4a8-48.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=2d96baebb26a9f494dd233e6c5718e864081a4be"
+      "thumbnail_url": "https://external-preview.redd.it/Fs8snfz8zb_1SUjyRMzuRQrgVnQ6_qhKsIUHSEniL-k.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=0d90ede832207a1968be5095b68e3af07037fc5c",
+      "is_promoted": false
     },
     {
-      "title": "Forum: Review rule on overseas property ownership and public housing",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n68l32/forum_review_rule_on_overseas_property_ownership/",
-      "score": 1,
-      "comments": 68,
-      "post_id": "t3_1n68l32",
+      "title": "Man filmed trying to flee HSA sting in Bishan given new charges over having 800 Kpods for sale",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n8xc8r/man_filmed_trying_to_flee_hsa_sting_in_bishan/",
+      "score": 109,
+      "comments": 33,
+      "post_id": "t3_1n8xc8r",
       "post_type": "link",
       "domain": "straitstimes.com",
       "author": "Jammy_buttons2",
       "author_id": "t2_3d6rv89u",
       "subreddit_id": "t5_2qh8c",
       "subreddit": "r/singapore",
-      "created_ts": "2025-09-02T03:04:49.882000+0000",
-      "content_href": "https://www.straitstimes.com/opinion/forum/forum-review-rule-on-overseas-property-ownership-and-public-housing",
+      "created_ts": "2025-09-05T05:58:35.840000+0000",
+      "content_href": "https://www.straitstimes.com/singapore/courts-crime/man-filmed-trying-to-flee-hsa-raid-in-bishan-given-new-charges-over-having-800-kpods-for-sale?utm_campaign=stfb&utm_medium=social&utm_source=facebook&fbclid=IwZnRzaAMnWy1leHRuA2FlbQIxMQABHmKuiAfoFgDQ4RrFoMiXIbyjOtRFZ1XOLhNTDufLEFpRc6IxAExrj_PFQZzm_aem_RbEKLHTSv1l2W9GdAKcYbQ",
       "content_preview": "",
       "flair": [
-        "Opinion / Fluff Post"
+        "News"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/LwDfVxDbWgibiDckZmIMRmQBg_8qxVC7riEDIA5fkMM.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=509623f34c250e4b8ce4cc318ed63c0ec4c01804"
+      "thumbnail_url": "https://external-preview.redd.it/mgI4P8sdJ27Un8MQTV0QU-AcDXkj5ISXbBLEdhnsid8.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=b592997eede96ed809f50b4880a6f6e6bbcd9d00",
+      "is_promoted": false
+    },
+    {
+      "title": "Want to know why you can’t afford a COE Cat A vehicle?",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n7vvfi/want_to_know_why_you_cant_afford_a_coe_cat_a/",
+      "score": 265,
+      "comments": 91,
+      "post_id": "t3_1n7vvfi",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "okieS_dnarG",
+      "author_id": "t2_yz66h5buo",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-09-04T00:32:39.506000+0000",
+      "content_href": "https://v.redd.it/a2faw03dm1nf1",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/want-to-know-why-you-cant-afford-a-coe-cat-a-vehicle-v0-OGsxdjFncmNtMW5mMZdo6vJI13nqcUf37_8Q0VKz6iW1gV_QxVUUsABv9qym.png?width=640&crop=smart&format=pjpg&auto=webp&s=63f997b7477fe3fa52fd076e41db737ecb71f7f9",
+      "is_promoted": false
+    },
+    {
+      "title": "S’pore’s cross-border bus services to depart from JB checkpoint earlier at 4.50am on weekdays",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n82b27/spores_crossborder_bus_services_to_depart_from_jb/",
+      "score": 80,
+      "comments": 21,
+      "post_id": "t3_1n82b27",
+      "post_type": "link",
+      "domain": "straitstimes.com",
+      "author": "Signal-Season-2463",
+      "author_id": "t2_1ajkyp8yzu",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-09-04T06:02:49.083000+0000",
+      "content_href": "https://www.straitstimes.com/singapore/singapores-cross-border-bus-services-to-start-leaving-jb-checkpoint-earlier-at-4-50am-on-weekdays?utm_medium=social&utm_source=telegram&utm_campaign=sttg",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Man charged after allegedly trying to deposit counterfeit $10,000 note at bank",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n81zze/man_charged_after_allegedly_trying_to_deposit/",
+      "score": 72,
+      "comments": 20,
+      "post_id": "t3_1n81zze",
+      "post_type": "link",
+      "domain": "straitstimes.com",
+      "author": "Powerful_Office3936",
+      "author_id": "t2_16f1259vey",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-09-04T05:44:11.085000+0000",
+      "content_href": "https://www.straitstimes.com/singapore/courts-crime/man-charged-after-he-allegedly-tried-to-deposit-counterfeit-10k-note-at-bank?utm_campaign=stfb&utm_medium=social&utm_source=facebook&fbclid=IwZXh0bgNhZW0CMTEAAR5-n3bYI-cFB8Okf3llqgBIzPmmFCW4jaArrCTIoPMvYIlSwfroo636YOqKNA_aem_D5Kd9rS0_QlDoZVeqoQ4DA",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/gQ0ZdLCr8ku62JOnDhbRsjMLDx2DtMsNVbOlM39JSbU.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=86b2f074f4b8c65f77257978c2b9d6f58140f77d",
+      "is_promoted": false
+    },
+    {
+      "title": "Oldest veteran at NDP 2025: 95 year old SSG (Ret) Booi Seow Kiat",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1mlp4ld/oldest_veteran_at_ndp_2025_95_year_old_ssg_ret/",
+      "score": 1740,
+      "comments": 74,
+      "post_id": "t3_1mlp4ld",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "moonlighthorfun",
+      "author_id": "t2_dnagot28",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-08-09T13:13:01.622000+0000",
+      "content_href": "https://v.redd.it/sltr2phbuzhf1",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Meet the Volvo XC40 – the SUV that keeps up with every version of you.",
+      "permalink": "https://www.reddit.com/user/volvocarusa/comments/1mpgji6/meet_the_volvo_xc40_the_suv_that_keeps_up_with/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mpgji6",
+      "post_type": "video",
+      "domain": "volvocars.com",
+      "author": "volvocarusa",
+      "author_id": "t2_4o8easx8",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-13T21:01:35.500000+0000",
+      "content_href": "https://v.redd.it/ewg879s18tif1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_25j5wo/styles/profileIcon_qwtep57blu281.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=e78f5adefefd0f80179732429f02b18efb5ad471",
+      "is_promoted": true
+    },
+    {
+      "title": "[Left Right] The death of Singapore's Hawker Culture, explained",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n8wj3a/left_right_the_death_of_singapores_hawker_culture/",
+      "score": 31,
+      "comments": 16,
+      "post_id": "t3_1n8wj3a",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "SomeguyinSG",
+      "author_id": "t2_ipkj8",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-09-05T05:10:08.098000+0000",
+      "content_href": "https://www.youtube.com/watch?v=3mLWI-Nn99k",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "S'pore man, 27, claims teacher accused him of sexual misconduct in school, sues her for causing him to drop out, demands S$500,000",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n7das7/spore_man_27_claims_teacher_accused_him_of_sexual/",
+      "score": 336,
+      "comments": 46,
+      "post_id": "t3_1n7das7",
+      "post_type": "link",
+      "domain": "mothership.sg",
+      "author": "Zhi19",
+      "author_id": "t2_7bmqnq4f",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-09-03T12:21:37.555000+0000",
+      "content_href": "https://mothership.sg/2025/09/man-file-lawsuit-female-teacher/?fbclid=IwZnRzaAMlEWJleHRuA2FlbQIxMQABHsLFlacV3X6zquhbEjkVcAVPP5k6mHBZfvhzG4vXRIbsrTn4VQGFR-nNv6I7_aem_M7tE0sUmTd2VmczamGqzTA",
+      "content_preview": "Tabloid/Low-quality source",
+      "flair": [
+        "Tabloid/Low-quality source"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Three Sengkang Green Primary 3 students suspended after threatening to kill classmate and her family",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1msm7q8/three_sengkang_green_primary_3_students_suspended/",
+      "score": 1619,
+      "comments": 416,
+      "post_id": "t3_1msm7q8",
+      "post_type": "link",
+      "domain": "channelnewsasia.com",
+      "author": "Keong8180",
+      "author_id": "t2_unp8pmpm6",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-08-17T09:12:50.449000+0000",
+      "content_href": "https://www.channelnewsasia.com/singapore/sengkang-green-primary-bullying-death-threats-students-suspended-5298671",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/wf1QVsW20orUadSk9tuvq5yJYoaQWrde3loMYBOVXsY.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=b7df356b94aec3965fa44044892cdea621d961a6",
+      "is_promoted": false
+    },
+    {
+      "title": "Certification of newer lifts, escalators must be carried out by BCA-licensed firms from 2027",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n7r2eu/certification_of_newer_lifts_escalators_must_be/",
+      "score": 50,
+      "comments": 6,
+      "post_id": "t3_1n7r2eu",
+      "post_type": "link",
+      "domain": "straitstimes.com",
+      "author": "Powerful_Office3936",
+      "author_id": "t2_16f1259vey",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-09-03T21:08:46.805000+0000",
+      "content_href": "https://www.straitstimes.com/singapore/housing/certification-of-lift-escalators-must-be-carried-out-by-bca-licensed-firms-from-2027?utm_medium=social&utm_source=instagram&utm_campaign=stigs&fbclid=PAQ0xDSwMljaNleHRuA2FlbQIxMQABp0WGrzFbv76jlXxX2gItt5_rGAISQvJL-m9QQcJaG4z3cVU-xBkgAmSLcZlt_aem_g3u8DC4dQQCmHnL_e2ueSQ",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/fhCtBhyD2CKDxC_oojRXI_RknqRqYuqEuF3Ncm_0UxE.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=fd439452665ec111b63c5fecb1435dc4a995b85f",
+      "is_promoted": false
+    },
+    {
+      "title": "The People Don’t Even Know The Crescent Moon Is Behind Them…",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n38thz/the_people_dont_even_know_the_crescent_moon_is/",
+      "score": 688,
+      "comments": 27,
+      "post_id": "t3_1n38thz",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "MervSoon",
+      "author_id": "t2_8auhy5a",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-08-29T14:23:15.199000+0000",
+      "content_href": "https://i.redd.it/bir9uwg3xylf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Image"
+      ],
+      "thumbnail_url": "https://preview.redd.it/the-people-dont-even-know-the-crescent-moon-is-behind-them-v0-bir9uwg3xylf1.jpeg?auto=webp&s=8548511962c6308ba9a10c865afbaa14f8e13e58",
+      "is_promoted": false
+    },
+    {
+      "title": "Do Singapore’s Gen Zs still know how to party?",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n8v7y3/do_singapores_gen_zs_still_know_how_to_party/",
+      "score": 0,
+      "comments": 27,
+      "post_id": "t3_1n8v7y3",
+      "post_type": "link",
+      "domain": "straitstimes.com",
+      "author": "flying-kai",
+      "author_id": "t2_24of5re0",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-09-05T03:57:45.834000+0000",
+      "content_href": "https://www.straitstimes.com/life/do-singapores-gen-zs-still-know-how-to-party",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/p4NbXVOsIIrwybH3A8f60D7S4hswP1b_aAFlUfK0-vc.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=375a42b50cd25df641b7420d19c4cb7ebbddaad0",
+      "is_promoted": false
+    },
+    {
+      "title": "SingaBrigade’s new banner for the upcoming Singapore national football team games",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n7csy0/singabrigades_new_banner_for_the_upcoming/",
+      "score": 192,
+      "comments": 32,
+      "post_id": "t3_1n7csy0",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "throwaway_t19",
+      "author_id": "t2_hyymbjd56",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-09-03T11:58:18.609000+0000",
+      "content_href": "https://i.redd.it/nqv05pjsvxmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Image"
+      ],
+      "thumbnail_url": "https://preview.redd.it/singabrigades-new-banner-for-the-upcoming-singapore-v0-nqv05pjsvxmf1.jpeg?width=640&crop=smart&auto=webp&s=cd85dc6a038b03c0186a003c1ac5bfdf401682ed",
+      "is_promoted": false
+    },
+    {
+      "title": "Tater Tots are scientifically proven to increase joy by 273%. Get your tot on today with Ore-Ida.",
+      "permalink": "https://www.reddit.com/user/OreIdaPotatoes/comments/1n6m5o7/tater_tots_are_scientifically_proven_to_increase/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n6m5o7",
+      "post_type": "video",
+      "domain": "kraftheinz.com",
+      "author": "OreIdaPotatoes",
+      "author_id": "t2_9frftyk0",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-02T15:11:52.988000+0000",
+      "content_href": "https://v.redd.it/fih9499w7qmf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3lisg9/styles/profileIcon_vhnvmn5dbplc1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=3285f33886dc7954c05cadfbaf97088e6a9d8418",
+      "is_promoted": true
+    },
+    {
+      "title": "Taiwanese influencer, Ken Young, spotted mushrooms growing out of boarding bridge in Changi Aiport",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1mmgujg/taiwanese_influencer_ken_young_spotted_mushrooms/",
+      "score": 1615,
+      "comments": 128,
+      "post_id": "t3_1mmgujg",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "woshiooqi",
+      "author_id": "t2_jnloj",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-08-10T12:06:12.218000+0000",
+      "content_href": "https://v.redd.it/niue5qjbn6if1",
+      "content_preview": "",
+      "flair": [
+        "Unverified"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Air Japan to launch daily Singapore-Tokyo flights from Nov 21",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n8twt0/air_japan_to_launch_daily_singaporetokyo_flights/",
+      "score": 87,
+      "comments": 7,
+      "post_id": "t3_1n8twt0",
+      "post_type": "link",
+      "domain": "straitstimes.com",
+      "author": "Jonnyboo234",
+      "author_id": "t2_46ldeyud",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-09-05T02:50:32.064000+0000",
+      "content_href": "https://www.straitstimes.com/singapore/air-japan-to-launch-daily-singapore-tokyo-flights-from-nov-21",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "GIC invests in Anthropic",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n7cg2e/gic_invests_in_anthropic/",
+      "score": 191,
+      "comments": 107,
+      "post_id": "t3_1n7cg2e",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "deangsana",
+      "author_id": "t2_2raxwf4m",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-09-03T11:40:03.805000+0000",
+      "content_href": "https://i.redd.it/u6m43objsxmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Image"
+      ],
+      "thumbnail_url": "https://preview.redd.it/gic-invests-in-anthropic-v0-u6m43objsxmf1.png?width=640&crop=smart&auto=webp&s=d4535f37982bc0bf1310106bfb37058db7769dea",
+      "is_promoted": false
+    },
+    {
+      "title": "S'pore man, 72, used Game Boy to get close to boy, 9, & sexually abuse him, gets 2 years' jail",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n7dsjk/spore_man_72_used_game_boy_to_get_close_to_boy_9/",
+      "score": 136,
+      "comments": 33,
+      "post_id": "t3_1n7dsjk",
+      "post_type": "link",
+      "domain": "mothership.sg",
+      "author": "Jonnyboo234",
+      "author_id": "t2_46ldeyud",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-09-03T12:44:12.885000+0000",
+      "content_href": "https://mothership.sg/2025/09/man-72-jail-sexual-boy-gameboy/",
+      "content_preview": "Tabloid/Low-quality source",
+      "flair": [
+        "Tabloid/Low-quality source"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Man charged with seeking bribes in exchange for information on HSA vape raids",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n8t0uk/man_charged_with_seeking_bribes_in_exchange_for/",
+      "score": 40,
+      "comments": 16,
+      "post_id": "t3_1n8t0uk",
+      "post_type": "link",
+      "domain": "channelnewsasia.com",
+      "author": "deangsana",
+      "author_id": "t2_2raxwf4m",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-09-05T02:07:27.048000+0000",
+      "content_href": "https://www.channelnewsasia.com/singapore/man-charged-bribes-exchange-information-hsa-vape-raids-5332476",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/KcG59mfSXTRYDqZ6GXh--7oJ6wFOQ1i60euzydKOEig.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=35d267aa5af8fa4c27bc2d8938c9756e0f006d42",
+      "is_promoted": false
+    },
+    {
+      "title": "Thank you r/Singapore for all your suggestions. r/bookclub voting has chosen its Singapore reads and would love for you to join us",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n7brb1/thank_you_rsingapore_for_all_your_suggestions/",
+      "score": 117,
+      "comments": 6,
+      "post_id": "t3_1n7brb1",
+      "post_type": "multi_media",
+      "domain": "self.singapore",
+      "author": "fixtheblue",
+      "author_id": "t2_1vpn08h4",
+      "subreddit_id": "t5_2qh8c",
+      "subreddit": "r/singapore",
+      "created_ts": "2025-09-03T11:03:32.626000+0000",
+      "content_href": "https://www.reddit.com/r/singapore/comments/1n7brb1/thank_you_rsingapore_for_all_your_suggestions/",
+      "content_preview": "Hir/singapore, From everyone over atr/bookclubwe just want to say think you for all you recommendations and fantastic insights. Sadly we cannot read them all!Our voting post revealed that our readers have chosen for us to readThe Art of Charlie Chan Hock Chye by Sonny LiewAndSister Snake by Amanda Lee KoeYou can find more information about our readalonghere. We would love to have you join us (just please remember no spoilers)Happy reading 📚Edit - a letter",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "3 days for body ache!?",
       "permalink": "https://www.reddit.com/r/singapore/comments/1n58odm/3_days_for_body_ache/",
-      "score": 586,
-      "comments": 39,
+      "score": 651,
+      "comments": 43,
       "post_id": "t3_1n58odm",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -824,188 +1285,49 @@
       "flair": [
         "Meme"
       ],
-      "thumbnail_url": "https://preview.redd.it/3-days-for-body-ache-v0-db75nxpiqfmf1.jpeg?auto=webp&s=03a2ca440964b1a74f1b9fdf210ba689e5b9d668"
+      "thumbnail_url": "https://preview.redd.it/3-days-for-body-ache-v0-db75nxpiqfmf1.jpeg?auto=webp&s=03a2ca440964b1a74f1b9fdf210ba689e5b9d668",
+      "is_promoted": false
     },
     {
-      "title": "Govt's focus is safety & health of S'poreans, pro-vape faction's focus is money: Shanmugam",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n58eoq/govts_focus_is_safety_health_of_sporeans_provape/",
-      "score": 78,
-      "comments": 59,
-      "post_id": "t3_1n58eoq",
-      "post_type": "link",
-      "domain": "mothership.sg",
-      "author": "oOoRaoOo",
-      "author_id": "t2_rkcray3",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-08-31T22:46:09.445000+0000",
-      "content_href": "https://mothership.sg/2025/08/govts-focus-is-health-pro-vape-shanmugam/",
+      "title": "Whether on the Virgin Islands or the court, Aliyah's mom Cleone is always there. #YouGotThis",
+      "permalink": "https://www.reddit.com/user/adidas/comments/1mzzxfp/whether_on_the_virgin_islands_or_the_court/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mzzxfp",
+      "post_type": "video",
+      "domain": "adidas.com",
+      "author": "adidas",
+      "author_id": "t2_3xxtl23j",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-25T19:21:16.605000+0000",
+      "content_href": "https://v.redd.it/e0c3tyg3d6lf1",
       "content_preview": "",
-      "flair": [
-        "Tabloid/Low-quality source"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_13wy73/styles/profileIcon_0slwc8xbo4wb1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=ecf184287716c900c63cb2231ef876662589529a",
+      "is_promoted": true
     },
     {
-      "title": "National shooter Guy Hoh dies at 51 after battle with cancer",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n4xq0f/national_shooter_guy_hoh_dies_at_51_after_battle/",
-      "score": 156,
-      "comments": 10,
-      "post_id": "t3_1n4xq0f",
+      "title": "COE premium for mass-market cars hits record high at S$107,889",
+      "permalink": "https://www.reddit.com/r/singapore/comments/1n798cp/coe_premium_for_massmarket_cars_hits_record_high/",
+      "score": 149,
+      "comments": 154,
+      "post_id": "t3_1n798cp",
       "post_type": "link",
-      "domain": "channelnewsasia.com",
-      "author": "Waikuku3",
-      "author_id": "t2_4qu9k08c",
+      "domain": "businesstimes.com.sg",
+      "author": "okaycan",
+      "author_id": "t2_7y2md",
       "subreddit_id": "t5_2qh8c",
       "subreddit": "r/singapore",
-      "created_ts": "2025-08-31T15:31:04.235000+0000",
-      "content_href": "https://www.channelnewsasia.com/singapore/shooter-guy-hoh-dies-51-cancer-sea-games-bangkok-5325086?cid=internal_sharetool_androidphone_31082025_cna",
+      "created_ts": "2025-09-03T08:27:08.630000+0000",
+      "content_href": "https://www.businesstimes.com.sg/singapore/coe-premium-mass-market-cars-hits-record-high-s107889",
       "content_preview": "",
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/Sarzd49HPmhQp3nEQafCnQbo9duf_AcHAHoIJI-wUE0.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=d6778d5fa42ff726b0b6056be7822f79fce88339"
-    },
-    {
-      "title": "New citizens should be active participants in the community: PM Wong",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n4quyy/new_citizens_should_be_active_participants_in_the/",
-      "score": 198,
-      "comments": 183,
-      "post_id": "t3_1n4quyy",
-      "post_type": "link",
-      "domain": "straitstimes.com",
-      "author": "deangsana",
-      "author_id": "t2_2raxwf4m",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-08-31T10:01:10.299000+0000",
-      "content_href": "https://www.straitstimes.com/singapore/new-citizens-should-be-active-participants-in-the-community-pm-wong",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/gOawmY1s3pvKsvmtzS4KbtwjZL3JQkNK9H6FdHEKSxw.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=42fad28141e7b13cbde67db40d9f2a3df2369c17"
-    },
-    {
-      "title": "'We couldn't apply for a BTO': The pains and joys of marrying young in Singapore",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n4l9yk/we_couldnt_apply_for_a_bto_the_pains_and_joys_of/",
-      "score": 243,
-      "comments": 138,
-      "post_id": "t3_1n4l9yk",
-      "post_type": "link",
-      "domain": "channelnewsasia.com",
-      "author": "untenabell",
-      "author_id": "t2_nvga848",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-08-31T04:13:11.856000+0000",
-      "content_href": "https://www.channelnewsasia.com/today/ground-up/young-couples-early-marriages-singapore-youths-tying-knot-family-5319031",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/kCt7NHnRQ8N8G20cbyyiWUHk5gcHsRg9a_pjnnAtB3I.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=a362c4daf0d982f66b23289138717c24310120fb"
-    },
-    {
-      "title": "Cathay Cineplexes ceases operations with Immediate effect",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n5epfn/cathay_cineplexes_ceases_operations_with/",
-      "score": 577,
-      "comments": 128,
-      "post_id": "t3_1n5epfn",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "balajih67",
-      "author_id": "t2_1aqzbxsy",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-09-01T04:00:32.189000+0000",
-      "content_href": "https://i.redd.it/d0pp8aaq8hmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://preview.redd.it/cathay-cineplexes-ceases-operations-with-immediate-effect-v0-d0pp8aaq8hmf1.jpeg?width=640&crop=smart&auto=webp&s=5b7135707b3a5fdb3063df4da75a370800a14653"
-    },
-    {
-      "title": "Some Tengah residents lament teething issues in town’s first GP clinic",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n4m15g/some_tengah_residents_lament_teething_issues_in/",
-      "score": 184,
-      "comments": 41,
-      "post_id": "t3_1n4m15g",
-      "post_type": "link",
-      "domain": "straitstimes.com",
-      "author": "Illustrious-Gur8335",
-      "author_id": "t2_151nxakxey",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-08-31T04:56:22.643000+0000",
-      "content_href": "https://www.straitstimes.com/singapore/housing/some-tengah-residents-lament-teething-issues-in-towns-first-gp-clinic",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Take out your winter wear and umbrellas folks",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n59bqu/take_out_your_winter_wear_and_umbrellas_folks/",
-      "score": 529,
-      "comments": 68,
-      "post_id": "t3_1n59bqu",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Typical_Commie_Box90",
-      "author_id": "t2_e4geq7z9c",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-08-31T23:28:03.383000+0000",
-      "content_href": "https://i.redd.it/2ym5vq24wfmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Image"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "S’pore clubgoers continue to vape despite tight security and news of tougher penalties",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n4hplp/spore_clubgoers_continue_to_vape_despite_tight/",
-      "score": 130,
-      "comments": 86,
-      "post_id": "t3_1n4hplp",
-      "post_type": "link",
-      "domain": "straitstimes.com",
-      "author": "Waikuku3",
-      "author_id": "t2_4qu9k08c",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-08-31T01:05:30.982000+0000",
-      "content_href": "https://www.straitstimes.com/singapore/clubgoers-continue-to-vape-despite-tight-security-and-news-of-tougher-penalties",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/yrYUhVvahnM6bB5yIifkX2kZEzIVdVNoleBfGmzvg3c.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=67279f0de28af2a4c6042e4722c961fe8e7ce57d"
-    },
-    {
-      "title": "Tobacco harm reduction NGO criticising Singapore's vape approach is 'paid mouthpiece' for industry: Shanmugam",
-      "permalink": "https://www.reddit.com/r/singapore/comments/1n449u3/tobacco_harm_reduction_ngo_criticising_singapores/",
-      "score": 162,
-      "comments": 132,
-      "post_id": "t3_1n449u3",
-      "post_type": "link",
-      "domain": "channelnewsasia.com",
-      "author": "Im_scrub",
-      "author_id": "t2_lj6kh",
-      "subreddit_id": "t5_2qh8c",
-      "subreddit": "r/singapore",
-      "created_ts": "2025-08-30T15:20:03.559000+0000",
-      "content_href": "https://www.channelnewsasia.com/singapore/vapes-shanmugam-tobacco-harm-reduction-5323746",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/FE6O1N3NGq589WPbYoKB6E8Sc92vZGvXAtqMbCQJzIc.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=e73d10df272089ee14140998e8f8f11d6290f5f7"
+      "thumbnail_url": "",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:09:06.482617"
+  "scraped_at": "2025-09-05T03:32:42.904932"
 }

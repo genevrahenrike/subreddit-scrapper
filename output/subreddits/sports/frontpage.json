@@ -4,9 +4,9 @@
   "meta": {
     "title": "Reddit Sports",
     "description": "Sports News and Highlights from the NFL, NBA, NHL, MLB, MLS, and leagues around the world.",
-    "subscribers": 21946087,
-    "online_users": 1807,
-    "created_timestamp": "2025-09-05T04:14:32.677000+0000",
+    "subscribers": 21946148,
+    "online_users": 779,
+    "created_timestamp": "2025-09-05T08:50:02.844000+0000",
     "sidebar_widgets": [
       {
         "title": "Community Bookmarks",
@@ -22,61 +22,6 @@
           {
             "text": "Flair",
             "url": "http://www.reddit.com/r/sports/wiki/flair"
-          }
-        ]
-      },
-      {
-        "title": "2000+ Team Flairs Available!",
-        "content": "Get Flair!"
-      },
-      {
-        "title": "r/sports Rules",
-        "content": "No memes. No joke posts. No video games or \"eSports\" No pictures with text. No static images. No screenshots showing people/actions in freeze frame, or of websites/social media. Duplicate content will be removed. NSFW content must be relevant to sports and marked appropriately. Better sources for video/images must be used whenever available (No videos of TV screens for highlights) Direct links to video highlights using streamable/imgur/v.reddit/etc are mandatory Posts with misleading/sensationalized/editorialized/ambiguous titles are prohibited. The title must clearly and thoroughly describe the post. ALL-CAPS titles are prohibited. Emojis, hashtags, clickbait-type titles and all other methods of attention-grabbing are prohibited. Do not mention votes/karma or other reddit verbage. No posts to communicate with another redditor. Calling out other users is prohibited. No links to a blog, vlog, podcast, or any attempts to drive traffic to a specific channel or website - ALL self-promotion will be removed as dictated by site rules. No links to streaming sites. Do not use this subreddit to ask for or offer any goods, services, participation,  survey, voting, support or fundraising. If you ask for any illegal content or guide somebody to it, you will be banned. Comment spam will be removed. This includes bots, novelties, and editing comments. Making comments or posts with another person’s personal information (name, social media, phone number, etc) that is not publicly available is against Reddit’s rules and will earn a ban and report to the admins. No racism, sexism, slurs, etc. Threats, suggestions of harm, personal insults and personal attacks are prohibited. No posts/comments created for hate, trolling or slapfights. Comparing or ranking different sports, athletes, fanbases or nationalities is prohibited. Calling out a specific user or taking part in/encouraging witch hunting will lead to a ban."
-      },
-      {
-        "title": "Useful Resources",
-        "content": [
-          {
-            "text": "sports subreddits",
-            "url": "http://www.reddit.com/r/sports/wiki/related"
-          },
-          {
-            "text": "reddiquette",
-            "url": "https://www.reddit.com/wiki/reddiquette"
-          },
-          {
-            "text": "self-promotion",
-            "url": "https://www.reddit.com/wiki/selfpromotion"
-          },
-          {
-            "text": "new to reddit?",
-            "url": "https://old.reddit.com/wiki/reddit_101"
-          }
-        ]
-      },
-      {
-        "title": "Moderators",
-        "content": [
-          {
-            "text": "Learn More",
-            "url": "https://support.reddithelp.com/hc/articles/360049499032"
-          },
-          {
-            "text": "View all moderators",
-            "url": "/mod/sports/moderators/"
-          }
-        ]
-      },
-      {
-        "title": "Installed Apps",
-        "content": [
-          {
-            "text": "community-hub",
-            "url": "https://developers.reddit.com/apps/community-hub"
-          },
-          {
-            "text": "Scoreboards",
-            "url": "https://developers.reddit.com/apps/sport-scoreboard"
           }
         ]
       }
@@ -100,32 +45,34 @@
       "content_href": "https://www.reddit.com/r/sports/comments/1bfpxfw/welcome_to_rsports/",
       "content_preview": "",
       "flair": [],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "CeeDee Lamb drops ball on 4th down",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n8vjik/ceedee_lamb_drops_ball_on_4th_down/",
-      "score": 4,
-      "comments": 4,
-      "post_id": "t3_1n8vjik",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "nfl",
-      "author_id": "t2_30enjsvu",
+      "title": "Williams sisters partner to expand tennis, education access to youth",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n8zzcu/williams_sisters_partner_to_expand_tennis/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n8zzcu",
+      "post_type": "link",
+      "domain": "espn.com",
+      "author": "PrincessBananas85",
+      "author_id": "t2_7r3ctd6",
       "subreddit_id": "t5_2qgzy",
       "subreddit": "r/sports",
-      "created_ts": "2025-09-05T04:14:32.677000+0000",
-      "content_href": "https://v.redd.it/7ixrymtuu9nf1",
+      "created_ts": "2025-09-05T08:50:02.844000+0000",
+      "content_href": "https://www.espn.com/tennis/story/_/id/46161284/williams-sisters-program-provide-tennis-education-opportunities-youth",
       "content_preview": "",
       "flair": [
-        "Football"
+        "Tennis"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_vhkg7/styles/profileIcon_qyisviqjbeh71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fa94109f0cebce8b78550206565fa9b1c1a2a7db"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
       "title": "94-pound girl on Okemos boys wrestling team who says she was critically injured in practice after being paired against much larger boy and body-slammed three times is suing school district: Report",
       "permalink": "https://www.reddit.com/r/sports/comments/1n7czks/94pound_girl_on_okemos_boys_wrestling_team_who/",
-      "score": 14047,
+      "score": 14091,
       "comments": 1001,
       "post_id": "t3_1n7czks",
       "post_type": "link",
@@ -140,110 +87,13 @@
       "flair": [
         "Wrestling"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "Zack Baun saves touchdown with hustle to chase down Miles Sanders",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n8tn05/zack_baun_saves_touchdown_with_hustle_to_chase/",
-      "score": 139,
-      "comments": 19,
-      "post_id": "t3_1n8tn05",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "nfl",
-      "author_id": "t2_30enjsvu",
-      "subreddit_id": "t5_2qgzy",
-      "subreddit": "r/sports",
-      "created_ts": "2025-09-05T02:37:10.781000+0000",
-      "content_href": "https://v.redd.it/ckije7nfd9nf1",
-      "content_preview": "",
-      "flair": [
-        "Football"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_vhkg7/styles/profileIcon_qyisviqjbeh71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fa94109f0cebce8b78550206565fa9b1c1a2a7db"
-    },
-    {
-      "title": "Sky's Angel Reese suspended for Fever game due to 8th tech",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n8r4sn/skys_angel_reese_suspended_for_fever_game_due_to/",
-      "score": 588,
-      "comments": 133,
-      "post_id": "t3_1n8r4sn",
-      "post_type": "link",
-      "domain": "espn.com",
-      "author": "PrincessBananas85",
-      "author_id": "t2_7r3ctd6",
-      "subreddit_id": "t5_2qgzy",
-      "subreddit": "r/sports",
-      "created_ts": "2025-09-05T00:37:35.257000+0000",
-      "content_href": "https://www.espn.com/wnba/story/_/id/46160025/sky-angel-reese-suspended-fever-game-due-8th-tech",
-      "content_preview": "",
-      "flair": [
-        "Basketball"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Have you ever seen a successful 70 YARD FIELD GOAL ATTEMPT??!!! Yes, you read that right, SEVENTY!",
-      "permalink": "https://www.reddit.com/r/sports/comments/1mm4ssd/have_you_ever_seen_a_successful_70_yard_field/",
-      "score": 40402,
-      "comments": 2026,
-      "post_id": "t3_1mm4ssd",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Spare_Smoke_4101",
-      "author_id": "t2_lb43y26oe",
-      "subreddit_id": "t5_2qgzy",
-      "subreddit": "r/sports",
-      "created_ts": "2025-08-10T00:34:09.297000+0000",
-      "content_href": "https://v.redd.it/bmjzs07s73if1",
-      "content_preview": "",
-      "flair": [
-        "Football"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/have-you-ever-seen-a-successful-70-yard-field-goal-attempt-v0-aTY0cXEwN3M3M2lmMa-UMxTwDfv0uFxkG-f10RswsKPVaVPA0EMpPR3d9-Tc.png?width=640&crop=smart&format=pjpg&auto=webp&s=a618b213c36396d82739273ea2bcc766c2761029"
-    },
-    {
-      "title": "Rays security hounds fan for Junior Caminero’s 40th home run ball.",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n840mw/rays_security_hounds_fan_for_junior_camineros/",
-      "score": 2812,
-      "comments": 255,
-      "post_id": "t3_1n840mw",
-      "post_type": "crosspost",
-      "domain": "v.redd.it",
-      "author": "EatSleepJeep",
-      "author_id": "t2_3908c",
-      "subreddit_id": "t5_2qgzy",
-      "subreddit": "r/sports",
-      "created_ts": "2025-09-04T07:52:45.026000+0000",
-      "content_href": "/r/baseball/comments/1n7nz2o/rays_security_hounds_fan_for_junior_camineros/",
-      "content_preview": "16Kupvotes·2Kcomments",
-      "flair": [],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "Polish tennis player Kamil Majchrzak meets with boy who got his hat stolen by the millionaire Ceo Piotr Szczerek",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n5jgct/polish_tennis_player_kamil_majchrzak_meets_with/",
-      "score": 10231,
-      "comments": 237,
-      "post_id": "t3_1n5jgct",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "BreakfastTop6899",
-      "author_id": "t2_czohgvm4",
-      "subreddit_id": "t5_2qgzy",
-      "subreddit": "r/sports",
-      "created_ts": "2025-09-01T08:43:26.976000+0000",
-      "content_href": "https://v.redd.it/hj3pfx04nimf1",
-      "content_preview": "",
-      "flair": [
-        "Tennis"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/polish-tennis-player-kamil-majchrzak-meets-with-boy-who-got-v0-b2lpamd2MDRuaW1mMeHFFg4udD3KsiasgyC0HkU6OD7Jk0S5akBNyOfk2Hb1.png?width=640&crop=smart&format=pjpg&auto=webp&s=133616eff7e34a57fba6784e68e59a8e0d5d4daa"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
       "title": "Lionel Messi after playing his last offical Argentina game at home soil: \"Many years have passed & we’ve enjoyed match after match. I am so happy... To end it this way here is what I always dreamed of. I had the affection in Barcelona, and my dream was to have it here too, in Argentina.\"",
       "permalink": "https://www.reddit.com/r/sports/comments/1n8t1e2/lionel_messi_after_playing_his_last_offical/",
-      "score": 84,
+      "score": 169,
       "comments": 1,
       "post_id": "t3_1n8t1e2",
       "post_type": "video",
@@ -258,32 +108,158 @@
       "flair": [
         "Soccer"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/lionel-messi-after-playing-his-last-offical-argentina-game-v0-dTNpd3BtemI4OW5mMX4uPBRyzQ3_eszL85I1xi0UuKM8d-BsaoaJ5p25WviA.png?width=640&crop=smart&format=pjpg&auto=webp&s=8c4c51c670b4eeb8dcca99e4a310732df238ba13"
+      "thumbnail_url": "https://external-preview.redd.it/lionel-messi-after-playing-his-last-offical-argentina-game-v0-dTNpd3BtemI4OW5mMX4uPBRyzQ3_eszL85I1xi0UuKM8d-BsaoaJ5p25WviA.png?width=640&crop=smart&format=pjpg&auto=webp&s=8c4c51c670b4eeb8dcca99e4a310732df238ba13",
+      "is_promoted": false
     },
     {
-      "title": "Saquon Barkley one-handed catch followed by a stiff arm",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n8v7ki/saquon_barkley_onehanded_catch_followed_by_a/",
-      "score": 7,
-      "comments": 3,
-      "post_id": "t3_1n8v7ki",
+      "title": "Zack Baun saves touchdown with hustle to chase down Miles Sanders",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n8tn05/zack_baun_saves_touchdown_with_hustle_to_chase/",
+      "score": 319,
+      "comments": 33,
+      "post_id": "t3_1n8tn05",
       "post_type": "video",
       "domain": "v.redd.it",
       "author": "nfl",
       "author_id": "t2_30enjsvu",
       "subreddit_id": "t5_2qgzy",
       "subreddit": "r/sports",
-      "created_ts": "2025-09-05T03:57:10.385000+0000",
-      "content_href": "https://v.redd.it/9ii1tpjor9nf1",
+      "created_ts": "2025-09-05T02:37:10.781000+0000",
+      "content_href": "https://v.redd.it/ckije7nfd9nf1",
       "content_preview": "",
       "flair": [
         "Football"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_vhkg7/styles/profileIcon_qyisviqjbeh71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fa94109f0cebce8b78550206565fa9b1c1a2a7db"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_vhkg7/styles/profileIcon_qyisviqjbeh71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fa94109f0cebce8b78550206565fa9b1c1a2a7db",
+      "is_promoted": false
+    },
+    {
+      "title": "Have you ever seen a successful 70 YARD FIELD GOAL ATTEMPT??!!! Yes, you read that right, SEVENTY!",
+      "permalink": "https://www.reddit.com/r/sports/comments/1mm4ssd/have_you_ever_seen_a_successful_70_yard_field/",
+      "score": 40408,
+      "comments": 2026,
+      "post_id": "t3_1mm4ssd",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Spare_Smoke_4101",
+      "author_id": "t2_lb43y26oe",
+      "subreddit_id": "t5_2qgzy",
+      "subreddit": "r/sports",
+      "created_ts": "2025-08-10T00:34:09.297000+0000",
+      "content_href": "https://v.redd.it/bmjzs07s73if1",
+      "content_preview": "",
+      "flair": [
+        "Football"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/have-you-ever-seen-a-successful-70-yard-field-goal-attempt-v0-aTY0cXEwN3M3M2lmMa-UMxTwDfv0uFxkG-f10RswsKPVaVPA0EMpPR3d9-Tc.png?width=640&crop=smart&format=pjpg&auto=webp&s=a618b213c36396d82739273ea2bcc766c2761029",
+      "is_promoted": false
+    },
+    {
+      "title": "Not your average roast. See what’s fresh from Drip Ethos Coffee.",
+      "permalink": "https://www.reddit.com/user/Dripethos/comments/1mtevzj/not_your_average_roast_see_whats_fresh_from_drip/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mtevzj",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Dripethos",
+      "author_id": "t2_1qccv2phhb",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-18T07:01:29.549000+0000",
+      "content_href": "https://reddit.com",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ek8qw3/styles/profileIcon_t7v0ku3j4r3f1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=6980868ee3629b9bc6a388196c58b0456134cd1d",
+      "is_promoted": true
+    },
+    {
+      "title": "Report: Raiders' Amari Cooper to retire, ending brief reunion",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n8igdn/report_raiders_amari_cooper_to_retire_ending/",
+      "score": 540,
+      "comments": 39,
+      "post_id": "t3_1n8igdn",
+      "post_type": "link",
+      "domain": "thescore.com",
+      "author": "Oldtimer_2",
+      "author_id": "t2_dlkk5z8t",
+      "subreddit_id": "t5_2qgzy",
+      "subreddit": "r/sports",
+      "created_ts": "2025-09-04T18:41:30.034000+0000",
+      "content_href": "https://thescore.com/nfl/news/3338164",
+      "content_preview": "",
+      "flair": [
+        "Football"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Polish tennis player Kamil Majchrzak meets with boy who got his hat stolen by the millionaire Ceo Piotr Szczerek",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n5jgct/polish_tennis_player_kamil_majchrzak_meets_with/",
+      "score": 10235,
+      "comments": 237,
+      "post_id": "t3_1n5jgct",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "BreakfastTop6899",
+      "author_id": "t2_czohgvm4",
+      "subreddit_id": "t5_2qgzy",
+      "subreddit": "r/sports",
+      "created_ts": "2025-09-01T08:43:26.976000+0000",
+      "content_href": "https://v.redd.it/hj3pfx04nimf1",
+      "content_preview": "",
+      "flair": [
+        "Tennis"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/polish-tennis-player-kamil-majchrzak-meets-with-boy-who-got-v0-b2lpamd2MDRuaW1mMeHFFg4udD3KsiasgyC0HkU6OD7Jk0S5akBNyOfk2Hb1.png?width=640&crop=smart&format=pjpg&auto=webp&s=133616eff7e34a57fba6784e68e59a8e0d5d4daa",
+      "is_promoted": false
+    },
+    {
+      "title": "Caitlin Clark to miss the rest of the Fever’s season because of a right groin injury",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n8ryo8/caitlin_clark_to_miss_the_rest_of_the_fevers/",
+      "score": 128,
+      "comments": 80,
+      "post_id": "t3_1n8ryo8",
+      "post_type": "link",
+      "domain": "apnews.com",
+      "author": "ZwVJHSPiMiaiAAvtAbKq",
+      "author_id": "t2_w4wemmonf",
+      "subreddit_id": "t5_2qgzy",
+      "subreddit": "r/sports",
+      "created_ts": "2025-09-05T01:16:46.316000+0000",
+      "content_href": "https://apnews.com/article/caitlin-clark-indiana-fever-05ca033f9a3c5f3aca656980871bb2e2",
+      "content_preview": "",
+      "flair": [
+        "Basketball"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Uruguay, Colombia, and Paraguay qualify for the 2026 FIFA World Cup",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n8y5cb/uruguay_colombia_and_paraguay_qualify_for_the/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1n8y5cb",
+      "post_type": "link",
+      "domain": "espn.com",
+      "author": "Falcor626",
+      "author_id": "t2_fb10z",
+      "subreddit_id": "t5_2qgzy",
+      "subreddit": "r/sports",
+      "created_ts": "2025-09-05T06:48:33.578000+0000",
+      "content_href": "https://www.espn.com/soccer/story/_/id/46161256/uruguay-colombia-paraguay-qualify-2026-world-cup",
+      "content_preview": "",
+      "flair": [
+        "Soccer"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/a4nbELvl0C1ny8vdLSa7F-J9zIzgUFK6eqdT8BIunwg.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=872de857b28015432a6299176c744d5b5c894b03",
+      "is_promoted": false
     },
     {
       "title": "Bears fans in Rome gave Chicago-born Pope Leo XIV a shirt that says \"Da Pope\"",
       "permalink": "https://www.reddit.com/r/sports/comments/1mibuke/bears_fans_in_rome_gave_chicagoborn_pope_leo_xiv/",
-      "score": 33077,
+      "score": 33079,
       "comments": 562,
       "post_id": "t3_1mibuke",
       "post_type": "video",
@@ -298,33 +274,33 @@
       "flair": [
         "Football"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/bears-fans-in-rome-gave-chicago-born-pope-leo-xiv-a-shirt-v0-NWpxcGp5MG92N2hmMadjiqI6IXiltdbY9Px8mzg9DPLQI6Zz7NBk4fzirErP.png?format=pjpg&auto=webp&s=bdbaa8e7f57e7a885213e8b1b7937cb3c1737db6"
+      "thumbnail_url": "https://external-preview.redd.it/bears-fans-in-rome-gave-chicago-born-pope-leo-xiv-a-shirt-v0-NWpxcGp5MG92N2hmMadjiqI6IXiltdbY9Px8mzg9DPLQI6Zz7NBk4fzirErP.png?format=pjpg&auto=webp&s=bdbaa8e7f57e7a885213e8b1b7937cb3c1737db6",
+      "is_promoted": false
     },
     {
-      "title": "Caitlin Clark to miss the rest of the Fever’s season because of a right groin injury",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n8ryo8/caitlin_clark_to_miss_the_rest_of_the_fevers/",
-      "score": 70,
-      "comments": 47,
-      "post_id": "t3_1n8ryo8",
-      "post_type": "link",
-      "domain": "apnews.com",
-      "author": "ZwVJHSPiMiaiAAvtAbKq",
-      "author_id": "t2_w4wemmonf",
+      "title": "Rays security hounds fan for Junior Caminero’s 40th home run ball.",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n840mw/rays_security_hounds_fan_for_junior_camineros/",
+      "score": 3024,
+      "comments": 264,
+      "post_id": "t3_1n840mw",
+      "post_type": "crosspost",
+      "domain": "v.redd.it",
+      "author": "EatSleepJeep",
+      "author_id": "t2_3908c",
       "subreddit_id": "t5_2qgzy",
       "subreddit": "r/sports",
-      "created_ts": "2025-09-05T01:16:46.316000+0000",
-      "content_href": "https://apnews.com/article/caitlin-clark-indiana-fever-05ca033f9a3c5f3aca656980871bb2e2",
-      "content_preview": "",
-      "flair": [
-        "Basketball"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "created_ts": "2025-09-04T07:52:45.026000+0000",
+      "content_href": "/r/baseball/comments/1n7nz2o/rays_security_hounds_fan_for_junior_camineros/",
+      "content_preview": "16Kupvotes·2.1Kcomments",
+      "flair": [],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
       "title": "Luis Suarez spits at a Seattle Sounders staff member",
       "permalink": "https://www.reddit.com/r/sports/comments/1n5d77h/luis_suarez_spits_at_a_seattle_sounders_staff/",
-      "score": 9573,
-      "comments": 846,
+      "score": 9579,
+      "comments": 847,
       "post_id": "t3_1n5d77h",
       "post_type": "video",
       "domain": "v.redd.it",
@@ -338,52 +314,74 @@
       "flair": [
         "Soccer"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/luis-suarez-spits-at-a-seattle-sounders-staff-member-v0-b3I0a2tneGh1Z21mMQr4uyExx6MC8pKSvGCYsFDs3tS4PuSP_0pxQztP3RAn.png?width=640&crop=smart&format=pjpg&auto=webp&s=0c1e796c03f80885d770d179b35afb26aab12a3d"
+      "thumbnail_url": "https://external-preview.redd.it/luis-suarez-spits-at-a-seattle-sounders-staff-member-v0-b3I0a2tneGh1Z21mMQr4uyExx6MC8pKSvGCYsFDs3tS4PuSP_0pxQztP3RAn.png?width=640&crop=smart&format=pjpg&auto=webp&s=0c1e796c03f80885d770d179b35afb26aab12a3d",
+      "is_promoted": false
     },
     {
-      "title": "Report: Raiders' Amari Cooper to retire, ending brief reunion",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n8igdn/report_raiders_amari_cooper_to_retire_ending/",
-      "score": 506,
-      "comments": 35,
-      "post_id": "t3_1n8igdn",
+      "title": "From the crew that brought you The Office, Stream The Paper now on Peacock.",
+      "permalink": "https://www.reddit.com/user/Peacock/comments/1n6s51s/from_the_crew_that_brought_you_the_office_stream/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n6s51s",
+      "post_type": "video",
+      "domain": "peacocktv.com",
+      "author": "Peacock",
+      "author_id": "t2_4kfv0g6z",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-02T18:54:35.882000+0000",
+      "content_href": "https://v.redd.it/16xnxxdmbrmf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_24ourf/styles/profileIcon_61dcu0b8a8191.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=89f39e4736a915bbf8ad7107d2e8c70730530858",
+      "is_promoted": true
+    },
+    {
+      "title": "Report: Jalen Carter took offense to Dak Prescott spitting near Eagles huddle",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n8urag/report_jalen_carter_took_offense_to_dak_prescott/",
+      "score": 247,
+      "comments": 75,
+      "post_id": "t3_1n8urag",
       "post_type": "link",
-      "domain": "thescore.com",
-      "author": "Oldtimer_2",
-      "author_id": "t2_dlkk5z8t",
+      "domain": "nbcsports.com",
+      "author": "cgibsong002",
+      "author_id": "t2_izqa2",
       "subreddit_id": "t5_2qgzy",
       "subreddit": "r/sports",
-      "created_ts": "2025-09-04T18:41:30.034000+0000",
-      "content_href": "https://thescore.com/nfl/news/3338164",
+      "created_ts": "2025-09-05T03:33:34.693000+0000",
+      "content_href": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jalen-carter-took-offense-to-dak-prescott-spitting-near-eagles-huddle",
       "content_preview": "",
       "flair": [
         "Football"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
-      "title": "Tennis great Björn Borg says prostate cancer now in remission",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n8mzbu/tennis_great_björn_borg_says_prostate_cancer_now/",
-      "score": 119,
-      "comments": 4,
-      "post_id": "t3_1n8mzbu",
-      "post_type": "link",
-      "domain": "espn.com",
-      "author": "PrincessBananas85",
-      "author_id": "t2_7r3ctd6",
+      "title": "Paul Skenes fans Shohei Ohtani for one of his 8 strikeouts over 6 innings. Pirates win 5-3 and sweep the Dodgers",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n8sd70/paul_skenes_fans_shohei_ohtani_for_one_of_his_8/",
+      "score": 95,
+      "comments": 10,
+      "post_id": "t3_1n8sd70",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Oldtimer_2",
+      "author_id": "t2_dlkk5z8t",
       "subreddit_id": "t5_2qgzy",
       "subreddit": "r/sports",
-      "created_ts": "2025-09-04T21:36:48.215000+0000",
-      "content_href": "https://www.espn.com/tennis/story/_/id/46159063/bjorn-borg-says-prostate-cancer-remission-24-operation",
+      "created_ts": "2025-09-05T01:36:13.244000+0000",
+      "content_href": "https://v.redd.it/ng9oq6lm29nf1",
       "content_preview": "",
       "flair": [
-        "Tennis"
+        "Baseball"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
       "title": "Oregon mascot loses head on run out",
       "permalink": "https://www.reddit.com/r/sports/comments/1n4dwk2/oregon_mascot_loses_head_on_run_out/",
-      "score": 5521,
+      "score": 5524,
       "comments": 387,
       "post_id": "t3_1n4dwk2",
       "post_type": "video",
@@ -398,32 +396,34 @@
       "flair": [
         "Football"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/oregon-mascot-loses-head-on-run-out-v0-cW1vZmV4ZjNjOG1mMSyOWAf3HPeIYvCv0EmojN8D8KAqcSXEFqZc3_NjQroO.png?width=640&crop=smart&format=pjpg&auto=webp&s=3793fc7b810207a52b79989c13bf1fd435291089"
+      "thumbnail_url": "https://external-preview.redd.it/oregon-mascot-loses-head-on-run-out-v0-cW1vZmV4ZjNjOG1mMSyOWAf3HPeIYvCv0EmojN8D8KAqcSXEFqZc3_NjQroO.png?width=640&crop=smart&format=pjpg&auto=webp&s=3793fc7b810207a52b79989c13bf1fd435291089",
+      "is_promoted": false
     },
     {
-      "title": "Paul Skenes fans Shohei Ohtani for one of his 8 strikeouts over 6 innings. Pirates win 5-3 and sweep the Dodgers",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n8sd70/paul_skenes_fans_shohei_ohtani_for_one_of_his_8/",
-      "score": 57,
-      "comments": 5,
-      "post_id": "t3_1n8sd70",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Oldtimer_2",
-      "author_id": "t2_dlkk5z8t",
+      "title": "Tennis great Björn Borg says prostate cancer now in remission",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n8mzbu/tennis_great_björn_borg_says_prostate_cancer_now/",
+      "score": 134,
+      "comments": 4,
+      "post_id": "t3_1n8mzbu",
+      "post_type": "link",
+      "domain": "espn.com",
+      "author": "PrincessBananas85",
+      "author_id": "t2_7r3ctd6",
       "subreddit_id": "t5_2qgzy",
       "subreddit": "r/sports",
-      "created_ts": "2025-09-05T01:36:13.244000+0000",
-      "content_href": "https://v.redd.it/ng9oq6lm29nf1",
+      "created_ts": "2025-09-04T21:36:48.215000+0000",
+      "content_href": "https://www.espn.com/tennis/story/_/id/46159063/bjorn-borg-says-prostate-cancer-remission-24-operation",
       "content_preview": "",
       "flair": [
-        "Baseball"
+        "Tennis"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
       "title": "Michael Jordan's last shot for Chicago Bulls.",
       "permalink": "https://www.reddit.com/r/sports/comments/1n2broq/michael_jordans_last_shot_for_chicago_bulls/",
-      "score": 31538,
+      "score": 31542,
       "comments": 1194,
       "post_id": "t3_1n2broq",
       "post_type": "video",
@@ -438,12 +438,13 @@
       "flair": [
         "Basketball"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/michael-jordans-last-shot-for-chicago-bulls-v0-aW9ndG9hd3RlcmxmMYVv3BrglzF2CZJBi1ftScf8kOzJKETB5CBLPA2iQkBg.png?width=640&crop=smart&format=pjpg&auto=webp&s=037ee3ff949b690c07053398273e27e2beec0aaa"
+      "thumbnail_url": "https://external-preview.redd.it/michael-jordans-last-shot-for-chicago-bulls-v0-aW9ndG9hd3RlcmxmMYVv3BrglzF2CZJBi1ftScf8kOzJKETB5CBLPA2iQkBg.png?width=640&crop=smart&format=pjpg&auto=webp&s=037ee3ff949b690c07053398273e27e2beec0aaa",
+      "is_promoted": false
     },
     {
       "title": "Jalen Hurts scores 2nd rushing touchdown of the game",
       "permalink": "https://www.reddit.com/r/sports/comments/1n8rve0/jalen_hurts_scores_2nd_rushing_touchdown_of_the/",
-      "score": 54,
+      "score": 65,
       "comments": 6,
       "post_id": "t3_1n8rve0",
       "post_type": "video",
@@ -458,52 +459,13 @@
       "flair": [
         "Football"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_vhkg7/styles/profileIcon_qyisviqjbeh71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fa94109f0cebce8b78550206565fa9b1c1a2a7db"
-    },
-    {
-      "title": "Dramatic footage shows officers tackling cosplay teen mistaken for gunman outside Chelsea match | The incident happened as 40,000 Chelsea and Fulham fans were leaving the stadium, causing worried members of the public to call 999 after spotting the teen in the busy crowd",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n8k3n8/dramatic_footage_shows_officers_tackling_cosplay/",
-      "score": 134,
-      "comments": 9,
-      "post_id": "t3_1n8k3n8",
-      "post_type": "link",
-      "domain": "msn.com",
-      "author": "Sandstorm400",
-      "author_id": "t2_clvjh74c",
-      "subreddit_id": "t5_2qgzy",
-      "subreddit": "r/sports",
-      "created_ts": "2025-09-04T19:44:21.588000+0000",
-      "content_href": "https://www.msn.com/en-gb/news/uknews/dramatic-footage-shows-officers-tackling-cosplay-teen-mistaken-for-gunman-outside-chelsea-match/ar-AA1LS80Z",
-      "content_preview": "",
-      "flair": [
-        "Soccer"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "Björn Borg reveals he has prostate cancer in his up-coming autobiography",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n8a1bb/björn_borg_reveals_he_has_prostate_cancer_in_his/",
-      "score": 234,
-      "comments": 17,
-      "post_id": "t3_1n8a1bb",
-      "post_type": "link",
-      "domain": "aftonbladet.se",
-      "author": "landofphi",
-      "author_id": "t2_24o760xa",
-      "subreddit_id": "t5_2qgzy",
-      "subreddit": "r/sports",
-      "created_ts": "2025-09-04T13:24:31.725000+0000",
-      "content_href": "https://www.aftonbladet.se/sportbladet/a/25rRwB/tennisikonen-bjorn-borg-har-cancer",
-      "content_preview": "",
-      "flair": [
-        "Tennis"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/D5Fd1tnAjnZt1YoLPTHyXt5qvSXoYL979Uw98Eb38OU.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=053d79f8ece7967b88e54ec4d543019a42aa164a"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_vhkg7/styles/profileIcon_qyisviqjbeh71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fa94109f0cebce8b78550206565fa9b1c1a2a7db",
+      "is_promoted": false
     },
     {
       "title": "Mets top pitching prospect Nolan McLean threw 8 shutout innings and had some crazy movement/elite spin on his pitches",
       "permalink": "https://www.reddit.com/r/sports/comments/1n43rdu/mets_top_pitching_prospect_nolan_mclean_threw_8/",
-      "score": 5385,
+      "score": 5387,
       "comments": 305,
       "post_id": "t3_1n43rdu",
       "post_type": "video",
@@ -518,72 +480,32 @@
       "flair": [
         "Baseball"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_6fl4gk/styles/profileIcon_h2hnanjsorpd1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=463b70e4b818aba3323d0c0affb5e4fda0a39242"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6fl4gk/styles/profileIcon_h2hnanjsorpd1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=463b70e4b818aba3323d0c0affb5e4fda0a39242",
+      "is_promoted": false
     },
     {
-      "title": "Molly Carlson's first dive attempt after slipping off a 72ft platform",
-      "permalink": "https://www.reddit.com/r/sports/comments/1mhif5a/molly_carlsons_first_dive_attempt_after_slipping/",
-      "score": 28094,
-      "comments": 825,
-      "post_id": "t3_1mhif5a",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "redbullgivesyouwings",
-      "author_id": "t2_tyv2pon",
-      "subreddit_id": "t5_2qgzy",
-      "subreddit": "r/sports",
-      "created_ts": "2025-08-04T16:37:09.006000+0000",
-      "content_href": "https://v.redd.it/qq7r7j2z51hf1",
+      "title": "\"When your teamwork is so tight, even Invisible Woman shows up.” Assemble your squad in Marvel Rivals!",
+      "permalink": "https://www.reddit.com/user/MarvelRivals/comments/1n0puns/when_your_teamwork_is_so_tight_even_invisible/",
+      "score": 5,
+      "comments": 0,
+      "post_id": "t3_1n0puns",
+      "post_type": "image",
+      "domain": "marvelrivals.com",
+      "author": "MarvelRivals",
+      "author_id": "t2_1h7e6g8qyl",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-26T16:02:24.403000+0000",
+      "content_href": "https://gsght.com/c/4vu5ib?campaign={{CAMPAIGN_ID}}&ad_group={{ADGROUP_ID}}&ad_group_name={{ADGROUP_NAME}}&ad={{AD_ID}}&ad_name={{AD_NAME}}&creative={{CREATIVE_ID}}&sub2={{POST_ID}}&network_click_id={{CLICK_ID}}",
       "content_preview": "",
-      "flair": [
-        "Diving"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_gv1oa/styles/profileIcon_5pbtqmku30z81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=88b8787334bd8e3e1dde5d92f5730b0ede05f8b1"
-    },
-    {
-      "title": "Third WNBA game stopped as adult toy hits WNBA star Sophie Cunningham in latest incident. Fans and officials alike were left stunned as the strange streak of mid-game disruptions continues.",
-      "permalink": "https://www.reddit.com/r/sports/comments/1mitq7f/third_wnba_game_stopped_as_adult_toy_hits_wnba/",
-      "score": 20365,
-      "comments": 1509,
-      "post_id": "t3_1mitq7f",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "GreenSnakes_",
-      "author_id": "t2_b7j7abfq",
-      "subreddit_id": "t5_2qgzy",
-      "subreddit": "r/sports",
-      "created_ts": "2025-08-06T03:12:19.016000+0000",
-      "content_href": "https://v.redd.it/v6j6zfhfgbhf1",
-      "content_preview": "",
-      "flair": [
-        "Basketball"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/third-wnba-game-stopped-as-adult-toy-hits-wnba-star-sophie-v0-N2I5Nm5nZmZnYmhmMUWG-cMfD_zpUYGMhgsFxBl1jZMzVcj8LG0AR3SsXEsN.png?width=640&crop=smart&format=pjpg&auto=webp&s=4e99094a400d0e676849e376b281b1c630340897"
-    },
-    {
-      "title": "Rockies Tyler Freeman collides with Giants catcher Patrick Bailey on a play at the plate. After the collision, Freeman touches home plate for the run. Both stayed in the game.",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n7z753/rockies_tyler_freeman_collides_with_giants/",
-      "score": 1470,
-      "comments": 126,
-      "post_id": "t3_1n7z753",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Oldtimer_2",
-      "author_id": "t2_dlkk5z8t",
-      "subreddit_id": "t5_2qgzy",
-      "subreddit": "r/sports",
-      "created_ts": "2025-09-04T03:10:21.532000+0000",
-      "content_href": "https://v.redd.it/lq2i658ie2nf1",
-      "content_preview": "",
-      "flair": [
-        "Baseball"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dcxqlg/styles/profileIcon_7nwoq178j5de1.jpeg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=018bf44c2be91f933439843d86e017a06cfbd6f0",
+      "is_promoted": true
     },
     {
       "title": "Steve Ballmer, Kawhi Leonard linked to under the table deal with Clippers, $28,000,000 endorsement from fraudulent tree planting company to circumvent the salary cap and keep Leonard on the team",
       "permalink": "https://www.reddit.com/r/sports/comments/1n7e6i9/steve_ballmer_kawhi_leonard_linked_to_under_the/",
-      "score": 5040,
+      "score": 5053,
       "comments": 360,
       "post_id": "t3_1n7e6i9",
       "post_type": "link",
@@ -598,32 +520,34 @@
       "flair": [
         "Basketball"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
-      "title": "Skydiver Jade Damarell, 32, made 'no attempt' to open parachute during 15,500ft jump on day after relationship with boyfriend ended, inquest determines",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n0lqol/skydiver_jade_damarell_32_made_no_attempt_to_open/",
-      "score": 17888,
-      "comments": 620,
-      "post_id": "t3_1n0lqol",
+      "title": "Cricket: Ross Taylor switches to Samoa ahead of T20 World Cup",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n8xv7z/cricket_ross_taylor_switches_to_samoa_ahead_of/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n8xv7z",
       "post_type": "link",
-      "domain": "manchestereveningnews.co.uk",
-      "author": "Forward-Answer-4407",
-      "author_id": "t2_aeasnbznu",
+      "domain": "rnz.co.nz",
+      "author": "Huge-Physics5491",
+      "author_id": "t2_96bzmmh8",
       "subreddit_id": "t5_2qgzy",
       "subreddit": "r/sports",
-      "created_ts": "2025-08-26T13:23:06.594000+0000",
-      "content_href": "https://www.manchestereveningnews.co.uk/news/uk-news/skydiver-jade-damarell-death-durham-32321786",
+      "created_ts": "2025-09-05T06:31:13.365000+0000",
+      "content_href": "https://www.rnz.co.nz/news/sport/572195/cricket-ross-taylor-switches-to-samoa-ahead-of-t20-world-cup",
       "content_preview": "",
       "flair": [
-        "Outdoors"
+        "Cricket"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://external-preview.redd.it/JOG6pMgGypo2ooR0MepAc5P_tV4TO66UQAZzD68F4No.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=ffc3838cc8269cf7984576950e0538699a871445",
+      "is_promoted": false
     },
     {
       "title": "Mercury found in rubberized flooring in Long Island school district's gymnasiums | High school wrestler quits after doctor measured higher-than-average mercury in his blood",
       "permalink": "https://www.reddit.com/r/sports/comments/1n3d1of/mercury_found_in_rubberized_flooring_in_long/",
-      "score": 3944,
+      "score": 3945,
       "comments": 138,
       "post_id": "t3_1n3d1of",
       "post_type": "link",
@@ -638,12 +562,76 @@
       "flair": [
         "Wrestling"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Dramatic footage shows officers tackling cosplay teen mistaken for gunman outside Chelsea match | The incident happened as 40,000 Chelsea and Fulham fans were leaving the stadium, causing worried members of the public to call 999 after spotting the teen in the busy crowd",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n8k3n8/dramatic_footage_shows_officers_tackling_cosplay/",
+      "score": 149,
+      "comments": 14,
+      "post_id": "t3_1n8k3n8",
+      "post_type": "link",
+      "domain": "msn.com",
+      "author": "Sandstorm400",
+      "author_id": "t2_clvjh74c",
+      "subreddit_id": "t5_2qgzy",
+      "subreddit": "r/sports",
+      "created_ts": "2025-09-04T19:44:21.588000+0000",
+      "content_href": "https://www.msn.com/en-gb/news/uknews/dramatic-footage-shows-officers-tackling-cosplay-teen-mistaken-for-gunman-outside-chelsea-match/ar-AA1LS80Z",
+      "content_preview": "",
+      "flair": [
+        "Soccer"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Björn Borg reveals he has prostate cancer in his up-coming autobiography",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n8a1bb/björn_borg_reveals_he_has_prostate_cancer_in_his/",
+      "score": 243,
+      "comments": 18,
+      "post_id": "t3_1n8a1bb",
+      "post_type": "link",
+      "domain": "aftonbladet.se",
+      "author": "landofphi",
+      "author_id": "t2_24o760xa",
+      "subreddit_id": "t5_2qgzy",
+      "subreddit": "r/sports",
+      "created_ts": "2025-09-04T13:24:31.725000+0000",
+      "content_href": "https://www.aftonbladet.se/sportbladet/a/25rRwB/tennisikonen-bjorn-borg-har-cancer",
+      "content_preview": "",
+      "flair": [
+        "Tennis"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/D5Fd1tnAjnZt1YoLPTHyXt5qvSXoYL979Uw98Eb38OU.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=053d79f8ece7967b88e54ec4d543019a42aa164a",
+      "is_promoted": false
+    },
+    {
+      "title": "Rockies Tyler Freeman collides with Giants catcher Patrick Bailey on a play at the plate. After the collision, Freeman touches home plate for the run. Both stayed in the game.",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n7z753/rockies_tyler_freeman_collides_with_giants/",
+      "score": 1499,
+      "comments": 127,
+      "post_id": "t3_1n7z753",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Oldtimer_2",
+      "author_id": "t2_dlkk5z8t",
+      "subreddit_id": "t5_2qgzy",
+      "subreddit": "r/sports",
+      "created_ts": "2025-09-04T03:10:21.532000+0000",
+      "content_href": "https://v.redd.it/lq2i658ie2nf1",
+      "content_preview": "",
+      "flair": [
+        "Baseball"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
       "title": "Jets' guard Alijah Vera-Tucker suffered torn triceps. Expected to miss entire season",
       "permalink": "https://www.reddit.com/r/sports/comments/1n8a08q/jets_guard_alijah_veratucker_suffered_torn/",
-      "score": 213,
+      "score": 222,
       "comments": 26,
       "post_id": "t3_1n8a08q",
       "post_type": "link",
@@ -658,33 +646,54 @@
       "flair": [
         "Football"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "Batter calls time out, doesn’t get it, casually hits a one-handed rbi single",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n721a3/batter_calls_time_out_doesnt_get_it_casually_hits/",
-      "score": 3488,
-      "comments": 58,
-      "post_id": "t3_1n721a3",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "mikeyv683",
-      "author_id": "t2_3ila5c4z",
+      "title": "There are big dreams. There are small dreams. At IKEA, we design for every dream in between.",
+      "permalink": "https://www.reddit.com/user/IKEA_USA/comments/1mx70z3/there_are_big_dreams_there_are_small_dreams_at/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mx70z3",
+      "post_type": "gallery",
+      "domain": "ikea.com",
+      "author": "IKEA_USA",
+      "author_id": "t2_655g3pr",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-22T13:48:32.172000+0000",
+      "content_href": "https://www.ikea.com/us/en/campaigns/40thanniversary-pub45e9ef70/?utm_source=reddit&utm_medium=paid-social&utm_campaign=US_LC_A1_Brand_Platform_FY26_L1_Awareness_Brand-PROSP-Standard-GMGM",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_gam87/styles/profileIcon_33zmv4vm75u61.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=cc9371c3979044f9e00dab4928971bbc1df82e91",
+      "is_promoted": true
+    },
+    {
+      "title": "Golden State Valkyries become the first WNBA expansion team to make the playoffs in their inaugural season",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n8wag5/golden_state_valkyries_become_the_first_wnba/",
+      "score": 5,
+      "comments": 0,
+      "post_id": "t3_1n8wag5",
+      "post_type": "link",
+      "domain": "valkyries.wnba.com",
+      "author": "Platypus-Ninja",
+      "author_id": "t2_jtwk7",
       "subreddit_id": "t5_2qgzy",
       "subreddit": "r/sports",
-      "created_ts": "2025-09-03T01:42:35.865000+0000",
-      "content_href": "https://v.redd.it/cbt4qldwtumf1",
+      "created_ts": "2025-09-05T04:56:17.551000+0000",
+      "content_href": "https://valkyries.wnba.com/news/valkyries-clinch-postseason-berth-20250904",
       "content_preview": "",
       "flair": [
-        "Baseball"
+        "Basketball"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_10ksrs/styles/profileIcon_7chkols8kuye1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1b9591f5a293c46abf46f16c89996395420604f0"
+      "thumbnail_url": "https://external-preview.redd.it/lCTPJscHBCl7D5bmCPHRhf1XZ9XyL-FaxtaUENRYuHE.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=76a4e5b9ff8f936db604b00c9890075a2c710330",
+      "is_promoted": false
     },
     {
       "title": "Angel Reese hints at possible exit amid Chicago Sky's losing season",
       "permalink": "https://www.reddit.com/r/sports/comments/1n7y74d/angel_reese_hints_at_possible_exit_amid_chicago/",
-      "score": 1129,
-      "comments": 462,
+      "score": 1152,
+      "comments": 476,
       "post_id": "t3_1n7y74d",
       "post_type": "link",
       "domain": "thescore.com",
@@ -698,13 +707,14 @@
       "flair": [
         "Basketball"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
       "title": "Broncos, pass-rusher Nik Bonitto reach 4-year deal worth up to $120M",
       "permalink": "https://www.reddit.com/r/sports/comments/1n8dfnq/broncos_passrusher_nik_bonitto_reach_4year_deal/",
-      "score": 92,
-      "comments": 8,
+      "score": 94,
+      "comments": 9,
       "post_id": "t3_1n8dfnq",
       "post_type": "link",
       "domain": "thescore.com",
@@ -718,153 +728,35 @@
       "flair": [
         "Football"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "Chicago Sky head coach Tyler Marsh responds to Angel Reese’s comments calling out her teammates, coaches, and front office. \"It's something that we're aware of, and we're addressing it in house.\"",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n7yi1p/chicago_sky_head_coach_tyler_marsh_responds_to/",
-      "score": 3378,
-      "comments": 814,
-      "post_id": "t3_1n7yi1p",
+      "title": "Saquon Barkley one-handed catch followed by a stiff arm",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n8v7ki/saquon_barkley_onehanded_catch_followed_by_a/",
+      "score": 86,
+      "comments": 10,
+      "post_id": "t3_1n8v7ki",
       "post_type": "video",
       "domain": "v.redd.it",
-      "author": "GreenSnakes_",
-      "author_id": "t2_b7j7abfq",
+      "author": "nfl",
+      "author_id": "t2_30enjsvu",
       "subreddit_id": "t5_2qgzy",
       "subreddit": "r/sports",
-      "created_ts": "2025-09-04T02:36:35.716000+0000",
-      "content_href": "https://v.redd.it/yz43mtdg82nf1",
-      "content_preview": "",
-      "flair": [
-        "Basketball"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/chicago-sky-head-coach-tyler-marsh-responds-to-angel-reeses-v0-aGVzNGwxYmc4Mm5mMTnSWyU74vOrg9MWZOtdt3WDJOryQnGVOIY-ti2JjoCY.png?width=640&crop=smart&format=pjpg&auto=webp&s=d52aca72c83a543eb8947cd92b0f8d8c5f73cbad"
-    },
-    {
-      "title": "Walter Payton Man of the Year Dak Prescott spits and laughs at Jalen Carter",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n8uzlg/walter_payton_man_of_the_year_dak_prescott_spits/",
-      "score": 0,
-      "comments": 52,
-      "post_id": "t3_1n8uzlg",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "LeoFrankenstein",
-      "author_id": "t2_265w7mr7",
-      "subreddit_id": "t5_2qgzy",
-      "subreddit": "r/sports",
-      "created_ts": "2025-09-05T03:45:32.872000+0000",
-      "content_href": "https://v.redd.it/twf5pnapp9nf1",
+      "created_ts": "2025-09-05T03:57:10.385000+0000",
+      "content_href": "https://v.redd.it/9ii1tpjor9nf1",
       "content_preview": "",
       "flair": [
         "Football"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/walter-payton-man-of-the-year-dak-prescott-spits-and-laughs-v0-dGEybHUwNHBwOW5mMU1vfX7yABo8gVReciuspuanNVnZd9KIk5X1y36p3qmh.png?width=640&crop=smart&format=pjpg&auto=webp&s=9ac0d5ca5e956d0a750be92848335eb948a40e4f"
-    },
-    {
-      "title": "Report: Jalen Carter took offense to Dak Prescott spitting near Eagles huddle",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n8urag/report_jalen_carter_took_offense_to_dak_prescott/",
-      "score": 28,
-      "comments": 30,
-      "post_id": "t3_1n8urag",
-      "post_type": "link",
-      "domain": "nbcsports.com",
-      "author": "cgibsong002",
-      "author_id": "t2_izqa2",
-      "subreddit_id": "t5_2qgzy",
-      "subreddit": "r/sports",
-      "created_ts": "2025-09-05T03:33:34.693000+0000",
-      "content_href": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jalen-carter-took-offense-to-dak-prescott-spitting-near-eagles-huddle",
-      "content_preview": "",
-      "flair": [
-        "Football"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Hawai'i kicker Kansei Matsuzawa learned how to kick a football from YouTube videos because no one where he lived knew how. He attended community college in Ohio despite not knowing English and got the coaches to take a chance on him. He just kicked the game winning FG for Hawai'i to beat Stanford.",
-      "permalink": "https://www.reddit.com/r/sports/comments/1mymugi/hawaii_kicker_kansei_matsuzawa_learned_how_to/",
-      "score": 17355,
-      "comments": 316,
-      "post_id": "t3_1mymugi",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Desperate-Emu4297",
-      "author_id": "t2_wwd8a5iru",
-      "subreddit_id": "t5_2qgzy",
-      "subreddit": "r/sports",
-      "created_ts": "2025-08-24T05:03:20.948000+0000",
-      "content_href": "https://v.redd.it/wq393vckgwkf1",
-      "content_preview": "",
-      "flair": [
-        "Football"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/hawaii-kicker-kansei-matsuzawa-learned-how-to-kick-a-v0-anR5dGR1Y2tnd2tmMZQ30hJ8ZaAjUVibbJGaK4u2by9BwPXFDU-c_j9kLN9L.png?format=pjpg&auto=webp&s=99551dac063ee702a0f34143f027c31e2edcbe76"
-    },
-    {
-      "title": "No. 139 ranked Taylor Townsend defeats  No. 25 Jelena Ostapenko for a place in the third round US Open. Ostapenko was upset after the match concluded. Townsend: “You can learn how to take a loss better”. Ostapenko cursed out the crowd at the end.",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n1xxio/no_139_ranked_taylor_townsend_defeats_no_25/",
-      "score": 16858,
-      "comments": 725,
-      "post_id": "t3_1n1xxio",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "GreenSnakes_",
-      "author_id": "t2_b7j7abfq",
-      "subreddit_id": "t5_2qgzy",
-      "subreddit": "r/sports",
-      "created_ts": "2025-08-28T00:27:14.330000+0000",
-      "content_href": "https://v.redd.it/3ae26761nnlf1",
-      "content_preview": "",
-      "flair": [
-        "Tennis"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/no-139-ranked-taylor-townsend-defeats-no-25-jelena-v0-eGE1czcwNDFubmxmMSt08x-P-_uOJjnHtCZ37gQSEgFod1YuS075pty5y2Jp.png?format=pjpg&auto=webp&s=b6a08887e255ea298687d3273118d3c3e5012987"
-    },
-    {
-      "title": "Jeremy Lin retires from professional basketball",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n4khp3/jeremy_lin_retires_from_professional_basketball/",
-      "score": 3289,
-      "comments": 155,
-      "post_id": "t3_1n4khp3",
-      "post_type": "link",
-      "domain": "thescore.com",
-      "author": "Oldtimer_2",
-      "author_id": "t2_dlkk5z8t",
-      "subreddit_id": "t5_2qgzy",
-      "subreddit": "r/sports",
-      "created_ts": "2025-08-31T03:29:59.824000+0000",
-      "content_href": "https://thescore.com/nba/news/3334969",
-      "content_preview": "",
-      "flair": [
-        "Basketball"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "Shedeur Sanders to Browns radio host Tony Grossi after last nights game: “You always say negative stuff about me. I didn’t do nothing to you. I’ve never seen you say anything positive about me.”",
-      "permalink": "https://www.reddit.com/r/sports/comments/1mltcwf/shedeur_sanders_to_browns_radio_host_tony_grossi/",
-      "score": 14683,
-      "comments": 1235,
-      "post_id": "t3_1mltcwf",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "GreenSnakes_",
-      "author_id": "t2_b7j7abfq",
-      "subreddit_id": "t5_2qgzy",
-      "subreddit": "r/sports",
-      "created_ts": "2025-08-09T16:16:51.585000+0000",
-      "content_href": "https://v.redd.it/kac513n4r0if1",
-      "content_preview": "",
-      "flair": [
-        "Football"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/shedeur-sanders-to-browns-radio-host-tony-grossi-after-last-v0-NDdiZTh6azRyMGlmMZ_11M-MMv49sxNYD2OWFsVkiImwgmQjesUlzt-k63wz.png?width=640&crop=smart&format=pjpg&auto=webp&s=cec59b64893226796d6452ea87507861076e7bfd"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_vhkg7/styles/profileIcon_qyisviqjbeh71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fa94109f0cebce8b78550206565fa9b1c1a2a7db",
+      "is_promoted": false
     },
     {
       "title": "Calif. high school forfeits entire football season as it faces massive scandal",
       "permalink": "https://www.reddit.com/r/sports/comments/1n7u98x/calif_high_school_forfeits_entire_football_season/",
-      "score": 1401,
-      "comments": 205,
+      "score": 1418,
+      "comments": 207,
       "post_id": "t3_1n7u98x",
       "post_type": "link",
       "domain": "sfgate.com",
@@ -878,13 +770,96 @@
       "flair": [
         "Football"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Messi says goodbye in Argentina, 'we'll see' on WC",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n8ub8l/messi_says_goodbye_in_argentina_well_see_on_wc/",
+      "score": 26,
+      "comments": 2,
+      "post_id": "t3_1n8ub8l",
+      "post_type": "link",
+      "domain": "espn.com",
+      "author": "West_Sky_5989",
+      "author_id": "t2_14vbameujk",
+      "subreddit_id": "t5_2qgzy",
+      "subreddit": "r/sports",
+      "created_ts": "2025-09-05T03:10:30.617000+0000",
+      "content_href": "https://www.espn.com/soccer/story/_/id/46160774/lionel-messi-goodbye-argentina-world-cup",
+      "content_preview": "",
+      "flair": [
+        "Soccer"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Third WNBA game stopped as adult toy hits WNBA star Sophie Cunningham in latest incident. Fans and officials alike were left stunned as the strange streak of mid-game disruptions continues.",
+      "permalink": "https://www.reddit.com/r/sports/comments/1mitq7f/third_wnba_game_stopped_as_adult_toy_hits_wnba/",
+      "score": 20366,
+      "comments": 1509,
+      "post_id": "t3_1mitq7f",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "GreenSnakes_",
+      "author_id": "t2_b7j7abfq",
+      "subreddit_id": "t5_2qgzy",
+      "subreddit": "r/sports",
+      "created_ts": "2025-08-06T03:12:19.016000+0000",
+      "content_href": "https://v.redd.it/v6j6zfhfgbhf1",
+      "content_preview": "",
+      "flair": [
+        "Basketball"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/third-wnba-game-stopped-as-adult-toy-hits-wnba-star-sophie-v0-N2I5Nm5nZmZnYmhmMUWG-cMfD_zpUYGMhgsFxBl1jZMzVcj8LG0AR3SsXEsN.png?width=640&crop=smart&format=pjpg&auto=webp&s=4e99094a400d0e676849e376b281b1c630340897",
+      "is_promoted": false
+    },
+    {
+      "title": "For 70 years, Volvo Cars have been part of summer celebrations in the U.S. Start making new memories this Summer.",
+      "permalink": "https://www.reddit.com/user/volvocarusa/comments/1ltzo2e/for_70_years_volvo_cars_have_been_part_of_summer/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1ltzo2e",
+      "post_type": "video",
+      "domain": "volvocars.com",
+      "author": "volvocarusa",
+      "author_id": "t2_4o8easx8",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-07T17:03:51.396000+0000",
+      "content_href": "https://v.redd.it/lzw7x3rwzfbf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_25j5wo/styles/profileIcon_qwtep57blu281.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=e78f5adefefd0f80179732429f02b18efb5ad471",
+      "is_promoted": true
+    },
+    {
+      "title": "Defending champ Sabalenka outlasts Pegula to reach US Open final",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n8tw8e/defending_champ_sabalenka_outlasts_pegula_to/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n8tw8e",
+      "post_type": "link",
+      "domain": "thescore.com",
+      "author": "Oldtimer_2",
+      "author_id": "t2_dlkk5z8t",
+      "subreddit_id": "t5_2qgzy",
+      "subreddit": "r/sports",
+      "created_ts": "2025-09-05T02:49:47.412000+0000",
+      "content_href": "https://thescore.com/wta/news/3338386",
+      "content_preview": "",
+      "flair": [
+        "Tennis"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
       "title": "NBA says it will open investigation into report that Clippers broke cap rules with Leonard deal",
       "permalink": "https://www.reddit.com/r/sports/comments/1n7rwib/nba_says_it_will_open_investigation_into_report/",
-      "score": 808,
-      "comments": 46,
+      "score": 812,
+      "comments": 47,
       "post_id": "t3_1n7rwib",
       "post_type": "link",
       "domain": "apnews.com",
@@ -898,32 +873,13 @@
       "flair": [
         "Basketball"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "NBA moving closer to a US vs. International format for the All-Star Game",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n7x7i2/nba_moving_closer_to_a_us_vs_international_format/",
-      "score": 205,
-      "comments": 31,
-      "post_id": "t3_1n7x7i2",
-      "post_type": "link",
-      "domain": "apnews.com",
-      "author": "Oldtimer_2",
-      "author_id": "t2_dlkk5z8t",
-      "subreddit_id": "t5_2qgzy",
-      "subreddit": "r/sports",
-      "created_ts": "2025-09-04T01:35:10.051000+0000",
-      "content_href": "https://apnews.com/article/nba-all-star-game-745960c6d165b87ce6480a837e8e31ec",
-      "content_preview": "",
-      "flair": [
-        "Basketball"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
       "title": "38 year old Novak Djokovic becomes the oldest player in the Open Era to reach all four men's singles Grand Slam semi-finals in one season, after beating top ranked American - Taylor Fritz; to meet Carlos Alcaraz in the semi-final",
       "permalink": "https://www.reddit.com/r/sports/comments/1n7hgwc/38_year_old_novak_djokovic_becomes_the_oldest/",
-      "score": 50,
+      "score": 51,
       "comments": 4,
       "post_id": "t3_1n7hgwc",
       "post_type": "link",
@@ -938,7 +894,71 @@
       "flair": [
         "Tennis"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Skydiver Jade Damarell, 32, made 'no attempt' to open parachute during 15,500ft jump on day after relationship with boyfriend ended, inquest determines",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n0lqol/skydiver_jade_damarell_32_made_no_attempt_to_open/",
+      "score": 17889,
+      "comments": 618,
+      "post_id": "t3_1n0lqol",
+      "post_type": "link",
+      "domain": "manchestereveningnews.co.uk",
+      "author": "Forward-Answer-4407",
+      "author_id": "t2_aeasnbznu",
+      "subreddit_id": "t5_2qgzy",
+      "subreddit": "r/sports",
+      "created_ts": "2025-08-26T13:23:06.594000+0000",
+      "content_href": "https://www.manchestereveningnews.co.uk/news/uk-news/skydiver-jade-damarell-death-durham-32321786",
+      "content_preview": "",
+      "flair": [
+        "Outdoors"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Hawai'i kicker Kansei Matsuzawa learned how to kick a football from YouTube videos because no one where he lived knew how. He attended community college in Ohio despite not knowing English and got the coaches to take a chance on him. He just kicked the game winning FG for Hawai'i to beat Stanford.",
+      "permalink": "https://www.reddit.com/r/sports/comments/1mymugi/hawaii_kicker_kansei_matsuzawa_learned_how_to/",
+      "score": 17358,
+      "comments": 316,
+      "post_id": "t3_1mymugi",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Desperate-Emu4297",
+      "author_id": "t2_wwd8a5iru",
+      "subreddit_id": "t5_2qgzy",
+      "subreddit": "r/sports",
+      "created_ts": "2025-08-24T05:03:20.948000+0000",
+      "content_href": "https://v.redd.it/wq393vckgwkf1",
+      "content_preview": "",
+      "flair": [
+        "Football"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/hawaii-kicker-kansei-matsuzawa-learned-how-to-kick-a-v0-anR5dGR1Y2tnd2tmMZQ30hJ8ZaAjUVibbJGaK4u2by9BwPXFDU-c_j9kLN9L.png?format=pjpg&auto=webp&s=99551dac063ee702a0f34143f027c31e2edcbe76",
+      "is_promoted": false
+    },
+    {
+      "title": "No. 139 ranked Taylor Townsend defeats  No. 25 Jelena Ostapenko for a place in the third round US Open. Ostapenko was upset after the match concluded. Townsend: “You can learn how to take a loss better”. Ostapenko cursed out the crowd at the end.",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n1xxio/no_139_ranked_taylor_townsend_defeats_no_25/",
+      "score": 16860,
+      "comments": 725,
+      "post_id": "t3_1n1xxio",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "GreenSnakes_",
+      "author_id": "t2_b7j7abfq",
+      "subreddit_id": "t5_2qgzy",
+      "subreddit": "r/sports",
+      "created_ts": "2025-08-28T00:27:14.330000+0000",
+      "content_href": "https://v.redd.it/3ae26761nnlf1",
+      "content_preview": "",
+      "flair": [
+        "Tennis"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/no-139-ranked-taylor-townsend-defeats-no-25-jelena-v0-eGE1czcwNDFubmxmMSt08x-P-_uOJjnHtCZ37gQSEgFod1YuS075pty5y2Jp.png?format=pjpg&auto=webp&s=b6a08887e255ea298687d3273118d3c3e5012987",
+      "is_promoted": false
     },
     {
       "title": "Apologetic Valdez: Pitch that hit Astros' Salazar unintentional",
@@ -958,7 +978,90 @@
       "flair": [
         "Baseball"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Create new legacies with electrolytes that hydrate better than water. #IsItInYou?",
+      "permalink": "https://www.reddit.com/user/Gatorade/comments/1m7bptx/create_new_legacies_with_electrolytes_that/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1m7bptx",
+      "post_type": "video",
+      "domain": "gatorade.com",
+      "author": "Gatorade",
+      "author_id": "t2_8mtl2fl8",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-23T15:05:41.031000+0000",
+      "content_href": "https://v.redd.it/e3z4b6oellef1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3bag3s/styles/profileIcon_qpuo1r1ayfu71.jpeg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=5fd52ec382f1ada6592f54d49ef03e8b25ed58fd",
+      "is_promoted": true
+    },
+    {
+      "title": "Shedeur Sanders to Browns radio host Tony Grossi after last nights game: “You always say negative stuff about me. I didn’t do nothing to you. I’ve never seen you say anything positive about me.”",
+      "permalink": "https://www.reddit.com/r/sports/comments/1mltcwf/shedeur_sanders_to_browns_radio_host_tony_grossi/",
+      "score": 14684,
+      "comments": 1235,
+      "post_id": "t3_1mltcwf",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "GreenSnakes_",
+      "author_id": "t2_b7j7abfq",
+      "subreddit_id": "t5_2qgzy",
+      "subreddit": "r/sports",
+      "created_ts": "2025-08-09T16:16:51.585000+0000",
+      "content_href": "https://v.redd.it/kac513n4r0if1",
+      "content_preview": "",
+      "flair": [
+        "Football"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/shedeur-sanders-to-browns-radio-host-tony-grossi-after-last-v0-NDdiZTh6azRyMGlmMZ_11M-MMv49sxNYD2OWFsVkiImwgmQjesUlzt-k63wz.png?width=640&crop=smart&format=pjpg&auto=webp&s=cec59b64893226796d6452ea87507861076e7bfd",
+      "is_promoted": false
+    },
+    {
+      "title": "CeeDee Lamb drops ball on 4th down",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n8vjik/ceedee_lamb_drops_ball_on_4th_down/",
+      "score": 164,
+      "comments": 138,
+      "post_id": "t3_1n8vjik",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "nfl",
+      "author_id": "t2_30enjsvu",
+      "subreddit_id": "t5_2qgzy",
+      "subreddit": "r/sports",
+      "created_ts": "2025-09-05T04:14:32.677000+0000",
+      "content_href": "https://v.redd.it/7ixrymtuu9nf1",
+      "content_preview": "",
+      "flair": [
+        "Football"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_vhkg7/styles/profileIcon_qyisviqjbeh71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fa94109f0cebce8b78550206565fa9b1c1a2a7db",
+      "is_promoted": false
+    },
+    {
+      "title": "Cleveland Browns rookie QB Shedeur Sanders has gone viral for refusing to sign an autograph for a young kid before his first game. \"I'm about to play a game. It's not a great look to be signing stuff.\"",
+      "permalink": "https://www.reddit.com/r/sports/comments/1mra1cj/cleveland_browns_rookie_qb_shedeur_sanders_has/",
+      "score": 13832,
+      "comments": 3607,
+      "post_id": "t3_1mra1cj",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "GreenSnakes_",
+      "author_id": "t2_b7j7abfq",
+      "subreddit_id": "t5_2qgzy",
+      "subreddit": "r/sports",
+      "created_ts": "2025-08-15T20:53:50.616000+0000",
+      "content_href": "https://v.redd.it/7i5tiojvx8jf1",
+      "content_preview": "",
+      "flair": [
+        "Football"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/cleveland-browns-rookie-qb-shedeur-sanders-has-gone-viral-v0-NjIyem5jaXV4OGpmMYAgCNtkOrYh5u7MGS55hmNouBz5brpWvzhoDmekY_AC.png?width=640&crop=smart&format=pjpg&auto=webp&s=1d02c9f0ab25cbaa99890fe837667181318bfb3d",
+      "is_promoted": false
     },
     {
       "title": "Gout Gout to run 200m as Australian Athletics name biggest team for world championships",
@@ -978,27 +1081,90 @@
       "flair": [
         "Track & Field"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
-      "title": "World and Olympic pole vault champion Nina Kennedy pulls out of World Athletics Championships with injury",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n8ur9n/world_and_olympic_pole_vault_champion_nina/",
-      "score": 1,
-      "comments": 0,
-      "post_id": "t3_1n8ur9n",
-      "post_type": "link",
-      "domain": "abc.net.au",
-      "author": "Expensive-Horse5538",
-      "author_id": "t2_14z2pjj2ui",
+      "title": "Batter calls time out, doesn’t get it, casually hits a one-handed rbi single",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n721a3/batter_calls_time_out_doesnt_get_it_casually_hits/",
+      "score": 3495,
+      "comments": 58,
+      "post_id": "t3_1n721a3",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "mikeyv683",
+      "author_id": "t2_3ila5c4z",
       "subreddit_id": "t5_2qgzy",
       "subreddit": "r/sports",
-      "created_ts": "2025-09-05T03:33:32.582000+0000",
-      "content_href": "https://www.abc.net.au/news/2025-09-05/olympic-pole-vault-champion-nina-kennedy-pulls-out-world-titles/105740090?utm_source=abc_news_app&utm_medium=content_shared&utm_campaign=abc_news_app&utm_content=link",
+      "created_ts": "2025-09-03T01:42:35.865000+0000",
+      "content_href": "https://v.redd.it/cbt4qldwtumf1",
       "content_preview": "",
       "flair": [
-        "Track & Field"
+        "Baseball"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_10ksrs/styles/profileIcon_7chkols8kuye1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1b9591f5a293c46abf46f16c89996395420604f0",
+      "is_promoted": false
+    },
+    {
+      "title": "Chicago Sky head coach Tyler Marsh responds to Angel Reese’s comments calling out her teammates, coaches, and front office. \"It's something that we're aware of, and we're addressing it in house.\"",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n7yi1p/chicago_sky_head_coach_tyler_marsh_responds_to/",
+      "score": 3411,
+      "comments": 826,
+      "post_id": "t3_1n7yi1p",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "GreenSnakes_",
+      "author_id": "t2_b7j7abfq",
+      "subreddit_id": "t5_2qgzy",
+      "subreddit": "r/sports",
+      "created_ts": "2025-09-04T02:36:35.716000+0000",
+      "content_href": "https://v.redd.it/yz43mtdg82nf1",
+      "content_preview": "",
+      "flair": [
+        "Basketball"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/chicago-sky-head-coach-tyler-marsh-responds-to-angel-reeses-v0-aGVzNGwxYmc4Mm5mMTnSWyU74vOrg9MWZOtdt3WDJOryQnGVOIY-ti2JjoCY.png?width=640&crop=smart&format=pjpg&auto=webp&s=d52aca72c83a543eb8947cd92b0f8d8c5f73cbad",
+      "is_promoted": false
+    },
+    {
+      "title": "NHL to implement a playoff salary cap beginning this season, AP source says",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n8ti1k/nhl_to_implement_a_playoff_salary_cap_beginning/",
+      "score": 14,
+      "comments": 2,
+      "post_id": "t3_1n8ti1k",
+      "post_type": "link",
+      "domain": "apnews.com",
+      "author": "Oldtimer_2",
+      "author_id": "t2_dlkk5z8t",
+      "subreddit_id": "t5_2qgzy",
+      "subreddit": "r/sports",
+      "created_ts": "2025-09-05T02:30:38.002000+0000",
+      "content_href": "https://apnews.com/article/nhl-cba-changes-99b21cc8487335629148e4a327ec5426",
+      "content_preview": "",
+      "flair": [
+        "Hockey"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "When the laser chase doubles as a workout 👌 Help your cat stay active and lose weight in 2 months with IAMS™ Healthy Weight.​",
+      "permalink": "https://www.reddit.com/user/IAMS/comments/1mp8o2k/when_the_laser_chase_doubles_as_a_workout_help/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mp8o2k",
+      "post_type": "video",
+      "domain": "iams.com",
+      "author": "IAMS",
+      "author_id": "t2_1md87spmae",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-13T16:09:52.294000+0000",
+      "content_href": "https://v.redd.it/py7rafa0srif1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_e2ot1n/styles/profileIcon_l76svjukqp7f1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=3a088191f01bd6c96c995c51f44daf944c2d629b",
+      "is_promoted": true
     },
     {
       "title": "Will Power out at Penske: Team confirms Australian will not return for 18th season",
@@ -1018,88 +1184,51 @@
       "flair": [
         "Motorsports"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "Messi says goodbye in Argentina, 'we'll see' on WC",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n8ub8l/messi_says_goodbye_in_argentina_well_see_on_wc/",
-      "score": 13,
+      "title": "Eagles defense celebrates turnover with tush push",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n8tew8/eagles_defense_celebrates_turnover_with_tush_push/",
+      "score": 12,
       "comments": 2,
-      "post_id": "t3_1n8ub8l",
-      "post_type": "link",
-      "domain": "espn.com",
-      "author": "West_Sky_5989",
-      "author_id": "t2_14vbameujk",
+      "post_id": "t3_1n8tew8",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "nfl",
+      "author_id": "t2_30enjsvu",
       "subreddit_id": "t5_2qgzy",
       "subreddit": "r/sports",
-      "created_ts": "2025-09-05T03:10:30.617000+0000",
-      "content_href": "https://www.espn.com/soccer/story/_/id/46160774/lionel-messi-goodbye-argentina-world-cup",
-      "content_preview": "",
-      "flair": [
-        "Soccer"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Ex-NFL player arrested in Roswell for allegedly scamming women on dating apps",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n2faxj/exnfl_player_arrested_in_roswell_for_allegedly/",
-      "score": 469,
-      "comments": 50,
-      "post_id": "t3_1n2faxj",
-      "post_type": "link",
-      "domain": "atlantanewsfirst.com",
-      "author": "Sandstorm400",
-      "author_id": "t2_clvjh74c",
-      "subreddit_id": "t5_2qgzy",
-      "subreddit": "r/sports",
-      "created_ts": "2025-08-28T15:25:29.035000+0000",
-      "content_href": "https://www.atlantanewsfirst.com/2025/08/27/ex-nfl-player-arrested-roswell-accused-scamming-women-dating-apps-police-say/",
+      "created_ts": "2025-09-05T02:26:21.221000+0000",
+      "content_href": "https://v.redd.it/7ycd7ytjb9nf1",
       "content_preview": "",
       "flair": [
         "Football"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_vhkg7/styles/profileIcon_qyisviqjbeh71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fa94109f0cebce8b78550206565fa9b1c1a2a7db",
+      "is_promoted": false
     },
     {
-      "title": "Deion Sanders calls for paying players who reach the College Football Playoff and Nick Saban supports the proposal: Report",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n2k7qp/deion_sanders_calls_for_paying_players_who_reach/",
-      "score": 192,
-      "comments": 33,
-      "post_id": "t3_1n2k7qp",
+      "title": "Jeremy Lin retires from professional basketball",
+      "permalink": "https://www.reddit.com/r/sports/comments/1n4khp3/jeremy_lin_retires_from_professional_basketball/",
+      "score": 3290,
+      "comments": 155,
+      "post_id": "t3_1n4khp3",
       "post_type": "link",
-      "domain": "compuserve.com",
-      "author": "Forward-Answer-4407",
-      "author_id": "t2_aeasnbznu",
+      "domain": "thescore.com",
+      "author": "Oldtimer_2",
+      "author_id": "t2_dlkk5z8t",
       "subreddit_id": "t5_2qgzy",
       "subreddit": "r/sports",
-      "created_ts": "2025-08-28T18:29:30.768000+0000",
-      "content_href": "https://www.compuserve.com/sports/story/0001/20250828/47d1cd221c64e6c23c21c253179dd44c",
+      "created_ts": "2025-08-31T03:29:59.824000+0000",
+      "content_href": "https://thescore.com/nba/news/3334969",
       "content_preview": "",
       "flair": [
-        "Football"
+        "Basketball"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Froome airlifted to hospital after training crash",
-      "permalink": "https://www.reddit.com/r/sports/comments/1n2c6ed/froome_airlifted_to_hospital_after_training_crash/",
-      "score": 23,
-      "comments": 2,
-      "post_id": "t3_1n2c6ed",
-      "post_type": "link",
-      "domain": "bbc.com",
-      "author": "Astroblemes",
-      "author_id": "t2_dvc31gw7",
-      "subreddit_id": "t5_2qgzy",
-      "subreddit": "r/sports",
-      "created_ts": "2025-08-28T13:25:53.152000+0000",
-      "content_href": "https://www.bbc.com/sport/cycling/articles/c4glv348xjwo",
-      "content_preview": "",
-      "flair": [
-        "Cycling"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/M2EPzXg204mNF08P0mBZUkE1eXO-GKMA_3RT8n7d99Y.png?width=140&height=78&crop=140:78,smart&auto=webp&s=2d573f0366e0ab24b8e4443e62681c248c47b903"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-04T21:20:16.513330"
+  "scraped_at": "2025-09-05T03:30:38.772748"
 }

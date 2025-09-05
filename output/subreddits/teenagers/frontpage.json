@@ -2,34 +2,117 @@
   "subreddit": "teenagers",
   "url": "https://www.reddit.com/r/teenagers",
   "meta": {
-    "title": "r/teenagers"
+    "title": "r/teenagers",
+    "description": "r/teenagers is the biggest community forum run by teenagers for teenagers. Our subreddit is primarily for discussions and memes that an average teenager would enjoy to discuss about. We do not have any age-restriction in place but do keep in mind this is targeted for users between the ages of 13 to 19. \n\nParents, teachers, and the like are welcomed to participate and ask any questions!",
+    "subscribers": 3288528,
+    "online_users": 878,
+    "created_timestamp": "2025-09-05T10:31:00.091000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Bookmarks",
+        "content": [
+          {
+            "text": "Rules",
+            "url": "https://www.reddit.com/r/teenagers/wiki/rules"
+          },
+          {
+            "text": "Flairs",
+            "url": "https://www.reddit.com/r/teenagers/wiki/flairs"
+          },
+          {
+            "text": "Discord",
+            "url": "https://discordapp.com/invite/teenagers"
+          }
+        ]
+      },
+      {
+        "title": "r/teenagers Rules",
+        "content": [
+          {
+            "text": "r/teenagers",
+            "url": "/r/teenagers/"
+          },
+          {
+            "text": "Click here for the extended version of this rule.",
+            "url": "https://www.reddit.com/r/teenagers/wiki/rules#wiki_1._no_personal_attacks."
+          },
+          {
+            "text": "Click here for the extended version of this rule.",
+            "url": "https://www.reddit.com/r/teenagers/wiki/rules#wiki_2._no_spamming."
+          },
+          {
+            "text": "Click here for the extended version of this rule.",
+            "url": "https://www.reddit.com/r/teenagers/wiki/rules#wiki_3._no_personal_information.2C_of_yourself_or_others."
+          },
+          {
+            "text": "r/teenagers",
+            "url": "/r/teenagers/"
+          },
+          {
+            "text": "Click here for the extended version of this rule.",
+            "url": "https://www.reddit.com/r/teenagers/wiki/rules#wiki_4.__no_nsfw_content."
+          },
+          {
+            "text": "Click here for the extended version of this rule.",
+            "url": "https://www.reddit.com/r/teenagers/wiki/rules#wiki_5._all_submissions_must_be_flaired."
+          },
+          {
+            "text": "message the moderators",
+            "url": "/message/compose?to=%2Fr%2Fteenagers"
+          },
+          {
+            "text": "content policy",
+            "url": "https://www.redditinc.com/policies/content-policy"
+          },
+          {
+            "text": "applicable terms",
+            "url": "https://www.redditinc.com/policies/all"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/teenagers/moderators/"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "I hate not being able to sleep an istg",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n6ff6j/i_hate_not_being_able_to_sleep_an_istg/",
+      "title": "Debate: Should we study something we love doesn’t make much money OR something we can handle and makes more money",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n91m6e/debate_should_we_study_something_we_love_doesnt/",
       "score": 1,
-      "comments": 0,
-      "post_id": "t3_1n6ff6j",
+      "comments": 1,
+      "post_id": "t3_1n91m6e",
       "post_type": "text",
       "domain": "self.teenagers",
-      "author": "VariousClimate2965",
-      "author_id": "t2_1sm8n57wda",
+      "author": "Dear_Service1393",
+      "author_id": "t2_x696sjoss",
       "subreddit_id": "t5_2rjli",
       "subreddit": "r/teenagers",
-      "created_ts": "2025-09-02T10:02:04.923000+0000",
-      "content_href": "https://www.reddit.com/r/teenagers/comments/1n6ff6j/i_hate_not_being_able_to_sleep_an_istg/",
+      "created_ts": "2025-09-05T10:31:00.091000+0000",
+      "content_href": "https://www.reddit.com/r/teenagers/comments/1n91m6e/debate_should_we_study_something_we_love_doesnt/",
       "content_preview": "",
       "flair": [
-        "School"
+        "Serious"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_exutxf/styles/profileIcon_0w8g4rj3rfdf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6f60d4e1d6094e98cf07f8a0db61aa2e586d567a"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "My brother kept on telling me I’d get bullied if I used this backpack for highschool…",
       "permalink": "https://www.reddit.com/r/teenagers/comments/1n47wht/my_brother_kept_on_telling_me_id_get_bullied_if_i/",
-      "score": 32458,
-      "comments": 7921,
+      "score": 34298,
+      "comments": 8261,
       "post_id": "t3_1n47wht",
       "post_type": "gallery",
       "domain": "reddit.com",
@@ -43,53 +126,56 @@
       "flair": [
         "Social"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
     },
     {
-      "title": "I told my crush I liked him!!!",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n5w49t/i_told_my_crush_i_liked_him/",
-      "score": 8012,
-      "comments": 216,
-      "post_id": "t3_1n5w49t",
+      "title": "What’s your favorite drink? (other than water?)",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n8toeb/whats_your_favorite_drink_other_than_water/",
+      "score": 687,
+      "comments": 1001,
+      "post_id": "t3_1n8toeb",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "calculelt389",
-      "author_id": "t2_1vityg0vrr",
+      "author": "Agreeable_Chef3638",
+      "author_id": "t2_15fxnvz0ht",
       "subreddit_id": "t5_2rjli",
       "subreddit": "r/teenagers",
-      "created_ts": "2025-09-01T18:09:58.518000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5w49t",
+      "created_ts": "2025-09-05T02:39:07.747000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8toeb",
       "content_preview": "",
       "flair": [
-        "Relationship"
+        "Selfie"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_f5ndbm/styles/profileIcon_zi65hf545kif1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=59bcc0098d1b62e4c30b0292c0c3afed50822e5a"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_c2jecd/styles/profileIcon_mhtarrz5vfef1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=aabdf33266f2800ba07e3d9be58a0e3153a3b46a",
+      "is_promoted": false
     },
     {
-      "title": "I visited one out of the 7 McDonald’s in the world that doesn’t have a yellow arch",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n67k37/i_visited_one_out_of_the_7_mcdonalds_in_the_world/",
-      "score": 738,
-      "comments": 61,
-      "post_id": "t3_1n67k37",
+      "title": "LMAO soo true",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n8tvuu/lmao_soo_true/",
+      "score": 657,
+      "comments": 20,
+      "post_id": "t3_1n8tvuu",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "Bitter-Buffalo-7105",
-      "author_id": "t2_brkngi8mp",
+      "author": "Working-Broccoli-871",
+      "author_id": "t2_1wqn2do9vr",
       "subreddit_id": "t5_2rjli",
       "subreddit": "r/teenagers",
-      "created_ts": "2025-09-02T02:13:33.926000+0000",
-      "content_href": "https://i.redd.it/wce70n2hunmf1.jpeg",
+      "created_ts": "2025-09-05T02:49:17.099000+0000",
+      "content_href": "https://i.redd.it/i9niqrvnf9nf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Discussion"
+        "Meme"
       ],
-      "thumbnail_url": "https://preview.redd.it/i-visited-one-out-of-the-7-mcdonalds-in-the-world-that-v0-wce70n2hunmf1.jpeg?width=640&crop=smart&auto=webp&s=b9a4f7f3b8f56ab2e3d7a44e82d6adffecb7cb88"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
     },
     {
       "title": "YOUTUBE AI AINT GONNA CATCH ME (im 15 btw)",
       "permalink": "https://www.reddit.com/r/teenagers/comments/1mpcfm6/youtube_ai_aint_gonna_catch_me_im_15_btw/",
-      "score": 23673,
-      "comments": 543,
+      "score": 23766,
+      "comments": 544,
       "post_id": "t3_1mpcfm6",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -103,33 +189,35 @@
       "flair": [
         "Meme"
       ],
-      "thumbnail_url": "https://preview.redd.it/youtube-ai-aint-gonna-catch-me-im-15-btw-v0-qrx7drz4ytif1.jpeg?width=640&crop=smart&auto=webp&s=a9074f2d94245eb65d7b2b4fb88d1a664b83a77d"
+      "thumbnail_url": "https://preview.redd.it/youtube-ai-aint-gonna-catch-me-im-15-btw-v0-qrx7drz4ytif1.jpeg?width=640&crop=smart&auto=webp&s=a9074f2d94245eb65d7b2b4fb88d1a664b83a77d",
+      "is_promoted": false
     },
     {
-      "title": "Is thinking like this a side effect of using instagram",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n5u21x/is_thinking_like_this_a_side_effect_of_using/",
-      "score": 3847,
-      "comments": 114,
-      "post_id": "t3_1n5u21x",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Live_Ad593",
-      "author_id": "t2_120egmj31o",
+      "title": "What do you guys collect?",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n8m6lx/what_do_you_guys_collect/",
+      "score": 951,
+      "comments": 1105,
+      "post_id": "t3_1n8m6lx",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "AltruisticBox8691",
+      "author_id": "t2_nr0xmomxt",
       "subreddit_id": "t5_2rjli",
       "subreddit": "r/teenagers",
-      "created_ts": "2025-09-01T16:54:25.250000+0000",
-      "content_href": "https://i.redd.it/fo4d8gws2lmf1.jpeg",
+      "created_ts": "2025-09-04T21:04:50.826000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8m6lx",
       "content_preview": "",
       "flair": [
-        "Social"
+        "Discussion"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_c3arw6/styles/profileIcon_kotv2frrbnge1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7713e76075204feeb460f0e9673396d88a802221"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dzvpz9/styles/profileIcon_uoap2oy32eqe1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e88341f273b6672c840c21e5f9aa24318c65edd1",
+      "is_promoted": false
     },
     {
       "title": "Fr tho like why are so many immigrants racist",
       "permalink": "https://www.reddit.com/r/teenagers/comments/1n3ft6d/fr_tho_like_why_are_so_many_immigrants_racist/",
-      "score": 18209,
-      "comments": 448,
+      "score": 19959,
+      "comments": 513,
       "post_id": "t3_1n3ft6d",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -143,53 +231,56 @@
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_bho4az/styles/profileIcon_9tgj704k2u3e1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4710405466916c8b463004e76e570e7c641e43d4"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bho4az/styles/profileIcon_9tgj704k2u3e1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4710405466916c8b463004e76e570e7c641e43d4",
+      "is_promoted": false
     },
     {
-      "title": "wut game is dis for u?",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n5sk7h/wut_game_is_dis_for_u/",
-      "score": 4773,
-      "comments": 1587,
-      "post_id": "t3_1n5sk7h",
+      "title": "rating hear me outs",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n8nqli/rating_hear_me_outs/",
+      "score": 611,
+      "comments": 868,
+      "post_id": "t3_1n8nqli",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "cynnahbun",
-      "author_id": "t2_1f6w60k48m",
+      "author": "SlimyTurnip",
+      "author_id": "t2_1em20y3c4p",
       "subreddit_id": "t5_2rjli",
       "subreddit": "r/teenagers",
-      "created_ts": "2025-09-01T15:59:08.312000+0000",
-      "content_href": "https://i.redd.it/17rwvrqxskmf1.jpeg",
+      "created_ts": "2025-09-04T22:07:50.553000+0000",
+      "content_href": "https://i.redd.it/ghya7ppf18nf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Social"
+        "Meme"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_d55le1/styles/profileIcon_voyryyhi6ijf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6fb02b872047506e0e40ca2b4faefef89f67a657"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
-      "title": "Y'all gotta help me silence my sneezes",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n6fep6/yall_gotta_help_me_silence_my_sneezes/",
+      "title": "What is this \"Country\" why are they putting fictional stuff in this app",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n91l1k/what_is_this_country_why_are_they_putting/",
       "score": 1,
       "comments": 0,
-      "post_id": "t3_1n6fep6",
+      "post_id": "t3_1n91l1k",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "Used_Bank9111",
-      "author_id": "t2_1jmheivd6d",
+      "author": "Spotter24o5",
+      "author_id": "t2_1g6h4o3zgq",
       "subreddit_id": "t5_2rjli",
       "subreddit": "r/teenagers",
-      "created_ts": "2025-09-02T10:01:21.383000+0000",
-      "content_href": "https://i.redd.it/yc5ex0h06qmf1.jpeg",
+      "created_ts": "2025-09-05T10:29:14.580000+0000",
+      "content_href": "https://i.redd.it/eef7rbqppbnf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Advice"
+        "Discussion"
       ],
-      "thumbnail_url": "https://preview.redd.it/yall-gotta-help-me-silence-my-sneezes-v0-yc5ex0h06qmf1.jpeg?auto=webp&s=0092b225762fbc378b13c79c1fc93f4723287a75"
+      "thumbnail_url": "https://preview.redd.it/what-is-this-country-why-are-they-putting-fictional-stuff-v0-eef7rbqppbnf1.jpeg?width=640&crop=smart&auto=webp&s=beb97dc3cbac97b199dec749092e5af6d823f162",
+      "is_promoted": false
     },
     {
       "title": "This is getting out of Hands, why is Racism so normalized now",
       "permalink": "https://www.reddit.com/r/teenagers/comments/1mjpcfd/this_is_getting_out_of_hands_why_is_racism_so/",
-      "score": 18690,
-      "comments": 1337,
+      "score": 18752,
+      "comments": 1345,
       "post_id": "t3_1mjpcfd",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -203,33 +294,98 @@
       "flair": [
         "Other"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "The bible mentions nothing negative about trans people relevant to us",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n5sgil/the_bible_mentions_nothing_negative_about_trans/",
-      "score": 2497,
-      "comments": 1731,
-      "post_id": "t3_1n5sgil",
+      "title": "Women : all men want is sex , what men actually want",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n8wcf1/women_all_men_want_is_sex_what_men_actually_want/",
+      "score": 152,
+      "comments": 19,
+      "post_id": "t3_1n8wcf1",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "Physical-Advantage29",
-      "author_id": "t2_1t3n831py6",
+      "author": "gigagaming1256",
+      "author_id": "t2_915abpaa",
       "subreddit_id": "t5_2rjli",
       "subreddit": "r/teenagers",
-      "created_ts": "2025-09-01T15:55:19.339000+0000",
-      "content_href": "https://i.redd.it/mr1t2o79skmf1.jpeg",
+      "created_ts": "2025-09-05T04:59:33.109000+0000",
+      "content_href": "https://i.redd.it/xpfjmmlw2anf1.jpeg",
       "content_preview": "",
       "flair": [
         "Meme"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_evnjac/styles/profileIcon_wuios040bzhf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=91103a1cf5c37551e79cdc5f5ca7bf16bb4bf843"
+      "thumbnail_url": "https://preview.redd.it/women-all-men-want-is-sex-what-men-actually-want-v0-xpfjmmlw2anf1.jpeg?width=640&crop=smart&auto=webp&s=48018ded31367907bf4d50ef29380fe0a8527c11",
+      "is_promoted": false
+    },
+    {
+      "title": "I told my crush I liked him!!!",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n5w49t/i_told_my_crush_i_liked_him/",
+      "score": 13242,
+      "comments": 297,
+      "post_id": "t3_1n5w49t",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "calculelt389",
+      "author_id": "t2_1vityg0vrr",
+      "subreddit_id": "t5_2rjli",
+      "subreddit": "r/teenagers",
+      "created_ts": "2025-09-01T18:09:58.518000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n5w49t",
+      "content_preview": "",
+      "flair": [
+        "Relationship"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f5ndbm/styles/profileIcon_zi65hf545kif1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=59bcc0098d1b62e4c30b0292c0c3afed50822e5a",
+      "is_promoted": false
+    },
+    {
+      "title": "neurodivergent teens picking a special interest:",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n8w2xz/neurodivergent_teens_picking_a_special_interest/",
+      "score": 241,
+      "comments": 102,
+      "post_id": "t3_1n8w2xz",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "General-Spend4054",
+      "author_id": "t2_jdbvfktp",
+      "subreddit_id": "t5_2rjli",
+      "subreddit": "r/teenagers",
+      "created_ts": "2025-09-05T04:44:34.410000+0000",
+      "content_href": "https://i.redd.it/5mdq52e80anf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "im 155 and my girlfriend is 180, is this okay?",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n8iwdx/im_155_and_my_girlfriend_is_180_is_this_okay/",
+      "score": 960,
+      "comments": 114,
+      "post_id": "t3_1n8iwdx",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "igetproteinfartsHELP",
+      "author_id": "t2_1oauw7s773",
+      "subreddit_id": "t5_2rjli",
+      "subreddit": "r/teenagers",
+      "created_ts": "2025-09-04T18:58:31.662000+0000",
+      "content_href": "https://i.redd.it/0lmh1kbo37nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://preview.redd.it/im-155-and-my-girlfriend-is-180-is-this-okay-v0-0lmh1kbo37nf1.jpeg?width=640&crop=smart&auto=webp&s=b797373c2e998063825c9c902b2baa4845de27fe",
+      "is_promoted": false
     },
     {
       "title": "My mother keeps insisting I wear this hoodie, cause she bought it",
       "permalink": "https://www.reddit.com/r/teenagers/comments/1n362bb/my_mother_keeps_insisting_i_wear_this_hoodie/",
-      "score": 11510,
-      "comments": 900,
+      "score": 12343,
+      "comments": 944,
       "post_id": "t3_1n362bb",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -243,92 +399,34 @@
       "flair": [
         "Advice"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_3csrhq/styles/profileIcon_cs3muv3zczlf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1dfd6ef23a94cf6afdfa57fbe0f507e8ee9b8bd4"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3csrhq/styles/profileIcon_cs3muv3zczlf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1dfd6ef23a94cf6afdfa57fbe0f507e8ee9b8bd4",
+      "is_promoted": false
     },
     {
-      "title": "How real is this?",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n66u5k/how_real_is_this/",
-      "score": 337,
-      "comments": 45,
-      "post_id": "t3_1n66u5k",
+      "title": "cycle of hate :(",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n89ers/cycle_of_hate/",
+      "score": 2766,
+      "comments": 734,
+      "post_id": "t3_1n89ers",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "_toowcdt_",
-      "author_id": "t2_1qo5990aa6",
+      "author": "ionwywh",
+      "author_id": "t2_oazrmwca6",
       "subreddit_id": "t5_2rjli",
       "subreddit": "r/teenagers",
-      "created_ts": "2025-09-02T01:38:47.556000+0000",
-      "content_href": "https://i.redd.it/taybjdpconmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Meme"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_eljkmc/styles/profileIcon_n41150izdhaf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=75e5cf7c803ededcac07a6bdf01dc8c354ff587e"
-    },
-    {
-      "title": "Nothing like it alll",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n5yise/nothing_like_it_alll/",
-      "score": 955,
-      "comments": 73,
-      "post_id": "t3_1n5yise",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Bitter-Buffalo-7105",
-      "author_id": "t2_brkngi8mp",
-      "subreddit_id": "t5_2rjli",
-      "subreddit": "r/teenagers",
-      "created_ts": "2025-09-01T19:38:50.874000+0000",
-      "content_href": "https://i.redd.it/hkp463z3wlmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Meme"
-      ],
-      "thumbnail_url": "https://preview.redd.it/nothing-like-it-alll-v0-hkp463z3wlmf1.jpeg?width=640&crop=smart&auto=webp&s=815392b2fc8dbab04f4daab439d9ebfbf579e846"
-    },
-    {
-      "title": "I’m already done bro",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n56rci/im_already_done_bro/",
-      "score": 8770,
-      "comments": 87,
-      "post_id": "t3_1n56rci",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Bitter-Buffalo-7105",
-      "author_id": "t2_brkngi8mp",
-      "subreddit_id": "t5_2rjli",
-      "subreddit": "r/teenagers",
-      "created_ts": "2025-08-31T21:33:12.507000+0000",
-      "content_href": "https://i.redd.it/uu2v82blbfmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Meme"
-      ],
-      "thumbnail_url": "https://preview.redd.it/im-already-done-bro-v0-uu2v82blbfmf1.jpeg?width=640&crop=smart&auto=webp&s=c7e2c12c3d0b6e9217391bd99477fa914a7bf424"
-    },
-    {
-      "title": "Nuclear energy is superior",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n6dn0m/nuclear_energy_is_superior/",
-      "score": 82,
-      "comments": 93,
-      "post_id": "t3_1n6dn0m",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "asdfhello123123",
-      "author_id": "t2_860pybajx",
-      "subreddit_id": "t5_2rjli",
-      "subreddit": "r/teenagers",
-      "created_ts": "2025-09-02T08:04:55.839000+0000",
-      "content_href": "https://i.redd.it/9zcam2g7lpmf1.png",
+      "created_ts": "2025-09-04T12:57:22.127000+0000",
+      "content_href": "https://i.redd.it/sekkc2n5b5nf1.jpeg",
       "content_preview": "",
       "flair": [
         "Social"
       ],
-      "thumbnail_url": "https://preview.redd.it/nuclear-energy-is-superior-v0-9zcam2g7lpmf1.png?width=640&crop=smart&auto=webp&s=1eaef28409146ec0f8ab4477f924c6df217fbf63"
+      "thumbnail_url": "https://preview.redd.it/cycle-of-hate-v0-sekkc2n5b5nf1.jpeg?auto=webp&s=5212dba6da5fb7201d8698853dee158202140909",
+      "is_promoted": false
     },
     {
       "title": "Literally America",
       "permalink": "https://www.reddit.com/r/teenagers/comments/1mv1du7/literally_america/",
-      "score": 16280,
+      "score": 16326,
       "comments": 341,
       "post_id": "t3_1mv1du7",
       "post_type": "image",
@@ -343,113 +441,161 @@
       "flair": [
         "Meme"
       ],
-      "thumbnail_url": "https://preview.redd.it/literally-america-v0-vkea3p3ku2kf1.jpeg?width=640&crop=smart&auto=webp&s=2515069cf29b04ff1259e5173d5a53055ad7b313"
+      "thumbnail_url": "https://preview.redd.it/literally-america-v0-vkea3p3ku2kf1.jpeg?width=640&crop=smart&auto=webp&s=2515069cf29b04ff1259e5173d5a53055ad7b313",
+      "is_promoted": false
     },
     {
-      "title": "Look what i made when the teachers weren’t looking",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n6fdr2/look_what_i_made_when_the_teachers_werent_looking/",
-      "score": 2,
-      "comments": 2,
-      "post_id": "t3_1n6fdr2",
+      "title": "I’m already done bro",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n56rci/im_already_done_bro/",
+      "score": 11884,
+      "comments": 111,
+      "post_id": "t3_1n56rci",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "Doubleclik23",
-      "author_id": "t2_qy5vvzva9",
+      "author": "Bitter-Buffalo-7105",
+      "author_id": "t2_brkngi8mp",
       "subreddit_id": "t5_2rjli",
       "subreddit": "r/teenagers",
-      "created_ts": "2025-09-02T10:00:02.346000+0000",
-      "content_href": "https://i.redd.it/44pnuhdk5qmf1.jpeg",
+      "created_ts": "2025-08-31T21:33:12.507000+0000",
+      "content_href": "https://i.redd.it/uu2v82blbfmf1.jpeg",
       "content_preview": "",
       "flair": [
-        "School"
+        "Meme"
       ],
-      "thumbnail_url": "https://preview.redd.it/look-what-i-made-when-the-teachers-werent-looking-v0-44pnuhdk5qmf1.jpeg?width=640&crop=smart&auto=webp&s=dafdb804892d3495e7fc82ff7aed15d8f3498c86"
+      "thumbnail_url": "https://preview.redd.it/im-already-done-bro-v0-uu2v82blbfmf1.jpeg?width=640&crop=smart&auto=webp&s=c7e2c12c3d0b6e9217391bd99477fa914a7bf424",
+      "is_promoted": false
     },
     {
-      "title": "What's your favourite sword type?",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n61kin/whats_your_favourite_sword_type/",
-      "score": 531,
-      "comments": 520,
-      "post_id": "t3_1n61kin",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "deathcoreEnjoyer987",
-      "author_id": "t2_1orh3t6mvv",
+      "title": "Drop your birthday and i'll let you know what song was my number 1 that day",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n8ha30/drop_your_birthday_and_ill_let_you_know_what_song/",
+      "score": 903,
+      "comments": 1320,
+      "post_id": "t3_1n8ha30",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "KoolDucks",
+      "author_id": "t2_3w735b87",
       "subreddit_id": "t5_2rjli",
       "subreddit": "r/teenagers",
-      "created_ts": "2025-09-01T21:38:27.174000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n61kin",
+      "created_ts": "2025-09-04T17:56:47.304000+0000",
+      "content_href": "https://i.redd.it/87dl2exns6nf1.jpeg",
       "content_preview": "",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://preview.redd.it/drop-your-birthday-and-ill-let-you-know-what-song-was-my-v0-87dl2exns6nf1.jpeg?width=640&crop=smart&auto=webp&s=19e393cdb41a39ccc2558b1eba9e8e9e71347a6e",
+      "is_promoted": false
     },
     {
-      "title": "what y’all think of the fit for school tomorrow?",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n69814/what_yall_think_of_the_fit_for_school_tomorrow/",
-      "score": 174,
-      "comments": 77,
-      "post_id": "t3_1n69814",
+      "title": "How do I make this haircut?",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n91k8c/how_do_i_make_this_haircut/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n91k8c",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "Sterdumpt",
-      "author_id": "t2_4suqh6alw",
+      "author": "_bdhxhdhsznbx_",
+      "author_id": "t2_1mc2nudw8o",
       "subreddit_id": "t5_2rjli",
       "subreddit": "r/teenagers",
-      "created_ts": "2025-09-02T03:37:13.388000+0000",
-      "content_href": "https://i.redd.it/uk135e9h9omf1.jpeg",
+      "created_ts": "2025-09-05T10:27:56.416000+0000",
+      "content_href": "https://i.redd.it/mn7p0juhpbnf1.jpeg",
       "content_preview": "",
       "flair": [
-        "School"
+        "Advice"
       ],
-      "thumbnail_url": "https://preview.redd.it/what-yall-think-of-the-fit-for-school-tomorrow-v0-uk135e9h9omf1.jpeg?width=640&crop=smart&auto=webp&s=52e4ca8062e02876aece8c17f9731b4d0691aeb3"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
-      "title": "power just went out—scared my dad's gonna yell at me for not being ready for school",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n6fcyz/power_just_went_outscared_my_dads_gonna_yell_at/",
+      "title": "homecoming dress+ shoes",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n91je0/homecoming_dress_shoes/",
       "score": 1,
-      "comments": 2,
-      "post_id": "t3_1n6fcyz",
-      "post_type": "text",
-      "domain": "self.teenagers",
-      "author": "honey_miilk_tea",
-      "author_id": "t2_smt1ayybl",
+      "comments": 0,
+      "post_id": "t3_1n91je0",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Brief_Barracuda_9072",
+      "author_id": "t2_hxgaqhoi4",
       "subreddit_id": "t5_2rjli",
       "subreddit": "r/teenagers",
-      "created_ts": "2025-09-02T09:58:39.084000+0000",
-      "content_href": "https://www.reddit.com/r/teenagers/comments/1n6fcyz/power_just_went_outscared_my_dads_gonna_yell_at/",
+      "created_ts": "2025-09-05T10:26:31.573000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n91je0",
+      "content_preview": "",
+      "flair": [
+        "Other"
+      ],
+      "thumbnail_url": "https://preview.redd.it/homecoming-dress-shoes-v0-4e5abfqxobnf1.jpg?width=640&crop=smart&auto=webp&s=df2aa1efefc54eda99aa88b0c991dc11ee21c686",
+      "is_promoted": false
+    },
+    {
+      "title": "Husband material on the way .....🌸",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n8vb16/husband_material_on_the_way/",
+      "score": 118,
+      "comments": 63,
+      "post_id": "t3_1n8vb16",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "gvtemplsac",
+      "author_id": "t2_1tvf0lka3g",
+      "subreddit_id": "t5_2rjli",
+      "subreddit": "r/teenagers",
+      "created_ts": "2025-09-05T04:02:00.626000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8vb16",
       "content_preview": "",
       "flair": [
         "Serious"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eyu7dw/styles/profileIcon_6625bf2njbmf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=674cc77d0f44d7b2e1065c8dc62da37fc2c6ee61",
+      "is_promoted": false
     },
     {
-      "title": "i cut my hair gang!",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n6ec4g/i_cut_my_hair_gang/",
-      "score": 65,
-      "comments": 50,
-      "post_id": "t3_1n6ec4g",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "cunttttts",
-      "author_id": "t2_1qplo5dp23",
+      "title": "what are starbucks employees on 🥀",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n8xpq7/what_are_starbucks_employees_on/",
+      "score": 79,
+      "comments": 26,
+      "post_id": "t3_1n8xpq7",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "No-Apartment-8258",
+      "author_id": "t2_14njjzpoo0",
       "subreddit_id": "t5_2rjli",
       "subreddit": "r/teenagers",
-      "created_ts": "2025-09-02T08:52:02.570000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n6ec4g",
+      "created_ts": "2025-09-05T06:21:26.114000+0000",
+      "content_href": "https://i.redd.it/r40ptehihanf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Selfie"
+        "Meme"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_elpfe3/styles/profileIcon_1skwqbm47xaf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d61c7125d6733fe628b1e05ab8fb09b346a45ed7"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bzbmdv/styles/profileIcon_yj2x2sjbopue1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=30684192bc224e016a875b4700a5a84a915e568e",
+      "is_promoted": false
+    },
+    {
+      "title": "I can't express how utterly disappointed I am",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n8ec7r/i_cant_express_how_utterly_disappointed_i_am/",
+      "score": 800,
+      "comments": 189,
+      "post_id": "t3_1n8ec7r",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "amongme-",
+      "author_id": "t2_10y7j9smy2",
+      "subreddit_id": "t5_2rjli",
+      "subreddit": "r/teenagers",
+      "created_ts": "2025-09-04T16:06:34.751000+0000",
+      "content_href": "https://i.redd.it/z08pyixz86nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Serious"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
       "title": "GUYS I PULLED HER",
       "permalink": "https://www.reddit.com/r/teenagers/comments/1mh1kjg/guys_i_pulled_her/",
-      "score": 14632,
-      "comments": 2957,
+      "score": 14660,
+      "comments": 2966,
       "post_id": "t3_1mh1kjg",
       "post_type": "gallery",
       "domain": "reddit.com",
@@ -463,53 +609,56 @@
       "flair": [
         "Relationship"
       ],
-      "thumbnail_url": "https://preview.redd.it/guys-i-pulled-her-v0-5yha1n3txwgf1.jpg?width=640&crop=smart&auto=webp&s=3170b94a0094881b94801962606c284badc33c73"
+      "thumbnail_url": "https://preview.redd.it/guys-i-pulled-her-v0-5yha1n3txwgf1.jpg?width=640&crop=smart&auto=webp&s=3170b94a0094881b94801962606c284badc33c73",
+      "is_promoted": false
     },
     {
-      "title": "Name a game",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n5qkjt/name_a_game/",
-      "score": 1544,
-      "comments": 1067,
-      "post_id": "t3_1n5qkjt",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Pollosalnonato11",
-      "author_id": "t2_tws9dkilo",
+      "title": "Don’t get pregnant as a teen",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n8770i/dont_get_pregnant_as_a_teen/",
+      "score": 1763,
+      "comments": 160,
+      "post_id": "t3_1n8770i",
+      "post_type": "text",
+      "domain": "self.teenagers",
+      "author": "Good_Arm_4075",
+      "author_id": "t2_1f1k1ewzmt",
       "subreddit_id": "t5_2rjli",
       "subreddit": "r/teenagers",
-      "created_ts": "2025-09-01T14:43:07.582000+0000",
-      "content_href": "https://i.redd.it/0eyle2idfkmf1.jpeg",
-      "content_preview": "",
+      "created_ts": "2025-09-04T11:09:06.615000+0000",
+      "content_href": "https://www.reddit.com/r/teenagers/comments/1n8770i/dont_get_pregnant_as_a_teen/",
+      "content_preview": "Even disregarding the horrific experience that lead to my pregnancy it’s generally just a nightmare. Between the mood swings, morning sickness, external judgment and the pain of labor and potential complications it’s just the worst.",
       "flair": [
-        "Gaming"
+        "Social"
       ],
-      "thumbnail_url": "https://preview.redd.it/name-a-game-v0-0eyle2idfkmf1.jpeg?width=640&crop=smart&auto=webp&s=a4b5bf7530949bd718987f893f850f02a12ed6dc"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "How likely am i to die to these slashers",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n6fcvn/how_likely_am_i_to_die_to_these_slashers/",
-      "score": 1,
-      "comments": 3,
-      "post_id": "t3_1n6fcvn",
+      "title": "wut game is dis for u?",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n5sk7h/wut_game_is_dis_for_u/",
+      "score": 7792,
+      "comments": 2187,
+      "post_id": "t3_1n5sk7h",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "Pristine-Act5977",
-      "author_id": "t2_m23qta8td",
+      "author": "cynnahbun",
+      "author_id": "t2_1f6w60k48m",
       "subreddit_id": "t5_2rjli",
       "subreddit": "r/teenagers",
-      "created_ts": "2025-09-02T09:58:29.276000+0000",
-      "content_href": "https://i.redd.it/fy9ze89f5qmf1.png",
+      "created_ts": "2025-09-01T15:59:08.312000+0000",
+      "content_href": "https://i.redd.it/17rwvrqxskmf1.jpeg",
       "content_preview": "",
       "flair": [
         "Social"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_d55le1/styles/profileIcon_voyryyhi6ijf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6fb02b872047506e0e40ca2b4faefef89f67a657",
+      "is_promoted": false
     },
     {
       "title": "GANG NO JOKE IT WORKED AI IS SO SHIT",
       "permalink": "https://www.reddit.com/r/teenagers/comments/1mq5sxo/gang_no_joke_it_worked_ai_is_so_shit/",
-      "score": 13546,
-      "comments": 268,
+      "score": 13569,
+      "comments": 269,
       "post_id": "t3_1mq5sxo",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -523,232 +672,97 @@
       "flair": [
         "Meme"
       ],
-      "thumbnail_url": "https://preview.redd.it/gang-no-joke-it-worked-ai-is-so-shit-v0-ug6z09gpj0jf1.jpeg?width=640&crop=smart&auto=webp&s=53b24240df97938e2dc4ba0e73e7142f5930b0ef"
+      "thumbnail_url": "https://preview.redd.it/gang-no-joke-it-worked-ai-is-so-shit-v0-ug6z09gpj0jf1.jpeg?width=640&crop=smart&auto=webp&s=53b24240df97938e2dc4ba0e73e7142f5930b0ef",
+      "is_promoted": false
     },
     {
-      "title": "Normalize being evil and having gay sex",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n66vln/normalize_being_evil_and_having_gay_sex/",
-      "score": 129,
-      "comments": 53,
-      "post_id": "t3_1n66vln",
-      "post_type": "text",
-      "domain": "self.teenagers",
-      "author": "calculelt389",
-      "author_id": "t2_1vityg0vrr",
+      "title": "My mum fell in snow 😔",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n91h7c/my_mum_fell_in_snow/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n91h7c",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "fabstapizza_YT",
+      "author_id": "t2_9073gef9",
       "subreddit_id": "t5_2rjli",
       "subreddit": "r/teenagers",
-      "created_ts": "2025-09-02T01:40:41.329000+0000",
-      "content_href": "https://www.reddit.com/r/teenagers/comments/1n66vln/normalize_being_evil_and_having_gay_sex/",
+      "created_ts": "2025-09-05T10:23:02.795000+0000",
+      "content_href": "https://i.redd.it/1ida0rbmobnf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Social"
+        "Photography"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_f5ndbm/styles/profileIcon_zi65hf545kif1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=59bcc0098d1b62e4c30b0292c0c3afed50822e5a"
+      "thumbnail_url": "https://preview.redd.it/my-mum-fell-in-snow-v0-1ida0rbmobnf1.jpeg?width=640&crop=smart&auto=webp&s=e49a66fa45e09d02066a31c2cc2cc8981ca2b92e",
+      "is_promoted": false
     },
     {
-      "title": "My daughter who i literally gave birth too",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n5peqv/my_daughter_who_i_literally_gave_birth_too/",
-      "score": 710,
-      "comments": 90,
-      "post_id": "t3_1n5peqv",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Square_Ad_6550",
-      "author_id": "t2_7srctwitm",
+      "title": "Tuff life",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n8ci2y/tuff_life/",
+      "score": 854,
+      "comments": 30,
+      "post_id": "t3_1n8ci2y",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Innocentwaves",
+      "author_id": "t2_1w59i0qkn1",
       "subreddit_id": "t5_2rjli",
       "subreddit": "r/teenagers",
-      "created_ts": "2025-09-01T13:57:50.117000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5peqv",
+      "created_ts": "2025-09-04T14:58:11.620000+0000",
+      "content_href": "https://i.redd.it/lr9xynqsw5nf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Pets"
+        "Meme"
       ],
-      "thumbnail_url": "https://preview.redd.it/my-daughter-who-i-literally-gave-birth-too-v0-8q0v2l8a7kmf1.jpg?width=640&crop=smart&auto=webp&s=56ea0e5b0c57c868443b00e3195908757e999823"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f8eus8/styles/profileIcon_okwernww5imf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4d471b22cebf6a9bcbd1d36b4d817b5ee62c37e7",
+      "is_promoted": false
     },
     {
-      "title": "Guys trust me, delete Reddit. It’s horrible, toxic, isolating and time wasting. Enjoy your teenage years.",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n6034y/guys_trust_me_delete_reddit_its_horrible_toxic/",
-      "score": 178,
-      "comments": 193,
-      "post_id": "t3_1n6034y",
+      "title": "My boyfriend hit me",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n6hmn0/my_boyfriend_hit_me/",
+      "score": 7417,
+      "comments": 1239,
+      "post_id": "t3_1n6hmn0",
       "post_type": "text",
       "domain": "self.teenagers",
-      "author": "PayGroundbreaking905",
-      "author_id": "t2_1j2kotb6y2",
+      "author": "JobAggravating1793",
+      "author_id": "t2_1wyd0wh60r",
       "subreddit_id": "t5_2rjli",
       "subreddit": "r/teenagers",
-      "created_ts": "2025-09-01T20:39:59.522000+0000",
-      "content_href": "https://www.reddit.com/r/teenagers/comments/1n6034y/guys_trust_me_delete_reddit_its_horrible_toxic/",
-      "content_preview": "",
+      "created_ts": "2025-09-02T12:04:25.782000+0000",
+      "content_href": "https://www.reddit.com/r/teenagers/comments/1n6hmn0/my_boyfriend_hit_me/",
+      "content_preview": "I'm 16 and I've been dating this guy for almost eight months. He's always been incredibly sweet to me and I really love him, but he hit me last night and I don't know what to do. We were just arguing because he didn't like the way I did my makeup and he said it was too flashy, and I told him my best friend liked it, and he slapped me. I don't know what to do, because I really love him, but at the same time I know I can't be with someone who hits me. My mom's boyfriend used to hit her in front of me, and I know it only gets worse with time, but I feel like he could stop. He apologized last night and came to my house but my stepbrother made him leave. I just don't know what to do and how to break up with him if I decide to.",
       "flair": [
         "Serious"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     },
     {
-      "title": "THIS is how you deal with pedos and creeps. just block 👍",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n6cu22/this_is_how_you_deal_with_pedos_and_creeps_just/",
-      "score": 25,
-      "comments": 33,
-      "post_id": "t3_1n6cu22",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "sauce_xVamp",
-      "author_id": "t2_nwijq757u",
-      "subreddit_id": "t5_2rjli",
-      "subreddit": "r/teenagers",
-      "created_ts": "2025-09-02T07:11:58.915000+0000",
-      "content_href": "https://i.redd.it/v03pyjusbpmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Advice"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_9zos13/styles/profileIcon_ma0zcifb5lmf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=11050a237806d11266a01bd765960a926d86a47b"
-    },
-    {
-      "title": "GUYS GET THE FREEZE RAY SHE'S ALREADY DEFROSTING",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n5lu2x/guys_get_the_freeze_ray_shes_already_defrosting/",
-      "score": 1008,
-      "comments": 132,
-      "post_id": "t3_1n5lu2x",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Stevon88",
-      "author_id": "t2_m8q8pkig",
-      "subreddit_id": "t5_2rjli",
-      "subreddit": "r/teenagers",
-      "created_ts": "2025-09-01T11:08:48.176000+0000",
-      "content_href": "https://i.redd.it/b4p18sx4djmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Meme"
-      ],
-      "thumbnail_url": "https://preview.redd.it/guys-get-the-freeze-ray-shes-already-defrosting-v0-b4p18sx4djmf1.jpeg?width=640&crop=smart&auto=webp&s=5558177953e89f78fca0afcd06687b289e01650b"
-    },
-    {
-      "title": "I don't like racism",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n5pfpc/i_dont_like_racism/",
-      "score": 582,
-      "comments": 385,
-      "post_id": "t3_1n5pfpc",
+      "title": "Girl randomly blocks me everywhere after we've been on 6 dates",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n91gp6/girl_randomly_blocks_me_everywhere_after_weve/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n91gp6",
       "post_type": "text",
       "domain": "self.teenagers",
-      "author": "Extension_Diver_3197",
-      "author_id": "t2_1e0i1p2ctc",
+      "author": "IndividualInstance57",
+      "author_id": "t2_iexsoizj",
       "subreddit_id": "t5_2rjli",
       "subreddit": "r/teenagers",
-      "created_ts": "2025-09-01T13:58:53.501000+0000",
-      "content_href": "https://www.reddit.com/r/teenagers/comments/1n5pfpc/i_dont_like_racism/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "I cannot be the only one who thinks Labubus are so creepy..",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n5vfer/i_cannot_be_the_only_one_who_thinks_labubus_are/",
-      "score": 259,
-      "comments": 192,
-      "post_id": "t3_1n5vfer",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "nothalfawake",
-      "author_id": "t2_1qxia4sd1k",
-      "subreddit_id": "t5_2rjli",
-      "subreddit": "r/teenagers",
-      "created_ts": "2025-09-01T17:44:02.222000+0000",
-      "content_href": "https://i.redd.it/xliuk5inblmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_emn8pw/styles/profileIcon_xav77meddhhf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c80951b68cb10d91eed5c21f5457dbd53c6a5066"
-    },
-    {
-      "title": "This is terrifyingly accurate 💀",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n5slvz/this_is_terrifyingly_accurate/",
-      "score": 342,
-      "comments": 55,
-      "post_id": "t3_1n5slvz",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Low-Temperature-8492",
-      "author_id": "t2_1unb6vsteo",
-      "subreddit_id": "t5_2rjli",
-      "subreddit": "r/teenagers",
-      "created_ts": "2025-09-01T16:00:46.872000+0000",
-      "content_href": "https://i.redd.it/mhggrgb7tkmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Meme"
-      ],
-      "thumbnail_url": "https://preview.redd.it/this-is-terrifyingly-accurate-v0-mhggrgb7tkmf1.png?width=640&crop=smart&auto=webp&s=c97a974c55132cb2208b2ca864afa7373b534be6"
-    },
-    {
-      "title": "Hot take: Trump Is Bad.",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n5yyjh/hot_take_trump_is_bad/",
-      "score": 166,
-      "comments": 205,
-      "post_id": "t3_1n5yyjh",
-      "post_type": "text",
-      "domain": "self.teenagers",
-      "author": "KINGOFGOJI3124",
-      "author_id": "t2_kya7rn14c",
-      "subreddit_id": "t5_2rjli",
-      "subreddit": "r/teenagers",
-      "created_ts": "2025-09-01T19:56:06.013000+0000",
-      "content_href": "https://www.reddit.com/r/teenagers/comments/1n5yyjh/hot_take_trump_is_bad/",
-      "content_preview": "",
-      "flair": [
-        "Meme"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_9npl8m/styles/profileIcon_m8by7s6mu7ue1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=9c91dac03b032ac132d4d3896b9d1dc4fd9665bd"
-    },
-    {
-      "title": "I need a BF",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n5yp5l/i_need_a_bf/",
-      "score": 145,
-      "comments": 175,
-      "post_id": "t3_1n5yp5l",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Danyyboyy527",
-      "author_id": "t2_1wwnz6y77p",
-      "subreddit_id": "t5_2rjli",
-      "subreddit": "r/teenagers",
-      "created_ts": "2025-09-01T19:45:45.470000+0000",
-      "content_href": "https://i.redd.it/z15iuz59xlmf1.jpeg",
-      "content_preview": "",
+      "created_ts": "2025-09-05T10:22:12.017000+0000",
+      "content_href": "https://www.reddit.com/r/teenagers/comments/1n91gp6/girl_randomly_blocks_me_everywhere_after_weve/",
+      "content_preview": "M18, went on multiple dates with a girl F16, and we were in the middle of a short text convo on insta but then she sends me one short text saying that she doesn't want to talk to me then blocks me everywhere before I even get the chance to ask what happened or why.Mind you, just the day before we were at her place watching a movie together, I even met her family. Keep in mind that I had yet to receive physical intimacy since I was too high inhib to initiate anything with her unless I had her written or oral confirmation that she was ok with it.She was the first girl I went on any date with and our dates weren't really going anywhere anyway so it's not like I'm missing out on anything anyway but I'm more so flabbergasted on more so the human interaction aspect of how one would block someone all of a sudden even tho we had spent 10s of hours together over a 2 months course, I mean hell, I have lifelong IRL and online friends that I don't even spend that much time with.Also her being the first time I interacted with a girl, if things weren't going anywhere I wanted to at least stay friends so I could ask her advices, how she thought I acted etc, but now I don't even get the chance to do that.Is such thing even common? Is my story something kind of unheard of? I feel like it is bc I'm sure similar stories happened but all I see is people talking about a girl blocking them after the first date but in my case it's a completely different ballpark I'd say.",
       "flair": [
         "Relationship"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_fbm7cd/styles/profileIcon_v330xpjhekmf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c1a6e0740256dfa6fac10edf9497f7aac4f9f8a8"
-    },
-    {
-      "title": "how tf would blind people supposed to understand this",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n21cxq/how_tf_would_blind_people_supposed_to_understand/",
-      "score": 7104,
-      "comments": 208,
-      "post_id": "t3_1n21cxq",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "krai5280",
-      "author_id": "t2_1vzl3n8ssr",
-      "subreddit_id": "t5_2rjli",
-      "subreddit": "r/teenagers",
-      "created_ts": "2025-08-28T03:10:48.338000+0000",
-      "content_href": "https://i.redd.it/b6vt7pg7golf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Social"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_f7pjis/styles/profileIcon_tt9rbwzj1hkf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=466779badeb6b6aab60a41818c27f937d4678c78"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
     },
     {
       "title": "Ask away",
       "permalink": "https://www.reddit.com/r/teenagers/comments/1myqyh5/ask_away/",
-      "score": 12487,
+      "score": 12500,
       "comments": 1564,
       "post_id": "t3_1myqyh5",
       "post_type": "image",
@@ -763,12 +777,76 @@
       "flair": [
         "Social"
       ],
-      "thumbnail_url": "https://preview.redd.it/4igezng6qxkf1.png?width=640&crop=smart&auto=webp&s=9b95a7c917a17e54e26db11da60b056a8077b2ca"
+      "thumbnail_url": "https://preview.redd.it/4igezng6qxkf1.png?width=640&crop=smart&auto=webp&s=9b95a7c917a17e54e26db11da60b056a8077b2ca",
+      "is_promoted": false
+    },
+    {
+      "title": "So..... How?",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n91gjl/so_how/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n91gjl",
+      "post_type": "text",
+      "domain": "self.teenagers",
+      "author": "DatOneGuyWeKnow",
+      "author_id": "t2_18s1046xqi",
+      "subreddit_id": "t5_2rjli",
+      "subreddit": "r/teenagers",
+      "created_ts": "2025-09-05T10:21:57.692000+0000",
+      "content_href": "https://www.reddit.com/r/teenagers/comments/1n91gjl/so_how/",
+      "content_preview": "Does any of you has a passive money income as a teen? How? I am a German B2 speaker, English C1 and Arabic C2 and I have finished 3/4 of my A-Levels; I need to save some money for college but I don't know how?Except these, I don't have any other skills like computer programming etc. I prefer some remote jobs because my time is really pressurised. Would you guys help🙏🏼",
+      "flair": [
+        "Advice"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Do I look aprochable?",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n8zgc2/do_i_look_aprochable/",
+      "score": 35,
+      "comments": 55,
+      "post_id": "t3_1n8zgc2",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Typical-Bowl-7828",
+      "author_id": "t2_l6035rfs",
+      "subreddit_id": "t5_2rjli",
+      "subreddit": "r/teenagers",
+      "created_ts": "2025-09-05T08:15:01.892000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8zgc2",
+      "content_preview": "",
+      "flair": [
+        "Selfie"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_69n6uh/styles/profileIcon_i5cus65zkkqe1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=900b68a172c14a998b3120364cc6701d644b7aa8",
+      "is_promoted": false
+    },
+    {
+      "title": "I’ve been slut shamed so much today for getting pregnant that it actually made me want to puke",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n8qt6z/ive_been_slut_shamed_so_much_today_for_getting/",
+      "score": 138,
+      "comments": 74,
+      "post_id": "t3_1n8qt6z",
+      "post_type": "text",
+      "domain": "self.teenagers",
+      "author": "Good_Arm_4075",
+      "author_id": "t2_1f1k1ewzmt",
+      "subreddit_id": "t5_2rjli",
+      "subreddit": "r/teenagers",
+      "created_ts": "2025-09-05T00:22:27.932000+0000",
+      "content_href": "https://www.reddit.com/r/teenagers/comments/1n8qt6z/ive_been_slut_shamed_so_much_today_for_getting/",
+      "content_preview": "For as much support as my earlier post got many of you were not so kind in my dms",
+      "flair": [
+        "Social"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
       "title": "The first meme was found out in 1921",
       "permalink": "https://www.reddit.com/r/teenagers/comments/1mptshk/the_first_meme_was_found_out_in_1921/",
-      "score": 12004,
+      "score": 12032,
       "comments": 102,
       "post_id": "t3_1mptshk",
       "post_type": "image",
@@ -783,13 +861,266 @@
       "flair": [
         "Meme"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_em21x4/styles/profileIcon_gijw53g4ql7f1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fd3344d771f1fb29a0525d8808fc00758f0ee8ec"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_em21x4/styles/profileIcon_gijw53g4ql7f1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fd3344d771f1fb29a0525d8808fc00758f0ee8ec",
+      "is_promoted": false
+    },
+    {
+      "title": "Oh come on",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n5j6x8/oh_come_on/",
+      "score": 7209,
+      "comments": 74,
+      "post_id": "t3_1n5j6x8",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "gigagaming1256",
+      "author_id": "t2_915abpaa",
+      "subreddit_id": "t5_2rjli",
+      "subreddit": "r/teenagers",
+      "created_ts": "2025-09-01T08:26:03.244000+0000",
+      "content_href": "https://i.redd.it/9isybqn3kimf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://preview.redd.it/oh-come-on-v0-9isybqn3kimf1.jpeg?width=640&crop=smart&auto=webp&s=6b0c38845d11b785aed8015c25bdec8b12408a7a",
+      "is_promoted": false
+    },
+    {
+      "title": "i fucking hate online test so much",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n67h7h/i_fucking_hate_online_test_so_much/",
+      "score": 6842,
+      "comments": 164,
+      "post_id": "t3_1n67h7h",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "krai5280",
+      "author_id": "t2_1vzl3n8ssr",
+      "subreddit_id": "t5_2rjli",
+      "subreddit": "r/teenagers",
+      "created_ts": "2025-09-02T02:09:36.182000+0000",
+      "content_href": "https://i.redd.it/fejqqlgutnmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Rant"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f7pjis/styles/profileIcon_tt9rbwzj1hkf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=466779badeb6b6aab60a41818c27f937d4678c78",
+      "is_promoted": false
+    },
+    {
+      "title": "Further pure math is so damn hard",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n91e9w/further_pure_math_is_so_damn_hard/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n91e9w",
+      "post_type": "text",
+      "domain": "self.teenagers",
+      "author": "Paper-Dramatic",
+      "author_id": "t2_87lv9o1h",
+      "subreddit_id": "t5_2rjli",
+      "subreddit": "r/teenagers",
+      "created_ts": "2025-09-05T10:18:16.061000+0000",
+      "content_href": "https://www.reddit.com/r/teenagers/comments/1n91e9w/further_pure_math_is_so_damn_hard/",
+      "content_preview": "Does it get harder? Just finished sum of convergent series, there's already 4 formulas I gotta remember",
+      "flair": [
+        "Social"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Is thinking like this a side effect of using instagram",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n5u21x/is_thinking_like_this_a_side_effect_of_using/",
+      "score": 6617,
+      "comments": 180,
+      "post_id": "t3_1n5u21x",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Live_Ad593",
+      "author_id": "t2_120egmj31o",
+      "subreddit_id": "t5_2rjli",
+      "subreddit": "r/teenagers",
+      "created_ts": "2025-09-01T16:54:25.250000+0000",
+      "content_href": "https://i.redd.it/fo4d8gws2lmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Social"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_c3arw6/styles/profileIcon_kotv2frrbnge1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7713e76075204feeb460f0e9673396d88a802221",
+      "is_promoted": false
+    },
+    {
+      "title": "i’m so heartbrocken…",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n91dck/im_so_heartbrocken/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n91dck",
+      "post_type": "text",
+      "domain": "self.teenagers",
+      "author": "Severe_Fishing_2193",
+      "author_id": "t2_1i7ccatvx3",
+      "subreddit_id": "t5_2rjli",
+      "subreddit": "r/teenagers",
+      "created_ts": "2025-09-05T10:16:50.065000+0000",
+      "content_href": "https://www.reddit.com/r/teenagers/comments/1n91dck/im_so_heartbrocken/",
+      "content_preview": "my girlfriend cheated on me with my boyfriend",
+      "flair": [
+        "Relationship"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "This was my first day of school fit. I liked it but people gave me weird looks",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n8smn2/this_was_my_first_day_of_school_fit_i_liked_it/",
+      "score": 271,
+      "comments": 98,
+      "post_id": "t3_1n8smn2",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Better_Chart4170",
+      "author_id": "t2_13vg3g23wq",
+      "subreddit_id": "t5_2rjli",
+      "subreddit": "r/teenagers",
+      "created_ts": "2025-09-05T01:48:50.706000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8smn2",
+      "content_preview": "",
+      "flair": [
+        "Selfie"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bw08js/styles/profileIcon_3okpdppb5o7e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=20d4ae20cd1ecc83fbc49aa3900ccfdef851f430",
+      "is_promoted": false
+    },
+    {
+      "title": "That checks out",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n8ywgq/that_checks_out/",
+      "score": 36,
+      "comments": 6,
+      "post_id": "t3_1n8ywgq",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "1ncomprehensible",
+      "author_id": "t2_1x1qzfjcw7",
+      "subreddit_id": "t5_2rjli",
+      "subreddit": "r/teenagers",
+      "created_ts": "2025-09-05T07:37:31.726000+0000",
+      "content_href": "https://i.redd.it/qe4gxlv2vanf1.png",
+      "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://preview.redd.it/that-checks-out-v0-qe4gxlv2vanf1.png?auto=webp&s=bb2dd098de98498d39a5e4dd00f1c07dfc69e8d4",
+      "is_promoted": false
+    },
+    {
+      "title": "PSA: Being a member of the LGBTQ community is NOT a mental illness",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n8rzxl/psa_being_a_member_of_the_lgbtq_community_is_not/",
+      "score": 105,
+      "comments": 35,
+      "post_id": "t3_1n8rzxl",
+      "post_type": "text",
+      "domain": "self.teenagers",
+      "author": "TheSmartDog_275",
+      "author_id": "t2_1wc58syinv",
+      "subreddit_id": "t5_2rjli",
+      "subreddit": "r/teenagers",
+      "created_ts": "2025-09-05T01:18:28.773000+0000",
+      "content_href": "https://www.reddit.com/r/teenagers/comments/1n8rzxl/psa_being_a_member_of_the_lgbtq_community_is_not/",
+      "content_preview": "I’m a straight male, and I go to a Catholic School in the south. Apparently all the Catholic Schools in the country are doing a Rosary tomorrow for the Minneapolis shooting. We had to write intentions for the Rosary, and somehow the conversation devolved into hate against the LGBTQ community, someone called it a mental illness. Another time, like the day after the shooting, someone was like “I’m A wOmAn” while trying to look mentally ill and there’s more but like it’s fucked up and y’all are chill and not a mental illness.",
+      "flair": [
+        "Serious"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Under a post against racism",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n91ag0/under_a_post_against_racism/",
+      "score": 4,
+      "comments": 6,
+      "post_id": "t3_1n91ag0",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "woopwoopsound",
+      "author_id": "t2_1wdyz984q3",
+      "subreddit_id": "t5_2rjli",
+      "subreddit": "r/teenagers",
+      "created_ts": "2025-09-05T10:12:05.855000+0000",
+      "content_href": "https://i.redd.it/sb77z7xnmbnf1.png",
+      "content_preview": "",
+      "flair": [
+        "Serious"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f9fflk/styles/profileIcon_nasoaa3uz9nf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c6a094338f808f7525df453d4f0d7412e079bf2d",
+      "is_promoted": false
+    },
+    {
+      "title": "Guys, I think he’s onto something…….",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n8wfgf/guys_i_think_hes_onto_something/",
+      "score": 40,
+      "comments": 19,
+      "post_id": "t3_1n8wfgf",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Signal_Energy_8219",
+      "author_id": "t2_1rj0jb0ijo",
+      "subreddit_id": "t5_2rjli",
+      "subreddit": "r/teenagers",
+      "created_ts": "2025-09-05T05:04:08.394000+0000",
+      "content_href": "https://i.redd.it/q4be41rj3anf1.png",
+      "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://preview.redd.it/guys-i-think-hes-onto-something-v0-q4be41rj3anf1.png?width=640&crop=smart&auto=webp&s=bb22b88df6575bd16f839b225cf6c72acce24484",
+      "is_promoted": false
+    },
+    {
+      "title": "Bored as hell gng drop some lores of your school, let me start first...",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n91aei/bored_as_hell_gng_drop_some_lores_of_your_school/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n91aei",
+      "post_type": "text",
+      "domain": "self.teenagers",
+      "author": "no-punintended0802",
+      "author_id": "t2_1pcx59nz5f",
+      "subreddit_id": "t5_2rjli",
+      "subreddit": "r/teenagers",
+      "created_ts": "2025-09-05T10:12:01.737000+0000",
+      "content_href": "https://www.reddit.com/r/teenagers/comments/1n91aei/bored_as_hell_gng_drop_some_lores_of_your_school/",
+      "content_preview": "So basically the director (highest authority) of my school was basically a madman, he has had multiple cases on him in the past and was famous for being extremely strict and beating the shit out of students, one time, he literally slammed a girl's face on the desk, he also was a wife beater and once literally pushed her on the stairs in school, in front of students",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "What's Wrong With Teenagers Nowadays 😭✌️",
+      "permalink": "https://www.reddit.com/r/teenagers/comments/1n918vp/whats_wrong_with_teenagers_nowadays/",
+      "score": 2,
+      "comments": 4,
+      "post_id": "t3_1n918vp",
+      "post_type": "text",
+      "domain": "self.teenagers",
+      "author": "Hycinister",
+      "author_id": "t2_1luj3be56j",
+      "subreddit_id": "t5_2rjli",
+      "subreddit": "r/teenagers",
+      "created_ts": "2025-09-05T10:09:32.877000+0000",
+      "content_href": "https://www.reddit.com/r/teenagers/comments/1n918vp/whats_wrong_with_teenagers_nowadays/",
+      "content_preview": "Either I Have A Different Mentality Or Y'all Are Weird 💔",
+      "flair": [
+        "Serious"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_e6r3az/styles/profileIcon_z95ym5whhgmf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=0d2f73bebb93b891ca91c8a949d3849522f8821c",
+      "is_promoted": false
     },
     {
       "title": "Type half your name and the first person to reply finishes it.",
       "permalink": "https://www.reddit.com/r/teenagers/comments/1mk6x39/type_half_your_name_and_the_first_person_to_reply/",
-      "score": 11778,
-      "comments": 8247,
+      "score": 11791,
+      "comments": 8255,
       "post_id": "t3_1mk6x39",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -803,208 +1134,9 @@
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://preview.redd.it/type-half-your-name-and-the-first-person-to-reply-finishes-v0-vvcp3x9wxmhf1.jpeg?width=640&crop=smart&auto=webp&s=350c391d171cfbf1f7a0003e0a2495f8b783c675"
-    },
-    {
-      "title": "Just tell me 😭",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n2numf/just_tell_me/",
-      "score": 6847,
-      "comments": 82,
-      "post_id": "t3_1n2numf",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "taIl_guy",
-      "author_id": "t2_1vjoyytx4d",
-      "subreddit_id": "t5_2rjli",
-      "subreddit": "r/teenagers",
-      "created_ts": "2025-08-28T20:49:27.333000+0000",
-      "content_href": "https://i.redd.it/naxh6jy2ptlf1.png",
-      "content_preview": "",
-      "flair": [
-        "Meme"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "The year is 2020 and you have online classes",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1mzi3nj/the_year_is_2020_and_you_have_online_classes/",
-      "score": 11548,
-      "comments": 91,
-      "post_id": "t3_1mzi3nj",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "gigagaming1256",
-      "author_id": "t2_915abpaa",
-      "subreddit_id": "t5_2rjli",
-      "subreddit": "r/teenagers",
-      "created_ts": "2025-08-25T05:29:13.497000+0000",
-      "content_href": "https://i.redd.it/kc8von66q3lf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Meme"
-      ],
-      "thumbnail_url": "https://preview.redd.it/the-year-is-2020-and-you-have-online-classes-v0-kc8von66q3lf1.jpeg?width=640&crop=smart&auto=webp&s=4b6e603af065aa2491acc18dcde526b86c124c94"
-    },
-    {
-      "title": "a 17 year old girlfriend asked me to be her boyfriend.. 😭😭",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n3d7ni/a_17_year_old_girlfriend_asked_me_to_be_her/",
-      "score": 5649,
-      "comments": 946,
-      "post_id": "t3_1n3d7ni",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Imstupidman17yt",
-      "author_id": "t2_yhu2l06xt",
-      "subreddit_id": "t5_2rjli",
-      "subreddit": "r/teenagers",
-      "created_ts": "2025-08-29T17:10:55.421000+0000",
-      "content_href": "https://i.redd.it/ckx10uc0rzlf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Advice"
-      ],
-      "thumbnail_url": "https://preview.redd.it/a-17-year-old-girlfriend-asked-me-to-be-her-boyfriend-v0-ckx10uc0rzlf1.jpeg?width=640&crop=smart&auto=webp&s=74c22f30afea78148a2edc17b1874abe6acdc0db"
-    },
-    {
-      "title": "WHAT THE HELL IS \"EEK\" SUPPOSED TO MEAN??",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n64gp0/what_the_hell_is_eek_supposed_to_mean/",
-      "score": 67,
-      "comments": 35,
-      "post_id": "t3_1n64gp0",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Alessiastic",
-      "author_id": "t2_1n7fg19ksp",
-      "subreddit_id": "t5_2rjli",
-      "subreddit": "r/teenagers",
-      "created_ts": "2025-09-01T23:45:14.257000+0000",
-      "content_href": "https://i.redd.it/woldk1g34nmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Other"
-      ],
-      "thumbnail_url": "https://preview.redd.it/what-the-hell-is-eek-supposed-to-mean-v0-woldk1g34nmf1.jpeg?width=640&crop=smart&auto=webp&s=c2dc34f42a65e64c1afc4d82507c748afe496fcc"
-    },
-    {
-      "title": "Why do gender wars exist?",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n3ip7l/why_do_gender_wars_exist/",
-      "score": 4640,
-      "comments": 381,
-      "post_id": "t3_1n3ip7l",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Wild-Foundation7252",
-      "author_id": "t2_1t0zeoezvb",
-      "subreddit_id": "t5_2rjli",
-      "subreddit": "r/teenagers",
-      "created_ts": "2025-08-29T20:43:21.234000+0000",
-      "content_href": "https://i.redd.it/0som5aews0mf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Social"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_evbv2o/styles/profileIcon_b9szjtpuczlf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=90f4effef1e05768c17948d77719d6306c62ebeb"
-    },
-    {
-      "title": "My 7 yo brother thinks he’s the smartest person ever",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n5293x/my_7_yo_brother_thinks_hes_the_smartest_person/",
-      "score": 4612,
-      "comments": 1298,
-      "post_id": "t3_1n5293x",
-      "post_type": "text",
-      "domain": "self.teenagers",
-      "author": "IPlayGuitarNStuff",
-      "author_id": "t2_1ojl8iq4ba",
-      "subreddit_id": "t5_2rjli",
-      "subreddit": "r/teenagers",
-      "created_ts": "2025-08-31T18:31:47.104000+0000",
-      "content_href": "https://www.reddit.com/r/teenagers/comments/1n5293x/my_7_yo_brother_thinks_hes_the_smartest_person/",
-      "content_preview": "",
-      "flair": [
-        "Social"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Left on delivered for a week.",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n6fb2i/left_on_delivered_for_a_week/",
-      "score": 1,
-      "comments": 2,
-      "post_id": "t3_1n6fb2i",
-      "post_type": "text",
-      "domain": "self.teenagers",
-      "author": "Aggravating-Disk-262",
-      "author_id": "t2_64sfxrs5s",
-      "subreddit_id": "t5_2rjli",
-      "subreddit": "r/teenagers",
-      "created_ts": "2025-09-02T09:55:15.294000+0000",
-      "content_href": "https://www.reddit.com/r/teenagers/comments/1n6fb2i/left_on_delivered_for_a_week/",
-      "content_preview": "",
-      "flair": [
-        "Social"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_8728t2/styles/profileIcon_5awaw5npt5if1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=49e5ef520bcb06d7278127ee8e2dee14b9ee7dae"
-    },
-    {
-      "title": "My heart breaks reading messages like this",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n5pgro/my_heart_breaks_reading_messages_like_this/",
-      "score": 398,
-      "comments": 98,
-      "post_id": "t3_1n5pgro",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Sabertooth344",
-      "author_id": "t2_107erb53je",
-      "subreddit_id": "t5_2rjli",
-      "subreddit": "r/teenagers",
-      "created_ts": "2025-09-01T14:00:03.105000+0000",
-      "content_href": "https://i.redd.it/e1o7uhbo7kmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://preview.redd.it/my-heart-breaks-reading-messages-like-this-v0-e1o7uhbo7kmf1.jpeg?width=640&crop=smart&auto=webp&s=37000dbc4c2dcb0c09bf7de37015ab5ebd99e5ba"
-    },
-    {
-      "title": "Boys n girls in the UK im truly praying for y’all",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1mlqey1/boys_n_girls_in_the_uk_im_truly_praying_for_yall/",
-      "score": 11532,
-      "comments": 781,
-      "post_id": "t3_1mlqey1",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Me_my2",
-      "author_id": "t2_u9s22l9d",
-      "subreddit_id": "t5_2rjli",
-      "subreddit": "r/teenagers",
-      "created_ts": "2025-08-09T14:12:07.659000+0000",
-      "content_href": "https://i.redd.it/q3jr7zrv40if1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Other"
-      ],
-      "thumbnail_url": "https://preview.redd.it/boys-n-girls-in-the-uk-im-truly-praying-for-yall-v0-q3jr7zrv40if1.jpeg?width=640&crop=smart&auto=webp&s=039ea466d7682b4f5cf9326215c4253d0b2a23c2"
-    },
-    {
-      "title": "Some people born in 2012 are on this subreddit...",
-      "permalink": "https://www.reddit.com/r/teenagers/comments/1n6faxv/some_people_born_in_2012_are_on_this_subreddit/",
-      "score": 3,
-      "comments": 6,
-      "post_id": "t3_1n6faxv",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "SuperMegaUltraGemer3",
-      "author_id": "t2_kyiv69fp",
-      "subreddit_id": "t5_2rjli",
-      "subreddit": "r/teenagers",
-      "created_ts": "2025-09-02T09:55:01.263000+0000",
-      "content_href": "https://i.redd.it/406jo2fr4qmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Other"
-      ],
-      "thumbnail_url": "https://preview.redd.it/some-people-born-in-2012-are-on-this-subreddit-v0-406jo2fr4qmf1.png?auto=webp&s=d3d668ad132cdf310cddf8d42a8e0cc6e73bdd4e"
+      "thumbnail_url": "https://preview.redd.it/type-half-your-name-and-the-first-person-to-reply-finishes-v0-vvcp3x9wxmhf1.jpeg?width=640&crop=smart&auto=webp&s=350c391d171cfbf1f7a0003e0a2495f8b783c675",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:02:43.968201"
+  "scraped_at": "2025-09-05T03:31:25.908309"
 }

@@ -3,134 +3,94 @@
   "url": "https://www.reddit.com/r/soccer",
   "meta": {
     "title": "The back page of the internet.",
-    "members_text": "136,235"
+    "description": "The #1 community for football discussion - including scores, fixtures, predictions, and the latest news",
+    "subscribers": 8575022,
+    "online_users": 2852,
+    "created_timestamp": "2025-09-05T10:30:38.923000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Bookmarks",
+        "content": [
+          {
+            "text": "Wiki",
+            "url": "/r/soccer/wiki/index/"
+          },
+          {
+            "text": "Star posts ⭐",
+            "url": "https://new.reddit.com/r/soccer/search?q=flair_name%3A%22Star%20Post%22&restrict_sr=1&sort=new"
+          },
+          {
+            "text": "Daily discussion",
+            "url": "https://new.reddit.com/r/soccer/search?q=flair_name%3A%22Daily%20Discussion%20%22&restrict_sr=1&sort=new"
+          },
+          {
+            "text": "Non-PL Discussion",
+            "url": "https://new.reddit.com/r/soccer/search/?q=flair%3Aworld&restrict_sr=1&sr_nsfw=&sort=new"
+          },
+          {
+            "text": "News, stats and self",
+            "url": "https://new.reddit.com/r/soccer/search?q=NOT%2Bflair%3Amedia%2BAND%2BNOT%2Bflair%3AMirror&restrict_sr=on&sort=hot&t=day"
+          },
+          {
+            "text": "Free talk",
+            "url": "https://new.reddit.com/r/soccer/search?q=flair_name%3A%22Free%20Talk%22&restrict_sr=1"
+          },
+          {
+            "text": "📺 Watch",
+            "url": "https://new.reddit.com/r/soccer/?f=flair_name%3A%22Media%22&sort=new"
+          },
+          {
+            "text": "Live threads",
+            "url": "https://www.reddit.com/r/soccer/?f=flair_name%3A%22%3AMatch_thread%3AMatch%20Thread%22"
+          },
+          {
+            "text": "Post match threads",
+            "url": "https://new.reddit.com/r/soccer/?f=flair_name%3A%22%3APost_match%3A%20Post%20Match%20Thread%22&sort=new"
+          },
+          {
+            "text": "Request a thread",
+            "url": "https://www.reddit.com/r/soccer/wiki/matchthreads#wiki_match_thread_bot"
+          },
+          {
+            "text": "✉️ Modmail",
+            "url": "https://www.reddit.com/message/compose?to=/r/soccer"
+          },
+          {
+            "text": "OG r/soccer",
+            "url": "https://old.reddit.com/r/soccer"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "Ishé Samuels-Smith has re-signed for Chelsea after joining Strasbourg earlier in the summer. He has now been loaned to Swansea.",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n6ffd4/ishé_samuelssmith_has_resigned_for_chelsea_after/",
-      "score": 2,
+      "title": "Patrick Scherer on Erik Ten Hag deciding against a speech before the Bundesliga opener vs Hoffenheim: \"He was shocked it was quiet in the locker room. He expected it to happen by itself. ETH said 'At Manchester United, we made a circle at times. Bruno, Maguire, or sometimes also I said something’.”",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n91lxr/patrick_scherer_on_erik_ten_hag_deciding_against/",
+      "score": 1,
       "comments": 1,
-      "post_id": "t3_1n6ffd4",
-      "post_type": "link",
-      "domain": "chelseafc.com",
-      "author": "Gungerz",
-      "author_id": "t2_14zg4w",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-02T10:02:22.255000+0000",
-      "content_href": "https://www.chelseafc.com/en/news/article/ishe-samuels-smith-joins-swansea-on-loan",
-      "content_preview": "",
-      "flair": [
-        "Official Source"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Manchester United has been eliminated from League Cup by Grimsby Town ,who plays in the 4th league of England",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n1te10/manchester_united_has_been_eliminated_from_league/",
-      "score": 26787,
-      "comments": 1826,
-      "post_id": "t3_1n1te10",
-      "post_type": "link",
-      "domain": "efl.com",
-      "author": "Nervous-Resolution-8",
-      "author_id": "t2_3x7t0yy0",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-08-27T21:15:33.206000+0000",
-      "content_href": "https://www.efl.com/match-centre/g2597265?",
-      "content_preview": "",
-      "flair": [
-        "Stats"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "[Official] Liverpool complete signing of Alexander Isak",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n5ztw1/official_liverpool_complete_signing_of_alexander/",
-      "score": 6849,
-      "comments": 730,
-      "post_id": "t3_1n5ztw1",
-      "post_type": "link",
-      "domain": "liverpoolfc.com",
-      "author": "klaygdk",
-      "author_id": "t2_cytktiae",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-01T20:30:16.378000+0000",
-      "content_href": "https://www.liverpoolfc.com/news/liverpool-complete-signing-alexander-isak",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/pOHzU_8oQEsWNgjwljP9pzb_4VO0OR0nYX4ASrCuSrE.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=3546a4713e7fd883fc8139f0aebd2e2ba6b271d3"
-    },
-    {
-      "title": "Most expensive signings — 2025 summer transfer window.",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n6epk8/most_expensive_signings_2025_summer_transfer/",
-      "score": 212,
-      "comments": 107,
-      "post_id": "t3_1n6epk8",
-      "post_type": "image",
-      "domain": "i.redd.it",
+      "post_id": "t3_1n91lxr",
+      "post_type": "video",
+      "domain": "v.redd.it",
       "author": "Wakanda-shit-is-that",
       "author_id": "t2_iyc6whns",
       "subreddit_id": "t5_2qi58",
       "subreddit": "r/soccer",
-      "created_ts": "2025-09-02T09:16:25.788000+0000",
-      "content_href": "https://i.redd.it/ej4m9s00ypmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Stats"
-      ],
-      "thumbnail_url": "https://preview.redd.it/most-expensive-signings-2025-summer-transfer-window-v0-ej4m9s00ypmf1.jpeg?width=640&crop=smart&auto=webp&s=029b430f056fef46f9f59248b2efd9255e4a5485"
-    },
-    {
-      "title": "Salah, standing alone and crying, while the fans cheer Jota's name.",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1mrae7m/salah_standing_alone_and_crying_while_the_fans/",
-      "score": 23824,
-      "comments": 288,
-      "post_id": "t3_1mrae7m",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "DavidRolands",
-      "author_id": "t2_bpeg94qc",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-08-15T21:07:07.633000+0000",
-      "content_href": "https://v.redd.it/musl016709jf1",
+      "created_ts": "2025-09-05T10:30:38.923000+0000",
+      "content_href": "https://v.redd.it/tnwi230ypbnf1",
       "content_preview": "",
       "flair": [
         "Media"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/salah-standing-alone-and-crying-while-the-fans-cheer-jotas-v0-YmEyZDgzNjcwOWpmMTiDGLn_K81f6n2KJEiF_U2vT0LwiqouToFjd69JdIsk.png?width=640&crop=smart&format=pjpg&auto=webp&s=17fe88cfd1383dc707a6ed36411a33a476046e48"
-    },
-    {
-      "title": "[DAZN] Betis fans greeting Antony outside the Seville airport",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n60971/dazn_betis_fans_greeting_antony_outside_the/",
-      "score": 5244,
-      "comments": 158,
-      "post_id": "t3_1n60971",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Mulderre91",
-      "author_id": "t2_58m4cjso",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-01T20:46:33.136000+0000",
-      "content_href": "https://v.redd.it/lty4dlr38mmf1",
-      "content_preview": "",
-      "flair": [
-        "Media"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/dazn-betis-fans-greeting-antony-outside-the-seville-airport-v0-amcyMmxrcjM4bW1mMawqTRJaclmA3JsnCYkmPVkr6_kDZOKSCiIyB-479y9l.png?width=640&crop=smart&format=pjpg&auto=webp&s=9b51f1aaa1c0d7c986b69b5676224cbf5cfd99bf"
+      "thumbnail_url": "https://external-preview.redd.it/patrick-scherer-on-erik-ten-hag-deciding-against-a-speech-v0-eHZudDA4cXhwYm5mMc66ybbO8XSQrkk9sS4uKKTl1GJfFFG7bM8FOlJc3XfH.png?format=pjpg&auto=webp&s=5025b139e5b77c57e33e1a1c3d7ac3be0fe0c519",
+      "is_promoted": false
     },
     {
       "title": "Grimsby Town official account announces today's lineup vs Bristol Rovers",
       "permalink": "https://www.reddit.com/r/soccer/comments/1n4117x/grimsby_town_official_account_announces_todays/",
-      "score": 15282,
-      "comments": 401,
+      "score": 15420,
+      "comments": 402,
       "post_id": "t3_1n4117x",
       "post_type": "video",
       "domain": "v.redd.it",
@@ -144,452 +104,116 @@
       "flair": [
         "Media"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "[skysports] Premier league net spend for this transfer window",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n65tk3/skysports_premier_league_net_spend_for_this/",
-      "score": 1666,
-      "comments": 513,
-      "post_id": "t3_1n65tk3",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Geminispace",
-      "author_id": "t2_vcnap",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-02T00:49:31.700000+0000",
-      "content_href": "https://i.redd.it/1yroafakfnmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Stats"
-      ],
-      "thumbnail_url": "https://preview.redd.it/skysports-premier-league-net-spend-for-this-transfer-window-v0-1yroafakfnmf1.png?width=640&crop=smart&auto=webp&s=33e04571b8d57f2308e5a00a4b7e81145b42abc5"
-    },
-    {
-      "title": "Change My View",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n6fe3h/change_my_view/",
-      "score": 2,
-      "comments": 3,
-      "post_id": "t3_1n6fe3h",
-      "post_type": "text",
-      "domain": "self.soccer",
-      "author": "2soccer2bot",
-      "author_id": "t2_2glav0rp",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-02T10:00:30.974000+0000",
-      "content_href": "https://www.reddit.com/r/soccer/comments/1n6fe3h/change_my_view/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_q8lx6/styles/profileIcon_tzrnrqtlp4ua1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=0e6607b8af1e95ca2564a3ef35831c5ee41d6777"
-    },
-    {
-      "title": "Heung-min Son announces he will be leaving Tottenham",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1mfe8x8/heungmin_son_announces_he_will_be_leaving/",
-      "score": 18006,
-      "comments": 897,
-      "post_id": "t3_1mfe8x8",
+      "title": "Lionel Messi after playing his last Argentina game at home soil: \"Many long years have passed and we have enjoyed match after match. I am so happy... To end it this way here is what I always dreamed of. I’ve experienced many things on this pitch. It’s always a joy to play in Argentina with our fans\"",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8sua7/lionel_messi_after_playing_his_last_argentina/",
+      "score": 4195,
+      "comments": 118,
+      "post_id": "t3_1n8sua7",
       "post_type": "video",
       "domain": "v.redd.it",
-      "author": "hairtie1",
-      "author_id": "t2_hhawotth",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-08-02T01:38:11.631000+0000",
-      "content_href": "https://v.redd.it/btd7k6czfigf1",
-      "content_preview": "",
-      "flair": [
-        "Media"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_5h5vqe/styles/profileIcon_fwl1js2w0hzc1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=95ebd34d33adb81fe2334389bafbb537d90947ca"
-    },
-    {
-      "title": "Peter Schmeichel: \"Arsenal bring an ugly brand of football to our game. Mikel Arteta... let your team play football! Let them loose, let them be free! I am absolutely convinced that if Arteta does this, they will win more games.\"",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n623u6/peter_schmeichel_arsenal_bring_an_ugly_brand_of/",
-      "score": 2241,
-      "comments": 699,
-      "post_id": "t3_1n623u6",
-      "post_type": "link",
-      "domain": "mirror.co.uk",
-      "author": "DavidRolands",
-      "author_id": "t2_bpeg94qc",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-01T22:00:52.176000+0000",
-      "content_href": "https://www.mirror.co.uk/sport/football/news/arsenal-tactics-liverpool-peter-schmeichel-35823757",
-      "content_preview": "",
-      "flair": [
-        "Quotes"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/fofmK029rUhT_zplFdQrG57SoMBuJbMYaT_vg4WrojM.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=26819b5b7499d6382fc3d6a1d3f6f02c5a8b1512"
-    },
-    {
-      "title": "Ruben Amorim playing around with his tactics board",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n1trgi/ruben_amorim_playing_around_with_his_tactics_board/",
-      "score": 13786,
-      "comments": 1211,
-      "post_id": "t3_1n1trgi",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "TheBlueTango",
-      "author_id": "t2_12z35d",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-08-27T21:29:47.118000+0000",
-      "content_href": "https://v.redd.it/wgow2rddrmlf1",
-      "content_preview": "",
-      "flair": [
-        "Media"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_8yh1j/styles/profileIcon_i8hkp1ochs0a1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=45586ce807b149569c3c0eba3d6480771f45ee13"
-    },
-    {
-      "title": "[MARCA] Summer transfer spending of Europe's top 5 leagues",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n6d7m5/marca_summer_transfer_spending_of_europes_top_5/",
-      "score": 287,
-      "comments": 235,
-      "post_id": "t3_1n6d7m5",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Wakanda-shit-is-that",
-      "author_id": "t2_iyc6whns",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-02T07:36:53.057000+0000",
-      "content_href": "https://i.redd.it/f5hkz1q8gpmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Stats"
-      ],
-      "thumbnail_url": "https://preview.redd.it/marca-summer-transfer-spending-of-europes-top-5-leagues-v0-f5hkz1q8gpmf1.jpeg?width=640&crop=smart&auto=webp&s=0ae3587b1a869511a50fe8aa1d1bafb2ea578cb3"
-    },
-    {
-      "title": "talkSPORT understands that there are suggestions that Oliver Glasner has played a direct role in the deal not going through. Glasner threatened to walk away from the club if Guehi was sold after he failed to sign two new centre-backs",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n5xb2s/talksport_understands_that_there_are_suggestions/",
-      "score": 3780,
-      "comments": 452,
-      "post_id": "t3_1n5xb2s",
-      "post_type": "link",
-      "domain": "talksport.com",
-      "author": "sonofaBilic",
-      "author_id": "t2_zupkl",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-01T18:53:40.014000+0000",
-      "content_href": "https://talksport.com/football/3352286/deadline-day-live-premier-league-latest-updates-transfers-arsenal-man-united-chelsea-liverpool/post/3520092/",
-      "content_preview": "",
-      "flair": [
-        "Transfers"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1c92n6/styles/profileIcon_a5m6gn9shlhd1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d7f2ea9a28e86b5ebdce191772c86242caad20eb"
-    },
-    {
-      "title": "Grimsby Town goalkeeper Christy Pym: \"I'm a Man Utd fan so I'm half fuming but nights like this is what you play football for. Beautiful... I should have done a bit better on pens. We went over them with the coach yesterday but they kept changing, I was a bit fuming.\"",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n1udal/grimsby_town_goalkeeper_christy_pym_im_a_man_utd/",
-      "score": 11706,
-      "comments": 276,
-      "post_id": "t3_1n1udal",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Blodgharm",
-      "author_id": "t2_ouhna",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-08-27T21:53:33.822000+0000",
-      "content_href": "https://v.redd.it/nu442trdvmlf1",
-      "content_preview": "",
-      "flair": [
-        "Media"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_bhofn/styles/profileIcon_flzugocqic241.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=cb07ab3bc55da7d58729bb651114976d4c7e7b20"
-    },
-    {
-      "title": "[David Ornstein] Marc Guehi expected to stay at Crystal Palace despite Liverpool transfer agreement",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n5wz4m/david_ornstein_marc_guehi_expected_to_stay_at/",
-      "score": 3873,
-      "comments": 1017,
-      "post_id": "t3_1n5wz4m",
-      "post_type": "link",
-      "domain": "nytimes.com",
-      "author": "brekor197",
-      "author_id": "t2_zof0g",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-01T18:41:08.497000+0000",
-      "content_href": "https://www.nytimes.com/athletic/6589620/2025/09/01/marc-guehi-liverpool-transfer-crystal-palace/",
-      "content_preview": "",
-      "flair": [
-        "Transfers"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Mason Greenwood Kicks, Spits on Amadou Onana. Tyrone Mings intervenes",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1mlxniy/mason_greenwood_kicks_spits_on_amadou_onana/",
-      "score": 17200,
-      "comments": 1493,
-      "post_id": "t3_1mlxniy",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "IndifferentDraenei",
-      "author_id": "t2_8m8mzed8",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-08-09T19:14:20.866000+0000",
-      "content_href": "https://v.redd.it/zf4r5d0sm1if1",
-      "content_preview": "",
-      "flair": [
-        "Media"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/mason-greenwood-kicks-spits-on-amadou-onana-tyrone-mings-v0-ZDg0MGVkMHNtMWlmMTnJYrE860Pqcy8Bfc88Xv5EUC97a4b_HF2hiLKz83UE.png?width=640&crop=smart&format=pjpg&auto=webp&s=0ac3bf0c58491cc17b5efff556b9e76ac9d3ce4a"
-    },
-    {
-      "title": "Milan players left from last seasons squad",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n61mnd/milan_players_left_from_last_seasons_squad/",
-      "score": 2009,
-      "comments": 80,
-      "post_id": "t3_1n61mnd",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Cool-Pie430",
-      "author_id": "t2_1bemryn9yo",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-01T21:40:53.435000+0000",
-      "content_href": "https://i.redd.it/y2emxzpwhmmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Nick Woltemade on his favourite German footballer of all time: \"I like Kai Havertz\"",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n5vyaf/nick_woltemade_on_his_favourite_german_footballer/",
-      "score": 3659,
-      "comments": 424,
-      "post_id": "t3_1n5vyaf",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "WarriorkingNL",
-      "author_id": "t2_aiu4q",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-01T18:03:49.154000+0000",
-      "content_href": "https://v.redd.it/dz9405e6flmf1",
-      "content_preview": "",
-      "flair": [
-        "Media"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "[Real Betis] have signed Antony",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n5vi3d/real_betis_have_signed_antony/",
-      "score": 3634,
-      "comments": 149,
-      "post_id": "t3_1n5vi3d",
-      "post_type": "link",
-      "domain": "manutd.com",
-      "author": "phant0msinthenight",
-      "author_id": "t2_chyrbgp1",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-01T17:46:50.991000+0000",
-      "content_href": "https://www.manutd.com/en/news/detail/man-utd-agree-antony-deal-with-real-betis",
-      "content_preview": "",
-      "flair": [
-        "Official Source"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/HGiiJ_5r7SvBGEJOqoLO6M3UG7YH1O6FOVNG-ZAM6m0.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=5107fb8c051fc4d20329c0be7c852ba3a8b94bae"
-    },
-    {
-      "title": "FC Midtjylland's football director Jacob Larsen confirms to Viaplay that Bayern Munich had tried to sign forward Franculino Djú",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n6fbew/fc_midtjyllands_football_director_jacob_larsen/",
-      "score": 1,
-      "comments": 2,
-      "post_id": "t3_1n6fbew",
-      "post_type": "link",
-      "domain": "bold.dk",
-      "author": "Chance-Attitude3792",
-      "author_id": "t2_1lcehy5cwe",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-02T09:55:51.019000+0000",
-      "content_href": "https://bold.dk/fodbold/nyheder/fcm-bekraefter-bayern-interesse-i-franculino/",
-      "content_preview": "",
-      "flair": [
-        "Transfers"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "Inter Miami supporters brawling with Sounders supporters after leagues cup final loss",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n5s9eg/inter_miami_supporters_brawling_with_sounders/",
-      "score": 5035,
-      "comments": 926,
-      "post_id": "t3_1n5s9eg",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "MysteriousEdge5643",
-      "author_id": "t2_3x3pajrjh",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-01T15:47:49.378000+0000",
-      "content_href": "https://v.redd.it/nehzhkktqkmf1",
-      "content_preview": "",
-      "flair": [
-        "Media"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/inter-miami-supporters-brawling-with-sounders-supporters-v0-NXdpbW1qa3Rxa21mMeMtiyoBA3OhZMZKk3PCj0UWyAGGE7Vlhmk79w1zW0EU.png?format=pjpg&auto=webp&s=7af282f810a775445fe3f2c1ca4d43ed30129b8c"
-    },
-    {
-      "title": "FC Bayern sign Nicolas Jackson",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n60p7m/fc_bayern_sign_nicolas_jackson/",
-      "score": 1834,
-      "comments": 137,
-      "post_id": "t3_1n60p7m",
-      "post_type": "link",
-      "domain": "fcbayern.com",
-      "author": "Wakanda-shit-is-that",
-      "author_id": "t2_iyc6whns",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-01T21:03:44.886000+0000",
-      "content_href": "https://fcbayern.com/en/photos/2025/09/gallery-nicolas-jackson-joins-bayern",
-      "content_preview": "",
-      "flair": [
-        "Official Source"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/Tq7lx95Ny3tKkqBwbFwe8_HDgGG18WZeS5T6vzm8zoM.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=4ccf552226d555ee4c78f9bc2ba5eb48b7ad69e8"
-    },
-    {
-      "title": "Son Heung-Min waited until all the Tottenham players and staff had left the locker room. Only after watching his teammates board the team bus and depart, did he leave the stadium in his own car. Son will remain in South Korea.",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1mgmpx9/son_heungmin_waited_until_all_the_tottenham/",
-      "score": 14801,
-      "comments": 261,
-      "post_id": "t3_1mgmpx9",
-      "post_type": "link",
-      "domain": "mk.co.kr",
       "author": "landofphi",
       "author_id": "t2_24o760xa",
       "subreddit_id": "t5_2qi58",
       "subreddit": "r/soccer",
-      "created_ts": "2025-08-03T15:53:40.339000+0000",
-      "content_href": "https://www.mk.co.kr/en/sports/11384319",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/y2T64j64Jkr0Rnirkf1JD9FjK3uQtF63RCJc_NxzbLw.png?width=140&height=102&crop=140:102,smart&auto=webp&s=c392792dd90482625268fcbea2b0dd1ea575f6d0"
-    },
-    {
-      "title": "[BBC] Chelsea become the first Premier League club to ever bank over £300m from player sales. It's a new record.",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n5w3up/bbc_chelsea_become_the_first_premier_league_club/",
-      "score": 2452,
-      "comments": 612,
-      "post_id": "t3_1n5w3up",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "ScientistHulk",
-      "author_id": "t2_46v5o3pj",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-01T18:09:31.598000+0000",
-      "content_href": "https://i.redd.it/9l8ccmm2glmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Stats"
-      ],
-      "thumbnail_url": "https://preview.redd.it/bbc-chelsea-become-the-first-premier-league-club-to-ever-v0-9l8ccmm2glmf1.png?width=640&crop=smart&auto=webp&s=d5de2e8eaeaf829c09ceba321b1c585588a9977f"
-    },
-    {
-      "title": "Ruben Loftus-Cheek called into England squad for first time in six years",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n6f862/ruben_loftuscheek_called_into_england_squad_for/",
-      "score": 18,
-      "comments": 21,
-      "post_id": "t3_1n6f862",
-      "post_type": "link",
-      "domain": "nytimes.com",
-      "author": "kenny_feets",
-      "author_id": "t2_61d3ib0f",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-02T09:49:55.020000+0000",
-      "content_href": "https://www.nytimes.com/athletic/6589608/2025/09/02/ruben-loftus-cheek-england-squad/",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_2irh9w/styles/profileIcon_ppjn5fz1i1m81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7a8497f2a64db0695536c0170f87619d093a12fb"
-    },
-    {
-      "title": "Messi's Backheel assist to Suarez",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1msfgvf/messis_backheel_assist_to_suarez/",
-      "score": 14135,
-      "comments": 348,
-      "post_id": "t3_1msfgvf",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Fruit_salad1",
-      "author_id": "t2_2f4irz1z",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-08-17T02:43:34.815000+0000",
-      "content_href": "https://v.redd.it/xshsxi3athjf1",
+      "created_ts": "2025-09-05T01:58:46.749000+0000",
+      "content_href": "https://v.redd.it/77bcmbil69nf1",
       "content_preview": "",
       "flair": [
         "Media"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/messis-backheel-assist-to-suarez-v0-dngwMDBtNmF0aGpmMYxzcrvE6cmdQi1eEW0d_cZ2-61eedWdpbu4iAqV44wV.png?width=640&crop=smart&format=pjpg&auto=webp&s=56b33c0123fdd1157c0b30826a3726f65f89e030"
+      "thumbnail_url": "https://external-preview.redd.it/lionel-messi-after-playing-his-last-argentina-game-at-home-v0-ZjZqY3JiaWw2OW5mMX4uPBRyzQ3_eszL85I1xi0UuKM8d-BsaoaJ5p25WviA.png?width=640&crop=smart&format=pjpg&auto=webp&s=1eb72d57af7d0cdd2a0c4da8226e27d6909dab27",
+      "is_promoted": false
     },
     {
-      "title": "Liverpool [1] - 0 Arsenal - D. Szoboszlai 83'",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n506qw/liverpool_1_0_arsenal_d_szoboszlai_83/",
-      "score": 12637,
-      "comments": 894,
-      "post_id": "t3_1n506qw",
-      "post_type": "link",
-      "domain": "streamff.link",
-      "author": "gbogaz",
-      "author_id": "t2_1pcyqxb9br",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-08-31T17:09:59.225000+0000",
-      "content_href": "https://streamff.link/v/fa0f6a18",
-      "content_preview": "",
-      "flair": [
-        "Great Goal"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "[Matt Law] Chelsea have agreed a new (bigger) deal with Bayern Munich for Nicolas Jackson. Bayern have agreed to pay a £14.2m loan fee with an obligation to buy him for a further £56.2m which is based on appearances. The total deal is worth just under £70.5m which Chelsea will be very pleased with.",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n5qcde/matt_law_chelsea_have_agreed_a_new_bigger_deal/",
-      "score": 4712,
-      "comments": 993,
-      "post_id": "t3_1n5qcde",
+      "title": "Eric Dier \"It hurts every time I’m not in the England squad. In the last two years, I played pretty much every game for Bayern, won the league and played in the UCL quarter-final and semi-final. I felt like I’d done everything I could to be in the squad. But it just hasn’t happened.\"",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8zkud/eric_dier_it_hurts_every_time_im_not_in_the/",
+      "score": 786,
+      "comments": 159,
+      "post_id": "t3_1n8zkud",
       "post_type": "link",
       "domain": "telegraph.co.uk",
-      "author": "ScientistHulk",
-      "author_id": "t2_46v5o3pj",
+      "author": "kibme37",
+      "author_id": "t2_75nbo18",
       "subreddit_id": "t5_2qi58",
       "subreddit": "r/soccer",
-      "created_ts": "2025-09-01T14:34:14.928000+0000",
-      "content_href": "https://www.telegraph.co.uk/football/2025/09/01/transfer-deadline-day-2025-live-latest-updates-window-7pm/",
+      "created_ts": "2025-09-05T08:23:08.973000+0000",
+      "content_href": "https://www.telegraph.co.uk/football/2025/09/05/eric-dier-it-hurts-every-time-im-not-in-the-england-squad/",
       "content_preview": "",
       "flair": [
-        "Transfers"
+        "Quotes"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/KAgP3EFlBDLfokLAr8h0FuXFJm9DqWSuxfNqo-2rCMw.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=1013d86017c4b00ab324d78cae3adc3e569e1594"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Fresh Step Heavy Duty litter with 30-Day Odor Control gives cats the confidence to make any space their own and #staysassy. #freshstep #freshsteplitter #catparent #cats",
+      "permalink": "https://www.reddit.com/user/freshstepbrand/comments/1mtqz9p/fresh_step_heavy_duty_litter_with_30day_odor/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mtqz9p",
+      "post_type": "video",
+      "domain": "freshstep.com",
+      "author": "freshstepbrand",
+      "author_id": "t2_1jog2m9s76",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-18T16:30:53.748000+0000",
+      "content_href": "https://v.redd.it/m2c7xwebkrjf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ehxadk/styles/profileIcon_b32oxgmd1o8f1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=aeffdfceefce2b675f60eee7ae0fcd17df0b1eaa",
+      "is_promoted": true
+    },
+    {
+      "title": "Manchester United has been eliminated from League Cup by Grimsby Town ,who plays in the 4th league of England",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n1te10/manchester_united_has_been_eliminated_from_league/",
+      "score": 26830,
+      "comments": 1827,
+      "post_id": "t3_1n1te10",
+      "post_type": "link",
+      "domain": "efl.com",
+      "author": "Nervous-Resolution-8",
+      "author_id": "t2_3x7t0yy0",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-08-27T21:15:33.206000+0000",
+      "content_href": "https://www.efl.com/match-centre/g2597265?",
+      "content_preview": "",
+      "flair": [
+        "Stats"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Argentina [1] - 0 Venezuela - L. Messi 39'",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8qnic/argentina_1_0_venezuela_l_messi_39/",
+      "score": 3068,
+      "comments": 180,
+      "post_id": "t3_1n8qnic",
+      "post_type": "link",
+      "domain": "streamff.link",
+      "author": "West_Agent4651",
+      "author_id": "t2_1ka9ytx30f",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-05T00:15:11.285000+0000",
+      "content_href": "https://streamff.link/v/cbc0c046",
+      "content_preview": "",
+      "flair": [
+        "Media"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
     },
     {
       "title": "Grealish leaps the advertising boards to gift his shirt, and gets pulled into the crowd",
       "permalink": "https://www.reddit.com/r/soccer/comments/1n4utc2/grealish_leaps_the_advertising_boards_to_gift_his/",
-      "score": 12944,
+      "score": 13107,
       "comments": 330,
       "post_id": "t3_1n4utc2",
       "post_type": "video",
@@ -604,33 +228,823 @@
       "flair": [
         "Media"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/grealish-leaps-the-advertising-boards-to-gift-his-shirt-and-v0-eHY1cXFmZW94Y21mMePQv_JNlzxVKGurITjAsTUKGyjEPK_DuoMQdUlSGhli.png?width=640&crop=smart&format=pjpg&auto=webp&s=d52dbbc2b07778f411005e55fab4c8187c738bee"
+      "thumbnail_url": "https://external-preview.redd.it/grealish-leaps-the-advertising-boards-to-gift-his-shirt-and-v0-eHY1cXFmZW94Y21mMePQv_JNlzxVKGurITjAsTUKGyjEPK_DuoMQdUlSGhli.png?width=640&crop=smart&format=pjpg&auto=webp&s=d52dbbc2b07778f411005e55fab4c8187c738bee",
+      "is_promoted": false
     },
     {
-      "title": "[Man City] Ederson joins Fernebache",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n6coah/man_city_ederson_joins_fernebache/",
-      "score": 232,
-      "comments": 51,
-      "post_id": "t3_1n6coah",
+      "title": "Argentina [3] - 0 Venezuela - L. Messi 80'",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8ryig/argentina_3_0_venezuela_l_messi_80/",
+      "score": 1968,
+      "comments": 136,
+      "post_id": "t3_1n8ryig",
       "post_type": "link",
-      "domain": "mancity.com",
-      "author": "loveino",
-      "author_id": "t2_143alf",
+      "domain": "streamff.link",
+      "author": "West_Agent4651",
+      "author_id": "t2_1ka9ytx30f",
       "subreddit_id": "t5_2qi58",
       "subreddit": "r/soccer",
-      "created_ts": "2025-09-02T07:01:42.633000+0000",
-      "content_href": "https://www.mancity.com/news/mens/ederson-leaves-manchester-city-fenerbahce-transfer-63892390",
+      "created_ts": "2025-09-05T01:16:32.980000+0000",
+      "content_href": "https://streamff.link/v/f559fa10",
+      "content_preview": "",
+      "flair": [
+        "Media"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "London City Lionesses set a new world record transfer fee (£1.4m/€1.6m) for a women's football player, signing Grace Geyoro.",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n91ew7/london_city_lionesses_set_a_new_world_record/",
+      "score": 8,
+      "comments": 3,
+      "post_id": "t3_1n91ew7",
+      "post_type": "link",
+      "domain": "bbc.co.uk",
+      "author": "Arbaces",
+      "author_id": "t2_do5vs",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-05T10:19:15.352000+0000",
+      "content_href": "https://www.bbc.co.uk/sport/football/articles/czjv9ddxj33o",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Salah, standing alone and crying, while the fans cheer Jota's name.",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1mrae7m/salah_standing_alone_and_crying_while_the_fans/",
+      "score": 23846,
+      "comments": 288,
+      "post_id": "t3_1mrae7m",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "DavidRolands",
+      "author_id": "t2_bpeg94qc",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-08-15T21:07:07.633000+0000",
+      "content_href": "https://v.redd.it/musl016709jf1",
+      "content_preview": "",
+      "flair": [
+        "Media"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/salah-standing-alone-and-crying-while-the-fans-cheer-jotas-v0-YmEyZDgzNjcwOWpmMTiDGLn_K81f6n2KJEiF_U2vT0LwiqouToFjd69JdIsk.png?width=640&crop=smart&format=pjpg&auto=webp&s=17fe88cfd1383dc707a6ed36411a33a476046e48",
+      "is_promoted": false
+    },
+    {
+      "title": "From the crew that brought you The Office, Stream The Paper now on Peacock.",
+      "permalink": "https://www.reddit.com/user/Peacock/comments/1n6srqs/from_the_crew_that_brought_you_the_office_stream/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n6srqs",
+      "post_type": "video",
+      "domain": "peacocktv.com",
+      "author": "Peacock",
+      "author_id": "t2_4kfv0g6z",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-02T19:18:05.930000+0000",
+      "content_href": "https://v.redd.it/mp9m3bltfrmf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_24ourf/styles/profileIcon_61dcu0b8a8191.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=89f39e4736a915bbf8ad7107d2e8c70730530858",
+      "is_promoted": true
+    },
+    {
+      "title": "Colombia officially qualify for the 2026 World Cup",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8s5qa/colombia_officially_qualify_for_the_2026_world_cup/",
+      "score": 1444,
+      "comments": 68,
+      "post_id": "t3_1n8s5qa",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Imannyz",
+      "author_id": "t2_e35gj",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-05T01:26:08.929000+0000",
+      "content_href": "https://i.redd.it/9dzuuy1t09nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ayl98/styles/profileIcon_qhj4qgbrbosc1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=09d6c8ddc79bcafa65d7caa124139a09af2b233e",
+      "is_promoted": false
+    },
+    {
+      "title": "Liverpool [1] - 0 Arsenal - D. Szoboszlai 83'",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n506qw/liverpool_1_0_arsenal_d_szoboszlai_83/",
+      "score": 12720,
+      "comments": 892,
+      "post_id": "t3_1n506qw",
+      "post_type": "link",
+      "domain": "streamff.link",
+      "author": "gbogaz",
+      "author_id": "t2_1pcyqxb9br",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-08-31T17:09:59.225000+0000",
+      "content_href": "https://streamff.link/v/fa0f6a18",
+      "content_preview": "",
+      "flair": [
+        "Great Goal"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "[Federico Cherubini]: \"Parma turned down an offer from Newcastle for Giovanni Leoni, which was more advantageous than the one Liverpool eventually made.”",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8zy9a/federico_cherubini_parma_turned_down_an_offer/",
+      "score": 207,
+      "comments": 96,
+      "post_id": "t3_1n8zy9a",
+      "post_type": "link",
+      "domain": "sportwitness.co.uk",
+      "author": "MrMerc2333",
+      "author_id": "t2_882pw42f",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-05T08:48:00.999000+0000",
+      "content_href": "https://sportwitness.co.uk/we-turned-down-newcastle-offer-ceo-says-club-sold-defender-to-liverpool-over-higher-magpies-bid/",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/hdxGLJr03vYd6Aq7AHmH3YFPSTF1JeNVMDtzFFGENKI.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=863468db090d5af0a9fd7a7b22554271aa830a82",
+      "is_promoted": false
+    },
+    {
+      "title": "[Sami Mokbel] The decision to sack Daniel Levy was made by the club's majority owners, the Lewis family, who believe a change is necessary due to a lack of on-pitch success. The executive chairman role will be removed entirely.",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8kj7f/sami_mokbel_the_decision_to_sack_daniel_levy_was/",
+      "score": 3999,
+      "comments": 484,
+      "post_id": "t3_1n8kj7f",
+      "post_type": "link",
+      "domain": "bbc.com",
+      "author": "Crane977",
+      "author_id": "t2_2fkp74k4",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-04T20:01:03.222000+0000",
+      "content_href": "https://www.bbc.com/sport/football/articles/c9qng2rj38do",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/M2EPzXg204mNF08P0mBZUkE1eXO-GKMA_3RT8n7d99Y.png?width=140&height=78&crop=140:78,smart&auto=webp&s=2d573f0366e0ab24b8e4443e62681c248c47b903",
+      "is_promoted": false
+    },
+    {
+      "title": "Timber and Gakpo interaction.",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n50iqk/timber_and_gakpo_interaction/",
+      "score": 12134,
+      "comments": 472,
+      "post_id": "t3_1n50iqk",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "DavidRolands",
+      "author_id": "t2_bpeg94qc",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-08-31T17:23:18.418000+0000",
+      "content_href": "https://v.redd.it/3w2qdspz2emf1",
+      "content_preview": "",
+      "flair": [
+        "Media"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/timber-and-gakpo-interaction-v0-a2ozZ3RmcHoyZW1mMZsAiK28_f6_h7LZc41mDYrVIRV5jQKC0a_4_ibxVthO.png?width=640&crop=smart&format=pjpg&auto=webp&s=989c6ab74da9270fe07d9e9aa360d43961693912",
+      "is_promoted": false
+    },
+    {
+      "title": "Julian Nagelsmann furious at his players for the lack of 'emotionality' and 'desire' shown on the pitch: \"Apart from 2-3 injured players, these are the best quality players we have in Germany. Maybe next time we have to call up players with less quality but who will give everything on the pitch.”",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8o0w5/julian_nagelsmann_furious_at_his_players_for_the/",
+      "score": 2283,
+      "comments": 182,
+      "post_id": "t3_1n8o0w5",
+      "post_type": "link",
+      "domain": "mykhel.com",
+      "author": "Wakanda-shit-is-that",
+      "author_id": "t2_iyc6whns",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-04T22:19:58.579000+0000",
+      "content_href": "https://www.mykhel.com/football/germany-world-cup-qualifier-loss-slovenia-nagelsmann-comments-011-382095.html",
+      "content_preview": "",
+      "flair": [
+        "Quotes"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "We are Blood Cancer United.",
+      "permalink": "https://www.reddit.com/user/BloodCancerUnited/comments/1n1tbgl/we_are_blood_cancer_united/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n1tbgl",
+      "post_type": "video",
+      "domain": "bloodcancerunited.org",
+      "author": "BloodCancerUnited",
+      "author_id": "t2_1wkfi350jr",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-27T21:12:52.348000+0000",
+      "content_href": "https://v.redd.it/0xmsh59t6llf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": true
+    },
+    {
+      "title": "Mason Greenwood Kicks, Spits on Amadou Onana. Tyrone Mings intervenes",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1mlxniy/mason_greenwood_kicks_spits_on_amadou_onana/",
+      "score": 17206,
+      "comments": 1494,
+      "post_id": "t3_1mlxniy",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "IndifferentDraenei",
+      "author_id": "t2_8m8mzed8",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-08-09T19:14:20.866000+0000",
+      "content_href": "https://v.redd.it/zf4r5d0sm1if1",
+      "content_preview": "",
+      "flair": [
+        "Media"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/mason-greenwood-kicks-spits-on-amadou-onana-tyrone-mings-v0-ZDg0MGVkMHNtMWlmMTnJYrE860Pqcy8Bfc88Xv5EUC97a4b_HF2hiLKz83UE.png?width=640&crop=smart&format=pjpg&auto=webp&s=0ac3bf0c58491cc17b5efff556b9e76ac9d3ce4a",
+      "is_promoted": false
+    },
+    {
+      "title": "No handshake between Pep Guardiola and Fabian Hurzeler after the full-time whistle",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n4x2cy/no_handshake_between_pep_guardiola_and_fabian/",
+      "score": 11796,
+      "comments": 708,
+      "post_id": "t3_1n4x2cy",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "OptimusCloyster",
+      "author_id": "t2_a1f5140f5",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-08-31T15:05:05.789000+0000",
+      "content_href": "https://v.redd.it/c6csalkdedmf1",
+      "content_preview": "",
+      "flair": [
+        "Media"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8al3mg/styles/profileIcon_sqfwhkk08e5c1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7a2f0992da7e58552d85d86d32f1a7a7a8742990",
+      "is_promoted": false
+    },
+    {
+      "title": "For the first time ever, Germany has lost a World Cup Qualifier away-game",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8lika/for_the_first_time_ever_germany_has_lost_a_world/",
+      "score": 2903,
+      "comments": 198,
+      "post_id": "t3_1n8lika",
+      "post_type": "text",
+      "domain": "self.soccer",
+      "author": "xDocFaustx",
+      "author_id": "t2_h9g51",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-04T20:38:54.683000+0000",
+      "content_href": "https://www.reddit.com/r/soccer/comments/1n8lika/for_the_first_time_ever_germany_has_lost_a_world/",
+      "content_preview": "In the prior 104 games played, Germany won 83 times, drew 18 times and has lost only three times, everytime at home.1985 0:1 against Portugal in Stuttgart2001 1:5 against England in Munich2021 1:2 against North Macedonia in Duisburg",
+      "flair": [
+        "Stats"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Tottenham Hotspur announces departure of Executive Chairman Daniel Levy.",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8fho0/tottenham_hotspur_announces_departure_of/",
+      "score": 11602,
+      "comments": 1080,
+      "post_id": "t3_1n8fho0",
+      "post_type": "link",
+      "domain": "tottenhamhotspur.com",
+      "author": "BelgianPolitics",
+      "author_id": "t2_99wixu0",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-04T16:49:32.564000+0000",
+      "content_href": "https://www.tottenhamhotspur.com/news/2025/september/tottenham-hotspur-announces-departure-of-executive-chairman-daniel-levy/",
       "content_preview": "",
       "flair": [
         "Official Source"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_eqsh8/styles/profileIcon_xhd56xahh9y81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4e36b3ef8d83eeac85e1704d1df7342cbba12d20"
+      "thumbnail_url": "https://external-preview.redd.it/gDLKAAX51Rn-bKTkY4CFsDz6NgmU8kp8ihLI8IyyzbQ.jpeg?width=140&height=67&crop=140:67,smart&auto=webp&s=2ddbbc04645283bd0ffdc53d1cfe6652aba9b367",
+      "is_promoted": false
+    },
+    {
+      "title": "[Bild] After Chelsea raised the loan fee from €15m to €16.5m, Nicolas Jackson in return waived part of the payment due to him in order to facilitate the negotiations and so Bayern don't end up having to pay more",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8y1gi/bild_after_chelsea_raised_the_loan_fee_from_15m/",
+      "score": 499,
+      "comments": 76,
+      "post_id": "t3_1n8y1gi",
+      "post_type": "link",
+      "domain": "bild.de",
+      "author": "Wakanda-shit-is-that",
+      "author_id": "t2_iyc6whns",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-05T06:41:55.853000+0000",
+      "content_href": "https://www.bild.de/sport/fussball/fc-bayern-trick-beim-deal-von-nicolas-jackson-enthuellt-68b6aab38c33b226bcaefdd2",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/FxT-R64vxJjYgOc8I0IQ3uRROvgw2RqOjEl_k3xVGUg.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=5c4191d006c57285c244dabfedb78c00614baf84",
+      "is_promoted": false
+    },
+    {
+      "title": "Drama in Tanzania as the game was temporary stopped during the City FC Abuja vs JKU FC match when bees flew over the pitch in the 77th minute",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8lrgh/drama_in_tanzania_as_the_game_was_temporary/",
+      "score": 2192,
+      "comments": 109,
+      "post_id": "t3_1n8lrgh",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Amu_1310",
+      "author_id": "t2_5p5s6o3e",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-04T20:48:31.055000+0000",
+      "content_href": "https://v.redd.it/6yaoncy4n7nf1",
+      "content_preview": "",
+      "flair": [
+        "Media"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/drama-in-tanzania-as-the-game-was-temporary-stopped-during-v0-eTAxa3B6eDRuN25mMXBxSek67KfZgODogm6QAATFhPBJ0cThU4pnTri7DSMf.png?width=640&crop=smart&format=pjpg&auto=webp&s=5e0478ea8e53d4a46b02a72a55d19f63233d6397",
+      "is_promoted": false
+    },
+    {
+      "title": "[CNN] Frank llett, a Manchester United fan, vowed not to cut his hair until Man United wins 5 matches in a row. Frank's last haircut was on October 5, 2024. It's been 333 days since then.",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n7acf2/cnn_frank_llett_a_manchester_united_fan_vowed_not/",
+      "score": 11456,
+      "comments": 443,
+      "post_id": "t3_1n7acf2",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Wakanda-shit-is-that",
+      "author_id": "t2_iyc6whns",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-03T09:39:56.427000+0000",
+      "content_href": "https://v.redd.it/o31dlos17xmf1",
+      "content_preview": "",
+      "flair": [
+        "Media"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/cnn-frank-llett-a-manchester-united-fan-vowed-not-to-cut-v0-djVlb2h0ajE3eG1mMcM0GsbwcMqvBCYSz5KYqP8Bmp1wYuqfHSf3ygEO7Hdl.png?width=640&crop=smart&format=pjpg&auto=webp&s=478bb67fc8a61cb1fb37efd91ce5e1592c286d68",
+      "is_promoted": false
+    },
+    {
+      "title": "We know Reddit can get spicy, but just like 𝗗𝗼𝗿𝗶𝘁𝗼𝘀 𝗚𝗼𝗹𝗱𝗲𝗻 𝗦𝗿𝗶𝗿𝗮𝗰𝗵𝗮, we hold back before it gets too spicy. Drop your 𝗦𝗽𝗶𝗰𝘆…𝗕𝘂𝘁 𝗡𝗼𝘁 𝗧𝗼𝗼 𝗦𝗽𝗶𝗰𝘆 stories in the comments below and we’ll award those with the most flavor. And keep it SFW…this is an ad afterall.",
+      "permalink": "https://www.reddit.com/user/doritos/comments/1mpczvo/we_know_reddit_can_get_spicy_but_just_like/",
+      "score": 0,
+      "comments": 115,
+      "post_id": "t3_1mpczvo",
+      "post_type": "image",
+      "domain": "doritos.com",
+      "author": "doritos",
+      "author_id": "t2_49nmxafd",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-13T18:48:37.768000+0000",
+      "content_href": "https://www.doritos.com/where-to-buy",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_23sqq3/styles/profileIcon_sdfhcswa4mhf1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=53eb100cd8ad5525f2640ce58a1b5445167500fb",
+      "is_promoted": true
+    },
+    {
+      "title": "Michael Owen: “We [England] win youth competitions. We beat Germany/Portugal then these guys go back & play 50 games for Leverkusen. Harvey Elliott is never going to play ahead of Salah. These German players are now 22 & we’re buying them for £100mil. Our players were better than them 3 years ago!”",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8gu63/michael_owen_we_england_win_youth_competitions_we/",
+      "score": 3577,
+      "comments": 620,
+      "post_id": "t3_1n8gu63",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Upstairs_Cup9831",
+      "author_id": "t2_mxtwxowne",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-04T17:40:08.613000+0000",
+      "content_href": "https://v.redd.it/ltx5m7ulo6nf1",
+      "content_preview": "",
+      "flair": [
+        "Media"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_9t6sbe/styles/profileIcon_6uwc5c4mosse1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5994c5b655aab64553909518251a5ef02ecd57f0",
+      "is_promoted": false
+    },
+    {
+      "title": "João Pedro: \"Estêvão is shy. It’s hard for him to adapt. I push him to ask for his breakfast in English. Training is too long for him & feels tired before gym. I don’t need the gym, but I go with him. This is very important for him. He knows how physical the Premier League is. Me & Andrey push him\"",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8ampz/joão_pedro_estêvão_is_shy_its_hard_for_him_to/",
+      "score": 4401,
+      "comments": 223,
+      "post_id": "t3_1n8ampz",
+      "post_type": "link",
+      "domain": "standard.co.uk",
+      "author": "landofphi",
+      "author_id": "t2_24o760xa",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-04T13:48:48.600000+0000",
+      "content_href": "https://www.standard.co.uk/sport/football/chelsea-fc-joao-pedro-exclusive-interview-b1245926.html",
+      "content_preview": "",
+      "flair": [
+        "Quotes"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/GZbAMhhCV9B_Qd3ZDxbPBVlJmY-L4lMVm7Fu13ALM_8.jpeg?width=140&height=140&crop=140:140,smart&auto=webp&s=9dd383ec899c578c1456008b8d51aa3577737813",
+      "is_promoted": false
+    },
+    {
+      "title": "From ticket pricing to weather concerns, US must address issues ahead of 2026 FIFA World Cup",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n91499/from_ticket_pricing_to_weather_concerns_us_must/",
+      "score": 5,
+      "comments": 9,
+      "post_id": "t3_1n91499",
+      "post_type": "link",
+      "domain": "cronkitenews.azpbs.org",
+      "author": "zsreport",
+      "author_id": "t2_avobu",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-05T10:01:48.715000+0000",
+      "content_href": "https://cronkitenews.azpbs.org/2025/09/04/fifa-world-cup-2026-facing-concerns-ticket-pricing-field-conditions/",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/BojN4An_e1e4PQIwE1_45yHXLYNfecGcNHmEEJvmNpU.jpeg?width=140&height=87&crop=140:87,smart&auto=webp&s=33079f2ebdfcd5882c6c6465b9d3997417897a32",
+      "is_promoted": false
+    },
+    {
+      "title": "Sporting president Varandas: “I have very fond memories of Gyökeres’ and Harder’s agents. €90M in transfers and €0 in agent commissions.”",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8fody/sporting_president_varandas_i_have_very_fond/",
+      "score": 2072,
+      "comments": 86,
+      "post_id": "t3_1n8fody",
+      "post_type": "link",
+      "domain": "abola.pt",
+      "author": "RasputinsRustyShovel",
+      "author_id": "t2_ddirup4bl",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-04T16:56:25.301000+0000",
+      "content_href": "https://www.abola.pt/video/frederico-varandas-nunca-conseguimos-ser-os-campeoes-do-mercado-2025090320193449408",
+      "content_preview": "",
+      "flair": [
+        "Quotes"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Messi's Backheel assist to Suarez",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1msfgvf/messis_backheel_assist_to_suarez/",
+      "score": 14145,
+      "comments": 347,
+      "post_id": "t3_1msfgvf",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Fruit_salad1",
+      "author_id": "t2_2f4irz1z",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-08-17T02:43:34.815000+0000",
+      "content_href": "https://v.redd.it/xshsxi3athjf1",
+      "content_preview": "",
+      "flair": [
+        "Media"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/messis-backheel-assist-to-suarez-v0-dngwMDBtNmF0aGpmMYxzcrvE6cmdQi1eEW0d_cZ2-61eedWdpbu4iAqV44wV.png?width=640&crop=smart&format=pjpg&auto=webp&s=56b33c0123fdd1157c0b30826a3726f65f89e030",
+      "is_promoted": false
+    },
+    {
+      "title": "Netherlands 1 - [1] Poland - M. Cash 80'",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8l6qj/netherlands_1_1_poland_m_cash_80/",
+      "score": 1007,
+      "comments": 146,
+      "post_id": "t3_1n8l6qj",
+      "post_type": "link",
+      "domain": "streamin.one",
+      "author": "Cute_Office277",
+      "author_id": "t2_1uhsu8flkh",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-04T20:26:20.006000+0000",
+      "content_href": "https://streamin.one/v/87xgosf8",
+      "content_preview": "",
+      "flair": [
+        "Great Goal"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Colombia squad after qualifying for the 2026 World Cup !",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n9111l/colombia_squad_after_qualifying_for_the_2026/",
+      "score": 23,
+      "comments": 4,
+      "post_id": "t3_1n9111l",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Shroft",
+      "author_id": "t2_kx4mp510",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-05T09:56:17.828000+0000",
+      "content_href": "https://v.redd.it/kwpvzx4ujbnf1",
+      "content_preview": "",
+      "flair": [
+        "Media"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/colombia-squad-after-qualifying-for-the-2026-world-cup-v0-N2V6NThsN3VqYm5mMc7FgZ8LphdgGPPlOT4oWdexWH7Jj4M_y37tWXsHZjfo.png?width=640&crop=smart&format=pjpg&auto=webp&s=ab27ed48d0568771f7c91e3b11a3663f6830374d",
+      "is_promoted": false
+    },
+    {
+      "title": "Philly your eggs, pasta, and potatoes? Hellooo, creaminess.",
+      "permalink": "https://www.reddit.com/user/PhillyCreamCheese/comments/1jumyoh/philly_your_eggs_pasta_and_potatoes_hellooo/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1jumyoh",
+      "post_type": "gallery",
+      "domain": "kraftheinz.com",
+      "author": "PhillyCreamCheese",
+      "author_id": "t2_po3farud",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-04-08T19:58:25.695000+0000",
+      "content_href": "https://www.kraftheinz.com/philadelphia?utm_medium=paidsocial&utm_source=reddit&utm_campaign={{CAMPAIGN_ID}}&utm_adgroup={{ADGROUP_ID}}&utm_content={{AD_ID}}",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6nruuu/styles/profileIcon_yb7yu8dp2aie1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=bea490157b62e9b0b8078da2f3e44c72d553615b",
+      "is_promoted": true
+    },
+    {
+      "title": "Match Thread: Australia vs New Zealand",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n90y0h/match_thread_australia_vs_new_zealand/",
+      "score": 4,
+      "comments": 2,
+      "post_id": "t3_1n90y0h",
+      "post_type": "text",
+      "domain": "self.soccer",
+      "author": "MatchThreadder",
+      "author_id": "t2_fujeo",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-05T09:50:49.117000+0000",
+      "content_href": "https://www.reddit.com/r/soccer/comments/1n90y0h/match_thread_australia_vs_new_zealand/",
+      "content_preview": "35': Australia0-0New ZealandVenue:GIO StadiumAuto-refreshing reddit comments linkLINE-UPSAustraliaPaul Izzo, Milos Degenek, Cameron Burgess, Samuel Silvera, Jordan Bos, Alessandro Circati, Patrick Yazbek, Ajdin Hrustic, Connor Metcalfe, Martin Boyle, Ryan Teague.Subs:Nicolas Milanovic, Maximilien Balard, Aiden O'Neill, Thomas Glover, Nestory Irankunda, Lewis Miller, Kye Rowles, Hayden Matthews, Mohamed Toure, Joe Gauci, Adrian Segecic, Jack Iredale.____________________________New ZealandMax Crocombe, Michael Boxall, Tyler Bindon, Francis DeVries, Tim Payne, Joe Bell, Sarpreet Singh, Ryan Thomas, Chris Wood, Callum McCowatt, Elijah Just.Subs:Callan Elliot, Oliver Sail, Alex Rufer, Henry Gray, Finn Surman, Kosta Barbarouses, Luke Brooke-Smith, Jesse Randall, Logan Rogerson, Ben Old, James McGarry.MATCH EVENTS|viaESPN32'Francis de Vries (New Zealand) is shown the yellow card for a bad foul.Don't see a thread for a match you're watching?Click hereto learn how to request a match thread from this bot.",
+      "flair": [
+        "Match Thread"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Non-PL Daily Discussion",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n905ib/nonpl_daily_discussion/",
+      "score": 6,
+      "comments": 2,
+      "post_id": "t3_1n905ib",
+      "post_type": "text",
+      "domain": "self.soccer",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-05T09:01:24.687000+0000",
+      "content_href": "https://www.reddit.com/r/soccer/comments/1n905ib/nonpl_daily_discussion/",
+      "content_preview": "A place to discuss everything except the English Premier League.",
+      "flair": [
+        "🌍🌎 World Football"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "Free Talk Friday",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n905bk/free_talk_friday/",
+      "score": 9,
+      "comments": 329,
+      "post_id": "t3_1n905bk",
+      "post_type": "text",
+      "domain": "self.soccer",
+      "author": "2soccer2bot",
+      "author_id": "t2_2glav0rp",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-05T09:01:06.228000+0000",
+      "content_href": "https://www.reddit.com/r/soccer/comments/1n905bk/free_talk_friday/",
+      "content_preview": "",
+      "flair": [
+        "Free Talk"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_q8lx6/styles/profileIcon_tzrnrqtlp4ua1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=0e6607b8af1e95ca2564a3ef35831c5ee41d6777",
+      "is_promoted": false
+    },
+    {
+      "title": "Thirteen-year-old goalkeeper beaten by opponent's father during match, receives one-year suspension from sports judge. “He engaged in violent and unsportsmanlike conduct, starting a fight and hitting an opposing player lying on the ground with his hands and fists on the side and back.”",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8jf5z/thirteenyearold_goalkeeper_beaten_by_opponents/",
+      "score": 1182,
+      "comments": 287,
+      "post_id": "t3_1n8jf5z",
+      "post_type": "link",
+      "domain": "gazzetta.it",
+      "author": "areking",
+      "author_id": "t2_12umox",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-04T19:18:03.702000+0000",
+      "content_href": "https://www.gazzetta.it/Calcio/altri-campionati/04-09-2025/collegno-squalifica-per-il-portiere-picchiato-dal-papa-ha-innescato-la-rissa.shtml",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Slovakia [2] - 0 Germany - David Strelec 55'",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8kgus/slovakia_2_0_germany_david_strelec_55/",
+      "score": 956,
+      "comments": 156,
+      "post_id": "t3_1n8kgus",
+      "post_type": "link",
+      "domain": "streamff.link",
+      "author": "ayoefico",
+      "author_id": "t2_1j9arbnz6d",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-04T19:58:39.216000+0000",
+      "content_href": "https://streamff.link/v/4806b1af",
+      "content_preview": "",
+      "flair": [
+        "Great Goal"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Julian Nagelsmann \"I told Nick [Woltemade] he’s welcome to move to Bayern if he wants to. But he should also make it clear to them that with 25% playing time, things would be tight for him for the World Cup.”",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8im63/julian_nagelsmann_i_told_nick_woltemade_hes/",
+      "score": 1032,
+      "comments": 167,
+      "post_id": "t3_1n8im63",
+      "post_type": "link",
+      "domain": "bavarianfootballworks.com",
+      "author": "Woodstovia",
+      "author_id": "t2_w6nuy",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-04T18:47:30.594000+0000",
+      "content_href": "https://www.bavarianfootballworks.com/transfer-rumors/134952/julian-nagelsmann-bayern-munich-nick-woltemade-vfb-stuttgart-newcastle-united-transfer-germany",
+      "content_preview": "",
+      "flair": [
+        "Quotes"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "[BBC Sport] Lucas Paquetá is considering suing the Football Association after he was cleared of spot-fixing.",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8ah22/bbc_sport_lucas_paquetá_is_considering_suing_the/",
+      "score": 2513,
+      "comments": 132,
+      "post_id": "t3_1n8ah22",
+      "post_type": "link",
+      "domain": "bbc.co.uk",
+      "author": "RSK-Nik",
+      "author_id": "t2_1b8g521oi6",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-04T13:42:31.017000+0000",
+      "content_href": "https://www.bbc.co.uk/sport/football/articles/crmewl2x7pmo",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "[Highlight] Every Jaxson Dart touchdown in preseason",
+      "permalink": "https://www.reddit.com/user/nfl/comments/1n3each/highlight_every_jaxson_dart_touchdown_in_preseason/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n3each",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "nfl",
+      "author_id": "t2_30enjsvu",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-29T17:50:59.325000+0000",
+      "content_href": "https://v.redd.it/eb3846jmgylf1",
+      "content_preview": "Presented by the Disney+, Hulu, ESPN Bundle",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_vhkg7/styles/profileIcon_qyisviqjbeh71.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=c99ad50d9594a82e7f39cf7600fa1a0ecbf70d13",
+      "is_promoted": true
+    },
+    {
+      "title": "[@PresidenciaPy] Paraguay declares tomorrow a national holiday following their qualification to the 2026 World Cup",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8t87k/presidenciapy_paraguay_declares_tomorrow_a/",
+      "score": 1533,
+      "comments": 59,
+      "post_id": "t3_1n8t87k",
+      "post_type": "link",
+      "domain": "xcancel.com",
+      "author": "cautious-ad977",
+      "author_id": "t2_1hn18uh93z",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-05T02:17:26.442000+0000",
+      "content_href": "https://xcancel.com/PresidenciaPy/status/1963781531836563663?t=KblqRzRobVnY0NLk_5Q3HA&s=19",
+      "content_preview": "",
+      "flair": [
+        "Official Source"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Germany falls out of top 9 in FIFA Rankings following their defeat to Slovakia",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8nkkt/germany_falls_out_of_top_9_in_fifa_rankings/",
+      "score": 513,
+      "comments": 97,
+      "post_id": "t3_1n8nkkt",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "New_Satisfaction_286",
+      "author_id": "t2_7tzj7nsc",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-04T22:01:02.594000+0000",
+      "content_href": "https://i.redd.it/fhxmbxr808nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Stats"
+      ],
+      "thumbnail_url": "https://preview.redd.it/germany-falls-out-of-top-9-in-fifa-rankings-following-their-v0-fhxmbxr808nf1.jpeg?width=640&crop=smart&auto=webp&s=211598bf58e5da892ea2da7eac05d18a69a1080c",
+      "is_promoted": false
+    },
+    {
+      "title": "Mohamed Salah peaked out of his hotel room to talk to newlyweds who told him “(Making) the World Cup is the most important thing!”",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8loik/mohamed_salah_peaked_out_of_his_hotel_room_to/",
+      "score": 587,
+      "comments": 20,
+      "post_id": "t3_1n8loik",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Amu_1310",
+      "author_id": "t2_5p5s6o3e",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-04T20:45:18.682000+0000",
+      "content_href": "https://v.redd.it/7b1ms7knm7nf1",
+      "content_preview": "",
+      "flair": [
+        "Media"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/mohamed-salah-peaked-out-of-his-hotel-room-to-talk-to-v0-YmIzcjE4a25tN25mMYe-i4AgyymYOHG02QP9JPD_MUROhFi7tbxlDVyw_kNv.png?width=640&crop=smart&format=pjpg&auto=webp&s=16f64d1893a215983c76e01b6f5d9dfeea7d1568",
+      "is_promoted": false
+    },
+    {
+      "title": "Achraf Hakimi, on his way to the Morocco national team camp, stopped in the middle of the road to play football with some Moroccan kids",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n6m8k6/achraf_hakimi_on_his_way_to_the_morocco_national/",
+      "score": 11212,
+      "comments": 295,
+      "post_id": "t3_1n6m8k6",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "landofphi",
+      "author_id": "t2_24o760xa",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-02T15:14:52.882000+0000",
+      "content_href": "https://v.redd.it/debzqmbwprmf1",
+      "content_preview": "",
+      "flair": [
+        "Media"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/achraf-hakimi-on-his-way-to-the-morocco-national-team-camp-v0-emZuamVsNXlwcm1mMYize_X8gFtVCfKoT0YthnxPWBJj5sP6Ux1ZzqzjneXP.png?format=pjpg&auto=webp&s=e6ce2ec08827235c9d9bd851a1ebb99f5bdc7e40",
+      "is_promoted": false
     },
     {
       "title": "Banner at the UEFA Super Cup final between PSG & Tottenham about Palestinians: \"Stop killing children. Stop killing civilians.\"",
       "permalink": "https://www.reddit.com/r/soccer/comments/1mpdgdz/banner_at_the_uefa_super_cup_final_between_psg/",
-      "score": 14038,
-      "comments": 623,
+      "score": 14047,
+      "comments": 622,
       "post_id": "t3_1mpdgdz",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -644,12 +1058,95 @@
       "flair": [
         "Media"
       ],
-      "thumbnail_url": "https://preview.redd.it/banner-at-the-uefa-super-cup-final-between-psg-tottenham-v0-sw9w96as4uif1.jpeg?width=640&crop=smart&auto=webp&s=5db9351013dbd3158de383ec5bd90a17636c5e87"
+      "thumbnail_url": "https://preview.redd.it/banner-at-the-uefa-super-cup-final-between-psg-tottenham-v0-sw9w96as4uif1.jpeg?width=640&crop=smart&auto=webp&s=5db9351013dbd3158de383ec5bd90a17636c5e87",
+      "is_promoted": false
+    },
+    {
+      "title": "Cucurella \"I think the distribution of money in England is more even, and that evens out the league. Sunderland have invested €200m, and Crystal Palace have signed two of the best in La Liga. That's something they should fix, because La Liga is falling behind PL, that's driving players to England.\"",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n85tmi/cucurella_i_think_the_distribution_of_money_in/",
+      "score": 3703,
+      "comments": 815,
+      "post_id": "t3_1n85tmi",
+      "post_type": "link",
+      "domain": "as.com",
+      "author": "kibme37",
+      "author_id": "t2_75nbo18",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-04T09:49:45.022000+0000",
+      "content_href": "https://as.com/futbol/seleccion/la-mano-ante-alemania-en-la-eurocopa-no-fue-aposta-n/",
+      "content_preview": "",
+      "flair": [
+        "Quotes"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Ruben Amorim playing around with his tactics board",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n1trgi/ruben_amorim_playing_around_with_his_tactics_board/",
+      "score": 13813,
+      "comments": 1212,
+      "post_id": "t3_1n1trgi",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "TheBlueTango",
+      "author_id": "t2_12z35d",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-08-27T21:29:47.118000+0000",
+      "content_href": "https://v.redd.it/wgow2rddrmlf1",
+      "content_preview": "",
+      "flair": [
+        "Media"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8yh1j/styles/profileIcon_i8hkp1ochs0a1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=45586ce807b149569c3c0eba3d6480771f45ee13",
+      "is_promoted": false
+    },
+    {
+      "title": "Join the millions, like Maria, who have taken Ozempic® and ask a healthcare professional about Ozempic®.",
+      "permalink": "https://www.reddit.com/user/Ozempic_semaglutide/comments/1ixzkgq/join_the_millions_like_maria_who_have_taken/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1ixzkgq",
+      "post_type": "video",
+      "domain": "ozempic.com",
+      "author": "Ozempic_semaglutide",
+      "author_id": "t2_ejzd9hys",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-02-25T16:50:04.557000+0000",
+      "content_href": "https://v.redd.it/tyypz2kvv4le1",
+      "content_preview": "See the following links for Boxed Warning:Medication Guide&Safety Information",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6e7jed/styles/profileIcon_w6gznpa6csx91.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=ec144fdbad76cabe3e7b04181ee5049af5af6845",
+      "is_promoted": true
+    },
+    {
+      "title": "Luis Suarez spits at a Seattle Sounders staff member",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n5cy6k/luis_suarez_spits_at_a_seattle_sounders_staff/",
+      "score": 10642,
+      "comments": 1263,
+      "post_id": "t3_1n5cy6k",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Delmer9713",
+      "author_id": "t2_12c3it22",
+      "subreddit_id": "t5_2qi58",
+      "subreddit": "r/soccer",
+      "created_ts": "2025-09-01T02:28:19.900000+0000",
+      "content_href": "https://v.redd.it/rvuob0a9sgmf1",
+      "content_preview": "",
+      "flair": [
+        "Media"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
       "title": "Wolves tifo for their Player Diogo Jota",
       "permalink": "https://www.reddit.com/r/soccer/comments/1ms0alb/wolves_tifo_for_their_player_diogo_jota/",
-      "score": 13319,
+      "score": 13322,
       "comments": 99,
       "post_id": "t3_1ms0alb",
       "post_type": "image",
@@ -664,132 +1161,13 @@
       "flair": [
         "Media"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_2lildu/styles/profileIcon_xms6go3jch181.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1af68fc39f307d9a200a06c9a36a056de3a9b176"
-    },
-    {
-      "title": "[SEG] Erik ten Hag’s farewell statement",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n5v4pw/seg_erik_ten_hags_farewell_statement/",
-      "score": 2508,
-      "comments": 421,
-      "post_id": "t3_1n5v4pw",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "JaysonDeflatum",
-      "author_id": "t2_9szxzhkcg",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-01T17:33:31.349000+0000",
-      "content_href": "https://i.redd.it/crpr0w2s9lmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Media"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_89v6vh/styles/profileIcon_j24l1fukrj8d1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=026260029776b049949cfbf9d3c30919e0076d59"
-    },
-    {
-      "title": "[Fabrizio Romano] Marc Guehi-Liverpool deal has COLLAPSED. Despite medical done and deal sheet submitted, Crystal Palace don’t approve the move following Igor deal off. Guehi stays at #CPFC.",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n5xmgd/fabrizio_romano_marc_guehiliverpool_deal_has/",
-      "score": 1604,
-      "comments": 338,
-      "post_id": "t3_1n5xmgd",
-      "post_type": "link",
-      "domain": "bsky.app",
-      "author": "yemoru",
-      "author_id": "t2_9oep906l",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-01T19:05:11.483000+0000",
-      "content_href": "https://bsky.app/profile/fabrizioromano.yopro20.com/post/3lxsb4tdzb22n",
-      "content_preview": "",
-      "flair": [
-        "Transfers"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/spuQMvmwqc7-aWcJR9YkhbSy08Dgac-U5aTI0pubXjQ.jpeg?width=140&height=140&crop=140:140,smart&auto=webp&s=b16e9c92841c3a159b7c704e85a9ed4736fe6b4d"
-    },
-    {
-      "title": "Zabarnyi on playing with Safonov at PSG \"Russians are aggressors who are trying in vain to destroy the freedom and independence of Ukraine. I have no personal relations with any Russians. I have to interact with him on a professional level in training and I will fulfill my obligations to the club.\"",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n6f2ko/zabarnyi_on_playing_with_safonov_at_psg_russians/",
-      "score": 139,
-      "comments": 85,
-      "post_id": "t3_1n6f2ko",
-      "post_type": "link",
-      "domain": "lequipe.fr",
-      "author": "kibme37",
-      "author_id": "t2_75nbo18",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-02T09:40:06.888000+0000",
-      "content_href": "https://www.lequipe.fr/Football/Actualites/-je-remplirai-mes-obligations-envers-le-club-l-ukrainien-zabarnyi-s-exprime-pour-la-premiere-fois-sur-sa-cohabitation-avec-le-russe-safonov-au-psg/1589375",
-      "content_preview": "",
-      "flair": [
-        "Quotes"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "Newcastle United 2 - [3] Liverpool - R. Ngumoha 90+9'",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n02jpe/newcastle_united_2_3_liverpool_r_ngumoha_909/",
-      "score": 11053,
-      "comments": 1645,
-      "post_id": "t3_1n02jpe",
-      "post_type": "link",
-      "domain": "streamff.link",
-      "author": "gbogaz",
-      "author_id": "t2_1pcyqxb9br",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-08-25T21:01:00.243000+0000",
-      "content_href": "https://streamff.link/v/220c2fce",
-      "content_preview": "",
-      "flair": [
-        "Media"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "Spurs fan and a Newcastle fan caught in a tangle",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1mghs6u/spurs_fan_and_a_newcastle_fan_caught_in_a_tangle/",
-      "score": 12610,
-      "comments": 206,
-      "post_id": "t3_1mghs6u",
-      "post_type": "crosspost",
-      "domain": "v.redd.it",
-      "author": "Nard_Dogs",
-      "author_id": "t2_7owzvgy",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-08-03T12:15:52.992000+0000",
-      "content_href": "/r/coys/comments/1mghirq/spurs_fan_and_a_newcastle_fan_caught_in_a_tangle/",
-      "content_preview": "",
-      "flair": [
-        "Media"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/spurs-fan-and-a-newcastle-fan-caught-in-a-tangle-v0-amduNmUwdjRvc2dmMVoNuuQ2mYvoQ6BPrd2d3Ns7dbH9Q-EEOS7j4yl_3kmT.png?width=640&crop=smart&format=pjpg&auto=webp&s=167edfd7c2876e002e59a74542326292265b528d"
-    },
-    {
-      "title": "Alexander Isak on joining Liverpool: \"I want to create history. I want to win trophies... I want to win everything.\"",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n5zyqj/alexander_isak_on_joining_liverpool_i_want_to/",
-      "score": 1146,
-      "comments": 531,
-      "post_id": "t3_1n5zyqj",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "Goosedukee",
-      "author_id": "t2_r6bxmrfbe",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-01T20:35:21.398000+0000",
-      "content_href": "https://www.youtube.com/watch?v=UVXYl-kSLi8&t=54s",
-      "content_preview": "",
-      "flair": [
-        "Media"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_agu1i2/styles/profileIcon_64nul8ti813d1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=abbad577071b7a75ea51f4d871f2ada46513be5e"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2lildu/styles/profileIcon_xms6go3jch181.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1af68fc39f307d9a200a06c9a36a056de3a9b176",
+      "is_promoted": false
     },
     {
       "title": "FC Dallas 0-[1] LAFC - Son Heung-min free kick 6'",
       "permalink": "https://www.reddit.com/r/soccer/comments/1myi2tb/fc_dallas_01_lafc_son_heungmin_free_kick_6/",
-      "score": 12481,
+      "score": 12483,
       "comments": 259,
       "post_id": "t3_1myi2tb",
       "post_type": "video",
@@ -804,32 +1182,34 @@
       "flair": [
         "Great Goal"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "Watzke: \"Saudi money was start-up financing for FIFA CWC. As long as companies listed on DAX [Germany's stock index] involve the Saudis in their capital increases, we shouldn't paint the world as more beautiful than it actually is. Our industry is only too happy to accept money from the Gulf States\"",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n64u3i/watzke_saudi_money_was_startup_financing_for_fifa/",
-      "score": 233,
-      "comments": 60,
-      "post_id": "t3_1n64u3i",
+      "title": "UEFA's refereeing advisors visited Atletico Madrid to explain new rules for this season. Simeone asked them why they were explaining double touch rule without showing a video of Julian's penalty last season. When they refused to review that play, Simeone got fed up and left the room immediately.",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n8ba8k/uefas_refereeing_advisors_visited_atletico_madrid/",
+      "score": 1397,
+      "comments": 85,
+      "post_id": "t3_1n8ba8k",
       "post_type": "link",
-      "domain": "fr.de",
-      "author": "DavidRolands",
-      "author_id": "t2_bpeg94qc",
+      "domain": "as.com",
+      "author": "kibme37",
+      "author_id": "t2_75nbo18",
       "subreddit_id": "t5_2qi58",
       "subreddit": "r/soccer",
-      "created_ts": "2025-09-02T00:02:44.500000+0000",
-      "content_href": "https://www.fr.de/eintracht-frankfurt/hans-joachim-watzke-warnt-im-interview-ohne-gehaltsobergrenze-laeuft-alles-noch-mehr-aus-dem-ruder-93910906.html",
+      "created_ts": "2025-09-04T14:12:13.539000+0000",
+      "content_href": "https://as.com/futbol/primera/simeone-se-planta-ante-la-uefa-y-velasco-carballo-siento-verguenza-n/",
       "content_preview": "",
       "flair": [
-        "Quotes"
+        "News"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/9b4J29DWO3ZZJKg4NECVy0HhloSvQrB0oq8ciU5xf3I.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=e4894dcac7d9119a03c4352c82a65a2f36345d2b"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
       "title": "[Adam Crafton] Chelsea & the club’s players have decided to give an equal portion of club’s $15.5m Club World Cup bonus fund (around $500k per player) to family of Diogo Jota and Andre Silva following tragic death of the two brothers this summer.",
       "permalink": "https://www.reddit.com/r/soccer/comments/1mptrag/adam_crafton_chelsea_the_clubs_players_have/",
-      "score": 11989,
+      "score": 11993,
       "comments": 826,
       "post_id": "t3_1mptrag",
       "post_type": "link",
@@ -844,168 +1224,30 @@
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_d06cp/styles/profileIcon_3soh125ni6ic1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=48e434cef6458ba4c444c1ae8c733319b8d94e99"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_d06cp/styles/profileIcon_3soh125ni6ic1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=48e434cef6458ba4c444c1ae8c733319b8d94e99",
+      "is_promoted": false
     },
     {
-      "title": "Erik Ten Hag's sacking after just 2 Bundesliga matchdays is the fastest in Bundesliga history",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n5l5v7/erik_ten_hags_sacking_after_just_2_bundesliga/",
-      "score": 7837,
-      "comments": 361,
-      "post_id": "t3_1n5l5v7",
+      "title": "A friend, saved as Lucas Paqueta Gaming, said in a WhatsApp group that a certain Brazilian player would get booked. It was posted in an online gaming group who all played Counterstrike, and it was joked that the player would receive a ban to play the game. The Commission accepted that it was a joke.",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1n84jw3/a_friend_saved_as_lucas_paqueta_gaming_said_in_a/",
+      "score": 3768,
+      "comments": 215,
+      "post_id": "t3_1n84jw3",
       "post_type": "link",
-      "domain": "sport.sky.de",
-      "author": "Task_Force-191",
-      "author_id": "t2_7wr5prh5",
+      "domain": "nytimes.com",
+      "author": "kibme37",
+      "author_id": "t2_75nbo18",
       "subreddit_id": "t5_2qi58",
       "subreddit": "r/soccer",
-      "created_ts": "2025-09-01T10:30:02.823000+0000",
-      "content_href": "https://sport.sky.de/fussball/artikel/bayer-leverkusen-trennt-sich-von-trainer-erik-ten-hag/13422960/34836",
-      "content_preview": "",
-      "flair": [
-        "Stats"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/MvKbX5Xmtvk2UZC-dkYPTjiWzycukTnon-TEjc0Oe2I.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=c0f28cae6775c87b5d4e4d58bef0a7a68246301c"
-    },
-    {
-      "title": "Isak’s transfer saga began when Mitchell reneged on Staveley’s promise of a new contract. By the time Newcastle finally offered fresh terms, he refused and shut himself away. Many of his teammates were initially sympathetic towards his reasons for wanting to leave",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n6eov0/isaks_transfer_saga_began_when_mitchell_reneged/",
-      "score": 93,
-      "comments": 76,
-      "post_id": "t3_1n6eov0",
-      "post_type": "link",
-      "domain": "dailymail.co.uk",
-      "author": "Ripamon",
-      "author_id": "t2_fy0p4",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-02T09:15:11.264000+0000",
-      "content_href": "https://www.dailymail.co.uk/sport/football/article-15055661/Alexander-Isak-Liverpool-Newcastle.html",
+      "created_ts": "2025-09-04T08:28:21.781000+0000",
+      "content_href": "https://www.nytimes.com/athletic/6595846/2025/09/04/lucas-paqueta-explained-betting-case/",
       "content_preview": "",
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/S6_nOc5qf37KLkgtwPK266-BmVBpbkRSNe7qUOTLqnM.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=81fbc25a39ba3a6c6e7ae8f611f9f6697c6e49bb"
-    },
-    {
-      "title": "No handshake between Pep Guardiola and Fabian Hurzeler after the full-time whistle",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n4x2cy/no_handshake_between_pep_guardiola_and_fabian/",
-      "score": 11728,
-      "comments": 707,
-      "post_id": "t3_1n4x2cy",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "OptimusCloyster",
-      "author_id": "t2_a1f5140f5",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-08-31T15:05:05.789000+0000",
-      "content_href": "https://v.redd.it/c6csalkdedmf1",
-      "content_preview": "",
-      "flair": [
-        "Media"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_8al3mg/styles/profileIcon_sqfwhkk08e5c1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7a2f0992da7e58552d85d86d32f1a7a7a8742990"
-    },
-    {
-      "title": "[Fabrizio Romano]: EXCLUSIVE: Erik ten Hag has just been SACKED by Bayer Leverkusen. Decision made by the club’s hierarchy this morning and manager informed right now.",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n5kc0u/fabrizio_romano_exclusive_erik_ten_hag_has_just/",
-      "score": 9422,
-      "comments": 1112,
-      "post_id": "t3_1n5kc0u",
-      "post_type": "link",
-      "domain": "bsky.app",
-      "author": "TrenAt14",
-      "author_id": "t2_ewkyvxwyy",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-01T09:39:47.169000+0000",
-      "content_href": "https://bsky.app/profile/fabrizioromano.yopro20.com/post/3lxrcm3pbpl2n",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_8rtdjc/styles/profileIcon_fwhf21f7cy1d1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=54689a0b5f52c05992e2ca66ee9a9d6126a0c13e"
-    },
-    {
-      "title": "Como terminate Dele Alli's contract",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n5z5lt/como_terminate_dele_allis_contract/",
-      "score": 1057,
-      "comments": 173,
-      "post_id": "t3_1n5z5lt",
-      "post_type": "link",
-      "domain": "football-italia.net",
-      "author": "bigwallclimber",
-      "author_id": "t2_8hqk9",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-01T20:03:45.926000+0000",
-      "content_href": "https://football-italia.net/dele-alli-leaves-como-terminate-contract/",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/JEvfs6gJb1NV0xx1d22h3Cb059NzT2gKpVbpsOLYeHk.jpeg?width=140&height=94&crop=140:94,smart&auto=webp&s=0ac47d3b6a34263ad238901658a658a83632877b"
-    },
-    {
-      "title": "Mallorca's kid crying and saying \"puta\" after his team receives a second red card against Barcelona",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1mspmic/mallorcas_kid_crying_and_saying_puta_after_his/",
-      "score": 11764,
-      "comments": 295,
-      "post_id": "t3_1mspmic",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "mynamestartswithCa",
-      "author_id": "t2_ldwmu4b",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-08-17T12:29:11.350000+0000",
-      "content_href": "https://v.redd.it/w8pacwufpkjf1",
-      "content_preview": "",
-      "flair": [
-        "Media"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "AEK Athens sign Marko Grujić",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n6elzq/aek_athens_sign_marko_grujić/",
-      "score": 15,
-      "comments": 2,
-      "post_id": "t3_1n6elzq",
-      "post_type": "link",
-      "domain": "aekfc.gr",
-      "author": "halareous",
-      "author_id": "t2_e6qfk",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-02T09:09:54.535000+0000",
-      "content_href": "https://www.aekfc.gr/newsdetails/stin-aek-o-marko-gkrougits-133058.htm?lang=en&path=-1594747252",
-      "content_preview": "",
-      "flair": [
-        "Official Source"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "[Fabrizio Romano]: Liverpool agree deal to sign Marc Guehi from Crystal Palace, here we go! Deal in place for fee over £35m plus 10% sell-on clause included in the package. Guehi agreed personal terms with Liverpool one month ago, now all done. One more move by Richard Hughes.",
-      "permalink": "https://www.reddit.com/r/soccer/comments/1n5py0t/fabrizio_romano_liverpool_agree_deal_to_sign_marc/",
-      "score": 3025,
-      "comments": 774,
-      "post_id": "t3_1n5py0t",
-      "post_type": "link",
-      "domain": "bsky.app",
-      "author": "TrenAt14",
-      "author_id": "t2_ewkyvxwyy",
-      "subreddit_id": "t5_2qi58",
-      "subreddit": "r/soccer",
-      "created_ts": "2025-09-01T14:18:54.828000+0000",
-      "content_href": "https://bsky.app/profile/fabrizioromano.yopro20.com/post/3lxrs7yh5qc2y",
-      "content_preview": "",
-      "flair": [
-        "Transfers"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_8rtdjc/styles/profileIcon_fwhf21f7cy1d1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=54689a0b5f52c05992e2ca66ee9a9d6126a0c13e"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:05:18.160593"
+  "scraped_at": "2025-09-05T03:31:50.718737"
 }

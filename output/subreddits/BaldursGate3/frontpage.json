@@ -2,94 +2,168 @@
   "subreddit": "BaldursGate3",
   "url": "https://www.reddit.com/r/BaldursGate3",
   "meta": {
-    "title": "Baldur's Gate 3"
+    "title": "Baldur's Gate 3",
+    "description": "A community all about Baldur's Gate III, the role-playing video game by Larian Studios. BG3 is the third main game in the Baldur's Gate series. Baldur's Gate III is based on a modified version of the Dungeons & Dragons 5th edition (D&D 5e) tabletop RPG ruleset.\n\nGather your party and venture forth!",
+    "subscribers": 3213666,
+    "online_users": 568,
+    "created_timestamp": "2025-09-05T10:14:20.411000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "r/BaldursGate3 Rules",
+        "content": "Unacceptable behaviors include name-calling, taunting, baiting, flaming, etc. The intent is for everyone to act as civil adults. Everyone's perspective is unique. You don’t have to agree with them, but you also don’t have to argue or harass them about it. All submissions must be related to Baldur's Gate 3. Comments should be relevant to the topic of the thread. Content that is NSFW or contains spoilers must be tagged/hidden appropriately. Additionally, titles should be free of profanity, spoilers, and other NSFW language. Repeated offenses could result in a ban from the sub. All fanart, screenshots, memes, and joke posts must have proper flair. Spamming is strictly prohibited. Any re-posts, low-effort posts, or posts that qualify as spam may be removed. Repeat offenders may be banned. Examples of low effort posts would be posting excessive screenshots and low effort memes Self-Promo Rules: Please follow Reddit's guidelines for self-promo content \"For every 1 time you post self-promotional content, 9 other posts (submissions or comments) should not contain self-promotional content.\" No Tav screenshots, Build/Multi posts, or LFG posts outside of their megathreads. Megathread Schedule: Tuesday - Tav Tuesdays (post your Tav screenshots here) Wednesday - Looking for Group Thursday - Build/Multiclass Help Friday - Monday: Post-Launch Feedback Talking about ways to pirate the game is not allowed. Also, sharing pirated material can result in a subreddit being banned or forced to shut down. As such doing either of these things will result in a ban from the subreddit. If you need to contact the moderators about an issue or permission to do a giveaway, please use modmail to get our attention rather than creating a post. It's likely if you do that, it'll be missed. Discussion and posts exclusively about 3rd party wikis will be removed. This DOES NOT mean that BG3 resources from other websites (guides, builds, etc.) can’t be shared here and discussed. This also DOES NOT affect anything concerning the Community Wiki. No AI generated content or discussion allowed All posts should be in English. Posts linking to non-English content are okay if they're subtitled or otherwise accessible to English speakers at mod discretion. (Non-English comments are allowed!) We don't allow posts or comments talking about purchasing steam accounts, or asking for people to purchase the game for you. Doing this will result in an immediate ban. This includes homophobic, racist, misogynistic, or any other mods that contain bigoted content or change the game in a bigoted way. This includes posts denouncing such mods, and posts linking to sites to download them. There is zero tolerance for breaking this rule. Cosplay posts must be submitted on Sundays."
+      },
+      {
+        "title": "Community Projects",
+        "content": [
+          {
+            "text": "Character Builder/Planner",
+            "url": "https://baldursgate3.gamefractal.com"
+          },
+          {
+            "text": "Community Wiki",
+            "url": "https://bg3.wiki/wiki/Main_Page"
+          },
+          {
+            "text": "(Spoilers) Relevant Items Spreadsheet",
+            "url": "https://docs.google.com/spreadsheets/d/1hmY7kGPRHJjR0hjO-hVUeDef46lYowZjAHhWqR25AwE/edit#gid=1513761301"
+          },
+          {
+            "text": "(Spoilers) Item Index Cheat Sheet",
+            "url": "https://docs.google.com/spreadsheets/d/152UzjrGGHZWi_2fZ33mWdgQMRKzMMgV6iLfKVprvFJ8/edit#gid=1815348566"
+          },
+          {
+            "text": "Cayxx",
+            "url": "https://www.reddit.com/r/BaldursGate3/comments/16acy9l/bg3_cheat_sheet_for_items_in_each_act_spoilers/"
+          }
+        ]
+      },
+      {
+        "title": "Community Links",
+        "content": [
+          {
+            "text": "FAQ",
+            "url": "https://www.reddit.com/r/BaldursGate3/wiki/faq"
+          },
+          {
+            "text": "r/BG3Builds",
+            "url": "https://www.reddit.com/r/BG3Builds/"
+          },
+          {
+            "text": "Main Discord",
+            "url": "https://discord.gg/larianstudios"
+          },
+          {
+            "text": "Wiki Discord",
+            "url": "https://discord.com/invite/K6R89fSZuF"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/BaldursGate3/moderators/"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "What If...",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n6fc6q/what_if/",
+      "title": "Why did they make human a mechanically pointless option?",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n91btd/why_did_they_make_human_a_mechanically_pointless/",
       "score": 0,
-      "comments": 0,
-      "post_id": "t3_1n6fc6q",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "ORafaelSantos98",
-      "author_id": "t2_1w2v48of75",
+      "comments": 9,
+      "post_id": "t3_1n91btd",
+      "post_type": "text",
+      "domain": "self.BaldursGate3",
+      "author": "Khenghis_Ghan",
+      "author_id": "t2_932kv",
       "subreddit_id": "t5_12967t",
       "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-02T09:57:10.817000+0000",
-      "content_href": "https://i.redd.it/mvf5kxd95qmf1.jpeg",
-      "content_preview": "",
+      "created_ts": "2025-09-05T10:14:20.411000+0000",
+      "content_href": "https://www.reddit.com/r/BaldursGate3/comments/1n91btd/why_did_they_make_human_a_mechanically_pointless/",
+      "content_preview": "falseWhy did they make human a mechanically pointless option?New player but I've played DnD for decades, I'm like 20 hours in, clearly Larian has a different vision for humans than WotC with DnD. AFAICT there is no gameplay reason to pick a human? Literally every other race is better except for maybe gnomes. Other races get resistances, proficiencies, cantrips, or unique abilities like the halfings/githyanki/half-orcs which seem genuinely very useful - I mean that halfling ability is unbelievably good, if you math it out it ends up bumping the average die roll from 10.5 -> ~11 on the most important rolls (attacks, saves, skill checks). Most of the races or subraces get a free proficiency, so humans don't have any extra skills (I guess they get to pick the skill they want? It's something). The weapon and armor proficiencies don't matter, if you're using a halberd or glaive you're probably some sort of fighter and you were proficient from your class, a wizard or sorceror might use the light armor but has no need for those weapons. The only real potential draw is the carry capacity boost, but, an hour in I realized even that's 100% irrelevant because I can freely send everything back to a camp chest directly, doesn't even need to touch my inv before it's routed to the camp, and then I can load up a big stronk fighter with my drek when I go to a merchant, it's literally 100% irrelevant.Why did Larian do this? If nothing else there should be an achievement like Simply Human for handicapping yourself with a useless decision and making it to the end of the game. I like the decision to not do attribute bonuses for race, and I could understand not wanting humans to have the starting feat in 5E because that's strong and why most parties ends up with some kind of martial human, but, they really are just pointless in BG3, why not give humansTWOskills to choose? Or a limited selection of feats from the ones nobody ever takes, Dungeon Delver, Actor, Resilient, Performer, Athlete, etc.",
       "flair": [
-        "General Discussion - [NO SPOILERS]"
+        "Character Build"
       ],
-      "thumbnail_url": "https://preview.redd.it/mvf5kxd95qmf1.jpeg?width=1080&crop=smart&blur=40&format=pjpg&auto=webp&s=0e52f320d04d436a000862e4da1cb63219c8f558"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "Larian replaced my melted Baldur’s Gate 3 vinyl <3 mi",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n1f5k3/larian_replaced_my_melted_baldurs_gate_3_vinyl_3/",
-      "score": 19384,
-      "comments": 362,
-      "post_id": "t3_1n1f5k3",
+      "title": "“Find a Cure”. My githyanki Tav cosplay",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n4qfkn/find_a_cure_my_githyanki_tav_cosplay/",
+      "score": 12217,
+      "comments": 149,
+      "post_id": "t3_1n4qfkn",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "Naoness",
-      "author_id": "t2_5g9u24tv",
+      "author": "Frau_Haku",
+      "author_id": "t2_2swmmeau",
       "subreddit_id": "t5_12967t",
       "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-08-27T12:04:48.003000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n1f5k3",
+      "created_ts": "2025-08-31T09:32:57.797000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n4qfkn",
       "content_preview": "",
       "flair": [
-        "General Discussion - [NO SPOILERS]"
+        "Cosplay"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_2cwn5s/styles/profileIcon_zw8mp8b2wrr91.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2ccc3f801f38fc00c0f6f87868c3178a73c77b6a"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_sxyue/styles/profileIcon_eyri86tltzcb1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6cdc1043602abb73fc459fe1b500ba16a33726bc",
+      "is_promoted": false
     },
     {
-      "title": "Viconia of BG2 wasn't ruined by Larian, I have evidences",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n6d6xk/viconia_of_bg2_wasnt_ruined_by_larian_i_have/",
-      "score": 95,
-      "comments": 22,
-      "post_id": "t3_1n6d6xk",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Majestic_Chapter2522",
-      "author_id": "t2_1ja9ugcpyn",
+      "title": "Who was she?",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8kxh2/who_was_she/",
+      "score": 648,
+      "comments": 26,
+      "post_id": "t3_1n8kxh2",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "christina_talks",
+      "author_id": "t2_11vcy6",
       "subreddit_id": "t5_12967t",
       "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-02T07:35:38.181000+0000",
-      "content_href": "https://i.redd.it/g2h4l6m0gpmf1.jpeg",
+      "created_ts": "2025-09-04T20:16:21.685000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8kxh2",
       "content_preview": "",
       "flair": [
-        "Act 3 - Spoilers"
+        "General Discussion - [SPOILERS]"
       ],
-      "thumbnail_url": "https://preview.redd.it/g2h4l6m0gpmf1.jpeg?width=1080&crop=smart&blur=40&format=pjpg&auto=webp&s=044ae4bb1482d828bd551cd7b448ffde5fb6290d"
+      "thumbnail_url": "https://preview.redd.it/lmccj0byg7nf1.png?width=320&crop=smart&blur=32.0&format=pjpg&auto=webp&s=9260caf412617d3b3955eb0c811050f6cd444ad2",
+      "is_promoted": false
     },
     {
-      "title": "I drew Karlach with crayons at the Chilis",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n63k27/i_drew_karlach_with_crayons_at_the_chilis/",
-      "score": 504,
-      "comments": 8,
-      "post_id": "t3_1n63k27",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "KingBoudica",
-      "author_id": "t2_1e5a74smh8",
+      "title": "Karlach model I painted for my wife’s birthday.",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8qw7i/karlach_model_i_painted_for_my_wifes_birthday/",
+      "score": 427,
+      "comments": 11,
+      "post_id": "t3_1n8qw7i",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "LordBroldamort",
+      "author_id": "t2_wxm3r",
       "subreddit_id": "t5_12967t",
       "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-01T23:04:08.846000+0000",
-      "content_href": "https://i.redd.it/1i2l2xjrwmmf1.jpeg",
+      "created_ts": "2025-09-05T00:26:24.994000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8qw7i",
       "content_preview": "",
       "flair": [
         "Artwork"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_d0xh3y/styles/profileIcon_x2ipc3y87a4e1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=aaff2eba7ffbc5c5ff84bb42461188a5a3ab6005"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
     },
     {
       "title": "Paladin my beloved",
       "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1mpzdp9/paladin_my_beloved/",
-      "score": 26591,
-      "comments": 673,
+      "score": 26623,
+      "comments": 674,
       "post_id": "t3_1mpzdp9",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -103,93 +177,117 @@
       "flair": [
         "Meme"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_rhn4w/styles/profileIcon_6lpwxmtd283e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f5320be7a958d758f580158a2c22ace06a08febc"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_rhn4w/styles/profileIcon_6lpwxmtd283e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f5320be7a958d758f580158a2c22ace06a08febc",
+      "is_promoted": false
     },
     {
-      "title": "Husband & I completed our co-op",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n6alc5/husband_i_completed_our_coop/",
-      "score": 127,
-      "comments": 14,
-      "post_id": "t3_1n6alc5",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "ErlinaVampiress",
-      "author_id": "t2_nyoa4i8m",
-      "subreddit_id": "t5_12967t",
-      "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-02T04:53:02.235000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n6alc5",
+      "title": "Experience the timeless Forgotten Realms, home to legendary D&D stories, by pre-ordering the Ultimate Bundle today!",
+      "permalink": "https://www.reddit.com/user/dndbeyond/comments/1mnpuqj/experience_the_timeless_forgotten_realms_home_to/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mnpuqj",
+      "post_type": "image",
+      "domain": "dndbeyond.com",
+      "author": "dndbeyond",
+      "author_id": "t2_1603lh",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-11T21:30:53.750000+0000",
+      "content_href": "https://marketplace.dndbeyond.com/BB-ForgottenRealms-25/CB47P6E01?utm_source=reddit&utm_medium=paid&utm_campaign=2025faerun&utm_content={{ADGROUP_NAME}}&utm_term={{AD_NAME}}",
       "content_preview": "",
-      "flair": [
-        "Playthrough / Highlight"
-      ],
-      "thumbnail_url": "https://preview.redd.it/ud4g4ne0nomf1.jpg?width=320&crop=smart&blur=32.0&format=pjpg&auto=webp&s=04a9a8735ac65d5ec5f54493ff2e7a5959acc00e"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_17f1tk/styles/profileIcon_lhrw5kt91en51.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=1ac7ac171cd3fb3fb4c030e6e547dfbb70aa39db",
+      "is_promoted": true
     },
     {
-      "title": "Totally fair when I use them",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n2e8lk/totally_fair_when_i_use_them/",
-      "score": 17245,
-      "comments": 518,
-      "post_id": "t3_1n2e8lk",
+      "title": "I want a buddy cop movie with these two",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8i922/i_want_a_buddy_cop_movie_with_these_two/",
+      "score": 756,
+      "comments": 25,
+      "post_id": "t3_1n8i922",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "ozangeo",
-      "author_id": "t2_2laocjl1",
+      "author": "Gay_Banana180",
+      "author_id": "t2_h356a608",
       "subreddit_id": "t5_12967t",
       "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-08-28T14:46:42.338000+0000",
-      "content_href": "https://i.redd.it/rhng604fvrlf1.png",
+      "created_ts": "2025-09-04T18:33:47.757000+0000",
+      "content_href": "https://i.redd.it/sb4xb2f8z6nf1.png",
       "content_preview": "",
       "flair": [
-        "Meme"
+        "Screenshot"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_rhn4w/styles/profileIcon_6lpwxmtd283e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f5320be7a958d758f580158a2c22ace06a08febc"
+      "thumbnail_url": "https://preview.redd.it/sb4xb2f8z6nf1.png?width=1080&crop=smart&blur=40&format=pjpg&auto=webp&s=fe64d9674b2cb94864ae219689bbd50817b13396",
+      "is_promoted": false
     },
     {
-      "title": "Behold, dog",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n5vpgh/behold_dog/",
-      "score": 947,
-      "comments": 45,
-      "post_id": "t3_1n5vpgh",
+      "title": "POV: you bought new PC and you can finally play BG",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n3zsg0/pov_you_bought_new_pc_and_you_can_finally_play_bg/",
+      "score": 10407,
+      "comments": 350,
+      "post_id": "t3_1n3zsg0",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "oxcore",
+      "author_id": "t2_tmise9k",
+      "subreddit_id": "t5_12967t",
+      "subreddit": "r/BaldursGate3",
+      "created_ts": "2025-08-30T11:58:16.561000+0000",
+      "content_href": "https://v.redd.it/bo3qhi45c5mf1",
+      "content_preview": "",
+      "flair": [
+        "Videos"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/pov-you-bought-new-pc-and-you-can-finally-play-bg-v0-b2I2eDJ2MDVjNW1mMfE_79FAP4rdjqinfofQaVkS_taZqUybtvIMqfN3mzfU.png?format=pjpg&auto=webp&s=71f7ee049b0d02e3a4adc068bfcc58d7d4efa8a7",
+      "is_promoted": false
+    },
+    {
+      "title": "New dwarf character just dropped.",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8ue13/new_dwarf_character_just_dropped/",
+      "score": 151,
+      "comments": 37,
+      "post_id": "t3_1n8ue13",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "uranusdestroyer69",
-      "author_id": "t2_5oliwm83",
+      "author": "SpookDaddy99",
+      "author_id": "t2_kqs8p6g5n",
       "subreddit_id": "t5_12967t",
       "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-01T17:54:37.868000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5vpgh",
+      "created_ts": "2025-09-05T03:14:24.887000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8ue13",
       "content_preview": "",
       "flair": [
-        "Playthrough / Highlight"
+        "Character Build"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     },
     {
-      "title": "Can you do the Hag from behind?",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n6fb1x/can_you_do_the_hag_from_behind/",
-      "score": 2,
-      "comments": 6,
-      "post_id": "t3_1n6fb1x",
+      "title": "Trust Astarion. He's hungry.",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n918ez/trust_astarion_hes_hungry/",
+      "score": 4,
+      "comments": 2,
+      "post_id": "t3_1n918ez",
       "post_type": "text",
       "domain": "self.BaldursGate3",
-      "author": "artmorte",
-      "author_id": "t2_ekg47qe",
+      "author": "TheWoollyGoat",
+      "author_id": "t2_5ztkd3d7",
       "subreddit_id": "t5_12967t",
       "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-02T09:55:13.685000+0000",
-      "content_href": "https://www.reddit.com/r/BaldursGate3/comments/1n6fb1x/can_you_do_the_hag_from_behind/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T10:08:46.482000+0000",
+      "content_href": "https://www.reddit.com/r/BaldursGate3/comments/1n918ez/trust_astarion_hes_hungry/",
+      "content_preview": "falseTrust Astarion. He's hungry.Do it. Let him have a nibble. He only wants a taste.There's an item you can get the moment you walk into the Grove. It's under a \"flat rock\" by the depressed bear in the Druid's Grove called \"Amulet of Silvanus.\"Let Astarion have his late night snack. You can use that Amulet in the morning to remove the \"Bloodless\" penalty and he will be \"Happy\" all day.Otherwise, you should have put a stake in his heart.",
       "flair": [
         "Act 1 - Spoilers"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "Do you guys remember when this was a debate?",
       "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1mrsnho/do_you_guys_remember_when_this_was_a_debate/",
-      "score": 26384,
-      "comments": 1522,
+      "score": 26417,
+      "comments": 1521,
       "post_id": "t3_1mrsnho",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -203,132 +301,158 @@
       "flair": [
         "Screenshot"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
-      "title": "GaleTav art",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n5zx2q/galetav_art/",
-      "score": 466,
-      "comments": 9,
-      "post_id": "t3_1n5zx2q",
+      "title": "What's your theory on what Strange Ox was up to?",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8gx73/whats_your_theory_on_what_strange_ox_was_up_to/",
+      "score": 848,
+      "comments": 144,
+      "post_id": "t3_1n8gx73",
+      "post_type": "text",
+      "domain": "self.BaldursGate3",
+      "author": "Blastoise_R_Us",
+      "author_id": "t2_ltnqjhh0",
+      "subreddit_id": "t5_12967t",
+      "subreddit": "r/BaldursGate3",
+      "created_ts": "2025-09-04T17:43:14.800000+0000",
+      "content_href": "https://www.reddit.com/r/BaldursGate3/comments/1n8gx73/whats_your_theory_on_what_strange_ox_was_up_to/",
+      "content_preview": "falseWhat's your theory on what Strange Ox was up to?I like to think he wanted in on the Murder Tribunal, but he doesn't get there until like 10 minutes after you've resolved that and left.",
+      "flair": [
+        "General Discussion - [SPOILERS]"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Some character attempts in Monster Hunter Wilds 😂",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n65e0v/some_character_attempts_in_monster_hunter_wilds/",
+      "score": 9274,
+      "comments": 150,
+      "post_id": "t3_1n65e0v",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "bemp00",
-      "author_id": "t2_mvj5k48jl",
+      "author": "Gothrius",
+      "author_id": "t2_vli7phrp",
       "subreddit_id": "t5_12967t",
       "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-01T20:33:35.723000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5zx2q",
+      "created_ts": "2025-09-02T00:29:00.473000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n65e0v",
       "content_preview": "",
       "flair": [
-        "Artwork"
+        "Screenshot"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_9su99a/styles/profileIcon_87c3bqtc0vrc1.PNG?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f5918aaaf3dde7b5d20bbda28c789601aa9ce8f1"
+      "thumbnail_url": "https://preview.redd.it/some-character-attempts-in-monster-hunter-wilds-v0-igjq2rhbbnmf1.png?width=640&crop=smart&auto=webp&s=1d83a693cd63ffb224da8757f35c607cf15c8f14",
+      "is_promoted": false
     },
     {
-      "title": "No achievement for developing 100% of illithid powers? :(",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1mzxvks/no_achievement_for_developing_100_of_illithid/",
-      "score": 12440,
-      "comments": 527,
-      "post_id": "t3_1mzxvks",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Tydeus2000",
-      "author_id": "t2_2lswb70o",
+      "title": "TIL that shopping Lenovo.com gets you great deals on business tech. Join Lenovo Pro to get free business perks with any size business and rewards for work. Business smarter with smarter tech. 😎👏​",
+      "permalink": "https://www.reddit.com/user/lenovo/comments/1m0868r/til_that_shopping_lenovocom_gets_you_great_deals/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1m0868r",
+      "post_type": "gallery",
+      "domain": "a2.adform.net",
+      "author": "lenovo",
+      "author_id": "t2_25usvnh7",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-15T04:16:24.429000+0000",
+      "content_href": "https://a2.adform.net/C/?bn=82024522",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_pceuh/styles/profileIcon_re50n8n463ob1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=d9c7c554bf0d8c69402093071554e2b95e774500",
+      "is_promoted": true
+    },
+    {
+      "title": "my emo Durge",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8pzt7/my_emo_durge/",
+      "score": 445,
+      "comments": 104,
+      "post_id": "t3_1n8pzt7",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Broad_Addition2294",
+      "author_id": "t2_1lw1gxhc6i",
       "subreddit_id": "t5_12967t",
       "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-08-25T18:04:10.897000+0000",
-      "content_href": "https://i.redd.it/kwhaluwkf7lf1.jpeg",
+      "created_ts": "2025-09-04T23:45:08.572000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8pzt7",
       "content_preview": "",
+      "flair": [
+        "Dark Urge"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_e0hvd9/styles/profileIcon_5kslnsod07nf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5bd62f1892bd4fea5f57d061ff599684f46525a6",
+      "is_promoted": false
+    },
+    {
+      "title": "Just bought the game, my intro has been a dumpster fire",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8fngm/just_bought_the_game_my_intro_has_been_a_dumpster/",
+      "score": 960,
+      "comments": 212,
+      "post_id": "t3_1n8fngm",
+      "post_type": "text",
+      "domain": "self.BaldursGate3",
+      "author": "__Migs__",
+      "author_id": "t2_60z3ebg0",
+      "subreddit_id": "t5_12967t",
+      "subreddit": "r/BaldursGate3",
+      "created_ts": "2025-09-04T16:55:28.459000+0000",
+      "content_href": "https://www.reddit.com/r/BaldursGate3/comments/1n8fngm/just_bought_the_game_my_intro_has_been_a_dumpster/",
+      "content_preview": "falseJust bought the game, my intro has been a dumpster fireI will stay away from this sub to avoid spoilers. But holy shit have my first couple of hours been insane and I can't wait to play more.I've never played DND or a quite similar game to this before. I've put in maybe 4hrs, 1 of which was just creating my character, I am overwhelmed.Theres been so much bloodshed I didn't intend. I really wanted my first play to be morally neutral/good.My party was just Shadowheart and Astarion. We made it to emerald groves and I got involved in the civil matter between druids and Tieflings... Seeing Kagha almost kill a child made me hate her instantly. And then Zevlor suggested we kill her and her followers wont know what to do... WRONG, I killed her, and when I left the cave she was in, there was bloodshed everywhere.. no druids left and few Tieflings. On top of that, I did this before the main mission of finding the assistant healer, and Nettie is no where to be found, idk if she died or ran away, probably got killed..Next up was trying to make it to the goblin camp, Its just me and my party now due to the massacre.On the way, I needed to heal so we setup camp. Cutscene came up, Astarion the vampire trying to suck my blood, fuck that. My only two options were do nothing or melee him. I must not have read it well enough. Dice roll, critical 20, stake right through Astarions heart, dead. I'm crushed, I was hoping to just punch some sense into him.Just me and Shadowheart now.I am chaotic evil, I must live with these choices and continue onward.Great intro to the game. I am loving itUpdate : I played more tonight and found the two other companions, the party is growing.On a more grim note, I went back to emerald Grove and found the corpses of Nettie and Wyll, confirmed killed in action, RIP.Also, maybe due to these events , I went back to try and fight the owlbear with a stronger party and the Goblins got to it already. I walked in to a whole other bloodshed... The cub wasn't there either now. Not sure.",
       "flair": [
         "General Discussion - [NO SPOILERS]"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "Aura Farming Tav",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n6550j/aura_farming_tav/",
-      "score": 723,
-      "comments": 9,
-      "post_id": "t3_1n6550j",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Salmonaru",
-      "author_id": "t2_hbixs8o69",
+      "title": "They FLY now?!",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n4rmqk/they_fly_now/",
+      "score": 8296,
+      "comments": 76,
+      "post_id": "t3_1n4rmqk",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "velatieren",
+      "author_id": "t2_wclkt",
       "subreddit_id": "t5_12967t",
       "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-02T00:17:13.078000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n6550j",
+      "created_ts": "2025-08-31T10:49:27.461000+0000",
+      "content_href": "https://i.redd.it/m239auyr4cmf1.jpeg",
       "content_preview": "",
       "flair": [
         "Character Build"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_92t84n/styles/profileIcon_zet7zw5rt9jf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1f8ebdaf18f677d23b4199e73239e34c66162500"
+      "thumbnail_url": "https://preview.redd.it/they-fly-now-v0-m239auyr4cmf1.jpeg?width=640&crop=smart&auto=webp&s=c7c019f3f574d701168ca4312de48b4c087663ae",
+      "is_promoted": false
     },
     {
-      "title": "Why did they change some animations?",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n69jne/why_did_they_change_some_animations/",
-      "score": 122,
-      "comments": 15,
-      "post_id": "t3_1n69jne",
-      "post_type": "text",
-      "domain": "self.BaldursGate3",
-      "author": "Beardedgeek72",
-      "author_id": "t2_e7cya",
+      "title": "Would the wither be able to grant warlock powers to a tav?",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8yxx7/would_the_wither_be_able_to_grant_warlock_powers/",
+      "score": 48,
+      "comments": 94,
+      "post_id": "t3_1n8yxx7",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "SweetPurpleFlower",
+      "author_id": "t2_1qngs0qm6d",
       "subreddit_id": "t5_12967t",
       "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-02T03:54:22.195000+0000",
-      "content_href": "https://www.reddit.com/r/BaldursGate3/comments/1n69jne/why_did_they_change_some_animations/",
+      "created_ts": "2025-09-05T07:40:21.923000+0000",
+      "content_href": "https://i.redd.it/3m0dbrjlvanf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Act 2 - Spoilers"
+        "Lore"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1sqn3h/styles/profileIcon_22qfkifi9hif1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5ea92d338e2619000a8a61d1d38373f3a35a1cbc"
-    },
-    {
-      "title": "A Battle of Wits (art by me)",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n1q9j7/a_battle_of_wits_art_by_me/",
-      "score": 12278,
-      "comments": 48,
-      "post_id": "t3_1n1q9j7",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "silverlunarella",
-      "author_id": "t2_yn05khbfy",
-      "subreddit_id": "t5_12967t",
-      "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-08-27T19:14:43.968000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n1q9j7",
-      "content_preview": "",
-      "flair": [
-        "Artwork"
-      ],
-      "thumbnail_url": "https://preview.redd.it/a-battle-of-wits-art-by-me-v0-4ei9d2g13mlf1.png?width=640&crop=smart&auto=webp&s=1ea2979df76ce1acb213d3ece5e6d726964999ca"
-    },
-    {
-      "title": "I turned everyone into Dragonborns",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n5rlgi/i_turned_everyone_into_dragonborns/",
-      "score": 1198,
-      "comments": 78,
-      "post_id": "t3_1n5rlgi",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Far-Affect5695",
-      "author_id": "t2_1jvki5jpsr",
-      "subreddit_id": "t5_12967t",
-      "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-01T15:22:18.920000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5rlgi",
-      "content_preview": "",
-      "flair": [
-        "Screenshot - mods used"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_dot469/styles/profileIcon_gnqr2li1t0ve1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6025565bfbc4a62c73df0ef8287a22209db8abcc"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
       "title": "Haha 24 AC go brrr",
       "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1mnc95o/haha_24_ac_go_brrr/",
-      "score": 24929,
+      "score": 24949,
       "comments": 532,
       "post_id": "t3_1mnc95o",
       "post_type": "gif",
@@ -343,33 +467,159 @@
       "flair": [
         "Meme"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_exobdq/styles/profileIcon_j58pry9b4tff1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e649de717bce607b648aadb6abc328f68ada43b9"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_exobdq/styles/profileIcon_j58pry9b4tff1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e649de717bce607b648aadb6abc328f68ada43b9",
+      "is_promoted": false
     },
     {
-      "title": "I'm so proud of Astarion in this scene, I had to paint it",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n6eof9/im_so_proud_of_astarion_in_this_scene_i_had_to/",
-      "score": 29,
-      "comments": 0,
-      "post_id": "t3_1n6eof9",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "crybabymoon",
-      "author_id": "t2_3zon01xs",
+      "title": "I LOVE HER",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8zdke/i_love_her/",
+      "score": 38,
+      "comments": 5,
+      "post_id": "t3_1n8zdke",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "That-one-soviet",
+      "author_id": "t2_e1a0ov58x",
       "subreddit_id": "t5_12967t",
       "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-02T09:14:24.133000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n6eof9",
+      "created_ts": "2025-09-05T08:09:37.706000+0000",
+      "content_href": "https://i.redd.it/han7pvit0bnf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Artwork"
+        "General Discussion - [NO SPOILERS]"
       ],
-      "thumbnail_url": "https://preview.redd.it/im-so-proud-of-astarion-in-this-scene-i-had-to-paint-it-v0-ek05zmsmxpmf1.png?width=640&crop=smart&auto=webp&s=7a076f381508c1c70a85738de5a9706232883e63"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Would you be mad if all the evil endings will be canon?",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8ugm8/would_you_be_mad_if_all_the_evil_endings_will_be/",
+      "score": 70,
+      "comments": 94,
+      "post_id": "t3_1n8ugm8",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "neostryker2",
+      "author_id": "t2_sfob33z",
+      "subreddit_id": "t5_12967t",
+      "subreddit": "r/BaldursGate3",
+      "created_ts": "2025-09-05T03:18:05.381000+0000",
+      "content_href": "https://i.redd.it/n5stgivsk9nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Companions"
+      ],
+      "thumbnail_url": "https://preview.redd.it/n5stgivsk9nf1.jpeg?width=1080&crop=smart&blur=40&format=pjpg&auto=webp&s=d9c1252248a9c828f68c33b9d138f3576bb27cfb",
+      "is_promoted": false
+    },
+    {
+      "title": "Move forward with OCREVUS ZUNOVO. This injection is the only MS treatment that’s​ ~10 minutes, 2 times a year. Talk to your doctor today.​",
+      "permalink": "https://www.reddit.com/user/OCREVUS_Official/comments/1l462f6/move_forward_with_ocrevus_zunovo_this_injection/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1l462f6",
+      "post_type": "video",
+      "domain": "ocrevus.com",
+      "author": "OCREVUS_Official",
+      "author_id": "t2_c1sqcjlq",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-06-05T18:03:30.918000+0000",
+      "content_href": "https://v.redd.it/8ll51qodx35f1",
+      "content_preview": "Please readImportant Safety InformationandPrescribing Information.",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4e2c8f/styles/profileIcon_95r3ra5q0by61.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=414f19b3b4ce3ca5ce3635830b7a3f84496a737b",
+      "is_promoted": true
+    },
+    {
+      "title": "Geralt and Jaskier",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8w5zf/geralt_and_jaskier/",
+      "score": 51,
+      "comments": 4,
+      "post_id": "t3_1n8w5zf",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "GerrysKidZariel",
+      "author_id": "t2_ypz71ppv0",
+      "subreddit_id": "t5_12967t",
+      "subreddit": "r/BaldursGate3",
+      "created_ts": "2025-09-05T04:49:18.294000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8w5zf",
+      "content_preview": "",
+      "flair": [
+        "Character Build"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "The squad decided to go on a Selûnite crusade",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8gdbp/the_squad_decided_to_go_on_a_selûnite_crusade/",
+      "score": 386,
+      "comments": 11,
+      "post_id": "t3_1n8gdbp",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Aggressive-Diet9080",
+      "author_id": "t2_di6qkf5t",
+      "subreddit_id": "t5_12967t",
+      "subreddit": "r/BaldursGate3",
+      "created_ts": "2025-09-04T17:22:04.598000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8gdbp",
+      "content_preview": "",
+      "flair": [
+        "Dark Urge"
+      ],
+      "thumbnail_url": "https://preview.redd.it/ndr2v5kgm6nf1.jpg?width=320&crop=smart&blur=32.0&format=pjpg&auto=webp&s=b1294d0ed02228076e93b8740075af0351af9ad4",
+      "is_promoted": false
+    },
+    {
+      "title": "Honor done !!",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8zcm7/honor_done/",
+      "score": 25,
+      "comments": 2,
+      "post_id": "t3_1n8zcm7",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "SandEnvironmental484",
+      "author_id": "t2_9ig36ru3",
+      "subreddit_id": "t5_12967t",
+      "subreddit": "r/BaldursGate3",
+      "created_ts": "2025-09-05T08:07:46.547000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8zcm7",
+      "content_preview": "Playthrough / Highlight",
+      "flair": [
+        "Playthrough / Highlight"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4rw8jp/styles/profileIcon_npuozsieh77e1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=64a875dcdd8615c976cbe5f8b97ba97a08f278e3",
+      "is_promoted": false
+    },
+    {
+      "title": "Having a “personal” conversation with a companion be like:",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8o4ns/having_a_personal_conversation_with_a_companion/",
+      "score": 146,
+      "comments": 20,
+      "post_id": "t3_1n8o4ns",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Red-Heart42",
+      "author_id": "t2_12hi95l7vl",
+      "subreddit_id": "t5_12967t",
+      "subreddit": "r/BaldursGate3",
+      "created_ts": "2025-09-04T22:24:24.956000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8o4ns",
+      "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://preview.redd.it/yh4i75oe48nf1.jpg?width=320&crop=smart&blur=32.0&format=pjpg&auto=webp&s=2fda4e26c3bbc1a48b56510b974e27c3aa5fbae7",
+      "is_promoted": false
     },
     {
       "title": "Some rare achievements",
       "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1mhg160/some_rare_achievements/",
-      "score": 20229,
-      "comments": 919,
+      "score": 20239,
+      "comments": 920,
       "post_id": "t3_1mhg160",
       "post_type": "gallery",
       "domain": "reddit.com",
@@ -383,12 +633,240 @@
       "flair": [
         "News & Updates"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Larian replaced my melted Baldur’s Gate 3 vinyl <3 mi",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n1f5k3/larian_replaced_my_melted_baldurs_gate_3_vinyl_3/",
+      "score": 19455,
+      "comments": 364,
+      "post_id": "t3_1n1f5k3",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Naoness",
+      "author_id": "t2_5g9u24tv",
+      "subreddit_id": "t5_12967t",
+      "subreddit": "r/BaldursGate3",
+      "created_ts": "2025-08-27T12:04:48.003000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n1f5k3",
+      "content_preview": "",
+      "flair": [
+        "General Discussion - [NO SPOILERS]"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2cwn5s/styles/profileIcon_zw8mp8b2wrr91.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2ccc3f801f38fc00c0f6f87868c3178a73c77b6a",
+      "is_promoted": false
+    },
+    {
+      "title": "My Jaheira Cosplay",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n4a783/my_jaheira_cosplay/",
+      "score": 7646,
+      "comments": 77,
+      "post_id": "t3_1n4a783",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Born_Wish_1818",
+      "author_id": "t2_lrcq1kf0",
+      "subreddit_id": "t5_12967t",
+      "subreddit": "r/BaldursGate3",
+      "created_ts": "2025-08-30T19:23:23.526000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n4a783",
+      "content_preview": "",
+      "flair": [
+        "Cosplay"
+      ],
+      "thumbnail_url": "https://preview.redd.it/my-jaheira-cosplay-v0-45b5e4zjj7mf1.jpg?width=640&crop=smart&auto=webp&s=8f21195867227091fe3bb31523e848b54804224e",
+      "is_promoted": false
+    },
+    {
+      "title": "A slow cooked treat worth upvoting",
+      "permalink": "https://www.reddit.com/user/Pup-Peroni/comments/1m6mbqb/a_slow_cooked_treat_worth_upvoting/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1m6mbqb",
+      "post_type": "gallery",
+      "domain": "pupperoni.com",
+      "author": "Pup-Peroni",
+      "author_id": "t2_umh6tbjc",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-22T18:40:57.955000+0000",
+      "content_href": "https://www.pupperoni.com/soft-dog-treats?utm_source=reddit&utm_medium=paid-social&utm_campaign=YR~FY26_BR~Q2_PR~Original-Beef_CN~Asset-4_FM~Image_CTA~Learn-More_SZ~4x3_OBJ~AWA_FF~08.01.25-09.14.25&utm_content=image&utm_term=none",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7h3d0y/styles/profileIcon_3kdctdb5i54a1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=de9cee56ac13cc49bfbd3e3c419aacbf323a9114",
+      "is_promoted": true
+    },
+    {
+      "title": "Fanfic for Gale and my Tav",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n917fu/fanfic_for_gale_and_my_tav/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n917fu",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Helyanwe4607",
+      "author_id": "t2_1qpf4o75q2",
+      "subreddit_id": "t5_12967t",
+      "subreddit": "r/BaldursGate3",
+      "created_ts": "2025-09-05T10:07:06.145000+0000",
+      "content_href": "https://i.redd.it/9yt9h10slbnf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Origin Romance"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f1p0oy/styles/profileIcon_b7hqprjf5rff1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=0c8e64d0ac8a7579470321d62489e096c95565e2",
+      "is_promoted": false
+    },
+    {
+      "title": "I made my party out of Lego",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8sty1/i_made_my_party_out_of_lego/",
+      "score": 68,
+      "comments": 3,
+      "post_id": "t3_1n8sty1",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "No_Capes_9173",
+      "author_id": "t2_pt6gtcuv4",
+      "subreddit_id": "t5_12967t",
+      "subreddit": "r/BaldursGate3",
+      "created_ts": "2025-09-05T01:58:20.115000+0000",
+      "content_href": "https://i.redd.it/tcrisssk69nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Origin Characters"
+      ],
+      "thumbnail_url": "https://preview.redd.it/tcrisssk69nf1.jpeg?width=1080&crop=smart&blur=40&format=pjpg&auto=webp&s=eaf1e87325e5de67a83e9fa86b4408f668124c81",
+      "is_promoted": false
+    },
+    {
+      "title": "So I never cared about photo mode.",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8maft/so_i_never_cared_about_photo_mode/",
+      "score": 132,
+      "comments": 9,
+      "post_id": "t3_1n8maft",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Marcino007",
+      "author_id": "t2_mnq4ua2m",
+      "subreddit_id": "t5_12967t",
+      "subreddit": "r/BaldursGate3",
+      "created_ts": "2025-09-04T21:09:02.109000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8maft",
+      "content_preview": "Screenshot - mods used",
+      "flair": [
+        "Screenshot - mods used"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "i drew the gang",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8tnhx/i_drew_the_gang/",
+      "score": 46,
+      "comments": 1,
+      "post_id": "t3_1n8tnhx",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "serotonin-doses",
+      "author_id": "t2_1b442yoco1",
+      "subreddit_id": "t5_12967t",
+      "subreddit": "r/BaldursGate3",
+      "created_ts": "2025-09-05T02:37:51.595000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8tnhx",
+      "content_preview": "",
+      "flair": [
+        "Artwork"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_cpc98y/styles/profileIcon_093xm6gulkxd1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f55e64d3b8ef0742910fa8a4c7e3443c8e160aaf",
+      "is_promoted": false
+    },
+    {
+      "title": "I'm making a set of BG3 art/profile pics using Powerpoint",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8mujz/im_making_a_set_of_bg3_artprofile_pics_using/",
+      "score": 83,
+      "comments": 2,
+      "post_id": "t3_1n8mujz",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Old-Biscotti647",
+      "author_id": "t2_apjcnpxi",
+      "subreddit_id": "t5_12967t",
+      "subreddit": "r/BaldursGate3",
+      "created_ts": "2025-09-04T21:31:30.550000+0000",
+      "content_href": "https://i.redd.it/xwb5yxxyu7nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Artwork"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_423kvy/styles/profileIcon_3nk2p6c129fb1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=49685fff58d3b01c73113ff4415d6ecd0fe3fad6",
+      "is_promoted": false
+    },
+    {
+      "title": "Appeared today in the Journal. How do I complete this quest?",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n88acw/appeared_today_in_the_journal_how_do_i_complete/",
+      "score": 467,
+      "comments": 27,
+      "post_id": "t3_1n88acw",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Steven3k",
+      "author_id": "t2_10birf",
+      "subreddit_id": "t5_12967t",
+      "subreddit": "r/BaldursGate3",
+      "created_ts": "2025-09-04T12:05:45.301000+0000",
+      "content_href": "https://i.redd.it/8m3mkynz15nf1.png",
+      "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bramm/styles/profileIcon_omtjhef5yckf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e8bfd0785947f5777714c743aee7836bf09a016f",
+      "is_promoted": false
+    },
+    {
+      "title": "You all seemed to like my cross stitches last time...",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n3zug7/you_all_seemed_to_like_my_cross_stitches_last_time/",
+      "score": 5060,
+      "comments": 59,
+      "post_id": "t3_1n3zug7",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "tonedeafshartgoblin",
+      "author_id": "t2_i5jgzeo",
+      "subreddit_id": "t5_12967t",
+      "subreddit": "r/BaldursGate3",
+      "created_ts": "2025-08-30T12:00:54.259000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n3zug7",
+      "content_preview": "",
+      "flair": [
+        "Artwork"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "YSK Heineken 0.0 is perfect if you’re playing… or cheering at the r/usopen. Must be 21+ to purchase. Enjoy Heineken Responsibly.",
+      "permalink": "https://www.reddit.com/user/Heineken_US/comments/1mpdeyi/ysk_heineken_00_is_perfect_if_youre_playing_or/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mpdeyi",
+      "post_type": "video",
+      "domain": "heineken.com",
+      "author": "Heineken_US",
+      "author_id": "t2_akruad0g",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-13T19:03:52.057000+0000",
+      "content_href": "https://v.redd.it/oauamiv1nsif1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_45bcbz/styles/profileIcon_fg1nitbfgso61.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=07cf77fb44fd5a528124c13b10031bbd59bc33a9",
+      "is_promoted": true
     },
     {
       "title": "Paladin dialogue lines go hard",
       "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1mi9ha2/paladin_dialogue_lines_go_hard/",
-      "score": 17944,
+      "score": 17950,
       "comments": 247,
       "post_id": "t3_1mi9ha2",
       "post_type": "image",
@@ -403,233 +881,201 @@
       "flair": [
         "Meme"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_rhn4w/styles/profileIcon_6lpwxmtd283e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f5320be7a958d758f580158a2c22ace06a08febc"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_rhn4w/styles/profileIcon_6lpwxmtd283e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f5320be7a958d758f580158a2c22ace06a08febc",
+      "is_promoted": false
     },
     {
-      "title": "I convinced my wife to play with me on our last date night",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n6avvz/i_convinced_my_wife_to_play_with_me_on_our_last/",
-      "score": 90,
-      "comments": 31,
-      "post_id": "t3_1n6avvz",
+      "title": "Totally fair when I use them",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n2e8lk/totally_fair_when_i_use_them/",
+      "score": 17322,
+      "comments": 524,
+      "post_id": "t3_1n2e8lk",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "jathn1",
-      "author_id": "t2_1krl5o2lfm",
+      "author": "ozangeo",
+      "author_id": "t2_2laocjl1",
       "subreddit_id": "t5_12967t",
       "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-02T05:10:10.176000+0000",
-      "content_href": "https://i.redd.it/16lz23g2qomf1.jpeg",
+      "created_ts": "2025-08-28T14:46:42.338000+0000",
+      "content_href": "https://i.redd.it/rhng604fvrlf1.png",
       "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_rhn4w/styles/profileIcon_6lpwxmtd283e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f5320be7a958d758f580158a2c22ace06a08febc",
+      "is_promoted": false
+    },
+    {
+      "title": "Did Minthara just call me gay?",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n7qr7y/did_minthara_just_call_me_gay/",
+      "score": 4352,
+      "comments": 219,
+      "post_id": "t3_1n7qr7y",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "AtlasFlynn",
+      "author_id": "t2_c4yin",
+      "subreddit_id": "t5_12967t",
+      "subreddit": "r/BaldursGate3",
+      "created_ts": "2025-09-03T20:56:56.070000+0000",
+      "content_href": "https://i.redd.it/igsbjovtj0nf1.png",
+      "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "When a character can’t get through a door…",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8qets/when_a_character_cant_get_through_a_door/",
+      "score": 49,
+      "comments": 4,
+      "post_id": "t3_1n8qets",
+      "post_type": "text",
+      "domain": "self.BaldursGate3",
+      "author": "4onlyinfo",
+      "author_id": "t2_1rpqhbgbgk",
+      "subreddit_id": "t5_12967t",
+      "subreddit": "r/BaldursGate3",
+      "created_ts": "2025-09-05T00:03:57.133000+0000",
+      "content_href": "https://www.reddit.com/r/BaldursGate3/comments/1n8qets/when_a_character_cant_get_through_a_door/",
+      "content_preview": "falseWhen a character can’t get through a door…Because someone is standing near it. I love selecting the character, only to hear “Nothing will stand in my way”",
       "flair": [
         "General Discussion - [NO SPOILERS]"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "Dumb exploit to save the prisoners at Iron Throne",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n62d34/dumb_exploit_to_save_the_prisoners_at_iron_throne/",
-      "score": 193,
-      "comments": 28,
-      "post_id": "t3_1n62d34",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "kalik-boy",
-      "author_id": "t2_2en7dg4a",
+      "title": "Fun fact: you can destroy the Grove gate",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n38tpf/fun_fact_you_can_destroy_the_grove_gate/",
+      "score": 4161,
+      "comments": 258,
+      "post_id": "t3_1n38tpf",
+      "post_type": "text",
+      "domain": "self.BaldursGate3",
+      "author": "SageTegan",
+      "author_id": "t2_15rc43",
       "subreddit_id": "t5_12967t",
       "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-01T22:11:33.822000+0000",
-      "content_href": "https://v.redd.it/xt345t5dmmmf1",
-      "content_preview": "",
+      "created_ts": "2025-08-29T14:23:28.636000+0000",
+      "content_href": "https://www.reddit.com/r/BaldursGate3/comments/1n38tpf/fun_fact_you_can_destroy_the_grove_gate/",
+      "content_preview": "Tired of waiting for someone to come open the gate for you? Destroy it! There are no reprocussions. Other than the gate no longer being there.",
       "flair": [
-        "Act 3 - Spoilers"
+        "General Discussion - [SPOILERS]"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/N3ZyaDZ0NWRtbW1mMcdlKG4fBuJP1bw3CaWIqUXud_XWuiWZ8EoZ-bnkijRi.png?width=1080&crop=smart&blur=40&format=pjpg&auto=webp&s=02ac8f80d138c094e0fbdd695580062a672e77e7"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "Baldur's Gate 3 is back on sale until September 8th",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n5udo2/baldurs_gate_3_is_back_on_sale_until_september_8th/",
-      "score": 424,
-      "comments": 19,
-      "post_id": "t3_1n5udo2",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Maik_Maik_Maik",
-      "author_id": "t2_2g60rwvv",
+      "title": "Fight you find easy but others find hard?",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8bq01/fight_you_find_easy_but_others_find_hard/",
+      "score": 219,
+      "comments": 335,
+      "post_id": "t3_1n8bq01",
+      "post_type": "text",
+      "domain": "self.BaldursGate3",
+      "author": "Expensive-Rhubarb267",
+      "author_id": "t2_i7u0j95n",
       "subreddit_id": "t5_12967t",
       "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-01T17:06:09.606000+0000",
-      "content_href": "https://i.redd.it/z2ppu76t4lmf1.png",
-      "content_preview": "",
+      "created_ts": "2025-09-04T14:28:41.261000+0000",
+      "content_href": "https://www.reddit.com/r/BaldursGate3/comments/1n8bq01/fight_you_find_easy_but_others_find_hard/",
+      "content_preview": "falseFight you find easy but others find hard?What's a fight that other seems to struggle with but you've always found pretty easy going? or vice versa, a fight youd hard that others find easy.My 'easy' fight is Nere- never had an issue with it. Just make sure you ally with the Duegar beforehand.My 'hard' is Yurgir in the Gauntlet of Shar. I always loose at least 1 party member to that damn displacer beast.",
       "flair": [
-        "News & Updates"
+        "Playthrough / Highlight"
       ],
-      "thumbnail_url": "https://preview.redd.it/baldurs-gate-3-is-back-on-sale-until-september-8th-v0-z2ppu76t4lmf1.png?width=640&crop=smart&auto=webp&s=b103f1e8596c0d0990e8bc49a9583688434293f5"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "Gaspar Throakes and his safe key",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n6ei0d/gaspar_throakes_and_his_safe_key/",
+      "title": "Mega dwarf idea",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n914qc/mega_dwarf_idea/",
       "score": 2,
       "comments": 2,
-      "post_id": "t3_1n6ei0d",
+      "post_id": "t3_1n914qc",
       "post_type": "text",
       "domain": "self.BaldursGate3",
-      "author": "Cal_PCGW",
-      "author_id": "t2_kbq047ebx",
+      "author": "Turublade",
+      "author_id": "t2_8v4j0y4n",
       "subreddit_id": "t5_12967t",
       "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-02T09:02:43.311000+0000",
-      "content_href": "https://www.reddit.com/r/BaldursGate3/comments/1n6ei0d/gaspar_throakes_and_his_safe_key/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T10:02:33.177000+0000",
+      "content_href": "https://www.reddit.com/r/BaldursGate3/comments/1n914qc/mega_dwarf_idea/",
+      "content_preview": "falseMega dwarf ideaI pick duergar, giant rage, then a mage casts enlarge on me. Is this possible",
       "flair": [
-        "Act 3 - Spoilers"
+        "Character Build"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
     },
     {
-      "title": "Last Light Inn confrontation",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n6e6h1/last_light_inn_confrontation/",
-      "score": 1,
+      "title": "​​The Cocktail Collection. The secret to a perfect cocktail? Just pour and enjoy 7 classic cocktails pre-made with top-shelf spirits like Ketel One, Bulleit, and more.",
+      "permalink": "https://www.reddit.com/user/CocktailCollection/comments/1m2k7t7/the_cocktail_collection_the_secret_to_a_perfect/",
+      "score": 0,
       "comments": 0,
-      "post_id": "t3_1n6e6h1",
-      "post_type": "text",
-      "domain": "self.BaldursGate3",
-      "author": "Good_Perspective9290",
-      "author_id": "t2_2lzvndm1",
-      "subreddit_id": "t5_12967t",
-      "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-02T08:41:43.537000+0000",
-      "content_href": "https://www.reddit.com/r/BaldursGate3/comments/1n6e6h1/last_light_inn_confrontation/",
-      "content_preview": "",
-      "flair": [
-        "Act 2 - Spoilers"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "POV: you bought new PC and you can finally play BG",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n3zsg0/pov_you_bought_new_pc_and_you_can_finally_play_bg/",
-      "score": 10226,
-      "comments": 342,
-      "post_id": "t3_1n3zsg0",
+      "post_id": "t3_1m2k7t7",
       "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "oxcore",
-      "author_id": "t2_tmise9k",
-      "subreddit_id": "t5_12967t",
-      "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-08-30T11:58:16.561000+0000",
-      "content_href": "https://v.redd.it/bo3qhi45c5mf1",
+      "domain": "productshop.thecocktailcollection.com",
+      "author": "CocktailCollection",
+      "author_id": "t2_cb4p3199o",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-17T21:39:53.150000+0000",
+      "content_href": "https://v.redd.it/tf3c1hq9qgdf1",
       "content_preview": "",
-      "flair": [
-        "Videos"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/pov-you-bought-new-pc-and-you-can-finally-play-bg-v0-b2I2eDJ2MDVjNW1mMfE_79FAP4rdjqinfofQaVkS_taZqUybtvIMqfN3mzfU.png?format=pjpg&auto=webp&s=71f7ee049b0d02e3a4adc068bfcc58d7d4efa8a7"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_9d7hqr/styles/profileIcon_i0mu38swbsqb1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=86435d43cdaebfadfd5cefbc95fdd2cf12f71647",
+      "is_promoted": true
     },
     {
-      "title": "Pugs at Ps5",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n6e3jn/pugs_at_ps5/",
-      "score": 1,
-      "comments": 1,
-      "post_id": "t3_1n6e3jn",
-      "post_type": "text",
-      "domain": "self.BaldursGate3",
-      "author": "Sonku-YT",
-      "author_id": "t2_ckhfxqvt",
-      "subreddit_id": "t5_12967t",
-      "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-02T08:36:06.838000+0000",
-      "content_href": "https://www.reddit.com/r/BaldursGate3/comments/1n6e3jn/pugs_at_ps5/",
-      "content_preview": "",
-      "flair": [
-        "General Questions - [NO SPOILERS]"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "Heya, it's me Imoen!",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n6dzbi/heya_its_me_imoen/",
-      "score": 15,
+      "title": "my goat",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8nem4/my_goat/",
+      "score": 51,
       "comments": 4,
-      "post_id": "t3_1n6dzbi",
-      "post_type": "crosspost",
+      "post_id": "t3_1n8nem4",
+      "post_type": "image",
       "domain": "i.redd.it",
-      "author": "ThanosofTitan92",
-      "author_id": "t2_8ntx0ztt",
+      "author": "zMustaine_",
+      "author_id": "t2_hicrlim0",
       "subreddit_id": "t5_12967t",
       "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-02T08:28:09.353000+0000",
-      "content_href": "/r/baldursgate/comments/1n5x74h/the_beginning_of_the_first_chapter_in_bg1_be_like/",
+      "created_ts": "2025-09-04T21:54:12.707000+0000",
+      "content_href": "https://i.redd.it/gaqjfoq0z7nf1.jpeg",
       "content_preview": "",
       "flair": [
-        "General Discussion - [NO SPOILERS]"
+        "Meme"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_3d54y7/styles/profileIcon_lfztv30iyslf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1f1f8ff88cb304d29b2796538398d1d6c0ad8555"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5hcb5x/styles/profileIcon_fmsiusxljp3f1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=52e57ef511496da445879dcf7bad7e96ad14d2e3",
+      "is_promoted": false
     },
     {
-      "title": "My Lae'Zel cosplay",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1mmiwff/my_laezel_cosplay/",
-      "score": 13071,
-      "comments": 329,
-      "post_id": "t3_1mmiwff",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "lizhen_oz",
-      "author_id": "t2_ttcyquvh",
-      "subreddit_id": "t5_12967t",
-      "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-08-10T13:42:11.693000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mmiwff",
-      "content_preview": "",
-      "flair": [
-        "Cosplay"
-      ],
-      "thumbnail_url": "https://preview.redd.it/6xi7bovf47if1.jpg?width=320&crop=smart&blur=40&format=pjpg&auto=webp&s=b581551445346ac582ee5f66cc50af281db1f2d1"
-    },
-    {
-      "title": "What Canonically Happens When You Consume a Tadpole?",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n5s3ko/what_canonically_happens_when_you_consume_a/",
-      "score": 496,
-      "comments": 83,
-      "post_id": "t3_1n5s3ko",
+      "title": "Choices you make in every playthrough no matter what",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8e2yf/choices_you_make_in_every_playthrough_no_matter/",
+      "score": 148,
+      "comments": 213,
+      "post_id": "t3_1n8e2yf",
       "post_type": "text",
       "domain": "self.BaldursGate3",
-      "author": "PuzzleheadedLove341",
-      "author_id": "t2_gr6zjmwn",
+      "author": "adamnoo",
+      "author_id": "t2_1bdma3g8",
       "subreddit_id": "t5_12967t",
       "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-01T15:41:39.757000+0000",
-      "content_href": "https://www.reddit.com/r/BaldursGate3/comments/1n5s3ko/what_canonically_happens_when_you_consume_a/",
-      "content_preview": "",
+      "created_ts": "2025-09-04T15:57:15.719000+0000",
+      "content_href": "https://www.reddit.com/r/BaldursGate3/comments/1n8e2yf/choices_you_make_in_every_playthrough_no_matter/",
+      "content_preview": "falseChoices you make in every playthrough no matter whatI'm very close to done my second playthrough and I'm looking back at the choices I made throughout the game and a surprising number of them are the same ones I made in my first playthrough. I'm talking big story relevant choices not just minor dialog choices. I took Gortash's offer, skipped the Iron Throne dungeon, I didn't ascend Astarion, I let Shadowheart's parents die, I killed Lorroakan, I convinced the squatters to leave, I never let the attack on the grove happen, told the Emperor to piss off, and I went to the underdark before the creche again. Looking at all those choices I'd probably still make most of those choices again because they seem like the right ones to make either from a gameplay/practicality standpoint or a RP standpoint.This got me curious what are some choices other people make the same way every time they play through the game even after saying they'll try something different",
       "flair": [
-        "General Questions - [SPOILERS]"
+        "General Discussion - [SPOILERS]"
       ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Forgotten Realms novel suggestions",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n6djbr/forgotten_realms_novel_suggestions/",
-      "score": 2,
-      "comments": 4,
-      "post_id": "t3_1n6djbr",
-      "post_type": "text",
-      "domain": "self.BaldursGate3",
-      "author": "ranfall94",
-      "author_id": "t2_45ebumcs",
-      "subreddit_id": "t5_12967t",
-      "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-02T07:58:30.337000+0000",
-      "content_href": "https://www.reddit.com/r/BaldursGate3/comments/1n6djbr/forgotten_realms_novel_suggestions/",
-      "content_preview": "",
-      "flair": [
-        "General Questions - [NO SPOILERS]"
-      ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "Instagram vs School Photo",
       "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n5fj9z/instagram_vs_school_photo/",
-      "score": 3637,
-      "comments": 86,
+      "score": 3873,
+      "comments": 98,
       "post_id": "t3_1n5fj9z",
       "post_type": "gallery",
       "domain": "reddit.com",
@@ -643,293 +1089,117 @@
       "flair": [
         "Meme"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "Some chronology that doesn't add up to me",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n66xrh/some_chronology_that_doesnt_add_up_to_me/",
-      "score": 47,
-      "comments": 27,
-      "post_id": "t3_1n66xrh",
-      "post_type": "text",
-      "domain": "self.BaldursGate3",
-      "author": "Hopeful_Meeting_7248",
-      "author_id": "t2_801wgh9v",
-      "subreddit_id": "t5_12967t",
-      "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-02T01:43:34.307000+0000",
-      "content_href": "https://www.reddit.com/r/BaldursGate3/comments/1n66xrh/some_chronology_that_doesnt_add_up_to_me/",
-      "content_preview": "",
-      "flair": [
-        "Act 3 - Spoilers"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Necrotic Salami",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n5yn3y/necrotic_salami/",
-      "score": 135,
-      "comments": 44,
-      "post_id": "t3_1n5yn3y",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "slippinjimmy1875",
-      "author_id": "t2_55l6rbtr",
-      "subreddit_id": "t5_12967t",
-      "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-01T19:43:27.647000+0000",
-      "content_href": "https://i.redd.it/lzohjpmywlmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Lore"
-      ],
-      "thumbnail_url": "https://preview.redd.it/lzohjpmywlmf1.jpeg?width=1080&crop=smart&blur=40&format=pjpg&auto=webp&s=815aff9036105e3ea6b91f810366bd51b2d2f421"
-    },
-    {
-      "title": "I drew my Tav as a Durge with her favorite rizzard",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n67lts/i_drew_my_tav_as_a_durge_with_her_favorite_rizzard/",
-      "score": 27,
-      "comments": 0,
-      "post_id": "t3_1n67lts",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "bycharoncreates",
-      "author_id": "t2_1w3vfum3tl",
-      "subreddit_id": "t5_12967t",
-      "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-02T02:16:04.014000+0000",
-      "content_href": "https://i.redd.it/tgmlv260vnmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Artwork"
-      ],
-      "thumbnail_url": "https://preview.redd.it/i-drew-my-tav-as-a-durge-with-her-favorite-rizzard-v0-tgmlv260vnmf1.jpeg?width=640&crop=smart&auto=webp&s=d2007052a78ec9d578bfd632da9448debb8b3801"
-    },
-    {
-      "title": "“Find a Cure”. My githyanki Tav cosplay",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n4qfkn/find_a_cure_my_githyanki_tav_cosplay/",
-      "score": 11732,
-      "comments": 132,
-      "post_id": "t3_1n4qfkn",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Frau_Haku",
-      "author_id": "t2_2swmmeau",
-      "subreddit_id": "t5_12967t",
-      "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-08-31T09:32:57.797000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n4qfkn",
-      "content_preview": "",
-      "flair": [
-        "Cosplay"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_sxyue/styles/profileIcon_eyri86tltzcb1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6cdc1043602abb73fc459fe1b500ba16a33726bc"
-    },
-    {
-      "title": "Got a chance to start a BG3 run today, this happened",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n684ji/got_a_chance_to_start_a_bg3_run_today_this/",
-      "score": 23,
-      "comments": 12,
-      "post_id": "t3_1n684ji",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Asumsauce",
-      "author_id": "t2_hbxo7h2h",
-      "subreddit_id": "t5_12967t",
-      "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-02T02:41:47.580000+0000",
-      "content_href": "https://i.redd.it/cuhol8glznmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "BUGS"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "[OC] A Serious Gamer",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n5zdr9/oc_a_serious_gamer/",
-      "score": 75,
-      "comments": 4,
-      "post_id": "t3_1n5zdr9",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "notaneightyyroldman",
-      "author_id": "t2_3r94or8l",
-      "subreddit_id": "t5_12967t",
-      "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-01T20:12:46.307000+0000",
-      "content_href": "https://i.redd.it/u7vi66v62mmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Artwork"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_119ruu/styles/profileIcon_jwrpwjt7ximf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fbbb3aaee51df58b947414fbff6d731d9e13dcfd"
-    },
-    {
-      "title": "My Jaheira Cosplay",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n4a783/my_jaheira_cosplay/",
-      "score": 7512,
-      "comments": 73,
-      "post_id": "t3_1n4a783",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Born_Wish_1818",
-      "author_id": "t2_lrcq1kf0",
-      "subreddit_id": "t5_12967t",
-      "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-08-30T19:23:23.526000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n4a783",
-      "content_preview": "",
-      "flair": [
-        "Cosplay"
-      ],
-      "thumbnail_url": "https://preview.redd.it/my-jaheira-cosplay-v0-45b5e4zjj7mf1.jpg?width=640&crop=smart&auto=webp&s=8f21195867227091fe3bb31523e848b54804224e"
-    },
-    {
-      "title": "MFW I kill the hag and the child dies",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n65lsx/mfw_i_kill_the_hag_and_the_child_dies/",
-      "score": 29,
-      "comments": 2,
-      "post_id": "t3_1n65lsx",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Accounting_Hashira",
-      "author_id": "t2_denrk9oh9",
-      "subreddit_id": "t5_12967t",
-      "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-02T00:39:07.035000+0000",
-      "content_href": "https://i.redd.it/oznhastddnmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Meme"
-      ],
-      "thumbnail_url": "https://preview.redd.it/oznhastddnmf1.jpeg?blur=40&format=pjpg&auto=webp&s=43850170184c55cab25bda3521f7e00335fa2f6d"
-    },
-    {
-      "title": "Guys I have a feeling the child dies if we kill the hag",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n5evg7/guys_i_have_a_feeling_the_child_dies_if_we_kill/",
-      "score": 1036,
-      "comments": 97,
-      "post_id": "t3_1n5evg7",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Gay_Banana180",
-      "author_id": "t2_h356a608",
-      "subreddit_id": "t5_12967t",
-      "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-01T04:08:39.099000+0000",
-      "content_href": "https://i.redd.it/rqncv58x9hmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Meme"
-      ],
-      "thumbnail_url": "https://preview.redd.it/rqncv58x9hmf1.png?width=1080&crop=smart&blur=40&format=pjpg&auto=webp&s=5dd8a07eae7add7b98a342b556fc5c5b8019b1ed"
-    },
-    {
-      "title": "every trader in bg3",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1mzhhtx/every_trader_in_bg3/",
-      "score": 5697,
-      "comments": 83,
-      "post_id": "t3_1mzhhtx",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Confident_Finish8528",
-      "author_id": "t2_d7xrrvvx",
-      "subreddit_id": "t5_12967t",
-      "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-08-25T04:54:09.122000+0000",
-      "content_href": "https://i.redd.it/2805gzwwj3lf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Meme"
-      ],
-      "thumbnail_url": "https://preview.redd.it/2805gzwwj3lf1.jpeg?blur=40&format=pjpg&auto=webp&s=cdadf39160497e4f5dfbd3d44efb41f84bfa7764"
-    },
-    {
-      "title": "i am genuinely struggling to choose who to romance, help? 😭",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n65868/i_am_genuinely_struggling_to_choose_who_to/",
-      "score": 24,
-      "comments": 81,
-      "post_id": "t3_1n65868",
-      "post_type": "text",
-      "domain": "self.BaldursGate3",
-      "author": "No_Doubt5712",
-      "author_id": "t2_z9jtwzn6o",
-      "subreddit_id": "t5_12967t",
-      "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-02T00:21:21.370000+0000",
-      "content_href": "https://www.reddit.com/r/BaldursGate3/comments/1n65868/i_am_genuinely_struggling_to_choose_who_to/",
-      "content_preview": "",
-      "flair": [
-        "General Questions - [SPOILERS]"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "I love taking photos in this game!!",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n5qfoo/i_love_taking_photos_in_this_game/",
-      "score": 114,
-      "comments": 39,
-      "post_id": "t3_1n5qfoo",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "NotABloodOrange",
-      "author_id": "t2_1gk8uzbszf",
-      "subreddit_id": "t5_12967t",
-      "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-01T14:37:50.641000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5qfoo",
-      "content_preview": "",
-      "flair": [
-        "Screenshot - mods used"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_dae5t7/styles/profileIcon_kuhbvp507yhe1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=674f2a5c8c54b8d40d1757e70201c1a3dbe0f887"
-    },
-    {
-      "title": "Baldur’s Gate III Astarion x Ghost Crossover",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n6d0qt/baldurs_gate_iii_astarion_x_ghost_crossover/",
-      "score": 5,
+      "title": "Orin the Red",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8jxig/orin_the_red/",
+      "score": 63,
       "comments": 1,
-      "post_id": "t3_1n6d0qt",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "fureverawesome",
-      "author_id": "t2_97lxdda1",
+      "post_id": "t3_1n8jxig",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Donsveertje",
+      "author_id": "t2_3ogusjx",
       "subreddit_id": "t5_12967t",
       "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-02T07:24:09.128000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n6d0qt",
+      "created_ts": "2025-09-04T19:37:43.012000+0000",
+      "content_href": "https://i.redd.it/in7y1s3oa7nf1.png",
       "content_preview": "",
       "flair": [
         "Artwork"
       ],
-      "thumbnail_url": "https://preview.redd.it/baldurs-gate-iii-astarion-x-ghost-crossover-v0-azo64qzydpmf1.jpg?width=640&crop=smart&auto=webp&s=41ec988b6236445cd4591b2b2b17d3da161d660d"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_mszdz/styles/profileIcon_37yfvwdzr5nf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f5fc6996e892957a4911bddbec7d7a69826bf152",
+      "is_promoted": false
     },
     {
-      "title": "Unexpected Complications with Durge",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n624ek/unexpected_complications_with_durge/",
-      "score": 26,
-      "comments": 4,
-      "post_id": "t3_1n624ek",
+      "title": "Races by unique interactions",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n9147z/races_by_unique_interactions/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1n9147z",
       "post_type": "text",
       "domain": "self.BaldursGate3",
-      "author": "Frankie_Rad",
-      "author_id": "t2_1ea06vi46z",
+      "author": "Yaniv_g1",
+      "author_id": "t2_4eljaf6m",
       "subreddit_id": "t5_12967t",
       "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-01T22:01:27.171000+0000",
-      "content_href": "https://www.reddit.com/r/BaldursGate3/comments/1n624ek/unexpected_complications_with_durge/",
+      "created_ts": "2025-09-05T10:01:45.741000+0000",
+      "content_href": "https://www.reddit.com/r/BaldursGate3/comments/1n9147z/races_by_unique_interactions/",
+      "content_preview": "falseRaces by unique interactionsI'm curious whether there's a chart somewhere of unique interactions by race. I'm only in my first playthrough and have been playing a tiefling. I've felt like past act 1, it's not really been very relevant at all.Curious if it's the same for most races, and what races are most engaging to play with in terms of how they affect the world. I've heard that as a drow they let you in the goblin camp easily. Any other stuff like that for other races?",
+      "flair": [
+        "General Discussion - [SPOILERS]"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Shadowheart decided to spend the long rest… differently",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n4nlg8/shadowheart_decided_to_spend_the_long_rest/",
+      "score": 2973,
+      "comments": 48,
+      "post_id": "t3_1n4nlg8",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "PhillyTMOMan",
+      "author_id": "t2_11wsp7",
+      "subreddit_id": "t5_12967t",
+      "subreddit": "r/BaldursGate3",
+      "created_ts": "2025-08-31T06:30:08.671000+0000",
+      "content_href": "https://v.redd.it/atb1tpdiuamf1",
+      "content_preview": "Playthrough / Highlight",
+      "flair": [
+        "Playthrough / Highlight"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/cDB4Z3doZWl1YW1mMTD3troJqDVJYjzoSyrFfl9UX86ybG7Rc0-kR2jrCH4D.png?blur=40&format=pjpg&auto=webp&s=b9682f46b2c08d63128c4c2293c300adc312c704",
+      "is_promoted": false
+    },
+    {
+      "title": "My Lae'Zel cosplay",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1mmiwff/my_laezel_cosplay/",
+      "score": 13082,
+      "comments": 328,
+      "post_id": "t3_1mmiwff",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "lizhen_oz",
+      "author_id": "t2_ttcyquvh",
+      "subreddit_id": "t5_12967t",
+      "subreddit": "r/BaldursGate3",
+      "created_ts": "2025-08-10T13:42:11.693000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mmiwff",
       "content_preview": "",
       "flair": [
-        "Act 1 - Spoilers"
+        "Cosplay"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://preview.redd.it/6xi7bovf47if1.jpg?width=320&crop=smart&blur=40&format=pjpg&auto=webp&s=b581551445346ac582ee5f66cc50af281db1f2d1",
+      "is_promoted": false
+    },
+    {
+      "title": "We are Blood Cancer United.",
+      "permalink": "https://www.reddit.com/user/BloodCancerUnited/comments/1n1tbcs/we_are_blood_cancer_united/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n1tbcs",
+      "post_type": "image",
+      "domain": "bloodcancerunited.org",
+      "author": "BloodCancerUnited",
+      "author_id": "t2_1wkfi350jr",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-27T21:12:46.413000+0000",
+      "content_href": "https://bloodcancerunited.org/?utm_medium=paid_static&utm_campaign=modco_blood-cancer-united_awareness_reddit_fundraising_brand_display_0_0_0&utm_term=interest&utm_content=static",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": true
     },
     {
       "title": "Early game in Honour mode is no joke",
       "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1ml3apr/early_game_in_honour_mode_is_no_joke/",
-      "score": 12842,
-      "comments": 663,
+      "score": 12849,
+      "comments": 664,
       "post_id": "t3_1ml3apr",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -943,68 +1213,51 @@
       "flair": [
         "Meme"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_rhn4w/styles/profileIcon_6lpwxmtd283e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f5320be7a958d758f580158a2c22ace06a08febc"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_rhn4w/styles/profileIcon_6lpwxmtd283e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f5320be7a958d758f580158a2c22ace06a08febc",
+      "is_promoted": false
     },
     {
-      "title": "When the music confirms your choice",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1mtmrff/when_the_music_confirms_your_choice/",
-      "score": 12842,
-      "comments": 125,
-      "post_id": "t3_1mtmrff",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "ozangeo",
-      "author_id": "t2_2laocjl1",
-      "subreddit_id": "t5_12967t",
-      "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-08-18T13:56:08.128000+0000",
-      "content_href": "https://i.redd.it/zseuy5et8sjf1.png",
-      "content_preview": "",
-      "flair": [
-        "Meme"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_rhn4w/styles/profileIcon_6lpwxmtd283e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f5320be7a958d758f580158a2c22ace06a08febc"
-    },
-    {
-      "title": "An Hour Later....",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n60568/an_hour_later/",
-      "score": 31,
-      "comments": 10,
-      "post_id": "t3_1n60568",
-      "post_type": "multi_media",
+      "title": "Hair replacement mods",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n90znk/hair_replacement_mods/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n90znk",
+      "post_type": "text",
       "domain": "self.BaldursGate3",
-      "author": "danicasso",
-      "author_id": "t2_1i50yznjp2",
+      "author": "ikhoros",
+      "author_id": "t2_1obhpnl0u9",
       "subreddit_id": "t5_12967t",
       "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-01T20:42:07.480000+0000",
-      "content_href": "https://www.reddit.com/r/BaldursGate3/comments/1n60568/an_hour_later/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T09:53:46.741000+0000",
+      "content_href": "https://www.reddit.com/r/BaldursGate3/comments/1n90znk/hair_replacement_mods/",
+      "content_preview": "falseHair replacement modsHi, this is a bit of a stretch but I thought i’d ask. Are there any mods where the hair is replaced with tendrils or fleshy horns? Or any that put dragonborn assets onto a humanoid body?Kind of like predator hair.",
       "flair": [
-        "Act 2 - Spoilers"
+        "Mods / Modding"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_dgphqc/styles/profileIcon_abepv5c8czfe1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2958a3df6b8d08f574da246bda9877898a400771"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "Ain't no party like a myconid party",
-      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n5j6ak/aint_no_party_like_a_myconid_party/",
-      "score": 220,
-      "comments": 10,
-      "post_id": "t3_1n5j6ak",
+      "title": "What is astarion talking about?",
+      "permalink": "https://www.reddit.com/r/BaldursGate3/comments/1n8tsq4/what_is_astarion_talking_about/",
+      "score": 16,
+      "comments": 4,
+      "post_id": "t3_1n8tsq4",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "AtlasFlynn",
-      "author_id": "t2_c4yin",
+      "author": "Adventurous_Lie1275",
+      "author_id": "t2_4ms9vsncw",
       "subreddit_id": "t5_12967t",
       "subreddit": "r/BaldursGate3",
-      "created_ts": "2025-09-01T08:24:54.018000+0000",
-      "content_href": "https://i.redd.it/a7pmwhkujimf1.png",
+      "created_ts": "2025-09-05T02:44:59.893000+0000",
+      "content_href": "https://i.redd.it/hgqi9otte9nf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Screenshot"
+        "Act 3 - Spoilers"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "https://preview.redd.it/hgqi9otte9nf1.jpeg?width=1080&crop=smart&blur=40&format=pjpg&auto=webp&s=7e6caf858d9de2909fe5dba551624877727c1776",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:05:04.459951"
+  "scraped_at": "2025-09-05T03:31:41.017258"
 }

@@ -2,34 +2,197 @@
   "subreddit": "philosophy",
   "url": "https://www.reddit.com/r/philosophy",
   "meta": {
-    "title": "philosophy"
+    "title": "philosophy",
+    "description": "/r/philosophy: the portal for public philosophy",
+    "subscribers": 18461543,
+    "online_users": 66,
+    "created_timestamp": "2025-09-05T09:19:34.294000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Bookmarks",
+        "content": [
+          {
+            "text": "Introduction",
+            "url": "https://www.reddit.com/r/philosophy/wiki/introduction"
+          },
+          {
+            "text": "FAQ",
+            "url": "https://www.reddit.com/r/philosophy/wiki/faq"
+          },
+          {
+            "text": "Self-Promotion",
+            "url": "https://www.reddit.com/r/philosophy/wiki/selfpromotion"
+          }
+        ]
+      },
+      {
+        "title": "r/philosophy Rules",
+        "content": [
+          {
+            "text": "FAQ",
+            "url": "https://www.reddit.com/r/philosophy/wiki/faq"
+          },
+          {
+            "text": "r/philosophy",
+            "url": "/r/philosophy/"
+          },
+          {
+            "text": "r/askphilosophy",
+            "url": "/r/askphilosophy/"
+          },
+          {
+            "text": "read their rules",
+            "url": "https://reddit.com/r/askphilosophy/comments/14o2p7n/welcome_to_raskphilosophy_check_out_our_rules_and/"
+          },
+          {
+            "text": "r/askphilosophy",
+            "url": "/r/askphilosophy/"
+          },
+          {
+            "text": "r/askphilosophy",
+            "url": "/r/askphilosophy/"
+          },
+          {
+            "text": "See here for an example of a suitable abstract",
+            "url": "https://www.reddit.com/r/philosophy/wiki/abstracts"
+          },
+          {
+            "text": "reddit-wide spam guidelines",
+            "url": "https://reddit.zendesk.com/hc/en-us/articles/360043504051-What-constitutes-spam-Am-I-a-spammer-"
+          },
+          {
+            "text": "r/philosophy",
+            "url": "/r/philosophy/"
+          },
+          {
+            "text": "self-promotion guidelines",
+            "url": "https://reddit.com/r/philosophy/wiki/selfpromotion"
+          },
+          {
+            "text": "r/philosophy",
+            "url": "/r/philosophy/"
+          },
+          {
+            "text": "r/suicidewatch",
+            "url": "/r/suicidewatch/"
+          },
+          {
+            "text": "r/suicidewatch",
+            "url": "/r/suicidewatch/"
+          },
+          {
+            "text": "here",
+            "url": "https://www.reddit.com/r/philosophy/wiki/mentalhealth"
+          },
+          {
+            "text": "r/philosophy",
+            "url": "/r/philosophy/"
+          },
+          {
+            "text": "r/philosophy",
+            "url": "/r/philosophy/"
+          }
+        ]
+      },
+      {
+        "title": "Wiki",
+        "content": [
+          {
+            "text": "Introduction",
+            "url": "http://www.reddit.com/r/philosophy/wiki/introduction"
+          },
+          {
+            "text": "FAQ",
+            "url": "http://www.reddit.com/r/philosophy/wiki/faq"
+          },
+          {
+            "text": "Self-Promotion",
+            "url": "https://www.reddit.com/r/philosophy/wiki/selfpromotion"
+          },
+          {
+            "text": "A Guide to Arguments",
+            "url": "http://www.reddit.com/r/philosophy/wiki/arguments"
+          },
+          {
+            "text": "Recommended Reading",
+            "url": "http://www.reddit.com/r/philosophy/wiki/readinglist"
+          },
+          {
+            "text": "Philosophy Subreddits",
+            "url": "http://www.reddit.com/r/philosophy/wiki/sublinks"
+          },
+          {
+            "text": "Reddit 101",
+            "url": "https://reddit.com/wiki/reddit_101"
+          }
+        ]
+      },
+      {
+        "title": "AMAs, Reading Groups, etc.",
+        "content": [
+          {
+            "text": "Previous AMAs",
+            "url": "https://www.reddit.com/r/philosophy/wiki/rphilama"
+          },
+          {
+            "text": "Weekly Discussion Hub",
+            "url": "https://reddit.com/r/philosophy/wiki/discussion"
+          },
+          {
+            "text": "Kant Reading Group",
+            "url": "http://www.reddit.com/r/philosophy/comments/1e86vr/reading_group_plan_of_attack/"
+          },
+          {
+            "text": "Metaethics Reading Group",
+            "url": "http://www.reddit.com/r/philosophy/comments/1i2hsv/reading_group_2_plan_of_attack/"
+          },
+          {
+            "text": "IO Reading Group",
+            "url": "http://www.reddit.com/r/philosophy/comments/1osxyu/reading_group_3_plan_of_attack/"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/philosophy/moderators/"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "The Philosophy of Philosophy (or why philosophy is so hard)",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1n3t91z/the_philosophy_of_philosophy_or_why_philosophy_is/",
+      "title": "Utilitarians are wrong, morality requires treating people unequally. | Empathy-based morality justifies partiality toward those closest to us as not only natural but morally obligatory, in direct opposition to utilitarian impartiality.",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1n90fzh/utilitarians_are_wrong_morality_requires_treating/",
       "score": 0,
-      "comments": 15,
-      "post_id": "t3_1n3t91z",
+      "comments": 2,
+      "post_id": "t3_1n90fzh",
       "post_type": "link",
-      "domain": "neonomos.substack.com",
-      "author": "contractualist",
-      "author_id": "t2_sqyp71xd",
+      "domain": "iai.tv",
+      "author": "IAI_Admin",
+      "author_id": "t2_143wgu",
       "subreddit_id": "t5_2qh5b",
       "subreddit": "r/philosophy",
-      "created_ts": "2025-08-30T05:10:41.866000+0000",
-      "content_href": "https://neonomos.substack.com/p/the-philosophy-of-philosophy",
+      "created_ts": "2025-09-05T09:19:34.294000+0000",
+      "content_href": "https://iai.tv/articles/utilitarians-are-wrong-morality-requires-treating-people-unequally-auid-3350?utm_source=reddit&_auid=2020",
       "content_preview": "",
-      "flair": [
-        "Blog"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/AAIbSrUHIPAyuzSNkPR1eNvYIzgmar7o6yxnh4uxScY.jpeg?width=140&height=140&crop=140:140,smart&auto=webp&s=c4e96917508871064849018395beb0f00887277c"
+      "flair": [],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
     },
     {
       "title": "Languages are social tools, not windows onto reality | Languages are not natural entities but acts of social doing - fluid practices that become rigid only when mobilised to forge identity, power, and belonging.",
       "permalink": "https://www.reddit.com/r/philosophy/comments/1n32i0v/languages_are_social_tools_not_windows_onto/",
-      "score": 212,
-      "comments": 39,
+      "score": 223,
+      "comments": 40,
       "post_id": "t3_1n32i0v",
       "post_type": "link",
       "domain": "iai.tv",
@@ -43,33 +206,35 @@
       "flair": [
         "Blog"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
     },
     {
-      "title": "/r/philosophy Open Discussion Thread | September 01, 2025",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1n5ph08/rphilosophy_open_discussion_thread_september_01/",
-      "score": 22,
-      "comments": 16,
-      "post_id": "t3_1n5ph08",
-      "post_type": "text",
-      "domain": "self.philosophy",
-      "author": "BernardJOrtcutt",
-      "author_id": "t2_nmqzc",
+      "title": "Why Free Speech should be protected completely.",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1n8mb0o/why_free_speech_should_be_protected_completely/",
+      "score": 0,
+      "comments": 32,
+      "post_id": "t3_1n8mb0o",
+      "post_type": "link",
+      "domain": "aletheia.center",
+      "author": "Stochastis-",
+      "author_id": "t2_1vhsexkiqh",
       "subreddit_id": "t5_2qh5b",
       "subreddit": "r/philosophy",
-      "created_ts": "2025-09-01T14:00:17.309000+0000",
-      "content_href": "https://www.reddit.com/r/philosophy/comments/1n5ph08/rphilosophy_open_discussion_thread_september_01/",
+      "created_ts": "2025-09-04T21:09:40.118000+0000",
+      "content_href": "https://aletheia.center/articles/why-free-speech-matters-and-should-be-protected",
       "content_preview": "",
       "flair": [
-        "Open Thread"
+        "Blog"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f5jd08/styles/profileIcon_b0iob42s3hif1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=9e2ac344aa77d701549bbd7fea946fc97a2349b1",
+      "is_promoted": false
     },
     {
       "title": "The philosopher David Benatar’s ‘asymmetry argument’ suggests that, in virtually all cases, it’s wrong to have children. This article discusses his antinatalist position, as well as common arguments against it.",
       "permalink": "https://www.reddit.com/r/philosophy/comments/1mthtdf/the_philosopher_david_benatars_asymmetry_argument/",
-      "score": 644,
-      "comments": 315,
+      "score": 648,
+      "comments": 320,
       "post_id": "t3_1mthtdf",
       "post_type": "link",
       "domain": "philosophybreak.com",
@@ -83,153 +248,14 @@
       "flair": [
         "Blog"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_vfc73/styles/profileIcon_hbb6efxr73na1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=84ea5c178917e554eea165a7f687754e983801d2"
-    },
-    {
-      "title": "Tony Lawson – Social relations, social positioning theory and Marx",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1n5niy7/tony_lawson_social_relations_social_positioning/",
-      "score": 17,
-      "comments": 1,
-      "post_id": "t3_1n5niy7",
-      "post_type": "link",
-      "domain": "academic.oup.com",
-      "author": "dasmai1",
-      "author_id": "t2_i0kczvwi",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-09-01T12:36:25.591000+0000",
-      "content_href": "https://academic.oup.com/cje/advance-article/doi/10.1093/cje/beaf001/7976872",
-      "content_preview": "",
-      "flair": [
-        "Article"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "The Ancient Greeks on Tyranny, and today's politics",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1n12mr4/the_ancient_greeks_on_tyranny_and_todays_politics/",
-      "score": 165,
-      "comments": 111,
-      "post_id": "t3_1n12mr4",
-      "post_type": "link",
-      "domain": "theconversation.com",
-      "author": "Fickle-Buy6009",
-      "author_id": "t2_1e4szwbqdo",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-27T00:25:43.292000+0000",
-      "content_href": "https://theconversation.com/why-tyranny-could-be-the-inevitable-outcome-of-democracy-126158",
-      "content_preview": "",
-      "flair": [
-        "Blog"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_d178rw/styles/profileIcon_qsrrpm5p5sif1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=9e171675c9e3b7b053f4d03eb3b10735dcf61b34"
-    },
-    {
-      "title": "Panpsychism is crazy, but it’s also most probably true",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1n57qkn/panpsychism_is_crazy_but_its_also_most_probably/",
-      "score": 0,
-      "comments": 39,
-      "post_id": "t3_1n57qkn",
-      "post_type": "link",
-      "domain": "aeon.co",
-      "author": "ddgr815",
-      "author_id": "t2_a3uaazqa",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-31T22:15:57.426000+0000",
-      "content_href": "https://aeon.co/ideas/panpsychism-is-crazy-but-its-also-most-probably-true",
-      "content_preview": "",
-      "flair": [
-        "Blog"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_3ve1nc/styles/profileIcon_wnasnyqc9acc1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e75046a962c87217fe3913dcaf108a98bc7f674d"
-    },
-    {
-      "title": "A Proposed Resolution to the Paradox of the Ship of Theseus",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1n2s0nj/a_proposed_resolution_to_the_paradox_of_the_ship/",
-      "score": 0,
-      "comments": 84,
-      "post_id": "t3_1n2s0nj",
-      "post_type": "link",
-      "domain": "medium.com",
-      "author": "cordobeculiaw",
-      "author_id": "t2_5rwlvxhz",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-28T23:43:16.532000+0000",
-      "content_href": "https://medium.com/@cacciavillan.es/339f81824cd9",
-      "content_preview": "",
-      "flair": [
-        "Blog"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/pfnppTLsi1XyoaZv6YjJ0cGQG2CQSQ8B0AOSUInL7bU.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=24b8de26092a2490a8b66711a3845b884d0c4512"
-    },
-    {
-      "title": "Dostoevsky saw what the science-worshipping nihilists missed: human beings aren’t predictable machines. Any theory that tries to reduce us to rational laws ignores the deep contradictions, freedom, and mystery at the core of being human.",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1mesesq/dostoevsky_saw_what_the_scienceworshipping/",
-      "score": 495,
-      "comments": 248,
-      "post_id": "t3_1mesesq",
-      "post_type": "link",
-      "domain": "iai.tv",
-      "author": "IAI_Admin",
-      "author_id": "t2_143wgu",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-01T10:00:16.817000+0000",
-      "content_href": "https://iai.tv/articles/dostoevsky-nihilism-and-the-fight-for-human-nature-auid-3273?utm_source=reddit&_auid=2020",
-      "content_preview": "",
-      "flair": [
-        "Blog"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "Thoughts (Not Reality or Language) Is the Unit of Philosophical Analysis",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1n4yuxk/thoughts_not_reality_or_language_is_the_unit_of/",
-      "score": 0,
-      "comments": 6,
-      "post_id": "t3_1n4yuxk",
-      "post_type": "link",
-      "domain": "neonomos.substack.com",
-      "author": "contractualist",
-      "author_id": "t2_sqyp71xd",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-31T16:16:53.069000+0000",
-      "content_href": "https://neonomos.substack.com/p/the-laws-of-thought",
-      "content_preview": "",
-      "flair": [
-        "Blog"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/w0d3hQdaS83PkHGuhfMivxt0kHV2XTY8zq4vVi_W6Dw.jpeg?width=140&height=105&crop=140:105,smart&auto=webp&s=226f1c7134d72706a5c42fed7595953c047133f3"
-    },
-    {
-      "title": "The Babadook’s Surprisingly Insightful Take on the Psychology of Grief",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1n0cc68/the_babadooks_surprisingly_insightful_take_on_the/",
-      "score": 141,
-      "comments": 33,
-      "post_id": "t3_1n0cc68",
-      "post_type": "link",
-      "domain": "open.substack.com",
-      "author": "MikeyMalloy",
-      "author_id": "t2_1n9qi6himh",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-26T04:22:30.364000+0000",
-      "content_href": "https://open.substack.com/pub/lifeuniverseverything/p/dont-let-it-in?r=5iubsd&utm_medium=ios",
-      "content_preview": "",
-      "flair": [
-        "Blog"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_vfc73/styles/profileIcon_hbb6efxr73na1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=84ea5c178917e554eea165a7f687754e983801d2",
+      "is_promoted": false
     },
     {
       "title": "The quality theory of love deserves more love",
       "permalink": "https://www.reddit.com/r/philosophy/comments/1n2auc0/the_quality_theory_of_love_deserves_more_love/",
-      "score": 25,
-      "comments": 5,
+      "score": 28,
+      "comments": 7,
       "post_id": "t3_1n2auc0",
       "post_type": "link",
       "domain": "noeticpathways.substack.com",
@@ -243,267 +269,48 @@
       "flair": [
         "Blog"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "Philosophers must reckon with the meaning of thermodynamics by Drew M Dalton",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1n2b6hh/philosophers_must_reckon_with_the_meaning_of/",
-      "score": 105,
-      "comments": 45,
-      "post_id": "t3_1n2b6hh",
-      "post_type": "link",
-      "domain": "aeon.co",
-      "author": "aeon_magazine",
-      "author_id": "t2_1rr949j9a4",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-28T12:41:53.504000+0000",
-      "content_href": "https://aeon.co/essays/philosophers-must-reckon-with-the-meaning-of-thermodynamics?utm_source=reddit&utm_medium=social&utm_campaign=reality",
-      "content_preview": "",
-      "flair": [
-        "Blog"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_eq3917/styles/profileIcon_8sq5f0h1vn7f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a3b790542bbb82bfb05c4f893a9aae1f9b8f7d1a"
-    },
-    {
-      "title": "Slavoj Žižek says ‘Enjoy your symptoms.’ But I feel like paradise wont be boring - I broke it down here",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1n24n8q/slavoj_žižek_says_enjoy_your_symptoms_but_i_feel/",
-      "score": 16,
-      "comments": 5,
-      "post_id": "t3_1n24n8q",
-      "post_type": "link",
-      "domain": "medium.com",
-      "author": "LifeUnEzzy",
-      "author_id": "t2_rspvsh5wh",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-28T06:16:22.259000+0000",
-      "content_href": "https://medium.com/@shuklahet2704/problem-with-enjoy-your-symptoms-0d3c908dd78a",
-      "content_preview": "",
-      "flair": [
-        "Blog"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/lIr88Ymd4eKrSVFiIZrh3r0_9UrylnD8Im4ez9U46Hs.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=0cd1727f3d0e04127f50b1f672d8de298055ce4e"
-    },
-    {
-      "title": "Anti-AI Ideology Enforced at r/philosophy",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1mmr13z/antiai_ideology_enforced_at_rphilosophy/",
-      "score": 395,
-      "comments": 537,
-      "post_id": "t3_1mmr13z",
-      "post_type": "link",
-      "domain": "goodthoughts.blog",
-      "author": "Vegan_peace",
-      "author_id": "t2_hj2kc",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-10T19:04:40.678000+0000",
-      "content_href": "https://www.goodthoughts.blog/p/anti-ai-ideology-enforced-at-rphilosophy?utm_campaign=post&utm_medium=web",
-      "content_preview": "",
-      "flair": [
-        "Blog"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_bgbdb/styles/profileIcon_sbx3jk7y7pcd1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=622be0ad34c9e0dbe5a74ea10122a1738950fe87"
-    },
-    {
-      "title": "/r/philosophy Open Discussion Thread | August 25, 2025",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1mzra4g/rphilosophy_open_discussion_thread_august_25_2025/",
-      "score": 26,
-      "comments": 53,
-      "post_id": "t3_1mzra4g",
-      "post_type": "text",
-      "domain": "self.philosophy",
-      "author": "BernardJOrtcutt",
-      "author_id": "t2_nmqzc",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-25T14:00:17.337000+0000",
-      "content_href": "https://www.reddit.com/r/philosophy/comments/1mzra4g/rphilosophy_open_discussion_thread_august_25_2025/",
-      "content_preview": "",
-      "flair": [
-        "Open Thread"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Search for the self and you find only thoughts, sensations, and feelings - no thinker behind them. Yet without this elusive self, there would be no unified experience at all. The self is absent as an object but present as the condition that makes your world possible.",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1n1c6co/search_for_the_self_and_you_find_only_thoughts/",
-      "score": 81,
-      "comments": 37,
-      "post_id": "t3_1n1c6co",
-      "post_type": "link",
-      "domain": "iai.tv",
-      "author": "IAI_Admin",
-      "author_id": "t2_143wgu",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-27T09:18:28.358000+0000",
-      "content_href": "https://iai.tv/articles/the-self-exists-and-it-is-an-illusion-auid-3347?utm_source=reddit&_auid=2020",
-      "content_preview": "",
-      "flair": [
-        "Blog"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "Machiavelli on the problem of our impure beginnings | Aeon Essays",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1mynuu0/machiavelli_on_the_problem_of_our_impure/",
-      "score": 31,
-      "comments": 12,
-      "post_id": "t3_1mynuu0",
-      "post_type": "link",
-      "domain": "aeon.co",
-      "author": "Fickle-Buy6009",
-      "author_id": "t2_1e4szwbqdo",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-24T06:03:01.416000+0000",
-      "content_href": "https://aeon.co/essays/machiavelli-on-the-problem-of-our-impure-beginnings",
-      "content_preview": "",
-      "flair": [
-        "Blog"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_d178rw/styles/profileIcon_qsrrpm5p5sif1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=9e171675c9e3b7b053f4d03eb3b10735dcf61b34"
-    },
-    {
-      "title": "Podcast: Rheinberger on \"Epistemic Things\"",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1mwtg5u/podcast_rheinberger_on_epistemic_things/",
-      "score": 22,
-      "comments": 4,
-      "post_id": "t3_1mwtg5u",
-      "post_type": "link",
-      "domain": "open.spotify.com",
-      "author": "histphilsci2022",
-      "author_id": "t2_1qfgrwjwsa",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-22T01:33:53.989000+0000",
-      "content_href": "https://open.spotify.com/episode/7tTYHDxANugIwDpjPBbPbx?si=5c72b06b80c947c5",
-      "content_preview": "",
-      "flair": [
-        "Podcast"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Ethical Entropy: In Defence of Soul",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1mvjkvx/ethical_entropy_in_defence_of_soul/",
-      "score": 30,
-      "comments": 114,
-      "post_id": "t3_1mvjkvx",
-      "post_type": "link",
-      "domain": "jakehpark.substack.com",
-      "author": "JakeHPark",
-      "author_id": "t2_1p1sq4f04y",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-20T16:25:25.366000+0000",
-      "content_href": "https://jakehpark.substack.com/p/ethical-entropy-in-defence-of-soul",
-      "content_preview": "",
-      "flair": [
-        "Blog"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_eewyki/styles/profileIcon_v749wpfxxtze1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7daada62982721de3c4d7d6501f95c54b7cf175c"
-    },
-    {
-      "title": "AI Consciousness: A Centrist Manifesto",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1n2iy1y/ai_consciousness_a_centrist_manifesto/",
+      "title": "Idk. Sometimes you want to stay off grid. Get iPhone 16 Pro at Verizon. And clean up photos with Apple Intelligence.",
+      "permalink": "https://www.reddit.com/user/verizon/comments/1mvk2mx/idk_sometimes_you_want_to_stay_off_grid_get/",
       "score": 0,
-      "comments": 7,
-      "post_id": "t3_1n2iy1y",
-      "post_type": "link",
-      "domain": "philpapers.org",
-      "author": "F0urLeafCl0ver",
-      "author_id": "t2_i2q1tswh",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-28T17:41:51.291000+0000",
-      "content_href": "https://philpapers.org/archive/BIRACA-4.pdf",
+      "comments": 0,
+      "post_id": "t3_1mvk2mx",
+      "post_type": "video",
+      "domain": "verizon.com",
+      "author": "verizon",
+      "author_id": "t2_rmsuxt0",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-20T16:43:09.441000+0000",
+      "content_href": "https://v.redd.it/tcirixqbw5kf1",
       "content_preview": "",
-      "flair": [
-        "Paper [PDF]"
-      ],
-      "thumbnail_url": ""
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_b1n5c/styles/profileIcon_22vlrywe5oxd1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=2dbf86f00f342ad9a96083c3c149fd5c6834fb82",
+      "is_promoted": true
     },
     {
-      "title": "Heather Douglas on Science's Social Contract",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1n0mroz/heather_douglas_on_sciences_social_contract/",
-      "score": 43,
-      "comments": 24,
-      "post_id": "t3_1n0mroz",
+      "title": "The Last Days of Social Media",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1n6rttp/the_last_days_of_social_media/",
+      "score": 221,
+      "comments": 54,
+      "post_id": "t3_1n6rttp",
       "post_type": "link",
-      "domain": "thehpspodcast.buzzsprout.com",
-      "author": "histphilsci2022",
-      "author_id": "t2_1qfgrwjwsa",
+      "domain": "noemamag.com",
+      "author": "OldCorkonian",
+      "author_id": "t2_8udj1da2",
       "subreddit_id": "t5_2qh5b",
       "subreddit": "r/philosophy",
-      "created_ts": "2025-08-26T14:05:00.210000+0000",
-      "content_href": "https://thehpspodcast.buzzsprout.com/2180146/episodes/17629158-s5-e4-heather-douglas-on-rethinking-science-s-social-contract",
-      "content_preview": "",
-      "flair": [
-        "Podcast"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "We should expect weirdness, not coherence, at the deepest levels of existence. Our common sense is radically unequipped to grasp the true nature of reality and no philosophical or scientific theory escapes absurdity when fully played out.",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1mh7zrl/we_should_expect_weirdness_not_coherence_at_the/",
-      "score": 341,
-      "comments": 56,
-      "post_id": "t3_1mh7zrl",
-      "post_type": "link",
-      "domain": "iai.tv",
-      "author": "IAI_Admin",
-      "author_id": "t2_143wgu",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-04T08:35:36.192000+0000",
-      "content_href": "https://iai.tv/articles/consciousness-cosmology-and-the-collapse-of-common-sense-auid-3272?utm_source=reddit&_auid=2020",
+      "created_ts": "2025-09-02T18:42:59.045000+0000",
+      "content_href": "https://www.noemamag.com/the-last-days-of-social-media/",
       "content_preview": "",
       "flair": [
         "Blog"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "3 Common Positions of Object Ontology",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1mujrx3/3_common_positions_of_object_ontology/",
-      "score": 19,
-      "comments": 23,
-      "post_id": "t3_1mujrx3",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "RadicalPhilosophy",
-      "author_id": "t2_15turn30i3",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-19T14:19:21.730000+0000",
-      "content_href": "https://www.youtube.com/watch?v=FMi97BkUdgE",
-      "content_preview": "",
-      "flair": [
-        "Video"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_c4c4d0/styles/profileIcon_f2l464hroqjf1.JPG?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=940fa01d865ff5a8024cb429eab0a779591f93ca"
-    },
-    {
-      "title": "Podcast on measurement in the human sciences",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1mudycf/podcast_on_measurement_in_the_human_sciences/",
-      "score": 28,
-      "comments": 2,
-      "post_id": "t3_1mudycf",
-      "post_type": "link",
-      "domain": "podcasts.apple.com",
-      "author": "Timely-Broccoli-5505",
-      "author_id": "t2_10pvfy19gq",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-19T09:49:57.832000+0000",
-      "content_href": "https://podcasts.apple.com/au/podcast/s5-e5-cristian-larroulet-philippi-on-measurement-in/id1690325840?i=1000721948420",
-      "content_preview": "",
-      "flair": [
-        "Podcast"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://external-preview.redd.it/zehv6HsiTGfClKpwp21i0xTtEnWXB8n2W0k8IpLL9KU.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=befc0fb5e2f1fce38d55537910c539c2e9ea221a",
+      "is_promoted": false
     },
     {
       "title": "An Analysis of the Moral Education Theory of Punishment",
@@ -523,47 +330,172 @@
       "flair": [
         "Blog"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
-      "title": "Sexual ethics and the private lives of philosphers | From Diogenes to Deleuze",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1n14p7j/sexual_ethics_and_the_private_lives_of/",
-      "score": 35,
-      "comments": 5,
-      "post_id": "t3_1n14p7j",
+      "title": "Some Thoughts on Antinatalism",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1n8w8is/some_thoughts_on_antinatalism/",
+      "score": 6,
+      "comments": 1,
+      "post_id": "t3_1n8w8is",
       "post_type": "link",
-      "domain": "youtu.be",
-      "author": "AnalysisReady4799",
-      "author_id": "t2_1qjw5o6aim",
+      "domain": "open.substack.com",
+      "author": "MikeyMalloy",
+      "author_id": "t2_1n9qi6himh",
       "subreddit_id": "t5_2qh5b",
       "subreddit": "r/philosophy",
-      "created_ts": "2025-08-27T02:02:45.462000+0000",
-      "content_href": "https://youtu.be/vtzSD0IrxCw",
+      "created_ts": "2025-09-05T04:53:15.520000+0000",
+      "content_href": "https://open.substack.com/pub/lifeuniverseverything/p/some-thoughts-on-antinatalism?r=5iubsd&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
       "content_preview": "",
-      "flair": [
-        "Video"
-      ],
-      "thumbnail_url": ""
+      "flair": [],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
-      "title": "Solving the Sorites Paradox and the Ship of Theseus Paradox (by describing the nature of language, reality, and thoughts).",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1mujt4z/solving_the_sorites_paradox_and_the_ship_of/",
-      "score": 0,
-      "comments": 58,
-      "post_id": "t3_1mujt4z",
+      "title": "Anti-AI Ideology Enforced at r/philosophy",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1mmr13z/antiai_ideology_enforced_at_rphilosophy/",
+      "score": 396,
+      "comments": 534,
+      "post_id": "t3_1mmr13z",
       "post_type": "link",
-      "domain": "neonomos.substack.com",
-      "author": "contractualist",
-      "author_id": "t2_sqyp71xd",
+      "domain": "goodthoughts.blog",
+      "author": "Vegan_peace",
+      "author_id": "t2_hj2kc",
       "subreddit_id": "t5_2qh5b",
       "subreddit": "r/philosophy",
-      "created_ts": "2025-08-19T14:20:37.729000+0000",
-      "content_href": "https://neonomos.substack.com/p/words-things-and-thoughts",
+      "created_ts": "2025-08-10T19:04:40.678000+0000",
+      "content_href": "https://www.goodthoughts.blog/p/anti-ai-ideology-enforced-at-rphilosophy?utm_campaign=post&utm_medium=web",
       "content_preview": "",
       "flair": [
         "Blog"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/HDSUc5TtwxsWZaIGbLYtZQUUSI-vpLhZcD2oF5U8v40.jpeg?width=140&height=106&crop=140:106,smart&auto=webp&s=f6fed6f5da78d2853afaea18d30e013e758177c6"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bgbdb/styles/profileIcon_sbx3jk7y7pcd1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=622be0ad34c9e0dbe5a74ea10122a1738950fe87",
+      "is_promoted": false
+    },
+    {
+      "title": "Slavoj Žižek says ‘Enjoy your symptoms.’ But I feel like paradise wont be boring - I broke it down here",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1n24n8q/slavoj_žižek_says_enjoy_your_symptoms_but_i_feel/",
+      "score": 17,
+      "comments": 5,
+      "post_id": "t3_1n24n8q",
+      "post_type": "link",
+      "domain": "medium.com",
+      "author": "LifeUnEzzy",
+      "author_id": "t2_rspvsh5wh",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-28T06:16:22.259000+0000",
+      "content_href": "https://medium.com/@shuklahet2704/problem-with-enjoy-your-symptoms-0d3c908dd78a",
+      "content_preview": "",
+      "flair": [
+        "Blog"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/lIr88Ymd4eKrSVFiIZrh3r0_9UrylnD8Im4ez9U46Hs.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=0cd1727f3d0e04127f50b1f672d8de298055ce4e",
+      "is_promoted": false
+    },
+    {
+      "title": "Lydia Patton on History of Philosophy of Science",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1n62bbg/lydia_patton_on_history_of_philosophy_of_science/",
+      "score": 73,
+      "comments": 19,
+      "post_id": "t3_1n62bbg",
+      "post_type": "link",
+      "domain": "open.spotify.com",
+      "author": "histphilsci2022",
+      "author_id": "t2_1qfgrwjwsa",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-09-01T22:09:32.562000+0000",
+      "content_href": "https://open.spotify.com/episode/4BGMNit1ESY3TzaM4eJM5S?si=bc7bdf4b6b9b406f",
+      "content_preview": "",
+      "flair": [
+        "Podcast"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "A Proposed Resolution to the Paradox of the Ship of Theseus",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1n2s0nj/a_proposed_resolution_to_the_paradox_of_the_ship/",
+      "score": 0,
+      "comments": 84,
+      "post_id": "t3_1n2s0nj",
+      "post_type": "link",
+      "domain": "medium.com",
+      "author": "cordobeculiaw",
+      "author_id": "t2_5rwlvxhz",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-28T23:43:16.532000+0000",
+      "content_href": "https://medium.com/@cacciavillan.es/339f81824cd9",
+      "content_preview": "",
+      "flair": [
+        "Blog"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/pfnppTLsi1XyoaZv6YjJ0cGQG2CQSQ8B0AOSUInL7bU.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=24b8de26092a2490a8b66711a3845b884d0c4512",
+      "is_promoted": false
+    },
+    {
+      "title": "Apple Event. September 9 at 10 a.m. PT. Tune in for awe dropping special announcements.",
+      "permalink": "https://www.reddit.com/user/apple/comments/1n1vz54/apple_event_september_9_at_10_am_pt_tune_in_for/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n1vz54",
+      "post_type": "video",
+      "domain": "reddit.com",
+      "author": "apple",
+      "author_id": "t2_2q9crlrw",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-27T22:59:51.073000+0000",
+      "content_href": "https://v.redd.it/l7ma6pxwpllf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_13x7do/styles/profileIcon_rdqjx06yy2ke1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=a2c7b630839ea8d12b4c48899aaf3a7f23be4a87",
+      "is_promoted": true
+    },
+    {
+      "title": "Corrected: The Art of Not Knowing",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1n5xx02/corrected_the_art_of_not_knowing/",
+      "score": 43,
+      "comments": 12,
+      "post_id": "t3_1n5xx02",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "BrainyDeLaney",
+      "author_id": "t2_13ovqx",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-09-01T19:15:52.505000+0000",
+      "content_href": "https://youtu.be/2IV4NeqnNRM",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "AI Consciousness: A Centrist Manifesto",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1n2iy1y/ai_consciousness_a_centrist_manifesto/",
+      "score": 0,
+      "comments": 8,
+      "post_id": "t3_1n2iy1y",
+      "post_type": "link",
+      "domain": "philpapers.org",
+      "author": "F0urLeafCl0ver",
+      "author_id": "t2_i2q1tswh",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-28T17:41:51.291000+0000",
+      "content_href": "https://philpapers.org/archive/BIRACA-4.pdf",
+      "content_preview": "",
+      "flair": [
+        "Paper [PDF]"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "Many hope that AI will discover ethical truths. But as Gödel shows, deciding what is right will always be our burden",
@@ -583,53 +515,35 @@
       "flair": [
         "Blog"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_eq3917/styles/profileIcon_8sq5f0h1vn7f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a3b790542bbb82bfb05c4f893a9aae1f9b8f7d1a"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eq3917/styles/profileIcon_8sq5f0h1vn7f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a3b790542bbb82bfb05c4f893a9aae1f9b8f7d1a",
+      "is_promoted": false
     },
     {
-      "title": "AI Ethics based on animal ethics",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1mupg48/ai_ethics_based_on_animal_ethics/",
-      "score": 0,
-      "comments": 37,
-      "post_id": "t3_1mupg48",
+      "title": "Sexual ethics and the private lives of philosphers | From Diogenes to Deleuze",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1n14p7j/sexual_ethics_and_the_private_lives_of/",
+      "score": 35,
+      "comments": 5,
+      "post_id": "t3_1n14p7j",
       "post_type": "link",
-      "domain": "medium.com",
-      "author": "WorkingLocal2027",
-      "author_id": "t2_1vy40if5s4",
+      "domain": "youtu.be",
+      "author": "AnalysisReady4799",
+      "author_id": "t2_1qjw5o6aim",
       "subreddit_id": "t5_2qh5b",
       "subreddit": "r/philosophy",
-      "created_ts": "2025-08-19T17:43:35.204000+0000",
-      "content_href": "https://medium.com/@robertjdrehmann/robot-rights-0c298ff35db7",
+      "created_ts": "2025-08-27T02:02:45.462000+0000",
+      "content_href": "https://youtu.be/vtzSD0IrxCw",
       "content_preview": "",
       "flair": [
-        "Blog"
+        "Video"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "/r/philosophy Open Discussion Thread | August 18, 2025",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1mtmv7w/rphilosophy_open_discussion_thread_august_18_2025/",
-      "score": 6,
-      "comments": 104,
-      "post_id": "t3_1mtmv7w",
-      "post_type": "text",
-      "domain": "self.philosophy",
-      "author": "BernardJOrtcutt",
-      "author_id": "t2_nmqzc",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-18T14:00:17.421000+0000",
-      "content_href": "https://www.reddit.com/r/philosophy/comments/1mtmv7w/rphilosophy_open_discussion_thread_august_18_2025/",
-      "content_preview": "",
-      "flair": [
-        "Open Thread"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "Conspiracy theories are dangerous even if very few people believe them",
       "permalink": "https://www.reddit.com/r/philosophy/comments/1mypkly/conspiracy_theories_are_dangerous_even_if_very/",
-      "score": 184,
-      "comments": 108,
+      "score": 185,
+      "comments": 109,
       "post_id": "t3_1mypkly",
       "post_type": "link",
       "domain": "theconversation.com",
@@ -643,67 +557,8 @@
       "flair": [
         "Blog"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Freedom Is Terrifying. Love Is the Answer.",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1mpoddh/freedom_is_terrifying_love_is_the_answer/",
-      "score": 165,
-      "comments": 36,
-      "post_id": "t3_1mpoddh",
-      "post_type": "link",
-      "domain": "01101001x01101100x01111001.substack.com",
-      "author": "GeorgeTillingbanks",
-      "author_id": "t2_xzfly6pfl",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-14T02:33:56.809000+0000",
-      "content_href": "https://01101001x01101100x01111001.substack.com/p/freedom-is-terrifying-love-is-the",
-      "content_preview": "",
-      "flair": [
-        "Blog"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "A more contextual way to read Wittgenstein’s Tractatus ... each proposition shown directly under “parent” propositions",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1mr1ha2/a_more_contextual_way_to_read_wittgensteins/",
-      "score": 126,
-      "comments": 23,
-      "post_id": "t3_1mr1ha2",
-      "post_type": "link",
-      "domain": "readtractatus.com",
-      "author": "john_b_walsh",
-      "author_id": "t2_8g8o3gie",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-15T15:41:18.228000+0000",
-      "content_href": "http://readtractatus.com",
-      "content_preview": "",
-      "flair": [
-        "Education"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "The Qualia Projection Mechanism: From Neural Information to Conscious Experience",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1mrdvc6/the_qualia_projection_mechanism_from_neural/",
-      "score": 22,
-      "comments": 19,
-      "post_id": "t3_1mrdvc6",
-      "post_type": "link",
-      "domain": "philpapers.org",
-      "author": "Arakari",
-      "author_id": "t2_2x75065",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-15T23:21:01.378000+0000",
-      "content_href": "https://philpapers.org/rec/ANDWDP-3",
-      "content_preview": "",
-      "flair": [
-        "Paper [PDF]"
-      ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
       "title": "Verbal Subjectivity and Resistance in The Narrative of the Life of Frederick Douglass",
@@ -723,27 +578,422 @@
       "flair": [
         "Blog"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
-      "title": "What Truth Is (proposing a definition of \"Truth\")",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1ms46f8/what_truth_is_proposing_a_definition_of_truth/",
+      "title": "Actually, Correlation *is* Causation - or at least evidence of causation.",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1n88ed6/actually_correlation_is_causation_or_at_least/",
       "score": 0,
-      "comments": 44,
-      "post_id": "t3_1ms46f8",
+      "comments": 31,
+      "post_id": "t3_1n88ed6",
+      "post_type": "link",
+      "domain": "open.substack.com",
+      "author": "SilasTheSavage",
+      "author_id": "t2_12e5dc",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-09-04T12:10:55.366000+0000",
+      "content_href": "https://open.substack.com/pub/wonderandaporia/p/correlation-is-causation?utm_source=share&utm_medium=android&r=1l11lq",
+      "content_preview": "",
+      "flair": [
+        "Blog"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/8najeMEvnxRZvOZPQhzUw8HOuCE6PD4-DiAlWcSAFIg.jpeg?width=140&height=70&crop=140:70,smart&auto=webp&s=02de0f5e85624cfab52b39ee4823f98ae53b50d0",
+      "is_promoted": false
+    },
+    {
+      "title": "It’s not the deli, it’s Deli Fresh.",
+      "permalink": "https://www.reddit.com/user/OscarMayerOfficial/comments/1l9p5j4/its_not_the_deli_its_deli_fresh/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1l9p5j4",
+      "post_type": "image",
+      "domain": "oscarmayer.com",
+      "author": "OscarMayerOfficial",
+      "author_id": "t2_76z4bmr1",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-06-12T15:20:09.133000+0000",
+      "content_href": "https://www.oscarmayer.com/products/00044700030509-oven-roasted-turkey-breast-sliced-lunch-meat-for-a-low-carb-lifestyle/?utm_medium=paidsocial&utm_source=reddit&utm_campaign={{CAMPAIGN_ID}}&utm_adgroup={{ADGROUP_ID}}&utm_content={{AD_ID}}",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2u4u3b/styles/profileIcon_unix7tbipewc1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=d4027ddafdf685916d4b41e707ade90949cdd0e7",
+      "is_promoted": true
+    },
+    {
+      "title": "/r/philosophy Open Discussion Thread | August 25, 2025",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1mzra4g/rphilosophy_open_discussion_thread_august_25_2025/",
+      "score": 26,
+      "comments": 55,
+      "post_id": "t3_1mzra4g",
+      "post_type": "text",
+      "domain": "self.philosophy",
+      "author": "BernardJOrtcutt",
+      "author_id": "t2_nmqzc",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-25T14:00:17.337000+0000",
+      "content_href": "https://www.reddit.com/r/philosophy/comments/1mzra4g/rphilosophy_open_discussion_thread_august_25_2025/",
+      "content_preview": "Welcome to this week's Open Discussion Thread. This thread is a place for posts/comments which are related to philosophy but wouldn't necessarily meet ourposting rules(especially posting rule 2).  For example, these threads are great places for:Arguments that aren't substantive enough to meet PR2.Open discussion about philosophy, e.g. who your favourite philosopher is, what you are currently readingPhilosophical questions. Please note thatr/askphilosophyis a great resource for questions and if you are looking for moderated answers we suggest you ask there.This thread isnota completely open discussion! Any posts not relating to philosophy will be removed. Please keep comments related to philosophy, and expect low-effort comments to be removed. All of our normal commenting rules are still in place for these threads, although we will be more lenient with regards to commenting rule 2.Previous Open Discussion Threads can be foundhere.",
+      "flair": [
+        "Open Thread"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Antinatalism Is Logically Incoherent :)",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1n7jhwd/antinatalism_is_logically_incoherent/",
+      "score": 0,
+      "comments": 74,
+      "post_id": "t3_1n7jhwd",
+      "post_type": "link",
+      "domain": "medium.com",
+      "author": "CombNo7026",
+      "author_id": "t2_yt33tmiiz",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-09-03T16:26:44.342000+0000",
+      "content_href": "https://medium.com/@legendarykamil/antinatalism-and-its-limits-reflections-on-value-suffering-and-existence-0decef07def5",
+      "content_preview": "",
+      "flair": [
+        "Blog"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "/r/philosophy Open Discussion Thread | September 01, 2025",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1n5ph08/rphilosophy_open_discussion_thread_september_01/",
+      "score": 30,
+      "comments": 109,
+      "post_id": "t3_1n5ph08",
+      "post_type": "text",
+      "domain": "self.philosophy",
+      "author": "BernardJOrtcutt",
+      "author_id": "t2_nmqzc",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-09-01T14:00:17.309000+0000",
+      "content_href": "https://www.reddit.com/r/philosophy/comments/1n5ph08/rphilosophy_open_discussion_thread_september_01/",
+      "content_preview": "Welcome to this week's Open Discussion Thread. This thread is a place for posts/comments which are related to philosophy but wouldn't necessarily meet ourposting rules(especially posting rule 2).  For example, these threads are great places for:Arguments that aren't substantive enough to meet PR2.Open discussion about philosophy, e.g. who your favourite philosopher is, what you are currently readingPhilosophical questions. Please note thatr/askphilosophyis a great resource for questions and if you are looking for moderated answers we suggest you ask there.This thread isnota completely open discussion! Any posts not relating to philosophy will be removed. Please keep comments related to philosophy, and expect low-effort comments to be removed. All of our normal commenting rules are still in place for these threads, although we will be more lenient with regards to commenting rule 2.Previous Open Discussion Threads can be foundhere.",
+      "flair": [
+        "Open Thread"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "The Ancient Greeks on Tyranny, and today's politics",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1n12mr4/the_ancient_greeks_on_tyranny_and_todays_politics/",
+      "score": 165,
+      "comments": 111,
+      "post_id": "t3_1n12mr4",
+      "post_type": "link",
+      "domain": "theconversation.com",
+      "author": "Fickle-Buy6009",
+      "author_id": "t2_1e4szwbqdo",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-27T00:25:43.292000+0000",
+      "content_href": "https://theconversation.com/why-tyranny-could-be-the-inevitable-outcome-of-democracy-126158",
+      "content_preview": "",
+      "flair": [
+        "Blog"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_d178rw/styles/profileIcon_qsrrpm5p5sif1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=9e171675c9e3b7b053f4d03eb3b10735dcf61b34",
+      "is_promoted": false
+    },
+    {
+      "title": "Tony Lawson – Social relations, social positioning theory and Marx",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1n5niy7/tony_lawson_social_relations_social_positioning/",
+      "score": 21,
+      "comments": 1,
+      "post_id": "t3_1n5niy7",
+      "post_type": "link",
+      "domain": "academic.oup.com",
+      "author": "dasmai1",
+      "author_id": "t2_i0kczvwi",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-09-01T12:36:25.591000+0000",
+      "content_href": "https://academic.oup.com/cje/advance-article/doi/10.1093/cje/beaf001/7976872",
+      "content_preview": "",
+      "flair": [
+        "Article"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Freedom Is Terrifying. Love Is the Answer.",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1mpoddh/freedom_is_terrifying_love_is_the_answer/",
+      "score": 165,
+      "comments": 36,
+      "post_id": "t3_1mpoddh",
+      "post_type": "link",
+      "domain": "01101001x01101100x01111001.substack.com",
+      "author": "GeorgeTillingbanks",
+      "author_id": "t2_xzfly6pfl",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-14T02:33:56.809000+0000",
+      "content_href": "https://01101001x01101100x01111001.substack.com/p/freedom-is-terrifying-love-is-the",
+      "content_preview": "",
+      "flair": [
+        "Blog"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "The Babadook’s Surprisingly Insightful Take on the Psychology of Grief",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1n0cc68/the_babadooks_surprisingly_insightful_take_on_the/",
+      "score": 141,
+      "comments": 33,
+      "post_id": "t3_1n0cc68",
+      "post_type": "link",
+      "domain": "open.substack.com",
+      "author": "MikeyMalloy",
+      "author_id": "t2_1n9qi6himh",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-26T04:22:30.364000+0000",
+      "content_href": "https://open.substack.com/pub/lifeuniverseverything/p/dont-let-it-in?r=5iubsd&utm_medium=ios",
+      "content_preview": "",
+      "flair": [
+        "Blog"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "TL;DR: get all the ingredients you need for a simply delicious & affordable meal in just 1 tap. We’ll deliver it right to your door. Subject to availability. Restrictions & fees apply.",
+      "permalink": "https://www.reddit.com/user/walmart/comments/1m91t17/tldr_get_all_the_ingredients_you_need_for_a/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1m91t17",
+      "post_type": "image",
+      "domain": "walmart.com",
+      "author": "walmart",
+      "author_id": "t2_1ozytczjf4",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-25T15:13:00.591000+0000",
+      "content_href": "https://www.walmart.com/i/recipe-library?povid=GlobalNav_rWeb_Grocery_Grocery_Recipes&adid=1500000020090000086709&veh=dsn&wmlspartner=pubw_rdt&cn=fy26-bdb-exps-exps-brtr-3p_aws_msp_dsn_soc_rdt_n_n_n",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eeni6o/styles/profileIcon_np6zi2gr6kkf1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=f228dada134a60870a6ead226ca12efea5301a99",
+      "is_promoted": true
+    },
+    {
+      "title": "Machiavelli on the problem of our impure beginnings | Aeon Essays",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1mynuu0/machiavelli_on_the_problem_of_our_impure/",
+      "score": 31,
+      "comments": 12,
+      "post_id": "t3_1mynuu0",
+      "post_type": "link",
+      "domain": "aeon.co",
+      "author": "Fickle-Buy6009",
+      "author_id": "t2_1e4szwbqdo",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-24T06:03:01.416000+0000",
+      "content_href": "https://aeon.co/essays/machiavelli-on-the-problem-of-our-impure-beginnings",
+      "content_preview": "",
+      "flair": [
+        "Blog"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_d178rw/styles/profileIcon_qsrrpm5p5sif1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=9e171675c9e3b7b053f4d03eb3b10735dcf61b34",
+      "is_promoted": false
+    },
+    {
+      "title": "Podcast: Rheinberger on \"Epistemic Things\"",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1mwtg5u/podcast_rheinberger_on_epistemic_things/",
+      "score": 22,
+      "comments": 4,
+      "post_id": "t3_1mwtg5u",
+      "post_type": "link",
+      "domain": "open.spotify.com",
+      "author": "histphilsci2022",
+      "author_id": "t2_1qfgrwjwsa",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-22T01:33:53.989000+0000",
+      "content_href": "https://open.spotify.com/episode/7tTYHDxANugIwDpjPBbPbx?si=5c72b06b80c947c5",
+      "content_preview": "",
+      "flair": [
+        "Podcast"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "The Philosophy of Philosophy (or why philosophy is so hard)",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1n3t91z/the_philosophy_of_philosophy_or_why_philosophy_is/",
+      "score": 0,
+      "comments": 23,
+      "post_id": "t3_1n3t91z",
       "post_type": "link",
       "domain": "neonomos.substack.com",
       "author": "contractualist",
       "author_id": "t2_sqyp71xd",
       "subreddit_id": "t5_2qh5b",
       "subreddit": "r/philosophy",
-      "created_ts": "2025-08-16T18:54:00.999000+0000",
-      "content_href": "https://neonomos.substack.com/p/what-is-truth-part-1-defining-truth",
+      "created_ts": "2025-08-30T05:10:41.866000+0000",
+      "content_href": "https://neonomos.substack.com/p/the-philosophy-of-philosophy",
       "content_preview": "",
       "flair": [
         "Blog"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/69irTFIWXJ2GtF2PTj5h0oCmVDHwa07S4E7qKYncijY.jpeg?width=140&height=140&crop=140:140,smart&auto=webp&s=0190ca521bac76459fc1dfd298a53f43f644a950"
+      "thumbnail_url": "https://external-preview.redd.it/AAIbSrUHIPAyuzSNkPR1eNvYIzgmar7o6yxnh4uxScY.jpeg?width=140&height=140&crop=140:140,smart&auto=webp&s=c4e96917508871064849018395beb0f00887277c",
+      "is_promoted": false
+    },
+    {
+      "title": "Ethical Entropy: In Defence of Soul",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1mvjkvx/ethical_entropy_in_defence_of_soul/",
+      "score": 30,
+      "comments": 114,
+      "post_id": "t3_1mvjkvx",
+      "post_type": "link",
+      "domain": "jakehpark.substack.com",
+      "author": "JakeHPark",
+      "author_id": "t2_1p1sq4f04y",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-20T16:25:25.366000+0000",
+      "content_href": "https://jakehpark.substack.com/p/ethical-entropy-in-defence-of-soul",
+      "content_preview": "",
+      "flair": [
+        "Blog"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eewyki/styles/profileIcon_v749wpfxxtze1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7daada62982721de3c4d7d6501f95c54b7cf175c",
+      "is_promoted": false
+    },
+    {
+      "title": "A more contextual way to read Wittgenstein’s Tractatus ... each proposition shown directly under “parent” propositions",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1mr1ha2/a_more_contextual_way_to_read_wittgensteins/",
+      "score": 126,
+      "comments": 23,
+      "post_id": "t3_1mr1ha2",
+      "post_type": "link",
+      "domain": "readtractatus.com",
+      "author": "john_b_walsh",
+      "author_id": "t2_8g8o3gie",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-15T15:41:18.228000+0000",
+      "content_href": "http://readtractatus.com",
+      "content_preview": "",
+      "flair": [
+        "Education"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "3 Common Positions of Object Ontology",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1mujrx3/3_common_positions_of_object_ontology/",
+      "score": 19,
+      "comments": 23,
+      "post_id": "t3_1mujrx3",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "RadicalPhilosophy",
+      "author_id": "t2_15turn30i3",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-19T14:19:21.730000+0000",
+      "content_href": "https://www.youtube.com/watch?v=FMi97BkUdgE",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_c4c4d0/styles/profileIcon_f2l464hroqjf1.JPG?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=940fa01d865ff5a8024cb429eab0a779591f93ca",
+      "is_promoted": false
+    },
+    {
+      "title": "Thoughts (Not Reality or Language) Is the Unit of Philosophical Analysis",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1n4yuxk/thoughts_not_reality_or_language_is_the_unit_of/",
+      "score": 0,
+      "comments": 6,
+      "post_id": "t3_1n4yuxk",
+      "post_type": "link",
+      "domain": "neonomos.substack.com",
+      "author": "contractualist",
+      "author_id": "t2_sqyp71xd",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-31T16:16:53.069000+0000",
+      "content_href": "https://neonomos.substack.com/p/the-laws-of-thought",
+      "content_preview": "",
+      "flair": [
+        "Blog"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/w0d3hQdaS83PkHGuhfMivxt0kHV2XTY8zq4vVi_W6Dw.jpeg?width=140&height=105&crop=140:105,smart&auto=webp&s=226f1c7134d72706a5c42fed7595953c047133f3",
+      "is_promoted": false
+    },
+    {
+      "title": "WFH (working from highways): the definitive guide",
+      "permalink": "https://www.reddit.com/user/tmobile/comments/1mxbb8w/wfh_working_from_highways_the_definitive_guide/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mxbb8w",
+      "post_type": "multi_media",
+      "domain": "",
+      "author": "tmobile",
+      "author_id": "t2_2mrvdl8y",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-22T16:32:33.782000+0000",
+      "content_href": "https://www.reddit.com/r/u_tmobile/comments/1mxbb8w/wfh_working_from_highways_the_definitive_guide/",
+      "content_preview": "It’s never been easier to live the digital nomad lifestyle. Here are some tips to help you work (or, you know, not work) from pretty much wherever (home, highways, canyons, etc.). If you want to work from wherever, you need a reliable, expansive network. T-Mobile’s got that and tons of other travel-perfect perks ready for you.DIGITAL NOMAD-ING: A HOW-TO GUIDE1. Lock in a reliable remote connection:Surprise surprise, the first tip in a T-Mobile post is about your network. BUT... stay with us. It’s first because the whole ‘digital nomad’ thing is all about staying connected while you’re traveling. T-Mobile keeps you online with the largest,fastest, and most advanced network available. Just one of the reasons people are calling us the Best Network (officially) according to Ookla® Speedtest®.12.Treat your car like your child (because it basically is):When you’re living the nomad lifestyle, your car is your castle. Your sacred place. Your literal window to the world. Be sure you stay up-to-date on maintenance, keep that gas tank full, and have a first-aid kit in your trunk. Nice-to-know: You can get a year of AAA on us when you switchto T-Mobile, just in case you’re so focused on nature’s beauty that you forget to fill up.23. ABPFAP (always be prepared for a picnic):There are beautiful, stunning, totally-take-your-breath-away views out there just waiting to be… viewed. Make sure you’ve got a picnic go-bag in your trunk (blanket, cards, snacks, maybe even a …cooler?). With more 5Ginterstate highway miles on T-Mobile than with any other provider,3it’s easy to track down hidden gems on your route where picnics seem to grow on trees.4. Catching Zzzs:Sleeping under the stars or in a tent can be serene. It can also quite literally break your back. Every now and then, you’ll want to sprinkle in a night somewhere that has a bed and a shower. Good thing you can save up to 40% on hotels and car rentals as a T-Mobile member.41 Based on analysis by Ookla of Speedtest Intelligence® data 1H 2025. Ookla trademarks used under license and reprinted with permission.2 One year Basic or Classic membership on us requires active voice line on eligible plan, registration, and validation. Membership renews at standard club rate after year on us. Cancel anytime.3 Coverage not available in some areas Some uses may require certain plan or feature; see plan for details.4 Qualifying service or T-Mobile MONEY account required.",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_wkpt1/styles/profileIcon_ourlxm14dyd91.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=830348a441f4d3f0b64ccc814475ac14d30ca85a",
+      "is_promoted": true
+    },
+    {
+      "title": "Panpsychism is crazy, but it’s also most probably true",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1n57qkn/panpsychism_is_crazy_but_its_also_most_probably/",
+      "score": 0,
+      "comments": 43,
+      "post_id": "t3_1n57qkn",
+      "post_type": "link",
+      "domain": "aeon.co",
+      "author": "ddgr815",
+      "author_id": "t2_a3uaazqa",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-31T22:15:57.426000+0000",
+      "content_href": "https://aeon.co/ideas/panpsychism-is-crazy-but-its-also-most-probably-true",
+      "content_preview": "",
+      "flair": [
+        "Blog"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3ve1nc/styles/profileIcon_wnasnyqc9acc1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e75046a962c87217fe3913dcaf108a98bc7f674d",
+      "is_promoted": false
+    },
+    {
+      "title": "Solving the Sorites Paradox and the Ship of Theseus Paradox (by describing the nature of language, reality, and thoughts).",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1mujt4z/solving_the_sorites_paradox_and_the_ship_of/",
+      "score": 0,
+      "comments": 58,
+      "post_id": "t3_1mujt4z",
+      "post_type": "link",
+      "domain": "neonomos.substack.com",
+      "author": "contractualist",
+      "author_id": "t2_sqyp71xd",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-19T14:20:37.729000+0000",
+      "content_href": "https://neonomos.substack.com/p/words-things-and-thoughts",
+      "content_preview": "",
+      "flair": [
+        "Blog"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/HDSUc5TtwxsWZaIGbLYtZQUUSI-vpLhZcD2oF5U8v40.jpeg?width=140&height=106&crop=140:106,smart&auto=webp&s=f6fed6f5da78d2853afaea18d30e013e758177c6",
+      "is_promoted": false
     },
     {
       "title": "Schopenhauer and how to overcome your negativity bias | Since we’re wired to dwell on pain, happiness is often just a relief from suffering. But by practising gratitude even through pain, we can find joy before the suffering ends.",
@@ -763,13 +1013,201 @@
       "flair": [
         "Blog"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "When we confuse data with truth, we mistake the map for the territory. | Cyber-Pythagoreanism tries to reduce the messy human reality to numbers. But life isn’t quantifiable. The moment we treat models as truth, we start living in a fiction only machines believe.",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1mkqdyw/when_we_confuse_data_with_truth_we_mistake_the/",
+      "score": 116,
+      "comments": 47,
+      "post_id": "t3_1mkqdyw",
+      "post_type": "link",
+      "domain": "iai.tv",
+      "author": "IAI_Admin",
+      "author_id": "t2_143wgu",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-08T09:13:06.746000+0000",
+      "content_href": "https://iai.tv/articles/truth-is-deeper-than-mathematics-auid-3278?utm_source=reddit&_auid=2020",
+      "content_preview": "",
+      "flair": [
+        "Blog"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "AI Ethics based on animal ethics",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1mupg48/ai_ethics_based_on_animal_ethics/",
+      "score": 0,
+      "comments": 37,
+      "post_id": "t3_1mupg48",
+      "post_type": "link",
+      "domain": "medium.com",
+      "author": "WorkingLocal2027",
+      "author_id": "t2_1vy40if5s4",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-19T17:43:35.204000+0000",
+      "content_href": "https://medium.com/@robertjdrehmann/robot-rights-0c298ff35db7",
+      "content_preview": "",
+      "flair": [
+        "Blog"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Philosophers must reckon with the meaning of thermodynamics by Drew M Dalton",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1n2b6hh/philosophers_must_reckon_with_the_meaning_of/",
+      "score": 108,
+      "comments": 46,
+      "post_id": "t3_1n2b6hh",
+      "post_type": "link",
+      "domain": "aeon.co",
+      "author": "aeon_magazine",
+      "author_id": "t2_1rr949j9a4",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-28T12:41:53.504000+0000",
+      "content_href": "https://aeon.co/essays/philosophers-must-reckon-with-the-meaning-of-thermodynamics?utm_source=reddit&utm_medium=social&utm_campaign=reality",
+      "content_preview": "",
+      "flair": [
+        "Blog"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eq3917/styles/profileIcon_8sq5f0h1vn7f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a3b790542bbb82bfb05c4f893a9aae1f9b8f7d1a",
+      "is_promoted": false
+    },
+    {
+      "title": "The Meaning of Life is Beside the Point",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1mx8xdp/the_meaning_of_life_is_beside_the_point/",
+      "score": 93,
+      "comments": 75,
+      "post_id": "t3_1mx8xdp",
+      "post_type": "link",
+      "domain": "open.substack.com",
+      "author": "RicketySymbiote",
+      "author_id": "t2_569km30l",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-22T15:02:47.988000+0000",
+      "content_href": "https://open.substack.com/pub/gumphus/p/the-meaning-of-life-is-beside-the",
+      "content_preview": "",
+      "flair": [
+        "Blog"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "[Highlight] Every Jaxson Dart touchdown in preseason",
+      "permalink": "https://www.reddit.com/user/nfl/comments/1n3each/highlight_every_jaxson_dart_touchdown_in_preseason/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n3each",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "nfl",
+      "author_id": "t2_30enjsvu",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-29T17:50:59.325000+0000",
+      "content_href": "https://v.redd.it/eb3846jmgylf1",
+      "content_preview": "Presented by the Disney+, Hulu, ESPN Bundle",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_vhkg7/styles/profileIcon_qyisviqjbeh71.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=c99ad50d9594a82e7f39cf7600fa1a0ecbf70d13",
+      "is_promoted": true
+    },
+    {
+      "title": "/r/philosophy Open Discussion Thread | August 18, 2025",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1mtmv7w/rphilosophy_open_discussion_thread_august_18_2025/",
+      "score": 6,
+      "comments": 109,
+      "post_id": "t3_1mtmv7w",
+      "post_type": "text",
+      "domain": "self.philosophy",
+      "author": "BernardJOrtcutt",
+      "author_id": "t2_nmqzc",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-18T14:00:17.421000+0000",
+      "content_href": "https://www.reddit.com/r/philosophy/comments/1mtmv7w/rphilosophy_open_discussion_thread_august_18_2025/",
+      "content_preview": "Welcome to this week's Open Discussion Thread. This thread is a place for posts/comments which are related to philosophy but wouldn't necessarily meet ourposting rules(especially posting rule 2).  For example, these threads are great places for:Arguments that aren't substantive enough to meet PR2.Open discussion about philosophy, e.g. who your favourite philosopher is, what you are currently readingPhilosophical questions. Please note thatr/askphilosophyis a great resource for questions and if you are looking for moderated answers we suggest you ask there.This thread isnota completely open discussion! Any posts not relating to philosophy will be removed. Please keep comments related to philosophy, and expect low-effort comments to be removed. All of our normal commenting rules are still in place for these threads, although we will be more lenient with regards to commenting rule 2.Previous Open Discussion Threads can be foundhere.",
+      "flair": [
+        "Open Thread"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "What Truth Is (proposing a definition of \"Truth\")",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1ms46f8/what_truth_is_proposing_a_definition_of_truth/",
+      "score": 0,
+      "comments": 44,
+      "post_id": "t3_1ms46f8",
+      "post_type": "link",
+      "domain": "neonomos.substack.com",
+      "author": "contractualist",
+      "author_id": "t2_sqyp71xd",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-16T18:54:00.999000+0000",
+      "content_href": "https://neonomos.substack.com/p/what-is-truth-part-1-defining-truth",
+      "content_preview": "",
+      "flair": [
+        "Blog"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/69irTFIWXJ2GtF2PTj5h0oCmVDHwa07S4E7qKYncijY.jpeg?width=140&height=140&crop=140:140,smart&auto=webp&s=0190ca521bac76459fc1dfd298a53f43f644a950",
+      "is_promoted": false
+    },
+    {
+      "title": "This philosophical thought experiment is useful for figuring out your values, fantasies, regrets, fears, and so on. It’s also just plain fun.",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1mpforv/this_philosophical_thought_experiment_is_useful/",
+      "score": 89,
+      "comments": 43,
+      "post_id": "t3_1mpforv",
+      "post_type": "link",
+      "domain": "bryanfrances.substack.com",
+      "author": "Philosopher-Traveler",
+      "author_id": "t2_1plzb8p5pi",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-13T20:29:25.927000+0000",
+      "content_href": "https://bryanfrances.substack.com/p/what-pseudo-time-traveling-says-about",
+      "content_preview": "",
+      "flair": [
+        "Blog"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Search for the self and you find only thoughts, sensations, and feelings - no thinker behind them. Yet without this elusive self, there would be no unified experience at all. The self is absent as an object but present as the condition that makes your world possible.",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1n1c6co/search_for_the_self_and_you_find_only_thoughts/",
+      "score": 81,
+      "comments": 39,
+      "post_id": "t3_1n1c6co",
+      "post_type": "link",
+      "domain": "iai.tv",
+      "author": "IAI_Admin",
+      "author_id": "t2_143wgu",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-27T09:18:28.358000+0000",
+      "content_href": "https://iai.tv/articles/the-self-exists-and-it-is-an-illusion-auid-3347?utm_source=reddit&_auid=2020",
+      "content_preview": "",
+      "flair": [
+        "Blog"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
     },
     {
       "title": "Nothing Is Categorically Wrong",
       "permalink": "https://www.reddit.com/r/philosophy/comments/1mruoyl/nothing_is_categorically_wrong/",
       "score": 0,
-      "comments": 14,
+      "comments": 15,
       "post_id": "t3_1mruoyl",
       "post_type": "link",
       "domain": "wonderandaporia.substack.com",
@@ -783,7 +1221,8 @@
       "flair": [
         "Blog"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/XbHD2bGrfYK0cVJG0EqUVxIufIyKOdfE84pGS_NTSr0.jpeg?width=140&height=84&crop=140:84,smart&auto=webp&s=2927c80d6f0424f95b9726c93a58943ad7954bcc"
+      "thumbnail_url": "https://external-preview.redd.it/XbHD2bGrfYK0cVJG0EqUVxIufIyKOdfE84pGS_NTSr0.jpeg?width=140&height=84&crop=140:84,smart&auto=webp&s=2927c80d6f0424f95b9726c93a58943ad7954bcc",
+      "is_promoted": false
     },
     {
       "title": "Aristotle got it wrong: reason isn’t the key to great action. Our finest moments come when reason steps aside and the self flows into ziran – the Daoist state of effortless harmony where there is no single commander, only a fluid, many-sided self moving with nature.",
@@ -803,87 +1242,8 @@
       "flair": [
         "Blog"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "A 21st-Century Environmental Ethic: Theistically-Conscious Biocentric and Biomimetic Innovation",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1mq4115/a_21stcentury_environmental_ethic/",
-      "score": 0,
-      "comments": 2,
-      "post_id": "t3_1mq4115",
-      "post_type": "link",
-      "domain": "mdpi.com",
-      "author": "kkd_108",
-      "author_id": "t2_8ht0o3nx",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-14T15:34:37.869000+0000",
-      "content_href": "https://www.mdpi.com/2077-1444/16/8/1038",
-      "content_preview": "",
-      "flair": [
-        "Article"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_39gbhr/styles/profileIcon_h7f8dzj1ozif1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=28795841399cb04a854b295c48488f2ed6677cdd"
-    },
-    {
-      "title": "When we confuse data with truth, we mistake the map for the territory. | Cyber-Pythagoreanism tries to reduce the messy human reality to numbers. But life isn’t quantifiable. The moment we treat models as truth, we start living in a fiction only machines believe.",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1mkqdyw/when_we_confuse_data_with_truth_we_mistake_the/",
-      "score": 115,
-      "comments": 47,
-      "post_id": "t3_1mkqdyw",
-      "post_type": "link",
-      "domain": "iai.tv",
-      "author": "IAI_Admin",
-      "author_id": "t2_143wgu",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-08T09:13:06.746000+0000",
-      "content_href": "https://iai.tv/articles/truth-is-deeper-than-mathematics-auid-3278?utm_source=reddit&_auid=2020",
-      "content_preview": "",
-      "flair": [
-        "Blog"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "The Meaning of Life is Beside the Point",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1mx8xdp/the_meaning_of_life_is_beside_the_point/",
-      "score": 92,
-      "comments": 74,
-      "post_id": "t3_1mx8xdp",
-      "post_type": "link",
-      "domain": "open.substack.com",
-      "author": "RicketySymbiote",
-      "author_id": "t2_569km30l",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-22T15:02:47.988000+0000",
-      "content_href": "https://open.substack.com/pub/gumphus/p/the-meaning-of-life-is-beside-the",
-      "content_preview": "",
-      "flair": [
-        "Blog"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "This philosophical thought experiment is useful for figuring out your values, fantasies, regrets, fears, and so on. It’s also just plain fun.",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1mpforv/this_philosophical_thought_experiment_is_useful/",
-      "score": 89,
-      "comments": 42,
-      "post_id": "t3_1mpforv",
-      "post_type": "link",
-      "domain": "bryanfrances.substack.com",
-      "author": "Philosopher-Traveler",
-      "author_id": "t2_1plzb8p5pi",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-08-13T20:29:25.927000+0000",
-      "content_href": "https://bryanfrances.substack.com/p/what-pseudo-time-traveling-says-about",
-      "content_preview": "",
-      "flair": [
-        "Blog"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
     },
     {
       "title": "Consciousness as the engine of evolution — not its byproduct",
@@ -903,7 +1263,48 @@
       "flair": [
         "Paper"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Your Lifestyle, Your Plan. Find your fit and try BlueChew for FREE with a quick telehealth consult today.",
+      "permalink": "https://www.reddit.com/user/Bluechew_Official/comments/1mztau4/your_lifestyle_your_plan_find_your_fit_and_try/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mztau4",
+      "post_type": "gallery",
+      "domain": "start.bluechew.com",
+      "author": "Bluechew_Official",
+      "author_id": "t2_9nse1pqo",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-25T15:17:20.232000+0000",
+      "content_href": "https://start.bluechew.com/?coupn=reddit&utm_source=reddit&utm_campaign={{CAMPAIGN_NAME}}-{{ADGROUP_NAME}}&utm_medium=paid&utm_content={{AD_NAME}}",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3o8m8m/styles/profileIcon_pjut7tlp37x91.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=ef545b2acabbbf428b7c991829216858bb75c697",
+      "is_promoted": true
+    },
+    {
+      "title": "The most philosophical film ever made - three philosophical lenses on Andrei Tarkovsky's Stalker.",
+      "permalink": "https://www.reddit.com/r/philosophy/comments/1milakk/the_most_philosophical_film_ever_made_three/",
+      "score": 62,
+      "comments": 14,
+      "post_id": "t3_1milakk",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "AnalysisReady4799",
+      "author_id": "t2_1qjw5o6aim",
+      "subreddit_id": "t5_2qh5b",
+      "subreddit": "r/philosophy",
+      "created_ts": "2025-08-05T21:02:20.694000+0000",
+      "content_href": "https://youtu.be/BYDnGI4NwlM",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "Philosophy is much, much harder than people think. It’s almost comical how difficult it is. However hard we initially thought philosophy is, it is harder. And guess what? It never gets much easier, no matter how long you do it. In some ways, philosophy's like sports!",
@@ -923,7 +1324,8 @@
       "flair": [
         "Blog"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
     },
     {
       "title": "The ethics of engaging in social punishment online",
@@ -943,68 +1345,9 @@
       "flair": [
         "Video"
       ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Why Almost All Talk about Virtue and Vice-Signaling is a Mess",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1me7ihx/why_almost_all_talk_about_virtue_and/",
-      "score": 52,
-      "comments": 35,
-      "post_id": "t3_1me7ihx",
-      "post_type": "link",
-      "domain": "philpapers.org",
-      "author": "WonderOlymp2",
-      "author_id": "t2_1tjw01635e",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-07-31T17:17:13.839000+0000",
-      "content_href": "https://philpapers.org/rec/WARWAA-7",
-      "content_preview": "",
-      "flair": [
-        "Paper [PDF]"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "My attempt at simplifying Spinoza's metaphysics, which includes an original illustration and a brief examination of the several ways he's been classified. 5 minutes long.",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1me9vpw/my_attempt_at_simplifying_spinozas_metaphysics/",
-      "score": 27,
-      "comments": 4,
-      "post_id": "t3_1me9vpw",
-      "post_type": "link",
-      "domain": "medium.com",
-      "author": "MD_Roche",
-      "author_id": "t2_zufs0",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-07-31T18:47:06.169000+0000",
-      "content_href": "https://medium.com/p/0bad1637b8a4",
-      "content_preview": "",
-      "flair": [
-        "Blog"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Beyond Belief: What Philosophy and Religion Still Teach Us About Being Human",
-      "permalink": "https://www.reddit.com/r/philosophy/comments/1me5n66/beyond_belief_what_philosophy_and_religion_still/",
-      "score": 15,
-      "comments": 1,
-      "post_id": "t3_1me5n66",
-      "post_type": "link",
-      "domain": "open.substack.com",
-      "author": "Yepimjosh",
-      "author_id": "t2_8yecg",
-      "subreddit_id": "t5_2qh5b",
-      "subreddit": "r/philosophy",
-      "created_ts": "2025-07-31T16:06:41.982000+0000",
-      "content_href": "https://open.substack.com/pub/howami/p/beyond-belief-what-philosophy-and?r=5avqib&utm_medium=ios",
-      "content_preview": "",
-      "flair": [
-        "Blog"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/-odYRpwli7HtwKxh9HSxsgiidDJU4iW_5KlMo6YLWJU.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=0f44fa17634b38d30bb69d042bfc77eaaa3235c6"
+      "thumbnail_url": "",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T02:59:41.625864"
+  "scraped_at": "2025-09-05T03:30:44.451464"
 }

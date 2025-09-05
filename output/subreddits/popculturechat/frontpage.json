@@ -2,94 +2,486 @@
   "subreddit": "popculturechat",
   "url": "https://www.reddit.com/r/popculturechat",
   "meta": {
-    "title": "popculturechat"
+    "title": "popculturechat",
+    "description": "For serious gossips with a great sense of humor. No bores, no bullies. Come for the gossip, stay for the analysis & community.",
+    "subscribers": 6098028,
+    "online_users": 546,
+    "created_timestamp": "2025-09-05T09:18:27.771000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Bookmarks",
+        "content": [
+          {
+            "text": "Wiki",
+            "url": "/r/popculturechat/wiki/index/"
+          },
+          {
+            "text": "Daily Discussions",
+            "url": "https://www.reddit.com/r/popculturechat/?f=flair_name%3A%22Daily%20Discussions%20%F0%9F%8E%99%F0%9F%92%AC%22"
+          },
+          {
+            "text": "Get your snark on!",
+            "url": "https://www.reddit.com/r/popculturechat/collection/373c4159-3501-4333-a0fa-02eb78ef96b4"
+          },
+          {
+            "text": "Unpopular Opinions",
+            "url": "https://www.reddit.com/r/popculturechat/collection/194157a5-bf5b-4221-b760-d19743c57a54"
+          },
+          {
+            "text": "Fans & Stans",
+            "url": "https://www.reddit.com/r/popculturechat/collection/c6f7bb48-54e3-4ba3-a738-9731482c5726"
+          },
+          {
+            "text": "Beauty Standards",
+            "url": "https://www.reddit.com/r/popculturechat/collection/c6d122bf-ef54-4cca-baf9-6b5e86624583"
+          }
+        ]
+      },
+      {
+        "title": "r/popculturechat Rules",
+        "content": "This subreddit is for civil discussion only. While shade, wit & snark are welcome, bullying, harassment, bigotry & personal attacks are not. This applies to celebrities too. Remember the human. Do not attack other users for their fandom, use someone's post history to attack them or bait users. Treat everyone with respect. Attack the argument, not the person. This is not \"Mean Girls.\" Everyone can sit with us if they are respectful & engage in good faith. Keep it cute or keep it mute! While we support marginalized communities' rights to reclaim slurs, we do NOT support bigotry or using bigoted language to denigrate anyone. This includes but is not limited to: racism, sexism, ableism, ageism, homophobia, transphobia & xenophobia. This subreddit is an inclusive LGBTQ+, BIPOC woman-dominated space. Bigotry is not welcome here. Do not mislead or use poor sourcing. Any unverified rumors should be clearly labeled as such & only cite from respected & reputable sources. Anything else will be removed. Absolutely no QAnon content allowed. We provide a weekly tea discussion post where you can discuss unverified gossip. Please keep it in the space we provide for you. No objectification, slut shaming, victim blaming, slurs, or derogatory insults on appearance and/or weight. A lot of celebrities have had work done, and many may alter their online appearances with photoshop and other filters. It’s fine (and healthy!) to discuss these things in a world obsessed with beauty standards but we don’t need to be overly negative and tear someone down to do that. If someone can't change their appearance within minutes, don't make negative comments. Be kind! Self-explanatory. Immediate bans for any negative comments directed to or about anyone under the age of 18. Photos of celebrity children without their parents (yes this includes bday posts or creepy fan sites for celeb children) will be removed & the post authors will be suspended pending review. We do allow photos that have been posted publicly by the parents on social media. However, be very respectful & don't make an entire post dedicated just to the child. It’s fine to share social media posts but we require the names to be blocked out unless it’s a verified account, meme, a celebrity or the name has appeared in the news (public). Posts that violate this rule will be removed until the information is hidden. Do not post direct links, please screenshot or screen record and upload the media directly to reddit. Since this is a pop culture sub we will talk about new releases & spoilers. However, we require all spoilers to use the spoiler flair. Comments with spoilers not in a flaired spoiler post must be covered. No spoilers in the title. No meta discussion allowed! We will have regular meta & off-topic posts where members of the sub can talk about everything under the sun that is not celeb-related. Every other time? Stay on topic & keep it cute. If you have suggestions or wish to vent you can always use modmail or discuss it in the areas we provide for meta chat. Repeatedly ignoring this rule will result in a ban. If you decide to leave the sub, you don’t need to make a post to say goodbye. No low-effort/low-quality posts or post titles. ALL POSTS REQUIRE THE CELEBRITY’S NAME IN THE TITLE! Name subjects in the post title. The more context, the better! Descriptive title Submit articles as link posts unless shared within a descriptive text post. Links require context (title/comments) Content from social media platforms must be directly uploaded to Reddit. No social media link posts. Paparazzi pictures must contain date + location HQ photos No clickbait To keep the conversations fresh & interesting, similar posts may be removed. All reposts of megathread questions/topics or pinned content will be removed. Reposts are defined as posting the same meme, content, question, news article, etc. with similar titles, discussion questions, or the like. Do not rehash the same topic by posting something that could be a comment in a current thread. If there's already a current post for the topic, you can provide updates with images/links in the comments. No overly invasive diagnoses of strangers or suggestive commentary about their physical or mental health, including addiction. No armchair diagnosing. Be extremely mindful of the language you use. Respect boundaries & respect that your experiences are not everyone’s. Most importantly respect your own energy and know when to step back. For posts with triggering content, a brief description is required in the first line of the text post (e.g. TW: Reason). Use the trigger warning post flair. No deadnames. Respect this always, regardless of the context or if referring to someone pre-transition. If you are unsure they/them will suffice. Any & all wilful disrespect with this rule is a ban-worthy offense. No excuses. No links to your own social media, companies, blogs, brands, unverified news sources, etc. Self-created content, such as fan art/fan edits, is allowed & encouraged! There are exceptions if a video or article is a deep dive or informational. In these cases, we ask for context to open discussion on said post. Moderator discretion applies. No overly political posts. While we do allow discussions around politics, this isn't a political sub. If it doesn't fit in pop culture, it doesn't belong here. There will be times when societal discussions happen. Healthy discussions around societal topics are fine as long as you engage in good faith. Be respectful to others who do not share your viewpoint. If someone is purposely trolling, do not engage! Report any rule violations to the mods via the report button or modmail."
+      },
+      {
+        "title": "Welcome to r/popculturechat!",
+        "content": "This is the place to discuss anything and everything pop culture, from movies, memes, and music to celebrity gossip and analytical discussions. THIS IS NOT A CANCEL CULTURE SUB Keep it civil and don't attack people you don't agree with! This is an inclusive community and ALL members should be treated with respect. No bigotry, no bullying, no harassment. KEEP IT CUTE OR KEEP IT MUTE! 👏"
+      },
+      {
+        "title": "Wiki & Resources",
+        "content": [
+          {
+            "text": "DISCORD 👾",
+            "url": "https://discord.com/invite/popculturechat"
+          },
+          {
+            "text": "Official Wiki 🌐",
+            "url": "https://www.reddit.com/r/popculturechat/wiki/index"
+          },
+          {
+            "text": "Rules & Explanations 📋",
+            "url": "https://www.reddit.com/r/popculturechat/wiki/index/rules/"
+          },
+          {
+            "text": "Posting Guidelines 📝",
+            "url": "https://www.reddit.com/r/popculturechat/wiki/index/posting-guidelines/"
+          },
+          {
+            "text": "Stale Topics 🔒",
+            "url": "https://www.reddit.com/r/popculturechat/wiki/index/stale-topics/"
+          },
+          {
+            "text": "Custom User Flair 🏷",
+            "url": "https://www.reddit.com/r/popculturechat/comments/tof006/by_popular_demand_how_to_add_custom_user_flair_on/"
+          }
+        ]
+      },
+      {
+        "title": "🌟 Join The Guest List 🌟",
+        "content": "Guest List Only flaired posts are for approved users only. If you'd like to be added to the Guest List, you can apply here. We require a 30 day recent comment history.  You may not be approved if you have a history of rule violations. Approved User Request"
+      },
+      {
+        "title": "Calendar",
+        "content": "September 12, 2025\n             • 18:00 September 28, 2025\n             • 03:30 October 26, 2025\n             • 03:30 November 30, 2025\n             • 04:30 December 28, 2025\n             • 04:30"
+      },
+      {
+        "title": "Search by Post Flair",
+        "content": [
+          {
+            "text": "Rumors & Gossip 🤫",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Rumors%20%26%20Gossip%20%F0%9F%A4%AB%22"
+          },
+          {
+            "text": "Let’s Discuss 👀",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Let%E2%80%99s%20Discuss%20%F0%9F%91%80%22"
+          },
+          {
+            "text": "Memes & Humor 🤣",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Memes%20%26%20Humor%20%F0%9F%A4%A3%22"
+          },
+          {
+            "text": "Celebrity Deep Dives 🤩",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Celebrity%20Deep%20Dives%20%F0%9F%A4%A9%22"
+          },
+          {
+            "text": "Social Media 📳",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Social%20Media%20%F0%9F%93%B3%22"
+          },
+          {
+            "text": "Lookbooks ✨",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Lookbooks%20%E2%9C%A8%22"
+          },
+          {
+            "text": "Putting In The Work 💪",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Putting%20In%20The%20Work%20%F0%9F%92%AA%22"
+          },
+          {
+            "text": "Hot Take 🔥",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Hot%20Take%20%F0%9F%94%A5%22"
+          },
+          {
+            "text": "It’s L-O-V-E 💘",
+            "url": "/r/popculturechat/?f=flair_name%3A%22It%E2%80%99s%20L-O-V-E%20%F0%9F%92%98%22"
+          },
+          {
+            "text": "The Fashion Police 🚔",
+            "url": "/r/popculturechat/?f=flair_name%3A%22The%20Fashion%20Police%20%F0%9F%9A%94%22"
+          },
+          {
+            "text": "Movie Night 🍿",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Movie%20Night%20%F0%9F%8D%BF%22"
+          },
+          {
+            "text": "TV & Movies 🎬",
+            "url": "/r/popculturechat/?f=flair_name%3A%22TV%20%26%20Movies%20%F0%9F%8E%AC%22"
+          },
+          {
+            "text": "PRIDE 🏳️‍🌈",
+            "url": "/r/popculturechat/?f=flair_name%3A%22PRIDE%20%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88%22"
+          },
+          {
+            "text": "Sex Scandals 🫦",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Sex%20Scandals%20%F0%9F%AB%A6%22"
+          },
+          {
+            "text": "Celebrity Fluff 🥰",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Celebrity%20Fluff%20%F0%9F%A5%B0%22"
+          },
+          {
+            "text": "SHITPOOOOOST💩",
+            "url": "/r/popculturechat/?f=flair_name%3A%22SHITPOOOOOST%F0%9F%92%A9%22"
+          },
+          {
+            "text": "The Music Industry 🎶",
+            "url": "/r/popculturechat/?f=flair_name%3A%22The%20Music%20Industry%20%F0%9F%8E%B6%22"
+          },
+          {
+            "text": "Fan Art 👩‍🎨",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Fan%20Art%20%F0%9F%91%A9%E2%80%8D%F0%9F%8E%A8%22"
+          },
+          {
+            "text": "Art & Design 🎨",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Art%20%26%20Design%20%F0%9F%8E%A8%22"
+          },
+          {
+            "text": "Influencers 🤳",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Influencers%20%F0%9F%A4%B3%22"
+          },
+          {
+            "text": "Music Videos ▶️",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Music%20Videos%20%E2%96%B6%EF%B8%8F%22"
+          },
+          {
+            "text": "Sports Section 🏈⚽️",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Sports%20Section%20%F0%9F%8F%88%E2%9A%BD%EF%B8%8F%22"
+          },
+          {
+            "text": "Famous Families 👯‍♀️",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Famous%20Families%20%F0%9F%91%AF%E2%80%8D%E2%99%80%EF%B8%8F%22"
+          },
+          {
+            "text": "Celebrity Deathmatch 🥊",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Celebrity%20Deathmatch%20%F0%9F%A5%8A%22"
+          },
+          {
+            "text": "Arrested Development ⚖️",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Arrested%20Development%20%E2%9A%96%EF%B8%8F%22"
+          },
+          {
+            "text": "Baby on board! 👶",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Baby%20on%20board!%20%F0%9F%91%B6%22"
+          },
+          {
+            "text": "Historical Hotties 😍",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Historical%20Hotties%20%F0%9F%98%8D%22"
+          },
+          {
+            "text": "Professional Photoshoots 📷",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Professional%20Photoshoots%20%F0%9F%93%B7%22"
+          },
+          {
+            "text": "Magazine Covers ⭐️",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Magazine%20Covers%20%E2%AD%90%EF%B8%8F%22"
+          },
+          {
+            "text": "News & Announcements 🥳",
+            "url": "/r/popculturechat/?f=flair_name%3A%22News%20%26%20Announcements%20%F0%9F%A5%B3%22"
+          },
+          {
+            "text": "K-POP 🕺",
+            "url": "/r/popculturechat/?f=flair_name%3A%22K-POP%20%F0%9F%95%BA%22"
+          },
+          {
+            "text": "Polls 🗳️",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Polls%20%F0%9F%97%B3%EF%B8%8F%22"
+          },
+          {
+            "text": "Celebrity Brands 🤑",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Celebrity%20Brands%20%F0%9F%A4%91%22"
+          },
+          {
+            "text": "Celebrity FAIL 💀",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Celebrity%20FAIL%20%F0%9F%92%80%22"
+          },
+          {
+            "text": "Ma'am, this is a Wendy’s 🙄",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Ma'am%2C%20this%20is%20a%20Wendy%E2%80%99s%20%F0%9F%99%84%22"
+          },
+          {
+            "text": "Rest In Peace 🕊",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Rest%20In%20Peace%20%F0%9F%95%8A%22"
+          },
+          {
+            "text": "Featured Profiles ✍️",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Featured%20Profiles%20%E2%9C%8D%EF%B8%8F%22"
+          },
+          {
+            "text": "Daily Discussions 💬",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Daily%20Discussions%20%F0%9F%92%AC%22"
+          },
+          {
+            "text": "Silicon Valley 🤖",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Silicon%20Valley%20%F0%9F%A4%96%22"
+          },
+          {
+            "text": "Concerts & Festivals 🎸",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Concerts%20%26%20Festivals%20%F0%9F%8E%B8%22"
+          },
+          {
+            "text": "Hollyweird 😵‍💫",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Hollyweird%20%F0%9F%98%B5%E2%80%8D%F0%9F%92%AB%22"
+          },
+          {
+            "text": "New Releases 🆕",
+            "url": "/r/popculturechat/?f=flair_name%3A%22New%20Releases%20%F0%9F%86%95%22"
+          },
+          {
+            "text": "Comedians 🎤",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Comedians%20%F0%9F%8E%A4%22"
+          },
+          {
+            "text": "Viral Moments 🦠",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Viral%20Moments%20%F0%9F%A6%A0%22"
+          },
+          {
+            "text": "Gossip Magazines 🤫",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Gossip%20Magazines%20%F0%9F%A4%AB%22"
+          },
+          {
+            "text": "Recommended ✔️",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Recommended%20%E2%9C%94%EF%B8%8F%22"
+          },
+          {
+            "text": "Modern Dating 💕",
+            "url": "/r/popculturechat/?f=flair_name%3A%22Modern%20Dating%20%F0%9F%92%95%22"
+          },
+          {
+            "text": "General News 🗞",
+            "url": "/r/popculturechat/?f=flair_name%3A%22General%20News%20%F0%9F%97%9E%22"
+          },
+          {
+            "text": "True Crime 🕯️",
+            "url": "/r/popculturechat/?f=flair_name%3A%22True%20Crime%20%F0%9F%95%AF%EF%B8%8F%22"
+          }
+        ]
+      },
+      {
+        "title": "Friendly Links",
+        "content": "Celebrity Deep Dives"
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/popculturechat/moderators/"
+          }
+        ]
+      },
+      {
+        "title": "Installed Apps",
+        "content": [
+          {
+            "text": "Spotlight",
+            "url": "https://developers.reddit.com/apps/spotlight-app"
+          },
+          {
+            "text": "Remove Macro",
+            "url": "https://developers.reddit.com/apps/purge-user"
+          },
+          {
+            "text": "Modmail To Discord or Slack",
+            "url": "https://developers.reddit.com/apps/modmailtodiscord"
+          },
+          {
+            "text": "Modqueue Tools",
+            "url": "https://developers.reddit.com/apps/modqueue-tools"
+          },
+          {
+            "text": "Subreddit Statistics",
+            "url": "https://developers.reddit.com/apps/sub-stats-bot"
+          },
+          {
+            "text": "Manipulation Detector",
+            "url": "https://developers.reddit.com/apps/manipulation-pi"
+          },
+          {
+            "text": "Reason without Removal",
+            "url": "https://developers.reddit.com/apps/saved-response"
+          },
+          {
+            "text": "Moderator Mentions",
+            "url": "https://developers.reddit.com/apps/mod-mentions"
+          },
+          {
+            "text": "Post Alerts",
+            "url": "https://developers.reddit.com/apps/post-alerts"
+          },
+          {
+            "text": "Flair Assistant",
+            "url": "https://developers.reddit.com/apps/flairassistant"
+          },
+          {
+            "text": "Bot Bouncer",
+            "url": "https://developers.reddit.com/apps/bot-bouncer"
+          },
+          {
+            "text": "Discord Relay",
+            "url": "https://developers.reddit.com/apps/discord-relay"
+          },
+          {
+            "text": "Evasion Guard",
+            "url": "https://developers.reddit.com/apps/evasion-guard"
+          },
+          {
+            "text": "Modmail Quick User Summary",
+            "url": "https://developers.reddit.com/apps/modmail-userinfo"
+          },
+          {
+            "text": "Admin Tattler",
+            "url": "https://developers.reddit.com/apps/admin-tattler"
+          },
+          {
+            "text": "Press App",
+            "url": "https://developers.reddit.com/apps/press-app"
+          },
+          {
+            "text": "pccmodbot",
+            "url": "https://developers.reddit.com/apps/pccmodbot"
+          },
+          {
+            "text": "Trending Tattler",
+            "url": "https://developers.reddit.com/apps/trendingtattler"
+          },
+          {
+            "text": "Modmail Automator",
+            "url": "https://developers.reddit.com/apps/auto-modmail"
+          },
+          {
+            "text": "Hive Protector",
+            "url": "https://developers.reddit.com/apps/hive-protect"
+          },
+          {
+            "text": "Comment Mop",
+            "url": "https://developers.reddit.com/apps/comment-nuke"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "Blogging service TypePad is shutting down and taking all blog content with it",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n6dwdx/blogging_service_typepad_is_shutting_down_and/",
-      "score": 2,
-      "comments": 1,
-      "post_id": "t3_1n6dwdx",
-      "post_type": "link",
-      "domain": "arstechnica.com",
-      "author": "Temporary_Potato_254",
-      "author_id": "t2_1ckiir5ikt",
+      "title": "The Offspring bring out original Pretty Fly Guy on stage in LA.",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n90fct/the_offspring_bring_out_original_pretty_fly_guy/",
+      "score": 59,
+      "comments": 9,
+      "post_id": "t3_1n90fct",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Careful-Trifle8963",
+      "author_id": "t2_du5o47xn",
       "subreddit_id": "t5_5rj68d",
       "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-02T08:22:35.472000+0000",
-      "content_href": "https://arstechnica.com/gadgets/2025/08/one-time-wordpress-competitor-typepad-ends-its-slide-into-obscurity-by-shutting-down/",
+      "created_ts": "2025-09-05T09:18:27.771000+0000",
+      "content_href": "https://v.redd.it/gge90yg3dbnf1",
       "content_preview": "",
       "flair": [
-        "Silicon Valley 🤖"
+        "The Music Industry 🎶"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4vshru/styles/profileIcon_o44pbex1i69f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b655eb9bb773eef96a6ade3f63f92ba6bf426579",
+      "is_promoted": false
     },
     {
-      "title": "Guess Who's Back",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n0bkzd/guess_whos_back/",
-      "score": 54946,
-      "comments": 420,
-      "post_id": "t3_1n0bkzd",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "TppEagle",
-      "author_id": "t2_7y039h4o",
+      "title": "Cardi B gives winning press statement: “I don’t lay in bed all day. It’s my money, not yours. And next time I’m countersuing.”",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n74f9s/cardi_b_gives_winning_press_statement_i_dont_lay/",
+      "score": 31264,
+      "comments": 641,
+      "post_id": "t3_1n74f9s",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "biebrforro",
+      "author_id": "t2_1jk337pkeh",
       "subreddit_id": "t5_5rj68d",
       "subreddit": "r/popculturechat",
-      "created_ts": "2025-08-26T03:41:56.975000+0000",
-      "content_href": "https://i.redd.it/w4hpj3yxbalf1.jpeg",
+      "created_ts": "2025-09-03T03:37:44.202000+0000",
+      "content_href": "https://v.redd.it/49wjv44hevmf1",
       "content_preview": "",
       "flair": [
         "OnlyStans ⭐️"
       ],
-      "thumbnail_url": "https://preview.redd.it/guess-whos-back-v0-w4hpj3yxbalf1.jpeg?width=640&crop=smart&auto=webp&s=68d6f8f770632107e925b155a98807ec37554ac5"
+      "thumbnail_url": "https://external-preview.redd.it/cardi-b-gives-winning-press-statement-i-dont-lay-in-bed-all-v0-YzA1Z2Zremdldm1mMSjd67l1bMXN8aLotGUMQ7kn083tAJuTHW9kkXHBymEF.png?width=640&crop=smart&format=pjpg&auto=webp&s=313e66523e53c256391f4cb1b4f5288dd75400b3",
+      "is_promoted": false
     },
     {
-      "title": "The Rocks new slimmed down appearance",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n5vyzz/the_rocks_new_slimmed_down_appearance/",
-      "score": 4138,
-      "comments": 807,
-      "post_id": "t3_1n5vyzz",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "lolonator3",
-      "author_id": "t2_1bfwccuhj4",
+      "title": "Catherine, Princess of Wales, is now blonde",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8muk3/catherine_princess_of_wales_is_now_blonde/",
+      "score": 4222,
+      "comments": 1137,
+      "post_id": "t3_1n8muk3",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Andthatswhatsup",
+      "author_id": "t2_41fkpfof",
       "subreddit_id": "t5_5rj68d",
       "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T18:04:32.069000+0000",
-      "content_href": "https://v.redd.it/n1axzt6bflmf1",
+      "created_ts": "2025-09-04T21:31:30.800000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8muk3",
       "content_preview": "",
       "flair": [
-        "Videos 📼"
+        "Guest List Only ⭐️"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_dfxrcr/styles/profileIcon_g67kkvqfwape1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=79a1c3efa91f43d1aa9e1d8546b4c3d89494c4aa"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
     },
     {
-      "title": "Three Months after publicly Breaking Up, Chris Martin Promotes Dakota Johnson's new film, Splitsville, that she's acting in and producing",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n66lmf/three_months_after_publicly_breaking_up_chris/",
-      "score": 1258,
-      "comments": 49,
-      "post_id": "t3_1n66lmf",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Gayc0b",
-      "author_id": "t2_10xybm",
+      "title": "Macaulay Culkin says John Candy noticed his 'monster' dad's behavior before anyone else: 'I remember John caring'",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8rcxa/macaulay_culkin_says_john_candy_noticed_his/",
+      "score": 1013,
+      "comments": 45,
+      "post_id": "t3_1n8rcxa",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "mcfw31",
+      "author_id": "t2_17bmi8",
       "subreddit_id": "t5_5rj68d",
       "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-02T01:27:22.132000+0000",
-      "content_href": "https://v.redd.it/bvoiq6eslnmf1",
+      "created_ts": "2025-09-05T00:48:01.172000+0000",
+      "content_href": "https://i.redd.it/8qygdq31u8nf1.jpeg",
       "content_preview": "",
       "flair": [
-        "It’s L-O-V-E 💘"
+        "Rest In Peace 🕊"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/three-months-after-publicly-breaking-up-chris-martin-v0-dHJhNjk1ZnNsbm1mMb_1YrF1UVNJUuQCxuFnJB0ekjb38XykcFfm-_MgrQ6P.png?width=640&crop=smart&format=pjpg&auto=webp&s=be91e841aa5a34290e7e800270edca3d0138292f"
+      "thumbnail_url": "https://preview.redd.it/macaulay-culkin-says-john-candy-noticed-his-monster-dads-v0-8qygdq31u8nf1.jpeg?width=640&crop=smart&auto=webp&s=945755e2bcc15b63ff0045cb98625c7e51abd348",
+      "is_promoted": false
     },
     {
       "title": "Millionaire big game hunter killed by animal he was trying to hunt",
       "permalink": "https://www.reddit.com/r/popculturechat/comments/1mjdzmo/millionaire_big_game_hunter_killed_by_animal_he/",
-      "score": 58529,
-      "comments": 3604,
+      "score": 58559,
+      "comments": 3605,
       "post_id": "t3_1mjdzmo",
       "post_type": "video",
       "domain": "v.redd.it",
@@ -103,133 +495,35 @@
       "flair": [
         "OnlyStans TW ⚠️"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_aa2cvc/styles/profileIcon_0kqbimadd0mf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=163c0e466b3701e0af91e3a79328cd4c5ab7cf2b"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_aa2cvc/styles/profileIcon_0kqbimadd0mf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=163c0e466b3701e0af91e3a79328cd4c5ab7cf2b",
+      "is_promoted": false
     },
     {
-      "title": "Anna Wintour, Alec Baldwin, Hilaria Baldwin & Rami Malek at the US Open.",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n65dde/anna_wintour_alec_baldwin_hilaria_baldwin_rami/",
-      "score": 1084,
-      "comments": 207,
-      "post_id": "t3_1n65dde",
+      "title": "Owen Wilson & Ben Stiller at the US Open",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8arar/owen_wilson_ben_stiller_at_the_us_open/",
+      "score": 6842,
+      "comments": 334,
+      "post_id": "t3_1n8arar",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "galaxystars1",
-      "author_id": "t2_85mkefc4",
+      "author": "jupiter_walks",
+      "author_id": "t2_1q6f5n678e",
       "subreddit_id": "t5_5rj68d",
       "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-02T00:28:10.342000+0000",
-      "content_href": "https://i.redd.it/n3dilzarbnmf1.jpeg",
+      "created_ts": "2025-09-04T13:53:53.422000+0000",
+      "content_href": "https://i.redd.it/2k7mzcvbl5nf1.jpeg",
       "content_preview": "",
       "flair": [
         "Sports Section 🏈⚽️"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "Another CEO slammed online for 'snatching hat from a child' at US Open",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n551jh/another_ceo_slammed_online_for_snatching_hat_from/",
-      "score": 43957,
-      "comments": 2248,
-      "post_id": "t3_1n551jh",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "underbillion",
-      "author_id": "t2_1pokd0fr2e",
-      "subreddit_id": "t5_5rj68d",
-      "subreddit": "r/popculturechat",
-      "created_ts": "2025-08-31T20:23:08.861000+0000",
-      "content_href": "https://v.redd.it/3jr4oc34zemf1",
-      "content_preview": "",
-      "flair": [
-        "OnlyStans ⭐️"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/another-ceo-slammed-online-for-snatching-hat-from-a-child-v0-ZTVocjk0dTN6ZW1mMfnrXE4fywc3L-uzYcnuyveFrhPCDVMW2bn1xovGBQLx.png?format=pjpg&auto=webp&s=d5f7664af93c569153a149d01659df0d79eb9656"
-    },
-    {
-      "title": "Millie Bobby Brown shares photos of her life with husband  Jake Bongiovi and their daughter: ‘🍼✨🐥’",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n5rx5k/millie_bobby_brown_shares_photos_of_her_life_with/",
-      "score": 5799,
-      "comments": 393,
-      "post_id": "t3_1n5rx5k",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "mcfw31",
-      "author_id": "t2_17bmi8",
-      "subreddit_id": "t5_5rj68d",
-      "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T15:34:48.402000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5rx5k",
-      "content_preview": "",
-      "flair": [
-        "Instagram📱"
-      ],
-      "thumbnail_url": "https://preview.redd.it/millie-bobby-brown-shares-photos-of-her-life-with-husband-v0-77zeeaflokmf1.jpg?width=640&crop=smart&auto=webp&s=a1c3a2d11ecccd67112b0bc94579e664f5ad3932"
-    },
-    {
-      "title": "Shaun White had a Patron Tequila cake for his 39th birthday celebration",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n69w07/shaun_white_had_a_patron_tequila_cake_for_his/",
-      "score": 0,
-      "comments": 15,
-      "post_id": "t3_1n69w07",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "mlg1981",
-      "author_id": "t2_annxpoaw",
-      "subreddit_id": "t5_5rj68d",
-      "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-02T04:12:45.639000+0000",
-      "content_href": "https://i.redd.it/yekl3eqtfomf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Go shorty, it’s your birthday! 🍰"
-      ],
-      "thumbnail_url": "https://preview.redd.it/shaun-white-had-a-patron-tequila-cake-for-his-39th-birthday-v0-yekl3eqtfomf1.jpeg?width=640&crop=smart&auto=webp&s=8c584bff8ea06b5a8a7f7e139e0f768a732fc3d9"
-    },
-    {
-      "title": "Fiona Apple once called her encounter with Quentin Tarantino and then-boyfriend Paul Thomas Anderson “excruciating”,  making her swear off cocaine. She joked that “every addict should be locked in a private movie theater with these two filmmakers and they’ll never want to do it again”",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1mlzhdf/fiona_apple_once_called_her_encounter_with/",
-      "score": 54077,
-      "comments": 1541,
-      "post_id": "t3_1mlzhdf",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "pattismithology",
-      "author_id": "t2_1s7qp4vchz",
-      "subreddit_id": "t5_5rj68d",
-      "subreddit": "r/popculturechat",
-      "created_ts": "2025-08-09T20:31:54.757000+0000",
-      "content_href": "https://v.redd.it/zl17k4bm02if1",
-      "content_preview": "",
-      "flair": [
-        "OnlyStans ⭐️"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_erzgxr/styles/profileIcon_ywm7iq2uo29f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=06e4145b97b757476ee4ff96c27b89d50daf0c20"
-    },
-    {
-      "title": "Amanda Seyfried and Julia Roberts wearing the same outfit at Venice Film Festival 2025.",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n5qiru/amanda_seyfried_and_julia_roberts_wearing_the/",
-      "score": 5262,
-      "comments": 225,
-      "post_id": "t3_1n5qiru",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "hoppip_olla",
-      "author_id": "t2_14laposz0s",
-      "subreddit_id": "t5_5rj68d",
-      "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T14:41:11.043000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5qiru",
-      "content_preview": "",
-      "flair": [
-        "The Fashion Police 🚔"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_bz0p44/styles/profileIcon_mjib7de260dd1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=bc59a0d9d6ffc25c117febe453efc9ddf4457eb0"
+      "thumbnail_url": "https://preview.redd.it/owen-wilson-ben-stiller-at-the-us-open-v0-2k7mzcvbl5nf1.jpeg?width=640&crop=smart&auto=webp&s=20119d3dde56e7c64448df3b953390aa1baf48bb",
+      "is_promoted": false
     },
     {
       "title": "When a creep approached Madonna to let her know he was selling nude pictures of her at 17 and she did not take the bait",
       "permalink": "https://www.reddit.com/r/popculturechat/comments/1n3izah/when_a_creep_approached_madonna_to_let_her_know/",
-      "score": 26366,
-      "comments": 729,
+      "score": 26805,
+      "comments": 745,
       "post_id": "t3_1n3izah",
       "post_type": "video",
       "domain": "v.redd.it",
@@ -243,153 +537,117 @@
       "flair": [
         "OnlyStans ⭐️"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_ez24fr/styles/profileIcon_a57rtw0eyjef1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a5ab6e5e46dad065a78cafeb99d53b81f0703e40"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ez24fr/styles/profileIcon_a57rtw0eyjef1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a5ab6e5e46dad065a78cafeb99d53b81f0703e40",
+      "is_promoted": false
     },
     {
-      "title": "Adéla from Netflix's Popstar Academy was truly meant to go solo and she WILL be successful.",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n66p1g/adéla_from_netflixs_popstar_academy_was_truly/",
-      "score": 381,
-      "comments": 70,
-      "post_id": "t3_1n66p1g",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "onlyeveryotherday",
-      "author_id": "t2_1tp2rcxeqd",
-      "subreddit_id": "t5_5rj68d",
-      "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-02T01:31:53.897000+0000",
-      "content_href": "https://v.redd.it/wolmtevzmnmf1",
-      "content_preview": "",
-      "flair": [
-        "The Music Industry 🎶"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "Chloë Grace Moretz and Kate Harrison Are Married",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n5wibx/chloë_grace_moretz_and_kate_harrison_are_married/",
-      "score": 2289,
-      "comments": 62,
-      "post_id": "t3_1n5wibx",
-      "post_type": "link",
-      "domain": "elle.com",
-      "author": "mcfw31",
-      "author_id": "t2_17bmi8",
-      "subreddit_id": "t5_5rj68d",
-      "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T18:24:05.390000+0000",
-      "content_href": "https://www.elle.com/culture/celebrities/a60659344/who-is-kate-harrison-chloe-grace-moretz-girlfriend/?taid=68b5da7eada61f0001148e2c&utm_campaign=trueanthemTWELM&utm_medium=social&utm_source=twitter",
-      "content_preview": "",
-      "flair": [
-        "Congrats! 🍾"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/v00kiM5G0Jme96_uV5AYl1OCvnpN2dY8caJ-Vyv5Vq8.jpeg?width=140&height=70&crop=140:70,smart&auto=webp&s=2eccda6f92850e6554e593adbd2d9e16e1f913a8"
-    },
-    {
-      "title": "Taylor Swift and Travis Kelce announce engagement!",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n0rh2v/taylor_swift_and_travis_kelce_announce_engagement/",
-      "score": 23960,
-      "comments": 2457,
-      "post_id": "t3_1n0rh2v",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "areyoufookinjoking",
-      "author_id": "t2_xjb0whjca",
-      "subreddit_id": "t5_5rj68d",
-      "subreddit": "r/popculturechat",
-      "created_ts": "2025-08-26T17:03:05.121000+0000",
-      "content_href": "https://i.redd.it/0aa9gyovaelf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Guest List Only ⭐️"
-      ],
-      "thumbnail_url": "https://preview.redd.it/taylor-swift-and-travis-kelce-announce-engagement-v0-0aa9gyovaelf1.jpeg?width=640&crop=smart&auto=webp&s=61f323fc48f2cc2f2ce64c5df19f97039cbafd0d"
-    },
-    {
-      "title": "Alexander and Stellan Skarsgård then and now",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n5r8t0/alexander_and_stellan_skarsgård_then_and_now/",
-      "score": 1574,
-      "comments": 60,
-      "post_id": "t3_1n5r8t0",
+      "title": "Angelina Jolie Debuts Blonde Bob While Filming Anxious People in London",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8msft/angelina_jolie_debuts_blonde_bob_while_filming/",
+      "score": 1051,
+      "comments": 127,
+      "post_id": "t3_1n8msft",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "mcfw31",
-      "author_id": "t2_17bmi8",
+      "author": "Disastrous_End5594",
+      "author_id": "t2_9pw3romrv",
       "subreddit_id": "t5_5rj68d",
       "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T15:08:58.552000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5r8t0",
+      "created_ts": "2025-09-04T21:29:07.490000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8msft",
       "content_preview": "",
       "flair": [
-        "Famous Families 👯‍♀️"
+        "Behind The Scenes 📽️"
       ],
-      "thumbnail_url": "https://preview.redd.it/alexander-and-stellan-skarsg%C3%A5rd-then-and-now-v0-n0vg9ohzjkmf1.jpg?width=640&crop=smart&auto=webp&s=7fd6838efa2f2934b6ba8dee83473dcaea932284"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_89lrws/styles/profileIcon_foqsnr16gjwc1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=cf190fdf576fac3297849b3615ce3456760a13c4",
+      "is_promoted": false
     },
     {
-      "title": "Sydney Sweeney registered as a member of the Republican Party of Florida in June 2024",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1mg28gd/sydney_sweeney_registered_as_a_member_of_the/",
-      "score": 49743,
-      "comments": 4786,
-      "post_id": "t3_1mg28gd",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Sabertooth344",
-      "author_id": "t2_107erb53je",
-      "subreddit_id": "t5_5rj68d",
-      "subreddit": "r/popculturechat",
-      "created_ts": "2025-08-02T21:46:56.319000+0000",
-      "content_href": "https://i.redd.it/z7mwa56nfogf1.png",
-      "content_preview": "",
-      "flair": [
-        "Guest List Only ⭐️"
-      ],
-      "thumbnail_url": "https://preview.redd.it/sydney-sweeney-registered-as-a-member-of-the-republican-v0-z7mwa56nfogf1.png?width=640&crop=smart&auto=webp&s=0c75ac74c302035a9bb35440271550388e6b7683"
-    },
-    {
-      "title": "Youtuber Martín Cirio recently body-shamed Meghan Trainor and Selena Gomez. He called Meghan a 'traitor' for losing weight but promoting body positivity and called Selena's swollen face like a 'toad' & 'about to burst.'",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n68mj5/youtuber_martín_cirio_recently_bodyshamed_meghan/",
+      "title": "Don’t let diabetes boss you around. With the FreeStyle Libre 3 Plus sensor, take the proper steps to manage your life with diabetes.​",
+      "permalink": "https://www.reddit.com/user/Abbott-FreeStyle-US/comments/1ml3smw/dont_let_diabetes_boss_you_around_with_the/",
       "score": 0,
-      "comments": 13,
-      "post_id": "t3_1n68mj5",
+      "comments": 0,
+      "post_id": "t3_1ml3smw",
       "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "moonlightinwinters",
-      "author_id": "t2_vlsgt5lg",
+      "domain": "freestyle.abbott",
+      "author": "Abbott-FreeStyle-US",
+      "author_id": "t2_8guuu36v",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-08T18:57:12.496000+0000",
+      "content_href": "https://v.redd.it/gochxr0bxshf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_394pil/styles/profileIcon_3siegr2ensfe1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=23f578d1952197204569d259ef3aecd02df40c58",
+      "is_promoted": true
+    },
+    {
+      "title": "Is the Alleged Smear Campaign Against Blake Lively Tied to Rebel Wilson’s Legal Battle Over ‘The Deb’?",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8zrje/is_the_alleged_smear_campaign_against_blake/",
+      "score": 2,
+      "comments": 7,
+      "post_id": "t3_1n8zrje",
+      "post_type": "link",
+      "domain": "variety.com",
+      "author": "licorne00",
+      "author_id": "t2_o2awlx1z",
       "subreddit_id": "t5_5rj68d",
       "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-02T03:06:43.098000+0000",
-      "content_href": "https://v.redd.it/kfokgt804omf1",
+      "created_ts": "2025-09-05T08:35:36.275000+0000",
+      "content_href": "https://variety.com/2025/film/news/blake-lively-justin-baldoni-rebel-wilson-lawsuit-1236506019/",
       "content_preview": "",
       "flair": [
         "Guest List Only ⭐️"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6h2syv/styles/profileIcon_cd172teuu73e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2ca7d085bbdc1a7bd1a9ee6ab2b90513104fc1e1",
+      "is_promoted": false
     },
     {
-      "title": "Happy 29th Birthday to Zendaya 🎉🎉",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n5mtly/happy_29th_birthday_to_zendaya/",
-      "score": 2306,
-      "comments": 47,
-      "post_id": "t3_1n5mtly",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "absentmindedlurking",
-      "author_id": "t2_v7l71woa",
+      "title": "Guess Who's Back",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n0bkzd/guess_whos_back/",
+      "score": 55008,
+      "comments": 421,
+      "post_id": "t3_1n0bkzd",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "TppEagle",
+      "author_id": "t2_7y039h4o",
       "subreddit_id": "t5_5rj68d",
       "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T12:02:02.679000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5mtly",
+      "created_ts": "2025-08-26T03:41:56.975000+0000",
+      "content_href": "https://i.redd.it/w4hpj3yxbalf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Go shorty, it’s your birthday! 🍰"
+        "OnlyStans ⭐️"
       ],
-      "thumbnail_url": "https://preview.redd.it/happy-29th-birthday-to-zendaya-v0-vu792summjmf1.jpg?width=640&crop=smart&auto=webp&s=ca95982013d8e45c9aa70895273f4e971e0edd34"
+      "thumbnail_url": "https://preview.redd.it/guess-whos-back-v0-w4hpj3yxbalf1.jpeg?width=640&crop=smart&auto=webp&s=68d6f8f770632107e925b155a98807ec37554ac5",
+      "is_promoted": false
+    },
+    {
+      "title": "Cardi B proves she’s a PR mastermind by releasing “Court Editions” of her new album using internet’s new fave memes",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n89old/cardi_b_proves_shes_a_pr_mastermind_by_releasing/",
+      "score": 5116,
+      "comments": 303,
+      "post_id": "t3_1n89old",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "KissesnPopcorn",
+      "author_id": "t2_3nluwjzg",
+      "subreddit_id": "t5_5rj68d",
+      "subreddit": "r/popculturechat",
+      "created_ts": "2025-09-04T13:09:05.481000+0000",
+      "content_href": "https://v.redd.it/9w60ubzbd5nf1",
+      "content_preview": "",
+      "flair": [
+        "OnlyStans ⭐️"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
       "title": "SC’s new stickers are AI",
       "permalink": "https://www.reddit.com/r/popculturechat/comments/1n4eff7/scs_new_stickers_are_ai/",
-      "score": 20848,
-      "comments": 779,
+      "score": 21846,
+      "comments": 796,
       "post_id": "t3_1n4eff7",
       "post_type": "gallery",
       "domain": "reddit.com",
@@ -403,193 +661,35 @@
       "flair": [
         "Sabrina Carpenter 💋"
       ],
-      "thumbnail_url": "https://preview.redd.it/scs-new-stickers-are-ai-v0-cwtlhlcbg8mf1.jpg?width=640&crop=smart&auto=webp&s=a3c3011ac21de9ec868b510a883fa6492753443c"
+      "thumbnail_url": "https://preview.redd.it/scs-new-stickers-are-ai-v0-cwtlhlcbg8mf1.jpg?width=640&crop=smart&auto=webp&s=a3c3011ac21de9ec868b510a883fa6492753443c",
+      "is_promoted": false
     },
     {
-      "title": "KJ Apa giving some behind the scenes info about his time on ‘Riverdale’",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n64xhc/kj_apa_giving_some_behind_the_scenes_info_about/",
-      "score": 85,
-      "comments": 80,
-      "post_id": "t3_1n64xhc",
+      "title": "Hayley Williams for The Face, photographed by Zachary Gray - Also says Paramore are on a Break not Broken up",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8mjza/hayley_williams_for_the_face_photographed_by/",
+      "score": 875,
+      "comments": 60,
+      "post_id": "t3_1n8mjza",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "mlg1981",
-      "author_id": "t2_annxpoaw",
+      "author": "SafeBodybuilder7191",
+      "author_id": "t2_8uvqw5ed",
       "subreddit_id": "t5_5rj68d",
       "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-02T00:07:16.523000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n64xhc",
-      "content_preview": "",
+      "created_ts": "2025-09-04T21:19:46.125000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8mjza",
+      "content_preview": "Professional Photoshoots 📷",
       "flair": [
-        "Modern Dating 💕"
+        "Professional Photoshoots 📷"
       ],
-      "thumbnail_url": "https://preview.redd.it/kj-apa-giving-some-behind-the-scenes-info-about-his-time-on-v0-bw5pxby08nmf1.jpg?width=640&crop=smart&auto=webp&s=c2621d2410b30367227f18dee7704e45b739cce9"
-    },
-    {
-      "title": "Chris Pratt with another dumb take",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1muqprk/chris_pratt_with_another_dumb_take/",
-      "score": 37178,
-      "comments": 6008,
-      "post_id": "t3_1muqprk",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "fuzzy_dice_99",
-      "author_id": "t2_4wd92dyo",
-      "subreddit_id": "t5_5rj68d",
-      "subreddit": "r/popculturechat",
-      "created_ts": "2025-08-19T18:28:38.653000+0000",
-      "content_href": "https://i.redd.it/lxb1pqhrr0kf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Guest List Only ⭐️"
-      ],
-      "thumbnail_url": "https://preview.redd.it/chris-pratt-with-another-dumb-take-v0-lxb1pqhrr0kf1.jpeg?width=640&crop=smart&auto=webp&s=fe5b38ff8a85925987b840aaf0dd6a485cca0b4f"
-    },
-    {
-      "title": "Graham Greene Dies: Oscar-Nominated ‘Dances With Wolves’ Actor Was 73",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n62txh/graham_greene_dies_oscarnominated_dances_with/",
-      "score": 200,
-      "comments": 19,
-      "post_id": "t3_1n62txh",
-      "post_type": "link",
-      "domain": "deadline.com",
-      "author": "PinkCadillacs",
-      "author_id": "t2_5x7qya18",
-      "subreddit_id": "t5_5rj68d",
-      "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T22:31:48.833000+0000",
-      "content_href": "https://deadline.com/2025/09/graham-greene-dead-dances-with-wolves-wind-river-1236502962/",
-      "content_preview": "",
-      "flair": [
-        "Rest In Peace 🕊"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_2hnbg4/styles/profileIcon_oej2k3dt012f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ecd39c7f3cddc7a037ee1e78211339f5f92c7d1e"
-    },
-    {
-      "title": "Nelly Furtado headlined Manchester Pride Sunday, taking the stage in an oversized T-shirt with a cartoon hourglass body drawn to be wearing a crop top, a denim mini skirt, and a belt reading “Whoa Nelly” (the name of her debut album that she released in 2000). 📸: WireImage; Aaron Parfitt / SplashNe",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n0yjcv/nelly_furtado_headlined_manchester_pride_sunday/",
-      "score": 19741,
-      "comments": 907,
-      "post_id": "t3_1n0yjcv",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Twunkorama",
-      "author_id": "t2_1tmhs11qe2",
-      "subreddit_id": "t5_5rj68d",
-      "subreddit": "r/popculturechat",
-      "created_ts": "2025-08-26T21:30:50.224000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n0yjcv",
-      "content_preview": "",
-      "flair": [
-        "Guest List Only ⭐️"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "TV show couples who were terribly toxic and/or controversial but you can't help but love?",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n5raos/tv_show_couples_who_were_terribly_toxic_andor/",
-      "score": 1147,
-      "comments": 860,
-      "post_id": "t3_1n5raos",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Due_Improvement_5699",
-      "author_id": "t2_r2qyglg5",
-      "subreddit_id": "t5_5rj68d",
-      "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T15:10:54.222000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5raos",
-      "content_preview": "",
-      "flair": [
-        "TV & Movies 🎬"
-      ],
-      "thumbnail_url": "https://preview.redd.it/tv-show-couples-who-were-terribly-toxic-and-or-v0-ggw0cjtxgkmf1.jpg?width=563&format=pjpg&auto=webp&s=ee61a751c4dd13984efde892bceb9a9738d5db82"
-    },
-    {
-      "title": "Jelena Ostapenko tell Taylor Townsend she has no class and education after losing against her at the US Open",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n28d84/jelena_ostapenko_tell_taylor_townsend_she_has_no/",
-      "score": 17905,
-      "comments": 964,
-      "post_id": "t3_1n28d84",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "mimiclarinette",
-      "author_id": "t2_1cewpnlovg",
-      "subreddit_id": "t5_5rj68d",
-      "subreddit": "r/popculturechat",
-      "created_ts": "2025-08-28T10:15:48.844000+0000",
-      "content_href": "https://v.redd.it/rctmolb1kqlf1",
-      "content_preview": "",
-      "flair": [
-        "OnlyStans ⭐️"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/jelena-ostapenko-tell-taylor-townsend-she-has-no-class-and-v0-NWg3NGwyNzFrcWxmMSJdSiu7K2-XcHfwSVK_UeVmptHFfvsb4zEaQk-8jdXG.png?format=pjpg&auto=webp&s=8ae9a832120cd9e7f8dc2a69ba6284081cbeb7c7"
-    },
-    {
-      "title": "The father of Glam Rock - Marc Bolan - performing “Get It On” with his band T.Rex in 1972. This month marks 48 years since Marc’s life was tragically cut short at 29 in a car accident.",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n63b27/the_father_of_glam_rock_marc_bolan_performing_get/",
-      "score": 58,
-      "comments": 6,
-      "post_id": "t3_1n63b27",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "waitingforthesun92",
-      "author_id": "t2_by3ixbpd",
-      "subreddit_id": "t5_5rj68d",
-      "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T22:53:06.182000+0000",
-      "content_href": "https://v.redd.it/qpz6msjsummf1",
-      "content_preview": "",
-      "flair": [
-        "Old School Cool 📟"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "Jennifer Lawrence Is The Ultimate Street Style Muse",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n636if/jennifer_lawrence_is_the_ultimate_street_style/",
-      "score": 0,
-      "comments": 3,
-      "post_id": "t3_1n636if",
-      "post_type": "link",
-      "domain": "lofficielusa.com",
-      "author": "57829",
-      "author_id": "t2_mmaku9rm",
-      "subreddit_id": "t5_5rj68d",
-      "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T22:47:26.880000+0000",
-      "content_href": "https://www.lofficielusa.com/fashion/jennifer-lawrence-street-style-casual-outfits",
-      "content_preview": "",
-      "flair": [
-        "Lookbooks ✨"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/zSESgKdjVjc_CclRHXs0QbZTnFsdapIUd9QQePbuvuA.jpeg?width=140&height=140&crop=140:140,smart&auto=webp&s=03ca5ceb0974866ec3d53ef4ddd1fa9d5201e2da"
-    },
-    {
-      "title": "Jimmy Kimmel secures Italian citizenship in case he needs to escape Trump's second term",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1mohsw5/jimmy_kimmel_secures_italian_citizenship_in_case/",
-      "score": 35310,
-      "comments": 2540,
-      "post_id": "t3_1mohsw5",
-      "post_type": "link",
-      "domain": "latimes.com",
-      "author": "bwermer",
-      "author_id": "t2_rl2vi",
-      "subreddit_id": "t5_5rj68d",
-      "subreddit": "r/popculturechat",
-      "created_ts": "2025-08-12T19:06:38.012000+0000",
-      "content_href": "https://www.latimes.com/entertainment-arts/tv/story/2025-08-12/jimmy-kimmel-italian-citizenship-trump-sarah-silverman",
-      "content_preview": "",
-      "flair": [
-        "OnlyStans ⭐️"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+      "thumbnail_url": "https://preview.redd.it/hayley-williams-for-the-face-photographed-by-zachary-gray-v0-ra3r2oivs7nf1.jpg?width=640&crop=smart&auto=webp&s=d9f8c3da32a30b5c61cc869b621bc1b777a07970",
+      "is_promoted": false
     },
     {
       "title": "Selena Gomez celebrates her bachelorette party in Cabo San Lucas, Mexico",
       "permalink": "https://www.reddit.com/r/popculturechat/comments/1n2u3ye/selena_gomez_celebrates_her_bachelorette_party_in/",
-      "score": 17745,
-      "comments": 635,
+      "score": 17901,
+      "comments": 634,
       "post_id": "t3_1n2u3ye",
       "post_type": "gallery",
       "domain": "reddit.com",
@@ -603,153 +703,430 @@
       "flair": [
         "OnlyStans ⭐️"
       ],
-      "thumbnail_url": "https://preview.redd.it/selena-gomez-celebrates-her-bachelorette-party-in-cabo-san-v0-fqvbzvj61vlf1.jpg?width=640&crop=smart&auto=webp&s=db60803c332bdcb5c3011ecd4275751e4baee60a"
+      "thumbnail_url": "https://preview.redd.it/selena-gomez-celebrates-her-bachelorette-party-in-cabo-san-v0-fqvbzvj61vlf1.jpg?width=640&crop=smart&auto=webp&s=db60803c332bdcb5c3011ecd4275751e4baee60a",
+      "is_promoted": false
     },
     {
-      "title": "Padma Lakshmi Reveals That Her Daughter Krishna, 15, Encourages Her to Dress 'More Provocatively'",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n634ml/padma_lakshmi_reveals_that_her_daughter_krishna/",
+      "title": "John Oliver explains ‘Real Housewives of Salt Lake City’: “They are human hand grenades who willfully pull their own and each other’s pins out for your entertainment”",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8dvun/john_oliver_explains_real_housewives_of_salt_lake/",
+      "score": 2112,
+      "comments": 135,
+      "post_id": "t3_1n8dvun",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "mcfw31",
+      "author_id": "t2_17bmi8",
+      "subreddit_id": "t5_5rj68d",
+      "subreddit": "r/popculturechat",
+      "created_ts": "2025-09-04T15:49:41.446000+0000",
+      "content_href": "https://v.redd.it/1nzx7c4z56nf1",
+      "content_preview": "Late Show Shenanigans🎙️",
+      "flair": [
+        "Late Show Shenanigans🎙️"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/john-oliver-explains-real-housewives-of-salt-lake-city-they-v0-dXg0Zmkxdnk1Nm5mMfRiTySEqCOIIW3O-mgIW3zgvOKjxfRiUUUv_AY6oyR6.png?width=640&crop=smart&format=pjpg&auto=webp&s=530e9bb544536ff55c2da24f1f8db7407de7c366",
+      "is_promoted": false
+    },
+    {
+      "title": "Fiona Apple once called her encounter with Quentin Tarantino and then-boyfriend Paul Thomas Anderson “excruciating”,  making her swear off cocaine. She joked that “every addict should be locked in a private movie theater with these two filmmakers and they’ll never want to do it again”",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1mlzhdf/fiona_apple_once_called_her_encounter_with/",
+      "score": 54103,
+      "comments": 1539,
+      "post_id": "t3_1mlzhdf",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "pattismithology",
+      "author_id": "t2_1s7qp4vchz",
+      "subreddit_id": "t5_5rj68d",
+      "subreddit": "r/popculturechat",
+      "created_ts": "2025-08-09T20:31:54.757000+0000",
+      "content_href": "https://v.redd.it/zl17k4bm02if1",
+      "content_preview": "",
+      "flair": [
+        "OnlyStans ⭐️"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_erzgxr/styles/profileIcon_ywm7iq2uo29f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=06e4145b97b757476ee4ff96c27b89d50daf0c20",
+      "is_promoted": false
+    },
+    {
+      "title": "SWAG II Out Now!",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8zct0/swag_ii_out_now/",
       "score": 0,
-      "comments": 4,
-      "post_id": "t3_1n634ml",
-      "post_type": "link",
-      "domain": "people.com",
-      "author": "PrincessBananas85",
-      "author_id": "t2_7r3ctd6",
-      "subreddit_id": "t5_5rj68d",
-      "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T22:45:10.950000+0000",
-      "content_href": "https://people.com/padma-lakshmi-daughter-krishna-encourages-her-to-dress-provocatively-11801400?taid=68b60a4a9bc307000130c477&utm_campaign=peoplemagazine&utm_content=new&utm_medium=social&utm_source=twitter.com",
-      "content_preview": "",
-      "flair": [
-        "Hollyweird 😵‍💫"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "First Look at Lady Gaga as Rosaline Rotwood in Wednesday",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n5tzuh/first_look_at_lady_gaga_as_rosaline_rotwood_in/",
-      "score": 804,
-      "comments": 55,
-      "post_id": "t3_1n5tzuh",
+      "comments": 2,
+      "post_id": "t3_1n8zct0",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "Silver-Somewhere-839",
-      "author_id": "t2_1we0c3gqgw",
+      "author": "undressvestido",
+      "author_id": "t2_12ouks",
       "subreddit_id": "t5_5rj68d",
       "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T16:52:13.993000+0000",
-      "content_href": "https://i.redd.it/b2fkx8me2lmf1.jpeg",
+      "created_ts": "2025-09-05T08:08:08.405000+0000",
+      "content_href": "https://i.redd.it/icbap3xj0bnf1.jpeg",
       "content_preview": "",
       "flair": [
-        "TV & Movies 🎬"
+        "The Music Industry 🎶"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://preview.redd.it/swag-ii-out-now-v0-icbap3xj0bnf1.jpeg?width=640&crop=smart&auto=webp&s=1d166efa8cb1a395476d4836901126b99dbdeabc",
+      "is_promoted": false
     },
     {
-      "title": "Happy 23rd anniversary to Sarah Michelle Gellar and Freddie Prinze Jr!",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n5ty2j/happy_23rd_anniversary_to_sarah_michelle_gellar/",
-      "score": 760,
-      "comments": 18,
-      "post_id": "t3_1n5ty2j",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "lalalandbeforetime",
-      "author_id": "t2_47ua1uzh",
-      "subreddit_id": "t5_5rj68d",
-      "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T16:50:25.798000+0000",
-      "content_href": "https://i.redd.it/5or56x832lmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "It’s L-O-V-E 💘"
-      ],
-      "thumbnail_url": "https://preview.redd.it/happy-23rd-anniversary-to-sarah-michelle-gellar-and-freddie-v0-5or56x832lmf1.jpeg?width=640&crop=smart&auto=webp&s=3f5e6a1fb8996bbe989414b3a55cc924475b857f"
-    },
-    {
-      "title": "Emily Blunt in Schiaparelli at the Venice Film Festival",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n5qwhm/emily_blunt_in_schiaparelli_at_the_venice_film/",
-      "score": 1058,
-      "comments": 398,
-      "post_id": "t3_1n5qwhm",
+      "title": "Zoë Kravitz and Harry Styles in NYC",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8dv9a/zoë_kravitz_and_harry_styles_in_nyc/",
+      "score": 1846,
+      "comments": 358,
+      "post_id": "t3_1n8dv9a",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "youarelosingme",
-      "author_id": "t2_6nwndb7j",
+      "author": "Round_Payment_8649",
+      "author_id": "t2_1ppskecxzw",
       "subreddit_id": "t5_5rj68d",
       "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T14:56:06.189000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5qwhm",
+      "created_ts": "2025-09-04T15:49:01.327000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8dv9a",
       "content_preview": "",
       "flair": [
-        "Premieres & Special Events 👗"
+        "Paparazzi 📸"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_2s5rm5/styles/profileIcon_gwa1qp08a2ec1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=51b5c7438d097fd7b11fe66a0a9c553281db11c8"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "Halsey, Avan Jogia and others hold up a sign protesting Israel committing genocide in Gaza at the Venice International Film Festival (September 1, 2025)",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n5xt22/halsey_avan_jogia_and_others_hold_up_a_sign/",
-      "score": 451,
-      "comments": 18,
-      "post_id": "t3_1n5xt22",
+      "title": "Don't think twice - Learn about Otezla! Visit Otezla.com for full prescribing info.",
+      "permalink": "https://www.reddit.com/user/OTEZLA_APREMILAST/comments/1m6n1sz/dont_think_twice_learn_about_otezla_visit/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1m6n1sz",
+      "post_type": "video",
+      "domain": "otezla.com",
+      "author": "OTEZLA_APREMILAST",
+      "author_id": "t2_1rcewm4amk",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-22T19:07:20.709000+0000",
+      "content_href": "https://v.redd.it/m6oj5vklnfef1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eoepuz/styles/profileIcon_rqkzmcq1li6f1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=7a667be2350f25574492661f5ef35c76d0906d6b",
+      "is_promoted": true
+    },
+    {
+      "title": "Yasmin Wijnaldum for Vogue Türkiye (September 2025)",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8z40t/yasmin_wijnaldum_for_vogue_türkiye_september_2025/",
+      "score": 20,
+      "comments": 5,
+      "post_id": "t3_1n8z40t",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "skermahger",
-      "author_id": "t2_4nf0p1qh",
+      "author": "nizaad",
+      "author_id": "t2_7pneg9ht",
       "subreddit_id": "t5_5rj68d",
       "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T19:11:50.552000+0000",
-      "content_href": "https://i.redd.it/5npc9zabqlmf1.jpeg",
+      "created_ts": "2025-09-05T07:51:43.016000+0000",
+      "content_href": "https://i.redd.it/s289wejmxanf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Guest List Only TW ⚠️"
+        "Magazine Covers ⭐️"
       ],
-      "thumbnail_url": "https://preview.redd.it/halsey-avan-jogia-and-others-hold-up-a-sign-protesting-v0-5npc9zabqlmf1.jpeg?width=640&crop=smart&auto=webp&s=e87c340ce1921cbe2b156f43bf52d6f2358690d2"
+      "thumbnail_url": "https://preview.redd.it/yasmin-wijnaldum-for-vogue-t%C3%BCrkiye-september-2025-v0-s289wejmxanf1.jpeg?width=640&crop=smart&auto=webp&s=dfe79c253a880b3c050e5aa81db20e2dcabd44ca",
+      "is_promoted": false
     },
     {
-      "title": "First look at Ashley Benson, Emily Alyn Lind, Sadie Stanley and Madelaine Petsch in Tyler-Marie Evans’ ‘PRETTY BABIES.’",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n5qc2c/first_look_at_ashley_benson_emily_alyn_lind_sadie/",
-      "score": 875,
-      "comments": 162,
-      "post_id": "t3_1n5qc2c",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Diligent_Night602",
-      "author_id": "t2_1drxg2jm4b",
+      "title": "Hollow Knight: Silksong breaks 535,000 concurrent players on Steam, making it one of the biggest launches of all time and nearly 8x bigger than the first game",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8x5mi/hollow_knight_silksong_breaks_535000_concurrent/",
+      "score": 15,
+      "comments": 7,
+      "post_id": "t3_1n8x5mi",
+      "post_type": "link",
+      "domain": "gamesradar.com",
+      "author": "ControlCAD",
+      "author_id": "t2_wds6w",
       "subreddit_id": "t5_5rj68d",
       "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T14:33:56.638000+0000",
-      "content_href": "https://i.redd.it/8maz94nqdkmf1.jpeg",
+      "created_ts": "2025-09-05T05:47:12.297000+0000",
+      "content_href": "https://www.gamesradar.com/games/action/hollow-knight-silksong-breaks-535-000-concurrent-players-on-steam-making-it-one-of-the-biggest-launches-of-all-time-and-nearly-8x-bigger-than-the-first-game/",
+      "content_preview": "",
+      "flair": [
+        "Video Games 🎮"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/CTFZTKuwytltgUAqch1n9oo5JQuqE2taVQrFr2ayULg.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=074021e6318898808dd7b8b87748d072639358f0",
+      "is_promoted": false
+    },
+    {
+      "title": "Hugh Bonneville speaks about Gaza during the premiere of the new Downton Abbey.",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n88xjn/hugh_bonneville_speaks_about_gaza_during_the/",
+      "score": 3285,
+      "comments": 82,
+      "post_id": "t3_1n88xjn",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "altheawillowwisteria",
+      "author_id": "t2_1bn0ll5e8a",
+      "subreddit_id": "t5_5rj68d",
+      "subreddit": "r/popculturechat",
+      "created_ts": "2025-09-04T12:36:01.022000+0000",
+      "content_href": "https://v.redd.it/7p689gif75nf1",
+      "content_preview": "",
+      "flair": [
+        "Guest List Only ⭐️"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Anne Hathaway Seen Confronting Paparazzi on 'Devil Wears Prada 2' Set",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n5vgej/anne_hathaway_seen_confronting_paparazzi_on_devil/",
+      "score": 17396,
+      "comments": 660,
+      "post_id": "t3_1n5vgej",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "DebateObjective2787",
+      "author_id": "t2_8lt7xvii",
+      "subreddit_id": "t5_5rj68d",
+      "subreddit": "r/popculturechat",
+      "created_ts": "2025-09-01T17:45:02.814000+0000",
+      "content_href": "https://v.redd.it/7y3nztutblmf1",
+      "content_preview": "",
+      "flair": [
+        "OnlyStans ⭐️"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/anne-hathaway-seen-confronting-paparazzi-on-devil-wears-v0-d2lwbWVwdnRibG1mMR9cxYCh9c52TylwNBhBnaFU2rypcqhDAnQMIEpAbzs-.png?width=640&crop=smart&format=pjpg&auto=webp&s=c5d466d20c2ec6cbde1ddfb1db2faadb06201171",
+      "is_promoted": false
+    },
+    {
+      "title": "Chris Pratt with another dumb take",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1muqprk/chris_pratt_with_another_dumb_take/",
+      "score": 37185,
+      "comments": 5999,
+      "post_id": "t3_1muqprk",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "fuzzy_dice_99",
+      "author_id": "t2_4wd92dyo",
+      "subreddit_id": "t5_5rj68d",
+      "subreddit": "r/popculturechat",
+      "created_ts": "2025-08-19T18:28:38.653000+0000",
+      "content_href": "https://i.redd.it/lxb1pqhrr0kf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Guest List Only ⭐️"
+      ],
+      "thumbnail_url": "https://preview.redd.it/chris-pratt-with-another-dumb-take-v0-lxb1pqhrr0kf1.jpeg?width=640&crop=smart&auto=webp&s=fe5b38ff8a85925987b840aaf0dd6a485cca0b4f",
+      "is_promoted": false
+    },
+    {
+      "title": "Women aging… everyone has an opinion",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n60sde/women_aging_everyone_has_an_opinion/",
+      "score": 17344,
+      "comments": 1186,
+      "post_id": "t3_1n60sde",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "mlg1981",
+      "author_id": "t2_annxpoaw",
+      "subreddit_id": "t5_5rj68d",
+      "subreddit": "r/popculturechat",
+      "created_ts": "2025-09-01T21:07:08.311000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n60sde",
+      "content_preview": "",
+      "flair": [
+        "Guest List Only ⭐️"
+      ],
+      "thumbnail_url": "https://preview.redd.it/women-aging-everyone-has-an-opinion-v0-i4o6gduvbmmf1.jpg?width=640&crop=smart&auto=webp&s=14d4aad5d816bcbf52fcaa017196affdf161e570",
+      "is_promoted": false
+    },
+    {
+      "title": "Rosie O’Donnell responds to Trump renewing his threat to revoke her citizenship: “Banishing  me again? Logan Roy would be proud. I’m the distraction - EPSTEIN SURVIVORS are the reckoning and your gold lamé throne is melting.”",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8cfl5/rosie_odonnell_responds_to_trump_renewing_his/",
+      "score": 2046,
+      "comments": 81,
+      "post_id": "t3_1n8cfl5",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "stars_doulikedem",
+      "author_id": "t2_noqfe5rfu",
+      "subreddit_id": "t5_5rj68d",
+      "subreddit": "r/popculturechat",
+      "created_ts": "2025-09-04T14:55:37.336000+0000",
+      "content_href": "https://i.redd.it/remntn8cw5nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Guest List Only ⭐️"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_9y9qbd/styles/profileIcon_kfnxajb5uwcf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b7d44f7f931643fc124634bdddb795df30e2eaa0",
+      "is_promoted": false
+    },
+    {
+      "title": "Kim Kardashian has thoughts on homework",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8wlhm/kim_kardashian_has_thoughts_on_homework/",
+      "score": 23,
+      "comments": 138,
+      "post_id": "t3_1n8wlhm",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "mlg1981",
+      "author_id": "t2_annxpoaw",
+      "subreddit_id": "t5_5rj68d",
+      "subreddit": "r/popculturechat",
+      "created_ts": "2025-09-05T05:14:11.391000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8wlhm",
+      "content_preview": "",
+      "flair": [
+        "The KarJenners 👄"
+      ],
+      "thumbnail_url": "https://preview.redd.it/kim-kardashian-has-thoughts-on-homework-v0-7vakqfki5anf1.jpg?width=640&crop=smart&auto=webp&s=9605192537c1b6565eaf4c94ba8e1438ef0ebbdd",
+      "is_promoted": false
+    },
+    {
+      "title": "‘The White Lotus’ Headed To France For Season 4",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8meh1/the_white_lotus_headed_to_france_for_season_4/",
+      "score": 330,
+      "comments": 73,
+      "post_id": "t3_1n8meh1",
+      "post_type": "link",
+      "domain": "deadline.com",
+      "author": "mcfw31",
+      "author_id": "t2_17bmi8",
+      "subreddit_id": "t5_5rj68d",
+      "subreddit": "r/popculturechat",
+      "created_ts": "2025-09-04T21:13:38.402000+0000",
+      "content_href": "https://deadline.com/2025/09/the-white-lotus-season-4-location-france-hbo-1236507930/",
       "content_preview": "",
       "flair": [
         "TV & Movies 🎬"
       ],
-      "thumbnail_url": "https://preview.redd.it/first-look-at-ashley-benson-emily-alyn-lind-sadie-stanley-v0-8maz94nqdkmf1.jpeg?width=640&crop=smart&auto=webp&s=4b2ddd8da101fb5852dd958f6a6ffeb01f0bfc50"
+      "thumbnail_url": "https://external-preview.redd.it/zZNJa7PSW9ZMtJVDo6uuD8h42enKYEsaO-gx4ti379Q.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=3f4ffd49798c2b30d2d40ec24f6ed6c7c4f0fea6",
+      "is_promoted": false
     },
     {
-      "title": "Who is the most well written female protagonist in any movie or TV show?",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n5p8ne/who_is_the_most_well_written_female_protagonist/",
-      "score": 971,
-      "comments": 522,
-      "post_id": "t3_1n5p8ne",
+      "title": "How do you let your dog know they're the best? Treat them to Pup-Peroni's slow cooked treats made with real beef to be sure.",
+      "permalink": "https://www.reddit.com/user/Pup-Peroni/comments/1m6mhmo/how_do_you_let_your_dog_know_theyre_the_best/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1m6mhmo",
       "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "phantom_avenger",
-      "author_id": "t2_oc2zr7k",
+      "domain": "pupperoni.com",
+      "author": "Pup-Peroni",
+      "author_id": "t2_umh6tbjc",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-22T18:46:58.419000+0000",
+      "content_href": "https://www.pupperoni.com/soft-dog-treats?utm_source=reddit&utm_medium=paid-social&utm_campaign=YR~FY26_BR~Q2_PR~Original-Beef_CN~Asset-5_FM~Image_CTA~Learn-More_SZ~4x3_OBJ~AWA_FF~08.01.25-09.14.25&utm_content=image&utm_term=none",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7h3d0y/styles/profileIcon_3kdctdb5i54a1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=de9cee56ac13cc49bfbd3e3c419aacbf323a9114",
+      "is_promoted": true
+    },
+    {
+      "title": "POPPY, AMY LEE, COURTNEY LAPLANTE - End of You (Official Music Video)",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8wfrl/poppy_amy_lee_courtney_laplante_end_of_you/",
+      "score": 4,
+      "comments": 3,
+      "post_id": "t3_1n8wfrl",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "YchYFi",
+      "author_id": "t2_p4b0igrj",
       "subreddit_id": "t5_5rj68d",
       "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T13:50:44.592000+0000",
-      "content_href": "https://i.redd.it/beciad716kmf1.jpeg",
+      "created_ts": "2025-09-05T05:04:38.521000+0000",
+      "content_href": "https://youtu.be/3rS83uI0Wak?si=JeF-7FznFDPJhQrE",
+      "content_preview": "",
+      "flair": [
+        "Music Videos ▶️"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Jessica Chastain has received her Star on The Hollywood Walk of Fame with Viola Davis, Al Pacino and Octavia Spencer in attendance (September 4, 2025)",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8jlsb/jessica_chastain_has_received_her_star_on_the/",
+      "score": 389,
+      "comments": 36,
+      "post_id": "t3_1n8jlsb",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "mcfw31",
+      "author_id": "t2_17bmi8",
+      "subreddit_id": "t5_5rj68d",
+      "subreddit": "r/popculturechat",
+      "created_ts": "2025-09-04T19:25:04.549000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8jlsb",
+      "content_preview": "",
+      "flair": [
+        "Congrats! 🍾"
+      ],
+      "thumbnail_url": "https://preview.redd.it/jessica-chastain-has-received-her-star-on-the-hollywood-v0-mcpkikre87nf1.jpg?width=640&crop=smart&auto=webp&s=ffc88d97eecee303f288e04eade90a59043a662c",
+      "is_promoted": false
+    },
+    {
+      "title": "‘Chicago Med' Star Steven Weber on Hannah and Dean's Future Following Pregnancy Bombshell: ‘It's Pretty Clear I'm the Father'",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8wa09/chicago_med_star_steven_weber_on_hannah_and_deans/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n8wa09",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ben_watson_jr",
+      "author_id": "t2_lp2fw5oow",
+      "subreddit_id": "t5_5rj68d",
+      "subreddit": "r/popculturechat",
+      "created_ts": "2025-09-05T04:55:37.759000+0000",
+      "content_href": "https://i.redd.it/vxl1l2iz1anf1.jpeg",
       "content_preview": "",
       "flair": [
         "TV & Movies 🎬"
       ],
-      "thumbnail_url": "https://preview.redd.it/who-is-the-most-well-written-female-protagonist-in-any-v0-beciad716kmf1.jpeg?width=640&crop=smart&auto=webp&s=2b686527aa55f5e20c0c88a4f4831c3cc65448d4"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_9lgzez/styles/profileIcon_z893mboy7mde1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1133867f09b56295373d41616754aca4226eb39e",
+      "is_promoted": false
+    },
+    {
+      "title": "The Voice of Hind Rajab earns the longest standing ovation in Venice Film Festival History, leaving the audience in tears and chants of Free Palestine.",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8bpxx/the_voice_of_hind_rajab_earns_the_longest/",
+      "score": 829,
+      "comments": 49,
+      "post_id": "t3_1n8bpxx",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "Trick_Doughnut_6295",
+      "author_id": "t2_4tm32pyf",
+      "subreddit_id": "t5_5rj68d",
+      "subreddit": "r/popculturechat",
+      "created_ts": "2025-09-04T14:28:37.404000+0000",
+      "content_href": "https://youtube.com/shorts/F1uIn3WeLLg?si=TxgPzFwQO5Nph4r6",
+      "content_preview": "",
+      "flair": [
+        "Guest List Only ⭐️"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Jimmy Kimmel secures Italian citizenship in case he needs to escape Trump's second term",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1mohsw5/jimmy_kimmel_secures_italian_citizenship_in_case/",
+      "score": 35316,
+      "comments": 2533,
+      "post_id": "t3_1mohsw5",
+      "post_type": "link",
+      "domain": "latimes.com",
+      "author": "bwermer",
+      "author_id": "t2_rl2vi",
+      "subreddit_id": "t5_5rj68d",
+      "subreddit": "r/popculturechat",
+      "created_ts": "2025-08-12T19:06:38.012000+0000",
+      "content_href": "https://www.latimes.com/entertainment-arts/tv/story/2025-08-12/jimmy-kimmel-italian-citizenship-trump-sarah-silverman",
+      "content_preview": "",
+      "flair": [
+        "OnlyStans ⭐️"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
     },
     {
       "title": "Scientology leader David Miscavige’s niece Jenna Miscavige speaks out about her aunt who has been missing since 2016",
       "permalink": "https://www.reddit.com/r/popculturechat/comments/1msz08w/scientology_leader_david_miscaviges_niece_jenna/",
-      "score": 32364,
-      "comments": 526,
+      "score": 32377,
+      "comments": 525,
       "post_id": "t3_1msz08w",
       "post_type": "video",
       "domain": "v.redd.it",
@@ -763,73 +1140,117 @@
       "flair": [
         "OnlyStans ⭐️"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_aa2cvc/styles/profileIcon_0kqbimadd0mf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=163c0e466b3701e0af91e3a79328cd4c5ab7cf2b"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_aa2cvc/styles/profileIcon_0kqbimadd0mf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=163c0e466b3701e0af91e3a79328cd4c5ab7cf2b",
+      "is_promoted": false
     },
     {
-      "title": "It was a love story: Steve and Terri Irwin",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n5d4sg/it_was_a_love_story_steve_and_terri_irwin/",
-      "score": 7403,
-      "comments": 243,
-      "post_id": "t3_1n5d4sg",
+      "title": "Rihanna was spotted in Los Angeles today.",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n7zltd/rihanna_was_spotted_in_los_angeles_today/",
+      "score": 15998,
+      "comments": 1177,
+      "post_id": "t3_1n7zltd",
       "post_type": "gallery",
       "domain": "reddit.com",
+      "author": "Adorable_Primary2306",
+      "author_id": "t2_1w09s0unkb",
+      "subreddit_id": "t5_5rj68d",
+      "subreddit": "r/popculturechat",
+      "created_ts": "2025-09-04T03:30:48.537000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7zltd",
+      "content_preview": "",
+      "flair": [
+        "OnlyStans ⭐️"
+      ],
+      "thumbnail_url": "https://preview.redd.it/rihanna-was-spotted-in-los-angeles-today-v0-j3ea5pefh2nf1.png?width=640&crop=smart&auto=webp&s=a46f38976761b59c7fa276750724d7dc727a557a",
+      "is_promoted": false
+    },
+    {
+      "title": "You thought you were picking up one. But ended up with six. Discover the Volvo XC90 with 7 seats.",
+      "permalink": "https://www.reddit.com/user/volvocarusa/comments/1mkxjvx/you_thought_you_were_picking_up_one_but_ended_up/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mkxjvx",
+      "post_type": "video",
+      "domain": "volvocars.com",
+      "author": "volvocarusa",
+      "author_id": "t2_4o8easx8",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-08T15:01:13.080000+0000",
+      "content_href": "https://v.redd.it/njkjeuy6rrhf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_25j5wo/styles/profileIcon_qwtep57blu281.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=e78f5adefefd0f80179732429f02b18efb5ad471",
+      "is_promoted": true
+    },
+    {
+      "title": "Alex Warren signs a mom’s ashes",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8trsv/alex_warren_signs_a_moms_ashes/",
+      "score": 4,
+      "comments": 7,
+      "post_id": "t3_1n8trsv",
+      "post_type": "video",
+      "domain": "v.redd.it",
       "author": "mlg1981",
       "author_id": "t2_annxpoaw",
       "subreddit_id": "t5_5rj68d",
       "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T02:37:21.942000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5d4sg",
+      "created_ts": "2025-09-05T02:43:42.932000+0000",
+      "content_href": "https://v.redd.it/fhe9qzune9nf1",
       "content_preview": "",
       "flair": [
-        "It’s L-O-V-E 💘"
+        "Rest In Peace 🕊"
       ],
-      "thumbnail_url": "https://preview.redd.it/it-was-a-love-story-steve-and-terri-irwin-v0-cqgdvf4wtgmf1.jpg?width=640&crop=smart&auto=webp&s=41d8a1c5bad4badc03344b225248520072f03189"
+      "thumbnail_url": "https://external-preview.redd.it/alex-warren-signs-a-moms-ashes-v0-dHV2cHZpcW5lOW5mMRWWAMait-I9e_BXAhE5SEqrEUH4YkjnIe6x_lpLH12v.png?format=pjpg&auto=webp&s=8ceda09534f6073428e6862810bc6428a7c96da6",
+      "is_promoted": false
     },
     {
-      "title": "Rihanna in 2025 vs. 2005",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n5yr5v/rihanna_in_2025_vs_2005/",
-      "score": 208,
-      "comments": 53,
-      "post_id": "t3_1n5yr5v",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "zachoutloud123",
-      "author_id": "t2_80rai063",
+      "title": "Beyoncé and her selfies📸",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8bq9n/beyoncé_and_her_selfies/",
+      "score": 720,
+      "comments": 73,
+      "post_id": "t3_1n8bq9n",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Sharp_Athlete_6847",
+      "author_id": "t2_cmb9tokq",
       "subreddit_id": "t5_5rj68d",
       "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T19:47:59.929000+0000",
-      "content_href": "https://i.redd.it/gjw3qqrrxlmf1.png",
+      "created_ts": "2025-09-04T14:28:59.121000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8bq9n",
       "content_preview": "",
       "flair": [
-        "Throwback ✌️"
+        "Beyoncé 🐝"
       ],
-      "thumbnail_url": "https://preview.redd.it/rihanna-in-2025-vs-2005-v0-gjw3qqrrxlmf1.png?width=640&crop=smart&auto=webp&s=72daa5ea6af97762a2f23ace468f13a2f5caf4bc"
+      "thumbnail_url": "https://preview.redd.it/beyonc%C3%A9-and-her-selfies-v0-ka1n3q8lr5nf1.jpg?width=640&crop=smart&auto=webp&s=48f18ea42d34f015d18202e774b7d103efd873ea",
+      "is_promoted": false
     },
     {
-      "title": "Ethan Hawke auditioned for the role of Jack in Titanic. Looking back, he feels relieved he didn’t land the role. “I don’t think I would have handled that success as well as Leo.”",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n5ku7o/ethan_hawke_auditioned_for_the_role_of_jack_in/",
-      "score": 868,
-      "comments": 159,
-      "post_id": "t3_1n5ku7o",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "mcfw31",
-      "author_id": "t2_17bmi8",
+      "title": "After ‘Interstellar,’ This Legendary Space Survival Thriller Is Overdue for an IMAX Re-Release",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8tk3x/after_interstellar_this_legendary_space_survival/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1n8tk3x",
+      "post_type": "link",
+      "domain": "collider.com",
+      "author": "57829",
+      "author_id": "t2_mmaku9rm",
       "subreddit_id": "t5_5rj68d",
       "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T10:10:29.873000+0000",
-      "content_href": "https://i.redd.it/82l6a0jq2jmf1.jpeg",
+      "created_ts": "2025-09-05T02:33:20.385000+0000",
+      "content_href": "https://collider.com/gravity-deserves-imax-re-release/",
       "content_preview": "",
       "flair": [
         "TV & Movies 🎬"
       ],
-      "thumbnail_url": "https://preview.redd.it/ethan-hawke-auditioned-for-the-role-of-jack-in-titanic-v0-82l6a0jq2jmf1.jpeg?width=640&crop=smart&auto=webp&s=8ca4eb24da58da1b4e9562c83b98d47dd8de5080"
+      "thumbnail_url": "https://external-preview.redd.it/HP3L179d1zM3JLV9s9Jbd4rDHl_oJQKzrlNmcVtqLk4.jpeg?width=140&height=70&crop=140:70,smart&auto=webp&s=f20681b6cf821add06c69cc049515a71d66180f0",
+      "is_promoted": false
     },
     {
       "title": "Machine Gun Kelly surprises his 16-year-old daughter with her first car.",
       "permalink": "https://www.reddit.com/r/popculturechat/comments/1mocpgm/machine_gun_kelly_surprises_his_16yearold/",
-      "score": 31260,
-      "comments": 3549,
+      "score": 31262,
+      "comments": 3547,
       "post_id": "t3_1mocpgm",
       "post_type": "video",
       "domain": "v.redd.it",
@@ -843,33 +1264,35 @@
       "flair": [
         "OnlyStans ⭐️"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/machine-gun-kelly-surprises-his-16-year-old-daughter-with-v0-cWNlb2tydjQzbWlmMaSewY7NTKXHFVFMATYhtG5m1_8BOp2uunUNg55lItjR.png?format=pjpg&auto=webp&s=7695f02a620d2f3482d4ae01d84b9996f0879163"
+      "thumbnail_url": "https://external-preview.redd.it/machine-gun-kelly-surprises-his-16-year-old-daughter-with-v0-cWNlb2tydjQzbWlmMaSewY7NTKXHFVFMATYhtG5m1_8BOp2uunUNg55lItjR.png?format=pjpg&auto=webp&s=7695f02a620d2f3482d4ae01d84b9996f0879163",
+      "is_promoted": false
     },
     {
-      "title": "Anne Hathaway fell down some steps while filming \"The Devil Wears Prada 2\"",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n28hxn/anne_hathaway_fell_down_some_steps_while_filming/",
-      "score": 16835,
-      "comments": 643,
-      "post_id": "t3_1n28hxn",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "SafeBodybuilder7191",
-      "author_id": "t2_8uvqw5ed",
+      "title": "Has Jamie Lee Curtis ever asked someone for their autograph?",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8lutt/has_jamie_lee_curtis_ever_asked_someone_for_their/",
+      "score": 200,
+      "comments": 50,
+      "post_id": "t3_1n8lutt",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "ChurlishSunshine",
+      "author_id": "t2_a386k1pe",
       "subreddit_id": "t5_5rj68d",
       "subreddit": "r/popculturechat",
-      "created_ts": "2025-08-28T10:23:33.567000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n28hxn",
-      "content_preview": "",
+      "created_ts": "2025-09-04T20:52:06.117000+0000",
+      "content_href": "https://v.redd.it/7u92zlgxn7nf1",
+      "content_preview": "Late Show Shenanigans🎙️",
       "flair": [
-        "Behind The Scenes 📽️"
+        "Late Show Shenanigans🎙️"
       ],
-      "thumbnail_url": "https://preview.redd.it/anne-hathaway-fell-down-some-steps-while-filming-the-devil-v0-k9sp0c5flqlf1.jpg?width=640&crop=smart&auto=webp&s=beb5ea3dc5a507deb2aadfb1e2aecb7ece0df6e0"
+      "thumbnail_url": "https://external-preview.redd.it/has-jamie-lee-curtis-ever-asked-someone-for-their-autograph-v0-aGdvOGdlaXhuN25mMegLMLniprT4HdiXCWRmhVedZMvA_Yz0EN3AakTiJr76.png?width=640&crop=smart&format=pjpg&auto=webp&s=e616ed7305a59b923f3dbd54a959f1f3ee960f6d",
+      "is_promoted": false
     },
     {
       "title": "Foot traffic is down at American Eagle stores since the controversial Sydney Sweeney ad dropped",
       "permalink": "https://www.reddit.com/r/popculturechat/comments/1mnq4ua/foot_traffic_is_down_at_american_eagle_stores/",
-      "score": 30920,
-      "comments": 1510,
+      "score": 30925,
+      "comments": 1515,
       "post_id": "t3_1mnq4ua",
       "post_type": "link",
       "domain": "retailbrew.com",
@@ -879,16 +1302,78 @@
       "subreddit": "r/popculturechat",
       "created_ts": "2025-08-11T21:41:54.572000+0000",
       "content_href": "https://www.retailbrew.com/stories/2025/08/11/exclusive-foot-traffic-down-9-at-american-eagle-following-sydney-sweeney-ad-controversy",
-      "content_preview": "",
+      "content_preview": "Guest List Only TW - Bigotry ⚠️",
       "flair": [
         "Guest List Only TW - Bigotry ⚠️"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/NxULXDLKbyFLmhqDX27Qoeg6EXqEOK_JFILga0MRt1A.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=288b48f6b47ae85ae2b0f66171c56c960dda5181"
+      "thumbnail_url": "https://external-preview.redd.it/NxULXDLKbyFLmhqDX27Qoeg6EXqEOK_JFILga0MRt1A.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=288b48f6b47ae85ae2b0f66171c56c960dda5181",
+      "is_promoted": false
+    },
+    {
+      "title": "Tom Holland says he has a goal to open a 100% free school in England that would rival any private school in the country.\n\n“I'd like to build a school with the best facilities that any school in London can offer, but is totally free and rivals any private school in the country”",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n6lo5d/tom_holland_says_he_has_a_goal_to_open_a_100_free/",
+      "score": 15191,
+      "comments": 711,
+      "post_id": "t3_1n6lo5d",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "mcfw31",
+      "author_id": "t2_17bmi8",
+      "subreddit_id": "t5_5rj68d",
+      "subreddit": "r/popculturechat",
+      "created_ts": "2025-09-02T14:53:46.844000+0000",
+      "content_href": "https://i.redd.it/eg1fe5c5mrmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "OnlyStans ⭐️"
+      ],
+      "thumbnail_url": "https://preview.redd.it/tom-holland-says-he-has-a-goal-to-open-a-100-free-school-in-v0-eg1fe5c5mrmf1.jpeg?auto=webp&s=633003b41cfa4836cb6a8b57befff342814327f9",
+      "is_promoted": false
+    },
+    {
+      "title": "Para la gente más confiable, solo las camionetas más confiables de EE. UU. están a su altura. Porque Cada camioneta y conductor Chevy, llevan la confiabilidad en la sangre.",
+      "permalink": "https://www.reddit.com/user/chevrolet/comments/1l3bpvi/para_la_gente_más_confiable_solo_las_camionetas/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1l3bpvi",
+      "post_type": "video",
+      "domain": "es.chevrolet.com",
+      "author": "chevrolet",
+      "author_id": "t2_hlwx5kra",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-06-04T17:33:21.443000+0000",
+      "content_href": "https://v.redd.it/5c8k4ac3nw4f1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5hy9jd/styles/profileIcon_ngfmph0nzhme1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=daccda134205014a29773cfbfff5c6db074e392d",
+      "is_promoted": true
+    },
+    {
+      "title": "Susan Sarandon has been wearing the same ‘Simpsons’ jacket since 1995",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n4cz3p/susan_sarandon_has_been_wearing_the_same_simpsons/",
+      "score": 14091,
+      "comments": 220,
+      "post_id": "t3_1n4cz3p",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "mcfw31",
+      "author_id": "t2_17bmi8",
+      "subreddit_id": "t5_5rj68d",
+      "subreddit": "r/popculturechat",
+      "created_ts": "2025-08-30T21:22:42.947000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n4cz3p",
+      "content_preview": "",
+      "flair": [
+        "Celebrity Fluff 🥰"
+      ],
+      "thumbnail_url": "https://preview.redd.it/susan-sarandon-has-been-wearing-the-same-simpsons-jacket-v0-06mq7iyt48mf1.jpg?width=640&crop=smart&auto=webp&s=4072490789267e42dff9d0bd8682be9abd4f43e8",
+      "is_promoted": false
     },
     {
       "title": "We all thanked Margot Robbie",
       "permalink": "https://www.reddit.com/r/popculturechat/comments/1mokcr0/we_all_thanked_margot_robbie/",
-      "score": 30833,
+      "score": 30842,
       "comments": 494,
       "post_id": "t3_1mokcr0",
       "post_type": "image",
@@ -903,92 +1388,137 @@
       "flair": [
         "OnlyStans ⭐️"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_547urk/styles/profileIcon_bgcfl6wy7fbe1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8556f78ca83696bfa08af762811493a09d8fd57b"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_547urk/styles/profileIcon_bgcfl6wy7fbe1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8556f78ca83696bfa08af762811493a09d8fd57b",
+      "is_promoted": false
     },
     {
-      "title": "Kaia Gerber and Lewis Pullman at the Venice Film Festival.",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n5vq14/kaia_gerber_and_lewis_pullman_at_the_venice_film/",
-      "score": 201,
-      "comments": 60,
-      "post_id": "t3_1n5vq14",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "MoneyLibrarian9032",
-      "author_id": "t2_1ffjaog6sb",
+      "title": "Italian fashion designer Giorgio Armani dead at 91",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n89yv7/italian_fashion_designer_giorgio_armani_dead_at_91/",
+      "score": 757,
+      "comments": 58,
+      "post_id": "t3_1n89yv7",
+      "post_type": "link",
+      "domain": "tg24.sky.it",
+      "author": "prugnecotte",
+      "author_id": "t2_p65vokml",
       "subreddit_id": "t5_5rj68d",
       "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T17:55:14.082000+0000",
-      "content_href": "https://i.redd.it/m9z69nfmdlmf1.jpeg",
+      "created_ts": "2025-09-04T13:21:38.054000+0000",
+      "content_href": "https://tg24.sky.it/cronaca/2025/09/04/giorgio-armani-morto",
       "content_preview": "",
+      "flair": [
+        "Rest In Peace 🕊"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/-6nUOhCUFs9lpjgRfRCvDkMMNTUtpzhAO5pzWFwNvF0.jpeg?width=140&height=87&crop=140:87,smart&auto=webp&s=ed69cf09aca13a7a4092a284b3a72063f53691e7",
+      "is_promoted": false
+    },
+    {
+      "title": "Anyone else feeling heartbroken about Scott Thompson at the moment?",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8b8ai/anyone_else_feeling_heartbroken_about_scott/",
+      "score": 591,
+      "comments": 200,
+      "post_id": "t3_1n8b8ai",
+      "post_type": "text",
+      "domain": "self.popculturechat",
+      "author": "JealousAstronomer342",
+      "author_id": "t2_1fa4e6xncd",
+      "subreddit_id": "t5_5rj68d",
+      "subreddit": "r/popculturechat",
+      "created_ts": "2025-09-04T14:10:16.883000+0000",
+      "content_href": "https://www.reddit.com/r/popculturechat/comments/1n8b8ai/anyone_else_feeling_heartbroken_about_scott/",
+      "content_preview": "https://www.resetera.com/threads/never-meet-your-heroes-kids-in-the-hall-star-scott-thompson-stands-with-graham-linehan.1288689/ Link for context. Scott Thompson, of Kids in the Hall and Hannibal, recently declared he stood with Graham Linehan. He’s also followed Libs of TikTok and other creeps. Buddy Cole was a gay character played Thompson (himself a gay man) who spoke about taboo stuff on a pretty popular Canadian sketch show in the early 90s. Cole owned a gay bar, and talked about everything from mourning his lost ex lovers who died of AIDS to monologues on a premise that now have a whole subreddit, “are the straights ok?” Cole’s character was unapologetically gay, gender nonconforming, and directly aimed at the heart of hypocritical conservative and mainstream thought. He didn’t just support drag, he performed drag, dated drag queens, and had drag shows at his bar. Gender was something fluid in the world of Buddy Cole, something joyful and artistic. Seeing this Scott Thompson change like this makes me genuinely sad. He had such an impact on me as a young teen. He said things no one else was saying and showed me that humanity doesn’t need to fit into tidy little roles to be flourishing, creative, and loving. I haven’t been affected by a celebrity crash out like this before, even a little, but this one hurts.",
+      "flair": [
+        "Trigger Warning - Bigotry ⚠️"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Throwback: Taylor Swift responds to an Internet pregnancy hoax (November 2008)",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8spbe/throwback_taylor_swift_responds_to_an_internet/",
+      "score": 0,
+      "comments": 6,
+      "post_id": "t3_1n8spbe",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Upstairs_Cup9831",
+      "author_id": "t2_mxtwxowne",
+      "subreddit_id": "t5_5rj68d",
+      "subreddit": "r/popculturechat",
+      "created_ts": "2025-09-05T01:52:24.375000+0000",
+      "content_href": "https://v.redd.it/zxnanczg59nf1",
+      "content_preview": "",
+      "flair": [
+        "Taylor Swift 👩🏼"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_9t6sbe/styles/profileIcon_6uwc5c4mosse1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5994c5b655aab64553909518251a5ef02ecd57f0",
+      "is_promoted": false
+    },
+    {
+      "title": "Actors on the press conference room of the 2025 Venice Film Festival.",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8f8fu/actors_on_the_press_conference_room_of_the_2025/",
+      "score": 330,
+      "comments": 78,
+      "post_id": "t3_1n8f8fu",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "HorrorBike143",
+      "author_id": "t2_vs2anlbgx",
+      "subreddit_id": "t5_5rj68d",
+      "subreddit": "r/popculturechat",
+      "created_ts": "2025-09-04T16:39:45.156000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8f8fu",
+      "content_preview": "Premieres & Special Events 👗",
       "flair": [
         "Premieres & Special Events 👗"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_d63mki/styles/profileIcon_2iak80r01hjf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=14a475be363a0fbbe3f1f5957c8bd320188f669a"
+      "thumbnail_url": "https://preview.redd.it/actors-on-the-press-conference-room-of-the-2025-venice-film-v0-bqze09q7e2nf1.jpg?width=640&crop=smart&auto=webp&s=6022a507c3c37d9b1b5ef15174bc6bc778424eab",
+      "is_promoted": false
     },
     {
-      "title": "Here are some iconic Addison Rae moments.",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n62p37/here_are_some_iconic_addison_rae_moments/",
+      "title": "French women boxers to miss world champs over gender tests",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8af8z/french_women_boxers_to_miss_world_champs_over/",
+      "score": 566,
+      "comments": 100,
+      "post_id": "t3_1n8af8z",
+      "post_type": "link",
+      "domain": "espn.com",
+      "author": "PrincessBananas85",
+      "author_id": "t2_7r3ctd6",
+      "subreddit_id": "t5_5rj68d",
+      "subreddit": "r/popculturechat",
+      "created_ts": "2025-09-04T13:40:36.332000+0000",
+      "content_href": "https://www.espn.com/boxing/story/_/id/46154093/french-women-boxers-miss-world-champs-gender-tests",
+      "content_preview": "",
+      "flair": [
+        "Guest List Only ⭐️"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "ICYMI: The 2025 Subaru Crosstrek earned top marks with a 5-Star Overall Vehicle Score from the National Highway Traﬃc Safety Administration.",
+      "permalink": "https://www.reddit.com/user/subaru_usa/comments/1l405lk/icymi_the_2025_subaru_crosstrek_earned_top_marks/",
       "score": 0,
-      "comments": 4,
-      "post_id": "t3_1n62p37",
+      "comments": 0,
+      "post_id": "t3_1l405lk",
       "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "onlyeveryotherday",
-      "author_id": "t2_1tp2rcxeqd",
-      "subreddit_id": "t5_5rj68d",
-      "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T22:25:57.472000+0000",
-      "content_href": "https://v.redd.it/8abvzsxxpmmf1",
+      "domain": "subaru.com",
+      "author": "subaru_usa",
+      "author_id": "t2_26tiny3f",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-06-05T14:09:46.685000+0000",
+      "content_href": "https://v.redd.it/8yoeoe3or25f1",
       "content_preview": "",
-      "flair": [
-        "Memes & Humor 🤣"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "Michelle Yeoh Calls “Ne Zha II” an 'Important Cultural Exchange': 'Chinese Stories Need to Be Told'",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n62ksd/michelle_yeoh_calls_ne_zha_ii_an_important/",
-      "score": 44,
-      "comments": 4,
-      "post_id": "t3_1n62ksd",
-      "post_type": "link",
-      "domain": "aol.com",
-      "author": "57829",
-      "author_id": "t2_mmaku9rm",
-      "subreddit_id": "t5_5rj68d",
-      "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T22:20:44.070000+0000",
-      "content_href": "https://www.aol.com/michelle-yeoh-calls-ne-zha-154247068.html",
-      "content_preview": "",
-      "flair": [
-        "TV & Movies 🎬"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/AEH_QcwLkMvE4lsT8Ltdru7c-ZJxX09xngw1n5ZekkM.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=95d9d8f3756d3f20156f99b506a04d9468b990c2"
-    },
-    {
-      "title": "Inside Cholë Grace Moretz and Kate Harrison’s Wedding Dress Fittings | Vogue",
-      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n5urfs/inside_cholë_grace_moretz_and_kate_harrisons/",
-      "score": 145,
-      "comments": 34,
-      "post_id": "t3_1n5urfs",
-      "post_type": "link",
-      "domain": "youtu.be",
-      "author": "SafeBodybuilder7191",
-      "author_id": "t2_8uvqw5ed",
-      "subreddit_id": "t5_5rj68d",
-      "subreddit": "r/popculturechat",
-      "created_ts": "2025-09-01T17:20:15.531000+0000",
-      "content_href": "https://youtu.be/HnGcyO9TURg",
-      "content_preview": "",
-      "flair": [
-        "Congrats! 🍾"
-      ],
-      "thumbnail_url": ""
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_s84u1/styles/profileIcon_wlgh8crc83l41.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=07c4cd5dbed77592bb0537388cd3ad008e3c76ff",
+      "is_promoted": true
     },
     {
       "title": "The world will never see another Britney Spears....",
       "permalink": "https://www.reddit.com/r/popculturechat/comments/1mq86zx/the_world_will_never_see_another_britney_spears/",
-      "score": 25672,
+      "score": 25689,
       "comments": 1409,
       "post_id": "t3_1mq86zx",
       "post_type": "video",
@@ -1003,8 +1533,30 @@
       "flair": [
         "OnlyStans ⭐️"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/the-world-will-never-see-another-britney-spears-v0-ZzRjOHFoMm95MGpmMZ4MybXgSvse_nehrARRjLLpxuVBFCovXDQNLneb8Gam.png?width=640&crop=smart&format=pjpg&auto=webp&s=c993032bd019c259bebd5faf2a02d6a4a962a838"
+      "thumbnail_url": "https://external-preview.redd.it/the-world-will-never-see-another-britney-spears-v0-ZzRjOHFoMm95MGpmMZ4MybXgSvse_nehrARRjLLpxuVBFCovXDQNLneb8Gam.png?width=640&crop=smart&format=pjpg&auto=webp&s=c993032bd019c259bebd5faf2a02d6a4a962a838",
+      "is_promoted": false
+    },
+    {
+      "title": "Stephen King on superhero movies showing baseless violence: “If you look at these superhero movies, you’ll see some supervillain who’s destroying whole city blocks but you never see any blood”",
+      "permalink": "https://www.reddit.com/r/popculturechat/comments/1n8gdrg/stephen_king_on_superhero_movies_showing_baseless/",
+      "score": 267,
+      "comments": 128,
+      "post_id": "t3_1n8gdrg",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "mcfw31",
+      "author_id": "t2_17bmi8",
+      "subreddit_id": "t5_5rj68d",
+      "subreddit": "r/popculturechat",
+      "created_ts": "2025-09-04T17:22:31.217000+0000",
+      "content_href": "https://i.redd.it/fgs15j5jm6nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Hot Take 🔥"
+      ],
+      "thumbnail_url": "https://preview.redd.it/stephen-king-on-superhero-movies-showing-baseless-violence-v0-fgs15j5jm6nf1.jpeg?width=640&crop=smart&auto=webp&s=7b72d47337bd40d52f99938c3b8da143d6c647c9",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:12:09.240397"
+  "scraped_at": "2025-09-05T03:33:12.416208"
 }

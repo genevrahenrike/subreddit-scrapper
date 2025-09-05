@@ -3,34 +3,82 @@
   "url": "https://www.reddit.com/r/chess",
   "meta": {
     "title": "r/Chess",
-    "members_text": "569,581"
+    "description": "All about the game of chess, including discussions on professional tournaments, game analysis and theory. If you are new to the game, check out /r/chessbeginners and before posting here please read our rules: https://www.reddit.com/r/chess/wiki/index.",
+    "subscribers": 1727246,
+    "online_users": 338,
+    "created_timestamp": "2025-09-05T10:19:06.399000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Bookmarks",
+        "content": [
+          {
+            "text": "❓ FAQ",
+            "url": "https://www.reddit.com/r/chess/wiki/faq"
+          },
+          {
+            "text": "📑 Subreddit Rules",
+            "url": "https://www.reddit.com/r/chess/wiki/rules"
+          },
+          {
+            "text": "📘 Recommended Books",
+            "url": "https://www.reddit.com/r/chess/wiki/books"
+          },
+          {
+            "text": "🌐 Online Resources",
+            "url": "https://www.reddit.com/r/chess/wiki/resources"
+          },
+          {
+            "text": "📈 Improvement Guide",
+            "url": "https://www.reddit.com/r/chess/wiki/improve"
+          },
+          {
+            "text": "Instructions",
+            "url": "https://redd.it/1s8j14"
+          },
+          {
+            "text": "Download for Firefox",
+            "url": "https://addons.mozilla.org/en-US/firefox/addon/reddit-pgn-viewer/"
+          },
+          {
+            "text": "Download for Chrome",
+            "url": "https://chrome.google.com/webstore/detail/reddit-pgn-viewer/hplecpnihkigeaiobbmfnfblepiadjdh"
+          },
+          {
+            "text": "🔰 Classic Reddit",
+            "url": "https://old.reddit.com/r/chess/"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "[Where to begin and start improving]",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n6fe41/where_to_begin_and_start_improving/",
+      "title": "Hello there, chess.com says i should have moved my bishop in order to win the queen, but i fail to see how..",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n91esj/hello_there_chesscom_says_i_should_have_moved_my/",
       "score": 1,
-      "comments": 1,
-      "post_id": "t3_1n6fe41",
-      "post_type": "text",
-      "domain": "self.chess",
-      "author": "Devanandd_",
-      "author_id": "t2_1vamqow824",
+      "comments": 2,
+      "post_id": "t3_1n91esj",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "BoboBieber",
+      "author_id": "t2_7ar0qfnsh",
       "subreddit_id": "t5_2qhr7",
       "subreddit": "r/chess",
-      "created_ts": "2025-09-02T10:00:32.383000+0000",
-      "content_href": "https://www.reddit.com/r/chess/comments/1n6fe41/where_to_begin_and_start_improving/",
-      "content_preview": "So i  have currently started playing chess, before i thought chess to be boring and not interesting but after i did play some i was feeling good and i want to learn more but dont know where to start, like there are countless openings and all and dont know what to do .Is there any youtube channels or anything for me to use",
+      "created_ts": "2025-09-05T10:19:06.399000+0000",
+      "content_href": "https://i.redd.it/8iueig3xnbnf1.jpeg",
+      "content_preview": "",
       "flair": [
-        "Chess Question"
+        "Puzzle/Tactic"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
       "title": "The real winners from Hikaru exploiting the candidates system are the players he plays against",
       "permalink": "https://www.reddit.com/r/chess/comments/1n535t9/the_real_winners_from_hikaru_exploiting_the/",
-      "score": 3592,
-      "comments": 235,
+      "score": 3858,
+      "comments": 237,
       "post_id": "t3_1n535t9",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -44,372 +92,34 @@
       "flair": [
         "Social Media"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
     },
     {
-      "title": "If Garry Kasparov could get in 40 classical games, he could steal the rating spot from Hikaru.",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n6e1eo/if_garry_kasparov_could_get_in_40_classical_games/",
-      "score": 136,
-      "comments": 56,
-      "post_id": "t3_1n6e1eo",
-      "post_type": "text",
-      "domain": "self.chess",
-      "author": "MathematicianBulky40",
-      "author_id": "t2_9vu1th4o",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-02T08:31:57.880000+0000",
-      "content_href": "https://www.reddit.com/r/chess/comments/1n6e1eo/if_garry_kasparov_could_get_in_40_classical_games/",
-      "content_preview": "Just a thought. If Kasparov wanted to troll Hikaru, his FIDE rating is actually higher (2812 vs 2807.) If he could squeeze in 40 games between now and the candidates, he would take the rating spot.",
-      "flair": [
-        "Miscellaneous"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Congratulations to GM Hikaru Nakamura for winning the Louisiana Championship with a perfect score!",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n62jvi/congratulations_to_gm_hikaru_nakamura_for_winning/",
-      "score": 664,
-      "comments": 70,
-      "post_id": "t3_1n62jvi",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "downriverchess",
-      "author_id": "t2_gfsja525q",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-01T22:19:41.577000+0000",
-      "content_href": "https://i.redd.it/d03ajdkoommf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "News/Events"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_8zgzy4/styles/profileIcon_jyf46f5za6mf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=cb70beace8bebac67acab2aa452148465be27692"
-    },
-    {
-      "title": "Story of every chess tournament",
-      "permalink": "https://www.reddit.com/r/chess/comments/1mf5xpo/story_of_every_chess_tournament/",
-      "score": 4558,
-      "comments": 126,
-      "post_id": "t3_1mf5xpo",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Knight-check44",
-      "author_id": "t2_1le07o3zyx",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-08-01T19:32:33.588000+0000",
-      "content_href": "https://i.redd.it/85lhfcipmggf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Social Media"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "Hikaru is your Louisiana State Champion!",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n62a3g/hikaru_is_your_louisiana_state_champion/",
-      "score": 878,
-      "comments": 127,
-      "post_id": "t3_1n62a3g",
-      "post_type": "link",
-      "domain": "chess.com",
-      "author": "caughtinthought",
-      "author_id": "t2_knt61",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-01T22:08:06.776000+0000",
-      "content_href": "https://www.chess.com/events/louisiana-state-championship-2025/results",
-      "content_preview": "",
-      "flair": [
-        "News/Events"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/C-SLVcO2MQUI5W0YGKyveFfWbWs5lEhjAWDOUwNOqLU.png?width=140&height=78&crop=140:78,smart&auto=webp&s=158a2107b6aa7df1331427604183354b35901b2c"
-    },
-    {
-      "title": "Student cheated, now what?",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n2mhwp/student_cheated_now_what/",
-      "score": 1571,
-      "comments": 205,
-      "post_id": "t3_1n2mhwp",
-      "post_type": "text",
-      "domain": "self.chess",
-      "author": "romanticchess",
-      "author_id": "t2_8qrbgv09",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-08-28T19:56:50.114000+0000",
-      "content_href": "https://www.reddit.com/r/chess/comments/1n2mhwp/student_cheated_now_what/",
-      "content_preview": "Student is a child who has been performing poorly OTB and parents pay me to help their child. I gave some lessons and there's just the usual issues: student is impatient, doesn't practice regularly, seems to understand principles but doesn't apply them during games. After a couple months of poor performance, student shared a game with me they played online. Seemed strong for their level but didn't think much of it. Later I reviewed the game privately and some others they played and it's very clear to me they started cheating in recent weeks. Chesscom doesn't seem to have detected it yet but it's very obvious to me. What do I do now? Parents aren't the types who would accept that their child cheated. Do I just ignore it and move on? Dump them as a student? I don't see a situation where I confront the student about it that leads to anything good. But it bugs me because I could see this type of kid growing up thinking it's ok to cheat to get results, generally being a bad person and getting rewarded for it. Update: student's Chesscom account is now closed for fair play violation before I could take any action. So it took them some time but they did catch it",
-      "flair": [
-        "Miscellaneous"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "FM Nick Matta becomes Louisiana state champion for the fifth time in a row",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n6bt7t/fm_nick_matta_becomes_louisiana_state_champion/",
-      "score": 128,
-      "comments": 18,
-      "post_id": "t3_1n6bt7t",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "SilentBumblebee3225",
-      "author_id": "t2_uc5g9t1q",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-02T06:06:10.791000+0000",
-      "content_href": "https://i.redd.it/an3w98720pmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "News/Events"
-      ],
-      "thumbnail_url": "https://preview.redd.it/fm-nick-matta-becomes-louisiana-state-champion-for-the-v0-an3w98720pmf1.jpeg?width=640&crop=smart&auto=webp&s=d33aafc67c3bae7f0a2f5b555e81b6ca27248aac"
-    },
-    {
-      "title": "Recommandation of resources on the Scotch",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n6fdlx/recommandation_of_resources_on_the_scotch/",
-      "score": 1,
-      "comments": 0,
-      "post_id": "t3_1n6fdlx",
-      "post_type": "text",
-      "domain": "self.chess",
-      "author": "chob18",
-      "author_id": "t2_d28cl",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-02T09:59:50.415000+0000",
-      "content_href": "https://www.reddit.com/r/chess/comments/1n6fdlx/recommandation_of_resources_on_the_scotch/",
-      "content_preview": "I've recently started playing the Scotch as 1700 chess.com rapid player and I was looking for recommandations of courses or videos on the subject as I've found they are much rarer than most openings. Any suggestions ?",
-      "flair": [
-        "Resource"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "Well this is terrible",
-      "permalink": "https://www.reddit.com/r/chess/comments/1mujvup/well_this_is_terrible/",
-      "score": 2247,
-      "comments": 340,
-      "post_id": "t3_1mujvup",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Old_Specialist7892",
-      "author_id": "t2_alwvitpl",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-08-19T14:23:25.436000+0000",
-      "content_href": "https://v.redd.it/m0r0rj80kzjf1",
-      "content_preview": "",
-      "flair": [
-        "Video Content"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/well-this-is-terrible-v0-Nmd3dTRsenpqempmMc1XBoejupROIop8waGFimRz7PkZFEQ__8nmi0LrXDJs.png?width=640&crop=smart&format=pjpg&auto=webp&s=1437c0fb1a1fe6d5ff0d35b7d431727d54837db1"
-    },
-    {
-      "title": "Magnus Carlsen Enters The Top 100, January 2006",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n6d7f9/magnus_carlsen_enters_the_top_100_january_2006/",
-      "score": 28,
-      "comments": 14,
-      "post_id": "t3_1n6d7f9",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "edwinkorir",
-      "author_id": "t2_4lizpr1v",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-02T07:36:31.424000+0000",
-      "content_href": "https://i.redd.it/4c8yzr76gpmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Miscellaneous"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_2babyx/styles/profileIcon_3gz8j4h2sm151.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=136a680807a986c122e8898f4c615fa85c1f64f5"
-    },
-    {
-      "title": "The game ended… but not for Alireza & Gukesh. 20 minutes of extra analysis after everyone had left the venue.",
-      "permalink": "https://www.reddit.com/r/chess/comments/1mzxgdr/the_game_ended_but_not_for_alireza_gukesh_20/",
-      "score": 1340,
-      "comments": 58,
-      "post_id": "t3_1mzxgdr",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "EuphoricRange28",
-      "author_id": "t2_13n644lkq6",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-08-25T17:49:08.653000+0000",
-      "content_href": "https://v.redd.it/yd8zbtd5e7lf1",
-      "content_preview": "",
-      "flair": [
-        "Video Content"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "Should Super GMs make occasional surprise appearances at lower rated tournaments?",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n5jqyr/should_super_gms_make_occasional_surprise/",
-      "score": 1283,
-      "comments": 134,
-      "post_id": "t3_1n5jqyr",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Neither_Way_either",
-      "author_id": "t2_1sxaj68d5q",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-01T09:02:33.124000+0000",
-      "content_href": "https://i.redd.it/3pot7l5mqimf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Social Media"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "After 3 years of chess and over 5000 games, it happened",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n0nt70/after_3_years_of_chess_and_over_5000_games_it/",
-      "score": 1030,
-      "comments": 116,
-      "post_id": "t3_1n0nt70",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Technical_Bed5049",
-      "author_id": "t2_1ri6mr0w0w",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-08-26T14:45:54.116000+0000",
-      "content_href": "https://i.redd.it/kzi0ufhcmdlf1.png",
-      "content_preview": "",
-      "flair": [
-        "Puzzle/Tactic"
-      ],
-      "thumbnail_url": "https://preview.redd.it/after-3-years-of-chess-and-over-5000-games-it-happened-v0-kzi0ufhcmdlf1.png?width=640&crop=smart&auto=webp&s=2f583622b257f4f4a0ba7098e6d1ea6541dc4118"
-    },
-    {
-      "title": "I'm working on a wooden hybrid e-board to play online and practice puzzles without physical pieces",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n5yqvq/im_working_on_a_wooden_hybrid_eboard_to_play/",
-      "score": 148,
-      "comments": 43,
-      "post_id": "t3_1n5yqvq",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "semanser",
-      "author_id": "t2_y9qpd",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-01T19:47:42.609000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5yqvq",
-      "content_preview": "",
-      "flair": [
-        "Miscellaneous"
-      ],
-      "thumbnail_url": "https://preview.redd.it/im-working-on-a-wooden-hybrid-e-board-to-play-online-and-v0-gs732qnkwlmf1.png?width=640&crop=smart&auto=webp&s=20597ccee794c737dc4541a9c0c5cceb03d5836c"
-    },
-    {
-      "title": "Hans Niemann on Indian vs. American support for chess",
-      "permalink": "https://www.reddit.com/r/chess/comments/1mgqqww/hans_niemann_on_indian_vs_american_support_for/",
-      "score": 2210,
-      "comments": 417,
-      "post_id": "t3_1mgqqww",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Necessary_Pattern850",
-      "author_id": "t2_oekqrk9j4",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-08-03T18:34:15.150000+0000",
-      "content_href": "https://i.redd.it/e8udt9t2mugf1.png",
-      "content_preview": "",
-      "flair": [
-        "Social Media"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Buddy Pranav is now 2600+ | Won the Fujairah Global Superstars 2025 | Gained 28.2 rating points in that tournament",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n6boej/buddy_pranav_is_now_2600_won_the_fujairah_global/",
-      "score": 21,
-      "comments": 6,
-      "post_id": "t3_1n6boej",
+      "title": "Countries in Asia with 0 ACTIVE players with a rating of 2200 or more",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n8lema/countries_in_asia_with_0_active_players_with_a/",
+      "score": 373,
+      "comments": 91,
+      "post_id": "t3_1n8lema",
       "post_type": "image",
       "domain": "i.redd.it",
       "author": "FirstEfficiency7386",
       "author_id": "t2_k6ef60ap8",
       "subreddit_id": "t5_2qhr7",
       "subreddit": "r/chess",
-      "created_ts": "2025-09-02T05:58:16.620000+0000",
-      "content_href": "https://i.redd.it/84c8qbogyomf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "News/Events"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "2025 TPR - Is anyone playing better chess than Pragg right now?",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n60u47/2025_tpr_is_anyone_playing_better_chess_than/",
-      "score": 75,
-      "comments": 52,
-      "post_id": "t3_1n60u47",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Pale-Review-9617",
-      "author_id": "t2_1tm8cik0dz",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-01T21:08:58.869000+0000",
-      "content_href": "https://i.redd.it/s10lbop8bmmf1.png",
-      "content_preview": "",
-      "flair": [
-        "News/Events"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "Can Hikaru grind his way to #1 by beating 40+ \"Mickey Mouse Tournament\" Participants? He'll gain +0.8 elo per win.",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n4kmjh/can_hikaru_grind_his_way_to_1_by_beating_40/",
-      "score": 1048,
-      "comments": 339,
-      "post_id": "t3_1n4kmjh",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "wise_tamarin",
-      "author_id": "t2_p4cpdrvbf",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-08-31T03:37:34.356000+0000",
-      "content_href": "https://i.redd.it/mzc86kypz9mf1.jpeg",
+      "created_ts": "2025-09-04T20:34:40.553000+0000",
+      "content_href": "https://i.redd.it/jtqb86clj7nf1.jpeg",
       "content_preview": "",
       "flair": [
         "Miscellaneous"
       ],
-      "thumbnail_url": "https://preview.redd.it/can-hikaru-grind-his-way-to-by-beating-40-mickey-mouse-v0-mzc86kypz9mf1.jpeg?width=640&crop=smart&auto=webp&s=c817366a6e7a979cf7eb9a0c91029a5b2ca1648a"
-    },
-    {
-      "title": "Zhu Jiner is on a TEAR, rising to World Women’s No. 2 after a 2700+ performance at the Fujairah Masters!",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n5p2e6/zhu_jiner_is_on_a_tear_rising_to_world_womens_no/",
-      "score": 245,
-      "comments": 23,
-      "post_id": "t3_1n5p2e6",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Tralesta",
-      "author_id": "t2_4t69izhe",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-01T13:43:18.568000+0000",
-      "content_href": "https://i.redd.it/zr8yakcm4kmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Miscellaneous"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
       "title": "Since Kasparov retired 20 years ago there have been 11 World Championships with a total of 131 games. The Kasparov Karpov World Championships lasted 144 games.",
       "permalink": "https://www.reddit.com/r/chess/comments/1mlr55v/since_kasparov_retired_20_years_ago_there_have/",
-      "score": 2128,
+      "score": 2136,
       "comments": 125,
       "post_id": "t3_1mlr55v",
       "post_type": "image",
@@ -424,212 +134,116 @@
       "flair": [
         "Miscellaneous"
       ],
-      "thumbnail_url": "https://preview.redd.it/since-kasparov-retired-20-years-ago-there-have-been-11-v0-ni4klhioa0if1.jpeg?width=640&crop=smart&auto=webp&s=6e4bfc5523dba341c5a1dc67e636459c1f77ff38"
+      "thumbnail_url": "https://preview.redd.it/since-kasparov-retired-20-years-ago-there-have-been-11-v0-ni4klhioa0if1.jpeg?width=640&crop=smart&auto=webp&s=6e4bfc5523dba341c5a1dc67e636459c1f77ff38",
+      "is_promoted": false
     },
     {
-      "title": "Positional question: After his bishop takes my knight, is it better to take with pawn or rook?",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n6221j/positional_question_after_his_bishop_takes_my/",
-      "score": 49,
-      "comments": 44,
-      "post_id": "t3_1n6221j",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "AntheLey",
-      "author_id": "t2_oh3yhcym",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-01T21:58:51.882000+0000",
-      "content_href": "https://i.redd.it/0tpmgj34lmmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Game Analysis/Study"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_6ikjsn/styles/profileIcon_579v3uhs7yfc1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=979b4631049a8fd597c4d595ea0f57a07a702bf0"
-    },
-    {
-      "title": "UPDATE: List of Chess Apps (Growing)",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n65hdd/update_list_of_chess_apps_growing/",
-      "score": 21,
-      "comments": 29,
-      "post_id": "t3_1n65hdd",
+      "title": "Is this annoying behaviour legal?",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n8mok2/is_this_annoying_behaviour_legal/",
+      "score": 272,
+      "comments": 144,
+      "post_id": "t3_1n8mok2",
       "post_type": "text",
       "domain": "self.chess",
-      "author": "Polo_Chess",
-      "author_id": "t2_4bq52fby8",
+      "author": "Desperate-Catch9546",
+      "author_id": "t2_8duyzrcm",
       "subreddit_id": "t5_2qhr7",
       "subreddit": "r/chess",
-      "created_ts": "2025-09-02T00:33:13.998000+0000",
-      "content_href": "https://www.reddit.com/r/chess/comments/1n65hdd/update_list_of_chess_apps_growing/",
-      "content_preview": "The other day, I released IndieChess.com , which is a simple directory for all types of chess apps and websites. I want to make it easier to find all of the niche apps that exist. There's been so many new ones come out / upgrade in recent times. ChessMonitor, ChessThread, ChessWeb.site, Oakmate.app etc... all listed on indiechess.com Since launch releasing it, there's been some big improvements: more apps added, filters/search, and improved branding. I'm wondering what other apps I should include that aren't already there? What's your favourite underground chess app that deserves some love?",
+      "created_ts": "2025-09-04T21:24:42.716000+0000",
+      "content_href": "https://www.reddit.com/r/chess/comments/1n8mok2/is_this_annoying_behaviour_legal/",
+      "content_preview": "My opponent starting to make his move on my clock while I haven't finished mine. Let's say I want to castle, as soon as I move my king into the right square, my opponent is already developing a piece, and by the time I have finished my move and I press the clock he presses it too, almost instantly.It happens to me atleast once or twice every time I play a blitz tournament OTB.I feel like it's ilegal and it's very annoying, if I start doing the same it can become a mess and we can lose track of who's turn is, but if I dont do the same, then Im getting robbed.What u guys think?",
       "flair": [
-        "Resource"
+        "Miscellaneous"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_7wid0s/styles/profileIcon_w6quxiktl4sd1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=aa1c65e3578de92b3f0f4d4dfd79726beed05fa4"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
     },
     {
-      "title": "200-300 level chess is wild",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n1l2o0/200300_level_chess_is_wild/",
-      "score": 980,
-      "comments": 138,
-      "post_id": "t3_1n1l2o0",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "midbac",
-      "author_id": "t2_nyuuy",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-08-27T16:02:34.420000+0000",
-      "content_href": "https://v.redd.it/1zyzkmty4llf1",
-      "content_preview": "",
-      "flair": [
-        "Video Content"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "title": "\"If you control the choke points of social mobility, then you control the nation’s culture. And if you change the criteria for admission at places such as Harvard, Yale, and Princeton, then you change the nation’s social ideal,\" writes David Brooks.",
+      "permalink": "https://www.reddit.com/user/theatlantic/comments/1gubghq/if_you_control_the_choke_points_of_social/",
+      "score": 4167,
+      "comments": 0,
+      "post_id": "t3_1gubghq",
+      "post_type": "image",
+      "domain": "theatlantic.com",
+      "author": "theatlantic",
+      "author_id": "t2_15htj3oj",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2024-11-18T18:18:45.743000+0000",
+      "content_href": "https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/?utm_source=Reddit&utm_medium=cr&campaignID={{CAMPAIGN_ID}}&adgroupname={{ADGROUP_NAME}}&adname={{AD_NAME}}",
+      "content_preview": "Read more on The Atlantic.",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_iiswl/styles/profileIcon_odxgiw5wz0v91.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=eea81e04a9796422705fe9fa65e56d942d41ae9c",
+      "is_promoted": true
     },
     {
-      "title": "1. e4 e5 Repertiore Choices",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n6eyoh/1_e4_e5_repertiore_choices/",
-      "score": 1,
-      "comments": 3,
-      "post_id": "t3_1n6eyoh",
-      "post_type": "text",
-      "domain": "self.chess",
-      "author": "russkipapa",
-      "author_id": "t2_mcy1j",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-02T09:33:03.604000+0000",
-      "content_href": "https://www.reddit.com/r/chess/comments/1n6eyoh/1_e4_e5_repertiore_choices/",
-      "content_preview": "Hi! I'm an adult improver rated in the mid-low 1800s (national rating) and I will be playing my first serious classical tournament in a couple of months, after taking a little break from chess during paternity leave. I have not really studied any opening theory in the last 15 years, but decided to brush up a little on my openings to not get bad positions early, as I often tend to do so. My repertiore so far has been a somewhat positional e4 as White (Spanish against e5, Rossalimo/Moscow/Alapin against Sicilian, Tarrasch French, Advance Caro) and a very imporvised Nimzo/QGD against d4. I did recently purchase the Nimzo/Ragozin repertoire by Sielecki and Barrish, and that course is awesome. Really like both the positions and their teaching style. I am now looking to learn more about 1. e4 e5 from the Black perspective. I have mainly played Nc6, but have also dabbled a little bit in the Petrov. Are there any books/courses you would recommend? What are the advantages of Nc6 over Petrov and vice versa? Thank you in advance! P.S. Before some of you start typing - I am only interested in playing e5. I am definitely not interested in playing Caro Kann or Sicilian or French or any other defense to 1. e4",
-      "flair": [
-        "Chess Question"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "Checkmate is not the solution???",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n1zmx8/checkmate_is_not_the_solution/",
-      "score": 864,
-      "comments": 110,
-      "post_id": "t3_1n1zmx8",
+      "title": "Hikaru Nakamura talks about the 2025 Louisiana State Chess Championship:",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n6cgow/hikaru_nakamura_talks_about_the_2025_louisiana/",
+      "score": 2327,
+      "comments": 123,
+      "post_id": "t3_1n6cgow",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "Beginning-Elk6774",
-      "author_id": "t2_y6zbzbjv0",
+      "author": "Interesting-Take781",
+      "author_id": "t2_1jioa2zt93",
       "subreddit_id": "t5_2qhr7",
       "subreddit": "r/chess",
-      "created_ts": "2025-08-28T01:46:44.994000+0000",
-      "content_href": "https://i.redd.it/m3u5erd51olf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Puzzle/Tactic"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "September 2025 ratings out now!!!",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n5isc4/september_2025_ratings_out_now/",
-      "score": 392,
-      "comments": 103,
-      "post_id": "t3_1n5isc4",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "NOIDA-Knight",
-      "author_id": "t2_zvhddshfl",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-01T07:59:53.574000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5isc4",
+      "created_ts": "2025-09-02T06:47:40.781000+0000",
+      "content_href": "https://i.redd.it/s8boqaig7pmf1.jpeg",
       "content_preview": "",
       "flair": [
         "Social Media"
       ],
-      "thumbnail_url": "https://preview.redd.it/september-2025-ratings-out-now-v0-h6wjx4cffimf1.jpg?width=640&crop=smart&auto=webp&s=984e7cd8befb82d1c095a74b3ffadfdb494b102f"
+      "thumbnail_url": "https://preview.redd.it/hikaru-nakamura-talks-about-the-2025-louisiana-state-chess-v0-s8boqaig7pmf1.jpeg?width=640&crop=smart&auto=webp&s=66b830e53e3fd87fc82bc1a628fbc8637a5f1ffd",
+      "is_promoted": false
     },
     {
-      "title": "White blundered the win here. Good to find the trick in the game.",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n6em93/white_blundered_the_win_here_good_to_find_the/",
-      "score": 0,
-      "comments": 5,
-      "post_id": "t3_1n6em93",
+      "title": "Gukesh defeats Etienne Bacrot with the Black Pieces | Rd. 1 | FIDE Grand Swiss 2025",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n8cd26/gukesh_defeats_etienne_bacrot_with_the_black/",
+      "score": 409,
+      "comments": 62,
+      "post_id": "t3_1n8cd26",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "TiniestCaesar",
-      "author_id": "t2_2pztowtz",
+      "author": "FirstEfficiency7386",
+      "author_id": "t2_k6ef60ap8",
       "subreddit_id": "t5_2qhr7",
       "subreddit": "r/chess",
-      "created_ts": "2025-09-02T09:10:22.360000+0000",
-      "content_href": "https://i.redd.it/9ewdmy3xwpmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Puzzle/Tactic"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "Final standings of the Fujairah Global Superstars - Pranav V wins with 7/9 and a performance rating of 2843, bottom seed and only woman in the field Zhu Jiner comes 5th",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n5lmqn/final_standings_of_the_fujairah_global_superstars/",
-      "score": 208,
-      "comments": 24,
-      "post_id": "t3_1n5lmqn",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "In__c",
-      "author_id": "t2_1vcrr830",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-01T10:58:00.255000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5lmqn",
+      "created_ts": "2025-09-04T14:52:58.010000+0000",
+      "content_href": "https://i.redd.it/1eesbtfrv5nf1.jpeg",
       "content_preview": "",
       "flair": [
         "News/Events"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "My first checkmate",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n650t0/my_first_checkmate/",
-      "score": 16,
-      "comments": 7,
-      "post_id": "t3_1n650t0",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "ShadyVoodoo69",
-      "author_id": "t2_aqwibsfr",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-02T00:11:34.907000+0000",
-      "content_href": "https://i.redd.it/xn74c7ns8nmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Game Analysis/Study"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "60 Minutes segments on Fischer, Kasparov, Carlsen re-released",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n6bis0/60_minutes_segments_on_fischer_kasparov_carlsen/",
-      "score": 5,
+      "title": "Chess Grandmaster Wins While Blindfolded",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n91dtc/chess_grandmaster_wins_while_blindfolded/",
+      "score": 4,
       "comments": 1,
-      "post_id": "t3_1n6bis0",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "onlyfortpp",
-      "author_id": "t2_fcbwi",
+      "post_id": "t3_1n91dtc",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Agitated_Sand_6143",
+      "author_id": "t2_1ondhstkgq",
       "subreddit_id": "t5_2qhr7",
       "subreddit": "r/chess",
-      "created_ts": "2025-09-02T05:48:48.973000+0000",
-      "content_href": "https://www.youtube.com/watch?v=aTQZ4N2dRf0",
+      "created_ts": "2025-09-05T10:17:32.202000+0000",
+      "content_href": "https://v.redd.it/fcyzzlemnbnf1",
       "content_preview": "",
       "flair": [
         "Video Content"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
       "title": "GM Robert Hess just got married!  congratulations!",
       "permalink": "https://www.reddit.com/r/chess/comments/1muimqg/gm_robert_hess_just_got_married_congratulations/",
-      "score": 2087,
+      "score": 2096,
       "comments": 60,
       "post_id": "t3_1muimqg",
       "post_type": "image",
@@ -644,312 +258,137 @@
       "flair": [
         "Social Media"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
-      "title": "WCC: Gukesh vs Hikaru - who would win?",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n5yfrx/wcc_gukesh_vs_hikaru_who_would_win/",
-      "score": 30,
-      "comments": 83,
-      "post_id": "t3_1n5yfrx",
-      "post_type": "text",
-      "domain": "self.chess",
-      "author": "Correct_Objective339",
-      "author_id": "t2_1rayx23lb2",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-01T19:35:38.235000+0000",
-      "content_href": "https://www.reddit.com/r/chess/comments/1n5yfrx/wcc_gukesh_vs_hikaru_who_would_win/",
-      "content_preview": "Let’s say Hikaru wins the candidates. What are the chances that Hikaru would win? Would you bet on Hikaru?",
-      "flair": [
-        "Chess Question"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "I have finally reached 1000 elo",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n5z90c/i_have_finally_reached_1000_elo/",
-      "score": 20,
-      "comments": 9,
-      "post_id": "t3_1n5z90c",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Neon_horizon2008",
-      "author_id": "t2_1osl6natef",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-01T20:07:30.745000+0000",
-      "content_href": "https://i.redd.it/wmuu0wx81mmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "News/Events"
-      ],
-      "thumbnail_url": "https://preview.redd.it/i-have-finally-reached-1000-elo-v0-wmuu0wx81mmf1.jpeg?width=640&crop=smart&auto=webp&s=40655332cb5267cd0eeac7cd1f6f0bb36965a9ee"
-    },
-    {
-      "title": "Top 10 A Decade Ago",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n5qt3i/top_10_a_decade_ago/",
-      "score": 50,
-      "comments": 31,
-      "post_id": "t3_1n5qt3i",
-      "post_type": "text",
-      "domain": "self.chess",
-      "author": "edwinkorir",
-      "author_id": "t2_4lizpr1v",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-01T14:52:19.334000+0000",
-      "content_href": "https://www.reddit.com/r/chess/comments/1n5qt3i/top_10_a_decade_ago/",
-      "content_preview": "Top 10 FIDE Players (September 2015) Magnus Carlsen: (Norway) Viswanathan Anand: (India) Hikaru Nakamura: (USA) Fabiano Caruana: (Italy) Veselin Topalov: (Bulgaria) Levon Aronian: (Armenia) Anish Giri: (Netherlands) Teimour Radjabov: (Azerbaijan) Vladimir Kramnik: (Russia) Alexander Grischuk: (Russia)",
-      "flair": [
-        "Miscellaneous"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_2babyx/styles/profileIcon_3gz8j4h2sm151.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=136a680807a986c122e8898f4c615fa85c1f64f5"
-    },
-    {
-      "title": "repost of my fav game",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n67pxo/repost_of_my_fav_game/",
-      "score": 4,
-      "comments": 3,
-      "post_id": "t3_1n67pxo",
+      "title": "Nodirbek doubles down on his opinion about Gukesh.",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n8ergp/nodirbek_doubles_down_on_his_opinion_about_gukesh/",
+      "score": 260,
+      "comments": 79,
+      "post_id": "t3_1n8ergp",
       "post_type": "video",
       "domain": "v.redd.it",
-      "author": "Neonyri",
-      "author_id": "t2_11rffvm2b0",
+      "author": "Interesting-Take781",
+      "author_id": "t2_1jioa2zt93",
       "subreddit_id": "t5_2qhr7",
       "subreddit": "r/chess",
-      "created_ts": "2025-09-02T02:21:34.608000+0000",
-      "content_href": "https://v.redd.it/9ce47qlzvnmf1",
+      "created_ts": "2025-09-04T16:22:08.753000+0000",
+      "content_href": "https://v.redd.it/1kkfbvnnb6nf1",
       "content_preview": "",
       "flair": [
         "Video Content"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_bo0zq0/styles/profileIcon_gc04h732snmf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=bdb17ed1ecc91860eecb7fbed44d46f9be40fbff"
+      "thumbnail_url": "https://external-preview.redd.it/nodirbek-doubles-down-on-his-opinion-about-gukesh-v0-Ymc1ajViY25iNm5mMX0KSgpPM1pGxP6LtOxLv3CKhTP0dFLjlSmhyxiBfdpy.png?width=640&crop=smart&format=pjpg&auto=webp&s=f0e7115cac2a5a1bfe336c00db2aea62f81660d2",
+      "is_promoted": false
     },
     {
-      "title": "What is the best move for black in this position??",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n6ejgw/what_is_the_best_move_for_black_in_this_position/",
-      "score": 1,
-      "comments": 3,
-      "post_id": "t3_1n6ejgw",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Dilkill_Gaming370",
-      "author_id": "t2_l161q1hv",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-02T09:05:26.560000+0000",
-      "content_href": "https://i.redd.it/zcgfa4e1wpmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Puzzle/Tactic - Advanced"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_61oasd/styles/profileIcon_uehriiz7domf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=480e125f7ede6a3c09dc6ade31d2daac592b809c"
-    },
-    {
-      "title": "Wesley So wins a three-way playoff to claim the 2025 Sinquefield Cup 🏆",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n1vim6/wesley_so_wins_a_threeway_playoff_to_claim_the/",
-      "score": 839,
-      "comments": 131,
-      "post_id": "t3_1n1vim6",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Aimbotskrr",
-      "author_id": "t2_b0d0j7",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-08-27T22:40:26.459000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n1vim6",
-      "content_preview": "",
-      "flair": [
-        "News/Events"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "One of the biggest life lessons learned because of chess",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n5u99c/one_of_the_biggest_life_lessons_learned_because/",
-      "score": 18,
-      "comments": 16,
-      "post_id": "t3_1n5u99c",
+      "title": "Hikaru confirms he will not farm rating to overtake Magnus's #1 rating",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n6l9tm/hikaru_confirms_he_will_not_farm_rating_to/",
+      "score": 1637,
+      "comments": 341,
+      "post_id": "t3_1n6l9tm",
       "post_type": "text",
       "domain": "self.chess",
-      "author": "hamdiramzi",
-      "author_id": "t2_nq8vq8klp",
+      "author": "dwun",
+      "author_id": "t2_mgoom",
       "subreddit_id": "t5_2qhr7",
       "subreddit": "r/chess",
-      "created_ts": "2025-09-01T17:01:37.299000+0000",
-      "content_href": "https://www.reddit.com/r/chess/comments/1n5u99c/one_of_the_biggest_life_lessons_learned_because/",
-      "content_preview": "I like helping people And since I love chess so much whenever I played against someone and especially a weaker player after the game I start pointing out their mistakes and what strategic ideas were there to pay attention to.. but I noticed that those who are at my level don't like it at all and those who are weaker than me don't show engagement I didn't expect gratitude, just some engagement, so I stopped volunteering to help people, I just respect them act humble and understand that they are a bit angry after they lose I put my pieces on their squares and get up.. and here is what started to happen some of them come and ask me:\"what mistakes did I make?\" And \"how did you do that to me?\" and I happily explain everything to them and advice them to read books.. I find so much joy when that happens.. and like that because of chess I learned an important life lesson: you don't go trying to help people, for even with the best intentions not every one wants help and some may get suspicious about you and think you want something from them, and even those who wants you to help them if you do it without them asking you they won't value your help.. what you should do is only help those who seek help",
-      "flair": [
-        "Social Media"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "how to use en croissant and should i use it?",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n6e1e1/how_to_use_en_croissant_and_should_i_use_it/",
-      "score": 0,
-      "comments": 4,
-      "post_id": "t3_1n6e1e1",
-      "post_type": "text",
-      "domain": "self.chess",
-      "author": "EnvironmentalToe2459",
-      "author_id": "t2_1upp5cifwk",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-02T08:31:56.069000+0000",
-      "content_href": "https://www.reddit.com/r/chess/comments/1n6e1e1/how_to_use_en_croissant_and_should_i_use_it/",
-      "content_preview": "I've seen some people on reddit praise en croissant so i decided to give it a try, is there any tutorial? i mean so far its pretty easy except for me not being able to do the game review because of a database issue, am i wasting my time? i think the main thing id like about it is i can do game review locally using my computer with stockfish 17 although right now i haven't been able to access the feature due to some database issues",
-      "flair": [
-        "Resource"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "Who is favored at the grand Swiss?",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n5y74u/who_is_favored_at_the_grand_swiss/",
-      "score": 11,
-      "comments": 26,
-      "post_id": "t3_1n5y74u",
-      "post_type": "text",
-      "domain": "self.chess",
-      "author": "ChoiceResponsible968",
-      "author_id": "t2_dolna3cjl",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-01T19:26:34.666000+0000",
-      "content_href": "https://www.reddit.com/r/chess/comments/1n5y74u/who_is_favored_at_the_grand_swiss/",
-      "content_preview": "Who is a) in good form, b) plays a lot of decisive games, and c) is good at beating 2600s? This is a very strong edition and I’m curious to see who fares well. I personally think the obvious answer is Erigaisi/Keymer so maybe besides them if you agree their super favored As a secondary question, what 2600 will place top 10? I have my eyes on Erdogmus and Pranav as people in really extraordinary form.",
-      "flair": [
-        "News/Events"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "Magnus Carlsen is the champion of inaugural chess event at the 2025 Esports World Cup 🏆",
-      "permalink": "https://www.reddit.com/r/chess/comments/1mf4zvu/magnus_carlsen_is_the_champion_of_inaugural_chess/",
-      "score": 2052,
-      "comments": 262,
-      "post_id": "t3_1mf4zvu",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "notknown7799",
-      "author_id": "t2_vgtkcv65",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-08-01T18:56:11.148000+0000",
-      "content_href": "https://i.redd.it/l9qn50j9gggf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "News/Events"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_ca4ls0/styles/profileIcon_t0pvdljl9tye1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d2210da368c457c96a7187b49849ab8fcf5d2019"
-    },
-    {
-      "title": "Hans also Enters the Louisiana State Championship (Hikaru also attending)",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n47y4m/hans_also_enters_the_louisiana_state_championship/",
-      "score": 801,
-      "comments": 172,
-      "post_id": "t3_1n47y4m",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "phoenix3747",
-      "author_id": "t2_3wo3qah3",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-08-30T17:50:59.292000+0000",
-      "content_href": "https://i.redd.it/tqrfo1m237mf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "News/Events"
-      ],
-      "thumbnail_url": "https://preview.redd.it/hans-also-enters-the-louisiana-state-championship-hikaru-v0-tqrfo1m237mf1.jpeg?width=640&crop=smart&auto=webp&s=30ab582d216e40ca4c19a5a42e23f489e72b254e"
-    },
-    {
-      "title": "What is a good depth for engine analysis?",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n6dvv0/what_is_a_good_depth_for_engine_analysis/",
-      "score": 3,
-      "comments": 4,
-      "post_id": "t3_1n6dvv0",
-      "post_type": "text",
-      "domain": "self.chess",
-      "author": "sharedevaaste",
-      "author_id": "t2_8vke7cyi",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-02T08:21:38.975000+0000",
-      "content_href": "https://www.reddit.com/r/chess/comments/1n6dvv0/what_is_a_good_depth_for_engine_analysis/",
-      "content_preview": "I feel like 20 depth is overkill for human players since rarely anyone sees that far ahead. Also it takes a lot of time. I'm also low ELO (~950). Honestly just 5 moves ahead is good enough for me :)",
-      "flair": [
-        "Chess Question"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Do you have to dress really nice for FIDE rated chess tournaments?",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n5w9v6/do_you_have_to_dress_really_nice_for_fide_rated/",
-      "score": 13,
-      "comments": 42,
-      "post_id": "t3_1n5w9v6",
-      "post_type": "text",
-      "domain": "self.chess",
-      "author": "SuspiciousWin6511",
-      "author_id": "t2_184b3e17ws",
-      "subreddit_id": "t5_2qhr7",
-      "subreddit": "r/chess",
-      "created_ts": "2025-09-01T18:15:36.806000+0000",
-      "content_href": "https://www.reddit.com/r/chess/comments/1n5w9v6/do_you_have_to_dress_really_nice_for_fide_rated/",
-      "content_preview": "I've never been to one before and am wondering if I have to dress really nice. What about just to National chess tournaments that aren't FIDE rated? Should I wear nice sweater or dress?",
+      "created_ts": "2025-09-02T14:38:44.232000+0000",
+      "content_href": "https://www.reddit.com/r/chess/comments/1n6l9tm/hikaru_confirms_he_will_not_farm_rating_to/",
+      "content_preview": "Hikaru on Kick said he will not continue farm rating once he hit the 40 games to qualify for the candidates. He will lose respect for himself and no one will respect him for griding rating, so it will be meaningless.",
       "flair": [
         "Miscellaneous"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
     },
     {
-      "title": "White to play and win , not so tricky overall",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n5ro5t/white_to_play_and_win_not_so_tricky_overall/",
-      "score": 21,
-      "comments": 11,
-      "post_id": "t3_1n5ro5t",
+      "title": "Faustino Oro will make his World Cup debut!",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n8nrn1/faustino_oro_will_make_his_world_cup_debut/",
+      "score": 88,
+      "comments": 9,
+      "post_id": "t3_1n8nrn1",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "Either-Case-5930",
-      "author_id": "t2_94c6gy1k",
+      "author": "ICCchessclub",
+      "author_id": "t2_rbxhjvup7",
       "subreddit_id": "t5_2qhr7",
       "subreddit": "r/chess",
-      "created_ts": "2025-09-01T15:25:09.892000+0000",
-      "content_href": "https://i.redd.it/w201doevmkmf1.png",
+      "created_ts": "2025-09-04T22:09:07.000000+0000",
+      "content_href": "https://i.redd.it/3dman07e18nf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Puzzle/Tactic"
+        "News/Events"
       ],
-      "thumbnail_url": "https://preview.redd.it/white-to-play-and-win-not-so-tricky-overall-v0-w201doevmkmf1.png?width=640&crop=smart&auto=webp&s=7b83688233e691f81e82269c751721dbf16cbbc6"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ccjat7/styles/profileIcon_6anqsx4crhme1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=612faf432bffc8c9fd076512e734c00bdc5d61d0",
+      "is_promoted": false
     },
     {
-      "title": "Mate in 2 for white",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n63q3c/mate_in_2_for_white/",
-      "score": 5,
-      "comments": 3,
-      "post_id": "t3_1n63q3c",
+      "title": "Unlock the power of complex options trading with a platform engineered for those who think several moves ahead.",
+      "permalink": "https://www.reddit.com/user/TradeStation/comments/1n7jx6n/unlock_the_power_of_complex_options_trading_with/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n7jx6n",
+      "post_type": "image",
+      "domain": "tradestation.com",
+      "author": "TradeStation",
+      "author_id": "t2_c7zgafst",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-03T16:42:15.228000+0000",
+      "content_href": "https://www.tradestation.com/trading-products/options/?utm_source=reddit",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4gay8m/styles/profileIcon_pl31v8tnj1nb1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=fd2cfc3f92d4ec1dcf6c0db33c7707f4267afc42",
+      "is_promoted": true
+    },
+    {
+      "title": "Should Super GMs make occasional surprise appearances at lower rated tournaments?",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n5jqyr/should_super_gms_make_occasional_surprise/",
+      "score": 1427,
+      "comments": 141,
+      "post_id": "t3_1n5jqyr",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "Either-Case-5930",
-      "author_id": "t2_94c6gy1k",
+      "author": "Neither_Way_either",
+      "author_id": "t2_1sxaj68d5q",
       "subreddit_id": "t5_2qhr7",
       "subreddit": "r/chess",
-      "created_ts": "2025-09-01T23:11:30.251000+0000",
-      "content_href": "https://i.redd.it/h6cm62m2ymmf1.png",
+      "created_ts": "2025-09-01T09:02:33.124000+0000",
+      "content_href": "https://i.redd.it/3pot7l5mqimf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Puzzle - Composition"
+        "Social Media"
       ],
-      "thumbnail_url": "https://preview.redd.it/mate-in-2-for-white-v0-h6cm62m2ymmf1.png?width=640&crop=smart&auto=webp&s=e0b9d369c864e2bb1c1b77a710ebe6969589ef56"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Top Pairings for FIDE Grand Swiss 2025 Round 2 Open and Women",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n8g2dm/top_pairings_for_fide_grand_swiss_2025_round_2/",
+      "score": 189,
+      "comments": 68,
+      "post_id": "t3_1n8g2dm",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Necessary_Pattern850",
+      "author_id": "t2_oekqrk9j4",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-04T17:10:29.795000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8g2dm",
+      "content_preview": "",
+      "flair": [
+        "News/Events"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
       "title": "Susan Polgar about Gukesh and his World Championship title.",
       "permalink": "https://www.reddit.com/r/chess/comments/1my62qh/susan_polgar_about_gukesh_and_his_world/",
-      "score": 2034,
+      "score": 2039,
       "comments": 405,
       "post_id": "t3_1my62qh",
       "post_type": "image",
@@ -964,12 +403,553 @@
       "flair": [
         "Social Media"
       ],
-      "thumbnail_url": "https://preview.redd.it/susan-polgar-about-gukesh-and-his-world-championship-title-v0-r5zqpfmtqskf1.jpeg?width=640&crop=smart&auto=webp&s=5c91a0b10ea6e66d96929756b84064f50418546f"
+      "thumbnail_url": "https://preview.redd.it/susan-polgar-about-gukesh-and-his-world-championship-title-v0-r5zqpfmtqskf1.jpeg?width=640&crop=smart&auto=webp&s=5c91a0b10ea6e66d96929756b84064f50418546f",
+      "is_promoted": false
+    },
+    {
+      "title": "Can someone explain why I periodically forget how to play chess and drop 400-600 rating points over night??",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n76zrb/can_someone_explain_why_i_periodically_forget_how/",
+      "score": 1413,
+      "comments": 330,
+      "post_id": "t3_1n76zrb",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "SetOld3462",
+      "author_id": "t2_15llp1298q",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-03T06:02:15.362000+0000",
+      "content_href": "https://i.redd.it/9qlflss94wmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Chess Question"
+      ],
+      "thumbnail_url": "https://preview.redd.it/can-someone-explain-why-i-periodically-forget-how-to-play-v0-9qlflss94wmf1.jpeg?width=640&crop=smart&auto=webp&s=6cd803f4b379cc734a73e8b089f48ef33e0138cc",
+      "is_promoted": false
+    },
+    {
+      "title": "Hikaru \"Mickeymura\" closing in on his peak",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n67rw5/hikaru_mickeymura_closing_in_on_his_peak/",
+      "score": 1099,
+      "comments": 210,
+      "post_id": "t3_1n67rw5",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "poisoned_pawn_",
+      "author_id": "t2_144adzlc8w",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-02T02:24:22.086000+0000",
+      "content_href": "https://i.redd.it/t5d656dhwnmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Miscellaneous"
+      ],
+      "thumbnail_url": "https://preview.redd.it/hikaru-mickeymura-closing-in-on-his-peak-v0-t5d656dhwnmf1.jpeg?width=640&crop=smart&auto=webp&s=05f12dd64aa58205287f3c53aba7d4c940f58826",
+      "is_promoted": false
+    },
+    {
+      "title": "Players of the day | Rd. 1 | FIDE Grand Swiss 2025",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n8y2t3/players_of_the_day_rd_1_fide_grand_swiss_2025/",
+      "score": 14,
+      "comments": 3,
+      "post_id": "t3_1n8y2t3",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "FirstEfficiency7386",
+      "author_id": "t2_k6ef60ap8",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-05T06:44:14.062000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8y2t3",
+      "content_preview": "",
+      "flair": [
+        "News/Events"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "getting back into chess, a cool checkmate from a recent game",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n8wr47/getting_back_into_chess_a_cool_checkmate_from_a/",
+      "score": 16,
+      "comments": 1,
+      "post_id": "t3_1n8wr47",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "JeannyGuitare",
+      "author_id": "t2_1upgkh5edc",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-05T05:23:19.617000+0000",
+      "content_href": "https://i.redd.it/s2u8fpoo6anf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Puzzle/Tactic"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f2bg3s/styles/profileIcon_hi4et7dq4fif1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ce531501007aa738950538720eba80c7c431c4d3",
+      "is_promoted": false
+    },
+    {
+      "title": "501® Original. Trucker Jacket. Western Shirt. The three that defined denim. Shop Levi’s® Icons",
+      "permalink": "https://www.reddit.com/user/Levis_Official/comments/1mtzkfe/501_original_trucker_jacket_western_shirt_the/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mtzkfe",
+      "post_type": "gallery",
+      "domain": "levi.com",
+      "author": "Levis_Official",
+      "author_id": "t2_7xqnsih4",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-18T21:44:21.576000+0000",
+      "content_href": "https://www.levi.com/US/en_US/levis-icons/c/levi_clothing_icons_us?Camp=Brand_Reddit_NA_NA_NA_25H2_BRD_US_ICON*rdt_{{CAMPAIGN_ID}}_{{ADGROUP_ID}}_{{CREATIVE_ID}}",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_32cha1/styles/profileIcon_6lv5zang72yc1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=583ee0476a642175113fa08639d3861543daec71",
+      "is_promoted": true
+    },
+    {
+      "title": "At Basque Chess Open 2025, ISR Players are not allowed to play under their flag",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n91cal/at_basque_chess_open_2025_isr_players_are_not/",
+      "score": 21,
+      "comments": 4,
+      "post_id": "t3_1n91cal",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "DON7fan",
+      "author_id": "t2_8gsb062t",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-05T10:15:07.839000+0000",
+      "content_href": "https://i.redd.it/poicttg4nbnf1.png",
+      "content_preview": "",
+      "flair": [
+        "News/Events"
+      ],
+      "thumbnail_url": "https://preview.redd.it/at-basque-chess-open-2025-isr-players-are-not-allowed-to-v0-poicttg4nbnf1.png?auto=webp&s=3c4049c0fef3d15c5b714f0ec0a6882d639252b5",
+      "is_promoted": false
+    },
+    {
+      "title": "Witty alien retires 👽💔",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n914zk/witty_alien_retires/",
+      "score": 15,
+      "comments": 4,
+      "post_id": "t3_1n914zk",
+      "post_type": "text",
+      "domain": "self.chess",
+      "author": "No-Woodpecker-3328",
+      "author_id": "t2_1nuv96bi3f",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-05T10:02:56.811000+0000",
+      "content_href": "https://www.reddit.com/r/chess/comments/1n914zk/witty_alien_retires/",
+      "content_preview": "Witty alien just posted a video that he is quitting content creation forever due to health and financial issues,it kind of hit me heavy,to see him cry throughout the video,the person who made all of us laugh,what can I say ,I hope he have a great career ahead,he gave so much to the  online chess community ❤️‍🩹",
+      "flair": [
+        "News/Events"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Just switched from Chess.com to Lichess and I’m blown away",
+      "permalink": "https://www.reddit.com/r/chess/comments/1mx5tzd/just_switched_from_chesscom_to_lichess_and_im/",
+      "score": 1952,
+      "comments": 255,
+      "post_id": "t3_1mx5tzd",
+      "post_type": "text",
+      "domain": "self.chess",
+      "author": "Elmaster110",
+      "author_id": "t2_3hm0whwz",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-08-22T12:58:58.618000+0000",
+      "content_href": "https://www.reddit.com/r/chess/comments/1mx5tzd/just_switched_from_chesscom_to_lichess_and_im/",
+      "content_preview": "I used to play on Chess.com and thought it was the best option. Then I tried Lichess and honestly my mind is blown. The puzzles, the analysis, the training tools, the opening explorer… everything just feels better for improving. And the best part is that it’s completely free. No paywalls, no hidden premium features, just chess.I recommend it a lot to anyone who hasn’t tried it yet. Big props to Lichess and the devs for making such an amazing platform.",
+      "flair": [
+        "Miscellaneous"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "This would give me an Aneurysm",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n8to9k/this_would_give_me_an_aneurysm/",
+      "score": 22,
+      "comments": 4,
+      "post_id": "t3_1n8to9k",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "80000gvwr",
+      "author_id": "t2_3pfd9nio",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-05T02:38:56.396000+0000",
+      "content_href": "https://i.redd.it/qdu4o8mtd9nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Miscellaneous"
+      ],
+      "thumbnail_url": "https://preview.redd.it/this-would-give-me-an-aneurysm-v0-qdu4o8mtd9nf1.jpeg?width=640&crop=smart&auto=webp&s=1ce0cf7c49330a4064956a66f3cc3def4039fee4",
+      "is_promoted": false
+    },
+    {
+      "title": "My first smothered mate",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n911yy/my_first_smothered_mate/",
+      "score": 6,
+      "comments": 1,
+      "post_id": "t3_1n911yy",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "-White_Rabbit",
+      "author_id": "t2_yymdl",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-05T09:57:58.589000+0000",
+      "content_href": "https://i.redd.it/mybg3wqwjbnf1.png",
+      "content_preview": "",
+      "flair": [
+        "Miscellaneous"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Closed Super GM tournaments should have a:",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n90qxm/closed_super_gm_tournaments_should_have_a/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n90qxm",
+      "post_type": "poll",
+      "domain": "self.chess",
+      "author": "FirstEfficiency7386",
+      "author_id": "t2_k6ef60ap8",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-05T09:38:31.879000+0000",
+      "content_href": "https://www.reddit.com/r/chess/comments/1n90qxm/closed_super_gm_tournaments_should_have_a/",
+      "content_preview": "",
+      "flair": [
+        "Chess Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Can Hikaru grind his way to #1 by beating 40+ \"Mickey Mouse Tournament\" Participants? He'll gain +0.8 elo per win.",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n4kmjh/can_hikaru_grind_his_way_to_1_by_beating_40/",
+      "score": 1066,
+      "comments": 342,
+      "post_id": "t3_1n4kmjh",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "wise_tamarin",
+      "author_id": "t2_p4cpdrvbf",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-08-31T03:37:34.356000+0000",
+      "content_href": "https://i.redd.it/mzc86kypz9mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Miscellaneous"
+      ],
+      "thumbnail_url": "https://preview.redd.it/can-hikaru-grind-his-way-to-by-beating-40-mickey-mouse-v0-mzc86kypz9mf1.jpeg?width=640&crop=smart&auto=webp&s=c817366a6e7a979cf7eb9a0c91029a5b2ca1648a",
+      "is_promoted": false
+    },
+    {
+      "title": "Powering the engine of modern restaurants",
+      "permalink": "https://www.reddit.com/user/comcastbusiness/comments/1m34a6s/powering_the_engine_of_modern_restaurants/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1m34a6s",
+      "post_type": "video",
+      "domain": "ad.doubleclick.net",
+      "author": "comcastbusiness",
+      "author_id": "t2_cwxs3m19",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-18T14:46:53.565000+0000",
+      "content_href": "https://v.redd.it/rr9pnt4itldf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4nohrz/styles/profileIcon_b22e7vgt39771.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=d2c36cd29c3a2c92e816fa019da83c47c012a2b9",
+      "is_promoted": true
+    },
+    {
+      "title": "Hikaru is your Louisiana State Champion!",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n62a3g/hikaru_is_your_louisiana_state_champion/",
+      "score": 1018,
+      "comments": 141,
+      "post_id": "t3_1n62a3g",
+      "post_type": "link",
+      "domain": "chess.com",
+      "author": "caughtinthought",
+      "author_id": "t2_knt61",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-01T22:08:06.776000+0000",
+      "content_href": "https://www.chess.com/events/louisiana-state-championship-2025/results",
+      "content_preview": "",
+      "flair": [
+        "News/Events"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/C-SLVcO2MQUI5W0YGKyveFfWbWs5lEhjAWDOUwNOqLU.png?width=140&height=78&crop=140:78,smart&auto=webp&s=158a2107b6aa7df1331427604183354b35901b2c",
+      "is_promoted": false
+    },
+    {
+      "title": "Reigning Champion Vidit Gujrathi beats Alexander Donchenko | Rd. 1 | FIDE Grand Swiss",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n8bet1/reigning_champion_vidit_gujrathi_beats_alexander/",
+      "score": 215,
+      "comments": 16,
+      "post_id": "t3_1n8bet1",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "FirstEfficiency7386",
+      "author_id": "t2_k6ef60ap8",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-04T14:17:00.180000+0000",
+      "content_href": "https://i.redd.it/2axjl7lep5nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "News/Events"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Congratulations to GM Hikaru Nakamura for winning the Louisiana Championship with a perfect score!",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n62jvi/congratulations_to_gm_hikaru_nakamura_for_winning/",
+      "score": 997,
+      "comments": 88,
+      "post_id": "t3_1n62jvi",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "downriverchess",
+      "author_id": "t2_gfsja525q",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-01T22:19:41.577000+0000",
+      "content_href": "https://i.redd.it/d03ajdkoommf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "News/Events"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8zgzy4/styles/profileIcon_jyf46f5za6mf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=cb70beace8bebac67acab2aa452148465be27692",
+      "is_promoted": false
+    },
+    {
+      "title": "Found this quite fascinating",
+      "permalink": "https://www.reddit.com/r/chess/comments/1mlsfzl/found_this_quite_fascinating/",
+      "score": 1762,
+      "comments": 83,
+      "post_id": "t3_1mlsfzl",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Available-Staff-7688",
+      "author_id": "t2_12tijseb7w",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-08-09T15:39:41.680000+0000",
+      "content_href": "https://v.redd.it/kriwdnigk0if1",
+      "content_preview": "",
+      "flair": [
+        "Video Content"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "🌒📜 Scachs d'Amor – The Game of Love and War, 1475 📜🌘",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n90bra/scachs_damor_the_game_of_love_and_war_1475/",
+      "score": 6,
+      "comments": 4,
+      "post_id": "t3_1n90bra",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Circadiemxiii",
+      "author_id": "t2_1sbsemrff0",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-05T09:12:08.046000+0000",
+      "content_href": "https://i.redd.it/jcfpuwzybbnf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Game Analysis/Study"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_esgats/styles/profileIcon_n50e99z0v9bf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a5afc91764e4e6969c58013ec76deeb199268516",
+      "is_promoted": false
+    },
+    {
+      "title": "If Garry Kasparov could get in 40 classical games, he could steal the rating spot from Hikaru.",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n6e1eo/if_garry_kasparov_could_get_in_40_classical_games/",
+      "score": 963,
+      "comments": 168,
+      "post_id": "t3_1n6e1eo",
+      "post_type": "text",
+      "domain": "self.chess",
+      "author": "MathematicianBulky40",
+      "author_id": "t2_9vu1th4o",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-02T08:31:57.880000+0000",
+      "content_href": "https://www.reddit.com/r/chess/comments/1n6e1eo/if_garry_kasparov_could_get_in_40_classical_games/",
+      "content_preview": "Just a thought. If Kasparov wanted to troll Hikaru, his FIDE rating is actually higher (2812 vs 2807.)If he could squeeze in 40 games between now and the candidates, he would take the rating spot.",
+      "flair": [
+        "Miscellaneous"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Magnus answers the “At what rating should you not be embarrassed anymore?” Question",
+      "permalink": "https://www.reddit.com/r/chess/comments/1mw789g/magnus_answers_the_at_what_rating_should_you_not/",
+      "score": 1651,
+      "comments": 231,
+      "post_id": "t3_1mw789g",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Matt_LawDT",
+      "author_id": "t2_ddjcpr20",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-08-21T10:32:12.746000+0000",
+      "content_href": "https://v.redd.it/vh1q1bujockf1",
+      "content_preview": "",
+      "flair": [
+        "Video Content"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/magnus-answers-the-at-what-rating-should-you-not-be-v0-dmV1Z3dha2pvY2tmMcs30tjMWN7ZwnxCTDEaVodw2Ta6hTL4xV_WKZqJ0Ha5.png?width=640&crop=smart&format=pjpg&auto=webp&s=2ab91dffe27f4cad73ec92c66f566cd2bdd154a9",
+      "is_promoted": false
+    },
+    {
+      "title": "No reasons needed. 0.0% alcohol. 100% taste. Now you can. Must be 21+ to purchase. Enjoy Heineken responsibly.",
+      "permalink": "https://www.reddit.com/user/Heineken_US/comments/1mpdex8/no_reasons_needed_00_alcohol_100_taste_now_you/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mpdex8",
+      "post_type": "image",
+      "domain": "heineken.com",
+      "author": "Heineken_US",
+      "author_id": "t2_akruad0g",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-13T19:03:50.415000+0000",
+      "content_href": "https://www.heineken.com/us/en/our-beers/heineken-0-0",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_45bcbz/styles/profileIcon_fg1nitbfgso61.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=07cf77fb44fd5a528124c13b10031bbd59bc33a9",
+      "is_promoted": true
+    },
+    {
+      "title": "Does anyone know why my chess set has a tiny knight?",
+      "permalink": "https://www.reddit.com/r/chess/comments/1mxnphm/does_anyone_know_why_my_chess_set_has_a_tiny/",
+      "score": 1604,
+      "comments": 286,
+      "post_id": "t3_1mxnphm",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Tea_Rxxy",
+      "author_id": "t2_j2hedlkv",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-08-23T00:50:58.132000+0000",
+      "content_href": "https://i.redd.it/azne3f7p2okf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Chess Question"
+      ],
+      "thumbnail_url": "https://preview.redd.it/does-anyone-know-why-my-chess-set-has-a-tiny-knight-v0-azne3f7p2okf1.jpeg?width=640&crop=smart&auto=webp&s=41458ad3dcaea41e10ba1b5e18ca41e122fdc4e5",
+      "is_promoted": false
+    },
+    {
+      "title": "Student cheated, now what?",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n2mhwp/student_cheated_now_what/",
+      "score": 1592,
+      "comments": 204,
+      "post_id": "t3_1n2mhwp",
+      "post_type": "text",
+      "domain": "self.chess",
+      "author": "romanticchess",
+      "author_id": "t2_8qrbgv09",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-08-28T19:56:50.114000+0000",
+      "content_href": "https://www.reddit.com/r/chess/comments/1n2mhwp/student_cheated_now_what/",
+      "content_preview": "Student is a child who has been performing poorly OTB and parents pay me to help their child. I gave some lessons and there's just the usual issues: student is impatient, doesn't practice regularly, seems to understand principles but doesn't apply them during games. After a couple months of poor performance, student shared a game with me they played online. Seemed strong for their level but didn't think much of it. Later I reviewed the game privately and some others they played and it's very clear to me they started cheating in recent weeks. Chesscom doesn't seem to have detected it yet but it's very obvious to me.What do I do now? Parents aren't the types who would accept that their child cheated. Do I just ignore it and move on? Dump them as a student? I don't see a situation where I confront the student about it that leads to anything good. But it bugs me because I could see this type of kid growing up thinking it's ok to cheat to get results, generally being a bad person and getting rewarded for it.Update: student's Chesscom account is now closed for fair play violation before I could take any action. So it took them some time but they did catch it",
+      "flair": [
+        "Miscellaneous"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "NM Giovanni Diena, born in 1926, is competing this week in the oldest Italian tournament, 67 consecutive editions",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n7ktkm/nm_giovanni_diena_born_in_1926_is_competing_this/",
+      "score": 904,
+      "comments": 38,
+      "post_id": "t3_1n7ktkm",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Antaniserse",
+      "author_id": "t2_p7vmv",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-03T17:15:06.235000+0000",
+      "content_href": "https://i.redd.it/d5wjx9n6dzmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "News/Events"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_cl1ev/styles/profileIcon_t45gmc5tlodf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e549c43e3387c2f08b34bd4affbd95e30828164c",
+      "is_promoted": false
+    },
+    {
+      "title": "David Howell shares an interesting anecdote about Magnus Carlsen playing against 14 yr old Yagiz Kaan Erdogmus.",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n89afs/david_howell_shares_an_interesting_anecdote_about/",
+      "score": 268,
+      "comments": 66,
+      "post_id": "t3_1n89afs",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Interesting-Take781",
+      "author_id": "t2_1jioa2zt93",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-04T12:52:06.761000+0000",
+      "content_href": "https://v.redd.it/7mpikuvaa5nf1",
+      "content_preview": "",
+      "flair": [
+        "Video Content"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/david-howell-shares-an-interesting-anecdote-about-magnus-v0-cG00bWtkbGFhNW5mMYKVH_0Z0vlP-hdQITnn5ySwksI5Gd38scbetFE8gGiX.png?width=640&crop=smart&format=pjpg&auto=webp&s=94ee4351226ed72488b3821fbf716a89c7e04f78",
+      "is_promoted": false
+    },
+    {
+      "title": "Hans also Enters the Louisiana State Championship (Hikaru also attending)",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n47y4m/hans_also_enters_the_louisiana_state_championship/",
+      "score": 813,
+      "comments": 174,
+      "post_id": "t3_1n47y4m",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "phoenix3747",
+      "author_id": "t2_3wo3qah3",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-08-30T17:50:59.292000+0000",
+      "content_href": "https://i.redd.it/tqrfo1m237mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "News/Events"
+      ],
+      "thumbnail_url": "https://preview.redd.it/hans-also-enters-the-louisiana-state-championship-hikaru-v0-tqrfo1m237mf1.jpeg?width=640&crop=smart&auto=webp&s=30ab582d216e40ca4c19a5a42e23f489e72b254e",
+      "is_promoted": false
     },
     {
       "title": "Aight guys it's that time of the year again.",
       "permalink": "https://www.reddit.com/r/chess/comments/1n4wp0c/aight_guys_its_that_time_of_the_year_again/",
-      "score": 770,
+      "score": 781,
       "comments": 193,
       "post_id": "t3_1n4wp0c",
       "post_type": "image",
@@ -984,28 +964,278 @@
       "flair": [
         "Social Media"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_2f3zqh/styles/profileIcon_013f6az4igye1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5da5f371d7d78415078f96d80491b7964db2a3c3"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2f3zqh/styles/profileIcon_013f6az4igye1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5da5f371d7d78415078f96d80491b7964db2a3c3",
+      "is_promoted": false
     },
     {
-      "title": "Is this a draw???",
-      "permalink": "https://www.reddit.com/r/chess/comments/1n6dr5q/is_this_a_draw/",
-      "score": 0,
-      "comments": 6,
-      "post_id": "t3_1n6dr5q",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "DisastrousMaize2359",
-      "author_id": "t2_bdrjy99g",
+      "title": "What is the point of the Megathread if we keep posting the results of each individual game in the timeline?",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n8eh2s/what_is_the_point_of_the_megathread_if_we_keep/",
+      "score": 142,
+      "comments": 37,
+      "post_id": "t3_1n8eh2s",
+      "post_type": "text",
+      "domain": "self.chess",
+      "author": "edwinkorir",
+      "author_id": "t2_4lizpr1v",
       "subreddit_id": "t5_2qhr7",
       "subreddit": "r/chess",
-      "created_ts": "2025-09-02T08:12:45.013000+0000",
-      "content_href": "https://i.redd.it/4kwn020nmpmf1.jpeg",
+      "created_ts": "2025-09-04T16:11:27.477000+0000",
+      "content_href": "https://www.reddit.com/r/chess/comments/1n8eh2s/what_is_the_point_of_the_megathread_if_we_keep/",
+      "content_preview": "Just a question?",
+      "flair": [
+        "Miscellaneous"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2babyx/styles/profileIcon_3gz8j4h2sm151.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=136a680807a986c122e8898f4c615fa85c1f64f5",
+      "is_promoted": false
+    },
+    {
+      "title": "TFW you unlocked home ownership with only 3% down.",
+      "permalink": "https://www.reddit.com/user/Chase/comments/1mk95p4/tfw_you_unlocked_home_ownership_with_only_3_down/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mk95p4",
+      "post_type": "video",
+      "domain": "chase.com/home",
+      "author": "Chase",
+      "author_id": "t2_1mn79c07m3",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-07T19:14:10.691000+0000",
+      "content_href": "https://v.redd.it/uxp24x9fvlhf1",
       "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_e3trv1/styles/profileIcon_a69hi6t3f6kf1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=2f741deeff417764238035f26d707b72fd5dcdd0",
+      "is_promoted": true
+    },
+    {
+      "title": "Event: FIDE Grand Swiss 2025 - Round 2",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n8vtzu/event_fide_grand_swiss_2025_round_2/",
+      "score": 12,
+      "comments": 20,
+      "post_id": "t3_1n8vtzu",
+      "post_type": "multi_media",
+      "domain": "self.chess",
+      "author": "events_team",
+      "author_id": "t2_r4imouywx",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-05T04:30:40.637000+0000",
+      "content_href": "https://www.reddit.com/r/chess/comments/1n8vtzu/event_fide_grand_swiss_2025_round_2/",
+      "content_preview": "Official WebsiteSAMARKAND-The FIDE Grand Swiss 2025 and FIDE Women’s Grand Swiss 2025will be held in Samarkand, Uzbekistan at the Silk Road EXPO from September 3 to 15, 2025. Serving as a crucial part of the World Championship cycle, the tournaments grant spots in the 2026 Candidates Tournament (top two from the Open) and the 2026 Women’s Candidates (top two from the Women’s event). A total of 172 players from across the globe will compete in 11 rounds under the Swiss system, with 116 in the Open and 56 in the Women’s section, for a combined $855,000 prize fund ($625,000 Open, $230,000 Women’s).Open Section:Participants|Standings & Pairings|Games - Chess.com|Games - Lichess|Chess-ResultsWomen’s Section:Participants|Standings & Pairings|Games - Chess.com|Games - Lichess|Chess-ResultsTop 10 SeedsOpen Section#TitleNameFEDRating1GMPraggnanandhaa R🇮🇳 IND27852GMArjun Erigaisi🇮🇳 IND27713GMGukesh D🇮🇳 IND27674GMAlireza Firouzja🇫🇷 FRA27545GMVincent Keymer🇩🇪 GER27516GMNodirbek Abdusattorov🇺🇿 UZB27487GMAnish Giri🇳🇱 NED27468GMLevon Aronian🇺🇸 USA27449GMIan NepomniachtchiFIDE274210GMShakhriyar Mamedyarov🇦🇿 AZE2741Women’s Section#TitleNameFEDRating1GMAnna Muzychuk🇺🇦 UKR25352GMTan Zhongyi🇨🇳 CHN25313GMBibisara Assaubayeva🇰🇿 KAZ25054GMKateryna LagnoFIDE25055IMPolina ShuvalovaFIDE24926GMMariya Muzychuk🇺🇦 UKR24847IMYuliia Osmak🇺🇦 UKR24788IMLeya GarifullinaFIDE24779GMAlexandra Kosteniuk🇨🇭 SUI247210GMHarika Dronavalli🇮🇳 IND2467Format/Time ControlsOpen Section is an 11 round Swiss tournament. Time control is 100 minutes for 40 moves, 50 minutes for the next 20 moves, and 15 minutes for the rest of the game, with a 30 second increment from move one.Women’s Section is an 11 round Swiss tournament. Time control is 90 minutes for 40 moves, then 30 minutes for the rest of the game, with a 30 second increment from move one.ScheduleAll times are local (GMT+5)DateTimeRoundSept 4-915:00Round 1-6Sept 10-Rest DaySept 11-1415:00Round 7-10Sept 1514:00Round 11Live CoverageThe official broadcast will be available on FIDE’sYouTubeandTwitchchannels with live commentary and analysis by GM Evgenij Miroshnichenko and IM Jovanka Houska. Live video feeds of individual top boards will also be available on their channel.Coverage will also be provided on Chess24’sYouTubeandTwitchchannels, featuring commentary by GM Judit Polgar, GM David Howell, IM Anna Rudolf, and hosted by John Sargent.An alternative stream can be viewed on ChessBase India'sYouTubechannel, featuring IM Sagar Shah and Amruta Mokal.Previous RoundsRound 1 Thread",
+      "flair": [
+        "Tournament"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Gukesh responds to Nodirbek's opinion that Gukesh will lose his title next year.",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n7hww3/gukesh_responds_to_nodirbeks_opinion_that_gukesh/",
+      "score": 692,
+      "comments": 172,
+      "post_id": "t3_1n7hww3",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Interesting-Take781",
+      "author_id": "t2_1jioa2zt93",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-03T15:28:58.841000+0000",
+      "content_href": "https://v.redd.it/a69h3qhdxymf1",
+      "content_preview": "",
+      "flair": [
+        "Social Media"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/gukesh-responds-to-nodirbeks-opinion-that-gukesh-will-lose-v0-cDRzZW5qN2R4eW1mMcW8vY1KBwMnNVdGFE9L0IIicwql8wuFUNt0cnsb--o_.png?width=640&crop=smart&format=pjpg&auto=webp&s=f59dbd19d30c247d72652e60bd07fbc03f5dc395",
+      "is_promoted": false
+    },
+    {
+      "title": "Do you think Chess.com is overpriced?",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n8d6k2/do_you_think_chesscom_is_overpriced/",
+      "score": 115,
+      "comments": 141,
+      "post_id": "t3_1n8d6k2",
+      "post_type": "text",
+      "domain": "self.chess",
+      "author": "tomas_holoch",
+      "author_id": "t2_1wgubgb732",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-04T15:23:24.923000+0000",
+      "content_href": "https://www.reddit.com/r/chess/comments/1n8d6k2/do_you_think_chesscom_is_overpriced/",
+      "content_preview": "I’ve been looking at Chess.com’s yearly plan  it’s about $120 and honestly I’m not sure if it’s worth that much. I enjoy the features, but at the same time....Curious, do you guys think the price is fair for what you get, or is it too much?",
       "flair": [
         "Chess Question"
       ],
-      "thumbnail_url": "https://preview.redd.it/is-this-a-draw-v0-4kwn020nmpmf1.jpeg?width=640&crop=smart&auto=webp&s=4a85b8e66e38a9012d00e4c923abc79b96d2f7a5"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Anna Muzychuk flagged in a +2.41 advantageous position!",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n8c7q3/anna_muzychuk_flagged_in_a_241_advantageous/",
+      "score": 111,
+      "comments": 32,
+      "post_id": "t3_1n8c7q3",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "FirstEfficiency7386",
+      "author_id": "t2_k6ef60ap8",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-04T14:47:25.484000+0000",
+      "content_href": "https://v.redd.it/rc3193qpu5nf1",
+      "content_preview": "",
+      "flair": [
+        "News/Events"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "It feels like I’m finally hitting my stride in my learning journey",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n8sgex/it_feels_like_im_finally_hitting_my_stride_in_my/",
+      "score": 14,
+      "comments": 2,
+      "post_id": "t3_1n8sgex",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Stonks4Minutes",
+      "author_id": "t2_9xkvxiw5",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-05T01:40:35.099000+0000",
+      "content_href": "https://i.redd.it/08vmqwse39nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Miscellaneous"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Winning and losing streaks in Blitz: how do you explain them? I find that I'm often on streaks up to 10 wins or losses rather than the fairly alternate pattern you'd expect as your opponents are picked based on your level.",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n907k6/winning_and_losing_streaks_in_blitz_how_do_you/",
+      "score": 0,
+      "comments": 6,
+      "post_id": "t3_1n907k6",
+      "post_type": "text",
+      "domain": "self.chess",
+      "author": "George_Orama",
+      "author_id": "t2_949hogwv",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-05T09:04:52.065000+0000",
+      "content_href": "https://www.reddit.com/r/chess/comments/1n907k6/winning_and_losing_streaks_in_blitz_how_do_you/",
+      "content_preview": "I'm a low level casual player, so it could be just luck, or a random pattern. But I'm also thinking could it be my mindset, brain sharpness of the moment? Maybe that's similar to daily life when you have something on your mind - you don'd make the best decisions or forget stuff. But it's not really visible because life goes on, whereas in chess you see it in results.Does anyone else think about this or just me?",
+      "flair": [
+        "Game Analysis/Study"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "FIDE revokes grandmaster title of top chess player for hiding phone in bathroom, using Lichess during event",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n4i945/fide_revokes_grandmaster_title_of_top_chess/",
+      "score": 565,
+      "comments": 107,
+      "post_id": "t3_1n4i945",
+      "post_type": "link",
+      "domain": "indianexpress.com",
+      "author": "St_Gregory_Nazianzus",
+      "author_id": "t2_14oar0mhwh",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-08-31T01:32:28.528000+0000",
+      "content_href": "https://indianexpress.com/article/sports/chess/fide-revokes-grandmaster-title-kirill-shevchenko-phone-bathroom-10219703/",
+      "content_preview": "",
+      "flair": [
+        "News/Events"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bzf9qf/styles/profileIcon_2qz0f55msp5f1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e1eda1196ad662e1eab06090ee87ea587c2e3e1c",
+      "is_promoted": false
+    },
+    {
+      "title": "Just like 𝗗𝗼𝗿𝗶𝘁𝗼𝘀 𝗚𝗼𝗹𝗱𝗲𝗻 𝗦𝗿𝗶𝗿𝗮𝗰𝗵𝗮, our ads are",
+      "permalink": "https://www.reddit.com/user/doritos/comments/1mr8sqv/just_like_𝗗𝗼𝗿𝗶𝘁𝗼𝘀_𝗚𝗼𝗹𝗱𝗲𝗻_𝗦𝗿𝗶𝗿𝗮𝗰𝗵𝗮_our_ads_are/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mr8sqv",
+      "post_type": "gallery",
+      "domain": "doritos.com",
+      "author": "doritos",
+      "author_id": "t2_49nmxafd",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-15T20:07:29.408000+0000",
+      "content_href": "https://www.doritos.com/where-to-buy",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_23sqq3/styles/profileIcon_sdfhcswa4mhf1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=53eb100cd8ad5525f2640ce58a1b5445167500fb",
+      "is_promoted": true
+    },
+    {
+      "title": "Anish Giri defeats Robert Hovhannisyan | Rd. 1 | FIDE Grand Swiss 2025",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n8bk9w/anish_giri_defeats_robert_hovhannisyan_rd_1_fide/",
+      "score": 97,
+      "comments": 10,
+      "post_id": "t3_1n8bk9w",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "FirstEfficiency7386",
+      "author_id": "t2_k6ef60ap8",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-04T14:22:38.571000+0000",
+      "content_href": "https://i.redd.it/s05mb9xdq5nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "News/Events"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "The game ended… but not for Alireza & Gukesh. 20 minutes of extra analysis after everyone had left the venue.",
+      "permalink": "https://www.reddit.com/r/chess/comments/1mzxgdr/the_game_ended_but_not_for_alireza_gukesh_20/",
+      "score": 1346,
+      "comments": 58,
+      "post_id": "t3_1mzxgdr",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "EuphoricRange28",
+      "author_id": "t2_13n644lkq6",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-08-25T17:49:08.653000+0000",
+      "content_href": "https://v.redd.it/yd8zbtd5e7lf1",
+      "content_preview": "",
+      "flair": [
+        "Video Content"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Rd. 1 Winners: How many do you know?",
+      "permalink": "https://www.reddit.com/r/chess/comments/1n8ewkj/rd_1_winners_how_many_do_you_know/",
+      "score": 58,
+      "comments": 34,
+      "post_id": "t3_1n8ewkj",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "wptq",
+      "author_id": "t2_4s7ol01a",
+      "subreddit_id": "t5_2qhr7",
+      "subreddit": "r/chess",
+      "created_ts": "2025-09-04T16:27:26.145000+0000",
+      "content_href": "https://i.redd.it/g50now3oc6nf1.png",
+      "content_preview": "",
+      "flair": [
+        "Miscellaneous"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:11:27.803603"
+  "scraped_at": "2025-09-05T03:33:00.528009"
 }

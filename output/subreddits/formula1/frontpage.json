@@ -3,34 +3,370 @@
   "url": "https://www.reddit.com/r/formula1",
   "meta": {
     "title": "Formula 1",
-    "members_text": "5,251"
+    "description": "Welcome to r/Formula1, the best independent online Formula 1 community!",
+    "subscribers": 6453775,
+    "online_users": 992,
+    "created_timestamp": "2025-09-05T10:29:18.749000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Bookmarks",
+        "content": [
+          {
+            "text": "Wiki",
+            "url": "/r/formula1/wiki/index/"
+          },
+          {
+            "text": "r/formula1 Rules",
+            "url": "https://www.reddit.com/r/formula1/wiki/userguide#wiki_.2Fr.2Fformula1.27s_user_guide"
+          },
+          {
+            "text": "Daily Discussion",
+            "url": "https://www.reddit.com/r/formula1/search?q=Daily%20Discussion&restrict_sr=1&sort=new"
+          },
+          {
+            "text": "Recurring Posts",
+            "url": "https://www.reddit.com/r/formula1/wiki/userguide#wiki_.2Fr.2Fformula1_race_week_threads"
+          },
+          {
+            "text": "Featured Posts",
+            "url": "https://new.reddit.com/r/formula1/?styling=true&f=flair_name%3A%22Featured%22"
+          },
+          {
+            "text": "AMA Posts",
+            "url": "https://www.reddit.com/r/formula1/wiki/amas"
+          },
+          {
+            "text": "Meta Posts",
+            "url": "https://new.reddit.com/r/formula1/?f=flair_name%3A%22Meta%22"
+          },
+          {
+            "text": "🎱 F1 Fantasy League",
+            "url": "https://fantasy.formula1.com/app/#/league/350871"
+          },
+          {
+            "text": "Classic Skin",
+            "url": "https://old.reddit.com/r/formula1"
+          },
+          {
+            "text": "F1 Calendar",
+            "url": "https://www.reddit.com/r/formula1/w/#wiki_calendar"
+          },
+          {
+            "text": "F1 FAQ",
+            "url": "https://www.reddit.com/r/formula1/w/faq"
+          },
+          {
+            "text": "F1 Fantasy",
+            "url": "https://www.reddit.com/r/formula1/w/userguide#wiki_fantasy"
+          },
+          {
+            "text": "FIA Documents",
+            "url": "https://www.fia.com/documents"
+          },
+          {
+            "text": "Live Timing",
+            "url": "https://www.reddit.com/r/formula1/w/userguide#wiki_live_timing"
+          },
+          {
+            "text": "Spotter Guide",
+            "url": "https://imgur.com/a/I40G2"
+          },
+          {
+            "text": "Videos for new fans",
+            "url": "https://www.reddit.com/sgcck"
+          },
+          {
+            "text": "🇺🇦 Support Ukraine",
+            "url": "https://www.reddit.com/r/ukraine/wiki/charities/"
+          },
+          {
+            "text": "🏳️‍🌈 Stonewall",
+            "url": "https://donorbox.org/support-stonewall"
+          },
+          {
+            "text": "🗣️ Discord",
+            "url": "https://discordapp.com/invite/WcJsaqf"
+          }
+        ]
+      },
+      {
+        "title": "Our Social Media",
+        "content": [
+          {
+            "text": "r/formula1 BlueSky",
+            "url": "https://bsky.app/profile/f1subreddit.bsky.social"
+          },
+          {
+            "text": "r/formula1 Instagram",
+            "url": "https://www.instagram.com/redditf1/"
+          }
+        ]
+      },
+      {
+        "title": "Welcome to r/formula1!",
+        "content": [
+          {
+            "text": "🏆 r/formula1 Wiki",
+            "url": "https://www.reddit.com/r/formula1/wiki/index"
+          },
+          {
+            "text": "🏁 r/formula1 Rules",
+            "url": "https://www.reddit.com/r/formula1/wiki/userguide"
+          },
+          {
+            "text": "🙋 r/formula1 FAQ",
+            "url": "https://www.reddit.com/r/formula1/wiki/faq"
+          },
+          {
+            "text": "🏎️ Daily Discussion",
+            "url": "https://www.reddit.com/r/formula1/search?q=Daily%20Discussion&restrict_sr=1&sort=new"
+          },
+          {
+            "text": "💬 r/formula1 Discord",
+            "url": "https://discordapp.com/invite/WcJsaqf"
+          }
+        ]
+      },
+      {
+        "title": "r/formula1 Rules",
+        "content": [
+          {
+            "text": "full r/formula1 rules",
+            "url": "https://www.reddit.com/r/formula1/wiki/userguide"
+          },
+          {
+            "text": "r/formula1",
+            "url": "/r/formula1/"
+          },
+          {
+            "text": "r/formula1",
+            "url": "/r/formula1/"
+          },
+          {
+            "text": "r/formula1",
+            "url": "/r/formula1/"
+          },
+          {
+            "text": "r/formula1",
+            "url": "/r/formula1/"
+          },
+          {
+            "text": "r/formula1",
+            "url": "/r/formula1/"
+          },
+          {
+            "text": "full r/formula1 rules",
+            "url": "https://www.reddit.com/r/formula1/wiki/userguide"
+          }
+        ]
+      },
+      {
+        "title": "Customise Your Feed",
+        "content": [
+          {
+            "text": "News",
+            "url": "/r/formula1/?f=flair_name%3A%22%3Apost-news%3A%20News%22"
+          },
+          {
+            "text": "Featured",
+            "url": "/r/formula1/?f=flair_name%3A%22%3Apost-featured%3A%20Featured%22"
+          },
+          {
+            "text": "AMA",
+            "url": "/r/formula1/?f=flair_name%3A%22%3Apost-ama%3A%20AMA%22"
+          },
+          {
+            "text": "Quotes",
+            "url": "/r/formula1/?f=flair_name%3A%22%3Apost-quotes%3A%20Quotes%22"
+          },
+          {
+            "text": "Discussion",
+            "url": "/r/formula1/?f=flair_name%3A%22%3Apost-discussion%3A%20Discussion%22"
+          },
+          {
+            "text": "Technical",
+            "url": "/r/formula1/?f=flair_name%3A%22%3Apost-technical%3A%20Technical%22"
+          },
+          {
+            "text": "Statistics",
+            "url": "/r/formula1/?f=flair_name%3A%22%3Apost-statistics%3A%20Statistics%22"
+          },
+          {
+            "text": "Video",
+            "url": "/r/formula1/?f=flair_name%3A%22%3Apost-video%3A%20Video%22"
+          },
+          {
+            "text": "Highlight",
+            "url": "/r/formula1/?f=flair_name%3A%22%3Apost-highlight%3A%20Highlight%22"
+          },
+          {
+            "text": "Photo",
+            "url": "/r/formula1/?f=flair_name%3A%22%3Apost-photo%3A%20Photo%22"
+          },
+          {
+            "text": "Poster",
+            "url": "/r/formula1/?f=flair_name%3A%22%3Apost-poster%3A%20Poster%22"
+          },
+          {
+            "text": "Social Media",
+            "url": "/r/formula1/?f=flair_name%3A%22%3Apost-social-media%3A%20Social%20Media%22"
+          },
+          {
+            "text": "Throwback",
+            "url": "/r/formula1/?f=flair_name%3A%22%3Apost-throwback%3A%20Throwback%22"
+          },
+          {
+            "text": "Off-Topic",
+            "url": "/r/formula1/?f=flair_name%3A%22%3Apost-off-topic%3A%20Off-Topic%22"
+          },
+          {
+            "text": "Misc",
+            "url": "/r/formula1/?f=flair_name%3A%22%3Apost-misc%3A%20Misc%22"
+          }
+        ]
+      },
+      {
+        "title": "Other F1 Related Subs",
+        "content": [
+          {
+            "text": "r/F1Art",
+            "url": "/r/F1Art"
+          },
+          {
+            "text": "r/F1CircleJerk",
+            "url": "/r/F1CircleJerk"
+          },
+          {
+            "text": "r/F1FeederSeries",
+            "url": "/r/F1FeederSeries"
+          },
+          {
+            "text": "r/F1Game",
+            "url": "/r/F1Game"
+          },
+          {
+            "text": "r/f1meetup",
+            "url": "/r/f1meetup"
+          },
+          {
+            "text": "r/F1Porn",
+            "url": "/r/F1Porn"
+          },
+          {
+            "text": "r/F1Technical",
+            "url": "/r/F1Technical"
+          },
+          {
+            "text": "r/Formula1Point5",
+            "url": "/r/Formula1Point5"
+          },
+          {
+            "text": "r/vintagef1",
+            "url": "/r/vintagef1"
+          }
+        ]
+      },
+      {
+        "title": "Other Motorsports Subs",
+        "content": [
+          {
+            "text": "r/motorsports",
+            "url": "/r/motorsports"
+          },
+          {
+            "text": "r/F1FeederSeries",
+            "url": "/r/F1FeederSeries"
+          },
+          {
+            "text": "r/motogp",
+            "url": "/r/motogp"
+          },
+          {
+            "text": "r/wec",
+            "url": "/r/wec"
+          },
+          {
+            "text": "r/INDYCAR",
+            "url": "/r/INDYCAR"
+          },
+          {
+            "text": "r/FormulaE",
+            "url": "/r/FormulaE"
+          },
+          {
+            "text": "r/NASCAR",
+            "url": "/r/NASCAR"
+          },
+          {
+            "text": "r/WRC",
+            "url": "/r/WRC"
+          },
+          {
+            "text": "r/Karting",
+            "url": "/r/Karting"
+          }
+        ]
+      },
+      {
+        "title": "Special Thanks",
+        "content": [
+          {
+            "text": "u/exit143",
+            "url": "/u/exit143"
+          },
+          {
+            "text": "u/crossfiregr1",
+            "url": "/u/crossfiregr1"
+          },
+          {
+            "text": "u/SBOpC_VR23",
+            "url": "/u/SBOpC_VR23"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/formula1/moderators/"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "Irishman Patrick Harding on life inside F1 as Alex Albon's performance coach",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n6f73m/irishman_patrick_harding_on_life_inside_f1_as/",
-      "score": 3,
+      "title": "Low-downforce wings lead F1 Italian GP updates",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n91l35/lowdownforce_wings_lead_f1_italian_gp_updates/",
+      "score": 1,
       "comments": 0,
-      "post_id": "t3_1n6f73m",
+      "post_id": "t3_1n91l35",
       "post_type": "link",
-      "domain": "irishexaminer.com",
-      "author": "dvbsh",
-      "author_id": "t2_8rvev",
+      "domain": "motorsport.com",
+      "author": "MoneyLibrarian9032",
+      "author_id": "t2_1ffjaog6sb",
       "subreddit_id": "t5_2qimj",
       "subreddit": "r/formula1",
-      "created_ts": "2025-09-02T09:48:05.886000+0000",
-      "content_href": "https://www.irishexaminer.com/news/spotlight/arid-41694191.html",
+      "created_ts": "2025-09-05T10:29:18.749000+0000",
+      "content_href": "https://www.motorsport.com/f1/news/low-downforce-wings-lead-f1-italian-gp-updates/10756460/",
       "content_preview": "",
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/T2H3TKsJIYZzBWo_hB77LEybOe1sVbtwUI8SxhbjY-8.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=2cd6a6c58d0982dea7e484daff9733232478e70b"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_d63mki/styles/profileIcon_2iak80r01hjf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=14a475be363a0fbbe3f1f5957c8bd320188f669a",
+      "is_promoted": false
     },
     {
       "title": "[F1] Isack Hadjar Finishes P3",
       "permalink": "https://www.reddit.com/r/formula1/comments/1n4wjc6/f1_isack_hadjar_finishes_p3/",
-      "score": 37982,
-      "comments": 683,
+      "score": 38452,
+      "comments": 687,
       "post_id": "t3_1n4wjc6",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -44,172 +380,55 @@
       "flair": [
         "Social Media"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
-      "title": "McLaren says Norris failure was its fault not Mercedes",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n61w5a/mclaren_says_norris_failure_was_its_fault_not/",
-      "score": 1881,
-      "comments": 120,
-      "post_id": "t3_1n61w5a",
-      "post_type": "link",
-      "domain": "the-race.com",
-      "author": "Rentta",
-      "author_id": "t2_7b55b",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-09-01T21:51:55.899000+0000",
-      "content_href": "https://www.the-race.com/formula-1/mclaren-says-norris-failure-was-its-fault-not-mercedes/",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "Longest radio message I've seen",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1mgke31/longest_radio_message_ive_seen/",
-      "score": 28593,
-      "comments": 1023,
-      "post_id": "t3_1mgke31",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "maxiligamer",
-      "author_id": "t2_2p4bnaop",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-08-03T14:17:27.109000+0000",
-      "content_href": "https://i.redd.it/kycwpjnbctgf1.png",
-      "content_preview": "",
-      "flair": [
-        "Quotes"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_12uijw/styles/profileIcon_tawenx9tjdm41.JPG?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=251bf7d17b05c7d9251478706036083f6307ea7c"
-    },
-    {
-      "title": "Liam Lawson: “I was naive to think that I would be given the time to adapt” at Red Bull",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n5xurv/liam_lawson_i_was_naive_to_think_that_i_would_be/",
-      "score": 2924,
-      "comments": 337,
-      "post_id": "t3_1n5xurv",
+      "title": "Liberty Media won't rule out billion-dollar F1 sale",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n8qz90/liberty_media_wont_rule_out_billiondollar_f1_sale/",
+      "score": 739,
+      "comments": 202,
+      "post_id": "t3_1n8qz90",
       "post_type": "link",
       "domain": "motorsport.com",
-      "author": "memloh",
-      "author_id": "t2_10g7te",
+      "author": "bwoah07_gp2",
+      "author_id": "t2_3pv3dark",
       "subreddit_id": "t5_2qimj",
       "subreddit": "r/formula1",
-      "created_ts": "2025-09-01T19:13:37.311000+0000",
-      "content_href": "https://www.motorsport.com/f1/news/liam-lawson-i-was-naive-to-think-that-i-would-be-given-the-time-to-adapt-at-red-bull/10755553/",
+      "created_ts": "2025-09-05T00:30:25.120000+0000",
+      "content_href": "https://www.motorsport.com/f1/news/liberty-wont-rule-out-billion-dollar-f1-sale/10756325/",
       "content_preview": "",
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://external-preview.redd.it/EkP2I4vUUkmj5vgf2xYMC3LOr1mC_WyBH52EmsR8Vww.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=238c9b7a5ff81c6fb97ba06cd29809d12400ec05",
+      "is_promoted": false
     },
     {
-      "title": "The real question is: Who did it better?",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n4wytk/the_real_question_is_who_did_it_better/",
-      "score": 29951,
-      "comments": 574,
-      "post_id": "t3_1n4wytk",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "NukaWomble",
-      "author_id": "t2_5uk9asep",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-08-31T15:01:17.260000+0000",
-      "content_href": "https://i.redd.it/u2ugisblddmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Photo"
-      ],
-      "thumbnail_url": "https://preview.redd.it/the-real-question-is-who-did-it-better-v0-u2ugisblddmf1.png?width=640&crop=smart&auto=webp&s=aa2f8f27c59877ef03c881066588958955d6259d"
-    },
-    {
-      "title": "Zandvoort 2025 gave us the first F1 podium featuring two drivers born in the 2000s",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n5vgx9/zandvoort_2025_gave_us_the_first_f1_podium/",
-      "score": 3418,
-      "comments": 59,
-      "post_id": "t3_1n5vgx9",
-      "post_type": "image",
-      "domain": "c8.alamy.com",
-      "author": "Odd-Peach-Six",
-      "author_id": "t2_qinkdf1vu",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-09-01T17:45:33.992000+0000",
-      "content_href": "https://c8.alamy.com/comp/3CH57T8/zandvoort-oscar-piastri-mclaren-and-isack-hadjar-racing-bulls-on-the-podium-after-the-dutch-f1-grand-prix-at-the-zandvoort-circuit-anp-sem-van-der-wal-3CH57T8.jpg",
-      "content_preview": "",
-      "flair": [
-        "Statistics"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/zandvoort-2025-gave-us-the-first-f1-podium-featuring-two-v0-FpCDhfA1oEXRLaXhSrdfZg773i1dD6YRkhyZtmgS2CY.jpeg?width=640&crop=smart&auto=webp&s=55a05bc75acec04a18a02dca53bdc997ad722d54"
-    },
-    {
-      "title": "'A lot of emotions are not that helpful’: Oscar Piastri on his F1 world title dream",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n6ezat/a_lot_of_emotions_are_not_that_helpful_oscar/",
-      "score": 22,
-      "comments": 9,
-      "post_id": "t3_1n6ezat",
+      "title": "Isack hasn't been able to bond with his broken trophy yet - talianGP",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n8p4ik/isack_hasnt_been_able_to_bond_with_his_broken/",
+      "score": 197,
+      "comments": 14,
+      "post_id": "t3_1n8p4ik",
       "post_type": "link",
-      "domain": "theguardian.com",
-      "author": "myg030993",
-      "author_id": "t2_bxp3az58",
+      "domain": "streamain.com",
+      "author": "anthn885",
+      "author_id": "t2_11qbk8",
       "subreddit_id": "t5_2qimj",
       "subreddit": "r/formula1",
-      "created_ts": "2025-09-02T09:34:05.432000+0000",
-      "content_href": "https://www.theguardian.com/sport/2025/aug/29/a-lot-of-emotions-are-not-that-helpful-oscar-piastri-on-his-f1-world-title-dream",
+      "created_ts": "2025-09-04T23:07:02.309000+0000",
+      "content_href": "https://streamain.com/LcTGBfZ3otiwMI4/watch",
       "content_preview": "",
       "flair": [
-        "News"
+        "Video"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "Fernando Alonso and Hide The Pain Harold pose for what might be the most random image I've seen in a while.",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1mgj9vd/fernando_alonso_and_hide_the_pain_harold_pose_for/",
-      "score": 24928,
-      "comments": 208,
-      "post_id": "t3_1mgj9vd",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "OmegaSupreme_11484",
-      "author_id": "t2_6g0c5r08",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-08-03T13:28:47.285000+0000",
-      "content_href": "https://i.redd.it/2dhiypbo3tgf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Social Media"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_2niqfa/styles/profileIcon_rwiy971banca1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b2a376d1a518d0ec38d7a223a5af5d31ca9cfe7a"
-    },
-    {
-      "title": "If Piastri wins the F1 title he’ll be the first ever driver to have F3, F2 and F1 titles and that’s including older drivers who raced in gp series too",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n5r6di/if_piastri_wins_the_f1_title_hell_be_the_first/",
-      "score": 5673,
-      "comments": 181,
-      "post_id": "t3_1n5r6di",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Njobz",
-      "author_id": "t2_6per6oca",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-09-01T15:06:23.574000+0000",
-      "content_href": "https://i.redd.it/nrvl6zgmhkmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Statistics"
-      ],
-      "thumbnail_url": "https://preview.redd.it/if-piastri-wins-the-f1-title-hell-be-the-first-ever-driver-v0-nrvl6zgmhkmf1.jpeg?auto=webp&s=87c40d090167c48b997fe9606b2037e9abbeab33"
+      "thumbnail_url": "https://external-preview.redd.it/FEdzKUx0o4Hjmz2e5Lalj3ITEwDuvJzXLYUJmQKWWw8.jpeg?width=140&height=140&crop=140:140,smart&auto=webp&s=c74fb3ea58ff783eac12854c630154c1c0a513d7",
+      "is_promoted": false
     },
     {
       "title": "Valtteri Bottas on Instagram",
       "permalink": "https://www.reddit.com/r/formula1/comments/1n0iqp7/valtteri_bottas_on_instagram/",
-      "score": 28185,
+      "score": 28209,
       "comments": 516,
       "post_id": "t3_1n0iqp7",
       "post_type": "image",
@@ -224,32 +443,158 @@
       "flair": [
         "Social Media"
       ],
-      "thumbnail_url": "https://preview.redd.it/valtteri-bottas-on-instagram-v0-ni6wq2bbiclf1.jpeg?width=640&crop=smart&auto=webp&s=98ebdf503b3bb199222ea8cd550270fd128067eb"
+      "thumbnail_url": "https://preview.redd.it/valtteri-bottas-on-instagram-v0-ni6wq2bbiclf1.jpeg?width=640&crop=smart&auto=webp&s=98ebdf503b3bb199222ea8cd550270fd128067eb",
+      "is_promoted": false
     },
     {
-      "title": "From heartbreak before he could even see the starting lights at his F1 debut, to the podium just 14 rounds later for Isack Hadjar",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n5t085/from_heartbreak_before_he_could_even_see_the/",
-      "score": 4386,
-      "comments": 69,
-      "post_id": "t3_1n5t085",
-      "post_type": "gif",
-      "domain": "i.redd.it",
-      "author": "Jamiesavel",
-      "author_id": "t2_4yk6nfh8",
+      "title": "Light and compact, the intelligent V12 Detect Slim™ reveals invisible dust and has up to 60 minutes of run time.*",
+      "permalink": "https://www.reddit.com/user/dyson/comments/1medtj8/light_and_compact_the_intelligent_v12_detect_slim/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1medtj8",
+      "post_type": "image",
+      "domain": "dyson.com",
+      "author": "dyson",
+      "author_id": "t2_4y2vl69p",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-31T21:18:38.284000+0000",
+      "content_href": "https://www.dyson.com/vacuum-cleaners/cordless/v12/detect-slim-yellow?utm_id={{CAMPAIGN_ID}}_{{ADGROUP_ID}}_{{AD_ID}}&utm_source=reddit&utm_medium=p_social&utm_campaign=fc_v12_always-on&utm_content=think_contextual_1x1_v12",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_27tpzt/styles/profileIcon_dfvjar6rxuib1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=deee6689d0f69bf7d02d40f5070616b2843d26ed",
+      "is_promoted": true
+    },
+    {
+      "title": "[Lewis] Dedicato a Niki",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n8c1dg/lewis_dedicato_a_niki/",
+      "score": 4574,
+      "comments": 39,
+      "post_id": "t3_1n8c1dg",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "OkCod1106",
+      "author_id": "t2_5r5eqtqc",
       "subreddit_id": "t5_2qimj",
       "subreddit": "r/formula1",
-      "created_ts": "2025-09-01T16:15:11.427000+0000",
-      "content_href": "https://i.redd.it/77lgoalrvkmf1.gif",
+      "created_ts": "2025-09-04T14:40:41.952000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8c1dg",
       "content_preview": "",
       "flair": [
-        "Video"
+        "Social Media"
       ],
-      "thumbnail_url": "https://preview.redd.it/from-heartbreak-before-he-could-even-see-the-starting-v0-77lgoalrvkmf1.gif?format=png8&s=3852c4a8cd1dc96e88922b79c4faafdbb844fdec"
+      "thumbnail_url": "https://preview.redd.it/lewis-dedicato-a-niki-v0-4nxupgaot5nf1.jpg?width=640&crop=smart&auto=webp&s=3228a8620f3fd128716552009e60ffc57cf963df",
+      "is_promoted": false
+    },
+    {
+      "title": "The real question is: Who did it better?",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n4wytk/the_real_question_is_who_did_it_better/",
+      "score": 30515,
+      "comments": 581,
+      "post_id": "t3_1n4wytk",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "NukaWomble",
+      "author_id": "t2_5uk9asep",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-08-31T15:01:17.260000+0000",
+      "content_href": "https://i.redd.it/u2ugisblddmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Photo"
+      ],
+      "thumbnail_url": "https://preview.redd.it/the-real-question-is-who-did-it-better-v0-u2ugisblddmf1.png?width=640&crop=smart&auto=webp&s=aa2f8f27c59877ef03c881066588958955d6259d",
+      "is_promoted": false
+    },
+    {
+      "title": "Lando Norris: ‘I can still win the title, even without bad luck for Piastry’",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n8i4v0/lando_norris_i_can_still_win_the_title_even/",
+      "score": 1994,
+      "comments": 327,
+      "post_id": "t3_1n8i4v0",
+      "post_type": "link",
+      "domain": "motorsport.com",
+      "author": "skaayat",
+      "author_id": "t2_wokuj",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-09-04T18:29:24.932000+0000",
+      "content_href": "https://www.motorsport.com/f1/news/lando-norris-can-still-win-title-even-without-bad-luck-piastri/10756303/",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/gPtv35uRxDxM8mt1R4oCnyscqvXgqhsf2nlxmRkS1p4.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=5987abd98f48cd4517cc5e9afb7b56ed2813e124",
+      "is_promoted": false
+    },
+    {
+      "title": "[OT] Guenther Steiner leads acquisition of Tech3 MotoGP™ team",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n91ghi/ot_guenther_steiner_leads_acquisition_of_tech3/",
+      "score": 4,
+      "comments": 5,
+      "post_id": "t3_1n91ghi",
+      "post_type": "link",
+      "domain": "motogp.com",
+      "author": "obscurus7",
+      "author_id": "t2_1gng3x0w",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-09-05T10:21:52.485000+0000",
+      "content_href": "https://www.motogp.com/en/news/2025/09/05/guenther-steiner-leads-acquisition-of-tech3-motogp-team/758123",
+      "content_preview": "",
+      "flair": [
+        "Off-Topic"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/BV1jZEYPqokAUBiS5GNcvSLnrc-wzMlqXK_wVRYpmH4.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=41d8cc9f7c0e52ccb6f2d176ed21a9c7ff38ed50",
+      "is_promoted": false
+    },
+    {
+      "title": "Last time current F1 drivers have been lapped",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1mj43vo/last_time_current_f1_drivers_have_been_lapped/",
+      "score": 12980,
+      "comments": 307,
+      "post_id": "t3_1mj43vo",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Portocala69",
+      "author_id": "t2_lmg28",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-08-06T13:03:28.276000+0000",
+      "content_href": "https://i.redd.it/bbf75lrsdehf1.png",
+      "content_preview": "",
+      "flair": [
+        "Statistics"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bztmw/styles/profileIcon_q9xs8few37p91.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b9ab11dad62275211d7790e7cf1283d379c4dd52",
+      "is_promoted": false
+    },
+    {
+      "title": "[Rory Mitchell] Alonso responds to Domenicali's proposal to shorten F1 races: Football matches are a little bit long. When I sit in front of the TV, I'm not watching the 90 minutes concentrated. There are always some moments of distraction. No one is talking about having 60-minute football matches.",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n8a1mx/rory_mitchell_alonso_responds_to_domenicalis/",
+      "score": 5087,
+      "comments": 512,
+      "post_id": "t3_1n8a1mx",
+      "post_type": "link",
+      "domain": "bsky.app",
+      "author": "Aratho",
+      "author_id": "t2_8okp1",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-09-04T13:24:53.375000+0000",
+      "content_href": "https://bsky.app/profile/rorymitchellf1.bsky.social/post/3lxzacfhfek25",
+      "content_preview": "",
+      "flair": [
+        "Social Media"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/oBSMSuNkVc1OpPp-WVmT85z5lA9siWdsjx5HWudL82Q.jpeg?width=140&height=140&crop=140:140,smart&auto=webp&s=add4a16966e40bbb98c9016ef835925d2503233c",
+      "is_promoted": false
     },
     {
       "title": "Isack has broken the trophy",
       "permalink": "https://www.reddit.com/r/formula1/comments/1n4z5bt/isack_has_broken_the_trophy/",
-      "score": 26515,
+      "score": 27087,
       "comments": 365,
       "post_id": "t3_1n4z5bt",
       "post_type": "image",
@@ -264,53 +609,54 @@
       "flair": [
         "Photo"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
-      "title": "Fernando Alonso \"angry at the world, us, and everybody\" after F1 Dutch GP - Mike Krack",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n5s806/fernando_alonso_angry_at_the_world_us_and/",
-      "score": 2026,
-      "comments": 211,
-      "post_id": "t3_1n5s806",
-      "post_type": "link",
-      "domain": "motorsport.com",
-      "author": "Aratho",
-      "author_id": "t2_8okp1",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-09-01T15:46:22.946000+0000",
-      "content_href": "https://www.motorsport.com/f1/news/fernando-alonso-angry-at-the-world-us-and-everybody-after-f1-dutch-gp-mike-krack/10755540/",
+      "title": "An Ally Bank Spending Account is everything you expect from a checking account, plus so much more. Choose the bank that’s your ally. Ally Bank, Member FDIC",
+      "permalink": "https://www.reddit.com/user/allyfinancial/comments/1lkg9of/an_ally_bank_spending_account_is_everything_you/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1lkg9of",
+      "post_type": "image",
+      "domain": "ally.com",
+      "author": "allyfinancial",
+      "author_id": "t2_23jz8o03",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-06-25T20:15:45.557000+0000",
+      "content_href": "https://www.ally.com/bank/interest-checking-account/?CP=SOC-REDT-DEPO-{{AD_ID}}",
       "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/arjibxGhJNkeKK7nvdiNaDWygpSFP1XIk8WECKXLXOw.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=60ff46d70292cf604881b8c39989dfb7553fc5a3"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_nwq77/styles/profileIcon_n5f8vrcz88lb1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=42611be455d69106701ae5b3cb964a8451d12c42",
+      "is_promoted": true
     },
     {
-      "title": "Charles Leclerc takes pole position for the 2025 Hungarian Grand Prix",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1mfsqml/charles_leclerc_takes_pole_position_for_the_2025/",
-      "score": 21823,
-      "comments": 1146,
-      "post_id": "t3_1mfsqml",
+      "title": "Mercedes poster for the 2025 Italian Grand Prix",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n8yfxh/mercedes_poster_for_the_2025_italian_grand_prix/",
+      "score": 178,
+      "comments": 9,
+      "post_id": "t3_1n8yfxh",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "overspeeed",
-      "author_id": "t2_39fsgvbv",
+      "author": "Master_Jason",
+      "author_id": "t2_9zl49",
       "subreddit_id": "t5_2qimj",
       "subreddit": "r/formula1",
-      "created_ts": "2025-08-02T15:04:07.727000+0000",
-      "content_href": "https://i.redd.it/bzkzfptqfmgf1.png",
+      "created_ts": "2025-09-05T07:06:57.673000+0000",
+      "content_href": "https://i.redd.it/ja6a9sglpanf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Qualifying"
+        "Poster"
       ],
-      "thumbnail_url": "https://preview.redd.it/charles-leclerc-takes-pole-position-for-the-2025-hungarian-v0-bzkzfptqfmgf1.png?width=640&crop=smart&auto=webp&s=79ff43e3573082a6feb125c45a8dcc61cb5b6e38"
+      "thumbnail_url": "https://preview.redd.it/mercedes-poster-for-the-2025-italian-grand-prix-v0-ja6a9sglpanf1.jpeg?width=640&crop=smart&auto=webp&s=9675941bbbf250c4aa0fe922a69a0779be26e8ae",
+      "is_promoted": false
     },
     {
       "title": "A dejected Lano Norris on the dune after a power failure causes a DNF",
       "permalink": "https://www.reddit.com/r/formula1/comments/1n4waad/a_dejected_lano_norris_on_the_dune_after_a_power/",
-      "score": 22887,
-      "comments": 814,
+      "score": 23086,
+      "comments": 819,
       "post_id": "t3_1n4waad",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -324,232 +670,34 @@
       "flair": [
         "Photo"
       ],
-      "thumbnail_url": "https://preview.redd.it/a-dejected-lano-norris-on-the-dune-after-a-power-failure-v0-avwdgl5q8dmf1.png?width=640&crop=smart&auto=webp&s=ad9d8ac572479625a70c33d2f53cfeb7a49947bb"
+      "thumbnail_url": "https://preview.redd.it/a-dejected-lano-norris-on-the-dune-after-a-power-failure-v0-avwdgl5q8dmf1.png?width=640&crop=smart&auto=webp&s=ad9d8ac572479625a70c33d2f53cfeb7a49947bb",
+      "is_promoted": false
     },
     {
-      "title": "Is the switch to the V8 hybrid already a given?",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n6e7fc/is_the_switch_to_the_v8_hybrid_already_a_given/",
-      "score": 8,
-      "comments": 41,
-      "post_id": "t3_1n6e7fc",
-      "post_type": "link",
-      "domain": "auto-motor-und-sport.de",
-      "author": "NorthKoreanMissile7",
-      "author_id": "t2_zyqkwsnxm",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-09-02T08:43:29.516000+0000",
-      "content_href": "https://www.auto-motor-und-sport.de/formel-1/f1-motoren-plaene-2030-v8-hybrid-motor/",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Isack before the start of the season",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n4xg2s/isack_before_the_start_of_the_season/",
-      "score": 22196,
-      "comments": 176,
-      "post_id": "t3_1n4xg2s",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "FewCollar227",
-      "author_id": "t2_fapl1ql9",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-08-31T15:20:03.365000+0000",
-      "content_href": "https://i.redd.it/r3y5exs1hdmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Photo"
-      ],
-      "thumbnail_url": "https://preview.redd.it/isack-before-the-start-of-the-season-v0-r3y5exs1hdmf1.jpeg?width=640&crop=smart&auto=webp&s=e87832d2a5d1518a02ba6ed79913cbfed6113923"
-    },
-    {
-      "title": "Just did a thing with my dad",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n5r0y0/just_did_a_thing_with_my_dad/",
-      "score": 1029,
-      "comments": 50,
-      "post_id": "t3_1n5r0y0",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "20k-games",
-      "author_id": "t2_lwjdjlfu",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-09-01T15:00:49.094000+0000",
-      "content_href": "https://i.redd.it/8vcrfo7jikmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Statistics"
-      ],
-      "thumbnail_url": "https://preview.redd.it/just-did-a-thing-with-my-dad-v0-8vcrfo7jikmf1.jpeg?width=640&crop=smart&auto=webp&s=dac7d860cc0d21c188b0b0f81ad3d398d9f694ec"
-    },
-    {
-      "title": "Your P3 and P2 for today’s race! #DutchGP",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n4wn9c/your_p3_and_p2_for_todays_race_dutchgp/",
-      "score": 17694,
-      "comments": 104,
-      "post_id": "t3_1n4wn9c",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Total_Captain_3833",
-      "author_id": "t2_1nuo1ge5rv",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-08-31T14:48:33.914000+0000",
-      "content_href": "https://i.redd.it/z8gqa0lfbdmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Photo"
-      ],
-      "thumbnail_url": "https://preview.redd.it/your-p3-and-p2-for-todays-race-v0-z8gqa0lfbdmf1.jpeg?width=640&crop=smart&auto=webp&s=4935317bda15d3069ed22620fc458dfaabe3f296"
-    },
-    {
-      "title": "My Experience with Disabilities at the Dutch Grand Prix – Accessibility in F1 Needs Serious Attention",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n5trk2/my_experience_with_disabilities_at_the_dutch/",
-      "score": 725,
-      "comments": 196,
-      "post_id": "t3_1n5trk2",
-      "post_type": "text",
-      "domain": "self.formula1",
-      "author": "zeeee_11",
-      "author_id": "t2_8ufilp2e",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-09-01T16:43:28.769000+0000",
-      "content_href": "https://www.reddit.com/r/formula1/comments/1n5trk2/my_experience_with_disabilities_at_the_dutch/",
-      "content_preview": "Hi all, I wanted to share my experience attending the 2025 Dutch Grand Prix as someone living with Crohn’s disease and rheumatoid arthritis, in the hope it raises awareness around how inaccessible F1 events can be for fans with disabilities. This was my first Grand Prix, and I was so excited to finally go. I’d booked the F1 Experiences Live Pit Straight package (not exactly a budget ticket) and reached out months in advance to explain my needs – mainly urgent toilet access and limited mobility when walking fast or through crowds. I made it really clear that I carry a \"Can’t Wait\" card due to my Crohn’s and need bathroom access urgently at times. Here’s how it went: Thursday – Track Experience Day: No seating in the main areas during waiting times for the pit walk or guest appearances. I had to stand for hours, which caused joint pain. No visible bathrooms near the food trucks, so I avoided eating altogether in case I needed the toilet quickly. The pit lane walk was late in the day, and most garages were closing down due to curfew – it felt like others who went earlier got a more engaging experience. Friday–Sunday – Race Days: My grandstand seat (Row 2, Seat 134 on the Pit Straight Grandstand) was not near the extra care court, despite requests. I had to walk through heavy crowds to reach it – not ideal when you physically can’t move fast or stand comfortably. On Saturday, I had an arthritis flare-up and couldn’t make it back to my seat. I spent most of the day in the care court instead. The extra care court staff were amazing – they offered me a chair and even helped with ice for my knee. But I missed out on watching most of the race from my actual seat because it was just too far from the bathroom. The bigger issue: It honestly feels like basic accessibility at F1 events is tied to VIP ticket levels. If you want decent toilet access, seating support, or less walking, you have to spend thousands. That’s not right. Accessible event planning shouldn’t be treated as a luxury add-on. I paid over £1,400 for my ticket and still ended up spending half the weekend worrying about whether I could reach a toilet in time. As a fan, a content creator, and someone living with chronic illness, I want to enjoy the sport I love without feeling like I don’t belong at the track. And I know I’m not the only one. Final thoughts: F1 needs to do better. Accessibility shouldn't depend on how much you can afford. I’d love to see: Clearly marked accessible toilets and seating near all grandstands. Disability support staff onsite for guidance. More flexibility in seating assignments for those who request help in advance. Actual disability liaison contacts for fans planning to attend. I’ll be sharing more content about my experience to raise awareness, but I wanted to start here. If you’ve had a similar experience or know of other venues doing accessibility well, I’d love to hear about it. Thanks for reading – feel free to share or comment if you think this is a conversation F1 needs to keep having. Zara Edit: when I say private bathrooms I mean a disabled bathroom I am also not asking for anything I am just raising awareness for other disabled guest who want to go to a F1 Grand Prix",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_3e739h/styles/profileIcon_smj7pzybtpve1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=cc8781becb218078c9f4a83e636897ce84da5d76"
-    },
-    {
-      "title": "Oscar Piastri takes pole position for the 2025 Dutch Grand Prix",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n42dh2/oscar_piastri_takes_pole_position_for_the_2025/",
-      "score": 11764,
-      "comments": 742,
-      "post_id": "t3_1n42dh2",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "overspeeed",
-      "author_id": "t2_39fsgvbv",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-08-30T14:01:27.290000+0000",
-      "content_href": "https://i.redd.it/j0ftbvvxx5mf1.png",
-      "content_preview": "",
-      "flair": [
-        "Qualifying"
-      ],
-      "thumbnail_url": "https://preview.redd.it/oscar-piastri-takes-pole-position-for-the-2025-dutch-grand-v0-j0ftbvvxx5mf1.png?width=640&crop=smart&auto=webp&s=37e95aa42353691e42a5de901eff97f52cfe121d"
-    },
-    {
-      "title": "[Thomas Maher] Isack Hadjar's broken third-place trophy is set to either be repaired or a replica issued, hopefully within the coming days, with the manufacturer in contact with Racing Bulls about the preferred option.",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n5rq49/thomas_maher_isack_hadjars_broken_thirdplace/",
-      "score": 827,
-      "comments": 34,
-      "post_id": "t3_1n5rq49",
-      "post_type": "link",
-      "domain": "bsky.app",
-      "author": "Aratho",
-      "author_id": "t2_8okp1",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-09-01T15:27:12.699000+0000",
-      "content_href": "https://bsky.app/profile/thomasmaheronf1.bsky.social/post/3lxqymv6bes23",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Racing Bulls accuse Sainz of costing Lawson fifth place by \"crashing into him\"",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n5k2bj/racing_bulls_accuse_sainz_of_costing_lawson_fifth/",
-      "score": 2051,
-      "comments": 356,
-      "post_id": "t3_1n5k2bj",
+      "title": "Williams officially request review of penalty which ruined Sainz's Dutch Grand Prix",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n8eak1/williams_officially_request_review_of_penalty/",
+      "score": 2148,
+      "comments": 150,
+      "post_id": "t3_1n8eak1",
       "post_type": "link",
       "domain": "racefans.net",
-      "author": "Aratho",
-      "author_id": "t2_8okp1",
+      "author": "kcollantine",
+      "author_id": "t2_teb3w",
       "subreddit_id": "t5_2qimj",
       "subreddit": "r/formula1",
-      "created_ts": "2025-09-01T09:22:19.769000+0000",
-      "content_href": "https://www.racefans.net/2025/09/01/racing-bulls-accuse-sainz-of-costing-lawson-fifth-place-by-crashing-into-him/",
+      "created_ts": "2025-09-04T16:04:58.201000+0000",
+      "content_href": "https://www.racefans.net/2025/09/04/williams-officially-request-review-of-penalty-which-ruined-sainzs-dutch-grand-prix/",
       "content_preview": "",
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/7r-ObIRtu3MzNy5xkKdTpclLfaqDN7BWBGQ46XA8kjw.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=dbd47a4716821ffaf5ca7a44ab8d4d717ca273fc"
-    },
-    {
-      "title": "Three years ago today - Oscar Piastri made a certain announcement",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1mfmmiw/three_years_ago_today_oscar_piastri_made_a/",
-      "score": 20445,
-      "comments": 357,
-      "post_id": "t3_1mfmmiw",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "TheCatterson",
-      "author_id": "t2_ffe0i",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-08-02T09:46:11.127000+0000",
-      "content_href": "https://i.redd.it/mbmddmx1vkgf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Throwback"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_avqwz/styles/profileIcon_blm47dv0q7ra1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=380ac36e41ba9b1e0355fe94dda06938e0f6266d"
-    },
-    {
-      "title": "Alonso has a 14 cars drs train",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1mgj0bc/alonso_has_a_14_cars_drs_train/",
-      "score": 17778,
-      "comments": 382,
-      "post_id": "t3_1mgj0bc",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "AshamedPurchase9033",
-      "author_id": "t2_eik2n7c7",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-08-03T13:16:37.596000+0000",
-      "content_href": "https://i.redd.it/v4a9nrdi1tgf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Photo"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_5txdhx/styles/profileIcon_ehlnm7t1d8df1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=44b777fa2a4b9072724c1f155a8ff12d2ed21ade"
-    },
-    {
-      "title": "Championship Standings and Eliminations- Dutch GP",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n5rtwv/championship_standings_and_eliminations_dutch_gp/",
-      "score": 426,
-      "comments": 51,
-      "post_id": "t3_1n5rtwv",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "bi-nerds",
-      "author_id": "t2_ruy18fw",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-09-01T15:31:16.766000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5rtwv",
-      "content_preview": "",
-      "flair": [
-        "Statistics"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_2o0ogz/styles/profileIcon_jeqp5p35h1z41.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=eaf9fd9e2b4334f4ce0a2db393192ed4eaa21838"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
       "title": "[@cadillacf1] Just in: team selfie",
       "permalink": "https://www.reddit.com/r/formula1/comments/1n0ohcs/cadillacf1_just_in_team_selfie/",
-      "score": 10997,
+      "score": 11008,
       "comments": 133,
       "post_id": "t3_1n0ohcs",
       "post_type": "image",
@@ -564,173 +712,35 @@
       "flair": [
         "Social Media"
       ],
-      "thumbnail_url": "https://preview.redd.it/just-in-team-selfie-v0-wpimojevqdlf1.jpeg?width=640&crop=smart&auto=webp&s=c7aa319899c6b6d45e90eb299569f50d4c6ffec2"
+      "thumbnail_url": "https://preview.redd.it/just-in-team-selfie-v0-wpimojevqdlf1.jpeg?width=640&crop=smart&auto=webp&s=c7aa319899c6b6d45e90eb299569f50d4c6ffec2",
+      "is_promoted": false
     },
     {
-      "title": "Happy 31st Birthday to Carlos Sainz Vázquez de Castro Cenamor Rincón Rebollo Birto Moreno de Aranda de Anteruriaga Tiapera Deltún",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n5icdn/happy_31st_birthday_to_carlos_sainz_vázquez_de/",
-      "score": 1742,
-      "comments": 83,
-      "post_id": "t3_1n5icdn",
+      "title": "[Daniel Ricciardo] More around the corner...",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n8c4fz/daniel_ricciardo_more_around_the_corner/",
+      "score": 1447,
+      "comments": 95,
+      "post_id": "t3_1n8c4fz",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "FewCollar227",
-      "author_id": "t2_fapl1ql9",
+      "author": "goldfish2203",
+      "author_id": "t2_vdyfmu2m",
       "subreddit_id": "t5_2qimj",
       "subreddit": "r/formula1",
-      "created_ts": "2025-09-01T07:31:26.507000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5icdn",
-      "content_preview": "",
-      "flair": [
-        "Photo"
-      ],
-      "thumbnail_url": "https://preview.redd.it/happy-31st-birthday-to-carlos-sainz-v%C3%A1zquez-de-castro-v0-urtfl3fcaimf1.jpg?width=640&crop=smart&auto=webp&s=b7088dcb0ca8b921ccef4acf4f922d71a2d9e7e4"
-    },
-    {
-      "title": "Wolff backs Antonelli after Leclerc clash: \"We want him to go for moves\"",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n5mrjh/wolff_backs_antonelli_after_leclerc_clash_we_want/",
-      "score": 689,
-      "comments": 116,
-      "post_id": "t3_1n5mrjh",
-      "post_type": "link",
-      "domain": "motorsport.com",
-      "author": "Aratho",
-      "author_id": "t2_8okp1",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-09-01T11:59:32.213000+0000",
-      "content_href": "https://www.motorsport.com/f1/news/wolff-backs-antonelli-after-leclerc-clash-we-want-him-to-go-for-moves/10755439/",
+      "created_ts": "2025-09-04T14:43:58.199000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8c4fz",
       "content_preview": "",
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/w7s_zwtaarmhIBH-duxE6XHm9IUmV5XI_vMs47D1IWA.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=9b91871d1883ab4a1dff8293ec4b2dca31bcde0a"
-    },
-    {
-      "title": "Lando Norris wins the 2025 Hungarian Grand Prix",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1mgkwvh/lando_norris_wins_the_2025_hungarian_grand_prix/",
-      "score": 16389,
-      "comments": 2644,
-      "post_id": "t3_1mgkwvh",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "overspeeed",
-      "author_id": "t2_39fsgvbv",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-08-03T14:39:47.665000+0000",
-      "content_href": "https://i.redd.it/hwbz4ta6gtgf1.png",
-      "content_preview": "",
-      "flair": [
-        "Race"
-      ],
-      "thumbnail_url": "https://preview.redd.it/lando-norris-wins-the-2025-hungarian-grand-prix-v0-hwbz4ta6gtgf1.png?width=640&crop=smart&auto=webp&s=7e6218ce1be7b43c1ab7c46ec9df70629f2818da"
-    },
-    {
-      "title": "Did Leclerc pass Russell off the track? The stewards say 'yes', then 'maybe not'",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n5liiu/did_leclerc_pass_russell_off_the_track_the/",
-      "score": 663,
-      "comments": 226,
-      "post_id": "t3_1n5liiu",
-      "post_type": "link",
-      "domain": "racefans.net",
-      "author": "kcollantine",
-      "author_id": "t2_teb3w",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-09-01T10:51:04.890000+0000",
-      "content_href": "https://www.racefans.net/2025/08/31/did-leclerc-pass-russell-off-the-track-the-stewards-say-yes-then-maybe-not/",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "[williamsracing] On this day in 2024, Franco stepped into the FW46 for his Formula 1 debut in Monza, finishing P12",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n5qy50/williamsracing_on_this_day_in_2024_franco_stepped/",
-      "score": 296,
-      "comments": 21,
-      "post_id": "t3_1n5qy50",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Money_Temporary",
-      "author_id": "t2_564gf5dv",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-09-01T14:57:53.768000+0000",
-      "content_href": "https://i.redd.it/7y4rn4h0ikmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Social Media"
-      ],
-      "thumbnail_url": "https://preview.redd.it/williamsracing-on-this-day-in-2024-franco-stepped-into-the-v0-7y4rn4h0ikmf1.jpeg?width=640&crop=smart&auto=webp&s=6b79b3080d408bb7d98e15f9e3e1d1b2e414421f"
-    },
-    {
-      "title": "Footage of Albon gaining several places at the start since this wasnt shown in the broadcast",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n56raj/footage_of_albon_gaining_several_places_at_the/",
-      "score": 4264,
-      "comments": 114,
-      "post_id": "t3_1n56raj",
-      "post_type": "link",
-      "domain": "streamain.com",
-      "author": "nyancat23",
-      "author_id": "t2_6pv5h",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-08-31T21:33:07.883000+0000",
-      "content_href": "https://streamain.com/2aBuLnolWhMzP7s/watch",
-      "content_preview": "",
-      "flair": [
-        "Video"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "[Lando on Instagram] unlucky today, but that’s life. will take it on the chin and move on",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n54cs8/lando_on_instagram_unlucky_today_but_thats_life/",
-      "score": 2351,
-      "comments": 150,
-      "post_id": "t3_1n54cs8",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "randomseocb",
-      "author_id": "t2_dx8gdoxx",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-08-31T19:55:36.440000+0000",
-      "content_href": "https://i.redd.it/rfzoejd4uemf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Social Media"
-      ],
-      "thumbnail_url": "https://preview.redd.it/lando-on-instagram-unlucky-today-but-thats-life-will-take-v0-rfzoejd4uemf1.jpeg?width=640&crop=smart&auto=webp&s=25b6794acd701b0b31764665a1b39b54c60785d8"
-    },
-    {
-      "title": "Lando: “Nice move into turn two\" | Max: \"it was a bit of a drift, a bit of sand there” | Max: \"new engine next week, bit more power?\" | Lando: \"power!!”",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n5509g/lando_nice_move_into_turn_two_max_it_was_a_bit_of/",
-      "score": 1595,
-      "comments": 122,
-      "post_id": "t3_1n5509g",
-      "post_type": "link",
-      "domain": "streamain.com",
-      "author": "randomseocb",
-      "author_id": "t2_dx8gdoxx",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-08-31T20:21:42.943000+0000",
-      "content_href": "https://streamain.com/S1ueDSTuy5aK6xf/watch",
-      "content_preview": "",
-      "flair": [
-        "Video"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/YubQXlBeBqYiNt-flsLCQgFr-LpqjXNSPDAX5XXk_gs.jpeg?width=140&height=87&crop=140:87,smart&auto=webp&s=881652e96882af0ff30a3cbfb81c2a3109937048"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
     },
     {
       "title": "Verstappen on Perez's return: \"When I saw the news come out, I sent a message to him. I'm very happy for him that he got a seat. He's a great guy and we always got along very well, so I’m happy to see him back on the grid\"",
       "permalink": "https://www.reddit.com/r/formula1/comments/1n2ezuq/verstappen_on_perezs_return_when_i_saw_the_news/",
-      "score": 10788,
-      "comments": 316,
+      "score": 10817,
+      "comments": 315,
       "post_id": "t3_1n2ezuq",
       "post_type": "link",
       "domain": "streamain.com",
@@ -744,93 +754,241 @@
       "flair": [
         "Video"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
-      "title": "2025 Dutch Grand Prix - Race Classification",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n4wwuj/2025_dutch_grand_prix_race_classification/",
-      "score": 974,
-      "comments": 193,
-      "post_id": "t3_1n4wwuj",
+      "title": "Max Verstappen shares sim secrets with Gabriel Bortoleto ahead of Monza as \"Call of Duty\" friendship emerges",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n889e1/max_verstappen_shares_sim_secrets_with_gabriel/",
+      "score": 2330,
+      "comments": 106,
+      "post_id": "t3_1n889e1",
+      "post_type": "link",
+      "domain": "motorsport.com",
+      "author": "memloh",
+      "author_id": "t2_10g7te",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-09-04T12:04:31.312000+0000",
+      "content_href": "https://www.motorsport.com/f1/news/max-verstappen-shares-sim-secrets-with-gabriel-bortoleto-ahead-of-monza-as-call-of-duty-friendship-/10756179/",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "thinkorswim® web offers the perfect blend of power and ease. Crafted from decades of input from real traders, our web-based platform offers advanced trading tools in a user-friendly interface accessible anywhere you have internet. No download necessary.",
+      "permalink": "https://www.reddit.com/user/Schwab_Official/comments/1i3gpuv/thinkorswim_web_offers_the_perfect_blend_of_power/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1i3gpuv",
+      "post_type": "image",
+      "domain": "schwab.com",
+      "author": "Schwab_Official",
+      "author_id": "t2_qwc35wk",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-01-17T13:48:17.639000+0000",
+      "content_href": "https://ad.doubleclick.net/ddm/trackclk/N6036.131843REDDITINC/B33070545.411912953;dc_trk_aid=604716130;dc_trk_cid=229026525;dc_lat=;dc_rdid={{ADVERTISING_ID}};tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_g2eyf/styles/profileIcon_fhvli81j81j01.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=5204adba009bf9b0efadc3df057cb7ef47c4b445",
+      "is_promoted": true
+    },
+    {
+      "title": "Williams poised to challenge Sainz's controversial penalty",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n8ceka/williams_poised_to_challenge_sainzs_controversial/",
+      "score": 1283,
+      "comments": 134,
+      "post_id": "t3_1n8ceka",
+      "post_type": "link",
+      "domain": "the-race.com",
+      "author": "CommonEngineering832",
+      "author_id": "t2_d0b1clcg",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-09-04T14:54:32.206000+0000",
+      "content_href": "https://www.the-race.com/formula-1/williams-poised-to-challenge-carlos-sainz-dutch-gp-penalty/",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/JPhUWWj5YlCA1DzEcUmhuMACy9NtTgLNF6MUv6vz8qI.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=319fd67a4a915b19c0001ab42d0ba2fa93f75789",
+      "is_promoted": false
+    },
+    {
+      "title": "Built a tool where you can drag & drop future race results to see how the championship changes",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n8yx55/built_a_tool_where_you_can_drag_drop_future_race/",
+      "score": 64,
+      "comments": 2,
+      "post_id": "t3_1n8yx55",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "kpopsns28",
-      "author_id": "t2_oy89nh7oq",
+      "author": "tarasmuz",
+      "author_id": "t2_gyruy",
       "subreddit_id": "t5_2qimj",
       "subreddit": "r/formula1",
-      "created_ts": "2025-08-31T14:59:17.819000+0000",
-      "content_href": "https://i.redd.it/lt2rumhcddmf1.jpeg",
+      "created_ts": "2025-09-05T07:38:50.216000+0000",
+      "content_href": "https://i.redd.it/0owfoxchuanf1.png",
       "content_preview": "",
       "flair": [
-        "Statistics"
+        "Misc"
       ],
-      "thumbnail_url": "https://preview.redd.it/2025-dutch-grand-prix-race-classification-v0-lt2rumhcddmf1.jpeg?width=640&crop=smart&auto=webp&s=c8f2e1e7e8a1f12406aaeffa5c4c1d1a0d7f6386"
+      "thumbnail_url": "https://preview.redd.it/built-a-tool-where-you-can-drag-drop-future-race-results-to-v0-0owfoxchuanf1.png?width=640&crop=smart&auto=webp&s=4358364b4e773b5328a5178e027b3baf8ef7ca3e",
+      "is_promoted": false
     },
     {
-      "title": "Midfield teams braking records in 2025 with 9 races to go",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n6e67j/midfield_teams_braking_records_in_2025_with_9/",
-      "score": 37,
-      "comments": 27,
-      "post_id": "t3_1n6e67j",
+      "title": "Isack before the start of the season",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n4xg2s/isack_before_the_start_of_the_season/",
+      "score": 22758,
+      "comments": 181,
+      "post_id": "t3_1n4xg2s",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "InitialWorld7330",
-      "author_id": "t2_6j4lumww",
+      "author": "FewCollar227",
+      "author_id": "t2_fapl1ql9",
       "subreddit_id": "t5_2qimj",
       "subreddit": "r/formula1",
-      "created_ts": "2025-09-02T08:41:13.751000+0000",
-      "content_href": "https://i.redd.it/lxomqwhuqpmf1.png",
+      "created_ts": "2025-08-31T15:20:03.365000+0000",
+      "content_href": "https://i.redd.it/r3y5exs1hdmf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Statistics"
+        "Photo"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_3e2dj4/styles/profileIcon_0ep937fd1j4c1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ca6fb74e143918d218453598645e8a5df14cc9a7"
+      "thumbnail_url": "https://preview.redd.it/isack-before-the-start-of-the-season-v0-r3y5exs1hdmf1.jpeg?width=640&crop=smart&auto=webp&s=e87832d2a5d1518a02ba6ed79913cbfed6113923",
+      "is_promoted": false
     },
     {
-      "title": "Oscar Piastri wins the 2025 Dutch Grand Prix",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n4whf0/oscar_piastri_wins_the_2025_dutch_grand_prix/",
-      "score": 10701,
-      "comments": 613,
-      "post_id": "t3_1n4whf0",
+      "title": "Painting of Charles :(",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n5r7mw/painting_of_charles/",
+      "score": 19523,
+      "comments": 227,
+      "post_id": "t3_1n5r7mw",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "overspeeed",
-      "author_id": "t2_39fsgvbv",
+      "author": "downrightlazy",
+      "author_id": "t2_t6nfr",
       "subreddit_id": "t5_2qimj",
       "subreddit": "r/formula1",
-      "created_ts": "2025-08-31T14:42:07.635000+0000",
-      "content_href": "https://i.redd.it/r4sfb32b9dmf1.png",
+      "created_ts": "2025-09-01T15:07:43.160000+0000",
+      "content_href": "https://i.redd.it/vmv8ucdrjkmf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Race"
+        "Photo"
       ],
-      "thumbnail_url": "https://preview.redd.it/oscar-piastri-wins-the-2025-dutch-grand-prix-v0-r4sfb32b9dmf1.png?width=640&crop=smart&auto=webp&s=144d3da0f912d609c4dd44b639e707a3bf69fa4b"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
     },
     {
-      "title": "After the Dutch Grand Prix this is the first time since 2008 where two rookies stand on the podium in the same season!",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n4wyis/after_the_dutch_grand_prix_this_is_the_first_time/",
-      "score": 900,
-      "comments": 62,
-      "post_id": "t3_1n4wyis",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Alvaro_Rey_MN",
-      "author_id": "t2_6qanbfzz",
+      "title": "Your P3 and P2 for today’s race! #DutchGP",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n4wn9c/your_p3_and_p2_for_todays_race_dutchgp/",
+      "score": 18145,
+      "comments": 106,
+      "post_id": "t3_1n4wn9c",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Total_Captain_3833",
+      "author_id": "t2_1nuo1ge5rv",
       "subreddit_id": "t5_2qimj",
       "subreddit": "r/formula1",
-      "created_ts": "2025-08-31T15:00:58.172000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n4wyis",
+      "created_ts": "2025-08-31T14:48:33.914000+0000",
+      "content_href": "https://i.redd.it/z8gqa0lfbdmf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Statistics"
+        "Photo"
       ],
-      "thumbnail_url": "https://preview.redd.it/after-the-dutch-grand-prix-this-is-the-first-time-since-v0-g0uf8bymddmf1.jpg?width=474&format=pjpg&auto=webp&s=4f244cef611fe7f13fff2e702f48100f2d4ec2ad"
+      "thumbnail_url": "https://preview.redd.it/your-p3-and-p2-for-todays-race-v0-z8gqa0lfbdmf1.jpeg?width=640&crop=smart&auto=webp&s=4935317bda15d3069ed22620fc458dfaabe3f296",
+      "is_promoted": false
+    },
+    {
+      "title": "Portugal, Germany and Turkey targeting F1 return, confirms Stefano Domenicali",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n86ok0/portugal_germany_and_turkey_targeting_f1_return/",
+      "score": 1730,
+      "comments": 210,
+      "post_id": "t3_1n86ok0",
+      "post_type": "link",
+      "domain": "motorsport.com",
+      "author": "MoneyLibrarian9032",
+      "author_id": "t2_1ffjaog6sb",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-09-04T10:40:44.028000+0000",
+      "content_href": "https://www.motorsport.com/f1/news/f1-confirms-interest-from-turkey-germany-portugal-to-host-races/10756108/",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_d63mki/styles/profileIcon_2iak80r01hjf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=14a475be363a0fbbe3f1f5957c8bd320188f669a",
+      "is_promoted": false
+    },
+    {
+      "title": "Kick Sauber poster for the 2025 Italian Grand Prix",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n8yjs4/kick_sauber_poster_for_the_2025_italian_grand_prix/",
+      "score": 34,
+      "comments": 1,
+      "post_id": "t3_1n8yjs4",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Master_Jason",
+      "author_id": "t2_9zl49",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-09-05T07:14:08.773000+0000",
+      "content_href": "https://i.redd.it/0680kexoqanf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Poster"
+      ],
+      "thumbnail_url": "https://preview.redd.it/kick-sauber-poster-for-the-2025-italian-grand-prix-v0-0680kexoqanf1.jpeg?width=640&crop=smart&auto=webp&s=57ca70e0f31d3b9fb077991daaa8e2c19097ffdb",
+      "is_promoted": false
+    },
+    {
+      "title": "Explore our special offers and experience more in a Mazda CX-50.",
+      "permalink": "https://www.reddit.com/user/mazdausa/comments/1n7s0kr/explore_our_special_offers_and_experience_more_in/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n7s0kr",
+      "post_type": "image",
+      "domain": "mazdausa.com",
+      "author": "mazdausa",
+      "author_id": "t2_5wbo5vaj",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-03T21:46:47.208000+0000",
+      "content_href": "https://www.mazdausa.com/vehicles/cx-50?utm_source=reddit&utm_medium=paid-social&utm_campaign={{CAMPAIGN_ID}}&utm_content={{AD_NAME}}&campId=opml-{{AD_ID}}&providertag=MazdaMedia&servicetag=opml-{{AD_ID}}&t=1&samp=1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2he8zd/styles/profileIcon_tk59q9wnh6af1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=d972ed7d12dea9540c76bddcde7384d77d144bec",
+      "is_promoted": true
+    },
+    {
+      "title": "Ford Performance Has Been Renamed. Meet: Ford Racing",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n8ajdl/ford_performance_has_been_renamed_meet_ford_racing/",
+      "score": 714,
+      "comments": 108,
+      "post_id": "t3_1n8ajdl",
+      "post_type": "link",
+      "domain": "roadandtrack.com",
+      "author": "heidenreich137",
+      "author_id": "t2_dpg9kbq3",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-09-04T13:45:03.928000+0000",
+      "content_href": "https://www.roadandtrack.com/news/a65972787/ford-performance-renamed-ford-racing/",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/wV7O1kIrhwBriW0l2YpVHIujHzMDBGDLodRa-t7UmCY.png?width=140&height=70&crop=140:70,smart&auto=webp&s=7a050a585aca41c842001cf1c5851ad109f3f549",
+      "is_promoted": false
     },
     {
       "title": "Dutch Grand Prix trophies",
       "permalink": "https://www.reddit.com/r/formula1/comments/1n27ybp/dutch_grand_prix_trophies/",
-      "score": 9907,
-      "comments": 223,
+      "score": 9929,
+      "comments": 224,
       "post_id": "t3_1n27ybp",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -844,168 +1002,528 @@
       "flair": [
         "Photo"
       ],
-      "thumbnail_url": "https://preview.redd.it/dutch-grand-prix-trophies-v0-s6vcu2xjfqlf1.jpeg?width=640&crop=smart&auto=webp&s=7244e7fd01c2b2024f1f82346bd5b2b436c72951"
+      "thumbnail_url": "https://preview.redd.it/dutch-grand-prix-trophies-v0-s6vcu2xjfqlf1.jpeg?width=640&crop=smart&auto=webp&s=7244e7fd01c2b2024f1f82346bd5b2b436c72951",
+      "is_promoted": false
     },
     {
-      "title": "Hungarian GP Qualifying Gaps Visualized",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1mfu491/hungarian_gp_qualifying_gaps_visualized/",
-      "score": 15923,
-      "comments": 393,
-      "post_id": "t3_1mfu491",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Schlapfel9",
-      "author_id": "t2_g00m72ys",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-08-02T16:01:16.617000+0000",
-      "content_href": "https://i.redd.it/s9jlbuzypmgf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Statistics"
-      ],
-      "thumbnail_url": "https://preview.redd.it/hungarian-gp-qualifying-gaps-visualized-v0-s9jlbuzypmgf1.jpeg?width=640&crop=smart&auto=webp&s=0c3248ff2b63c3cb03beebeff106742427a46c90"
-    },
-    {
-      "title": "[OC] Every Driver with a Grand Slam in F1 History",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n6e5qb/oc_every_driver_with_a_grand_slam_in_f1_history/",
-      "score": 147,
-      "comments": 30,
-      "post_id": "t3_1n6e5qb",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "racingplaybook",
-      "author_id": "t2_1u334j7mje",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-09-02T08:40:19.452000+0000",
-      "content_href": "https://i.redd.it/x2nd0conqpmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Statistics"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_ezqjca/styles/profileIcon_w5o44b6eutgf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=98f01da7c6ab9aedfb82d02f00fd7f2dbdb2a447"
-    },
-    {
-      "title": "Ferrari overruled Leclerc's call not to pit immediately before Antonelli collision",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n6e3vq/ferrari_overruled_leclercs_call_not_to_pit/",
-      "score": 40,
-      "comments": 19,
-      "post_id": "t3_1n6e3vq",
+      "title": "Ex-Haas F1 boss Steiner finally set for MotoGP team takeover",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n8bu8o/exhaas_f1_boss_steiner_finally_set_for_motogp/",
+      "score": 448,
+      "comments": 64,
+      "post_id": "t3_1n8bu8o",
       "post_type": "link",
-      "domain": "racefans.net",
-      "author": "kcollantine",
-      "author_id": "t2_teb3w",
+      "domain": "the-race.com",
+      "author": "Expensive_Ladder_486",
+      "author_id": "t2_oixzbl92i",
       "subreddit_id": "t5_2qimj",
       "subreddit": "r/formula1",
-      "created_ts": "2025-09-02T08:36:47.772000+0000",
-      "content_href": "https://www.racefans.net/2025/09/01/ferrari-overruled-leclercs-call-not-to-pit-immediately-before-antonelli-collision/",
+      "created_ts": "2025-09-04T14:33:06.186000+0000",
+      "content_href": "https://www.the-race.com/motogp/ex-haas-f1-boss-guenther-steiner-finally-set-for-motogp-team-takeover/",
+      "content_preview": "",
+      "flair": [
+        "Off-Topic"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/PtH0n1ZYEWqF6fef80ugyTujqmUfUNMul45ZvzVBKkc.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=5309c873eeb3303dd8a52fc10abd5247e7693424",
+      "is_promoted": false
+    },
+    {
+      "title": "Isack Hadjar clarifies stance on 2026 Red Bull move, expects Helmut Marko talks soon",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n89cie/isack_hadjar_clarifies_stance_on_2026_red_bull/",
+      "score": 565,
+      "comments": 69,
+      "post_id": "t3_1n89cie",
+      "post_type": "link",
+      "domain": "motorsport.com",
+      "author": "Any_Inflation_2543",
+      "author_id": "t2_f99259nh",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-09-04T12:54:38.272000+0000",
+      "content_href": "https://www.motorsport.com/f1/news/isack-hadjar-clarifies-stance-on-2026-red-bull-move-expects-helmut-marko-talks-soon/10756171/",
       "content_preview": "",
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "[Thomas Maher] While no big announcement will be coming just yet, Toto Wolff has just confirmed Mercedes is set to continue with George Russell and Kimi Antonelli for 2026.",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n4xumf/thomas_maher_while_no_big_announcement_will_be/",
-      "score": 797,
-      "comments": 111,
-      "post_id": "t3_1n4xumf",
+      "title": "How do you rate my Ferrari? :)",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1mir3qg/how_do_you_rate_my_ferrari/",
+      "score": 8621,
+      "comments": 413,
+      "post_id": "t3_1mir3qg",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "No-Zucchini8124",
+      "author_id": "t2_fxiiu2kwa",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-08-06T01:07:27.280000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mir3qg",
+      "content_preview": "",
+      "flair": [
+        "Misc"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "F1 moves closer to V8 engine switch",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n849ia/f1_moves_closer_to_v8_engine_switch/",
+      "score": 1171,
+      "comments": 351,
+      "post_id": "t3_1n849ia",
       "post_type": "link",
-      "domain": "bsky.app",
+      "domain": "the-race.com",
       "author": "Aratho",
       "author_id": "t2_8okp1",
       "subreddit_id": "t5_2qimj",
       "subreddit": "r/formula1",
-      "created_ts": "2025-08-31T15:36:16.195000+0000",
-      "content_href": "https://bsky.app/profile/thomasmaheronf1.bsky.social/post/3lxpfvxf7222x",
+      "created_ts": "2025-09-04T08:09:07.706000+0000",
+      "content_href": "https://www.the-race.com/formula-1/f1-accelerates-push-for-v8-engine-future/",
       "content_preview": "",
       "flair": [
         "News"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://external-preview.redd.it/tdbgP_p7LlmZM7GxneACih5XzKNYJdfP_5WGLZUJTDw.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=af4a455b3215a8d017c7c80a575bd7e7cbcc3232",
+      "is_promoted": false
     },
     {
-      "title": "[FIA] Kimi gets 10 sec penalty and 2 penalty points for causing collision with Car 16",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n50aw5/fia_kimi_gets_10_sec_penalty_and_2_penalty_points/",
-      "score": 564,
-      "comments": 53,
-      "post_id": "t3_1n50aw5",
+      "title": "F1 | Cadillac: Herta to race in F2 in 2026 to obtain Super Licence",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n882f0/f1_cadillac_herta_to_race_in_f2_in_2026_to_obtain/",
+      "score": 547,
+      "comments": 97,
+      "post_id": "t3_1n882f0",
+      "post_type": "link",
+      "domain": "it.motorsport.com",
+      "author": "turinturambar66",
+      "author_id": "t2_1a3frqmslo",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-09-04T11:55:08.796000+0000",
+      "content_href": "https://it.motorsport.com/f1/news/f1-cadillac-herta-correra-in-f2-nel-2026-per-prendere-la-superlicenza/10756070/",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Car shopping made worry-free",
+      "permalink": "https://www.reddit.com/user/eBay_Inc/comments/1mnqnt0/car_shopping_made_worryfree/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mnqnt0",
+      "post_type": "image",
+      "domain": "ebay.com",
+      "author": "eBay_Inc",
+      "author_id": "t2_2wd4vm6f",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-11T22:02:37.057000+0000",
+      "content_href": "https://pages.ebay.com/secure-purchase?mkcid=16&mkevt=1&mkrid=711-165211-958615-5&reddit_campaignid={{CAMPAIGN_ID}}&reddit_adgroupid={{ADGROUP_ID}}&reddit_adid={{AD_ID}}&reddit_postid={{POST_ID}}&reddit_clickid={{CLICK_ID}}",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_tt1tt/styles/profileIcon_pcysa4k79ote1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=a1d563f525d1a7a37fc18368a9a1ef191f44f34f",
+      "is_promoted": true
+    },
+    {
+      "title": "Cadillac confirm Colton Herta to race in F2 to pursue 'F1 dream'",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n7sw7z/cadillac_confirm_colton_herta_to_race_in_f2_to/",
+      "score": 3978,
+      "comments": 374,
+      "post_id": "t3_1n7sw7z",
+      "post_type": "link",
+      "domain": "racingnews365.com",
+      "author": "Formula1_",
+      "author_id": "t2_103h9pth",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-09-03T22:22:31.167000+0000",
+      "content_href": "https://racingnews365.com/indycar-star-to-take-big-risk-by-quitting-series-for-f2-to-pursue-f1-dream",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_il93j/styles/profileIcon_9ihwggjdupw51.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d74f93c39973b883d289cd1ce4d3fd2c2d96b336",
+      "is_promoted": false
+    },
+    {
+      "title": "Leclerc and Sainz narrowly avoid a crash – Italian GP 2023",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n89n5w/leclerc_and_sainz_narrowly_avoid_a_crash_italian/",
+      "score": 187,
+      "comments": 22,
+      "post_id": "t3_1n89n5w",
+      "post_type": "link",
+      "domain": "streamain.com",
+      "author": "anthn885",
+      "author_id": "t2_11qbk8",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-09-04T13:07:15.443000+0000",
+      "content_href": "https://streamain.com/LzdVrGzcbjY3wKp/watch",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/PfvZR7qhrkG-42V1tSmrFC995NWvofrd8cVcHHd7ZIw.jpeg?width=140&height=140&crop=140:140,smart&auto=webp&s=ab0005d5ea380e4ef9c5eb748e3c44b4c8fefde2",
+      "is_promoted": false
+    },
+    {
+      "title": "Lewis Hamilton and Charles Leclerc took photos with fans in Italy.",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n7xne3/lewis_hamilton_and_charles_leclerc_took_photos/",
+      "score": 479,
+      "comments": 35,
+      "post_id": "t3_1n7xne3",
+      "post_type": "link",
+      "domain": "streamain.com",
+      "author": "anthn885",
+      "author_id": "t2_11qbk8",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-09-04T01:56:28.985000+0000",
+      "content_href": "https://streamain.com/lR1Mbi4A2Xny0lD/watch",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/57Xm-EXEMpQTmwr5Xaw8uFczt30RjmYfAl4FneTSFuY.jpeg?width=140&height=140&crop=140:140,smart&auto=webp&s=238a9d527a82547f633feb5a9e515b724085d29a",
+      "is_promoted": false
+    },
+    {
+      "title": "[F1] Imagine idolising someone through childhood, and then they drop this comment. @lewishamilton's comment was the cherry on top of an unforgettable weekend!",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n6gu6q/f1_imagine_idolising_someone_through_childhood/",
+      "score": 13187,
+      "comments": 201,
+      "post_id": "t3_1n6gu6q",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "n0b0dycar3s07",
+      "author_id": "t2_oir5dl2dd",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-09-02T11:23:31.624000+0000",
+      "content_href": "https://i.redd.it/ms9zc0cokqmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Social Media"
+      ],
+      "thumbnail_url": "https://preview.redd.it/f1-imagine-idolising-someone-through-childhood-and-then-v0-ms9zc0cokqmf1.jpeg?width=640&crop=smart&auto=webp&s=335526bb397c8a9c0bf7a2f8266af8b92c3f4dbe",
+      "is_promoted": false
+    },
+    {
+      "title": "Oscar Piastri takes pole position for the 2025 Dutch Grand Prix",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n42dh2/oscar_piastri_takes_pole_position_for_the_2025/",
+      "score": 11793,
+      "comments": 743,
+      "post_id": "t3_1n42dh2",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "overspeeed",
+      "author_id": "t2_39fsgvbv",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-08-30T14:01:27.290000+0000",
+      "content_href": "https://i.redd.it/j0ftbvvxx5mf1.png",
+      "content_preview": "",
+      "flair": [
+        "Qualifying"
+      ],
+      "thumbnail_url": "https://preview.redd.it/oscar-piastri-takes-pole-position-for-the-2025-dutch-grand-v0-j0ftbvvxx5mf1.png?width=640&crop=smart&auto=webp&s=37e95aa42353691e42a5de901eff97f52cfe121d",
+      "is_promoted": false
+    },
+    {
+      "title": "Ferrari Italian Grand Prix 2025 Poster",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n7joug/ferrari_italian_grand_prix_2025_poster/",
+      "score": 2440,
+      "comments": 56,
+      "post_id": "t3_1n7joug",
       "post_type": "image",
       "domain": "i.imgur.com",
       "author": "DubiousLLM",
       "author_id": "t2_un3a1n31m",
       "subreddit_id": "t5_2qimj",
       "subreddit": "r/formula1",
-      "created_ts": "2025-08-31T17:14:37.609000+0000",
-      "content_href": "https://i.imgur.com/6J5GqDs.jpeg",
+      "created_ts": "2025-09-03T16:33:40.239000+0000",
+      "content_href": "https://i.imgur.com/CWKGvgf.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Photo"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/ferrari-italian-grand-prix-2025-poster-v0-o06KP1fdbmdPTJPF6oMSc7Lr-80xN1Ai3eAv85zwRv4.jpeg?width=640&crop=smart&auto=webp&s=06d1a617e580506d59c7e2ae6a38822567e24a35",
+      "is_promoted": false
+    },
+    {
+      "title": "[charles_leclerc] Monza Ready",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n7g4bx/charles_leclerc_monza_ready/",
+      "score": 3465,
+      "comments": 111,
+      "post_id": "t3_1n7g4bx",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "NegotiationNew9264",
+      "author_id": "t2_s4a5e1ow",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-09-03T14:20:18.909000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7g4bx",
+      "content_preview": "",
+      "flair": [
+        "Social Media"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7qiaor/styles/profileIcon_ld9ip8zk5s7f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=cfa51a481022cd1fa8596b09dffc3db8ed58b71e",
+      "is_promoted": false
+    },
+    {
+      "title": "The Honda Accord Hybrid merges bold design and hybrid efficiency for every mile 🛣️",
+      "permalink": "https://www.reddit.com/user/honda/comments/1mhru26/the_honda_accord_hybrid_merges_bold_design_and/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mhru26",
+      "post_type": "video",
+      "domain": "automobiles.honda.com",
+      "author": "honda",
+      "author_id": "t2_2fqrwkqx",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-04T22:26:40.282000+0000",
+      "content_href": "https://v.redd.it/e9dw0ry0f1hf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_rksgy/styles/profileIcon_1aerwmpgcqje1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=de2da68f792c1f56d3eb3d7613c36c0764f412a1",
+      "is_promoted": true
+    },
+    {
+      "title": "Red Bull poster for the 2025 Italian Grand Prix",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n8yjmx/red_bull_poster_for_the_2025_italian_grand_prix/",
+      "score": 69,
+      "comments": 10,
+      "post_id": "t3_1n8yjmx",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Master_Jason",
+      "author_id": "t2_9zl49",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-09-05T07:13:50.714000+0000",
+      "content_href": "https://i.redd.it/8v0juhbqqanf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Poster"
+      ],
+      "thumbnail_url": "https://preview.redd.it/red-bull-poster-for-the-2025-italian-grand-prix-v0-8v0juhbqqanf1.jpeg?width=640&crop=smart&auto=webp&s=d2b5e251d8fa555910988554f115a9e035021368",
+      "is_promoted": false
+    },
+    {
+      "title": "IndyCar star Colton Herta signed to Cadillac as test driver",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n7i2aa/indycar_star_colton_herta_signed_to_cadillac_as/",
+      "score": 1912,
+      "comments": 307,
+      "post_id": "t3_1n7i2aa",
+      "post_type": "link",
+      "domain": "formula1.com",
+      "author": "turinturambar66",
+      "author_id": "t2_1a3frqmslo",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-09-03T15:34:39.727000+0000",
+      "content_href": "https://www.formula1.com/en/latest/article/indycar-star-colton-herta-signed-to-cadillac-as-test-driver.3dfdX0jtWLU7Vl16IK3cac",
       "content_preview": "",
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/fia-kimi-gets-10-sec-penalty-and-2-penalty-points-for-v0-8zc2mzJkajAXzfOZUmJlo4IGtz-_6hj8eSHI-jX-TBE.jpeg?width=640&crop=smart&auto=webp&s=b160312dc46090b1d4a1de665ca9e7dce5de5571"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Colton Herta to join Cadillac as test driver",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n7i1ki/colton_herta_to_join_cadillac_as_test_driver/",
+      "score": 1232,
+      "comments": 54,
+      "post_id": "t3_1n7i1ki",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "osireion_87",
+      "author_id": "t2_js27eiejl",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-09-03T15:33:55.871000+0000",
+      "content_href": "https://i.redd.it/tlu77ob4yymf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Social Media"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "[lewishamilton] A tribute on track",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n7gsb2/lewishamilton_a_tribute_on_track/",
+      "score": 1423,
+      "comments": 51,
+      "post_id": "t3_1n7gsb2",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "NegotiationNew9264",
+      "author_id": "t2_s4a5e1ow",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-09-03T14:46:30.348000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7gsb2",
+      "content_preview": "",
+      "flair": [
+        "Social Media"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7qiaor/styles/profileIcon_ld9ip8zk5s7f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=cfa51a481022cd1fa8596b09dffc3db8ed58b71e",
+      "is_promoted": false
+    },
+    {
+      "title": "Oscar Piastri wins the 2025 Dutch Grand Prix",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n4whf0/oscar_piastri_wins_the_2025_dutch_grand_prix/",
+      "score": 10826,
+      "comments": 614,
+      "post_id": "t3_1n4whf0",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "overspeeed",
+      "author_id": "t2_39fsgvbv",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-08-31T14:42:07.635000+0000",
+      "content_href": "https://i.redd.it/r4sfb32b9dmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Race"
+      ],
+      "thumbnail_url": "https://preview.redd.it/oscar-piastri-wins-the-2025-dutch-grand-prix-v0-r4sfb32b9dmf1.png?width=640&crop=smart&auto=webp&s=144d3da0f912d609c4dd44b639e707a3bf69fa4b",
+      "is_promoted": false
+    },
+    {
+      "title": "All podiums so far this season",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1mj8ru8/all_podiums_so_far_this_season/",
+      "score": 8133,
+      "comments": 276,
+      "post_id": "t3_1mj8ru8",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Luffy710j",
+      "author_id": "t2_14ldmee2w0",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-08-06T16:06:37.749000+0000",
+      "content_href": "https://i.redd.it/qff3lqjkafhf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Statistics"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "F1 Ceramic Mug made by my GF",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n7djoj/f1_ceramic_mug_made_by_my_gf/",
+      "score": 1675,
+      "comments": 34,
+      "post_id": "t3_1n7djoj",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Martellio",
+      "author_id": "t2_3uc01m2t",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-09-03T12:32:59.906000+0000",
+      "content_href": "https://i.redd.it/a1jbdkpp1ymf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Off-Topic"
+      ],
+      "thumbnail_url": "https://preview.redd.it/f1-ceramic-mug-made-by-my-gf-v0-a1jbdkpp1ymf1.jpeg?width=640&crop=smart&auto=webp&s=4264d6a49b683e6bca654ff55d335787532100e0",
+      "is_promoted": false
+    },
+    {
+      "title": "Get a full season of fast bikes, big air, and roaring crowds. Stream every Pro Motocross race LIVE on Peacock.",
+      "permalink": "https://www.reddit.com/user/Peacock/comments/1ks6ctn/get_a_full_season_of_fast_bikes_big_air_and/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1ks6ctn",
+      "post_type": "image",
+      "domain": "peacocktv.com",
+      "author": "Peacock",
+      "author_id": "t2_4kfv0g6z",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-05-21T19:13:18.064000+0000",
+      "content_href": "https://www.peacocktv.com/sports/supermotocross?cid=2501sptsmxpkpdsocial142033&utm_campaign=2501sptsmx&utm_source=pk_rdt_rdt&utm_medium=pd_social_awa_imgstc&utm_term=2149978834704378548_na&utm_content=2242360184336113631",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_24ourf/styles/profileIcon_61dcu0b8a8191.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=89f39e4736a915bbf8ad7107d2e8c70730530858",
+      "is_promoted": true
     },
     {
       "title": "Ask r/Formula1 Anything - Daily Discussion Thread",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n6bq6i/ask_rformula1_anything_daily_discussion_thread/",
-      "score": 5,
-      "comments": 10,
-      "post_id": "t3_1n6bq6i",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n8xdw9/ask_rformula1_anything_daily_discussion_thread/",
+      "score": 7,
+      "comments": 16,
+      "post_id": "t3_1n8xdw9",
       "post_type": "text",
       "domain": "self.formula1",
       "author": "AutoModerator",
       "author_id": "t2_6l4z3",
       "subreddit_id": "t5_2qimj",
       "subreddit": "r/formula1",
-      "created_ts": "2025-09-02T06:01:05.631000+0000",
-      "content_href": "https://www.reddit.com/r/formula1/comments/1n6bq6i/ask_rformula1_anything_daily_discussion_thread/",
-      "content_preview": "Welcome to the r/formula1 Daily Discussion / Q&A thread. This thread is a hub for general discussion and questions about Formula 1, that don't need threads of their own. Are you new to Formula 1? This is the place for you. Ever wondered why it's called a lollipop man? Why the cars don't refuel during pitstops? Or when Mika will be back from his sabbatical? Ask any question you might have here, and the community will answer. Also make sure you check out our guide for new fans , and our FAQ for new fans . Are you a veteran fan, longing for the days of lollipop men, refueling during pitstops, and Mika Häkkinen? This is the place to introduce new fans to your passion and knowledge of the sport. Remember to keep it civil and welcoming! Gatekeeping within the Daily Discussion will subject users to disciplinary action. Have a meta question about the subreddit? Please direct these to the moderators instead.",
+      "created_ts": "2025-09-05T06:01:09.625000+0000",
+      "content_href": "https://www.reddit.com/r/formula1/comments/1n8xdw9/ask_rformula1_anything_daily_discussion_thread/",
+      "content_preview": "Welcome to ther/formula1Daily Discussion / Q&A thread.This thread is a hub for general discussion and questions about Formula 1, that don't need threads of their own.Are you new to Formula 1? This is the place for you. Ever wondered why it's called a lollipop man? Why the cars don't refuel during pitstops? Or when Mika will be back from his sabbatical? Ask any question you might have here, and the community will answer.Also make sure you check out ourguide for new fans, and ourFAQ for new fans.Are you a veteran fan, longing for the days of lollipop men, refueling during pitstops, and Mika Häkkinen? This is the place to introduce new fans to your passion and knowledge of the sport.Remember to keep it civil and welcoming! Gatekeeping within the Daily Discussion will subject users to disciplinary action.Have a meta question about the subreddit? Pleasedirect these to the moderatorsinstead.",
       "flair": [
         "Daily Discussion"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
-      "title": "19 drivers have achieved a top six finish in the 2025 Season, which is an all time record",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1n4zf5j/19_drivers_have_achieved_a_top_six_finish_in_the/",
-      "score": 602,
-      "comments": 30,
-      "post_id": "t3_1n4zf5j",
-      "post_type": "text",
-      "domain": "self.formula1",
-      "author": "Popular_Composer_822",
-      "author_id": "t2_1jyltuljzo",
-      "subreddit_id": "t5_2qimj",
-      "subreddit": "r/formula1",
-      "created_ts": "2025-08-31T16:39:35.308000+0000",
-      "content_href": "https://www.reddit.com/r/formula1/comments/1n4zf5j/19_drivers_have_achieved_a_top_six_finish_in_the/",
-      "content_preview": "After Bearman’s P6 today every driver who has competed in the 2024 season bar Colapinto and Doohan has now scored a top six in a race or sprint, an all time record. Piastri (17) every race bar Australia Norris (15) every race bar China sprint, Canada and Netherlands Verstappen (14) every race bar Miami sprint, Spain, Austria and Hungary Russell (14) every race bar Imola, Monaco, Silverstone and Belgium sprint Leclerc (12) every race bar Australia, China, Miami sprint,  Miami, Britain and Netherlands Hamilton (9) Bahrain, Imola, Monaco, Spain, Canada, Austria, Britain and Belgium sprint Antonelli (6) Australia, China, Japan, Saudi, Miami and Canada Albon (5) Australia, Miami, Imola, Belgium and Netherlands Hulkenberg (2) Spain and Britain Hadjar (2) Monaco and Zandvoort Ocon (2) China and Belgium sprint Stroll (2) Australia and Miami sprint Tsunoda (2) China sprint and Miami sprint Alonso (1) Hungary Lawson (1) Austria Gasly (1) Britain Bortoleto (1) Hungary Bearman (1) Netherlands Sainz (1) Belgium sprint Every driver who has driven in every race has managed a top six.",
-      "flair": [
-        "Statistics"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Last time current F1 drivers have been lapped",
-      "permalink": "https://www.reddit.com/r/formula1/comments/1mj43vo/last_time_current_f1_drivers_have_been_lapped/",
-      "score": 12966,
-      "comments": 308,
-      "post_id": "t3_1mj43vo",
+      "title": "Leclerc still sat there, listening to something on his phone.",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n4wfhp/leclerc_still_sat_there_listening_to_something_on/",
+      "score": 9804,
+      "comments": 415,
+      "post_id": "t3_1n4wfhp",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "Portocala69",
-      "author_id": "t2_lmg28",
+      "author": "brokenandsuffering",
+      "author_id": "t2_mnvwbbjg",
       "subreddit_id": "t5_2qimj",
       "subreddit": "r/formula1",
-      "created_ts": "2025-08-06T13:03:28.276000+0000",
-      "content_href": "https://i.redd.it/bbf75lrsdehf1.png",
+      "created_ts": "2025-08-31T14:39:56.351000+0000",
+      "content_href": "https://i.redd.it/enyylb8w9dmf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Statistics"
+        "Photo"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_bztmw/styles/profileIcon_q9xs8few37p91.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b9ab11dad62275211d7790e7cf1283d379c4dd52"
+      "thumbnail_url": "https://preview.redd.it/leclerc-still-sat-there-listening-to-something-on-his-phone-v0-enyylb8w9dmf1.jpeg?width=640&crop=smart&auto=webp&s=9952bcecd169067f75df5d3780b553b200f910e2",
+      "is_promoted": false
+    },
+    {
+      "title": "[ESPN] How Piastri changed the fate of McLaren and Alpine",
+      "permalink": "https://www.reddit.com/r/formula1/comments/1n7oefl/espn_how_piastri_changed_the_fate_of_mclaren_and/",
+      "score": 449,
+      "comments": 163,
+      "post_id": "t3_1n7oefl",
+      "post_type": "link",
+      "domain": "espn.com",
+      "author": "Beautiful-Reaction-8",
+      "author_id": "t2_569qtrbx",
+      "subreddit_id": "t5_2qimj",
+      "subreddit": "r/formula1",
+      "created_ts": "2025-09-03T19:27:50.270000+0000",
+      "content_href": "https://www.espn.com/racing/f1/story/_/id/46138355/how-oscar-piastri-changed-fate-mclaren-alpine",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/xncgxQGbQZwhBOp4mfkUraLk-Bue2_fnnnszLBxogJs.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=e86304c584fdb263224abfa7e348e8e4110908aa",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:09:29.679304"
+  "scraped_at": "2025-09-05T03:32:35.152424"
 }

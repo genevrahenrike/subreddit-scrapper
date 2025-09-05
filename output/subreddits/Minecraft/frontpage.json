@@ -3,94 +3,395 @@
   "url": "https://www.reddit.com/r/Minecraft",
   "meta": {
     "title": "Minecraft on reddit",
-    "members_text": "5,597,597"
+    "description": "Minecraft community on Reddit",
+    "subscribers": 8512785,
+    "online_users": 431,
+    "created_timestamp": "2025-09-05T10:29:19.350000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Bookmarks",
+        "content": [
+          {
+            "text": "Wiki",
+            "url": "/r/Minecraft/wiki/index/"
+          },
+          {
+            "text": "Rules",
+            "url": "https://www.reddit.com/r/Minecraft/w/rules"
+          },
+          {
+            "text": "Spring Drop 2025 FAQ",
+            "url": "https://www.reddit.com/r/Minecraft/comments/1jhd7p2/spring_to_life_drop_faq/"
+          }
+        ]
+      },
+      {
+        "title": "r/Minecraft Rules",
+        "content": [
+          {
+            "text": "r/Minecraft",
+            "url": "/r/Minecraft/"
+          },
+          {
+            "text": "Detailed Rules",
+            "url": "https://www.reddit.com/r/Minecraft/wiki/rules/rule-1/"
+          },
+          {
+            "text": "r/mcservers",
+            "url": "/r/mcservers/"
+          },
+          {
+            "text": "r/realms",
+            "url": "/r/realms/"
+          },
+          {
+            "text": "r/MinecraftBuddies",
+            "url": "/r/MinecraftBuddies/"
+          },
+          {
+            "text": "Detailed Rules",
+            "url": "https://www.reddit.com/r/Minecraft/wiki/rules/rule-2/"
+          },
+          {
+            "text": "r/MinecraftMemes",
+            "url": "/r/MinecraftMemes/"
+          },
+          {
+            "text": "Detailed Rules",
+            "url": "https://www.reddit.com/r/Minecraft/wiki/rules/rule-3/"
+          },
+          {
+            "text": "More details",
+            "url": "https://www.reddit.com/r/Minecraft/wiki/rules/rule-4/"
+          },
+          {
+            "text": "More details",
+            "url": "https://www.reddit.com/r/Minecraft/wiki/rules/rule-5/"
+          },
+          {
+            "text": "More details",
+            "url": "https://www.reddit.com/r/Minecraft/wiki/rules/rule-6/"
+          },
+          {
+            "text": "More details",
+            "url": "https://www.reddit.com/r/Minecraft/wiki/rules/rule-7/"
+          },
+          {
+            "text": "More details",
+            "url": "https://www.reddit.com/r/Minecraft/wiki/rules/rule-8/"
+          },
+          {
+            "text": "Minecraft Wiki",
+            "url": "https://minecraft.wiki"
+          },
+          {
+            "text": "https://support.xbox.com/contact-us",
+            "url": "https://support.xbox.com/contact-us"
+          },
+          {
+            "text": "More details",
+            "url": "https://www.reddit.com/r/Minecraft/wiki/rules/rule-9/"
+          },
+          {
+            "text": "More details",
+            "url": "https://www.reddit.com/r/Minecraft/wiki/rules/rule-10/"
+          },
+          {
+            "text": "More details",
+            "url": "https://www.reddit.com/r/Minecraft/wiki/rules/rule-11/"
+          },
+          {
+            "text": "How to take screenshots",
+            "url": "https://www.minecraft.net/en-us/article/screenshotting-guide"
+          },
+          {
+            "text": "More Details",
+            "url": "https://www.reddit.com/r/Minecraft/wiki/rules/rule-12/"
+          },
+          {
+            "text": "Banned topics",
+            "url": "https://www.reddit.com/r/Minecraft/wiki/rules/rule-13/"
+          }
+        ]
+      },
+      {
+        "title": "Official Minecraft Pages",
+        "content": [
+          {
+            "text": "Minecraft Homepage",
+            "url": "https://minecraft.net"
+          },
+          {
+            "text": "Mojang Homepage",
+            "url": "https://mojang.com/"
+          },
+          {
+            "text": "Minecraft Feedback Site",
+            "url": "https://feedback.minecraft.net"
+          },
+          {
+            "text": "Help & Support (Account)",
+            "url": "https://help.minecraft.net/hc/"
+          },
+          {
+            "text": "Contact",
+            "url": "https://help.minecraft.net/hc/requests/new"
+          },
+          {
+            "text": "Bug Tracker (Bugs)",
+            "url": "https://bugs.mojang.com"
+          },
+          {
+            "text": "Subreddit",
+            "url": "/r/mojira"
+          },
+          {
+            "text": "Minecraft Community Support Discord",
+            "url": "https://discord.gg/58Sxm23"
+          },
+          {
+            "text": "#Minecraft on esper.net",
+            "url": "https://minecraftirc.net/minecraft/landing/"
+          },
+          {
+            "text": "Minecraft Wiki",
+            "url": "https://minecraft.wiki/"
+          },
+          {
+            "text": "Minecraft Discord",
+            "url": "https://discord.gg/Minecraft"
+          },
+          {
+            "text": "Minecraft Streams",
+            "url": "https://www.twitch.tv/Minecraft"
+          },
+          {
+            "text": "/r/Minecraft IRC",
+            "url": "http://webchat.freenode.net/?channels=minecraft"
+          }
+        ]
+      },
+      {
+        "title": "Friends of /r/Minecraft",
+        "content": [
+          {
+            "text": "r/FortNiteBR",
+            "url": "/r/FortNiteBR"
+          },
+          {
+            "text": "r/MinecraftMemes",
+            "url": "/r/MinecraftMemes"
+          },
+          {
+            "text": "r/minecraftsuggestions",
+            "url": "/r/minecraftsuggestions"
+          },
+          {
+            "text": "r/mcservers",
+            "url": "/r/mcservers"
+          },
+          {
+            "text": "r/Mojira",
+            "url": "/r/Mojira"
+          },
+          {
+            "text": "r/MinecraftDungeons",
+            "url": "/r/MinecraftDungeons"
+          },
+          {
+            "text": "r/realms",
+            "url": "/r/realms"
+          },
+          {
+            "text": "r/MinecraftBuddies",
+            "url": "/r/MinecraftBuddies"
+          },
+          {
+            "text": "r/CompetitiveMinecraft",
+            "url": "/r/CompetitiveMinecraft"
+          },
+          {
+            "text": "r/MCPE",
+            "url": "/r/MCPE"
+          }
+        ]
+      },
+      {
+        "title": "Flairs",
+        "content": [
+          {
+            "text": "Official News",
+            "url": "/r/Minecraft/?f=flair_name%3A%22%3Aminecraft%3A%20%20Official%20News%22"
+          },
+          {
+            "text": "Official News",
+            "url": "/r/Minecraft/?f=flair_name%3A%22%3Abedrock%3A%20Official%20News%22"
+          },
+          {
+            "text": "Builds & Maps",
+            "url": "/r/Minecraft/?f=flair_name%3A%22%3Agold_pickaxe%3A%20Builds%20%26%20Maps%22"
+          },
+          {
+            "text": "Fan Work",
+            "url": "/r/Minecraft/?f=flair_name%3A%22%3Aartwork%3A%20Fan%20Work%22"
+          },
+          {
+            "text": "Commands & Datapacks",
+            "url": "/r/Minecraft/?f=flair_name%3A%22%3Acommand_block%3A%20Commands%20%26%20Datapacks%22"
+          },
+          {
+            "text": "Help",
+            "url": "/r/Minecraft/?f=flair_name%3A%22Help%22"
+          },
+          {
+            "text": "Guides & Tutorials",
+            "url": "/r/Minecraft/?f=flair_name%3A%22%3Aguide%3A%20Guides%20%26%20Tutorials%22"
+          },
+          {
+            "text": "Redstone & Techs",
+            "url": "/r/Minecraft/?f=flair_name%3A%22%3Apiston%3A%20Redstone%20%26%20Techs%22"
+          },
+          {
+            "text": "Seeds & World Gen",
+            "url": "/r/Minecraft/?f=flair_name%3A%22%3Amaps%3A%20Seeds%20%26%20World%20Gen%22"
+          },
+          {
+            "text": "Resource Packs",
+            "url": "/r/Minecraft/?f=flair_name%3A%22%3Apaint%3A%20Resource%20Packs%22"
+          },
+          {
+            "text": "Mods & Addons",
+            "url": "/r/Minecraft/?f=flair_name%3A%22%3Amods%3A%20Mods%20%26%20Addons%22"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/Minecraft/moderators/"
+          }
+        ]
+      },
+      {
+        "title": "Installed Apps",
+        "content": [
+          {
+            "text": "Flooding Assistant",
+            "url": "https://developers.reddit.com/apps/floodassistant"
+          },
+          {
+            "text": "QualityVote Reborn",
+            "url": "https://developers.reddit.com/apps/qualityvote2"
+          },
+          {
+            "text": "Modmail Automator",
+            "url": "https://developers.reddit.com/apps/auto-modmail"
+          },
+          {
+            "text": "Comment Mop",
+            "url": "https://developers.reddit.com/apps/comment-nuke"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "I made a cross dimensional train to hide my enderman farm",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n6far6/i_made_a_cross_dimensional_train_to_hide_my/",
-      "score": 5,
+      "title": "A discussion about resource management in Minecraft post-1.0 - what (if anything) can be done to improve it?",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n91l3a/a_discussion_about_resource_management_in/",
+      "score": 1,
       "comments": 1,
-      "post_id": "t3_1n6far6",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "According-Sir-7752",
-      "author_id": "t2_77bfbozs",
+      "post_id": "t3_1n91l3a",
+      "post_type": "text",
+      "domain": "self.Minecraft",
+      "author": "DweebInFlames",
+      "author_id": "t2_8vspeltu4",
       "subreddit_id": "t5_2r05i",
       "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-02T09:54:39.708000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n6far6",
-      "content_preview": "",
+      "created_ts": "2025-09-05T10:29:19.350000+0000",
+      "content_href": "https://www.reddit.com/r/Minecraft/comments/1n91l3a/a_discussion_about_resource_management_in/",
+      "content_preview": "Hi. Another one of these Minecraft boomer threads. I'm looking back on my early experiences with the game and thinking about what's changed since then.I think one of the biggest changes to survival has been around progression - I mean, no duh, but how that goes with resource management. Back inmyday, all you got from your tool or armour was the uses it started off with. No repairing, no enchanting. no trading with villagers to get more gear for essentially free. 1025 uses was all you got on your diamond tools.And honestly, I kind of feel like the game was better off for it. Modern players, open up your ore/ingot chest. How much iron do you have in there right now? Are you using any of it? If you are, it's probably either for redstone related stuff or decoration, am I right? Probably haven't used iron tools in a long time. But it wasn't always like that. You didn't always have 3 stacks of blocks of ingots/diamonds to fall back on. Sometimes you had to make do with lower tiers of tools or armour if you hadn't been mining for a while. There was arhythmto it that I think has been lost. There's technically more of a gear progression than Alpha/Beta Minecraft, but the early stages are rapidly shortened and at some point, you forget about it altogether, whereas it was again, a constant rhythm, something always in the back of your mind in the early days.I think it's a four-pronged issue:cave spelunking has become a lot easier, especially post-1.18. There's so much ore exposed now with little reason to actually have to dig strip mines or quarries or whatever form of mining that requires you to 'waste' durability on stone.Unbreaking has significantly increased the amount of time it takes to break an item. Mending then basically extends that to infinity; the only time you lose an item is if yousomehowfail to get any XP on it (maybe if it's a shovel or silk touch pick?) or if you die and the item is lost.Fortune significantly increases the quantities of iron, gold and diamond you have access to at any given time. So there's pretty much zero risk of ever running out of a tier of tools/armour and having to go back to the old stuff as a stopgap until you go on another mining expedition.Villager trades give easy access to the above two points, without ever having to waste time to enchanting and rerolling or go spelunking for the rare stuff. This is on top of being able to barter for diamond gear that's already enchanted (usually awful enchantments, but if they are you can still scrape them off and reuse them). They're at least planning it to make itharderto access the powerful enchants, but ultimately you'll still be able to access them infinitely through a safe method. Mending straight up shouldn't be on traders imo, I think it'd at least be preferable to make it a slightly more common enchant to find from treasure chests in the 'hostile' structures, especially End Cities.So, here's the thing. I have no idea what could be done to remedy this in any shape or fashion without pissing off a majority of the newer playerbase who has gotten used to the way things have been for, oh, the past 13 or so years. I've certainly gotten used to the power of enchants in that time, even if I do think they break an aspect of the game that used to be a core part of survival. Is it something Mojang should try to tackle in the modern day? Do any older players agree with me in how they feel about this sort of thing?",
       "flair": [
-        "Builds & Maps"
+        "Discussion"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_32de9s/styles/profileIcon_bz5h396gjblf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=71f29df161145f76b3f38625666c7b05fc40d995"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "Please help. Accidentally equipped a mob head with curse of binding in my hardcore world on ps4 bedrock",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n4jyi7/please_help_accidentally_equipped_a_mob_head_with/",
-      "score": 14659,
-      "comments": 873,
-      "post_id": "t3_1n4jyi7",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Zemenem",
-      "author_id": "t2_fvuhr5i8",
+      "title": "You can create mirrors in the new snapshot! 25w36b",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n6vvt6/you_can_create_mirrors_in_the_new_snapshot_25w36b/",
+      "score": 16324,
+      "comments": 358,
+      "post_id": "t3_1n6vvt6",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "PALKIP",
+      "author_id": "t2_4oa0q5mu",
       "subreddit_id": "t5_2r05i",
       "subreddit": "r/Minecraft",
-      "created_ts": "2025-08-31T03:01:05.687000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n4jyi7",
+      "created_ts": "2025-09-02T21:16:24.276000+0000",
+      "content_href": "https://v.redd.it/tikc4o11itmf1",
       "content_preview": "",
       "flair": [
-        "Help Bedrock"
+        "Commands & Datapacks"
       ],
-      "thumbnail_url": "https://preview.redd.it/please-help-accidentally-equipped-a-mob-head-with-curse-of-v0-ylntr9t7t9mf1.jpg?width=640&crop=smart&auto=webp&s=1889c0d293b7969ea6c402612001872b23910021"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_25jj7f/styles/profileIcon_5h6oxeigptvb1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=41ecd9249a3d52cfcb1af305ad1beca57e11161a",
+      "is_promoted": false
     },
     {
-      "title": "Why are the piglins not going after the turtle egg?",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n5uozx/why_are_the_piglins_not_going_after_the_turtle_egg/",
-      "score": 1749,
-      "comments": 25,
-      "post_id": "t3_1n5uozx",
+      "title": "I know Before 1.14 Update Textures Were rough...But is it really  vibrant as this?",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n904my/i_know_before_114_update_textures_were_roughbut/",
+      "score": 71,
+      "comments": 20,
+      "post_id": "t3_1n904my",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "MaltheKorsgaard",
-      "author_id": "t2_1m6uz15r",
+      "author": "Round_Essay5866",
+      "author_id": "t2_1ua0a9zy6k",
       "subreddit_id": "t5_2r05i",
       "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-01T17:17:43.872000+0000",
-      "content_href": "https://i.redd.it/gg9q9d4w6lmf1.png",
+      "created_ts": "2025-09-05T08:59:58.737000+0000",
+      "content_href": "https://i.redd.it/klczvx3j9bnf1.png",
       "content_preview": "",
       "flair": [
-        "Help"
+        "Discussion"
       ],
-      "thumbnail_url": "https://preview.redd.it/why-are-the-piglins-not-going-after-the-turtle-egg-v0-gg9q9d4w6lmf1.png?width=640&crop=smart&auto=webp&s=5803477778d9458c4bc19ba16e299cdaf66271bb"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f0jdyu/styles/profileIcon_074lpeadxglf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=32f6ce1276b9e64f584a3872318f70fb5be41585",
+      "is_promoted": false
     },
     {
-      "title": "Here's a cool portal I made :)",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n65g2q/heres_a_cool_portal_i_made/",
-      "score": 396,
-      "comments": 19,
-      "post_id": "t3_1n65g2q",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "IamDycee",
-      "author_id": "t2_bnru7waj0",
+      "title": "8 years later and I still don't know how this happened..",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n8wu1x/8_years_later_and_i_still_dont_know_how_this/",
+      "score": 490,
+      "comments": 29,
+      "post_id": "t3_1n8wu1x",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "ZarX4k",
+      "author_id": "t2_fq7636wk",
       "subreddit_id": "t5_2r05i",
       "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-02T00:31:35.313000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n65g2q",
+      "created_ts": "2025-09-05T05:28:04.076000+0000",
+      "content_href": "https://v.redd.it/uslmstiz7anf1",
       "content_preview": "",
       "flair": [
-        "Builds & Maps"
+        "Discussion"
       ],
-      "thumbnail_url": "https://preview.redd.it/heres-a-cool-portal-i-made-v0-iir1pte8cnmf1.png?width=640&crop=smart&auto=webp&s=e5f6e93d63f5a9237bb40b55fe3eec2633b11314"
+      "thumbnail_url": "https://external-preview.redd.it/8-years-later-and-i-still-dont-know-how-this-happened-v0-eXVnZWJ2ano3YW5mMZ2v8UI5uD3WPjZaSWvaqEabV_kdhO3or3QOApwuqpG6.png?width=640&crop=smart&format=pjpg&auto=webp&s=895c4f8c538ce1d167784c50e0d8ee26c5144502",
+      "is_promoted": false
     },
     {
       "title": "I Made a Working Minecraft Ghast",
       "permalink": "https://www.reddit.com/r/Minecraft/comments/1muy7ll/i_made_a_working_minecraft_ghast/",
-      "score": 23757,
-      "comments": 244,
+      "score": 23825,
+      "comments": 247,
       "post_id": "t3_1muy7ll",
       "post_type": "video",
       "domain": "v.redd.it",
@@ -104,93 +405,117 @@
       "flair": [
         "Fan Work"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/i-made-a-working-minecraft-ghast-v0-dmJvY21nb2s1MmtmMW9YU3ZKruf_2IsOmlCALTQnSNRMTP7tCI_nsji7Ywbf.png?width=640&crop=smart&format=pjpg&auto=webp&s=f070cac0001fbff822c631936d4397c688ac406f"
+      "thumbnail_url": "https://external-preview.redd.it/i-made-a-working-minecraft-ghast-v0-dmJvY21nb2s1MmtmMW9YU3ZKruf_2IsOmlCALTQnSNRMTP7tCI_nsji7Ywbf.png?width=640&crop=smart&format=pjpg&auto=webp&s=f070cac0001fbff822c631936d4397c688ac406f",
+      "is_promoted": false
     },
     {
-      "title": "How to stop these Glow Squids from spawning in my amethyst farm?",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n6cwnh/how_to_stop_these_glow_squids_from_spawning_in_my/",
-      "score": 82,
+      "title": "Should I build smoke for my iron farm's smokestacks out of blocks or should I keep the campfires?",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n8vte2/should_i_build_smoke_for_my_iron_farms/",
+      "score": 142,
       "comments": 20,
-      "post_id": "t3_1n6cwnh",
+      "post_id": "t3_1n8vte2",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "actualkamek",
-      "author_id": "t2_1hwtbgjmut",
+      "author": "Robot_Pigeon",
+      "author_id": "t2_agplgifv",
       "subreddit_id": "t5_2r05i",
       "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-02T07:16:52.939000+0000",
-      "content_href": "https://i.redd.it/v8fu7n4dcpmf1.png",
+      "created_ts": "2025-09-05T04:29:43.336000+0000",
+      "content_href": "https://i.redd.it/dguxm1bjx9nf1.png",
       "content_preview": "",
       "flair": [
-        "Help"
+        "Builds & Maps"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_dfosq9/styles/profileIcon_9x2feq4mrqle1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6098ae03d064632c050b0a73dc691da07ddbb3e7"
+      "thumbnail_url": "https://preview.redd.it/should-i-build-smoke-for-my-iron-farms-smokestacks-out-of-v0-dguxm1bjx9nf1.png?width=640&crop=smart&auto=webp&s=21018cdcacaa857d5aec00210fdbdf05f12b9672",
+      "is_promoted": false
     },
     {
-      "title": "After hours of grinding, and over a decade of waiting. I finally managed to build and activate the nether reactor.",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n0y9lt/after_hours_of_grinding_and_over_a_decade_of/",
-      "score": 10635,
-      "comments": 130,
-      "post_id": "t3_1n0y9lt",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "IneptGraphicDesigner",
-      "author_id": "t2_hn33eot9n",
-      "subreddit_id": "t5_2r05i",
-      "subreddit": "r/Minecraft",
-      "created_ts": "2025-08-26T21:20:08.773000+0000",
-      "content_href": "https://v.redd.it/uutv5vdpkflf1",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "Most \"un-used\" thing, Torch flower and Pitcher plant seeds!",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n5oesu/most_unused_thing_torch_flower_and_pitcher_plant/",
-      "score": 2062,
-      "comments": 152,
-      "post_id": "t3_1n5oesu",
+      "title": "A multiplayer roguelike where timelines collapse. Welcome to the end.",
+      "permalink": "https://www.reddit.com/user/gamediscovery/comments/1n8gt8x/a_multiplayer_roguelike_where_timelines_collapse/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n8gt8x",
       "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "[deleted]",
-      "author_id": "",
-      "subreddit_id": "t5_2r05i",
-      "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-01T13:15:36.394000+0000",
-      "content_href": "https://i.redd.it/5pofjhknzjmf1.png",
+      "domain": "outoftimegame.co",
+      "author": "gamediscovery",
+      "author_id": "t2_13fl7hq43u",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-04T17:39:09.351000+0000",
+      "content_href": "https://outoftimegame.co/ot1/index.html?utm_source=rdt&20250904_ot_ot1_1&utm_content=click_cta_client&utm_tgt=ctrl&utm_loca=multi_en_1&utm_ad=Reddit 1920x1080ot_010_stat",
       "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://preview.redd.it/most-un-used-thing-torch-flower-and-pitcher-plant-seeds-v0-5pofjhknzjmf1.png?width=640&crop=smart&auto=webp&s=03160cd9f938aafe98ebbfeb001fa3016c71ef22"
+      "flair": [],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": true
     },
     {
-      "title": "i made a website for sharing minecraft memories :D its a big wall that can save your moments for ever!",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n6f5fw/i_made_a_website_for_sharing_minecraft_memories_d/",
-      "score": 5,
-      "comments": 1,
-      "post_id": "t3_1n6f5fw",
+      "title": "Please help. Accidentally equipped a mob head with curse of binding in my hardcore world on ps4 bedrock",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n4jyi7/please_help_accidentally_equipped_a_mob_head_with/",
+      "score": 14750,
+      "comments": 905,
+      "post_id": "t3_1n4jyi7",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "Redninja6700",
-      "author_id": "t2_dxf5kfy3",
+      "author": "Zemenem",
+      "author_id": "t2_fvuhr5i8",
       "subreddit_id": "t5_2r05i",
       "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-02T09:45:19.005000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n6f5fw",
+      "created_ts": "2025-08-31T03:01:05.687000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n4jyi7",
       "content_preview": "",
+      "flair": [
+        "Help Bedrock"
+      ],
+      "thumbnail_url": "https://preview.redd.it/please-help-accidentally-equipped-a-mob-head-with-curse-of-v0-ylntr9t7t9mf1.jpg?width=640&crop=smart&auto=webp&s=1889c0d293b7969ea6c402612001872b23910021",
+      "is_promoted": false
+    },
+    {
+      "title": "I wanted to share one of my personal wall designs that I use in my survival world.",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n8vnhk/i_wanted_to_share_one_of_my_personal_wall_designs/",
+      "score": 121,
+      "comments": 5,
+      "post_id": "t3_1n8vnhk",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "NeighborhoodLate4016",
+      "author_id": "t2_mnyxegzze",
+      "subreddit_id": "t5_2r05i",
+      "subreddit": "r/Minecraft",
+      "created_ts": "2025-09-05T04:20:34.541000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8vnhk",
+      "content_preview": "",
+      "flair": [
+        "Builds & Maps"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i-wanted-to-share-one-of-my-personal-wall-designs-that-i-v0-24i31u2yv9nf1.jpg?width=640&crop=smart&auto=webp&s=96b847b72275ae5c2ab62502ff48bfea31b4283b",
+      "is_promoted": false
+    },
+    {
+      "title": "CreepyMinecraftServers",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n91f1t/creepyminecraftservers/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n91f1t",
+      "post_type": "text",
+      "domain": "self.Minecraft",
+      "author": "Forsaken-Ad5192",
+      "author_id": "t2_1kizxlu91z",
+      "subreddit_id": "t5_2r05i",
+      "subreddit": "r/Minecraft",
+      "created_ts": "2025-09-05T10:19:31.002000+0000",
+      "content_href": "https://www.reddit.com/r/Minecraft/comments/1n91f1t/creepyminecraftservers/",
+      "content_preview": "Post creepy minecraft servers ip and I'll try them out an give them a honest review",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_4zp6fo/styles/profileIcon_3qyfei66n4ee1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6d62e95cf5cfa78eb82a648970a152b813c11a06"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
     },
     {
       "title": "Came up with a idea for a new subreddit logo!",
       "permalink": "https://www.reddit.com/r/Minecraft/comments/1mq2tcr/came_up_with_a_idea_for_a_new_subreddit_logo/",
-      "score": 22899,
-      "comments": 428,
+      "score": 22928,
+      "comments": 429,
       "post_id": "t3_1mq2tcr",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -204,133 +529,159 @@
       "flair": [
         "Fan Work"
       ],
-      "thumbnail_url": "https://preview.redd.it/came-up-with-a-idea-for-a-new-subreddit-logo-v0-p7bdi56szzif1.png?auto=webp&s=4638b21a81e5df6da30a925010745c3b6aa9566d"
+      "thumbnail_url": "https://preview.redd.it/came-up-with-a-idea-for-a-new-subreddit-logo-v0-p7bdi56szzif1.png?auto=webp&s=4638b21a81e5df6da30a925010745c3b6aa9566d",
+      "is_promoted": false
     },
     {
-      "title": "I made Ghast life cycle graph based on everything minecraft has shown us, ops?",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n5wbvw/i_made_ghast_life_cycle_graph_based_on_everything/",
-      "score": 695,
-      "comments": 18,
-      "post_id": "t3_1n5wbvw",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Formal_Series4898",
-      "author_id": "t2_vn9eavi0",
+      "title": "Are Eggs and Snowballs truly so powerful that the MUST have a fourth of the stack size regular items have?",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n8a6i7/are_eggs_and_snowballs_truly_so_powerful_that_the/",
+      "score": 1852,
+      "comments": 106,
+      "post_id": "t3_1n8a6i7",
+      "post_type": "text",
+      "domain": "self.Minecraft",
+      "author": "WeekendBard",
+      "author_id": "t2_l8vbxgog",
       "subreddit_id": "t5_2r05i",
       "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-01T18:17:39.938000+0000",
-      "content_href": "https://i.redd.it/7qbrjhllglmf1.jpeg",
+      "created_ts": "2025-09-04T13:30:36.470000+0000",
+      "content_href": "https://www.reddit.com/r/Minecraft/comments/1n8a6i7/are_eggs_and_snowballs_truly_so_powerful_that_the/",
+      "content_preview": "\"Devs said projectiles should be capped at 16.\"Which is nonsense. Only eggs, snowballs and ender pearls behave like that.Arrows and Fire Charges are projectiles, and stack to 64.\"But they can't be thrown by hand.\"Ok, (fire charges should work like that too, but I digress) but Ender Eyes are projectiles, they stack at 64. Same with Fireworks.\"But they have different properties, they aren't just thrown like the other ones.\"Fine... But what aboutWind Charges?They are thrown like those projectiles, and stack to 64. Not just that, they are way more useful than snowballs and eggs.The only thing these limited stacks actually do is clog inventory space. It's inconsistentandannoying.",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "redesigned the creepers texture based on the current oak texture.",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n6kstp/redesigned_the_creepers_texture_based_on_the/",
+      "score": 13554,
+      "comments": 312,
+      "post_id": "t3_1n6kstp",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Selinaru",
+      "author_id": "t2_4j5xjpg8",
+      "subreddit_id": "t5_2r05i",
+      "subreddit": "r/Minecraft",
+      "created_ts": "2025-09-02T14:20:37.738000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n6kstp",
+      "content_preview": "",
+      "flair": [
+        "Resource Packs"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_24dusy/styles/profileIcon_rqwqbxmp9rze1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=692ce07bddfba1f15ed77288fdcb19f0a44e06df",
+      "is_promoted": false
+    },
+    {
+      "title": "I found this...",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n8oc5b/i_found_this/",
+      "score": 234,
+      "comments": 26,
+      "post_id": "t3_1n8oc5b",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Ancient-Bison-4490",
+      "author_id": "t2_1ufskko263",
+      "subreddit_id": "t5_2r05i",
+      "subreddit": "r/Minecraft",
+      "created_ts": "2025-09-04T22:33:11.539000+0000",
+      "content_href": "https://i.redd.it/w8n03pmv58nf1.png",
       "content_preview": "",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://preview.redd.it/i-made-ghast-life-cycle-graph-based-on-everything-minecraft-v0-7qbrjhllglmf1.jpeg?width=640&crop=smart&auto=webp&s=393a3ded0902758cf4e727b7aaa02c3e572b8e82"
+      "thumbnail_url": "https://preview.redd.it/i-found-this-v0-w8n03pmv58nf1.png?width=640&crop=smart&auto=webp&s=7ceae034428b1e11110d59968e0f13868252ee82",
+      "is_promoted": false
     },
     {
-      "title": "This is cool",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n07amj/this_is_cool/",
-      "score": 10250,
-      "comments": 73,
-      "post_id": "t3_1n07amj",
+      "title": "A single wandering pillager just killed 12 of my 16 villagers 😭😭😭, why they keep spawning?",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n8aebr/a_single_wandering_pillager_just_killed_12_of_my/",
+      "score": 1571,
+      "comments": 185,
+      "post_id": "t3_1n8aebr",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "Bitter-Buffalo-7105",
-      "author_id": "t2_brkngi8mp",
+      "author": "Zestyclose_Road3817",
+      "author_id": "t2_18gi5liyhs",
       "subreddit_id": "t5_2r05i",
       "subreddit": "r/Minecraft",
-      "created_ts": "2025-08-26T00:17:58.865000+0000",
-      "content_href": "https://i.redd.it/dt3dhrqhb9lf1.jpeg",
+      "created_ts": "2025-09-04T13:39:35.606000+0000",
+      "content_href": "https://i.redd.it/6hq9e2xri5nf1.png",
       "content_preview": "",
       "flair": [
-        "Seeds & World Gen"
+        "Help"
       ],
-      "thumbnail_url": "https://preview.redd.it/this-is-cool-v0-dt3dhrqhb9lf1.jpeg?width=640&crop=smart&auto=webp&s=f8c7f5557031201f1bce894fb5eb05ed3fb85970"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
-      "title": "I made a Creeper Zombie cult",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n667qs/i_made_a_creeper_zombie_cult/",
-      "score": 420,
-      "comments": 11,
-      "post_id": "t3_1n667qs",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Even_Counter_8779",
-      "author_id": "t2_qsya2qk2",
-      "subreddit_id": "t5_2r05i",
-      "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-02T01:08:15.590000+0000",
-      "content_href": "https://v.redd.it/ku7l490minmf1",
-      "content_preview": "",
-      "flair": [
-        "Mods & Addons"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "I literally have it above my desk lol",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n5ttcl/i_literally_have_it_above_my_desk_lol/",
-      "score": 885,
-      "comments": 9,
-      "post_id": "t3_1n5ttcl",
+      "title": "New to Minecraft",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n74nhw/new_to_minecraft/",
+      "score": 9891,
+      "comments": 341,
+      "post_id": "t3_1n74nhw",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "Risque__",
-      "author_id": "t2_1g085szl",
+      "author": "randomocity312",
+      "author_id": "t2_zmkfqdw",
       "subreddit_id": "t5_2r05i",
       "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-01T16:45:24.231000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5ttcl",
+      "created_ts": "2025-09-03T03:49:32.432000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n74nhw",
       "content_preview": "",
       "flair": [
         "Fan Work"
       ],
-      "thumbnail_url": "https://preview.redd.it/i-literally-have-it-above-my-desk-lol-v0-po69jsi61lmf1.png?width=640&crop=smart&auto=webp&s=3fa2cc4a686837a5fd6eb84e5832f855a0920d9b"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "Harmless Prank for on your friends!",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n33ath/harmless_prank_for_on_your_friends/",
-      "score": 9774,
-      "comments": 79,
-      "post_id": "t3_1n33ath",
+      "title": "[Highlight] Every Jaxson Dart touchdown in preseason",
+      "permalink": "https://www.reddit.com/user/nfl/comments/1n3each/highlight_every_jaxson_dart_touchdown_in_preseason/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n3each",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "nfl",
+      "author_id": "t2_30enjsvu",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-29T17:50:59.325000+0000",
+      "content_href": "https://v.redd.it/eb3846jmgylf1",
+      "content_preview": "Presented by the Disney+, Hulu, ESPN Bundle",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_vhkg7/styles/profileIcon_qyisviqjbeh71.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=c99ad50d9594a82e7f39cf7600fa1a0ecbf70d13",
+      "is_promoted": true
+    },
+    {
+      "title": "This flower is always on the left!",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n85qbl/this_flower_is_always_on_the_left/",
+      "score": 3142,
+      "comments": 109,
+      "post_id": "t3_1n85qbl",
       "post_type": "video",
       "domain": "v.redd.it",
       "author": "YVANOVICH66",
       "author_id": "t2_1chgw1motn",
       "subreddit_id": "t5_2r05i",
       "subreddit": "r/Minecraft",
-      "created_ts": "2025-08-29T10:02:40.576000+0000",
-      "content_href": "https://v.redd.it/h9oupwhlmxlf1",
+      "created_ts": "2025-09-04T09:44:02.390000+0000",
+      "content_href": "https://v.redd.it/lx0kd4pqc4nf1",
       "content_preview": "",
       "flair": [
-        "Redstone & Techs"
+        "Discussion"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/harmless-prank-for-on-your-friends-v0-MHR3b21vZWxteGxmMYP6B1sM2WjPBLtX88QJMebJm_0QIlotidrq0u_5p5n9.png?width=640&crop=smart&format=pjpg&auto=webp&s=54191d6d520acaeece96fe22299fcd269bf85220"
-    },
-    {
-      "title": "I found an invisible spider in my minecraft world for the first time",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n5zsv6/i_found_an_invisible_spider_in_my_minecraft_world/",
-      "score": 421,
-      "comments": 28,
-      "post_id": "t3_1n5zsv6",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "MaleficentUse9911",
-      "author_id": "t2_1wr4irn7k7",
-      "subreddit_id": "t5_2r05i",
-      "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-01T20:29:13.441000+0000",
-      "content_href": "https://i.redd.it/xcliawns4mmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Help"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "https://external-preview.redd.it/this-flower-is-always-on-the-left-v0-aW92cnRxanFjNG5mMTf2W-gFJLP6vzCkVEBDA5geU4tSURwjnQsA80x7-vQ3.png?width=640&crop=smart&format=pjpg&auto=webp&s=f065593ff96203b52afc1f99ff0ca9a3bbf2b2c7",
+      "is_promoted": false
     },
     {
       "title": "Use for Fletching Table",
       "permalink": "https://www.reddit.com/r/Minecraft/comments/1mrk5iu/use_for_fletching_table/",
-      "score": 20144,
-      "comments": 553,
+      "score": 20178,
+      "comments": 555,
       "post_id": "t3_1mrk5iu",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -344,72 +695,76 @@
       "flair": [
         "Fan Work"
       ],
-      "thumbnail_url": "https://preview.redd.it/use-for-fletching-table-v0-gnzo998i2bjf1.png?width=640&crop=smart&auto=webp&s=64174c5b5d58252f746c4fd644ee920886f6fb86"
+      "thumbnail_url": "https://preview.redd.it/use-for-fletching-table-v0-gnzo998i2bjf1.png?width=640&crop=smart&auto=webp&s=64174c5b5d58252f746c4fd644ee920886f6fb86",
+      "is_promoted": false
     },
     {
-      "title": "It’s been 6 years since baby villagers no longer accept poppies from iron golems.",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n1lvn8/its_been_6_years_since_baby_villagers_no_longer/",
-      "score": 9383,
-      "comments": 119,
-      "post_id": "t3_1n1lvn8",
+      "title": "Harmless Prank for on your friends!",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n33ath/harmless_prank_for_on_your_friends/",
+      "score": 9850,
+      "comments": 80,
+      "post_id": "t3_1n33ath",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "YVANOVICH66",
+      "author_id": "t2_1chgw1motn",
+      "subreddit_id": "t5_2r05i",
+      "subreddit": "r/Minecraft",
+      "created_ts": "2025-08-29T10:02:40.576000+0000",
+      "content_href": "https://v.redd.it/h9oupwhlmxlf1",
+      "content_preview": "",
+      "flair": [
+        "Redstone & Techs"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/harmless-prank-for-on-your-friends-v0-MHR3b21vZWxteGxmMYP6B1sM2WjPBLtX88QJMebJm_0QIlotidrq0u_5p5n9.png?width=640&crop=smart&format=pjpg&auto=webp&s=54191d6d520acaeece96fe22299fcd269bf85220",
+      "is_promoted": false
+    },
+    {
+      "title": "Why did I never think of this before!!??",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n8t4ae/why_did_i_never_think_of_this_before/",
+      "score": 141,
+      "comments": 37,
+      "post_id": "t3_1n8t4ae",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "Just-Guarantee7808",
-      "author_id": "t2_9ofs8sbc",
+      "author": "billhughes1960",
+      "author_id": "t2_1h8f7d2j",
       "subreddit_id": "t5_2r05i",
       "subreddit": "r/Minecraft",
-      "created_ts": "2025-08-27T16:32:30.286000+0000",
-      "content_href": "https://i.redd.it/sz1cl69w9llf1.png",
+      "created_ts": "2025-09-05T02:12:06.305000+0000",
+      "content_href": "https://i.redd.it/8yb4mnlt89nf1.png",
       "content_preview": "",
       "flair": [
-        "Discussion"
+        "Builds & Maps"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_jtsx0/styles/profileIcon_8za3er1af3111.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=84c93c3c852ada555e44d087a711487c7774ad0f",
+      "is_promoted": false
     },
     {
-      "title": "how did she get down there???",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n6c0hk/how_did_she_get_down_there/",
-      "score": 66,
-      "comments": 5,
-      "post_id": "t3_1n6c0hk",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "BlueMoth698",
-      "author_id": "t2_ef0ev6vq",
+      "title": "I made a working canal lock in Java Edition",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n8nzji/i_made_a_working_canal_lock_in_java_edition/",
+      "score": 248,
+      "comments": 14,
+      "post_id": "t3_1n8nzji",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "PcPotato7",
+      "author_id": "t2_4t19iaj1",
       "subreddit_id": "t5_2r05i",
       "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-02T06:18:42.742000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n6c0hk",
+      "created_ts": "2025-09-04T22:18:20.367000+0000",
+      "content_href": "https://v.redd.it/0oesz9ub28nf1",
       "content_preview": "",
       "flair": [
-        "Help"
+        "Redstone & Techs"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_59c9t0/styles/profileIcon_bm1mlzep88bf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d543e9765dd2273623a08bdc93fef7061595464f"
-    },
-    {
-      "title": "Struggling to wear a minecraft skin? Bedrock edition",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n64olc/struggling_to_wear_a_minecraft_skin_bedrock/",
-      "score": 182,
-      "comments": 26,
-      "post_id": "t3_1n64olc",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Angryfucktard",
-      "author_id": "t2_vrhi0idg",
-      "subreddit_id": "t5_2r05i",
-      "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-01T23:55:42.661000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n64olc",
-      "content_preview": "",
-      "flair": [
-        "Help Bedrock"
-      ],
-      "thumbnail_url": "https://preview.redd.it/struggling-to-wear-a-minecraft-skin-bedrock-edition-v0-tmkqz6ar5nmf1.png?width=640&crop=smart&auto=webp&s=3ba2dd5ccf7c7d26294770d495576dfc0ceeaf8a"
+      "thumbnail_url": "https://external-preview.redd.it/i-made-a-working-canal-lock-in-java-edition-v0-eXJjZDgxdWIyOG5mMUAjkxd43p5Tl68L6wkcrTbDqJAjU793hFmuXgQZEbOj.png?width=640&crop=smart&format=pjpg&auto=webp&s=9babb6eb0aacb0f1f80eedabd309e473198a2fc4",
+      "is_promoted": false
     },
     {
       "title": "Mojang just added copper bars, chains and lanterns! Thoughts?",
       "permalink": "https://www.reddit.com/r/Minecraft/comments/1mia982/mojang_just_added_copper_bars_chains_and_lanterns/",
-      "score": 19320,
+      "score": 19333,
       "comments": 938,
       "post_id": "t3_1mia982",
       "post_type": "image",
@@ -424,73 +779,14 @@
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_ekcict/styles/profileIcon_fnkmkf0pon3f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c2489e4356747a5e4f9824a1e84b65cbe802dc89"
-    },
-    {
-      "title": "How can end city's boats have the ender dragon's head ?",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n6f3ut/how_can_end_citys_boats_have_the_ender_dragons/",
-      "score": 2,
-      "comments": 2,
-      "post_id": "t3_1n6f3ut",
-      "post_type": "multi_media",
-      "domain": "self.Minecraft",
-      "author": "memermesmer",
-      "author_id": "t2_16ojxr205r",
-      "subreddit_id": "t5_2r05i",
-      "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-02T09:42:23.374000+0000",
-      "content_href": "https://www.reddit.com/r/Minecraft/comments/1n6f3ut/how_can_end_citys_boats_have_the_ender_dragons/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "If maps were cooler",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1muserk/if_maps_were_cooler/",
-      "score": 18697,
-      "comments": 217,
-      "post_id": "t3_1muserk",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "ImaginationDirect947",
-      "author_id": "t2_1h32qnzrgs",
-      "subreddit_id": "t5_2r05i",
-      "subreddit": "r/Minecraft",
-      "created_ts": "2025-08-19T19:28:55.702000+0000",
-      "content_href": "https://i.redd.it/jmdfu4fa21kf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Fan Work"
-      ],
-      "thumbnail_url": "https://preview.redd.it/if-maps-were-cooler-v0-jmdfu4fa21kf1.jpeg?width=640&crop=smart&auto=webp&s=a93d10c2a8f002fd6338bd950fa90ca50d63337f"
-    },
-    {
-      "title": "What’s your days played count at?",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n68ar1/whats_your_days_played_count_at/",
-      "score": 96,
-      "comments": 34,
-      "post_id": "t3_1n68ar1",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "jeefsauce00",
-      "author_id": "t2_6g9qzf1g",
-      "subreddit_id": "t5_2r05i",
-      "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-02T02:50:19.714000+0000",
-      "content_href": "https://i.redd.it/8uiks2w31omf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://preview.redd.it/whats-your-days-played-count-at-v0-8uiks2w31omf1.jpeg?width=640&crop=smart&auto=webp&s=47354f77f956d912b33a062e8ad7bb068fc1af66"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ekcict/styles/profileIcon_fnkmkf0pon3f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c2489e4356747a5e4f9824a1e84b65cbe802dc89",
+      "is_promoted": false
     },
     {
       "title": "Creepers and Witches will not stop spawning in my base. please help im desperate",
       "permalink": "https://www.reddit.com/r/Minecraft/comments/1n3dbtm/creepers_and_witches_will_not_stop_spawning_in_my/",
-      "score": 9073,
-      "comments": 320,
+      "score": 9095,
+      "comments": 322,
       "post_id": "t3_1n3dbtm",
       "post_type": "gallery",
       "domain": "reddit.com",
@@ -504,13 +800,96 @@
       "flair": [
         "Help Bedrock"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_4vsprv/styles/profileIcon_ghrv6zb34qie1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b851e338e0a0c33df3627ac0dfc0fa88b0cc8fe5"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4vsprv/styles/profileIcon_ghrv6zb34qie1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b851e338e0a0c33df3627ac0dfc0fa88b0cc8fe5",
+      "is_promoted": false
+    },
+    {
+      "title": "Dive into a Capri Sun, with refreshing all natural ingredients and no artificial flavors or colors.",
+      "permalink": "https://www.reddit.com/user/capri_sun_official/comments/1l35hjy/dive_into_a_capri_sun_with_refreshing_all_natural/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1l35hjy",
+      "post_type": "video",
+      "domain": "kraftheinz.com",
+      "author": "capri_sun_official",
+      "author_id": "t2_qgv19r0q",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-06-04T13:24:28.843000+0000",
+      "content_href": "https://v.redd.it/5c5434yoev4f1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6rl08e/styles/profileIcon_lholyni3nr1d1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=4d3d72568f8920dd075ee7b72877b365f4efa556",
+      "is_promoted": true
+    },
+    {
+      "title": "I built the castle from the 1.12 World Of Color Update promotional artwork",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n8jm4z/i_built_the_castle_from_the_112_world_of_color/",
+      "score": 395,
+      "comments": 4,
+      "post_id": "t3_1n8jm4z",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Physical_Pickle_1150",
+      "author_id": "t2_zihxtcbvx",
+      "subreddit_id": "t5_2r05i",
+      "subreddit": "r/Minecraft",
+      "created_ts": "2025-09-04T19:25:27.587000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8jm4z",
+      "content_preview": "",
+      "flair": [
+        "Builds & Maps"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i-built-the-castle-from-the-1-12-world-of-color-update-v0-27y2eyvf87nf1.png?width=640&crop=smart&auto=webp&s=705897c51a6a8675792bad75332de02bbccc3496",
+      "is_promoted": false
+    },
+    {
+      "title": "If maps were cooler",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1muserk/if_maps_were_cooler/",
+      "score": 18725,
+      "comments": 218,
+      "post_id": "t3_1muserk",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ImaginationDirect947",
+      "author_id": "t2_1h32qnzrgs",
+      "subreddit_id": "t5_2r05i",
+      "subreddit": "r/Minecraft",
+      "created_ts": "2025-08-19T19:28:55.702000+0000",
+      "content_href": "https://i.redd.it/jmdfu4fa21kf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Fan Work"
+      ],
+      "thumbnail_url": "https://preview.redd.it/if-maps-were-cooler-v0-jmdfu4fa21kf1.jpeg?width=640&crop=smart&auto=webp&s=a93d10c2a8f002fd6338bd950fa90ca50d63337f",
+      "is_promoted": false
+    },
+    {
+      "title": "best version for mmorpg server",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n91dvz/best_version_for_mmorpg_server/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n91dvz",
+      "post_type": "text",
+      "domain": "self.Minecraft",
+      "author": "oryn_exe",
+      "author_id": "t2_1vsuacvzsh",
+      "subreddit_id": "t5_2r05i",
+      "subreddit": "r/Minecraft",
+      "created_ts": "2025-09-05T10:17:40.001000+0000",
+      "content_href": "https://www.reddit.com/r/Minecraft/comments/1n91dvz/best_version_for_mmorpg_server/",
+      "content_preview": "so, i'm gonna make a mmorpg server on minecraft and i'll manage it from aternos (there are better ones but i don't want to spend money the priced ones, i'm avoing from them lol). i guess mc's most beatiful version is 1.16.5 but the plugins are sick, they don't fit the version. can you guys help me?",
+      "flair": [
+        "Help"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f6v8ta/styles/profileIcon_w5xa1h90xijf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=cb0179a53297ae22bbfc692f6a16597040372f72",
+      "is_promoted": false
     },
     {
       "title": "why is this name considered offensive",
       "permalink": "https://www.reddit.com/r/Minecraft/comments/1n4qhsn/why_is_this_name_considered_offensive/",
-      "score": 8920,
-      "comments": 372,
+      "score": 8966,
+      "comments": 379,
       "post_id": "t3_1n4qhsn",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -524,152 +903,55 @@
       "flair": [
         "Help"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_4xfzro/styles/profileIcon_u86479av24uc1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7a278934b8286311e13ea9ec2ce9751b4c50b789"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4xfzro/styles/profileIcon_u86479av24uc1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7a278934b8286311e13ea9ec2ce9751b4c50b789",
+      "is_promoted": false
     },
     {
-      "title": "I'm building a castle base. Is this too much detail? rate and advice pls.",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n6ah31/im_building_a_castle_base_is_this_too_much_detail/",
-      "score": 59,
-      "comments": 17,
-      "post_id": "t3_1n6ah31",
+      "title": "New change to mob rendering in preview 1.21.120",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n910e3/new_change_to_mob_rendering_in_preview_121120/",
+      "score": 12,
+      "comments": 5,
+      "post_id": "t3_1n910e3",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "Inevitable-Travel-15",
-      "author_id": "t2_9witr754",
+      "author": "CatlynnExists",
+      "author_id": "t2_1y51i5ku",
       "subreddit_id": "t5_2r05i",
       "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-02T04:46:06.738000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n6ah31",
+      "created_ts": "2025-09-05T09:55:03.694000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n910e3",
       "content_preview": "",
       "flair": [
-        "Builds & Maps"
+        "Discussion"
       ],
-      "thumbnail_url": "https://preview.redd.it/im-building-a-castle-base-is-this-too-much-detail-rate-and-v0-fo6vgu1clomf1.png?width=640&crop=smart&auto=webp&s=4daa22317f1e29e5e469654f476b4d7dcfea18b1"
+      "thumbnail_url": "https://preview.redd.it/obpiqdnmjbnf1.jpg?width=320&crop=smart&blur=32.0&format=pjpg&auto=webp&s=b43eb00c60a3732e619b6a40412192cdc805900d",
+      "is_promoted": false
     },
     {
-      "title": "Jungle pyramid",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n5n61v/jungle_pyramid/",
-      "score": 796,
-      "comments": 24,
-      "post_id": "t3_1n5n61v",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Kaledo_Orog",
-      "author_id": "t2_3teyg8jr",
-      "subreddit_id": "t5_2r05i",
-      "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-01T12:19:16.779000+0000",
-      "content_href": "https://i.redd.it/m6c778nppjmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Fan Work"
-      ],
-      "thumbnail_url": "https://preview.redd.it/jungle-pyramid-v0-m6c778nppjmf1.jpeg?width=640&crop=smart&auto=webp&s=7dd8e739abe933f95702de7f202a6a3e08367a69"
-    },
-    {
-      "title": "Which cooked chicken chicken shop looks better, 1 or 2.",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n69qw4/which_cooked_chicken_chicken_shop_looks_better_1/",
-      "score": 35,
-      "comments": 9,
-      "post_id": "t3_1n69qw4",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "JordynS69",
-      "author_id": "t2_625m39eu",
-      "subreddit_id": "t5_2r05i",
-      "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-02T04:04:54.070000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n69qw4",
-      "content_preview": "",
-      "flair": [
-        "Builds & Maps"
-      ],
-      "thumbnail_url": "https://preview.redd.it/which-cooked-chicken-chicken-shop-looks-better-1-or-2-v0-f02zk6lmdomf1.jpg?width=640&crop=smart&auto=webp&s=ae668d8bc55f40dfdd35c4cefb71bc88d1eeff1a"
-    },
-    {
-      "title": "Some screenshots I took of my current Minecraft world with my only friend xD",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n5lyvh/some_screenshots_i_took_of_my_current_minecraft/",
-      "score": 658,
+      "title": "Added detail to my village :)",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n8lp8c/added_detail_to_my_village/",
+      "score": 300,
       "comments": 11,
-      "post_id": "t3_1n5lyvh",
+      "post_id": "t3_1n8lp8c",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "Jeffy_Plagues",
-      "author_id": "t2_ngxrbhbp",
+      "author": "Synoroty",
+      "author_id": "t2_rdh8ayf",
       "subreddit_id": "t5_2r05i",
       "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-01T11:16:17.125000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5lyvh",
+      "created_ts": "2025-09-04T20:46:06.556000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8lp8c",
       "content_preview": "",
       "flair": [
         "Builds & Maps"
       ],
-      "thumbnail_url": "https://preview.redd.it/some-screenshots-i-took-of-my-current-minecraft-world-with-v0-e4ok1gdgejmf1.png?width=640&crop=smart&auto=webp&s=22e9f148460d3311b39ad8c1bd8de2c7cd09dbf7"
-    },
-    {
-      "title": "what is this texture pack?",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n4ajkt/what_is_this_texture_pack/",
-      "score": 7860,
-      "comments": 111,
-      "post_id": "t3_1n4ajkt",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Ok-Membership7568",
-      "author_id": "t2_uayx0upf2",
-      "subreddit_id": "t5_2r05i",
-      "subreddit": "r/Minecraft",
-      "created_ts": "2025-08-30T19:37:57.432000+0000",
-      "content_href": "https://i.redd.it/idcekzn5m7mf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Help"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "What do you think of my base?",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n5yec6/what_do_you_think_of_my_base/",
-      "score": 109,
-      "comments": 33,
-      "post_id": "t3_1n5yec6",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "pixmortal_25",
-      "author_id": "t2_1opibuzybp",
-      "subreddit_id": "t5_2r05i",
-      "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-01T19:34:10.377000+0000",
-      "content_href": "https://i.redd.it/3u8stnlavlmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_edabty/styles/profileIcon_y32yaxae2whf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c112fa2b2490ee1cc2618629169095da641d82bf"
-    },
-    {
-      "title": "Minecraft Theory: Ender pearls are endermen's kidney stones",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n5nx33/minecraft_theory_ender_pearls_are_endermens/",
-      "score": 303,
-      "comments": 21,
-      "post_id": "t3_1n5nx33",
-      "post_type": "text",
-      "domain": "self.Minecraft",
-      "author": "jizztaker",
-      "author_id": "t2_vy91br3g",
-      "subreddit_id": "t5_2r05i",
-      "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-01T12:54:31.188000+0000",
-      "content_href": "https://www.reddit.com/r/Minecraft/comments/1n5nx33/minecraft_theory_ender_pearls_are_endermens/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://preview.redd.it/added-detail-to-my-village-v0-gtheji7vm7nf1.jpg?width=640&crop=smart&auto=webp&s=5bd63725ecdacb5a752018f6eed85759d6a7b582",
+      "is_promoted": false
     },
     {
       "title": "Fun fact: mushrooms haven’t generated in caves for 4 years because of a bug.",
       "permalink": "https://www.reddit.com/r/Minecraft/comments/1mv9ync/fun_fact_mushrooms_havent_generated_in_caves_for/",
-      "score": 18219,
+      "score": 18239,
       "comments": 261,
       "post_id": "t3_1mv9ync",
       "post_type": "image",
@@ -684,73 +966,54 @@
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
-      "title": "Starter house in new survival world with my friend",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n66dpg/starter_house_in_new_survival_world_with_my_friend/",
-      "score": 29,
-      "comments": 8,
-      "post_id": "t3_1n66dpg",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Ill_Mongoose_7448",
-      "author_id": "t2_jhmzm3ft",
-      "subreddit_id": "t5_2r05i",
-      "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-02T01:16:32.777000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n66dpg",
+      "title": "​​The Cocktail Collection. The secret to a perfect cocktail? Just pour and enjoy 7 classic cocktails pre-made with top-shelf spirits like Ketel One, Bulleit, and more.",
+      "permalink": "https://www.reddit.com/user/CocktailCollection/comments/1m2k7t7/the_cocktail_collection_the_secret_to_a_perfect/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1m2k7t7",
+      "post_type": "video",
+      "domain": "productshop.thecocktailcollection.com",
+      "author": "CocktailCollection",
+      "author_id": "t2_cb4p3199o",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-17T21:39:53.150000+0000",
+      "content_href": "https://v.redd.it/tf3c1hq9qgdf1",
       "content_preview": "",
-      "flair": [
-        "Builds & Maps"
-      ],
-      "thumbnail_url": "https://preview.redd.it/starter-house-in-new-survival-world-with-my-friend-v0-dhcqfgpdknmf1.jpg?width=640&crop=smart&auto=webp&s=55e83e212e3e7c1b4a65db0f4f1a83e5dab3b04c"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_9d7hqr/styles/profileIcon_i0mu38swbsqb1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=86435d43cdaebfadfd5cefbc95fdd2cf12f71647",
+      "is_promoted": true
     },
     {
-      "title": "I made a whole city on one of the most hated Minecraft port (Minecraft for Nintendo 3DS)",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n2kobw/i_made_a_whole_city_on_one_of_the_most_hated/",
-      "score": 7589,
-      "comments": 83,
-      "post_id": "t3_1n2kobw",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "TheVetLegend",
-      "author_id": "t2_qb8nmb",
-      "subreddit_id": "t5_2r05i",
-      "subreddit": "r/Minecraft",
-      "created_ts": "2025-08-28T18:46:57.042000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n2kobw",
-      "content_preview": "",
-      "flair": [
-        "Builds & Maps"
-      ],
-      "thumbnail_url": "https://preview.redd.it/i-made-a-whole-city-on-one-of-the-most-hated-minecraft-port-v0-2eyl669d1tlf1.jpg?width=640&crop=smart&auto=webp&s=774d1bd7136c8d6a917675a657b62d14e69ccac2"
-    },
-    {
-      "title": "Is this enough to run Mc with mods",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n6f0y3/is_this_enough_to_run_mc_with_mods/",
-      "score": 3,
-      "comments": 5,
-      "post_id": "t3_1n6f0y3",
+      "title": "what is this texture pack?",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n4ajkt/what_is_this_texture_pack/",
+      "score": 7888,
+      "comments": 111,
+      "post_id": "t3_1n4ajkt",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "No_Butterscotch8017",
-      "author_id": "t2_hhf6k9lm",
+      "author": "Ok-Membership7568",
+      "author_id": "t2_uayx0upf2",
       "subreddit_id": "t5_2r05i",
       "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-02T09:37:05.152000+0000",
-      "content_href": "https://i.redd.it/urp7wdqo1qmf1.png",
+      "created_ts": "2025-08-30T19:37:57.432000+0000",
+      "content_href": "https://i.redd.it/idcekzn5m7mf1.jpeg",
       "content_preview": "",
       "flair": [
         "Help"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
     },
     {
       "title": "New copper bars=rusty iron bars!",
       "permalink": "https://www.reddit.com/r/Minecraft/comments/1mii6dc/new_copper_barsrusty_iron_bars/",
-      "score": 17887,
-      "comments": 104,
+      "score": 17902,
+      "comments": 105,
       "post_id": "t3_1mii6dc",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -764,33 +1027,98 @@
       "flair": [
         "Builds & Maps"
       ],
-      "thumbnail_url": "https://preview.redd.it/new-copper-bars-rusty-iron-bars-v0-qmuok6dh19hf1.png?width=640&crop=smart&auto=webp&s=7b9686611cfe4963be1b8e325680402dafe6bc59"
+      "thumbnail_url": "https://preview.redd.it/new-copper-bars-rusty-iron-bars-v0-qmuok6dh19hf1.png?width=640&crop=smart&auto=webp&s=7b9686611cfe4963be1b8e325680402dafe6bc59",
+      "is_promoted": false
     },
     {
-      "title": "Clash Royale in Minecraft Update",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n68rs6/clash_royale_in_minecraft_update/",
-      "score": 20,
-      "comments": 5,
-      "post_id": "t3_1n68rs6",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Cubecly",
-      "author_id": "t2_m59skdkbl",
+      "title": "Is there any way to use this place? I'm new to minecraft.",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n8rlde/is_there_any_way_to_use_this_place_im_new_to/",
+      "score": 326,
+      "comments": 33,
+      "post_id": "t3_1n8rlde",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "BankBig7689",
+      "author_id": "t2_1ch4v3pyxt",
       "subreddit_id": "t5_2r05i",
       "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-02T03:14:02.323000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n68rs6",
+      "created_ts": "2025-09-05T00:59:22.649000+0000",
+      "content_href": "https://i.redd.it/s8yg88w1w8nf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Redstone & Techs"
+        "Help"
       ],
-      "thumbnail_url": "https://preview.redd.it/clash-royale-in-minecraft-update-v0-agg7odb65omf1.png?width=640&crop=smart&auto=webp&s=a8e76803d3ef27ffabc9ceda3c55bf918fc42425"
+      "thumbnail_url": "https://preview.redd.it/is-there-any-way-to-use-this-place-im-new-to-minecraft-v0-s8yg88w1w8nf1.jpeg?width=640&crop=smart&auto=webp&s=3c8f5f65e3ddb2fe6b4332b75a3184e3bf1c2272",
+      "is_promoted": false
+    },
+    {
+      "title": "Well, that's new.",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n8erqh/well_thats_new/",
+      "score": 527,
+      "comments": 30,
+      "post_id": "t3_1n8erqh",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Holiday_Stable323",
+      "author_id": "t2_1e6hf575ue",
+      "subreddit_id": "t5_2r05i",
+      "subreddit": "r/Minecraft",
+      "created_ts": "2025-09-04T16:22:23.993000+0000",
+      "content_href": "https://i.redd.it/8bv0nb2rb6nf1.png",
+      "content_preview": "",
+      "flair": [
+        "Mods & Addons"
+      ],
+      "thumbnail_url": "https://preview.redd.it/well-thats-new-v0-8bv0nb2rb6nf1.png?width=640&crop=smart&auto=webp&s=0a33ed703a4ef4d5ff80e0527ea8fee3831764ef",
+      "is_promoted": false
+    },
+    {
+      "title": "Found a lone house on the edge of a flower forest. Possibly a village that didn't spawn correctly?",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n8xjss/found_a_lone_house_on_the_edge_of_a_flower_forest/",
+      "score": 32,
+      "comments": 9,
+      "post_id": "t3_1n8xjss",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "420wasabisnappin",
+      "author_id": "t2_55guh",
+      "subreddit_id": "t5_2r05i",
+      "subreddit": "r/Minecraft",
+      "created_ts": "2025-09-05T06:11:10.046000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8xjss",
+      "content_preview": "",
+      "flair": [
+        "Seeds & World Gen"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Fun fact: The Happy Ghast Spawn Egg translation in Arabic stands for \"United States of Arabia\"",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n84ije/fun_fact_the_happy_ghast_spawn_egg_translation_in/",
+      "score": 1722,
+      "comments": 40,
+      "post_id": "t3_1n84ije",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Squidieyy",
+      "author_id": "t2_1ii8x2jizb",
+      "subreddit_id": "t5_2r05i",
+      "subreddit": "r/Minecraft",
+      "created_ts": "2025-09-04T08:25:53.384000+0000",
+      "content_href": "https://i.redd.it/t2qnqm7my3nf1.png",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/fun-fact-the-happy-ghast-spawn-egg-translation-in-arabic-v0-t2qnqm7my3nf1.png?width=640&crop=smart&auto=webp&s=1d8bcbe03400bc5f386a654199c8696210af04b0",
+      "is_promoted": false
     },
     {
       "title": "I moved to Syria just to find out Minecraft is banned here?",
       "permalink": "https://www.reddit.com/r/Minecraft/comments/1n3kghb/i_moved_to_syria_just_to_find_out_minecraft_is/",
-      "score": 7374,
-      "comments": 274,
+      "score": 7392,
+      "comments": 276,
       "post_id": "t3_1n3kghb",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -804,12 +1132,74 @@
       "flair": [
         "Help"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_bb1ysz/styles/profileIcon_hvmnpdi82odf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4236075b67613f302f4ad128c0a57d6e1c9bad65"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bb1ysz/styles/profileIcon_hvmnpdi82odf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4236075b67613f302f4ad128c0a57d6e1c9bad65",
+      "is_promoted": false
+    },
+    {
+      "title": "New official merchandise reveals Enderman anatomy!",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n8omw4/new_official_merchandise_reveals_enderman_anatomy/",
+      "score": 316,
+      "comments": 20,
+      "post_id": "t3_1n8omw4",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Enderboss25_",
+      "author_id": "t2_3n6aakar",
+      "subreddit_id": "t5_2r05i",
+      "subreddit": "r/Minecraft",
+      "created_ts": "2025-09-04T22:46:05.035000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8omw4",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_107840/styles/profileIcon_hc9e70g5hdjf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=86c74734b9d75072999b0fc325ceba3f077d1bc4",
+      "is_promoted": false
+    },
+    {
+      "title": "Accidentally built a mob hotel",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n90usw/accidentally_built_a_mob_hotel/",
+      "score": 8,
+      "comments": 1,
+      "post_id": "t3_1n90usw",
+      "post_type": "text",
+      "domain": "self.Minecraft",
+      "author": "Latter-Currency-1851",
+      "author_id": "t2_1up2tl48hs",
+      "subreddit_id": "t5_2r05i",
+      "subreddit": "r/Minecraft",
+      "created_ts": "2025-09-05T09:45:17.258000+0000",
+      "content_href": "https://www.reddit.com/r/Minecraft/comments/1n90usw/accidentally_built_a_mob_hotel/",
+      "content_preview": "I was digging out the basement of my base and didn’t notice I had left one unlit tunnel open. Went back down later and found what looked like a full blown party: creepers in the corners, skeletons fighting each other, even a zombie just chilling by my chest. For a second I thought I had walked into a raid event I didn’t remember starting. It took me 10 minutes of sprinting in and out just to get it under control, and I honestly thought I was about to lose the whole base. By the time it was all cleared, I had to step away and cool off. Ended up checking instagram for a bit and just picturing all those mobs lining up like guests at some underground hotel. My friends still joke about it as the “MobBnB,” and at this point I think the name’s permanent.",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "The Lunchables Effect: peer-reviewed by every kid in the cafeteria.",
+      "permalink": "https://www.reddit.com/user/RealLunchables/comments/1n01h4b/the_lunchables_effect_peerreviewed_by_every_kid/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n01h4b",
+      "post_type": "image",
+      "domain": "lunchables.com",
+      "author": "RealLunchables",
+      "author_id": "t2_qgse50w7",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-25T20:20:27.388000+0000",
+      "content_href": "https://www.lunchables.com/parents?utm_medium=paidsocial&utm_source=reddit&utm_campaign={{CAMPAIGN_ID}}&utm_adgroup={{ADGROUP_ID}}&utm_content={{AD_ID}}",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6rkgwh/styles/profileIcon_uqbdoht6k8hd1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=1f8dff5d4ad11c1cfada50e0bda9b4733d0d833a",
+      "is_promoted": true
     },
     {
       "title": "I made an animations about villager trading halls",
       "permalink": "https://www.reddit.com/r/Minecraft/comments/1my2hqy/i_made_an_animations_about_villager_trading_halls/",
-      "score": 17059,
+      "score": 17088,
       "comments": 255,
       "post_id": "t3_1my2hqy",
       "post_type": "video",
@@ -824,52 +1214,13 @@
       "flair": [
         "Fan Work"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_2ucc29/styles/profileIcon_7t4rfpubwmp81.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7d86a8a64bafd6746497a934950755d601c44d40"
-    },
-    {
-      "title": "Orthodox Church, WIP",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n6evzh/orthodox_church_wip/",
-      "score": 11,
-      "comments": 3,
-      "post_id": "t3_1n6evzh",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "cyka_blyat_123",
-      "author_id": "t2_mewc2mtj",
-      "subreddit_id": "t5_2r05i",
-      "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-02T09:28:11.284000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n6evzh",
-      "content_preview": "",
-      "flair": [
-        "Builds & Maps"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_6a2bf7/styles/profileIcon_8hzpk70rjobf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c3bacc463b76452b4c8df60e5c3c592e527a69f5"
-    },
-    {
-      "title": "My old base) [Java Edition 1.19.2]",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n6c4on/my_old_base_java_edition_1192/",
-      "score": 11,
-      "comments": 2,
-      "post_id": "t3_1n6c4on",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Upstairs-Poetry7295",
-      "author_id": "t2_8asqucm8",
-      "subreddit_id": "t5_2r05i",
-      "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-02T06:25:52.744000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n6c4on",
-      "content_preview": "",
-      "flair": [
-        "Builds & Maps"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2ucc29/styles/profileIcon_7t4rfpubwmp81.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7d86a8a64bafd6746497a934950755d601c44d40",
+      "is_promoted": false
     },
     {
       "title": "My Hardcore World As A Single Mum <3",
       "permalink": "https://www.reddit.com/r/Minecraft/comments/1mkrrgi/my_hardcore_world_as_a_single_mum_3/",
-      "score": 16378,
+      "score": 16394,
       "comments": 264,
       "post_id": "t3_1mkrrgi",
       "post_type": "gallery",
@@ -884,32 +1235,13 @@
       "flair": [
         "Builds & Maps"
       ],
-      "thumbnail_url": "https://preview.redd.it/my-hardcore-world-as-a-single-mum-3-v0-f2n2vm3sxrhf1.png?width=640&crop=smart&auto=webp&s=493b209631ff6f3419c50856e8ba6404f3f9ca2e"
-    },
-    {
-      "title": "Why is my trial chambers filled with babies?",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n5rolh/why_is_my_trial_chambers_filled_with_babies/",
-      "score": 170,
-      "comments": 54,
-      "post_id": "t3_1n5rolh",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "potatena",
-      "author_id": "t2_5fhr09pb",
-      "subreddit_id": "t5_2r05i",
-      "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-01T15:25:37.951000+0000",
-      "content_href": "https://v.redd.it/ysbeddaymkmf1",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/why-is-my-trial-chambers-filled-with-babies-v0-ZmJraGRzYnlta21mMfzzDg3VXJBjLTBqUA2ZPiBv-t1sN3dvU82BV7eYbMfb.png?width=640&crop=smart&format=pjpg&auto=webp&s=e81a1847a24fbc7e692176e5e78fe19deed82351"
+      "thumbnail_url": "https://preview.redd.it/my-hardcore-world-as-a-single-mum-3-v0-f2n2vm3sxrhf1.png?width=640&crop=smart&auto=webp&s=493b209631ff6f3419c50856e8ba6404f3f9ca2e",
+      "is_promoted": false
     },
     {
       "title": "Happy Ghast wandered off, then proceeded to save my hardcore world",
       "permalink": "https://www.reddit.com/r/Minecraft/comments/1migp86/happy_ghast_wandered_off_then_proceeded_to_save/",
-      "score": 14293,
+      "score": 14309,
       "comments": 161,
       "post_id": "t3_1migp86",
       "post_type": "video",
@@ -924,32 +1256,13 @@
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_2g6qpb/styles/profileIcon_burenrkpa7hf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=22caa34d1d08863296d37127496f41219e065bd0"
-    },
-    {
-      "title": "I ran into this strange world generation. What causes this?",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n62z7l/i_ran_into_this_strange_world_generation_what/",
-      "score": 390,
-      "comments": 20,
-      "post_id": "t3_1n62z7l",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "UNEFFICENT-UNUSUAL",
-      "author_id": "t2_3yzc7fp5u",
-      "subreddit_id": "t5_2r05i",
-      "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-01T22:38:24.548000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n62z7l",
-      "content_preview": "",
-      "flair": [
-        "Seeds & World Gen"
-      ],
-      "thumbnail_url": "https://preview.redd.it/i-ran-into-this-strange-world-generation-what-causes-this-v0-lcq96w46smmf1.jpg?width=640&crop=smart&auto=webp&s=3d41af192d0516cc0f5b364a13e7ed5482bb4ec7"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2g6qpb/styles/profileIcon_burenrkpa7hf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=22caa34d1d08863296d37127496f41219e065bd0",
+      "is_promoted": false
     },
     {
       "title": "Please use whitelist on all your servers",
       "permalink": "https://www.reddit.com/r/Minecraft/comments/1mxedus/please_use_whitelist_on_all_your_servers/",
-      "score": 14283,
+      "score": 14289,
       "comments": 279,
       "post_id": "t3_1mxedus",
       "post_type": "image",
@@ -964,13 +1277,56 @@
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "A small tower build!",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n8tun1/a_small_tower_build/",
+      "score": 58,
+      "comments": 3,
+      "post_id": "t3_1n8tun1",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "LegendaryPorpy",
+      "author_id": "t2_527glhjk",
+      "subreddit_id": "t5_2r05i",
+      "subreddit": "r/Minecraft",
+      "created_ts": "2025-09-05T02:47:35.239000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8tun1",
+      "content_preview": "",
+      "flair": [
+        "Builds & Maps"
+      ],
+      "thumbnail_url": "https://preview.redd.it/a-small-tower-build-v0-mxbfns8cf9nf1.jpg?width=640&crop=smart&auto=webp&s=80b9c155df1857b9c957d7234c468ec2aaab4805",
+      "is_promoted": false
+    },
+    {
+      "title": "The Egg in the Sky",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n8f74d/the_egg_in_the_sky/",
+      "score": 369,
+      "comments": 18,
+      "post_id": "t3_1n8f74d",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "themistik",
+      "author_id": "t2_16q0sr",
+      "subreddit_id": "t5_2r05i",
+      "subreddit": "r/Minecraft",
+      "created_ts": "2025-09-04T16:38:17.386000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8f74d",
+      "content_preview": "",
+      "flair": [
+        "Builds & Maps"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_9he8r/styles/profileIcon_2gcyu0cswvs81.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a10809055f0c1bde740ac6637d4df7d63bc6b3c8",
+      "is_promoted": false
     },
     {
       "title": "Idea for copper horns: THE WORLD OF MUSIC UPDATE!! (oc)",
       "permalink": "https://www.reddit.com/r/Minecraft/comments/1mn7a0n/idea_for_copper_horns_the_world_of_music_update_oc/",
-      "score": 14116,
-      "comments": 371,
+      "score": 14126,
+      "comments": 373,
       "post_id": "t3_1mn7a0n",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -984,28 +1340,133 @@
       "flair": [
         "Suggestion"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_4jb9hq/styles/profileIcon_k8x082afxyge1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c7aaf9d784d1d735b1b84bffdd8d1800416a431b"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4jb9hq/styles/profileIcon_k8x082afxyge1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c7aaf9d784d1d735b1b84bffdd8d1800416a431b",
+      "is_promoted": false
     },
     {
-      "title": "An Mini Pillager Outpost in an Ancient City",
-      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n5rs4c/an_mini_pillager_outpost_in_an_ancient_city/",
-      "score": 168,
-      "comments": 20,
-      "post_id": "t3_1n5rs4c",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Entire-Structure-929",
-      "author_id": "t2_1v6tm1jba2",
+      "title": "It's called \"high priority work\" for a reason—and Asana users complete 3x more of it on time. See how to do more of what matters.",
+      "permalink": "https://www.reddit.com/user/TeamAsana/comments/1mchbnz/its_called_high_priority_work_for_a_reasonand/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mchbnz",
+      "post_type": "image",
+      "domain": "asana.com",
+      "author": "TeamAsana",
+      "author_id": "t2_fwn6w8q0",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-29T17:13:24.576000+0000",
+      "content_href": "https://asana.com/campaign/try-now?utm_source=reddit&utm_medium=pd_soc_smb&utm_campaign={{CAMPAIGN_NAME}}&utm_content={{ADGROUP_NAME}}&utm_term={{AD_NAME}}",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5gobbf/styles/profileIcon_ox76lg8nhp981.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=9110ba69c60486606704b6fd66dc785e0a72151f",
+      "is_promoted": true
+    },
+    {
+      "title": "Why is this happening?",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n8uw9z/why_is_this_happening/",
+      "score": 44,
+      "comments": 26,
+      "post_id": "t3_1n8uw9z",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Much-Firefighter1796",
+      "author_id": "t2_79em93lfl",
       "subreddit_id": "t5_2r05i",
       "subreddit": "r/Minecraft",
-      "created_ts": "2025-09-01T15:29:25.632000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5rs4c",
+      "created_ts": "2025-09-05T03:40:51.153000+0000",
+      "content_href": "https://v.redd.it/ebhd77q2o9nf1",
       "content_preview": "",
       "flair": [
-        "Seeds & World Gen"
+        "Help Bedrock"
       ],
-      "thumbnail_url": "https://preview.redd.it/an-mini-pillager-outpost-in-an-ancient-city-v0-1yhz7wilnkmf1.png?width=640&crop=smart&auto=webp&s=0551ad446526c3cdbca1208d144d0973d01aa12f"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Notice how Shelves have recieved no hate since release",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1mjkimz/notice_how_shelves_have_recieved_no_hate_since/",
+      "score": 13150,
+      "comments": 236,
+      "post_id": "t3_1mjkimz",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Beneficial-Ad-5492",
+      "author_id": "t2_b9s9ys74",
+      "subreddit_id": "t5_2r05i",
+      "subreddit": "r/Minecraft",
+      "created_ts": "2025-08-06T23:40:34.428000+0000",
+      "content_href": "https://i.redd.it/tlh8urojjhhf1.png",
+      "content_preview": "",
+      "flair": [
+        "Builds & Maps"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "I made a resource pack that updates the creepers textures to be more modern.",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n7w497/i_made_a_resource_pack_that_updates_the_creepers/",
+      "score": 7104,
+      "comments": 146,
+      "post_id": "t3_1n7w497",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "JacksonSpike",
+      "author_id": "t2_69ep46qv",
+      "subreddit_id": "t5_2r05i",
+      "subreddit": "r/Minecraft",
+      "created_ts": "2025-09-04T00:44:15.690000+0000",
+      "content_href": "https://i.redd.it/bkwyi91go1nf1.png",
+      "content_preview": "",
+      "flair": [
+        "Resource Packs"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3xr5f8/styles/profileIcon_ppcgjkm9osbd1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e0b47f3490ad4b2fe4c2e590a8a2e44b9a0d56ef",
+      "is_promoted": false
+    },
+    {
+      "title": "My 200 day Keep Inventory survival base",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n7abc4/my_200_day_keep_inventory_survival_base/",
+      "score": 5640,
+      "comments": 89,
+      "post_id": "t3_1n7abc4",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Dude_Purrfect_II",
+      "author_id": "t2_kb484r29s",
+      "subreddit_id": "t5_2r05i",
+      "subreddit": "r/Minecraft",
+      "created_ts": "2025-09-03T09:38:01.595000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7abc4",
+      "content_preview": "",
+      "flair": [
+        "Builds & Maps"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_9e430o/styles/profileIcon_n1i0swn3xshd1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=9381484f0d860c99b55feb7772a80290a322e157",
+      "is_promoted": false
+    },
+    {
+      "title": "What Minecraft Screenshots Shot On 35mm Film Would Look Like",
+      "permalink": "https://www.reddit.com/r/Minecraft/comments/1n8bfk8/what_minecraft_screenshots_shot_on_35mm_film/",
+      "score": 459,
+      "comments": 40,
+      "post_id": "t3_1n8bfk8",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Stiimpoo",
+      "author_id": "t2_7gbswk31",
+      "subreddit_id": "t5_2r05i",
+      "subreddit": "r/Minecraft",
+      "created_ts": "2025-09-04T14:17:47.528000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8bfk8",
+      "content_preview": "",
+      "flair": [
+        "Fan Work"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2x4nj1/styles/profileIcon_7gfw2neu3p2d1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=400a448bc159a33964b305256ecfec6f345f335d",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:05:29.294315"
+  "scraped_at": "2025-09-05T03:31:53.407034"
 }

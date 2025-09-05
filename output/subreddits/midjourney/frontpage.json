@@ -2,34 +2,135 @@
   "subreddit": "midjourney",
   "url": "https://www.reddit.com/r/midjourney",
   "meta": {
-    "title": "midjourney"
+    "title": "midjourney",
+    "description": "Midjourney is an image generator that lets you explore new ideas that unlocks your creativity. ",
+    "subscribers": 1747281,
+    "online_users": 64,
+    "created_timestamp": "2025-09-05T10:00:03.148000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "r/midjourney Rules",
+        "content": "This is a Midjourney subreddit so please limit your posting to Midjourney content. The group focus is on sharing peoples’ creations, and knowledge about the software. There is some wiggle room for closely related content, but we don’t allow images made with other generators. (If an image looks like it isn’t from MJ, we might ask for verification). A welcoming and positive environment is a priority for this subreddit. Please don't be a jerk. It is okay to disagree but be sure to keep conversation respectful. Don't post inflammatory content or personal attacks. No trolling or purposely causing drama. We discourage content that may shock or offend including highly sexualized imagery, nudity, blood, gore, ‘gross out’ imagery, violence, and other disturbing content at moderators’ discretion. To reduce conflict, we steer away from themes that have a history of causing issues. Controversial themes are usually about politics, religion, and social causes. Controversial figures include politicians, religious leaders and icons, a few celebrities, social activists, etc. This is at moderators discretion. It isn’t our endorsement or rejection of any cause or political position, it’s just to keep the conflict down. Please share your own content here. If you want to share something interesting that someone else created, be sure to credit the original creator. While profile and social links are usually permitted in the comments, we don’t want sales-y links to commercial products and services, promoted pages or accounts, etc. This isn’t a place for marketing, so please don’t make it the central point of your posts. Mods may determine some posts are low effort enough for removal; this includes things such as people posting the same repeated content multiple times, stuff like “Is this AI?” posts, engagement bait titles, and/or general clutter posts that don’t add value to the sub. Please put multiple images from the same series into a gallery post - you can add up to 20 in a gallery. Posts in quick succession will be removed for spam. Do not present posts/images in a way that could lead people to believe the images are real, and not AI generated. If it seems like the images could cause this confusion, please clarify in the title and/or comments that it is not. We get so many of these it’s just become spammy. If you want to encourage others to make images with a theme then you must also contribute to the post with images you have made yourself. Antagonistic or disruptive behavior such as abuse of the modmail system, attempts to circumvent subreddit rules, submissions of prohibited content, various kinds of bias and bigotry, repeated rule violations, etc. may result in permanent bans."
+      },
+      {
+        "title": "Info",
+        "content": [
+          {
+            "text": "https://www.midjourney.com/",
+            "url": "https://www.midjourney.com/"
+          },
+          {
+            "text": "daily events here!",
+            "url": "https://lu.ma/midjourney"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/midjourney/moderators/"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "Werebear",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n6ej4n/werebear/",
-      "score": 13,
+      "title": "These are my top styles from the new Midjourney Style Explorer.",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n9132c/these_are_my_top_styles_from_the_new_midjourney/",
+      "score": 3,
       "comments": 0,
-      "post_id": "t3_1n6ej4n",
+      "post_id": "t3_1n9132c",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "Klown462",
-      "author_id": "t2_cj4ec8tu",
+      "author": "mikkeelangelo",
+      "author_id": "t2_1rhxqvusin",
       "subreddit_id": "t5_5zvcfk",
       "subreddit": "r/midjourney",
-      "created_ts": "2025-09-02T09:04:49.006000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n6ej4n",
-      "content_preview": "",
+      "created_ts": "2025-09-05T10:00:03.148000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n9132c",
+      "content_preview": "AI Showcase - Midjourney",
       "flair": [
         "AI Showcase - Midjourney"
       ],
-      "thumbnail_url": "https://preview.redd.it/qblxopexvpmf1.jpg?width=640&crop=smart&auto=webp&s=88c6c3fa2158f5a65424a9735cccabfa408220a6"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ep0ntb/styles/profileIcon_9gziuu0q1uff1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=06844ff9e0222b4df550ef54d16d5eca7592725f",
+      "is_promoted": false
+    },
+    {
+      "title": "Slum futuristic homes",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n7h1nj/slum_futuristic_homes/",
+      "score": 4711,
+      "comments": 279,
+      "post_id": "t3_1n7h1nj",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "No-Investment2221",
+      "author_id": "t2_1h0jzb6m62",
+      "subreddit_id": "t5_5zvcfk",
+      "subreddit": "r/midjourney",
+      "created_ts": "2025-09-03T14:56:30.360000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7h1nj",
+      "content_preview": "AI Showcase - Midjourney",
+      "flair": [
+        "AI Showcase - Midjourney"
+      ],
+      "thumbnail_url": "https://preview.redd.it/slum-futuristic-homes-v0-q6xpb6ykrymf1.jpg?width=640&crop=smart&auto=webp&s=421bc482af2a453824bc5482b94555691a5f31e9",
+      "is_promoted": false
+    },
+    {
+      "title": "It may be dumb but I love this",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n8c6lz/it_may_be_dumb_but_i_love_this/",
+      "score": 622,
+      "comments": 42,
+      "post_id": "t3_1n8c6lz",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "No-Investment2221",
+      "author_id": "t2_1h0jzb6m62",
+      "subreddit_id": "t5_5zvcfk",
+      "subreddit": "r/midjourney",
+      "created_ts": "2025-09-04T14:46:15.006000+0000",
+      "content_href": "https://v.redd.it/typ738vnu5nf1",
+      "content_preview": "AI Video - Midjourney",
+      "flair": [
+        "AI Video - Midjourney"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/it-may-be-dumb-but-i-love-this-v0-dXI3Mml2b251NW5mMQyk-CCdbDg5_Sac-PkoAOU4TgZWxn6Dhj0iMSrC7KDE.png?width=640&crop=smart&format=pjpg&auto=webp&s=d496fddcf1a1cde2f025ad4ce31b1adde3c5bb47",
+      "is_promoted": false
+    },
+    {
+      "title": "Revolving Floors",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n8saho/revolving_floors/",
+      "score": 210,
+      "comments": 16,
+      "post_id": "t3_1n8saho",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "metr0punk",
+      "author_id": "t2_1gy634796b",
+      "subreddit_id": "t5_5zvcfk",
+      "subreddit": "r/midjourney",
+      "created_ts": "2025-09-05T01:32:27.938000+0000",
+      "content_href": "https://v.redd.it/3sraelmy19nf1",
+      "content_preview": "AI Video - Midjourney",
+      "flair": [
+        "AI Video - Midjourney"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dbyosk/styles/profileIcon_9m3pa5x5icie1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d6e9f5c098943568e8422e52de7f3ab7fdb076bd",
+      "is_promoted": false
     },
     {
       "title": "All the rust…",
       "permalink": "https://www.reddit.com/r/midjourney/comments/1n0p5fh/all_the_rust/",
-      "score": 3160,
-      "comments": 105,
+      "score": 3181,
+      "comments": 106,
       "post_id": "t3_1n0p5fh",
       "post_type": "gallery",
       "domain": "reddit.com",
@@ -39,77 +140,58 @@
       "subreddit": "r/midjourney",
       "created_ts": "2025-08-26T15:35:43.546000+0000",
       "content_href": "https://www.reddit.com/gallery/1n0p5fh",
-      "content_preview": "",
+      "content_preview": "AI Showcase - Midjourney",
       "flair": [
         "AI Showcase - Midjourney"
       ],
-      "thumbnail_url": "https://preview.redd.it/all-the-rust-v0-rj2ic1eavdlf1.jpg?width=640&crop=smart&auto=webp&s=c0949f0bc34d07fe2beccf37c55a6d91452d8a35"
+      "thumbnail_url": "https://preview.redd.it/all-the-rust-v0-rj2ic1eavdlf1.jpg?width=640&crop=smart&auto=webp&s=c0949f0bc34d07fe2beccf37c55a6d91452d8a35",
+      "is_promoted": false
     },
     {
-      "title": "Art for my lan party board game",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n6cjia/art_for_my_lan_party_board_game/",
-      "score": 35,
-      "comments": 10,
-      "post_id": "t3_1n6cjia",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "JackIsack",
-      "author_id": "t2_2u7huidm",
-      "subreddit_id": "t5_5zvcfk",
-      "subreddit": "r/midjourney",
-      "created_ts": "2025-09-02T06:52:54.440000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n6cjia",
+      "title": "Make $1600+ this week at DataAnnotation.",
+      "permalink": "https://www.reddit.com/user/JeremyDataAnnotation/comments/1kwzazt/make_1600_this_week_at_dataannotation/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1kwzazt",
+      "post_type": "image",
+      "domain": "dataannotation.tech",
+      "author": "JeremyDataAnnotation",
+      "author_id": "t2_9zvxdmg5c",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-05-27T21:23:56.872000+0000",
+      "content_href": "https://www.dataannotation.tech/coders?projects=PROG_SA&worker_src=R&utm_source=reddit&utm_medium=display&utm_campaign={{CAMPAIGN_ID}}&utm_adgroup={{ADGROUP_ID}}&utm_content={{AD_ID}}",
       "content_preview": "",
-      "flair": [
-        "AI Showcase - Midjourney"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8ambxv/styles/profileIcon_snoob2c34cd4-2398-4845-8223-c58d33c8fe63-headshot.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=5dbda6e5a8dd470d919348dddafe75b8f4b4b4be",
+      "is_promoted": true
     },
     {
-      "title": "cyberpunk street life",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1mrf0rr/cyberpunk_street_life/",
-      "score": 2701,
-      "comments": 72,
-      "post_id": "t3_1mrf0rr",
+      "title": "Tides [Paint World 14]",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n8vfpe/tides_paint_world_14/",
+      "score": 44,
+      "comments": 3,
+      "post_id": "t3_1n8vfpe",
       "post_type": "video",
       "domain": "v.redd.it",
-      "author": "Independent_Art4955",
-      "author_id": "t2_use2q8u5",
+      "author": "mueducationresearch",
+      "author_id": "t2_bml5prfhc",
       "subreddit_id": "t5_5zvcfk",
       "subreddit": "r/midjourney",
-      "created_ts": "2025-08-16T00:08:57.275000+0000",
-      "content_href": "https://v.redd.it/f1qj3mvqw9jf1",
-      "content_preview": "",
+      "created_ts": "2025-09-05T04:08:54.004000+0000",
+      "content_href": "https://v.redd.it/nc3se0bqt9nf1",
+      "content_preview": "AI Video - Midjourney",
       "flair": [
         "AI Video - Midjourney"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/cyberpunk-street-life-v0-d3Z4bjNtdnF3OWpmMYCYymwafh6tM89EfY5AHWml7nUUeBHbMhsagBqGUs8q.png?width=640&crop=smart&format=pjpg&auto=webp&s=c90c874650bdef95ce6c49201c173369b006e18e"
-    },
-    {
-      "title": "The ritual",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n68pfe/the_ritual/",
-      "score": 29,
-      "comments": 0,
-      "post_id": "t3_1n68pfe",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "12washingbeard",
-      "author_id": "t2_epkq1",
-      "subreddit_id": "t5_5zvcfk",
-      "subreddit": "r/midjourney",
-      "created_ts": "2025-09-02T03:10:44.093000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n68pfe",
-      "content_preview": "",
-      "flair": [
-        "AI Showcase - Midjourney"
-      ],
-      "thumbnail_url": "https://preview.redd.it/the-ritual-v0-tuv91q1q4omf1.png?width=640&crop=smart&auto=webp&s=2c095f07e118d4906f742952b108a814ee5a1114"
+      "thumbnail_url": "https://external-preview.redd.it/tides-paint-world-14-v0-ZW0wdXU0dHB0OW5mMSmP5UDFoCsx1Nk25zRltkTiDh-iuQVE6EKoXaOhExZo.png?width=640&crop=smart&format=pjpg&auto=webp&s=849d113581e12e84af360b7cc6b842e3808c46bc",
+      "is_promoted": false
     },
     {
       "title": "I’m an artist who uses Midjourney and I have no regrets",
       "permalink": "https://www.reddit.com/r/midjourney/comments/1n43u60/im_an_artist_who_uses_midjourney_and_i_have_no/",
-      "score": 2758,
-      "comments": 211,
+      "score": 2851,
+      "comments": 210,
       "post_id": "t3_1n43u60",
       "post_type": "gallery",
       "domain": "reddit.com",
@@ -119,56 +201,204 @@
       "subreddit": "r/midjourney",
       "created_ts": "2025-08-30T15:02:22.469000+0000",
       "content_href": "https://www.reddit.com/gallery/1n43u60",
-      "content_preview": "",
+      "content_preview": "In The World - Midjourney AI",
       "flair": [
         "In The World - Midjourney AI"
       ],
-      "thumbnail_url": "https://preview.redd.it/im-an-artist-who-uses-midjourney-and-i-have-no-regrets-v0-na6qtbyt86mf1.jpg?width=640&crop=smart&auto=webp&s=21e2d694580e0a483468a052b9e4ece9143fdd73"
+      "thumbnail_url": "https://preview.redd.it/im-an-artist-who-uses-midjourney-and-i-have-no-regrets-v0-na6qtbyt86mf1.jpg?width=640&crop=smart&auto=webp&s=21e2d694580e0a483468a052b9e4ece9143fdd73",
+      "is_promoted": false
     },
     {
-      "title": "Working on a theme lately 😊",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n69lfe/working_on_a_theme_lately/",
-      "score": 22,
-      "comments": 0,
-      "post_id": "t3_1n69lfe",
+      "title": "Cat World pt. 2",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n8tm5x/cat_world_pt_2/",
+      "score": 36,
+      "comments": 1,
+      "post_id": "t3_1n8tm5x",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "SilverEmotional7924",
+      "author_id": "t2_1mb54hu4c4",
+      "subreddit_id": "t5_5zvcfk",
+      "subreddit": "r/midjourney",
+      "created_ts": "2025-09-05T02:36:04.344000+0000",
+      "content_href": "https://v.redd.it/39m7uk08d9nf1",
+      "content_preview": "AI Video - Midjourney",
+      "flair": [
+        "AI Video - Midjourney"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/cat-world-pt-2-v0-MmxmaGdidjdkOW5mMchw6MM9haXH_l4Tk9pUWupGdb7sK-6l24yNOv14tMmj.png?width=640&crop=smart&format=pjpg&auto=webp&s=825d6ea68e02f4884b98e1b8b2714c5ca86e2c08",
+      "is_promoted": false
+    },
+    {
+      "title": "Middle-earth fiat currencies",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n911ql/middleearth_fiat_currencies/",
+      "score": 5,
+      "comments": 1,
+      "post_id": "t3_1n911ql",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "According-Stay-3374",
-      "author_id": "t2_1hbc1z04m7",
+      "author": "Zaicab",
+      "author_id": "t2_v1n42x0o",
       "subreddit_id": "t5_5zvcfk",
       "subreddit": "r/midjourney",
-      "created_ts": "2025-09-02T03:57:00.254000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n69lfe",
-      "content_preview": "",
+      "created_ts": "2025-09-05T09:57:32.087000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n911ql",
+      "content_preview": "AI Showcase+Prompt - Midjourney",
       "flair": [
-        "AI Showcase - Midjourney"
+        "AI Showcase+Prompt - Midjourney"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_ddd3vi/styles/profileIcon_vkakx116o1mf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=59d5c113cd5a7b28ed05b2383285e07bf7437917"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7lno6m/styles/profileIcon_13db849il4ee1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=44f8634d5860bac1088b3a0b583accc1e626ab39",
+      "is_promoted": false
     },
     {
-      "title": "H.P Lovecraft Relief of the Elder",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n6dn33/hp_lovecraft_relief_of_the_elder/",
-      "score": 1,
-      "comments": 0,
-      "post_id": "t3_1n6dn33",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Lumo59",
-      "author_id": "t2_1j6k861yfd",
+      "title": "cyberpunk street life",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1mrf0rr/cyberpunk_street_life/",
+      "score": 2726,
+      "comments": 74,
+      "post_id": "t3_1mrf0rr",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Independent_Art4955",
+      "author_id": "t2_use2q8u5",
       "subreddit_id": "t5_5zvcfk",
       "subreddit": "r/midjourney",
-      "created_ts": "2025-09-02T08:05:04.070000+0000",
-      "content_href": "https://i.redd.it/nmrwwdr9lpmf1.jpeg",
-      "content_preview": "",
+      "created_ts": "2025-08-16T00:08:57.275000+0000",
+      "content_href": "https://v.redd.it/f1qj3mvqw9jf1",
+      "content_preview": "AI Video - Midjourney",
+      "flair": [
+        "AI Video - Midjourney"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/cyberpunk-street-life-v0-d3Z4bjNtdnF3OWpmMYCYymwafh6tM89EfY5AHWml7nUUeBHbMhsagBqGUs8q.png?width=640&crop=smart&format=pjpg&auto=webp&s=c90c874650bdef95ce6c49201c173369b006e18e",
+      "is_promoted": false
+    },
+    {
+      "title": "Morticia",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n882li/morticia/",
+      "score": 265,
+      "comments": 4,
+      "post_id": "t3_1n882li",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Zenchilada",
+      "author_id": "t2_r2gxa5b",
+      "subreddit_id": "t5_5zvcfk",
+      "subreddit": "r/midjourney",
+      "created_ts": "2025-09-04T11:55:24.720000+0000",
+      "content_href": "https://i.redd.it/7higjr3sz4nf1.png",
+      "content_preview": "AI Showcase - Midjourney",
       "flair": [
         "AI Showcase - Midjourney"
       ],
-      "thumbnail_url": "https://preview.redd.it/h-p-lovecraft-relief-of-the-elder-v0-nmrwwdr9lpmf1.jpeg?width=640&crop=smart&auto=webp&s=d71dff646cfd2b34916c6617d59b5c9e77304225"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_o97b0/styles/profileIcon_5n5shsczjhoc1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5803b093f8ad09b5b5e5f8fdf7a8b05810548c35",
+      "is_promoted": false
+    },
+    {
+      "title": "Cyberpunk market",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n3obik/cyberpunk_market/",
+      "score": 1502,
+      "comments": 56,
+      "post_id": "t3_1n3obik",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Independent_Art4955",
+      "author_id": "t2_use2q8u5",
+      "subreddit_id": "t5_5zvcfk",
+      "subreddit": "r/midjourney",
+      "created_ts": "2025-08-30T00:50:08.111000+0000",
+      "content_href": "https://v.redd.it/envt6ftu02mf1",
+      "content_preview": "AI Video - Midjourney",
+      "flair": [
+        "AI Video - Midjourney"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/cyberpunk-market-v0-a2k0aTRndHUwMm1mMSLGYOheFFpDtkWVsUf51H4HeAGHZaOcIclJkLJ3_OCA.png?width=640&crop=smart&format=pjpg&auto=webp&s=1b94744df497068014b4ba4730810112dec1a087",
+      "is_promoted": false
+    },
+    {
+      "title": "Leave the home security DIYs to the professionals. ADT's DIY system gives you smarter, more reliable home security, starting at just $199*.",
+      "permalink": "https://www.reddit.com/user/ADT-Official/comments/1mtx0o3/leave_the_home_security_diys_to_the_professionals/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mtx0o3",
+      "post_type": "gallery",
+      "domain": "adt.com",
+      "author": "ADT-Official",
+      "author_id": "t2_njwz7js68",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-18T20:09:37.027000+0000",
+      "content_href": "https://www.adt.com/deals/equipment-specials?ecid=R_DM_PSL_HZN_RDT_CONSIDERATION-2025-AD-8&utm_source=reddit-na&utm_medium=paidsocial&utm_campaign=PSL-ps-visit-%ebuy!-%epid!&utm_content=%ecid!",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_axl4xj/styles/profileIcon_1znqaoz34bmc1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=e1002ef12f732c7cd78426534e320bfcaeb821a1",
+      "is_promoted": true
+    },
+    {
+      "title": "Devils Price",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n8olxn/devils_price/",
+      "score": 31,
+      "comments": 0,
+      "post_id": "t3_1n8olxn",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Sapere_aude_69",
+      "author_id": "t2_1k4c50ytln",
+      "subreddit_id": "t5_5zvcfk",
+      "subreddit": "r/midjourney",
+      "created_ts": "2025-09-04T22:44:53.786000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8olxn",
+      "content_preview": "AI Showcase - Midjourney",
+      "flair": [
+        "AI Showcase - Midjourney"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dq2tl0/styles/profileIcon_1wcc55ajekle1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8d5c8c9f04d2312fb76c7f7ed5fb0c3198a0fb3a",
+      "is_promoted": false
+    },
+    {
+      "title": "Ave Imperator",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n5mijr/ave_imperator/",
+      "score": 1432,
+      "comments": 80,
+      "post_id": "t3_1n5mijr",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Independent_Art4955",
+      "author_id": "t2_use2q8u5",
+      "subreddit_id": "t5_5zvcfk",
+      "subreddit": "r/midjourney",
+      "created_ts": "2025-09-01T11:46:20.081000+0000",
+      "content_href": "https://v.redd.it/bq3mihmojjmf1",
+      "content_preview": "AI Video - Midjourney",
+      "flair": [
+        "AI Video - Midjourney"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/ave-imperator-v0-YTFvNXFobW9qam1mMU3li4xlIGFDRhZ8P8bZmdzTr-xc3WJk_Xw5DYtvLVDM.png?width=640&crop=smart&format=pjpg&auto=webp&s=07aac76944cdef6db1b22de2b59a08c159d601d9",
+      "is_promoted": false
+    },
+    {
+      "title": "THE EMBER & THE ICE",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n8i0uz/the_ember_the_ice/",
+      "score": 44,
+      "comments": 3,
+      "post_id": "t3_1n8i0uz",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Independent_Art4955",
+      "author_id": "t2_use2q8u5",
+      "subreddit_id": "t5_5zvcfk",
+      "subreddit": "r/midjourney",
+      "created_ts": "2025-09-04T18:24:59.848000+0000",
+      "content_href": "https://v.redd.it/bgy4jpwtw6nf1",
+      "content_preview": "AI Video - Midjourney",
+      "flair": [
+        "AI Video - Midjourney"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/the-ember-the-ice-v0-MXBvMDZ3d3R3Nm5mMTYxckFYl4xu2K3XW4yhCerTzbHM7PwQFciKSX_esESZ.png?width=640&crop=smart&format=pjpg&auto=webp&s=f1e2d9919d1c600154796371a52515e169c44621",
+      "is_promoted": false
     },
     {
       "title": "Paint Flight Simulator",
       "permalink": "https://www.reddit.com/r/midjourney/comments/1mor2da/paint_flight_simulator/",
-      "score": 2478,
+      "score": 2490,
       "comments": 39,
       "post_id": "t3_1mor2da",
       "post_type": "video",
@@ -179,117 +409,18 @@
       "subreddit": "r/midjourney",
       "created_ts": "2025-08-13T01:21:29.010000+0000",
       "content_href": "https://v.redd.it/fyot0u4buoif1",
-      "content_preview": "",
+      "content_preview": "AI Video - Midjourney",
       "flair": [
         "AI Video - Midjourney"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/paint-flight-simulator-v0-MWx1NDl1NGJ1b2lmMayXJFb5bpjF0HlYTCAXPsBctNnGPjbkleausTHoYxlf.png?width=640&crop=smart&format=pjpg&auto=webp&s=4123355b6fba70fb9ea44a972e0c0a81843c659e"
-    },
-    {
-      "title": "The city gates",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n68wmw/the_city_gates/",
-      "score": 22,
-      "comments": 1,
-      "post_id": "t3_1n68wmw",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Mysterious_Pop3090",
-      "author_id": "t2_1l00n2rrbc",
-      "subreddit_id": "t5_5zvcfk",
-      "subreddit": "r/midjourney",
-      "created_ts": "2025-09-02T03:20:44.279000+0000",
-      "content_href": "https://i.redd.it/150u4cij6omf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "AI Showcase - Midjourney"
-      ],
-      "thumbnail_url": "https://preview.redd.it/the-city-gates-v0-150u4cij6omf1.jpeg?width=640&crop=smart&auto=webp&s=e2da2a48aa0b1e2670c023d5f935e22a9866c7a3"
-    },
-    {
-      "title": "Cyberpunk market",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n3obik/cyberpunk_market/",
-      "score": 1409,
-      "comments": 51,
-      "post_id": "t3_1n3obik",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Independent_Art4955",
-      "author_id": "t2_use2q8u5",
-      "subreddit_id": "t5_5zvcfk",
-      "subreddit": "r/midjourney",
-      "created_ts": "2025-08-30T00:50:08.111000+0000",
-      "content_href": "https://v.redd.it/envt6ftu02mf1",
-      "content_preview": "",
-      "flair": [
-        "AI Video - Midjourney"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/cyberpunk-market-v0-a2k0aTRndHUwMm1mMSLGYOheFFpDtkWVsUf51H4HeAGHZaOcIclJkLJ3_OCA.png?width=640&crop=smart&format=pjpg&auto=webp&s=1b94744df497068014b4ba4730810112dec1a087"
-    },
-    {
-      "title": "Flowers of the pond",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n69wb6/flowers_of_the_pond/",
-      "score": 12,
-      "comments": 0,
-      "post_id": "t3_1n69wb6",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Disnogood66",
-      "author_id": "t2_9qox4uvb",
-      "subreddit_id": "t5_5zvcfk",
-      "subreddit": "r/midjourney",
-      "created_ts": "2025-09-02T04:13:12.808000+0000",
-      "content_href": "https://i.redd.it/fqoh3umwfomf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "AI Showcase - Midjourney"
-      ],
-      "thumbnail_url": "https://preview.redd.it/flowers-of-the-pond-v0-fqoh3umwfomf1.jpeg?width=640&crop=smart&auto=webp&s=ed396565fb2343bd5c237671885f8481fd990cf3"
-    },
-    {
-      "title": "Been building this sci fi vampire universe, welcome to The Crimson Web",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n3ssxh/been_building_this_sci_fi_vampire_universe/",
-      "score": 1249,
-      "comments": 177,
-      "post_id": "t3_1n3ssxh",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "VisionaryVistas",
-      "author_id": "t2_1wq80t02bf",
-      "subreddit_id": "t5_5zvcfk",
-      "subreddit": "r/midjourney",
-      "created_ts": "2025-08-30T04:45:05.282000+0000",
-      "content_href": "https://v.redd.it/8qgs9xjt63mf1",
-      "content_preview": "",
-      "flair": [
-        "AI Video - Midjourney"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/been-building-this-sci-fi-vampire-universe-welcome-to-the-v0-bmx1bHdhZHQ2M21mMSWTzFctgxO6W7u9BQ91pXitY4fSjrj4Wkq5mbDrkt1n.png?width=640&crop=smart&format=pjpg&auto=webp&s=75f2d8930181be66579233540b1b9522f6685567"
-    },
-    {
-      "title": "Branches of Silence",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n658kv/branches_of_silence/",
-      "score": 22,
-      "comments": 0,
-      "post_id": "t3_1n658kv",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "ami-am",
-      "author_id": "t2_on0c8euyo",
-      "subreddit_id": "t5_5zvcfk",
-      "subreddit": "r/midjourney",
-      "created_ts": "2025-09-02T00:21:53.509000+0000",
-      "content_href": "https://i.redd.it/gzty01wmanmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "AI Showcase - Midjourney"
-      ],
-      "thumbnail_url": "https://preview.redd.it/branches-of-silence-v0-gzty01wmanmf1.jpeg?width=640&crop=smart&auto=webp&s=40fbdbd81c7d36c6e08e96e8d13c4a9b5c72b45b"
+      "thumbnail_url": "https://external-preview.redd.it/paint-flight-simulator-v0-MWx1NDl1NGJ1b2lmMayXJFb5bpjF0HlYTCAXPsBctNnGPjbkleausTHoYxlf.png?width=640&crop=smart&format=pjpg&auto=webp&s=4123355b6fba70fb9ea44a972e0c0a81843c659e",
+      "is_promoted": false
     },
     {
       "title": "Assassin's Creed Video Game In Russia (Prompts Included)",
       "permalink": "https://www.reddit.com/r/midjourney/comments/1mx4z4w/assassins_creed_video_game_in_russia_prompts/",
-      "score": 2101,
-      "comments": 88,
+      "score": 2111,
+      "comments": 89,
       "post_id": "t3_1mx4z4w",
       "post_type": "video",
       "domain": "v.redd.it",
@@ -299,56 +430,162 @@
       "subreddit": "r/midjourney",
       "created_ts": "2025-08-22T12:20:42.676000+0000",
       "content_href": "https://v.redd.it/tozxxxftckkf1",
-      "content_preview": "",
+      "content_preview": "AI Video - Midjourney",
       "flair": [
         "AI Video - Midjourney"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_40k1cm/styles/profileIcon_abswvxv9vxtd1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7a00a0cfc3108abe3f9f450e04a396f6004c67c7"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_40k1cm/styles/profileIcon_abswvxv9vxtd1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7a00a0cfc3108abe3f9f450e04a396f6004c67c7",
+      "is_promoted": false
     },
     {
-      "title": "Alice unraveled",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n6d3ko/alice_unraveled/",
-      "score": 5,
+      "title": "Promenade",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n8lug3/promenade/",
+      "score": 28,
       "comments": 0,
-      "post_id": "t3_1n6d3ko",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "SilverEmotional7924",
-      "author_id": "t2_1mb54hu4c4",
+      "post_id": "t3_1n8lug3",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "jagdeep_sp",
+      "author_id": "t2_5azaq4zf",
       "subreddit_id": "t5_5zvcfk",
       "subreddit": "r/midjourney",
-      "created_ts": "2025-09-02T07:29:31.750000+0000",
-      "content_href": "https://v.redd.it/19lxzotuepmf1",
-      "content_preview": "",
-      "flair": [
-        "AI Video - Midjourney"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/alice-unraveled-v0-c3J1ZXpsb3VlcG1mMfLnrsfwer-Ci8C1OBk3JWohnAuQWIBpwlALhG43X3fc.png?width=640&crop=smart&format=pjpg&auto=webp&s=bbad46fa4ae9a161fbca05bc852a50be9940674a"
-    },
-    {
-      "title": "Trying to cross Fantasy and Cyberpunk 😊",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n5x5rd/trying_to_cross_fantasy_and_cyberpunk/",
-      "score": 52,
-      "comments": 4,
-      "post_id": "t3_1n5x5rd",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "According-Stay-3374",
-      "author_id": "t2_1hbc1z04m7",
-      "subreddit_id": "t5_5zvcfk",
-      "subreddit": "r/midjourney",
-      "created_ts": "2025-09-01T18:48:02.023000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5x5rd",
-      "content_preview": "",
+      "created_ts": "2025-09-04T20:51:42.199000+0000",
+      "content_href": "https://i.redd.it/6c8o3e7vn7nf1.jpeg",
+      "content_preview": "AI Showcase - Midjourney",
       "flair": [
         "AI Showcase - Midjourney"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_ddd3vi/styles/profileIcon_vkakx116o1mf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=59d5c113cd5a7b28ed05b2383285e07bf7437917"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Tunnels of Grief",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n891dh/tunnels_of_grief/",
+      "score": 110,
+      "comments": 13,
+      "post_id": "t3_1n891dh",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "metr0punk",
+      "author_id": "t2_1gy634796b",
+      "subreddit_id": "t5_5zvcfk",
+      "subreddit": "r/midjourney",
+      "created_ts": "2025-09-04T12:41:01.422000+0000",
+      "content_href": "https://v.redd.it/7rl6wzrb85nf1",
+      "content_preview": "AI Video - Midjourney",
+      "flair": [
+        "AI Video - Midjourney"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dbyosk/styles/profileIcon_9m3pa5x5icie1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d6e9f5c098943568e8422e52de7f3ab7fdb076bd",
+      "is_promoted": false
+    },
+    {
+      "title": "Build a robust strategy that protects both physical and digital assets with tailored solutions from CDW.",
+      "permalink": "https://www.reddit.com/user/CDW_Corporation/comments/1mw7t7s/build_a_robust_strategy_that_protects_both/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mw7t7s",
+      "post_type": "gallery",
+      "domain": "cdw.com",
+      "author": "CDW_Corporation",
+      "author_id": "t2_4ig2oivj",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-21T11:04:16.865000+0000",
+      "content_href": "https://www.cdw.com/content/cdw/en/solutions/cybersecurity/physical-security.html?cm_ven=SocialMediaPaid&cm_cat=Reddit&cm_pla=MKT87203adu0000P43885&cm_ite=43885_25Q3MKT87203_Security-PhysicalSecurity_CMP1694_SolutionsandServices_CDWPartner_Subcampaign_08.27.25_LandingPageViews_Campaign_CarouselImageLink_Interests_Copy2_Card1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_24ysal/styles/profileIcon_e78o61ibxhoc1.jpeg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=9b767a7696dfe0a0a557feaad1478eb9367911c0",
+      "is_promoted": true
+    },
+    {
+      "title": "Been building this sci fi vampire universe, welcome to The Crimson Web",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n3ssxh/been_building_this_sci_fi_vampire_universe/",
+      "score": 1317,
+      "comments": 183,
+      "post_id": "t3_1n3ssxh",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "VisionaryVistas",
+      "author_id": "t2_1wq80t02bf",
+      "subreddit_id": "t5_5zvcfk",
+      "subreddit": "r/midjourney",
+      "created_ts": "2025-08-30T04:45:05.282000+0000",
+      "content_href": "https://v.redd.it/8qgs9xjt63mf1",
+      "content_preview": "AI Video - Midjourney",
+      "flair": [
+        "AI Video - Midjourney"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/been-building-this-sci-fi-vampire-universe-welcome-to-the-v0-bmx1bHdhZHQ2M21mMSWTzFctgxO6W7u9BQ91pXitY4fSjrj4Wkq5mbDrkt1n.png?width=640&crop=smart&format=pjpg&auto=webp&s=75f2d8930181be66579233540b1b9522f6685567",
+      "is_promoted": false
+    },
+    {
+      "title": "Excuse me, do you have sour patch kids blue raspberry?",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n8yf5g/excuse_me_do_you_have_sour_patch_kids_blue/",
+      "score": 9,
+      "comments": 1,
+      "post_id": "t3_1n8yf5g",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Nuumet",
+      "author_id": "t2_1hznb27286",
+      "subreddit_id": "t5_5zvcfk",
+      "subreddit": "r/midjourney",
+      "created_ts": "2025-09-05T07:05:36.350000+0000",
+      "content_href": "https://i.redd.it/1rxtryg4panf1.png",
+      "content_preview": "AI Showcase - Midjourney",
+      "flair": [
+        "AI Showcase - Midjourney"
+      ],
+      "thumbnail_url": "https://preview.redd.it/excuse-me-do-you-have-sour-patch-kids-blue-raspberry-v0-1rxtryg4panf1.png?width=640&crop=smart&auto=webp&s=77d627b5f5236e41288fcd26045ec3debc190bc7",
+      "is_promoted": false
+    },
+    {
+      "title": "Defeated King",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n8i00r/defeated_king/",
+      "score": 29,
+      "comments": 0,
+      "post_id": "t3_1n8i00r",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Disnogood66",
+      "author_id": "t2_9qox4uvb",
+      "subreddit_id": "t5_5zvcfk",
+      "subreddit": "r/midjourney",
+      "created_ts": "2025-09-04T18:24:06.963000+0000",
+      "content_href": "https://i.redd.it/go1l9xgjx6nf1.jpeg",
+      "content_preview": "AI Showcase - Midjourney",
+      "flair": [
+        "AI Showcase - Midjourney"
+      ],
+      "thumbnail_url": "https://preview.redd.it/defeated-king-v0-go1l9xgjx6nf1.jpeg?width=640&crop=smart&auto=webp&s=1544b608cce387ffeb438080a4b538519af60885",
+      "is_promoted": false
+    },
+    {
+      "title": "Alice in Gangland",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n61x6y/alice_in_gangland/",
+      "score": 1311,
+      "comments": 23,
+      "post_id": "t3_1n61x6y",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Zaicab",
+      "author_id": "t2_v1n42x0o",
+      "subreddit_id": "t5_5zvcfk",
+      "subreddit": "r/midjourney",
+      "created_ts": "2025-09-01T21:53:08.907000+0000",
+      "content_href": "https://i.redd.it/8y24fli3kmmf1.png",
+      "content_preview": "AI Showcase+Prompt - Midjourney",
+      "flair": [
+        "AI Showcase+Prompt - Midjourney"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7lno6m/styles/profileIcon_13db849il4ee1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=44f8634d5860bac1088b3a0b583accc1e626ab39",
+      "is_promoted": false
     },
     {
       "title": "Mage Block",
       "permalink": "https://www.reddit.com/r/midjourney/comments/1mqmm7e/mage_block/",
-      "score": 1881,
+      "score": 1884,
       "comments": 87,
       "post_id": "t3_1mqmm7e",
       "post_type": "video",
@@ -359,36 +596,17 @@
       "subreddit": "r/midjourney",
       "created_ts": "2025-08-15T03:45:59.798000+0000",
       "content_href": "https://v.redd.it/txn5r29lu3jf1",
-      "content_preview": "",
+      "content_preview": "AI Video - Midjourney",
       "flair": [
         "AI Video - Midjourney"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_auo4ra/styles/profileIcon_ype3e5vyazoe1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=60f3a5fe194f5ccabf776abd202a36a91f7b5f81"
-    },
-    {
-      "title": "Is this shocking enough?",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n6cbzd/is_this_shocking_enough/",
-      "score": 2,
-      "comments": 3,
-      "post_id": "t3_1n6cbzd",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Sea-Part-6985",
-      "author_id": "t2_1u1z8hwf0k",
-      "subreddit_id": "t5_5zvcfk",
-      "subreddit": "r/midjourney",
-      "created_ts": "2025-09-02T06:39:06.059000+0000",
-      "content_href": "https://v.redd.it/2dcgrxtw5pmf1",
-      "content_preview": "",
-      "flair": [
-        "AI Video - Midjourney"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_ezlv5z/styles/profileIcon_7sqaz1o47bef1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a86df3ae7e8d825357a5b1b225659587272294dd"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_auo4ra/styles/profileIcon_ype3e5vyazoe1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=60f3a5fe194f5ccabf776abd202a36a91f7b5f81",
+      "is_promoted": false
     },
     {
       "title": "golden age.",
       "permalink": "https://www.reddit.com/r/midjourney/comments/1mu78ca/golden_age/",
-      "score": 1837,
+      "score": 1846,
       "comments": 82,
       "post_id": "t3_1mu78ca",
       "post_type": "gallery",
@@ -399,76 +617,99 @@
       "subreddit": "r/midjourney",
       "created_ts": "2025-08-19T03:16:39.866000+0000",
       "content_href": "https://www.reddit.com/gallery/1mu78ca",
-      "content_preview": "",
+      "content_preview": "AI Showcase - Midjourney",
       "flair": [
         "AI Showcase - Midjourney"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_bkm8ys/styles/profileIcon_1dah25oixjle1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=858ac471a41e40b43c80ff876a92a1caff49a2f7"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bkm8ys/styles/profileIcon_1dah25oixjle1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=858ac471a41e40b43c80ff876a92a1caff49a2f7",
+      "is_promoted": false
     },
     {
-      "title": "Bringing cyberpunk Y2K into trend?",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n3bfzu/bringing_cyberpunk_y2k_into_trend/",
-      "score": 942,
-      "comments": 56,
-      "post_id": "t3_1n3bfzu",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "No-Investment2221",
-      "author_id": "t2_1h0jzb6m62",
-      "subreddit_id": "t5_5zvcfk",
-      "subreddit": "r/midjourney",
-      "created_ts": "2025-08-29T16:03:33.534000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n3bfzu",
-      "content_preview": "",
-      "flair": [
-        "AI Showcase - Midjourney"
-      ],
-      "thumbnail_url": "https://preview.redd.it/bringing-cyberpunk-y2k-into-trend-v0-47xj3fizezlf1.jpg?width=640&crop=smart&auto=webp&s=d13fd4d840d93b8ab9f2de3776cee14fafc68caa"
-    },
-    {
-      "title": "The House that Breathes",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n5bxyq/the_house_that_breathes/",
-      "score": 532,
-      "comments": 37,
-      "post_id": "t3_1n5bxyq",
+      "title": "Shaft City",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n8jf72/shaft_city/",
+      "score": 19,
+      "comments": 0,
+      "post_id": "t3_1n8jf72",
       "post_type": "video",
       "domain": "v.redd.it",
-      "author": "metr0punk",
-      "author_id": "t2_1gy634796b",
+      "author": "Lumo59",
+      "author_id": "t2_1j6k861yfd",
       "subreddit_id": "t5_5zvcfk",
       "subreddit": "r/midjourney",
-      "created_ts": "2025-09-01T01:37:07.724000+0000",
-      "content_href": "https://v.redd.it/bbzqg4b5jgmf1",
-      "content_preview": "",
+      "created_ts": "2025-09-04T19:18:05.745000+0000",
+      "content_href": "https://v.redd.it/lwznzag577nf1",
+      "content_preview": "AI Video - Midjourney",
       "flair": [
         "AI Video - Midjourney"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_dbyosk/styles/profileIcon_9m3pa5x5icie1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d6e9f5c098943568e8422e52de7f3ab7fdb076bd"
+      "thumbnail_url": "https://external-preview.redd.it/shaft-city-v0-ZGM2d2s5YjU3N25mMdFqwEqxwcDKqGBPyPMTg2Okurx7STEup12GHSdXualP.png?format=pjpg&auto=webp&s=63715b9981b5419606a4caef6eca365a1838e262",
+      "is_promoted": false
     },
     {
-      "title": "A river in the jungle.",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n6blhu/a_river_in_the_jungle/",
-      "score": 7,
-      "comments": 0,
-      "post_id": "t3_1n6blhu",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Mysterious_Pop3090",
-      "author_id": "t2_1l00n2rrbc",
+      "title": "Retrofuturist Istanbul",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n7bw37/retrofuturist_istanbul/",
+      "score": 1252,
+      "comments": 49,
+      "post_id": "t3_1n7bw37",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Zaicab",
+      "author_id": "t2_v1n42x0o",
       "subreddit_id": "t5_5zvcfk",
       "subreddit": "r/midjourney",
-      "created_ts": "2025-09-02T05:53:21.496000+0000",
-      "content_href": "https://i.redd.it/ap72wrrrxomf1.jpeg",
-      "content_preview": "",
+      "created_ts": "2025-09-03T11:10:44.191000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7bw37",
+      "content_preview": "AI Showcase+Prompt - Midjourney",
       "flair": [
-        "AI Showcase - Midjourney"
+        "AI Showcase+Prompt - Midjourney"
       ],
-      "thumbnail_url": "https://preview.redd.it/a-river-in-the-jungle-v0-ap72wrrrxomf1.jpeg?width=640&crop=smart&auto=webp&s=a665b400cd1f86cb21dd2d690e432af78142c6ef"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7lno6m/styles/profileIcon_13db849il4ee1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=44f8634d5860bac1088b3a0b583accc1e626ab39",
+      "is_promoted": false
+    },
+    {
+      "title": "There's no impact on your personal credit score to learn if you're approved for a Card. Terms apply.",
+      "permalink": "https://www.reddit.com/user/AmexBusiness/comments/1ld63uv/theres_no_impact_on_your_personal_credit_score_to/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1ld63uv",
+      "post_type": "image",
+      "domain": "americanexpress.com",
+      "author": "AmexBusiness",
+      "author_id": "t2_d9kcz745",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-06-16T22:01:27.922000+0000",
+      "content_href": "https://ad.doubleclick.net/ddm/trackclk/N553.131843REDDITINC/B32545608.415526539;dc_trk_aid=608081617;dc_trk_cid=221177225;dc_lat=;dc_rdid={{ADVERTISING_ID}};tag_for_child_directed_treatment=;tfua=;;dc_tdv=1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4qxpjj/styles/profileIcon_05t28pk80t491.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=dbf2be997a53f0075d5070c34ed9ef3c177733d1",
+      "is_promoted": true
+    },
+    {
+      "title": "Warner Bros Discovery sues AI photo generator Midjourney for stealing Superman, Scooby-Doo",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n8y27r/warner_bros_discovery_sues_ai_photo_generator/",
+      "score": 9,
+      "comments": 0,
+      "post_id": "t3_1n8y27r",
+      "post_type": "link",
+      "domain": "reuters.com",
+      "author": "thebelsnickle1991",
+      "author_id": "t2_600muuy8",
+      "subreddit_id": "t5_5zvcfk",
+      "subreddit": "r/midjourney",
+      "created_ts": "2025-09-05T06:43:11.608000+0000",
+      "content_href": "https://www.reuters.com/legal/litigation/warner-bros-discovery-sues-ai-photo-generator-midjourney-stealing-superman-2025-09-04/",
+      "content_preview": "Discussion - Midjourney AI",
+      "flair": [
+        "Discussion - Midjourney AI"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2id8xj/styles/profileIcon_9os2yf2w925f1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7edf0275b973dda369137e49b64073cb5294ee29",
+      "is_promoted": false
     },
     {
       "title": "Oh the creatures you will find… (90s fpv video game nostalgia)",
       "permalink": "https://www.reddit.com/r/midjourney/comments/1mmxscd/oh_the_creatures_you_will_find_90s_fpv_video_game/",
-      "score": 1617,
+      "score": 1628,
       "comments": 50,
       "post_id": "t3_1mmxscd",
       "post_type": "video",
@@ -479,56 +720,38 @@
       "subreddit": "r/midjourney",
       "created_ts": "2025-08-10T23:43:32.001000+0000",
       "content_href": "https://v.redd.it/8o0k22pp3aif1",
-      "content_preview": "",
+      "content_preview": "AI Video - Midjourney",
       "flair": [
         "AI Video - Midjourney"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/oh-the-creatures-you-will-find-90s-fpv-video-game-nostalgia-v0-Z3F5bmFxa3AzYWlmMQ5uyiLA673K2IR_yVYhTzi8dMWu3Z7kqcCKOZjrZvyJ.png?format=pjpg&auto=webp&s=03f679b398fd09ac0f9f4ead39f1d2e01fc67017"
+      "thumbnail_url": "https://external-preview.redd.it/oh-the-creatures-you-will-find-90s-fpv-video-game-nostalgia-v0-Z3F5bmFxa3AzYWlmMQ5uyiLA673K2IR_yVYhTzi8dMWu3Z7kqcCKOZjrZvyJ.png?format=pjpg&auto=webp&s=03f679b398fd09ac0f9f4ead39f1d2e01fc67017",
+      "is_promoted": false
     },
     {
-      "title": "Colourfull night",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n5th7t/colourfull_night/",
-      "score": 31,
-      "comments": 0,
-      "post_id": "t3_1n5th7t",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "JonasMJsweden",
-      "author_id": "t2_h8pnfwvuo",
+      "title": "James Ensor meets MidJourney — Venetian masquerade with skeletons (30s cinematic cut)",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n8j7k4/james_ensor_meets_midjourney_venetian_masquerade/",
+      "score": 15,
+      "comments": 1,
+      "post_id": "t3_1n8j7k4",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "FraimitAI",
+      "author_id": "t2_1wz3ywcoh1",
       "subreddit_id": "t5_5zvcfk",
       "subreddit": "r/midjourney",
-      "created_ts": "2025-09-01T16:32:44.791000+0000",
-      "content_href": "https://i.redd.it/shpvee9tykmf1.png",
-      "content_preview": "",
+      "created_ts": "2025-09-04T19:09:57.554000+0000",
+      "content_href": "https://v.redd.it/5zn4ez4m57nf1",
+      "content_preview": "AI Video - Midjourney",
       "flair": [
-        "AI Showcase - Midjourney"
+        "AI Video - Midjourney"
       ],
-      "thumbnail_url": "https://preview.redd.it/colourfull-night-v0-shpvee9tykmf1.png?width=640&crop=smart&auto=webp&s=3b64ed9717548eb2919d6a8cff367754ce58f1d2"
-    },
-    {
-      "title": "Created something cool.",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n64170/created_something_cool/",
-      "score": 8,
-      "comments": 0,
-      "post_id": "t3_1n64170",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Time-Inflation2991",
-      "author_id": "t2_tsuks64a",
-      "subreddit_id": "t5_5zvcfk",
-      "subreddit": "r/midjourney",
-      "created_ts": "2025-09-01T23:25:15.287000+0000",
-      "content_href": "https://i.redd.it/6eloj00j0nmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "AI Showcase - Midjourney"
-      ],
-      "thumbnail_url": "https://preview.redd.it/created-something-cool-v0-6eloj00j0nmf1.jpeg?width=640&crop=smart&auto=webp&s=0cbac31fc22151b4683bd38065a4a9f29e8fb459"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_fbwzpg/styles/profileIcon_19s1on8bdwmf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=67e5015a78fb17db957f0f9a95808dfcdec64291",
+      "is_promoted": false
     },
     {
       "title": "Pages from a lost Star Wars concept art book by Ralph MacQuarrie",
       "permalink": "https://www.reddit.com/r/midjourney/comments/1mmc8c5/pages_from_a_lost_star_wars_concept_art_book_by/",
-      "score": 1433,
+      "score": 1436,
       "comments": 63,
       "post_id": "t3_1mmc8c5",
       "post_type": "gallery",
@@ -539,96 +762,38 @@
       "subreddit": "r/midjourney",
       "created_ts": "2025-08-10T07:22:11.409000+0000",
       "content_href": "https://www.reddit.com/gallery/1mmc8c5",
-      "content_preview": "",
+      "content_preview": "AI Showcase+Prompt - Midjourney",
       "flair": [
         "AI Showcase+Prompt - Midjourney"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
-      "title": "Viennoiserie",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n5q27o/viennoiserie/",
-      "score": 42,
-      "comments": 0,
-      "post_id": "t3_1n5q27o",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "imaginaryartbytes",
-      "author_id": "t2_1vr5df5uxs",
+      "title": "Bringing cyberpunk Y2K into trend?",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n3bfzu/bringing_cyberpunk_y2k_into_trend/",
+      "score": 962,
+      "comments": 56,
+      "post_id": "t3_1n3bfzu",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "No-Investment2221",
+      "author_id": "t2_1h0jzb6m62",
       "subreddit_id": "t5_5zvcfk",
       "subreddit": "r/midjourney",
-      "created_ts": "2025-09-01T14:23:19.913000+0000",
-      "content_href": "https://i.redd.it/2havr3eqbkmf1.png",
-      "content_preview": "",
+      "created_ts": "2025-08-29T16:03:33.534000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n3bfzu",
+      "content_preview": "AI Showcase - Midjourney",
       "flair": [
         "AI Showcase - Midjourney"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_f6o9ns/styles/profileIcon_c8gqngdj88jf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fe6a3656be14dfde7ba14d8e2c2b8ae3189d4c03"
-    },
-    {
-      "title": "Luminous Cybernetica",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n60u2j/luminous_cybernetica/",
-      "score": 11,
-      "comments": 0,
-      "post_id": "t3_1n60u2j",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Grimdank_Art",
-      "author_id": "t2_1wpeb0iec1",
-      "subreddit_id": "t5_5zvcfk",
-      "subreddit": "r/midjourney",
-      "created_ts": "2025-09-01T21:08:55.707000+0000",
-      "content_href": "https://i.redd.it/khhpj6h7cmmf1.png",
-      "content_preview": "",
-      "flair": [
-        "AI Showcase - Midjourney"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_fas97z/styles/profileIcon_8y75zce8i9mf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5f65d98715ef4ab43169ffb499bafb4480f1f264"
-    },
-    {
-      "title": "Hidden History",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n2825p/hidden_history/",
-      "score": 757,
-      "comments": 93,
-      "post_id": "t3_1n2825p",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "RogueAtari",
-      "author_id": "t2_o736po1s",
-      "subreddit_id": "t5_5zvcfk",
-      "subreddit": "r/midjourney",
-      "created_ts": "2025-08-28T09:57:23.784000+0000",
-      "content_href": "https://v.redd.it/2wqxeuljeqlf1",
-      "content_preview": "",
-      "flair": [
-        "AI Video - Midjourney"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/hidden-history-v0-aDMwYnZ3bWplcWxmMeadKcG3RAMPQMtJngs_8gOfIb64mZdQ97wiGi5aHcHk.png?width=640&crop=smart&format=pjpg&auto=webp&s=2a00f8a30248bf690d9ca886288558a5c98ea7c3"
-    },
-    {
-      "title": "Centaur in MJ",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n6b655/centaur_in_mj/",
-      "score": 5,
-      "comments": 2,
-      "post_id": "t3_1n6b655",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "AwayTailor8875",
-      "author_id": "t2_5rcyvu03",
-      "subreddit_id": "t5_5zvcfk",
-      "subreddit": "r/midjourney",
-      "created_ts": "2025-09-02T05:27:10.495000+0000",
-      "content_href": "https://i.redd.it/7pnmupf3tomf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Discussion - Midjourney AI"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://preview.redd.it/bringing-cyberpunk-y2k-into-trend-v0-47xj3fizezlf1.jpg?width=640&crop=smart&auto=webp&s=d13fd4d840d93b8ab9f2de3776cee14fafc68caa",
+      "is_promoted": false
     },
     {
       "title": "Echoespan",
       "permalink": "https://www.reddit.com/r/midjourney/comments/1mk86sm/echoespan/",
-      "score": 1318,
+      "score": 1324,
       "comments": 47,
       "post_id": "t3_1mk86sm",
       "post_type": "video",
@@ -639,116 +804,78 @@
       "subreddit": "r/midjourney",
       "created_ts": "2025-08-07T18:37:29.679000+0000",
       "content_href": "https://v.redd.it/b4dws7fe6nhf1",
-      "content_preview": "",
+      "content_preview": "AI Video - Midjourney",
       "flair": [
         "AI Video - Midjourney"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/aWtwZ3ExY2U2bmhmMfwXqnAn9hREmmkp0gTqN0MXtaXIg4fqaYdAVgq2JoNC.png?width=640&crop=smart&format=pjpg&auto=webp&s=0b57c748f8bb505d28c6bc59ac88a07b1e42c3bf"
+      "thumbnail_url": "https://external-preview.redd.it/aWtwZ3ExY2U2bmhmMfwXqnAn9hREmmkp0gTqN0MXtaXIg4fqaYdAVgq2JoNC.png?width=640&crop=smart&format=pjpg&auto=webp&s=0b57c748f8bb505d28c6bc59ac88a07b1e42c3bf",
+      "is_promoted": false
     },
     {
-      "title": "Move away! Coming with hot pods 🥵",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n2dbhq/move_away_coming_with_hot_pods/",
-      "score": 603,
-      "comments": 42,
-      "post_id": "t3_1n2dbhq",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "No-Investment2221",
-      "author_id": "t2_1h0jzb6m62",
-      "subreddit_id": "t5_5zvcfk",
-      "subreddit": "r/midjourney",
-      "created_ts": "2025-08-28T14:12:00.431000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n2dbhq",
-      "content_preview": "",
-      "flair": [
-        "AI Showcase - Midjourney"
-      ],
-      "thumbnail_url": "https://preview.redd.it/move-away-coming-with-hot-pods-v0-wfto8md6qrlf1.jpg?width=640&crop=smart&auto=webp&s=7a0271b04fd5af6024a704331ce2d331bcbbe93e"
-    },
-    {
-      "title": "races of the land.",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n090mi/races_of_the_land/",
-      "score": 564,
-      "comments": 25,
-      "post_id": "t3_1n090mi",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "EyeToAI",
-      "author_id": "t2_10t3qedsmo",
-      "subreddit_id": "t5_5zvcfk",
-      "subreddit": "r/midjourney",
-      "created_ts": "2025-08-26T01:36:06.270000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n090mi",
-      "content_preview": "",
-      "flair": [
-        "AI Showcase - Midjourney"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_bkm8ys/styles/profileIcon_1dah25oixjle1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=858ac471a41e40b43c80ff876a92a1caff49a2f7"
-    },
-    {
-      "title": "British youth under sodium streetlights, monochrome realism.",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n5mq7k/british_youth_under_sodium_streetlights/",
-      "score": 58,
-      "comments": 2,
-      "post_id": "t3_1n5mq7k",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "No-Feature1072",
-      "author_id": "t2_en0arosa4",
-      "subreddit_id": "t5_5zvcfk",
-      "subreddit": "r/midjourney",
-      "created_ts": "2025-09-01T11:57:37.919000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5mq7k",
-      "content_preview": "",
-      "flair": [
-        "AI Showcase - Midjourney"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_8qqqzh/styles/profileIcon_vcb8fa23u3if1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d70eb9f8e184659b2a5fed82dad6463111815c3b"
-    },
-    {
-      "title": "Loop",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n6ancn/loop/",
-      "score": 3,
+      "title": "Niji horror",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n8dw36/niji_horror/",
+      "score": 24,
       "comments": 0,
-      "post_id": "t3_1n6ancn",
+      "post_id": "t3_1n8dw36",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "jagdeep_sp",
-      "author_id": "t2_5azaq4zf",
+      "author": "Klown462",
+      "author_id": "t2_cj4ec8tu",
       "subreddit_id": "t5_5zvcfk",
       "subreddit": "r/midjourney",
-      "created_ts": "2025-09-02T04:56:16.024000+0000",
-      "content_href": "https://i.redd.it/tie2ho0lnomf1.jpeg",
-      "content_preview": "",
+      "created_ts": "2025-09-04T15:49:57.099000+0000",
+      "content_href": "https://i.redd.it/5lkoap9166nf1.jpeg",
+      "content_preview": "AI Showcase - Midjourney",
       "flair": [
         "AI Showcase - Midjourney"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://preview.redd.it/niji-horror-v0-5lkoap9166nf1.jpeg?width=640&crop=smart&auto=webp&s=f49d883b0180c1c5792cc00aec3a92045a2fcaf9",
+      "is_promoted": false
     },
     {
-      "title": "Will midjourney allow creating this image?",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n67n26/will_midjourney_allow_creating_this_image/",
+      "title": "Degree Here For Sweat",
+      "permalink": "https://www.reddit.com/user/degree_deo/comments/1mhn597/degree_here_for_sweat/",
       "score": 0,
-      "comments": 8,
-      "post_id": "t3_1n67n26",
-      "post_type": "text",
-      "domain": "self.midjourney",
-      "author": "darkprince_007",
-      "author_id": "t2_5w9upd1h",
+      "comments": 0,
+      "post_id": "t3_1mhn597",
+      "post_type": "video",
+      "domain": "shop.mikmak.ai",
+      "author": "degree_deo",
+      "author_id": "t2_1t2oks7eu6",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-04T19:27:39.500000+0000",
+      "content_href": "https://v.redd.it/hg1ju273j0hf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": true
+    },
+    {
+      "title": "Cruisin’ through the galaxy",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n8bvgn/cruisin_through_the_galaxy/",
+      "score": 17,
+      "comments": 2,
+      "post_id": "t3_1n8bvgn",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "MrTippyToes",
+      "author_id": "t2_clhjw",
       "subreddit_id": "t5_5zvcfk",
       "subreddit": "r/midjourney",
-      "created_ts": "2025-09-02T02:17:45.492000+0000",
-      "content_href": "https://www.reddit.com/r/midjourney/comments/1n67n26/will_midjourney_allow_creating_this_image/",
-      "content_preview": "I am making product photography for a woman undergarment brand. This is the prompt I used on nano banana just to try it but they said it is against their guidlines. I was gonna buy midjourney but I want to make sure can it allow to make this kinda image? the product is a woman bra. P.S I am not an AI artist or doesnt have too much experience using these softwares. Used freepik alot for editing stuff but ran out of it's credits few days ago. and yes didnt try this prompt there. this was prompt: \"Create a professional, high-quality image of a female model in a neutral studio setting with soft, flattering lighting. The model should be styled to clearly display the clothing item shown in the attached reference image. Ensure the fit, color, texture, and design of the clothing match the reference exactly. The overall tone should be clean, minimal, and suitable for an online catalog or product listing. Focus on presenting the garment clearly and accurately, with no alterations. Use a plain, light background to keep attention on the subject. This image is intended for commercial use on a retail website, showcasing the product on a model.\"",
+      "created_ts": "2025-09-04T14:34:24.859000+0000",
+      "content_href": "https://v.redd.it/8dnov9sjs5nf1",
+      "content_preview": "AI Video - Midjourney",
       "flair": [
-        "Discussion - Midjourney AI"
+        "AI Video - Midjourney"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://styles.redditmedia.com/t5_b71mm/styles/profileIcon_7eqogikmu98f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a634e1aad2e681b47ceb4cb974f6452c5073d316",
+      "is_promoted": false
     },
     {
       "title": "Retro Video Games In European Cities (Prompts Included)",
       "permalink": "https://www.reddit.com/r/midjourney/comments/1mrvx19/retro_video_games_in_european_cities_prompts/",
-      "score": 1207,
+      "score": 1214,
       "comments": 41,
       "post_id": "t3_1mrvx19",
       "post_type": "video",
@@ -759,76 +886,162 @@
       "subreddit": "r/midjourney",
       "created_ts": "2025-08-16T13:53:51.878000+0000",
       "content_href": "https://v.redd.it/3u2osmwyzdjf1",
-      "content_preview": "",
+      "content_preview": "AI Video - Midjourney",
       "flair": [
         "AI Video - Midjourney"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_40k1cm/styles/profileIcon_abswvxv9vxtd1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7a00a0cfc3108abe3f9f450e04a396f6004c67c7"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_40k1cm/styles/profileIcon_abswvxv9vxtd1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7a00a0cfc3108abe3f9f450e04a396f6004c67c7",
+      "is_promoted": false
     },
     {
-      "title": "Echoes Beneath the Waterline",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n5dbuy/echoes_beneath_the_waterline/",
-      "score": 132,
+      "title": "The Argonauts",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n86pvm/the_argonauts/",
+      "score": 34,
+      "comments": 7,
+      "post_id": "t3_1n86pvm",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "SharpDress176",
+      "author_id": "t2_up8jsc84w",
+      "subreddit_id": "t5_5zvcfk",
+      "subreddit": "r/midjourney",
+      "created_ts": "2025-09-04T10:42:51.769000+0000",
+      "content_href": "https://v.redd.it/hy8a1itsm4nf1",
+      "content_preview": "AI Video - Midjourney",
+      "flair": [
+        "AI Video - Midjourney"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_auo4ra/styles/profileIcon_ype3e5vyazoe1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=60f3a5fe194f5ccabf776abd202a36a91f7b5f81",
+      "is_promoted": false
+    },
+    {
+      "title": "AI visual album made with Midjourney + Suno",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n89iis/ai_visual_album_made_with_midjourney_suno/",
+      "score": 14,
       "comments": 4,
-      "post_id": "t3_1n5dbuy",
+      "post_id": "t3_1n89iis",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "tickletoes3377",
+      "author_id": "t2_3e4nwq36",
+      "subreddit_id": "t5_5zvcfk",
+      "subreddit": "r/midjourney",
+      "created_ts": "2025-09-04T13:01:38.048000+0000",
+      "content_href": "https://v.redd.it/wd467v50c5nf1",
+      "content_preview": "AI Video - Midjourney",
+      "flair": [
+        "AI Video - Midjourney"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_10htuz/styles/profileIcon_5ztgvti4ajmf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=9ddae5420f074326cab68aed47828025a62501a2",
+      "is_promoted": false
+    },
+    {
+      "title": "Stones in Motion",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n7ydvb/stones_in_motion/",
+      "score": 66,
+      "comments": 2,
+      "post_id": "t3_1n7ydvb",
       "post_type": "image",
       "domain": "i.redd.it",
       "author": "ami-am",
       "author_id": "t2_on0c8euyo",
       "subreddit_id": "t5_5zvcfk",
       "subreddit": "r/midjourney",
-      "created_ts": "2025-09-01T02:47:31.593000+0000",
-      "content_href": "https://i.redd.it/a0kf53fpvgmf1.jpeg",
-      "content_preview": "",
+      "created_ts": "2025-09-04T02:31:05.198000+0000",
+      "content_href": "https://i.redd.it/99oxe8ai72nf1.jpeg",
+      "content_preview": "AI Showcase - Midjourney",
       "flair": [
         "AI Showcase - Midjourney"
       ],
-      "thumbnail_url": "https://preview.redd.it/echoes-beneath-the-waterline-v0-a0kf53fpvgmf1.jpeg?width=640&crop=smart&auto=webp&s=7029652eba93019dbc60c1de2f6aa3bf5bb3ecb3"
+      "thumbnail_url": "https://preview.redd.it/stones-in-motion-v0-99oxe8ai72nf1.jpeg?width=640&crop=smart&auto=webp&s=662631338cdee511bf8130ae279118f823d89c85",
+      "is_promoted": false
     },
     {
-      "title": "Some things MidJourney just refuses to get right...",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n5o6ot/some_things_midjourney_just_refuses_to_get_right/",
-      "score": 14,
-      "comments": 32,
-      "post_id": "t3_1n5o6ot",
-      "post_type": "text",
-      "domain": "self.midjourney",
-      "author": "fain182",
-      "author_id": "t2_1knf5ii",
-      "subreddit_id": "t5_5zvcfk",
-      "subreddit": "r/midjourney",
-      "created_ts": "2025-09-01T13:05:57.128000+0000",
-      "content_href": "https://www.reddit.com/r/midjourney/comments/1n5o6ot/some_things_midjourney_just_refuses_to_get_right/",
-      "content_preview": "I’ve been experimenting a lot with MidJourney lately, and I keep bumping into some “impossible” prompts,  things it just refuses to render properly no matter how much I tweak them. For me, two examples are: An East Asian woman with almond-shaped eyes (MJ tends to give everyone oversized eyes) A couple kissing where the guy is shorter than the girl (MJ insists on flipping them) It feels like the AI has some baked-in assumptions about “defaults” for beauty standards, body proportions, or social dynamics. What are the prompts you keep trying that MJ just never seems to get right? Example of a prompt that still gives the man taller: A couple kissing, the woman is extremely tall at 2.0 meters, the man is short at 1.6 meters, she towers over him, he stands next to her, full-body view, low angle perspective emphasizing her height over him, exaggerated height difference",
-      "flair": [
-        "Discussion - Midjourney AI"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Vintage trading cards",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1mzmk8f/vintage_trading_cards/",
-      "score": 466,
-      "comments": 37,
-      "post_id": "t3_1mzmk8f",
+      "title": "Terminators With Children",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n7zeqj/terminators_with_children/",
+      "score": 37,
+      "comments": 4,
+      "post_id": "t3_1n7zeqj",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "Zaicab",
-      "author_id": "t2_v1n42x0o",
+      "author": "13th_Floor_Please",
+      "author_id": "t2_5pykdaqg",
       "subreddit_id": "t5_5zvcfk",
       "subreddit": "r/midjourney",
-      "created_ts": "2025-08-25T10:14:02.766000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mzmk8f",
-      "content_preview": "",
+      "created_ts": "2025-09-04T03:20:50.183000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7zeqj",
+      "content_preview": "AI Showcase - Midjourney",
       "flair": [
-        "AI Showcase+Prompt - Midjourney"
+        "AI Showcase - Midjourney"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_7lno6m/styles/profileIcon_13db849il4ee1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=44f8634d5860bac1088b3a0b583accc1e626ab39"
+      "thumbnail_url": "https://preview.redd.it/terminators-with-children-v0-6bdckkadg2nf1.png?width=640&crop=smart&auto=webp&s=eb00387fceb78f77d769a4be0f91ff39355605f9",
+      "is_promoted": false
+    },
+    {
+      "title": "How to build a GLORB LORD",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n6mzig/how_to_build_a_glorb_lord/",
+      "score": 635,
+      "comments": 75,
+      "post_id": "t3_1n6mzig",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "grajagans",
+      "author_id": "t2_17ex29",
+      "subreddit_id": "t5_5zvcfk",
+      "subreddit": "r/midjourney",
+      "created_ts": "2025-09-02T15:43:19.422000+0000",
+      "content_href": "https://v.redd.it/2u1is87ltrmf1",
+      "content_preview": "AI Video - Midjourney",
+      "flair": [
+        "AI Video - Midjourney"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_16avmz/styles/profileIcon_ni6lpyst3uff1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c6bcd354e7dc02a7b673a841d2552a8cbcd2b9d6",
+      "is_promoted": false
+    },
+    {
+      "title": "You thought you were picking up one. But ended up with six. Discover the Volvo XC90 with 7 seats.",
+      "permalink": "https://www.reddit.com/user/volvocarusa/comments/1mkxjwu/you_thought_you_were_picking_up_one_but_ended_up/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mkxjwu",
+      "post_type": "video",
+      "domain": "volvocars.com",
+      "author": "volvocarusa",
+      "author_id": "t2_4o8easx8",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-08T15:01:14.350000+0000",
+      "content_href": "https://v.redd.it/1r47iry6rrhf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_25j5wo/styles/profileIcon_qwtep57blu281.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=e78f5adefefd0f80179732429f02b18efb5ad471",
+      "is_promoted": true
+    },
+    {
+      "title": "The Radium Girls",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n7yi2e/the_radium_girls/",
+      "score": 28,
+      "comments": 1,
+      "post_id": "t3_1n7yi2e",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "13th_Floor_Please",
+      "author_id": "t2_5pykdaqg",
+      "subreddit_id": "t5_5zvcfk",
+      "subreddit": "r/midjourney",
+      "created_ts": "2025-09-04T02:36:36.742000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7yi2e",
+      "content_preview": "AI Showcase - Midjourney",
+      "flair": [
+        "AI Showcase - Midjourney"
+      ],
+      "thumbnail_url": "https://preview.redd.it/the-radium-girls-v0-rq3di88h82nf1.png?width=640&crop=smart&auto=webp&s=68ef178b3729bd236d799cfefe336a3a2bc4392a",
+      "is_promoted": false
     },
     {
       "title": "Midjourney knows what kinda dreams I dream lol",
       "permalink": "https://www.reddit.com/r/midjourney/comments/1mysy43/midjourney_knows_what_kinda_dreams_i_dream_lol/",
-      "score": 1163,
+      "score": 1169,
       "comments": 79,
       "post_id": "t3_1mysy43",
       "post_type": "video",
@@ -839,172 +1052,179 @@
       "subreddit": "r/midjourney",
       "created_ts": "2025-08-24T11:17:56.422000+0000",
       "content_href": "https://v.redd.it/s8pxrxvebykf1",
-      "content_preview": "",
+      "content_preview": "AI Video - Midjourney",
       "flair": [
         "AI Video - Midjourney"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/midjourney-knows-what-kinda-dreams-i-dream-lol-v0-cnZzeDJwMmZieWtmMWLq1M0-9NHXTXcuGJTQPexPxGvfS_LumlgcLUlYeRU7.png?width=640&crop=smart&format=pjpg&auto=webp&s=5a5bec61f7ce67a08b1d7669c7373bc0bafefb58"
+      "thumbnail_url": "https://external-preview.redd.it/midjourney-knows-what-kinda-dreams-i-dream-lol-v0-cnZzeDJwMmZieWtmMWLq1M0-9NHXTXcuGJTQPexPxGvfS_LumlgcLUlYeRU7.png?width=640&crop=smart&format=pjpg&auto=webp&s=5a5bec61f7ce67a08b1d7669c7373bc0bafefb58",
+      "is_promoted": false
     },
     {
-      "title": "Fantasy Image Compilation",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n4ua7u/fantasy_image_compilation/",
-      "score": 504,
-      "comments": 16,
-      "post_id": "t3_1n4ua7u",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Zenchilada",
-      "author_id": "t2_r2gxa5b",
-      "subreddit_id": "t5_5zvcfk",
-      "subreddit": "r/midjourney",
-      "created_ts": "2025-08-31T13:08:58.910000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n4ua7u",
-      "content_preview": "",
-      "flair": [
-        "AI Showcase - Midjourney"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_o97b0/styles/profileIcon_5n5shsczjhoc1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5803b093f8ad09b5b5e5f8fdf7a8b05810548c35"
-    },
-    {
-      "title": "Asking millionaires to paint THEIR house",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1mzacsb/asking_millionaires_to_paint_their_house/",
-      "score": 1039,
-      "comments": 63,
-      "post_id": "t3_1mzacsb",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Beautiful-Wheel4784",
-      "author_id": "t2_1oe7k6awsh",
-      "subreddit_id": "t5_5zvcfk",
-      "subreddit": "r/midjourney",
-      "created_ts": "2025-08-24T23:03:19.370000+0000",
-      "content_href": "https://v.redd.it/ei5b5zp8t1lf1",
-      "content_preview": "",
-      "flair": [
-        "AI Video - Midjourney"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "Tempasto",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n4wnti/tempasto/",
-      "score": 494,
-      "comments": 14,
-      "post_id": "t3_1n4wnti",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "mueducationresearch",
-      "author_id": "t2_bml5prfhc",
-      "subreddit_id": "t5_5zvcfk",
-      "subreddit": "r/midjourney",
-      "created_ts": "2025-08-31T14:49:13.958000+0000",
-      "content_href": "https://v.redd.it/7dcaljh1bdmf1",
-      "content_preview": "",
-      "flair": [
-        "AI Video - Midjourney"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/cnM4emJqaDFiZG1mMfu6t-XevrAvEX7RY_r2MdOjV3-Vk_AQQfovKI2hLKA9.png?width=640&crop=smart&format=pjpg&auto=webp&s=6143e50b2be7f4d1dde09f4ab8862f933db44361"
-    },
-    {
-      "title": "Echoespan 2",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1moi03m/echoespan_2/",
-      "score": 917,
-      "comments": 43,
-      "post_id": "t3_1moi03m",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Kitchen_Tea8156",
-      "author_id": "t2_c489478v",
-      "subreddit_id": "t5_5zvcfk",
-      "subreddit": "r/midjourney",
-      "created_ts": "2025-08-12T19:14:11.918000+0000",
-      "content_href": "https://v.redd.it/ac007v8i1nif1",
-      "content_preview": "",
-      "flair": [
-        "AI Video - Midjourney"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/echoespan-2-v0-cmI1ZjYzNGkxbmlmMZiy16rx3L4PkfIMoAEvrS-Y2DIEFLfZ244BM3Nw4vZU.png?width=640&crop=smart&format=pjpg&auto=webp&s=ebe6dd3fa270742a4cd79a725962321962beb82e"
-    },
-    {
-      "title": "Beetles 🪲",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n5kkg6/beetles/",
-      "score": 20,
+      "title": "Editorial New Yorker Illustration",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n8xnh7/editorial_new_yorker_illustration/",
+      "score": 3,
       "comments": 0,
-      "post_id": "t3_1n5kkg6",
+      "post_id": "t3_1n8xnh7",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "Low-Counter3437",
-      "author_id": "t2_jq4wy2hw",
+      "author": "tanzim31",
+      "author_id": "t2_gddjg",
       "subreddit_id": "t5_5zvcfk",
       "subreddit": "r/midjourney",
-      "created_ts": "2025-09-01T09:54:40.535000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5kkg6",
-      "content_preview": "",
+      "created_ts": "2025-09-05T06:17:33.455000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8xnh7",
+      "content_preview": "AI Showcase - Midjourney",
       "flair": [
         "AI Showcase - Midjourney"
       ],
-      "thumbnail_url": "https://preview.redd.it/9mhl18zwzimf1.jpg?width=640&crop=smart&auto=webp&s=4972cca4d8da45d9e23bf3eb3bfe5eb1e67aef83"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_e7s6p/styles/profileIcon_f6ujlf11fymf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=98fcb689a74ff705999cffc7a6be452e68ce0250",
+      "is_promoted": false
     },
     {
-      "title": "Assassin's Creed Video Game In Aztec Empire (Prompts Included)",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n2ap79/assassins_creed_video_game_in_aztec_empire/",
-      "score": 413,
-      "comments": 28,
-      "post_id": "t3_1n2ap79",
+      "title": "Unidentified Floating Objects",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n8x47z/unidentified_floating_objects/",
+      "score": 12,
+      "comments": 2,
+      "post_id": "t3_1n8x47z",
       "post_type": "video",
       "domain": "v.redd.it",
-      "author": "Vegetable_Writer_443",
-      "author_id": "t2_ajy2jcdz",
+      "author": "SilverEmotional7924",
+      "author_id": "t2_1mb54hu4c4",
       "subreddit_id": "t5_5zvcfk",
       "subreddit": "r/midjourney",
-      "created_ts": "2025-08-28T12:19:36.630000+0000",
-      "content_href": "https://v.redd.it/h6mu2so36rlf1",
-      "content_preview": "",
+      "created_ts": "2025-09-05T05:44:46.611000+0000",
+      "content_href": "https://v.redd.it/disomk2vaanf1",
+      "content_preview": "AI Video - Midjourney",
       "flair": [
         "AI Video - Midjourney"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_40k1cm/styles/profileIcon_abswvxv9vxtd1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7a00a0cfc3108abe3f9f450e04a396f6004c67c7"
+      "thumbnail_url": "https://external-preview.redd.it/unidentified-floating-objects-v0-dmNzbXoyc3VhYW5mMQ4Mw_w2YWpk7cUfq1AgcB7ZtQ8OPUOUB9hQ5wyqcV1_.png?width=640&crop=smart&format=pjpg&auto=webp&s=5eb66795d1cbfd9492ac9811b40826fdc27c5144",
+      "is_promoted": false
     },
     {
-      "title": "Paint World 9",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1mv3j2w/paint_world_9/",
-      "score": 896,
-      "comments": 36,
-      "post_id": "t3_1mv3j2w",
+      "title": "Shades of Red",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n7qbxr/shades_of_red/",
+      "score": 35,
+      "comments": 1,
+      "post_id": "t3_1n7qbxr",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Educational-Pipe-682",
+      "author_id": "t2_82d75wtj",
+      "subreddit_id": "t5_5zvcfk",
+      "subreddit": "r/midjourney",
+      "created_ts": "2025-09-03T20:40:47.867000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7qbxr",
+      "content_preview": "AI Showcase - Midjourney",
+      "flair": [
+        "AI Showcase - Midjourney"
+      ],
+      "thumbnail_url": "https://preview.redd.it/shades-of-red-v0-rjzx0db0h0nf1.jpg?width=640&crop=smart&auto=webp&s=7893e8ca0208de9a12655c3443b92c21b6589139",
+      "is_promoted": false
+    },
+    {
+      "title": "The House that Breathes",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n5bxyq/the_house_that_breathes/",
+      "score": 562,
+      "comments": 38,
+      "post_id": "t3_1n5bxyq",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "metr0punk",
+      "author_id": "t2_1gy634796b",
+      "subreddit_id": "t5_5zvcfk",
+      "subreddit": "r/midjourney",
+      "created_ts": "2025-09-01T01:37:07.724000+0000",
+      "content_href": "https://v.redd.it/bbzqg4b5jgmf1",
+      "content_preview": "AI Video - Midjourney",
+      "flair": [
+        "AI Video - Midjourney"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dbyosk/styles/profileIcon_9m3pa5x5icie1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d6e9f5c098943568e8422e52de7f3ab7fdb076bd",
+      "is_promoted": false
+    },
+    {
+      "title": "Loop animation inspired by Azerbaijani dance ✨",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n8x282/loop_animation_inspired_by_azerbaijani_dance/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n8x282",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "Kyu-P",
+      "author_id": "t2_5vvdi65e",
+      "subreddit_id": "t5_5zvcfk",
+      "subreddit": "r/midjourney",
+      "created_ts": "2025-09-05T05:41:29.309000+0000",
+      "content_href": "https://youtube.com/shorts/UZFKE4OFrys?si=DAwdxXBtyScFVNq5",
+      "content_preview": "AI Video - Midjourney",
+      "flair": [
+        "AI Video - Midjourney"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Treat your dog the best with our slow cooked treats made with real beef: all deliciousness, no clickbait.",
+      "permalink": "https://www.reddit.com/user/Pup-Peroni/comments/1m6moqm/treat_your_dog_the_best_with_our_slow_cooked/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1m6moqm",
+      "post_type": "video",
+      "domain": "pupperoni.com",
+      "author": "Pup-Peroni",
+      "author_id": "t2_umh6tbjc",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-22T18:54:20.025000+0000",
+      "content_href": "https://v.redd.it/jc9e9boalfef1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7h3d0y/styles/profileIcon_3kdctdb5i54a1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=de9cee56ac13cc49bfbd3e3c419aacbf323a9114",
+      "is_promoted": true
+    },
+    {
+      "title": "Tides [Paint World 14]",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n8v8az/tides_paint_world_14/",
+      "score": 13,
+      "comments": 1,
+      "post_id": "t3_1n8v8az",
       "post_type": "video",
       "domain": "v.redd.it",
       "author": "mueducationresearch",
       "author_id": "t2_bml5prfhc",
       "subreddit_id": "t5_5zvcfk",
       "subreddit": "r/midjourney",
-      "created_ts": "2025-08-20T03:09:01.842000+0000",
-      "content_href": "https://v.redd.it/tdobqc1wb3kf1",
-      "content_preview": "",
+      "created_ts": "2025-09-05T03:58:18.572000+0000",
+      "content_href": "https://v.redd.it/kxzwpqdfr9nf1",
+      "content_preview": "AI Video - Midjourney",
       "flair": [
         "AI Video - Midjourney"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/paint-world-9-v0-M2FoOXlhMXdiM2tmMREexAOMy2AVCYAsxBRXVIzHKicS-em676kyR7yduwtu.png?width=640&crop=smart&format=pjpg&auto=webp&s=c1a73aa12af2596a229179ddda6f778d6a28ac30"
+      "thumbnail_url": "https://external-preview.redd.it/tides-paint-world-14-v0-am1jN3NoOGZyOW5mMZ3dr4fVP0MlzwGnIae9IImdNuVFl2SSfWk_HllcYB7D.png?width=640&crop=smart&format=pjpg&auto=webp&s=f88ac4807321f0ef38f882f0fcf30f1072f2f71f",
+      "is_promoted": false
     },
     {
-      "title": "Ancient Aliens",
-      "permalink": "https://www.reddit.com/r/midjourney/comments/1n1i11b/ancient_aliens/",
-      "score": 391,
-      "comments": 17,
-      "post_id": "t3_1n1i11b",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Zenchilada",
-      "author_id": "t2_r2gxa5b",
+      "title": "100 style refs + prompts for consistent branding 🖤",
+      "permalink": "https://www.reddit.com/r/midjourney/comments/1n8ryt3/100_style_refs_prompts_for_consistent_branding/",
+      "score": 4,
+      "comments": 2,
+      "post_id": "t3_1n8ryt3",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Cheap_Limit_1447",
+      "author_id": "t2_bd23lzk4",
       "subreddit_id": "t5_5zvcfk",
       "subreddit": "r/midjourney",
-      "created_ts": "2025-08-27T14:06:52.923000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n1i11b",
-      "content_preview": "",
+      "created_ts": "2025-09-05T01:16:58.138000+0000",
+      "content_href": "https://i.redd.it/6olubvo6z8nf1.png",
+      "content_preview": "Resources/Tips - Midjourney AI",
       "flair": [
-        "AI Showcase - Midjourney"
+        "Resources/Tips - Midjourney AI"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_o97b0/styles/profileIcon_5n5shsczjhoc1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5803b093f8ad09b5b5e5f8fdf7a8b05810548c35"
+      "thumbnail_url": "https://preview.redd.it/100-style-refs-prompts-for-consistent-branding-v0-6olubvo6z8nf1.png?width=640&crop=smart&auto=webp&s=acad0aaecccf75538e04116df6e6f21f9c76e536",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:10:04.875888"
+  "scraped_at": "2025-09-05T03:32:46.897726"
 }

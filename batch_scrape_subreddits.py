@@ -134,14 +134,23 @@ def _worker_process(
                     last_index = idx
                     last_name = name
                     posts_n = len(data.get("posts", []))
+                    
+                    # Enhanced error logging
                     if data.get("error"):
-                        print(f"[w{worker_id} saved] {name} idx={idx} posts={posts_n} error={data.get('error')}")
+                        error_msg = data.get("error", "")
+                        if "ERR_CONNECTION_REFUSED" in error_msg or "ERR_CONNECTION_RESET" in error_msg:
+                            print(f"[w{worker_id} conn-error] {name} idx={idx} posts={posts_n} error={error_msg[:100]}...")
+                        elif "TimeoutError" in error_msg or "ERR_TIMED_OUT" in error_msg:
+                            print(f"[w{worker_id} timeout] {name} idx={idx} posts={posts_n} error={error_msg[:100]}...")
+                        else:
+                            print(f"[w{worker_id} error] {name} idx={idx} posts={posts_n} error={error_msg[:100]}...")
                     else:
                         print(f"[w{worker_id} saved] {name} idx={idx} posts={posts_n}")
+                    
                     # gentle pacing per worker
                     time.sleep(random.uniform(0.5, 1.2))
-                except Exception:
-                    print(f"[w{worker_id} error] {name} idx={idx}")
+                except Exception as e:
+                    print(f"[w{worker_id} exception] {name} idx={idx} - {str(e)[:100]}")
                     # Best-effort: continue to next subreddit in this worker
                     continue
         finally:

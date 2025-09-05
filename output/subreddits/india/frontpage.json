@@ -3,93 +3,544 @@
   "url": "https://www.reddit.com/r/india",
   "meta": {
     "title": "India: United We Stand",
-    "members_text": "341,366"
+    "description": "The Official Subreddit for India",
+    "subscribers": 3324449,
+    "online_users": 313,
+    "created_timestamp": "2025-09-05T10:07:13.899000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Bookmarks",
+        "content": [
+          {
+            "text": "Wiki",
+            "url": "/r/india/wiki/index/"
+          },
+          {
+            "text": "Non-Political Feed",
+            "url": "https://www.reddit.com/r/india/search?q=-flair_name%3Apolitics&restrict_sr=1&t=day"
+          },
+          {
+            "text": "📃 Submission Rules",
+            "url": "https://www.reddit.com/r/india/wiki/rules"
+          },
+          {
+            "text": "r/TwoXIndia",
+            "url": "https://reddit.com/r/TwoXIndia/"
+          },
+          {
+            "text": "r/IndianBooks",
+            "url": "https://reddit.com/r/Indianbooks/"
+          },
+          {
+            "text": "r/Bharat",
+            "url": "https://reddit.com/r/bharat/"
+          },
+          {
+            "text": "r/ShitBJPSays",
+            "url": "https://www.reddit.com/r/shitbjpsays/"
+          },
+          {
+            "text": "r/IndianFood",
+            "url": "https://reddit.com/r/IndianFood/"
+          },
+          {
+            "text": "r/IndiaInvestments",
+            "url": "https://reddit.com/r/IndiaInvestments/"
+          },
+          {
+            "text": "r/LegalAdviceIndia",
+            "url": "https://reddit.com/r/LegalAdviceIndia/"
+          },
+          {
+            "text": "r/India Discord",
+            "url": "https://discord.gg/6V29X7f"
+          },
+          {
+            "text": "🗨️ AskIndia Threads",
+            "url": "https://www.reddit.com/r/india/?f=flair_name%3A%22Scheduled%22"
+          }
+        ]
+      },
+      {
+        "title": "Search by Flair",
+        "content": [
+          {
+            "text": "Politics",
+            "url": "/r/india/?f=flair_name%3A%22Politics%22"
+          },
+          {
+            "text": "Non Political",
+            "url": "/r/india/?f=flair_name%3A%22Non%20Political%22"
+          },
+          {
+            "text": "Art/Photo (OC)",
+            "url": "/r/india/?f=flair_name%3A%22Art%2FPhoto%20(OC)%22"
+          },
+          {
+            "text": "Science/Technology",
+            "url": "/r/india/?f=flair_name%3A%22Science%2FTechnology%22"
+          },
+          {
+            "text": "Business/Finance",
+            "url": "/r/india/?f=flair_name%3A%22Business%2FFinance%22"
+          },
+          {
+            "text": "Policy/Economy",
+            "url": "/r/india/?f=flair_name%3A%22Policy%2FEconomy%22"
+          },
+          {
+            "text": "Sports",
+            "url": "/r/india/?f=flair_name%3A%22Sports%22"
+          },
+          {
+            "text": "Food",
+            "url": "/r/india/?f=flair_name%3A%22Food%22"
+          },
+          {
+            "text": "Foreign Relations",
+            "url": "/r/india/?f=flair_name%3A%22Foreign%20Relations%22"
+          },
+          {
+            "text": "History",
+            "url": "/r/india/?f=flair_name%3A%22History%20%22"
+          },
+          {
+            "text": "Scheduled",
+            "url": "/r/india/?f=flair_name%3A%22Scheduled%22"
+          },
+          {
+            "text": "Culture & Heritage",
+            "url": "/r/india/?f=flair_name%3A%22Culture%20%26%20Heritage%20%22"
+          },
+          {
+            "text": "People",
+            "url": "/r/india/?f=flair_name%3A%22People%22"
+          },
+          {
+            "text": "Law & Courts",
+            "url": "/r/india/?f=flair_name%3A%22Law%20%26%20Courts%22"
+          },
+          {
+            "text": "Memes/Satire (OC)",
+            "url": "/r/india/?f=flair_name%3A%22Memes%2FSatire%20(OC)%22"
+          },
+          {
+            "text": "Environment",
+            "url": "/r/india/?f=flair_name%3A%22Environment%22"
+          },
+          {
+            "text": "Media Matters",
+            "url": "/r/india/?f=flair_name%3A%22Media%20Matters%22"
+          },
+          {
+            "text": "Health",
+            "url": "/r/india/?f=flair_name%3A%22Health%22"
+          }
+        ]
+      },
+      {
+        "title": "Note from the moderation team",
+        "content": [
+          {
+            "text": "complete set of rules",
+            "url": "https://www.reddit.com/r/india/wiki/rules"
+          },
+          {
+            "text": "Modmail us",
+            "url": "https://reddit.com/message/compose?to=/r/india"
+          },
+          {
+            "text": "Wiki Index",
+            "url": "https://www.reddit.com/r/india/wiki/index"
+          },
+          {
+            "text": "List of Past AMAs",
+            "url": "https://www.reddit.com/r/india/wiki/ama"
+          },
+          {
+            "text": "Related Subreddits",
+            "url": "http://www.reddit.com/r/india/wiki/related_subreddits"
+          }
+        ]
+      },
+      {
+        "title": "r/india Rules",
+        "content": [
+          {
+            "text": "r/india",
+            "url": "/r/india/"
+          },
+          {
+            "text": "Personally Identifiable Information",
+            "url": "https://www.reddit.com/r/india/wiki/rules#wiki_personally_identifiable_information"
+          },
+          {
+            "text": "rules",
+            "url": "https://www.reddit.com/r/todayilearned/wiki/index#wiki_rules"
+          },
+          {
+            "text": "r/todayilearned",
+            "url": "/r/todayilearned/"
+          },
+          {
+            "text": "r/India",
+            "url": "/r/India/"
+          }
+        ]
+      },
+      {
+        "title": "Mainstream Indian Subreddits",
+        "content": [
+          {
+            "text": "r/TwoXIndia",
+            "url": "/r/TwoXIndia"
+          },
+          {
+            "text": "r/bharat",
+            "url": "/r/bharat"
+          },
+          {
+            "text": "r/Indianbooks",
+            "url": "/r/Indianbooks"
+          },
+          {
+            "text": "r/indiansports",
+            "url": "/r/indiansports"
+          },
+          {
+            "text": "r/IndianFootball",
+            "url": "/r/IndianFootball"
+          },
+          {
+            "text": "r/IndianFood",
+            "url": "/r/IndianFood"
+          },
+          {
+            "text": "r/IndiaInvestments",
+            "url": "/r/IndiaInvestments"
+          },
+          {
+            "text": "r/LegalAdviceIndia",
+            "url": "/r/LegalAdviceIndia"
+          },
+          {
+            "text": "r/unitedstatesofindia",
+            "url": "/r/unitedstatesofindia"
+          }
+        ]
+      },
+      {
+        "title": "City Subreddits",
+        "content": [
+          {
+            "text": "r/kolkata",
+            "url": "/r/kolkata"
+          },
+          {
+            "text": "r/delhi",
+            "url": "/r/delhi"
+          },
+          {
+            "text": "r/bangalore",
+            "url": "/r/bangalore"
+          },
+          {
+            "text": "r/mumbai",
+            "url": "/r/mumbai"
+          }
+        ]
+      },
+      {
+        "title": "Niché Subreddits",
+        "content": [
+          {
+            "text": "r/shitbjpsays",
+            "url": "/r/shitbjpsays"
+          },
+          {
+            "text": "r/ShitINCSays",
+            "url": "/r/ShitINCSays"
+          },
+          {
+            "text": "r/IndianPublicFreakout",
+            "url": "/r/IndianPublicFreakout"
+          },
+          {
+            "text": "r/NotThePyaaz",
+            "url": "/r/NotThePyaaz"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/india/moderators/"
+          }
+        ]
+      },
+      {
+        "title": "Installed Apps",
+        "content": [
+          {
+            "text": "Banhammer",
+            "url": "https://developers.reddit.com/apps/banhammerapp"
+          },
+          {
+            "text": "Comment Mop",
+            "url": "https://developers.reddit.com/apps/comment-nuke"
+          },
+          {
+            "text": "Flooding Assistant",
+            "url": "https://developers.reddit.com/apps/floodassistant"
+          },
+          {
+            "text": "Modmail Assistant",
+            "url": "https://developers.reddit.com/apps/modmailassistant"
+          },
+          {
+            "text": "Toolbox Notes Transfer",
+            "url": "https://developers.reddit.com/apps/toolboxnotesxfer"
+          },
+          {
+            "text": "Modmail Automator",
+            "url": "https://developers.reddit.com/apps/auto-modmail"
+          },
+          {
+            "text": "Spotlight",
+            "url": "https://developers.reddit.com/apps/spotlight-app"
+          },
+          {
+            "text": "Admin Tattler",
+            "url": "https://developers.reddit.com/apps/admin-tattler"
+          },
+          {
+            "text": "Hive Protector",
+            "url": "https://developers.reddit.com/apps/hive-protect"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "No bail for Sharjeel Imam, Umar Khalid, 7 others in 2020 Delhi riots case",
-      "permalink": "https://www.reddit.com/r/india/comments/1n6f6rk/no_bail_for_sharjeel_imam_umar_khalid_7_others_in/",
-      "score": 2,
+      "title": "A short \"thank you\" note for taxpayers.",
+      "permalink": "https://www.reddit.com/r/india/comments/1n917il/a_short_thank_you_note_for_taxpayers/",
+      "score": 3,
       "comments": 0,
-      "post_id": "t3_1n6f6rk",
-      "post_type": "link",
-      "domain": "indiatoday.in",
-      "author": "lordatlas",
-      "author_id": "t2_1zo4",
+      "post_id": "t3_1n917il",
+      "post_type": "text",
+      "domain": "self.india",
+      "author": "lost_a_dominantlotus",
+      "author_id": "t2_1tca3lcp2v",
       "subreddit_id": "t5_2qh1q",
       "subreddit": "r/india",
-      "created_ts": "2025-09-02T09:47:32.512000+0000",
-      "content_href": "https://www.indiatoday.in/india/law-news/story/sharjeel-imam-umar-khalid-bail-denied-2020-delhi-riots-7-accused-high-court-2780682-2025-09-02",
+      "created_ts": "2025-09-05T10:07:13.899000+0000",
+      "content_href": "https://www.reddit.com/r/india/comments/1n917il/a_short_thank_you_note_for_taxpayers/",
+      "content_preview": "A poor person is poor for some reason, because everyone dreams of becoming rich, and if they still fail to achieve it, there are always reasons behind it. Many alcoholic men don’t earn, and many women don’t take a stand for their children. Such children are educated by the government, they get free food, clothes, and continuous benefits for being below the poverty line. I myself have received benefits from the government since childhood. I know very well that if these facilities did not exist, I would never have been educated. I would have remained illiterate, been married off at a young age, and could have destroyed my own children’s dreams.Education changes mindset. I was good at studies, and because of the praises I received from my government school teachers, my parents were motivated to educate me further. I am the only girl in my family who has studied this much.Yes, the government exists, but the truth is, whether the government is good or bad, they do not pay from its own pocket. The money comes from the rich and the honest taxpayers, who work tirelessly to earn it. And then that tax is either swallowed by a corrupt government, or wasted by drunkards, while only a small fraction truly reaches those in need.I have seen many billionaires who never pay taxes, while those who do are left with broken roads and polluted air to breathe. If someone really wants to help, without letting a corrupt system misuse their contribution, then please support education. Because greed and dishonesty can exist in both the rich and the poor.Maybe this note of mine will bring some comfort to those who, unwillingly, work 9 -5 jobs, who sacrifice their dreams, while watching corrupt people live lavish lives.",
+      "flair": [
+        "People"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ewne0e/styles/profileIcon_76vnlq5a6cmf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1a9cfdd6eaa80a35bd592624f19fa6a992437fec",
+      "is_promoted": false
+    },
+    {
+      "title": "Is Ethanol mixing a bigger scam than the 2G scam?",
+      "permalink": "https://www.reddit.com/r/india/comments/1n32wz2/is_ethanol_mixing_a_bigger_scam_than_the_2g_scam/",
+      "score": 2756,
+      "comments": 258,
+      "post_id": "t3_1n32wz2",
+      "post_type": "text",
+      "domain": "self.india",
+      "author": "Weekly-Card-8508",
+      "author_id": "t2_a0o2wsl2",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-08-29T09:39:13.133000+0000",
+      "content_href": "https://www.reddit.com/r/india/comments/1n32wz2/is_ethanol_mixing_a_bigger_scam_than_the_2g_scam/",
+      "content_preview": "We are getting adulterated petrol now with 20% ethanol mixing for the price of pure petrol, and it will damage 95% of vehicles in India also issue of 10-15% mileage drop with less power outputGovernment is forcing us to fill the tank with e20 petrol without e0, e5, and e20 options, the government reasons for the ethanol mixing are save money from oil imports, help farmers, and for cleaner air but now government claims cost of Ethanol is equal to petrol, and experts questioning the environment impact of enthanol production because 1 litre of ethanol production required 2000 litre of water.Then who really benefits from this forced ethanol policy? Nithin Gadkhari sons own two Ethanol producing companies and whose profit soared to 3000% in the last year, data available publicly.India's petrol consumption per day is around 30 crore litre, with 20% of ethanol, that means 6 crore litre ethanol per day, ethanol price have crossed more than ₹100 recently, so just imagine the size of ethanol sale per day.So is this Ethanol mixing petrol the biggest scam in India? Bigger than 2G scam?",
+      "flair": [
+        "Policy/Economy"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "JEE has ruined engineering in India",
+      "permalink": "https://www.reddit.com/r/india/comments/1n8z9oj/jee_has_ruined_engineering_in_india/",
+      "score": 118,
+      "comments": 32,
+      "post_id": "t3_1n8z9oj",
+      "post_type": "text",
+      "domain": "self.india",
+      "author": "lovelettersforher",
+      "author_id": "t2_1pufsjfta3",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-05T08:02:09.968000+0000",
+      "content_href": "https://www.reddit.com/r/india/comments/1n8z9oj/jee_has_ruined_engineering_in_india/",
+      "content_preview": "jee has ruined engineering in india. it has killed creativity and turned the whole thing into a rat race where the only skill that matters is mugging up formulas and solving the same pattern of problems. i’m a software engineer and it makes me sick watching kids who started coding at 12 or 13 and had so much potential just lose it all once they get sucked into the jee grinder. they stop building projects, stop experimenting & stop being curious because none of that matters in jee.the result is obvious. no indian college is anywhere near the top in qs rankings. not a single indian university shows up in the top 50 of icpc, the most important competition for competitive programmers worldwide. years of coaching and hype and the “best minds” of india cannot even break into the top bracket globally.jee is a psyop to keep the middle class middle class. it eats away years of their youth, drains their parents’ savings and then spits them out into overcrowded colleges with mediocre teaching. and don't get me started on how btech professors themselves don't know how new frameworks & new technologies work, most continue this outdated chalk and talk method, recycling the same 20 year old notes, teaching students c and java like it’s still 2005 while the real industry has already moved on. they’ve never built a real project, never shipped code, never touched the tools companies actually use, but they’ll grade you on theory exams and make you feel like you’re not good enough. it’s a joke.the coaching mafia has made billions selling this dream. kota is basically a factory farm where kids are treated like products. they don’t care if you burn out or die, as long as the fees keep rolling in and they can plaster a few toppers on billboards.this is what happens when you worship an exam instead of actual learning. jee has turned engineering into a factory that produces unskilled degree holders not engineers.",
+      "flair": [
+        "Non Political"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Why is our culture so harsh towards women?",
+      "permalink": "https://www.reddit.com/r/india/comments/1n8ytgc/why_is_our_culture_so_harsh_towards_women/",
+      "score": 238,
+      "comments": 117,
+      "post_id": "t3_1n8ytgc",
+      "post_type": "text",
+      "domain": "self.india",
+      "author": "milfstar",
+      "author_id": "t2_2g5pyj81",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-05T07:31:47.028000+0000",
+      "content_href": "https://www.reddit.com/r/india/comments/1n8ytgc/why_is_our_culture_so_harsh_towards_women/",
+      "content_preview": "1.Have you ever wondered why, given that Lord Ram was also away from his wife, just Mata Sita was required to grant the agni pariksha? Why Mata Sita was the only one who needed to prove herself when they finally met? Even when we all know that lord Rama ate Sabri k juthe ber . Only a person in love can eat someones leftover food (Koi pyaar mein hi kisi ka jutha kha sakta hai) . Women from forest were generally beautiful in those days . They used to eat fruits , nuts , vegetables but scriptures showed that she was a old crippled women so that nobody questions any further about the incident. Why are women's morals usually questioned?2.In the Mahabharata, Pandav gambled and kept their bride, Mata Draupadi, on the line. Following the public stripping of her garments, her five husbands, along with other dignitaries like Bhism, Guru Dronacharya, and many more, chose to remain silent. Imagine the wife was used as a scapegoat for the husband's avarice for the crown . She was even divided among five brothers. When one was with her in the room they used to keep their footwear outside so that others can understand that one of the brother is having his turn .They didn't even ask her what she wanted. Imagine what kind of scriptures we follow .3.A man will be referred to as a Buddha if he leaves his home, wife, and children to enter the forest, while a woman's character will be questioned by society if she leaves her home, children, and husband to enter the forest. But u know what we women won't do that we don't run away from responsibility.4.Even in Jainism, it is said that women cannot achieve moksha, or liberation from the cycle of life and death. To achieve moksha, you must have another birth as a man and then follow the digambar Jain route walking naked, pulling your hair . What a philosophy, wow. Seems like women body is the only problem.5.In Islam first of all women must, cover her face and entire body when she is in public. Second, she is prohibited from entering the mosque since women's bowing during prayer can divert the attention of other men. She must follow the nikah halala procedure, which requires her to have physical relation with another person by getting married to them, if she wishes to get back to her 1st husband after her spouse has divorced her. After this second person gives divorce, she is free to go back to her original husband. Why only women have to go through this bogus custom?If this is our belief system and the culture we come from, then nothing will ever change in this modern era. In many modern households, the mother-in-law has passed down the same outdated mindset to her daughter-in-law—a mindset she inherited from her own mother-in-law—that a woman’s sole purpose is to produce a male child. Shockingly, this still happens even in educated families, despite knowing that the gender of the child is determined by the male’s sperm (through the XY chromosomes). Yet, women are still blamed and made to feel guilty. If a woman is unable to conceive or gives birth to a girl instead of a boy, she is often harshly criticized and treated as if she has failed. What’s worse is that this pressure and cruelty often come from another woman—the mother-in-law—who fails to empathize, even though she is a woman herself . Do you really think education can bring equality and respect for women ?",
+      "flair": [
+        "Religion"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Booked an auto, ended up witnessing pure Islamophobia in my society.",
+      "permalink": "https://www.reddit.com/r/india/comments/1mtv19k/booked_an_auto_ended_up_witnessing_pure/",
+      "score": 4994,
+      "comments": 484,
+      "post_id": "t3_1mtv19k",
+      "post_type": "text",
+      "domain": "self.india",
+      "author": "Alarmed-Chest-7160",
+      "author_id": "t2_sgid263r",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-08-18T18:56:47.865000+0000",
+      "content_href": "https://www.reddit.com/r/india/comments/1mtv19k/booked_an_auto_ended_up_witnessing_pure/",
+      "content_preview": "I live in Sector 40, Gurgaon.Last night around 11 PM I booked a Rapido auto. The guy came in-front of  my society and called. I went down and I saw him getting interrogated by some random uncle from the society.The driver was Muslim (you could tell from his cap and beard) and this uncle was asking him, Who are you? Why are you roaming around here? Show me your phone!Like WTF? The poor guy kept saying it’s a ride, but this clown just wouldn’t stop.I intervened and told him, this is my ride, I live here, who are you to decide who comes and who doesn’t? Where’s the rule that says Muslims can’t enter?He started giving me gyan about trust and safety, and I told him,Bro, this is Rapido, everything is tracked. I’m more scared of nosy pricks like you than the driver. Then I left with the driver.Now maybe he’ll go cry to my landlord, but honestly I don’t give a damn. If this society thinks like him, I may relocate.I am from Kerala, and I have never seen this kind of shit before.People always say intolerance is rising in India and I used to think maybe it’s exaggerated, Nope.Imagine having to prove your damn existence to random strangers every night just because of your religion to make the ends meet, that’s the reality some people live in. And it’s l disgusting.",
+      "flair": [
+        "Religion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_717d14/styles/profileIcon_3lnw1kbjl4ff1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a341208898d16610f388248c3eb71a15f5b28b9f",
+      "is_promoted": false
+    },
+    {
+      "title": "Stream The Phoenician Scheme, from director Wes Anderson, now on Peacock.",
+      "permalink": "https://www.reddit.com/user/Peacock/comments/1m9aeqg/stream_the_phoenician_scheme_from_director_wes/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1m9aeqg",
+      "post_type": "image",
+      "domain": "peacocktv.com",
+      "author": "Peacock",
+      "author_id": "t2_4kfv0g6z",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-25T20:45:34.414000+0000",
+      "content_href": "https://www.peacocktv.com/collections/must-see-movies-on-peacock?cid=2501aoalwsonpkpdsocial148055&utm_campaign=2501aoalwson&utm_source=pk_rdt_rdt&utm_medium=pd_social_awa_imgstc&utm_term=1977954113185555489_na&utm_content=2288089246801559307",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_24ourf/styles/profileIcon_61dcu0b8a8191.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=89f39e4736a915bbf8ad7107d2e8c70730530858",
+      "is_promoted": true
+    },
+    {
+      "title": "Gauri Lankesh case: Govt and judicial inaction, bureaucratic delays slow down trial",
+      "permalink": "https://www.reddit.com/r/india/comments/1n8voya/gauri_lankesh_case_govt_and_judicial_inaction/",
+      "score": 123,
+      "comments": 4,
+      "post_id": "t3_1n8voya",
+      "post_type": "link",
+      "domain": "thenewsminute.com",
+      "author": "mondegreen__",
+      "author_id": "t2_1v5lbyezu4",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-05T04:22:45.561000+0000",
+      "content_href": "https://www.thenewsminute.com/karnataka/gauri-lankesh-case-govt-and-judicial-inaction-bureaucratic-delays-slow-down-trial",
       "content_preview": "",
       "flair": [
         "Law & Courts"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/JX0G2r4_VTrI5n1W1WSg1JDMP7xPAzhFRt-uaiA8zQU.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=0c0a7f79b4c2137b2faedf37bd52ea6c50aab505"
+      "thumbnail_url": "https://external-preview.redd.it/oU3R5lp4dzJ1G6Gg6m_z-s7tTEAGWgxRJk5zqDXcP7U.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=690a3a5b6e34eb38ed02896e5ccf8909b56b6128",
+      "is_promoted": false
     },
     {
-      "title": "The kind of India we ignore",
-      "permalink": "https://www.reddit.com/r/india/comments/1myqyaz/the_kind_of_india_we_ignore/",
-      "score": 6827,
-      "comments": 262,
-      "post_id": "t3_1myqyaz",
+      "title": "It’s wild how quickly the narrative shifts.",
+      "permalink": "https://www.reddit.com/r/india/comments/1n4uomo/its_wild_how_quickly_the_narrative_shifts/",
+      "score": 1510,
+      "comments": 249,
+      "post_id": "t3_1n4uomo",
       "post_type": "text",
       "domain": "self.india",
-      "author": "Specialist_Meaning73",
-      "author_id": "t2_t05m07av",
+      "author": "Far_Effort_",
+      "author_id": "t2_1uvhqazv7v",
       "subreddit_id": "t5_2qh1q",
       "subreddit": "r/india",
-      "created_ts": "2025-08-24T09:18:15.984000+0000",
-      "content_href": "https://www.reddit.com/r/india/comments/1myqyaz/the_kind_of_india_we_ignore/",
-      "content_preview": "",
-      "flair": [
-        "People"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "Is my MIL right?",
-      "permalink": "https://www.reddit.com/r/india/comments/1n6c91t/is_my_mil_right/",
-      "score": 87,
-      "comments": 114,
-      "post_id": "t3_1n6c91t",
-      "post_type": "text",
-      "domain": "self.india",
-      "author": "Old-Philosophy-3595",
-      "author_id": "t2_b838l6du",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-09-02T06:33:38.336000+0000",
-      "content_href": "https://www.reddit.com/r/india/comments/1n6c91t/is_my_mil_right/",
-      "content_preview": "",
-      "flair": [
-        "People"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "'Threw India ties aside for Pakistan business': Ex-US NSA Jake Sullivan blasts Trump; calls it a 'huge strategic harm'",
-      "permalink": "https://www.reddit.com/r/india/comments/1n6bq99/threw_india_ties_aside_for_pakistan_business_exus/",
-      "score": 225,
-      "comments": 14,
-      "post_id": "t3_1n6bq99",
-      "post_type": "link",
-      "domain": "timesofindia.indiatimes.com",
-      "author": "mumbaiblues",
-      "author_id": "t2_6n64l",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-09-02T06:01:12.148000+0000",
-      "content_href": "https://timesofindia.indiatimes.com/world/us/threw-india-ties-aside-for-pakistan-business-ex-us-nsa-jake-sullivan-blasts-trump-calls-it-a-huge-strategic-harm/articleshow/123646852.cms",
-      "content_preview": "",
+      "created_ts": "2025-08-31T13:26:25.788000+0000",
+      "content_href": "https://www.reddit.com/r/india/comments/1n4uomo/its_wild_how_quickly_the_narrative_shifts/",
+      "content_preview": "Not long ago, the government and its supporters were loudly anti-China. Every speech, every slogan, every social media post was about Galwan, boycotting Chinese goods, and standing firm against the dragon. If someone questioned the government's China policy even out of genuine concern they were immediately branded a China sympathizer or accused of being anti-national. It wasn’t about supporting China, it was about asking for clarity and accountability.Now Modi visits China, shakes hands, talks trade and diplomacy, and suddenly those same voices are giving lectures on GEOPOLITICS. They’re all about strategic partnerships, economic pragmatism, and mature diplomacy. The same people who once said “no compromise” are now telling everyone to chill and understand the bigger picture.And this comes just months after Operation Sindoor, where China actively supported Pakistan during the conflict. According to Deputy Chief of Army Staff Lt Gen Rahul R Singh, China was providing live battlefield intelligence to Pakistan, helping them track Indian military movements in real time. He even described the situation as having “one border and two adversaries,” with China using Pakistan as a proxy to test its own military hardware.Galwan? Not a word. Martyrs? Forgotten. Criticism? Still unwelcome but now you're just “too emotional” or “not smart enough” to grasp foreign policy.It’s funny how patriotism gets rebranded when the handshake comes from the top.P.S. - Guys please don't comment  the same line 'No permanent friends or enemies in geopolitics. Only permanent interests.' again and again, you're making it too obvious where it is coming from. And if you're still commenting this then atleast mention what interests of India are going to be served here and how they will counter the USA tariffs.",
       "flair": [
         "Foreign Relations"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Delhi stray dog issue: Maneka Gandhi says poor people get bitten by dogs because…",
+      "permalink": "https://www.reddit.com/r/india/comments/1n8xvgf/delhi_stray_dog_issue_maneka_gandhi_says_poor/",
+      "score": 78,
+      "comments": 7,
+      "post_id": "t3_1n8xvgf",
+      "post_type": "link",
+      "domain": "hindustantimes.com",
+      "author": "ppatra",
+      "author_id": "t2_tfv0d",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-05T06:31:36.849000+0000",
+      "content_href": "https://www.hindustantimes.com/htcity/htcity-delhi-junction/delhi-stray-dog-issue-maneka-gandhi-says-poor-people-get-bitten-by-dogs-because-101756965870592-amp.html",
+      "content_preview": "",
+      "flair": [
+        "Non Political"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3o5d1/styles/profileIcon_06drlnnbyk841.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c63366a685d3a57273164eaca51b4e71a59b7be6",
+      "is_promoted": false
+    },
+    {
+      "title": "Police clearance certificate pending",
+      "permalink": "https://www.reddit.com/r/india/comments/1n90q0f/police_clearance_certificate_pending/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n90q0f",
+      "post_type": "text",
+      "domain": "self.india",
+      "author": "Business_Ad_4213",
+      "author_id": "t2_iavxbhei",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-05T09:36:56.375000+0000",
+      "content_href": "https://www.reddit.com/r/india/comments/1n90q0f/police_clearance_certificate_pending/",
+      "content_preview": "Dear friends,I intend to go to South Africa for education early next year and as for the first process, I've applied for a Police Clearance Certificate.At the PSK, Sai Arcade, Bangalore, the process was straightforward and completed quickly. At the C counter (last counter), I was told that the Police will contact me soon.The police contacted me next day, came and collected all the documents I took to the Passport office with a signature. (did ask for some money which I gave) He left without saying much.I have no history with police and am a mere student. As I glance at the passport Seva website to track my status, it shows pending with police station. And after a grant has been processed from the local police station, the Police clearance certificate will be dispatched to me.My questions.I am going away from Bangalore to another state for 2 months in a few days, will my physical absence affect this process at the time of PCC delivery or anything else?Is this normal? The fact that PCC is getting delayed.Please help me understand if this is expected or if it's out of the ordinary.Unable to attach images, but here is the text associated with Status row:\"PCC application has been granted on 01/09/2025. Police Verification has been initiated and a request has been sent to XXXXXX Police station, Bengaluru. PCC will be dispatched to your current address after a 'Clear' Police Verification Report is received at the RPO. You would receive an sms once the PCC is ready for dispatch.\"",
+      "flair": [
+        "Travel"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
       "title": "Aftermath of Rahul Gandhi's press conference: something is coming and its going to be big",
       "permalink": "https://www.reddit.com/r/india/comments/1mma2dc/aftermath_of_rahul_gandhis_press_conference/",
-      "score": 3339,
+      "score": 3344,
       "comments": 347,
       "post_id": "t3_1mma2dc",
       "post_type": "text",
@@ -100,96 +551,162 @@
       "subreddit": "r/india",
       "created_ts": "2025-08-10T05:09:00.728000+0000",
       "content_href": "https://www.reddit.com/r/india/comments/1mma2dc/aftermath_of_rahul_gandhis_press_conference/",
+      "content_preview": "If history has taught us anything, it’s this: the moment people in India start waking up when we begin to understand our rights, see the depth of our oppression, and recognise how crooked the ruling party really is  the narrative suddenly changes. Every time there’s a spark of unity among the people, something conveniently happens that shifts our attention.It could be a terrorist attack, a high-profile scam, a manufactured religious conflict, or some “historic” announcement that dominates the headlines. And just like that, public outrage fades, conversations get hijacked, and we go back to being distracted almost willingly blindfolded while the real issues are buried.Think about it. Whenever there’s a major expose  from corruption scandals to shocking failures in governance, something else takes over the news cycle. The sudden border tensions, demonetisation, Pulwama, the Ayodhya verdict celebrations, celebrity controversies, some kind of scandal, pahalgam attack (not saying it was orchestrated) … the list goes on.I’m telling you now! it’s going to happen again. Something big is coming maybe an “unexpected” national security incident, a massive scam, or a historic court ruling that comes out of nowhere and it will push people right back into forgetting what really matters. I’m calling it right nowwwwwww!!!!",
+      "flair": [
+        "Politics"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "“How Dare You?\" Ajit Pawar's Heated Exchange With Woman IPS Officer Over Excavation",
+      "permalink": "https://www.reddit.com/r/india/comments/1n8wblj/how_dare_you_ajit_pawars_heated_exchange_with/",
+      "score": 72,
+      "comments": 2,
+      "post_id": "t3_1n8wblj",
+      "post_type": "link",
+      "domain": "ndtv.com",
+      "author": "bhodrolok",
+      "author_id": "t2_o70nx",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-05T04:58:09.400000+0000",
+      "content_href": "https://www.ndtv.com/india-news/ajit-pawars-exchange-with-woman-ips-officer-anjana-krishna-over-solapur-excavation-how-dare-you-9220088",
       "content_preview": "",
       "flair": [
         "Politics"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://external-preview.redd.it/4_OkuVmbWMvgsmpLpss-TByBBDe70nPQW5kyt6A9eTg.jpeg?width=140&height=86&crop=140:86,smart&auto=webp&s=18756617ae5058db0dcfadad4ffc158e1ad2f517",
+      "is_promoted": false
     },
     {
-      "title": "Tesla gets around 600 orders since India launch: Bloomberg",
-      "permalink": "https://www.reddit.com/r/india/comments/1n6cinr/tesla_gets_around_600_orders_since_india_launch/",
-      "score": 67,
-      "comments": 18,
-      "post_id": "t3_1n6cinr",
+      "title": "‘Called Sonia Gandhi ‘Jersey cow’ used ’50 crore ki Girlfriend’ jibe for Tharoor’s wife’: Mahua Moitra hits back at Modi",
+      "permalink": "https://www.reddit.com/r/india/comments/1n744wb/called_sonia_gandhi_jersey_cow_used_50_crore_ki/",
+      "score": 1000,
+      "comments": 35,
+      "post_id": "t3_1n744wb",
       "post_type": "link",
-      "domain": "m.economictimes.com",
-      "author": "Responsible-Dig3029",
-      "author_id": "t2_1uu7sp9131",
+      "domain": "financialexpress.com",
+      "author": "one_brown_jedi",
+      "author_id": "t2_63npk",
       "subreddit_id": "t5_2qh1q",
       "subreddit": "r/india",
-      "created_ts": "2025-09-02T06:51:20.763000+0000",
-      "content_href": "https://m.economictimes.com/tech/technology/tesla-gets-around-600-orders-since-india-launch-bloomberg/articleshow/123648677.cms",
+      "created_ts": "2025-09-03T03:23:03.260000+0000",
+      "content_href": "https://www.financialexpress.com/india-news/called-sonia-gandhi-jersey-cow-used-50-crore-ki-girlfriend-jibe-for-tharoors-wife-mahua-moitra-hits-back-at-modi/3964715/",
       "content_preview": "",
       "flair": [
-        "Business/Finance"
+        "Culture & Heritage"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
-      "title": "Is Ethanol mixing a bigger scam than the 2G scam?",
-      "permalink": "https://www.reddit.com/r/india/comments/1n32wz2/is_ethanol_mixing_a_bigger_scam_than_the_2g_scam/",
-      "score": 2655,
-      "comments": 253,
-      "post_id": "t3_1n32wz2",
-      "post_type": "text",
-      "domain": "self.india",
-      "author": "Weekly-Card-8508",
-      "author_id": "t2_a0o2wsl2",
+      "title": "Hey Reddit, what does the inside of your carton look like? And on that note...if you’re running low, be sure to restock on ethical eggs made with fresh air and sunshine!",
+      "permalink": "https://www.reddit.com/user/VitalFarms/comments/1kao92a/hey_reddit_what_does_the_inside_of_your_carton/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1kao92a",
+      "post_type": "image",
+      "domain": "vitalfarms.com",
+      "author": "VitalFarms",
+      "author_id": "t2_10btn1",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-04-29T13:42:37.407000+0000",
+      "content_href": "https://vitalfarms.com/find-us/",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1bwb5c/styles/profileIcon_4kb21e1r10z91.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=19f8925dd029a18a132320b3ef0614f18f6b1986",
+      "is_promoted": true
+    },
+    {
+      "title": "Israel to sign major economic cooperation deal with India",
+      "permalink": "https://www.reddit.com/r/india/comments/1n8u9zp/israel_to_sign_major_economic_cooperation_deal/",
+      "score": 249,
+      "comments": 55,
+      "post_id": "t3_1n8u9zp",
+      "post_type": "link",
+      "domain": "ynetnews.com",
+      "author": "telephonecompany",
+      "author_id": "t2_3oqrt",
       "subreddit_id": "t5_2qh1q",
       "subreddit": "r/india",
-      "created_ts": "2025-08-29T09:39:13.133000+0000",
-      "content_href": "https://www.reddit.com/r/india/comments/1n32wz2/is_ethanol_mixing_a_bigger_scam_than_the_2g_scam/",
+      "created_ts": "2025-09-05T03:08:42.950000+0000",
+      "content_href": "https://www.ynetnews.com/business/article/hj9q0ls5xl",
       "content_preview": "",
       "flair": [
-        "Policy/Economy"
+        "Foreign Relations"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+      "thumbnail_url": "https://external-preview.redd.it/CZa1vA-sr-5QiYFFaGP9Zv_qstYCL97S1IE5mwHT04Y.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=b84c7c794c6029bc8ecfbc0e62a4f46d170a8ce3",
+      "is_promoted": false
     },
     {
-      "title": "Our school has recently started charging ₹100 for every absence. Students are also told they won’t be allowed in class unless they pay, but no official receipts are given. Could the education authorities kindly clarify if such fines are permitted?",
-      "permalink": "https://www.reddit.com/r/india/comments/1n5y2xw/our_school_has_recently_started_charging_100_for/",
-      "score": 525,
-      "comments": 42,
-      "post_id": "t3_1n5y2xw",
-      "post_type": "text",
-      "domain": "self.india",
-      "author": "Jonasismine",
-      "author_id": "t2_cin9z7gg",
+      "title": "Judge Who Denied Bail To Umar Khalid Retires; Lawyer Slams For Verdict For 'Post-Retirement Job'| TimelineDaily",
+      "permalink": "https://www.reddit.com/r/india/comments/1n8xb51/judge_who_denied_bail_to_umar_khalid_retires/",
+      "score": 51,
+      "comments": 2,
+      "post_id": "t3_1n8xb51",
+      "post_type": "link",
+      "domain": "timelinedaily.com",
+      "author": "Truthbytruther",
+      "author_id": "t2_r0n3h8y75",
       "subreddit_id": "t5_2qh1q",
       "subreddit": "r/india",
-      "created_ts": "2025-09-01T19:22:07.848000+0000",
-      "content_href": "https://www.reddit.com/r/india/comments/1n5y2xw/our_school_has_recently_started_charging_100_for/",
+      "created_ts": "2025-09-05T05:56:40.346000+0000",
+      "content_href": "https://timelinedaily.com/india/judge-who-denied-bail-to-umar-khalid-retires-faces-post-retirement-job-criticism",
       "content_preview": "",
       "flair": [
         "Law & Courts"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://external-preview.redd.it/EmOrMWER7nc73FvhwLQrUlN5TZDPxpSowImcy_XLZnA.jpeg?width=140&height=105&crop=140:105,smart&auto=webp&s=75c5f5c43fe7c39b1355b97ce80d16ec94b03711",
+      "is_promoted": false
     },
     {
-      "title": "UP woman forced to drink acid by in-laws over dowry, dies after 17 days",
-      "permalink": "https://www.reddit.com/r/india/comments/1n6f68k/up_woman_forced_to_drink_acid_by_inlaws_over/",
-      "score": 1,
-      "comments": 1,
-      "post_id": "t3_1n6f68k",
+      "title": "Rajasthan Man Pours Acid On Wife Due To Her Dark Complexion, Gets Death Penalty",
+      "permalink": "https://www.reddit.com/r/india/comments/1n88wtw/rajasthan_man_pours_acid_on_wife_due_to_her_dark/",
+      "score": 994,
+      "comments": 52,
+      "post_id": "t3_1n88wtw",
       "post_type": "link",
-      "domain": "indiatoday.in",
-      "author": "mumbaiblues",
-      "author_id": "t2_6n64l",
+      "domain": "ndtv.com",
+      "author": "AutomaticRoll1092",
+      "author_id": "t2_1wn4wsq4ek",
       "subreddit_id": "t5_2qh1q",
       "subreddit": "r/india",
-      "created_ts": "2025-09-02T09:46:37.439000+0000",
-      "content_href": "https://www.indiatoday.in/india/story/uttar-pradesh-woman-forced-to-drink-acid-by-in-laws-over-dowry-dies-after-17-days-amroha-2778533-2025-08-29",
+      "created_ts": "2025-09-04T12:35:06.371000+0000",
+      "content_href": "https://www.ndtv.com/cities/rajasthan-man-pours-acid-on-wife-due-to-her-dark-complexion-gets-death-penalty-9193704",
       "content_preview": "",
       "flair": [
         "Crime"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "‘We’re at DEFCON 1’: India, bruised by US tariffs, cozies up to Russia, China",
+      "permalink": "https://www.reddit.com/r/india/comments/1n8tdp1/were_at_defcon_1_india_bruised_by_us_tariffs/",
+      "score": 96,
+      "comments": 32,
+      "post_id": "t3_1n8tdp1",
+      "post_type": "link",
+      "domain": "politico.com",
+      "author": "telephonecompany",
+      "author_id": "t2_3oqrt",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-05T02:24:44.399000+0000",
+      "content_href": "https://www.politico.com/news/2025/09/04/were-at-defcon-1-india-bruised-by-u-s-tariffs-cozies-up-to-russia-china-00542765",
+      "content_preview": "",
+      "flair": [
+        "Foreign Relations"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "80 voters in 10 sq ft Bengaluru house: India Today ground check on Rahul Gandhi's claim",
       "permalink": "https://www.reddit.com/r/india/comments/1mkrual/80_voters_in_10_sq_ft_bengaluru_house_india_today/",
-      "score": 2719,
+      "score": 2723,
       "comments": 133,
       "post_id": "t3_1mkrual",
       "post_type": "link",
@@ -204,133 +721,14 @@
       "flair": [
         "Politics"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "This Bengal worker proved he is Indian after being pushed into Bangladesh – but he paid with his job",
-      "permalink": "https://www.reddit.com/r/india/comments/1n6bcip/this_bengal_worker_proved_he_is_indian_after/",
-      "score": 75,
-      "comments": 11,
-      "post_id": "t3_1n6bcip",
-      "post_type": "link",
-      "domain": "scroll.in",
-      "author": "opinion_discarder",
-      "author_id": "t2_116p8lxrv1",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-09-02T05:38:10.835000+0000",
-      "content_href": "https://scroll.in/article/1086108/this-bengal-worker-proved-he-is-indian-after-being-pushed-into-bangladesh-but-he-paid-with-his-job",
-      "content_preview": "",
-      "flair": [
-        "Crime"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "Hey everyone, I’m Rana Daggubati! Join me for an AMA on 26th Aug, 7:30 PM IST, at r/india. Ask me anything about Baahubali: The Epic, playing Bhallaladeva, building cinematic worlds, or just my journey as an actor, producer, and entrepreneur in Indian cinema.",
-      "permalink": "https://www.reddit.com/r/india/comments/1n0mh18/hey_everyone_im_rana_daggubati_join_me_for_an_ama/",
-      "score": 2152,
-      "comments": 1902,
-      "post_id": "t3_1n0mh18",
-      "post_type": "multi_media",
-      "domain": "self.india",
-      "author": "BaahubaliFranchise",
-      "author_id": "t2_1t4ac5ff1o",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-08-26T13:53:12.628000+0000",
-      "content_href": "https://www.reddit.com/r/india/comments/1n0mh18/hey_everyone_im_rana_daggubati_join_me_for_an_ama/",
-      "content_preview": "",
-      "flair": [
-        "AMA"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_evpsw5/styles/profileIcon_51bg2zeq0olf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f22b13649bb699a3335a4df292237a212fe276d8"
-    },
-    {
-      "title": "Rahul Gandhi says will drop 'vote chori hydrogen bomb', BJP calls it dud",
-      "permalink": "https://www.reddit.com/r/india/comments/1n671et/rahul_gandhi_says_will_drop_vote_chori_hydrogen/",
-      "score": 249,
-      "comments": 36,
-      "post_id": "t3_1n671et",
-      "post_type": "link",
-      "domain": "indiatoday.in",
-      "author": "snorlaxgang",
-      "author_id": "t2_1lhpxzkq9s",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-09-02T01:48:27.740000+0000",
-      "content_href": "https://www.indiatoday.in/india/story/rahul-gandhi-vote-chori-pm-modi-hydrogen-bomb-china-bjp-congress-bihar-sir-2780182-2025-09-01",
-      "content_preview": "",
-      "flair": [
-        "Politics"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/z6RPDEa_egxFZFNCdd7pN0H5avCxyhW3VK7AMbEV_oA.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=128d4b8b0c2a5cd319cb1de773b4091d2b0a1df9"
-    },
-    {
-      "title": "\"Two Great Nations Will Get This Solved\": Team Trump Amid India Tariffs",
-      "permalink": "https://www.reddit.com/r/india/comments/1n69nly/two_great_nations_will_get_this_solved_team_trump/",
-      "score": 86,
-      "comments": 18,
-      "post_id": "t3_1n69nly",
-      "post_type": "link",
-      "domain": "ndtv.com",
-      "author": "godblessthegays",
-      "author_id": "t2_14sm5c",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-09-02T04:00:10.775000+0000",
-      "content_href": "https://www.ndtv.com/world-news/donald-trump-aide-scott-bessent-on-india-tariffs-two-great-nations-will-get-this-solved-9200054?pfrom=home-ndtv_topscroll",
-      "content_preview": "",
-      "flair": [
-        "Foreign Relations"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/_S38S7UtW1EJbpbxoxPmNzUFXVl98s3_JC7YKO0L0FM.jpeg?width=140&height=86&crop=140:86,smart&auto=webp&s=baf210d1a2a0c3dcc3851ebaa9308d8f98219b34"
-    },
-    {
-      "title": "As an Indian in the US, it’s embarrassing how bad we are at greetings compared to Pakistanis.",
-      "permalink": "https://www.reddit.com/r/india/comments/1n1lz20/as_an_indian_in_the_us_its_embarrassing_how_bad/",
-      "score": 1725,
-      "comments": 350,
-      "post_id": "t3_1n1lz20",
-      "post_type": "text",
-      "domain": "self.india",
-      "author": "Deadpool_7_",
-      "author_id": "t2_qau9h8b4",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-08-27T16:35:51.112000+0000",
-      "content_href": "https://www.reddit.com/r/india/comments/1n1lz20/as_an_indian_in_the_us_its_embarrassing_how_bad/",
-      "content_preview": "",
-      "flair": [
-        "Culture & Heritage"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Will show spots where murder victims were buried: Dharmasthala villagers to SIT",
-      "permalink": "https://www.reddit.com/r/india/comments/1n6abzs/will_show_spots_where_murder_victims_were_buried/",
-      "score": 60,
-      "comments": 5,
-      "post_id": "t3_1n6abzs",
-      "post_type": "link",
-      "domain": "newindianexpress.com",
-      "author": "nonstop-nonsense",
-      "author_id": "t2_f4j1w2f",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-09-02T04:38:04.205000+0000",
-      "content_href": "https://www.newindianexpress.com/states/karnataka/2025/Sep/02/will-show-spots-where-murder-victims-were-buried-dharmasthala-villagers-to-sit",
-      "content_preview": "",
-      "flair": [
-        "Crime"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/uz0Nb3a6oIID77j2F-RapASaqNTFOUYDJ8uBve-cLdg.jpeg?width=140&height=87&crop=140:87,smart&auto=webp&s=986beae2ec12497ff78c64e88f22ebdd5aec5249"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
       "title": "Rahul Gandhi’s “Vote Robbery” has left me hopeless",
       "permalink": "https://www.reddit.com/r/india/comments/1mlgsmt/rahul_gandhis_vote_robbery_has_left_me_hopeless/",
-      "score": 2671,
-      "comments": 395,
+      "score": 2675,
+      "comments": 394,
       "post_id": "t3_1mlgsmt",
       "post_type": "text",
       "domain": "self.india",
@@ -340,116 +738,141 @@
       "subreddit": "r/india",
       "created_ts": "2025-08-09T04:43:20.780000+0000",
       "content_href": "https://www.reddit.com/r/india/comments/1mlgsmt/rahul_gandhis_vote_robbery_has_left_me_hopeless/",
-      "content_preview": "",
+      "content_preview": "Yesterday as most of you heard Rahul Gandhi came out with huge accusations of vote robbery.As a 23 year old who always believed this country still has place for meritocracy, i feel very hopeless now. As a kid i used to believe i could make a difference through sheer hardwork and excelling in my own domain.What’s the point of anything now? The very foundation of “freedom” is corrupted. This didn’t even make headlines on Times Of India today. How crazy is that. Modi meeting putin(tentative )is still the main article. The media has been sold for so long.As a young man why should i continue to believe in the system that is so blatantly rigged against me.I gave up moving abroad cause i had faith that India will provide. But now it feels like sunlight through a prison cell window.Ask around in your friend group if they can recall one major fuxk up/scam of this government. None of my friends could 😭. No govt is so perfect. What i’ve noticed in my friend circle is people are just so unbothered. Idk if this the case with other generations as well.Hope i don’t go to jail over this rant jeez. 🤣",
       "flair": [
         "Politics"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "Don’t Visit Lal Baug Cha Raja, if you aren’t a public figure or have 100s crores in your pocket",
-      "permalink": "https://www.reddit.com/r/india/comments/1n2khzb/dont_visit_lal_baug_cha_raja_if_you_arent_a/",
-      "score": 1608,
-      "comments": 203,
-      "post_id": "t3_1n2khzb",
+      "title": "Fuck Cancer.",
+      "permalink": "https://www.reddit.com/r/india/comments/1n2x50o/fuck_cancer/",
+      "score": 930,
+      "comments": 113,
+      "post_id": "t3_1n2x50o",
       "post_type": "text",
       "domain": "self.india",
-      "author": "MasalaGuy",
-      "author_id": "t2_vosdrqfjf",
+      "author": "lolmyhumour",
+      "author_id": "t2_udfaji2g",
       "subreddit_id": "t5_2qh1q",
       "subreddit": "r/india",
-      "created_ts": "2025-08-28T18:40:19.762000+0000",
-      "content_href": "https://www.reddit.com/r/india/comments/1n2khzb/dont_visit_lal_baug_cha_raja_if_you_arent_a/",
-      "content_preview": "",
+      "created_ts": "2025-08-29T03:46:06.111000+0000",
+      "content_href": "https://www.reddit.com/r/india/comments/1n2x50o/fuck_cancer/",
+      "content_preview": "It's a long post please bare with me. I don't have anyone to talk to or listen to me either.My parents went to Vellore a few weeks ago to get a proper diagnosis about their deteriorating health.My dad smokes ciggerate, one day he just coughed a few times and collapsed on the floor unconscious. My mother yelled and I rushed out of my room to see what happened. I saw my dad lying on the floor and I just went to shake him awake. He got back into conciousness a few seconds later and he wasn't even aware that he was lying on the floor.My mother has been losing weight since a year with low hemoglobin and since January her skin has been itching really bad. We went to a derma, the derma diagnosed scabies and gave her some meds and ointment. The meds didn't work even after a month of consistent use. So we went to another, he diagnosed scabies too and gave some powder. It didn't work either. And then another derma. Her skin itch was persistent with purple spots on her back and marks on her leg.So they went to Vellore CMC to get a proper diagnosis.Dad's report was pretty much normal the doctor just asked him to stop smoking.They ran multiple tests on my mother and the doctor said it could be myeloma. But they still wanted to do a bone marrow test to be sure. So they did the bone marrow test on 26th August (2 days ago). I didn't want to believe that it was cancer. I just thought she is losing weight because of her poor diet and she doesn't drink enough water throughout the day. I used to go after her poking her to drink water every hour but I wasn't very consistent with my poking.So I just didn't want to believe it was cancer. I mean doctor were just guessing until the bone marrow results came.The bone marrow results came yesterday and I just can't stop crying ever since. It's not curable. And patients always relapse. I don't know how will everything figure out.They are coming back on 8th September so we will figure it out then.I still had studies to do and now me and mom might have to shift to Kolkata for weekly chemotherapy. This is going to hamper my studies severely. Dad will stay in the hometown because someone has to earn.I am also worried about my mother. She can't handle pain she crys over littlest stuffs. And I have heard chemo is extremely painful. People vomit, get fever and body aches and fatigue. I just can't imagine seeing her in so many pain.Why did it have to be cancer... She didn't deserve this.",
       "flair": [
-        "People"
+        "Health"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
-      "title": "father already in emi-debt wants me to get into same position. help me!!",
-      "permalink": "https://www.reddit.com/r/india/comments/1n6att4/father_already_in_emidebt_wants_me_to_get_into/",
-      "score": 36,
-      "comments": 39,
-      "post_id": "t3_1n6att4",
-      "post_type": "text",
-      "domain": "self.india",
-      "author": "Adorable-Fondant6560",
-      "author_id": "t2_15x50z45k1",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-09-02T05:06:43.136000+0000",
-      "content_href": "https://www.reddit.com/r/india/comments/1n6att4/father_already_in_emidebt_wants_me_to_get_into/",
-      "content_preview": "",
-      "flair": [
-        "Business/Finance"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "Trump says India offered to reduce tariffs on US goods to nothing",
-      "permalink": "https://www.reddit.com/r/india/comments/1n5pfl8/trump_says_india_offered_to_reduce_tariffs_on_us/",
-      "score": 565,
-      "comments": 62,
-      "post_id": "t3_1n5pfl8",
+      "title": "Bangladesh Requires Not Petulance But Careful Handling",
+      "permalink": "https://www.reddit.com/r/india/comments/1n90dbv/bangladesh_requires_not_petulance_but_careful/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1n90dbv",
       "post_type": "link",
-      "domain": "reuters.com",
+      "domain": "thewire.in",
       "author": "telephonecompany",
       "author_id": "t2_3oqrt",
       "subreddit_id": "t5_2qh1q",
       "subreddit": "r/india",
-      "created_ts": "2025-09-01T13:58:45.800000+0000",
-      "content_href": "https://www.reuters.com/world/india/trump-says-india-offered-reduce-tariffs-us-goods-nothing-2025-09-01/",
+      "created_ts": "2025-09-05T09:14:56.635000+0000",
+      "content_href": "https://thewire.in/diplomacy/bangladesh-requires-not-petulance-but-careful-handling",
       "content_preview": "",
       "flair": [
         "Foreign Relations"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/0la3DaPWu7_uNpukIAyhHz_QqjraDHyi9JTirVzD_nE.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=e6ac247c64cf7d79ccf20288e0286cbe0770acce"
+      "thumbnail_url": "https://external-preview.redd.it/kYKnZkz1OKH_JD2wP8S4tA3wI3h7Usu24Gg9qIGkVlI.jpeg?width=140&height=70&crop=140:70,smart&auto=webp&s=54247359e6e55880afb29facfa4f49f09ed00daa",
+      "is_promoted": false
     },
     {
-      "title": "Indian travel to US drop 8% in June 2025, first fall since 2001: US tourism office",
-      "permalink": "https://www.reddit.com/r/india/comments/1n6a7e0/indian_travel_to_us_drop_8_in_june_2025_first/",
-      "score": 36,
-      "comments": 3,
-      "post_id": "t3_1n6a7e0",
-      "post_type": "link",
-      "domain": "moneycontrol.com",
-      "author": "sharedevaaste",
-      "author_id": "t2_8vke7cyi",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-09-02T04:30:40.636000+0000",
-      "content_href": "https://www.moneycontrol.com/world/indian-travel-to-us-drop-8-in-june-2025-first-fall-since-2001-us-tourism-office-article-13504959.html",
+      "title": "When Sean checks his glucose levels with his FreeStyle Libre 3 Plus sensor, “It gives me that confidence, it gives me that reliability, and it gives me the ability to be mobile.” See for yourself!",
+      "permalink": "https://www.reddit.com/user/Abbott-FreeStyle-US/comments/1mxbaxs/when_sean_checks_his_glucose_levels_with_his/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mxbaxs",
+      "post_type": "video",
+      "domain": "freestyle.abbott",
+      "author": "Abbott-FreeStyle-US",
+      "author_id": "t2_8guuu36v",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-22T16:32:13.286000+0000",
+      "content_href": "https://v.redd.it/q4d2gjz64kkf1",
       "content_preview": "",
-      "flair": [
-        "Travel"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/BsDRwWak8OCEriTOQGm2XGF-6rKsn0H3krVoh-NCgfw.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=a392f37ba728b886a4c9898c6de5c2fef35b6947"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_394pil/styles/profileIcon_3siegr2ensfe1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=23f578d1952197204569d259ef3aecd02df40c58",
+      "is_promoted": true
     },
     {
-      "title": "‘Hydrogen bomb’ of revelations on ‘vote chori’ coming, Modi will not be able to show his face, says Rahul Gandhi",
-      "permalink": "https://www.reddit.com/r/india/comments/1n5lkq6/hydrogen_bomb_of_revelations_on_vote_chori_coming/",
-      "score": 677,
-      "comments": 77,
-      "post_id": "t3_1n5lkq6",
+      "title": "Understanding American Hindutva & Caste",
+      "permalink": "https://www.reddit.com/r/india/comments/1n9084o/understanding_american_hindutva_caste/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n9084o",
       "post_type": "link",
-      "domain": "thehindu.com",
-      "author": "BannedForFactsAgain",
-      "author_id": "t2_pcv0fis",
+      "domain": "youtu.be",
+      "author": "puddi_tat",
+      "author_id": "t2_33z4o",
       "subreddit_id": "t5_2qh1q",
       "subreddit": "r/india",
-      "created_ts": "2025-09-01T10:54:45.508000+0000",
-      "content_href": "https://www.thehindu.com/elections/bihar-assembly/hydrogen-bomb-of-revelations-on-vote-chori-coming-modi-will-not-be-able-to-show-his-face-says-rahul-gandhi/article69999367.ece",
+      "created_ts": "2025-09-05T09:05:47.164000+0000",
+      "content_href": "https://youtu.be/7aUUkx8J7d0",
       "content_preview": "",
       "flair": [
-        "Politics"
+        "Culture & Heritage"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "No barrier from Dhaka on improving India ties: Bangladesh",
+      "permalink": "https://www.reddit.com/r/india/comments/1n902t4/no_barrier_from_dhaka_on_improving_india_ties/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n902t4",
+      "post_type": "link",
+      "domain": "timesofindia.indiatimes.com",
+      "author": "telephonecompany",
+      "author_id": "t2_3oqrt",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-05T08:56:30.377000+0000",
+      "content_href": "https://timesofindia.indiatimes.com/world/south-asia/no-barrier-from-dhaka-on-improving-india-ties-bangladesh/articleshow/123710228.cms",
+      "content_preview": "",
+      "flair": [
+        "Foreign Relations"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/hctpOlJCQ6aMta33rwR3_fZ2cBpj8_fABEdTwf5VTQw.jpeg?width=140&height=75&crop=140:75,smart&auto=webp&s=3266527fe77bb65add84e8648832a6ac4797ca6f",
+      "is_promoted": false
+    },
+    {
+      "title": "\"Projecting Every Muslim as Bangladeshi\": Mahmood Madani Slams Assam CM",
+      "permalink": "https://www.reddit.com/r/india/comments/1n901xa/projecting_every_muslim_as_bangladeshi_mahmood/",
+      "score": 9,
+      "comments": 2,
+      "post_id": "t3_1n901xa",
+      "post_type": "link",
+      "domain": "pratidintime.com",
+      "author": "opinion_discarder",
+      "author_id": "t2_116p8lxrv1",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-05T08:54:54.859000+0000",
+      "content_href": "https://www.pratidintime.com/top-stories/projecting-every-muslim-as-bangladeshi-mahmood-madani-slams-assam-cm-9986626",
+      "content_preview": "",
+      "flair": [
+        "Religion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
       "title": "Rahul Gandhi: I'm a politician. What I say to the people is my word. I'm saying it publicly to everybody, so take it as an oath. This is their data, and we're displaying their data. This isn't our data; it's Election Commission data. Interestingly, they haven't denied the information.",
       "permalink": "https://www.reddit.com/r/india/comments/1mk30sc/rahul_gandhi_im_a_politician_what_i_say_to_the/",
-      "score": 2633,
+      "score": 2635,
       "comments": 242,
       "post_id": "t3_1mk30sc",
       "post_type": "link",
@@ -464,73 +887,14 @@
       "flair": [
         "Politics"
       ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "'Threatened to fail girl in exams': UP school principal rapes, proposes marriage to 11-year-old student; arrested | Agra News - The Times of India",
-      "permalink": "https://www.reddit.com/r/india/comments/1n6ep49/threatened_to_fail_girl_in_exams_up_school/",
-      "score": 57,
-      "comments": 3,
-      "post_id": "t3_1n6ep49",
-      "post_type": "link",
-      "domain": "timesofindia.indiatimes.com",
-      "author": "Independent_Paint634",
-      "author_id": "t2_5hrmpgpa",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-09-02T09:15:38.099000+0000",
-      "content_href": "https://timesofindia.indiatimes.com/city/agra/up-school-principal-rapes-proposes-marriage-to-11-yr-old-student-arrested/articleshow/123605723.cms",
-      "content_preview": "",
-      "flair": [
-        "Crime"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/YOrSYtXhSTRtAsSkjwtTnyup1nqY369koxq16nL1JMs.png?width=140&height=75&crop=140:75,smart&auto=webp&s=a528ecc4beedcb2303946eecf8c2517497dc5bf9"
-    },
-    {
-      "title": "'India is not for beginners': Man cuts power supply to entire village after girlfriend doesn't take his call.",
-      "permalink": "https://www.reddit.com/r/india/comments/1n5ryvk/india_is_not_for_beginners_man_cuts_power_supply/",
-      "score": 279,
-      "comments": 14,
-      "post_id": "t3_1n5ryvk",
-      "post_type": "link",
-      "domain": "livemint.com",
-      "author": "Professor_Peace",
-      "author_id": "t2_1w11c0xw4a",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-09-01T15:36:44.152000+0000",
-      "content_href": "https://www.livemint.com/news/trends/india-is-not-for-beginners-man-cuts-power-supply-to-entire-village-after-girlfriend-doesnt-take-his-call-11756703219006.html",
-      "content_preview": "",
-      "flair": [
-        "People"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "There’s no problem if Muslims accept Indian culture, laws: Assam CM",
-      "permalink": "https://www.reddit.com/r/india/comments/1n5w9sr/theres_no_problem_if_muslims_accept_indian/",
-      "score": 144,
-      "comments": 58,
-      "post_id": "t3_1n5w9sr",
-      "post_type": "link",
-      "domain": "thehindu.com",
-      "author": "shitbjpsays",
-      "author_id": "t2_1bi2zmg2",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-09-01T18:15:32.622000+0000",
-      "content_href": "https://www.thehindu.com/news/national/assam/theres-no-problem-if-muslims-accept-indian-culture-laws-assam-cm/article70000894.ece",
-      "content_preview": "",
-      "flair": [
-        "Politics"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "'India’s sovereignty is non negotiable': China backs Delhi as Trump threatens tariff hike",
       "permalink": "https://www.reddit.com/r/india/comments/1mjqgcy/indias_sovereignty_is_non_negotiable_china_backs/",
-      "score": 2408,
-      "comments": 274,
+      "score": 2409,
+      "comments": 275,
       "post_id": "t3_1mjqgcy",
       "post_type": "link",
       "domain": "businesstoday.in",
@@ -544,7 +908,134 @@
       "flair": [
         "Foreign Relations"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/vR3HBIr9qXLmn585fAojybauj-TSMDilqtI7HKD2O9c.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=2418c63c6a0ec031cb36a13d51bb7888dd2a8e03"
+      "thumbnail_url": "https://external-preview.redd.it/vR3HBIr9qXLmn585fAojybauj-TSMDilqtI7HKD2O9c.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=2418c63c6a0ec031cb36a13d51bb7888dd2a8e03",
+      "is_promoted": false
+    },
+    {
+      "title": "MAGA escalates U.S.–India tensions into cultural clash",
+      "permalink": "https://www.reddit.com/r/india/comments/1n8kfcx/maga_escalates_usindia_tensions_into_cultural/",
+      "score": 262,
+      "comments": 37,
+      "post_id": "t3_1n8kfcx",
+      "post_type": "link",
+      "domain": "axios.com",
+      "author": "AltruisticPicture383",
+      "author_id": "t2_1ru2z297ng",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-04T19:56:58.986000+0000",
+      "content_href": "https://www.axios.com/2025/09/04/trump-india-tariffs-visas-immigration",
+      "content_preview": "",
+      "flair": [
+        "Foreign Relations"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "'Weaponised Hinduphobia': American Hindus urge Trump to fire Peter Navarro over remarks against Brahmins",
+      "permalink": "https://www.reddit.com/r/india/comments/1n7gsfz/weaponised_hinduphobia_american_hindus_urge_trump/",
+      "score": 894,
+      "comments": 123,
+      "post_id": "t3_1n7gsfz",
+      "post_type": "link",
+      "domain": "businesstoday.in",
+      "author": "TikkaTrailblazer",
+      "author_id": "t2_1ne4cr1pir",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-03T14:46:40.315000+0000",
+      "content_href": "https://www.businesstoday.in/india/story/weaponised-hinduphobia-american-hindus-urge-trump-to-fire-peter-navarro-over-remarks-against-brahmins-492265-2025-09-03",
+      "content_preview": "",
+      "flair": [
+        "Religion"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/zgVP4eP3KWhc3z4yjWBSKoHkrp5wIvfodWGKVterV34.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=282c18030b23385752278157fbe78d92dc79df4a",
+      "is_promoted": false
+    },
+    {
+      "title": "Friend (22) died under suspicious circumstances in Delhi. Police refusing FIR & postmortem. What can I do? Please guide.",
+      "permalink": "https://www.reddit.com/r/india/comments/1n8dtaa/friend_22_died_under_suspicious_circumstances_in/",
+      "score": 472,
+      "comments": 29,
+      "post_id": "t3_1n8dtaa",
+      "post_type": "text",
+      "domain": "self.india",
+      "author": "Ok-Bumblebee-4389",
+      "author_id": "t2_rwfayhaw",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-04T15:46:58.883000+0000",
+      "content_href": "https://www.reddit.com/r/india/comments/1n8dtaa/friend_22_died_under_suspicious_circumstances_in/",
+      "content_preview": "My close friend,Amrit Tiwari (22, from Indore, MP), was working at a shop nearTis Hazari Court, Delhi. On3rd September 2025 around 2 PM, he was declared dead atHindu Rao Hospital(Casualty No: CYO9/46083).The situation feels very suspicious:The shop owner has suddenly fled.The boy who was living with him is missing.Amrit was healthy and young.When we went toTis Hazari Chowki, instead of helping us, the police (led bySI Sandeep Mathur)refused to file an FIR or conduct a postmortem, which is normally mandatory in such cases. Instead, we were harassed and discouraged from pursuing the matter.This has left us completely helpless. Without FIR or postmortem, evidence is being lost, and we strongly suspect bribery and foul play.👉 I am reaching out to this community to ask:What immediate steps can we take legally?How can we ensure FIR and postmortem are done?Are there NGOs, lawyers, or journalists in Delhi who can help?How do I make this issue reach higher authorities like Delhi Police HQ or NHRC?I have already tried filing complaints online (NHRC, Vigilance, ACB), but the system feels slow. Meanwhile, the police are blocking us.Any advice, connections, or even just helping spread this will mean the world. Amrit was only 22 — he deserves justice. His family deserves answers.What can I do right now to make sure FIR and postmortem are conductedPLEASE HELP SHAIRING THIShttps://x.com/neelu_shailesh/status/1963532824138616966",
+      "flair": [
+        "Crime"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Dalit man lynched, aide injured in Odisha’s Deogarh over suspicion of cow slaughter; six arrested",
+      "permalink": "https://www.reddit.com/r/india/comments/1n8usd8/dalit_man_lynched_aide_injured_in_odishas_deogarh/",
+      "score": 51,
+      "comments": 3,
+      "post_id": "t3_1n8usd8",
+      "post_type": "gif",
+      "domain": "telegraphindia.com",
+      "author": "one_brown_jedi",
+      "author_id": "t2_63npk",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-05T03:35:08.322000+0000",
+      "content_href": "https://www.telegraphindia.com/india/dalit-man-lynched-aide-injured-in-odishas-deogarh-over-suspicion-of-cow-slaughter-six-arrested/cid/2121296",
+      "content_preview": "",
+      "flair": [
+        "Crime"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Karnataka tells EC to use ballot papers in local body polls, cites ‘erosion of confidence’ in EVMs",
+      "permalink": "https://www.reddit.com/r/india/comments/1n8w1g0/karnataka_tells_ec_to_use_ballot_papers_in_local/",
+      "score": 29,
+      "comments": 5,
+      "post_id": "t3_1n8w1g0",
+      "post_type": "link",
+      "domain": "scroll.in",
+      "author": "Karna1394",
+      "author_id": "t2_173l2byn",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-05T04:42:16.479000+0000",
+      "content_href": "https://scroll.in/latest/1086249/karnataka-tells-ec-to-use-ballot-papers-in-local-body-polls-cites-erosion-of-confidence-in-evms",
+      "content_preview": "",
+      "flair": [
+        "Politics"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_i2wa7/styles/profileIcon_f5pe7pdo91s01.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a24aec972272f6cf0b0a118640627ebe01cc269f",
+      "is_promoted": false
+    },
+    {
+      "title": "BJP MP withdraws case after probe finds Hindu man posed as Muslim to make death threats",
+      "permalink": "https://www.reddit.com/r/india/comments/1n88f3s/bjp_mp_withdraws_case_after_probe_finds_hindu_man/",
+      "score": 541,
+      "comments": 29,
+      "post_id": "t3_1n88f3s",
+      "post_type": "link",
+      "domain": "scroll.in",
+      "author": "mondegreen__",
+      "author_id": "t2_1v5lbyezu4",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-04T12:11:55.320000+0000",
+      "content_href": "https://scroll.in/latest/1086223/bjps-nishikant-dubey-withdraws-death-threat-case-after-probe-finds-conspiracy-to-frame-muslims",
+      "content_preview": "",
+      "flair": [
+        "Politics"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/DDrRQB9X4Gheg1HYt4-Oh3w70OAoBuN9XWVd2McnMG0.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=52f7978a67472e1cafc74ea04d57299d1778388a",
+      "is_promoted": false
     },
     {
       "title": "Trump raises India tariffs to 50% over Russian oil purchases",
@@ -564,67 +1055,111 @@
       "flair": [
         "Foreign Relations"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "U.S.-India relationship reaches a crossroads as Modi goes to China",
-      "permalink": "https://www.reddit.com/r/india/comments/1n5tbs1/usindia_relationship_reaches_a_crossroads_as_modi/",
-      "score": 176,
-      "comments": 20,
-      "post_id": "t3_1n5tbs1",
-      "post_type": "link",
-      "domain": "washingtonpost.com",
-      "author": "telephonecompany",
-      "author_id": "t2_3oqrt",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-09-01T16:27:04.796000+0000",
-      "content_href": "https://www.washingtonpost.com/opinions/2025/09/01/india-modi-trump-china-oil-tariffs/",
+      "title": "Only way they're letting that thing go is by swapping it with a Milk-Bone Original Biscuit.",
+      "permalink": "https://www.reddit.com/user/Milk-bone/comments/1m6ln0f/only_way_theyre_letting_that_thing_go_is_by/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1m6ln0f",
+      "post_type": "video",
+      "domain": "shop.mikmak.ai",
+      "author": "Milk-bone",
+      "author_id": "t2_unhyw5p8",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-22T18:15:41.872000+0000",
+      "content_href": "https://v.redd.it/cgq209heefef1",
       "content_preview": "",
-      "flair": [
-        "Foreign Relations"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/bLx-ZdFSaGAxXuF7-z0HKTTisHpHe6fs_R7xYedit7k.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=0c99095bd3d82fa589bfb8fb1eaf9c7d7768fabb"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7hbh1m/styles/profileIcon_cyy717hj6oib1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=38e886169a48a96f581f296696aafb1d7de626f3",
+      "is_promoted": true
     },
     {
-      "title": "‘Gave them Scorpio, they still wanted Rs 36 lakh’: Woman tortured, set ablaze by in-laws in Greater Noida; husband held, others on run",
-      "permalink": "https://www.reddit.com/r/india/comments/1mylygb/gave_them_scorpio_they_still_wanted_rs_36_lakh/",
-      "score": 1358,
-      "comments": 170,
-      "post_id": "t3_1mylygb",
+      "title": "No bail for Sharjeel Imam, Umar Khalid, 7 others in 2020 Delhi riots case",
+      "permalink": "https://www.reddit.com/r/india/comments/1n6f6rk/no_bail_for_sharjeel_imam_umar_khalid_7_others_in/",
+      "score": 893,
+      "comments": 141,
+      "post_id": "t3_1n6f6rk",
       "post_type": "link",
-      "domain": "timesofindia.indiatimes.com",
-      "author": "mumbaiblues",
-      "author_id": "t2_6n64l",
+      "domain": "indiatoday.in",
+      "author": "lordatlas",
+      "author_id": "t2_1zo4",
       "subreddit_id": "t5_2qh1q",
       "subreddit": "r/india",
-      "created_ts": "2025-08-24T04:13:00.280000+0000",
-      "content_href": "https://timesofindia.indiatimes.com/city/noida/woman-26-tortured-burnt-alive-over-dowry-by-in-laws-in-greater-noida/articleshow/123475459.cms",
+      "created_ts": "2025-09-02T09:47:32.512000+0000",
+      "content_href": "https://www.indiatoday.in/india/law-news/story/sharjeel-imam-umar-khalid-bail-denied-2020-delhi-riots-7-accused-high-court-2780682-2025-09-02",
       "content_preview": "",
       "flair": [
-        "Crime"
+        "Law & Courts"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://external-preview.redd.it/JX0G2r4_VTrI5n1W1WSg1JDMP7xPAzhFRt-uaiA8zQU.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=0c0a7f79b4c2137b2faedf37bd52ea6c50aab505",
+      "is_promoted": false
     },
     {
-      "title": "'Ready to provide all possible humanitarian aid': PM Modi on earthquake in Afghanistan as death toll stands over 800",
-      "permalink": "https://www.reddit.com/r/india/comments/1n5kde9/ready_to_provide_all_possible_humanitarian_aid_pm/",
-      "score": 562,
-      "comments": 35,
-      "post_id": "t3_1n5kde9",
-      "post_type": "link",
-      "domain": "moneycontrol.com",
-      "author": "Mrk2d",
-      "author_id": "t2_6ih2t2tp",
+      "title": "I don’t know if this is the right place to post but I don’t know where else to ask",
+      "permalink": "https://www.reddit.com/r/india/comments/1n3z0r5/i_dont_know_if_this_is_the_right_place_to_post/",
+      "score": 884,
+      "comments": 104,
+      "post_id": "t3_1n3z0r5",
+      "post_type": "text",
+      "domain": "self.india",
+      "author": "TwistEmpty715",
+      "author_id": "t2_1v5uc2qrcx",
       "subreddit_id": "t5_2qh1q",
       "subreddit": "r/india",
-      "created_ts": "2025-09-01T09:42:11.390000+0000",
-      "content_href": "https://www.moneycontrol.com/news/india/ready-to-provide-all-possible-humanitarian-aid-pm-modi-on-earthquake-in-afghanistan-13507541.html",
+      "created_ts": "2025-08-30T11:15:30.108000+0000",
+      "content_href": "https://www.reddit.com/r/india/comments/1n3z0r5/i_dont_know_if_this_is_the_right_place_to_post/",
+      "content_preview": "I’m 20F doing Fine Arts in Hyderabad. After my dad passed away, everything went down. Relatives treated me like a servant, made me do house work, babysit, insulted my art, even tried to force me into marriage with a drunk uncle just for money.And then worse… my dad’s brother started showing me porn stuff, later he and another man hit me and touched me. I told my mom crying but she said to keep quiet because “they are helping us.” That broke me. I just packed my bag and left.Right now I don’t have a proper place to stay. Sometimes a friend helps, sometimes I just end up nowhere. I already missed classes once and got debarred, paid fine to continue, but I don’t know how long I can hold on like this. I really don’t want to lose my degree, art is the only thing that keeps me sane.I’m not asking for pity, just if anyone knows about:safe PG/hostel for girls in Hyderabadany small part time job I can do along with collegeand if anyone can help me with a laptop, it would literally save my assignments and workI just want to finish my degree and stand on my own feet. That’s all.Thanks if you read this 🙏",
+      "flair": [
+        "People"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Inequality in India: Upper castes hold nearly 90% of billionaire wealth",
+      "permalink": "https://www.reddit.com/r/india/comments/1n6ag6f/inequality_in_india_upper_castes_hold_nearly_90/",
+      "score": 783,
+      "comments": 158,
+      "post_id": "t3_1n6ag6f",
+      "post_type": "link",
+      "domain": "business-standard.com",
+      "author": "kaisadusht",
+      "author_id": "t2_e89bf3i7",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-02T04:44:39.783000+0000",
+      "content_href": "https://www.business-standard.com/india-news/inequality-surges-in-india-upper-castes-hold-90-of-billionaire-wealth-124062700343_1.html",
       "content_preview": "",
       "flair": [
-        "Foreign Relations"
+        "Culture & Heritage"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/qf3CRYf1HsvG24OLavwdsnCVBF_6pzESUE2_OY4B8D4.jpeg?width=140&height=84&crop=140:84,smart&auto=webp&s=8a7b33a1650c8f308a8bf06200af835aa366aaa6"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4yzhep/styles/profileIcon_tz92iimyb09c1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=87a67d21d5ab0d3e41dfc8a0eade7e9855dbc84c",
+      "is_promoted": false
+    },
+    {
+      "title": "India's Infant Mortality Rate Hits Historic Low Of 25, Down 80% Since 1971",
+      "permalink": "https://www.reddit.com/r/india/comments/1n890ql/indias_infant_mortality_rate_hits_historic_low_of/",
+      "score": 427,
+      "comments": 18,
+      "post_id": "t3_1n890ql",
+      "post_type": "link",
+      "domain": "ndtv.com",
+      "author": "VCardBGone",
+      "author_id": "t2_b3cojgy3",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-04T12:40:12.104000+0000",
+      "content_href": "https://www.ndtv.com/india-news/indias-infant-mortality-rate-hits-historic-low-of-25-down-80-since-1971-9215151",
+      "content_preview": "",
+      "flair": [
+        "Health"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     },
     {
       "title": "NDTV treated us like trash at the event, they invited us themselves",
@@ -640,16 +1175,246 @@
       "subreddit": "r/india",
       "created_ts": "2025-08-11T19:17:38.421000+0000",
       "content_href": "https://www.reddit.com/r/india/comments/1mnmbc8/ndtv_treated_us_like_trash_at_the_event_they/",
-      "content_preview": "",
+      "content_preview": "So, we, around 20 students from Delhi University, were invited for an event organized by NDTV.((The location was The Leela Palace, Chanakyapuri.)) THESE PEOPLE HAVE ENOUGH MONEY TO AFFORD THIS HOTEL FOR THE FUNCTION, BUT NO MONEY FOR THE FOOD FOR US.So, we were told to reach hotel by 8:30-9:00. A tourist vehicle picked us from campus and dropped us off at the hotel.Since we had to wake up too early to get ready and reach there, no one could have had breakfast (hostels usually serve breakfast after 8).When we entered the hotel, we saw everyone having breakfast, so our senior asked the NDTV team first if we were allowed, to have breakfast. They said yes, around 9:50 (in batches of 2 students). When our seniors went there, the team head of NDTV (an old lady) shouted at them and made them stop eating. When they had just begun, some of them had to leave their untouched coffee, scolded in such a manner, and one criedd, just because they were having breakfast????That was not the end, during the whole session, we were treated as outcasts (mind you, they invited us with great excitement and respect to attend the event), the same lady kept scolding.Cool, we had no breakfast. Coming forward to lunch, we were told that we would be served lunch, very clearly. Guess what? They made us exit right in front of the people who were having lunch, standing in queue for the buffet.And we with empty stomachs and tired brains, were made to exit, right in front of the food and they handed us a small-sized pizza at the end, and that was it.I hope someone from other media channels notice it and publish itt",
       "flair": [
         "Media Matters"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_ag2w65/styles/profileIcon_98dby7csdamf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=216e47144325a74ac7aefc79d2b5dbad63c6a37a"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ag2w65/styles/profileIcon_98dby7csdamf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=216e47144325a74ac7aefc79d2b5dbad63c6a37a",
+      "is_promoted": false
+    },
+    {
+      "title": "Ravish Kumar on GST reduction hypocrisy",
+      "permalink": "https://www.reddit.com/r/india/comments/1n8vxs4/ravish_kumar_on_gst_reduction_hypocrisy/",
+      "score": 18,
+      "comments": 0,
+      "post_id": "t3_1n8vxs4",
+      "post_type": "link",
+      "domain": "m.youtube.com",
+      "author": "Naive_Technician_212",
+      "author_id": "t2_al8tq1ys",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-05T04:36:28.248000+0000",
+      "content_href": "https://m.youtube.com/watch?v=YSjp3PaaL5M&pp=0gcJCRsBo7VqN5tD",
+      "content_preview": "",
+      "flair": [
+        "Politics"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Why is Indian Parenting So Restrictive, Especially for Daughters?",
+      "permalink": "https://www.reddit.com/r/india/comments/1n8g4v0/why_is_indian_parenting_so_restrictive_especially/",
+      "score": 121,
+      "comments": 69,
+      "post_id": "t3_1n8g4v0",
+      "post_type": "text",
+      "domain": "self.india",
+      "author": "harrypotter2399",
+      "author_id": "t2_118bvmjscq",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-04T17:13:01.636000+0000",
+      "content_href": "https://www.reddit.com/r/india/comments/1n8g4v0/why_is_indian_parenting_so_restrictive_especially/",
+      "content_preview": "As a woman, I often feel that being born here comes with so many unspoken restrictions. From childhood, parents pamper us but are also extremely overprotective—“Don’t go here, don’t go there.”No late outings, no hanging out with boys, and even if you’re allowed to go out, it’s usually only with female friends that too only in the day and not too far away places inside 5km radius lol!Endless questions: “Where are you? With whom?” followed by sharing live locations. Honestly, the whole fun of going out gets ruined. And for context-i dont want to smoke, drink, or have boyfriends(even if I ever dated it should be my own experience I mean dating having heartbreaks itself is called living a life especially in these times, if I don't how would I ever know right n wrong or how to interact with the opposite gender in future) I Just want to explore places n build friendships ...Then when it comes to competitive exams, parents say, “Why study so much, you’ll get married anyway.” But later they turn around and ask, “Why are you always at home, go out and enjoy!” The same people who restricted us from making friends when the time was to build friendships explore and gain  independence suddenly expect us to be outgoing, confident, and independent. I feel like I have lost interest in emotional investing in friendships or going out cause of these scenarios in my life right now!It makes me wonder: in many Western cultures, children are encouraged from a young age to be independent, build their own personality, and make choices. That early freedom shapes their character. In India, it often feels like we’re held back until suddenly expected to handle adulthood flawlessly.Do others here feel the same? How did you deal with this contradiction in parenting?edit-used chatgpt forbettert grammarEDIT 2-PLEASE DON'T REPLY WITH OH IT'S FOR UR SAFETY I WISH THEY DID THIS WITH MEN ONLY THEN THEY WOULD UNDERSTAND HOW RESTRICTED WE FEEL IN EVERYTHING WE DO!",
+      "flair": [
+        "People"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Rape Survivor, 15, Sent To Accused's Home By Officials. Assaulted Again",
+      "permalink": "https://www.reddit.com/r/india/comments/1n8d8op/rape_survivor_15_sent_to_accuseds_home_by/",
+      "score": 166,
+      "comments": 13,
+      "post_id": "t3_1n8d8op",
+      "post_type": "link",
+      "domain": "ndtv.com",
+      "author": "shawty_deep",
+      "author_id": "t2_weflncye8",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-04T15:25:32.966000+0000",
+      "content_href": "https://www.ndtv.com/india-news/madhya-pradesh-minor-rape-survivor-sent-to-accuseds-home-by-local-child-welfare-committee-assaulted-again-9213775",
+      "content_preview": "",
+      "flair": [
+        "Crime"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "I enjoy traveling in India, but I can't recommend it to anyone.",
+      "permalink": "https://www.reddit.com/r/india/comments/1n49a6m/i_enjoy_traveling_in_india_but_i_cant_recommend/",
+      "score": 726,
+      "comments": 103,
+      "post_id": "t3_1n49a6m",
+      "post_type": "text",
+      "domain": "self.india",
+      "author": "Gurumanyo",
+      "author_id": "t2_72728yac",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-08-30T18:46:18.435000+0000",
+      "content_href": "https://www.reddit.com/r/india/comments/1n49a6m/i_enjoy_traveling_in_india_but_i_cant_recommend/",
+      "content_preview": "Hello, this is my 2nd time in India and I have been here for only 2days. There is something about the energy, and always new scenarios showing up.But it's crazy how people want to scam me so bad all the time, it's just part of their business model at this point, today I took a long taxi ride with a guy on Uber, before we would arrive into that city he told me that the road was closed because of landside and that we have to find a hotel for the night.Ofc he brought me to a place where his accomplice would try to overcharge me for the night and confirm the road was locked.Unlucky for them I figured it out, I told the staff that they had 2options, 1) call me another taxi and we forget about this, 2) i would still leave on my own and give them a 1 stare review mentioning their scam tentative.They ended up calling a taxi for me, but what annoys me the most is that first driver with who I spent 6hours, he didn't give a sh*t about making me lose my time, eventually losing the night I previously booked etc. It just make me rethink about the entire humanity.I'll report him badly to Uber and hopefully he is losing his right to drive on that app.And my point is, I would not tell my mom, my sister or my friends to come here, it's just so much scams going on and many people have bad intentions towards you. In just 2days I withnessed so many tentatives..",
+      "flair": [
+        "Travel"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Are you cool under pressure? Can you think fast and act faster? Test your skills with the Navy Special Operations challenge. TL;DR Step up to see if you’re Navy Special Operations elite.",
+      "permalink": "https://www.reddit.com/user/AmericasNavy/comments/1lqsxjc/are_you_cool_under_pressure_can_you_think_fast/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1lqsxjc",
+      "post_type": "image",
+      "domain": "usnavy.jebbit.com",
+      "author": "AmericasNavy",
+      "author_id": "t2_168xzlex",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-03T15:45:53.812000+0000",
+      "content_href": "https://usnavy.jebbit.com/dftdeege?L=Reddit&JC=MainAd",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_hwnx6/styles/profileIcon_fiv8totbimxa1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=f4d4379045e29a9a9bee4adc43e45f66e498071d",
+      "is_promoted": true
+    },
+    {
+      "title": "A guy in my sister's class put a white peice of paper on her forehead and called her Krishnan Iyer.",
+      "permalink": "https://www.reddit.com/r/india/comments/1n85qen/a_guy_in_my_sisters_class_put_a_white_peice_of/",
+      "score": 411,
+      "comments": 56,
+      "post_id": "t3_1n85qen",
+      "post_type": "text",
+      "domain": "self.india",
+      "author": "LifebeSour",
+      "author_id": "t2_nb0c0con",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-04T09:44:10.176000+0000",
+      "content_href": "https://www.reddit.com/r/india/comments/1n85qen/a_guy_in_my_sisters_class_put_a_white_peice_of/",
+      "content_preview": "This incident happened a month ago but I am writing about it now because I recently discovered that he (A) is also a disgusting casteist (though not directed to my sister as she's not \"LC\" ugh).I returned from coaching and found my sister (in 11th) standing in front of the mirror. Before I could even put my bag down, she asked me if she was really that dark. I knew something was wrong the moment I heard that. My sister is already insecure by nature. She often makes small jokes about her complexion but this time her tone was different. It was a genuine question.When I pressed her to tell me what had happened, she finally admitted that at school, while she was writing, A came over, picked up a sticky note, tore it in half and tried to stick it to her forehead. When she instinctively leaned back, he reached out further, placed it on her forehead, called her “Iyer” (from TMKOC), and then laughed hysterically, other students also laughing with him. My sister immediately brushed it off.To be clear, I have no issue with her being called Iyer because personally, I admire the actor who played that role in TMKOC as despite not being given much material, he still made the character enjoyable, and in some story arcs even showed his real acting talent.But we all know what he really meant by doing that. His actions were not just dehumanizing to my sister but also disrespectful to people who wear the white tilak on their foreheads (like Gukesh, for example). And this crude mentality of equating darker skin tones with South Indians is not only ignorant but also revolting.I know this is nothing new. It happens everywhere in India •but what irritates me is that this particular guy constantly parades himself as someone who \"respects every culture and race.\" A Korean influencer gets called Chinese in the UK and he posts a story: “Stop Asian Hate.” Someone on the other side of the world faces discrimination for their skin colour and he posts: “#BlackLivesMatter.”So does his basic empathy extend only to foreigners? Or is it something about the foreign land that makes colourism (or internalized racism/racism) more of a serious issue? It baffles me how Indians rage when one of us is discriminated against abroad but the same people laugh off the racism and colourism that festers within our own country, against our own people, by us. Does a fellow Indian in India, not deserve to be treated with the same dignity?[One more thing I'd like to clear is that I'm not accusing a whole bunch of people of being like him but there are certainly more people like A and neither I'm mad that he compared her to a \"South Indian\", please don't get distracted halfway and stick to the post's spirit.]A little vent: Fck you, A. Your favourite rapper Drake and your beloved Miles Morales would hate a casteist and colourist like you.",
+      "flair": [
+        "People"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6i056e/styles/profileIcon_8roxru69zclf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ed2fc8f4593beba85c95ea36ff452f7e84950991",
+      "is_promoted": false
+    },
+    {
+      "title": "Hey everyone, I’m Rana Daggubati! Join me for an AMA on 26th Aug, 7:30 PM IST, at r/india. Ask me anything about Baahubali: The Epic, playing Bhallaladeva, building cinematic worlds, or just my journey as an actor, producer, and entrepreneur in Indian cinema.",
+      "permalink": "https://www.reddit.com/r/india/comments/1n0mh18/hey_everyone_im_rana_daggubati_join_me_for_an_ama/",
+      "score": 2156,
+      "comments": 1900,
+      "post_id": "t3_1n0mh18",
+      "post_type": "multi_media",
+      "domain": "self.india",
+      "author": "BaahubaliFranchise",
+      "author_id": "t2_1t4ac5ff1o",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-08-26T13:53:12.628000+0000",
+      "content_href": "https://www.reddit.com/r/india/comments/1n0mh18/hey_everyone_im_rana_daggubati_join_me_for_an_ama/",
+      "content_preview": "Hey everyone, Rana here. With the Baahubali: The Epic teaser out, it felt like the right time to revisit ther/worldofbaahubaliyet again and talk about everything the journey has sparked since.From Bhallaladeva to Spirit Media, my work has always been about pushing boundaries whether through stories on screen or the new ways we create and experience them. For me, storytelling is about discovery: of character, craft, and self.Spirit Media began to back bold ideas, regional voices, and formats that go beyond the familiar. From indie cinema to animation and immersive tech, we’re building the next chapter of storytelling.This AMA isn’t just about films. It’s about process, experiments, and what’s next. So come with your questions movies, tech, building worlds, or just to say hi.Edit:Taking a short break, folks! Loving your questions so far, keep them coming. I’ll be back tomorrow to answer more.",
+      "flair": [
+        "AMA"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_evpsw5/styles/profileIcon_51bg2zeq0olf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f22b13649bb699a3335a4df292237a212fe276d8",
+      "is_promoted": false
+    },
+    {
+      "title": "Amazon India sold me a refurbished S22 as new.",
+      "permalink": "https://www.reddit.com/r/india/comments/1n8hpt8/amazon_india_sold_me_a_refurbished_s22_as_new/",
+      "score": 65,
+      "comments": 9,
+      "post_id": "t3_1n8hpt8",
+      "post_type": "text",
+      "domain": "self.india",
+      "author": "SessionArtistic1904",
+      "author_id": "t2_1bgm8ppcg0",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-04T18:13:26.219000+0000",
+      "content_href": "https://www.reddit.com/r/india/comments/1n8hpt8/amazon_india_sold_me_a_refurbished_s22_as_new/",
+      "content_preview": "Two years ago, I bought a Samsung Galaxy S22 from Amazon India. Recently, it was affected by the notorious green line issue, a widespread problem with AMOLED screens.I took the phone to a Samsung service center, and initially, they were ready to replace the screen for free under their special policy for this issue. However, they later denied the free repair. The reason? The phone's activation date was before the invoice date from my Amazon purchase. According to Samsung's records, the phone was activated before I even bought it.I contacted Samsung support, and they confirmed this discrepancy. They told me that because the activation date didn't match the invoice, they couldn't honor the repair, and told me to take it up with the seller, Amazon.When I reached out to Amazon support, they were completely clueless. They kept insisting that the phone was out of warranty and there was nothing they could do. After a frustrating and heated conversation, they finally said they might be able to help if I could provide an official letter from Samsung, with a seal, confirming the activation date issue.The problem is, Samsung support has no process for providing such a letter. They only send emails, which Amazon refuses to accept. It feels like I'm stuck in a never-ending loop between two giants, with no one willing to take responsibility. It's clear to me that Amazon most likely sold me a refurbished phone as new, and now I'm paying the price.TL;DR: I bought a \"new\" Galaxy S22 from Amazon India. It developed the green line issue, but Samsung denied a free repair because the phone's activation date was before my purchase date, suggesting Amazon sold me a used or refurbished unit. Amazon is refusing to help without an official letter from Samsung, which Samsung can't provide.",
+      "flair": [
+        "Law & Courts"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "“Your number will be deactivated tomorrow” calls are BS. Here’s what TRAI actually says + How to report it. [PSA] [also a bit of RANT]",
+      "permalink": "https://www.reddit.com/r/india/comments/1n8cln7/your_number_will_be_deactivated_tomorrow_calls/",
+      "score": 108,
+      "comments": 14,
+      "post_id": "t3_1n8cln7",
+      "post_type": "text",
+      "domain": "self.india",
+      "author": "Potato__Ninja",
+      "author_id": "t2_2dmg90hv",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-04T15:01:42.354000+0000",
+      "content_href": "https://www.reddit.com/r/india/comments/1n8cln7/your_number_will_be_deactivated_tomorrow_calls/",
+      "content_preview": "I have Jio as a second number; I just use it to get OTPs. For years, I kept getting calls with the same script:“Sir, it’s been a while since your last recharge. Your number will be deactivated tomorrow. Please recharge now.”At first, I didn’t know the rules, and I’ll be honest,,  I panic recharged a couple of times just to avoid “deactivation.” Money down the drain.One day, I finally googled the rules and realized the threat is straight-up bullshit. There’s a90-day non-usagerule for prepaidnumber deactivation, plus a₹20 retentionoption and a15-day graceperiod afterward. Also,incoming calls count as usage.So basically, what that means is the minute I answer their scare call, the 90-day clock resets. Kind of hilarious how their own call undercuts their threat.Since then, I’ve confronted agents a few times. To be fair, most are underpaid call-center folks reading a script. The problem is the script. Yesterday, I finally escalated and filed a complaint onCPGRAMS. The response I got was basically:“We will take it as feedback, sir. We’ll stop such calls for your number.”That’s not good enough. This isn’t just me; I’ve seen similar cases offline and on Reddit. It’s apattern. It’s scummy, and itdepends on people not knowing the rules. NAL, but this definitely seems illegal.What TRAI actually says:No prepaid number deactivation before 90 days of non-usage.“Usage” includes incoming/outgoing calls, outgoing SMS, data, VAS.Any activity resets the 90-day clock.If your main balance is ≥ ₹20, they mustretainthe number by auto-deducting up to ₹20 for30 more days(and can do this repeatedly).Even after deactivation, there’s a15-day graceperiod toreactivateby paying up to ₹20.Yourplan's validitycan expire, and services can be barred — butnumber deactivationis a different thing and must follow the rules above.So when someone says,“We’ll deactivate you tomorrow”, it’san obvious lieunless you truly hadzeroactivity for90 straight daysandthe other safeguards were followed. And it's impossible for that not to be a lie cuz you just picking up that phone proves that your phone number is active.“Others haven’t complained no sir....” That's what the Jio care dude said when I asked for such calls to stop for everyone, not just me.That’s exactly the issue. Awareness is low, and they are abusing it. They already created a duopoly market, and that money is not enough for them. Now they are relying on lying and illegal shit to steal more money. Lots of folks hand over money because the word “deactivation” freaks them out, cuz people have their numbers linked to lots of shit, and they don't wanna lose it.If you get similar calls, try torecord the callsif you can, or at least note date/time/number. Then you can do the following things-File a government grievance on CPGRAMS (DoT)Go tohttps://pgportal.gov.in/Sign in(orClick here to sign up→ register → sign in)Top menuGrievance → Lodge Public GrievancePlease select a Ministry/Department/State Government:TelecommunicationsMinistry / Department:Department of TelecommunicationsSelect main category:Mobile RelatedSelect next level category:UCC related complaintsMobile Number: enter your numberService Provider: selectJio(or Airtel if they’re doing the same scummy shit)Text of grievance: type your details or paste a template (see below)Template you can paste(feel free to edit to fit your case, or just use GPT or something to generate one ez):I am receiving repeated calls and messages from Jio stating “your number will be deactivated tomorrow unless you recharge.” This is misleading and coercive. As per TRAI rules, prepaid deactivation requires at least 90 days of non-usage; activity includes incoming/outgoing calls, outgoing SMS, data, and VAS. If balance ≥ ₹20 the number must be retained by up to ₹20 deduction for 30 days, and there is a 15-day grace to reactivate. Threatening next-day deactivation misrepresents the regulatory framework and induces panic recharges. I request action under TCCCPR 2018 and DoT directions to stop such scare tactics, correct agent scripts, and ensure compliance. Please treat this as a systemic issue, not only my number. I can provide call dates/times, numbers/headers, and recordings/screenshots.2)Report as UCC (spam) right away.Just theTRAI DND appto report the call.btw — if you don’t already haveDNDenabled, please do it now. It takes a minute and cuts most promo spam:  SMSSTART 0to1909→ blocks all promotional calls/SMS.(but these scare scum calls get through even if you have DND on)3) If you want to do even more to fix this, you can also take up the TRAI course of action: follow the official grievance chain via your operator (log a formal complaint and get a docket) → escalate to the Appellate Authority for your circle if it isn’t fixed within the timeline. Look up the TRAI website for specific steps and contact info for your specific area.This scummy stuff only stops if we push back together. Don’t feed into such tactics. Know your rights, report, and share the info with others.",
+      "flair": [
+        "Science/Technology"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Bihar Bandh Turns Violent: Female Teacher Assaulted After Questioning BJP Protest",
+      "permalink": "https://www.reddit.com/r/india/comments/1n85o2i/bihar_bandh_turns_violent_female_teacher/",
+      "score": 274,
+      "comments": 26,
+      "post_id": "t3_1n85o2i",
+      "post_type": "link",
+      "domain": "patnapress.com",
+      "author": "bhodrolok",
+      "author_id": "t2_o70nx",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-04T09:39:58.292000+0000",
+      "content_href": "https://patnapress.com/bihar-bjp-women-wing-teacher-assault-bandh/",
+      "content_preview": "",
+      "flair": [
+        "Politics"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/W-6pM3dfMtp5sP1QWn40nws_JWqqisp9ThYAzUSTFmk.jpeg?width=140&height=79&crop=140:79,smart&auto=webp&s=4fc4993a4586acd2c9c6c4ff8db66ab697e11da2",
+      "is_promoted": false
+    },
+    {
+      "title": "Hate messages against Indian immigrants surge on US social media",
+      "permalink": "https://www.reddit.com/r/india/comments/1n3w4o3/hate_messages_against_indian_immigrants_surge_on/",
+      "score": 717,
+      "comments": 217,
+      "post_id": "t3_1n3w4o3",
+      "post_type": "link",
+      "domain": "msn.com",
+      "author": "bannedbutstillhere",
+      "author_id": "t2_25ihtfw8",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-08-30T08:08:04.940000+0000",
+      "content_href": "https://www.msn.com/en-us/news/us/hate-messages-against-indian-immigrants-surge-on-us-social-media/ar-AA1LviKa",
+      "content_preview": "",
+      "flair": [
+        "Culture & Heritage"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
       "title": "Rahul Gandhi alleges ‘massive’ voter fraud",
       "permalink": "https://www.reddit.com/r/india/comments/1mjvjzz/rahul_gandhi_alleges_massive_voter_fraud/",
-      "score": 2022,
+      "score": 2023,
       "comments": 350,
       "post_id": "t3_1mjvjzz",
       "post_type": "link",
@@ -664,13 +1429,54 @@
       "flair": [
         "Crime"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Ready for a break? A play break that is.",
+      "permalink": "https://www.reddit.com/user/calottery/comments/1minrbo/ready_for_a_break_a_play_break_that_is/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1minrbo",
+      "post_type": "text",
+      "domain": "",
+      "author": "calottery",
+      "author_id": "t2_jp0c7vdg",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-05T22:40:57.014000+0000",
+      "content_href": "https://www.reddit.com/r/u_calottery/comments/1minrbo/ready_for_a_break_a_play_break_that_is/",
+      "content_preview": "You might have been scrolling for the past 45 minutes and didn't even realize it. Maybe you've been working really hard and your brain is mush. Or you're at the grocery store racing to get home after a long day.What do these all have in common? Needing a break! That's right, a break in the day that adds in some actual fun.That's where Scratchers come in. Grab a few bucks, a scratching tool of your choice (get creative, we don't judge), and get to scratching.So go ahead, take the play break. After all, A Little Play Can Make Your Day. Pick up Scratchers at your fav California Lottery retailer and let the play begin.",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5upon4/styles/profileIcon_lobvzkoas4ee1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=71463beb0391c1d601cb4b14ceb03d64a0ca879c",
+      "is_promoted": true
+    },
+    {
+      "title": "Pregnant woman from Bengal forced into Bangladesh. Family has land records from five generations ago",
+      "permalink": "https://www.reddit.com/r/india/comments/1n84jk8/pregnant_woman_from_bengal_forced_into_bangladesh/",
+      "score": 265,
+      "comments": 6,
+      "post_id": "t3_1n84jk8",
+      "post_type": "link",
+      "domain": "scroll.in",
+      "author": "opinion_discarder",
+      "author_id": "t2_116p8lxrv1",
+      "subreddit_id": "t5_2qh1q",
+      "subreddit": "r/india",
+      "created_ts": "2025-09-04T08:27:45.150000+0000",
+      "content_href": "https://scroll.in/article/1086196/pregnant-woman-from-bengal-forced-into-bangladesh-family-has-land-records-from-five-generations-ago",
+      "content_preview": "",
+      "flair": [
+        "Law & Courts"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
       "title": "Vote Chori 2024",
       "permalink": "https://www.reddit.com/r/india/comments/1mlgljb/vote_chori_2024/",
-      "score": 1999,
-      "comments": 132,
+      "score": 2000,
+      "comments": 130,
       "post_id": "t3_1mlgljb",
       "post_type": "crosspost",
       "domain": "v.redd.it",
@@ -680,332 +1486,13 @@
       "subreddit": "r/india",
       "created_ts": "2025-08-09T04:32:35.448000+0000",
       "content_href": "/r/unitedstatesofindia/comments/1ml5mjr/vote_chori_2024/",
-      "content_preview": "",
+      "content_preview": "1.3Kupvotes·66comments",
       "flair": [
         "Politics"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/vote-chori-2024-v0-c3hmbTVwc2hydWhmMcmd7bgP-wAvrjnOLGgIzKMXzjnitaYNED-vRVH_NVKu.png?width=640&crop=smart&format=pjpg&auto=webp&s=f54b885982119d864a24b17f7f7eca123d15e5b7"
-    },
-    {
-      "title": "Dream11 tells BCCI it will no longer sponsor Indian cricket team; officially terminates contract.",
-      "permalink": "https://www.reddit.com/r/india/comments/1mzjnii/dream11_tells_bcci_it_will_no_longer_sponsor/",
-      "score": 1303,
-      "comments": 110,
-      "post_id": "t3_1mzjnii",
-      "post_type": "link",
-      "domain": "hindustantimes.com",
-      "author": "rakulkumar555",
-      "author_id": "t2_12asahje",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-08-25T07:06:45.019000+0000",
-      "content_href": "https://www.hindustantimes.com/cricket/dream11-tells-bcci-it-will-no-longer-sponsor-the-indian-cricket-team-their-representatives-visited-the-office-and-info-101756084888685.html",
-      "content_preview": "",
-      "flair": [
-        "Sports"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/8GpyqgYerqH3ZDXb-_agQxc8d_-bqKufeTKtXBKyrjc.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=b4a3db1e0a004e20019091968f0f9efc89cdf656"
-    },
-    {
-      "title": "Indian PM meets Putin and urges him to stop war and look for peaceful settlement",
-      "permalink": "https://www.reddit.com/r/india/comments/1n6emvd/indian_pm_meets_putin_and_urges_him_to_stop_war/",
-      "score": 8,
-      "comments": 3,
-      "post_id": "t3_1n6emvd",
-      "post_type": "link",
-      "domain": "pravda.com.ua",
-      "author": "stealth-aven",
-      "author_id": "t2_1ttljalosr",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-09-02T09:11:29.331000+0000",
-      "content_href": "https://www.pravda.com.ua/eng/news/2025/09/1/7528783/",
-      "content_preview": "",
-      "flair": [
-        "Foreign Relations"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/wOoEMK44ghnpIuV0cM6EaEaC2osj19wEEzws7WxyXwg.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=08bd64d92d78dd1b5177c29e3143c3ed37cf493a"
-    },
-    {
-      "title": "• Major Grover Inderjeet Singh\n• Naik Pushvinder Singh\n• Lance Naik Ashutosh Singh\n• Sepoy R Ranjith\nthe four Indian Braves of 41 RASHTRIYA RIFLES/MARATHA LI, laid down their lives in an accident during an operation in Kupwara distt, J&K On This Day 02 September in 2014",
-      "permalink": "https://www.reddit.com/r/india/comments/1n69ll3/major_grover_inderjeet_singh_naik_pushvinder/",
-      "score": 14,
-      "comments": 0,
-      "post_id": "t3_1n69ll3",
-      "post_type": "link",
-      "domain": "x.com",
-      "author": "TEAM_CAPTAIN_YT0",
-      "author_id": "t2_44qwkef3",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-09-02T03:57:16.039000+0000",
-      "content_href": "https://x.com/LestWeForgetIN/status/1962715857077129273",
-      "content_preview": "",
-      "flair": [
-        "History"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "India needs atleast 15 more states",
-      "permalink": "https://www.reddit.com/r/india/comments/1mzqx15/india_needs_atleast_15_more_states/",
-      "score": 989,
-      "comments": 144,
-      "post_id": "t3_1mzqx15",
-      "post_type": "text",
-      "domain": "self.india",
-      "author": "karanChan",
-      "author_id": "t2_n5s5adfr",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-08-25T13:45:32.424000+0000",
-      "content_href": "https://www.reddit.com/r/india/comments/1mzqx15/india_needs_atleast_15_more_states/",
-      "content_preview": "",
-      "flair": [
-        "Policy/Economy"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "\"One Who Can Fool Is The Best Leader\": Nitin Gadkari In Nagpur",
-      "permalink": "https://www.reddit.com/r/india/comments/1n5ljxk/one_who_can_fool_is_the_best_leader_nitin_gadkari/",
-      "score": 301,
-      "comments": 32,
-      "post_id": "t3_1n5ljxk",
-      "post_type": "link",
-      "domain": "ndtv.com",
-      "author": "BannedForFactsAgain",
-      "author_id": "t2_pcv0fis",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-09-01T10:53:29.427000+0000",
-      "content_href": "https://www.ndtv.com/india-news/nitin-gadkari-in-nagpur-one-who-can-fool-is-the-best-leader-9194941",
-      "content_preview": "",
-      "flair": [
-        "Politics"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "Everyone’s talking about the Election Commission fraud — but what’s truly terrifying is slipping under the radar.",
-      "permalink": "https://www.reddit.com/r/india/comments/1mkgzbv/everyones_talking_about_the_election_commission/",
-      "score": 1922,
-      "comments": 208,
-      "post_id": "t3_1mkgzbv",
-      "post_type": "text",
-      "domain": "self.india",
-      "author": "MeManoos",
-      "author_id": "t2_a2b67",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-08-08T00:34:56.999000+0000",
-      "content_href": "https://www.reddit.com/r/india/comments/1mkgzbv/everyones_talking_about_the_election_commission/",
-      "content_preview": "",
-      "flair": [
-        "People"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "Indian Electronic Manufacturers Light up as Ties With China Strengthen",
-      "permalink": "https://www.reddit.com/r/india/comments/1n68lx8/indian_electronic_manufacturers_light_up_as_ties/",
-      "score": 15,
-      "comments": 1,
-      "post_id": "t3_1n68lx8",
-      "post_type": "link",
-      "domain": "bloomberg.com",
-      "author": "bloomberg",
-      "author_id": "t2_1095cgk5",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-09-02T03:05:55.482000+0000",
-      "content_href": "https://www.bloomberg.com/news/articles/2025-09-02/india-market-buzz-electronics-shine-traders-ride-tariff-swings",
-      "content_preview": "",
-      "flair": [
-        "Business/Finance"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_pawub/styles/profileIcon_hh72dralflla1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f321b5d9dea21ca790d791405d888e6008e13235"
-    },
-    {
-      "title": "How immigrant trucker made it into the US, got a license and killed three in Florida Turnpike tragedy... despite being unable to read English road signs",
-      "permalink": "https://www.reddit.com/r/india/comments/1n5o2kp/how_immigrant_trucker_made_it_into_the_us_got_a/",
-      "score": 183,
-      "comments": 34,
-      "post_id": "t3_1n5o2kp",
-      "post_type": "link",
-      "domain": "dailymail.co.uk",
-      "author": "masterjv81",
-      "author_id": "t2_6a4kfzt",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-09-01T13:01:22.059000+0000",
-      "content_href": "https://www.dailymail.co.uk/news/article-15050413/florida-turnpike-truck-crash-driver-harjinder-singh.html",
-      "content_preview": "",
-      "flair": [
-        "Foreign Relations"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/Bby_FubtKWchyCMFkohQbkk513VdKjqkSuLCgkbv9OE.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=18b1ee4ade9e97f15aa272d980d0dc7b88612a27"
-    },
-    {
-      "title": "'Nuke India, kill Trump' : Minneapolis shooter wrote chilling messages on weapons; fired shots through windows",
-      "permalink": "https://www.reddit.com/r/india/comments/1n239qa/nuke_india_kill_trump_minneapolis_shooter_wrote/",
-      "score": 930,
-      "comments": 257,
-      "post_id": "t3_1n239qa",
-      "post_type": "link",
-      "domain": "toi.in",
-      "author": "Key_Manner7404",
-      "author_id": "t2_plmfc57aj",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-08-28T04:52:47.370000+0000",
-      "content_href": "https://toi.in/taalskeds",
-      "content_preview": "",
-      "flair": [
-        "Crime"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/Rq_fSdoMIJGSd6GjNT3VDNH1l9BTeir8s8OcG1VmIss.png?width=140&height=75&crop=140:75,smart&auto=webp&s=65a1c259b2ab5657fc17fe643a56ea3887f7c64e"
-    },
-    {
-      "title": "Rahul Gandhi Meets, Has Tea With 7 'Dead People' Cut From Bihar Voter List",
-      "permalink": "https://www.reddit.com/r/india/comments/1mprirh/rahul_gandhi_meets_has_tea_with_7_dead_people_cut/",
-      "score": 1797,
-      "comments": 63,
-      "post_id": "t3_1mprirh",
-      "post_type": "link",
-      "domain": "ndtv.com",
-      "author": "Glass_Extension_6529",
-      "author_id": "t2_1dh9hy6rf8",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-08-14T05:16:41.601000+0000",
-      "content_href": "https://www.ndtv.com/india-news/rahul-gandhi-news-rahul-gandhi-dead-voters-bihar-tea-election-commission-special-intensive-revision-row-bihar-assembly-election-9079394",
-      "content_preview": "",
-      "flair": [
-        "Politics"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/BDpeEdqqQUpgc2A8cQHLFwPuSzbdCT81OGWYaiKLZO4.jpeg?width=140&height=86&crop=140:86,smart&auto=webp&s=67d6e7704d27e6e9c79f0bc7cbc507a9682cfdf1"
-    },
-    {
-      "title": "Decline in health of middle aged housewives in India",
-      "permalink": "https://www.reddit.com/r/india/comments/1n5so2g/decline_in_health_of_middle_aged_housewives_in/",
-      "score": 92,
-      "comments": 36,
-      "post_id": "t3_1n5so2g",
-      "post_type": "text",
-      "domain": "self.india",
-      "author": "Sea-Chicken2207",
-      "author_id": "t2_1dsb2pcs4n",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-09-01T16:02:43.722000+0000",
-      "content_href": "https://www.reddit.com/r/india/comments/1n5so2g/decline_in_health_of_middle_aged_housewives_in/",
-      "content_preview": "",
-      "flair": [
-        "Health"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Your Fuel Tank Is the Government's New Lab [Ethanol Blending: The Hard Truth]",
-      "permalink": "https://www.reddit.com/r/india/comments/1n6edg8/your_fuel_tank_is_the_governments_new_lab_ethanol/",
-      "score": 31,
-      "comments": 3,
-      "post_id": "t3_1n6edg8",
-      "post_type": "text",
-      "domain": "self.india",
-      "author": "barneetpanda",
-      "author_id": "t2_wmt8f9kr3",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-09-02T08:54:35.631000+0000",
-      "content_href": "https://www.reddit.com/r/india/comments/1n6edg8/your_fuel_tank_is_the_governments_new_lab_ethanol/",
-      "content_preview": "",
-      "flair": [
-        "Policy/Economy"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "Fuck Cancer.",
-      "permalink": "https://www.reddit.com/r/india/comments/1n2x50o/fuck_cancer/",
-      "score": 917,
-      "comments": 112,
-      "post_id": "t3_1n2x50o",
-      "post_type": "text",
-      "domain": "self.india",
-      "author": "lolmyhumour",
-      "author_id": "t2_udfaji2g",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-08-29T03:46:06.111000+0000",
-      "content_href": "https://www.reddit.com/r/india/comments/1n2x50o/fuck_cancer/",
-      "content_preview": "",
-      "flair": [
-        "Health"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "One thing that actually makes me proud of India: IGNOU",
-      "permalink": "https://www.reddit.com/r/india/comments/1muqlbn/one_thing_that_actually_makes_me_proud_of_india/",
-      "score": 1787,
-      "comments": 146,
-      "post_id": "t3_1muqlbn",
-      "post_type": "text",
-      "domain": "self.india",
-      "author": "Terrible-Duck4953",
-      "author_id": "t2_1km1fyuxcr",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-08-19T18:24:08.147000+0000",
-      "content_href": "https://www.reddit.com/r/india/comments/1muqlbn/one_thing_that_actually_makes_me_proud_of_india/",
-      "content_preview": "",
-      "flair": [
-        "Non Political"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_dt0r0v/styles/profileIcon_yw6rgxz55hne1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c19b6d1984e941a3550901d79049b5cd5703ee63"
-    },
-    {
-      "title": "‘Brahmins profiteering…’: Peter Navarro's latest take on India's Russian oil purchase",
-      "permalink": "https://www.reddit.com/r/india/comments/1n5cyeb/brahmins_profiteering_peter_navarros_latest_take/",
-      "score": 871,
-      "comments": 211,
-      "post_id": "t3_1n5cyeb",
-      "post_type": "link",
-      "domain": "hindustantimes.com",
-      "author": "vvrr00",
-      "author_id": "t2_6njs3gws",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-09-01T02:28:38.712000+0000",
-      "content_href": "https://www.hindustantimes.com/india-news/brahmins-profiteering-peter-navarros-latest-take-on-indias-russian-oil-purchase-trump-tariffs-101756689579258-amp.html",
-      "content_preview": "",
-      "flair": [
-        "Foreign Relations"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/YLyzp-9-XRAuwKPjlBdEr4PD8IC6CuP_FihH3WnqAYk.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=2d16ea00cd1b7659e7aedf6f3fec11e50e146fda"
-    },
-    {
-      "title": "Official US notice: Trump to hit Indian imports with 50% tariff starting August 27",
-      "permalink": "https://www.reddit.com/r/india/comments/1n0dbvd/official_us_notice_trump_to_hit_indian_imports/",
-      "score": 835,
-      "comments": 131,
-      "post_id": "t3_1n0dbvd",
-      "post_type": "link",
-      "domain": "businesstoday.in",
-      "author": "Mrk2d",
-      "author_id": "t2_6ih2t2tp",
-      "subreddit_id": "t5_2qh1q",
-      "subreddit": "r/india",
-      "created_ts": "2025-08-26T05:19:30.658000+0000",
-      "content_href": "https://www.businesstoday.in/india/story/official-us-notice-trump-to-hit-indian-imports-with-50-tariff-starting-august-27-491021-2025-08-26",
-      "content_preview": "",
-      "flair": [
-        "Foreign Relations"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/YGxsEQ5w07dGeFxlfGtDhB7eQ8LzorGEHkvaiDCLnX8.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=6eac1c4da1ade4e3dcc5125dcc54fad1bed6cff9"
+      "thumbnail_url": "https://external-preview.redd.it/vote-chori-2024-v0-c3hmbTVwc2hydWhmMcmd7bgP-wAvrjnOLGgIzKMXzjnitaYNED-vRVH_NVKu.png?width=640&crop=smart&format=pjpg&auto=webp&s=f54b885982119d864a24b17f7f7eca123d15e5b7",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:01:45.573742"
+  "scraped_at": "2025-09-05T03:31:17.124508"
 }

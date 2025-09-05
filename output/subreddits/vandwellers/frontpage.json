@@ -2,74 +2,109 @@
   "subreddit": "vandwellers",
   "url": "https://www.reddit.com/r/vandwellers",
   "meta": {
-    "title": "VanDwelling - For those living life in alternative locations, or wishing to."
+    "title": "VanDwelling - For those living life in alternative locations, or wishing to.",
+    "description": "Tips and tricks for living in your van, car or truck. It's a great way to save money or travel the world. No mechanical advice. No purchase advice on vehicles. No politics. Be kind. \n\nVisit our FAQ to jumpstart your journey!\nhttps://www.reddit.com/r/vandwellers/wiki/index",
+    "subscribers": 2984152,
+    "online_users": 71,
+    "created_timestamp": "2025-09-05T07:44:11.922000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Bookmarks",
+        "content": [
+          {
+            "text": "FAQ",
+            "url": "https://www.reddit.com/r/vandwellers/wiki"
+          },
+          {
+            "text": "Security/Safety",
+            "url": "https://www.reddit.com/r/vandwellers/wiki/index/security"
+          },
+          {
+            "text": "Design your Power",
+            "url": "https://faroutride.com/van-electrical-calculator/"
+          },
+          {
+            "text": "Solar Calculator",
+            "url": "https://www.parkedinparadise.com/solar-calculator/"
+          },
+          {
+            "text": "Afford VanDwelling",
+            "url": "https://www.reddit.com/r/vandwellers/wiki/index/encinitas0667"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "Is it scary during storms/tornadoes?",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n6cytz/is_it_scary_during_stormstornadoes/",
-      "score": 1,
-      "comments": 3,
-      "post_id": "t3_1n6cytz",
+      "title": "Shipping my van ? What are the real prices ?",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n8yztu/shipping_my_van_what_are_the_real_prices/",
+      "score": 2,
+      "comments": 6,
+      "post_id": "t3_1n8yztu",
       "post_type": "text",
       "domain": "self.vandwellers",
-      "author": "Glitchyguy97",
-      "author_id": "t2_czes77b1",
+      "author": "BlousonCuir",
+      "author_id": "t2_8i5zxssy",
       "subreddit_id": "t5_2rnwo",
       "subreddit": "r/vandwellers",
-      "created_ts": "2025-09-02T07:20:44.683000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n6cytz/is_it_scary_during_stormstornadoes/",
-      "content_preview": "I've always worried about tornadoes",
+      "created_ts": "2025-09-05T07:44:11.922000+0000",
+      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n8yztu/shipping_my_van_what_are_the_real_prices/",
+      "content_preview": "Hey, i got a working visa in Canada for 2 years. And im debatting between saving and buying a van there or sending mine from europe. I keep seeing people saying it costs 2500€ to ship a van on the atlantic, and other saying it costs 6500€. So i dont know what to believe. Maybe its prices before and after covid ? My van is small, its a VW Vanagon T3 Syncro 4x4 so what price could it be ? Keep in mind that i wont live in it in winter in canada so no need to tell me about heating or else. Thanks !",
       "flair": [
-        "Tips & Tricks"
+        "Question"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "First week of van living and first week of my masters program done!",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n3dwo7/first_week_of_van_living_and_first_week_of_my/",
-      "score": 401,
-      "comments": 9,
-      "post_id": "t3_1n3dwo7",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "QweenOfTheCrops",
-      "author_id": "t2_5ccpgnuf",
+      "title": "We just moved in!",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n505es/we_just_moved_in/",
+      "score": 1727,
+      "comments": 104,
+      "post_id": "t3_1n505es",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ChibaCityFunk",
+      "author_id": "t2_ofsb3",
       "subreddit_id": "t5_2rnwo",
       "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-29T17:36:57.180000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n3dwo7",
+      "created_ts": "2025-08-31T17:08:30.291000+0000",
+      "content_href": "https://i.redd.it/0fv2uj7e0emf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Euro / UK"
+      ],
+      "thumbnail_url": "https://preview.redd.it/we-just-moved-in-v0-0fv2uj7e0emf1.jpeg?width=640&crop=smart&auto=webp&s=70a3992f09d1f058d436b7714317322ce6c77dd0",
+      "is_promoted": false
+    },
+    {
+      "title": "Got my whip in Texas 🇨🇱",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n8hwhg/got_my_whip_in_texas/",
+      "score": 32,
+      "comments": 12,
+      "post_id": "t3_1n8hwhg",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Indenze",
+      "author_id": "t2_dinvye",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-09-04T18:20:27.362000+0000",
+      "content_href": "https://i.redd.it/uxjz2zsvw6nf1.jpeg",
       "content_preview": "",
       "flair": [
         "Pictures"
       ],
-      "thumbnail_url": "https://preview.redd.it/first-week-of-van-living-and-first-week-of-my-masters-v0-cplnnh0nvzlf1.jpg?width=640&crop=smart&auto=webp&s=13e829d77a0b90ff7dfc2ecc960dc5afe550a99e"
-    },
-    {
-      "title": "South Lake Tahoe with the pups",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n50c9j/south_lake_tahoe_with_the_pups/",
-      "score": 90,
-      "comments": 5,
-      "post_id": "t3_1n50c9j",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Powderhound2001",
-      "author_id": "t2_tu40hhdlt",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-31T17:16:06.206000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n50c9j",
-      "content_preview": "",
-      "flair": [
-        "Pictures"
-      ],
-      "thumbnail_url": "https://preview.redd.it/south-lake-tahoe-with-the-pups-v0-y8al808r1emf1.jpg?width=640&crop=smart&auto=webp&s=cdee19b6adca532740a3658d141b250268dcf543"
+      "thumbnail_url": "https://preview.redd.it/got-my-whip-in-texas-v0-uxjz2zsvw6nf1.jpeg?width=640&crop=smart&auto=webp&s=1fef29a3e14c80c04c630a4eaf4c844a9a08ae93",
+      "is_promoted": false
     },
     {
       "title": "My simple van life with my best bud",
       "permalink": "https://www.reddit.com/r/vandwellers/comments/1my3rvo/my_simple_van_life_with_my_best_bud/",
-      "score": 794,
-      "comments": 22,
+      "score": 803,
+      "comments": 30,
       "post_id": "t3_1my3rvo",
       "post_type": "gallery",
       "domain": "reddit.com",
@@ -83,212 +118,116 @@
       "flair": [
         "Van Life"
       ],
-      "thumbnail_url": "https://preview.redd.it/my-simple-van-life-with-my-best-bud-v0-994wauuhaskf1.png?width=640&crop=smart&auto=webp&s=4aebf43b67025071f4b0150bac1d353ca613f0ef"
+      "thumbnail_url": "https://preview.redd.it/my-simple-van-life-with-my-best-bud-v0-994wauuhaskf1.png?width=640&crop=smart&auto=webp&s=4aebf43b67025071f4b0150bac1d353ca613f0ef",
+      "is_promoted": false
     },
     {
-      "title": "My Mercedes 308D DeutschePost Van",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n53m2l/my_mercedes_308d_deutschepost_van/",
+      "title": "Addition not seen elsewhere I absolutely love on my shelf",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n8dihv/addition_not_seen_elsewhere_i_absolutely_love_on/",
       "score": 25,
       "comments": 7,
-      "post_id": "t3_1n53m2l",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Archonia_Adventures",
-      "author_id": "t2_1u6rdyou6k",
+      "post_id": "t3_1n8dihv",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Remidad",
+      "author_id": "t2_b3af6lir",
       "subreddit_id": "t5_2rnwo",
       "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-31T19:25:35.975000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n53m2l",
+      "created_ts": "2025-09-04T15:35:53.637000+0000",
+      "content_href": "https://i.redd.it/611sssyi36nf1.jpeg",
       "content_preview": "",
-      "flair": [
-        "Builds"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_f0bdil/styles/profileIcon_ay0wjkoxfnhf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=dfb7141c5ea17c9eec7d7cfab4bad3cb698e6df5"
-    },
-    {
-      "title": "Got rid of the RTT, removed the back seats, and made a cozy little no-build home on wheels in there. I'm so happy with this setup now.",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n49urx/got_rid_of_the_rtt_removed_the_back_seats_and/",
-      "score": 268,
-      "comments": 36,
-      "post_id": "t3_1n49urx",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "HikeSierraNevada",
-      "author_id": "t2_a12rpn63",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-30T19:09:00.212000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n49urx",
-      "content_preview": "",
-      "flair": [
-        "Builds"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_3t4oir/styles/profileIcon_cyiwcqh2dzd61.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2daf38c44d2294b57685255e6401be4af9e23050"
-    },
-    {
-      "title": "Storage ideas?",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n4zrhn/storage_ideas/",
-      "score": 5,
-      "comments": 3,
-      "post_id": "t3_1n4zrhn",
-      "post_type": "text",
-      "domain": "self.vandwellers",
-      "author": "Andrann___",
-      "author_id": "t2_7tujcryf",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-31T16:53:15.416000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n4zrhn/storage_ideas/",
-      "content_preview": "I use my minivan for work meaning I have to haul a ton of parts in the back of my van. Currently I have them in totes but this idea doesn't work well when I have to dig anything out to find what I need. My other challenge is my step son is in a wheel chair and trying to haul parts and his chair becomes a hassle. Anyone have any ideas of a better storage solution for organizing them and still leaving room for his wheelchair. Sorry if this isn't allowed here. My minivan is a 2014 Kia Sedona. Thanks in advanced. I've tried googling around and haven't seen anything that would work well.",
       "flair": [
         "Tips & Tricks"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://preview.redd.it/addition-not-seen-elsewhere-i-absolutely-love-on-my-shelf-v0-611sssyi36nf1.jpeg?width=640&crop=smart&auto=webp&s=47b66b7542b5bc9204d2200dfb19914ee35fefd4",
+      "is_promoted": false
     },
     {
-      "title": "Any ALFA Camp Pro users out there?",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n62w74/any_alfa_camp_pro_users_out_there/",
-      "score": 2,
+      "title": "Check into Hilton, opt out of vacation rental nightmares. When you don’t want your next trip to end up on r/travelfails, it matters where you stay.",
+      "permalink": "https://www.reddit.com/user/Hilton/comments/1mumgkt/check_into_hilton_opt_out_of_vacation_rental/",
+      "score": 0,
       "comments": 0,
-      "post_id": "t3_1n62w74",
-      "post_type": "text",
-      "domain": "self.vandwellers",
-      "author": "VagabondVivant",
-      "author_id": "t2_x3di9",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-09-01T22:34:37.593000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n62w74/any_alfa_camp_pro_users_out_there/",
-      "content_preview": "I'm outside my sister's house. I get better speeds connecting to her distant wifi directly than I do when connecting to it through my Camp Pro 2. Anyone know why?",
-      "flair": [
-        "Question"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_b29ze/styles/profileIcon_ild0hbktvowc1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f7e617632ed5aaa5c8e085385d3c1801fa08fa78"
+      "post_id": "t3_1mumgkt",
+      "post_type": "video",
+      "domain": "hilton.com",
+      "author": "Hilton",
+      "author_id": "t2_17a864os3w",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-19T15:56:26.865000+0000",
+      "content_href": "https://v.redd.it/4qvixbx2jyjf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ca7ibb/styles/profileIcon_jpsbvurnj5od1.jpeg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=e7651be7a2366a9920ac90eb355e9132303d53e3",
+      "is_promoted": true
     },
     {
-      "title": "We’re building our off-grid dream… inside a 10m box truck",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mftwxy/were_building_our_offgrid_dream_inside_a_10m_box/",
-      "score": 688,
-      "comments": 230,
-      "post_id": "t3_1mftwxy",
+      "title": "Almost 1 year of weekend and nighttime building",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n6id1s/almost_1_year_of_weekend_and_nighttime_building/",
+      "score": 825,
+      "comments": 49,
+      "post_id": "t3_1n6id1s",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "JustEnjoyOrg",
-      "author_id": "t2_1osn5qpyu2",
+      "author": "SlipperyFingers",
+      "author_id": "t2_8vndl",
       "subreddit_id": "t5_2rnwo",
       "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-02T15:52:37.265000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mftwxy",
+      "created_ts": "2025-09-02T12:40:01.789000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n6id1s",
       "content_preview": "",
       "flair": [
         "Builds"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_edomek/styles/profileIcon_1ha6n8ihc3ze1.JPG?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d334f33be5bf0de8a3309a74508ad3ab5f941bf5"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
-      "title": "LOST, and Still Struggling with Renogy DC-DC w/ MPPT; Am I Just Overthinking Things!?",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n4a8h2/lost_and_still_struggling_with_renogy_dcdc_w_mppt/",
-      "score": 15,
-      "comments": 36,
-      "post_id": "t3_1n4a8h2",
+      "title": "Spaulding lake & Emerald Pools",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n7riqd/spaulding_lake_emerald_pools/",
+      "score": 75,
+      "comments": 5,
+      "post_id": "t3_1n7riqd",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "Custom_Casey",
-      "author_id": "t2_9djpmwnz",
+      "author": "Powderhound2001",
+      "author_id": "t2_tu40hhdlt",
       "subreddit_id": "t5_2rnwo",
       "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-30T19:24:48.891000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n4a8h2",
-      "content_preview": "",
-      "flair": [
-        "Builds"
-      ],
-      "thumbnail_url": "https://preview.redd.it/lost-and-still-struggling-with-renogy-dc-dc-w-mppt-am-i-v0-iq49t2dsj7mf1.jpg?width=640&crop=smart&auto=webp&s=3e399d87e24ec5f1b459d48f21b7398c42898957"
-    },
-    {
-      "title": "24V/500 Watt inverter vs 24V/500 Watt inverter, holy crap why is it so much bigger?",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n0wauv/24v500_watt_inverter_vs_24v500_watt_inverter_holy/",
-      "score": 181,
-      "comments": 75,
-      "post_id": "t3_1n0wauv",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Mr_Gilmore_Jr",
-      "author_id": "t2_dkhbu",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-26T20:04:58.691000+0000",
-      "content_href": "https://i.redd.it/zwp3pld17flf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Builds"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Transit Downhill Manual Practice (Denver/RMNP Area)",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n460sg/transit_downhill_manual_practice_denverrmnp_area/",
-      "score": 4,
-      "comments": 10,
-      "post_id": "t3_1n460sg",
-      "post_type": "text",
-      "domain": "self.vandwellers",
-      "author": "Outrageous_Rest_1576",
-      "author_id": "t2_a244ivqz",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-30T16:32:05.265000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n460sg/transit_downhill_manual_practice_denverrmnp_area/",
-      "content_preview": "Does anyone know any roads or areas that'd be good to practice using manual on downhill roads? This is our first time going anywhere with steep grades on roads and we quickly learned that we don't want to use automatic on downhill steep grades or we may burn out the brakes. It seems very simple considering we probably want to stay at 3rd gear and uncommonly at 2nd - throw it in manual at around 25-35mph at the top of the hill and downshift if going too fast without hitting the brakes! If that sounds wrong, please give advice. We've literally never used manual a day in our lives lol. Thanks, everyone :)",
-      "flair": [
-        "Question"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Universal's parking garage has 14 foot ceilings so tall boy vans like myself can keep out of the sun.",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n4d5sv/universals_parking_garage_has_14_foot_ceilings_so/",
-      "score": 100,
-      "comments": 8,
-      "post_id": "t3_1n4d5sv",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Spencerforhire83",
-      "author_id": "t2_aby0n",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-30T21:30:50.785000+0000",
-      "content_href": "https://i.redd.it/xhxoq6zx58mf1.jpeg",
+      "created_ts": "2025-09-03T21:26:58.235000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7riqd",
       "content_preview": "",
       "flair": [
         "Pictures"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "https://preview.redd.it/spaulding-lake-emerald-pools-v0-ihnosxy8p0nf1.jpg?width=640&crop=smart&auto=webp&s=2d50bc406ae4c7dd9e473a5fc3cb3c58350e3ec7",
+      "is_promoted": false
     },
     {
-      "title": "Dc>dc wiring",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n350pk/dcdc_wiring/",
-      "score": 5,
-      "comments": 17,
-      "post_id": "t3_1n350pk",
+      "title": "Sleeping in a van: head up front or out back? 🤔",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n8wvf1/sleeping_in_a_van_head_up_front_or_out_back/",
+      "score": 6,
+      "comments": 19,
+      "post_id": "t3_1n8wvf1",
       "post_type": "text",
       "domain": "self.vandwellers",
-      "author": "JedTrently",
-      "author_id": "t2_m44q0",
+      "author": "TheBombolla",
+      "author_id": "t2_hh809",
       "subreddit_id": "t5_2rnwo",
       "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-29T11:37:09.885000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n350pk/dcdc_wiring/",
-      "content_preview": "I'm finding conflicting things online. 12v van and 12v van 'house' system I'm laying cables for my renogy dc>dc in my ford transit mk7. My dc>dc charger unit will be at the rear of the vehicle. I was planning on running 1 positive cable from the customer connection point which is wired up to the starter battery to feed the charger. But where do I ground the negative input cable? Can I just ground it on the chassis, or do I have to run it all the way down the van from the CCP to the charger unit? Thank you",
+      "created_ts": "2025-09-05T05:30:14.354000+0000",
+      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n8wvf1/sleeping_in_a_van_head_up_front_or_out_back/",
+      "content_preview": "Every vanlifer I meet swears their way is the only way:Driver’s seat side = “better feng shui”Rear doors = “fresh air + fast exit if nature calls”So, what’s the actual science here? Or is this like the pineapple-on-pizza argument of vanlife? 🍍🍕🚐",
       "flair": [
-        "Question"
+        "Tips & Tricks"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1m5k7c/styles/profileIcon_e1g7tcyq59y81.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b7441094bb30c48c799e3dcf4002701d0ac07c6f"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "1 month of vanlife expenses breakdown (+ pics)",
       "permalink": "https://www.reddit.com/r/vandwellers/comments/1ms6mw2/1_month_of_vanlife_expenses_breakdown_pics/",
-      "score": 642,
+      "score": 646,
       "comments": 111,
       "post_id": "t3_1ms6mw2",
       "post_type": "gallery",
@@ -303,7 +242,361 @@
       "flair": [
         "Road Trip"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_28c9y3/styles/profileIcon_y9s4wxqu6zg71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a29fabd1fc4a2b6ee1abe841b9763188b717cebf"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_28c9y3/styles/profileIcon_y9s4wxqu6zg71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a29fabd1fc4a2b6ee1abe841b9763188b717cebf",
+      "is_promoted": false
+    },
+    {
+      "title": "Looking for an easy bed solution",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n7oy86/looking_for_an_easy_bed_solution/",
+      "score": 38,
+      "comments": 10,
+      "post_id": "t3_1n7oy86",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "JainyLoL",
+      "author_id": "t2_9n2f3",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-09-03T19:48:36.961000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7oy86",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "First week of van living and first week of my masters program done!",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n3dwo7/first_week_of_van_living_and_first_week_of_my/",
+      "score": 408,
+      "comments": 9,
+      "post_id": "t3_1n3dwo7",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "QweenOfTheCrops",
+      "author_id": "t2_5ccpgnuf",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-29T17:36:57.180000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n3dwo7",
+      "content_preview": "",
+      "flair": [
+        "Pictures"
+      ],
+      "thumbnail_url": "https://preview.redd.it/first-week-of-van-living-and-first-week-of-my-masters-v0-cplnnh0nvzlf1.jpg?width=640&crop=smart&auto=webp&s=13e829d77a0b90ff7dfc2ecc960dc5afe550a99e",
+      "is_promoted": false
+    },
+    {
+      "title": "What does your dog do during the day?",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n7genq/what_does_your_dog_do_during_the_day/",
+      "score": 23,
+      "comments": 107,
+      "post_id": "t3_1n7genq",
+      "post_type": "multi_media",
+      "domain": "self.vandwellers",
+      "author": "VagabondVivant",
+      "author_id": "t2_x3di9",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-09-03T14:31:44.018000+0000",
+      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n7genq/what_does_your_dog_do_during_the_day/",
+      "content_preview": "I've made it across the country and am trying to settle into my new locale, but I find myself feeling bad that my dog is so bored all the time.Back in housed life, even though he was stuck at home all day, he had humans and another dog to keep him occupied. He also had a predictable routine to find solace in and a domain to guard and prowl call his own.On the road, though he didn't have the comfort of a routine, every day was an adventure and while some were kinda dull, most involved hikes and exploration and meeting new people and sniffing new smells.Now that we're settling into our new normal, it feels like the worst of both worlds: he's stuck in the van for most of the day while I either work or take care of my dad (the reason I'm here in the first place), with little interaction or room to roam.He loves being out of the van and going on walks and hikes, and hates coming back to the van and the change in mood is palpable as he climbs back into bed with resignation, sleeping away his boredom.I hate seeing him like this, but I've got a lot on my plate and there's only so much I can do to keep him engaged. How do your dogs spend their days? What do you do to keep them entertained and in good spirits while you go about your daily to-dos?EDIT TO ADD:I should probably also qualify that my dog is aToller, a high-energy breed that loves the outdoors and gets bored easily. He's not exactly built for just lounging around all day.EDIT 2:So I have no idea how the fuck people got the idea that I'm somehow neglecting my dog, so let me spell it out: except for when I need to tend to my dying father, I spendevery minute of the daywith my dog. It's just that much of the day, I'm in front of the computer, working, because, you know, I'm not independently wealthy. He spends that time sleeping or laying beside me, bored, which I feel guilty about. But when I'm not working, I'm either taking him for walks, hikes, or down to the water to play.I started this thread to try and get some tips on how to keep him engaged and entertained when I'm working, because I'm unable to actively play with him. How the everloving fuck that was interpreted as \"I abandon and neglect my dog\" is beyond me. I haven't edited the OP, so if someone wants to point out where they got that impression, I'd love to hear it. I love my dog. He is my world. I spend every minute I'm able to with him. There are just many minutes in the day that I'm UNable to lavish him with attention, and that's what I was here trying to get advice with. Instead I got judgmental pricks jumping to conclusions based on assumptions.",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_b29ze/styles/profileIcon_ild0hbktvowc1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f7e617632ed5aaa5c8e085385d3c1801fa08fa78",
+      "is_promoted": false
+    },
+    {
+      "title": "Smoothly transition between weekday warrior and weekend adventurer. Take a closer look at the XC40, an SUV built for versatility.",
+      "permalink": "https://www.reddit.com/user/volvocarusa/comments/1muxxhd/smoothly_transition_between_weekday_warrior_and/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1muxxhd",
+      "post_type": "image",
+      "domain": "volvocars.com",
+      "author": "volvocarusa",
+      "author_id": "t2_4o8easx8",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-19T22:57:17.271000+0000",
+      "content_href": "https://www.volvocars.com/us/cars/xc40/?utm_campaign=%7B%7BCAMPAIGN_NAME%7D%7D&utm_content=%7B%7BAD_NAME%7D%7D&utm_medium=paid_social",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_25j5wo/styles/profileIcon_qwtep57blu281.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=e78f5adefefd0f80179732429f02b18efb5ad471",
+      "is_promoted": true
+    },
+    {
+      "title": "First Van!",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n72e75/first_van/",
+      "score": 400,
+      "comments": 34,
+      "post_id": "t3_1n72e75",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Goose-loves-toast",
+      "author_id": "t2_40fvt5bv",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-09-03T01:59:04.949000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n72e75",
+      "content_preview": "",
+      "flair": [
+        "Pictures"
+      ],
+      "thumbnail_url": "https://preview.redd.it/first-van-v0-kbcwjhbvwumf1.jpg?width=640&crop=smart&auto=webp&s=d1dc15e843febecac215b789004c7596227f6a5f",
+      "is_promoted": false
+    },
+    {
+      "title": "Advice on how to cheaply insulate a pop-up camper.",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n6pn3k/advice_on_how_to_cheaply_insulate_a_popup_camper/",
+      "score": 6,
+      "comments": 51,
+      "post_id": "t3_1n6pn3k",
+      "post_type": "text",
+      "domain": "self.vandwellers",
+      "author": "Haiden7822",
+      "author_id": "t2_ufj6kh9v2",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-09-02T17:21:49.727000+0000",
+      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n6pn3k/advice_on_how_to_cheaply_insulate_a_popup_camper/",
+      "content_preview": "I have been homeless since February 10th 2024, now I've been in a camper on my bosses property. A customer gave me a pop-up camper, it's probably early 2000s. I get it's not a van but was hoping I could get advice. I plan to get a buddy heater. I just want to stay relatively warm as the months get colder in new England",
+      "flair": [
+        "Tips & Tricks"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "My first build",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mvt8lb/my_first_build/",
+      "score": 575,
+      "comments": 86,
+      "post_id": "t3_1mvt8lb",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "captain_rex5555",
+      "author_id": "t2_j3zox11e",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-20T22:19:11.623000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mvt8lb",
+      "content_preview": "",
+      "flair": [
+        "Builds"
+      ],
+      "thumbnail_url": "https://preview.redd.it/my-first-build-v0-ujrsqiqr19kf1.jpg?width=640&crop=smart&auto=webp&s=da0bd48d467813bcbe6db1dfc9355d31df84f099",
+      "is_promoted": false
+    },
+    {
+      "title": "Two months into my best decision ever",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mnskal/two_months_into_my_best_decision_ever/",
+      "score": 514,
+      "comments": 85,
+      "post_id": "t3_1mnskal",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "LostInTheCereal",
+      "author_id": "t2_1jda41245d",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-11T23:20:21.146000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mnskal",
+      "content_preview": "",
+      "flair": [
+        "Builds"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eb1d32/styles/profileIcon_54wfdz8hc13f1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=9bd052db72de989e5337aee608767f6dc4a66cc5",
+      "is_promoted": false
+    },
+    {
+      "title": "Drive to Crested Butte",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n8moc8/drive_to_crested_butte/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n8moc8",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "goonie284",
+      "author_id": "t2_125hot",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-09-04T21:24:28.133000+0000",
+      "content_href": "https://youtu.be/nphwUVioWzM?si=iPN8Pff36-gWKMLE",
+      "content_preview": "",
+      "flair": [
+        "Road Trip"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Cabinets almost finished!",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n59umw/cabinets_almost_finished/",
+      "score": 341,
+      "comments": 51,
+      "post_id": "t3_1n59umw",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "LockedoutTaggedout",
+      "author_id": "t2_oxxta34w",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-31T23:53:17.728000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n59umw",
+      "content_preview": "",
+      "flair": [
+        "Builds"
+      ],
+      "thumbnail_url": "https://preview.redd.it/cabinets-almost-finished-v0-mu3hdubm0gmf1.jpg?width=640&crop=smart&auto=webp&s=81fede684467aeda8b1baac64b277f393c8470d2",
+      "is_promoted": false
+    },
+    {
+      "title": "Bought an '82 TransVan, stoked!",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n6szo5/bought_an_82_transvan_stoked/",
+      "score": 310,
+      "comments": 19,
+      "post_id": "t3_1n6szo5",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Nanjag",
+      "author_id": "t2_8kk07",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-09-02T19:26:32.587000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n6szo5",
+      "content_preview": "",
+      "flair": [
+        "Pictures"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "If lasting 1 day feels like forever, a full year is a really long time. Go up to 1 year between oil changes with Castrol EDGE Extended Performance.",
+      "permalink": "https://www.reddit.com/user/Castrol-Official/comments/1jztazx/if_lasting_1_day_feels_like_forever_a_full_year/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1jztazx",
+      "post_type": "image",
+      "domain": "castrol.com",
+      "author": "Castrol-Official",
+      "author_id": "t2_van9z4y00",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-04-15T14:29:38.877000+0000",
+      "content_href": "https://www.castrol.com/en_us/united-states/home/products/our-brands/automotive/castrol-edge-oils/castrol-edge-extended-performance.html?utm_source=Reddit&utm_medium=Social&utm_campaign=Castrol|Castrol Cross Channel|Cross Brand|2025|Q3|US|ENG|B2C|Social|Reddit|PR|AWR|RE|CPM|Prospecting|Static|All|Reach|P33M8SD_CAS_GEN_312_Social_REDDIT.COM_Reddit Awareness_Run of Site_Prospecting_P18+_Click and View_Other_NA&utm_content=Castrol|US|ENG|B2C|Reddit|Multiple|Prospecting|Combination|Reach|Reddit_Awareness&utm_term=Castrol_Castrol Cross Channel_EDGE_2025_US_ENG_EDGE EP Bench_Static_NA_364 Days 4x5",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_awvprc/styles/profileIcon_5pc55zxoeotc1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=3da26a1540dfc39e59fe3ffe49675f55d495fe03",
+      "is_promoted": true
+    },
+    {
+      "title": "Solar panels not working",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n6qbgv/solar_panels_not_working/",
+      "score": 5,
+      "comments": 23,
+      "post_id": "t3_1n6qbgv",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "DueDefinition3638",
+      "author_id": "t2_i1t1xm2b",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-09-02T17:47:14.983000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n6qbgv",
+      "content_preview": "",
+      "flair": [
+        "Builds"
+      ],
+      "thumbnail_url": "https://preview.redd.it/solar-panels-not-working-v0-whmkh9p1hsmf1.jpg?width=640&crop=smart&auto=webp&s=6f081bff2529ff4e08394236ab63715602e5e708",
+      "is_promoted": false
+    },
+    {
+      "title": "Is it scary during storms/tornadoes?",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n6cytz/is_it_scary_during_stormstornadoes/",
+      "score": 9,
+      "comments": 38,
+      "post_id": "t3_1n6cytz",
+      "post_type": "text",
+      "domain": "self.vandwellers",
+      "author": "Glitchyguy97",
+      "author_id": "t2_czes77b1",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-09-02T07:20:44.683000+0000",
+      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n6cytz/is_it_scary_during_stormstornadoes/",
+      "content_preview": "I've always worried about tornadoes",
+      "flair": [
+        "Tips & Tricks"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Tips to prepare van for winter when not using it",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n62sgn/tips_to_prepare_van_for_winter_when_not_using_it/",
+      "score": 7,
+      "comments": 13,
+      "post_id": "t3_1n62sgn",
+      "post_type": "text",
+      "domain": "self.vandwellers",
+      "author": "subjectivevalue01",
+      "author_id": "t2_ecza59zx",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-09-01T22:30:04.401000+0000",
+      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n62sgn/tips_to_prepare_van_for_winter_when_not_using_it/",
+      "content_preview": "Hi everyone! My partner and I have bought a GMC van which has previously been converted, and we have been travelling around Canada for the summer. Winter is coming up quickly and we will not be living in the van, so I am wondering what we need to do to prepare the van for intense winter conditions (snow and freezing temperatures etc). We are from New Zealand so we are not familiar with this at all!We have a solar panel on the roof so I’m not sure if we need to cover this? Do we disconnect the house batteries? Do people use additives for the fuel tank or engine oil so it doesn’t freeze?Thank you so much!!",
+      "flair": [
+        "Tips & Tricks"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Hidden compartments and hiding spots",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n2o63w/hidden_compartments_and_hiding_spots/",
+      "score": 32,
+      "comments": 78,
+      "post_id": "t3_1n2o63w",
+      "post_type": "text",
+      "domain": "self.vandwellers",
+      "author": "MasturbatingMiles",
+      "author_id": "t2_26y9sgf7",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-28T21:01:44.287000+0000",
+      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n2o63w/hidden_compartments_and_hiding_spots/",
+      "content_preview": "I’m in the planning stage and need to make a good hidden spot for cash and valuables. I’m thinking about a false bottom opened by magnets like those child proof cabinet locks but not sure where the best place to put one would be.I understand people might not want to post what they built on Reddit but would appreciate a DM or comment if you’re comfortable.Thank you!",
+      "flair": [
+        "Builds"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "A raiseable mattress/bed by SuperfastMatt.",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n2o34t/a_raiseable_mattressbed_by_superfastmatt/",
+      "score": 16,
+      "comments": 0,
+      "post_id": "t3_1n2o34t",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "spytez",
+      "author_id": "t2_2l6qxo5n",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-28T20:58:41.941000+0000",
+      "content_href": "https://www.youtube.com/watch?v=_2hj0tR3uwY",
+      "content_preview": "",
+      "flair": [
+        "Builds"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "Denver Downtown Van Parking",
@@ -323,32 +616,448 @@
       "flair": [
         "Question"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "My first build",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mvt8lb/my_first_build/",
-      "score": 572,
-      "comments": 86,
-      "post_id": "t3_1mvt8lb",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "captain_rex5555",
-      "author_id": "t2_j3zox11e",
+      "title": "How to use cargo space for daily use?",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n88dof/how_to_use_cargo_space_for_daily_use/",
+      "score": 1,
+      "comments": 7,
+      "post_id": "t3_1n88dof",
+      "post_type": "text",
+      "domain": "self.vandwellers",
+      "author": "Brammm87",
+      "author_id": "t2_7hxvy",
       "subreddit_id": "t5_2rnwo",
       "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-20T22:19:11.623000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mvt8lb",
+      "created_ts": "2025-09-04T12:10:03.387000+0000",
+      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n88dof/how_to_use_cargo_space_for_daily_use/",
+      "content_preview": "Hey allBit of an atypical post for this sub maybe, but I don't really know where to go with it, mayber/CarTalkthough this is more specific towards vans... Feel free to point me in the right direction.Me and my wife scuba dive and we've started taking our two children on diving trips as well. We're also getting into camping more and more, but are sick and tired of trying to puzzle all our gear into our station wagon (Skoda Octavia) and then getting everything wet after a dive. Or having to go on holiday with a roof box which just sucks.So the idea is to buy a double cab van to replace the station wagon. We're about to pull the trigger on an L1 Ford Transit Custom. We'll have 5 seats, it's \"small\" enough to use as a daily driver car, but we also have a bulkhead and a separate cargo area to separate the traveling area from the \"wet and musty\" area.The idea is to provide some racking on one side of the cargo hold, and the other side have a little bench that can store dive bottles. I want to keep a length of floor available to store a bike as well.That's our situation, so the main thing I'm wondering about now: how do I handle the storage area for daily use? How do I prevent a crate with groceries or a book bag sliding about the storage area? Are there good divider tricks? Use a net? Any tips or inspiration welcome!",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "where u heading first on your trip through McDonaldland? get the meal, shake + 1 of 6 souvenir tins",
+      "permalink": "https://www.reddit.com/user/McDonaldsUSA/comments/1mky7q9/where_u_heading_first_on_your_trip_through/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mky7q9",
+      "post_type": "video",
+      "domain": "smart.link",
+      "author": "McDonaldsUSA",
+      "author_id": "t2_yqgti5",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-08T15:26:28.282000+0000",
+      "content_href": "https://v.redd.it/7upwlo6pvrhf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3n628/styles/profileIcon_o4sdyd6356481.jpeg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=258655a52b6cac84e969622b333b49b46b4c7491",
+      "is_promoted": true
+    },
+    {
+      "title": "Heater or Not",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n20tqe/heater_or_not/",
+      "score": 6,
+      "comments": 17,
+      "post_id": "t3_1n20tqe",
+      "post_type": "text",
+      "domain": "self.vandwellers",
+      "author": "ACenAce731",
+      "author_id": "t2_e58ddupj",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-28T02:44:29.416000+0000",
+      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n20tqe/heater_or_not/",
+      "content_preview": "Hello,looking t neither do a DIY or a Chineese gas air heater.Not sure if it's really want to drill a hole, I beleive using the ford transit aux port should work... I don't think we will go that high in altitude...Also this is only to keep the van hot...Anyone used the ford aux port with let say the real ford oem  adaptor?I'm still wondering if I really want an heater... we don't plan to sleep in it really, but use it maybe to travel to ski and back to home... but i think the 2nd row bech seat will be too cold for the kids if no heater?. Maybe an electric heater could be used but to recharge batteries i would need to keep them.above 0 degree...help me :)",
+      "flair": [
+        "Builds"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Mold removal",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n1ohus/mold_removal/",
+      "score": 24,
+      "comments": 20,
+      "post_id": "t3_1n1ohus",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Still_Pleasant",
+      "author_id": "t2_8n1psjta",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-27T18:08:37.981000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n1ohus",
+      "content_preview": "",
+      "flair": [
+        "Tips & Tricks"
+      ],
+      "thumbnail_url": "https://preview.redd.it/mold-removal-v0-sucayss3rllf1.jpg?width=640&crop=smart&auto=webp&s=d79f74411943dac43cc0528305e06b17f52c1ec4",
+      "is_promoted": false
+    },
+    {
+      "title": "Got rid of the RTT, removed the back seats, and made a cozy little no-build home on wheels in there. I'm so happy with this setup now.",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n49urx/got_rid_of_the_rtt_removed_the_back_seats_and/",
+      "score": 282,
+      "comments": 36,
+      "post_id": "t3_1n49urx",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "HikeSierraNevada",
+      "author_id": "t2_a12rpn63",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-30T19:09:00.212000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n49urx",
       "content_preview": "",
       "flair": [
         "Builds"
       ],
-      "thumbnail_url": "https://preview.redd.it/my-first-build-v0-ujrsqiqr19kf1.jpg?width=640&crop=smart&auto=webp&s=da0bd48d467813bcbe6db1dfc9355d31df84f099"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3t4oir/styles/profileIcon_cyiwcqh2dzd61.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2daf38c44d2294b57685255e6401be4af9e23050",
+      "is_promoted": false
+    },
+    {
+      "title": "Is my electrical box too big?",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n7x0zl/is_my_electrical_box_too_big/",
+      "score": 3,
+      "comments": 14,
+      "post_id": "t3_1n7x0zl",
+      "post_type": "multi_media",
+      "domain": "self.vandwellers",
+      "author": "Buildeddie97",
+      "author_id": "t2_bbzg7",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-09-04T01:26:33.477000+0000",
+      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n7x0zl/is_my_electrical_box_too_big/",
+      "content_preview": "I think I made my electric box too big. In the photo below:https://preview.redd.it/is-my-electrical-box-too-big-v0-9iv19qltu1nf1.jpgThe width and depth are designed around said batteries so the main thing I can change is the height. The box is a total of 35 inches tall which is going to make my bed probably too tall. Should I cut 8-10 incehs off the top and remount everything? The only thing still not wired is the AC distribution which is going to goon the right side wall.Also small side question: what have you done to get the wires to not run over each other? Or is that just a reality and I should add a sleeve of some sort?",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Truck life in the Canadian Rockies",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mprs3y/truck_life_in_the_canadian_rockies/",
+      "score": 451,
+      "comments": 38,
+      "post_id": "t3_1mprs3y",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "RockyMountainRider",
+      "author_id": "t2_7cxw9",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-14T05:31:21.683000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mprs3y",
+      "content_preview": "",
+      "flair": [
+        "Pictures"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/DFrKv-M3u8R_eeNh79NmcwASGtrdT1-g6defOmrEuI4.png?width=64&height=64&auto=webp&s=cadcfd45d0a3db8a3c56f9902729b0f2c9a530f1",
+      "is_promoted": false
+    },
+    {
+      "title": "Bedding",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n1uybi/bedding/",
+      "score": 6,
+      "comments": 2,
+      "post_id": "t3_1n1uybi",
+      "post_type": "text",
+      "domain": "self.vandwellers",
+      "author": "Sweetcornprincess",
+      "author_id": "t2_tkub6",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-27T22:16:58.211000+0000",
+      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n1uybi/bedding/",
+      "content_preview": "Where do folks find sheets for the oddly shaped beds?  Mine is 58x67.",
+      "flair": [
+        "Tips & Tricks"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Step into the world of prep — and make it yours. Fast-track your fall wardrobe with the latest from Tommy.",
+      "permalink": "https://www.reddit.com/user/tommyhilfiger/comments/1n03miv/step_into_the_world_of_prep_and_make_it_yours/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n03miv",
+      "post_type": "video",
+      "domain": "usa.tommy.com",
+      "author": "tommyhilfiger",
+      "author_id": "t2_zt41lyrey",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-25T21:42:14.762000+0000",
+      "content_href": "https://v.redd.it/gdifp9w827lf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bgr4xg/styles/profileIcon_90dt17fosyge1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=642257a8222033886d0033c1ba3134541b4b9c09",
+      "is_promoted": true
+    },
+    {
+      "title": "Rate my Water Schemtic (and a question or two regarding fittings and couplings types)",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n7ws17/rate_my_water_schemtic_and_a_question_or_two/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n7ws17",
+      "post_type": "multi_media",
+      "domain": "self.vandwellers",
+      "author": "Buildeddie97",
+      "author_id": "t2_bbzg7",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-09-04T01:14:56.003000+0000",
+      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n7ws17/rate_my_water_schemtic_and_a_question_or_two/",
+      "content_preview": "Just want to check if overall the system makes sense! Anything stand out that is dumb or catastrophic?Please feel free to download thedraw.iodiagram from google. You can click on the links through the site and it looks nice!https://drive.google.com/file/d/1KZH75RD1vgd45XSY6vJInnYBUINkWJCB/view?usp=sharingOr you can just open the photos below (separated for clarity):Water flows right to leftwater flows left to rightMy biggest confusion is with the silencer female fittings. They are clearly not NPT female fittings so why do they come with NPT male couplers? Will it be okay as long as I use a thread sealant?Similarly, does the silencer female swivel into the strainer NPS connector cause issues? This one seems like it should fit better as they are both straight walled and I would add thread sealant.Finally, there's the issue with the Shurflo strainer into the pump itself. It is an NPS female but the water pump has a NPT male. I am using the faroutride build as reference. They use the Shurflo pump which has an NPS in port so that makes sense that those match. Should I get an adapter? Do adapters like this exist? The only one I could find was this one from McMaster Carr:https://www.mcmaster.com/4685T13/but that's only male to male. (I found some more on ebay so maybe this is a worthwhile solution?(also is there anything wrong with the way I have my cold and hot water splits? It feels like it should be fine but I don't know. Maybe I need splitters that have open and close valves?)Let me know if you need any clarifications but thanks for any advice!",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Insulation on top of wood",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n1m2c6/insulation_on_top_of_wood/",
+      "score": 11,
+      "comments": 10,
+      "post_id": "t3_1n1m2c6",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Sweaty-Deal6062",
+      "author_id": "t2_icl9n4g7",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-27T16:39:05.223000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n1m2c6",
+      "content_preview": "",
+      "flair": [
+        "Tips & Tricks"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Purchasing advice requested  with Ram Promaster Transmission concerns",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n1s7su/purchasing_advice_requested_with_ram_promaster/",
+      "score": 4,
+      "comments": 4,
+      "post_id": "t3_1n1s7su",
+      "post_type": "text",
+      "domain": "self.vandwellers",
+      "author": "potatoehead77",
+      "author_id": "t2_fxjst",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-27T20:29:28.391000+0000",
+      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n1s7su/purchasing_advice_requested_with_ram_promaster/",
+      "content_preview": "I’ve been saving for a while and work remotely, I’m looking to buy a van to live in for 1-3 week intervals while I play pro disc golf tournaments around the country.Since I live in an apartment in a major city and my outside of work hobby takes up so much time I want a prebuilt.How bad is the transmission issues in the Ram Promaster pre 22, my gut is to just avoid them but that’s a lot of the market.I have the budget willing to go up to 90k (can do more for the perfect option but don’t want to).My plan is to buy something close to what I need and then put in the last touches myself as very few builds have a serious desk and the electrical ability to run ac in the summer heat which I’ll have to do for disc golf tournaments.Any advice welcomed",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Gutter mounted roof racks?",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n0m1ra/gutter_mounted_roof_racks/",
+      "score": 10,
+      "comments": 19,
+      "post_id": "t3_1n0m1ra",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "BastosBoto",
+      "author_id": "t2_dw0bp3dq",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-26T13:35:42.911000+0000",
+      "content_href": "https://i.redd.it/dy48rdpv9dlf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Builds"
+      ],
+      "thumbnail_url": "https://preview.redd.it/gutter-mounted-roof-racks-v0-dy48rdpv9dlf1.jpeg?width=640&crop=smart&auto=webp&s=af5d8c2ade9a665b3c5d76f925d3481e8111fe39",
+      "is_promoted": false
+    },
+    {
+      "title": "Finally, a floor!",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mka6cf/finally_a_floor/",
+      "score": 423,
+      "comments": 74,
+      "post_id": "t3_1mka6cf",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Minimum_Chocolate_31",
+      "author_id": "t2_9si1dvi0",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-07T19:53:13.698000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mka6cf",
+      "content_preview": "",
+      "flair": [
+        "Pictures"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Install help.",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n0c3n1/install_help/",
+      "score": 4,
+      "comments": 4,
+      "post_id": "t3_1n0c3n1",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "hikertrash332",
+      "author_id": "t2_ksxmcf6ss",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-26T04:09:27.600000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n0c3n1",
+      "content_preview": "",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://preview.redd.it/install-help-v0-e2ugm0asgalf1.jpg?width=640&crop=smart&auto=webp&s=19bbaed3281312b3149de6538beffc0325870f56",
+      "is_promoted": false
+    },
+    {
+      "title": "Fridge and Mattress installed",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mrf0nw/fridge_and_mattress_installed/",
+      "score": 349,
+      "comments": 70,
+      "post_id": "t3_1mrf0nw",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Creepy-Document364",
+      "author_id": "t2_h9cxwfyga",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-16T00:08:48.718000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mrf0nw",
+      "content_preview": "",
+      "flair": [
+        "Builds"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_92ezpk/styles/profileIcon_bcf4hme3wi7f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b91edab3c4b31ee5b6897102a10c6ab7592b2838",
+      "is_promoted": false
+    },
+    {
+      "title": "HERSHEY’S KISSES Pokémon",
+      "permalink": "https://www.reddit.com/user/HersheyOfficial/comments/1lu59rm/hersheys_kisses_pokémon/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1lu59rm",
+      "post_type": "image",
+      "domain": "hersheyland.com",
+      "author": "HersheyOfficial",
+      "author_id": "t2_1n3vvjmz40",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-07T20:36:15.388000+0000",
+      "content_href": "https://www.hersheyland.com/pokemon?utm_source=reddit&utm_medium=paid-social&utm_campaign=hersheys_pokemon&utm_content=x",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_e5xndz/styles/profileIcon_9xrsitm5m7ue1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=89bf47a1c81c996d0ef388383d1fa18f5d5f1a8b",
+      "is_promoted": true
+    },
+    {
+      "title": "South Lake Tahoe with the pups",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n50c9j/south_lake_tahoe_with_the_pups/",
+      "score": 112,
+      "comments": 5,
+      "post_id": "t3_1n50c9j",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Powderhound2001",
+      "author_id": "t2_tu40hhdlt",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-31T17:16:06.206000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n50c9j",
+      "content_preview": "",
+      "flair": [
+        "Pictures"
+      ],
+      "thumbnail_url": "https://preview.redd.it/south-lake-tahoe-with-the-pups-v0-y8al808r1emf1.jpg?width=640&crop=smart&auto=webp&s=cdee19b6adca532740a3658d141b250268dcf543",
+      "is_promoted": false
+    },
+    {
+      "title": "Universal's parking garage has 14 foot ceilings so tall boy vans like myself can keep out of the sun.",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n4d5sv/universals_parking_garage_has_14_foot_ceilings_so/",
+      "score": 110,
+      "comments": 10,
+      "post_id": "t3_1n4d5sv",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Spencerforhire83",
+      "author_id": "t2_aby0n",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-30T21:30:50.785000+0000",
+      "content_href": "https://i.redd.it/xhxoq6zx58mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Pictures"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "thoughts/pics from my first 3 weeks of solo full time van travel + full time remote work",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1migtgk/thoughtspics_from_my_first_3_weeks_of_solo_full/",
+      "score": 341,
+      "comments": 49,
+      "post_id": "t3_1migtgk",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "strategiesforlife",
+      "author_id": "t2_50bab462",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-05T18:15:32.477000+0000",
+      "content_href": "https://www.reddit.com/gallery/1migtgk",
+      "content_preview": "",
+      "flair": [
+        "Road Trip"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_28c9y3/styles/profileIcon_y9s4wxqu6zg71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a29fabd1fc4a2b6ee1abe841b9763188b717cebf",
+      "is_promoted": false
+    },
+    {
+      "title": "ZEROBREEZING MY WAY THROUGH A SOUTH FLORIDA SUMMER!!! THEY SAID IT WASNT POSSIBLE",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mqn03g/zerobreezing_my_way_through_a_south_florida/",
+      "score": 322,
+      "comments": 49,
+      "post_id": "t3_1mqn03g",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "outwandering333",
+      "author_id": "t2_41z0ptp8",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-15T04:05:05.277000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mqn03g",
+      "content_preview": "",
+      "flair": [
+        "Builds"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
       "title": "Finally upgrade my van with solar. Here's my thoughts on Renogy panels",
       "permalink": "https://www.reddit.com/r/vandwellers/comments/1n2wj16/finally_upgrade_my_van_with_solar_heres_my/",
-      "score": 90,
+      "score": 104,
       "comments": 20,
       "post_id": "t3_1n2wj16",
       "post_type": "image",
@@ -363,7 +1072,132 @@
       "flair": [
         "Builds"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_3ldlh6/styles/profileIcon_7a2eehlpc2t61.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c00b14562b44c45d0c7b69ea2caf20c9876c1473"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3ldlh6/styles/profileIcon_7a2eehlpc2t61.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c00b14562b44c45d0c7b69ea2caf20c9876c1473",
+      "is_promoted": false
+    },
+    {
+      "title": "Velit 2000R behavior when powering on?",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n0bwb6/velit_2000r_behavior_when_powering_on/",
+      "score": 3,
+      "comments": 4,
+      "post_id": "t3_1n0bwb6",
+      "post_type": "text",
+      "domain": "self.vandwellers",
+      "author": "simoriah",
+      "author_id": "t2_56gn7",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-26T03:58:46.769000+0000",
+      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n0bwb6/velit_2000r_behavior_when_powering_on/",
+      "content_preview": "For those of you that have one of these, when the unit starts receiving power, does it have to be turned back on for it to start working, or does it come back online and just start doing what it was last told to do? I ask because my MaxxAir fans get power but don't auto turn on until I press a button. I'm wondering what the Velit does before I go way down this rabbit hole to try to figure this out while I've got some away-from-van-downtime.I ask because I have a Velit 2000R still in the crate at home. When I install it, I'm hoping that I can do some wizardry with my CerboGX and even some scripting from a raspberry pi that will be connected to the internal wifi network in my van. I'm hoping that I can figure something out to basically say \"If my van is more than 50 miles from home and the battery is over X SOC and the temp is over Y degrees, flip a relay to start sending power to the air conditioner.\" I'm confident that I can get something thrown together for all of that. What it doesn't account for is the behavior of the AC unit when it starts getting power.Thanks for any info you can provide that might help me (even if it's to say it won't work).",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "There are big dreams. There are small dreams. At IKEA, we design for every dream in between.",
+      "permalink": "https://www.reddit.com/user/IKEA_USA/comments/1mx70z3/there_are_big_dreams_there_are_small_dreams_at/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mx70z3",
+      "post_type": "gallery",
+      "domain": "ikea.com",
+      "author": "IKEA_USA",
+      "author_id": "t2_655g3pr",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-22T13:48:32.172000+0000",
+      "content_href": "https://www.ikea.com/us/en/campaigns/40thanniversary-pub45e9ef70/?utm_source=reddit&utm_medium=paid-social&utm_campaign=US_LC_A1_Brand_Platform_FY26_L1_Awareness_Brand-PROSP-Standard-GMGM",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_gam87/styles/profileIcon_33zmv4vm75u61.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=cc9371c3979044f9e00dab4928971bbc1df82e91",
+      "is_promoted": true
+    },
+    {
+      "title": "Ugly Corners",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n7qso1/ugly_corners/",
+      "score": 1,
+      "comments": 5,
+      "post_id": "t3_1n7qso1",
+      "post_type": "multi_media",
+      "domain": "self.vandwellers",
+      "author": "Dangerous_Door_3837",
+      "author_id": "t2_127rh4obik",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-09-03T20:58:25.218000+0000",
+      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n7qso1/ugly_corners/",
+      "content_preview": "I recently finished installing bump outs at the rear end of my van to extend my sleeping space. Since I'm building it alone, it was much easier for me to attach each piece individually to my frame than to build the box and install it as one large piece. The process went relatively smoothly, but I was left with exposed corners at the upper corners where the metal curves. What would be the best way to cover these? I've considered using a roll of super thin flexi ply, installing carpet all over the the bump out, or just cutting and installing small pieces to cover the edge - but I'm really not sure which option would work or look the best.https://preview.redd.it/ugly-corners-v0-7tag6rl2k0nf1.jpghttps://preview.redd.it/ugly-corners-v0-o1xfxy23k0nf1.jpg",
+      "flair": [
+        "Builds"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Stress testing the shore power and charging system",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n6y24h/stress_testing_the_shore_power_and_charging_system/",
+      "score": 10,
+      "comments": 0,
+      "post_id": "t3_1n6y24h",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "ampsoma",
+      "author_id": "t2_b7rvj",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-09-02T22:44:42.955000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n6y24h",
+      "content_preview": "",
+      "flair": [
+        "Builds"
+      ],
+      "thumbnail_url": "https://preview.redd.it/stress-testing-the-shore-power-and-charging-system-v0-f4aki7iwxtmf1.jpg?width=640&crop=smart&auto=webp&s=2d5e9a6f1ffc707360cbc0c8e864ae39e1e01c4e",
+      "is_promoted": false
+    },
+    {
+      "title": "Windows Yes or No",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n006zi/windows_yes_or_no/",
+      "score": 12,
+      "comments": 34,
+      "post_id": "t3_1n006zi",
+      "post_type": "text",
+      "domain": "self.vandwellers",
+      "author": "robertmndl1",
+      "author_id": "t2_4k1fa82x",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-08-25T19:31:29.298000+0000",
+      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n006zi/windows_yes_or_no/",
+      "content_preview": "Hi, as the title says yes or no to windows in the back. I have read so many pros and cons to windows. I use my van for travelling but at my destination I live outdoors as much as possible. The Transit has a big side and back doors that provide plenty of a breeze and fresh air. Any opinions from personal experience on windows. Thanks",
+      "flair": [
+        "Builds"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Can anyone tell me if it would be ok to connect my Vevor diesel heater electrical to this thunderbolt cigarette lighter and plug it into my Jackery 290?",
+      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n6qxg6/can_anyone_tell_me_if_it_would_be_ok_to_connect/",
+      "score": 2,
+      "comments": 9,
+      "post_id": "t3_1n6qxg6",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "calvin200001",
+      "author_id": "t2_g2ujf3j",
+      "subreddit_id": "t5_2rnwo",
+      "subreddit": "r/vandwellers",
+      "created_ts": "2025-09-02T18:09:50.790000+0000",
+      "content_href": "https://i.redd.it/hyehgj75lsmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Builds"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_60bdg/styles/profileIcon_0ntd7gk1xjh51.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=74885ce3e85d3fd14b37a57025eb1dd89048e121",
+      "is_promoted": false
     },
     {
       "title": "URGENT — Need a car to live in ASAP (Element vs CR-V vs RAV4)",
@@ -379,632 +1213,13 @@
       "subreddit": "r/vandwellers",
       "created_ts": "2025-08-25T20:26:06.400000+0000",
       "content_href": "https://www.reddit.com/r/vandwellers/comments/1n01mg0/urgent_need_a_car_to_live_in_asap_element_vs_crv/",
-      "content_preview": "I need to buy a car this week to live in (I’m a 23F). Looking for something spacious but discreet for sleeping/traveling. Budget is around $8k (financing). My top options are a Honda Element, Honda CR-V, or Toyota RAV4. (I actually prefer the older boxy looks, newer ones are out of range anyway.) What I need help with: Best years (and years to avoid) for each Which is roomiest/most comfortable to sleep and live in Reliability issues to watch out for on specific years How they handle bad weather, mountains, and snow — and does FWD vs AWD really matter? Real-world mpg when loaded with stuff Priorities: Reliability (must last ~2 years) Livability (flat sleep setup, cargo height/space) Gas mileage Would love any input from owners who’ve lived or traveled in these cars. Thanks 🙏 P.S. I only need this setup for about two years so I can get back on my feet. After that, I’ll be moving into a better living situation/different car options.",
+      "content_preview": "I need to buy a car this week to live in (I’m a 23F). Looking for something spacious but discreet for sleeping/traveling. Budget is around $8k (financing). My top options are a Honda Element, Honda CR-V, or Toyota RAV4. (I actually prefer the older boxy looks, newer ones are out of range anyway.)What I need help with:Best years (and years to avoid) for eachWhich is roomiest/most comfortable to sleep and live inReliability issues to watch out for on specific yearsHow they handle bad weather, mountains, and snow — and does FWD vs AWD really matter?Real-world mpg when loaded with stuffPriorities:Reliability (must last ~2 years)Livability (flat sleep setup, cargo height/space)Gas mileageWould love any input from owners who’ve lived or traveled in these cars. Thanks 🙏P.S. I only need this setup for about two years so I can get back on my feet. After that, I’ll be moving into a better living situation/different car options.",
       "flair": [
         "Tips & Tricks"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "Windows Yes or No",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n006zi/windows_yes_or_no/",
-      "score": 11,
-      "comments": 34,
-      "post_id": "t3_1n006zi",
-      "post_type": "text",
-      "domain": "self.vandwellers",
-      "author": "robertmndl1",
-      "author_id": "t2_4k1fa82x",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-25T19:31:29.298000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n006zi/windows_yes_or_no/",
-      "content_preview": "Hi, as the title says yes or no to windows in the back. I have read so many pros and cons to windows. I use my van for travelling but at my destination I live outdoors as much as possible. The Transit has a big side and back doors that provide plenty of a breeze and fresh air. Any opinions from personal experience on windows. Thanks",
-      "flair": [
-        "Builds"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "Two months into my best decision ever",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mnskal/two_months_into_my_best_decision_ever/",
-      "score": 513,
-      "comments": 83,
-      "post_id": "t3_1mnskal",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "LostInTheCereal",
-      "author_id": "t2_1jda41245d",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-11T23:20:21.146000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mnskal",
-      "content_preview": "",
-      "flair": [
-        "Builds"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_eb1d32/styles/profileIcon_54wfdz8hc13f1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=9bd052db72de989e5337aee608767f6dc4a66cc5"
-    },
-    {
-      "title": "2 weeks off-road, zero charging stops",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mylsyf/2_weeks_offroad_zero_charging_stops/",
-      "score": 16,
-      "comments": 9,
-      "post_id": "t3_1mylsyf",
-      "post_type": "text",
-      "domain": "self.vandwellers",
-      "author": "Brad_enn",
-      "author_id": "t2_1kkr4vgp6q",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-24T04:04:27.144000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1mylsyf/2_weeks_offroad_zero_charging_stops/",
-      "content_preview": "Just got back from two weeks exploring the Arizona backcountry. I've prided myself on a more primitive style of overlanding by minimizing tech. After seeing so many discussions here about portable power, I decided to experiment. This time, alongside my standard dual-battery system, I brought an Anker solix C300DC. It shined by providing a buffer for the fridge power and offering peace of mind as a jump-start backup. But what I like most of it is I almost made it the entire trip without once having to run the engine solely to charge something. That's it, just a simple sharing.",
-      "flair": [
-        "Road Trip"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Cold weather Van life",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1myf258/cold_weather_van_life/",
-      "score": 16,
-      "comments": 31,
-      "post_id": "t3_1myf258",
-      "post_type": "text",
-      "domain": "self.vandwellers",
-      "author": "Unusual_Dealer9388",
-      "author_id": "t2_boci1buo",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-23T22:30:16.195000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1myf258/cold_weather_van_life/",
-      "content_preview": "What do you do in cold weather areas? I live in eastern Canada and I want to continue my exploring late in the season up to like -10 or -15C...does anybody have any experience with cold weather Van life? The most common response will be \"you got wheels, drive somewhere warm that's the whole point\" but that's not what I'm trying to do.  I want to be in a van or camper late in the season in Atlantic Canada. TIA!",
-      "flair": [
-        "Builds"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Best place to look for used vans?",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mxzsj7/best_place_to_look_for_used_vans/",
-      "score": 4,
-      "comments": 13,
-      "post_id": "t3_1mxzsj7",
-      "post_type": "text",
-      "domain": "self.vandwellers",
-      "author": "Content_Bag993",
-      "author_id": "t2_a4wk78qz",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-23T12:11:32.971000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1mxzsj7/best_place_to_look_for_used_vans/",
-      "content_preview": "Hi all! I'm considering customizing my own Promaster camper van. I'm 6'3\" and was thinking of going for the PM 3500 high roof 159 ext version for a year long national park tour. I've heard of numerous issues that seem to have been resolved with newer 2019+ models. Any thoughts on the best/cheapest place to look for the bare PM (other van suggestions welcome).I'd like to save as much as I can for the actual build. Any advice (YouTubers?) for the actual build (just starting to research) is welcome too! Thanks in advance!",
-      "flair": [
-        "Tips & Tricks"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "Shared heat piping between factory Truma and Chinese diesel heater?",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mxybxd/shared_heat_piping_between_factory_truma_and/",
-      "score": 5,
-      "comments": 4,
-      "post_id": "t3_1mxybxd",
-      "post_type": "text",
-      "domain": "self.vandwellers",
-      "author": "ossi609",
-      "author_id": "t2_p9byj",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-23T10:53:05.616000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1mxybxd/shared_heat_piping_between_factory_truma_and/",
-      "content_preview": "Hey all, I dwell in a factory upfitted T1N with a Truma propane/butane fueled air+water heater. I'm looking to add a CDH to the equation for redundancy and ease of refueling while in Finland; the only European country with no LPG refilling stations, meaning annoying bottle swaps instead of 5 minute gas station stops and running out of heat in the dead of a -10 celcius night due to being unable to top up the canister in advance. The heat from the Truma is distributed throughout the van with piping, including to the batteries in the back and the separate bathroom, and I'd love to hook up the CDH to the same piping. Has anyone done something similar? Do you foresee any issues with the heat from one heater being pushed to the one thats not being used? Should I add some flaps to stop this?",
-      "flair": [
-        "Euro / UK"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "Considering a $200 budget upgrade",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mxsoec/considering_a_200_budget_upgrade/",
-      "score": 6,
-      "comments": 1,
-      "post_id": "t3_1mxsoec",
-      "post_type": "text",
-      "domain": "self.vandwellers",
-      "author": "wwholelottared",
-      "author_id": "t2_1uospi6k2m",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-23T05:08:02.704000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1mxsoec/considering_a_200_budget_upgrade/",
-      "content_preview": "My setup is pretty basic: I’ve got a 2015 Ford Transit Connect with about 150,000 miles, still running strong. I’ve been powering everything with generator(old Champion 2000-watt gas generator,8yo), and I have roughly 2 inches of fiberglass insulation around my camper, plus a Yeti cooler for food storage. planning to get a used generator alternative or a portable power station(currently eyeing on solix c300dc 180$).",
-      "flair": [
-        "Van Life"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Sealing and finishing this weird bend around the side door?",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n4a4em/sealing_and_finishing_this_weird_bend_around_the/",
-      "score": 57,
-      "comments": 31,
-      "post_id": "t3_1n4a4em",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "jvst_joshin",
-      "author_id": "t2_7q69kvb1",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-30T19:20:05.355000+0000",
-      "content_href": "https://i.redd.it/b30ppekhi7mf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Tips & Tricks"
-      ],
-      "thumbnail_url": "https://preview.redd.it/sealing-and-finishing-this-weird-bend-around-the-side-door-v0-b30ppekhi7mf1.jpeg?width=640&crop=smart&auto=webp&s=ec2f3f3e4c09d1b2a8387deb60634ede1357944b"
-    },
-    {
-      "title": "Top 3 expenses?",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mxm8gp/top_3_expenses/",
-      "score": 9,
-      "comments": 31,
-      "post_id": "t3_1mxm8gp",
-      "post_type": "text",
-      "domain": "self.vandwellers",
-      "author": "Satellite5812",
-      "author_id": "t2_jmhtllv",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-22T23:43:10.954000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1mxm8gp/top_3_expenses/",
-      "content_preview": "We're going to assume gas, insurance, and repairs as a given, since that's basically rent when you live in a van. I'm curious to hear what supplies other folks doing this run through the most, after the vehicle itself.",
-      "flair": [
-        "Question"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Hello Vandwellers!",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n09a31/hello_vandwellers/",
-      "score": 57,
-      "comments": 18,
-      "post_id": "t3_1n09a31",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Practical-Win-1288",
-      "author_id": "t2_1mp3bvt3lv",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-26T01:48:06.266000+0000",
-      "content_href": "https://i.redd.it/4iwu0qvmr9lf1.png",
-      "content_preview": "",
-      "flair": [
-        "Builds"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "Tell me why I can't run this 240v ac unit in my van. Having 900ah of battery and a multiplus 2, close to 1000w of solar.",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mwjzox/tell_me_why_i_cant_run_this_240v_ac_unit_in_my/",
-      "score": 4,
-      "comments": 39,
-      "post_id": "t3_1mwjzox",
-      "post_type": "text",
-      "domain": "self.vandwellers",
-      "author": "Creative-Tomorrow-54",
-      "author_id": "t2_1cjs6x4dvv",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-21T19:02:05.248000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1mwjzox/tell_me_why_i_cant_run_this_240v_ac_unit_in_my/",
-      "content_preview": "It's a house ac/heat pump unit, I have family that fits them for a living. Wall mounted, the unit can go at the rear door area, the rest is under the van. https://www.appliancesdirect.co.uk/p/eiq-18wminv/electriq-eiq18wminv-wall-split-air-conditioner?refsource=apadwords&utm_source=google&utm_medium=cpc&utm_id=22547259545&cq_src=google_ads&cq_cmp=22547259545&cq_con=&cq_term=&cq_med=pla&cq_plac=&cq_net=x&cq_pos=&cq_plt=gp&gad_source=1&gad_campaignid=22550830981&gclid=Cj0KCQjwh5vFBhCyARIsAHBx2wwN6ii5auKeCIy10NgG7tDQDXqqWAQbhybwlnVEqD6tAvum6LdcNNsaAlLxEALw_wcB Edit: Thanks for all the comments, I asked this because there was a video where somebody did this same thing, probably with a 12v version. The build was for his mum/mom. And the 12v units I'm searching for seem to be all 240v when I check them out, or bad btu for the price. I think I'll go for a mini split and undermount the other half. Van has no ac from factory 😕 Thanks family 🙏",
-      "flair": [
-        "Builds"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Well, I finally had to go in a different direction.",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mfftoi/well_i_finally_had_to_go_in_a_different_direction/",
-      "score": 505,
-      "comments": 46,
-      "post_id": "t3_1mfftoi",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Mojo884ever",
-      "author_id": "t2_m03rz",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-02T02:58:29.573000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mfftoi",
-      "content_preview": "",
-      "flair": [
-        "Van Life"
-      ],
-      "thumbnail_url": "https://preview.redd.it/well-i-finally-had-to-go-in-a-different-direction-v0-rfktx3kauigf1.jpg?width=640&crop=smart&auto=webp&s=8ec277493887caa831c5bf0041efcb532d8031e1"
-    },
-    {
-      "title": "Truck life in the Canadian Rockies",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mprs3y/truck_life_in_the_canadian_rockies/",
-      "score": 448,
-      "comments": 38,
-      "post_id": "t3_1mprs3y",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "RockyMountainRider",
-      "author_id": "t2_7cxw9",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-14T05:31:21.683000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mprs3y",
-      "content_preview": "",
-      "flair": [
-        "Pictures"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/DFrKv-M3u8R_eeNh79NmcwASGtrdT1-g6defOmrEuI4.png?width=64&height=64&auto=webp&s=cadcfd45d0a3db8a3c56f9902729b0f2c9a530f1"
-    },
-    {
-      "title": "Tips to prepare van for winter when not using it",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n62sgn/tips_to_prepare_van_for_winter_when_not_using_it/",
-      "score": 3,
-      "comments": 11,
-      "post_id": "t3_1n62sgn",
-      "post_type": "text",
-      "domain": "self.vandwellers",
-      "author": "subjectivevalue01",
-      "author_id": "t2_ecza59zx",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-09-01T22:30:04.401000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n62sgn/tips_to_prepare_van_for_winter_when_not_using_it/",
-      "content_preview": "Hi everyone! My partner and I have bought a GMC van which has previously been converted, and we have been travelling around Canada for the summer. Winter is coming up quickly and we will not be living in the van, so I am wondering what we need to do to prepare the van for intense winter conditions (snow and freezing temperatures etc). We are from New Zealand so we are not familiar with this at all! We have a solar panel on the roof so I’m not sure if we need to cover this? Do we disconnect the house batteries? Do people use additives for the fuel tank or engine oil so it doesn’t freeze? Thank you so much!!",
-      "flair": [
-        "Tips & Tricks"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Finally, a floor!",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mka6cf/finally_a_floor/",
-      "score": 421,
-      "comments": 74,
-      "post_id": "t3_1mka6cf",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Minimum_Chocolate_31",
-      "author_id": "t2_9si1dvi0",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-07T19:53:13.698000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mka6cf",
-      "content_preview": "",
-      "flair": [
-        "Pictures"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Near San Francisco. Any recommendations?",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mvrz90/near_san_francisco_any_recommendations/",
-      "score": 5,
-      "comments": 10,
-      "post_id": "t3_1mvrz90",
-      "post_type": "text",
-      "domain": "self.vandwellers",
-      "author": "Ethsoun",
-      "author_id": "t2_1hp3squ4na",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-20T21:29:55.197000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1mvrz90/near_san_francisco_any_recommendations/",
-      "content_preview": "Hello, My wife and I just left the Santa Cruz area and are looking for a place in the bay area where van dwellers aren't constantly being kicked out of town and break-ins aren't as frequent. Any recommendations? Edit: Thank you all for the amazing advice! We crossed the golden gate bridge and are across from Harbour Point. Car camping has been pretty chill the first night and the area looks as safe as it is beautiful. Just thought I would leave this here in return for all of the great advice everyone has given  us.",
-      "flair": [
-        "Question"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "Chevy express 4500",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n4b58s/chevy_express_4500/",
-      "score": 50,
-      "comments": 7,
-      "post_id": "t3_1n4b58s",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Clean_Giraffe3177",
-      "author_id": "t2_adrvq2t6",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-30T20:03:49.252000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n4b58s",
-      "content_preview": "",
-      "flair": [
-        "Tips & Tricks"
-      ],
-      "thumbnail_url": "https://preview.redd.it/chevy-express-4500-v0-pbfqvnenq7mf1.jpg?width=640&crop=smart&auto=webp&s=63a0067282c3a94fb72dbb8ff7ee9071a599cec0"
-    },
-    {
-      "title": "Our 12m/40ft public transport bus “soon” to be our tiny house on wheels",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mgeq2e/our_12m40ft_public_transport_bus_soon_to_be_our/",
-      "score": 362,
-      "comments": 82,
-      "post_id": "t3_1mgeq2e",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "kikiinpurgatory",
-      "author_id": "t2_7mtgjgb",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-03T09:08:46.835000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mgeq2e",
-      "content_preview": "",
-      "flair": [
-        "Pictures"
-      ],
-      "thumbnail_url": "https://preview.redd.it/our-12m-40ft-public-transport-bus-soon-to-be-our-tiny-house-v0-9hwgjp69trgf1.jpg?width=640&crop=smart&auto=webp&s=ffe68270dc9f7bd291d1f1ec46f2ac7dd956167b"
-    },
-    {
-      "title": "Fridge and Mattress installed",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mrf0nw/fridge_and_mattress_installed/",
-      "score": 347,
-      "comments": 70,
-      "post_id": "t3_1mrf0nw",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Creepy-Document364",
-      "author_id": "t2_h9cxwfyga",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-16T00:08:48.718000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mrf0nw",
-      "content_preview": "",
-      "flair": [
-        "Builds"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_92ezpk/styles/profileIcon_bcf4hme3wi7f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b91edab3c4b31ee5b6897102a10c6ab7592b2838"
-    },
-    {
-      "title": "Smaller Setups?",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mv4ily/smaller_setups/",
-      "score": 7,
-      "comments": 19,
-      "post_id": "t3_1mv4ily",
-      "post_type": "text",
-      "domain": "self.vandwellers",
-      "author": "hhic3888",
-      "author_id": "t2_1qez0n069u",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-20T03:58:51.014000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1mv4ily/smaller_setups/",
-      "content_preview": "Wife and I are getting to a point where we want to downsize and take some time to experience life after running a good sized farm together over the last 10 years and now wanting to downsize and travel. The question is, will the 2017 Dodge Grand Caravan GT that we already own outright be big enough to do that? We both are perfectly happy and content with a simplified and minimized lifestyle, and we will probably be spending a lot of our time camping out of tents in state parks, but for the travel in between and seasonal labor we were going to use the van or a small trailer/camper. As a previous fabricator I have ideas, but would appreciate seeing some smaller builds so that I can try to draw inspiration from them. Thanks for reading that mess and any ideas would be greatly appreciated.",
-      "flair": [
-        "Builds"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Encampment sweeps",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n60krj/encampment_sweeps/",
-      "score": 0,
-      "comments": 2,
-      "post_id": "t3_1n60krj",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "sciencefairy58",
-      "author_id": "t2_a9vq8271d",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-09-01T20:59:08.864000+0000",
-      "content_href": "https://i.redd.it/476wkyngammf1.png",
-      "content_preview": "",
-      "flair": [
-        "Pictures"
-      ],
-      "thumbnail_url": "https://preview.redd.it/encampment-sweeps-v0-476wkyngammf1.png?width=640&crop=smart&auto=webp&s=3cba188184860869ac921e245fbe5630768c5792"
-    },
-    {
-      "title": "Family of 4 deciding between Entegra Qwest Class C vs Winnebago Solis Class B",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1muwm7n/family_of_4_deciding_between_entegra_qwest_class/",
-      "score": 4,
-      "comments": 2,
-      "post_id": "t3_1muwm7n",
-      "post_type": "text",
-      "domain": "self.vandwellers",
-      "author": "fancygeomancy",
-      "author_id": "t2_nxx5bf2",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-19T22:04:31.205000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1muwm7n/family_of_4_deciding_between_entegra_qwest_class/",
-      "content_preview": "We are a family of four with a 3 year old and an 8 year old. Budget is around 90k in cash. Trying to decide between an Entegra Qwest Class C and a Winnebago Solis Class B. The Qwest has more comfort and space for kids but I am worried it will limit our freedom. Concerned about driving in cities, tighter areas, and parking overnight. The Solis is smaller and easier to drive and park and seems better for city experiences and maybe stealth camping. But I am worried it will feel too cramped for four people on longer trips. We like the outdoors and want to be able to stay at trailheads and national parks, but we also like experiencing the cities we end up visiting. Ideally we would have flexibility to do both. A sales rep told me with kids to skip the small Class B and just get a Class C. I would like to hear real experiences from parents or non-parents who have done this. I'm open to other makes/models but these are mainly the two I have researched.",
-      "flair": [
-        "Tips & Tricks"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "12v battery layout",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mtyad7/12v_battery_layout/",
-      "score": 5,
-      "comments": 4,
-      "post_id": "t3_1mtyad7",
-      "post_type": "text",
-      "domain": "self.vandwellers",
-      "author": "geoffs3310",
-      "author_id": "t2_ikxfy",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-18T20:56:27.250000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1mtyad7/12v_battery_layout/",
-      "content_preview": "My mum has a professional coach built motorhome and I was fitting a smart shunt for her the other day and noticed that her batteries were wired up differently than I'd been led to believe was optimum. In my self built van I have 2 lithium batteries in parallel and I was advised to wire the feed to the van electrics so that it takes the positive from one battery and the negative from the other. On my mum's van though she has two AGM batteries in parallel but the positive and negative feed to the van electrics both come off the same battery. Does it not make much difference or has the manufacturer of her van made a mistake?",
-      "flair": [
-        "Builds"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "thoughts/pics from my first 3 weeks of solo full time van travel + full time remote work",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1migtgk/thoughtspics_from_my_first_3_weeks_of_solo_full/",
-      "score": 340,
-      "comments": 49,
-      "post_id": "t3_1migtgk",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "strategiesforlife",
-      "author_id": "t2_50bab462",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-05T18:15:32.477000+0000",
-      "content_href": "https://www.reddit.com/gallery/1migtgk",
-      "content_preview": "",
-      "flair": [
-        "Road Trip"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_28c9y3/styles/profileIcon_y9s4wxqu6zg71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a29fabd1fc4a2b6ee1abe841b9763188b717cebf"
-    },
-    {
-      "title": "Ceiling Screw Length?",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mtxxwt/ceiling_screw_length/",
-      "score": 0,
-      "comments": 5,
-      "post_id": "t3_1mtxxwt",
-      "post_type": "text",
-      "domain": "self.vandwellers",
-      "author": "Outrageous_Rest_1576",
-      "author_id": "t2_a244ivqz",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-18T20:43:38.556000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1mtxxwt/ceiling_screw_length/",
-      "content_preview": "I'm installing my ceiling today! I'll be using 1/4in thick Cedar V-Planks and have 1/2in thick framing. I'm wondering if I should be using 1/2in screws or 3/4in screws? Not sure which way to go because I don't want the screws to not go in all the way due to the van metal itself. TIA!",
-      "flair": [
-        "Question"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "First night",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n0p28k/first_night/",
-      "score": 50,
-      "comments": 5,
-      "post_id": "t3_1n0p28k",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "ConcussionHead",
-      "author_id": "t2_tesmbt2m",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-26T15:32:20.639000+0000",
-      "content_href": "https://i.redd.it/q3jdpesoudlf1.png",
-      "content_preview": "",
-      "flair": [
-        "Pictures"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_77lrpb/styles/profileIcon_8shqzi3qsvme1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=43121cd21ea4e994feb87b62be8675f9a150c157"
-    },
-    {
-      "title": "P2G and primer on bunk windows",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mss0kg/p2g_and_primer_on_bunk_windows/",
-      "score": 2,
-      "comments": 4,
-      "post_id": "t3_1mss0kg",
-      "post_type": "text",
-      "domain": "self.vandwellers",
-      "author": "Various_Clothes_1829",
-      "author_id": "t2_q3vs5ewc",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-17T14:14:37.314000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1mss0kg/p2g_and_primer_on_bunk_windows/",
-      "content_preview": "Newbie van builder here! I have two bunk windows (VWD Universal Fit) for the sides of my van and two tubes of Sikaflex P2G. Do I need to add primer in addition to the P2G? Sikaflex makes a couple. If so, which one should I use? When I go out to the internet, I see conflicting advice. In theory, I don't think I should need primer but my fear of cutting holes in my van is trumped by my terror of screwing the window install up. TIA!",
-      "flair": [
-        "Builds"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "CPAP DC charger problem",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n5z6mx/cpap_dc_charger_problem/",
-      "score": 1,
-      "comments": 5,
-      "post_id": "t3_1n5z6mx",
-      "post_type": "text",
-      "domain": "self.vandwellers",
-      "author": "sold_as_seen",
-      "author_id": "t2_8jgunikj",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-09-01T20:04:57.692000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1n5z6mx/cpap_dc_charger_problem/",
-      "content_preview": "Hello, I have weird problem with air sense 10 dc charger when running on battery power(300 wh lithium). When I inhale fast the orange light blinks on charger and it resets the machine and come back on, but it wakes me. When I'm hooked on shore power then it works without problems. The CPAP is connected thru dc charger all the time. Seems like it restrict power when I'm just on battery. It's electroblok 99 unit that regulates everything 12v in the motorhome if that helps. Thanks",
-      "flair": [
-        "Tips & Tricks"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "How can I safely extend these wires?",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1n1znmr/how_can_i_safely_extend_these_wires/",
-      "score": 38,
-      "comments": 47,
-      "post_id": "t3_1n1znmr",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Matt-and-Cat",
-      "author_id": "t2_2cx79kk2",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-28T01:47:42.805000+0000",
-      "content_href": "https://i.redd.it/xbetk0dpznlf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Question"
-      ],
-      "thumbnail_url": "https://preview.redd.it/how-can-i-safely-extend-these-wires-v0-xbetk0dpznlf1.jpeg?auto=webp&s=d6fd7fdb8ebad69877821e512a43eeb47730a466"
-    },
-    {
-      "title": "Looking to downsize and have 4WD. Recommendations?",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1msbcdw/looking_to_downsize_and_have_4wd_recommendations/",
-      "score": 4,
-      "comments": 21,
-      "post_id": "t3_1msbcdw",
-      "post_type": "text",
-      "domain": "self.vandwellers",
-      "author": "smalltenderloin",
-      "author_id": "t2_kgoqpuogb",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-16T23:27:32.740000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1msbcdw/looking_to_downsize_and_have_4wd_recommendations/",
-      "content_preview": "Retired from van life a few years ago and have been using my chevy express as my commute vehicle since. Moved to a town where 4WD would be nice in the winter and want to downsize. However i still want a vehicle that has the potential to be lived in. What’s a reliable, semi affordable, 4WD vehicle you guys recommend? :)",
-      "flair": [
-        "Question"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Are my AGM batteries really toast after one careless discharge?",
-      "permalink": "https://www.reddit.com/r/vandwellers/comments/1mse1gz/are_my_agm_batteries_really_toast_after_one/",
-      "score": 2,
-      "comments": 16,
-      "post_id": "t3_1mse1gz",
-      "post_type": "text",
-      "domain": "self.vandwellers",
-      "author": "Divergent_",
-      "author_id": "t2_dqwov",
-      "subreddit_id": "t5_2rnwo",
-      "subreddit": "r/vandwellers",
-      "created_ts": "2025-08-17T01:32:26.798000+0000",
-      "content_href": "https://www.reddit.com/r/vandwellers/comments/1mse1gz/are_my_agm_batteries_really_toast_after_one/",
-      "content_preview": "I have two Optima Blue Tops dated 2022 and I accidentally left a light on for 10 days while I was out of down and discharged the batteries. I can’t get them to charge back up for the life of me even using a known, good battery to use as a “jumper” while charging. I know they are 3 years old but they rarely got used and were always on a trickle. I’m trying to find any trick I can to maybe get them to come back to life but they are heating up way too hot which to me means they’re dead. Not even worth replacing them with like-for-like either. If I can’t get them to hold charge I’m going to upgrade to LiFePo4 which is a whole ordeal of upgrading the whole system",
-      "flair": [
-        "Tips & Tricks"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:11:54.328350"
+  "scraped_at": "2025-09-05T03:33:17.030603"
 }

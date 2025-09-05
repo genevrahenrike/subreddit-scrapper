@@ -3,74 +3,459 @@
   "url": "https://www.reddit.com/r/NintendoSwitch",
   "meta": {
     "title": "Nintendo Switch - News, Updates, and Information",
-    "members_text": "2,314,910"
+    "description": "The central hub for all news, updates, rumors, and topics relating to the Nintendo Switch & Nintendo Switch 2. We are a fan-run community, not an official Nintendo forum.",
+    "subscribers": 7877349,
+    "online_users": 175,
+    "created_timestamp": "2025-09-05T10:00:55.939000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Bookmarks",
+        "content": [
+          {
+            "text": "⚖ Rules",
+            "url": "https://www.reddit.com/r/NintendoSwitch/about/rules/"
+          },
+          {
+            "text": "💬 Discord",
+            "url": "https://discord.gg/switch"
+          },
+          {
+            "text": "FAQ",
+            "url": "https://reddit.com/r/NintendoSwitch/wiki/faq"
+          },
+          {
+            "text": "Game/Release Dates",
+            "url": "https://reddit.com/r/NintendoSwitch/wiki/games"
+          },
+          {
+            "text": "Lost & Found Guide",
+            "url": "https://www.reddit.com/r/NintendoSwitch/wiki/lost-switch"
+          },
+          {
+            "text": "Affiliate Links",
+            "url": "https://reddit.com/r/NintendoSwitch/wiki/affiliate-links"
+          },
+          {
+            "text": "Giveaway Guidelines",
+            "url": "https://reddit.com/r/NintendoSwitch/wiki/giveaways"
+          },
+          {
+            "text": "AMA Archive",
+            "url": "https://reddit.com/r/NintendoSwitch/wiki/amaarchive"
+          },
+          {
+            "text": "Daily QuestionThread",
+            "url": "https://www.reddit.com/r/NintendoSwitch/search?q=author%3AAutoModerator+Daily+Question+Thread&restrict_sr=on&sort=new&t=all"
+          },
+          {
+            "text": "Friend Code Exchange",
+            "url": "https://www.reddit.com/r/NintendoSwitch/search?q=Friend+Request+weekend&restrict_sr=on&sort=new&t=all"
+          },
+          {
+            "text": "Sunday Show Off",
+            "url": "https://www.reddit.com/r/NintendoSwitch/search?q=sunday+show+off+thread&restrict_sr=on&sort=new&t=all"
+          },
+          {
+            "text": "FAQ",
+            "url": "https://reddit.com/r/NintendoSwitch/wiki/faq"
+          },
+          {
+            "text": "Nintendo Support",
+            "url": "http://support.nintendo.com/"
+          },
+          {
+            "text": "Error Code Lookup",
+            "url": "http://en-americas-support.nintendo.com/app/answers/landing/p/897/c/189"
+          },
+          {
+            "text": "Daily QuestionThread",
+            "url": "https://www.reddit.com/r/NintendoSwitch/search?q=author%3AAutoModerator+Daily+Question+Thread&restrict_sr=on&sort=new&t=all"
+          },
+          {
+            "text": "Tech Support Guide",
+            "url": "https://www.reddit.com/r/NintendoSwitch/wiki/techsupport"
+          },
+          {
+            "text": "Lost & Found Guide",
+            "url": "https://www.reddit.com/r/NintendoSwitch/wiki/lost-switch"
+          },
+          {
+            "text": "Message the Mod Team",
+            "url": "https://www.reddit.com/message/compose?to=%2Fr%2FNintendoSwitch"
+          }
+        ]
+      },
+      {
+        "title": "Disclaimer",
+        "content": "We are a fan-run community, not an official Nintendo forum."
+      },
+      {
+        "title": "r/NintendoSwitch Rules",
+        "content": [
+          {
+            "text": "Hate-speech",
+            "url": "https://support.reddithelp.com/hc/en-us/articles/360045715951"
+          },
+          {
+            "text": "harassment",
+            "url": "https://support.reddithelp.com/hc/en-us/articles/360043071072"
+          },
+          {
+            "text": "Read more about reddiquette",
+            "url": "https://www.reddithelp.com/hc/en-us/articles/205926439"
+          },
+          {
+            "text": "Daily Question Thread",
+            "url": "http://reddit.com/r/NintendoSwitch/about/sticky?num=1"
+          },
+          {
+            "text": "r/NintendoSwitchHelp",
+            "url": "/r/NintendoSwitchHelp/"
+          },
+          {
+            "text": "our Wiki",
+            "url": "http://reddit.com/r/NintendoSwitch/w/"
+          },
+          {
+            "text": "affiliate links",
+            "url": "https://reddit.com/r/NintendoSwitch/wiki/affiliate-links"
+          },
+          {
+            "text": "r/NintendoSwitch",
+            "url": "/r/NintendoSwitch/"
+          },
+          {
+            "text": "r/GameSwap",
+            "url": "/r/GameSwap/"
+          },
+          {
+            "text": "r/GameSale",
+            "url": "/r/GameSale/"
+          },
+          {
+            "text": "message us here",
+            "url": "https://www.reddit.com/message/compose?to=%2Fr%2FNintendoSwitch"
+          },
+          {
+            "text": "Lost, found, or stolen Nintendo Switch Consoles",
+            "url": "/r/NintendoSwitch/w/lost-switch"
+          },
+          {
+            "text": "Fan Art is only allowed on weekends",
+            "url": "https://redd.it/dfncw5"
+          },
+          {
+            "text": "Giveaways must follow community guidelines",
+            "url": "/r/NintendoSwitch/w/giveaways"
+          },
+          {
+            "text": "Friend Codes sharing should go in our weekly thread",
+            "url": "/r/NintendoSwitch/search?q=flair%3A\"Friend%2BExchange\"&restrict_sr=on&sort=new"
+          }
+        ]
+      },
+      {
+        "title": "Filter by flair",
+        "content": [
+          {
+            "text": "News",
+            "url": "/r/NintendoSwitch/?f=flair_name%3A%22News%22"
+          },
+          {
+            "text": "Nintendo Official",
+            "url": "/r/NintendoSwitch/?f=flair_name%3A%22Nintendo%20Official%22"
+          },
+          {
+            "text": "Official",
+            "url": "/r/NintendoSwitch/?f=flair_name%3A%22Official%22"
+          },
+          {
+            "text": "Discussion",
+            "url": "/r/NintendoSwitch/?f=flair_name%3A%22Discussion%22"
+          },
+          {
+            "text": "Review",
+            "url": "/r/NintendoSwitch/?f=flair_name%3A%22Review%22"
+          },
+          {
+            "text": "Rumor",
+            "url": "/r/NintendoSwitch/?f=flair_name%3A%22Rumor%22"
+          },
+          {
+            "text": "Speculation",
+            "url": "/r/NintendoSwitch/?f=flair_name%3A%22Speculation%22"
+          },
+          {
+            "text": "Question",
+            "url": "/r/NintendoSwitch/?f=flair_name%3A%22Question%22"
+          },
+          {
+            "text": "Game Rec",
+            "url": "/r/NintendoSwitch/?f=flair_name%3A%22Game%20Rec%22"
+          },
+          {
+            "text": "Image",
+            "url": "/r/NintendoSwitch/?f=flair_name%3A%22Image%22"
+          },
+          {
+            "text": "Video",
+            "url": "/r/NintendoSwitch/?f=flair_name%3A%22Video%22"
+          },
+          {
+            "text": "PSA",
+            "url": "/r/NintendoSwitch/?f=flair_name%3A%22PSA%22"
+          },
+          {
+            "text": "Game Tip",
+            "url": "/r/NintendoSwitch/?f=flair_name%3A%22Game%20Tip%22"
+          },
+          {
+            "text": "Fan Art",
+            "url": "/r/NintendoSwitch/?f=flair_name%3A%22Fan%20Art%22"
+          },
+          {
+            "text": "Mockup",
+            "url": "/r/NintendoSwitch/?f=flair_name%3A%22Mockup%22"
+          },
+          {
+            "text": "Sale",
+            "url": "/r/NintendoSwitch/?f=flair_name%3A%22Sale%22"
+          },
+          {
+            "text": "AMA - Live",
+            "url": "/r/NintendoSwitch/?f=flair_name%3A%22AMA%20-%20Live%22"
+          },
+          {
+            "text": "AMA - Ended",
+            "url": "/r/NintendoSwitch/?f=flair_name%3A%22AMA%20-%20Ended%22"
+          }
+        ]
+      },
+      {
+        "title": "Upcoming AMAs",
+        "content": "September 12, 2025\n             • 16:00"
+      },
+      {
+        "title": "Post Collections",
+        "content": [
+          {
+            "text": "Daily Question Thread",
+            "url": "https://www.reddit.com/r/NintendoSwitch/search?sort=new&restrict_sr=on&q=flair%3ADQT"
+          },
+          {
+            "text": "Sunday Show Off Thread",
+            "url": "https://www.reddit.com/r/NintendoSwitch/search?sort=new&restrict_sr=on&q=flair%3AShow-Off"
+          },
+          {
+            "text": "Friday Friend Exchange",
+            "url": "https://www.reddit.com/r/NintendoSwitch/search?q=flair%3A%22Friend%2BExchange%22&restrict_sr=on&sort=new&t=all"
+          },
+          {
+            "text": "AMA Archive",
+            "url": "https://www.reddit.com/r/NintendoSwitch/wiki/amaarchive"
+          },
+          {
+            "text": "MegaThread Archive",
+            "url": "https://www.reddit.com/r/NintendoSwitch/wiki/megathreads"
+          },
+          {
+            "text": "Meta and Event Posts",
+            "url": "https://www.reddit.com/r/NintendoSwitch/wiki/meta"
+          }
+        ]
+      },
+      {
+        "title": "Community and Social",
+        "content": [
+          {
+            "text": "Read our Wiki / FAQ",
+            "url": "https://reddit.com/r/NintendoSwitch/wiki/"
+          },
+          {
+            "text": "Join our Discord Server",
+            "url": "https://discord.gg/switch"
+          },
+          {
+            "text": "Follow us on Bluesky",
+            "url": "https://bsky.app/profile/rnintendoswitch.com"
+          },
+          {
+            "text": "Follow us on Twitter",
+            "url": "https://twitter.com/rNintendoSwitch"
+          },
+          {
+            "text": "Follow us on Twitch",
+            "url": "https://twitch.tv/switch"
+          },
+          {
+            "text": "Subscribe on YouTube",
+            "url": "https://youtube.com/rNintendoSwitch"
+          }
+        ]
+      },
+      {
+        "title": "Related Subreddits",
+        "content": [
+          {
+            "text": "r/nintendo",
+            "url": "/r/nintendo"
+          },
+          {
+            "text": "r/NintendoSwitchDeals",
+            "url": "/r/NintendoSwitchDeals"
+          },
+          {
+            "text": "r/NintendoSwitchHelp",
+            "url": "/r/NintendoSwitchHelp"
+          },
+          {
+            "text": "r/NSCollectors",
+            "url": "/r/NSCollectors"
+          },
+          {
+            "text": "r/SwitchFCSwap",
+            "url": "/r/SwitchFCSwap"
+          },
+          {
+            "text": "r/tomorrow",
+            "url": "/r/tomorrow"
+          },
+          {
+            "text": "r/MyNintendo",
+            "url": "/r/MyNintendo"
+          },
+          {
+            "text": "r/amiibo",
+            "url": "/r/amiibo"
+          },
+          {
+            "text": "r/3DS",
+            "url": "/r/3DS"
+          },
+          {
+            "text": "r/wiiu",
+            "url": "/r/wiiu"
+          }
+        ]
+      },
+      {
+        "title": "Upcoming Releases",
+        "content": "Title Release 4 in 1 Bundle Aug 28 40 Sports Games in 1 Aug 28 BOULDER DASH 40th Anniversary Aug 28 Bahamut and the Waqwaq Tree Aug 28 Battle of Rebels Aug 28 Death Mask Aug 28 EGGCONSOLE PUYO PUYO PC-9801 Aug 28 Escape game R00M05 Aug 28 Karate Survivor Aug 28 Kirby and the Forgotten Land – Nintendo Switch 2 Edition + Star-Crossed World Aug 28 Korean Drone Flying Tour Ongnam Lake Park Aug 28 Lens Aug 28 Ludo XXL 2 Aug 28 Moshi, Kono Sekai ni Kami-sama ga Iru to Suru Naraba. Aug 28 Neko Bento 2 Aug 28 No Sweet Looks Aug 28 Pattern Thinking Puzzle Build It Before 10 Aug 28 RANDOMAX Aug 28 SUPER ROBOT WARS Y Aug 28 SUPER ROBOT WARS Y Deluxe Edition Aug 28 SUPER ROBOT WARS Y Ultimate Edition Aug 28 Seer's Gambit Aug 28 Seifuku Kanojo 2.5 Aug 28 Spot the Wrong Character Aug 28 Star Trek: Resurgence Aug 28 Ternox Games 4-in-1 Bundle Aug 28 The Nameless: Slay Dragon Aug 28 The Wolf and the Blood Moon/オオカミと赤い満月 Aug 28 Thief Simulator Mastermind Edition Aug 28 Truck Driving Aug 28 Voxelgram 2 Aug 28 We Are Busy Digging A Hole Aug 28 Ash Pines: The Motel Aug 29 Bangman Aug 29 Fast Food Tycoon Simulator Aug 29 Forbidden Ground - Lair of Aooni - Aug 29 Glory to the Heroes Aug 29 Goosebumps Terror in Little Creek - Frightmare Edition Aug 29 Goosebumps: Terror in Little Creek Aug 29 Greenveil Hike Aug 29 SHINOBI: Art of Vengeance Aug 29 SHINOBI: Art of Vengeance - Digital Art Book and Soundtrack Aug 29 SHINOBI: Art of Vengeance Digital Deluxe Edition Aug 29 Spy Guy Memory Indonesia Aug 29 Tralalero Tralala: Rage Bait Aug 29 Flood Parkour Obby Aug 30 OpsCam - Body Cam Shooter Aug 30 Sausage Wars: Laser Edition Aug 30 Aquapark io: Sweet Edition Aug 31 Puff Up: Playful Edition Aug 31 2weistein in Elfland Sep 01 Bad Cheese Sep 01 Dogs Organized Neatly Sep 02 Farming Collection Sep 03 Overpowered 1 - Mars Infestation Sep 03 The Nameless City Sep 03 Above Snakes Sep 04 Adventure of Samsara Sep 04 Camper Van: Make it Home Sep 04 Candylands Journey Sep 04"
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/NintendoSwitch/moderators/"
+          }
+        ]
+      },
+      {
+        "title": "Installed Apps",
+        "content": [
+          {
+            "text": "Admin Tattler",
+            "url": "https://developers.reddit.com/apps/admin-tattler"
+          },
+          {
+            "text": "Comment Mop",
+            "url": "https://developers.reddit.com/apps/comment-nuke"
+          },
+          {
+            "text": "Remove Macro",
+            "url": "https://developers.reddit.com/apps/purge-user"
+          },
+          {
+            "text": "Flair Scheduler",
+            "url": "https://developers.reddit.com/apps/flair-schedule"
+          },
+          {
+            "text": "Automod Sync",
+            "url": "https://developers.reddit.com/apps/automod-sync"
+          },
+          {
+            "text": "Evasion Guard",
+            "url": "https://developers.reddit.com/apps/evasion-guard"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "/r/NintendoSwitch's Daily Question Thread (09/02/2025)",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n6coqk/rnintendoswitchs_daily_question_thread_09022025/",
-      "score": 0,
-      "comments": 2,
-      "post_id": "t3_1n6coqk",
+      "title": "/r/NintendoSwitch's Friend Request Weekend! (09/05/2025)",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n913nd/rnintendoswitchs_friend_request_weekend_09052025/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n913nd",
       "post_type": "text",
       "domain": "self.NintendoSwitch",
       "author": "AutoModerator",
       "author_id": "t2_6l4z3",
       "subreddit_id": "t5_3h47q",
       "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-09-02T07:02:28.646000+0000",
-      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n6coqk/rnintendoswitchs_daily_question_thread_09022025/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T10:00:55.939000+0000",
+      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n913nd/rnintendoswitchs_friend_request_weekend_09052025/",
+      "content_preview": "Hi everybody!It's time for Friend Request Weekend! Use this thread to exchange Friend Codes and Nintendo Accounts, find new friends and set up gaming sessions! Feel free to share local Switch subreddits as well. You can find current local/regional Switch subredditshere. If you would like to have yours added, pleasemessage the moderators.Want to show off your Friend Code in your User Flair in this subreddit? Here's how you can do that:First,select a basic User Flairfrom the appropriate menu on your Reddit platform.Then, comment on this post with your Friend Code in the format:!SW-1234-5678-9000. Automoderator will then add your Friend Code to your User Flair, and then other people will be able to see it acrossr/NintendoSwitch.You can also check outr/NintendoFriendsorr/SwitchFCSwapfor exchanging accounts and making friends. You can also setup a profile via our Mecha Bowser bot in ourDiscord server. Use the!profile editcommand in the#command-centralchannel to get started.You can see previous postshere.Thank you and have a great weekend!",
       "flair": [
-        "DQT"
+        "Friend Exchange"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
-      "title": "Nintendo is reportedly telling would-be Switch 2 devs to release on Switch instead",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n0jcof/nintendo_is_reportedly_telling_wouldbe_switch_2/",
-      "score": 2656,
-      "comments": 754,
-      "post_id": "t3_1n0jcof",
+      "title": "Hollow Knight: Silksong will feature a FREE Nintendo Switch 2 upgrade, which we know at minimum unlocks a 120hz mode.",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n6o5dy/hollow_knight_silksong_will_feature_a_free/",
+      "score": 4055,
+      "comments": 315,
+      "post_id": "t3_1n6o5dy",
       "post_type": "link",
-      "domain": "videogameschronicle.com",
-      "author": "sealed",
-      "author_id": "t2_36rxe",
+      "domain": "gamesradar.com",
+      "author": "E1338",
+      "author_id": "t2_1i05hwp396",
       "subreddit_id": "t5_3h47q",
       "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-26T11:34:10.712000+0000",
-      "content_href": "https://www.videogameschronicle.com/news/they-cant-get-the-hardware-nintendo-is-reportedly-telling-would-be-switch-2-devs-to-release-on-switch-instead/",
+      "created_ts": "2025-09-02T16:26:37.083000+0000",
+      "content_href": "https://www.gamesradar.com/games/action/hollow-knight-silksong-will-have-a-free-nintendo-switch-2-edition-upgrade-at-launch-meaning-you-dont-have-to-pay-extra-to-get-the-120hz-mode/",
       "content_preview": "",
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/L-nwvbTay_6J0CMFgo8JxodBOQ6Ci8aaFB7EXBFV-co.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=c86e34bb40c60f87b5a5ae86520c0492fd983886"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dg4r9u/styles/profileIcon_surs9xfgxffe1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=41b1620953ea38c54628313b919115c7183d4b23",
+      "is_promoted": false
     },
     {
-      "title": "Non-open world games that are immersive",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n62hzd/nonopen_world_games_that_are_immersive/",
-      "score": 112,
-      "comments": 98,
-      "post_id": "t3_1n62hzd",
-      "post_type": "text",
-      "domain": "self.NintendoSwitch",
-      "author": "DB9445",
-      "author_id": "t2_3spexux9",
+      "title": "Hollow Knight: Silksong – Nintendo Switch 2 Edition – Launch Trailer",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n8bg9r/hollow_knight_silksong_nintendo_switch_2_edition/",
+      "score": 803,
+      "comments": 163,
+      "post_id": "t3_1n8bg9r",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "Skullghost",
+      "author_id": "t2_dngff",
       "subreddit_id": "t5_3h47q",
       "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-09-01T22:17:24.202000+0000",
-      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n62hzd/nonopen_world_games_that_are_immersive/",
+      "created_ts": "2025-09-04T14:18:32.791000+0000",
+      "content_href": "https://www.youtube.com/watch?si=Hy0g-5GvNynI1jf0&v=SyyNDebPKQE&feature=youtu.be",
       "content_preview": "",
       "flair": [
-        "Game Rec"
+        "News"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "Kirby Air Riders confirmed to release in November 20, 2025",
       "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1muixoq/kirby_air_riders_confirmed_to_release_in_november/",
-      "score": 4086,
-      "comments": 702,
+      "score": 4087,
+      "comments": 703,
       "post_id": "t3_1muixoq",
       "post_type": "link",
       "domain": "ign.com",
@@ -84,32 +469,53 @@
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yupqs/styles/profileIcon_qdd9fk7tmhlb1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=9a8fcce2f326cdc6cdd7684c676547341e9f2a93"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yupqs/styles/profileIcon_qdd9fk7tmhlb1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=9a8fcce2f326cdc6cdd7684c676547341e9f2a93",
+      "is_promoted": false
     },
     {
-      "title": "Hollow Knight: Silksong release time and official price announced",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n5c81y/hollow_knight_silksong_release_time_and_official/",
-      "score": 1421,
-      "comments": 251,
-      "post_id": "t3_1n5c81y",
-      "post_type": "link",
-      "domain": "bsky.app",
-      "author": "Turbostrider27",
-      "author_id": "t2_t27vp",
+      "title": "How comfortable is playing Switch 2 on handheld mode comparing to Switch 1?",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n8szda/how_comfortable_is_playing_switch_2_on_handheld/",
+      "score": 81,
+      "comments": 148,
+      "post_id": "t3_1n8szda",
+      "post_type": "text",
+      "domain": "self.NintendoSwitch",
+      "author": "obazilio",
+      "author_id": "t2_1r5usxy12d",
       "subreddit_id": "t5_3h47q",
       "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-09-01T01:51:29.963000+0000",
-      "content_href": "https://bsky.app/profile/teamcherry.bsky.social/post/3lxqi3epy3s2p",
-      "content_preview": "",
+      "created_ts": "2025-09-05T02:05:25.055000+0000",
+      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n8szda/how_comfortable_is_playing_switch_2_on_handheld/",
+      "content_preview": "Had my Switch OLED for like 3 years now and I'm thinking of passing it down to my younger sister and grabbing the Switch 2. For those who tried it, how's the handheld comfort compared to the original, especially during longer sessions?The Joy-Cons on the OLED always felt kinda small for me after playing for a while (big hands problems lol), so I'm curious if the bigger Joy-Cons on the Switch 2 actually fix the ergonomics long-term or if it's still awkward.",
       "flair": [
-        "Official"
+        "Question"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Star Wars Outlaws Just Dropped on Nintendo Switch 2 = The Galaxy is Now in Your Hands",
+      "permalink": "https://www.reddit.com/user/Ubi_StarWarsOutlaws/comments/1n7iw0i/star_wars_outlaws_just_dropped_on_nintendo_switch/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n7iw0i",
+      "post_type": "video",
+      "domain": "ubi.li",
+      "author": "Ubi_StarWarsOutlaws",
+      "author_id": "t2_vawl86a19",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-03T16:04:47.664000+0000",
+      "content_href": "https://v.redd.it/yzi81gu8mxmf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_awwrsb/styles/profileIcon_ferhs585ygtc1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=ddf88e7544ee19f7b972e623880466d6570f36bd",
+      "is_promoted": true
     },
     {
       "title": "Hollow Knight: Silksong is listed for $20 by Gamestop for Nintendo Switch",
       "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n3iv3u/hollow_knight_silksong_is_listed_for_20_by/",
-      "score": 2461,
+      "score": 2481,
       "comments": 407,
       "post_id": "t3_1n3iv3u",
       "post_type": "link",
@@ -124,172 +530,200 @@
       "flair": [
         "Rumor"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "[Nintendo of Europe] Receive two extra months (60 days) when you buy or actively extend any Nintendo Switch Online 12-month membership. Offer ends September 30th!",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n5m75o/nintendo_of_europe_receive_two_extra_months_60/",
-      "score": 222,
-      "comments": 68,
-      "post_id": "t3_1n5m75o",
+      "title": "Announcing the Total Victories Against Shiny Ting-Lu in Pokémon Scarlet and Pokémon Violet, mystery gift distribution now available until September 30th!",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n8qjwg/announcing_the_total_victories_against_shiny/",
+      "score": 85,
+      "comments": 8,
+      "post_id": "t3_1n8qjwg",
       "post_type": "link",
-      "domain": "nintendo.com",
-      "author": "Joseki100",
-      "author_id": "t2_fzzy8",
+      "domain": "pokemon.com",
+      "author": "Amiibofan101",
+      "author_id": "t2_mdc0a",
       "subreddit_id": "t5_3h47q",
       "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-09-01T11:29:19.594000+0000",
-      "content_href": "https://www.nintendo.com/en-gb/Campaigns/Nintendo-Switch-Online-12-2-Offer-2901875.html",
+      "created_ts": "2025-09-05T00:10:33.494000+0000",
+      "content_href": "https://www.pokemon.com/us/pokemon-news/announcing-the-total-victories-against-shiny-ting-lu-in-pokemon-scarlet-and-pokemon-violet",
       "content_preview": "",
       "flair": [
-        "Nintendo Official"
+        "Official"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://external-preview.redd.it/gpeDrO7bilu7npYB2sH_tD72hr3oN3kGxDoYHV5Ecjs.png?width=140&height=79&crop=140:79,smart&auto=webp&s=696ca4c03c03bf1847cab024eb1cfa84cd6f7217",
+      "is_promoted": false
     },
     {
-      "title": "Do not sleep on CrossCode",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n69813/do_not_sleep_on_crosscode/",
-      "score": 128,
-      "comments": 18,
-      "post_id": "t3_1n69813",
+      "title": "/r/NintendoSwitch's Daily Question Thread (09/05/2025)",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n8yd44/rnintendoswitchs_daily_question_thread_09052025/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1n8yd44",
       "post_type": "text",
       "domain": "self.NintendoSwitch",
-      "author": "OracleDudeBro",
-      "author_id": "t2_1la6ecdzre",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
       "subreddit_id": "t5_3h47q",
       "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-09-02T03:37:13.316000+0000",
-      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n69813/do_not_sleep_on_crosscode/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T07:02:02.911000+0000",
+      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n8yd44/rnintendoswitchs_daily_question_thread_09052025/",
+      "content_preview": "The purpose of this thread is to more accurately connect users seeking help with users who want to provide that help. Our regular \"Helpful Users\" certainly have earned their flairs!",
       "flair": [
-        "Review"
+        "DQT"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
-      "title": "Playing the Adventures of Elliot demo, I kinda started yearning for Pokemon to have gone this direction from Gen 6 onwards.",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1mfn2cs/playing_the_adventures_of_elliot_demo_i_kinda/",
-      "score": 3643,
-      "comments": 319,
-      "post_id": "t3_1mfn2cs",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "giosanpedro",
-      "author_id": "t2_15yo43",
-      "subreddit_id": "t5_3h47q",
-      "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-02T10:15:14.999000+0000",
-      "content_href": "https://v.redd.it/wxgfgwf70lgf1",
-      "content_preview": "",
-      "flair": [
-        "Video"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "Star Wars Outlaws gameplay video",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n5q36n/star_wars_outlaws_gameplay_video/",
-      "score": 100,
-      "comments": 72,
-      "post_id": "t3_1n5q36n",
+      "title": "Nintendo is reportedly telling would-be Switch 2 devs to release on Switch instead",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n0jcof/nintendo_is_reportedly_telling_wouldbe_switch_2/",
+      "score": 2661,
+      "comments": 754,
+      "post_id": "t3_1n0jcof",
       "post_type": "link",
-      "domain": "youtube.com",
-      "author": "Lucamiten",
-      "author_id": "t2_yhoc8",
+      "domain": "videogameschronicle.com",
+      "author": "sealed",
+      "author_id": "t2_36rxe",
       "subreddit_id": "t5_3h47q",
       "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-09-01T14:24:21.066000+0000",
-      "content_href": "https://www.youtube.com/watch?v=bhNIf6ZWTwQ",
-      "content_preview": "",
-      "flair": [
-        "Video"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Over 75% of Cyberpunk 2077’s sales on Switch 2 were physical.",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n2iydi/over_75_of_cyberpunk_2077s_sales_on_switch_2_were/",
-      "score": 1732,
-      "comments": 172,
-      "post_id": "t3_1n2iydi",
-      "post_type": "link",
-      "domain": "twitter.com",
-      "author": "Turbostrider27",
-      "author_id": "t2_t27vp",
-      "subreddit_id": "t5_3h47q",
-      "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-28T17:42:12.244000+0000",
-      "content_href": "https://twitter.com/Chris_Dring/status/1961121964858147051",
+      "created_ts": "2025-08-26T11:34:10.712000+0000",
+      "content_href": "https://www.videogameschronicle.com/news/they-cant-get-the-hardware-nintendo-is-reportedly-telling-would-be-switch-2-devs-to-release-on-switch-instead/",
       "content_preview": "",
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://external-preview.redd.it/L-nwvbTay_6J0CMFgo8JxodBOQ6Ci8aaFB7EXBFV-co.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=c86e34bb40c60f87b5a5ae86520c0492fd983886",
+      "is_promoted": false
     },
     {
-      "title": "What are some good games for 50ish year-olds that used to game in their youth and are trying to rediscover how to have fun with gaming?",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n5jv5t/what_are_some_good_games_for_50ish_yearolds_that/",
-      "score": 91,
-      "comments": 113,
-      "post_id": "t3_1n5jv5t",
-      "post_type": "text",
-      "domain": "self.NintendoSwitch",
-      "author": "ilceltico",
-      "author_id": "t2_3nhxqq62",
-      "subreddit_id": "t5_3h47q",
-      "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-09-01T09:09:54.527000+0000",
-      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n5jv5t/what_are_some_good_games_for_50ish_yearolds_that/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "A Nintendo Direct is reportedly planned for mid-September | VGC",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1mzqb3y/a_nintendo_direct_is_reportedly_planned_for/",
-      "score": 1583,
-      "comments": 357,
-      "post_id": "t3_1mzqb3y",
+      "title": "Review: Star Wars Outlaws (Switch 2) - An Underrated Adventure, A Super-Solid Port (8/10)",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n89kyb/review_star_wars_outlaws_switch_2_an_underrated/",
+      "score": 505,
+      "comments": 92,
+      "post_id": "t3_1n89kyb",
       "post_type": "link",
-      "domain": "videogameschronicle.com",
-      "author": "Spiritual-Ad-6110",
-      "author_id": "t2_1l3loyjwqc",
+      "domain": "nintendolife.com",
+      "author": "Turbostrider27",
+      "author_id": "t2_t27vp",
       "subreddit_id": "t5_3h47q",
       "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-25T13:20:10.858000+0000",
-      "content_href": "https://www.videogameschronicle.com/news/a-nintendo-direct-is-reportedly-planned-for-mid-september/",
+      "created_ts": "2025-09-04T13:04:32.225000+0000",
+      "content_href": "https://www.nintendolife.com/reviews/nintendo-switch-2/star-wars-outlaws",
       "content_preview": "",
       "flair": [
-        "Rumor"
+        "Review"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "Mega Victreebel fan art done by me! Hope u like it ;)",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n4qcf9/mega_victreebel_fan_art_done_by_me_hope_u_like_it/",
-      "score": 566,
-      "comments": 8,
-      "post_id": "t3_1n4qcf9",
+      "title": "Hollow Knight: Silksong release time and official price announced",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n5c81y/hollow_knight_silksong_release_time_and_official/",
+      "score": 1521,
+      "comments": 303,
+      "post_id": "t3_1n5c81y",
+      "post_type": "link",
+      "domain": "bsky.app",
+      "author": "Turbostrider27",
+      "author_id": "t2_t27vp",
+      "subreddit_id": "t5_3h47q",
+      "subreddit": "r/NintendoSwitch",
+      "created_ts": "2025-09-01T01:51:29.963000+0000",
+      "content_href": "https://bsky.app/profile/teamcherry.bsky.social/post/3lxqi3epy3s2p",
+      "content_preview": "",
+      "flair": [
+        "Official"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Star Wars Outlaws Is Now Available On Nintendo Switch 2",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n8e6ka/star_wars_outlaws_is_now_available_on_nintendo/",
+      "score": 247,
+      "comments": 85,
+      "post_id": "t3_1n8e6ka",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "Turbostrider27",
+      "author_id": "t2_t27vp",
+      "subreddit_id": "t5_3h47q",
+      "subreddit": "r/NintendoSwitch",
+      "created_ts": "2025-09-04T16:00:55.590000+0000",
+      "content_href": "https://www.youtube.com/watch?v=BL-4d2OFPjQ",
+      "content_preview": "",
+      "flair": [
+        "Official"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Your business deserves an advanced network that means business.",
+      "permalink": "https://www.reddit.com/user/comcastbusiness/comments/1m34el7/your_business_deserves_an_advanced_network_that/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1m34el7",
+      "post_type": "image",
+      "domain": "ad.doubleclick.net",
+      "author": "comcastbusiness",
+      "author_id": "t2_cwxs3m19",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-18T14:51:36.614000+0000",
+      "content_href": "https://ad.doubleclick.net/ddm/trackclk/N8667.131843REDDITINC/B33330883.425091136;dc_trk_aid=615825610;dc_trk_cid=90614167;dc_lat=;dc_rdid={{ADVERTISING_ID}};tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4nohrz/styles/profileIcon_b22e7vgt39771.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=d2c36cd29c3a2c92e816fa019da83c47c012a2b9",
+      "is_promoted": true
+    },
+    {
+      "title": "It's a new month of Nintendo Switch 2 and Nintendo Switch releases. What's on your wishlist for September?",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n5xa3e/its_a_new_month_of_nintendo_switch_2_and_nintendo/",
+      "score": 1186,
+      "comments": 516,
+      "post_id": "t3_1n5xa3e",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "Designer-Peanut1151",
-      "author_id": "t2_ve1t71g0",
+      "author": "Space-Debris",
+      "author_id": "t2_64hps",
       "subreddit_id": "t5_3h47q",
       "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-31T09:27:01.357000+0000",
-      "content_href": "https://i.redd.it/hh43kk8upbmf1.png",
+      "created_ts": "2025-09-01T18:52:36.096000+0000",
+      "content_href": "https://i.redd.it/wtc3w1ft6kmf1.png",
       "content_preview": "",
       "flair": [
-        "Fan Art"
+        "Image"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_del5t/styles/profileIcon_rt3nciln00x71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=21ef671352be2acea6a713b23e5982ae1e7890af",
+      "is_promoted": false
+    },
+    {
+      "title": "Malamar.mp4 - Pokemon Legends Z-A",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n89pkl/malamarmp4_pokemon_legends_za/",
+      "score": 109,
+      "comments": 28,
+      "post_id": "t3_1n89pkl",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "Skullghost",
+      "author_id": "t2_dngff",
+      "subreddit_id": "t5_3h47q",
+      "subreddit": "r/NintendoSwitch",
+      "created_ts": "2025-09-04T13:10:17.282000+0000",
+      "content_href": "https://www.youtube.com/watch?si=vwhdSlWBHaP92Euf&v=Ac_I3IgArY0&feature=youtu.be",
+      "content_preview": "",
+      "flair": [
+        "News"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "Nintendo Direct Announced for Tomorrow Focused on Kirby Air Riders (August 19, 2025 @ 7PM PT / 9AM ET) - IGN",
       "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1mtl0cm/nintendo_direct_announced_for_tomorrow_focused_on/",
-      "score": 2500,
+      "score": 2502,
       "comments": 418,
       "post_id": "t3_1mtl0cm",
       "post_type": "link",
@@ -304,33 +738,117 @@
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yupqs/styles/profileIcon_qdd9fk7tmhlb1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=9a8fcce2f326cdc6cdd7684c676547341e9f2a93"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yupqs/styles/profileIcon_qdd9fk7tmhlb1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=9a8fcce2f326cdc6cdd7684c676547341e9f2a93",
+      "is_promoted": false
     },
     {
-      "title": "Nintendo Switch 2 has now surpassed 2 million units sold in the US life-to-date. It is currently 75% ahead of the unit sales pace set by the original Nintendo Switch.",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n1gqvg/nintendo_switch_2_has_now_surpassed_2_million/",
-      "score": 1314,
-      "comments": 330,
-      "post_id": "t3_1n1gqvg",
-      "post_type": "link",
-      "domain": "bsky.app",
-      "author": "Turbostrider27",
-      "author_id": "t2_t27vp",
+      "title": "Switch 2 battery drain in sleep is atrocious",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n4g7el/switch_2_battery_drain_in_sleep_is_atrocious/",
+      "score": 953,
+      "comments": 317,
+      "post_id": "t3_1n4g7el",
+      "post_type": "text",
+      "domain": "self.NintendoSwitch",
+      "author": "cybernouris",
+      "author_id": "t2_ftgv1",
       "subreddit_id": "t5_3h47q",
       "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-27T13:15:24.324000+0000",
-      "content_href": "https://bsky.app/profile/matpiscatella.bsky.social/post/3lxf3jiq7dc26",
+      "created_ts": "2025-08-30T23:51:12.802000+0000",
+      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n4g7el/switch_2_battery_drain_in_sleep_is_atrocious/",
+      "content_preview": "This is not a post to say the Switch 2 battery life while gaming is not good. It is what it is.But drain in sleep mode is trash and shatters the whole handheld experience.This is not normal and I can only hope that Nintendo is looking into it and it's fixable with a firmware update, because if it's not they are going to come up with a V2 in 2 years, even before they release an OLED model, if ever.I've done all the tricks but battery drains in 2 days sleep without an active game in flight mode. So what's eating battery?I was in the camp of those saying it's OK for me after the 1st month or so, since I was really getting an OK sleep drain, but it's unpredictable when it occurs and I will say that the chance to get an OK drain definitely smaller than the chance to find it dead when picking it up for a casual 30 minutes.Power off is not a good experience as well since it breaks the ability to resume where you left off in a matter of just a few seconds.The Switch OLED is night and day difference in that regard, with its tremendous battery longevity both in playtime and almost no drain in sleep.This is not normal and Nintendo must fix it.Edit: thank you all for the replies and opinions on this. It's obvious to me there are others with a similar experience and can only hope Nintendo looks into this. We should all be flooding their support for this, I know I will. To those not accepting there are many of us with this issue, either because they are lucky with their device or defend Nintendo with a \"you're holding it wrong\" mindset, thank you for voicing your comments and I hope your device continues being stellar for you.Edit2: from the time of writing this post and almost 8 hours later, my Switch 2 dropped 10%, 97% -> 87%. No game, auto-updates off, wired in sleep off (shouldn't matter), wifi on (tested the theory that it may be waste energy retrying things because of no network).",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Nintendo Switch Firmware Update Version 20.4.0 is out now",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n666lg/nintendo_switch_firmware_update_version_2040_is/",
+      "score": 808,
+      "comments": 137,
+      "post_id": "t3_1n666lg",
+      "post_type": "link",
+      "domain": "en-americas-support.nintendo.com",
+      "author": "Skullghost",
+      "author_id": "t2_dngff",
+      "subreddit_id": "t5_3h47q",
+      "subreddit": "r/NintendoSwitch",
+      "created_ts": "2025-09-02T01:06:42.088000+0000",
+      "content_href": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/22525/~/nintendo-switch-system-update-information",
       "content_preview": "",
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Everybody's Golf Hot Shots | Nintendo Switch 2",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n86c41/everybodys_golf_hot_shots_nintendo_switch_2/",
+      "score": 56,
+      "comments": 30,
+      "post_id": "t3_1n86c41",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "iANiMeX",
+      "author_id": "t2_jwi99",
+      "subreddit_id": "t5_3h47q",
+      "subreddit": "r/NintendoSwitch",
+      "created_ts": "2025-09-04T10:20:47.519000+0000",
+      "content_href": "https://www.youtube.com/watch?v=Om7zNy7brvM",
+      "content_preview": "",
+      "flair": [
+        "Game Rec"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Star Wars Outlaws | Nintendo Switch 2",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n7ysle/star_wars_outlaws_nintendo_switch_2/",
+      "score": 222,
+      "comments": 102,
+      "post_id": "t3_1n7ysle",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "iANiMeX",
+      "author_id": "t2_jwi99",
+      "subreddit_id": "t5_3h47q",
+      "subreddit": "r/NintendoSwitch",
+      "created_ts": "2025-09-04T02:50:33.975000+0000",
+      "content_href": "https://www.youtube.com/watch?v=gAu_yPCm7fQ",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "LPT: Get money back for eligible bills from any licensed vet, plus 24/7 vet access with Nationwide pet insurance.",
+      "permalink": "https://www.reddit.com/user/NationwidePet/comments/1mogx3b/lpt_get_money_back_for_eligible_bills_from_any/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mogx3b",
+      "post_type": "image",
+      "domain": "petinsurance.com",
+      "author": "NationwidePet",
+      "author_id": "t2_anfpzhwa",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-12T18:34:41.436000+0000",
+      "content_href": "https://www.petinsurance.com",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_41i69h/styles/profileIcon_9wknk9fhbhk61.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=480aed8aeb365dc03aab21561f25a173bcfe05e1",
+      "is_promoted": true
     },
     {
       "title": "I thought I got a misprinted version of DQ3",
       "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1mwha9y/i_thought_i_got_a_misprinted_version_of_dq3/",
-      "score": 2129,
-      "comments": 219,
+      "score": 2131,
+      "comments": 220,
       "post_id": "t3_1mwha9y",
       "post_type": "gallery",
       "domain": "reddit.com",
@@ -344,7 +862,50 @@
       "flair": [
         "Image"
       ],
-      "thumbnail_url": "https://preview.redd.it/i-thought-i-got-a-misprinted-version-of-dq3-v0-81d9ps4lpekf1.jpg?width=640&crop=smart&auto=webp&s=bbc1f56fc4fc1e1ad8e007ec51314acd991d092e"
+      "thumbnail_url": "https://preview.redd.it/i-thought-i-got-a-misprinted-version-of-dq3-v0-81d9ps4lpekf1.jpg?width=640&crop=smart&auto=webp&s=bbc1f56fc4fc1e1ad8e007ec51314acd991d092e",
+      "is_promoted": false
+    },
+    {
+      "title": "Reason why third-party physical NS2 Edition games require FULL download of NS2 upgrade data and why are still the \"Game-Key Card\".",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n845dv/reason_why_thirdparty_physical_ns2_edition_games/",
+      "score": 58,
+      "comments": 21,
+      "post_id": "t3_1n845dv",
+      "post_type": "multi_media",
+      "domain": "self.NintendoSwitch",
+      "author": "sumer_gilgamesh",
+      "author_id": "t2_109frx",
+      "subreddit_id": "t5_3h47q",
+      "subreddit": "r/NintendoSwitch",
+      "created_ts": "2025-09-04T08:01:30.827000+0000",
+      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n845dv/reason_why_thirdparty_physical_ns2_edition_games/",
+      "content_preview": "In the light of \"Switch 2 editions re-download the entire game : r/NSCollectors\"I found out few misconceptions and I felt obliged to correct it, in order to prevent more misinformation being spread.BotW files structureThere're 4 categories of Data for NS2 GamesSoftware (Base Game Files)Update Data (Game Update Files)Downloadable Content (Files when DLC purchased)Upgrade Pack (NS2 Edition Upgrade Files)So If you're using a NS1 cartridge with NS2 upgrade pack purchased, it'll showKirbyUpdate Data for Ver 1.1.0 and Upgrade PackSo for any first-party games, you'll find the corresponding version of the game with Software and Update Data and Upgrade Pack Data fully on the Nintendo Switch 2 Edition Physical game cartridge.However, currently for all the third-party developers, due to technical limitations or misuse of NS2 upgrade pack functions or whatever reasons, they stored the NS2 Edition Upgrade Pack Files in the Update Data category.So in order to update the game, you have to download the FULL Update Data which contains the NS2 Edition Upgrade Pack, where Upgrade Pack Files themselves are only 0.1MB like a key file, or you could say in their best form, \"game-key cards\".For instanceNo Man's SkyRomancing SaGa 2But good thing is they don't release physical NS2 Edition cartridges (LN cards) so you don't have to experience this. In this case, even if you didn't purchase the NS2 Edition Upgrade Pack for Romancing SaGa 2, you still have to download the full 15.8G Update Data for NS2.So if the game software found out a new version of the game, it'll download the FULL Update Data in order to keep the game updated, that's why you need to download 12GB of Update Data to update NS2 Edition Rune Factory Guardians of Azuma, or 4.4GB of Update Data for Mario Kart 8 Deluxe + Booster Pack (DLC on cartridge, no matter what revision it is).And the0.1MB key filefor NS2 Edition Upgrade Pack is stored inside the physical LN cards and you won't be seeing it, what you have inside the cards is a lower version of the NS2E game, that's why you're able to run the NS2E games without update. So in my words, the 0.1MB Upgrade Pack LN cards are still \"game-key cards\".That's why if some of your physical cartridge of NS2 Edition Fantasy Life i has a version lower than 1.4 you need to download 6.7G of Update Data. and later there're a revision of the LN cards being released contains version 1.4 so you don't have to download the Update Data now, but a later version 1.5 you'll have to download the FULL Update Data.One more case, NS2 enhanced NS1 Games, still categorized as \"Nintendo Switch Software\" in NS2, not as \"Nintendo Switch 2 Software\"Dragon Quest - NS2Ver 1.1.2 of DQ3 gives a NS2 a 8.2GB Update Data for NS2 enhancements.https://preview.redd.it/reason-why-third-party-physical-ns2-edition-games-require-v0-9i0eg0y6u3nf1.jpgBut those files are not observed in NS1, despite they have the same version.So there must be something different for NS2/NS1 for pushing Update Data Files, if you know something more please let me know.I hope this post clear out some dark clouds for those willing to know what really happened to their NS2 Edition physical games, and why they have to download like a large update which equivalent to the NS2 Upgrade Pack size.tl;dr: It appears that third-party publishers are not utilizing the Upgrade Pack for NS2 in an ideal manner.",
+      "flair": [
+        "PSA"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Nate the Hate confirms Direct for September 11/12",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n52pcp/nate_the_hate_confirms_direct_for_september_1112/",
+      "score": 807,
+      "comments": 303,
+      "post_id": "t3_1n52pcp",
+      "post_type": "link",
+      "domain": "xcancel.com",
+      "author": "thecornballer1",
+      "author_id": "t2_l39e5",
+      "subreddit_id": "t5_3h47q",
+      "subreddit": "r/NintendoSwitch",
+      "created_ts": "2025-08-31T18:50:03.562000+0000",
+      "content_href": "https://xcancel.com/NateTheHate2/status/1962214416339833244",
+      "content_preview": "",
+      "flair": [
+        "Rumor"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
       "title": "Nintendo just filed patents for a crank and wheel joycon accessory",
@@ -364,67 +925,29 @@
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
-      "title": "So how are Nintendo fans enjoying the Castlevania collections on Switch?",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n4tk6m/so_how_are_nintendo_fans_enjoying_the_castlevania/",
-      "score": 127,
-      "comments": 67,
-      "post_id": "t3_1n4tk6m",
-      "post_type": "text",
-      "domain": "self.NintendoSwitch",
-      "author": "Asad_Farooqui",
-      "author_id": "t2_4qsz27h2",
-      "subreddit_id": "t5_3h47q",
-      "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-31T12:35:19.321000+0000",
-      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n4tk6m/so_how_are_nintendo_fans_enjoying_the_castlevania/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_264zce/styles/profileIcon_k245iup0qgaa1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6c02af2bdc6690cddc6b217e73c0a75446fe1f00"
-    },
-    {
-      "title": "elden ring S2 handheld footage pax west",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n4a92z/elden_ring_s2_handheld_footage_pax_west/",
-      "score": 266,
-      "comments": 175,
-      "post_id": "t3_1n4a92z",
+      "title": "FORSAKEN 64 is now Available on Nintendo 64 - Nintendo Classics: Mature 17+!",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n7wgm9/forsaken_64_is_now_available_on_nintendo_64/",
+      "score": 121,
+      "comments": 22,
+      "post_id": "t3_1n7wgm9",
       "post_type": "link",
-      "domain": "youtube.com",
-      "author": "Mystic312",
-      "author_id": "t2_2bstn2",
+      "domain": "x.com",
+      "author": "Skullghost",
+      "author_id": "t2_dngff",
       "subreddit_id": "t5_3h47q",
       "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-30T19:25:31.513000+0000",
-      "content_href": "https://www.youtube.com/watch?v=XMMdkHu72mU",
+      "created_ts": "2025-09-04T01:00:17.427000+0000",
+      "content_href": "https://x.com/nintendoamerica/status/1963406679833235898?s=46&t=lKl0EfgBOrCgN4aPWj0k6Q",
       "content_preview": "",
       "flair": [
-        "Video"
+        "Nintendo Official"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "Looking for Puzzle/Exploring games (eg. Outer Wilds, Chants of Senaar)",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n5w5oy/looking_for_puzzleexploring_games_eg_outer_wilds/",
-      "score": 16,
-      "comments": 26,
-      "post_id": "t3_1n5w5oy",
-      "post_type": "text",
-      "domain": "self.NintendoSwitch",
-      "author": "slothcheese",
-      "author_id": "t2_hnc53",
-      "subreddit_id": "t5_3h47q",
-      "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-09-01T18:11:19.613000+0000",
-      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n5w5oy/looking_for_puzzleexploring_games_eg_outer_wilds/",
-      "content_preview": "",
-      "flair": [
-        "Game Rec"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "Why ‘Silksong’ Took Seven Years to Make.",
@@ -444,93 +967,283 @@
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "Games similar to Geometry Wars or Nano Assault Neo for Switch.",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n5jp91/games_similar_to_geometry_wars_or_nano_assault/",
-      "score": 11,
-      "comments": 23,
-      "post_id": "t3_1n5jp91",
-      "post_type": "text",
-      "domain": "self.NintendoSwitch",
-      "author": "Rofofanof",
-      "author_id": "t2_hley37zo",
+      "title": "007 First Light – Gameplay Reveal",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n7n3l7/007_first_light_gameplay_reveal/",
+      "score": 279,
+      "comments": 101,
+      "post_id": "t3_1n7n3l7",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "Turbostrider27",
+      "author_id": "t2_t27vp",
       "subreddit_id": "t5_3h47q",
       "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-09-01T08:59:53.531000+0000",
-      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n5jp91/games_similar_to_geometry_wars_or_nano_assault/",
+      "created_ts": "2025-09-03T18:39:14.080000+0000",
+      "content_href": "https://www.youtube.com/watch?v=Jom-jxUEqJg",
       "content_preview": "",
       "flair": [
-        "Game Rec"
+        "Official"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "Somehow my wife and I managed to finish with an even tie for 1st place in Super Mario Party Jamboree",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1mg95xi/somehow_my_wife_and_i_managed_to_finish_with_an/",
-      "score": 1981,
-      "comments": 57,
-      "post_id": "t3_1mg95xi",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Swimming-Bite-4019",
-      "author_id": "t2_clqv7as1",
-      "subreddit_id": "t5_3h47q",
-      "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-03T03:29:08.030000+0000",
-      "content_href": "https://i.redd.it/gz3dfr1p4qgf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Image"
-      ],
-      "thumbnail_url": "https://preview.redd.it/somehow-my-wife-and-i-managed-to-finish-with-an-even-tie-v0-gz3dfr1p4qgf1.jpeg?width=640&crop=smart&auto=webp&s=eb72c4b72a8d43126e83fbc814c555abac0989f5"
-    },
-    {
-      "title": "Metroid Prime Remastered. Normal or Hard?",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n5j19v/metroid_prime_remastered_normal_or_hard/",
+      "title": "BISSELL: No pet hair left behind! See more messes clearly with FurFinder Headlights. Shop now!",
+      "permalink": "https://www.reddit.com/user/BISSELLclean/comments/1n1nqkn/bissell_no_pet_hair_left_behind_see_more_messes/",
       "score": 0,
-      "comments": 14,
-      "post_id": "t3_1n5j19v",
-      "post_type": "text",
-      "domain": "self.NintendoSwitch",
-      "author": "levitico426",
-      "author_id": "t2_ksphaip",
-      "subreddit_id": "t5_3h47q",
-      "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-09-01T08:15:40.844000+0000",
-      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n5j19v/metroid_prime_remastered_normal_or_hard/",
+      "comments": 0,
+      "post_id": "t3_1n1nqkn",
+      "post_type": "gallery",
+      "domain": "bissell.com",
+      "author": "BISSELLclean",
+      "author_id": "t2_1ffeqdhirr",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-27T17:40:42.099000+0000",
+      "content_href": "https://www.bissell.com/en-us/product/powerclean-furfinder-stick-vacuum-4052.html?utm_source=Reddit&utm_medium=PaidSocial&utm_campaign=ProspectingImpressions&utm_term=Audience&utm_content=[adv:BISSELL][cou:US][ini:Sticks][chn:PaidSocial][plt:Reddit][fun:Prospecting][opt:Impressions][str:Audience]",
       "content_preview": "",
-      "flair": [
-        "Question"
-      ],
-      "thumbnail_url": ""
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_d632bn/styles/profileIcon_j7a9os8tmz7e1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=d0ca5797a1c217e2a999df8a336989ef8b6ddec4",
+      "is_promoted": true
     },
     {
-      "title": "Updated my Rosalina and Luma model!",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n4c920/updated_my_rosalina_and_luma_model/",
-      "score": 110,
-      "comments": 2,
-      "post_id": "t3_1n4c920",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Tuturoopa",
-      "author_id": "t2_sbk91",
+      "title": "Kirby & The Nintendo Switch",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n49f48/kirby_the_nintendo_switch/",
+      "score": 780,
+      "comments": 4,
+      "post_id": "t3_1n49f48",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Tar0Pand4",
+      "author_id": "t2_12jgc9",
       "subreddit_id": "t5_3h47q",
       "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-30T20:51:31.637000+0000",
-      "content_href": "https://i.redd.it/o0qt9ee7z7mf1.png",
+      "created_ts": "2025-08-30T18:51:48.761000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n49f48",
       "content_preview": "",
       "flair": [
         "Fan Art"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_3oce8/styles/profileIcon_zr0d9ifwkmic1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=393d0f45bdadb85fae4f3deccb4a79cb7d2225f7"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1a8jkw/styles/profileIcon_404fs1lbvbwe1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3384263fd49cdfdc4a4e6375bd87381682eee5ad",
+      "is_promoted": false
+    },
+    {
+      "title": "July 2025 Worldwide Console Sales: Switch 2 1,594,000, PS5 787k, Switch 251k, Xbox Series X|S 132k",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n364mv/july_2025_worldwide_console_sales_switch_2/",
+      "score": 671,
+      "comments": 214,
+      "post_id": "t3_1n364mv",
+      "post_type": "link",
+      "domain": "vgchartz.com",
+      "author": "Ftouh_Shala",
+      "author_id": "t2_1m4ahcxuuw",
+      "subreddit_id": "t5_3h47q",
+      "subreddit": "r/NintendoSwitch",
+      "created_ts": "2025-08-29T12:30:46.619000+0000",
+      "content_href": "https://www.vgchartz.com/article/465607/switch-best-seller-as-sales-top-7m-worldwide-hardware-estimates-for-july-2025/",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "The GBA NSO app just got updated!",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n7wxys/the_gba_nso_app_just_got_updated/",
+      "score": 73,
+      "comments": 7,
+      "post_id": "t3_1n7wxys",
+      "post_type": "text",
+      "domain": "self.NintendoSwitch",
+      "author": "Tigertot14",
+      "author_id": "t2_nlajr",
+      "subreddit_id": "t5_3h47q",
+      "subreddit": "r/NintendoSwitch",
+      "created_ts": "2025-09-04T01:22:33.850000+0000",
+      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n7wxys/the_gba_nso_app_just_got_updated/",
+      "content_preview": "While we didn't get a new game for the GBA app unlike Japan, they did patch it nonetheless to have:-The Nintendo Classics name-Button remapping-1080p in handheld mode on Switch 2-A new boot sound (Mario Advance's coin sound), with the og startup shown with a stick tilt like on the GC app",
+      "flair": [
+        "PSA"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Mega Victreebel fan art done by me! Hope u like it ;)",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n4qcf9/mega_victreebel_fan_art_done_by_me_hope_u_like_it/",
+      "score": 641,
+      "comments": 8,
+      "post_id": "t3_1n4qcf9",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Designer-Peanut1151",
+      "author_id": "t2_ve1t71g0",
+      "subreddit_id": "t5_3h47q",
+      "subreddit": "r/NintendoSwitch",
+      "created_ts": "2025-08-31T09:27:01.357000+0000",
+      "content_href": "https://i.redd.it/hh43kk8upbmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Fan Art"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "SHINOBI: Art of Vengeance – Launch Trailer – Nintendo Switch",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n7oyf0/shinobi_art_of_vengeance_launch_trailer_nintendo/",
+      "score": 106,
+      "comments": 41,
+      "post_id": "t3_1n7oyf0",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "ONE-OF-THREE",
+      "author_id": "t2_umckw",
+      "subreddit_id": "t5_3h47q",
+      "subreddit": "r/NintendoSwitch",
+      "created_ts": "2025-09-03T19:48:49.085000+0000",
+      "content_href": "https://www.youtube.com/watch?v=YBkqBlXX5Qo",
+      "content_preview": "",
+      "flair": [
+        "Nintendo Official"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3kkwb/styles/profileIcon_xn2oosmqry8f1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e46246111238f7b161a085143d839231b15daba1",
+      "is_promoted": false
+    },
+    {
+      "title": "007: First Light is coming to Switch 2 on a Card. Key Card.",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n7pzbh/007_first_light_is_coming_to_switch_2_on_a_card/",
+      "score": 600,
+      "comments": 356,
+      "post_id": "t3_1n7pzbh",
+      "post_type": "link",
+      "domain": "bsky.app",
+      "author": "thecornballer1",
+      "author_id": "t2_l39e5",
+      "subreddit_id": "t5_3h47q",
+      "subreddit": "r/NintendoSwitch",
+      "created_ts": "2025-09-03T20:27:39.189000+0000",
+      "content_href": "https://bsky.app/profile/wario64.bsky.social/post/3lxxcux4tug27",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "When it comes to managing diabetes with the FreeStyle Libre 3 Plus sensor, Dawn loves that she can, “see what’s happening inside my body... and it’s helped me to make better choices!” Try for yourself!",
+      "permalink": "https://www.reddit.com/user/Abbott-FreeStyle-US/comments/1mxbu03/when_it_comes_to_managing_diabetes_with_the/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mxbu03",
+      "post_type": "video",
+      "domain": "freestyle.abbott",
+      "author": "Abbott-FreeStyle-US",
+      "author_id": "t2_8guuu36v",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-22T16:52:18.317000+0000",
+      "content_href": "https://v.redd.it/vee8w5zr7kkf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_394pil/styles/profileIcon_3siegr2ensfe1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=23f578d1952197204569d259ef3aecd02df40c58",
+      "is_promoted": true
+    },
+    {
+      "title": "[Nintendo of Europe] Experience epic savings on thousands of Nintendo Switch and Nintendo Switch 2 games in the Nintendo eShop Blockbuster Sale, now on until September 14th.",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n8ijv4/nintendo_of_europe_experience_epic_savings_on/",
+      "score": 112,
+      "comments": 29,
+      "post_id": "t3_1n8ijv4",
+      "post_type": "link",
+      "domain": "nintendo.com",
+      "author": "Joseki100",
+      "author_id": "t2_fzzy8",
+      "subreddit_id": "t5_3h47q",
+      "subreddit": "r/NintendoSwitch",
+      "created_ts": "2025-09-04T18:45:10.629000+0000",
+      "content_href": "https://www.nintendo.com/en-gb/Nintendo-eShop/Nintendo-eShop-Sale/Nintendo-eShop-Sale-1460557.html",
+      "content_preview": "",
+      "flair": [
+        "Nintendo Official"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "[Nintendo Life] Star Wars Outlaws Nintendo Switch 2 Gameplay",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n7h829/nintendo_life_star_wars_outlaws_nintendo_switch_2/",
+      "score": 231,
+      "comments": 206,
+      "post_id": "t3_1n7h829",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "Joseki100",
+      "author_id": "t2_fzzy8",
+      "subreddit_id": "t5_3h47q",
+      "subreddit": "r/NintendoSwitch",
+      "created_ts": "2025-09-03T15:03:03.699000+0000",
+      "content_href": "https://www.youtube.com/watch?v=36EISwEkC-s",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Tokyo Mirage Sessions #FE Encore is a superb game and the NS2 runs it beautifully",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n7imlj/tokyo_mirage_sessions_fe_encore_is_a_superb_game/",
+      "score": 187,
+      "comments": 53,
+      "post_id": "t3_1n7imlj",
+      "post_type": "text",
+      "domain": "self.NintendoSwitch",
+      "author": "Flonkerton_Scranton",
+      "author_id": "t2_n1qm2jrka",
+      "subreddit_id": "t5_3h47q",
+      "subreddit": "r/NintendoSwitch",
+      "created_ts": "2025-09-03T15:55:25.275000+0000",
+      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n7imlj/tokyo_mirage_sessions_fe_encore_is_a_superb_game/",
+      "content_preview": "I picked it up in Japan last year for a few yen as an unboxed cart from Book/Off and thought it would likely not be translated. Got it home, and it immediately became the EU/UK version, with fully translated text (the audio is all in Japanese because it never got an EN language version for VO). Played it for an hour on my Switch 1 and thought \"this will be a good game for the backlog later on\".My Switch 2 starts gathering dust so I play through some of my backlogged titles in higher frame rates and better performance, finally landing on this gem. It's blummin great! It really is the early version of Persona 5, only taking itself far less seriously. The characters are silly and fun (aside from one who is a sex pest) and the animations are just wonderful to watch. The anime cutscenes are stunning and the battle system is great fun. It's the basic weakness system from P5 where you have find an enemies weakness manually to have everyone then automate future combat with that enemy type.The included DLC gives you access to a Joker costume and a super easy way to level up without too much grinding, and it runs so nice on the S2 docked.This game has been a real brain calmer, and has given me a great 30+ hours of play so far (just got halfway through Chapter 4 and feel I am reaching the finale soon), and am happy I gave it a chance. If you like Persona but don't want the daily chores and relationship deep building, this is the game for you. It's almost a beta test for Persona 5, just highly polished.As someone who is not into anime, or waifu stuff, i'm surprised this landed so well with me, but it's been joyful and great to play. Highly recommend it if you can pick it up in a sale sometime.",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "[Nintendo Latinoamérica] Nintendo Switch 2 will be available in Argentina in October 2025. Stay tuned for more information.",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n8icj0/nintendo_latinoamérica_nintendo_switch_2_will_be/",
+      "score": 58,
+      "comments": 3,
+      "post_id": "t3_1n8icj0",
+      "post_type": "link",
+      "domain": "xcancel.com",
+      "author": "Joseki100",
+      "author_id": "t2_fzzy8",
+      "subreddit_id": "t5_3h47q",
+      "subreddit": "r/NintendoSwitch",
+      "created_ts": "2025-09-04T18:37:20.486000+0000",
+      "content_href": "https://xcancel.com/NintendoLatam/status/1963572766809956446",
+      "content_preview": "",
+      "flair": [
+        "Nintendo Official"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
       "title": "UFO 50 – Launch Trailer – Nintendo Switch",
       "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1mjzye2/ufo_50_launch_trailer_nintendo_switch/",
       "score": 1855,
-      "comments": 338,
+      "comments": 332,
       "post_id": "t3_1mjzye2",
       "post_type": "link",
       "domain": "youtube.com",
@@ -544,172 +1257,53 @@
       "flair": [
         "Nintendo Official"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "I finally 100% completed Welcome Tour",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n43n22/i_finally_100_completed_welcome_tour/",
-      "score": 192,
-      "comments": 42,
-      "post_id": "t3_1n43n22",
+      "title": "Review: Everybody's Golf Hot Shots (Switch) - Nintendo Life [6/10]",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n7g9oc/review_everybodys_golf_hot_shots_switch_nintendo/",
+      "score": 139,
+      "comments": 85,
+      "post_id": "t3_1n7g9oc",
+      "post_type": "link",
+      "domain": "nintendolife.com",
+      "author": "schuey_08",
+      "author_id": "t2_123g5l",
+      "subreddit_id": "t5_3h47q",
+      "subreddit": "r/NintendoSwitch",
+      "created_ts": "2025-09-03T14:26:17.595000+0000",
+      "content_href": "https://www.nintendolife.com/reviews/nintendo-switch/everybodys-golf-hot-shots",
+      "content_preview": "",
+      "flair": [
+        "Review"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_c7688/styles/profileIcon_0ml6ze9dqy0f1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a96c2adf2e2f117c900da79c1c6cc655b337dcd5",
+      "is_promoted": false
+    },
+    {
+      "title": "We saw that upvote. Discover the 2026 All-Electric VISTIQ.",
+      "permalink": "https://www.reddit.com/user/cadillac/comments/1n6uk4e/we_saw_that_upvote_discover_the_2026_allelectric/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n6uk4e",
       "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Ga1act1c54",
-      "author_id": "t2_8nyj9iei",
-      "subreddit_id": "t5_3h47q",
-      "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-30T14:54:26.452000+0000",
-      "content_href": "https://i.redd.it/yzpjbbpk76mf1.jpeg",
+      "domain": "cadillac.com",
+      "author": "cadillac",
+      "author_id": "t2_ihjbwyxr",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-02T20:26:00.891000+0000",
+      "content_href": "https://www.cadillac.com/electric/vistiq?socid=redd",
       "content_preview": "",
-      "flair": [
-        "Image"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Dragon Ball: Gekishin Squadra launches September 9",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n45xxr/dragon_ball_gekishin_squadra_launches_september_9/",
-      "score": 44,
-      "comments": 25,
-      "post_id": "t3_1n45xxr",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "binderie1951",
-      "author_id": "t2_q2ptkke1s",
-      "subreddit_id": "t5_3h47q",
-      "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-30T16:28:53.119000+0000",
-      "content_href": "https://www.youtube.com/watch?v=ojhY1xAAQyc",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Nintendo Switch 2 game-key cards not eligible for preservation by Japan’s National Diet Library, officials say",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1mzibeg/nintendo_switch_2_gamekey_cards_not_eligible_for/",
-      "score": 967,
-      "comments": 96,
-      "post_id": "t3_1mzibeg",
-      "post_type": "link",
-      "domain": "automaton-media.com",
-      "author": "Turbostrider27",
-      "author_id": "t2_t27vp",
-      "subreddit_id": "t5_3h47q",
-      "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-25T05:42:30.554000+0000",
-      "content_href": "https://automaton-media.com/en/news/nintendo-switch-2-game-key-cards-not-eligible-for-preservation-by-japans-national-diet-library-officials-say/",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "Switch 2 battery drain in sleep is atrocious",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n4g7el/switch_2_battery_drain_in_sleep_is_atrocious/",
-      "score": 891,
-      "comments": 291,
-      "post_id": "t3_1n4g7el",
-      "post_type": "text",
-      "domain": "self.NintendoSwitch",
-      "author": "cybernouris",
-      "author_id": "t2_ftgv1",
-      "subreddit_id": "t5_3h47q",
-      "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-30T23:51:12.802000+0000",
-      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n4g7el/switch_2_battery_drain_in_sleep_is_atrocious/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "2025 Europe Sales Comparison Charts Through July - Switch 2 vs PS5 vs Xbox Series X|S vs Switch",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n5i71m/2025_europe_sales_comparison_charts_through_july/",
-      "score": 6,
-      "comments": 13,
-      "post_id": "t3_1n5i71m",
-      "post_type": "link",
-      "domain": "vgchartz.com",
-      "author": "OhMyOhWhyOh",
-      "author_id": "t2_1kv65fo8oy",
-      "subreddit_id": "t5_3h47q",
-      "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-09-01T07:21:59.247000+0000",
-      "content_href": "https://www.vgchartz.com/article/465590/2025-europe-sales-comparison-charts-through-july-switch-2-vs-ps5-vs-xbox-series-xs-vs-switch/",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Square Enix confirms that Final Fantasy VII Remake Intergrade (Switch 2) runs at a stable 30 fps",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n1j511/square_enix_confirms_that_final_fantasy_vii/",
-      "score": 724,
-      "comments": 327,
-      "post_id": "t3_1n1j511",
-      "post_type": "link",
-      "domain": "x.com",
-      "author": "TheFreshPrince94",
-      "author_id": "t2_5snyi7",
-      "subreddit_id": "t5_3h47q",
-      "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-27T14:49:52.250000+0000",
-      "content_href": "https://x.com/Wario64/status/1960712120976146722",
-      "content_preview": "",
-      "flair": [
-        "News"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Nate the Hate confirms Direct for September 11/12",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n52pcp/nate_the_hate_confirms_direct_for_september_1112/",
-      "score": 786,
-      "comments": 289,
-      "post_id": "t3_1n52pcp",
-      "post_type": "link",
-      "domain": "xcancel.com",
-      "author": "thecornballer1",
-      "author_id": "t2_l39e5",
-      "subreddit_id": "t5_3h47q",
-      "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-31T18:50:03.562000+0000",
-      "content_href": "https://xcancel.com/NateTheHate2/status/1962214416339833244",
-      "content_preview": "",
-      "flair": [
-        "Rumor"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "/r/NintendoSwitch's Daily Question Thread (09/01/2025)",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n5hvuw/rnintendoswitchs_daily_question_thread_09012025/",
-      "score": 1,
-      "comments": 22,
-      "post_id": "t3_1n5hvuw",
-      "post_type": "text",
-      "domain": "self.NintendoSwitch",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_3h47q",
-      "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-09-01T07:02:56.697000+0000",
-      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n5hvuw/rnintendoswitchs_daily_question_thread_09012025/",
-      "content_preview": "",
-      "flair": [
-        "DQT"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5npz9t/styles/profileIcon_giyjcw8923nc1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=68c0aac58a2e6034c69181eaa3e0aeb43eac76ef",
+      "is_promoted": true
     },
     {
       "title": "Nintendo 2025 graphic update",
       "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1muk0yn/nintendo_2025_graphic_update/",
-      "score": 1824,
+      "score": 1826,
       "comments": 331,
       "post_id": "t3_1muk0yn",
       "post_type": "image",
@@ -724,52 +1318,158 @@
       "flair": [
         "Image"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_5m09eo/styles/profileIcon_fa76vf05pq2c1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8d465e10a6fc6c80cef311a602c947c72f4fb599"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5m09eo/styles/profileIcon_fa76vf05pq2c1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8d465e10a6fc6c80cef311a602c947c72f4fb599",
+      "is_promoted": false
     },
     {
-      "title": "games (available on nintendo switch) similar to catherine: full body, ddlc, needy streamer overdose, milk inside a bag of milk, or mad father?",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n3v13s/games_available_on_nintendo_switch_similar_to/",
-      "score": 7,
-      "comments": 15,
-      "post_id": "t3_1n3v13s",
-      "post_type": "text",
-      "domain": "self.NintendoSwitch",
-      "author": "ExpensiveType8180",
-      "author_id": "t2_1je18qm47r",
+      "title": "Octopath Traveler 0 details ‘story of revenge,’ companions, and key systems",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n7e71w/octopath_traveler_0_details_story_of_revenge/",
+      "score": 125,
+      "comments": 12,
+      "post_id": "t3_1n7e71w",
+      "post_type": "link",
+      "domain": "gematsu.com",
+      "author": "Turbostrider27",
+      "author_id": "t2_t27vp",
       "subreddit_id": "t5_3h47q",
       "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-30T06:57:58.750000+0000",
-      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n3v13s/games_available_on_nintendo_switch_similar_to/",
+      "created_ts": "2025-09-03T13:01:57.163000+0000",
+      "content_href": "https://www.gematsu.com/2025/09/octopath-traveler-0-details-story-of-revenge-companions-and-key-systems",
       "content_preview": "",
       "flair": [
-        "Game Rec"
+        "News"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "What're you playing this weekend? 8/29",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n3c6f8/whatre_you_playing_this_weekend_829/",
-      "score": 97,
-      "comments": 165,
-      "post_id": "t3_1n3c6f8",
+      "title": "How do you play games, one at a time or play through multiple?",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n6v4pr/how_do_you_play_games_one_at_a_time_or_play/",
+      "score": 61,
+      "comments": 148,
+      "post_id": "t3_1n6v4pr",
       "post_type": "text",
       "domain": "self.NintendoSwitch",
-      "author": "markercore",
-      "author_id": "t2_6gr7d",
+      "author": "InternationalCount53",
+      "author_id": "t2_3eoweqa0",
       "subreddit_id": "t5_3h47q",
       "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-29T16:31:28.221000+0000",
-      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n3c6f8/whatre_you_playing_this_weekend_829/",
-      "content_preview": "",
+      "created_ts": "2025-09-02T20:47:31.881000+0000",
+      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n6v4pr/how_do_you_play_games_one_at_a_time_or_play/",
+      "content_preview": "Trying to figure out how I want to play multiple games, recently bought a switch for the first time and about 7 games off the bat thanks to recommendations I last posted.Just asking the community if yous like playing games one at a time or do yous play multiple games and progress through both equally? I assume pros to one at a time is fully immersed into the one or do you prefer to play multiple to give you a break from the games?I understand it could be game dependant If you play multiple games do you try and have the games quite different from each other in style? Or is it maybe you have one game that is a long slog and the other game short and easy? Just wondering peoples general approach.",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "The Legend of Zelda: Breath of the Wild is one of the best games I've ever played. Do I buy the DLC or move to TOTK?",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n36pgv/the_legend_of_zelda_breath_of_the_wild_is_one_of/",
+      "score": 529,
+      "comments": 315,
+      "post_id": "t3_1n36pgv",
+      "post_type": "text",
+      "domain": "self.NintendoSwitch",
+      "author": "NotSquidzzz",
+      "author_id": "t2_i57vnzx3",
+      "subreddit_id": "t5_3h47q",
+      "subreddit": "r/NintendoSwitch",
+      "created_ts": "2025-08-29T12:56:36.418000+0000",
+      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n36pgv/the_legend_of_zelda_breath_of_the_wild_is_one_of/",
+      "content_preview": "(Sorry if this has been said multiple times!)I bought this game back in March for my Switch OLED and it was an alright experience. I obviously had that 1st week experience where its an amazing game and all but after that I put it down and didn't even touch it. Back in late June I bought the Switch 2 and decided to try BOTW again with the Switch 2 upgrade pack and it was PERFECT. No lag plagued my game like it did back on my old Switch. It was so addicting and I ended up spending 120 hours on it before I finally beat it today. Such a good boss battle at the end too.It has genuinely been such a wonderful experience defeating all the bosses, unclocking the shrines, and exploring Hyrule (Don't even mention the sidequests, I loved how they pushed you to explore further!). I truly fell in love with this game. It's good I didn't buy this when it first dropped as I would have been far too young to enjoy it and it would've left a bad first impression.To anyone who is looking for a large open world game which isn't crazy confusing nor overwhelming, BOTW is an amazing game to go for. My fav game OAT.Now for my question:Do I buy the DLC or move straight to TOTK? I have also heard that it's reccomended to take a break between them to avoid burning out so maybe I could play some of the DLC before starting TOTK. What do you guys think? Is the DLC worth 20 USD?Thank you and sorry for the long post!",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Dragon Quest 1 + 2 HD-2D Remake (Switch 2) Hands-on Preview",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n8dfrh/dragon_quest_1_2_hd2d_remake_switch_2_handson/",
+      "score": 101,
+      "comments": 16,
+      "post_id": "t3_1n8dfrh",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "Amiibofan101",
+      "author_id": "t2_mdc0a",
+      "subreddit_id": "t5_3h47q",
+      "subreddit": "r/NintendoSwitch",
+      "created_ts": "2025-09-04T15:32:58.430000+0000",
+      "content_href": "https://youtube.com/watch?v=x4Bk3dDHOkU",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Daemon X Machina: Titanic Scion - Side Missions and Exploration Trailer",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n8d85q/daemon_x_machina_titanic_scion_side_missions_and/",
+      "score": 30,
+      "comments": 15,
+      "post_id": "t3_1n8d85q",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "Chillyeaham",
+      "author_id": "t2_31weq063",
+      "subreddit_id": "t5_3h47q",
+      "subreddit": "r/NintendoSwitch",
+      "created_ts": "2025-09-04T15:25:03.340000+0000",
+      "content_href": "https://www.youtube.com/watch?v=p5TkdDi-uY0",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_xth1l/styles/profileIcon_38o6apirrin71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a85b67d5234a72faa4ceef3539f42207131a5697",
+      "is_promoted": false
+    },
+    {
+      "title": "Discover the sounds of the fully electric Volvo EX90.",
+      "permalink": "https://www.reddit.com/user/volvocarusa/comments/1ltzo1m/discover_the_sounds_of_the_fully_electric_volvo/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1ltzo1m",
+      "post_type": "video",
+      "domain": "volvocars.com",
+      "author": "volvocarusa",
+      "author_id": "t2_4o8easx8",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-07T17:03:50.401000+0000",
+      "content_href": "https://v.redd.it/hjl2zcpwzfbf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_25j5wo/styles/profileIcon_qwtep57blu281.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=e78f5adefefd0f80179732429f02b18efb5ad471",
+      "is_promoted": true
+    },
+    {
+      "title": "Splatoon 3 North American League - Announcement",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n6oqf9/splatoon_3_north_american_league_announcement/",
+      "score": 57,
+      "comments": 8,
+      "post_id": "t3_1n6oqf9",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "ONE-OF-THREE",
+      "author_id": "t2_umckw",
+      "subreddit_id": "t5_3h47q",
+      "subreddit": "r/NintendoSwitch",
+      "created_ts": "2025-09-02T16:48:15.049000+0000",
+      "content_href": "https://www.youtube.com/watch?v=KEzrnAgRl8A",
+      "content_preview": "",
+      "flair": [
+        "Nintendo Official"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3kkwb/styles/profileIcon_xn2oosmqry8f1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e46246111238f7b161a085143d839231b15daba1",
+      "is_promoted": false
     },
     {
       "title": "Chibi-Robo! - GameCube – Nintendo Classics",
       "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1moqlo4/chibirobo_gamecube_nintendo_classics/",
-      "score": 1821,
+      "score": 1822,
       "comments": 283,
       "post_id": "t3_1moqlo4",
       "post_type": "link",
@@ -784,228 +1484,93 @@
       "flair": [
         "Nintendo Official"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "Hands-On: Kirby Air Riders may be deceptively deep despite its simple controls",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1mzu2vb/handson_kirby_air_riders_may_be_deceptively_deep/",
-      "score": 689,
-      "comments": 148,
-      "post_id": "t3_1mzu2vb",
+      "title": "FORSAKEN® 64 – Nintendo 64 – Nintendo Classics: MATURE 17+",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n714z2/forsaken_64_nintendo_64_nintendo_classics_mature/",
+      "score": 383,
+      "comments": 153,
+      "post_id": "t3_1n714z2",
       "post_type": "link",
-      "domain": "videogameschronicle.com",
+      "domain": "youtube.com",
       "author": "Turbostrider27",
       "author_id": "t2_t27vp",
       "subreddit_id": "t5_3h47q",
       "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-25T15:45:50.598000+0000",
-      "content_href": "https://www.videogameschronicle.com/features/hands-on-kirby-air-riders-may-be-deceptively-deep-despite-its-simple-controls/",
+      "created_ts": "2025-09-03T01:00:55.627000+0000",
+      "content_href": "https://www.youtube.com/watch?v=dHbN2xGI4yk",
       "content_preview": "",
       "flair": [
-        "Discussion"
+        "Nintendo Official"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "Blockbuster Sale is up in the US eShop until 09/10/2025",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n2gihg/blockbuster_sale_is_up_in_the_us_eshop_until/",
-      "score": 680,
-      "comments": 309,
-      "post_id": "t3_1n2gihg",
-      "post_type": "link",
-      "domain": "nintendo.com",
-      "author": "XDitto",
-      "author_id": "t2_gpi01",
+      "title": "Co-op puzzle-based game",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n6lhnj/coop_puzzlebased_game/",
+      "score": 15,
+      "comments": 47,
+      "post_id": "t3_1n6lhnj",
+      "post_type": "text",
+      "domain": "self.NintendoSwitch",
+      "author": "PhysicsNerd15",
+      "author_id": "t2_bm70zchh",
       "subreddit_id": "t5_3h47q",
       "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-28T16:10:59.254000+0000",
-      "content_href": "https://www.nintendo.com/us/store/sales-and-deals/blockbuster-sale/#sort=df&p=0",
-      "content_preview": "",
+      "created_ts": "2025-09-02T14:46:52.503000+0000",
+      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n6lhnj/coop_puzzlebased_game/",
+      "content_preview": "My wife and I really enjoy logic puzzles, nonograms, Sudoku, etc, but are interested in something with a variety of different puzzle types that we can play together? Ideally, we were thinking something with maybe an overworld or overarching story that gets us to the different types of puzzles, though the most important features are a variety of puzzles and being able to play co-op (or competitive). Thanks in advance!",
       "flair": [
-        "Sale"
+        "Game Rec"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/nfcTml0K3jM8y8f4MIGVqhjtyHSBG1QfCo-S1ZQd2z0.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=d102473c13a48dc6aa6e554e4c6cb0155f2a3163"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "/r/NintendoSwitch's Daily Question Thread (08/30/2025)",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n3v35q/rnintendoswitchs_daily_question_thread_08302025/",
-      "score": 2,
-      "comments": 29,
-      "post_id": "t3_1n3v35q",
+      "title": "/r/NintendoSwitch's Daily Question Thread (09/02/2025)",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n6coqk/rnintendoswitchs_daily_question_thread_09022025/",
+      "score": 5,
+      "comments": 40,
+      "post_id": "t3_1n6coqk",
       "post_type": "text",
       "domain": "self.NintendoSwitch",
       "author": "AutoModerator",
       "author_id": "t2_6l4z3",
       "subreddit_id": "t5_3h47q",
       "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-30T07:01:34.834000+0000",
-      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n3v35q/rnintendoswitchs_daily_question_thread_08302025/",
-      "content_preview": "",
+      "created_ts": "2025-09-02T07:02:28.646000+0000",
+      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n6coqk/rnintendoswitchs_daily_question_thread_09022025/",
+      "content_preview": "The purpose of this thread is to more accurately connect users seeking help with users who want to provide that help. Our regular \"Helpful Users\" certainly have earned their flairs!",
       "flair": [
         "DQT"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
-      "title": "Sonic Racing: CrossWorlds - Does It Hold Up on Switch? (Framerate and Graphics Comparison)",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n3cxr2/sonic_racing_crossworlds_does_it_hold_up_on/",
-      "score": 17,
-      "comments": 92,
-      "post_id": "t3_1n3cxr2",
+      "title": "Over 75% of Cyberpunk 2077’s sales on Switch 2 were physical.",
+      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n2iydi/over_75_of_cyberpunk_2077s_sales_on_switch_2_were/",
+      "score": 1749,
+      "comments": 172,
+      "post_id": "t3_1n2iydi",
       "post_type": "link",
-      "domain": "youtube.com",
-      "author": "Dukemon102",
-      "author_id": "t2_6n0y6wph",
+      "domain": "twitter.com",
+      "author": "Turbostrider27",
+      "author_id": "t2_t27vp",
       "subreddit_id": "t5_3h47q",
       "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-29T17:00:35.728000+0000",
-      "content_href": "https://www.youtube.com/watch?v=HrE06X0ONBc",
+      "created_ts": "2025-08-28T17:42:12.244000+0000",
+      "content_href": "https://twitter.com/Chris_Dring/status/1961121964858147051",
       "content_preview": "",
       "flair": [
-        "Video"
+        "News"
       ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "July 2025 Worldwide Console Sales: Switch 2 1,594,000, PS5 787k, Switch 251k, Xbox Series X|S 132k",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n364mv/july_2025_worldwide_console_sales_switch_2/",
-      "score": 667,
-      "comments": 209,
-      "post_id": "t3_1n364mv",
-      "post_type": "link",
-      "domain": "vgchartz.com",
-      "author": "Ftouh_Shala",
-      "author_id": "t2_1m4ahcxuuw",
-      "subreddit_id": "t5_3h47q",
-      "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-29T12:30:46.619000+0000",
-      "content_href": "https://www.vgchartz.com/article/465607/switch-best-seller-as-sales-top-7m-worldwide-hardware-estimates-for-july-2025/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Hollow Knight: Silksong - Release Trailer",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1mwd5tp/hollow_knight_silksong_release_trailer/",
-      "score": 1549,
-      "comments": 216,
-      "post_id": "t3_1mwd5tp",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "Amiibofan101",
-      "author_id": "t2_mdc0a",
-      "subreddit_id": "t5_3h47q",
-      "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-21T14:52:31.832000+0000",
-      "content_href": "https://youtube.com/watch?v=6XGeJwsUP9c",
-      "content_preview": "",
-      "flair": [
-        "Official"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Space Adventure Cobra: The Awakening is a lot of fun",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n5eq70/space_adventure_cobra_the_awakening_is_a_lot_of/",
-      "score": 8,
-      "comments": 6,
-      "post_id": "t3_1n5eq70",
-      "post_type": "text",
-      "domain": "self.NintendoSwitch",
-      "author": "Available-Low-2428",
-      "author_id": "t2_14taslt3ji",
-      "subreddit_id": "t5_3h47q",
-      "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-09-01T04:01:30.934000+0000",
-      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n5eq70/space_adventure_cobra_the_awakening_is_a_lot_of/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "Shinobi Art of Vengeance strange stuttering",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n3eo0c/shinobi_art_of_vengeance_strange_stuttering/",
-      "score": 5,
-      "comments": 14,
-      "post_id": "t3_1n3eo0c",
-      "post_type": "text",
-      "domain": "self.NintendoSwitch",
-      "author": "GNU_Angua",
-      "author_id": "t2_ob8k3rads",
-      "subreddit_id": "t5_3h47q",
-      "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-29T18:05:24.758000+0000",
-      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1n3eo0c/shinobi_art_of_vengeance_strange_stuttering/",
-      "content_preview": "",
-      "flair": [
-        "Question"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Nintendo Switch 2 Gameplay | Yakuza Kiwami & Yakuza Kiwami 2 | RGG RoundUp",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n2tlh8/nintendo_switch_2_gameplay_yakuza_kiwami_yakuza/",
-      "score": 86,
-      "comments": 38,
-      "post_id": "t3_1n2tlh8",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "threeinacorner",
-      "author_id": "t2_1scq6fgj",
-      "subreddit_id": "t5_3h47q",
-      "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-29T00:54:57.864000+0000",
-      "content_href": "https://www.youtube.com/live/CIE6X-syFkM?si=T3tQVyo_73iWPUE-",
-      "content_preview": "",
-      "flair": [
-        "Video"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "My kid figured out how to circumvent the parental control time limit",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1mjnhfu/my_kid_figured_out_how_to_circumvent_the_parental/",
-      "score": 1509,
-      "comments": 421,
-      "post_id": "t3_1mjnhfu",
-      "post_type": "text",
-      "domain": "self.NintendoSwitch",
-      "author": "Ok_Buddy_9087",
-      "author_id": "t2_cv606tth",
-      "subreddit_id": "t5_3h47q",
-      "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-07T01:54:45.528000+0000",
-      "content_href": "https://www.reddit.com/r/NintendoSwitch/comments/1mjnhfu/my_kid_figured_out_how_to_circumvent_the_parental/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Street Fighter 6 x Monster Hunter Wilds - Collab Event Announcement Trailer",
-      "permalink": "https://www.reddit.com/r/NintendoSwitch/comments/1n2twrn/street_fighter_6_x_monster_hunter_wilds_collab/",
-      "score": 37,
-      "comments": 8,
-      "post_id": "t3_1n2twrn",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "DarkCh40s",
-      "author_id": "t2_1i2f6rhzh3",
-      "subreddit_id": "t5_3h47q",
-      "subreddit": "r/NintendoSwitch",
-      "created_ts": "2025-08-29T01:09:35.266000+0000",
-      "content_href": "https://www.youtube.com/watch?v=9cUXAQS_1xc",
-      "content_preview": "",
-      "flair": [
-        "Video"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:07:18.860346"
+  "scraped_at": "2025-09-05T03:32:14.333874"
 }

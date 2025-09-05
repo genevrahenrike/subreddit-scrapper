@@ -2,73 +2,116 @@
   "subreddit": "acne",
   "url": "https://www.reddit.com/r/acne",
   "meta": {
-    "title": "Acne"
+    "title": "Acne",
+    "description": "A subreddit for discussing acne and how to best treat it.",
+    "subscribers": 1734490,
+    "online_users": 20,
+    "created_timestamp": "2025-09-05T08:26:42.242000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "r/acne Rules",
+        "content": [
+          {
+            "text": "reddiquette",
+            "url": "https://www.reddithelp.com/hc/en-us/articles/205926439"
+          },
+          {
+            "text": "https://www.reddit.com/r/acne/wiki/index/myths/excesswater",
+            "url": "https://www.reddit.com/r/acne/wiki/index/myths/excesswater"
+          },
+          {
+            "text": "https://www.reddit.com/r/acne/wiki/index/myths/microtears",
+            "url": "https://www.reddit.com/r/acne/wiki/index/myths/microtears"
+          },
+          {
+            "text": "https://www.reddit.com/r/acne/wiki/index/myths/facemapping",
+            "url": "https://www.reddit.com/r/acne/wiki/index/myths/facemapping"
+          },
+          {
+            "text": "https://www.reddit.com/r/acne/wiki/index/myths/reactiveoil",
+            "url": "https://www.reddit.com/r/acne/wiki/index/myths/reactiveoil"
+          },
+          {
+            "text": "r/acne",
+            "url": "/r/acne/"
+          },
+          {
+            "text": "https://www.reddit.com/r/acne/wiki/index/faq/occlusives",
+            "url": "https://www.reddit.com/r/acne/wiki/index/faq/occlusives"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "What can I do about my acne",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n6f8w5/what_can_i_do_about_my_acne/",
-      "score": 2,
+      "title": "May I know who got the similar experience to this?",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n8zmu2/may_i_know_who_got_the_similar_experience_to_this/",
+      "score": 1,
       "comments": 1,
-      "post_id": "t3_1n6f8w5",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Middle-Ad2911",
-      "author_id": "t2_1tspeugmb5",
+      "post_id": "t3_1n8zmu2",
+      "post_type": "text",
+      "domain": "self.acne",
+      "author": "AdAdept1325",
+      "author_id": "t2_m2jn3bcpt",
       "subreddit_id": "t5_2qse3",
       "subreddit": "r/acne",
-      "created_ts": "2025-09-02T09:51:12.968000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n6f8w5",
-      "content_preview": "",
+      "created_ts": "2025-09-05T08:26:42.242000+0000",
+      "content_href": "https://www.reddit.com/r/acne/comments/1n8zmu2/may_i_know_who_got_the_similar_experience_to_this/",
+      "content_preview": "my friend said his chest hurts very bad and before he had that feeling he had a fever now it feels like someone is punching his lungs",
       "flair": [
         "Help - General"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
-      "title": "Losing hope with my acne atp",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n1hh1e/losing_hope_with_my_acne_atp/",
-      "score": 69,
-      "comments": 55,
-      "post_id": "t3_1n1hh1e",
+      "title": "Is my(25f) acne so bad that my friend(25m) sent me this text?",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n8061w/is_my25f_acne_so_bad_that_my_friend25m_sent_me/",
+      "score": 221,
+      "comments": 108,
+      "post_id": "t3_1n8061w",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "Ok-Special5172",
-      "author_id": "t2_lqsev58a2",
+      "author": "Sad_Sandwich_612",
+      "author_id": "t2_12xdccbbrg",
       "subreddit_id": "t5_2qse3",
       "subreddit": "r/acne",
-      "created_ts": "2025-08-27T13:45:08.492000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n1hh1e",
+      "created_ts": "2025-09-04T04:00:39.386000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8061w",
       "content_preview": "",
       "flair": [
-        "Help - General"
+        "Personal"
       ],
-      "thumbnail_url": "https://preview.redd.it/losing-hope-with-my-acne-atp-v0-23crbi0hgklf1.jpg?width=640&crop=smart&auto=webp&s=b0a7bfe19b8f582251f3a27aefcea53bfbe210e8"
+      "thumbnail_url": "https://preview.redd.it/is-my-25f-acne-so-bad-that-my-friend-25m-sent-me-this-text-v0-jp4okcbhn2nf1.jpg?width=398&format=pjpg&auto=webp&s=54a52322fd25becc95535fbb3fc625d13c0c3e3c",
+      "is_promoted": false
     },
     {
-      "title": "Advice",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n67uvm/advice/",
-      "score": 4,
-      "comments": 3,
-      "post_id": "t3_1n67uvm",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Training_Web6567",
-      "author_id": "t2_7ww0hhtu",
+      "title": "How do I help with these breakouts?",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n8fc3y/how_do_i_help_with_these_breakouts/",
+      "score": 11,
+      "comments": 17,
+      "post_id": "t3_1n8fc3y",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "AmberlynnsBadussy",
+      "author_id": "t2_dlh7xfsc",
       "subreddit_id": "t5_2qse3",
       "subreddit": "r/acne",
-      "created_ts": "2025-09-02T02:28:28.252000+0000",
-      "content_href": "https://i.redd.it/r44qcuq7xnmf1.jpeg",
+      "created_ts": "2025-09-04T16:43:43.855000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8fc3y",
       "content_preview": "",
       "flair": [
         "Help - General"
       ],
-      "thumbnail_url": "https://preview.redd.it/r44qcuq7xnmf1.jpeg?width=640&crop=smart&auto=webp&s=ef2e9804e533e280ac55caf355f405b3efa45d71"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
       "title": "acne transformation",
       "permalink": "https://www.reddit.com/r/acne/comments/1mqfhfr/acne_transformation/",
-      "score": 186,
+      "score": 190,
       "comments": 24,
       "post_id": "t3_1mqfhfr",
       "post_type": "gallery",
@@ -83,87 +126,111 @@
       "flair": [
         "Before & After"
       ],
-      "thumbnail_url": "https://preview.redd.it/acne-transformation-v0-pwdltm6aa2jf1.jpg?width=640&crop=smart&auto=webp&s=5b2d7b4a7c6bd3adfe7eaed2ba3c232d65d9a7c1"
+      "thumbnail_url": "https://preview.redd.it/acne-transformation-v0-pwdltm6aa2jf1.jpg?width=640&crop=smart&auto=webp&s=5b2d7b4a7c6bd3adfe7eaed2ba3c232d65d9a7c1",
+      "is_promoted": false
     },
     {
-      "title": "Products to get rid of PIE",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n65o18/products_to_get_rid_of_pie/",
-      "score": 2,
-      "comments": 1,
-      "post_id": "t3_1n65o18",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Tough_Swordfish_3028",
-      "author_id": "t2_egftb4h1",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-09-02T00:42:03.892000+0000",
-      "content_href": "https://i.redd.it/pymwwpg8enmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "PIE/PIH"
-      ],
-      "thumbnail_url": "https://preview.redd.it/products-to-get-rid-of-pie-v0-pymwwpg8enmf1.jpeg?width=640&crop=smart&auto=webp&s=ca2aee9833eb85cedc67b07d960ca5171814d055"
-    },
-    {
-      "title": "Your sign to not pick at your acne no matter how tempting it is…",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n5eskj/your_sign_to_not_pick_at_your_acne_no_matter_how/",
-      "score": 96,
-      "comments": 25,
-      "post_id": "t3_1n5eskj",
+      "title": "Help",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n8n72d/help/",
+      "score": 4,
+      "comments": 7,
+      "post_id": "t3_1n8n72d",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "xonmxo",
-      "author_id": "t2_3hkzz1ax",
+      "author": "Immediate_Invite_785",
+      "author_id": "t2_vgxvhik9s",
       "subreddit_id": "t5_2qse3",
       "subreddit": "r/acne",
-      "created_ts": "2025-09-01T04:04:35.094000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5eskj",
-      "content_preview": "",
-      "flair": [
-        "Scarring"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_ysta2/styles/profileIcon_esue4pbwkfsb1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=485a41338fcd8bf0c9264eac278649260215f936"
-    },
-    {
-      "title": "please help",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n5usui/please_help/",
-      "score": 7,
-      "comments": 9,
-      "post_id": "t3_1n5usui",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "spooksharks",
-      "author_id": "t2_jfoh0aoui",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-09-01T17:21:42.088000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5usui",
-      "content_preview": "",
-      "flair": [
-        "Help - General"
-      ],
-      "thumbnail_url": "https://preview.redd.it/please-help-v0-of6360kn7lmf1.jpg?width=640&crop=smart&auto=webp&s=b706666ddfbd6145cf0c9beb13184ee215f14df8"
-    },
-    {
-      "title": "This is very personally because I can’t believe this progress with my skin I got like almost 7 months with accutane and I’m very happy with this progress somebody can help me with any cream to fix that scars please",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n6dz9q/this_is_very_personally_because_i_cant_believe/",
-      "score": 1,
-      "comments": 1,
-      "post_id": "t3_1n6dz9q",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Remote-Traffic-3513",
-      "author_id": "t2_wv95gb31d",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-09-02T08:28:03.634000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n6dz9q",
+      "created_ts": "2025-09-04T21:45:36.053000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8n72d",
       "content_preview": "",
       "flair": [
         "Product Request"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "New Crocs just dropped. Iconic comfort for everyone is at Walmart.com. Who knew?",
+      "permalink": "https://www.reddit.com/user/walmart/comments/1mp4tli/new_crocs_just_dropped_iconic_comfort_for/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mp4tli",
+      "post_type": "gallery",
+      "domain": "walmart.com",
+      "author": "walmart",
+      "author_id": "t2_1ozytczjf4",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-13T13:42:21.114000+0000",
+      "content_href": "https://www.walmart.com/browse/clothing/crocs/5438_1045804_4546787_1254885?adid=1500000020090000088543&veh=dsn&wmlspartner=pubw_rdt&cn=fy26-brnd-brnd-croc-apbe-3pd_con_msp_dsn_soc_rdt_n_n_n",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eeni6o/styles/profileIcon_np6zi2gr6kkf1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=f228dada134a60870a6ead226ca12efea5301a99",
+      "is_promoted": true
+    },
+    {
+      "title": "Isotretinoin(Sotret) Acne Jounery",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n7opif/isotretinoinsotret_acne_jounery/",
+      "score": 208,
+      "comments": 25,
+      "post_id": "t3_1n7opif",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Top_Extreme_1571",
+      "author_id": "t2_5tqde06qq",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-09-03T19:39:29.007000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7opif",
+      "content_preview": "",
+      "flair": [
+        "Before & After"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "I cant sleep, im freaking out so Bad",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n8je0c/i_cant_sleep_im_freaking_out_so_bad/",
+      "score": 5,
+      "comments": 1,
+      "post_id": "t3_1n8je0c",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Ready_Archer_7338",
+      "author_id": "t2_ayqesmp1",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-09-04T19:16:49.598000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8je0c",
+      "content_preview": "",
+      "flair": [
+        "Help - General"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Hmmmm",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n8yodt/hmmmm/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1n8yodt",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "jowajowajowa-jowa",
+      "author_id": "t2_1ev1lzzuye",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-09-05T07:22:24.812000+0000",
+      "content_href": "https://i.redd.it/fz3xsr5esanf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Humor"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
     },
     {
       "title": "Adapalene you gonna save the day or what",
@@ -183,113 +250,138 @@
       "flair": [
         "Help - General"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "Is it common to use clindamycin indefinitely?",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n5w6qi/is_it_common_to_use_clindamycin_indefinitely/",
-      "score": 4,
-      "comments": 5,
-      "post_id": "t3_1n5w6qi",
-      "post_type": "text",
-      "domain": "self.acne",
-      "author": "okreddituwin",
-      "author_id": "t2_j6110j8f",
+      "title": "Constant flare ups / skin picking",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n8dbsh/constant_flare_ups_skin_picking/",
+      "score": 7,
+      "comments": 7,
+      "post_id": "t3_1n8dbsh",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Fantastic_Radio_9168",
+      "author_id": "t2_npr7wt8q",
       "subreddit_id": "t5_2qse3",
       "subreddit": "r/acne",
-      "created_ts": "2025-09-01T18:12:22.967000+0000",
-      "content_href": "https://www.reddit.com/r/acne/comments/1n5w6qi/is_it_common_to_use_clindamycin_indefinitely/",
-      "content_preview": "My regimen includes clindamycin, Arazlo (retinoid), and moisturizers. It's been 8 months, I stopped the clindamycin after 3 months and again after 7 months and each time I start to breakout again. I asked my derm and she basically said keep taking the clindamycin if I want the clarity it gives. Initially I thought it was temporary while adjusting to the retinol, but do many people just use topical antibiotics forever?",
-      "flair": [
-        "Product Question"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Recommend treatment for these scars?",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n0zeyd/recommend_treatment_for_these_scars/",
-      "score": 58,
-      "comments": 37,
-      "post_id": "t3_1n0zeyd",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "General-Bear5366",
-      "author_id": "t2_8a7mby1v",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-08-26T22:05:52.407000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n0zeyd",
-      "content_preview": "",
-      "flair": [
-        "Scarring"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "Still breaking out with trentinoin",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n5wac7/still_breaking_out_with_trentinoin/",
-      "score": 3,
-      "comments": 6,
-      "post_id": "t3_1n5wac7",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Wide_Sprinkles6275",
-      "author_id": "t2_1l9pvpntjm",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-09-01T18:16:04.862000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5wac7",
-      "content_preview": "",
-      "flair": [
-        "Routine Help"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "What helped your unyielding acne?",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n2pvuk/what_helped_your_unyielding_acne/",
-      "score": 33,
-      "comments": 87,
-      "post_id": "t3_1n2pvuk",
-      "post_type": "text",
-      "domain": "self.acne",
-      "author": "hoothollercaterwaul",
-      "author_id": "t2_1fpmnbgnl5",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-08-28T22:10:53.343000+0000",
-      "content_href": "https://www.reddit.com/r/acne/comments/1n2pvuk/what_helped_your_unyielding_acne/",
-      "content_preview": "I'm not talking about the gals who say \"I had horrific terrible acne all my life and salicylic face wash and drinking lots of water, that's my secret!\" If your acne was solved by benzol peroxide and salicylic acid, this question is not for you. I'm asking the people who have ACNE acne. Closed comedomes, cystic acne (mine was actually calmed down by 100mg of spironolactone) papules, blackheads, oily skin, bacne/chest acne. The whole shebang. Acne that is clearly not just because someone waited to change their pillowcase a couples days too late. What I started recently: 0.05% tretinoin, 1% clincamycin phosphate lotion, and a sulphide shampoo (I'm skeptical, I don't think I have fungal acne) I'm just too old to be dealing with stuff 16 year olds are growing out of...so what worked for you?",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "Is this normal? Please help. What do I do?",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n5u58k/is_this_normal_please_help_what_do_i_do/",
-      "score": 3,
-      "comments": 2,
-      "post_id": "t3_1n5u58k",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Ok-Budget910",
-      "author_id": "t2_zkfhry42y",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-09-01T16:57:45.186000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5u58k",
+      "created_ts": "2025-09-04T15:28:47.457000+0000",
+      "content_href": "https://i.redd.it/n4z592d926nf1.jpeg",
       "content_preview": "",
       "flair": [
         "Help - General"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://preview.redd.it/constant-flare-ups-skin-picking-v0-n4z592d926nf1.jpeg?width=640&crop=smart&auto=webp&s=032a0f67895466f4d7d56dcf5c5501bbe4092075",
+      "is_promoted": false
+    },
+    {
+      "title": "Your sign to not pick at your acne no matter how tempting it is…",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n5eskj/your_sign_to_not_pick_at_your_acne_no_matter_how/",
+      "score": 111,
+      "comments": 26,
+      "post_id": "t3_1n5eskj",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "xonmxo",
+      "author_id": "t2_3hkzz1ax",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-09-01T04:04:35.094000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n5eskj",
+      "content_preview": "",
+      "flair": [
+        "Scarring"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ysta2/styles/profileIcon_esue4pbwkfsb1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=485a41338fcd8bf0c9264eac278649260215f936",
+      "is_promoted": false
+    },
+    {
+      "title": "How to get this to go down soon please give me advice",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n8awex/how_to_get_this_to_go_down_soon_please_give_me/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1n8awex",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Available-Simple-329",
+      "author_id": "t2_1ddud9pf88",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-09-04T13:59:24.767000+0000",
+      "content_href": "https://i.redd.it/0kyvmnbbm5nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Help - General"
+      ],
+      "thumbnail_url": "https://preview.redd.it/how-to-get-this-to-go-down-soon-please-give-me-advice-v0-0kyvmnbbm5nf1.jpeg?width=640&crop=smart&auto=webp&s=647180ff22350c7338e8928b13cd1386059ddd7e",
+      "is_promoted": false
+    },
+    {
+      "title": "I HATE MY FACE I HATE MY SKIN I HATE MY FUCKING FACE I FUCKING HATW EVERYTHING",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n7l43u/i_hate_my_face_i_hate_my_skin_i_hate_my_fucking/",
+      "score": 78,
+      "comments": 37,
+      "post_id": "t3_1n7l43u",
+      "post_type": "text",
+      "domain": "self.acne",
+      "author": "itsmeRira",
+      "author_id": "t2_1gobskzp8b",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-09-03T17:25:57.979000+0000",
+      "content_href": "https://www.reddit.com/r/acne/comments/1n7l43u/i_hate_my_face_i_hate_my_skin_i_hate_my_fucking/",
+      "content_preview": "NO FUCKING DERMATOLOGIST HAS DONE ANYTHING FOR ME FOR THE LAST FUCKING 4 YEARS I'VE JUST LIVED WITH THE MOST HORRIBLE CONFIDENCE DESTROYING ACNE ON MY FACE. ALMOST 18 NOW AND MY ENTIRE TEENAGE YEARS SINCR I WAS 13 IVE JUST HAD THE WORST SKIN OF ANY FUCKING GIRL OR WOMAN IN THE ROOM. I'm so tired. I'm just so tired. No one has been able to understand what's wrong with me. The hormonal screenings are all fine. Blood tests fine. No PCOS. But nothing. Works. Tretinoin accutane adaplene differin benzoyl peroxide YOU FUCKING NAME IT. I've put EVERY FUCKING treatment on the market on my face and in my body but I still. Still. Have this acne. My face hasn't not been red and inflamed since I was 13. I never once in my teens felt pretty. And on top of that I now have horrible deep acne scars on my face. Just making everything worse. Fuel to the flame. No NO OTHER GIRL MY AGE IVE EVER SEEN HAS HAD ACNE LIKE MINE. NO ONE HAS SCARS. NO ONE IS INFLAMED ALL DAY ALL WEEK ALL YEAR TO THE POINT WHERE SHE HAS TO LATHER HERSELF IN FOUNDATION TO FEEL EVEN SLIGHTLY PRETTY. NO ONE IS AFRAID OF ANYONE HAVINF TO LOOK AT THEM UP CLOSE IN FEAR THEYLL SEE THE UGLY PITTED CRATERS IN THEIR FACE. it's not fair. Why me. I feel fucking robbed",
+      "flair": [
+        "Rant"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "How do you do it????",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n7zerf/how_do_you_do_it/",
+      "score": 5,
+      "comments": 5,
+      "post_id": "t3_1n7zerf",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Mythy_Boi793",
+      "author_id": "t2_1fy60qjaa4",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-09-04T03:20:52.613000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7zerf",
+      "content_preview": "",
+      "flair": [
+        "Scarring"
+      ],
+      "thumbnail_url": "https://preview.redd.it/how-do-you-do-it-v0-z1x0x5d8g2nf1.jpg?width=640&crop=smart&auto=webp&s=9ee2173182148dc613a86e132c07a3a7355f7db7",
+      "is_promoted": false
+    },
+    {
+      "title": "TIL: The brush with the blush does matter. And Sephora’s here to help you get beauty from the people who get beauty",
+      "permalink": "https://www.reddit.com/user/Sephora/comments/1n3mifp/til_the_brush_with_the_blush_does_matter_and/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n3mifp",
+      "post_type": "video",
+      "domain": "sephora.com",
+      "author": "Sephora",
+      "author_id": "t2_4kpt2xjk",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-29T23:24:42.330000+0000",
+      "content_href": "https://v.redd.it/k91p2m5640mf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_24r0t7/styles/profileIcon_5x4o3dkihnca1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=09ea57f9b8fb5b498470faf5191d7673912daaba",
+      "is_promoted": true
     },
     {
       "title": "Benzoyl Peroxide completely saved my skin!",
       "permalink": "https://www.reddit.com/r/acne/comments/1mkpcp4/benzoyl_peroxide_completely_saved_my_skin/",
-      "score": 137,
-      "comments": 36,
+      "score": 139,
+      "comments": 37,
       "post_id": "t3_1mkpcp4",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -303,152 +395,55 @@
       "flair": [
         "Before & After"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "What should i do for my scars?",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n4wwb1/what_should_i_do_for_my_scars/",
-      "score": 33,
-      "comments": 9,
-      "post_id": "t3_1n4wwb1",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Rossini_",
-      "author_id": "t2_ewijyksj",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-08-31T14:58:41.413000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n4wwb1",
-      "content_preview": "",
-      "flair": [
-        "Scarring"
-      ],
-      "thumbnail_url": "https://preview.redd.it/what-should-i-do-for-my-scars-v0-xy6jjpu7ddmf1.jpg?width=640&crop=smart&auto=webp&s=ce7da3e3346c8260c4929a860206691fc2a0928f"
-    },
-    {
-      "title": "Should I try Adapalene",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n6del5/should_i_try_adapalene/",
-      "score": 1,
-      "comments": 7,
-      "post_id": "t3_1n6del5",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "lizgools",
-      "author_id": "t2_aiuhvgksq",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-09-02T07:49:42.039000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n6del5",
-      "content_preview": "",
-      "flair": [
-        "Help - General"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "This was my journey with hormonal acne.",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n5kse4/this_was_my_journey_with_hormonal_acne/",
-      "score": 3,
-      "comments": 1,
-      "post_id": "t3_1n5kse4",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Lauren-Mitchell",
-      "author_id": "t2_1vr9768av3",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-09-01T10:07:27.754000+0000",
-      "content_href": "https://i.redd.it/b6k50jz62jmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Help - General"
-      ],
-      "thumbnail_url": "https://preview.redd.it/this-was-my-journey-with-hormonal-acne-v0-b6k50jz62jmf1.png?width=640&crop=smart&auto=webp&s=053db2f1b4d4340f658f9a74083051ad9df9faa6"
-    },
-    {
-      "title": "Is accutane my only way out of this?",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n4e07x/is_accutane_my_only_way_out_of_this/",
-      "score": 22,
-      "comments": 31,
-      "post_id": "t3_1n4e07x",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Visible-Compote-2394",
-      "author_id": "t2_1uaz01bbb7",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-08-30T22:07:56.484000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n4e07x",
-      "content_preview": "",
-      "flair": [
-        "Help - General"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "My son age 14 has very bad acne?  Tried doxycycline, face creams, acne washes, etc. No help.  What now?",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n5ea6b/my_son_age_14_has_very_bad_acne_tried_doxycycline/",
-      "score": 7,
-      "comments": 18,
-      "post_id": "t3_1n5ea6b",
-      "post_type": "text",
+      "title": "Getting a lot of CCs on my cheeks and now on my jaw. Desperate for advice.",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n7rs9d/getting_a_lot_of_ccs_on_my_cheeks_and_now_on_my/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1n7rs9d",
+      "post_type": "multi_media",
       "domain": "self.acne",
-      "author": "2ForEachofYou",
-      "author_id": "t2_ublo45zq8",
+      "author": "Caitstreet",
+      "author_id": "t2_lx35g",
       "subreddit_id": "t5_2qse3",
       "subreddit": "r/acne",
-      "created_ts": "2025-09-01T03:37:42.245000+0000",
-      "content_href": "https://www.reddit.com/r/acne/comments/1n5ea6b/my_son_age_14_has_very_bad_acne_tried_doxycycline/",
-      "content_preview": "I didn’t have bad acne as a teen and neither did his mother. Not sure why his is so bad but we are running out of ideas and so is his doctor.  Any suggestions?  We are desperate for any advice. Thanks",
+      "created_ts": "2025-09-03T21:37:34.927000+0000",
+      "content_href": "https://www.reddit.com/r/acne/comments/1n7rs9d/getting_a_lot_of_ccs_on_my_cheeks_and_now_on_my/",
+      "content_preview": "This image was taken a few months back and my acne has now gotten worse. They're just so clogged and I have no idea why or what is causing this. Its difficult to get a referral for a derm. I feel like I'm not taken seriously because its an \"aesthetic\" issue and seen as unimportant. Just feeling really frustrated and insecure. If there's anyone with a similar issue of just insane CCs I'd like to hear your experience, at least then I'd feel less alone.https://preview.redd.it/getting-a-lot-of-ccs-on-my-cheeks-and-now-on-my-jaw-v0-pk0kye9rq0nf1.png",
       "flair": [
         "Help - General"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "Help!! My confidence is practically gone.",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n0ad05/help_my_confidence_is_practically_gone/",
-      "score": 20,
-      "comments": 19,
-      "post_id": "t3_1n0ad05",
+      "title": "my skin in 2023 vs now",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n6jlfz/my_skin_in_2023_vs_now/",
+      "score": 36,
+      "comments": 8,
+      "post_id": "t3_1n6jlfz",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "Unlucky-Leading3405",
-      "author_id": "t2_1p3yur16mi",
+      "author": "ddxolol",
+      "author_id": "t2_actab64e",
       "subreddit_id": "t5_2qse3",
       "subreddit": "r/acne",
-      "created_ts": "2025-08-26T02:39:26.431000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n0ad05",
+      "created_ts": "2025-09-02T13:33:13.806000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n6jlfz",
       "content_preview": "",
       "flair": [
-        "Help - General"
+        "Before & After"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Inflammation acne",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n5cwjm/inflammation_acne/",
-      "score": 3,
-      "comments": 1,
-      "post_id": "t3_1n5cwjm",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Lazy-Plum8511",
-      "author_id": "t2_15xmjju52j",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-09-01T02:26:01.334000+0000",
-      "content_href": "https://i.redd.it/slakor3vrgmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Help - General"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://preview.redd.it/my-skin-in-2023-vs-now-v0-172pe5gt7rmf1.jpg?width=640&crop=smart&auto=webp&s=e190e95fb131996c73a4cfa91d326226fe1bcc42",
+      "is_promoted": false
     },
     {
       "title": "Wearing makeup over acne feels so good",
       "permalink": "https://www.reddit.com/r/acne/comments/1mt3nw7/wearing_makeup_over_acne_feels_so_good/",
-      "score": 113,
+      "score": 114,
       "comments": 33,
       "post_id": "t3_1mt3nw7",
       "post_type": "gallery",
@@ -463,72 +458,34 @@
       "flair": [
         "Personal"
       ],
-      "thumbnail_url": "https://preview.redd.it/wearing-makeup-over-acne-feels-so-good-v0-2wej8dj1hnjf1.jpg?width=640&crop=smart&auto=webp&s=ce15683f9ed4b9da8b989628b360adc754679eca"
+      "thumbnail_url": "https://preview.redd.it/wearing-makeup-over-acne-feels-so-good-v0-2wej8dj1hnjf1.jpg?width=640&crop=smart&auto=webp&s=ce15683f9ed4b9da8b989628b360adc754679eca",
+      "is_promoted": false
     },
     {
-      "title": "derm routine",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n4zvby/derm_routine/",
-      "score": 3,
-      "comments": 2,
-      "post_id": "t3_1n4zvby",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "bunnyhats",
-      "author_id": "t2_74e2f300",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-08-31T16:57:32.023000+0000",
-      "content_href": "https://i.redd.it/97039izfydmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Routine Help"
-      ],
-      "thumbnail_url": "https://preview.redd.it/derm-routine-v0-97039izfydmf1.jpeg?width=640&crop=smart&auto=webp&s=00df0ccee2e9406059c56e4acaf401cb4b3ebf2c"
-    },
-    {
-      "title": "going to the dentist/orthodontist with acne",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n1i69x/going_to_the_dentistorthodontist_with_acne/",
-      "score": 18,
-      "comments": 16,
-      "post_id": "t3_1n1i69x",
-      "post_type": "text",
-      "domain": "self.acne",
-      "author": "Historical-Couple-18",
-      "author_id": "t2_if55ouwh",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-08-27T14:12:39.596000+0000",
-      "content_href": "https://www.reddit.com/r/acne/comments/1n1i69x/going_to_the_dentistorthodontist_with_acne/",
-      "content_preview": "does going to the dentist/orthodontist make you nervous? i don’t know if i’m the only one, but i feel very vulnerable under the bright light- as if my face is under scrutiny. i feel sad that i always find myself covering spots beforehand, just for a 10-20 minute appointment. i haven’t seen anyone talk about this, but it’s just another way that acne destroys confidence!",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "I never used to have acne and then I got closer to 30…",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n095oa/i_never_used_to_have_acne_and_then_i_got_closer/",
-      "score": 17,
-      "comments": 24,
-      "post_id": "t3_1n095oa",
+      "title": "What should i do for my scars?",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n4wwb1/what_should_i_do_for_my_scars/",
+      "score": 34,
+      "comments": 10,
+      "post_id": "t3_1n4wwb1",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "Most-History-6522",
-      "author_id": "t2_g6px9waw",
+      "author": "Rossini_",
+      "author_id": "t2_ewijyksj",
       "subreddit_id": "t5_2qse3",
       "subreddit": "r/acne",
-      "created_ts": "2025-08-26T01:42:32.602000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n095oa",
+      "created_ts": "2025-08-31T14:58:41.413000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n4wwb1",
       "content_preview": "",
       "flair": [
-        "Help - General"
+        "Scarring"
       ],
-      "thumbnail_url": "https://preview.redd.it/i-never-used-to-have-acne-and-then-i-got-closer-to-30-v0-suquaz3nq9lf1.jpg?width=640&crop=smart&auto=webp&s=a1f41b2f3a3e77bc03d900546522324124c80731"
+      "thumbnail_url": "https://preview.redd.it/what-should-i-do-for-my-scars-v0-xy6jjpu7ddmf1.jpg?width=640&crop=smart&auto=webp&s=ce7da3e3346c8260c4929a860206691fc2a0928f",
+      "is_promoted": false
     },
     {
       "title": "IPL Results",
       "permalink": "https://www.reddit.com/r/acne/comments/1mjad1i/ipl_results/",
-      "score": 96,
+      "score": 99,
       "comments": 17,
       "post_id": "t3_1mjad1i",
       "post_type": "gallery",
@@ -543,127 +500,90 @@
       "flair": [
         "Before & After"
       ],
-      "thumbnail_url": "https://preview.redd.it/ipl-results-v0-4lj8csr5lfhf1.jpg?width=640&crop=smart&auto=webp&s=ad092b0bc4922651bfdd3105669ff8c4f20f2bc7"
+      "thumbnail_url": "https://preview.redd.it/ipl-results-v0-4lj8csr5lfhf1.jpg?width=640&crop=smart&auto=webp&s=ad092b0bc4922651bfdd3105669ff8c4f20f2bc7",
+      "is_promoted": false
     },
     {
-      "title": "someone please help,.",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n4vxbh/someone_please_help/",
-      "score": 4,
-      "comments": 2,
-      "post_id": "t3_1n4vxbh",
+      "title": "acne ruined my life guys. i’ve been so depressed. the first pic im acne free as u can see. my skin is flawless and my features are prominent. and now, my face is all puffy and swollen i don’t recognize myself. i started accutane 2 weeks ago so wish me good luck guys. #fuckcysticacne",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n74yax/acne_ruined_my_life_guys_ive_been_so_depressed/",
+      "score": 30,
+      "comments": 9,
+      "post_id": "t3_1n74yax",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "Material-Eye-6583",
-      "author_id": "t2_1c719gb31o",
+      "author": "Fragrant-Ask2378",
+      "author_id": "t2_1bto9ixhd8",
       "subreddit_id": "t5_2qse3",
       "subreddit": "r/acne",
-      "created_ts": "2025-08-31T14:19:39.650000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n4vxbh",
+      "created_ts": "2025-09-03T04:05:17.444000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n74yax",
       "content_preview": "",
       "flair": [
-        "Help - General"
+        "Discussion"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_e5dz9b/styles/profileIcon_0xqposjxlbmf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b3b2e622c7bfbc0d719babc020d8ee26ce02eb16"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_cs3ltf/styles/profileIcon_dmvd6ey95y7f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=bcafd442c3d773b78eedfb243f93a933a9dcea35",
+      "is_promoted": false
     },
     {
-      "title": "Had a pimple on my neck I only noticed yesterday, woke up to it really irritated",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n4w8hi/had_a_pimple_on_my_neck_i_only_noticed_yesterday/",
-      "score": 3,
-      "comments": 4,
-      "post_id": "t3_1n4w8hi",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Seashepherd96",
-      "author_id": "t2_e9u9r",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-08-31T14:32:07.964000+0000",
-      "content_href": "https://i.redd.it/mtsrk43i8dmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Help - General"
-      ],
-      "thumbnail_url": "https://preview.redd.it/had-a-pimple-on-my-neck-i-only-noticed-yesterday-woke-up-to-v0-mtsrk43i8dmf1.jpeg?width=640&crop=smart&auto=webp&s=a6682b4c25c1c84e7819187b2f2ef7ba2ef2e082"
-    },
-    {
-      "title": "Help! A pimple left a scar? A white/discolored spot on my lip",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n4vs3s/help_a_pimple_left_a_scar_a_whitediscolored_spot/",
-      "score": 2,
+      "title": "Flatlay Friday",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n8wddl/flatlay_friday/",
+      "score": 1,
       "comments": 1,
-      "post_id": "t3_1n4vs3s",
+      "post_id": "t3_1n8wddl",
       "post_type": "text",
       "domain": "self.acne",
-      "author": "Ice-Blossom",
-      "author_id": "t2_903ooo00",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
       "subreddit_id": "t5_2qse3",
       "subreddit": "r/acne",
-      "created_ts": "2025-08-31T14:13:44.589000+0000",
-      "content_href": "https://www.reddit.com/r/acne/comments/1n4vs3s/help_a_pimple_left_a_scar_a_whitediscolored_spot/",
-      "content_preview": "I had a pimple on my lip line that I left alone for once. It went away overnight and now I have a spot on my lip that's discolored! It totally messed up my cupid's bow :( And I really love my lips. Any solutions? Is this a permanent scar? Hoping it goes back to being pinkish/red.",
+      "created_ts": "2025-09-05T05:00:57.560000+0000",
+      "content_href": "https://www.reddit.com/r/acne/comments/1n8wddl/flatlay_friday/",
+      "content_preview": "Post flatlay pictures of your skincare products here.You can do pictures of your daily routine, morning routine, nightly routine, your most used products, etc.All skincare products are allowed unless you are a brand owner or have any brand affiliations with the products shown.",
       "flair": [
-        "Help - General"
+        "Weekly Post"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
-      "title": "Acne marks",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n4qrnf/acne_marks/",
-      "score": 4,
-      "comments": 2,
-      "post_id": "t3_1n4qrnf",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "CanMuted",
-      "author_id": "t2_7iodvr9n",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-08-31T09:55:28.166000+0000",
-      "content_href": "https://i.redd.it/42xrre85vbmf1.jpeg",
+      "title": "Reimagined from the inside out. Experience the elevated design of the all-new 2025 Lincoln Navigator® SUV.",
+      "permalink": "https://www.reddit.com/user/lincoln/comments/1n7s8u0/reimagined_from_the_inside_out_experience_the/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n7s8u0",
+      "post_type": "gallery",
+      "domain": "lincoln.com",
+      "author": "lincoln",
+      "author_id": "t2_sxrt0xla",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-03T21:55:57.100000+0000",
+      "content_href": "https://www.lincoln.com/luxury-suvs/navigator/?tcid=ln-nav3261-ola&bannerid=34017516%7C1005877%7C426993922%7C0%7C0%7CRDT?psocid=msps_reddit%7C{{CAMPAIGN_ID}}%7C{{ADGROUP_ID}}%7C{{AD_ID}}&fcid=pso_{{CAMPAIGN_ID}}_reddit",
       "content_preview": "",
-      "flair": [
-        "Help - General"
-      ],
-      "thumbnail_url": "https://preview.redd.it/acne-marks-v0-42xrre85vbmf1.jpeg?width=640&crop=smart&auto=webp&s=5a298dcbf789624bf05afdd2e053448e8df823b6"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_74b806/styles/profileIcon_dvtpa2xk1ane1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=0a309cf57171f09f5c6b5d9e469b76b5214d99da",
+      "is_promoted": true
     },
     {
-      "title": "Stubborn scars",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n4s1q4/stubborn_scars/",
-      "score": 2,
-      "comments": 2,
-      "post_id": "t3_1n4s1q4",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "ilenxa",
-      "author_id": "t2_1tc3tjvjej",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-08-31T11:14:30.547000+0000",
-      "content_href": "https://i.redd.it/5atzkuv89cmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Help - General"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "SKIN GLOW UP (24) to (26)",
-      "permalink": "https://www.reddit.com/r/acne/comments/1mgwj8u/skin_glow_up_24_to_26/",
-      "score": 83,
-      "comments": 10,
-      "post_id": "t3_1mgwj8u",
+      "title": "Is accutane my only way out of this?",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n4e07x/is_accutane_my_only_way_out_of_this/",
+      "score": 24,
+      "comments": 33,
+      "post_id": "t3_1n4e07x",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "Mental_Essay_7475",
-      "author_id": "t2_sy3merfi",
+      "author": "Visible-Compote-2394",
+      "author_id": "t2_1uaz01bbb7",
       "subreddit_id": "t5_2qse3",
       "subreddit": "r/acne",
-      "created_ts": "2025-08-03T22:27:41.267000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mgwj8u",
+      "created_ts": "2025-08-30T22:07:56.484000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n4e07x",
       "content_preview": "",
       "flair": [
-        "Before & After"
+        "Help - General"
       ],
-      "thumbnail_url": "https://preview.redd.it/skin-glow-up-24-to-26-v0-lvz9ulntrvgf1.jpg?width=640&crop=smart&auto=webp&s=a6ccd33a782fcd443fe8869e9b966e1d4b6be2fb"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     },
     {
       "title": "How do I make this disappear?",
@@ -683,127 +603,296 @@
       "flair": [
         "Help - General"
       ],
-      "thumbnail_url": "https://preview.redd.it/how-do-i-make-this-disappear-v0-sdvlcuyx3yif1.jpeg?width=640&crop=smart&auto=webp&s=0779a6f6208123616d82df3260d53125385031f0"
+      "thumbnail_url": "https://preview.redd.it/how-do-i-make-this-disappear-v0-sdvlcuyx3yif1.jpeg?width=640&crop=smart&auto=webp&s=0779a6f6208123616d82df3260d53125385031f0",
+      "is_promoted": false
     },
     {
-      "title": "M(19)I had cystic acne in the past and got it treated with isotretinoin. Unfortunately, it has come back again. Has anyone else experienced this, and what did you do about it?",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n4opm3/m19i_had_cystic_acne_in_the_past_and_got_it/",
+      "title": "Please please help",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n7ax62/please_please_help/",
       "score": 3,
-      "comments": 4,
-      "post_id": "t3_1n4opm3",
+      "comments": 9,
+      "post_id": "t3_1n7ax62",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "InternationalAsk1924",
-      "author_id": "t2_fsa6vlj4",
+      "author": "One-Job9196",
+      "author_id": "t2_1i6eczi5bz",
       "subreddit_id": "t5_2qse3",
       "subreddit": "r/acne",
-      "created_ts": "2025-08-31T07:40:57.777000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n4opm3",
+      "created_ts": "2025-09-03T10:15:33.554000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7ax62",
       "content_preview": "",
       "flair": [
-        "Help - General"
+        "Product Request"
       ],
-      "thumbnail_url": "https://preview.redd.it/m-19-i-had-cystic-acne-in-the-past-and-got-it-treated-with-v0-tfau1o547bmf1.jpg?width=640&crop=smart&auto=webp&s=99bfc51067e473c7da08b0ea404531a55c3bab8c"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
     },
     {
-      "title": "Breastfeeding acne",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n4lp5b/breastfeeding_acne/",
-      "score": 2,
-      "comments": 2,
-      "post_id": "t3_1n4lp5b",
-      "post_type": "text",
-      "domain": "self.acne",
-      "author": "Sydneydanielle23",
-      "author_id": "t2_if2rci1",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-08-31T04:37:12.205000+0000",
-      "content_href": "https://www.reddit.com/r/acne/comments/1n4lp5b/breastfeeding_acne/",
-      "content_preview": "Hi all. I just wanted to post this in case it may show up if people search for it like I did. I exclusively breastfed my baby, and continued to do so after she started solids, until she was about 19 months old. I developed pretty bad back acne (down my arms and on my chest as well) around 4 months pp. I tried EVERYTHING that was safe while breastfeeding. My diet was already healthy, and I had never had back acne before having a baby. But I even tried cutting things from my diet. Nothing worked, and my back acne just seemed to get worse. I seriously tried everything. Whenever I would google and search the forums, I didn't come across women still experiencing this so long term through breastfeeding. So that's why I'm sharing. I literally stopped breastfeeding before I wanted to, because it was so bad, and it was crushing my self confidence. I couldn't even go out in a tank top on a hot summer day. Just wanted to share, that my back acne is almost entirely cleared up after two months of weaning. It was extremely difficult at first, as I stopped for what I felt like were selfish reasons. And after my acne didn't clear up the first month, I was having major regrets that breastfeeding wasn't the cause. But it in deed was. Solidarity to all the breastfeeding moms who have acne from it. It's brutal!",
-      "flair": [
-        "Success Story"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "Please help I really don’t know what to do anymore :(",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n42rwf/please_help_i_really_dont_know_what_to_do_anymore/",
-      "score": 2,
-      "comments": 10,
-      "post_id": "t3_1n42rwf",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "amielxoxo",
-      "author_id": "t2_zv9ezwvuo",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-08-30T14:18:33.822000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n42rwf",
-      "content_preview": "",
-      "flair": [
-        "Help - General"
-      ],
-      "thumbnail_url": "https://preview.redd.it/please-help-i-really-dont-know-what-to-do-anymore-v0-ppxbko3616mf1.jpg?width=640&crop=smart&auto=webp&s=c7bb58206d7ab6569282b4d411ea46e61671f81c"
-    },
-    {
-      "title": "Alternative/cheaper antimicrobial face spray for acne?",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n33rtw/alternativecheaper_antimicrobial_face_spray_for/",
-      "score": 2,
-      "comments": 4,
-      "post_id": "t3_1n33rtw",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "StandingTallAt5ft2",
-      "author_id": "t2_iribbx2s",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-08-29T10:30:06.854000+0000",
-      "content_href": "https://i.redd.it/do0t5t3irxlf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Product Question"
-      ],
-      "thumbnail_url": "https://preview.redd.it/alternative-cheaper-antimicrobial-face-spray-for-acne-v0-do0t5t3irxlf1.jpeg?width=640&crop=smart&auto=webp&s=1687de71a5f78bb2ea2bf76b05aebe32d342afcf"
-    },
-    {
-      "title": "how to get rid of this acne/redness",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n6c0tu/how_to_get_rid_of_this_acneredness/",
+      "title": "Hey so I want to get on retinol",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n5uwky/hey_so_i_want_to_get_on_retinol/",
       "score": 1,
       "comments": 1,
-      "post_id": "t3_1n6c0tu",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "DueRepresentative970",
-      "author_id": "t2_ajj7hjyj",
+      "post_id": "t3_1n5uwky",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Desperate-Swan-753",
+      "author_id": "t2_j3xtnbgoc",
       "subreddit_id": "t5_2qse3",
       "subreddit": "r/acne",
-      "created_ts": "2025-09-02T06:19:17.051000+0000",
-      "content_href": "https://i.redd.it/o8shn6ee2pmf1.jpeg",
+      "created_ts": "2025-09-01T17:25:30.967000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n5uwky",
       "content_preview": "",
       "flair": [
         "Help - General"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://preview.redd.it/hey-so-i-want-to-get-on-retinol-v0-m9enajgc8lmf1.jpg?width=640&crop=smart&auto=webp&s=fbace28a2b36ddc8967f1fdc14e41de507be4c5e",
+      "is_promoted": false
     },
     {
-      "title": "under control, now scarring..",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n11wqh/under_control_now_scarring/",
-      "score": 16,
-      "comments": 9,
-      "post_id": "t3_1n11wqh",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Afraid-Salamander148",
-      "author_id": "t2_qxlnqgwtm",
+      "title": "Can I treat this with basic skincare",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n5nkjt/can_i_treat_this_with_basic_skincare/",
+      "score": 1,
+      "comments": 6,
+      "post_id": "t3_1n5nkjt",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Worried-Nature-7299",
+      "author_id": "t2_eny5316w",
       "subreddit_id": "t5_2qse3",
       "subreddit": "r/acne",
-      "created_ts": "2025-08-26T23:52:58.618000+0000",
-      "content_href": "https://i.redd.it/0znsjd70cglf1.jpeg",
+      "created_ts": "2025-09-01T12:38:32.663000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n5nkjt",
       "content_preview": "",
       "flair": [
-        "Before & After"
+        "Help - General"
       ],
-      "thumbnail_url": "https://preview.redd.it/under-control-now-scarring-v0-0znsjd70cglf1.jpeg?width=640&crop=smart&auto=webp&s=6c7be275dee562eee8657872f094c332d7440f17"
+      "thumbnail_url": "https://preview.redd.it/can-i-treat-this-with-basic-skincare-v0-ye6bavg5tjmf1.jpg?width=640&crop=smart&auto=webp&s=66327536e83787ce454946dde3b85c38bdea5c3f",
+      "is_promoted": false
+    },
+    {
+      "title": "BP Gel burns. Would a wash be better?",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n5kknu/bp_gel_burns_would_a_wash_be_better/",
+      "score": 1,
+      "comments": 3,
+      "post_id": "t3_1n5kknu",
+      "post_type": "text",
+      "domain": "self.acne",
+      "author": "ContributionClean510",
+      "author_id": "t2_b1bwdwmp",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-09-01T09:55:03.320000+0000",
+      "content_href": "https://www.reddit.com/r/acne/comments/1n5kknu/bp_gel_burns_would_a_wash_be_better/",
+      "content_preview": "I went down from benzoyl peroxide 10% gel to 5% gel to 2.5% gel and they all gave a burning sensation and made my skin very red. I could only tolerate the gel if I use itaftera moisturizer, but I don't know if it would be doing anything.Would a wash also burn my skin? I can afford to buy it but I hate throwing products away.",
+      "flair": [
+        "Routine Help"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "USED EXPIRED FACE MASK - pls help me",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n5i1ap/used_expired_face_mask_pls_help_me/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n5i1ap",
+      "post_type": "text",
+      "domain": "self.acne",
+      "author": "LuckyCapybara10",
+      "author_id": "t2_ukj850p4e",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-09-01T07:12:03.059000+0000",
+      "content_href": "https://www.reddit.com/r/acne/comments/1n5i1ap/used_expired_face_mask_pls_help_me/",
+      "content_preview": "hi everyone. please be nice i know i was being a freaking idiot i rly regret it and all i need is help rn i already know i made a mistake. i need help with my skin rly bad. basically i used the peter thomas roth sulfur face mask on a really small under the skin pimple that i noticed on my face. i reached for that because sulfur masks usually get the job done rly fast and i rly love that face mask. so that night I decided to use it one night without checking the expiration date because I’m dumb and turns out it expired in April. and now my skin is extremely flaky and itchy all over. I’m breaking out i have 5 super painful deep pimples and I don’t really know what to do here and I even have a lot of red spots and small pimples on my forehead which i haven’t had since i was like 15.  my skin was fairly clear before because I’m seeing an esthi. she put me on the acne free Boot Camp program where I use benzoyl peroxide every night and mandelic acid in the morning — that completely cleared my skin. I had some scars and some texture after starting that, but my skin was very clear and i messed it all up. I start school in two weeks and I’m freaking out. I don’t know if I can clear this up because some of the pimples are still under the skin and haven’t come to head yet. do I just focus on skin barrier for now do I stop all my actives? can i spot treat w my benzoyl peroxide? When do you guys think this will clear up? I don’t have pictures to show because I don’t wanna show my face but help me.",
+      "flair": [
+        "Help - General"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Experience a new level of writing with Sharpie S-Gel. Engineered for bold, vivid lines and no-smear performance, S-Gel delivers vivid writing every time. With a sleek design, comfortable grip, and vivid gel ink, it’s the perfect pen for work, school, or wherever creativity strikes.",
+      "permalink": "https://www.reddit.com/user/Sharpiebrand/comments/1m3b4yz/experience_a_new_level_of_writing_with_sharpie/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1m3b4yz",
+      "post_type": "video",
+      "domain": "target.com",
+      "author": "Sharpiebrand",
+      "author_id": "t2_kfrian8v",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-18T19:10:31.460000+0000",
+      "content_href": "https://v.redd.it/h282w58j4ndf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_an83st/styles/profileIcon_uif6klvo37ec1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=57853218d9a239d84570594dbc1587eef9c78f4f",
+      "is_promoted": true
+    },
+    {
+      "title": "20 F || my left side cheek and forehead are full of these horrible acnes and these are totally running my self confidence. Please please help.",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n5gwjy/20_f_my_left_side_cheek_and_forehead_are_full_of/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n5gwjy",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "No_Double744",
+      "author_id": "t2_1e24kdufve",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-09-01T06:03:35.003000+0000",
+      "content_href": "https://i.redd.it/kdourlhouhmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Routine Help"
+      ],
+      "thumbnail_url": "https://preview.redd.it/20-f-my-left-side-cheek-and-forehead-are-full-of-these-v0-kdourlhouhmf1.jpeg?width=640&crop=smart&auto=webp&s=08a9366f1b11a419bb948ca484566468be5b90c2",
+      "is_promoted": false
+    },
+    {
+      "title": "This is very personally because I can’t believe this progress with my skin I got like almost 7 months with accutane and I’m very happy with this progress somebody can help me with any cream to fix that scars please",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n6dz9q/this_is_very_personally_because_i_cant_believe/",
+      "score": 21,
+      "comments": 5,
+      "post_id": "t3_1n6dz9q",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Remote-Traffic-3513",
+      "author_id": "t2_wv95gb31d",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-09-02T08:28:03.634000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n6dz9q",
+      "content_preview": "",
+      "flair": [
+        "Product Request"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Mini Question Monday",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n5fujp/mini_question_monday/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n5fujp",
+      "post_type": "text",
+      "domain": "self.acne",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-09-01T05:01:49.152000+0000",
+      "content_href": "https://www.reddit.com/r/acne/comments/1n5fujp/mini_question_monday/",
+      "content_preview": "Ask mini questions about acne here.It's Monday and we are all mostly back at work and grumpy. We don't have time for more than some quick Q and A so post those questions below.",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "Losing hope with my acne atp",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n1hh1e/losing_hope_with_my_acne_atp/",
+      "score": 72,
+      "comments": 56,
+      "post_id": "t3_1n1hh1e",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Ok-Special5172",
+      "author_id": "t2_lqsev58a2",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-08-27T13:45:08.492000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n1hh1e",
+      "content_preview": "",
+      "flair": [
+        "Help - General"
+      ],
+      "thumbnail_url": "https://preview.redd.it/losing-hope-with-my-acne-atp-v0-23crbi0hgklf1.jpg?width=640&crop=smart&auto=webp&s=b0a7bfe19b8f582251f3a27aefcea53bfbe210e8",
+      "is_promoted": false
+    },
+    {
+      "title": "PIH [routine help]",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n5fc6m/pih_routine_help/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n5fc6m",
+      "post_type": "text",
+      "domain": "self.acne",
+      "author": "Cool_Cupcake_1345",
+      "author_id": "t2_1161i3p074",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-09-01T04:33:37.603000+0000",
+      "content_href": "https://www.reddit.com/r/acne/comments/1n5fc6m/pih_routine_help/",
+      "content_preview": "Hi all, I have severe PIH, especially around my forehead and cheeks. For context I am tan, and so the marks go form black - dark brown - light brown and then eventually fades away, but this takes MONTHSSSS, sometimes even up to a year. Currently all my marks are black/dark brown. I tried using The Ordinary niacinimide 10% + zinc, however I felt this did nothing. After some research I see that azelaic acid might be best for pigmentation, however I’m not sure. I would really appreciate some help in forming a routine, specifically products from The Ordinary to treat my dark marks / pigmentation. Which acids are best and how should I layer everything?",
+      "flair": [
+        "Routine Help"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Need urgent help guyss.",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n5e3lh/need_urgent_help_guyss/",
+      "score": 1,
+      "comments": 3,
+      "post_id": "t3_1n5e3lh",
+      "post_type": "text",
+      "domain": "self.acne",
+      "author": "No-Distribution2188",
+      "author_id": "t2_1acajnwrws",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-09-01T03:27:52.150000+0000",
+      "content_href": "https://www.reddit.com/r/acne/comments/1n5e3lh/need_urgent_help_guyss/",
+      "content_preview": "Newbie.need suggestionsHey I am newbie to skincare my skin is very normal and very smooth.but now I have acne and dark spots on my face they are very less nothing that much to be bothered.I heard that niacinamide is the serum that will remove this can I use that plz tell me.Advance thanks for your suggestions.",
+      "flair": [
+        "Help - General"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "pimples on spiro",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n8w7av/pimples_on_spiro/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n8w7av",
+      "post_type": "text",
+      "domain": "self.acne",
+      "author": "user_1230",
+      "author_id": "t2_8zmoebtt",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-09-05T04:51:19.822000+0000",
+      "content_href": "https://www.reddit.com/r/acne/comments/1n8w7av/pimples_on_spiro/",
+      "content_preview": "Hi all. I am almost 19 (F) and I’ve had acne since I was about 15. My skin has gone through all the stages and it alternates from rlly bad to rlly good to idek. When I went to college I had a really simple skin care routine and the main acne treatment I was using was the ordinary azelic acid 10%. My skin LOVED this so much my skin was basically clear. I got a new blush that I thought was non-comedogenic but unfortunately found out 2 months later it was what was breaking me out. Stopped using it, tried to get back to my old routine but my skin was super irritated and breaking out like crazy. Finally had enough and wanted to go on accutane. Doctor said try spiro (50mg/perday) first cause you’ve never been on it. I’ve been now on it for 2 weeks and well I don’t feel like it’s working. The first few days my skin felt a lot smoother and then now I’m getting breakouts (on my jaw and chin which i never breakout on usually and that’s what spiro is supposed to help w anyways so idk if it’s just a “purge”). I would like to preface I am using my ordinary gel again only at night so lmk if I should stop using that or if there’s anything else. All my makeup is free of pore cloggers and I wash my brushes occasionally as well as my sheets and pillow cases. Also, I have dry skin and another thing my diet doesn’t break me out. Please help I’m really discouraged about new pimples when I was told that you’re not supposed to break out on spiro but other ppl say to give it time.",
+      "flair": [
+        "Help - General"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Meet the Volvo XC40 – the SUV that keeps up with every version of you.",
+      "permalink": "https://www.reddit.com/user/volvocarusa/comments/1mpgmza/meet_the_volvo_xc40_the_suv_that_keeps_up_with/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mpgmza",
+      "post_type": "video",
+      "domain": "volvocars.com",
+      "author": "volvocarusa",
+      "author_id": "t2_4o8easx8",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-13T21:05:19.409000+0000",
+      "content_href": "https://v.redd.it/bmdgliwp8tif1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_25j5wo/styles/profileIcon_qwtep57blu281.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=e78f5adefefd0f80179732429f02b18efb5ad471",
+      "is_promoted": true
     },
     {
       "title": "Taro- adapalene/benzoyl peroxide appreciation post 🫶🏼",
@@ -823,105 +912,153 @@
       "flair": [
         "Help - General"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "Flatlay Friday",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n2yiho/flatlay_friday/",
+      "title": "Need help",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n53yu2/need_help/",
       "score": 1,
       "comments": 1,
-      "post_id": "t3_1n2yiho",
+      "post_id": "t3_1n53yu2",
       "post_type": "text",
       "domain": "self.acne",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
+      "author": "Nomad_35_",
+      "author_id": "t2_1iy5nwocqg",
       "subreddit_id": "t5_2qse3",
       "subreddit": "r/acne",
-      "created_ts": "2025-08-29T05:00:53.723000+0000",
-      "content_href": "https://www.reddit.com/r/acne/comments/1n2yiho/flatlay_friday/",
-      "content_preview": "Post flatlay pictures of your skincare products here. You can do pictures of your daily routine, morning routine, nightly routine, your most used products, etc. All skincare products are allowed unless you are a brand owner or have any brand affiliations with the products shown.",
-      "flair": [
-        "Weekly Post"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Off-Topic Tuesday",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n6aq7m/offtopic_tuesday/",
-      "score": 1,
-      "comments": 1,
-      "post_id": "t3_1n6aq7m",
-      "post_type": "text",
-      "domain": "self.acne",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-09-02T05:01:02.572000+0000",
-      "content_href": "https://www.reddit.com/r/acne/comments/1n6aq7m/offtopic_tuesday/",
-      "content_preview": "Here is your weekly off-topic discussion thread. All discussion is allowed except for rule-breaking material. Be nice and don't spam. Complain about your job, praise a family member, ask for non-skincare related advice, etc. Anything goes.",
-      "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Vent",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n2y7e3/vent/",
-      "score": 1,
-      "comments": 1,
-      "post_id": "t3_1n2y7e3",
-      "post_type": "text",
-      "domain": "self.acne",
-      "author": "HoneydewNo9941",
-      "author_id": "t2_1juieem7eq",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-08-29T04:43:29.644000+0000",
-      "content_href": "https://www.reddit.com/r/acne/comments/1n2y7e3/vent/",
-      "content_preview": "My acne has gotten better but I deal with the scars. Now, I just get 1-2 pimples that are just terrible and leave spots/scarring. It makes me so annoyed because I don’t want to keep dealing with it. I want to do a laser to remove scarring but I’m also worried about the recovery process.",
-      "flair": [
-        "Scarring"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Small breakouts after moving into dorms—need advice",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n69i2o/small_breakouts_after_moving_into_dormsneed_advice/",
-      "score": 1,
-      "comments": 1,
-      "post_id": "t3_1n69i2o",
-      "post_type": "text",
-      "domain": "self.acne",
-      "author": "hooper_jordan",
-      "author_id": "t2_lpzqnn5b",
-      "subreddit_id": "t5_2qse3",
-      "subreddit": "r/acne",
-      "created_ts": "2025-09-02T03:52:00.855000+0000",
-      "content_href": "https://www.reddit.com/r/acne/comments/1n69i2o/small_breakouts_after_moving_into_dormsneed_advice/",
-      "content_preview": "Ever since I got to college, I’ve started breaking out. I finished Accutane a couple of months ago, and I’ve been on tretinoin while sticking to a simple routine. My skin had been clear, but ever since I moved into my dorm and started using the communal bathrooms, I’ve been getting small breakouts. It’s not bad, just little red bumps. What can I do to fix it? My diet has been pretty much the same.",
+      "created_ts": "2025-08-31T19:39:55.446000+0000",
+      "content_href": "https://www.reddit.com/r/acne/comments/1n53yu2/need_help/",
+      "content_preview": "Is there a website that I can use on my tbib so I can actually watch movies and shows for free but with less ads than usual, btw tge sites that I use on my phone doesn’t work on the tbib THANK YOU",
       "flair": [
         "Help - General"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "Should I seek treatment now?",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n16ws5/should_i_seek_treatment_now/",
-      "score": 13,
-      "comments": 8,
-      "post_id": "t3_1n16ws5",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Chin_stypayhorlikson",
-      "author_id": "t2_8uavxzj8",
+      "title": "help",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n8v3t0/help/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n8v3t0",
+      "post_type": "text",
+      "domain": "self.acne",
+      "author": "cowboylikejayy",
+      "author_id": "t2_1hfgadz853",
       "subreddit_id": "t5_2qse3",
       "subreddit": "r/acne",
-      "created_ts": "2025-08-27T03:51:37.267000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n16ws5",
+      "created_ts": "2025-09-05T03:51:45.396000+0000",
+      "content_href": "https://www.reddit.com/r/acne/comments/1n8v3t0/help/",
+      "content_preview": "okay so i have had a lot of trouble with skincare for acne over the last few years due to allergic reactions and sensitive skin. i started with curology and i liked it but it wasn’t enough so i tried some other things that i can’t remember. eventually i tried differin and it worked well but the day time moisturizer had sunscreen which burned my eyes and face. i have had many troubles with moisturizer because cream moisturizers don’t go into my skin? like they make my face sticky and it lasts all day so i try to stick with gel moisturizers. i started using clinique 100hr moisture surge and that worked really well. the only problem with the moisture surge is that its $36 for the smallest container. recently for my birthday in july, my mom got me the clinique acne care set but it made my acne a lot worse and my skin red and itchy. my mom said i was probably allergic to it so i went back to differin. since we decided that i am allergic to clinique, i decided to use the curology gel moisturizer again since i remember liking it but it isn’t intense enough to combat the differin and my skin is really dry and peeling. should i try to use the clinique again since i didn’t really have any problems with it until the other stuff? or can someone give me allergen/sensitive skin friendly moisturizers that aren’t sticky but still work? pls someone help 😞",
+      "flair": [
+        "Help - General"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ddsfym/styles/profileIcon_dryzmeqp0sde1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a3fadd5f8a90126d888280152c45d276c004c2b7",
+      "is_promoted": false
+    },
+    {
+      "title": "Acne from working out?",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n4z0xj/acne_from_working_out/",
+      "score": 1,
+      "comments": 15,
+      "post_id": "t3_1n4z0xj",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "XxMrAfterDarkxX",
+      "author_id": "t2_1vmkxnusj0",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-08-31T16:23:29.467000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n4z0xj",
       "content_preview": "",
       "flair": [
         "Help - General"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://preview.redd.it/acne-from-working-out-v0-1mw2xm1dsdmf1.jpg?width=640&crop=smart&auto=webp&s=8be0b259e129d794e1b3893c8132ff6d62fb2b66",
+      "is_promoted": false
+    },
+    {
+      "title": "How do I stop touching my face??",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n8uj5x/how_do_i_stop_touching_my_face/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n8uj5x",
+      "post_type": "text",
+      "domain": "self.acne",
+      "author": "Sea-Drummer7881",
+      "author_id": "t2_ikl2iby9s",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-09-05T03:21:47.519000+0000",
+      "content_href": "https://www.reddit.com/r/acne/comments/1n8uj5x/how_do_i_stop_touching_my_face/",
+      "content_preview": "I 22F have fluctuating hormonal acne, it gets bad and then I constantly touch it during the day and it gets much worse. I have tried flicking myself every time but I can’t stop the habit: any advice on how to stop?",
+      "flair": [
+        "Help - General"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Recommend treatment for these scars?",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n0zeyd/recommend_treatment_for_these_scars/",
+      "score": 59,
+      "comments": 37,
+      "post_id": "t3_1n0zeyd",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "General-Bear5366",
+      "author_id": "t2_8a7mby1v",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-08-26T22:05:52.407000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n0zeyd",
+      "content_preview": "",
+      "flair": [
+        "Scarring"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "15 years of this - when does it stop?!",
+      "permalink": "https://www.reddit.com/r/acne/comments/1mrati8/15_years_of_this_when_does_it_stop/",
+      "score": 55,
+      "comments": 49,
+      "post_id": "t3_1mrati8",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "runner275",
+      "author_id": "t2_8man5plz",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-08-15T21:22:54.615000+0000",
+      "content_href": "https://i.redd.it/1tascxf739jf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Help - General"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "BISSELL: Stands tall, destroys fur. Self-standing power-cleaning. Shop Now!",
+      "permalink": "https://www.reddit.com/user/BISSELLclean/comments/1n1nqkm/bissell_stands_tall_destroys_fur_selfstanding/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n1nqkm",
+      "post_type": "gallery",
+      "domain": "bissell.com",
+      "author": "BISSELLclean",
+      "author_id": "t2_1ffeqdhirr",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-27T17:40:42.006000+0000",
+      "content_href": "https://www.bissell.com/en-us/product/powerclean-furfinder-stick-vacuum-4052.html?utm_source=Reddit&utm_medium=PaidSocial&utm_campaign=ProspectingImpressions&utm_term=Audience&utm_content=[adv:BISSELL][cou:US][ini:Sticks][chn:PaidSocial][plt:Reddit][fun:Prospecting][opt:Impressions][str:Audience]",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_d632bn/styles/profileIcon_j7a9os8tmz7e1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=d0ca5797a1c217e2a999df8a336989ef8b6ddec4",
+      "is_promoted": true
     },
     {
       "title": "Thank you Dr Sam Bunting!",
@@ -941,68 +1078,135 @@
       "flair": [
         "Success Story"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     },
     {
-      "title": "Any suggestions? 26F",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n0k2sa/any_suggestions_26f/",
-      "score": 12,
-      "comments": 11,
-      "post_id": "t3_1n0k2sa",
+      "title": "Sertraline and acne",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n4uscn/sertraline_and_acne/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n4uscn",
+      "post_type": "text",
+      "domain": "self.acne",
+      "author": "bexooo98",
+      "author_id": "t2_1w74u0hqji",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-08-31T13:30:52.105000+0000",
+      "content_href": "https://www.reddit.com/r/acne/comments/1n4uscn/sertraline_and_acne/",
+      "content_preview": "I’ve recently been prescribed sertraline but have been suffering with pcos acne for the last year and a half. I’m so nervous about taking sertraline as I have read that it can cause acne. Had anyone taken it and experienced this or have any good results from taking sertraline that they can share?",
+      "flair": [
+        "Help - General"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Pie acne",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n8u2dc/pie_acne/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n8u2dc",
+      "post_type": "text",
+      "domain": "self.acne",
+      "author": "Fun-Albatross9559",
+      "author_id": "t2_oeg1pg1f2",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-09-05T02:58:22.904000+0000",
+      "content_href": "https://www.reddit.com/r/acne/comments/1n8u2dc/pie_acne/",
+      "content_preview": "Hey all, I recently finished accutane about a month ago and now I’m left with a bunch of pie acne. I am just wondering what to really do. Here’s my routine now how long should I expect to see results?? Morning: Wash with water Azelaic acid 15% Cerave moisturizer Eltamd uv clear sunscreenNight: Cerave hydrating cleanser Azelaic acid (Gonna add tret after a bit) Cerave moisturizer",
+      "flair": [
+        "PIE/PIH"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "What Can I use to treat these?",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n4ungw/what_can_i_use_to_treat_these/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n4ungw",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "Elegant-Pressure7990",
-      "author_id": "t2_dbx1g72j",
+      "author": "Itsronyouknow",
+      "author_id": "t2_12enylmz41",
       "subreddit_id": "t5_2qse3",
       "subreddit": "r/acne",
-      "created_ts": "2025-08-26T12:09:50.992000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n0k2sa",
+      "created_ts": "2025-08-31T13:25:03.127000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n4ungw",
       "content_preview": "",
       "flair": [
         "Help - General"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://preview.redd.it/what-can-i-use-to-treat-these-v0-tgtdng9jwcmf1.jpg?width=640&crop=smart&auto=webp&s=572de167b748c0afcdcd3338bf2f0273a128bdfb",
+      "is_promoted": false
     },
     {
-      "title": "Boujie body wash for mild Bacne?",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n6866q/boujie_body_wash_for_mild_bacne/",
+      "title": "Has my esthetician wronged me this whole time?",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n4r669/has_my_esthetician_wronged_me_this_whole_time/",
       "score": 1,
-      "comments": 2,
-      "post_id": "t3_1n6866q",
+      "comments": 0,
+      "post_id": "t3_1n4r669",
       "post_type": "text",
       "domain": "self.acne",
-      "author": "Dry-Geologist-6426",
-      "author_id": "t2_1ig57fv5v6",
+      "author": "tiramisuoats4ever",
+      "author_id": "t2_j8c8is8j1",
       "subreddit_id": "t5_2qse3",
       "subreddit": "r/acne",
-      "created_ts": "2025-09-02T02:44:08.287000+0000",
-      "content_href": "https://www.reddit.com/r/acne/comments/1n6866q/boujie_body_wash_for_mild_bacne/",
-      "content_preview": "",
+      "created_ts": "2025-08-31T10:20:15.369000+0000",
+      "content_href": "https://www.reddit.com/r/acne/comments/1n4r669/has_my_esthetician_wronged_me_this_whole_time/",
+      "content_preview": "Hi everyone,I (19F) have had different types of acne since I was a young teen, and over the years I've tried lots of topical treatments with varying grades of success. Three years ago, I started visiting an esthetician who did extractions on my face every 2 weeks ($100 per session, so... yeah it's a lot) and after the first year she also did the dermapen to help with scarring.The thing is, this whole time my skincare routine has consisted of mainly these three products:Natinuel Face Cleansing Gel (AHA-BHA 9%) (with Glycolic, Salicylic, Azelaic Acid and B-Dermin)Natinuel SEBA 12 Face Fluid (AHA-BHA 12%) (with Azelaic and Salicylic Acid, Vit. PP-AHA's) (ONLY AT NIGHT)Natinuel Hydra-Moist Face Cream (TEWL Normalizing) (MORNING + NIGHT)For a while now, I stopped using the cleanser in the morning because I felt my skin super dull and dry, so I only cleaned it with water or CeraVe's Moisturizing Cleanser.Because of summer break, I haven't gone to get an extraction for this past month and so my acne has returned (also due to more sweating and the weather being warmer) and that has made me rethink if maybe there are other options. I'm looking into going to the dermatologist (either via public healthcare or private).I'm also following an anti-inflammatory diet and implementing foods rich in omega-3 and do sports every day. So, I'd say I have a pretty healthy lifestyle. And, of course, I know the basic hygiene tips relating to acne (change your pillowcases, don't touch your face, don't put your phone on your face, drink lots of water...smh)The esthetician told me that given how my skin is, I should resign myself and do extractions and treatments for life. But during this break I started looking into acne related skincare and... have I been gaslit? Aren't these amounts of acids too much? Shouldn't I have more hydrating/moisturizing products to protect my skin barrier? Why isn't she telling me to wear sunscreen every day? Every time that I've told her that my skin is dry and really dull and sometimes even flaky but as the day progresses it gets really oily, I have been dismissed. She always told me to ONLY use the products I mentioned above (which she gave me).I was planning on leaving her after the appointment we had scheduled after summer break, and after this I'm sure I'm not going back. My skin has improved a lot, specially the hormonal acne and scarring on my cheeks (which was so so awful and painful!), but this last year I haven't seen any noticeable changes. I feel like I'm wasting time and money.Any thoughts and/or advice would be greatly appreciated, thank you.",
       "flair": [
         "Help - General"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "I'm unsure what to do for treatment, accutane questions",
-      "permalink": "https://www.reddit.com/r/acne/comments/1n2vjnn/im_unsure_what_to_do_for_treatment_accutane/",
+      "title": "Best treatment for acne scars?",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n4ox3g/best_treatment_for_acne_scars/",
       "score": 1,
-      "comments": 5,
-      "post_id": "t3_1n2vjnn",
-      "post_type": "text",
-      "domain": "self.acne",
-      "author": "throwRA_MidnightMoon",
-      "author_id": "t2_1bovk12ts0",
+      "comments": 1,
+      "post_id": "t3_1n4ox3g",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "No-Imagination8061",
+      "author_id": "t2_vl2gadk2",
       "subreddit_id": "t5_2qse3",
       "subreddit": "r/acne",
-      "created_ts": "2025-08-29T02:26:54.979000+0000",
-      "content_href": "https://www.reddit.com/r/acne/comments/1n2vjnn/im_unsure_what_to_do_for_treatment_accutane/",
-      "content_preview": "Hello, I have been on spironolactone for 5 months now and it's been great but about 2 months ago I started having issues.  I just can't handle it anymore. My dermatologist mentioned accutane and I'm very against it because I'm scared of it but at this point I'm debating it.. I'm wondering about people's opinions, experiences, etc. I have health issues that I'm worried it may make worse.",
+      "created_ts": "2025-08-31T07:54:44.062000+0000",
+      "content_href": "https://i.redd.it/nnk9ujkl9bmf1.jpeg",
+      "content_preview": "",
       "flair": [
-        "Product Question"
+        "Scarring"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Help!!!!",
+      "permalink": "https://www.reddit.com/r/acne/comments/1n8n5qe/help/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1n8n5qe",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "EastSuperb",
+      "author_id": "t2_eb6o3fh8",
+      "subreddit_id": "t5_2qse3",
+      "subreddit": "r/acne",
+      "created_ts": "2025-09-04T21:44:07.284000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8n5qe",
+      "content_preview": "",
+      "flair": [
+        "Product Request"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:10:59.040316"
+  "scraped_at": "2025-09-05T03:32:59.164181"
 }

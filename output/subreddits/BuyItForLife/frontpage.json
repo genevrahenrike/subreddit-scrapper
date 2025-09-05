@@ -2,234 +2,385 @@
   "subreddit": "BuyItForLife",
   "url": "https://www.reddit.com/r/BuyItForLife",
   "meta": {
-    "title": "Buy it for life: Durable, Quality, Practical"
+    "title": "Buy it for life: Durable, Quality, Practical",
+    "description": "For practical, durable and quality made products that are made to last.\n \n**Reminder:** Please use the search function before making a request. \n  \n\nThe Mission Statement: http://www.reddit.com/r/BuyItForLife/comments/jtjuz/bi4l_mission_statement_rules_etc/",
+    "subscribers": 3262479,
+    "online_users": 231,
+    "created_timestamp": "2025-09-05T10:20:22.050000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "r/BuyItForLife Rules",
+        "content": [
+          {
+            "text": "Low-effort Posts",
+            "url": "https://www.reddit.com/r/BuyItForLife/wiki/loweffortposts"
+          },
+          {
+            "text": "r/BuyItForLife",
+            "url": "/r/BuyItForLife/"
+          },
+          {
+            "text": "Start here",
+            "url": "https://www.redditinc.com/advertising?utm_source=reddit&utm_medium=usertext&utm_name=BuyItForLife&utm_content=t5_2ss1q"
+          },
+          {
+            "text": "here",
+            "url": "https://www.reddit.com/r/BuyItForLife/wiki/3rdparty?utm_source=reddit&utm_medium=usertext&utm_name=BuyItForLife&utm_content=t5_2ss1q"
+          }
+        ]
+      },
+      {
+        "title": "The [BIFL Request] Series.",
+        "content": [
+          {
+            "text": "Clothing",
+            "url": "http://www.reddit.com/r/BuyItForLife/comments/1v8lx3/the_sidebar_series_part_two_post_all_your_info_on/"
+          },
+          {
+            "text": "Headwear 2016",
+            "url": "https://www.reddit.com/r/BuyItForLife/comments/6ddcq8/rbuyitforlife_sidebar_series_2016_part_viii_hats/"
+          },
+          {
+            "text": "Gloves 2016",
+            "url": "https://www.reddit.com/r/BuyItForLife/comments/675tsm/rbuyitforlife_sidebar_series_2016_part_vii_gloves/"
+          },
+          {
+            "text": "Shirts 2016",
+            "url": "https://www.reddit.com/r/BuyItForLife/comments/5w6csh/rbuyitforlife_sidebar_series_2016_part_vi_shirts/"
+          },
+          {
+            "text": "2014",
+            "url": "http://www.reddit.com/r/BuyItForLife/comments/2wcndm/the_sidebar_series_part_thirteen_post_all_your/"
+          },
+          {
+            "text": "Jackets",
+            "url": "http://www.reddit.com/r/BuyItForLife/comments/2ws7fh/the_sidebar_series_part_fourteen_post_all_your/"
+          },
+          {
+            "text": "Belts 2016",
+            "url": "https://www.reddit.com/r/BuyItForLife/comments/5lmz03/rbuyitforlife_sidebar_series_2016_part_v_belts/"
+          },
+          {
+            "text": "2014",
+            "url": "http://www.reddit.com/r/BuyItForLife/comments/1x1tgt/the_sidebar_series_part_six_post_all_your_info_on/0"
+          },
+          {
+            "text": "Underwear 2016",
+            "url": "https://www.reddit.com/r/BuyItForLife/comments/5dptfx/rbuyitforlife_sidebar_series_2016_part_iv/"
+          },
+          {
+            "text": "Pants 2016",
+            "url": "https://www.reddit.com/r/BuyItForLife/comments/57ubhy/rbuyitforlife_sidebar_series_2016_part_iii_pants/"
+          },
+          {
+            "text": "2014",
+            "url": "http://www.reddit.com/r/BuyItForLife/comments/2w6vjk/the_sidebar_series_part_twelve_post_all_your_info/"
+          },
+          {
+            "text": "Socks 2016",
+            "url": "https://www.reddit.com/r/BuyItForLife/comments/54bhro/rbuyitforlife_sidebar_series_2016_part_ii_socks/"
+          },
+          {
+            "text": "Footwear 2016",
+            "url": "https://www.reddit.com/r/BuyItForLife/comments/4yjdqe/rbuyitforlife_sidebar_series_2016_part_i_footwear/"
+          },
+          {
+            "text": "2014",
+            "url": "http://www.reddit.com/r/BuyItForLife/comments/1v5wkb/the_sidebar_series_part_one_post_all_of_your_bifl/"
+          },
+          {
+            "text": "Bags",
+            "url": "http://www.reddit.com/r/BuyItForLife/comments/1vhitv/the_sidebar_series_part_three_post_all_your_info/"
+          },
+          {
+            "text": "Luggage",
+            "url": "http://www.reddit.com/r/BuyItForLife/comments/2degjr/the_sidebar_series_part_ten_post_all_your_info_on/"
+          },
+          {
+            "text": "Backpacks",
+            "url": "http://www.reddit.com/r/BuyItForLife/comments/2xq2s8/the_sidebar_series_part_sixteen_post_all_your/"
+          },
+          {
+            "text": "Kitchen",
+            "url": "http://www.reddit.com/r/BuyItForLife/comments/1vlqcf/the_sidebar_series_part_four_post_all_your_info/"
+          },
+          {
+            "text": "Kitchen Appliances",
+            "url": "http://www.reddit.com/r/BuyItForLife/comments/2x2pui/the_sidebar_series_part_fifteen_post_all_your/"
+          },
+          {
+            "text": "Tools",
+            "url": "http://www.reddit.com/r/BuyItForLife/comments/1vwr73/the_sidebar_series_part_four_post_all_your_info/"
+          },
+          {
+            "text": "Knives",
+            "url": "http://www.reddit.com/r/BuyItForLife/comments/20r2cp/the_sidebar_series_part_eight_post_all_your_info/"
+          },
+          {
+            "text": "Flashlights",
+            "url": "http://www.reddit.com/r/BuyItForLife/comments/39qvfs/the_sidebar_series_part_seventeen_post_all_your/"
+          },
+          {
+            "text": "Beverage Containers",
+            "url": "http://www.reddit.com/r/BuyItForLife/comments/1xgfhz/the_sidebar_series_part_seven_post_all_your_info/"
+          },
+          {
+            "text": "Music Players",
+            "url": "http://www.reddit.com/r/BuyItForLife/comments/23mzjp/the_sidebar_series_part_nine_post_all_your_info/"
+          },
+          {
+            "text": "For Women",
+            "url": "http://www.reddit.com/r/BuyItForLife/comments/24hqlp/the_sidebar_series_part_ten_post_all_your_info_on/"
+          },
+          {
+            "text": "Gifts",
+            "url": "http://www.reddit.com/r/BuyItForLife/comments/2o7q5d/the_christmas_season_is_upon_us_the_sidebar/"
+          },
+          {
+            "text": "BIFL European Thread",
+            "url": "https://www.reddit.com/r/BuyItForLife/comments/3sq6nl/since_so_many_bifl_items_in_here_are_us_made_lets/"
+          },
+          {
+            "text": "Lifetime Warranty Thread",
+            "url": "http://www.reddit.com/r/BuyItForLife/comments/1tgx37/new_lifetime_warranty_thread_post_any_items_you/"
+          },
+          {
+            "text": "Lifetime Warranty Thread 2",
+            "url": "http://www.reddit.com/r/BuyItForLife/comments/2rxnmy/new_lifetime_warranty_thread_post_any_items_you/"
+          },
+          {
+            "text": "BIFL Essentials: The Kitchen",
+            "url": "http://www.reddit.com/r/BuyItForLife/comments/pigqt/bi4l_essentials_the_kitchen/"
+          },
+          {
+            "text": "BIFL Wallet Compilation",
+            "url": "http://www.reddit.com/r/BuyItForLife/comments/257utu/bifl_wallet_compilation/"
+          },
+          {
+            "text": "No longer BIFL Brands",
+            "url": "https://www.reddit.com/r/BuyItForLife/comments/4ruaub/brands_not_as_good_anymore/"
+          },
+          {
+            "text": "The BIFL Song",
+            "url": "https://youtu.be/JMtL-HQ4Qpo"
+          }
+        ]
+      },
+      {
+        "title": "Other good Reddits",
+        "content": [
+          {
+            "text": "/r/BIFLfails",
+            "url": "/r/BIFLfails"
+          },
+          {
+            "text": "/r/frugal",
+            "url": "/r/frugal"
+          },
+          {
+            "text": "/r/GoodValue",
+            "url": "/r/GoodValue"
+          },
+          {
+            "text": "/r/shutupandtakemymoney",
+            "url": "/r/shutupandtakemymoney"
+          },
+          {
+            "text": "/r/Flashlight",
+            "url": "/r/Flashlight"
+          },
+          {
+            "text": "/r/Skookum",
+            "url": "/r/Skookum"
+          },
+          {
+            "text": "/r/Wellworn",
+            "url": "/r/Wellworn"
+          },
+          {
+            "text": "/r/leatherclassifieds",
+            "url": "/r/leatherclassifieds"
+          },
+          {
+            "text": "/r/BIFLDeals",
+            "url": "/r/BIFLDeals"
+          },
+          {
+            "text": "/r/ZeroWaste",
+            "url": "/r/ZeroWaste"
+          },
+          {
+            "text": "/r/upcycling",
+            "url": "/r/upcycling"
+          },
+          {
+            "text": "/r/Whatshouldibuy",
+            "url": "/r/Whatshouldibuy"
+          },
+          {
+            "text": "/r/restoration",
+            "url": "/r/restoration"
+          },
+          {
+            "text": "/r/vintage",
+            "url": "/r/vintage"
+          },
+          {
+            "text": "/r/ThriftStoreHauls",
+            "url": "/r/ThriftStoreHauls"
+          },
+          {
+            "text": "/r/productfails",
+            "url": "/r/productfails"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/BuyItForLife/moderators/"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "Looking for a couple items.",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n6fawc/looking_for_a_couple_items/",
+      "title": "Help me get the perfect present for my boyfriend (28M)!!",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n91fjx/help_me_get_the_perfect_present_for_my_boyfriend/",
       "score": 1,
-      "comments": 1,
-      "post_id": "t3_1n6fawc",
+      "comments": 0,
+      "post_id": "t3_1n91fjx",
       "post_type": "text",
       "domain": "self.BuyItForLife",
-      "author": "Druddigon666",
-      "author_id": "t2_2y8byxzz",
+      "author": "Exciting_Leather_448",
+      "author_id": "t2_9ml0ozim",
       "subreddit_id": "t5_2ss1q",
       "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-02T09:54:56.295000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n6fawc/looking_for_a_couple_items/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T10:20:22.050000+0000",
+      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n91fjx/help_me_get_the_perfect_present_for_my_boyfriend/",
+      "content_preview": "I hope this is the right subreddit for this, I’m trying to think of the perfect gift for my boyfriend, something that he will love and use for many years.I already thought about some handmade gifts I want to make but I also want to buy him something. He is a physician and loves history of science, but what he really, really enjoys is writing, his dream is to become a writer.The only things he mentioned wanting are an exlibris and some posters for his room. He has everything!I thought about designing him an exlibris but I’m scared he won’t like the design… and I also thought about engraving a fountain pen with a short sentence about how much I want him to pursue his dream (still haven’t thought about it though). He likes writing in fountain pens.I don’t know, what do you think about these ideas? Can you think about something better?thank you a lot!!",
       "flair": [
         "[Request]"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "Thank you and most likely farewell.",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n06ldj/thank_you_and_most_likely_farewell/",
-      "score": 29941,
-      "comments": 1079,
-      "post_id": "t3_1n06ldj",
-      "post_type": "text",
-      "domain": "self.BuyItForLife",
-      "author": "whiely",
-      "author_id": "t2_4nzjp",
+      "title": "Can I get an honourable mention for this warhorse of an Oral B toothbrush that has just finally bowed out after 27 years of daily use?",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n61r0k/can_i_get_an_honourable_mention_for_this_warhorse/",
+      "score": 10979,
+      "comments": 373,
+      "post_id": "t3_1n61r0k",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "flavourballs",
+      "author_id": "t2_32mmrgx7",
       "subreddit_id": "t5_2ss1q",
       "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-08-25T23:46:39.799000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n06ldj/thank_you_and_most_likely_farewell/",
+      "created_ts": "2025-09-01T21:45:53.725000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n61r0k",
       "content_preview": "",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     },
     {
-      "title": "Finally have central A/C so have to say goodbye to this LG portable cooler that’s been my savior for the last 13 summers",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n5ywoo/finally_have_central_ac_so_have_to_say_goodbye_to/",
-      "score": 271,
-      "comments": 18,
-      "post_id": "t3_1n5ywoo",
+      "title": "Safety can openers - the only can openers you need!",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n8v18y/safety_can_openers_the_only_can_openers_you_need/",
+      "score": 73,
+      "comments": 54,
+      "post_id": "t3_1n8v18y",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "actualsauces",
-      "author_id": "t2_6zuzn0bap",
+      "author": "sluttysaurus",
+      "author_id": "t2_m8nb89u0",
       "subreddit_id": "t5_2ss1q",
       "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-01T19:54:04.371000+0000",
-      "content_href": "https://i.redd.it/hrpbu2quylmf1.jpeg",
+      "created_ts": "2025-09-05T03:47:58.820000+0000",
+      "content_href": "https://i.redd.it/86chk905q9nf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Review"
+        "Currently sold"
       ],
-      "thumbnail_url": "https://preview.redd.it/finally-have-central-a-c-so-have-to-say-goodbye-to-this-lg-v0-hrpbu2quylmf1.jpeg?width=640&crop=smart&auto=webp&s=d86e940442624f6b4d43f12d0bf71b9b35368a9a"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
-      "title": "Goodbye my beloved Zojirushi. Thank you for 11 wonderful years.",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n66zqc/goodbye_my_beloved_zojirushi_thank_you_for_11/",
-      "score": 498,
-      "comments": 41,
-      "post_id": "t3_1n66zqc",
+      "title": "I finally found a real permanent marker",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1mxq7xd/i_finally_found_a_real_permanent_marker/",
+      "score": 16701,
+      "comments": 496,
+      "post_id": "t3_1mxq7xd",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "pdxnative2007",
-      "author_id": "t2_rarc2nv7",
+      "author": "Bigrat445",
+      "author_id": "t2_gmkxxfql",
       "subreddit_id": "t5_2ss1q",
       "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-02T01:46:12.173000+0000",
-      "content_href": "https://i.redd.it/zbwja3fopnmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Repair"
-      ],
-      "thumbnail_url": "https://preview.redd.it/goodbye-my-beloved-zojirushi-thank-you-for-11-wonderful-v0-zbwja3fopnmf1.jpeg?width=640&crop=smart&auto=webp&s=637c00145f29851567f547e28ca009edfe837c70"
-    },
-    {
-      "title": "Should Birkenstock soles look this bad after 1 year of occasional use?",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1ml4xqv/should_birkenstock_soles_look_this_bad_after_1/",
-      "score": 3973,
-      "comments": 826,
-      "post_id": "t3_1ml4xqv",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Boner_Implosion",
-      "author_id": "t2_6l9lnxet",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-08-08T19:41:18.380000+0000",
-      "content_href": "https://i.redd.it/soa9pryomuhf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "[Request] Answered!"
-      ],
-      "thumbnail_url": "https://preview.redd.it/should-birkenstock-soles-look-this-bad-after-1-year-of-v0-soa9pryomuhf1.jpeg?width=640&crop=smart&auto=webp&s=f32487500d41620f7dc17199b1cd0e1362cdbb57"
-    },
-    {
-      "title": "What is the best application you have purchased with a one-time payment?",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n5wvmt/what_is_the_best_application_you_have_purchased/",
-      "score": 337,
-      "comments": 227,
-      "post_id": "t3_1n5wvmt",
-      "post_type": "text",
-      "domain": "self.BuyItForLife",
-      "author": "kleck0",
-      "author_id": "t2_14yynp",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-01T18:37:37.497000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n5wvmt/what_is_the_best_application_you_have_purchased/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Bad news/good news: parent of friend died, none of the kids wanted the set of all-clad.",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n1lh8l/bad_newsgood_news_parent_of_friend_died_none_of/",
-      "score": 4215,
-      "comments": 115,
-      "post_id": "t3_1n1lh8l",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Vuelhering",
-      "author_id": "t2_f24t8",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-08-27T16:17:35.474000+0000",
-      "content_href": "https://i.redd.it/aq3967i87llf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://preview.redd.it/bad-news-good-news-parent-of-friend-died-none-of-the-kids-v0-aq3967i87llf1.jpeg?width=640&crop=smart&auto=webp&s=f924bbfd8ca1a6c7c28cf63f5fbba9b31631600e"
-    },
-    {
-      "title": "Workout clothes for fat people? I ruin leggings with my upper thighs.",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n6abuh/workout_clothes_for_fat_people_i_ruin_leggings/",
-      "score": 21,
-      "comments": 17,
-      "post_id": "t3_1n6abuh",
-      "post_type": "text",
-      "domain": "self.BuyItForLife",
-      "author": "Lopsided-Piglet8378",
-      "author_id": "t2_sjd3xczp",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-02T04:37:47.932000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n6abuh/workout_clothes_for_fat_people_i_ruin_leggings/",
-      "content_preview": "",
-      "flair": [
-        "[Request]"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_9idwf4/styles/profileIcon_nic2ypptvv8f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2665f196f776972dd31d61c02ad93b356d602e8c"
-    },
-    {
-      "title": "Water bottle recommendations?",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n6eqtp/water_bottle_recommendations/",
-      "score": 6,
-      "comments": 15,
-      "post_id": "t3_1n6eqtp",
-      "post_type": "text",
-      "domain": "self.BuyItForLife",
-      "author": "seshprinny",
-      "author_id": "t2_5mew1li8",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-02T09:18:37.780000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n6eqtp/water_bottle_recommendations/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "YSK: old Reddit threads, many from this sub, are being brigaded by ad bots to skew Google and Al search results",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1mh1u9i/ysk_old_reddit_threads_many_from_this_sub_are/",
-      "score": 3544,
-      "comments": 174,
-      "post_id": "t3_1mh1u9i",
-      "post_type": "text",
-      "domain": "self.BuyItForLife",
-      "author": "Bamboozleprime",
-      "author_id": "t2_5w05nnog",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-08-04T02:36:17.823000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1mh1u9i/ysk_old_reddit_threads_many_from_this_sub_are/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Corona 41 pruning saw. Made in Corona, CA",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n6531b/corona_41_pruning_saw_made_in_corona_ca/",
-      "score": 39,
-      "comments": 5,
-      "post_id": "t3_1n6531b",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Squiggly_Panda",
-      "author_id": "t2_16p5ge4f9p",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-02T00:14:35.670000+0000",
-      "content_href": "https://i.redd.it/uri378xb9nmf1.jpeg",
+      "created_ts": "2025-08-23T02:55:18.266000+0000",
+      "content_href": "https://i.redd.it/jakrra4wookf1.jpeg",
       "content_preview": "",
       "flair": [
         "Vintage"
       ],
-      "thumbnail_url": "https://preview.redd.it/corona-41-pruning-saw-made-in-corona-ca-v0-uri378xb9nmf1.jpeg?width=640&crop=smart&auto=webp&s=7c5edc7d8399fad06c38cc2534ae960fa8715c4f"
+      "thumbnail_url": "https://preview.redd.it/i-finally-found-a-real-permanent-marker-v0-jakrra4wookf1.jpeg?width=640&crop=smart&auto=webp&s=b223708a9bcf1afdd2c43289432c21ba6918c9d9",
+      "is_promoted": false
+    },
+    {
+      "title": "Brands That Used to Be BIFL — But Aren't Anymore?",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n84v1o/brands_that_used_to_be_bifl_but_arent_anymore/",
+      "score": 1496,
+      "comments": 1331,
+      "post_id": "t3_1n84v1o",
+      "post_type": "text",
+      "domain": "self.BuyItForLife",
+      "author": "SnooHamsters7373",
+      "author_id": "t2_7h7lgfec",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-09-04T08:49:13.547000+0000",
+      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n84v1o/brands_that_used_to_be_bifl_but_arent_anymore/",
+      "content_preview": "There are some brands that used to be rock solid in terms of quality. The kind you'd buy once and never worry about again. But over time, a lot of those companies have shifted focus, cut corners, or outsourced production, and now their stuff just doesn’t hold up like it used to.Here are a few that come to mind — feel free to add on:TimberlandFjällrävenLevi’sBlack & DeckerGE",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "The bear necessities: Scratchers. r/California",
+      "permalink": "https://www.reddit.com/user/calottery/comments/1mifqah/the_bear_necessities_scratchers_rcalifornia/",
+      "score": 10,
+      "comments": 0,
+      "post_id": "t3_1mifqah",
+      "post_type": "video",
+      "domain": "calottery.com",
+      "author": "calottery",
+      "author_id": "t2_jp0c7vdg",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-05T17:36:26.459000+0000",
+      "content_href": "https://v.redd.it/hrev0xl547hf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5upon4/styles/profileIcon_lobvzkoas4ee1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=71463beb0391c1d601cb4b14ceb03d64a0ca879c",
+      "is_promoted": true
     },
     {
       "title": "Buy it for life… or death",
       "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n2yd0k/buy_it_for_life_or_death/",
-      "score": 4087,
-      "comments": 144,
+      "score": 4154,
+      "comments": 149,
       "post_id": "t3_1n2yd0k",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -243,33 +394,346 @@
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
-      "title": "Wool clothes you stand by",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n60a89/wool_clothes_you_stand_by/",
-      "score": 36,
-      "comments": 48,
-      "post_id": "t3_1n60a89",
+      "title": "Do multi-use toddler products actually save money?",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n8s0ni/do_multiuse_toddler_products_actually_save_money/",
+      "score": 42,
+      "comments": 13,
+      "post_id": "t3_1n8s0ni",
       "post_type": "text",
       "domain": "self.BuyItForLife",
-      "author": "EJcrusader",
-      "author_id": "t2_4qyz8nr9",
+      "author": "SignificantTwo1729",
+      "author_id": "t2_1ryyirjie1",
       "subreddit_id": "t5_2ss1q",
       "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-01T20:47:39.281000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n60a89/wool_clothes_you_stand_by/",
+      "created_ts": "2025-09-05T01:19:30.526000+0000",
+      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n8s0ni/do_multiuse_toddler_products_actually_save_money/",
+      "content_preview": "I’ve been looking at a few 5 in 1 style toddler trikes like the besrey Toddler Tricycle that claim to replace multiple items stroller, walker, balance bike, etc. On paper, it sounds like a frugal choice since it’s one purchase for many stages. But I’ve also heard that sometimes combo products don’t really do each function well, or they break down faster than single-purpose items. For parents who’ve tried similar things, did buying multi use toddler gear actually save you money and space in the long run, or did you end up replacing it anyway?",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Does this type of power bank exist?",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n8yehz/does_this_type_of_power_bank_exist/",
+      "score": 0,
+      "comments": 5,
+      "post_id": "t3_1n8yehz",
+      "post_type": "text",
+      "domain": "self.BuyItForLife",
+      "author": "Own-Emphasis4587",
+      "author_id": "t2_13pcppvlm5",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-09-05T07:04:28.139000+0000",
+      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n8yehz/does_this_type_of_power_bank_exist/",
+      "content_preview": "I'm looking for a power bank that can be recharged plugging it straight in the socket.No USB input but a normal AC power plugs. so I can use it both as a charger and a powerbank.Does it exist?",
+      "flair": [
+        "[Request]"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Bad news/good news: parent of friend died, none of the kids wanted the set of all-clad.",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n1lh8l/bad_newsgood_news_parent_of_friend_died_none_of/",
+      "score": 4256,
+      "comments": 123,
+      "post_id": "t3_1n1lh8l",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Vuelhering",
+      "author_id": "t2_f24t8",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-08-27T16:17:35.474000+0000",
+      "content_href": "https://i.redd.it/aq3967i87llf1.jpeg",
       "content_preview": "",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://preview.redd.it/bad-news-good-news-parent-of-friend-died-none-of-the-kids-v0-aq3967i87llf1.jpeg?width=640&crop=smart&auto=webp&s=f924bbfd8ca1a6c7c28cf63f5fbba9b31631600e",
+      "is_promoted": false
+    },
+    {
+      "title": "Is this vintage Oster blender built for life?",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n8dufk/is_this_vintage_oster_blender_built_for_life/",
+      "score": 98,
+      "comments": 18,
+      "post_id": "t3_1n8dufk",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Luqueasaur",
+      "author_id": "t2_ndpkg",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-09-04T15:48:10.546000+0000",
+      "content_href": "https://i.redd.it/656r50dh56nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Vintage"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Where are the shirts that last this long???",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n49877/where_are_the_shirts_that_last_this_long/",
+      "score": 2903,
+      "comments": 428,
+      "post_id": "t3_1n49877",
+      "post_type": "crosspost",
+      "domain": "i.redd.it",
+      "author": "Familiar-Fig274",
+      "author_id": "t2_7u26pziy",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-08-30T18:43:57.957000+0000",
+      "content_href": "/r/meirl/comments/1n44ytq/meirl/",
+      "content_preview": "51Kupvotes·2.2Kcomments",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/9i432fd9h6mf1.jpeg?width=640&crop=smart&auto=webp&s=33cfb9907f5661c177628dcf30dfad907b5f6533",
+      "is_promoted": false
+    },
+    {
+      "title": "Cast iron pans really do last forever",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n85d4r/cast_iron_pans_really_do_last_forever/",
+      "score": 295,
+      "comments": 42,
+      "post_id": "t3_1n85d4r",
+      "post_type": "text",
+      "domain": "self.BuyItForLife",
+      "author": "InternQueasy1419",
+      "author_id": "t2_1uytyqka9d",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-09-04T09:20:58.181000+0000",
+      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n85d4r/cast_iron_pans_really_do_last_forever/",
+      "content_preview": "My parents gave me an old cast iron skillet when I first moved out. At the time I thought it was just a beat up old pan, but years later it’s easily the most reliable thing in my kitchen. Doesn’t matter what I cook it heats evenly, cleans up fine, and feels indestructible.I was making dinner last night, took a break on myprize, and realized this thing has probably outlived half the appliances I’ve owned. Honestly, I wouldn’t be surprised if I end up passing it down someday.What’s the one “Buy It For Life” item you’d never replace?",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "TL;DR - This is the superior engine protection you need. Castrol: Better Oil.",
+      "permalink": "https://www.reddit.com/user/Castrol-Official/comments/1jztdfg/tldr_this_is_the_superior_engine_protection_you/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1jztdfg",
+      "post_type": "image",
+      "domain": "castrol.com",
+      "author": "Castrol-Official",
+      "author_id": "t2_van9z4y00",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-04-15T14:32:22.415000+0000",
+      "content_href": "https://www.castrol.com/en_us/united-states/home/products/our-brands/automotive/castrol-gtx-oils/castrol-gtx-full-synthetic.html?utm_source=Reddit&utm_medium=Social&utm_campaign=Castrol|Castrol Cross Channel|Cross Brand|2025|Q3|US|ENG|B2C|Social|Reddit|PR|AWR|RE|CPM|Prospecting|Static|All|Reach|P33M8SD_CAS_GEN_312_Social_REDDIT.COM_Reddit Awareness_Run of Site_Prospecting_P18+_Click and View_Other_NA&utm_content=Castrol|US|ENG|B2C|Reddit|Multiple|Prospecting|Combination|Reach|Reddit_Awareness&utm_term=Castrol_Castrol Cross Channel_GTX_2025_US_ENG_GTX FS Bench_Static_1x1_SLICKO MODE",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_awvprc/styles/profileIcon_5pc55zxoeotc1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=3da26a1540dfc39e59fe3ffe49675f55d495fe03",
+      "is_promoted": true
+    },
+    {
+      "title": "Help me find my wife's favorite pillow!",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n3p20a/help_me_find_my_wifes_favorite_pillow/",
+      "score": 2551,
+      "comments": 452,
+      "post_id": "t3_1n3p20a",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Beeboonline",
+      "author_id": "t2_49f1irok",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-08-30T01:26:04.657000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n3p20a",
+      "content_preview": "",
+      "flair": [
+        "[Request]"
+      ],
+      "thumbnail_url": "https://preview.redd.it/help-me-find-my-wifes-favorite-pillow-v0-2dhjuikc72mf1.jpg?width=640&crop=smart&auto=webp&s=e7a3477fda3068397360241792a1ed4dda226811",
+      "is_promoted": false
+    },
+    {
+      "title": "What are the best E-Bike brands and models under 2000$",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n8n5ja/what_are_the_best_ebike_brands_and_models_under/",
+      "score": 28,
+      "comments": 19,
+      "post_id": "t3_1n8n5ja",
+      "post_type": "text",
+      "domain": "self.BuyItForLife",
+      "author": "schneidebs30",
+      "author_id": "t2_9filict0",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-09-04T21:43:52.912000+0000",
+      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n8n5ja/what_are_the_best_ebike_brands_and_models_under/",
+      "content_preview": "Hey guys! I'm looking to buy my first e-bike and need some recommendations. My budget is around 1000$-2000$ and I want to ditch my car/rideshare dependency for my daily work commute. What brands and specific models have worked well for you? Looking for something reliable and worth the investment.",
+      "flair": [
+        "[Request]"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Should Birkenstock soles look this bad after 1 year of occasional use?",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1ml4xqv/should_birkenstock_soles_look_this_bad_after_1/",
+      "score": 3975,
+      "comments": 828,
+      "post_id": "t3_1ml4xqv",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Boner_Implosion",
+      "author_id": "t2_6l9lnxet",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-08-08T19:41:18.380000+0000",
+      "content_href": "https://i.redd.it/soa9pryomuhf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "[Request] Answered!"
+      ],
+      "thumbnail_url": "https://preview.redd.it/should-birkenstock-soles-look-this-bad-after-1-year-of-v0-soa9pryomuhf1.jpeg?width=640&crop=smart&auto=webp&s=f32487500d41620f7dc17199b1cd0e1362cdbb57",
+      "is_promoted": false
+    },
+    {
+      "title": "Manual Citrus Juicer recommendation",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n89svl/manual_citrus_juicer_recommendation/",
+      "score": 98,
+      "comments": 86,
+      "post_id": "t3_1n89svl",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "litegreen666",
+      "author_id": "t2_4v4kr2o",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-09-04T13:14:25.806000+0000",
+      "content_href": "https://i.redd.it/oedzszz9e5nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "[Request]"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Left Handed DeathAdder from 2010",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n8l7oa/left_handed_deathadder_from_2010/",
+      "score": 20,
+      "comments": 9,
+      "post_id": "t3_1n8l7oa",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Econguy89",
+      "author_id": "t2_ir4az",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-09-04T20:27:18.588000+0000",
+      "content_href": "https://i.redd.it/mp4c0yoij7nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Review"
+      ],
+      "thumbnail_url": "https://preview.redd.it/left-handed-deathadder-from-2010-v0-mp4c0yoij7nf1.jpeg?width=640&crop=smart&auto=webp&s=b9a7af45a686dfba223bb0954354b6684ef3d1dc",
+      "is_promoted": false
+    },
+    {
+      "title": "What frying pans are we buying? Tired of nonstick pans that only last 6 months.",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n8l8k2/what_frying_pans_are_we_buying_tired_of_nonstick/",
+      "score": 19,
+      "comments": 238,
+      "post_id": "t3_1n8l8k2",
+      "post_type": "text",
+      "domain": "self.BuyItForLife",
+      "author": "she_can_craft",
+      "author_id": "t2_52fyevh0",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-09-04T20:28:13.223000+0000",
+      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n8l8k2/what_frying_pans_are_we_buying_tired_of_nonstick/",
+      "content_preview": "Any good, long lasting cooking pans? I like the idea of cast iron, but ideally looking for something that doesn’t require a ton of maintenance every time it’s used.",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "What purchase made you smile more often, maybe without meaning to?",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n8xbik/what_purchase_made_you_smile_more_often_maybe/",
+      "score": 7,
+      "comments": 34,
+      "post_id": "t3_1n8xbik",
+      "post_type": "text",
+      "domain": "self.BuyItForLife",
+      "author": "Ginpez",
+      "author_id": "t2_3xan2vbm",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-09-05T05:57:20.196000+0000",
+      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n8xbik/what_purchase_made_you_smile_more_often_maybe/",
+      "content_preview": "Me and my current partner both go through some winter depression, if possible, I’d like to find some things to make life easier or just overall make him smile. It can be as random as you want, as long as it made you smile more in the long run.",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "The perfect balance of form, craftsmanship, and function.",
+      "permalink": "https://www.reddit.com/user/thuma/comments/1n0s4j9/the_perfect_balance_of_form_craftsmanship_and/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n0s4j9",
+      "post_type": "video",
+      "domain": "thuma.co",
+      "author": "thuma",
+      "author_id": "t2_9na8xo4yo",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-26T17:26:31.750000+0000",
+      "content_href": "https://v.redd.it/mls31cxixclf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_89ebtr/styles/profileIcon_ibzpxnzfioya1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=608f139e34f18eb39992bb146d44271e3756d276",
+      "is_promoted": true
+    },
+    {
+      "title": "Long-lasting shirt and pants for wood cutting work",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n88ycw/longlasting_shirt_and_pants_for_wood_cutting_work/",
+      "score": 18,
+      "comments": 23,
+      "post_id": "t3_1n88ycw",
+      "post_type": "text",
+      "domain": "self.BuyItForLife",
+      "author": "TwoFunTravelers",
+      "author_id": "t2_1hrx5togyf",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-09-04T12:37:07.445000+0000",
+      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n88ycw/longlasting_shirt_and_pants_for_wood_cutting_work/",
+      "content_preview": "I realize that outdoor work clothing won’t last forever but am hoping to identify brands that aren’t crap. My old school Carhartt pants and work shirt no longer fit properly (they must have shrunk while in the drawer) and I need durable clothing for chainsaw and wood splitting work. Given that my local Tractor Supply has dedicated about 20% of its floor space to Carhartt gear and I see young adults in urban areas wearing the brand, I get the feeling that it’s not like it used to be.Which brands are still up to the task?",
+      "flair": [
+        "[Request]"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
     },
     {
       "title": "Mom bought it for me in the 90's. Still take it on trips",
       "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1mz5eft/mom_bought_it_for_me_in_the_90s_still_take_it_on/",
-      "score": 3763,
-      "comments": 52,
+      "score": 3791,
+      "comments": 53,
       "post_id": "t3_1mz5eft",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -283,32 +747,34 @@
       "flair": [
         "Vintage"
       ],
-      "thumbnail_url": "https://preview.redd.it/mom-bought-it-for-me-in-the-90s-still-take-it-on-trips-v0-9lf4q7lxt0lf1.jpeg?width=640&crop=smart&auto=webp&s=0e023967fbdba11776850a7a5fe9e96fc165f6c0"
+      "thumbnail_url": "https://preview.redd.it/mom-bought-it-for-me-in-the-90s-still-take-it-on-trips-v0-9lf4q7lxt0lf1.jpeg?width=640&crop=smart&auto=webp&s=0e023967fbdba11776850a7a5fe9e96fc165f6c0",
+      "is_promoted": false
     },
     {
-      "title": "Since all modern refrigerators suck, what features would a BIFL fridge have?",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n66fmn/since_all_modern_refrigerators_suck_what_features/",
-      "score": 14,
-      "comments": 97,
-      "post_id": "t3_1n66fmn",
-      "post_type": "text",
-      "domain": "self.BuyItForLife",
-      "author": "Tiny-Fisherman4747",
-      "author_id": "t2_1t4zzv524u",
+      "title": "T-fal Nonstick Pan – worth it, or guaranteed landfill in 2 years? 🍳",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n8wgf8/tfal_nonstick_pan_worth_it_or_guaranteed_landfill/",
+      "score": 0,
+      "comments": 23,
+      "post_id": "t3_1n8wgf8",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "SACtrades",
+      "author_id": "t2_9ciyl84i",
       "subreddit_id": "t5_2ss1q",
       "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-02T01:19:13.783000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n66fmn/since_all_modern_refrigerators_suck_what_features/",
+      "created_ts": "2025-09-05T05:05:45.853000+0000",
+      "content_href": "https://i.redd.it/eqw2vnbt3anf1.png",
       "content_preview": "",
       "flair": [
-        "[Request]"
+        "Review"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_evt92t/styles/profileIcon_e2a2650xaslf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4d3d63bf31105275f19c5dff36a3f0467f3967fa"
+      "thumbnail_url": "https://preview.redd.it/t-fal-nonstick-pan-worth-it-or-guaranteed-landfill-in-2-v0-eqw2vnbt3anf1.png?width=640&crop=smart&auto=webp&s=2057cef57828cd5383d5ad0320dad82c1f0e385a",
+      "is_promoted": false
     },
     {
       "title": "Apparently Philips is, my dads tube tv, uses daily.",
       "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1mrafvn/apparently_philips_is_my_dads_tube_tv_uses_daily/",
-      "score": 3477,
+      "score": 3486,
       "comments": 224,
       "post_id": "t3_1mrafvn",
       "post_type": "image",
@@ -323,52 +789,34 @@
       "flair": [
         "Vintage"
       ],
-      "thumbnail_url": "https://preview.redd.it/apparently-philips-is-my-dads-tube-tv-uses-daily-v0-pj2cppqn09jf1.jpeg?width=640&crop=smart&auto=webp&s=629920a2605fdb71403e462c9195c9e81277c9c9"
+      "thumbnail_url": "https://preview.redd.it/apparently-philips-is-my-dads-tube-tv-uses-daily-v0-pj2cppqn09jf1.jpeg?width=640&crop=smart&auto=webp&s=629920a2605fdb71403e462c9195c9e81277c9c9",
+      "is_promoted": false
     },
     {
-      "title": "Best Dehumidifier for Basement Moisture Problems",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n5x25b/best_dehumidifier_for_basement_moisture_problems/",
-      "score": 40,
-      "comments": 14,
-      "post_id": "t3_1n5x25b",
+      "title": "[Request] Custom Closet System that I can take with me between homes? (BIFL - not leave behind)",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n8suxc/request_custom_closet_system_that_i_can_take_with/",
+      "score": 0,
+      "comments": 8,
+      "post_id": "t3_1n8suxc",
       "post_type": "text",
       "domain": "self.BuyItForLife",
-      "author": "teonal_10",
-      "author_id": "t2_6zsva",
+      "author": "Fiveby21",
+      "author_id": "t2_orlvxoa",
       "subreddit_id": "t5_2ss1q",
       "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-01T18:44:21.008000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n5x25b/best_dehumidifier_for_basement_moisture_problems/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T01:59:37.895000+0000",
+      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n8suxc/request_custom_closet_system_that_i_can_take_with/",
+      "content_preview": "I'd like to invest in a custom closet system... however, I rent currently so any permanent upgrades I were to do... well, I would lose them when I moved. I'd like to put in a custom closet system (my landlord stated they'd allow it), but it needs to be something that I can actually buy for life; something I can take with me wherever I moved next.Someone recommended the Container Store Elfa system... but I'm concerned that it might feel a little flimsy. I'm wondering about other options - high-quality stuff that can be dismounted and remounted at a new location without a tremendous amount of effort.Any recommendations? Budget is flexible but I guess if I had to put a number on it - $10,000.",
       "flair": [
         "[Request]"
       ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Thought I Found a worthy bifl slow cooker. Now I have to test it for lead 🤣🙃",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n597m4/thought_i_found_a_worthy_bifl_slow_cooker_now_i/",
-      "score": 962,
-      "comments": 141,
-      "post_id": "t3_1n597m4",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Raynestorm00",
-      "author_id": "t2_66yesm1f",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-08-31T23:22:40.701000+0000",
-      "content_href": "https://i.redd.it/5ybj0fq5vfmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_2kil1j/styles/profileIcon_mavmgdisos051.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ee3565438ccf50768844c95c4043066f7709c58f"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "Farewell, brave soldier",
       "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n0xoyb/farewell_brave_soldier/",
-      "score": 3422,
+      "score": 3440,
       "comments": 253,
       "post_id": "t3_1n0xoyb",
       "post_type": "image",
@@ -383,312 +831,95 @@
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://preview.redd.it/farewell-brave-soldier-v0-jbfpfvdsgflf1.jpeg?width=640&crop=smart&auto=webp&s=67869cec7ee52071df08489fdfacece8340b23c4"
+      "thumbnail_url": "https://preview.redd.it/farewell-brave-soldier-v0-jbfpfvdsgflf1.jpeg?width=640&crop=smart&auto=webp&s=67869cec7ee52071df08489fdfacece8340b23c4",
+      "is_promoted": false
     },
     {
-      "title": "What laptop should I buy in 2025",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n6dehn/what_laptop_should_i_buy_in_2025/",
-      "score": 6,
-      "comments": 22,
-      "post_id": "t3_1n6dehn",
-      "post_type": "text",
-      "domain": "self.BuyItForLife",
-      "author": "Automatic_Fuel1869",
-      "author_id": "t2_vm8a3tbv5",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-02T07:49:30.583000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n6dehn/what_laptop_should_i_buy_in_2025/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "My EDC - Built to Last",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n6c3b7/my_edc_built_to_last/",
-      "score": 9,
-      "comments": 6,
-      "post_id": "t3_1n6c3b7",
+      "title": "Laundry bra pods made of natural fibers (rayon, lyocell, cotton, linen, etc)?",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n8qjbd/laundry_bra_pods_made_of_natural_fibers_rayon/",
+      "score": 0,
+      "comments": 9,
+      "post_id": "t3_1n8qjbd",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "ironlegss",
-      "author_id": "t2_1dbe6wao7c",
+      "author": "Lvl100Magikarp",
+      "author_id": "t2_645u3",
       "subreddit_id": "t5_2ss1q",
       "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-02T06:23:34.123000+0000",
-      "content_href": "https://i.redd.it/39x89td53pmf1.jpeg",
+      "created_ts": "2025-09-05T00:09:49.643000+0000",
+      "content_href": "https://i.redd.it/h3ojgcv7n8nf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Discussion"
+        "[Request]"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_cxu0jq/styles/profileIcon_4omdkealfcbf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=925128940138a22c6bc1677dcbb85037249b4263"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     },
     {
-      "title": "Help me find my wife's favorite pillow!",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n3p20a/help_me_find_my_wifes_favorite_pillow/",
-      "score": 2524,
-      "comments": 449,
-      "post_id": "t3_1n3p20a",
+      "title": "Poise is 25x drier than the leading period pad.",
+      "permalink": "https://www.reddit.com/user/PoiseBrand/comments/1mf71m1/poise_is_25x_drier_than_the_leading_period_pad/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mf71m1",
       "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Beeboonline",
-      "author_id": "t2_49f1irok",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-08-30T01:26:04.657000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n3p20a",
+      "domain": "walmart.com",
+      "author": "PoiseBrand",
+      "author_id": "t2_1iku325oek",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-01T20:16:36.820000+0000",
+      "content_href": "https://www.walmart.com/ip/Poise-Incontinence-Pads-for-Women-4-Drop-Moderate-Absorbency-Long-Length-84-Count/20682690?classType=REGULAR&from=/search",
       "content_preview": "",
-      "flair": [
-        "[Request]"
-      ],
-      "thumbnail_url": "https://preview.redd.it/help-me-find-my-wifes-favorite-pillow-v0-2dhjuikc72mf1.jpg?width=640&crop=smart&auto=webp&s=e7a3477fda3068397360241792a1ed4dda226811"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dii3r8/styles/profileIcon_edbsypa2bzue1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=b94e961f12183fd00267f018d200920c92686344",
+      "is_promoted": true
     },
     {
-      "title": "Best Portable Air Conditioner with Heating,  Any Recommendations?",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n5v9cg/best_portable_air_conditioner_with_heating_any/",
-      "score": 22,
-      "comments": 2,
-      "post_id": "t3_1n5v9cg",
-      "post_type": "text",
-      "domain": "self.BuyItForLife",
-      "author": "Batou_-",
-      "author_id": "t2_6g99lopt",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-01T17:38:05.918000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n5v9cg/best_portable_air_conditioner_with_heating_any/",
-      "content_preview": "",
-      "flair": [
-        "[Request] Answered!"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Where are the shirts that last this long???",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n49877/where_are_the_shirts_that_last_this_long/",
-      "score": 2832,
-      "comments": 421,
-      "post_id": "t3_1n49877",
-      "post_type": "crosspost",
-      "domain": "i.redd.it",
-      "author": "Familiar-Fig274",
-      "author_id": "t2_7u26pziy",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-08-30T18:43:57.957000+0000",
-      "content_href": "/r/meirl/comments/1n44ytq/meirl/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://preview.redd.it/9i432fd9h6mf1.jpeg?width=640&crop=smart&auto=webp&s=33cfb9907f5661c177628dcf30dfad907b5f6533"
-    },
-    {
-      "title": "What work wear jackets, canvas jackets, denim jackets actually last you for life?",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n60zrv/what_work_wear_jackets_canvas_jackets_denim/",
-      "score": 9,
-      "comments": 18,
-      "post_id": "t3_1n60zrv",
-      "post_type": "text",
-      "domain": "self.BuyItForLife",
-      "author": "Low-Aerie9034",
-      "author_id": "t2_1f68hodvtx",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-01T21:15:12.123000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n60zrv/what_work_wear_jackets_canvas_jackets_denim/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Just rescued some old Corningware from my grandmother’s house. Never opened or used. Are these good and/or valuable?",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n004fm/just_rescued_some_old_corningware_from_my/",
-      "score": 1462,
-      "comments": 169,
-      "post_id": "t3_1n004fm",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "AdaM_Mandel",
-      "author_id": "t2_k2bt468fi",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-08-25T19:28:47.266000+0000",
-      "content_href": "https://i.redd.it/ncqsu3ntv7lf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Vintage"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "Budget MP3 player with good bluetooth connectivity",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n6akte/budget_mp3_player_with_good_bluetooth_connectivity/",
-      "score": 2,
-      "comments": 1,
-      "post_id": "t3_1n6akte",
-      "post_type": "text",
-      "domain": "self.BuyItForLife",
-      "author": "deereedeereed",
-      "author_id": "t2_9lu9ca2k",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-02T04:52:11.083000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n6akte/budget_mp3_player_with_good_bluetooth_connectivity/",
-      "content_preview": "",
-      "flair": [
-        "[Request]"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "Found an unopened set of Duralex glassware for 4 dollars at a thrift store.",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n1zovn/found_an_unopened_set_of_duralex_glassware_for_4/",
-      "score": 1187,
-      "comments": 91,
-      "post_id": "t3_1n1zovn",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "OooDonuts9994",
-      "author_id": "t2_9ab3sw6h",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-08-28T01:49:21.019000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n1zovn",
-      "content_preview": "",
-      "flair": [
-        "Vintage"
-      ],
-      "thumbnail_url": "https://preview.redd.it/found-an-unopened-set-of-duralex-glassware-for-4-dollars-at-v0-r22dt82o1olf1.jpg?width=640&crop=smart&auto=webp&s=70187a547129e3c749a0ed32e371dc517d5c7341"
-    },
-    {
-      "title": "My stereo system turns 30 this year. Still works and sound great.",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n0rlwg/my_stereo_system_turns_30_this_year_still_works/",
-      "score": 946,
-      "comments": 44,
-      "post_id": "t3_1n0rlwg",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "DirtPsychological455",
-      "author_id": "t2_kwo9ag2td",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-08-26T17:07:54.933000+0000",
-      "content_href": "https://i.redd.it/jtpfy82fbelf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Vintage"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "Best sleeping pillow for people with long necks and bad posture?",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n67pk1/best_sleeping_pillow_for_people_with_long_necks/",
-      "score": 3,
-      "comments": 24,
-      "post_id": "t3_1n67pk1",
-      "post_type": "text",
-      "domain": "self.BuyItForLife",
-      "author": "paintnpolitics",
-      "author_id": "t2_6d16t4e5",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-02T02:21:03.996000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n67pk1/best_sleeping_pillow_for_people_with_long_necks/",
-      "content_preview": "",
-      "flair": [
-        "[Request]"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Android phones that can last a long time?",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n5uthn/android_phones_that_can_last_a_long_time/",
-      "score": 15,
-      "comments": 155,
-      "post_id": "t3_1n5uthn",
+      "title": "Best Side sleeper pillow? I've wrecked mine with my arm",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n86kl6/best_side_sleeper_pillow_ive_wrecked_mine_with_my/",
+      "score": 18,
+      "comments": 27,
+      "post_id": "t3_1n86kl6",
       "post_type": "multi_media",
       "domain": "self.BuyItForLife",
-      "author": "yourmomdotbiz",
-      "author_id": "t2_4i0s5fm0",
+      "author": "Key_Yesterday4284",
+      "author_id": "t2_1qpxid76d7",
       "subreddit_id": "t5_2ss1q",
       "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-01T17:22:21.753000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n5uthn/android_phones_that_can_last_a_long_time/",
-      "content_preview": "",
+      "created_ts": "2025-09-04T10:34:14.025000+0000",
+      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n86kl6/best_side_sleeper_pillow_ive_wrecked_mine_with_my/",
+      "content_preview": "I sleep on my side and always end up jamming an arm under my pillow. Within a few months every pillow I buy turns flat, lumpy, or just uncomfortable. I wake up with a sore neck more often than notEDIT: Gotthis beautyon a same day delivery and it was amazing lastnight, had to jump back on here to share, well worth the money!ive seen those funky shaped ones, that allow for this arm placement and im after a recommendation from someone who does the same thing as me, thanks",
       "flair": [
-        "[Request]"
+        "Discussion"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "A good mattress, do they exist anymore?",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n5emmi/a_good_mattress_do_they_exist_anymore/",
-      "score": 110,
-      "comments": 246,
-      "post_id": "t3_1n5emmi",
-      "post_type": "text",
-      "domain": "self.BuyItForLife",
-      "author": "AutoXmachine",
-      "author_id": "t2_2mbo9zq0",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-01T03:56:23.177000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n5emmi/a_good_mattress_do_they_exist_anymore/",
-      "content_preview": "",
-      "flair": [
-        "[Request]"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "[Request] Threadmill?",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n675pl/request_threadmill/",
+      "title": "Thinking of going all in on Stance socks. Good choice?",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n8ox0u/thinking_of_going_all_in_on_stance_socks_good/",
       "score": 0,
-      "comments": 2,
-      "post_id": "t3_1n675pl",
+      "comments": 9,
+      "post_id": "t3_1n8ox0u",
       "post_type": "text",
       "domain": "self.BuyItForLife",
-      "author": "Your_real_daddy1",
-      "author_id": "t2_9sx56194",
+      "author": "bruyeremews",
+      "author_id": "t2_1jtdu9tw",
       "subreddit_id": "t5_2ss1q",
       "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-02T01:54:11.005000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n675pl/request_threadmill/",
-      "content_preview": "",
+      "created_ts": "2025-09-04T22:58:18.505000+0000",
+      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n8ox0u/thinking_of_going_all_in_on_stance_socks_good/",
+      "content_preview": "I have a few pair and love them. They are growing on me. However, they are not cheap which is preventing me from going all in. 12-15 pair. Worth it? BIFL? Should I look at other options?",
       "flair": [
         "[Request]"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Ortlieb Bike Bags are sturdy as heck",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n5hak4/ortlieb_bike_bags_are_sturdy_as_heck/",
-      "score": 62,
-      "comments": 9,
-      "post_id": "t3_1n5hak4",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Bruchpilot_Sim",
-      "author_id": "t2_n0tdc13",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-01T06:27:01.050000+0000",
-      "content_href": "https://i.redd.it/m0v3ix2vyhmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Currently sold"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_4giri/styles/profileIcon_86cm2co2fane1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=00d37640c8fd1fcc5b08d62c7cf6c5be0692f851"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
       "title": "My 1948 Westinghouse refrigerator still runs like new 77 years later.",
       "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1mxnrzf/my_1948_westinghouse_refrigerator_still_runs_like/",
-      "score": 3260,
+      "score": 3272,
       "comments": 129,
       "post_id": "t3_1mxnrzf",
       "post_type": "gallery",
@@ -703,73 +934,96 @@
       "flair": [
         "Vintage"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
-      "title": "I’ve had this over half my life (24 years) but I wish teenage me had better taste",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1mg76n8/ive_had_this_over_half_my_life_24_years_but_i/",
-      "score": 3031,
-      "comments": 99,
-      "post_id": "t3_1mg76n8",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "sudosussudio",
-      "author_id": "t2_hvp4g",
+      "title": "Sorry if wrong sub, needing waterproof blanket/cover (?) for outdoor furniture",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n8d7vd/sorry_if_wrong_sub_needing_waterproof/",
+      "score": 3,
+      "comments": 4,
+      "post_id": "t3_1n8d7vd",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "wilson1helpme",
+      "author_id": "t2_2a1z5gix",
       "subreddit_id": "t5_2ss1q",
       "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-08-03T01:45:48.369000+0000",
-      "content_href": "https://i.redd.it/seir4049mpgf1.jpeg",
+      "created_ts": "2025-09-04T15:24:45.656000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8d7vd",
+      "content_preview": "",
+      "flair": [
+        "[Request]"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Buy one vintage watch, whatever brand - keep it for life!",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n7uxec/buy_one_vintage_watch_whatever_brand_keep_it_for/",
+      "score": 48,
+      "comments": 107,
+      "post_id": "t3_1n7uxec",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "aDayKnight",
+      "author_id": "t2_fyj09ryi",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-09-03T23:49:33.366000+0000",
+      "content_href": "https://i.redd.it/ct1kdvsme1nf1.jpeg",
       "content_preview": "",
       "flair": [
         "Vintage"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_3l58f/styles/profileIcon_v0gxq2v7cyye1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4005cd986a82369ad7d39ca798b2533fefe0cdc1"
+      "thumbnail_url": "https://preview.redd.it/buy-one-vintage-watch-whatever-brand-keep-it-for-life-v0-ct1kdvsme1nf1.jpeg?width=640&crop=smart&auto=webp&s=1381d376b2b8615efb57b920acc0febde43b439d",
+      "is_promoted": false
     },
     {
-      "title": "Lighter Alternative to Cravar Messenger Bag?",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n6722s/lighter_alternative_to_cravar_messenger_bag/",
-      "score": 2,
-      "comments": 2,
-      "post_id": "t3_1n6722s",
-      "post_type": "text",
-      "domain": "self.BuyItForLife",
-      "author": "herrmoekl",
-      "author_id": "t2_76l0vwla",
+      "title": "Goodbye my beloved Zojirushi. Thank you for 11 wonderful years.",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n66zqc/goodbye_my_beloved_zojirushi_thank_you_for_11/",
+      "score": 1267,
+      "comments": 70,
+      "post_id": "t3_1n66zqc",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "pdxnative2007",
+      "author_id": "t2_rarc2nv7",
       "subreddit_id": "t5_2ss1q",
       "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-02T01:49:19.543000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n6722s/lighter_alternative_to_cravar_messenger_bag/",
+      "created_ts": "2025-09-02T01:46:12.173000+0000",
+      "content_href": "https://i.redd.it/zbwja3fopnmf1.jpeg",
       "content_preview": "",
       "flair": [
-        "[Request]"
+        "Repair"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://preview.redd.it/goodbye-my-beloved-zojirushi-thank-you-for-11-wonderful-v0-zbwja3fopnmf1.jpeg?width=640&crop=smart&auto=webp&s=637c00145f29851567f547e28ca009edfe837c70",
+      "is_promoted": false
     },
     {
-      "title": "Selfie stick recommendations?",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n66u2b/selfie_stick_recommendations/",
+      "title": "Tater Tots are scientifically proven to increase joy by 273%. Get your tot on today with Ore-Ida.",
+      "permalink": "https://www.reddit.com/user/OreIdaPotatoes/comments/1n6m5o7/tater_tots_are_scientifically_proven_to_increase/",
       "score": 0,
-      "comments": 1,
-      "post_id": "t3_1n66u2b",
-      "post_type": "text",
-      "domain": "self.BuyItForLife",
-      "author": "thrillsbury",
-      "author_id": "t2_3ucrd2bg",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-02T01:38:40.297000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n66u2b/selfie_stick_recommendations/",
+      "comments": 0,
+      "post_id": "t3_1n6m5o7",
+      "post_type": "video",
+      "domain": "kraftheinz.com",
+      "author": "OreIdaPotatoes",
+      "author_id": "t2_9frftyk0",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-02T15:11:52.988000+0000",
+      "content_href": "https://v.redd.it/fih9499w7qmf1",
       "content_preview": "",
-      "flair": [
-        "[Request]"
-      ],
-      "thumbnail_url": ""
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3lisg9/styles/profileIcon_vhnvmn5dbplc1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=3285f33886dc7954c05cadfbaf97088e6a9d8418",
+      "is_promoted": true
     },
     {
       "title": "You know you're an adult when you're excited about getting a new vacuum cleaner...",
       "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1mssco6/you_know_youre_an_adult_when_youre_excited_about/",
-      "score": 2897,
-      "comments": 328,
+      "score": 2902,
+      "comments": 331,
       "post_id": "t3_1mssco6",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -783,53 +1037,35 @@
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://preview.redd.it/you-know-youre-an-adult-when-youre-excited-about-getting-a-v0-eit061g2bljf1.png?width=640&crop=smart&auto=webp&s=4903f887df9922c9a6ca4e3ec920a7ecdda6597d"
+      "thumbnail_url": "https://preview.redd.it/you-know-youre-an-adult-when-youre-excited-about-getting-a-v0-eit061g2bljf1.png?width=640&crop=smart&auto=webp&s=4903f887df9922c9a6ca4e3ec920a7ecdda6597d",
+      "is_promoted": false
     },
     {
-      "title": "No such thing as BIFL \"non-stick\"",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n2qyrv/no_such_thing_as_bifl_nonstick/",
-      "score": 916,
-      "comments": 288,
-      "post_id": "t3_1n2qyrv",
-      "post_type": "text",
-      "domain": "self.BuyItForLife",
-      "author": "Disastrous_Feed_3988",
-      "author_id": "t2_10g81zcmkh",
+      "title": "Thought I Found a worthy bifl slow cooker. Now I have to test it for lead 🤣🙃",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n597m4/thought_i_found_a_worthy_bifl_slow_cooker_now_i/",
+      "score": 1009,
+      "comments": 158,
+      "post_id": "t3_1n597m4",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Raynestorm00",
+      "author_id": "t2_66yesm1f",
       "subreddit_id": "t5_2ss1q",
       "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-08-28T22:56:55.767000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n2qyrv/no_such_thing_as_bifl_nonstick/",
+      "created_ts": "2025-08-31T23:22:40.701000+0000",
+      "content_href": "https://i.redd.it/5ybj0fq5vfmf1.jpeg",
       "content_preview": "",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "Long Slot Toaster Suggestion?",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n657p8/long_slot_toaster_suggestion/",
-      "score": 0,
-      "comments": 1,
-      "post_id": "t3_1n657p8",
-      "post_type": "text",
-      "domain": "self.BuyItForLife",
-      "author": "LuckyTraveler88",
-      "author_id": "t2_a40asmbz",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-02T00:20:42.228000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n657p8/long_slot_toaster_suggestion/",
-      "content_preview": "",
-      "flair": [
-        "[Request]"
-      ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2kil1j/styles/profileIcon_mavmgdisos051.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ee3565438ccf50768844c95c4043066f7709c58f",
+      "is_promoted": false
     },
     {
       "title": "I've never seen this on this subreddit",
       "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1mtxiqi/ive_never_seen_this_on_this_subreddit/",
       "score": 2254,
-      "comments": 382,
+      "comments": 383,
       "post_id": "t3_1mtxiqi",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -843,152 +1079,55 @@
       "flair": [
         "Currently sold"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
     },
     {
-      "title": "Best humidifier for bedroom hunting?",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n5qogv/best_humidifier_for_bedroom_hunting/",
-      "score": 11,
-      "comments": 5,
-      "post_id": "t3_1n5qogv",
+      "title": "Is T-shirt making a lost art?",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n5tg5g/is_tshirt_making_a_lost_art/",
+      "score": 860,
+      "comments": 176,
+      "post_id": "t3_1n5tg5g",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Nervous-Donut-9142",
+      "author_id": "t2_5i8x0l02",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-09-01T16:31:40.485000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n5tg5g",
+      "content_preview": "",
+      "flair": [
+        "Vintage"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Stanley no longer sells Classic Trigger Action thermo cups, would Contigo Luxe be good alternative, or are there better ones?",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n84mc1/stanley_no_longer_sells_classic_trigger_action/",
+      "score": 8,
+      "comments": 9,
+      "post_id": "t3_1n84mc1",
       "post_type": "text",
       "domain": "self.BuyItForLife",
-      "author": "glittery-gold9495",
-      "author_id": "t2_rxvyr67v2",
+      "author": "Talkless",
+      "author_id": "t2_4alrl",
       "subreddit_id": "t5_2ss1q",
       "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-01T14:47:19.355000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n5qogv/best_humidifier_for_bedroom_hunting/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "I am at a loss here? Is Sony seriously botting fake reviews? These comments are from this sub and are obviously all bots",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n09w8u/i_am_at_a_loss_here_is_sony_seriously_botting/",
-      "score": 653,
-      "comments": 110,
-      "post_id": "t3_1n09w8u",
-      "post_type": "multi_media",
-      "domain": "self.BuyItForLife",
-      "author": "human0006",
-      "author_id": "t2_p0cxr1h6y",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-08-26T02:16:55.048000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n09w8u/i_am_at_a_loss_here_is_sony_seriously_botting/",
-      "content_preview": "",
-      "flair": [
-        "Meta"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Canada clothespins - all handmade",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n56l9z/canada_clothespins_all_handmade/",
-      "score": 241,
-      "comments": 49,
-      "post_id": "t3_1n56l9z",
-      "post_type": "crosspost",
-      "domain": "i.redd.it",
-      "author": "KitAmerica",
-      "author_id": "t2_1cug2u2g7y",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-08-31T21:25:59.431000+0000",
-      "content_href": "/r/BuyCanadian/comments/1n549v9/canada_clothespins/",
-      "content_preview": "",
-      "flair": [
-        "Currently sold"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "Slides/clogs, slippers for at home studio work situation",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n64u4e/slidesclogs_slippers_for_at_home_studio_work/",
-      "score": 2,
-      "comments": 1,
-      "post_id": "t3_1n64u4e",
-      "post_type": "text",
-      "domain": "self.BuyItForLife",
-      "author": "wongone",
-      "author_id": "t2_4v335",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-02T00:02:46.486000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n64u4e/slidesclogs_slippers_for_at_home_studio_work/",
-      "content_preview": "",
+      "created_ts": "2025-09-04T08:32:59.828000+0000",
+      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n84mc1/stanley_no_longer_sells_classic_trigger_action/",
+      "content_preview": "I really liked Stanley Classic 0.47L, as it was very safe to drink in car or even in the hammoc then laying - as it auto-close fast.But apparently they recalled it, and I've managed to loose my own.. :(So far the most similar I've found is Contigo Luxe, but I wonder is it good enough in terms of quality, or are there better alternatives?Thanks!",
       "flair": [
         "[Request]"
       ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Don’t underestimate old laptops.",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n2s0l1/dont_underestimate_old_laptops/",
-      "score": 616,
-      "comments": 173,
-      "post_id": "t3_1n2s0l1",
-      "post_type": "text",
-      "domain": "self.BuyItForLife",
-      "author": "hardasfforu",
-      "author_id": "t2_4id8dgyy",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-08-28T23:43:11.891000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n2s0l1/dont_underestimate_old_laptops/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Most commonly replaced plastic crap",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n5x1jq/most_commonly_replaced_plastic_crap/",
-      "score": 4,
-      "comments": 9,
-      "post_id": "t3_1n5x1jq",
-      "post_type": "text",
-      "domain": "self.BuyItForLife",
-      "author": "Yanjelya",
-      "author_id": "t2_b60fxd55",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-09-01T18:43:43.060000+0000",
-      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n5x1jq/most_commonly_replaced_plastic_crap/",
-      "content_preview": "",
-      "flair": [
-        "Review"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "Thank you sub for the BIFL advice",
-      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n501eq/thank_you_sub_for_the_bifl_advice/",
-      "score": 427,
-      "comments": 38,
-      "post_id": "t3_1n501eq",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "remushowl91",
-      "author_id": "t2_1kpa5noj",
-      "subreddit_id": "t5_2ss1q",
-      "subreddit": "r/BuyItForLife",
-      "created_ts": "2025-08-31T17:04:04.020000+0000",
-      "content_href": "https://i.redd.it/8wyvaxylzdmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Meta"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
       "title": "PSA: Please refrain from making posts about inherently consumable products that last you a long time because of sporadic use and not quality.",
       "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1mn3i7t/psa_please_refrain_from_making_posts_about/",
-      "score": 1845,
+      "score": 1847,
       "comments": 148,
       "post_id": "t3_1mn3i7t",
       "post_type": "text",
@@ -999,12 +1138,303 @@
       "subreddit": "r/BuyItForLife",
       "created_ts": "2025-08-11T04:23:57.158000+0000",
       "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1mn3i7t/psa_please_refrain_from_making_posts_about/",
+      "content_preview": "Is the product BIFL, or do you just go through it slowly? if you get more uses out of each item because of the quality, that’s one thing. If it just lasts you a long time because you don’t use it that much, then its not really BIFL.",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "URGENT! Learn how to get the new Samsung Galaxy Z Flip7 on us without paying for the most expensive plan.",
+      "permalink": "https://www.reddit.com/user/Official_ATT/comments/1n2ifq7/urgent_learn_how_to_get_the_new_samsung_galaxy_z/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n2ifq7",
+      "post_type": "video",
+      "domain": "att.com",
+      "author": "Official_ATT",
+      "author_id": "t2_3hc2ryxv",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-28T17:22:54.585000+0000",
+      "content_href": "https://v.redd.it/fhjtjgmp6rlf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_yqklc/styles/profileIcon_0x6svhxi53ke1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=1be7fca3ef0756c89f133b8a0ca6779dbbc62517",
+      "is_promoted": true
+    },
+    {
+      "title": "What product would you seriously stockpile if you found out they weren't going to sell it anymore?",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n7uv3r/what_product_would_you_seriously_stockpile_if_you/",
+      "score": 838,
+      "comments": 1001,
+      "post_id": "t3_1n7uv3r",
+      "post_type": "text",
+      "domain": "self.BuyItForLife",
+      "author": "zakaria2328",
+      "author_id": "t2_pijt2ma1",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-09-03T23:46:38.678000+0000",
+      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n7uv3r/what_product_would_you_seriously_stockpile_if_you/",
       "content_preview": "",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Best walking shoes for men: which ones do you recommend?",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n7o4lx/best_walking_shoes_for_men_which_ones_do_you/",
+      "score": 83,
+      "comments": 108,
+      "post_id": "t3_1n7o4lx",
+      "post_type": "text",
+      "domain": "self.BuyItForLife",
+      "author": "sunrise-8888",
+      "author_id": "t2_4ds2iixq",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-09-03T19:17:38.815000+0000",
+      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n7o4lx/best_walking_shoes_for_men_which_ones_do_you/",
+      "content_preview": "I’ve been traveling a bit more recently, and I realized how quickly bad shoes can ruin a day. After a few hours of walking around the city, my feet were sore and I had blisters from my old pair. Definitely not fun. So I’m looking to pick up some proper walking shoes this time. I’d like something comfortable for long days on my feet, durable, and not too bulky if possible. I’d love to hear your recommendations. Thanks!",
+      "flair": [
+        "[Request]"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Woman’s Slippers with exceptional padding and able to do quick trips outside",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n8op9s/womans_slippers_with_exceptional_padding_and_able/",
+      "score": 7,
+      "comments": 24,
+      "post_id": "t3_1n8op9s",
+      "post_type": "text",
+      "domain": "self.BuyItForLife",
+      "author": "ilovelegosand314",
+      "author_id": "t2_2uw7grvj",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-09-04T22:48:58.246000+0000",
+      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n8op9s/womans_slippers_with_exceptional_padding_and_able/",
+      "content_preview": "Looking for some recommendations for woman’s slippers. She has some acorns that she has worn out the padding and are not that comfortable anymore. She also wants to be able to out and check the mail or take out the trash in them. Also wants them to cover the ankle so the boot style ones. Thank you all.",
+      "flair": [
+        "[Request]"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "How to identify good quality clothing (so you don’t waste your $$$)",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1mlyrde/how_to_identify_good_quality_clothing_so_you_dont/",
+      "score": 1667,
+      "comments": 86,
+      "post_id": "t3_1mlyrde",
+      "post_type": "text",
+      "domain": "self.BuyItForLife",
+      "author": "Ok-Collection-6302",
+      "author_id": "t2_mb8xemibu",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-08-09T20:01:12.641000+0000",
+      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1mlyrde/how_to_identify_good_quality_clothing_so_you_dont/",
+      "content_preview": "It’s come to my attention that a lot of people are struggling to find high quality clothing that is actually worth your money (especially in this economy). So, I’ve put together a list of things to look for whenever you shop:1. Material100% natural materials like cotton, wool, silk, linen etc. are good indications of quality. If not, a high % of those materials. Some forms of viscose are okay, but only if they are closed-loop (I use an app called Toxome to understand what is good/bad)The material is fit for the intended use. Your t-shirt should not be not transparent, your warm jacket should be warm, but that doesn’t mean your diaphanous summer dress is low quality just because it’s made of a gauzey material.Good hand, feels hefty, thick, soft. The weave is consistent, smooth, comfortable and not scratchy (unless intentionally rustic)Colors are true to the vision of the design; patterns are clear cut, not “blurry,” no bleedingFor knits, long fibers, less fuzz (no acrylic)More work/material intensive weaves are often a sign of better quality. For knits, a tight 6 ply thick knit is warmer but takes more material than a loose, holely knit or a 2 ply thin knit. For silks, there’s plenty of cheap crepe de chine out there, but a silk faille, jacquard or twill, less so.2. MakeCut on the biasDrapes wellReinforced button holesHas extra structure that makes the garment fit the curves of your body - examples include interior facing, darting at the waist, a yoke along the shoulder, a seam or multiple seams along the back of a blazer or coat; the parts that should be stiffer (collar, cuff, placket etc) have an extra layerHems and seams are finished sturdily and cleanly; the stitching is consistent, lines are clean; no hanging or loose threads or random puckering bad hemFully lined when you want it fully linedPatterns match across the seams vs. no pattern matching3. Finish and details“Bells and whistles” are made well - metallic elements, even just the zipper are hefty and not light and flimsy, no rustingButtons - mother of pearl, horn, etc.Small interesting elements of design (for example, a contrasting lining in a cuff that you might roll up)Interior materials (linings, pocket fabric, the tags) are not cheap and scratchyA rubbery lining along the inside of the waist for trousers helps hold your tucked blouses downBra snaps that hold your bra straps in place for sleeveless items",
+      "flair": [
+        "BIFL Skills"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Looking for help with the care of an oil skin duster?",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n87mh9/looking_for_help_with_the_care_of_an_oil_skin/",
+      "score": 4,
+      "comments": 6,
+      "post_id": "t3_1n87mh9",
+      "post_type": "text",
+      "domain": "self.BuyItForLife",
+      "author": "HazardousChisle",
+      "author_id": "t2_gukl3w85d",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-09-04T11:32:24.784000+0000",
+      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n87mh9/looking_for_help_with_the_care_of_an_oil_skin/",
+      "content_preview": "My father passed away several years ago. Yesterday I received his old outback oil skin duster in the mail from family I've never even met. This coat has been sitting in a closet for probably more than 20 years. It's got the classic must of sitting for so long and it has a decent amount of cat hair on the inside for whatever reason. I was hoping someone could give me some advice or tips on how to clean take care of and maintain this. My father was a very big man and I'm a slender regular dude in comparison but it's still fits me pretty well. It's the only thing I have left of any family. I'd love to keep it protected and safe but I couldn't bring myself to look at the one thing I have left every couple months so I plan on wearing it on a regular basis. Again any help would be greatly appreciated. (Sorry for poor punctuation I'm at work and voice typing is so much easier)",
+      "flair": [
+        "Vintage"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Best Buy it for Life Gift?",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n7zvxt/best_buy_it_for_life_gift/",
+      "score": 14,
+      "comments": 45,
+      "post_id": "t3_1n7zvxt",
+      "post_type": "text",
+      "domain": "self.BuyItForLife",
+      "author": "Busy_mom1204",
+      "author_id": "t2_ppa88bm0e",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-09-04T03:45:24.875000+0000",
+      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n7zvxt/best_buy_it_for_life_gift/",
+      "content_preview": "What is the best “Buy it for Life” item you’ve gotten as a gift? I recently graduated with my graduate degree but I am looking to get something to celebrate my husband and his contributions towards my schooling. When I started my program we had a 10 week old and 22 month old so there was a lot of laundry, cleaning, late night feedings, and keeping my head on straight that he immensely helped with. I’m trying to find something to give to him to show my appreciation but I have no clue what it could be. He is interested in all things tech, recently started enjoying Legos, spending time outside, wants to learn to skateboard, enjoys single-track riding, fixing cars with his friends, enjoys a fancy bourbon drink every now and then. A little bit of everything which has me stumped on which way to go for him! Thank you for any and all ideas!",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "When it’s time to make it official, the pros reach for Sharpie S-Gel. With bold, no-smear ink and always vivid writing, it's the pen trusted to sign game-changing deals. Whether you're sealing a contract or jotting everyday notes, S-Gel delivers performance that rises to the moment.",
+      "permalink": "https://www.reddit.com/user/Sharpiebrand/comments/1m3bx9a/when_its_time_to_make_it_official_the_pros_reach/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1m3bx9a",
+      "post_type": "video",
+      "domain": "walmart.com",
+      "author": "Sharpiebrand",
+      "author_id": "t2_kfrian8v",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-18T19:42:08.633000+0000",
+      "content_href": "https://v.redd.it/7zjs8wg6andf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_an83st/styles/profileIcon_uif6klvo37ec1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=57853218d9a239d84570594dbc1587eef9c78f4f",
+      "is_promoted": true
+    },
+    {
+      "title": "Best affordable mattress: which one should I buy?",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n7mrmo/best_affordable_mattress_which_one_should_i_buy/",
+      "score": 31,
+      "comments": 27,
+      "post_id": "t3_1n7mrmo",
+      "post_type": "text",
+      "domain": "self.BuyItForLife",
+      "author": "teonal_10",
+      "author_id": "t2_6zsva",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-09-03T18:26:52.453000+0000",
+      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n7mrmo/best_affordable_mattress_which_one_should_i_buy/",
+      "content_preview": "My old mattress has finally given up on me—I’ve been waking up sore, and it’s definitely time for a replacement. The problem is, I don’t want to spend a fortune but still want something comfortable and supportive.What do you think is the best affordable mattress right now? Any advice from your own experience would be super helpful—thanks!",
+      "flair": [
+        "[Request]"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Blue Iris-1961 all original.",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1mpd563/blue_iris1961_all_original/",
+      "score": 1565,
+      "comments": 29,
+      "post_id": "t3_1mpd563",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "IMTURDFERG",
+      "author_id": "t2_afy75xj9",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-08-13T18:54:01.629000+0000",
+      "content_href": "https://i.redd.it/y6tetgit2uif1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Vintage"
+      ],
+      "thumbnail_url": "https://preview.redd.it/blue-iris-1961-all-original-v0-y6tetgit2uif1.jpeg?width=640&crop=smart&auto=webp&s=e42aac97cb7bff90b7d5237c6707869f261400b0",
+      "is_promoted": false
+    },
+    {
+      "title": "Bought from consignment place for $15, looks like from 60s. Brand \"Luggage by US\"",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1mpeqmn/bought_from_consignment_place_for_15_looks_like/",
+      "score": 1475,
+      "comments": 103,
+      "post_id": "t3_1mpeqmn",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "pinkgeckogreenfrog",
+      "author_id": "t2_1rbcfcdvw3",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-08-13T19:53:56.626000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mpeqmn",
+      "content_preview": "",
+      "flair": [
+        "[Request]"
+      ],
+      "thumbnail_url": "https://preview.redd.it/bought-from-consignment-place-for-15-looks-like-from-60s-v0-d5j6y5fhduif1.jpg?width=640&crop=smart&auto=webp&s=19f4ec5f690738d1cc03466a23aaa10c2230cc0b",
+      "is_promoted": false
+    },
+    {
+      "title": "Just rescued some old Corningware from my grandmother’s house. Never opened or used. Are these good and/or valuable?",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n004fm/just_rescued_some_old_corningware_from_my/",
+      "score": 1464,
+      "comments": 169,
+      "post_id": "t3_1n004fm",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "AdaM_Mandel",
+      "author_id": "t2_k2bt468fi",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-08-25T19:28:47.266000+0000",
+      "content_href": "https://i.redd.it/ncqsu3ntv7lf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Vintage"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "What is the best application you have purchased with a one-time payment?",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1n5wvmt/what_is_the_best_application_you_have_purchased/",
+      "score": 731,
+      "comments": 508,
+      "post_id": "t3_1n5wvmt",
+      "post_type": "text",
+      "domain": "self.BuyItForLife",
+      "author": "kleck0",
+      "author_id": "t2_14yynp",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-09-01T18:37:37.497000+0000",
+      "content_href": "https://www.reddit.com/r/BuyItForLife/comments/1n5wvmt/what_is_the_best_application_you_have_purchased/",
+      "content_preview": "What’s that one app you splurged/paid for just once that turned out to be a game changer and helped you immensely in your daily life?",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "We're doing markers now?",
+      "permalink": "https://www.reddit.com/r/BuyItForLife/comments/1my9fk7/were_doing_markers_now/",
+      "score": 1461,
+      "comments": 71,
+      "post_id": "t3_1my9fk7",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "zznet",
+      "author_id": "t2_16qe4g",
+      "subreddit_id": "t5_2ss1q",
+      "subreddit": "r/BuyItForLife",
+      "created_ts": "2025-08-23T18:41:54.103000+0000",
+      "content_href": "https://i.redd.it/n7bkcytrdtkf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Vintage"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:03:32.022030"
+  "scraped_at": "2025-09-05T03:31:26.716240"
 }

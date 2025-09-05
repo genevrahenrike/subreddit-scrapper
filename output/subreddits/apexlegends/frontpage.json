@@ -3,74 +3,476 @@
   "url": "https://www.reddit.com/r/apexlegends",
   "meta": {
     "title": "Apex Legends",
-    "members_text": "374,815"
+    "description": "Community run, developer supported subreddit dedicated to Apex Legends by Respawn Entertainment.",
+    "subscribers": 3011262,
+    "online_users": 92,
+    "created_timestamp": "2025-09-05T10:18:57.833000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Bookmarks",
+        "content": [
+          {
+            "text": "Discord",
+            "url": "https://discord.gg/ApexLegends"
+          },
+          {
+            "text": "Outlands (Memes)",
+            "url": "https://reddit.com/r/apexoutlands"
+          },
+          {
+            "text": "LFG",
+            "url": "https://reddit.com/r/apexlfg"
+          },
+          {
+            "text": "Previous Patch Notes",
+            "url": "https://www.reddit.com/r/apexlegends/wiki/patchnotes"
+          },
+          {
+            "text": "Apex Legends Wiki",
+            "url": "https://apexlegends.wiki.gg/wiki/Apex_Legends_Wiki"
+          }
+        ]
+      },
+      {
+        "title": "r/apexlegends Rules",
+        "content": [
+          {
+            "text": "For a full list of detailed rules, please visit our rule page.",
+            "url": "https://www.reddit.com/r/apexlegends/wiki/rules"
+          },
+          {
+            "text": "For a full list of detailed rules, please visit our rule page.",
+            "url": "https://www.reddit.com/r/apexlegends/wiki/rules"
+          },
+          {
+            "text": "r/ApexOutlands",
+            "url": "/r/ApexOutlands/"
+          },
+          {
+            "text": "For a full list of detailed rules, please visit our rule page.",
+            "url": "https://www.reddit.com/r/apexlegends/wiki/rules"
+          },
+          {
+            "text": "For a full list of detailed rules, please visit our rule page.",
+            "url": "https://www.reddit.com/r/apexlegends/wiki/rules"
+          },
+          {
+            "text": "directly to Respawn.",
+            "url": "https://discord.gg/6XDTATDh6p"
+          },
+          {
+            "text": "For a full list of detailed rules, please visit our rule page.",
+            "url": "https://www.reddit.com/r/apexlegends/wiki/rules"
+          },
+          {
+            "text": "r/CompetitiveApex",
+            "url": "/r/CompetitiveApex/"
+          },
+          {
+            "text": "For a full list of detailed rules, please visit our rule page.",
+            "url": "https://www.reddit.com/r/apexlegends/wiki/rules"
+          },
+          {
+            "text": "For a full list of detailed rules, please visit our rule page.",
+            "url": "https://old.reddit.com/r/apexoutlands/wiki/rules"
+          },
+          {
+            "text": "directly contact support services",
+            "url": "https://answers.ea.com/t5/Bug-Reports/bd-p/apex-legends-bug-reports-en"
+          },
+          {
+            "text": "Include all relevant information in your support request. To see that, please visit our rule page.",
+            "url": "https://www.reddit.com/r/apexlegends/wiki/rules"
+          },
+          {
+            "text": "For a full list of detailed rules, please visit our rule page.",
+            "url": "https://www.reddit.com/r/apexlegends/wiki/rules"
+          }
+        ]
+      },
+      {
+        "title": "Socials",
+        "content": [
+          {
+            "text": "Website",
+            "url": "https://apexlegends.com/"
+          },
+          {
+            "text": "Twitter",
+            "url": "https://twitter.com/PlayApex"
+          },
+          {
+            "text": "Instagram",
+            "url": "https://www.instagram.com/playapex/"
+          },
+          {
+            "text": "YouTube",
+            "url": "https://www.youtube.com/@playapex"
+          },
+          {
+            "text": "TikTok",
+            "url": "https://www.tiktok.com/@playapex?lang=en"
+          }
+        ]
+      },
+      {
+        "title": "Download for Free",
+        "content": [
+          {
+            "text": "EA App",
+            "url": "https://www.ea.com/games/apex-legends/buy/pc"
+          },
+          {
+            "text": "Steam",
+            "url": "https://store.steampowered.com/app/1172470/Apex_Legends/"
+          },
+          {
+            "text": "Epic Games Store",
+            "url": "https://store.epicgames.com/en-US/p/apex-legends-006cde"
+          },
+          {
+            "text": "Xbox",
+            "url": "https://www.xbox.com/en-US/games/apex-legends"
+          },
+          {
+            "text": "PlayStation 4",
+            "url": "https://store.playstation.com/en-us/product/UP0006-CUSA12540_00-APEXLEGENDRSPWN1/"
+          },
+          {
+            "text": "PlayStation 5",
+            "url": "https://store.playstation.com/en-us/product/UP0006-PPSA04873_00-APEXLEGENDRSPWN1/"
+          },
+          {
+            "text": "Nintendo Switch",
+            "url": "https://www.nintendo.com/games/detail/apex-legends-switch/"
+          }
+        ]
+      },
+      {
+        "title": "Related Communities",
+        "content": [
+          {
+            "text": "r/ApexOutlands",
+            "url": "/r/ApexOutlands"
+          },
+          {
+            "text": "r/titanfall",
+            "url": "/r/titanfall"
+          },
+          {
+            "text": "r/apexuniversity",
+            "url": "/r/apexuniversity"
+          },
+          {
+            "text": "r/CompetitiveApex",
+            "url": "/r/CompetitiveApex"
+          },
+          {
+            "text": "r/ApexLore",
+            "url": "/r/ApexLore"
+          },
+          {
+            "text": "r/ApexLFG",
+            "url": "/r/ApexLFG"
+          },
+          {
+            "text": "r/Apexrollouts",
+            "url": "/r/Apexrollouts"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "content": [
+          {
+            "text": "About Apex Legends",
+            "url": "https://www.ea.com/games/apex-legends/about"
+          },
+          {
+            "text": "Beginners Guide",
+            "url": "https://www.ea.com/games/apex-legends/news/apex-legends-beginners-guide-tips-and-tricks"
+          },
+          {
+            "text": "Meet the Legends",
+            "url": "https://www.ea.com/games/apex-legends/about/characters"
+          },
+          {
+            "text": "FAQ",
+            "url": "https://www.ea.com/games/apex-legends/about/frequently-asked-questions"
+          },
+          {
+            "text": "News",
+            "url": "https://www.ea.com/games/apex-legends/news"
+          },
+          {
+            "text": "PC System Requirements",
+            "url": "https://www.ea.com/games/apex-legends/about/pc-system-requirements"
+          }
+        ]
+      },
+      {
+        "title": "Misc. Links",
+        "content": [
+          {
+            "text": "Patch Notes",
+            "url": "https://www.reddit.com/r/apexlegends/wiki/patchnotes"
+          },
+          {
+            "text": "EA Forums",
+            "url": "https://answers.ea.com/t5/Bug-Reports/bd-p/apex-legends-bug-reports-en"
+          },
+          {
+            "text": "Troubleshooting Guide",
+            "url": "https://answers.ea.com/t5/Technical-Issues/Community-Crashing-Troubleshooting-Guide/td-p/7447308"
+          },
+          {
+            "text": "Apex Tracker",
+            "url": "https://trello.com/b/ZVrHV38P/apex-tracker"
+          }
+        ]
+      },
+      {
+        "title": "Flair Filter",
+        "content": [
+          {
+            "text": "Respawn Official",
+            "url": "/r/apexlegends/?f=flair_name%3A%22Respawn%20Official%22"
+          },
+          {
+            "text": "Dev Reply Inside!",
+            "url": "/r/apexlegends/?f=flair_name%3A%22Dev%20Reply%20Inside!%22"
+          },
+          {
+            "text": "Season 20: Breakout",
+            "url": "/r/apexlegends/?f=flair_name%3A%22%3ABreakout-black%3A%20Season%2020%3A%20Breakout%22"
+          },
+          {
+            "text": "Season 19: Ignite",
+            "url": "/r/apexlegends/?f=flair_name%3A%22%3AIgnite%3A%20Season%2019%3A%20Ignite%22"
+          },
+          {
+            "text": "Season 18: Resurrection",
+            "url": "/r/apexlegends/?f=flair_name%3A%22%3AResurrection%3A%20Season%2018%3A%20Resurrection%22"
+          },
+          {
+            "text": "Season 17: Arsenal",
+            "url": "/r/apexlegends/?f=flair_name%3A%22%3AArsenal%3A%20Season%2017%3A%20Arsenal%22"
+          },
+          {
+            "text": "Season 16: Revelry",
+            "url": "/r/apexlegends/?f=flair_name%3A%22%3ARevelry%3A%20Season%2016%3A%20Revelry%22"
+          },
+          {
+            "text": "Season 15: Eclipse",
+            "url": "/r/apexlegends/?f=flair_name%3A%22%3AEclipse%3A%20Season%2015%3A%20Eclipse%22"
+          },
+          {
+            "text": "Season 14: Hunted",
+            "url": "/r/apexlegends/?f=flair_name%3A%22%3AHunted%3A%20Season%2014%3A%20Hunted%22"
+          },
+          {
+            "text": "Season 13: Saviors",
+            "url": "/r/apexlegends/?f=flair_name%3A%22%3ASaviors%3A%20Season%2013%3A%20Saviors%22"
+          },
+          {
+            "text": "Season 12: Defiance",
+            "url": "/r/apexlegends/?f=flair_name%3A%22%3ADefiance%3A%20Season%2012%3A%20Defiance%22"
+          },
+          {
+            "text": "Season 11: Escape",
+            "url": "/r/apexlegends/?f=flair_name%3A%22%3AEscape%3A%20Season%2011%3A%20Escape%22"
+          },
+          {
+            "text": "Season 10: Emergence",
+            "url": "/r/apexlegends/?f=flair_name%3A%22%3AEmergence%3A%20Season%2010%3A%20Emergence%22"
+          },
+          {
+            "text": "Season 9: Legacy",
+            "url": "/r/apexlegends/?f=flair_name%3A%22%3ALegacy%3A%20Season%209%3A%20Legacy%22"
+          },
+          {
+            "text": "Season 8: Mayhem",
+            "url": "/r/apexlegends/?f=flair_name%3A%22%3AMayhem%3A%20Season%208%3A%20Mayhem%22"
+          },
+          {
+            "text": "Season 7: Ascension",
+            "url": "/r/apexlegends/?f=flair_name%3A%22%3AAscension%3A%20Season%207%3A%20Ascension%22"
+          },
+          {
+            "text": "Season 6: Boosted",
+            "url": "/r/apexlegends/?f=flair_name%3A%22%3ABoosted%3A%20Season%206%3A%20Boosted%22"
+          },
+          {
+            "text": "Season 5: Fortunes Favor",
+            "url": "/r/apexlegends/?f=flair_name%3A%22%3AFortunes_Favor%3A%20Season%205%3A%20Fortunes%20Favor%22"
+          },
+          {
+            "text": "Season 4: Assimilation",
+            "url": "/r/apexlegends/?f=flair_name%3A%22%3AAssimilation%3A%20Season%204%3A%20Assimilation%22"
+          },
+          {
+            "text": "Season 3: Meltdown",
+            "url": "/r/apexlegends/?f=flair_name%3A%22%3AMeltdown%3A%20Season%203%3A%20Meltdown%22"
+          },
+          {
+            "text": "Season 2: Battle Charge",
+            "url": "/r/apexlegends/?f=flair_name%3A%22%3ABattle_Charge%3A%20Season%202%3A%20Battle%20Charge%22"
+          },
+          {
+            "text": "Season 1: The Wild Frontier",
+            "url": "/r/apexlegends/?f=flair_name%3A%22%3AThe_Wild_Frontier_1%3A%20Season%201%3A%20The%20Wild%20Frontier%22"
+          },
+          {
+            "text": "Pre-Season",
+            "url": "/r/apexlegends/?f=flair_name%3A%22%3AThe_Wild_Frontier%3A%20Pre-Season%22"
+          },
+          {
+            "text": "News",
+            "url": "/r/apexlegends/?f=flair_name%3A%22News%22"
+          },
+          {
+            "text": "Discussion",
+            "url": "/r/apexlegends/?f=flair_name%3A%22Discussion%22"
+          },
+          {
+            "text": "Gameplay",
+            "url": "/r/apexlegends/?f=flair_name%3A%22Gameplay%22"
+          },
+          {
+            "text": "Creative",
+            "url": "/r/apexlegends/?f=flair_name%3A%22Creative%22"
+          },
+          {
+            "text": "Useful",
+            "url": "/r/apexlegends/?f=flair_name%3A%22Useful%22"
+          },
+          {
+            "text": "Humor",
+            "url": "/r/apexlegends/?f=flair_name%3A%22Humor%22"
+          },
+          {
+            "text": "Feedback",
+            "url": "/r/apexlegends/?f=flair_name%3A%22Feedback%22"
+          },
+          {
+            "text": "Question",
+            "url": "/r/apexlegends/?f=flair_name%3A%22Question%22"
+          },
+          {
+            "text": "Bug",
+            "url": "/r/apexlegends/?f=flair_name%3A%22Bug%22"
+          },
+          {
+            "text": "Support",
+            "url": "/r/apexlegends/?f=flair_name%3A%22Support%22"
+          },
+          {
+            "text": "Rumor / Unverified",
+            "url": "/r/apexlegends/?f=flair_name%3A%22Rumor%20%2F%20Unverified%22"
+          },
+          {
+            "text": "Esports",
+            "url": "/r/apexlegends/?f=flair_name%3A%22Esports%22"
+          },
+          {
+            "text": "Subreddit Meta",
+            "url": "/r/apexlegends/?f=flair_name%3A%22Subreddit%20Meta%22"
+          },
+          {
+            "text": "Modded",
+            "url": "/r/apexlegends/?f=flair_name%3A%22Modded%22"
+          },
+          {
+            "text": "Giveaway",
+            "url": "/r/apexlegends/?f=flair_name%3A%22Giveaway%22"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/apexlegends/moderators/"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "Lobby Wait times",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n6fa5t/lobby_wait_times/",
-      "score": 0,
-      "comments": 0,
-      "post_id": "t3_1n6fa5t",
-      "post_type": "text",
-      "domain": "self.apexlegends",
-      "author": "SlickRick_99",
-      "author_id": "t2_et5egv6h",
+      "title": "Getting kicked out of a ranked match for literally no reason with no explanation. Is this a bug that happens frequently in Apex?",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n91epi/getting_kicked_out_of_a_ranked_match_for/",
+      "score": 4,
+      "comments": 4,
+      "post_id": "t3_1n91epi",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "OkymCZ",
+      "author_id": "t2_3le7568l",
       "subreddit_id": "t5_rgzzt",
       "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-02T09:53:33.099000+0000",
-      "content_href": "https://www.reddit.com/r/apexlegends/comments/1n6fa5t/lobby_wait_times/",
-      "content_preview": "Is anyone else waiting for ages to find games in Australia, seems like the players in queue jump to 40-50 and then drops back down. Only started happening this season.",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_5t2s89/styles/profileIcon_c208fkl8eoac1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=6554ee0699f64fce660a867357b7930ba64e2068"
-    },
-    {
-      "title": "This is ridiculous. Let us reload near a replicator ffs",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n0t4xe/this_is_ridiculous_let_us_reload_near_a/",
-      "score": 2623,
-      "comments": 231,
-      "post_id": "t3_1n0t4xe",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "bigmatt_94",
-      "author_id": "t2_hxj35v8",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-08-26T18:03:48.436000+0000",
-      "content_href": "https://v.redd.it/kn5jojbnlelf1",
+      "created_ts": "2025-09-05T10:18:57.833000+0000",
+      "content_href": "https://i.redd.it/lrmgpxlanbnf1.png",
       "content_preview": "",
       "flair": [
-        "Feedback"
+        "Bug"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/this-is-ridiculous-let-us-reload-near-a-replicator-ffs-v0-OWk0emoyZW5sZWxmMZdOnkCFP3EAXpEMwydg5dAjBHDmbes2Gv0lb0KzH5Dr.png?width=640&crop=smart&format=pjpg&auto=webp&s=7b29aba9be835350236390d4a97745577e8b86f9"
+      "thumbnail_url": "https://preview.redd.it/getting-kicked-out-of-a-ranked-match-for-literally-no-v0-lrmgpxlanbnf1.png?width=640&crop=smart&auto=webp&s=9057c463bf14d80d2a2aef4de1081459e5a2397b",
+      "is_promoted": false
     },
     {
-      "title": "This is the stupidest way I’ve won Wildcard",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n5t80z/this_is_the_stupidest_way_ive_won_wildcard/",
-      "score": 452,
-      "comments": 28,
-      "post_id": "t3_1n5t80z",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Baggit74",
-      "author_id": "t2_mu9awrxz",
+      "title": "Wraith Cosplay Update",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n80jb2/wraith_cosplay_update/",
+      "score": 5767,
+      "comments": 101,
+      "post_id": "t3_1n80jb2",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "maggiehajart",
+      "author_id": "t2_1il9k9b9cq",
       "subreddit_id": "t5_rgzzt",
       "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-01T16:23:11.834000+0000",
-      "content_href": "https://v.redd.it/tmwcc6y7xkmf1",
+      "created_ts": "2025-09-04T04:20:00.857000+0000",
+      "content_href": "https://i.redd.it/u8oyi6yxq2nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Creative"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dik6ct/styles/profileIcon_ch2djhie0fjf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f012324ea04bce94efd00ed94138e715a6f9730f",
+      "is_promoted": false
+    },
+    {
+      "title": "gg ez",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n8vz9t/gg_ez/",
+      "score": 51,
+      "comments": 9,
+      "post_id": "t3_1n8vz9t",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "DannyRexJr",
+      "author_id": "t2_9ep2k4xj",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-09-05T04:38:48.246000+0000",
+      "content_href": "https://v.redd.it/bhk5n097z9nf1",
       "content_preview": "",
       "flair": [
         "Gameplay"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_6c63rh/styles/profileIcon_q1r5n24hncka1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c43080807e2ff976653f6555a67317844621c96c"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3l5wjc/styles/profileIcon_bau23hx89ey81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c63a635f5f4457911b64d863780dabf56194f87a",
+      "is_promoted": false
     },
     {
       "title": "what the FUCK!",
       "permalink": "https://www.reddit.com/r/apexlegends/comments/1mm3wgm/what_the_fuck/",
-      "score": 3674,
-      "comments": 74,
+      "score": 3686,
+      "comments": 75,
       "post_id": "t3_1mm3wgm",
       "post_type": "video",
       "domain": "v.redd.it",
@@ -84,93 +486,117 @@
       "flair": [
         "Humor"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/what-the-fuck-v0-ZzFwdGJydXh6MmlmMSM-aPSIJqiFkALR7RSa5Bp494QaWYlR7vw413EbRQ-6.png?width=640&crop=smart&format=pjpg&auto=webp&s=0e599dbea256384117de5e4ca79297a3670a7b63"
+      "thumbnail_url": "https://external-preview.redd.it/what-the-fuck-v0-ZzFwdGJydXh6MmlmMSM-aPSIJqiFkALR7RSa5Bp494QaWYlR7vw413EbRQ-6.png?width=640&crop=smart&format=pjpg&auto=webp&s=0e599dbea256384117de5e4ca79297a3670a7b63",
+      "is_promoted": false
     },
     {
-      "title": "I’m forever cursed to get close to 4k but never actually hit it…",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n69eat/im_forever_cursed_to_get_close_to_4k_but_never/",
-      "score": 39,
+      "title": "I almost had a heart attack",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n8f7o8/i_almost_had_a_heart_attack/",
+      "score": 297,
       "comments": 15,
-      "post_id": "t3_1n69eat",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "lxmohr",
-      "author_id": "t2_flo5wq6",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-02T03:46:21.926000+0000",
-      "content_href": "https://i.redd.it/3qx3pwm3bomf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Gameplay"
-      ],
-      "thumbnail_url": "https://preview.redd.it/im-forever-cursed-to-get-close-to-4k-but-never-actually-hit-v0-3qx3pwm3bomf1.jpeg?width=640&crop=smart&auto=webp&s=d39af500335fe2f9a9e26408e5798cda3f020acc"
-    },
-    {
-      "title": "This is why we hate the bat",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1mzxrdo/this_is_why_we_hate_the_bat/",
-      "score": 1355,
-      "comments": 262,
-      "post_id": "t3_1mzxrdo",
+      "post_id": "t3_1n8f7o8",
       "post_type": "video",
       "domain": "v.redd.it",
-      "author": "Bricks_4_Hands",
-      "author_id": "t2_5gsnuv42l",
+      "author": "MarcelineQueenE",
+      "author_id": "t2_9i0gpuq0h",
       "subreddit_id": "t5_rgzzt",
       "subreddit": "r/apexlegends",
-      "created_ts": "2025-08-25T18:00:09.956000+0000",
-      "content_href": "https://v.redd.it/rlswpyawf7lf1",
+      "created_ts": "2025-09-04T16:38:53.626000+0000",
+      "content_href": "https://v.redd.it/7xoz6fcqe6nf1",
       "content_preview": "",
       "flair": [
         "Gameplay"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_88zhuj/styles/profileIcon_8jw2i8qmu1ne1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4685bd4e2f4335e496f23d96179d6d9ade4040e2",
+      "is_promoted": false
     },
     {
-      "title": "RIP Ash",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n6ao3w/rip_ash/",
-      "score": 30,
-      "comments": 5,
-      "post_id": "t3_1n6ao3w",
-      "post_type": "multi_media",
-      "domain": "self.apexlegends",
-      "author": "Loreathan",
-      "author_id": "t2_ckuri",
+      "title": "\"The margins on these goods are higher, because they’re being sold directly to consumers, and they give grocery stores bargaining power in the market, because stores are now less reliant on individual middleman suppliers to stock their shelves,\" writes Ellen Cushing.",
+      "permalink": "https://www.reddit.com/user/theatlantic/comments/1kbo3ij/the_margins_on_these_goods_are_higher_because/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1kbo3ij",
+      "post_type": "image",
+      "domain": "theatlantic.com",
+      "author": "theatlantic",
+      "author_id": "t2_15htj3oj",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-04-30T18:45:54.303000+0000",
+      "content_href": "https://www.theatlantic.com/culture/archive/2025/04/grocery-store-generic-brand/682644/?utm_source=Reddit&utm_medium=cr&campaignID={{CAMPAIGN_ID}}&adgroupname={{ADGROUP_NAME}}&adname={{AD_NAME}}",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_iiswl/styles/profileIcon_odxgiw5wz0v91.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=eea81e04a9796422705fe9fa65e56d942d41ae9c",
+      "is_promoted": true
+    },
+    {
+      "title": "\"I thought I was out, but they pulled me back in\"",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n579sh/i_thought_i_was_out_but_they_pulled_me_back_in/",
+      "score": 1892,
+      "comments": 34,
+      "post_id": "t3_1n579sh",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "MKUltra187",
+      "author_id": "t2_kezb0x4c",
       "subreddit_id": "t5_rgzzt",
       "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-02T04:57:34.244000+0000",
-      "content_href": "https://www.reddit.com/r/apexlegends/comments/1n6ao3w/rip_ash/",
-      "content_preview": "https://preview.redd.it/1yuf10b7nomf1.jpg I panicked for a second when I saw that Ash, but worked out at the end.",
+      "created_ts": "2025-08-31T21:55:32.226000+0000",
+      "content_href": "https://v.redd.it/l73esd5lffmf1",
+      "content_preview": "",
       "flair": [
         "Gameplay"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5z4abs/styles/profileIcon_0eaorwiiflo81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=538818087d89e0b1e0cee4e2658f59bada591c34",
+      "is_promoted": false
     },
     {
-      "title": "Constructive thoughts",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n6ez0w/constructive_thoughts/",
+      "title": "Every time I watch this it upsets me more and more",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n8x2a2/every_time_i_watch_this_it_upsets_me_more_and_more/",
+      "score": 21,
+      "comments": 17,
+      "post_id": "t3_1n8x2a2",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Thehexedmoth",
+      "author_id": "t2_1772j8e0wx",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-09-05T05:41:34.777000+0000",
+      "content_href": "https://v.redd.it/wnxu9k9eaanf1",
+      "content_preview": "",
+      "flair": [
+        "Gameplay"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/every-time-i-watch-this-it-upsets-me-more-and-more-v0-NHpyZzE1NWVhYW5mMcj4f_fHKUxAunp2GmmcjkeEWDckbfVcSAplY7cPubYy.png?width=640&crop=smart&format=pjpg&auto=webp&s=1f2b285f61349f77657c8cf34f855854831364f1",
+      "is_promoted": false
+    },
+    {
+      "title": "Felt pretty slick",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n90bmb/felt_pretty_slick/",
       "score": 1,
       "comments": 0,
-      "post_id": "t3_1n6ez0w",
-      "post_type": "link",
-      "domain": "medal.tv",
-      "author": "Pierreup25",
-      "author_id": "t2_2ih6nn5m",
+      "post_id": "t3_1n90bmb",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Hashiii777",
+      "author_id": "t2_48w1xd9d",
       "subreddit_id": "t5_rgzzt",
       "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-02T09:33:37.420000+0000",
-      "content_href": "https://medal.tv/games/apex-legends/clips/l17nkWNjjknL5LUwC",
+      "created_ts": "2025-09-05T09:11:53.926000+0000",
+      "content_href": "https://v.redd.it/evph7daxbbnf1",
       "content_preview": "",
       "flair": [
         "Gameplay"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://external-preview.redd.it/felt-pretty-slick-v0-ZnJvdGJ0YnhiYm5mMXAdf2ZEH7Gf0IgCZkoLIhONMZMWBcCblHqIneQldgJi.png?width=640&crop=smart&format=pjpg&auto=webp&s=5af99f3472312f660043e372b9e5d11c267cb28f",
+      "is_promoted": false
     },
     {
       "title": "now thats what i call a gyaaat",
       "permalink": "https://www.reddit.com/r/apexlegends/comments/1mup8s3/now_thats_what_i_call_a_gyaaat/",
-      "score": 3316,
-      "comments": 237,
+      "score": 3334,
+      "comments": 238,
       "post_id": "t3_1mup8s3",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -184,112 +610,137 @@
       "flair": [
         "News"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
-      "title": "There's more, but this was the best bit. Someone sign this Wraith to ALGS.",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n66wpj/theres_more_but_this_was_the_best_bit_someone/",
-      "score": 46,
-      "comments": 5,
-      "post_id": "t3_1n66wpj",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "skullfucyou",
-      "author_id": "t2_r9vksyu",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-02T01:42:09.170000+0000",
-      "content_href": "https://v.redd.it/1yi3srfaonmf1",
-      "content_preview": "",
-      "flair": [
-        "Gameplay"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/theres-more-but-this-was-the-best-bit-someone-sign-this-v0-cjRmMWdqZ2Fvbm1mMSxNaqdgJUmzz5L5XXh6FgC5gVGCtkGar_Sq89ixceyE.png?width=640&crop=smart&format=pjpg&auto=webp&s=c97582d8636529dbdff947e4121f3fc7465e928b"
-    },
-    {
-      "title": "R99 made by me. Finished just after the Flatline and R301.",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n2l44n/r99_made_by_me_finished_just_after_the_flatline/",
-      "score": 882,
-      "comments": 33,
-      "post_id": "t3_1n2l44n",
+      "title": "Ranked Distribution",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n89gv2/ranked_distribution/",
+      "score": 326,
+      "comments": 140,
+      "post_id": "t3_1n89gv2",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "godxgundam",
-      "author_id": "t2_kcwxp",
+      "author": "AyCeeSL8R",
+      "author_id": "t2_e8mtmsz9",
       "subreddit_id": "t5_rgzzt",
       "subreddit": "r/apexlegends",
-      "created_ts": "2025-08-28T19:03:39.503000+0000",
-      "content_href": "https://i.redd.it/j826asj76tlf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Creative"
-      ],
-      "thumbnail_url": "https://preview.redd.it/r99-made-by-me-finished-just-after-the-flatline-and-r301-v0-j826asj76tlf1.jpeg?width=640&crop=smart&auto=webp&s=22aeacd229af6bec6f79dda9711c645a03322c63"
-    },
-    {
-      "title": "really wtf is this?🤷‍♂️someone's room",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n6cws3/really_wtf_is_thissomeones_room/",
-      "score": 13,
-      "comments": 5,
-      "post_id": "t3_1n6cws3",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Impressive-Cold4365",
-      "author_id": "t2_ohj146zcg",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-02T07:17:05.065000+0000",
-      "content_href": "https://i.redd.it/cdvpizgpcpmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Humor"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "This is what my pub lobbies look like - I have a 1.18 kd...",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n2ngai/this_is_what_my_pub_lobbies_look_like_i_have_a/",
-      "score": 801,
-      "comments": 222,
-      "post_id": "t3_1n2ngai",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "hangingoutinhell",
-      "author_id": "t2_vkg0gynq",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-08-28T20:33:43.336000+0000",
-      "content_href": "https://i.redd.it/6bcy7e79ltlf1.png",
+      "created_ts": "2025-09-04T12:59:54.037000+0000",
+      "content_href": "https://i.redd.it/cv67aa3pb5nf1.png",
       "content_preview": "",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://preview.redd.it/this-is-what-my-pub-lobbies-look-like-i-have-a-1-18-kd-v0-6bcy7e79ltlf1.png?width=640&crop=smart&auto=webp&s=6b10e110dcd8530906f77e614ee8b643c93113f1"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "WILDCARD PSA I’ve found aloooot of ppl don’t know..",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n5mfqc/wildcard_psa_ive_found_aloooot_of_ppl_dont_know/",
-      "score": 329,
-      "comments": 66,
-      "post_id": "t3_1n5mfqc",
-      "post_type": "text",
-      "domain": "self.apexlegends",
-      "author": "krystinthecrystal",
-      "author_id": "t2_gil4hadf",
+      "title": "holy mother of jesus!!!!",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n7a6qa/holy_mother_of_jesus/",
+      "score": 1749,
+      "comments": 306,
+      "post_id": "t3_1n7a6qa",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Designer_Tour4228",
+      "author_id": "t2_1gien6f8ei",
       "subreddit_id": "t5_rgzzt",
       "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-01T11:42:10.227000+0000",
-      "content_href": "https://www.reddit.com/r/apexlegends/comments/1n5mfqc/wildcard_psa_ive_found_aloooot_of_ppl_dont_know/",
-      "content_preview": "Opening bins and evo balls (idk what they’re called fr) will respawn your teammates significantly faster!! It seems nobody knows about this/takes advantage of  this and it’s super convenient and helpful!! Please start doing this lol EDIT to add from a commenter: “I'd add that riding a zipline for 5 seconds also lowers the timer. So does using a replicator, knocking an opponent, or ressing an ally. Wiping a team, on the other hand, resets it instantly. even if it's 45 seconds.”",
+      "created_ts": "2025-09-03T09:30:07.544000+0000",
+      "content_href": "https://i.redd.it/cqmnwpxy4xmf1.png",
+      "content_preview": "",
       "flair": [
-        "Useful"
+        "Dev Reply Inside!"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Two birds one stone",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n8ulfo/two_birds_one_stone/",
+      "score": 19,
+      "comments": 1,
+      "post_id": "t3_1n8ulfo",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "iloveapex21",
+      "author_id": "t2_1wwantqjo2",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-09-05T03:25:02.717000+0000",
+      "content_href": "https://v.redd.it/n3267n71m9nf1",
+      "content_preview": "",
+      "flair": [
+        "Gameplay"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Pet hair got you down? BISSELL's FurFinder Headlights illuminates hidden messes. Conquer fur, fast. Shop Now!",
+      "permalink": "https://www.reddit.com/user/BISSELLclean/comments/1n1nqkd/pet_hair_got_you_down_bissells_furfinder/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n1nqkd",
+      "post_type": "image",
+      "domain": "bissell.com",
+      "author": "BISSELLclean",
+      "author_id": "t2_1ffeqdhirr",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-27T17:40:41.620000+0000",
+      "content_href": "https://www.bissell.com/en-us/product/powerclean-furfinder-stick-vacuum-4052.html?utm_source=Reddit&utm_medium=PaidSocial&utm_campaign=ProspectingImpressions&utm_term=Audience&utm_content=[adv:BISSELL][cou:US][ini:Sticks][chn:PaidSocial][plt:Reddit][fun:Prospecting][opt:Impressions][str:Audience]",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_d632bn/styles/profileIcon_j7a9os8tmz7e1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=d0ca5797a1c217e2a999df8a336989ef8b6ddec4",
+      "is_promoted": true
+    },
+    {
+      "title": "Girlfriend made wild shot.",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n5y7vm/girlfriend_made_wild_shot/",
+      "score": 1109,
+      "comments": 32,
+      "post_id": "t3_1n5y7vm",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Daddyyes2021",
+      "author_id": "t2_8g0xa2e5",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-09-01T19:27:18.825000+0000",
+      "content_href": "https://v.redd.it/6zjyhbjqtlmf1",
+      "content_preview": "",
+      "flair": [
+        "Gameplay"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/girlfriend-made-wild-shot-v0-ejh4MTNjanF0bG1mMbBAwYuL7rK0u8nBMimd-aKDMTTnbTY8M5c0KzH0p3Gg.png?width=640&crop=smart&format=pjpg&auto=webp&s=902f4966b312ab9a4c67463e2e67d2a9814aeda7",
+      "is_promoted": false
+    },
+    {
+      "title": "Once connected to the ranking server, the connection is disconnected and cannot be reconnected",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n8vrrh/once_connected_to_the_ranking_server_the/",
+      "score": 10,
+      "comments": 6,
+      "post_id": "t3_1n8vrrh",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Rare-Force1742",
+      "author_id": "t2_1h28w69uii",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-09-05T04:27:10.256000+0000",
+      "content_href": "https://i.redd.it/54jp6jvsw9nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
       "title": "I told my brother I would post it. This is just a cruel joke.",
       "permalink": "https://www.reddit.com/r/apexlegends/comments/1mz9khj/i_told_my_brother_i_would_post_it_this_is_just_a/",
-      "score": 3217,
+      "score": 3227,
       "comments": 48,
       "post_id": "t3_1mz9khj",
       "post_type": "video",
@@ -304,192 +755,13 @@
       "flair": [
         "Humor"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Seer feels really bad",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n60l83/seer_feels_really_bad/",
-      "score": 57,
-      "comments": 52,
-      "post_id": "t3_1n60l83",
-      "post_type": "text",
-      "domain": "self.apexlegends",
-      "author": "DoubIeScuttle",
-      "author_id": "t2_1jh0pqtl65",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-01T20:59:37.434000+0000",
-      "content_href": "https://www.reddit.com/r/apexlegends/comments/1n60l83/seer_feels_really_bad/",
-      "content_preview": "Completely immobile. You take a risk anytime you go for the survey beacons. Long cooldown on ult and tactical. Tactical vision is extremely short. Ult feels like a watered down version of sparrows. Hes been trash for so long. I remember when perks came out they even insta nerfed his perks so he couldn't take both the one that increases passive range and the double tactical charges Its odd seeing how other legends have their kits basically bloated with movement and utility, while Seer is still kept on such a tight leash and never allowed to be anything but F tier",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "Apex Legends Fan Character Concept [OC] - Skulker",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n5wc8n/apex_legends_fan_character_concept_oc_skulker/",
-      "score": 86,
-      "comments": 15,
-      "post_id": "t3_1n5wc8n",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "TrainPerfect7084",
-      "author_id": "t2_8jaabz6su",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-01T18:18:01.590000+0000",
-      "content_href": "https://i.redd.it/q8t4fpa8glmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Creative"
-      ],
-      "thumbnail_url": "https://preview.redd.it/apex-legends-fan-character-concept-skulker-v0-q8t4fpa8glmf1.png?width=640&crop=smart&auto=webp&s=c7b3cf5b0ea173de083d26ae679f4b8a571e6a08"
-    },
-    {
-      "title": "Toxic teammate gets mad during Control game mode and drops some N-bombs",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n6e42m/toxic_teammate_gets_mad_during_control_game_mode/",
-      "score": 0,
-      "comments": 21,
-      "post_id": "t3_1n6e42m",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Kill-R_73",
-      "author_id": "t2_1ww12wzz",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-02T08:37:07.372000+0000",
-      "content_href": "https://v.redd.it/5q6eh85bqpmf1",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/toxic-teammate-gets-mad-during-control-game-mode-and-drops-v0-Mnk0cXA5NWJxcG1mMYPPUtuF-HHjqg1McCT7PUbxwmUzh56-nMMklYqjdlY7.png?width=640&crop=smart&format=pjpg&auto=webp&s=9b63e9079eb3ca9647b130c51ea4877118a38439"
-    },
-    {
-      "title": "Hit this cool headshot",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n628pz/hit_this_cool_headshot/",
-      "score": 27,
-      "comments": 4,
-      "post_id": "t3_1n628pz",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "TexasBuns",
-      "author_id": "t2_9isqs",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-01T22:06:31.797000+0000",
-      "content_href": "https://v.redd.it/ec833epfmmmf1",
-      "content_preview": "",
-      "flair": [
-        "Gameplay"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/hit-this-cool-headshot-v0-bGVwYW5yZ2ZtbW1mMXmxSYm6LWCjZyYrj0OZadAGjTot5iZ56HKIAWOdNl0r.png?width=640&crop=smart&format=pjpg&auto=webp&s=9cddfa0a0e4e3380e63db16582ae3b82e2fd4bad"
-    },
-    {
-      "title": "Apex Legends S26 Ranked Meta Tier List – Updated",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n5z7jn/apex_legends_s26_ranked_meta_tier_list_updated/",
-      "score": 39,
-      "comments": 40,
-      "post_id": "t3_1n5z7jn",
-      "post_type": "multi_media",
-      "domain": "self.apexlegends",
-      "author": "Anuefhere",
-      "author_id": "t2_p31noz8zv",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-01T20:05:54.196000+0000",
-      "content_href": "https://www.reddit.com/r/apexlegends/comments/1n5z7jn/apex_legends_s26_ranked_meta_tier_list_updated/",
-      "content_preview": "So, I took some of your suggestions and updated the tier list. Of course, this is a subjective tier list . Shoutout to u/nhz1093 , u/ Motor-Front-9176 , and others for the great feedback, your insights helped shape this update! (Legends are ordered within each tier) Disagree? Feel free to share your opinions and takes below! https://preview.redd.it/apex-legends-s26-ranked-meta-tier-list-updated-v0-5sgvtse50mmf1.png",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Wallrunning feels horrible",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n5sbqa/wallrunning_feels_horrible/",
-      "score": 65,
-      "comments": 32,
-      "post_id": "t3_1n5sbqa",
-      "post_type": "text",
-      "domain": "self.apexlegends",
-      "author": "RemoraWasTaken",
-      "author_id": "t2_m50dgwoj1",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-01T15:50:18.897000+0000",
-      "content_href": "https://www.reddit.com/r/apexlegends/comments/1n5sbqa/wallrunning_feels_horrible/",
-      "content_preview": "The map isn’t designed with the intent of wallrunning at all, so you just end up awkwardly wallrunning around rocks and putting you in a horrible position If the wildcard team adds floaty walls to take advantage of that would be super cool thoughts?",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "\"I thought I was out, but they pulled me back in\"",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n579sh/i_thought_i_was_out_but_they_pulled_me_back_in/",
-      "score": 1703,
-      "comments": 33,
-      "post_id": "t3_1n579sh",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "MKUltra187",
-      "author_id": "t2_kezb0x4c",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-08-31T21:55:32.226000+0000",
-      "content_href": "https://v.redd.it/l73esd5lffmf1",
-      "content_preview": "",
-      "flair": [
-        "Gameplay"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_5z4abs/styles/profileIcon_0eaorwiiflo81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=538818087d89e0b1e0cee4e2658f59bada591c34"
-    },
-    {
-      "title": "30-30 Legends",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n5frkj/3030_legends/",
-      "score": 278,
-      "comments": 99,
-      "post_id": "t3_1n5frkj",
-      "post_type": "text",
-      "domain": "self.apexlegends",
-      "author": "DoubIeScuttle",
-      "author_id": "t2_1jh0pqtl65",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-01T04:57:30.014000+0000",
-      "content_href": "https://www.reddit.com/r/apexlegends/comments/1n5frkj/3030_legends/",
-      "content_preview": "Am I crazy or does it feel like EVERYA SINGLE SQUAD is running at least 2 30-30s? Legit I hear the sound of it shooting in my dreams You peek for 1 second and BAM BAM BAM a million 30s from all directions beam you. And they hurt like hell too Why is this gun so damn popular?",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "Comet showers in Apex?",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n21ef4/comet_showers_in_apex/",
-      "score": 725,
-      "comments": 29,
-      "post_id": "t3_1n21ef4",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "N2thedarkness",
-      "author_id": "t2_jiems8xs",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-08-28T03:12:49.906000+0000",
-      "content_href": "https://v.redd.it/bzyfihckgolf1",
-      "content_preview": "",
-      "flair": [
-        "Gameplay"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
       "title": "audio broke on a clutch clip so i improvised",
       "permalink": "https://www.reddit.com/r/apexlegends/comments/1my4ko7/audio_broke_on_a_clutch_clip_so_i_improvised/",
-      "score": 2907,
+      "score": 2916,
       "comments": 67,
       "post_id": "t3_1my4ko7",
       "post_type": "video",
@@ -504,352 +776,282 @@
       "flair": [
         "Gameplay"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     },
     {
-      "title": "Why is Newcastle underused ?",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n62lgr/why_is_newcastle_underused/",
-      "score": 9,
-      "comments": 41,
-      "post_id": "t3_1n62lgr",
-      "post_type": "text",
-      "domain": "self.apexlegends",
-      "author": "Giose1234",
-      "author_id": "t2_5xxt4syzu",
+      "title": "Nice clean wipe",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n90bcq/nice_clean_wipe/",
+      "score": 11,
+      "comments": 0,
+      "post_id": "t3_1n90bcq",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Hashiii777",
+      "author_id": "t2_48w1xd9d",
       "subreddit_id": "t5_rgzzt",
       "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-01T22:21:31.379000+0000",
-      "content_href": "https://www.reddit.com/r/apexlegends/comments/1n62lgr/why_is_newcastle_underused/",
-      "content_preview": "Am i dumb or i think Newcastle is geniually top 5 legends rn ? Like his passive is massively usefull and can clutch up bad scenarios . His tactical is one of the best tacticals in the game , providing u movable cover which is paired very good with the pk which is busted . And the ult which Has 1300 HP (with the purple upgrade) and can zap any throwables . He Has only 2.5% in diamond . A wraith o Maggie is higher . Is the Newcastle underused bc hes hard to Play or what ?",
+      "created_ts": "2025-09-05T09:11:28.560000+0000",
+      "content_href": "https://v.redd.it/x121foaubbnf1",
+      "content_preview": "",
+      "flair": [
+        "Gameplay"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/nice-clean-wipe-v0-N283NzY0Y3ViYm5mMY_eP2xuCWv5GxXmMk39fXaIJvMn_2NbT-cJ3tGNMrK0.png?width=640&crop=smart&format=pjpg&auto=webp&s=2e7b6ccde29a4b0cc13a7c7959ffcaedf79d5140",
+      "is_promoted": false
+    },
+    {
+      "title": "Can't get into a match",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n8ruxd/cant_get_into_a_match/",
+      "score": 14,
+      "comments": 12,
+      "post_id": "t3_1n8ruxd",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "SailorShea",
+      "author_id": "t2_t3dn6xwe9",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-09-05T01:11:48.054000+0000",
+      "content_href": "https://i.redd.it/rnxtnar9y8nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Support"
+      ],
+      "thumbnail_url": "https://preview.redd.it/cant-get-into-a-match-v0-rnxtnar9y8nf1.jpeg?width=640&crop=smart&auto=webp&s=b9a99346e6ff25fb5b9ca73ead54cd0e64a01243",
+      "is_promoted": false
+    },
+    {
+      "title": "5 years of playing apex and this loss hurt more than any other",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n6kut3/5_years_of_playing_apex_and_this_loss_hurt_more/",
+      "score": 1015,
+      "comments": 147,
+      "post_id": "t3_1n6kut3",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "imVeryPregnant",
+      "author_id": "t2_1k8inahcsi",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-09-02T14:22:42.973000+0000",
+      "content_href": "https://v.redd.it/fa02ga7ngrmf1",
+      "content_preview": "",
+      "flair": [
+        "Humor"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/5-years-of-playing-apex-and-this-loss-hurt-more-than-any-v0-aTN2Y211NW5ncm1mMTO5bNR9VUxcPHuSQSuSsOvWFMKXB87zUHlkNlIH4dMA.png?width=640&crop=smart&format=pjpg&auto=webp&s=ade6447732c7647d4cc9f62eeaf46846520f7480",
+      "is_promoted": false
+    },
+    {
+      "title": "Trade CME Group futures products with competitive margin rates.",
+      "permalink": "https://www.reddit.com/user/TradeStation/comments/1ie8ct9/trade_cme_group_futures_products_with_competitive/",
+      "score": 582,
+      "comments": 0,
+      "post_id": "t3_1ie8ct9",
+      "post_type": "image",
+      "domain": "tradestation.com",
+      "author": "TradeStation",
+      "author_id": "t2_c7zgafst",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-01-31T06:04:14.503000+0000",
+      "content_href": "https://www.tradestation.com/promo/energy/?utm_source=reddit&utm_medium=paidsocial&utm_campaign=evr_con_psp-ros_jan2025&utm_content=ts_fut_bns_FuelV1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4gay8m/styles/profileIcon_pl31v8tnj1nb1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=fd2cfc3f92d4ec1dcf6c0db33c7707f4267afc42",
+      "is_promoted": true
+    },
+    {
+      "title": "Just sentinel bonks",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n90adj/just_sentinel_bonks/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1n90adj",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Hashiii777",
+      "author_id": "t2_48w1xd9d",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-09-05T09:09:46.510000+0000",
+      "content_href": "https://v.redd.it/mtkb2akjbbnf1",
+      "content_preview": "",
+      "flair": [
+        "Gameplay"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/just-sentinel-bonks-v0-ZGtoNjhpbWpiYm5mMbzyRvZW5n-LiBstTrJ0_R8fD6zV1fzV1tGEdmDi2td5.png?width=640&crop=smart&format=pjpg&auto=webp&s=cdef30a30cf8af9c447ef84fa090de1da8dccbf7",
+      "is_promoted": false
+    },
+    {
+      "title": "This is the stupidest way I’ve won Wildcard",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n5t80z/this_is_the_stupidest_way_ive_won_wildcard/",
+      "score": 690,
+      "comments": 38,
+      "post_id": "t3_1n5t80z",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Baggit74",
+      "author_id": "t2_mu9awrxz",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-09-01T16:23:11.834000+0000",
+      "content_href": "https://v.redd.it/tmwcc6y7xkmf1",
+      "content_preview": "",
+      "flair": [
+        "Gameplay"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6c63rh/styles/profileIcon_q1r5n24hncka1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c43080807e2ff976653f6555a67317844621c96c",
+      "is_promoted": false
+    },
+    {
+      "title": "Hollow rock on Storm Point",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n8d8vg/hollow_rock_on_storm_point/",
+      "score": 83,
+      "comments": 5,
+      "post_id": "t3_1n8d8vg",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Marshmallow_Vibes",
+      "author_id": "t2_1dkp7t52",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-09-04T15:25:42.929000+0000",
+      "content_href": "https://v.redd.it/vvxa8mvl16nf1",
+      "content_preview": "",
+      "flair": [
+        "Gameplay"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Server Issues.",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n8r912/server_issues/",
+      "score": 13,
+      "comments": 3,
+      "post_id": "t3_1n8r912",
+      "post_type": "text",
+      "domain": "self.apexlegends",
+      "author": "GreedoIsHere",
+      "author_id": "t2_yo8t6",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-09-05T00:43:08.701000+0000",
+      "content_href": "https://www.reddit.com/r/apexlegends/comments/1n8r912/server_issues/",
+      "content_preview": "I’ve had my game crash several times tonight. Is anyone else having this issue?Once it kicks me it won’t allow me to reconnect, either.",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://styles.redditmedia.com/t5_aryj7/styles/profileIcon_w788h1xvvtq61.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=41885a92705f3931fcbc054fdde926af6b3c5a39",
+      "is_promoted": false
     },
     {
-      "title": "Upgraded to a 9950x3d and now my game is running terrible",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n5h1dd/upgraded_to_a_9950x3d_and_now_my_game_is_running/",
-      "score": 156,
-      "comments": 115,
-      "post_id": "t3_1n5h1dd",
+      "title": "This is ridiculous. Let us reload near a replicator ffs",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n0t4xe/this_is_ridiculous_let_us_reload_near_a/",
+      "score": 2628,
+      "comments": 231,
+      "post_id": "t3_1n0t4xe",
       "post_type": "video",
       "domain": "v.redd.it",
-      "author": "Mythicalblu",
-      "author_id": "t2_10pln16r6z",
+      "author": "bigmatt_94",
+      "author_id": "t2_hxj35v8",
       "subreddit_id": "t5_rgzzt",
       "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-01T06:11:44.761000+0000",
-      "content_href": "https://v.redd.it/qgda4li2whmf1",
-      "content_preview": "",
-      "flair": [
-        "Bug"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/upgraded-to-a-9950x3d-and-now-my-game-is-running-terrible-v0-Z3A5eGY2eTF3aG1mMQnjjMIL2G1Hc4JmQKruglqaWSxb4IzkJhyW2xqhTZL0.png?width=640&crop=smart&format=pjpg&auto=webp&s=6ad1c836d2105c422c88773326d273590310e9ec"
-    },
-    {
-      "title": "From all the Valkyrie mains to Respawn. No one wanted this, no one likes it. Please remove the green tint from her 'HUD', it looks terrible. Thank you.",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n56sci/from_all_the_valkyrie_mains_to_respawn_no_one/",
-      "score": 641,
-      "comments": 75,
-      "post_id": "t3_1n56sci",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "APater6076",
-      "author_id": "t2_qrwru",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-08-31T21:34:29.742000+0000",
-      "content_href": "https://i.redd.it/9216kjdmbfmf1.jpeg",
+      "created_ts": "2025-08-26T18:03:48.436000+0000",
+      "content_href": "https://v.redd.it/kn5jojbnlelf1",
       "content_preview": "",
       "flair": [
         "Feedback"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://external-preview.redd.it/this-is-ridiculous-let-us-reload-near-a-replicator-ffs-v0-OWk0emoyZW5sZWxmMZdOnkCFP3EAXpEMwydg5dAjBHDmbes2Gv0lb0KzH5Dr.png?width=640&crop=smart&format=pjpg&auto=webp&s=7b29aba9be835350236390d4a97745577e8b86f9",
+      "is_promoted": false
     },
     {
-      "title": "Sometimes all it takes is a frag thrown out of desperation",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n5o90w/sometimes_all_it_takes_is_a_frag_thrown_out_of/",
-      "score": 30,
-      "comments": 3,
-      "post_id": "t3_1n5o90w",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "RareSpicyPepe",
-      "author_id": "t2_31s3k774",
+      "title": "instant losses in performance display, need help",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n8ze8o/instant_losses_in_performance_display_need_help/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1n8ze8o",
+      "post_type": "text",
+      "domain": "self.apexlegends",
+      "author": "PerceptionRealised",
+      "author_id": "t2_3bbtpsit",
       "subreddit_id": "t5_rgzzt",
       "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-01T13:08:42.642000+0000",
-      "content_href": "https://v.redd.it/pks5odedyjmf1",
-      "content_preview": "",
+      "created_ts": "2025-09-05T08:10:55.857000+0000",
+      "content_href": "https://www.reddit.com/r/apexlegends/comments/1n8ze8o/instant_losses_in_performance_display_need_help/",
+      "content_preview": "i have performance display enabled, my losses go from 0 to 100 in less than 2 seconds.i had no issues until recently.i have restart my internet, verified game files, used command prompt ping to check if i had connection timeouts - which i had none. i have also used exitlag, on which it was fine for first 30s but then the losses went up to 100 and i got disconnected again.it happens in all modes. please help.",
       "flair": [
-        "Gameplay"
+        "Support"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/sometimes-all-it-takes-is-a-frag-thrown-out-of-desperation-v0-dDd1ZzA4OWN5am1mMVMdeRUkPrult-ppMOyGKITEJZeq80RKys3FC3-rWA4p.png?width=640&crop=smart&format=pjpg&auto=webp&s=81014d71f2ac643494c00b871980157b84829167"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "Plats against preds…",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n5lwf5/plats_against_preds/",
-      "score": 42,
-      "comments": 9,
-      "post_id": "t3_1n5lwf5",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Headniz",
-      "author_id": "t2_lnavcbu",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-01T11:12:31.433000+0000",
-      "content_href": "https://i.redd.it/mp482v7sdjmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://preview.redd.it/plats-against-preds-v0-mp482v7sdjmf1.jpeg?width=640&crop=smart&auto=webp&s=918d4d038645facd45858701e9494a11100ab51e"
-    },
-    {
-      "title": "We ball",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n5r1jj/we_ball/",
-      "score": 19,
-      "comments": 2,
-      "post_id": "t3_1n5r1jj",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "whystarfallYT",
-      "author_id": "t2_1wnp50i61b",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-01T15:01:23.884000+0000",
-      "content_href": "https://v.redd.it/qdlrfvmmikmf1",
-      "content_preview": "",
-      "flair": [
-        "Gameplay"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "I try",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n5p5vn/i_try/",
+      "title": "Arrows on floor?",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n8kflx/arrows_on_floor/",
       "score": 22,
-      "comments": 2,
-      "post_id": "t3_1n5p5vn",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "whystarfallYT",
-      "author_id": "t2_1wnp50i61b",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-01T13:47:27.971000+0000",
-      "content_href": "https://v.redd.it/o56iotoe5kmf1",
-      "content_preview": "",
-      "flair": [
-        "Gameplay"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "Apex Legends Popularity Poll posted by EA Japan",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1mzlzmn/apex_legends_popularity_poll_posted_by_ea_japan/",
-      "score": 673,
-      "comments": 98,
-      "post_id": "t3_1mzlzmn",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Antonite7",
-      "author_id": "t2_18475bgm",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-08-25T09:39:32.787000+0000",
-      "content_href": "https://i.redd.it/091f691uy4lf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://preview.redd.it/apex-legends-popularity-poll-posted-by-ea-japan-v0-091f691uy4lf1.jpeg?width=640&crop=smart&auto=webp&s=cc76deeff223bec65c8b386df9f0a8238fd33167"
-    },
-    {
-      "title": "Uhhh, I just randomly died in wildcard?",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n3oj4c/uhhh_i_just_randomly_died_in_wildcard/",
-      "score": 618,
-      "comments": 74,
-      "post_id": "t3_1n3oj4c",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Beneficial-Nail5944",
-      "author_id": "t2_10tx57gg1a",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-08-30T01:00:28.867000+0000",
-      "content_href": "https://v.redd.it/8kngs69s22mf1",
-      "content_preview": "",
-      "flair": [
-        "Gameplay"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/uhhh-i-just-randomly-died-in-wildcard-v0-OTV5M2FiN3MyMm1mMZnCmOf7vmPsArRLu_XQtNRHjKGh0i8aNWmixqWcZk5S.png?width=640&crop=smart&format=pjpg&auto=webp&s=cd168cd99cef5d88497a402c05473e5e7433bb8b"
-    },
-    {
-      "title": "Is this how you use the kraber?",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n53sqi/is_this_how_you_use_the_kraber/",
-      "score": 621,
-      "comments": 18,
-      "post_id": "t3_1n53sqi",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "glxy_HAzor",
-      "author_id": "t2_54tu66xk",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-08-31T19:33:04.381000+0000",
-      "content_href": "https://v.redd.it/0oflmh26qemf1",
-      "content_preview": "",
-      "flair": [
-        "Gameplay"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/is-this-how-you-use-the-kraber-v0-Z21nN2VmMjZxZW1mMa_VnLKqkxzwNRtsuOSzgPe-UOdj3o0L9iAl3ZpQf2N5.png?width=640&crop=smart&format=pjpg&auto=webp&s=80e71eeb1018ff08bf0eee1fbe09ae50f21151f9"
-    },
-    {
-      "title": "What's wrong with solo ranked?",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n6e349/whats_wrong_with_solo_ranked/",
-      "score": 5,
-      "comments": 7,
-      "post_id": "t3_1n6e349",
-      "post_type": "text",
-      "domain": "self.apexlegends",
-      "author": "Rhinofishdog",
-      "author_id": "t2_2a05s8l1",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-02T08:35:18.762000+0000",
-      "content_href": "https://www.reddit.com/r/apexlegends/comments/1n6e349/whats_wrong_with_solo_ranked/",
-      "content_preview": "People loot a long, LONG time. I'm talking 3x-5x the time me and my buddies usually take. But they completely ignore stuff like care packages, evo cache, survey beacon, ring console. If there is an invasion people just ignore it and continue looting until they die 1v3. Having a blue light mag is more important than a care package and evo cache apparently. After they are done looting they *immediately* suicide push between 2 squads. 50% chance they will split up and push 2 separate squads. Inevitable mic swearing after they die. Comms are only active for swearing and looting pings, all other comms info during the game is ignored. These are like 70% of the games. Another 20% are with normal people. The last 10% I am with somebody that is clearly beyond my skill and basically carries the team to victory or at least top 5 with like 4k damage and I get a ton of points so I never drop rank... Is this normal? Am I doing something wrong lol? This is in Gold 2/3....",
-      "flair": [
-        "Gameplay"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Conduit Poster [OC]",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n5m3rt/conduit_poster_oc/",
-      "score": 32,
-      "comments": 6,
-      "post_id": "t3_1n5m3rt",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "PixelPerfect0_o",
-      "author_id": "t2_qrc3wzcy3",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-01T11:23:51.306000+0000",
-      "content_href": "https://i.redd.it/bdlmfqehfjmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Creative"
-      ],
-      "thumbnail_url": "https://preview.redd.it/conduit-poster-v0-bdlmfqehfjmf1.png?width=640&crop=smart&auto=webp&s=71d017ab5020a34443eb41b26f484de87e66872f"
-    },
-    {
-      "title": "Gibby prestige skin",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n6dlpe/gibby_prestige_skin/",
-      "score": 2,
-      "comments": 2,
-      "post_id": "t3_1n6dlpe",
-      "post_type": "text",
-      "domain": "self.apexlegends",
-      "author": "VariationExtreme2338",
-      "author_id": "t2_5p977cja",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-02T08:02:31.353000+0000",
-      "content_href": "https://www.reddit.com/r/apexlegends/comments/1n6dlpe/gibby_prestige_skin/",
-      "content_preview": "Hey everyone. Why is it that there is no gibby prestige skin ? , one of the original characters but no skin. So many newer legends got the prestige skins but no love for gibby.",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "What is your winning record?",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n6dkm7/what_is_your_winning_record/",
-      "score": 0,
       "comments": 10,
-      "post_id": "t3_1n6dkm7",
+      "post_id": "t3_1n8kflx",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "f_biz_f_",
-      "author_id": "t2_1wo98f7in3",
+      "author": "IgneosV",
+      "author_id": "t2_8jfw98ss",
       "subreddit_id": "t5_rgzzt",
       "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-02T08:00:44.401000+0000",
-      "content_href": "https://i.redd.it/jxrpbryhkpmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "PC"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "How do you like it? I think 1 in 3 is normal",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n6d0xr/how_do_you_like_it_i_think_1_in_3_is_normal/",
-      "score": 0,
-      "comments": 12,
-      "post_id": "t3_1n6d0xr",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "f_biz_f_",
-      "author_id": "t2_1wo98f7in3",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-02T07:24:30.379000+0000",
-      "content_href": "https://v.redd.it/oq33ktyzdpmf1",
+      "created_ts": "2025-09-04T19:57:15.602000+0000",
+      "content_href": "https://i.redd.it/7qx2q59td7nf1.jpeg",
       "content_preview": "",
       "flair": [
         "Gameplay"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "Are you serious",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n2xs51/are_you_serious/",
-      "score": 571,
-      "comments": 18,
-      "post_id": "t3_1n2xs51",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "breezypips",
-      "author_id": "t2_4pv2sh6q",
+      "title": "People who switched their mains. Why? and do you miss your old main?",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n85bem/people_who_switched_their_mains_why_and_do_you/",
+      "score": 124,
+      "comments": 142,
+      "post_id": "t3_1n85bem",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "JohnN320",
+      "author_id": "t2_gc1io5c",
       "subreddit_id": "t5_rgzzt",
       "subreddit": "r/apexlegends",
-      "created_ts": "2025-08-29T04:19:41.122000+0000",
-      "content_href": "https://v.redd.it/aonrncoexvlf1",
+      "created_ts": "2025-09-04T09:18:01.434000+0000",
+      "content_href": "https://i.redd.it/dj4wldl384nf1.png",
       "content_preview": "",
       "flair": [
-        "Gameplay"
+        "Discussion"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://preview.redd.it/people-who-switched-their-mains-why-and-do-you-miss-your-v0-dj4wldl384nf1.png?width=640&crop=smart&auto=webp&s=9b7bd3274fd31e8d31a6d85014b7a7bfeb82ab28",
+      "is_promoted": false
     },
     {
-      "title": "My Experience Playing Apex",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n6b14a/my_experience_playing_apex/",
+      "title": "Step into the world of prep — and make it yours. Fast-track your fall wardrobe with the latest from Tommy.",
+      "permalink": "https://www.reddit.com/user/tommyhilfiger/comments/1n03miv/step_into_the_world_of_prep_and_make_it_yours/",
       "score": 1,
       "comments": 0,
-      "post_id": "t3_1n6b14a",
-      "post_type": "text",
-      "domain": "self.apexlegends",
-      "author": "Ragegodz1",
-      "author_id": "t2_bp4va9o0",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-02T05:18:55.758000+0000",
-      "content_href": "https://www.reddit.com/r/apexlegends/comments/1n6b14a/my_experience_playing_apex/",
-      "content_preview": "I’m a player from Peru, South America. The game is really fun, and I’ve been playing it continuously for about a year. Over the past couple of months, I started watching movement and aim guides to learn and improve. I managed to reach Diamond, and everything was very enjoyable up to that point. However, despite how fun the game is, there has been one problem from the very beginning for South American players: the ping. Unfortunately, there isn’t a comfortable server for players from the southern part of South America. Our only two options are the United States and Brazil—each with its own unbearable issues. The US servers are unstable; you can play with a variable ping of 100 to 160 on good days without packet loss. The other “option,” which really isn’t an option, is Brazil. The ping there is just as bad or worse than the US, and on top of that, there’s barely any player base. If you do manage to find a match, it’s only after waiting five times longer than in the US servers. Sadly, today I’m quitting the game. Playing with 120 ping is already a challenge, but in the past few weeks, there have been hours where it spikes up to 300 ping with 20% packet loss in an erratic way. It would be amazing if a server could be implemented for the southern part of South America so that countries like Argentina, Peru, Chile, Colombia, and others could truly enjoy the game.",
-      "flair": [
-        "Feedback"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "post_id": "t3_1n03miv",
+      "post_type": "video",
+      "domain": "usa.tommy.com",
+      "author": "tommyhilfiger",
+      "author_id": "t2_zt41lyrey",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-25T21:42:14.762000+0000",
+      "content_href": "https://v.redd.it/gdifp9w827lf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bgr4xg/styles/profileIcon_90dt17fosyge1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=642257a8222033886d0033c1ba3134541b4b9c09",
+      "is_promoted": true
     },
     {
       "title": "Loba hit the nastiest griddy",
       "permalink": "https://www.reddit.com/r/apexlegends/comments/1mvedsj/loba_hit_the_nastiest_griddy/",
-      "score": 2545,
+      "score": 2550,
       "comments": 35,
       "post_id": "t3_1mvedsj",
       "post_type": "video",
@@ -864,107 +1066,29 @@
       "flair": [
         "Humor"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_ejhsju/styles/profileIcon_3vmv9622ppgf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=97f381dafe21d71c45bf83e3c2ba2a4f82452d2f"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ejhsju/styles/profileIcon_3vmv9622ppgf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=97f381dafe21d71c45bf83e3c2ba2a4f82452d2f",
+      "is_promoted": false
     },
     {
-      "title": "Someone come in clutch real quick",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n6al9p/someone_come_in_clutch_real_quick/",
-      "score": 0,
-      "comments": 0,
-      "post_id": "t3_1n6al9p",
-      "post_type": "link",
-      "domain": "cash.app",
-      "author": "SearchZealousideal22",
-      "author_id": "t2_7r6ft722",
+      "title": "From all the Valkyrie mains to Respawn. No one wanted this, no one likes it. Please remove the green tint from her 'HUD', it looks terrible. Thank you.",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n56sci/from_all_the_valkyrie_mains_to_respawn_no_one/",
+      "score": 683,
+      "comments": 83,
+      "post_id": "t3_1n56sci",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "APater6076",
+      "author_id": "t2_qrwru",
       "subreddit_id": "t5_rgzzt",
       "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-02T04:52:55.302000+0000",
-      "content_href": "https://cash.app/app/QCNXDJZ",
+      "created_ts": "2025-08-31T21:34:29.742000+0000",
+      "content_href": "https://i.redd.it/9216kjdmbfmf1.jpeg",
       "content_preview": "",
       "flair": [
-        "News"
+        "Dev Reply Inside!"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Mixtape should have smaller and better maps",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n5z2mm/mixtape_should_have_smaller_and_better_maps/",
-      "score": 6,
-      "comments": 8,
-      "post_id": "t3_1n5z2mm",
-      "post_type": "text",
-      "domain": "self.apexlegends",
-      "author": "MRxJIN",
-      "author_id": "t2_d8ydcr9p",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-01T20:00:37.407000+0000",
-      "content_href": "https://www.reddit.com/r/apexlegends/comments/1n5z2mm/mixtape_should_have_smaller_and_better_maps/",
-      "content_preview": "When i play team death match or gun game the maps are Fking HUGE and bad and specially control mode the map is massive and i hate it and i hate their designs because it takes a lot more time to get in a fight. I wish they make it more smaller and better designs than this… oh wait it is just a copy paste from the BR maps. Im sorry but that just lazy, wish they take it more seriously.",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Be very careful when chasing a solo. Especially a Rampart into a building.",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1mzs8ns/be_very_careful_when_chasing_a_solo_especially_a/",
-      "score": 563,
-      "comments": 33,
-      "post_id": "t3_1mzs8ns",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "JCarby23",
-      "author_id": "t2_4417g57c",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-08-25T14:38:01.557000+0000",
-      "content_href": "https://v.redd.it/79q2r9y2g6lf1",
-      "content_preview": "",
-      "flair": [
-        "Gameplay"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Caustic Needs a Buff",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n2gr3s/caustic_needs_a_buff/",
-      "score": 558,
-      "comments": 127,
-      "post_id": "t3_1n2gr3s",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "CarpenterEcstatic308",
-      "author_id": "t2_h25n95ie",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-08-28T16:19:59.932000+0000",
-      "content_href": "https://v.redd.it/3ill584zcslf1",
-      "content_preview": "",
-      "flair": [
-        "Gameplay"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "Bat combo so OP I had to hit it in my own game",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n696uu/bat_combo_so_op_i_had_to_hit_it_in_my_own_game/",
-      "score": 0,
-      "comments": 3,
-      "post_id": "t3_1n696uu",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Carbon_Devy1",
-      "author_id": "t2_douppcl5",
-      "subreddit_id": "t5_rgzzt",
-      "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-02T03:35:29.661000+0000",
-      "content_href": "https://v.redd.it/gie62csv8omf1",
-      "content_preview": "",
-      "flair": [
-        "Creative"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/bat-combo-so-op-i-had-to-hit-it-in-my-own-game-v0-MDlpd2Nkc3Y4b21mMfv0CbvDli3-Gc-GYlBuikCHHanBiSHM37YAC56L0SLg.png?width=640&crop=smart&format=pjpg&auto=webp&s=2b925f6c5070dbc20ed21db9d1399532f4d1e753"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
       "title": "Another \"isolate your 1v1s\" type clip",
@@ -984,28 +1108,467 @@
       "flair": [
         "Gameplay"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_6ec5wn/styles/profileIcon_stx52oc16aad1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=45b9490f1d2e1d5f54060409ae4c10a782baa024"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6ec5wn/styles/profileIcon_stx52oc16aad1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=45b9490f1d2e1d5f54060409ae4c10a782baa024",
+      "is_promoted": false
     },
     {
-      "title": "The Challenger points are worse than before - this was 3rd place while taking out Pred #31 and a Master.",
-      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n5crek/the_challenger_points_are_worse_than_before_this/",
-      "score": 156,
-      "comments": 32,
-      "post_id": "t3_1n5crek",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Optimus_the_Octopus",
-      "author_id": "t2_ebzdl",
+      "title": "Is this how you use the kraber?",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n53sqi/is_this_how_you_use_the_kraber/",
+      "score": 676,
+      "comments": 24,
+      "post_id": "t3_1n53sqi",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "glxy_HAzor",
+      "author_id": "t2_54tu66xk",
       "subreddit_id": "t5_rgzzt",
       "subreddit": "r/apexlegends",
-      "created_ts": "2025-09-01T02:18:45.305000+0000",
-      "content_href": "https://i.redd.it/g5n59l8dqgmf1.jpeg",
+      "created_ts": "2025-08-31T19:33:04.381000+0000",
+      "content_href": "https://v.redd.it/0oflmh26qemf1",
+      "content_preview": "",
+      "flair": [
+        "Gameplay"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/is-this-how-you-use-the-kraber-v0-Z21nN2VmMjZxZW1mMa_VnLKqkxzwNRtsuOSzgPe-UOdj3o0L9iAl3ZpQf2N5.png?width=640&crop=smart&format=pjpg&auto=webp&s=80e71eeb1018ff08bf0eee1fbe09ae50f21151f9",
+      "is_promoted": false
+    },
+    {
+      "title": "Uhhh, I just randomly died in wildcard?",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n3oj4c/uhhh_i_just_randomly_died_in_wildcard/",
+      "score": 626,
+      "comments": 75,
+      "post_id": "t3_1n3oj4c",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Beneficial-Nail5944",
+      "author_id": "t2_10tx57gg1a",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-08-30T01:00:28.867000+0000",
+      "content_href": "https://v.redd.it/8kngs69s22mf1",
+      "content_preview": "",
+      "flair": [
+        "Gameplay"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/uhhh-i-just-randomly-died-in-wildcard-v0-OTV5M2FiN3MyMm1mMZnCmOf7vmPsArRLu_XQtNRHjKGh0i8aNWmixqWcZk5S.png?width=640&crop=smart&format=pjpg&auto=webp&s=cd168cd99cef5d88497a402c05473e5e7433bb8b",
+      "is_promoted": false
+    },
+    {
+      "title": "Are you serious",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n2xs51/are_you_serious/",
+      "score": 578,
+      "comments": 19,
+      "post_id": "t3_1n2xs51",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "breezypips",
+      "author_id": "t2_4pv2sh6q",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-08-29T04:19:41.122000+0000",
+      "content_href": "https://v.redd.it/aonrncoexvlf1",
+      "content_preview": "",
+      "flair": [
+        "Gameplay"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Don’t door lock against an Octane",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n73ibk/dont_door_lock_against_an_octane/",
+      "score": 560,
+      "comments": 15,
+      "post_id": "t3_1n73ibk",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Inconsipcuous_human",
+      "author_id": "t2_6nylxly7",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-09-03T02:52:10.694000+0000",
+      "content_href": "https://v.redd.it/wwt1qvlb6vmf1",
+      "content_preview": "",
+      "flair": [
+        "Gameplay"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/dont-door-lock-against-an-octane-v0-eHVjamU2Y2I2dm1mMV4BQQD4x97P5DzbawkhWS_Doc2Odb-yLRiIYMnaRDZb.png?width=640&crop=smart&format=pjpg&auto=webp&s=921fa8670542e47323003a2c2fe5be7b1fc05bbc",
+      "is_promoted": false
+    },
+    {
+      "title": "You were looking out for someone else. But forgot about yourself. Discover the Volvo XC90 with safety for everyone.",
+      "permalink": "https://www.reddit.com/user/volvocarusa/comments/1mkxjxi/you_were_looking_out_for_someone_else_but_forgot/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mkxjxi",
+      "post_type": "video",
+      "domain": "volvocars.com",
+      "author": "volvocarusa",
+      "author_id": "t2_4o8easx8",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-08T15:01:15.274000+0000",
+      "content_href": "https://v.redd.it/uijy5wy6rrhf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_25j5wo/styles/profileIcon_qwtep57blu281.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=e78f5adefefd0f80179732429f02b18efb5ad471",
+      "is_promoted": true
+    },
+    {
+      "title": "Huh?",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n8r9ph/huh/",
+      "score": 5,
+      "comments": 2,
+      "post_id": "t3_1n8r9ph",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Shouen2",
+      "author_id": "t2_1sba5lpzg9",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-09-05T00:43:58.862000+0000",
+      "content_href": "https://i.redd.it/0f6qv66bt8nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Bug"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_esrsq6/styles/profileIcon_n1u90o0qi8cf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=0ff06e62648eaaa7e9a7706f1ccf668eb17dc305",
+      "is_promoted": false
+    },
+    {
+      "title": "Are you REALLY good at the game if you rely on meta?",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n8yefa/are_you_really_good_at_the_game_if_you_rely_on/",
+      "score": 0,
+      "comments": 24,
+      "post_id": "t3_1n8yefa",
+      "post_type": "text",
+      "domain": "self.apexlegends",
+      "author": "CrossJusticee",
+      "author_id": "t2_tqcqiqypa",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-09-05T07:04:22.184000+0000",
+      "content_href": "https://www.reddit.com/r/apexlegends/comments/1n8yefa/are_you_really_good_at_the_game_if_you_rely_on/",
+      "content_preview": "idk bro imo if you need to run meta to feel good at the game youre just trash. the amount of people crutching RE-45 and caustic in ranked is crazy.",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Has anyone been using this trick in games? When you hang onto a ledge as Wraith (or a similar-sized character), enemies can’t see you, but you can still clearly see what’s happening on the floor above.",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n7daom/has_anyone_been_using_this_trick_in_games_when/",
+      "score": 548,
+      "comments": 38,
+      "post_id": "t3_1n7daom",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Solofire__",
+      "author_id": "t2_12f405q79m",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-09-03T12:21:31.393000+0000",
+      "content_href": "https://i.redd.it/mxjd72yczxmf1.png",
       "content_preview": "",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "https://preview.redd.it/has-anyone-been-using-this-trick-in-games-when-you-hang-v0-mxjd72yczxmf1.png?width=640&crop=smart&auto=webp&s=1d23f4b73f3522c3cade51b0b4b105114b7c39eb",
+      "is_promoted": false
+    },
+    {
+      "title": "Sparrow got an ImperialHal skin",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1musa8j/sparrow_got_an_imperialhal_skin/",
+      "score": 2331,
+      "comments": 158,
+      "post_id": "t3_1musa8j",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "keuptrad",
+      "author_id": "t2_3ebio6xc",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-08-19T19:24:10.468000+0000",
+      "content_href": "https://i.redd.it/n32eov2o11kf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "IMO, they should bring back old RE-45, but exactly as it was. I want it to be an ok weapon that's not meta but viable. Do you agree?",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n8ybe7/imo_they_should_bring_back_old_re45_but_exactly/",
+      "score": 0,
+      "comments": 19,
+      "post_id": "t3_1n8ybe7",
+      "post_type": "text",
+      "domain": "self.apexlegends",
+      "author": "Overall-Ad6173",
+      "author_id": "t2_1qahc94r1f",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-09-05T06:59:24.099000+0000",
+      "content_href": "https://www.reddit.com/r/apexlegends/comments/1n8ybe7/imo_they_should_bring_back_old_re45_but_exactly/",
+      "content_preview": "I absolutely LOVED the old RE45. It wasnt meta and was overshadowed by the R9, but was kinda different. idk if its just me, but i just wish it was reverted back. ik it probs will, but just saying.",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Server problems?",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n8qlp9/server_problems/",
+      "score": 5,
+      "comments": 4,
+      "post_id": "t3_1n8qlp9",
+      "post_type": "text",
+      "domain": "self.apexlegends",
+      "author": "augustasjn06",
+      "author_id": "t2_451l3o2q",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-09-05T00:12:48.847000+0000",
+      "content_href": "https://www.reddit.com/r/apexlegends/comments/1n8qlp9/server_problems/",
+      "content_preview": "So i was playing tonight and got kicked like 6 times. Cant reconnect ether. Is this a problem with my pc or severs?",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "What is something a new apex player can look forward to?",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n8y2gd/what_is_something_a_new_apex_player_can_look/",
+      "score": 1,
+      "comments": 8,
+      "post_id": "t3_1n8y2gd",
+      "post_type": "text",
+      "domain": "self.apexlegends",
+      "author": "Empty_Improvement476",
+      "author_id": "t2_1afoc2qtzg",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-09-05T06:43:37.150000+0000",
+      "content_href": "https://www.reddit.com/r/apexlegends/comments/1n8y2gd/what_is_something_a_new_apex_player_can_look/",
+      "content_preview": "I'm a new player and it seems like I'm so far behind to even the casual players. I drop, I die rn. Before I start is Apex rewarding for new players? Even just general cosmetics are enough but I need something to push me to play it. Or as an experienced player do you think the game is worth picking up for a new players considering the massive skill gap and issues with the game?",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Para la gente más confiable, solo las camionetas más confiables de EE. UU. están a su altura. Porque Cada camioneta y conductor Chevy, llevan la confiabilidad en la sangre.",
+      "permalink": "https://www.reddit.com/user/chevrolet/comments/1l3bpvi/para_la_gente_más_confiable_solo_las_camionetas/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1l3bpvi",
+      "post_type": "video",
+      "domain": "es.chevrolet.com",
+      "author": "chevrolet",
+      "author_id": "t2_hlwx5kra",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-06-04T17:33:21.443000+0000",
+      "content_href": "https://v.redd.it/5c8k4ac3nw4f1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5hy9jd/styles/profileIcon_ngfmph0nzhme1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=daccda134205014a29773cfbfff5c6db074e392d",
+      "is_promoted": true
+    },
+    {
+      "title": "Ranked PK 1v3 on pred squad",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n40fe4/ranked_pk_1v3_on_pred_squad/",
+      "score": 507,
+      "comments": 53,
+      "post_id": "t3_1n40fe4",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Lootscifer",
+      "author_id": "t2_5aqsttpk",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-08-30T12:30:26.229000+0000",
+      "content_href": "https://v.redd.it/6y2yt5cuh5mf1",
+      "content_preview": "",
+      "flair": [
+        "Gameplay"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/ranked-pk-1v3-on-pred-squad-v0-OWxzeWQ0ZHVoNW1mMSv3J6ek6lQcO1m6q3Tl1fuc-s_yxJpGw8TulEGozsny.png?width=640&crop=smart&format=pjpg&auto=webp&s=5cdacfe11ec769efab244f0bd7eda88119cd6cf2",
+      "is_promoted": false
+    },
+    {
+      "title": "Regalo de desconocido",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n8wka9/regalo_de_desconocido/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n8wka9",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "UsedCat837",
+      "author_id": "t2_13nwqpweui",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-09-05T05:12:07.655000+0000",
+      "content_href": "https://i.redd.it/shnoxfg55anf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bv719f/styles/profileIcon_z0msmgmzu8nf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d7efbff25b1b52870a53357c29593bd22f8ec533",
+      "is_promoted": false
+    },
+    {
+      "title": "Dead teammate in chat: “They are bad.” Say less.",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n3xv7d/dead_teammate_in_chat_they_are_bad_say_less/",
+      "score": 429,
+      "comments": 25,
+      "post_id": "t3_1n3xv7d",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "N2thedarkness",
+      "author_id": "t2_jiems8xs",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-08-30T10:04:21.757000+0000",
+      "content_href": "https://v.redd.it/dn0ghh7tr4mf1",
+      "content_preview": "",
+      "flair": [
+        "Gameplay"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "I’m sorry for those of you who solo queue ranked",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n52ylt/im_sorry_for_those_of_you_who_solo_queue_ranked/",
+      "score": 420,
+      "comments": 198,
+      "post_id": "t3_1n52ylt",
+      "post_type": "text",
+      "domain": "self.apexlegends",
+      "author": "CopiumHits",
+      "author_id": "t2_1cdofvvuox",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-08-31T19:00:18.080000+0000",
+      "content_href": "https://www.reddit.com/r/apexlegends/comments/1n52ylt/im_sorry_for_those_of_you_who_solo_queue_ranked/",
+      "content_preview": "I only play ranked with my two friends, and don’t ever solo queue. I usually wont even get on if they aren’t playing.Last night they bailed on me and I decided to just try solo queuing in plat, my god what a nightmare.Played about 7 games in agony. Terrible communication, people not talking the whole time until we die, then going off about on the rest of the team on the mic. Constant solo pushing and getting knocked. Toxic teammates almost every game, crying about everything.My favorite is the guy who got mad at us for landing with him, instead of splitting off, when he was jump master. Called us trash and said he was going afk the rest of the game, waited til we got knocked, took off all his gear and ran into an enemy team.That was the worst experience of Apex Ranked I’ve ever had and will never solo queue again.",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Code net almost every game",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n8p04n/code_net_almost_every_game/",
+      "score": 5,
+      "comments": 2,
+      "post_id": "t3_1n8p04n",
+      "post_type": "text",
+      "domain": "self.apexlegends",
+      "author": "edeprankoopranko",
+      "author_id": "t2_bi6nyt2i",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-09-04T23:01:51.609000+0000",
+      "content_href": "https://www.reddit.com/r/apexlegends/comments/1n8p04n/code_net_almost_every_game/",
+      "content_preview": "XBOX Ranked, I get 100 packet loss almost every game and then get Code net… only me?",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_48ydn6/styles/profileIcon_19fpckgnvus61.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8d1eb4de5dd2e802a4c93b254444cd58dc8eea57",
+      "is_promoted": false
+    },
+    {
+      "title": "I won a match with a animation developer",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1miuvpa/i_won_a_match_with_a_animation_developer/",
+      "score": 2245,
+      "comments": 45,
+      "post_id": "t3_1miuvpa",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Anxious_Hunt3081",
+      "author_id": "t2_sxspdgdq",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-08-06T04:11:56.516000+0000",
+      "content_href": "https://i.redd.it/s64eape2rbhf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Dev Reply Inside!"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i-won-a-match-with-a-animation-developer-v0-s64eape2rbhf1.jpeg?width=640&crop=smart&auto=webp&s=4c5da8cc58a251c464bd8d2c6b86aea27dce07a2",
+      "is_promoted": false
+    },
+    {
+      "title": "World record?",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n8viv8/world_record/",
+      "score": 0,
+      "comments": 5,
+      "post_id": "t3_1n8viv8",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Hectorsrivera5",
+      "author_id": "t2_h0zr33ul",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-09-05T04:13:36.439000+0000",
+      "content_href": "https://i.redd.it/lv9i3bmpu9nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5enum6/styles/profileIcon_85renjcmlp1e1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b654f4ac91067baa11e20b5072c1ee8acae98b26",
+      "is_promoted": false
+    },
+    {
+      "title": "The patch that lowered the overall TTK left immobile legends in the dust",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n7ox4x/the_patch_that_lowered_the_overall_ttk_left/",
+      "score": 390,
+      "comments": 129,
+      "post_id": "t3_1n7ox4x",
+      "post_type": "text",
+      "domain": "self.apexlegends",
+      "author": "DoubIeScuttle",
+      "author_id": "t2_1jh0pqtl65",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-09-03T19:47:29.705000+0000",
+      "content_href": "https://www.reddit.com/r/apexlegends/comments/1n7ox4x/the_patch_that_lowered_the_overall_ttk_left/",
+      "content_preview": "Crypto, Catalyst, Seer, previously Caustic before he got giga buffs.Basically now that you can get 100-0 soooo much faster, you really cant make any positional mistakes as these legendsIf you've got movement, you've got an \"oh shit, I positioned badly but its okay I can just leap or fly or hop to safety\" button on demand. And those same abilities can be used aggressively to punish others' positional mistakesI looooove playing Catalyst, Seer and Crypto but my god its like playing a sitting duck simulator.I really love the skirmisher perk that let's you run faster towards them, but that relies on having a skirmisher (which now that Ash is one, I virtually always have one in my team at least)",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Round 5 10 squads left",
+      "permalink": "https://www.reddit.com/r/apexlegends/comments/1n4czdh/round_5_10_squads_left/",
+      "score": 365,
+      "comments": 83,
+      "post_id": "t3_1n4czdh",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Rich-Day-8116",
+      "author_id": "t2_1gm3rl5hh6",
+      "subreddit_id": "t5_rgzzt",
+      "subreddit": "r/apexlegends",
+      "created_ts": "2025-08-30T21:23:03.126000+0000",
+      "content_href": "https://i.redd.it/01selt9w48mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Gameplay"
+      ],
+      "thumbnail_url": "https://preview.redd.it/round-5-10-squads-left-v0-01selt9w48mf1.jpeg?width=640&crop=smart&auto=webp&s=195c52ec57c94e5abfeaebc8524ab18c72eb1015",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:09:45.378858"
+  "scraped_at": "2025-09-05T03:32:56.651834"
 }

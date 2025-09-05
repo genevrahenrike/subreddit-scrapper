@@ -2,14 +2,963 @@
   "subreddit": "dataisbeautiful",
   "url": "https://www.reddit.com/r/dataisbeautiful",
   "meta": {
-    "title": "DataIsBeautiful"
+    "title": "DataIsBeautiful",
+    "description": "DataIsBeautiful is for visualizations that effectively convey information. \n \n Aesthetics are an important part of information visualization, but pretty pictures are not the sole aim of this subreddit.",
+    "subscribers": 21644928,
+    "online_users": 294,
+    "created_timestamp": "2025-09-05T01:17:04.446000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Bookmarks",
+        "content": [
+          {
+            "text": "Posting Rules",
+            "url": "https://www.reddit.com/r/dataisbeautiful/wiki/index"
+          },
+          {
+            "text": "Top OC of the Week",
+            "url": "https://www.reddit.com/r/dataisbeautiful/search?q=title%3AOC&restrict_sr=on&sort=top&t=week"
+          }
+        ]
+      },
+      {
+        "title": "r/dataisbeautiful Rules",
+        "content": [
+          {
+            "text": "at least one computer generated element.",
+            "url": "/r/dataisbeautiful/wiki/rules/rule5"
+          },
+          {
+            "text": "popular posts",
+            "url": "/r/dataisbeautiful/wiki/rules/rule6"
+          },
+          {
+            "text": "without using sensationalized headlines",
+            "url": "/r/dataisbeautiful/wiki/rules/rule7"
+          },
+          {
+            "text": "American Politics",
+            "url": "/r/dataisbeautiful/wiki/rules/rule8"
+          },
+          {
+            "text": "ET",
+            "url": "https://time.is/ET"
+          },
+          {
+            "text": "Personal Data",
+            "url": "/r/dataisbeautiful/wiki/rules/rule9"
+          },
+          {
+            "text": "ET",
+            "url": "https://time.is/ET"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/dataisbeautiful/moderators/"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "Football Analytics Visuals - Interested to get feedback on xG Stat!",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n6f2u4/football_analytics_visuals_interested_to_get/",
+      "title": "[OC] Where do the bikes go? Mapping the daily pulse of Mexico City’s public bike share",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n8ryw6/oc_where_do_the_bikes_go_mapping_the_daily_pulse/",
+      "score": 102,
+      "comments": 4,
+      "post_id": "t3_1n8ryw6",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Affectionate-File-21",
+      "author_id": "t2_8it3n6j2",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-05T01:17:04.446000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8ryw6",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Child poverty by state in 2023, ranging from 25% in NM to 8% in NH [OC]",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n8qrl9/child_poverty_by_state_in_2023_ranging_from_25_in/",
+      "score": 273,
+      "comments": 33,
+      "post_id": "t3_1n8qrl9",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "OverflowDs",
+      "author_id": "t2_p2din",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-05T00:20:22.751000+0000",
+      "content_href": "https://i.redd.it/jawyn4j8o8nf1.png",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://preview.redd.it/child-poverty-by-state-in-2023-ranging-from-25-in-nm-to-8-v0-jawyn4j8o8nf1.png?width=640&crop=smart&auto=webp&s=bbe29c3f65f1d2e65b5af1a91541a4ce5eb61c85",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC] - How many bills/laws have your legislators sponsored this year so far? Part 2",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n8p7ya/oc_how_many_billslaws_have_your_legislators/",
+      "score": 39,
+      "comments": 4,
+      "post_id": "t3_1n8p7ya",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "TheMatrix2025",
+      "author_id": "t2_f3or81wq",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-04T23:11:07.372000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8p7ya",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://preview.redd.it/how-many-bills-laws-have-your-legislators-sponsored-this-v0-nt2dq6jpb8nf1.png?width=640&crop=smart&auto=webp&s=0ee3ebac74e941afd99767770d25932672a1310c",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC] Key Statistics on Women-Owned Manufacturing Companies in the U.S.",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n8mm6w/oc_key_statistics_on_womenowned_manufacturing/",
+      "score": 0,
+      "comments": 5,
+      "post_id": "t3_1n8mm6w",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "MNI_IndustryData",
+      "author_id": "t2_1w7npdvm55",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-04T21:22:10.520000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8mm6w",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f8p2bf/styles/profileIcon_cqkfmbf96kkf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ba2186d6713094a521b430822fb0bbe7471308bd",
+      "is_promoted": false
+    },
+    {
+      "title": "I found the longest review yet while doing data visualization of Amazon reviews (5000+ words) through 2023.",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n8kwi3/i_found_the_longest_review_yet_while_doing_data/",
+      "score": 44,
+      "comments": 4,
+      "post_id": "t3_1n8kwi3",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Golden_Ratio16",
+      "author_id": "t2_s5xz3uzn",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-04T20:15:21.234000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8kwi3",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6zbi74/styles/profileIcon_8s7gxa10hteb1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=00c2317095e755f06ba75b74a14728db875dfc25",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC] Mass shooters by demographics: transgender vs. cisgender",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n8in5i/oc_mass_shooters_by_demographics_transgender_vs/",
+      "score": 0,
+      "comments": 58,
+      "post_id": "t3_1n8in5i",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Qwert-4",
+      "author_id": "t2_7osvo276",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-04T18:48:32.824000+0000",
+      "content_href": "https://i.redd.it/1r0ho1k517nf1.png",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC] Apple iPhone Battery Life 🪫",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n8gcna/oc_apple_iphone_battery_life/",
+      "score": 0,
+      "comments": 12,
+      "post_id": "t3_1n8gcna",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Peeerkulator",
+      "author_id": "t2_1i85ma2f",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-04T17:21:21.380000+0000",
+      "content_href": "https://i.redd.it/942nlvccm6nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://preview.redd.it/apple-iphone-battery-life-v0-942nlvccm6nf1.jpeg?width=640&crop=smart&auto=webp&s=aa1b2c3e2041ab6b3a9579b5c588a757247e14de",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC] Where Americans agree: finding super majority support across 160 polls, 671 questions",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n8ensw/oc_where_americans_agree_finding_super_majority/",
+      "score": 514,
+      "comments": 143,
+      "post_id": "t3_1n8ensw",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "agreeduponalbert",
+      "author_id": "t2_1c35q8kxu4",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-04T16:18:28.734000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8ensw",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://preview.redd.it/where-americans-agree-finding-super-majority-support-across-v0-nuwicupsa6nf1.png?width=640&crop=smart&auto=webp&s=8a120a0212e119487d74d3e0d9e862c2ffc56f18",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC] Labor force participation rate in Latin America",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n8dm37/oc_labor_force_participation_rate_in_latin_america/",
+      "score": 16,
+      "comments": 2,
+      "post_id": "t3_1n8dm37",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "latinometrics",
+      "author_id": "t2_fkamuuxd",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-04T15:39:37.546000+0000",
+      "content_href": "https://i.redd.it/tnlnxdqt36nf1.png",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_57hdic/styles/profileIcon_nddvhlhpwj3d1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=14ad96e6866c24e4807b43a8c96b5569278c6075",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC] Acceptance of homosexuality in the US by state",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n8ddeu/oc_acceptance_of_homosexuality_in_the_us_by_state/",
+      "score": 5164,
+      "comments": 1027,
+      "post_id": "t3_1n8ddeu",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "_crazyboyhere_",
+      "author_id": "t2_n068jh2k",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-04T15:30:29.539000+0000",
+      "content_href": "https://i.redd.it/bcmowplj26nf1.png",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://preview.redd.it/acceptance-of-homosexuality-in-the-us-by-state-v0-bcmowplj26nf1.png?width=640&crop=smart&auto=webp&s=787d00fe17850e140368ad5c577ddedf5a793f09",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC] NVIDIA Has Created Nearly 5x More Millionaires Than the NBA",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n89cj4/oc_nvidia_has_created_nearly_5x_more_millionaires/",
+      "score": 132,
+      "comments": 44,
+      "post_id": "t3_1n89cj4",
+      "post_type": "gif",
+      "domain": "i.redd.it",
+      "author": "Transferitore",
+      "author_id": "t2_ef4klp3y",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-04T12:54:39.400000+0000",
+      "content_href": "https://i.redd.it/7m4r90mq95nf1.gif",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://preview.redd.it/nvidia-has-created-nearly-5x-more-millionaires-than-the-nba-v0-7m4r90mq95nf1.gif?width=640&crop=smart&format=png8&s=56de69f4ec0a61401e324642ac72aabfb1f02448",
+      "is_promoted": false
+    },
+    {
+      "title": "Henry Schuck on How GTM Intelligence Bridges the Gap Between Strategy and Execution",
+      "permalink": "https://www.reddit.com/r/ZoomInfo/comments/1n2gn64/henry_schuck_on_how_gtm_intelligence_bridges_the/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n6ybi1",
+      "post_type": "video",
+      "domain": "zoominfo.com",
+      "author": "ZoomInfo_Inc",
+      "author_id": "t2_aepoc86g",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-28T16:15:55.144000+0000",
+      "content_href": "https://v.redd.it/387tmuyzaslf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3znvnw/styles/profileIcon_4owopoe2qale1.jpeg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=32312819d273ec4c2eb7fb3f004e279be63d469c",
+      "is_promoted": true
+    },
+    {
+      "title": "Visualizing the Incremental Cost of Bedrooms in Manhattan Neighborhoods [OC]",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n87gn5/visualizing_the_incremental_cost_of_bedrooms_in/",
+      "score": 74,
+      "comments": 12,
+      "post_id": "t3_1n87gn5",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "DataVizHonduran",
+      "author_id": "t2_fnq2om44",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-04T11:23:35.342000+0000",
+      "content_href": "https://i.redd.it/8ff330zau4nf1.png",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://preview.redd.it/visualizing-the-incremental-cost-of-bedrooms-in-manhattan-v0-8ff330zau4nf1.png?width=640&crop=smart&auto=webp&s=6ba4f08acc55b50fb39bc5263e507eb47ff2be13",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC] Population Growth in Norway’s Seven Largest Urban Areas (2000-2024)",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n875th/oc_population_growth_in_norways_seven_largest/",
+      "score": 68,
+      "comments": 14,
+      "post_id": "t3_1n875th",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Frierfjord1",
+      "author_id": "t2_1j9b06qxa3",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-04T11:07:16.362000+0000",
+      "content_href": "https://i.redd.it/008fr6kir4nf1.png",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://preview.redd.it/population-growth-in-norways-seven-largest-urban-areas-2000-v0-008fr6kir4nf1.png?width=640&crop=smart&auto=webp&s=175e2b84ae8d6132fde141afbad44a54a3c0f160",
+      "is_promoted": false
+    },
+    {
+      "title": "People moving into and out of Ireland over time [OC]",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n84j4w/people_moving_into_and_out_of_ireland_over_time_oc/",
+      "score": 207,
+      "comments": 49,
+      "post_id": "t3_1n84j4w",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "cavedave",
+      "author_id": "t2_1vrx",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-04T08:27:00.297000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n84j4w",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://preview.redd.it/people-moving-into-and-out-of-ireland-over-time-v0-bbpik14ry3nf1.png?width=640&crop=smart&auto=webp&s=adba0a9f9e3bba1c702d3ae5b3245ef3a26d509c",
+      "is_promoted": false
+    },
+    {
+      "title": "Golden Spiral of Zeta(3) Convergents [OC]",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n84dyd/golden_spiral_of_zeta3_convergents_oc/",
+      "score": 0,
+      "comments": 5,
+      "post_id": "t3_1n84dyd",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "mdlmgmtOG",
+      "author_id": "t2_80vc0834",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-04T08:17:16.636000+0000",
+      "content_href": "https://i.redd.it/o1idrnt9x3nf1.png",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://preview.redd.it/golden-spiral-of-zeta-3-convergents-v0-o1idrnt9x3nf1.png?width=640&crop=smart&auto=webp&s=efe7b747e267457620a6362811f4eb1e7ea7fe48",
+      "is_promoted": false
+    },
+    {
+      "title": "Visualizing the problem space of 'st70', a traveling salesperson problem [OC]",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n82nq8/visualizing_the_problem_space_of_st70_a_traveling/",
+      "score": 0,
+      "comments": 6,
+      "post_id": "t3_1n82nq8",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "mdlmgmtOG",
+      "author_id": "t2_80vc0834",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-04T06:24:39.693000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n82nq8",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://preview.redd.it/visualizing-the-problem-space-of-st70-a-traveling-v0-t7zgphg6d3nf1.png?width=640&crop=smart&auto=webp&s=1383c3bb4b9b890d114aa5fe2e72303ac495af1f",
+      "is_promoted": false
+    },
+    {
+      "title": "Rise in Antisemitism",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n806ea/rise_in_antisemitism/",
+      "score": 0,
+      "comments": 20,
+      "post_id": "t3_1n806ea",
+      "post_type": "link",
+      "domain": "public.tableau.com",
+      "author": "Beneficial_Rub_4841",
+      "author_id": "t2_7k781c6i",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-04T04:01:06.442000+0000",
+      "content_href": "https://public.tableau.com/app/profile/gregghirshberg/viz/ReportedAntisemeticIncidents/AntisemticIncidents2016-2024",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC] Average Cost of US College Tuition vs Annual Inflation",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n7wb5e/oc_average_cost_of_us_college_tuition_vs_annual/",
+      "score": 1852,
+      "comments": 282,
+      "post_id": "t3_1n7wb5e",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "jamietacostolemyline",
+      "author_id": "t2_12yiu6wd29",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-04T00:53:13.308000+0000",
+      "content_href": "https://i.redd.it/kdlqn8f0q1nf1.png",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC] Which footballers scored the most goals in their leagues over any 5-year period? Tracking Europe's most consistent League scorers from 2014-2024",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n7vfrv/oc_which_footballers_scored_the_most_goals_in/",
+      "score": 49,
+      "comments": 5,
+      "post_id": "t3_1n7vfrv",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "vibe-data-science",
+      "author_id": "t2_1x2232766u",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-04T00:12:35.240000+0000",
+      "content_href": "https://i.redd.it/kff3arhbi1nf1.png",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC] Investment Performance Since Feb'23 ETF Launch - Dem. vs Rep. Trades",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n7s18o/oc_investment_performance_since_feb23_etf_launch/",
+      "score": 0,
+      "comments": 22,
+      "post_id": "t3_1n7s18o",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Defiant-Housing3727",
+      "author_id": "t2_1w1e5tq7sh",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-03T21:47:31.028000+0000",
+      "content_href": "https://i.redd.it/l3qdm8ews0nf1.png",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://preview.redd.it/investment-performance-since-feb23-etf-launch-dem-vs-rep-v0-l3qdm8ews0nf1.png?width=640&crop=smart&auto=webp&s=86d56f45abdf6c5681b72c7aacedd4725827e73e",
+      "is_promoted": false
+    },
+    {
+      "title": "BISSELL: The must-have for shedding pets. FurFinder™ removes embedded hair. Shop Now!",
+      "permalink": "https://www.reddit.com/user/BISSELLclean/comments/1n1nqll/bissell_the_musthave_for_shedding_pets_furfinder/",
       "score": 0,
       "comments": 0,
+      "post_id": "t3_1n1nqll",
+      "post_type": "video",
+      "domain": "bissell.com",
+      "author": "BISSELLclean",
+      "author_id": "t2_1ffeqdhirr",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-27T17:40:43.156000+0000",
+      "content_href": "https://v.redd.it/ek4gx39z4klf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_d632bn/styles/profileIcon_j7a9os8tmz7e1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=d0ca5797a1c217e2a999df8a336989ef8b6ddec4",
+      "is_promoted": true
+    },
+    {
+      "title": "Golden Spiral Resonant v Quantum Spiral Hamiltonian [OC]",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n7omqo/golden_spiral_resonant_v_quantum_spiral/",
+      "score": 0,
+      "comments": 20,
+      "post_id": "t3_1n7omqo",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "mdlmgmtOG",
+      "author_id": "t2_80vc0834",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-03T19:36:30.133000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7omqo",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://preview.redd.it/golden-spiral-resonant-v-quantum-spiral-hamiltonian-v0-so3t5ndj50nf1.png?width=559&format=png&auto=webp&s=5fd1e8ef6327746b095324fbac1ad25100df47c3",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC] NYC ZIPs That Rose Most in National Housing Price Rankings (2000-2005 vs. Today)",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n7mz9c/oc_nyc_zips_that_rose_most_in_national_housing/",
+      "score": 28,
+      "comments": 13,
+      "post_id": "t3_1n7mz9c",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "DataVizHonduran",
+      "author_id": "t2_fnq2om44",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-03T18:34:40.841000+0000",
+      "content_href": "https://i.redd.it/71hqbkbiuzmf1.png",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://preview.redd.it/nyc-zips-that-rose-most-in-national-housing-price-rankings-v0-71hqbkbiuzmf1.png?width=640&crop=smart&auto=webp&s=bccfa3671c81e03fff0388c95c21c2365dd4b7f0",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC] U.S. CPI Inflation Rate and Federal Funds Rate (1955 - 2024)",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n7mluw/oc_us_cpi_inflation_rate_and_federal_funds_rate/",
+      "score": 6,
+      "comments": 6,
+      "post_id": "t3_1n7mluw",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Defiant-Housing3727",
+      "author_id": "t2_1w1e5tq7sh",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-03T18:20:52.083000+0000",
+      "content_href": "https://i.redd.it/nbcoxolyrzmf1.png",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://preview.redd.it/u-s-cpi-inflation-rate-and-federal-funds-rate-1955-2024-v0-nbcoxolyrzmf1.png?width=640&crop=smart&auto=webp&s=ea14c6783e86fa1a80b925fcfb3d0e5acd12eab3",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC]Percentage of software engineer job postings on linkedin with and without a payscale.",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n7joys/ocpercentage_of_software_engineer_job_postings_on/",
+      "score": 0,
+      "comments": 14,
+      "post_id": "t3_1n7joys",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "BLAZINGSORCERER199",
+      "author_id": "t2_eqzdg",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-03T16:33:47.141000+0000",
+      "content_href": "https://i.redd.it/5ne43kcn8zmf1.png",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC] Workforce Scale and Economic Output of China's Main Automotive Clusters",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n7jlov/oc_workforce_scale_and_economic_output_of_chinas/",
+      "score": 72,
+      "comments": 4,
+      "post_id": "t3_1n7jlov",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "After_Meringue_1582",
+      "author_id": "t2_43rbgyvz",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-03T16:30:30.115000+0000",
+      "content_href": "https://i.redd.it/y4uuednr7zmf1.png",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://preview.redd.it/workforce-scale-and-economic-output-of-chinas-main-v0-y4uuednr7zmf1.png?width=640&crop=smart&auto=webp&s=4002125d69e22f396f233f6bff21f48eca428803",
+      "is_promoted": false
+    },
+    {
+      "title": "Per Capita Personal Income for 50 Largest US Metropolitan Areas [OC]",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n7hmlu/per_capita_personal_income_for_50_largest_us/",
+      "score": 187,
+      "comments": 52,
+      "post_id": "t3_1n7hmlu",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "FamiliarJuly",
+      "author_id": "t2_1jog6z5bkn",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-03T15:18:19.088000+0000",
+      "content_href": "https://i.redd.it/ojnyoeryuymf1.png",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC] Visualizing every Premier League goal this season",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n7gjy3/oc_visualizing_every_premier_league_goal_this/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1n7gjy3",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "CFC12_VOL98",
+      "author_id": "t2_ou8ck",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-03T14:37:30.470000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7gjy3",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "You were looking out for someone else. But forgot about yourself. Discover the Volvo XC90 with safety for everyone.",
+      "permalink": "https://www.reddit.com/user/volvocarusa/comments/1mkxjvi/you_were_looking_out_for_someone_else_but_forgot/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mkxjvi",
+      "post_type": "video",
+      "domain": "volvocars.com",
+      "author": "volvocarusa",
+      "author_id": "t2_4o8easx8",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-08T15:01:12.370000+0000",
+      "content_href": "https://v.redd.it/o8es5sy6rrhf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_25j5wo/styles/profileIcon_qwtep57blu281.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=e78f5adefefd0f80179732429f02b18efb5ad471",
+      "is_promoted": true
+    },
+    {
+      "title": "Golden Angle Modulated Semiprimes [OC]",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n7em99/golden_angle_modulated_semiprimes_oc/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1n7em99",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "mdlmgmtOG",
+      "author_id": "t2_80vc0834",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-03T13:19:52.962000+0000",
+      "content_href": "https://i.redd.it/z83mtyjcaymf1.png",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://preview.redd.it/golden-angle-modulated-semiprimes-v0-z83mtyjcaymf1.png?width=640&crop=smart&auto=webp&s=e2ea0a372ce754be12310a47773f7c8dbce9beb0",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC] The age distribution of every validated supercentenarian",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n7ctqj/oc_the_age_distribution_of_every_validated/",
+      "score": 3328,
+      "comments": 282,
+      "post_id": "t3_1n7ctqj",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "JakeIsAwesome12345",
+      "author_id": "t2_6bfwiwg9",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-03T11:59:24.633000+0000",
+      "content_href": "https://i.redd.it/67hvp40xvxmf1.png",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://preview.redd.it/the-age-distribution-of-every-validated-supercentenarian-v0-67hvp40xvxmf1.png?width=640&crop=smart&auto=webp&s=49a2f2d359c7485e1c4c725f3dbd9da2352f169d",
+      "is_promoted": false
+    },
+    {
+      "title": "TKO stock analysis visuals",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n7btgr/tko_stock_analysis_visuals/",
+      "score": 0,
+      "comments": 3,
+      "post_id": "t3_1n7btgr",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "GrappleInsights",
+      "author_id": "t2_1w0uv618ri",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-03T11:06:41.612000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7btgr",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f7vwot/styles/profileIcon_kpyp5tpb70nf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e56486264a6bf5c6a09745010515756894fd22b9",
+      "is_promoted": false
+    },
+    {
+      "title": "Spain is having its largest wildfire year in well over a decade",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n79boi/spain_is_having_its_largest_wildfire_year_in_well/",
+      "score": 89,
+      "comments": 3,
+      "post_id": "t3_1n79boi",
+      "post_type": "link",
+      "domain": "ourworldindata.org",
+      "author": "cgiattino",
+      "author_id": "t2_1cvle0pvoe",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-03T08:33:26.053000+0000",
+      "content_href": "https://ourworldindata.org/data-insights/spain-is-having-its-largest-wildfire-year-in-well-over-a-decade",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://external-preview.redd.it/aMZiEawTgEPU0SrKO48PbYHh5AmGMO60b2N90iJo6Qc.png?width=140&height=140&crop=140:140,smart&auto=webp&s=f8593bd97f65a96ecdce8361340dd1d35e9c6397",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC] Distribution of Hillforts in Ireland",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n776a9/oc_distribution_of_hillforts_in_ireland/",
+      "score": 119,
+      "comments": 10,
+      "post_id": "t3_1n776a9",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Sarquin",
+      "author_id": "t2_4fojl5g8",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-03T06:13:30.662000+0000",
+      "content_href": "https://i.redd.it/d3xkx1o66wmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2cwvn1/styles/profileIcon_w4d6pkrvnshf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=eba14dc89e62785d53928b1a04ac88d01ddaf5db",
+      "is_promoted": false
+    },
+    {
+      "title": "Average Mathematics Achievement by Country in TIMSS 2023 (Grade 4) [OC]",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n6yd3m/average_mathematics_achievement_by_country_in/",
+      "score": 104,
+      "comments": 49,
+      "post_id": "t3_1n6yd3m",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Ihoujin_",
+      "author_id": "t2_1wuo19jk06",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-02T22:57:39.716000+0000",
+      "content_href": "https://i.redd.it/t947dwdg0umf1.png",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://preview.redd.it/average-mathematics-achievement-by-country-in-timss-2023-v0-t947dwdg0umf1.png?width=640&crop=smart&auto=webp&s=96fe3eea02e7ab2afa837fc686a4a78c19d11f3f",
+      "is_promoted": false
+    },
+    {
+      "title": "Historic cumulative CO2e emissions for G20 countries v current population and current GDP/capita",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n6ntp5/historic_cumulative_co2e_emissions_for_g20/",
+      "score": 225,
+      "comments": 93,
+      "post_id": "t3_1n6ntp5",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "PrettyGazelle",
+      "author_id": "t2_4nqjr2gg",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-02T16:14:33.079000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n6ntp5",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Quit Earth. Break Free in Borderlands 4, coming September 12th.",
+      "permalink": "https://www.reddit.com/user/borderlands/comments/1n2pj43/quit_earth_break_free_in_borderlands_4_coming/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n2pj43",
+      "post_type": "video",
+      "domain": "borderlands.2k.com",
+      "author": "borderlands",
+      "author_id": "t2_2hhhgmro",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-28T21:56:20.866000+0000",
+      "content_href": "https://v.redd.it/bu8qs99hjslf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_vlycp/styles/profileIcon_jkr35ko8wn8f1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=d25e3b8a46af9b501b3dff1afd7670672a277f69",
+      "is_promoted": true
+    },
+    {
+      "title": "Where does Ukraine get its diesel from?",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n6lild/where_does_ukraine_get_its_diesel_from/",
+      "score": 1146,
+      "comments": 79,
+      "post_id": "t3_1n6lild",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "APrimitiveMartian",
+      "author_id": "t2_17ijtdri",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-02T14:47:49.467000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n6lild",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_i61q9/styles/profileIcon_keg4cwy4waff1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7bc373000ff4ed7fbd6ac6c1996fdb4387a9aa7e",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC] Changes in Billboard #1 hit songwriting credits over time",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n6kymw/oc_changes_in_billboard_1_hit_songwriting_credits/",
+      "score": 323,
+      "comments": 40,
+      "post_id": "t3_1n6kymw",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "awhug",
+      "author_id": "t2_d3k5rkj5",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-02T14:26:48.130000+0000",
+      "content_href": "https://i.redd.it/yr7vqbu4hrmf1.png",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC] Films seen at the cinema for the past 3 years",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n6kryg/oc_films_seen_at_the_cinema_for_the_past_3_years/",
+      "score": 0,
+      "comments": 8,
+      "post_id": "t3_1n6kryg",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "WonderingKuma",
+      "author_id": "t2_1jw1pexpg6",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-02T14:19:44.274000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n6kryg",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ee0jzh/styles/profileIcon_x5yymf32laze1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8e58f5d0aab29b66658b421eadfc028717717120",
+      "is_promoted": false
+    },
+    {
+      "title": "Mapping child wellness across the U.S.: Which states give kids the strongest start? [OC]",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n6iax0/mapping_child_wellness_across_the_us_which_states/",
+      "score": 34,
+      "comments": 9,
+      "post_id": "t3_1n6iax0",
+      "post_type": "link",
+      "domain": "overflowdata.com",
+      "author": "OverflowDs",
+      "author_id": "t2_p2din",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-02T12:37:09.925000+0000",
+      "content_href": "https://overflowdata.com/pursuit-of-happiness/qwic/",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/QGj6RcOQ7xlfEjBksFdBXxTRAzD9xFhdjKKzUPhEa6A.png?width=140&height=140&crop=140:140,smart&auto=webp&s=b6e237447af583678458c2ea8dd23107f8d6f454",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC] An analysis of my social media data shows Reposts have the strongest correlation with gaining New Followers.",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n6g3f8/oc_an_analysis_of_my_social_media_data_shows/",
+      "score": 0,
+      "comments": 7,
+      "post_id": "t3_1n6g3f8",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "BeLikeNative",
+      "author_id": "t2_17sp3lniu8",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-02T10:42:25.235000+0000",
+      "content_href": "https://i.redd.it/xsow12kwcqmf1.png",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ccskfu/styles/profileIcon_8xok89mnawke1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=463023c6f6b6add975e6d385411f14f94e4afacd",
+      "is_promoted": false
+    },
+    {
+      "title": "Football Analytics Visuals - Interested to get feedback on xG Stat!",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n6f2u4/football_analytics_visuals_interested_to_get/",
+      "score": 8,
+      "comments": 6,
       "post_id": "t3_1n6f2u4",
       "post_type": "link",
       "domain": "xgstat.com",
@@ -21,73 +970,54 @@
       "content_href": "https://www.xgstat.com/competitions/premier-league/2025-2026/matches/liverpool-arsenal-2025-08-30",
       "content_preview": "",
       "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_5ks0cs/styles/profileIcon_hpv9rmi51mjf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=56b4745c8a32c1c38bc821825b168830a40c6ce7"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5ks0cs/styles/profileIcon_hpv9rmi51mjf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=56b4745c8a32c1c38bc821825b168830a40c6ce7",
+      "is_promoted": false
     },
     {
-      "title": "Solar Electricity keeps beating Predictions [OC]",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n4q7m7/solar_electricity_keeps_beating_predictions_oc/",
-      "score": 11054,
-      "comments": 454,
-      "post_id": "t3_1n4q7m7",
+      "title": "[OC] 10 Years of Net Transfer Spend Among the Premier League’s Big Six",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n6dvqz/oc_10_years_of_net_transfer_spend_among_the/",
+      "score": 500,
+      "comments": 71,
+      "post_id": "t3_1n6dvqz",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "cavedave",
-      "author_id": "t2_1vrx",
+      "author": "Blocsquare",
+      "author_id": "t2_2k0dpyrr",
       "subreddit_id": "t5_2tk95",
       "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-31T09:18:15.287000+0000",
-      "content_href": "https://i.redd.it/1g6n1u9fobmf1.png",
+      "created_ts": "2025-09-02T08:21:25.223000+0000",
+      "content_href": "https://i.redd.it/ug2cfxydmpmf1.png",
       "content_preview": "",
       "flair": [
         "OC"
       ],
-      "thumbnail_url": "https://preview.redd.it/solar-electricity-keeps-beating-predictions-v0-1g6n1u9fobmf1.png?width=640&crop=smart&auto=webp&s=21fe6b28f29abcc1a2b2bc81118dca09656ce722"
+      "thumbnail_url": "https://preview.redd.it/10-years-of-net-transfer-spend-among-the-premier-leagues-v0-ug2cfxydmpmf1.png?width=640&crop=smart&auto=webp&s=3f11076c114b4ffa0346d7ffd6484a4050258def",
+      "is_promoted": false
     },
     {
-      "title": "Share (%) of 25 to 29 year-olds living in parent- or grandparent-headed households [OC]",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n5ttmx/share_of_25_to_29_yearolds_living_in_parent_or/",
-      "score": 366,
-      "comments": 92,
-      "post_id": "t3_1n5ttmx",
+      "title": "LPT: Get money back for eligible bills from any licensed vet, plus 24/7 vet access with Nationwide pet insurance.",
+      "permalink": "https://www.reddit.com/user/NationwidePet/comments/1mogx3a/lpt_get_money_back_for_eligible_bills_from_any/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mogx3a",
       "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "SweetYams0",
-      "author_id": "t2_a5rkt7qf",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-09-01T16:45:42.194000+0000",
-      "content_href": "https://i.redd.it/eptouc731lmf1.png",
+      "domain": "petinsurance.com",
+      "author": "NationwidePet",
+      "author_id": "t2_anfpzhwa",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-12T18:34:41.414000+0000",
+      "content_href": "https://www.petinsurance.com",
       "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://preview.redd.it/share-of-25-to-29-year-olds-living-in-parent-or-grandparent-v0-eptouc731lmf1.png?width=640&crop=smart&auto=webp&s=3eb7a10b0880a2c9bfdeefd7e0cffe3b3e14b0a9"
-    },
-    {
-      "title": "[OC] Change in Donald Trump's job approval by party affiliation",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1mjyjxz/oc_change_in_donald_trumps_job_approval_by_party/",
-      "score": 40595,
-      "comments": 5243,
-      "post_id": "t3_1mjyjxz",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "_crazyboyhere_",
-      "author_id": "t2_n068jh2k",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-07T12:20:05.874000+0000",
-      "content_href": "https://i.redd.it/6byqsof2blhf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://preview.redd.it/change-in-donald-trumps-job-approval-by-party-affiliation-v0-6byqsof2blhf1.png?width=640&crop=smart&auto=webp&s=c18e4c4aa1349d517014969e9eb21ed39854d106"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_41i69h/styles/profileIcon_9wknk9fhbhk61.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=480aed8aeb365dc03aab21561f25a173bcfe05e1",
+      "is_promoted": true
     },
     {
       "title": "[OC] Google Cloud salary scatter plot: 10,880 job postings show L8 Principal roles hitting $421K base while L3-L5 cluster tightly. Premium skills (orange borders) create salary outliers at every level.",
       "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n6cc5u/oc_google_cloud_salary_scatter_plot_10880_job/",
-      "score": 19,
-      "comments": 7,
+      "score": 147,
+      "comments": 26,
       "post_id": "t3_1n6cc5u",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -101,233 +1031,14 @@
       "flair": [
         "OC"
       ],
-      "thumbnail_url": "https://preview.redd.it/google-cloud-salary-scatter-plot-10-880-job-postings-show-v0-f2caglqr5pmf1.jpeg?width=640&crop=smart&auto=webp&s=5d7bc9b5bbf5d278f9837e5646ee5d2c993b06b4"
-    },
-    {
-      "title": "Source of Top Posts on r/politics and r/conservative [OC]",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n2o8zy/source_of_top_posts_on_rpolitics_and/",
-      "score": 10601,
-      "comments": 1075,
-      "post_id": "t3_1n2o8zy",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "FourierXFM",
-      "author_id": "t2_a9xhxza",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-28T21:04:48.953000+0000",
-      "content_href": "https://i.redd.it/q5q064otrtlf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "[OC] When and Where to Meet Disney World Characters",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n62oqh/oc_when_and_where_to_meet_disney_world_characters/",
-      "score": 53,
-      "comments": 30,
-      "post_id": "t3_1n62oqh",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "shinyro",
-      "author_id": "t2_x7jszkea4",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-09-01T22:25:32.739000+0000",
-      "content_href": "https://i.redd.it/rmskzveeommf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "[OC] UK Immigration & Asylum Approvals by Country (2001–2025) — Based on Home Office Data",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n6cnjc/oc_uk_immigration_asylum_approvals_by_country/",
-      "score": 11,
-      "comments": 13,
-      "post_id": "t3_1n6cnjc",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Fluffy-Ad4346",
-      "author_id": "t2_1wxcpfqxhh",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-09-02T07:00:24.314000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n6cnjc",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://preview.redd.it/uk-immigration-asylum-approvals-by-country-2001-2025-based-v0-w6l3lyqa8pmf1.png?width=640&crop=smart&auto=webp&s=63920fc6ab3d8a41e03370fd89c544223fce5f7c"
-    },
-    {
-      "title": "[OC] Change in Trump's job approval by age group",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1mq0xc0/oc_change_in_trumps_job_approval_by_age_group/",
-      "score": 20003,
-      "comments": 2373,
-      "post_id": "t3_1mq0xc0",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "tinfoiltatty",
-      "author_id": "t2_11emwrmwct",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-14T13:37:59.481000+0000",
-      "content_href": "https://i.redd.it/e1v8fz9xlzif1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "[OC] Our 2020 pandemic wedding costs for 9 people",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n5ltrg/oc_our_2020_pandemic_wedding_costs_for_9_people/",
-      "score": 389,
-      "comments": 254,
-      "post_id": "t3_1n5ltrg",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "arthurmauk",
-      "author_id": "t2_8bts3",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-09-01T11:08:15.341000+0000",
-      "content_href": "https://i.redd.it/p55h474y6jmf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://preview.redd.it/our-2020-pandemic-wedding-costs-for-9-people-v0-p55h474y6jmf1.png?width=640&crop=smart&auto=webp&s=b861036afc83679e61ab120fcafc3cc197faf815"
-    },
-    {
-      "title": "[OC] KPop Demon Hunters has Surpassed Red Notice to be the Most Watched Film on Netflix",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n0uz1d/oc_kpop_demon_hunters_has_surpassed_red_notice_to/",
-      "score": 4355,
-      "comments": 461,
-      "post_id": "t3_1n0uz1d",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "cancerBronzeV",
-      "author_id": "t2_15eaam",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-26T19:14:07.200000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n0uz1d",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://preview.redd.it/kpop-demon-hunters-has-surpassed-red-notice-to-be-the-most-v0-yy0lk353yelf1.png?width=640&crop=smart&auto=webp&s=b2217008ff3a395f1e9ce9a9955ba7f636bcc5a3"
-    },
-    {
-      "title": "[OC]Largest Public Company by Market Cap in Each High‑Income Economy",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n5elrz/oclargest_public_company_by_market_cap_in_each/",
-      "score": 577,
-      "comments": 95,
-      "post_id": "t3_1n5elrz",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Proud-Discipline9902",
-      "author_id": "t2_chwn8sl5",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-09-01T03:55:06.443000+0000",
-      "content_href": "https://i.redd.it/17nmledl6hmf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_4jjv22/styles/profileIcon_9gkysy6lg72f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=0c8e4018cd2a50ff7249720b02c166fdb1334411"
-    },
-    {
-      "title": "[OC] US Nationwide Circumcision Rate from 1870-2024",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n5e3xw/oc_us_nationwide_circumcision_rate_from_18702024/",
-      "score": 2441,
-      "comments": 1005,
-      "post_id": "t3_1n5e3xw",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "AmericaGreatness1776",
-      "author_id": "t2_a3t5xfs",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-09-01T03:28:24.985000+0000",
-      "content_href": "https://i.redd.it/nfnazpoz2hmf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "[OC] Individual Median Income by State, 2023",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n5dmaw/oc_individual_median_income_by_state_2023/",
-      "score": 602,
-      "comments": 208,
-      "post_id": "t3_1n5dmaw",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "AmericaGreatness1776",
-      "author_id": "t2_a3t5xfs",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-09-01T03:02:31.967000+0000",
-      "content_href": "https://i.redd.it/j0l2x2ccygmf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "[OC] Evolution of NBA Shot Locations, 2000-2025",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1mzz234/oc_evolution_of_nba_shot_locations_20002025/",
-      "score": 17957,
-      "comments": 790,
-      "post_id": "t3_1mzz234",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "algorithmicathlete",
-      "author_id": "t2_1wcwxq996j",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-25T18:48:33.166000+0000",
-      "content_href": "https://i.redd.it/x4fcdad8o7lf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "[OC] Pop Mart (Labubu Dolls) vs. US top toy makers, market capitalization",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n4dm04/oc_pop_mart_labubu_dolls_vs_us_top_toy_makers/",
-      "score": 2315,
-      "comments": 191,
-      "post_id": "t3_1n4dm04",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "themaverick7",
-      "author_id": "t2_bgs65",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-30T21:50:30.763000+0000",
-      "content_href": "https://i.redd.it/dwg7bmfa98mf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://preview.redd.it/pop-mart-labubu-dolls-vs-us-top-toy-makers-market-v0-dwg7bmfa98mf1.png?width=640&crop=smart&auto=webp&s=01094b22e03f0de896c317635c593ae436c453a4"
+      "thumbnail_url": "https://preview.redd.it/google-cloud-salary-scatter-plot-10-880-job-postings-show-v0-f2caglqr5pmf1.jpeg?width=640&crop=smart&auto=webp&s=5d7bc9b5bbf5d278f9837e5646ee5d2c993b06b4",
+      "is_promoted": false
     },
     {
       "title": "[OC] How far is Wirtz from his Leverkusen level?",
       "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n6aveq/oc_how_far_is_wirtz_from_his_leverkusen_level/",
       "score": 0,
-      "comments": 6,
+      "comments": 12,
       "post_id": "t3_1n6aveq",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -341,27 +1052,8 @@
       "flair": [
         "OC"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "[OC] Temporary resident cards issued in Mexico",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n5p1wj/oc_temporary_resident_cards_issued_in_mexico/",
-      "score": 81,
-      "comments": 9,
-      "post_id": "t3_1n5p1wj",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "latinometrics",
-      "author_id": "t2_fkamuuxd",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-09-01T13:42:44.203000+0000",
-      "content_href": "https://i.redd.it/q629c8n74kmf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_57hdic/styles/profileIcon_nddvhlhpwj3d1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=14ad96e6866c24e4807b43a8c96b5569278c6075"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
       "title": "FDA adverse event reports for Ozempic, monthly totals 2013–2025 [OC]",
@@ -381,171 +1073,14 @@
       "flair": [
         "OC"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "[OC] I analyzed Meta's VR/AR hiring blitz: 2,207 job postings in 3 months reveal $5.6B annual investment. 58% of Meta's hiring is VR/AR, with 74% at L4-L5 levels targeting mid-senior professionals.",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n5k9fg/oc_i_analyzed_metas_vrar_hiring_blitz_2207_job/",
-      "score": 48,
-      "comments": 13,
-      "post_id": "t3_1n5k9fg",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "aaghashm",
-      "author_id": "t2_t7fo7oha",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-09-01T09:35:16.622000+0000",
-      "content_href": "https://i.redd.it/36nwpln2wimf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://preview.redd.it/i-analyzed-metas-vr-ar-hiring-blitz-2-207-job-postings-in-3-v0-36nwpln2wimf1.jpeg?width=640&crop=smart&auto=webp&s=69966ae086598f0c25d2f62c35bcf36350c8f787"
-    },
-    {
-      "title": "[OC] The IQ Bell Curve meme is wrong and I can prove it",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1mhgxkt/oc_the_iq_bell_curve_meme_is_wrong_and_i_can/",
-      "score": 17418,
-      "comments": 377,
-      "post_id": "t3_1mhgxkt",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "x5830",
-      "author_id": "t2_160dqi",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-04T15:42:13.276000+0000",
-      "content_href": "https://i.redd.it/omwx4aiyv0hf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "[OC]Global Public Company Market Capitalization by Country/Region",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n14kuq/ocglobal_public_company_market_capitalization_by/",
-      "score": 754,
-      "comments": 144,
-      "post_id": "t3_1n14kuq",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Proud-Discipline9902",
-      "author_id": "t2_chwn8sl5",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-27T01:56:59.051000+0000",
-      "content_href": "https://i.redd.it/kj8dgpzrxglf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_4jjv22/styles/profileIcon_9gkysy6lg72f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=0c8e4018cd2a50ff7249720b02c166fdb1334411"
-    },
-    {
-      "title": "[OC] Voting intention in hypothetical French snap election, by age. Less than one in two French voters would support the parties coming together to stop the National Rally.",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n558fw/oc_voting_intention_in_hypothetical_french_snap/",
-      "score": 323,
-      "comments": 165,
-      "post_id": "t3_1n558fw",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "NoComputer5586",
-      "author_id": "t2_ja883167",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-31T20:30:53.417000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n558fw",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "[OC] Temporary resident cards issued by Mexico in 2024",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n3ayye/oc_temporary_resident_cards_issued_by_mexico_in/",
-      "score": 280,
-      "comments": 30,
-      "post_id": "t3_1n3ayye",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "latinometrics",
-      "author_id": "t2_fkamuuxd",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-29T15:45:34.713000+0000",
-      "content_href": "https://i.redd.it/6ppypc9lbzlf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_57hdic/styles/profileIcon_nddvhlhpwj3d1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=14ad96e6866c24e4807b43a8c96b5569278c6075"
-    },
-    {
-      "title": "Lighthouses of the United States [OC]",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1motron/lighthouses_of_the_united_states_oc/",
-      "score": 8284,
-      "comments": 226,
-      "post_id": "t3_1motron",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "visualgeomatics",
-      "author_id": "t2_beuq54he",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-13T03:30:27.969000+0000",
-      "content_href": "https://i.redd.it/bn9gmgrxhpif1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://preview.redd.it/lighthouses-of-the-united-states-v0-bn9gmgrxhpif1.jpeg?width=640&crop=smart&auto=webp&s=21d2a1137b114c6b7b8ba62dc39efcaf934a78e2"
-    },
-    {
-      "title": "[OC] Temperature and Precipitation Across Asia (1981-2010)",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n2d5uw/oc_temperature_and_precipitation_across_asia/",
-      "score": 728,
-      "comments": 39,
-      "post_id": "t3_1n2d5uw",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "ramnamsatyahai",
-      "author_id": "t2_qu0obo9ca",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-28T14:05:59.436000+0000",
-      "content_href": "https://i.redd.it/dtann83tnrlf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://preview.redd.it/temperature-and-precipitation-across-asia-1981-2010-v0-dtann83tnrlf1.png?width=640&crop=smart&auto=webp&s=f719ee0a92e2cab343073e9b1a0a08108f5996b2"
-    },
-    {
-      "title": "In North Carolina, the Best Way to Win Is Get left-leaning 18-44 Registered to Vote",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n2k3w0/in_north_carolina_the_best_way_to_win_is_get/",
-      "score": 688,
-      "comments": 170,
-      "post_id": "t3_1n2k3w0",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "sillychillly",
-      "author_id": "t2_2c3y1k8m",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-28T18:25:22.735000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n2k3w0",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_10mlix/styles/profileIcon_hu4e001jtfv41.JPG?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7822340486c9a84c2c995aaaf73d80f54bb50056"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
       "title": "[OC] Every file and all free space on a 1.7TB storage volume, visualized by file size, grouped together by folder and colour-coded by file type",
       "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n69v05/oc_every_file_and_all_free_space_on_a_17tb/",
       "score": 0,
-      "comments": 15,
+      "comments": 16,
       "post_id": "t3_1n69v05",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -559,53 +1094,117 @@
       "flair": [
         "OC"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_dmoz9/styles/profileIcon_1s5ck8qeq3ia1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c0239d294a93b60ccd8586eb9a6460fcba53d7f8"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dmoz9/styles/profileIcon_1s5ck8qeq3ia1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c0239d294a93b60ccd8586eb9a6460fcba53d7f8",
+      "is_promoted": false
     },
     {
-      "title": "[OC]Top 10 Publicly Listed Food‑Delivery Companies Worldwide by Market Capitalization",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n678o3/octop_10_publicly_listed_fooddelivery_companies/",
-      "score": 0,
-      "comments": 10,
-      "post_id": "t3_1n678o3",
+      "title": "[OC] When and Where to Meet Disney World Characters",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n62oqh/oc_when_and_where_to_meet_disney_world_characters/",
+      "score": 97,
+      "comments": 46,
+      "post_id": "t3_1n62oqh",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "Proud-Discipline9902",
-      "author_id": "t2_chwn8sl5",
+      "author": "shinyro",
+      "author_id": "t2_x7jszkea4",
       "subreddit_id": "t5_2tk95",
       "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-09-02T01:58:13.212000+0000",
-      "content_href": "https://i.redd.it/8b1xlu2irnmf1.png",
+      "created_ts": "2025-09-01T22:25:32.739000+0000",
+      "content_href": "https://i.redd.it/rmskzveeommf1.png",
       "content_preview": "",
       "flair": [
         "OC"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_4jjv22/styles/profileIcon_9gkysy6lg72f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=0c8e4018cd2a50ff7249720b02c166fdb1334411"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "[OC] My 18k wedding for ~80 people",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1mzox32/oc_my_18k_wedding_for_80_people/",
-      "score": 7430,
-      "comments": 1553,
-      "post_id": "t3_1mzox32",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "IdkJustPickSomething",
-      "author_id": "t2_wtj75",
+      "title": "Share (%) of 25 to 29 year-olds living in parent- or grandparent-headed households [OC]",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n5ttmx/share_of_25_to_29_yearolds_living_in_parent_or/",
+      "score": 624,
+      "comments": 105,
+      "post_id": "t3_1n5ttmx",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "SweetYams0",
+      "author_id": "t2_a5rkt7qf",
       "subreddit_id": "t5_2tk95",
       "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-25T12:18:50.190000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mzox32",
+      "created_ts": "2025-09-01T16:45:42.194000+0000",
+      "content_href": "https://i.redd.it/eptouc731lmf1.png",
       "content_preview": "",
       "flair": [
         "OC"
       ],
-      "thumbnail_url": "https://preview.redd.it/my-18k-wedding-for-80-people-v0-41oegle0i1lf1.png?width=640&crop=smart&auto=webp&s=f67fd33aa42ef6a8488639e5f7eb0a398402f0ce"
+      "thumbnail_url": "https://preview.redd.it/share-of-25-to-29-year-olds-living-in-parent-or-grandparent-v0-eptouc731lmf1.png?width=640&crop=smart&auto=webp&s=3eb7a10b0880a2c9bfdeefd7e0cffe3b3e14b0a9",
+      "is_promoted": false
+    },
+    {
+      "title": "[OC] Temporary resident cards issued in Mexico",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n5p1wj/oc_temporary_resident_cards_issued_in_mexico/",
+      "score": 142,
+      "comments": 20,
+      "post_id": "t3_1n5p1wj",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "latinometrics",
+      "author_id": "t2_fkamuuxd",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-01T13:42:44.203000+0000",
+      "content_href": "https://i.redd.it/q629c8n74kmf1.png",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_57hdic/styles/profileIcon_nddvhlhpwj3d1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=14ad96e6866c24e4807b43a8c96b5569278c6075",
+      "is_promoted": false
+    },
+    {
+      "title": "Para la gente más confiable, solo las camionetas más confiables de EE. UU. están a su altura. Porque Cada camioneta y conductor Chevy, llevan la confiabilidad en la sangre.",
+      "permalink": "https://www.reddit.com/user/chevrolet/comments/1l3bpvi/para_la_gente_más_confiable_solo_las_camionetas/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1l3bpvi",
+      "post_type": "video",
+      "domain": "es.chevrolet.com",
+      "author": "chevrolet",
+      "author_id": "t2_hlwx5kra",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-06-04T17:33:21.443000+0000",
+      "content_href": "https://v.redd.it/5c8k4ac3nw4f1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5hy9jd/styles/profileIcon_ngfmph0nzhme1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=daccda134205014a29773cfbfff5c6db074e392d",
+      "is_promoted": true
+    },
+    {
+      "title": "I tracked my mood for 1270 days - Here are the results[oc]",
+      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n5ourh/i_tracked_my_mood_for_1270_days_here_are_the/",
+      "score": 3619,
+      "comments": 105,
+      "post_id": "t3_1n5ourh",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "CollJ98",
+      "author_id": "t2_262o1b7h",
+      "subreddit_id": "t5_2tk95",
+      "subreddit": "r/dataisbeautiful",
+      "created_ts": "2025-09-01T13:34:27.630000+0000",
+      "content_href": "https://i.redd.it/c7efiyj43kmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "OC"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i-tracked-my-mood-for-1270-days-here-are-the-results-v0-c7efiyj43kmf1.jpeg?width=640&crop=smart&auto=webp&s=309600dbf20db696e135be697f1a57a70c1e69f5",
+      "is_promoted": false
     },
     {
       "title": "[Topic][Open] Open Discussion Thread — Anybody can post a general visualization question or start a fresh discussion!",
       "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n5msmq/topicopen_open_discussion_thread_anybody_can_post/",
-      "score": 3,
-      "comments": 0,
+      "score": 1,
+      "comments": 3,
       "post_id": "t3_1n5msmq",
       "post_type": "text",
       "domain": "self.dataisbeautiful",
@@ -615,390 +1214,13 @@
       "subreddit": "r/dataisbeautiful",
       "created_ts": "2025-09-01T12:00:52.539000+0000",
       "content_href": "https://www.reddit.com/r/dataisbeautiful/comments/1n5msmq/topicopen_open_discussion_thread_anybody_can_post/",
-      "content_preview": "",
+      "content_preview": "Anybody can post a question related to data visualization or discussion in the monthly topical threads.Meta questions are fine too,but if you want a more direct line to the mods,click hereIf you have a general question you need answered, or a discussion you'd like to start, feel free to make a top-level comment.Beginners are encouraged to ask basic questions, so please be patient responding to people who might not know as much as yourself.To view all Open Discussion threads,click here.To view all topical threads,click here.Want to suggest a topic?Click here.",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "[OC] I visualized 52,323 populated places in European part of  Spain and accidentally uncovered a stunning demographic phenomenon.",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1mz509r/oc_i_visualized_52323_populated_places_in/",
-      "score": 7161,
-      "comments": 525,
-      "post_id": "t3_1mz509r",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "paveloush",
-      "author_id": "t2_hjfuq",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-24T19:29:58.036000+0000",
-      "content_href": "https://i.redd.it/s1b1v8lmq0lf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "[OC] How Rejection of Homosexuality and Religion Correlate",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1mzp2ln/oc_how_rejection_of_homosexuality_and_religion/",
-      "score": 6787,
-      "comments": 986,
-      "post_id": "t3_1mzp2ln",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "oscarleo0",
-      "author_id": "t2_vw3zjkk5",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-25T12:26:14.658000+0000",
-      "content_href": "https://i.redd.it/9amubrzis5lf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://preview.redd.it/how-rejection-of-homosexuality-and-religion-correlate-v0-9amubrzis5lf1.png?width=640&crop=smart&auto=webp&s=f9cd7b086a6b2060c5cec73ea1fa238e281e7c7b"
-    },
-    {
-      "title": "People moving to Ireland from the US nearly doubles [OC]",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n0xfpa/people_moving_to_ireland_from_the_us_nearly/",
-      "score": 626,
-      "comments": 103,
-      "post_id": "t3_1n0xfpa",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "cavedave",
-      "author_id": "t2_1vrx",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-26T20:47:46.806000+0000",
-      "content_href": "https://i.redd.it/a8vk8rseeflf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://preview.redd.it/people-moving-to-ireland-from-the-us-nearly-doubles-v0-a8vk8rseeflf1.png?width=640&crop=smart&auto=webp&s=d42039694160d6b4a6a433d02e2d29d6e8507bcd"
-    },
-    {
-      "title": "[OC] Making or Taking: Mapping Manufacturing & Resource Extraction",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n35zkn/oc_making_or_taking_mapping_manufacturing/",
-      "score": 144,
-      "comments": 17,
-      "post_id": "t3_1n35zkn",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "MadoctheHadoc",
-      "author_id": "t2_jbowuj6",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-29T12:24:20.632000+0000",
-      "content_href": "https://i.redd.it/v6ivx60l9ylf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_gq9do/styles/profileIcon_fgybhsimml271.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4f7c9ef17012ac5301236e6fb0aeca3972555619"
-    },
-    {
-      "title": "[OC] US Federal Interest Payments as a % of Total Annual Spend (1949 - 2023)",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n35nmx/oc_us_federal_interest_payments_as_a_of_total/",
-      "score": 100,
-      "comments": 13,
-      "post_id": "t3_1n35nmx",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Defiant-Housing3727",
-      "author_id": "t2_1w1e5tq7sh",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-29T12:08:29.830000+0000",
-      "content_href": "https://i.redd.it/xu6h2u109ylf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://preview.redd.it/us-federal-interest-payments-as-a-of-total-annual-spend-v0-xu6h2u109ylf1.png?width=640&crop=smart&auto=webp&s=01777da13504bef1876fa4b06c9fb90fe14d025f"
-    },
-    {
-      "title": "Who Captured $118 Trillion in New US Household Wealth Since 2000 [OC]",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1mlsmcw/who_captured_118_trillion_in_new_us_household/",
-      "score": 5201,
-      "comments": 391,
-      "post_id": "t3_1mlsmcw",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "rocketsalesman",
-      "author_id": "t2_dbkwikb",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-09T15:46:46.452000+0000",
-      "content_href": "https://i.redd.it/9t7tzznrl0if1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "[OC] Per Capita Foreign Travel Expenditures by US Residents",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n499r1/oc_per_capita_foreign_travel_expenditures_by_us/",
-      "score": 316,
-      "comments": 95,
-      "post_id": "t3_1n499r1",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "haydendking",
-      "author_id": "t2_1eatlsdxvw",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-30T18:45:47.413000+0000",
-      "content_href": "https://i.redd.it/3h17k4msc7mf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "[OC] LiDAR visualization showing before and after of the LA wildfires",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n22p3s/oc_lidar_visualization_showing_before_and_after/",
-      "score": 46,
-      "comments": 3,
-      "post_id": "t3_1n22p3s",
-      "post_type": "link",
-      "domain": "beautifulpublicdata.com",
-      "author": "jonkeegan",
-      "author_id": "t2_x5ru",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-28T04:20:35.009000+0000",
-      "content_href": "https://www.beautifulpublicdata.com/how-lidar-measures-the-toll-of-climate-disasters/",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_21n2of/styles/profileIcon_nii6ldl7vdw91.JPG?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b4c852ce8f86185cfb82afa4cc4422916874d0cd"
-    },
-    {
-      "title": "[OC] Where People Live by Latitude",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1miv42e/oc_where_people_live_by_latitude/",
-      "score": 4611,
-      "comments": 189,
-      "post_id": "t3_1miv42e",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "XsLiveInTexas",
-      "author_id": "t2_1qyy726tjd",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-06T04:24:43.064000+0000",
-      "content_href": "https://i.redd.it/xutdw7yatbhf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "[OC] I mapped out every restaurant Anthony Bourdain has been to",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n04l8l/oc_i_mapped_out_every_restaurant_anthony_bourdain/",
-      "score": 237,
-      "comments": 23,
-      "post_id": "t3_1n04l8l",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "djourdjour",
-      "author_id": "t2_hsay518v5",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-25T22:20:58.857000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n04l8l",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "[OC] Percentage of people who say that Religion is very or rather important in their life",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1myo4zm/oc_percentage_of_people_who_say_that_religion_is/",
-      "score": 4136,
-      "comments": 1029,
-      "post_id": "t3_1myo4zm",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "oscarleo0",
-      "author_id": "t2_vw3zjkk5",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-24T06:20:01.017000+0000",
-      "content_href": "https://i.redd.it/l6m4e6nztwkf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://preview.redd.it/percentage-of-people-who-say-that-religion-is-very-or-v0-l6m4e6nztwkf1.png?width=640&crop=smart&auto=webp&s=02262746ab61ace65887c15387942f3753f8fbed"
-    },
-    {
-      "title": "[OC] Applications for PhD in Molecular Microbiology",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1mzpfv2/oc_applications_for_phd_in_molecular_microbiology/",
-      "score": 293,
-      "comments": 41,
-      "post_id": "t3_1mzpfv2",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "birdbirdeos",
-      "author_id": "t2_64ibtnga",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-25T12:43:26.356000+0000",
-      "content_href": "https://i.redd.it/q6zf97c1v5lf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://preview.redd.it/applications-for-phd-in-molecular-microbiology-v0-q6zf97c1v5lf1.png?width=640&crop=smart&auto=webp&s=a989151cb64a2cef49f41960a60fb831363f92a8"
-    },
-    {
-      "title": "[OC] How the Importance of Religion Has Shifted Between 2004 and 2022 (Updated Based on Feedback)",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1mzr7j4/oc_how_the_importance_of_religion_has_shifted/",
-      "score": 180,
-      "comments": 66,
-      "post_id": "t3_1mzr7j4",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "oscarleo0",
-      "author_id": "t2_vw3zjkk5",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-25T13:57:25.064000+0000",
-      "content_href": "https://i.redd.it/265ry1sn86lf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://preview.redd.it/how-the-importance-of-religion-has-shifted-between-2004-and-v0-265ry1sn86lf1.png?width=640&crop=smart&auto=webp&s=2d551eaef6d8910db58b27c1cf2c12810242e80f"
-    },
-    {
-      "title": "[OC] My [41M] on/off ~2.5-year dating journey with people I met on OLD apps",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1mzlz9g/oc_my_41m_onoff_25year_dating_journey_with_people/",
-      "score": 309,
-      "comments": 80,
-      "post_id": "t3_1mzlz9g",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "WhySoTedious",
-      "author_id": "t2_2vqhx42m",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-25T09:38:52.273000+0000",
-      "content_href": "https://i.redd.it/6lp0ncopy4lf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://preview.redd.it/my-41m-on-off-2-5-year-dating-journey-with-people-i-met-on-v0-6lp0ncopy4lf1.jpeg?width=640&crop=smart&auto=webp&s=25126fb2de692b99c13cd4bb2f686bb26738c308"
-    },
-    {
-      "title": "From candles to electrons: changing lighting sources in the United Kingdom",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n3bvg2/from_candles_to_electrons_changing_lighting/",
-      "score": 28,
-      "comments": 5,
-      "post_id": "t3_1n3bvg2",
-      "post_type": "link",
-      "domain": "ourworldindata.org",
-      "author": "eortizospina",
-      "author_id": "t2_homgz02",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-29T16:19:54.739000+0000",
-      "content_href": "https://ourworldindata.org/data-insights/from-candles-to-electrons-changing-lighting-sources-in-the-united-kingdom",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "https://external-preview.redd.it/yYy3pZ2bgWOo0j3ItCtKe-ixEtEHM_KvMs1KabLrQMs.png?width=140&height=140&crop=140:140,smart&auto=webp&s=d61a9257e6f2cef73c28c65040a35d46c64ee179"
-    },
-    {
-      "title": "[OC] Companies with CEOs over the age of 70 outperform the S&P 500",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1mv8a6y/oc_companies_with_ceos_over_the_age_of_70/",
-      "score": 3720,
-      "comments": 172,
-      "post_id": "t3_1mv8a6y",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Fun-Pace-4636",
-      "author_id": "t2_1lbutv5b2q",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-20T07:38:27.887000+0000",
-      "content_href": "https://i.redd.it/do3lvveno4kf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://preview.redd.it/companies-with-ceos-over-the-age-of-70-outperform-the-s-p-v0-do3lvveno4kf1.jpeg?width=640&crop=smart&auto=webp&s=98d4e23965e106c54008c696f33b4fb894f1de36"
-    },
-    {
-      "title": "[OC] Sri Lanka’s Land Cover in 3D — Water, Trees, Crops, Built Areas, and Rangeland",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n49994/oc_sri_lankas_land_cover_in_3d_water_trees_crops/",
-      "score": 600,
-      "comments": 12,
-      "post_id": "t3_1n49994",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "ramnamsatyahai",
-      "author_id": "t2_qu0obo9ca",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-30T18:45:12.080000+0000",
-      "content_href": "https://i.redd.it/5gl6tn8qc7mf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://preview.redd.it/sri-lankas-land-cover-in-3d-water-trees-crops-built-areas-v0-5gl6tn8qc7mf1.png?width=640&crop=smart&auto=webp&s=8f0cb55c1dbe6c4228bf77e056c771150c0b6243"
-    },
-    {
-      "title": "[OC] The world is aging: Birth rates have plummeted across every continent since 1960",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1n1aosg/oc_the_world_is_aging_birth_rates_have_plummeted/",
-      "score": 572,
-      "comments": 143,
-      "post_id": "t3_1n1aosg",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "ZealousidealCard4582",
-      "author_id": "t2_1lztb7p30j",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-27T07:39:02.894000+0000",
-      "content_href": "https://i.redd.it/x4lda0h0nilf1.png",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "[OC] The semantic embedding and visualization of the entire corpus of cancer research (2.5 million papers)",
-      "permalink": "https://www.reddit.com/r/dataisbeautiful/comments/1mzoh9r/oc_the_semantic_embedding_and_visualization_of/",
-      "score": 102,
-      "comments": 13,
-      "post_id": "t3_1mzoh9r",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "jargs92",
-      "author_id": "t2_s57q2i60",
-      "subreddit_id": "t5_2tk95",
-      "subreddit": "r/dataisbeautiful",
-      "created_ts": "2025-08-25T11:58:13.100000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mzoh9r",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T02:58:33.814387"
+  "scraped_at": "2025-09-05T03:30:40.016061"
 }

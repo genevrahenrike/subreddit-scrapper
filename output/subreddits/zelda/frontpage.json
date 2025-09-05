@@ -3,74 +3,456 @@
   "url": "https://www.reddit.com/r/zelda",
   "meta": {
     "title": "The Legend of Zelda",
-    "members_text": "103"
+    "description": "/r/Zelda is the unofficial hub for anything and everything The Legend of Zelda - the iconic Nintendo series. Feel free to share news, reviews, opinions, fan art, humour, videos, or anything else Zelda. For fans, by fans.",
+    "subscribers": 3254024,
+    "online_users": 37,
+    "created_timestamp": "2025-09-05T07:13:51.142000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Bookmarks",
+        "content": [
+          {
+            "text": "Our Discord Server",
+            "url": "https://bit.ly/rzeldanav"
+          },
+          {
+            "text": "Send a ModMail",
+            "url": "https://www.reddit.com/message/compose?to=/r/zelda"
+          },
+          {
+            "text": "Wiki Index",
+            "url": "https://www.reddit.com/r/zelda/wiki/index"
+          },
+          {
+            "text": "Detailed Rules",
+            "url": "https://www.reddit.com/r/zelda/w/rules"
+          },
+          {
+            "text": "FAQ",
+            "url": "https://www.reddit.com/r/zelda/w/faq"
+          },
+          {
+            "text": "Lore Primer",
+            "url": "https://www.reddit.com/r/zelda/wiki/lore"
+          },
+          {
+            "text": "Resources",
+            "url": "https://www.reddit.com/r/zelda/w/resources"
+          },
+          {
+            "text": "Post Archives",
+            "url": "https://www.reddit.com/r/zelda/w/archives"
+          },
+          {
+            "text": "More Subreddits",
+            "url": "https://www.reddit.com/r/zelda/wiki/more/subreddits"
+          },
+          {
+            "text": "More Websites",
+            "url": "https://www.reddit.com/r/zelda/wiki/more/websites"
+          },
+          {
+            "text": "More Discord Servers",
+            "url": "https://www.reddit.com/r/zelda/wiki/more/discords"
+          }
+        ]
+      },
+      {
+        "title": "r/zelda Rules",
+        "content": [
+          {
+            "text": "https://www.reddit.com/r/zelda/wiki/rules",
+            "url": "https://www.reddit.com/r/zelda/wiki/rules"
+          },
+          {
+            "text": "Spoiler Policy",
+            "url": "/r/zelda/w/rules/spoilerpolicy"
+          },
+          {
+            "text": "user feedback in December 2022",
+            "url": "https://redd.it/zjnzkh"
+          },
+          {
+            "text": "See more details on our wiki",
+            "url": "/r/zelda/w/rules"
+          },
+          {
+            "text": "Use the search function",
+            "url": "https://www.reddit.com/r/help/comments/mwjd4r/how_do_i_search_a_subreddit/"
+          },
+          {
+            "text": "Be Civilwiki page",
+            "url": "https://www.reddit.com/r/zelda/wiki/becivil"
+          },
+          {
+            "text": "Dropship Spammers",
+            "url": "https://www.reddit.com/r/zelda/wiki/dropshippers"
+          }
+        ]
+      },
+      {
+        "title": "Welcome",
+        "content": [
+          {
+            "text": "/r/Zelda",
+            "url": "/r/Zelda"
+          },
+          {
+            "text": "/r/TrueZelda",
+            "url": "/r/TrueZelda"
+          },
+          {
+            "text": "discord.gg/rzelda",
+            "url": "https://discord.gg/rzelda"
+          }
+        ]
+      },
+      {
+        "title": "Quick Links",
+        "content": [
+          {
+            "text": "r/Zelda Discord",
+            "url": "https://bit.ly/rzeldadiscord"
+          },
+          {
+            "text": "TotK Tips & Tricks",
+            "url": "https://www.reddit.com/r/zelda/comments/13i9kli/tips_and_tricks_megathread_round_1_post/"
+          },
+          {
+            "text": "No Spoilers (Desktop)",
+            "url": "https://ns.reddit.com/r/zelda/"
+          },
+          {
+            "text": "Browse our Wiki",
+            "url": "https://www.reddit.com/r/zelda/wiki/index"
+          },
+          {
+            "text": "Detailed Rules",
+            "url": "https://www.reddit.com/r/zelda/wiki/rules"
+          },
+          {
+            "text": "Send a ModMail",
+            "url": "https://www.reddit.com/message/compose?to=/r/zelda"
+          }
+        ]
+      },
+      {
+        "title": "Browse by Flair",
+        "content": [
+          {
+            "text": "News",
+            "url": "/r/zelda/?f=flair_name%3A%22News%22"
+          },
+          {
+            "text": "Event",
+            "url": "/r/zelda/?f=flair_name%3A%22Event%22"
+          },
+          {
+            "text": "Resource",
+            "url": "/r/zelda/?f=flair_name%3A%22Resource%22"
+          },
+          {
+            "text": "Mod Post",
+            "url": "/r/zelda/?f=flair_name%3A%22Mod%20Post%22"
+          },
+          {
+            "text": "Discussion",
+            "url": "/r/zelda/?f=flair_name%3A%22Discussion%22"
+          },
+          {
+            "text": "Question",
+            "url": "/r/zelda/?f=flair_name%3A%22Question%22"
+          },
+          {
+            "text": "Tip",
+            "url": "/r/zelda/?f=flair_name%3A%22Tip%22"
+          },
+          {
+            "text": "Poll",
+            "url": "/r/zelda/?f=flair_name%3A%22Poll%22"
+          },
+          {
+            "text": "Screenshot",
+            "url": "/r/zelda/?f=flair_name%3A%22Screenshot%22"
+          },
+          {
+            "text": "Video",
+            "url": "/r/zelda/?f=flair_name%3A%22Video%22"
+          },
+          {
+            "text": "Clip",
+            "url": "/r/zelda/?f=flair_name%3A%22Clip%22"
+          },
+          {
+            "text": "Official Art",
+            "url": "/r/zelda/?f=flair_name%3A%22Official%20Art%22"
+          },
+          {
+            "text": "Fan Art",
+            "url": "/r/zelda/?f=flair_name%3A%22Fan%20Art%22"
+          },
+          {
+            "text": "Craft",
+            "url": "/r/zelda/?f=flair_name%3A%22Craft%22"
+          },
+          {
+            "text": "Cosplay",
+            "url": "/r/zelda/?f=flair_name%3A%22Cosplay%22"
+          },
+          {
+            "text": "Music",
+            "url": "/r/zelda/?f=flair_name%3A%22Music%22"
+          },
+          {
+            "text": "Tattoo",
+            "url": "/r/zelda/?f=flair_name%3A%22Tattoo%22"
+          },
+          {
+            "text": "Collection/Merch",
+            "url": "/r/zelda/?f=flair_name%3A%22Collection%2FMerch%22"
+          },
+          {
+            "text": "Fangame",
+            "url": "/r/zelda/?f=flair_name%3A%22Fangame%22"
+          },
+          {
+            "text": "Mockup",
+            "url": "/r/zelda/?f=flair_name%3A%22Mockup%22"
+          },
+          {
+            "text": "Humor",
+            "url": "/r/zelda/?f=flair_name%3A%22Humor%22"
+          },
+          {
+            "text": "Meme",
+            "url": "/r/zelda/?f=flair_name%3A%22Meme%22"
+          }
+        ]
+      },
+      {
+        "title": "Zelda Subreddits",
+        "content": [
+          {
+            "text": "r/AskZelda",
+            "url": "/r/AskZelda"
+          },
+          {
+            "text": "r/ZeldaArtContest",
+            "url": "/r/ZeldaArtContest"
+          },
+          {
+            "text": "r/truezelda",
+            "url": "/r/truezelda"
+          },
+          {
+            "text": "r/ZeldaMemes",
+            "url": "/r/ZeldaMemes"
+          },
+          {
+            "text": "r/Zelda_Music",
+            "url": "/r/Zelda_Music"
+          },
+          {
+            "text": "r/OcarinaOfTime",
+            "url": "/r/OcarinaOfTime"
+          },
+          {
+            "text": "r/twilightprincess",
+            "url": "/r/twilightprincess"
+          },
+          {
+            "text": "r/skywardsword",
+            "url": "/r/skywardsword"
+          },
+          {
+            "text": "r/botw",
+            "url": "/r/botw"
+          },
+          {
+            "text": "r/HyruleWarriors",
+            "url": "/r/HyruleWarriors"
+          }
+        ]
+      },
+      {
+        "title": "Nintendo Family",
+        "content": [
+          {
+            "text": "r/nintendo",
+            "url": "/r/nintendo"
+          },
+          {
+            "text": "r/casualnintendo",
+            "url": "/r/casualnintendo"
+          },
+          {
+            "text": "r/nintendomusic",
+            "url": "/r/nintendomusic"
+          },
+          {
+            "text": "r/NintendoSwitch",
+            "url": "/r/NintendoSwitch"
+          },
+          {
+            "text": "r/wiiu",
+            "url": "/r/wiiu"
+          },
+          {
+            "text": "r/3DS",
+            "url": "/r/3DS"
+          },
+          {
+            "text": "r/MyNintendo",
+            "url": "/r/MyNintendo"
+          },
+          {
+            "text": "r/amiibo",
+            "url": "/r/amiibo"
+          },
+          {
+            "text": "r/fireemblem",
+            "url": "/r/fireemblem"
+          },
+          {
+            "text": "r/Xenoblade_Chronicles",
+            "url": "/r/Xenoblade_Chronicles"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/zelda/moderators/"
+          }
+        ]
+      },
+      {
+        "title": "Installed Apps",
+        "content": [
+          {
+            "text": "Flair Assistant",
+            "url": "https://developers.reddit.com/apps/flairassistant"
+          },
+          {
+            "text": "Automod Sync",
+            "url": "https://developers.reddit.com/apps/automod-sync"
+          },
+          {
+            "text": "User Flair Bot",
+            "url": "https://developers.reddit.com/apps/user-flair-bot"
+          },
+          {
+            "text": "Evasion Guard",
+            "url": "https://developers.reddit.com/apps/evasion-guard"
+          },
+          {
+            "text": "Subreddit Statistics",
+            "url": "https://developers.reddit.com/apps/sub-stats-bot"
+          },
+          {
+            "text": "Remove Macro",
+            "url": "https://developers.reddit.com/apps/purge-user"
+          },
+          {
+            "text": "Flair Scheduler",
+            "url": "https://developers.reddit.com/apps/flair-schedule"
+          },
+          {
+            "text": "Banhammer",
+            "url": "https://developers.reddit.com/apps/banhammerapp"
+          },
+          {
+            "text": "Admin Tattler",
+            "url": "https://developers.reddit.com/apps/admin-tattler"
+          },
+          {
+            "text": "urlcopy",
+            "url": "https://developers.reddit.com/apps/urlcopy"
+          },
+          {
+            "text": "Comment Mop",
+            "url": "https://developers.reddit.com/apps/comment-nuke"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "[Other] The Zelda community is awful",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n6ewii/other_the_zelda_community_is_awful/",
-      "score": 0,
-      "comments": 12,
-      "post_id": "t3_1n6ewii",
-      "post_type": "text",
-      "domain": "self.zelda",
-      "author": "squidhungergamesfan",
-      "author_id": "t2_1rnplu3j0c",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-09-02T09:29:10.697000+0000",
-      "content_href": "https://www.reddit.com/r/zelda/comments/1n6ewii/other_the_zelda_community_is_awful/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "[WW] I accidentally took this photo.",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n2w6du/ww_i_accidentally_took_this_photo/",
-      "score": 3342,
-      "comments": 46,
-      "post_id": "t3_1n2w6du",
+      "title": "[TotK] Tulin Pixel art i made (my design!)",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n8yjn1/totk_tulin_pixel_art_i_made_my_design/",
+      "score": 9,
+      "comments": 2,
+      "post_id": "t3_1n8yjn1",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "Wild-Oil4101",
-      "author_id": "t2_ctjqqbyw",
+      "author": "TulinBoi",
+      "author_id": "t2_1i32085o0n",
       "subreddit_id": "t5_2r61g",
       "subreddit": "r/zelda",
-      "created_ts": "2025-08-29T02:57:58.598000+0000",
-      "content_href": "https://i.redd.it/xhj8y6ppivlf1.jpeg",
+      "created_ts": "2025-09-05T07:13:51.142000+0000",
+      "content_href": "https://i.redd.it/96bype1uqanf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Screenshot"
+        "Fan Art"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_4r5z4d/styles/profileIcon_ej4iolxn8apa1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fcd251c275556c6018db5360c5b6c83cb434ddd3"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dkr935/styles/profileIcon_dx2o6n8u4xjf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d7d8578b80942791159b8487f743c17836ad8738",
+      "is_promoted": false
     },
     {
-      "title": "[MM] Majora's mask I crafted for my son",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n5uj4c/mm_majoras_mask_i_crafted_for_my_son/",
-      "score": 620,
-      "comments": 6,
-      "post_id": "t3_1n5uj4c",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "t_sekuloski",
-      "author_id": "t2_4vtj23y",
+      "title": "[WW] I painted a Wind Waker mural for a house",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n7sy1l/ww_i_painted_a_wind_waker_mural_for_a_house/",
+      "score": 16849,
+      "comments": 243,
+      "post_id": "t3_1n7sy1l",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "JoelSketch",
+      "author_id": "t2_611c7t4r7",
       "subreddit_id": "t5_2r61g",
       "subreddit": "r/zelda",
-      "created_ts": "2025-09-01T17:11:41.284000+0000",
-      "content_href": "https://i.redd.it/8pd8n1lv5lmf1.jpeg",
+      "created_ts": "2025-09-03T22:24:37.372000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7sy1l",
       "content_preview": "",
       "flair": [
-        "Craft"
+        "Fan Art"
       ],
-      "thumbnail_url": "https://preview.redd.it/mm-majoras-mask-i-crafted-for-my-son-v0-8pd8n1lv5lmf1.jpeg?width=640&crop=smart&auto=webp&s=4609db3354de645ef63e91fc1b682ee1a4a1a4f2"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "[botw] My Zelda gerudo cosplay :3",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n8erch/botw_my_zelda_gerudo_cosplay_3/",
+      "score": 1074,
+      "comments": 31,
+      "post_id": "t3_1n8erch",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Mizuki_cos",
+      "author_id": "t2_182rgykzsw",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-04T16:22:02.025000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8erch",
+      "content_preview": "",
+      "flair": [
+        "Cosplay"
+      ],
+      "thumbnail_url": "https://preview.redd.it/botw-my-zelda-gerudo-cosplay-3-v0-9cqo052pb6nf1.jpg?width=640&crop=smart&auto=webp&s=1bc4ff2752347a7e231de9528ff8da2ca996f3b8",
+      "is_promoted": false
     },
     {
       "title": "[botw] I Searched Japan for Secret Zelda Inspirations",
       "permalink": "https://www.reddit.com/r/zelda/comments/1mly6a4/botw_i_searched_japan_for_secret_zelda/",
-      "score": 11006,
-      "comments": 49,
+      "score": 11014,
+      "comments": 50,
       "post_id": "t3_1mly6a4",
       "post_type": "gallery",
       "domain": "reddit.com",
@@ -84,92 +466,116 @@
       "flair": [
         "Screenshot"
       ],
-      "thumbnail_url": "https://preview.redd.it/botw-i-searched-japan-for-secret-zelda-inspirations-v0-iuzvz0mqq1if1.jpg?width=640&crop=smart&auto=webp&s=245eef38ab659a3183ba98783384609ce42ab06e"
+      "thumbnail_url": "https://preview.redd.it/botw-i-searched-japan-for-secret-zelda-inspirations-v0-iuzvz0mqq1if1.jpg?width=640&crop=smart&auto=webp&s=245eef38ab659a3183ba98783384609ce42ab06e",
+      "is_promoted": false
     },
     {
-      "title": "[BOTW] Princess Zelda's Appreciation [Fan Art by Me/Matsuyaga]",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n68iur/botw_princess_zeldas_appreciation_fan_art_by/",
-      "score": 70,
-      "comments": 31,
-      "post_id": "t3_1n68iur",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "IanMatsuyaga",
-      "author_id": "t2_4e86qba7",
+      "title": "[MM] my majora’s mask tattoo, a tribute to my favorite LOZ title",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n8ubvk/mm_my_majoras_mask_tattoo_a_tribute_to_my/",
+      "score": 122,
+      "comments": 5,
+      "post_id": "t3_1n8ubvk",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "sombr0517",
+      "author_id": "t2_1fg2ypuxjv",
       "subreddit_id": "t5_2r61g",
       "subreddit": "r/zelda",
-      "created_ts": "2025-09-02T03:01:46.308000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n68iur",
+      "created_ts": "2025-09-05T03:11:21.970000+0000",
+      "content_href": "https://i.redd.it/yf6qpgvlj9nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Tattoo"
+      ],
+      "thumbnail_url": "https://preview.redd.it/mm-my-majoras-mask-tattoo-a-tribute-to-my-favorite-loz-title-v0-yf6qpgvlj9nf1.jpeg?width=640&crop=smart&auto=webp&s=ac66f42f1e1de1e6214cd03113c8c7c564a53f13",
+      "is_promoted": false
+    },
+    {
+      "title": "Choreplay needs a good soundtrack. Drop a song in the comments below to help us create the dirtiest playlist. Seventh Generation Dish Liquid–Dishes so clean, you can get dirty.",
+      "permalink": "https://www.reddit.com/user/Seventh_Gen_Clean/comments/1mr8akj/choreplay_needs_a_good_soundtrack_drop_a_song_in/",
+      "score": 0,
+      "comments": 44,
+      "post_id": "t3_1mr8akj",
+      "post_type": "image",
+      "domain": "shop.pricespider.com",
+      "author": "Seventh_Gen_Clean",
+      "author_id": "t2_1q8qijt0gu",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-15T19:49:02.569000+0000",
+      "content_href": "https://shop.pricespider.com/?campaignid=G7K6aZeGYk_c64c03c4-bf07-428d-9ed2-eded49dc2647&productid=xqc_8b_m5cp74e&displaylanguage=en_US&utm_content=BrandHand&utm_source=National&utm_medium=Reddit&utm_campaign=Freaky+Clean+2025",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ejtobz/styles/profileIcon_imuoebad3a3f1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=dd10aca8ae4d5a723f1212646f51738887828d10",
+      "is_promoted": true
+    },
+    {
+      "title": "[WW] I accidentally took this photo.",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n2w6du/ww_i_accidentally_took_this_photo/",
+      "score": 3381,
+      "comments": 47,
+      "post_id": "t3_1n2w6du",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Wild-Oil4101",
+      "author_id": "t2_ctjqqbyw",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-08-29T02:57:58.598000+0000",
+      "content_href": "https://i.redd.it/xhj8y6ppivlf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Screenshot"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4r5z4d/styles/profileIcon_ej4iolxn8apa1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fcd251c275556c6018db5360c5b6c83cb434ddd3",
+      "is_promoted": false
+    },
+    {
+      "title": "[totk] The zonai dress (oc)",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n8boht/totk_the_zonai_dress_oc/",
+      "score": 859,
+      "comments": 9,
+      "post_id": "t3_1n8boht",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "BaloBadArtist",
+      "author_id": "t2_dl7z59xm",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-04T14:27:07.311000+0000",
+      "content_href": "https://i.redd.it/aoz0b7q8r5nf1.jpeg",
       "content_preview": "",
       "flair": [
         "Fan Art"
       ],
-      "thumbnail_url": "https://preview.redd.it/botw-princess-zeldas-appreciation-fan-art-by-me-matsuyaga-v0-nw3tixdj2omf1.png?width=640&crop=smart&auto=webp&s=3dfa39c64161e91ea89a96f1926e8a4c6642826d"
+      "thumbnail_url": "https://preview.redd.it/totk-the-zonai-dress-v0-aoz0b7q8r5nf1.jpeg?width=640&crop=smart&auto=webp&s=284b1ade39e39cb573101f15b0e2bb2f0de6e5b1",
+      "is_promoted": false
     },
     {
-      "title": "[MM] Zelda majors mask Diorama",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n43yoh/mm_zelda_majors_mask_diorama/",
-      "score": 2819,
-      "comments": 32,
-      "post_id": "t3_1n43yoh",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "G-mod-lover",
-      "author_id": "t2_4et4c5sr",
+      "title": "[All] I would love to see more unique bosses, more quirks added to combat, and more variety enemies in the next 3D Zelda games.",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n8xdcf/all_i_would_love_to_see_more_unique_bosses_more/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1n8xdcf",
+      "post_type": "text",
+      "domain": "self.zelda",
+      "author": "Icy-Passenger-4784",
+      "author_id": "t2_fatoh9hzj",
       "subreddit_id": "t5_2r61g",
       "subreddit": "r/zelda",
-      "created_ts": "2025-08-30T15:07:29.752000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n43yoh",
-      "content_preview": "",
+      "created_ts": "2025-09-05T06:00:24.325000+0000",
+      "content_href": "https://www.reddit.com/r/zelda/comments/1n8xdcf/all_i_would_love_to_see_more_unique_bosses_more/",
+      "content_preview": "Hot take: I always said that although I love the Zelda series, but Cloud from FF7 is more fun character to play in combat than Link.I know both are different genres, but there is so much done even in the bare basics of combat to keep things fresh for Cloud compared to Link.For one; the 3D Zelda games don't that have that much enemy variety compared to, lets say Final Final 7 rebirth where there are 225 enemy types with few reskins. There are just so many unique mechanics, animation, weaknesses, and mini bosses that could be considered full blown bosses.In BOTW and TOTK, I felt like the golden/silver enemies felt annoying since it's just a health and damage increase without changing the AI which got old fast the more you play and master the game. In the end, it grew really stale fighting against since I'm wasting weapon durability.Link fighting has things added which were fun like flurry rushes, parries that negated all damage, however Link's combos are so basic where all the options for variety the way you fight is to cheese the AI, abusing elements, and mechanics. I miss the fact, you can't learn more advanced techniques to freshen combat which can be added in traversal and future fights.There are only three weapon types in melee with the two handed weapon, one handed weapon, and the long ranged weapon. There are unique mechanics with the trident giving you a spin attack dash in water akin to Skyward Sword, I don't mind getting more weapons, but there is a problem when I only used the master sword to do my dirty work in farming ores. Since fuse is likely not coming back, something should be done with the weapon durabiliy in the next 3D game. In think an Elden Ring weapon implamentation would help. Plus, I think it's very funny if the hero of the Wild Link is the only version of himself to break all his weapons.",
       "flair": [
-        "Craft"
+        "Question"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "[TotK] wow, just, wow. . .",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n665hm/totk_wow_just_wow/",
-      "score": 97,
-      "comments": 4,
-      "post_id": "t3_1n665hm",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "elitenex47",
-      "author_id": "t2_s9luisqf",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-09-02T01:05:14.124000+0000",
-      "content_href": "https://v.redd.it/0jid8yadinmf1",
-      "content_preview": "",
-      "flair": [
-        "Clip"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "[TOTK] Cool Tech Against Hinox 😎",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n6b4hs/totk_cool_tech_against_hinox/",
-      "score": 19,
-      "comments": 3,
-      "post_id": "t3_1n6b4hs",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "NiceKorok",
-      "author_id": "t2_1iljzeeu84",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-09-02T05:24:26.135000+0000",
-      "content_href": "https://v.redd.it/bptrz7aksomf1",
-      "content_preview": "",
-      "flair": [
-        "Clip"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_dtqyr5/styles/profileIcon_650gkp9ubbne1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=bea4f161e1b6f072928bfd60c33026bf34098e8a"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "[TP] Shout-out to Twilight Princess for letting you talk to Epona",
       "permalink": "https://www.reddit.com/r/zelda/comments/1modfwb/tp_shoutout_to_twilight_princess_for_letting_you/",
-      "score": 8753,
+      "score": 8762,
       "comments": 108,
       "post_id": "t3_1modfwb",
       "post_type": "image",
@@ -184,112 +590,137 @@
       "flair": [
         "Screenshot"
       ],
-      "thumbnail_url": "https://preview.redd.it/tp-shout-out-to-twilight-princess-for-letting-you-talk-to-v0-8j75i1vx7mif1.jpeg?width=640&crop=smart&auto=webp&s=443e1c9d13fa073189332b132fda88dee5019c2b"
+      "thumbnail_url": "https://preview.redd.it/tp-shout-out-to-twilight-princess-for-letting-you-talk-to-v0-8j75i1vx7mif1.jpeg?width=640&crop=smart&auto=webp&s=443e1c9d13fa073189332b132fda88dee5019c2b",
+      "is_promoted": false
     },
     {
-      "title": "[Oot] The triforce is well protected this morning",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n5v3oa/oot_the_triforce_is_well_protected_this_morning/",
-      "score": 374,
-      "comments": 17,
-      "post_id": "t3_1n5v3oa",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Kimchi_Kruncher",
-      "author_id": "t2_1k4i6d46dz",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-09-01T17:32:32.087000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5v3oa",
-      "content_preview": "",
-      "flair": [
-        "Cosplay"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_dq3r3x/styles/profileIcon_sjk15wk3ukle1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=cc475932d9ed306e49d9856e40b2655c56544915"
-    },
-    {
-      "title": "[MM] [OC] Romani and Link - Ready to defend the Ranch",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n2q8og/mm_oc_romani_and_link_ready_to_defend_the_ranch/",
-      "score": 2627,
-      "comments": 32,
-      "post_id": "t3_1n2q8og",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Thaumana",
-      "author_id": "t2_1jfomhka",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-08-28T22:25:49.324000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n2q8og",
-      "content_preview": "",
-      "flair": [
-        "Fan Art"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_k897w/styles/profileIcon_kuawie2ou3yd1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d19a270238273e08ab58882722369377605e9806"
-    },
-    {
-      "title": "[OoT] Link meets his dark reflection [OC]",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n5oasu/oot_link_meets_his_dark_reflection_oc/",
-      "score": 573,
-      "comments": 3,
-      "post_id": "t3_1n5oasu",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "VictorTael",
-      "author_id": "t2_sv9op21cg",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-09-01T13:10:51.554000+0000",
-      "content_href": "https://i.redd.it/gfwzutxwyjmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Fan Art"
-      ],
-      "thumbnail_url": "https://preview.redd.it/oot-link-meets-his-dark-reflection-v0-gfwzutxwyjmf1.jpeg?width=640&crop=smart&auto=webp&s=b1dfb19ace92f42ab428e6b8d05ab6cd148cdab3"
-    },
-    {
-      "title": "[TP][OC] Finished this illustration a while back! Love this game so much!",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n1f88e/tpoc_finished_this_illustration_a_while_back_love/",
-      "score": 2337,
-      "comments": 52,
-      "post_id": "t3_1n1f88e",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Timkongart",
-      "author_id": "t2_150ewe",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-08-27T12:08:16.280000+0000",
-      "content_href": "https://i.redd.it/165nu5s3zjlf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Fan Art"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_18baus/styles/profileIcon_qvcgzhbu34p81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2a4d9f99ec64bb55abe2f3d12695ed47655b38c0"
-    },
-    {
-      "title": "[TotK] Lynel lived a good life",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n5shkp/totk_lynel_lived_a_good_life/",
-      "score": 341,
-      "comments": 17,
-      "post_id": "t3_1n5shkp",
+      "title": "[TotK] Gleeok Three Hit Kill",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n8tsn3/totk_gleeok_three_hit_kill/",
+      "score": 75,
+      "comments": 4,
+      "post_id": "t3_1n8tsn3",
       "post_type": "video",
       "domain": "v.redd.it",
       "author": "GirKart64-temp",
       "author_id": "t2_1aqyo9bh",
       "subreddit_id": "t5_2r61g",
       "subreddit": "r/zelda",
-      "created_ts": "2025-09-01T15:56:24.696000+0000",
-      "content_href": "https://v.redd.it/clea1cr7qkmf1",
+      "created_ts": "2025-09-05T02:44:53.087000+0000",
+      "content_href": "https://v.redd.it/vh6hr6ufc9nf1",
       "content_preview": "",
       "flair": [
         "Clip"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_irguc/styles/profileIcon_dvc9nwli9sk61.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=767a0ac7e38a843f21ae96c5e964b6fcd83b925f"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_irguc/styles/profileIcon_dvc9nwli9sk61.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=767a0ac7e38a843f21ae96c5e964b6fcd83b925f",
+      "is_promoted": false
+    },
+    {
+      "title": "[MM] Zelda majors mask Diorama",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n43yoh/mm_zelda_majors_mask_diorama/",
+      "score": 2888,
+      "comments": 32,
+      "post_id": "t3_1n43yoh",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "G-mod-lover",
+      "author_id": "t2_4et4c5sr",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-08-30T15:07:29.752000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n43yoh",
+      "content_preview": "",
+      "flair": [
+        "Craft"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "[OOT] If OOT were to be remade would you want Fi to be hinted at to be in the master sword?",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n8kl78/oot_if_oot_were_to_be_remade_would_you_want_fi_to/",
+      "score": 144,
+      "comments": 126,
+      "post_id": "t3_1n8kl78",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "EAT_UR_VEGGIES",
+      "author_id": "t2_3f2b0mgx",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-04T20:03:05.648000+0000",
+      "content_href": "https://i.redd.it/062m4yx6f7nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Official Art"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_y7tc4/styles/profileIcon_4j9mqdvxzjhf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7c15d633f1a9d09ad9225fc3708361ef196602b2",
+      "is_promoted": false
+    },
+    {
+      "title": "Thinking about next steps? Talk to your doctor to see if CARVYKTI® could be an option for you. CARVYKTI® is a treatment used for adult patients who have cancer of the bone marrow called multiple myeloma. It is used when at least one other treatment has not worked or has stopped working.",
+      "permalink": "https://www.reddit.com/user/CARVYKTI_Official/comments/1m2h7qz/thinking_about_next_steps_talk_to_your_doctor_to/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1m2h7qz",
+      "post_type": "video",
+      "domain": "carvykti.com",
+      "author": "CARVYKTI_Official",
+      "author_id": "t2_11go15ejpc",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-17T19:42:29.361000+0000",
+      "content_href": "https://v.redd.it/efn72qwa5gdf1",
+      "content_preview": "Please read fullPrescribing Information, including Boxed Warning, for CARVYKTI®.",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_egjkoj/styles/profileIcon_51y4flsig42f1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=b9767833f4205f7f8272442698135d7464fd91c1",
+      "is_promoted": true
+    },
+    {
+      "title": "[Oot] Finally found a place this will get appreciated.",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n718ww/oot_finally_found_a_place_this_will_get/",
+      "score": 2466,
+      "comments": 67,
+      "post_id": "t3_1n718ww",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ShigOleWiggies",
+      "author_id": "t2_uvmdd7li",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-03T01:06:07.708000+0000",
+      "content_href": "https://i.redd.it/jp94rjufnumf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Tattoo"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7jmc4l/styles/profileIcon_179ktyeo7dhf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=45fff838072332dc1ccaeccbaf700e985796817e",
+      "is_promoted": false
+    },
+    {
+      "title": "[TPHD] I've never been able to make sense of TP's Death Mountain. What am I looking at??",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n809pg/tphd_ive_never_been_able_to_make_sense_of_tps/",
+      "score": 664,
+      "comments": 65,
+      "post_id": "t3_1n809pg",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "kinglucent",
+      "author_id": "t2_5ka6q",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-04T04:05:46.137000+0000",
+      "content_href": "https://i.redd.it/p5zcodayn2nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Screenshot"
+      ],
+      "thumbnail_url": "https://preview.redd.it/tphd-ive-never-been-able-to-make-sense-of-tps-death-v0-p5zcodayn2nf1.jpeg?width=640&crop=smart&auto=webp&s=8911b46a8e057a2ed831cd71771702cfbc6aaf00",
+      "is_promoted": false
     },
     {
       "title": "[ALL] Size Changes Everything",
       "permalink": "https://www.reddit.com/r/zelda/comments/1mraux2/all_size_changes_everything/",
-      "score": 6205,
+      "score": 6210,
       "comments": 34,
       "post_id": "t3_1mraux2",
       "post_type": "image",
@@ -304,432 +735,34 @@
       "flair": [
         "Meme"
       ],
-      "thumbnail_url": "https://preview.redd.it/all-size-changes-everything-v0-lv4x6pyg39jf1.jpeg?width=640&crop=smart&auto=webp&s=0d89c878b45bbf2763a71e941cd3b0cc27b277fa"
+      "thumbnail_url": "https://preview.redd.it/all-size-changes-everything-v0-lv4x6pyg39jf1.jpeg?width=640&crop=smart&auto=webp&s=0d89c878b45bbf2763a71e941cd3b0cc27b277fa",
+      "is_promoted": false
     },
     {
-      "title": "[BotW] Custom Sheikah Yumi [Japanese Longbow]",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n5s67w/botw_custom_sheikah_yumi_japanese_longbow/",
-      "score": 283,
-      "comments": 10,
-      "post_id": "t3_1n5s67w",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "HereticPaladin",
-      "author_id": "t2_64dg3",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-09-01T15:44:28.160000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5s67w",
-      "content_preview": "",
-      "flair": [
-        "Craft"
-      ],
-      "thumbnail_url": "https://preview.redd.it/botw-custom-sheikah-yumi-japanese-longbow-v0-8nmrbqtaqkmf1.jpg?width=640&crop=smart&auto=webp&s=29a354a600991c4faf8902c7c43ba86c6709f1db"
-    },
-    {
-      "title": "[WWHD] Is there a full image of this artwork?",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n63zdt/wwhd_is_there_a_full_image_of_this_artwork/",
-      "score": 62,
-      "comments": 3,
-      "post_id": "t3_1n63zdt",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "foren_u_nab",
-      "author_id": "t2_ltyw124j",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-09-01T23:22:59.767000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n63zdt",
-      "content_preview": "",
-      "flair": [
-        "Official Art"
-      ],
-      "thumbnail_url": "https://preview.redd.it/wwhd-is-there-a-full-image-of-this-artwork-v0-krh3gsv10nmf1.png?width=640&crop=smart&auto=webp&s=ca6ab56f7d3d0b1fd517bc0bd1cca4ff23f625ff"
-    },
-    {
-      "title": "[Totk] My FanArt of Link and Zelda",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n1y0x3/totk_my_fanart_of_link_and_zelda/",
-      "score": 1510,
-      "comments": 40,
-      "post_id": "t3_1n1y0x3",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "YanManXplore",
-      "author_id": "t2_4vinej4",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-08-28T00:31:37.804000+0000",
-      "content_href": "https://i.redd.it/3tiwaimknnlf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Fan Art"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_4tktm/styles/profileIcon_1agpa085o2i61.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ebb0afdc782348a7ac412a813caf35ba0fbdbe4c"
-    },
-    {
-      "title": "[ALL] I don’t think the Hero of Time is forgotten or his deeds are unrecognized, as is so often claimed",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n5odzp/all_i_dont_think_the_hero_of_time_is_forgotten_or/",
-      "score": 395,
-      "comments": 77,
-      "post_id": "t3_1n5odzp",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Hopeful-Egg-978",
-      "author_id": "t2_uwjuryqn",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-09-01T13:14:43.584000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5odzp",
-      "content_preview": "",
-      "flair": [
-        "Screenshot"
-      ],
-      "thumbnail_url": "https://preview.redd.it/all-i-dont-think-the-hero-of-time-is-forgotten-or-his-deeds-v0-715nupulzjmf1.jpg?width=640&crop=smart&auto=webp&s=ce88a5533c48598998640d5a3b7464cf07da02e4"
-    },
-    {
-      "title": "[MM] made some stock pot inn memo pads!",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n60zjl/mm_made_some_stock_pot_inn_memo_pads/",
-      "score": 61,
-      "comments": 4,
-      "post_id": "t3_1n60zjl",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "g-amefreak",
-      "author_id": "t2_36yohve9",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-09-01T21:14:58.738000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n60zjl",
-      "content_preview": "",
-      "flair": [
-        "Craft"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_ybq7t/styles/profileIcon_tbes5v6o1i7b1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=14d132b5e2d84065c4d2108fe6630968932c38cd"
-    },
-    {
-      "title": "[BOTW] [OC] Made a “stained glass” panel for my doorway",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n5otc4/botw_oc_made_a_stained_glass_panel_for_my_doorway/",
-      "score": 130,
-      "comments": 9,
-      "post_id": "t3_1n5otc4",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "boleroo",
-      "author_id": "t2_13f9xi",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-09-01T13:32:45.613000+0000",
-      "content_href": "https://i.redd.it/mus4rdot2kmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Craft"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "[OoT] [MM] Zelda themed leg sleeve... progress!",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n3ir9q/oot_mm_zelda_themed_leg_sleeve_progress/",
-      "score": 1453,
-      "comments": 36,
-      "post_id": "t3_1n3ir9q",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "hey-heichou-suz",
-      "author_id": "t2_a79sx8hc",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-08-29T20:45:45.030000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n3ir9q",
-      "content_preview": "",
-      "flair": [
-        "Tattoo"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_3wvdyk/styles/profileIcon_h8g3ry6e2uf61.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=00f488bd0d8633aa5dc00a43cbfe87065e11c446"
-    },
-    {
-      "title": "[ALL] \"I always come back!\"",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n46x3s/all_i_always_come_back/",
-      "score": 1440,
-      "comments": 18,
-      "post_id": "t3_1n46x3s",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "backofthebill",
-      "author_id": "t2_t51thabzg",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-08-30T17:08:44.282000+0000",
-      "content_href": "https://i.redd.it/34kmooeiv6mf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Meme"
-      ],
-      "thumbnail_url": "https://preview.redd.it/all-i-always-come-back-v0-34kmooeiv6mf1.jpeg?width=640&crop=smart&auto=webp&s=d0c98d5da4808431a2d4c2227f28ec9a7883d53e"
-    },
-    {
-      "title": "[ALL] In the Same As Impa, Beedle, Dampé, Tingle, and Maybe Robbie. Which Characters Would You Want To See Join The \"Unofficial Reincarnation\" Cast?",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n5tozr/all_in_the_same_as_impa_beedle_dampé_tingle_and/",
-      "score": 61,
-      "comments": 46,
-      "post_id": "t3_1n5tozr",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "NIGHTMARESP00N",
-      "author_id": "t2_yt178f6",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-09-01T16:40:50.432000+0000",
-      "content_href": "https://i.redd.it/hed8wv7c0lmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Official Art"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "[WW] Toon Link be like “I’M WAKING UP!”",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n6a1ud/ww_toon_link_be_like_im_waking_up/",
-      "score": 36,
-      "comments": 3,
-      "post_id": "t3_1n6a1ud",
+      "title": "[ALL] Every Link be like \"I'M WAKING UP!\"",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n7eim1/all_every_link_be_like_im_waking_up/",
+      "score": 1686,
+      "comments": 78,
+      "post_id": "t3_1n7eim1",
       "post_type": "video",
       "domain": "v.redd.it",
       "author": "sinnohanvulpix",
       "author_id": "t2_1l8o3cf8",
       "subreddit_id": "t5_2r61g",
       "subreddit": "r/zelda",
-      "created_ts": "2025-09-02T04:21:54.360000+0000",
-      "content_href": "https://v.redd.it/xxlr5idghomf1",
+      "created_ts": "2025-09-03T13:15:36.379000+0000",
+      "content_href": "https://v.redd.it/j9bsq7r29ymf1",
       "content_preview": "",
       "flair": [
         "Video"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "[MM] My mask that a friend 3D printed and airbrushed for me 😊",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n68w4d/mm_my_mask_that_a_friend_3d_printed_and/",
-      "score": 37,
-      "comments": 2,
-      "post_id": "t3_1n68w4d",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "rydamusprime17",
-      "author_id": "t2_98jplv1",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-09-02T03:19:59.412000+0000",
-      "content_href": "https://i.redd.it/uii4hqpe6omf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Collection/Merch"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "[OoT] If the North American version came with these stickers and sheet music do you think you would have used them?",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n68uq7/oot_if_the_north_american_version_came_with_these/",
-      "score": 18,
-      "comments": 4,
-      "post_id": "t3_1n68uq7",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "rydamusprime17",
-      "author_id": "t2_98jplv1",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-09-02T03:18:01.990000+0000",
-      "content_href": "https://i.redd.it/o5ujed726omf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Collection/Merch"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "[BotW] Somehow pulled this off, dodge + flurry rush",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n5rrak/botw_somehow_pulled_this_off_dodge_flurry_rush/",
-      "score": 75,
-      "comments": 13,
-      "post_id": "t3_1n5rrak",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "knitguyyy",
-      "author_id": "t2_5sdajw1g",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-09-01T15:28:30.594000+0000",
-      "content_href": "https://v.redd.it/ce3taplgnkmf1",
-      "content_preview": "",
-      "flair": [
-        "Clip"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "[TFH] [OC] My attempt at the Triforce Guitar",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n0ssjp/tfh_oc_my_attempt_at_the_triforce_guitar/",
-      "score": 1348,
-      "comments": 69,
-      "post_id": "t3_1n0ssjp",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "FarTourist1760",
-      "author_id": "t2_emfgrmlf",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-08-26T17:51:19.606000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n0ssjp",
-      "content_preview": "",
-      "flair": [
-        "Craft"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_75q648/styles/profileIcon_8bnsdmhqdake1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=bc9ecfdabc862fe0bf63ed37384091af40d8635b"
-    },
-    {
-      "title": "[TP] Drew Midna and Link from TP",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n5pjm7/tp_drew_midna_and_link_from_tp/",
-      "score": 66,
-      "comments": 4,
-      "post_id": "t3_1n5pjm7",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "WarriorCatsGamerYT",
-      "author_id": "t2_df6mprz9p",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-09-01T14:03:02.060000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5pjm7",
-      "content_preview": "",
-      "flair": [
-        "Fan Art"
-      ],
-      "thumbnail_url": "https://preview.redd.it/tp-drew-midna-and-link-from-tp-v0-uskbvjk28kmf1.jpg?width=640&crop=smart&auto=webp&s=7bcb9a1356d51b80a236712c71b163be3ebf47ee"
-    },
-    {
-      "title": "[ALL] [MM] How Link usually Starts his games vs Majora's Mask",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1mg3mwv/all_mm_how_link_usually_starts_his_games_vs/",
-      "score": 4547,
-      "comments": 52,
-      "post_id": "t3_1mg3mwv",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "backofthebill",
-      "author_id": "t2_t51thabzg",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-08-02T22:50:56.446000+0000",
-      "content_href": "https://i.redd.it/22ihhl92rogf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Meme"
-      ],
-      "thumbnail_url": "https://preview.redd.it/all-mm-how-link-usually-starts-his-games-vs-majoras-mask-v0-22ihhl92rogf1.jpeg?width=640&crop=smart&auto=webp&s=ee3674c2ab24d17740e30e784c7067d65755095e"
-    },
-    {
-      "title": "[All] Which Zelda game should I play next?",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n5o3dk/all_which_zelda_game_should_i_play_next/",
-      "score": 71,
-      "comments": 61,
-      "post_id": "t3_1n5o3dk",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "ScallionIndividual42",
-      "author_id": "t2_gsmv4dgek",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-09-01T13:02:17.602000+0000",
-      "content_href": "https://i.redd.it/zdknz3xdxjmf1.png",
-      "content_preview": "",
-      "flair": [
-        "Official Art"
-      ],
-      "thumbnail_url": "https://preview.redd.it/all-which-zelda-game-should-i-play-next-v0-zdknz3xdxjmf1.png?width=640&crop=smart&auto=webp&s=a9626fa74376f9a4a8a318210df43a622b51c230"
-    },
-    {
-      "title": "[ALL] [OC] Made this light 3 years ago, because it is a symbol: To be open wide to seek the truth, and to will to go any lengths to achieve a goal, and that I wish to you!",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n5su46/all_oc_made_this_light_3_years_ago_because_it_is/",
-      "score": 31,
-      "comments": 5,
-      "post_id": "t3_1n5su46",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "bonzurr",
-      "author_id": "t2_3xtdto1g",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-09-01T16:08:56.888000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5su46",
-      "content_preview": "",
-      "flair": [
-        "Collection/Merch"
-      ],
-      "thumbnail_url": "https://preview.redd.it/all-made-this-light-3-years-ago-because-it-is-a-symbol-to-v0-vsufuy5hukmf1.jpg?width=640&crop=smart&auto=webp&s=fee8a3e5c85f824f3b3f8dc5a8411de1b8836ed0"
-    },
-    {
-      "title": "[OoT] absolute cinema. just wow.",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n5m2nv/oot_absolute_cinema_just_wow/",
-      "score": 38,
-      "comments": 12,
-      "post_id": "t3_1n5m2nv",
-      "post_type": "text",
-      "domain": "self.zelda",
-      "author": "AdEquivalent7775",
-      "author_id": "t2_ldo38o1h",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-09-01T11:22:05.507000+0000",
-      "content_href": "https://www.reddit.com/r/zelda/comments/1n5m2nv/oot_absolute_cinema_just_wow/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "[OC][ALBW] Zelda and Hilda 🩷💜",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n1vdr0/ocalbw_zelda_and_hilda/",
-      "score": 1276,
-      "comments": 15,
-      "post_id": "t3_1n1vdr0",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "cheetcato",
-      "author_id": "t2_nasmhqh7",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-08-27T22:34:50.800000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n1vdr0",
-      "content_preview": "",
-      "flair": [
-        "Fan Art"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_6e0cvu/styles/profileIcon_nimj38hoipae1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7ebad77e358c1f1a3b1a5ba083bc59221156b901"
-    },
-    {
-      "title": "[LoZ] [AoL] Which of these releases do you feel did it better and why?",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n68q7p/loz_aol_which_of_these_releases_do_you_feel_did/",
-      "score": 5,
-      "comments": 2,
-      "post_id": "t3_1n68q7p",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "rydamusprime17",
-      "author_id": "t2_98jplv1",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-09-02T03:11:50.928000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n68q7p",
-      "content_preview": "",
-      "flair": [
-        "Collection/Merch"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
       "title": "[ALL] [OC] a fun take I decided to do on Link and Zelda.",
       "permalink": "https://www.reddit.com/r/zelda/comments/1mog62x/all_oc_a_fun_take_i_decided_to_do_on_link_and/",
-      "score": 4365,
+      "score": 4370,
       "comments": 99,
       "post_id": "t3_1mog62x",
       "post_type": "image",
@@ -744,32 +777,13 @@
       "flair": [
         "Fan Art"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_ulyp7/styles/profileIcon_9g85hln1ia4b1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d983f95fa35f5a527c57ece17c8a0ad3817c989e"
-    },
-    {
-      "title": "[ALBW] Just replayed A Link Between Worlds for the first time since it came out",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n5kjzp/albw_just_replayed_a_link_between_worlds_for_the/",
-      "score": 47,
-      "comments": 11,
-      "post_id": "t3_1n5kjzp",
-      "post_type": "text",
-      "domain": "self.zelda",
-      "author": "ClockwisePig",
-      "author_id": "t2_1716cifp",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-09-01T09:53:49.951000+0000",
-      "content_href": "https://www.reddit.com/r/zelda/comments/1n5kjzp/albw_just_replayed_a_link_between_worlds_for_the/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ulyp7/styles/profileIcon_9g85hln1ia4b1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d983f95fa35f5a527c57ece17c8a0ad3817c989e",
+      "is_promoted": false
     },
     {
       "title": "[BotW] Switch shirt Link cosplay",
       "permalink": "https://www.reddit.com/r/zelda/comments/1mxzkkb/botw_switch_shirt_link_cosplay/",
-      "score": 3888,
+      "score": 3887,
       "comments": 42,
       "post_id": "t3_1mxzkkb",
       "post_type": "crosspost",
@@ -780,57 +794,266 @@
       "subreddit": "r/zelda",
       "created_ts": "2025-08-23T12:00:41.915000+0000",
       "content_href": "/r/Breath_of_the_Wild/comments/1mxzins/switch_shirt_link_cosplay/",
-      "content_preview": "",
+      "content_preview": "4.1Kupvotes·69comments",
       "flair": [
         "Cosplay"
       ],
-      "thumbnail_url": "https://preview.redd.it/switch-shirt-link-cosplay-v0-sj180djodrkf1.jpg?width=640&crop=smart&auto=webp&s=91cc34f9c6c8d3e55528340b6fa87bf0d7f3b16d"
+      "thumbnail_url": "https://preview.redd.it/switch-shirt-link-cosplay-v0-sj180djodrkf1.jpg?width=640&crop=smart&auto=webp&s=91cc34f9c6c8d3e55528340b6fa87bf0d7f3b16d",
+      "is_promoted": false
     },
     {
-      "title": "[OoT] [MM] [WW] [TP] Music based on Zelda games",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n67de4/oot_mm_ww_tp_music_based_on_zelda_games/",
-      "score": 5,
+      "title": "[toTk] Lament for a hero!",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n8bhvt/totk_lament_for_a_hero/",
+      "score": 94,
       "comments": 3,
-      "post_id": "t3_1n67de4",
+      "post_id": "t3_1n8bhvt",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "LilbabydudeCo420",
+      "author_id": "t2_ikuunbqx",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-04T14:20:17.398000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8bhvt",
+      "content_preview": "",
+      "flair": [
+        "Fan Art"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5o9vlr/styles/profileIcon_gd02j9g94tpc1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c1dd5f9f5f6710a0183385a06429ae89801c6e95",
+      "is_promoted": false
+    },
+    {
+      "title": "BlueCruise is Ford’s hands-free highway driving feature. It allows you to be be more connected to the moments that matter.",
+      "permalink": "https://www.reddit.com/user/FordVerified/comments/1mf07fn/bluecruise_is_fords_handsfree_highway_driving/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mf07fn",
+      "post_type": "gallery",
+      "domain": "ford.com",
+      "author": "FordVerified",
+      "author_id": "t2_8d2pgo56",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-01T15:55:01.060000+0000",
+      "content_href": "https://www.ford.com/technology/bluecruise/?utm_source=reddit&utm_medium=paid_social&utm_campaign=standard&utm_term=custom_interest&utm_content=catch_carousel_1x1&bannerid=33381646%7C1005877%7C419408738%7C0%7C0%7CRDT&psocid=msps_reddit|{{CAMPAIGN_ID}}|{{ADGROUP_ID}}|{{AD_ID}}&fcid=pso_{{CAMPAIGN_ID}}_reddit",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_40spgi/styles/profileIcon_qzk5gkzxbzw61.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=daf455dece15a1070cc2540143e681dffed3cb6f",
+      "is_promoted": true
+    },
+    {
+      "title": "[Oot] Who are your favorite mini bosses / unique enemies?",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n8v3gg/oot_who_are_your_favorite_mini_bosses_unique/",
+      "score": 24,
+      "comments": 13,
+      "post_id": "t3_1n8v3gg",
       "post_type": "video",
       "domain": "v.redd.it",
-      "author": "Schmoozey897",
-      "author_id": "t2_1khou25l96",
+      "author": "Lutius-A1C",
+      "author_id": "t2_9fgypbwi",
       "subreddit_id": "t5_2r61g",
       "subreddit": "r/zelda",
-      "created_ts": "2025-09-02T02:04:25.004000+0000",
-      "content_href": "https://v.redd.it/8ur2cbmwsnmf1",
+      "created_ts": "2025-09-05T03:51:11.727000+0000",
+      "content_href": "https://v.redd.it/dbmrnidjq9nf1",
       "content_preview": "",
       "flair": [
-        "Music"
+        "Clip"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/oot-mm-ww-tp-music-based-on-zelda-games-v0-eTc3dGpmbHdzbm1mMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?width=640&crop=smart&format=pjpg&auto=webp&s=dc8655359a14b887bac6ed3e1593ff4e3bc158af"
+      "thumbnail_url": "https://external-preview.redd.it/oot-who-are-your-favorite-mini-bosses-unique-enemies-v0-dWN0Y2RvZWpxOW5mMf4RwhNxRW9yssSCX_fl1uKxCJ_Ttife9M-q-umV21yI.png?width=640&crop=smart&format=pjpg&auto=webp&s=a8c2c602ff876e24f3bc497c2a1139b9a3fe9060",
+      "is_promoted": false
     },
     {
-      "title": "[EoW] [end game] I finally finished Legend of Zelda Echos of Wisdom. I absolutely loved it.",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n540rb/eow_end_game_i_finally_finished_legend_of_zelda/",
-      "score": 58,
-      "comments": 9,
-      "post_id": "t3_1n540rb",
-      "post_type": "text",
-      "domain": "self.zelda",
-      "author": "Tikilavaman777",
-      "author_id": "t2_55s3961l",
+      "title": "[OoT] [MM] Zelda themed leg sleeve... progress!",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n3ir9q/oot_mm_zelda_themed_leg_sleeve_progress/",
+      "score": 1467,
+      "comments": 38,
+      "post_id": "t3_1n3ir9q",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "hey-heichou-suz",
+      "author_id": "t2_a79sx8hc",
       "subreddit_id": "t5_2r61g",
       "subreddit": "r/zelda",
-      "created_ts": "2025-08-31T19:42:02.168000+0000",
-      "content_href": "https://www.reddit.com/r/zelda/comments/1n540rb/eow_end_game_i_finally_finished_legend_of_zelda/",
+      "created_ts": "2025-08-29T20:45:45.030000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n3ir9q",
       "content_preview": "",
       "flair": [
-        "Discussion"
+        "Tattoo"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3wvdyk/styles/profileIcon_h8g3ry6e2uf61.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=00f488bd0d8633aa5dc00a43cbfe87065e11c446",
+      "is_promoted": false
+    },
+    {
+      "title": "[WW] [OC Comic] New Game Plus: Take the Shot",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n7yb8d/ww_oc_comic_new_game_plus_take_the_shot/",
+      "score": 372,
+      "comments": 6,
+      "post_id": "t3_1n7yb8d",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "PersonalSycophant",
+      "author_id": "t2_8yvfh",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-04T02:27:30.288000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7yb8d",
+      "content_preview": "",
+      "flair": [
+        "Humor"
+      ],
+      "thumbnail_url": "https://preview.redd.it/ww-comic-new-game-plus-take-the-shot-v0-u1xzak2m62nf1.png?width=640&crop=smart&auto=webp&s=d97a164b69ecaf8aa2b28a64f5786347acbe1e5e",
+      "is_promoted": false
+    },
+    {
+      "title": "[ALL] \"I always come back!\"",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n46x3s/all_i_always_come_back/",
+      "score": 1454,
+      "comments": 18,
+      "post_id": "t3_1n46x3s",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "backofthebill",
+      "author_id": "t2_t51thabzg",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-08-30T17:08:44.282000+0000",
+      "content_href": "https://i.redd.it/34kmooeiv6mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://preview.redd.it/all-i-always-come-back-v0-34kmooeiv6mf1.jpeg?width=640&crop=smart&auto=webp&s=d0c98d5da4808431a2d4c2227f28ec9a7883d53e",
+      "is_promoted": false
+    },
+    {
+      "title": "[OoT] These pots always have a fairy!",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n8um2b/oot_these_pots_always_have_a_fairy/",
+      "score": 4,
+      "comments": 8,
+      "post_id": "t3_1n8um2b",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Bears-on-Drugs",
+      "author_id": "t2_a2w7ajnf",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-05T03:25:55.412000+0000",
+      "content_href": "https://i.redd.it/ff19hex6m9nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Tip"
+      ],
+      "thumbnail_url": "https://preview.redd.it/ff19hex6m9nf1.jpeg?width=1080&crop=smart&blur=40&format=pjpg&auto=webp&s=359b9843bd3cbe91e42b41eb12dcd45b5a377d80",
+      "is_promoted": false
+    },
+    {
+      "title": "[Oot] included the triforce in mei full \"maori\" sleeve",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n7v41c/oot_included_the_triforce_in_mei_full_maori_sleeve/",
+      "score": 135,
+      "comments": 3,
+      "post_id": "t3_1n7v41c",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "rotrexx22",
+      "author_id": "t2_dzbdx9zb",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-03T23:58:01.283000+0000",
+      "content_href": "https://i.redd.it/113bul57g1nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Tattoo"
+      ],
+      "thumbnail_url": "https://preview.redd.it/oot-included-the-triforce-in-mei-full-maori-sleeve-v0-113bul57g1nf1.jpeg?width=640&crop=smart&auto=webp&s=4d6da32c09d0a15469cde118105764f2c77af84a",
+      "is_promoted": false
+    },
+    {
+      "title": "[TotK] Crunchy Fried Rice 🍚",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n6u8sc/totk_crunchy_fried_rice/",
+      "score": 1454,
+      "comments": 22,
+      "post_id": "t3_1n6u8sc",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Affectionate-Pace765",
+      "author_id": "t2_15fwfv36tc",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-02T20:14:23.034000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n6u8sc",
+      "content_preview": "",
+      "flair": [
+        "Craft"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_cr8nzj/styles/profileIcon_lh89dj6a8qle1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e096e4fd56065d7773a31b18a2a9641feb611442",
+      "is_promoted": false
+    },
+    {
+      "title": "Get more hand protection when you use Huggies XL Wipes that are 20% larger*. *vs. Huggies Simply Clean",
+      "permalink": "https://www.reddit.com/user/HuggiesBabyWipes/comments/1l9r5as/get_more_hand_protection_when_you_use_huggies_xl/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1l9r5as",
+      "post_type": "image",
+      "domain": "amazon.com",
+      "author": "HuggiesBabyWipes",
+      "author_id": "t2_1h7sx3utp1",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-06-12T16:39:07.247000+0000",
+      "content_href": "https://www.amazon.com/Huggies-Extra-Unscented-Flip-Top-Packaging/dp/B0DPR78B37/ref=sr_1_6?crid=YU4ZOHK3JHRW&dib=eyJ2IjoiMSJ9.Kfj4cy0HLXj0ZM3xNvdhOHVA7G9fsZczijBmvmaUurinwMao8v7PUV7u_t-JQE6A0DRe2yFM3Y6c8bfbQpyPKXOMxoRf_7HL70C6IAvCSgx6ypzKOgqWLnWlvYLrKv_fKhiFBXnMFB0Fr5-Mf43hbZSEagHx36f_OpNYpSUj-lAuLDkfVzmxGHdK7qOV5uRa8QIpXEiWQiL4TC4cOYRTDVVh-ifzzqbScrJS0sqY_mSVVBfG7ZOg6XtW8SAlruvUrvYPWuGjnqp0qMxa4pN8f0EvBajXggmM6xGpAWDvQaE.AbpYa0v-ZaaNnQxaciJY9cGjuea9z45AXzkVjKb1K5Y&dib_tag=se&keywords=extra%2Blarge%2Bwipes&qid=1749243192&sprefix=extra%2Blarge%2Bwipe%2Caps%2C164&sr=8-6&th=1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dczk9d/styles/profileIcon_u09icbgj78ef1.Jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=1c311bf8cc54d3c38b05a893dafe58f3b7e514fc",
+      "is_promoted": true
+    },
+    {
+      "title": "[TotK] she works harder than me irl",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n7wedd/totk_she_works_harder_than_me_irl/",
+      "score": 99,
+      "comments": 6,
+      "post_id": "t3_1n7wedd",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Pale_Stand5217",
+      "author_id": "t2_c24jhp63x",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-04T00:57:20.393000+0000",
+      "content_href": "https://i.redd.it/mvph3fbmq1nf1.png",
+      "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "[WW] I had to add the song command to this img",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n7jgkq/ww_i_had_to_add_the_song_command_to_this_img/",
+      "score": 225,
+      "comments": 7,
+      "post_id": "t3_1n7jgkq",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Gin-ginna",
+      "author_id": "t2_c766yad6",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-03T16:25:25.237000+0000",
+      "content_href": "https://i.redd.it/r2uhpi8g7zmf1.png",
+      "content_preview": "",
+      "flair": [
+        "Humor"
+      ],
+      "thumbnail_url": "https://preview.redd.it/ww-i-had-to-add-the-song-command-to-this-img-v0-r2uhpi8g7zmf1.png?width=640&crop=smart&auto=webp&s=588c3119505d0e919c0e541b1805d2819b66d8e6",
+      "is_promoted": false
     },
     {
       "title": "[BotW][TotK][ALBW] The Zelda you want Nintendo to make has always been here",
       "permalink": "https://www.reddit.com/r/zelda/comments/1mzqy72/botwtotkalbw_the_zelda_you_want_nintendo_to_make/",
-      "score": 3819,
-      "comments": 389,
+      "score": 3820,
+      "comments": 388,
       "post_id": "t3_1mzqy72",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -844,52 +1067,116 @@
       "flair": [
         "Meme"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_cm8l1c/styles/profileIcon_a6h2h84tt4oe1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=03daa8890ef8aa924f222e3f2bc7cba85ef7dc43"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_cm8l1c/styles/profileIcon_a6h2h84tt4oe1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=03daa8890ef8aa924f222e3f2bc7cba85ef7dc43",
+      "is_promoted": false
     },
     {
-      "title": "[OoS] [OC] The Subrosians: Forgotten Zelda Race Redesign",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n1lsh1/oos_oc_the_subrosians_forgotten_zelda_race/",
-      "score": 1166,
-      "comments": 65,
-      "post_id": "t3_1n1lsh1",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "mrinksmith",
-      "author_id": "t2_4f1bwxlx",
+      "title": "[Other] [TP] Where is TP on Nintendo Music!?",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n7s6sd/other_tp_where_is_tp_on_nintendo_music/",
+      "score": 39,
+      "comments": 15,
+      "post_id": "t3_1n7s6sd",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "BOOGHA-MAN",
+      "author_id": "t2_9my0lmyh",
       "subreddit_id": "t5_2r61g",
       "subreddit": "r/zelda",
-      "created_ts": "2025-08-27T16:29:18.363000+0000",
-      "content_href": "https://i.redd.it/gyq7kydr9llf1.jpeg",
+      "created_ts": "2025-09-03T21:53:38.017000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7s6sd",
+      "content_preview": "",
+      "flair": [
+        "Official Art"
+      ],
+      "thumbnail_url": "https://preview.redd.it/other-tp-where-is-tp-on-nintendo-music-v0-72zf4q30u0nf1.jpg?width=640&crop=smart&auto=webp&s=0b4a47c06f68df4ebc609c4156a9ba6e0fb6b2a1",
+      "is_promoted": false
+    },
+    {
+      "title": "[ALttP] I made a Link to the Past Master Sword and pedestal, following the original instruction manual art",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n7vd70/alttp_i_made_a_link_to_the_past_master_sword_and/",
+      "score": 1288,
+      "comments": 36,
+      "post_id": "t3_1n7vd70",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "KevlarGorilla",
+      "author_id": "t2_7i6d7",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-04T00:09:26.042000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7vd70",
+      "content_preview": "",
+      "flair": [
+        "Craft"
+      ],
+      "thumbnail_url": "https://preview.redd.it/alttp-i-made-a-link-to-the-past-master-sword-and-pedestal-v0-ldtk8pi8i1nf1.jpg?width=640&crop=smart&auto=webp&s=d7968831ec4d05291d63eb2f9c0a8b5e41568ae6",
+      "is_promoted": false
+    },
+    {
+      "title": "[ALL] [OC] Zelda Card - Temple",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n7n4jz/all_oc_zelda_card_temple/",
+      "score": 29,
+      "comments": 3,
+      "post_id": "t3_1n7n4jz",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "TwilightFarmerBoy",
+      "author_id": "t2_b56ueqfn",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-03T18:40:15.467000+0000",
+      "content_href": "https://i.redd.it/9tnhdothvzmf1.jpeg",
       "content_preview": "",
       "flair": [
         "Fan Art"
       ],
-      "thumbnail_url": "https://preview.redd.it/oos-the-subrosians-forgotten-zelda-race-redesign-v0-gyq7kydr9llf1.jpeg?width=640&crop=smart&auto=webp&s=0ffe1281a18c3ac542c42290688bac717ed2f59d"
+      "thumbnail_url": "https://preview.redd.it/all-zelda-card-temple-v0-9tnhdothvzmf1.jpeg?width=640&crop=smart&auto=webp&s=49dfe62c3105ce36e8be3c274ab649d28766522c",
+      "is_promoted": false
     },
     {
-      "title": "[ALL] Was the Zelda franchise the first one to have the 3 hearts healthbar convention?",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n5928y/all_was_the_zelda_franchise_the_first_one_to_have/",
-      "score": 28,
-      "comments": 6,
-      "post_id": "t3_1n5928y",
+      "title": "[All] What are the least replayable games in the series for you?",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n8ulgr/all_what_are_the_least_replayable_games_in_the/",
+      "score": 10,
+      "comments": 36,
+      "post_id": "t3_1n8ulgr",
       "post_type": "text",
       "domain": "self.zelda",
-      "author": "noxnoctum",
-      "author_id": "t2_77v2t",
+      "author": "Mountain-Alarm-7093",
+      "author_id": "t2_tzmzqhow",
       "subreddit_id": "t5_2r61g",
       "subreddit": "r/zelda",
-      "created_ts": "2025-08-31T23:15:46.150000+0000",
-      "content_href": "https://www.reddit.com/r/zelda/comments/1n5928y/all_was_the_zelda_franchise_the_first_one_to_have/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T03:25:06.348000+0000",
+      "content_href": "https://www.reddit.com/r/zelda/comments/1n8ulgr/all_what_are_the_least_replayable_games_in_the/",
+      "content_preview": "I played most Zelda games and for me, the least replayable games are Spirit Tracks and Skyward Sword.Spirit Tracks slow pacing is killed by the train, the worst teleporting mechanic as you can’t choose your destination, pan flute which made my throat dry and delayed the game for days in real life if there is a small error thanks to a delay in the console, annoying quests which most amount to travelling with the train. Eventually after I beat the game, I never replayed it.It’s a shame because I love Spirit Tracks Zelda, I love the character writing, I love the added lore to Wind Waker, I love the tower of spirits, I love every dungeon, I love the humor, I love the bosses of this game, I love the puzzles, I love the battle royale of this game where take em all is my favorite in the series, I love the music, as there is so much good in this game.But the game core mechanic of the train and pan flute killed any chance of replay value.Skyward Sword is the same in many ways.This Zelda has the best dungeons out of any 3D game, the story is good, I love the villains, I love the NPC’s, I love how expressive this Link is, I love that Zelda isn’t a princess, I love the quests, I love the Kikwi’s for being cute and not annoying like Koroks, I love Groose, I love the puzzles, etc.But I hate how empty the Sky can be, I hate the immense backtracking, I hate the awful pacing, I hate the silent realm trials, I hate the imprisoned boss fights, and I hate the sheer artificial ways the game tries to make longer with the Faron Woods trials which annoyed me to no end.",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Fall weekend outfit inspo from Walmart",
+      "permalink": "https://www.reddit.com/user/walmart/comments/1mr1w6z/fall_weekend_outfit_inspo_from_walmart/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mr1w6z",
+      "post_type": "multi_media",
+      "domain": "",
+      "author": "walmart",
+      "author_id": "t2_1ozytczjf4",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-15T15:56:04.614000+0000",
+      "content_href": "https://www.reddit.com/r/u_walmart/comments/1mr1w6z/fall_weekend_outfit_inspo_from_walmart/",
+      "content_preview": "TL;DR: It’s time for a fresh dose of outfit inspiration & Walmart’s making it way too easy to get your closet ready for every fun fall activity. Whether you’re channeling your inner PSL goddess or indulging in the nostalgic joys of apple-picking, find iconic looks for all of it, right here.But first, coffeeIt’s PSL SZN, girls! You know what that means: cute fits on fits on fits. This ultrasoft knit dress from PrettyGarden is one to add to your morning rotation. Meeting up with your BFF? Have her wear this floral printed dress & you’ll both be ready to snag compliments from every direction.Up next: walking around townYou’ve got places to go & people to see. Put on a romantic top, your fave jeans, strappy flats & hit the streets in style. LPT: be prepared for unexpected plans & carry a shoulder hobo bag with you (so much room for all the essentials).A day at the orchardSure, you can get apples from the store, but it’s way more memorable spending an afternoon at the farm with friends & family. Filling up a chic shoulder bag with the best of the bunch? Even better (because why not?).Farmers market, but make it fashionIf you don’t go to a farmers market & post a picture, is it really fall? Dress the part in a trendy barn jacket from Free Assembly, a cute dress, tall boots & you’ve got yourself a snap-worthy outfit. You can thank us later.Picnic in the parkGot a date planned? Go beyond the pumpkin patch, head to your nearest park & enjoy the fall foliage. Reach for this striped dress, throw on a trench jacket & you’re set. Guys, we didn’t forget about you! All you need is an easy, lightweight sweater & cool chino pants (the rest is up to you).Shop major fall fashion trends & new drops at Walmart now.",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eeni6o/styles/profileIcon_np6zi2gr6kkf1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=f228dada134a60870a6ead226ca12efea5301a99",
+      "is_promoted": true
     },
     {
       "title": "[TotK] Just finished this poster ☺️ let me know what you think!",
       "permalink": "https://www.reddit.com/r/zelda/comments/1mtwjyh/totk_just_finished_this_poster_let_me_know_what/",
-      "score": 3766,
+      "score": 3768,
       "comments": 124,
       "post_id": "t3_1mtwjyh",
       "post_type": "image",
@@ -904,12 +1191,221 @@
       "flair": [
         "Fan Art"
       ],
-      "thumbnail_url": "https://preview.redd.it/totk-just-finished-this-poster-let-me-know-what-you-think-v0-0uh3fp9u1ujf1.jpeg?width=640&crop=smart&auto=webp&s=1aa98f61b1e927b8542c502e61434aac2ba48035"
+      "thumbnail_url": "https://preview.redd.it/totk-just-finished-this-poster-let-me-know-what-you-think-v0-0uh3fp9u1ujf1.jpeg?width=640&crop=smart&auto=webp&s=1aa98f61b1e927b8542c502e61434aac2ba48035",
+      "is_promoted": false
+    },
+    {
+      "title": "[TP] Save/quit in the underground area before getting the stamp, now can't re-enter. Am I permanently softlogged from getting the stamp?",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n7dj9g/tp_savequit_in_the_underground_area_before/",
+      "score": 42,
+      "comments": 11,
+      "post_id": "t3_1n7dj9g",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Aramaki_",
+      "author_id": "t2_18sx27tdfk",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-03T12:32:27.667000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7dj9g",
+      "content_preview": "",
+      "flair": [
+        "Screenshot"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_cgc7ae/styles/profileIcon_j37hx1ja5xpd1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b4e86b20c599ec510baf63ba97523f3d78bfb6ae",
+      "is_promoted": false
+    },
+    {
+      "title": "[BOTW] [TOTK] BOTW expanded out of bounds full world map",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n75vev/botw_totk_botw_expanded_out_of_bounds_full_world/",
+      "score": 76,
+      "comments": 10,
+      "post_id": "t3_1n75vev",
+      "post_type": "multi_media",
+      "domain": "self.zelda",
+      "author": "SpeedyGamingFan",
+      "author_id": "t2_cc2trhnv",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-03T04:56:02.471000+0000",
+      "content_href": "https://www.reddit.com/r/zelda/comments/1n75vev/botw_totk_botw_expanded_out_of_bounds_full_world/",
+      "content_preview": "MapThe entire world map for BOTW including the OOB areas, scuffed but representative and generally accurate. I am bad at making this type of heightmap topography effect. If you want to use this to make a map then please, go ahead and do it. I love those BOTW stylized maps, and if someone made a world map using this that isn't just blocky and how it is ingame, that'd be beautiful.Explanation- \"Why is Hyrule in a square?\" - because, that's literally how it is in BOTW. Basically, Hyrule exists in a box of terrain like in this map. Then, to the north and to the west, are these huge mountains erupting out of the ocean in clusters. They fixed this in TOTK btw. I made an old version of this and it was wrong on so many levels. This is the more accurate version.This map is basically just the full Hyrule \"Island.\" As for names, I made some really uncreative ones. Here's my scuffed 'fantasy map'Fantasy MapGreat Lake of course was the laziest thing I could think of. But Hylia Rift seems alright. As for Gerudo Bay and Akkala bay, I don't actually know if they own these areas. Its also hard to say if Hyrule is ACTUALLY an island of this size, or if canonically its connected to a much larger landmass to the northwest. But as for what's in game, it's just that island, and you'd assume it MIGHT just be that, since in TOTK where even more visibility its possible, they kept the same island shape but refined and smoothened out the OOB terrain. I can't see any signs of neighboring kingdoms, like Holodrum or Labrynna, but if you think that some of the areas I gave names are actually locations from these lands, then I'd like to know.Resources:HeightmapNow THIS is really interesting. To the west and to the north, it actually expands the initial terrain block, even though I checked and the cutoff from this heightmap is much farther than the cutoff ingame. I wonder HOW they got that extended terrain data. Did the developers intend more of the terrain box? I have no idea.Ingame modelThis is by far my greatest resource. It's originally from an article from what I know. It was very interesting to come across, and what made this entire map possible to begin with.",
+      "flair": [
+        "Fan Art"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "[HW][SS][ALBW] Happy birthday to voice actors Yuki Kaji (Link) and Ayumi Fujimura (Fi & Zelda)",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n72gx6/hwssalbw_happy_birthday_to_voice_actors_yuki_kaji/",
+      "score": 124,
+      "comments": 4,
+      "post_id": "t3_1n72gx6",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Elina_Carmina",
+      "author_id": "t2_bd2eapj6",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-03T02:02:27.532000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n72gx6",
+      "content_preview": "",
+      "flair": [
+        "Mockup"
+      ],
+      "thumbnail_url": "https://preview.redd.it/hw-ss-albw-happy-birthday-to-voice-actors-yuki-kaji-link-v0-g78pdxqsvumf1.png?width=640&crop=smart&auto=webp&s=3e2860e57ef5f9c945b9c60fa70fa4c4b1e0a504",
+      "is_promoted": false
+    },
+    {
+      "title": "[MM] Just finished this handmade Majoras Mask!",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n5ra4v/mm_just_finished_this_handmade_majoras_mask/",
+      "score": 1220,
+      "comments": 24,
+      "post_id": "t3_1n5ra4v",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Clear-Success-8735",
+      "author_id": "t2_1hhf0gh59z",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-01T15:10:19.652000+0000",
+      "content_href": "https://i.redd.it/iyydgposjkmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Craft"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "[TotK] Having a hard time getting into TotK because of the tech",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n6kytr/totk_having_a_hard_time_getting_into_totk_because/",
+      "score": 98,
+      "comments": 150,
+      "post_id": "t3_1n6kytr",
+      "post_type": "text",
+      "domain": "self.zelda",
+      "author": "BeerMetMij",
+      "author_id": "t2_vtyex5oi9",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-02T14:26:59.671000+0000",
+      "content_href": "https://www.reddit.com/r/zelda/comments/1n6kytr/totk_having_a_hard_time_getting_into_totk_because/",
+      "content_preview": "I was wondering if anyone else has run into the same issue with this game.I’m honestly burned out on all the tech elements. Anything tied to the ancient Zonai tech just makes me go.. ugh. It constantly pulls me out of the experience. The designs themselves are beautiful and really well done, and in another game I’d probably appreciate them more. But in LoZ game, they just feel so out of place to me. Everything comes across as way too sci-fi for my liking.I already struggled a bit with this back in Breath of the Wild (mainly the shrines and divine beasts), but at least the overworld there felt clean and aesthetically pleasing most of the time. I adored BotW. Sure, it had flaws, but I still put an absurd number of hours into it.With Tears of the Kingdom, I completely understand why people love it, and I can even admit it’s probably the stronger game overall. But as someone who’s been a lifelong fan of the series, I’m honestly shocked that I can’t bring myself to put many hours into it. I’ve loved every other mainline Zelda, even Skyward Sword, but this one just isn’t clicking for me.Does anyone else feel the same way? Is it possible to enjoy the game while mostly ignoring the Zonai tech, or is engaging with it too essential to the gameplay? Not sure if I should give it another go, or if I should just accept atp that it's not for me.",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "[OoT] the absolute peak of gaming - my experience playing OoT for the first time",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n6kh47/oot_the_absolute_peak_of_gaming_my_experience/",
+      "score": 47,
+      "comments": 13,
+      "post_id": "t3_1n6kh47",
+      "post_type": "text",
+      "domain": "self.zelda",
+      "author": "AdEquivalent7775",
+      "author_id": "t2_ldo38o1h",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-02T14:07:49.255000+0000",
+      "content_href": "https://www.reddit.com/r/zelda/comments/1n6kh47/oot_the_absolute_peak_of_gaming_my_experience/",
+      "content_preview": "yo whats good guys, i just beat OoT last night for the first time and i can say without a single doubt this is the greatest game of all time. its not perfect but i dont think you can get much better than this. so yeah i just want to share with you guys my experience playing this game for the first time, share the things i absoutely loved and a couple i disliked.but first; a bit of background. im 15 years old so im not playing this with nostalgia bias, and im not much of a gamer personally, the only kind of games i play are rythm/timing based games such as geometry dash and cytus. up until this point ive never played a zelda game except for when like over a year ago when i borrowed a copy of BoTW. didnt really like it that much as it felt wayyyyyy too overwhelming and i only ended up doing a couple of shrines before i gave it back to him. OoT in comparison is a lot less confusing, albeit still super difficult. i feel as if the game gets easier actually the more you progress; from the beggining to the forest temple took me like six weeks, while fire to endgame took me only two. keep in mind that my experience may be different as i played this on an emulator using a slightly illegal copy (no way a criminal!!!), on a phone, but someway somehow it wasnt that hard to get used to the controls. only took like 30 minutes. in total it took me two months to beat on the dot because i suck. anyways lets get on with my experiencetimes i used a guideInside the Deku Tree - 1Dodongo's Cavern - 2Inside Jabu Jabu's Belly - 1Hookshot - 1Forest Temple - 2Fire Temple - 0Water Temple - 0Finding the Eye of Truth - 1 (i didnt know you needed it, so i pulled up a guide to find the location. didnt use one for bottom the well tho)Shadow Temple - 0Spirit Temple - 1 (for the boss)Ganon's Castle - 1- Kokori Forestthis is when i first found the charm of the game, and it really emphasizes how you have to explore to find items. it didnt take long before i found a sword and shield, and i believe this to be one of the best tutorials. its easy while not being handholding and telling you everything you need to do.- Inside the Deku Treethis is a really great introduction to how dungeons work, however i couldnt find the fairy slingshot haha; so i had to pull up a guide. i love how the dungeon forces you to think creatively; such as when you have to jump from a high place to break the webs; or to burn the webs with wood; its geniuenly so nice. i also really like the boss and the 2-3-1 puzzle. especially the boss tho; this is when i first fell in love with the game. when i first opened the door; i expected some mid tutorial bossfight but nope; they put you in a dark room, and give you this really cool-ass bossfight thats easy enough to figure out the first time. the amount of aura this boss has is geniuenly insane-- the atmosphere is geniuenly scary; and when you then decide to look up you get jumpscared. its a very cool and very well done boss fight, i really like it a lot. the deku tree dying was a different feeling. i dont know why it felt so sad on my end. this took about five hours to do tho cuz i suck at games; but although i was oftentimes stuck; i had fun.- Getting to Princess Zeldaidk but the npcs felt like they had so much character to them; especially in the market. the energy is nice. getting inside the castle felt like you had to map your own route and it felt so satisfying to figure out the puzzles yourself. this was one of the main reasons that i only pull up a guide when i really need it (like after hours/days) have passed. honestly using the chicken to wake up the guy was so funny im not even gonna lie. its small things like this that add up to the character of the game.- Goron Cityhonestly the way the gorons interact with you yet again adds up to the character of OoT. i love how the world is so fleshed out; where all the NPC's have different dialog. also watching darunia dance was so funny im not even gonna lie. figuring out how to open the door to the lost woods was also super cool.- The Lost Woodsthe way the lost woods uses music to figure out the path is geniuenly so cool, and saria's song is just an absolute BANGER in general. so beautiful; im glad they used it for the end credits. aside from that the fantastical theme of the lost woods is just so well executed; i believe they can never do this with modern graphics cuz i think only the 64 can replicate this kind of feeling- Dodongo's Caverni like this one a lot; and it was so satisfying to do the \"when eyes go red; new way will open\" puzzle. very very cool. aside from that i liked how it felt like every room is a new section, cuz all of them are so different. the puzzle to get to the second floor was also really cool; and those BIG MENACING STAIRS are also pretty funny. when you get up; i really like the themeing; especially how it uses the height to create an aura of dread. as for the boss; it was simple and nice; 8/10 bossfight, but honestly the deku tree bossfight spoils you.- Death Mountaini believe this is where you get your first fairy fountain! very cool; i fell inlove with the soundtrack the moment i entered. the inside of death mountain, you cant really do anything but since i thought zoras domain was inside the mountain i wandered there for literal DAYS. although it was pretty fun; and when i realized that zoras domain is not in the mountain and across the river, i just wasted an entire week of my life roaming around the volcano.- Zora's Domaini like the fact that before you get to jabu-jabu's belly; you have to explore. you are given a hole you cant reach because your diving length is not enough, so once you explore you can play a game and get the silver scale, and its super neat how you can teleport to lake hylia and find the bottle there. i really like it because of how it values exploration. getting jabu jabu to open its mouth is confusing tho; like they couldve had a clue saying smth like \"jabu jabu can only be entered when you givd him a fishy treat\" or something bruhInside Jabu-Jabus Belly idk why but this is the only dungeon in the entire game i didnt really like tbh. mostly because i didnt know how to get the bommerang and wandered in circles for HOURS. barrinade is a really cool boss tho; albeit a bit confusing its super fun when you figure out how to damage it.Temple of Time bro link travelling seven years through time plot hook is so cool. geniuenly more zelda games should have time travel; its so so cool bro. pulling out that master sword still gives me goosebumps every single time. honestly i dont know a single word to describe the feeling when you pull out that master sword, oh my days...Forest Temple the theme and ambience is geniuenly so sosososo fireee 🔥🔥🔥, and i love how you can do the rooms in different order; and especially the twist mechanic after the pushbox puzzle is super duper cool; and the poe rooms are super creative especially the checker floor room. the phantom ganon bossfight is really difficult but i liked it a lot, especially the foreshadowing after and the deku tree sprouting is a really neat ending to this temple.Fire Temple this is the first temple i managed to complete in its entirety without a guide. while the forest temple took me nearly two weeks to clear, i managed to clear 90% of the fire temple in one sitting; only taking around three hours in total to best the fire temple. i really love this temple a lot and it holds a special place in my heart. i really like creative the mechanics are, some special mentions obviously go to the puzzle that used fire as an elevator, the one where it used fire as a timed section and how the fire changes direction depending which door your trying to enter, the mirror maze is super cool, and the mini boss is so cool it could be a boss in itself honestly, and lets not forget the star of this temple, the boss!!!! when i first started the game up i expected to fight a shit ton of dragons and this finally got my wish here!!! this boss was so fun to play tbh, and the ending of this temple is so good. honestly its kinda weird how i nearly cried when darunia called me brother. i love how the game makes it seem like you are different things to different people, creating a connection between players and NPCs.Ice Cavern my fourth favorite dungeon in this entire game!!! the vibe in here is so chilling, i love it so much. i think one of the main reasons behind the vibe of the cavern is the music. geniuenly one of the most chilling tracks in the entire game. it feels like you are bearing the weight of what you did seven years ago and it is your fault that they froze to death. geniuenly so chilling... the blue fire mechanic is super cool, and i like how this dungeon is short and sweet cuz if they made this thing a full dungeon idk if it will have the same impact as the chilling atmosphere can only stay for so long.Water Temple i hate this temple so much. not because its confusing as i got this cleared in three days; but because of one main thing. imagine you spend seven hours of your life doing this and having dark link as a miniboss so you expect one of the coolest bossfights in this entire game to take place right here. and you get a AMEOBA. thats so anticlimatic bro and honestly thats the main reason why i hate the water temple. usually whenever i unlock the boss room i go \"yooo thats so cool\" this one i felt nothing.Gerudo Valley/Gerudo Fortress i decided to try and do spirit temple before shadow (i didnt know about lens of truth) so i went ahead to gerudo fortress. first of all, can i tell you all how much the gerudo valley ost SLAPS. so peak bro, its right next to great fairy fountain for me. although the objective of gerudo fortress is simple, it was fun exploring the entire fortress like i was on a stealth mission. i believe it took me almost as long as the fire temple to clear gerudo fortress which is ridiculous but i guarantee you i was having fun. after this i spent a while brute forcing the desert but i decided to swallow my pride and look up a guide for the location of bottom of the well.Bottom of The Well/Kakariko Village This is my second favorite dungeon in the entire game. im not even gonna lie, i was scared shitless playing bottom of the well. as soon as i got the eye of truth i warped out of there immediately. 10/10 dungeon, its geniuenly so scary when you walk around a bit near a wall and then its actually a serect room with skull faces. dead hand was so scary bru, and i still remember midway through the dungeon someone tapped on the window in my house and i have never been so afraid playing a game in my life. how was this rated E bro??? eitherways this is an easy 10/10.Shadow Temple Easily the best temple in this entire game. to get the boots, clipping through the walls felt so terrifying cuz you never know what awaits you behind the walls. its geniuenly so scary. afterwards, the crow puzzle was really cool too, and i liked how it kept that menacing, terrifying, spine crawling atmosphere. especially some rooms i remember being scary as hell, for example the room where you have to open the caskets, and the last mini room where you have to enter four rooms and one contains the last key, and the stalfos jumpscare when you ride the boat was cool too. bongo bongo had a really cool mechanic with the hands, its my favorite bossfight besides ganon. this is easily a 10/10 temple, it manages to be fun and scary at the same time. im really happy that this is after the water temple cuz after that boss i was thinking \"damn why is this my favorite game of all time?\" and then i remembered how good it was as soon as bottom of the well started.Spirit Temple this one is really good. its nice and easy and the mechanics are really cool, especially the mirror sheild. i dont have much to say honestly cuz the entire thing was so good, nothing really stood out. solid 9.5/10 temple cuz i didnt like the second phase of the boss (skill issue i had to pull up a guide). the fact you have to do one half as a child and the other as an adult is rly cool.i wont talk about the return to the temple of time cuz unfortunately i was spoiled the plot twist. but i do remember saying to myself \"im gonna beat ganons ass\" during that cutscene.Ganon's Castle easily one of the best dungeons. i love how during each of the mini dungeons, they call you by different names, which really shows how you, as the hero of time has impacted them in different ways. it really adds to that weight you feel that YOU are the hero of time. and honestly idk how to describe how absolutely epic the bossfight was. the escape from the tower geniuenly made me so nervous that i almost puked. and the second phase of the boss is so cool, honestly i love how you have to fight without the sword for the first half and have to use a combination of items to beat him. that level of complexity makes it all the more satisfying to beat ganon. especially the final blow. perfection. i still remember right before the attempt i beat ganon, i shouted at myself in the mirror: \"WHOS THE HERO OF TIME???? ME!!! WHOS GONNA BEAT GANONS ASS??? ME!!!\" it was so goofy but it shows how it makes you truly feel like you are the hero of time. i felt guilt from all the npcs i met, and the weight of their sorrows is upon me. the end credits sequence is so beautiful and i love how they chose sarias song. such a banger. i love how they not only included major characters but also random npcs that the player might have felt guilt for finally rejoice. one of those npcs for me was the windmill guy, i felt so guilty seeing him go from a carefree dude to this angry, vengful person. and the ending is just so beautiful man. the only words i have to describe it? ABSOLUTE. CINEMA. also when ganon curses you it feels like you truly won. i flipped off my screen when i saw him say that lmaoo.so now i leave this game with only one question: how the hell did this run on 4mb of ram???? geniuenly how??? honestly i love how OoT dosent see the system as a limitation but a style choice. i love the style of the graphics so much, but its still mindboggling to think this ran on 4mb???? bro 4gb of ram isnt even capable of running a geometry dash level on uldm, plus game ldm. how???im playing alttp next. hopefully ill enjoy it as much! :)",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Don’t let diabetes boss you around. With the FreeStyle Libre 3 Plus sensor, take the proper steps to manage your life with diabetes.​",
+      "permalink": "https://www.reddit.com/user/Abbott-FreeStyle-US/comments/1ml3smw/dont_let_diabetes_boss_you_around_with_the/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1ml3smw",
+      "post_type": "video",
+      "domain": "freestyle.abbott",
+      "author": "Abbott-FreeStyle-US",
+      "author_id": "t2_8guuu36v",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-08T18:57:12.496000+0000",
+      "content_href": "https://v.redd.it/gochxr0bxshf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_394pil/styles/profileIcon_3siegr2ensfe1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=23f578d1952197204569d259ef3aecd02df40c58",
+      "is_promoted": true
+    },
+    {
+      "title": "[ALL] The fabled golden octorok! Model sculpted by B Team Minis ✨",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n6gnak/all_the_fabled_golden_octorok_model_sculpted_by_b/",
+      "score": 79,
+      "comments": 4,
+      "post_id": "t3_1n6gnak",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Blitz_Krueger",
+      "author_id": "t2_o0u9x0",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-02T11:12:58.410000+0000",
+      "content_href": "https://i.redd.it/iepry1nsiqmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Craft"
+      ],
+      "thumbnail_url": "https://preview.redd.it/all-the-fabled-golden-octorok-model-sculpted-by-b-team-minis-v0-iepry1nsiqmf1.jpeg?width=640&crop=smart&auto=webp&s=b88dfd82220aa4d5dc2895564999869625730251",
+      "is_promoted": false
+    },
+    {
+      "title": "[wwhd] is it worth it in 2025",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n5h8zs/wwhd_is_it_worth_it_in_2025/",
+      "score": 4,
+      "comments": 28,
+      "post_id": "t3_1n5h8zs",
+      "post_type": "text",
+      "domain": "self.zelda",
+      "author": "awwgeeznick",
+      "author_id": "t2_lvloihc7",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-01T06:24:26.584000+0000",
+      "content_href": "https://www.reddit.com/r/zelda/comments/1n5h8zs/wwhd_is_it_worth_it_in_2025/",
+      "content_preview": "I’m  considering dropping money on a Wii U/ windwaker set but it’s around $300 at the end of the day and I was wondering if yall think it’s worth it? I’ve never played but desperately want to",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "[ALL] Stained Glass Mastersword",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1mj0ykt/all_stained_glass_mastersword/",
+      "score": 3697,
+      "comments": 39,
+      "post_id": "t3_1mj0ykt",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "DweebiD",
+      "author_id": "t2_1hcxl8h3z7",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-08-06T10:26:24.808000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mj0ykt",
+      "content_preview": "",
+      "flair": [
+        "Collection/Merch"
+      ],
+      "thumbnail_url": "https://preview.redd.it/all-stained-glass-mastersword-v0-m4xt5l2vldhf1.jpg?width=640&crop=smart&auto=webp&s=154aa3ea445289270915445476359cd2e3ba7d3a",
+      "is_promoted": false
     },
     {
       "title": "[ALL] Favorite Zelda Area to get in the Spooky Season Mood",
       "permalink": "https://www.reddit.com/r/zelda/comments/1n3cyk3/all_favorite_zelda_area_to_get_in_the_spooky/",
-      "score": 1032,
+      "score": 1043,
       "comments": 108,
       "post_id": "t3_1n3cyk3",
       "post_type": "gallery",
@@ -924,88 +1420,154 @@
       "flair": [
         "Screenshot"
       ],
-      "thumbnail_url": "https://preview.redd.it/all-favorite-zelda-area-to-get-in-the-spooky-season-mood-v0-yz6vs2d9pzlf1.png?width=320&format=png&auto=webp&s=f2947bd5d25fdd3c79c3a4b8620a4592a800ae5b"
+      "thumbnail_url": "https://preview.redd.it/all-favorite-zelda-area-to-get-in-the-spooky-season-mood-v0-yz6vs2d9pzlf1.png?width=320&format=png&auto=webp&s=f2947bd5d25fdd3c79c3a4b8620a4592a800ae5b",
+      "is_promoted": false
     },
     {
-      "title": "[Oot] Finally caught myself a fairy",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n44uu1/oot_finally_caught_myself_a_fairy/",
-      "score": 889,
-      "comments": 25,
-      "post_id": "t3_1n44uu1",
+      "title": "[MM] Majora's mask I crafted for my son",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n5uj4c/mm_majoras_mask_i_crafted_for_my_son/",
+      "score": 1022,
+      "comments": 8,
+      "post_id": "t3_1n5uj4c",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "G-mod-lover",
-      "author_id": "t2_4et4c5sr",
+      "author": "t_sekuloski",
+      "author_id": "t2_4vtj23y",
       "subreddit_id": "t5_2r61g",
       "subreddit": "r/zelda",
-      "created_ts": "2025-08-30T15:44:09.597000+0000",
-      "content_href": "https://i.redd.it/8xi96lufg6mf1.jpeg",
+      "created_ts": "2025-09-01T17:11:41.284000+0000",
+      "content_href": "https://i.redd.it/8pd8n1lv5lmf1.jpeg",
       "content_preview": "",
       "flair": [
         "Craft"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://preview.redd.it/mm-majoras-mask-i-crafted-for-my-son-v0-8pd8n1lv5lmf1.jpeg?width=640&crop=smart&auto=webp&s=4609db3354de645ef63e91fc1b682ee1a4a1a4f2",
+      "is_promoted": false
     },
     {
-      "title": "[ALL] I’ve been contributing to this cool Zelda region on wplace.live over the past few days. To avoid griefers and voids, I won’t share the exact location, but it’s in the Southern United States.",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n66p5s/all_ive_been_contributing_to_this_cool_zelda/",
-      "score": 22,
-      "comments": 0,
-      "post_id": "t3_1n66p5s",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "PantherGk7",
-      "author_id": "t2_3g5h4skq",
-      "subreddit_id": "t5_2r61g",
-      "subreddit": "r/zelda",
-      "created_ts": "2025-09-02T01:32:02.625000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n66p5s",
-      "content_preview": "",
-      "flair": [
-        "wPlace"
-      ],
-      "thumbnail_url": "https://preview.redd.it/all-ive-been-contributing-to-this-cool-zelda-region-on-over-v0-30ynqkh5nnmf1.jpg?width=640&crop=smart&auto=webp&s=8fa422cb7c6cd38aa0af0a7ecbd055e04e71e201"
-    },
-    {
-      "title": "[MM][OC] Fierce Deity Link - By me <3",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n2jtzw/mmoc_fierce_deity_link_by_me_3/",
-      "score": 865,
-      "comments": 12,
-      "post_id": "t3_1n2jtzw",
+      "title": "[ALttP] Happy 33.333rd to A Link To The Past!  That's ⅓ of a century!",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1mp83kp/alttp_happy_33333rd_to_a_link_to_the_past_thats_⅓/",
+      "score": 3564,
+      "comments": 64,
+      "post_id": "t3_1mp83kp",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "Kikonilo_",
-      "author_id": "t2_e4t7rmbm",
+      "author": "JonLeung",
+      "author_id": "t2_6nu2w",
       "subreddit_id": "t5_2r61g",
       "subreddit": "r/zelda",
-      "created_ts": "2025-08-28T18:14:52.696000+0000",
-      "content_href": "https://i.redd.it/3tsn50tcxslf1.jpeg",
+      "created_ts": "2025-08-13T15:48:41.183000+0000",
+      "content_href": "https://i.redd.it/q7eamt8m5tif1.png",
       "content_preview": "",
       "flair": [
-        "Fan Art"
+        "Humor"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_57nzdg/styles/profileIcon_4yqy3qg8i5p81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=285e7c2a521c7f5c456c1760bbdb38e436159097"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
-      "title": "[BoTW] Why do I suck at Breath of the Wild?",
-      "permalink": "https://www.reddit.com/r/zelda/comments/1n53j39/botw_why_do_i_suck_at_breath_of_the_wild/",
-      "score": 31,
-      "comments": 45,
-      "post_id": "t3_1n53j39",
-      "post_type": "text",
+      "title": "Today is Merchandise Monday. So you can post your collections, boxes, photos of your game, a cool etsy craft you found, etc today only!",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n5o4cv/today_is_merchandise_monday_so_you_can_post_your/",
+      "score": 0,
+      "comments": 1,
+      "post_id": "t3_1n5o4cv",
+      "post_type": "multi_media",
       "domain": "self.zelda",
-      "author": "No_Draw1020",
-      "author_id": "t2_jj4a9dkr",
+      "author": "ZeldaMod",
+      "author_id": "t2_n0k5t",
       "subreddit_id": "t5_2r61g",
       "subreddit": "r/zelda",
-      "created_ts": "2025-08-31T19:22:14.263000+0000",
-      "content_href": "https://www.reddit.com/r/zelda/comments/1n53j39/botw_why_do_i_suck_at_breath_of_the_wild/",
+      "created_ts": "2025-09-01T13:03:18.984000+0000",
+      "content_href": "https://www.reddit.com/r/zelda/comments/1n5o4cv/today_is_merchandise_monday_so_you_can_post_your/",
+      "content_preview": "Fromour rules:Feel free to post NEWS about new official merchandise whenever you like, but for unofficial goods or photos of your personal collection, please post them on Merchandise Mondays.The sub gets filled with people taking photos of their collections, their amiibos, their copy of [insert game here], as well as people wanting to sell you stuff. So we limit it to Mondays so these posts do not take over the subreddit all the time.Brand new official merchandise announcements are allowed any day of the week; just unofficial merch or photos of your own merch are limited to today! If you want to post a picture of something you bought, or of something that you made for sale, today is the day.Also, please be aware of scammers! Read more here:https://www.reddit.com/r/zelda/wiki/dropshippersr/ZeldaDiscord ServerWant another place to chat about Zelda? Or to post your collection? Join ther/Zeldadiscord serverhttps://discord.gg/rzeldaand post it in #collectionIf you do not want to make your own post but still want to share your merchandise, you can comment on this post too. :)",
+      "flair": [
+        "Collection/Merch"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1le83p/styles/profileIcon_lhmwypdvf7a71.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=202eae5d18b987653f2ac6275050f4727e9e042c",
+      "is_promoted": false
+    },
+    {
+      "title": "All your leagues, teams and platforms are all in one place with Xfinity.",
+      "permalink": "https://www.reddit.com/user/xfinity/comments/1molfah/all_your_leagues_teams_and_platforms_are_all_in/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1molfah",
+      "post_type": "video",
+      "domain": "xfinity.com",
+      "author": "xfinity",
+      "author_id": "t2_37d52nbn",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-12T21:22:00.202000+0000",
+      "content_href": "https://v.redd.it/uqyigybs6mif1",
       "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_12pjik/styles/profileIcon_erch4xb84a4c1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=b62b87784f0dd6ca772c6fc1b012e2bf9c425c52",
+      "is_promoted": true
+    },
+    {
+      "title": "[ALBW] The item rental market.",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1mlz5ny/albw_the_item_rental_market/",
+      "score": 3550,
+      "comments": 30,
+      "post_id": "t3_1mlz5ny",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Jod3000",
+      "author_id": "t2_61zik",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-08-09T20:17:57.443000+0000",
+      "content_href": "https://i.redd.it/ejih0eo1y1if1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Meme"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "[Mc] been playing Minish Cap as of late. love it. absolutely lost in the 3rd main dungeon",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n5kewd/mc_been_playing_minish_cap_as_of_late_love_it/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n5kewd",
+      "post_type": "text",
+      "domain": "self.zelda",
+      "author": "Puppy_pikachu_lover1",
+      "author_id": "t2_iyskj3as",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-09-01T09:44:49.102000+0000",
+      "content_href": "https://www.reddit.com/r/zelda/comments/1n5kewd/mc_been_playing_minish_cap_as_of_late_love_it/",
+      "content_preview": "Not much more than that, saying its my current favorite 2d zelda game",
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5qajsm/styles/profileIcon_b3bqjzfp1bgf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=830ee1062847fc08e5234bbf27d8216af8d88ea7",
+      "is_promoted": false
+    },
+    {
+      "title": "[OoS] A question about Oracle of Seasons [post-Labrynna/Ages]",
+      "permalink": "https://www.reddit.com/r/zelda/comments/1n57868/oos_a_question_about_oracle_of_seasons/",
+      "score": 7,
+      "comments": 9,
+      "post_id": "t3_1n57868",
+      "post_type": "text",
+      "domain": "self.zelda",
+      "author": "Nickakyoin",
+      "author_id": "t2_kvvfznv",
+      "subreddit_id": "t5_2r61g",
+      "subreddit": "r/zelda",
+      "created_ts": "2025-08-31T21:53:33.395000+0000",
+      "content_href": "https://www.reddit.com/r/zelda/comments/1n57868/oos_a_question_about_oracle_of_seasons/",
+      "content_preview": "So I've been replaying Seasons (first) and Ages (currently post-5th dungeon) on NSO.I didn't expected some (minor) story changes, like the Twinrova intro, Zelda being kidnapped by that Seasons mid boss after the third dungeon and many NPCs from Holodrum visiting Labrynna (Rosa going in Crescent Island [...in the past??] and enjoying the Goron dances for example).Now I'm wondering: how and which exact changes (especially in the main plot) happen in Holodrum if I beat Ages first and continuing with Seasons via password? Especially regarding Zelda.Thank you in advance.",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:03:47.818055"
+  "scraped_at": "2025-09-05T03:31:39.768370"
 }

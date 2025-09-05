@@ -3,173 +3,396 @@
   "url": "https://www.reddit.com/r/popheads",
   "meta": {
     "title": "popheads: the hottest in pop music",
-    "members_text": "5,365,593"
+    "description": "The latest and greatest in pop music, all in one subreddit.",
+    "subscribers": 3134394,
+    "online_users": 321,
+    "created_timestamp": "2025-09-05T10:11:16.475000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Bookmarks",
+        "content": [
+          {
+            "text": "Wiki",
+            "url": "/r/popheads/wiki/index/"
+          },
+          {
+            "text": "Instagram",
+            "url": "https://www.instagram.com/popheadsreddit/"
+          },
+          {
+            "text": "Discord",
+            "url": "https://discord.gg/popheads"
+          },
+          {
+            "text": "Bluesky",
+            "url": "https://bsky.app/profile/popheads.bsky.social"
+          },
+          {
+            "text": "Popheads Charts",
+            "url": "https://www.reddit.com/r/popheads/wiki/index/charts/?utm_source=reddit&utm_medium=usertext&utm_name=popheads&utm_content=t3_101rztx"
+          },
+          {
+            "text": "Top Ten Pop Ten",
+            "url": "https://www.reddit.com/r/popheads/wiki/index/top-ten-pop-ten"
+          },
+          {
+            "text": "Jukebox",
+            "url": "https://www.reddit.com/r/popheads/wiki/index/popheadsjukebox"
+          },
+          {
+            "text": "Main Pod Girl",
+            "url": "https://mainpodgirl.libsyn.com/"
+          },
+          {
+            "text": "Previous/Upcoming",
+            "url": "https://www.reddit.com/r/popheads/wiki/index/rate-threads/"
+          },
+          {
+            "text": "Least Personal Pop",
+            "url": "https://www.reddit.com/r/popheads/comments/1mfu2c5/least_personal_pop_rate_ava_max_vs_dua_lipa_vs/"
+          },
+          {
+            "text": "10th Anniversary",
+            "url": "https://www.reddit.com/r/popheads/comments/1mfu47y/popheads_10th_anniversary_ratewar_witness_vs/"
+          },
+          {
+            "text": "EuroClub Classics",
+            "url": "https://www.reddit.com/r/popheads/comments/1n6say3/euroclub_classics_rate/"
+          },
+          {
+            "text": "2010s Alt Radio",
+            "url": "https://www.reddit.com/r/popheads/comments/1n6sawg/2010s_alt_radio_staples_rate/"
+          },
+          {
+            "text": "Index",
+            "url": "https://www.reddit.com/r/popheads/wiki/amas/"
+          },
+          {
+            "text": "Jack Antonoff",
+            "url": "https://www.reddit.com/r/popheads/comments/owlgot/hey_its_jack_antonoff_from_bleachers_our_new/"
+          },
+          {
+            "text": "Tinashe",
+            "url": "https://www.reddit.com/r/popheads/comments/ou2f8c/hey_its_tinashe_my_new_album_333_will_be_out_86/"
+          },
+          {
+            "text": "Nick Jonas",
+            "url": "https://www.reddit.com/r/popheads/comments/mm8150/hey_popheads_its_nick_jonas/"
+          },
+          {
+            "text": "Victoria Monét",
+            "url": "https://www.reddit.com/r/popheads/comments/m7u6ee/hi_popheads_its_victoria_mon%C3%A9t_and_my_silk_sonic/"
+          },
+          {
+            "text": "Carly Rae Jepsen",
+            "url": "https://www.reddit.com/r/popheads/comments/bpuw52/"
+          },
+          {
+            "text": "Charli XCX",
+            "url": "https://www.reddit.com/r/popheads/comments/d3s12l/its_charli_baby_im_charli_xcx_and_my_new_album/"
+          },
+          {
+            "text": "Zara Larsson",
+            "url": "https://www.reddit.com/r/popheads/comments/ngaus0/hi_im_zara_larsson_im_a_pop_artist_from_sweden/"
+          },
+          {
+            "text": "Rina Sawayama",
+            "url": "https://www.reddit.com/r/popheads/comments/e2jpg9/"
+          },
+          {
+            "text": "Slayyyter",
+            "url": "https://www.reddit.com/r/popheads/comments/o21rzt/i_am_an_electronic_popstar_named_slayyyter_and_i/?sort=new"
+          }
+        ]
+      },
+      {
+        "title": "r/popheads Rules",
+        "content": [
+          {
+            "text": "Please see here for our stale topics.",
+            "url": "/r/popheads/wiki/index/stale-topics#st"
+          },
+          {
+            "text": "comments",
+            "url": "https://www.reddit.com/r/popheads/wiki/index/stale-topics#wiki_banned_comments"
+          },
+          {
+            "text": "Guidelines for teasers and Instagram posts.",
+            "url": "https://www.reddit.com/r/popheads/wiki/index#wiki_rules_and_guidelines"
+          }
+        ]
+      },
+      {
+        "title": "Recommended Links",
+        "content": [
+          {
+            "text": "Discord",
+            "url": "https://discord.gg/popheads"
+          },
+          {
+            "text": "Instagram",
+            "url": "https://www.instagram.com/popheadsreddit/"
+          },
+          {
+            "text": "Spotify",
+            "url": "https://open.spotify.com/user/thepopheads?si=MpsrX69JTrWJiGaj0tkMcg"
+          },
+          {
+            "text": "Bluesky",
+            "url": "https://bsky.app/profile/popheads.bsky.social"
+          }
+        ]
+      },
+      {
+        "title": "Community List",
+        "content": [
+          {
+            "text": "r/hiphopheads",
+            "url": "/r/hiphopheads"
+          },
+          {
+            "text": "r/indieheads",
+            "url": "/r/indieheads"
+          },
+          {
+            "text": "r/popheadscirclejerk",
+            "url": "/r/popheadscirclejerk"
+          },
+          {
+            "text": "r/rnb",
+            "url": "/r/rnb"
+          },
+          {
+            "text": "r/rap",
+            "url": "/r/rap"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/popheads/moderators/"
+          }
+        ]
+      },
+      {
+        "title": "Installed Apps",
+        "content": [
+          {
+            "text": "hightier-app",
+            "url": "https://developers.reddit.com/apps/hightier-app"
+          },
+          {
+            "text": "Hive Protector",
+            "url": "https://developers.reddit.com/apps/hive-protect"
+          },
+          {
+            "text": "Comment Mop",
+            "url": "https://developers.reddit.com/apps/comment-nuke"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "Pink Skies - Close My Eyes",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n6b788/pink_skies_close_my_eyes/",
+      "title": "Poppy. Amy Lee, Courtney LaPlante - End of You",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n919xv/poppy_amy_lee_courtney_laplante_end_of_you/",
       "score": 1,
-      "comments": 2,
-      "post_id": "t3_1n6b788",
+      "comments": 1,
+      "post_id": "t3_1n919xv",
       "post_type": "link",
       "domain": "open.spotify.com",
-      "author": "Hopeful_Book",
-      "author_id": "t2_554wtimm",
+      "author": "musicnewsua",
+      "author_id": "t2_lnd5x5y2",
       "subreddit_id": "t5_39nwj",
       "subreddit": "r/popheads",
-      "created_ts": "2025-09-02T05:29:06.111000+0000",
-      "content_href": "https://open.spotify.com/track/0mD2zG56zwGiqQJCPDpxl0?si=wt6GBYcLT36gBWhO3J7aEQ",
+      "created_ts": "2025-09-05T10:11:16.475000+0000",
+      "content_href": "https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA?si=df952b16a8a046c1",
       "content_preview": "",
       "flair": [
         "[FRESH]"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_2zb1qk/styles/profileIcon_y3o0crybaa4f1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3d4cb4338db29d389a942a2d3452eb24e894d180"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
-      "title": "Taylor Swift announced engagement",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n0rhw1/taylor_swift_announced_engagement/",
-      "score": 2212,
-      "comments": 651,
-      "post_id": "t3_1n0rhw1",
-      "post_type": "link",
-      "domain": "instagram.com",
-      "author": "SighLi",
-      "author_id": "t2_12xu59",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-08-26T17:03:54.802000+0000",
-      "content_href": "https://www.instagram.com/p/DN02niAXMM-/",
-      "content_preview": "",
-      "flair": [
-        "[NEWS]"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Rachel Chinouriri announces new song, \"What A Life\", out next Friday",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n5whp7/rachel_chinouriri_announces_new_song_what_a_life/",
-      "score": 183,
-      "comments": 11,
-      "post_id": "t3_1n5whp7",
-      "post_type": "link",
-      "domain": "instagram.com",
-      "author": "droobidoobidoo",
-      "author_id": "t2_9gfsfzp9",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-09-01T18:23:26.050000+0000",
-      "content_href": "https://www.instagram.com/reel/DOEOkfGDPdU",
-      "content_preview": "",
-      "flair": [
-        "[NEWS]"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Chappell Roan - The Subway (Official Music Video)",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1mex9al/chappell_roan_the_subway_official_music_video/",
-      "score": 2005,
-      "comments": 275,
-      "post_id": "t3_1mex9al",
+      "title": "Sabrina Carpenter - Tears",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n2xenq/sabrina_carpenter_tears/",
+      "score": 1270,
+      "comments": 240,
+      "post_id": "t3_1n2xenq",
       "post_type": "link",
       "domain": "youtu.be",
-      "author": "NinasPeach",
-      "author_id": "t2_6et2wkr",
+      "author": "yumbleachh",
+      "author_id": "t2_1nahq3re",
       "subreddit_id": "t5_39nwj",
       "subreddit": "r/popheads",
-      "created_ts": "2025-08-01T14:00:00.255000+0000",
-      "content_href": "https://youtu.be/woLfAvD5iXI?si=OJ887W9TGq5rqp4v",
+      "created_ts": "2025-08-29T04:00:01.214000+0000",
+      "content_href": "https://youtu.be/V9vuCByb6js?si=9QrbcOaWpsY301en",
       "content_preview": "",
       "flair": [
         "[FRESH VIDEO]"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_7mmum/styles/profileIcon_a0yu584rfmtc1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=62161d2cafd22086899f155f2aa38430b8a5e7b5"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "The Number Ones: Megan Thee Stallion’s “Savage” (Feat. Beyoncé)",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n5nmf0/the_number_ones_megan_thee_stallions_savage_feat/",
-      "score": 325,
-      "comments": 49,
-      "post_id": "t3_1n5nmf0",
+      "title": "PinkPantheress: Tiny Desk Concert",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n90i8p/pinkpantheress_tiny_desk_concert/",
+      "score": 21,
+      "comments": 1,
+      "post_id": "t3_1n90i8p",
       "post_type": "link",
-      "domain": "stereogum.com",
-      "author": "ScallionSmooth9491",
-      "author_id": "t2_1p5bk5x28u",
+      "domain": "youtube.com",
+      "author": "Me-Luigi",
+      "author_id": "t2_lguhx",
       "subreddit_id": "t5_39nwj",
       "subreddit": "r/popheads",
-      "created_ts": "2025-09-01T12:41:01.145000+0000",
-      "content_href": "https://www.stereogum.com/2320511/the-number-ones-megan-thee-stallions-savage-feat-beyonce/columns/the-number-ones/",
+      "created_ts": "2025-09-05T09:23:28.442000+0000",
+      "content_href": "https://www.youtube.com/watch?v=56fJw8HUGuU",
       "content_preview": "",
       "flair": [
-        "[ARTICLE]"
+        "[PERFORMANCE]"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_efbpte/styles/profileIcon_ir7551k51nkf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c76a8172f63ba5cf01f8baecbde3068370f24433"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "Sabrina Carpenter - Man's Best Friend",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n2r1mn/sabrina_carpenter_mans_best_friend/",
-      "score": 1339,
-      "comments": 966,
-      "post_id": "t3_1n2r1mn",
+      "title": "HUNTR/X’s ‘Golden’ From ‘KPop Demon Hunters’ Hits No. 1 on Billboard Hot 100",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1mnlsh1/huntrxs_golden_from_kpop_demon_hunters_hits_no_1/",
+      "score": 2065,
+      "comments": 365,
+      "post_id": "t3_1mnlsh1",
       "post_type": "link",
-      "domain": "open.spotify.com",
-      "author": "FlareGod123",
-      "author_id": "t2_6e9yx3kq",
+      "domain": "billboard.com",
+      "author": "mcfw31",
+      "author_id": "t2_17bmi8",
       "subreddit_id": "t5_39nwj",
       "subreddit": "r/popheads",
-      "created_ts": "2025-08-28T23:00:23.786000+0000",
-      "content_href": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop?si=eZvPFZi9TE-Mz1QEbURPig",
+      "created_ts": "2025-08-11T18:57:37.288000+0000",
+      "content_href": "https://www.billboard.com/lists/huntrx-golden-kpop-demon-hunters-number-1-hot-100/",
+      "content_preview": "",
+      "flair": [
+        "[CHART]"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/2saHr8Ke4X-e-kIoX2zm3YmOVw_SxZPF15PR-HnBnl8.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=6b81ef4927fd7644c73e4ae22396d030506e3543",
+      "is_promoted": false
+    },
+    {
+      "title": "Tame Impala announces fifth studio album, \"Deadbeat\", out October 17th.",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n8jeye/tame_impala_announces_fifth_studio_album_deadbeat/",
+      "score": 189,
+      "comments": 10,
+      "post_id": "t3_1n8jeye",
+      "post_type": "link",
+      "domain": "open.spotify.com",
+      "author": "springtimecarnivore",
+      "author_id": "t2_igxml5m3u",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-04T19:17:50.785000+0000",
+      "content_href": "http://open.spotify.com/prerelease/16bIQEvj7z9kCvnWAGC28q",
+      "content_preview": "",
+      "flair": [
+        "[NEWS]"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Hayley Williams confirms that Paramore is on a break and not broken up",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n8f2cu/hayley_williams_confirms_that_paramore_is_on_a/",
+      "score": 1260,
+      "comments": 81,
+      "post_id": "t3_1n8f2cu",
+      "post_type": "link",
+      "domain": "theface.com",
+      "author": "fuoricontesto",
+      "author_id": "t2_3ufghtb8",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-04T16:33:19.451000+0000",
+      "content_href": "https://theface.com/music/hayley-williams-paramore-interview-ego-death-at-a-bachelorette-party",
+      "content_preview": "",
+      "flair": [
+        "[INTERVIEW]"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "We know Reddit can get spicy, but just like 𝗗𝗼𝗿𝗶𝘁𝗼𝘀 𝗚𝗼𝗹𝗱𝗲𝗻 𝗦𝗿𝗶𝗿𝗮𝗰𝗵𝗮, we hold back before it gets too spicy. Drop your 𝗦𝗽𝗶𝗰𝘆…𝗕𝘂𝘁 𝗡𝗼𝘁 𝗧𝗼𝗼 𝗦𝗽𝗶𝗰𝘆 stories in the comments below and we’ll award those with the most flavor. And keep it SFW…this is an ad afterall.",
+      "permalink": "https://www.reddit.com/user/doritos/comments/1mpczvo/we_know_reddit_can_get_spicy_but_just_like/",
+      "score": 0,
+      "comments": 115,
+      "post_id": "t3_1mpczvo",
+      "post_type": "image",
+      "domain": "doritos.com",
+      "author": "doritos",
+      "author_id": "t2_49nmxafd",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-13T18:48:37.768000+0000",
+      "content_href": "https://www.doritos.com/where-to-buy",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_23sqq3/styles/profileIcon_sdfhcswa4mhf1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=53eb100cd8ad5525f2640ce58a1b5445167500fb",
+      "is_promoted": true
+    },
+    {
+      "title": "SG Lewis - Anemoia",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n8qv97/sg_lewis_anemoia/",
+      "score": 66,
+      "comments": 12,
+      "post_id": "t3_1n8qv97",
+      "post_type": "link",
+      "domain": "open.spotify.com",
+      "author": "rajazakiyy",
+      "author_id": "t2_140r9y",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-05T00:25:11.401000+0000",
+      "content_href": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH?si=lwtxUHtmQyOM1ipc8z9rhw",
       "content_preview": "",
       "flair": [
         "[FRESH ALBUM]"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/NYyDtwUhIyfjGd_S8M0LhWh4C0lsTDQxIEPy0J_xiuQ.jpeg?width=140&height=140&crop=140:140,smart&auto=webp&s=62160734d8b7bda732c1317d8a148790b3a15500"
+      "thumbnail_url": "https://external-preview.redd.it/X6Vq8ExC2dSXkrIe6evI_ph1XnOCt98EXY9BKzDLv6o.jpeg?width=140&height=140&crop=140:140,smart&auto=webp&s=f79ba7846613154d5920641d428d86e7f67baa98",
+      "is_promoted": false
     },
     {
-      "title": "Alternate Death Ending in Tears M/V",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n5shpv/alternate_death_ending_in_tears_mv/",
-      "score": 171,
-      "comments": 65,
-      "post_id": "t3_1n5shpv",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "Dry-Knee-5472",
-      "author_id": "t2_twybu4d2",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-09-01T15:56:33.276000+0000",
-      "content_href": "https://www.youtube.com/watch?v=V9vuCByb6js&list=RDV9vuCByb6js",
-      "content_preview": "",
-      "flair": [
-        "[FRESH VIDEO]"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_815kh3/styles/profileIcon_ji1tgq5kc2xe1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=89c8be24230a2d028a6e29e9713c9bb51021dc50"
-    },
-    {
-      "title": "ZEROBASEONE - ICONIK",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n6b18w/zerobaseone_iconik/",
+      "title": "PinkPantheress: Tiny Desk Concert",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n91214/pinkpantheress_tiny_desk_concert/",
       "score": 6,
-      "comments": 3,
-      "post_id": "t3_1n6b18w",
+      "comments": 0,
+      "post_id": "t3_1n91214",
       "post_type": "link",
-      "domain": "youtube.com",
-      "author": "joesen_one",
-      "author_id": "t2_32225ibc",
+      "domain": "youtu.be",
+      "author": "Sisiwakanamaru",
+      "author_id": "t2_asusb",
       "subreddit_id": "t5_39nwj",
       "subreddit": "r/popheads",
-      "created_ts": "2025-09-02T05:19:08.867000+0000",
-      "content_href": "https://www.youtube.com/watch?v=HnYtDIW7elY",
+      "created_ts": "2025-09-05T09:58:06.311000+0000",
+      "content_href": "https://youtu.be/56fJw8HUGuU?si=GdX3by4Xx0mM3dMp",
       "content_preview": "",
       "flair": [
-        "[FRESH VIDEO]"
+        "[PERFORMANCE]"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "Taylor Swift's Website Launches pre-orders for her 12th studio album, The Life of a Showgirl",
       "permalink": "https://www.reddit.com/r/popheads/comments/1mnyxkc/taylor_swifts_website_launches_preorders_for_her/",
-      "score": 1853,
+      "score": 1855,
       "comments": 734,
       "post_id": "t3_1mnyxkc",
       "post_type": "link",
@@ -184,112 +407,137 @@
       "flair": [
         "[NEWS]"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_scxza/styles/profileIcon_ntpxc9vtg7dc1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c703de776938af494398b50ba389d4b0be0c17a0"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_scxza/styles/profileIcon_ntpxc9vtg7dc1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c703de776938af494398b50ba389d4b0be0c17a0",
+      "is_promoted": false
     },
     {
-      "title": "Lady Gaga’s Wednesday Season 2 Role Confirmed As Rosaline Rotwood",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n62q4f/lady_gagas_wednesday_season_2_role_confirmed_as/",
-      "score": 36,
-      "comments": 1,
-      "post_id": "t3_1n62q4f",
+      "title": "Justin Bieber new album “SWAG II” out at midnight!",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n8c1wd/justin_bieber_new_album_swag_ii_out_at_midnight/",
+      "score": 391,
+      "comments": 205,
+      "post_id": "t3_1n8c1wd",
       "post_type": "link",
-      "domain": "empireonline.com",
-      "author": "57829",
-      "author_id": "t2_mmaku9rm",
+      "domain": "instagram.com",
+      "author": "omrimayo",
+      "author_id": "t2_17h46gl4",
       "subreddit_id": "t5_39nwj",
       "subreddit": "r/popheads",
-      "created_ts": "2025-09-01T22:27:13.644000+0000",
-      "content_href": "https://www.empireonline.com/tv/news/lady-gaga-wednesday-season-2-character-confirmed-rosaline-rotwood/",
+      "created_ts": "2025-09-04T14:41:14.045000+0000",
+      "content_href": "https://www.instagram.com/p/DOLvk2VETAz/?igsh=MXU2cGFnN2hvMDJ5cA==",
       "content_preview": "",
       "flair": [
         "[NEWS]"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/v9vwDaS1GEwx3lmWiaalww83ZxHL27352LyjyzKTiqg.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=81509143b1ae21ecab7105478b6e9f6fb059fb9a"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "Sabrina Carpenter - Tears",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n2xenq/sabrina_carpenter_tears/",
-      "score": 1241,
-      "comments": 233,
-      "post_id": "t3_1n2xenq",
+      "title": "Pitchfork Review: Sabrina Carpenter - Man’s Best Friend (7.9)",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n74wkh/pitchfork_review_sabrina_carpenter_mans_best/",
+      "score": 757,
+      "comments": 408,
+      "post_id": "t3_1n74wkh",
       "post_type": "link",
-      "domain": "youtu.be",
-      "author": "yumbleachh",
-      "author_id": "t2_1nahq3re",
+      "domain": "pitchfork.com",
+      "author": "buddhacharm",
+      "author_id": "t2_oinmf",
       "subreddit_id": "t5_39nwj",
       "subreddit": "r/popheads",
-      "created_ts": "2025-08-29T04:00:01.214000+0000",
-      "content_href": "https://youtu.be/V9vuCByb6js?si=9QrbcOaWpsY301en",
+      "created_ts": "2025-09-03T04:02:40.229000+0000",
+      "content_href": "https://pitchfork.com/reviews/albums/sabrina-carpenter-mans-best-friend/",
+      "content_preview": "",
+      "flair": [
+        "[REVIEW]"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "KATSEYE - Beautiful Chaos: The Remixes",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n8vgd0/katseye_beautiful_chaos_the_remixes/",
+      "score": 28,
+      "comments": 10,
+      "post_id": "t3_1n8vgd0",
+      "post_type": "link",
+      "domain": "music.apple.com",
+      "author": "Rude-Requirement4419",
+      "author_id": "t2_1vn8cukfsd",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-05T04:09:57.748000+0000",
+      "content_href": "https://music.apple.com/ph/album/beautiful-chaos-the-remixes/1837297987?ls",
+      "content_preview": "",
+      "flair": [
+        "[FRESH EP]"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f662cu/styles/profileIcon_5fnqftf9i2nf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a3c40132a2fa2508cd4d2c9672d71e1557810cf4",
+      "is_promoted": false
+    },
+    {
+      "title": "Lady Gaga - The Dead Dance (Official Music Video)",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n7iq3c/lady_gaga_the_dead_dance_official_music_video/",
+      "score": 698,
+      "comments": 230,
+      "post_id": "t3_1n7iq3c",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "bek0wsky",
+      "author_id": "t2_1gqjyejj8z",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-03T15:59:01.119000+0000",
+      "content_href": "https://www.youtube.com/watch?v=xGaZBfJOyAc",
       "content_preview": "",
       "flair": [
         "[FRESH VIDEO]"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     },
     {
-      "title": "The Popheads Charts, September 1st, 2025: Jealousy is a disease, get well soon xoxo",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n67r3v/the_popheads_charts_september_1st_2025_jealousy/",
-      "score": 16,
-      "comments": 7,
-      "post_id": "t3_1n67r3v",
-      "post_type": "multi_media",
-      "domain": "self.popheads",
-      "author": "ImADudeDuh",
-      "author_id": "t2_r7qs5",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-09-02T02:23:12.028000+0000",
-      "content_href": "https://www.reddit.com/r/popheads/comments/1n67r3v/the_popheads_charts_september_1st_2025_jealousy/",
+      "title": "More hand protection, less fear. Huggies XL Wipes are 20% larger*. *vs. Huggies Simply Clean",
+      "permalink": "https://www.reddit.com/user/HuggiesBabyWipes/comments/1l9r5ae/more_hand_protection_less_fear_huggies_xl_wipes/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1l9r5ae",
+      "post_type": "image",
+      "domain": "amazon.com",
+      "author": "HuggiesBabyWipes",
+      "author_id": "t2_1h7sx3utp1",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-06-12T16:39:07.046000+0000",
+      "content_href": "https://www.amazon.com/Huggies-Extra-Unscented-Flip-Top-Packaging/dp/B0DPR78B37/ref=sr_1_6?crid=YU4ZOHK3JHRW&dib=eyJ2IjoiMSJ9.Kfj4cy0HLXj0ZM3xNvdhOHVA7G9fsZczijBmvmaUurinwMao8v7PUV7u_t-JQE6A0DRe2yFM3Y6c8bfbQpyPKXOMxoRf_7HL70C6IAvCSgx6ypzKOgqWLnWlvYLrKv_fKhiFBXnMFB0Fr5-Mf43hbZSEagHx36f_OpNYpSUj-lAuLDkfVzmxGHdK7qOV5uRa8QIpXEiWQiL4TC4cOYRTDVVh-ifzzqbScrJS0sqY_mSVVBfG7ZOg6XtW8SAlruvUrvYPWuGjnqp0qMxa4pN8f0EvBajXggmM6xGpAWDvQaE.AbpYa0v-ZaaNnQxaciJY9cGjuea9z45AXzkVjKb1K5Y&dib_tag=se&keywords=extra%2Blarge%2Bwipes&qid=1749243192&sprefix=extra%2Blarge%2Bwipe%2Caps%2C164&sr=8-6&th=1",
       "content_preview": "",
-      "flair": [
-        "[CHART]"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_3kmmp/styles/profileIcon_vkw5ebsvz4tc1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4a1ce1200d44acea49309cafd01e4c721914f070"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dczk9d/styles/profileIcon_u09icbgj78ef1.Jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=1c311bf8cc54d3c38b05a893dafe58f3b7e514fc",
+      "is_promoted": true
     },
     {
-      "title": "Lil Nas X Charged With Four Felonies, Including Assaulting an Officer",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1mzxia3/lil_nas_x_charged_with_four_felonies_including/",
-      "score": 1026,
-      "comments": 268,
-      "post_id": "t3_1mzxia3",
+      "title": "3Quency - Top Down",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n8vj5a/3quency_top_down/",
+      "score": 27,
+      "comments": 11,
+      "post_id": "t3_1n8vj5a",
       "post_type": "link",
-      "domain": "variety.com",
-      "author": "backupsaway",
-      "author_id": "t2_4f64vo4ld",
+      "domain": "youtube.com",
+      "author": "watcherreader",
+      "author_id": "t2_2ubchxhm",
       "subreddit_id": "t5_39nwj",
       "subreddit": "r/popheads",
-      "created_ts": "2025-08-25T17:50:57.887000+0000",
-      "content_href": "https://variety.com/2025/music/news/lil-nas-x-charged-four-felonies-assaulting-police-officer-1236497801/",
+      "created_ts": "2025-09-05T04:14:01.570000+0000",
+      "content_href": "https://www.youtube.com/watch?v=3s-BheLrJ1M",
       "content_preview": "",
       "flair": [
-        "[SERIOUS]"
+        "[FRESH VIDEO]"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "Why do we have a severe lack of sassy, dramatic, and maximalist men in western pop? Let’s Discuss.",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n5j8z0/why_do_we_have_a_severe_lack_of_sassy_dramatic/",
-      "score": 404,
-      "comments": 182,
-      "post_id": "t3_1n5j8z0",
-      "post_type": "multi_media",
-      "domain": "self.popheads",
-      "author": "souljaboy765",
-      "author_id": "t2_hg54ym0k",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-09-01T08:29:53.277000+0000",
-      "content_href": "https://www.reddit.com/r/popheads/comments/1n5j8z0/why_do_we_have_a_severe_lack_of_sassy_dramatic/",
-      "content_preview": "",
-      "flair": [
-        "[DISCUSSION]"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_5gzaqc/styles/profileIcon_jokintt1fd6f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=09adaee468b65f149e12ef7f7b2bb76c83f3e2a4"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "10 years ago, Carly Rae Jepsen's Emotion flopped. But it brought her a whole new fan base.",
       "permalink": "https://www.reddit.com/r/popheads/comments/1mvapl8/10_years_ago_carly_rae_jepsens_emotion_flopped/",
-      "score": 1645,
+      "score": 1652,
       "comments": 117,
       "post_id": "t3_1mvapl8",
       "post_type": "link",
@@ -304,352 +552,13 @@
       "flair": [
         "[ARTICLE]"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/HNOihIJhwLseGN24jcIJ9zUGrpDqG35YGjdqVq5Tehc.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=3613c24af68737198cef8b34469cb9b53e38f042"
-    },
-    {
-      "title": "Big Wild - Wild Child",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n6aea4/big_wild_wild_child/",
-      "score": 2,
-      "comments": 2,
-      "post_id": "t3_1n6aea4",
-      "post_type": "link",
-      "domain": "open.spotify.com",
-      "author": "GodControl",
-      "author_id": "t2_2wsjjz3d",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-09-02T04:41:40.898000+0000",
-      "content_href": "https://open.spotify.com/album/4JXSC0wfGaJ2v04LSAfFqx",
-      "content_preview": "",
-      "flair": [
-        "[FRESH ALBUM]"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/0hsJSpad85WkgjvDJhy4Tfy0cmJjm6EbxM2DN848tCc.jpeg?width=140&height=140&crop=140:140,smart&auto=webp&s=9b44827e614088d39daeddcede20aadd9dca9fc7"
-    },
-    {
-      "title": "CMAT - Sports Car (Tate McRae cover) in the Live Lounge",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n5refz/cmat_sports_car_tate_mcrae_cover_in_the_live/",
-      "score": 62,
-      "comments": 10,
-      "post_id": "t3_1n5refz",
-      "post_type": "link",
-      "domain": "youtu.be",
-      "author": "HeStoleMyBalloons",
-      "author_id": "t2_d32dw",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-09-01T15:14:58.454000+0000",
-      "content_href": "https://youtu.be/0TQ0WaFR83U",
-      "content_preview": "",
-      "flair": [
-        "[PERFORMANCE]"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "Ariana Grande announces Eternal Sunshine Tour",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n2d10a/ariana_grande_announces_eternal_sunshine_tour/",
-      "score": 993,
-      "comments": 392,
-      "post_id": "t3_1n2d10a",
-      "post_type": "link",
-      "domain": "instagram.com",
-      "author": "anonymousgoose64",
-      "author_id": "t2_edl4kz2f",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-08-28T14:00:53.855000+0000",
-      "content_href": "https://www.instagram.com/p/DN5rhppDl9D/?utm_source=ig_web_copy_link",
-      "content_preview": "",
-      "flair": [
-        "[NEWS]"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_6jw098/styles/profileIcon_m00b8apevp6f1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b5f4626c0f4477f6abffebeb6b6a38e5c40ca06a"
-    },
-    {
-      "title": "Fifth Harmony reunite after 7 years during Jonas Brothers concert",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n5i6k3/fifth_harmony_reunite_after_7_years_during_jonas/",
-      "score": 263,
-      "comments": 38,
-      "post_id": "t3_1n5i6k3",
-      "post_type": "link",
-      "domain": "rollingstone.com",
-      "author": "mmbento",
-      "author_id": "t2_13tv0a",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-09-01T07:21:08.322000+0000",
-      "content_href": "https://www.rollingstone.com/music/music-features/fifth-harmony-reunites-jonas-brothers-show-1235419141/",
-      "content_preview": "",
-      "flair": [
-        "[NEWS]"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/sh4RHKHddu7BMubVg_mqIIRl4UNlDgvwdNu-Jpoporc.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=3c2742c4d79c7de3cd18ce5e419c7500933dcc54"
-    },
-    {
-      "title": "Hayley Williams - Ego Death At A Bachelorette Party",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n2ipyf/hayley_williams_ego_death_at_a_bachelorette_party/",
-      "score": 934,
-      "comments": 119,
-      "post_id": "t3_1n2ipyf",
-      "post_type": "link",
-      "domain": "open.spotify.com",
-      "author": "teegzn",
-      "author_id": "t2_67q3yu5e",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-08-28T17:33:26.663000+0000",
-      "content_href": "https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ?si=LSrlkv3gQoamfwgr1q2fdA",
-      "content_preview": "",
-      "flair": [
-        "[FRESH ALBUM]"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_2kregz/styles/profileIcon_0xu4zahf0ccc1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d01e8b163f0ecd36efc3728f62bea9c9d9387e66"
-    },
-    {
-      "title": "Fifth Harmony's website teases their comeback: \"coming soon\"",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n5e6u9/fifth_harmonys_website_teases_their_comeback/",
-      "score": 509,
-      "comments": 198,
-      "post_id": "t3_1n5e6u9",
-      "post_type": "link",
-      "domain": "fifthharmony.com",
-      "author": "Impossible_Vast9846",
-      "author_id": "t2_veh54cj0",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-09-01T03:32:42.356000+0000",
-      "content_href": "https://fifthharmony.com",
-      "content_preview": "",
-      "flair": [
-        "[🚨POP EMERGENCY🚨]"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_8m10py/styles/profileIcon_798j3cj3v82e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=efe94dc9b5cf6baba4e912e448f33cfb83693151"
-    },
-    {
-      "title": "Moon Sujin - Chills",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n6acr0/moon_sujin_chills/",
-      "score": 0,
-      "comments": 1,
-      "post_id": "t3_1n6acr0",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "watcherreader",
-      "author_id": "t2_2ubchxhm",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-09-02T04:39:14.311000+0000",
-      "content_href": "https://www.youtube.com/watch?v=mg8o-D3NPS0",
-      "content_preview": "",
-      "flair": [
-        "[FRESH VIDEO]"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Teatime & Trending Topics - September 01, 2025",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n5u8ud/teatime_trending_topics_september_01_2025/",
-      "score": 35,
-      "comments": 50,
-      "post_id": "t3_1n5u8ud",
-      "post_type": "text",
-      "domain": "self.popheads",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-09-01T17:01:15.070000+0000",
-      "content_href": "https://www.reddit.com/r/popheads/comments/1n5u8ud/teatime_trending_topics_september_01_2025/",
-      "content_preview": "",
-      "flair": [
-        "[DAILY]"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Conan Gray scores first No. 1 on Top Album Sales chart, highest-charting album ever on Billboard 200 with \"Wishbone\".",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1mzqrhc/conan_gray_scores_first_no_1_on_top_album_sales/",
-      "score": 687,
-      "comments": 65,
-      "post_id": "t3_1mzqrhc",
-      "post_type": "link",
-      "domain": "billboard.com",
-      "author": "springtimecarnivore",
-      "author_id": "t2_igxml5m3u",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-08-25T13:39:13.518000+0000",
-      "content_href": "http://billboard.com/music/chart-beat/conan-gray-first-number-one-top-album-sales-chart-wishbone-1236050722",
-      "content_preview": "",
-      "flair": [
-        "[CHART]"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Wolf Alice - YouTube Music Nights Presents Wolf Alice (Live from The Troubadour)",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n5zgn3/wolf_alice_youtube_music_nights_presents_wolf/",
-      "score": 14,
-      "comments": 2,
-      "post_id": "t3_1n5zgn3",
-      "post_type": "link",
-      "domain": "youtu.be",
-      "author": "SafeBodybuilder7191",
-      "author_id": "t2_8uvqw5ed",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-09-01T20:15:58.569000+0000",
-      "content_href": "https://youtu.be/5K8mPo4deNE",
-      "content_preview": "",
-      "flair": [
-        "[PERFORMANCE]"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Rick Astley announces ‘Reflection’ 2026 UK and Ireland tour dates",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n5qa22/rick_astley_announces_reflection_2026_uk_and/",
-      "score": 39,
-      "comments": 4,
-      "post_id": "t3_1n5qa22",
-      "post_type": "link",
-      "domain": "nme.com",
-      "author": "Hassaan18",
-      "author_id": "t2_pf0g3",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-09-01T14:31:46.249000+0000",
-      "content_href": "https://www.nme.com/news/music/rick-astley-announces-reflection-2026-uk-and-ireland-tour-dates-3889062",
-      "content_preview": "",
-      "flair": [
-        "[NEWS]"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/jMonJhUeliREdFAuGFVhNp2K5MgntQHZXkEBq-zOG-A.jpeg?width=140&height=88&crop=140:88,smart&auto=webp&s=f785c795ea2e07708a26cb316e54bd0ff5a7d1a4"
-    },
-    {
-      "title": "Artists you think got the career that they deserved",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n5f3fl/artists_you_think_got_the_career_that_they/",
-      "score": 188,
-      "comments": 259,
-      "post_id": "t3_1n5f3fl",
-      "post_type": "text",
-      "domain": "self.popheads",
-      "author": "Lopsided-Arm-6644",
-      "author_id": "t2_1ae4ef21pp",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-09-01T04:20:22.112000+0000",
-      "content_href": "https://www.reddit.com/r/popheads/comments/1n5f3fl/artists_you_think_got_the_career_that_they/",
-      "content_preview": "",
-      "flair": [
-        "[DISCUSSION]"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Fifth Harmony joins Weverse",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n5g9gv/fifth_harmony_joins_weverse/",
-      "score": 126,
-      "comments": 43,
-      "post_id": "t3_1n5g9gv",
-      "post_type": "link",
-      "domain": "m.weverse.io",
-      "author": "Impossible_Vast9846",
-      "author_id": "t2_veh54cj0",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-09-01T05:25:31.601000+0000",
-      "content_href": "https://m.weverse.io/fifthharmony/media/0-163765690",
-      "content_preview": "",
-      "flair": [
-        "[NEWS]"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_8m10py/styles/profileIcon_798j3cj3v82e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=efe94dc9b5cf6baba4e912e448f33cfb83693151"
-    },
-    {
-      "title": "Blinding Lights reaches 5 billion streams!!",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n57u37/blinding_lights_reaches_5_billion_streams/",
-      "score": 340,
-      "comments": 42,
-      "post_id": "t3_1n57u37",
-      "post_type": "link",
-      "domain": "kworb.net",
-      "author": "Jealous-Rich-3749",
-      "author_id": "t2_1becq6cpwu",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-08-31T22:20:16.138000+0000",
-      "content_href": "https://kworb.net/spotify/songs.html",
-      "content_preview": "",
-      "flair": [
-        "[NEWS]"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Ariana Grande teases an announcement: “see you next year…”",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n1hzhq/ariana_grande_teases_an_announcement_see_you_next/",
-      "score": 659,
-      "comments": 88,
-      "post_id": "t3_1n1hzhq",
-      "post_type": "link",
-      "domain": "instagram.com",
-      "author": "samross789",
-      "author_id": "t2_nin76",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-08-27T14:05:08.179000+0000",
-      "content_href": "https://www.instagram.com/reel/DN3Gvdo3NoK/?igsh=MXY0NmkyNWE4eGpjaA==",
-      "content_preview": "",
-      "flair": [
-        "[NEWS]"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "The Lil Nas X moment as a learning lesson for compassionate care",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n572n9/the_lil_nas_x_moment_as_a_learning_lesson_for/",
-      "score": 129,
-      "comments": 4,
-      "post_id": "t3_1n572n9",
-      "post_type": "link",
-      "domain": "fundmentalhealthcare.com",
-      "author": "greenhousecrtv",
-      "author_id": "t2_dz9aci0e",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-08-31T21:46:48.162000+0000",
-      "content_href": "https://www.fundmentalhealthcare.com/blog/the-lil-nas-x-moment-as-a-learning-lesson-for-compassionate-care",
-      "content_preview": "",
-      "flair": [
-        "[ARTICLE]"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/jwB9teGAQCgfq9Vrte6UAsedSZo9kyXNdtje-XrmVMY.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=43b99b450012042881401b60af9a14ed08b01c1d"
-    },
-    {
-      "title": "Rachel Platten to release Fight Song (Rachel's Version) on September 26, containing re-recorded songs, live recordings, and a \"surprise from the vault\"",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n50k2d/rachel_platten_to_release_fight_song_rachels/",
-      "score": 186,
-      "comments": 60,
-      "post_id": "t3_1n50k2d",
-      "post_type": "link",
-      "domain": "billboard.com",
-      "author": "shuipz94",
-      "author_id": "t2_fo9z1",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-08-31T17:24:49.834000+0000",
-      "content_href": "https://www.billboard.com/music/music-news/taylor-swift-rachel-platten-re-record-fight-song-1236051597/",
-      "content_preview": "",
-      "flair": [
-        "[NEWS]"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://external-preview.redd.it/HNOihIJhwLseGN24jcIJ9zUGrpDqG35YGjdqVq5Tehc.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=3613c24af68737198cef8b34469cb9b53e38f042",
+      "is_promoted": false
     },
     {
       "title": "Lil Nas X Hospitalized for Possible Overdose, Arrested for Battery of Police",
       "permalink": "https://www.reddit.com/r/popheads/comments/1mwmt1y/lil_nas_x_hospitalized_for_possible_overdose/",
-      "score": 1471,
+      "score": 1473,
       "comments": 177,
       "post_id": "t3_1mwmt1y",
       "post_type": "link",
@@ -664,173 +573,77 @@
       "flair": [
         "[SERIOUS]"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/rXcfRI-1IbIfyPcjWmDo5eMBk9d6AX2EGuYnKhatapM.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=ecae8e85a19683849823a7aab67ebef89b7a3df9"
+      "thumbnail_url": "https://external-preview.redd.it/rXcfRI-1IbIfyPcjWmDo5eMBk9d6AX2EGuYnKhatapM.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=ecae8e85a19683849823a7aab67ebef89b7a3df9",
+      "is_promoted": false
     },
     {
-      "title": "Taylor Swift unveils the \"The Life of a Showgirl\" album cover and tracklist",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1mpjl58/taylor_swift_unveils_the_the_life_of_a_showgirl/",
-      "score": 1334,
-      "comments": 812,
-      "post_id": "t3_1mpjl58",
+      "title": "Flowerovlove - I'm your first (Music Video)",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n90yw2/flowerovlove_im_your_first_music_video/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n90yw2",
       "post_type": "link",
-      "domain": "instagram.com",
-      "author": "Impossible_Vast9846",
-      "author_id": "t2_veh54cj0",
+      "domain": "youtu.be",
+      "author": "anonymousgoose64",
+      "author_id": "t2_edl4kz2f",
       "subreddit_id": "t5_39nwj",
       "subreddit": "r/popheads",
-      "created_ts": "2025-08-13T23:01:09.094000+0000",
-      "content_href": "https://www.instagram.com/p/DNUBdFRh7CY/?igsh=YTE1b3djc3hyZ2Zi",
-      "content_preview": "",
-      "flair": [
-        "[NEWS]"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_8m10py/styles/profileIcon_798j3cj3v82e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=efe94dc9b5cf6baba4e912e448f33cfb83693151"
-    },
-    {
-      "title": "Stray Kids Earn Seventh No. 1 on Billboard 200 With ‘KARMA’",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n52zkn/stray_kids_earn_seventh_no_1_on_billboard_200/",
-      "score": 133,
-      "comments": 57,
-      "post_id": "t3_1n52zkn",
-      "post_type": "link",
-      "domain": "billboard.com",
-      "author": "mcfw31",
-      "author_id": "t2_17bmi8",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-08-31T19:01:13.118000+0000",
-      "content_href": "https://www.billboard.com/music/chart-beat/stray-kids-karma-seventh-number-one-album-billboard-200-1236055754/",
-      "content_preview": "",
-      "flair": [
-        "[CHART]"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/AjnJ7OdIJ0cHjQ1AG0DKQqtixe-pcOORIOQbkzt2aGM.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=2e5f8974f33c362161e6cd0e75a0ec65c027db24"
-    },
-    {
-      "title": "Sabrina Carpenter - Man's Best Friend MEGATHREAD",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n2ip0i/sabrina_carpenter_mans_best_friend_megathread/",
-      "score": 660,
-      "comments": 2779,
-      "post_id": "t3_1n2ip0i",
-      "post_type": "multi_media",
-      "domain": "self.popheads",
-      "author": "flopheadsbot",
-      "author_id": "t2_x4ijnsoxs",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-08-28T17:32:26.515000+0000",
-      "content_href": "https://www.reddit.com/r/popheads/comments/1n2ip0i/sabrina_carpenter_mans_best_friend_megathread/",
-      "content_preview": "",
-      "flair": [
-        "[MEGATHREAD]"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_b6dbs6/styles/profileIcon_35csic4y53rc1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2fbddaf23f781c62c33afccce86a0d28a91753c5"
-    },
-    {
-      "title": "CHAEYOUNG (TWICE) - AVOCADO (ft. Gliiico)",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n4yosl/chaeyoung_twice_avocado_ft_gliiico/",
-      "score": 121,
-      "comments": 12,
-      "post_id": "t3_1n4yosl",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "FunLilThrowawayAcct",
-      "author_id": "t2_3jr6hduc",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-08-31T16:10:01.272000+0000",
-      "content_href": "https://www.youtube.com/watch?v=NlHD4ndO-z0",
+      "created_ts": "2025-09-05T09:52:23.689000+0000",
+      "content_href": "https://youtu.be/ZeAPAlpGVKY?si=68UWL7T-uB8zuSmx",
       "content_preview": "",
       "flair": [
         "[FRESH VIDEO]"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6jw098/styles/profileIcon_x8u18h7nkrmf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1096ce497d7a26d5b0c7767232c3172b53d49a5a",
+      "is_promoted": false
     },
     {
-      "title": "Jessie Reyez announces official release date for \"Ocean\" with Calvin Harris out on Friday",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n69fvl/jessie_reyez_announces_official_release_date_for/",
-      "score": 8,
-      "comments": 2,
-      "post_id": "t3_1n69fvl",
+      "title": "Charli XCX to Contribute Original Songs to New Wuthering Heights Movie",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n7qy7f/charli_xcx_to_contribute_original_songs_to_new/",
+      "score": 644,
+      "comments": 114,
+      "post_id": "t3_1n7qy7f",
       "post_type": "link",
-      "domain": "instagram.com",
-      "author": "droobidoobidoo",
-      "author_id": "t2_9gfsfzp9",
+      "domain": "pitchfork.com",
+      "author": "Frajer",
+      "author_id": "t2_61598",
       "subreddit_id": "t5_39nwj",
       "subreddit": "r/popheads",
-      "created_ts": "2025-09-02T03:48:44.619000+0000",
-      "content_href": "https://www.instagram.com/reel/DOEcdcGEs6J",
+      "created_ts": "2025-09-03T21:04:13.465000+0000",
+      "content_href": "https://pitchfork.com/news/charli-xcx-to-contribute-original-songs-to-new-wuthering-heights-movie/",
       "content_preview": "",
       "flair": [
         "[NEWS]"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://external-preview.redd.it/3noeIBF9J0R_AV6JqB4-eGln9BlywFVxtUQFGfXxg2s.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=6f4e81525a1e9ce83f993d0f617a63a4607785b2",
+      "is_promoted": false
     },
     {
-      "title": "Led by HUNTR/X’s ‘Golden’ at No. 1, ‘KPop Demon Hunters’ Becomes First Soundtrack With Four Simultaneous Hot 100 Top 10s",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1mzvqun/led_by_huntrxs_golden_at_no_1_kpop_demon_hunters/",
-      "score": 649,
-      "comments": 130,
-      "post_id": "t3_1mzvqun",
+      "title": "Sabrina Carpenter - Man's Best Friend",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n2r1mn/sabrina_carpenter_mans_best_friend/",
+      "score": 1354,
+      "comments": 970,
+      "post_id": "t3_1n2r1mn",
       "post_type": "link",
-      "domain": "billboard.com",
-      "author": "mcfw31",
-      "author_id": "t2_17bmi8",
+      "domain": "open.spotify.com",
+      "author": "FlareGod123",
+      "author_id": "t2_6e9yx3kq",
       "subreddit_id": "t5_39nwj",
       "subreddit": "r/popheads",
-      "created_ts": "2025-08-25T16:47:00.623000+0000",
-      "content_href": "https://www.billboard.com/lists/huntr-x-golden-hot-100-number-one-second-week/",
+      "created_ts": "2025-08-28T23:00:23.786000+0000",
+      "content_href": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop?si=eZvPFZi9TE-Mz1QEbURPig",
       "content_preview": "",
       "flair": [
-        "[CHART]"
+        "[FRESH ALBUM]"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/T3mTTG7TEJdnDzG143RvkZH1LgIdqjJ6zPaOXYRvfnE.jpeg?width=140&height=93&crop=140:93,smart&auto=webp&s=e860252b360ff66feba772c3fb59f1d1af19aa4d"
-    },
-    {
-      "title": "Top Ten Pop Ten - Dua Lipa",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n54otr/top_ten_pop_ten_dua_lipa/",
-      "score": 57,
-      "comments": 136,
-      "post_id": "t3_1n54otr",
-      "post_type": "multi_media",
-      "domain": "self.popheads",
-      "author": "Leixander",
-      "author_id": "t2_l36l5",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-08-31T20:08:54.411000+0000",
-      "content_href": "https://www.reddit.com/r/popheads/comments/1n54otr/top_ten_pop_ten_dua_lipa/",
-      "content_preview": "",
-      "flair": [
-        "[GAME]"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Top Ten Pop Ten - Our Top Ten The Cure Songs",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n54ojj/top_ten_pop_ten_our_top_ten_the_cure_songs/",
-      "score": 33,
-      "comments": 4,
-      "post_id": "t3_1n54ojj",
-      "post_type": "multi_media",
-      "domain": "self.popheads",
-      "author": "Leixander",
-      "author_id": "t2_l36l5",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-08-31T20:08:35.910000+0000",
-      "content_href": "https://www.reddit.com/r/popheads/comments/1n54ojj/top_ten_pop_ten_our_top_ten_the_cure_songs/",
-      "content_preview": "",
-      "flair": [
-        "[GAME]"
-      ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://external-preview.redd.it/NYyDtwUhIyfjGd_S8M0LhWh4C0lsTDQxIEPy0J_xiuQ.jpeg?width=140&height=140&crop=140:140,smart&auto=webp&s=62160734d8b7bda732c1317d8a148790b3a15500",
+      "is_promoted": false
     },
     {
       "title": "Lady Gaga announced as performer at the 2025 VMAs",
       "permalink": "https://www.reddit.com/r/popheads/comments/1n42gi0/lady_gaga_announced_as_performer_at_the_2025_vmas/",
-      "score": 611,
-      "comments": 32,
+      "score": 625,
+      "comments": 33,
       "post_id": "t3_1n42gi0",
       "post_type": "link",
       "domain": "instagram.com",
@@ -844,53 +657,159 @@
       "flair": [
         "[NEWS]"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "Carín León & Kacey Musgraves - Lost in Translation",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n692vk/carín_león_kacey_musgraves_lost_in_translation/",
-      "score": 8,
-      "comments": 5,
-      "post_id": "t3_1n692vk",
+      "title": "Powering the engine of modern business",
+      "permalink": "https://www.reddit.com/user/comcastbusiness/comments/1m34bxi/powering_the_engine_of_modern_business/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1m34bxi",
+      "post_type": "video",
+      "domain": "ad.doubleclick.net",
+      "author": "comcastbusiness",
+      "author_id": "t2_cwxs3m19",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-18T14:48:43.275000+0000",
+      "content_href": "https://v.redd.it/ww8gu4wttldf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4nohrz/styles/profileIcon_b22e7vgt39771.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=d2c36cd29c3a2c92e816fa019da83c47c012a2b9",
+      "is_promoted": true
+    },
+    {
+      "title": "Sabrina Carpenter announces new digital version of Man's Best Friend with bonus track \"Such A Funny Way\"",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n8harm/sabrina_carpenter_announces_new_digital_version/",
+      "score": 165,
+      "comments": 92,
+      "post_id": "t3_1n8harm",
       "post_type": "link",
-      "domain": "music.apple.com",
-      "author": "blankspacejrr",
-      "author_id": "t2_79pfwef5",
+      "domain": "instagram.com",
+      "author": "droobidoobidoo",
+      "author_id": "t2_9gfsfzp9",
       "subreddit_id": "t5_39nwj",
       "subreddit": "r/popheads",
-      "created_ts": "2025-09-02T03:29:44.150000+0000",
-      "content_href": "https://music.apple.com/us/album/lost-in-translation/1832081483?i=1832081484",
+      "created_ts": "2025-09-04T17:57:32.872000+0000",
+      "content_href": "https://www.instagram.com/p/DOMDJQGiVI8",
+      "content_preview": "",
+      "flair": [
+        "[NEWS]"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "The Last Dinner Party - The Scythe",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n8p80h/the_last_dinner_party_the_scythe/",
+      "score": 55,
+      "comments": 6,
+      "post_id": "t3_1n8p80h",
+      "post_type": "link",
+      "domain": "open.spotify.com",
+      "author": "Qualimiox",
+      "author_id": "t2_bm89y",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-04T23:11:12.108000+0000",
+      "content_href": "https://open.spotify.com/album/7LQYDVBV6XwJTZMuaQNwHn",
       "content_preview": "",
       "flair": [
         "[FRESH]"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
     },
     {
-      "title": "Fontaines D.C. - Desire (Official Music Video)",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n53fst/fontaines_dc_desire_official_music_video/",
-      "score": 23,
-      "comments": 4,
-      "post_id": "t3_1n53fst",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "orchidsviolets",
-      "author_id": "t2_2w0j470i",
+      "title": "What's your pick for most underrated pop album of the decade so far?",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n39o7m/whats_your_pick_for_most_underrated_pop_album_of/",
+      "score": 588,
+      "comments": 432,
+      "post_id": "t3_1n39o7m",
+      "post_type": "text",
+      "domain": "self.popheads",
+      "author": "Diakia",
+      "author_id": "t2_j7m39",
       "subreddit_id": "t5_39nwj",
       "subreddit": "r/popheads",
-      "created_ts": "2025-08-31T19:18:39.836000+0000",
-      "content_href": "https://www.youtube.com/watch?v=PQQbWOrKkWA",
+      "created_ts": "2025-08-29T14:56:32.765000+0000",
+      "content_href": "https://www.reddit.com/r/popheads/comments/1n39o7m/whats_your_pick_for_most_underrated_pop_album_of/",
+      "content_preview": "I was listening to Halsey's 2021 album, If I Can't Have Love I Want Power the other day and I was just thinking about how severely underrated this album is. The production from Nine Inch Nails is absolutely amazing, echoing Trent and Atticus' film scores in certain places (Bells in Santa Fe and I Am Not A Woman I'm a God feel ripped straight from The Social Network) and mixing a range of genres such as breakcore, trip-hop and shoegaze as well as some of Halsey's best writing ever.I personally found this album to be a breath of fresh air lyrically too, as so many pop albums not just from this decade but in general concern themselves with men and their troubles with men, and seem to find their empowerment through their relationship with men, but Halsey rejects the presence of men entirely on this album and I found it to be a very refreshing brand of empowerment in this Olivia Rodrigo/Sabrina Carpenter era of pop music focusing so much on the men in their lives.Just absolutely baffled at how underrated this album has been, and I was just wondering what other picks people might have for other pop albums that didn't get their flowers or flew under the radar?",
+      "flair": [
+        "[DISCUSSION]"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Taylor Swift unveils the \"The Life of a Showgirl\" album cover and tracklist",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1mpjl58/taylor_swift_unveils_the_the_life_of_a_showgirl/",
+      "score": 1336,
+      "comments": 809,
+      "post_id": "t3_1mpjl58",
+      "post_type": "link",
+      "domain": "instagram.com",
+      "author": "Impossible_Vast9846",
+      "author_id": "t2_veh54cj0",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-08-13T23:01:09.094000+0000",
+      "content_href": "https://www.instagram.com/p/DNUBdFRh7CY/?igsh=YTE1b3djc3hyZ2Zi",
+      "content_preview": "",
+      "flair": [
+        "[NEWS]"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8m10py/styles/profileIcon_798j3cj3v82e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=efe94dc9b5cf6baba4e912e448f33cfb83693151",
+      "is_promoted": false
+    },
+    {
+      "title": "Latto, Ice Spice - GYATT",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n8w39j/latto_ice_spice_gyatt/",
+      "score": 19,
+      "comments": 12,
+      "post_id": "t3_1n8w39j",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "MadMunnyBB",
+      "author_id": "t2_5gebey7a",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-05T04:45:04.401000+0000",
+      "content_href": "https://youtu.be/h1SdotpjkTU?si=SjqesWk7IJg6SnaB",
       "content_preview": "",
       "flair": [
         "[FRESH VIDEO]"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Andrew Lloyd Webber & Rachel Zegler - Rainbow High",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n90txd/andrew_lloyd_webber_rachel_zegler_rainbow_high/",
+      "score": 3,
+      "comments": 5,
+      "post_id": "t3_1n90txd",
+      "post_type": "link",
+      "domain": "music.apple.com",
+      "author": "No_Cauliflower_81",
+      "author_id": "t2_1nx1jw4q1j",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-05T09:43:44.721000+0000",
+      "content_href": "https://music.apple.com/album/rainbow-high-from-evita-single/1836508513",
+      "content_preview": "",
+      "flair": [
+        "[FRESH]"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
     },
     {
       "title": "Doja Cat - Jealous Type",
       "permalink": "https://www.reddit.com/r/popheads/comments/1mwrhow/doja_cat_jealous_type/",
-      "score": 1324,
-      "comments": 290,
+      "score": 1325,
+      "comments": 289,
       "post_id": "t3_1mwrhow",
       "post_type": "link",
       "domain": "youtu.be",
@@ -904,52 +823,53 @@
       "flair": [
         "[FRESH VIDEO]"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     },
     {
-      "title": "Teatime & Trending Topics - August 31, 2025",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n4zyab/teatime_trending_topics_august_31_2025/",
-      "score": 34,
-      "comments": 13,
-      "post_id": "t3_1n4zyab",
-      "post_type": "text",
-      "domain": "self.popheads",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_39nwj",
-      "subreddit": "r/popheads",
-      "created_ts": "2025-08-31T17:00:40.519000+0000",
-      "content_href": "https://www.reddit.com/r/popheads/comments/1n4zyab/teatime_trending_topics_august_31_2025/",
+      "title": "NEW Captain Morgan Sweet Chili Lime is unlike anything you've ever tasted before.",
+      "permalink": "https://www.reddit.com/user/CaptainMorganUS/comments/1mzz7s7/new_captain_morgan_sweet_chili_lime_is_unlike/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mzz7s7",
+      "post_type": "video",
+      "domain": "productshop.captainmorgan.com",
+      "author": "CaptainMorganUS",
+      "author_id": "t2_3tmrb47g",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-25T18:54:34.714000+0000",
+      "content_href": "https://v.redd.it/4j13re0c86lf1",
       "content_preview": "",
-      "flair": [
-        "[DAILY]"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_23wjlx/styles/profileIcon_jdwluzu0fth81.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=f49cc22a5e8b70f733dfa8c99e1baf8c77fd866b",
+      "is_promoted": true
     },
     {
-      "title": "What's your pick for most underrated pop album of the decade so far?",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n39o7m/whats_your_pick_for_most_underrated_pop_album_of/",
-      "score": 580,
-      "comments": 427,
-      "post_id": "t3_1n39o7m",
-      "post_type": "text",
-      "domain": "self.popheads",
-      "author": "Diakia",
-      "author_id": "t2_j7m39",
+      "title": "Bruce Springsteen to release fabled electric version of 1982 album Nebraska",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n8lf2f/bruce_springsteen_to_release_fabled_electric/",
+      "score": 84,
+      "comments": 14,
+      "post_id": "t3_1n8lf2f",
+      "post_type": "link",
+      "domain": "theguardian.com",
+      "author": "shabuluba",
+      "author_id": "t2_7xj3xr",
       "subreddit_id": "t5_39nwj",
       "subreddit": "r/popheads",
-      "created_ts": "2025-08-29T14:56:32.765000+0000",
-      "content_href": "https://www.reddit.com/r/popheads/comments/1n39o7m/whats_your_pick_for_most_underrated_pop_album_of/",
+      "created_ts": "2025-09-04T20:35:10.552000+0000",
+      "content_href": "https://www.theguardian.com/music/2025/sep/04/bruce-springsteen-to-release-fabled-electric-version-of-1982-album-nebraska",
       "content_preview": "",
       "flair": [
-        "[DISCUSSION]"
+        "[NEWS]"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
     },
     {
       "title": "10 years ago, r/popheads was created",
       "permalink": "https://www.reddit.com/r/popheads/comments/1mwzags/10_years_ago_rpopheads_was_created/",
-      "score": 1320,
+      "score": 1321,
       "comments": 120,
       "post_id": "t3_1mwzags",
       "post_type": "text",
@@ -960,52 +880,511 @@
       "subreddit": "r/popheads",
       "created_ts": "2025-08-22T06:44:59.141000+0000",
       "content_href": "https://www.reddit.com/r/popheads/comments/1mwzags/10_years_ago_rpopheads_was_created/",
+      "content_preview": "This subreddit was created back on August 22, 2015, thanks to Carly Rae Jepsen’s album Emotion.Back at the time, there weren’t any places on Reddit where one could talk about pop music seriously, other than outside of charts in pop culture forums.Originally posted onr/indieheadswhen Emotion came out on its United States release date, August 21, 2015, it was taken down. The founder,u/kappyko, createdr/popheadsas a result, and today, as of typing this,r/popheadshas over 3.1 million membersDiscussion QuestionsWhen did you joinr/popheads? I joined in 2024.How did you find out about it? When I searched for popheads to get popheadscirclejerk, I clicked join because I really loved pop music.What were your favorite moments aboutr/popheads? My favorite moment was whenr/charlixcxwas reclaimed.Who are your top 5 favorite pop singers? Mine are (in no particular order) Taylor Swift, Marina, Lorde, Lana Del Rey, and Sabrina Carpenter.What is your favorite Emotion song? Mine is LA Hallucinations.",
+      "flair": [
+        "[ANNIVERSARY]"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Calvin Harris, Jessie Reyez - Ocean",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n8wzu6/calvin_harris_jessie_reyez_ocean/",
+      "score": 15,
+      "comments": 7,
+      "post_id": "t3_1n8wzu6",
+      "post_type": "link",
+      "domain": "open.spotify.com",
+      "author": "christopher_aia",
+      "author_id": "t2_1i84blqf",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-05T05:37:32.862000+0000",
+      "content_href": "https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W?si=bf614bfc86424dc2",
+      "content_preview": "",
+      "flair": [
+        "[FRESH]"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_k0gfs/styles/profileIcon_0n064jqw6sef1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=998a592fc04838967098998f32eac171942d6d2c",
+      "is_promoted": false
+    },
+    {
+      "title": "Carly Rae Jepsen - More",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1mv4ka3/carly_rae_jepsen_more/",
+      "score": 1261,
+      "comments": 161,
+      "post_id": "t3_1mv4ka3",
+      "post_type": "link",
+      "domain": "open.spotify.com",
+      "author": "musthavecupcakes_19",
+      "author_id": "t2_en25uf2h",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-08-20T04:01:12.655000+0000",
+      "content_href": "https://open.spotify.com/album/7a7eZtOFUeT0mERt5CBW5f?si=gy70K5PdS26AgFI9yLGddg",
+      "content_preview": "",
+      "flair": [
+        "[FRESH]"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5gk0jp/styles/profileIcon_olbzd3bw58uc1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=570b1df81de6c72e735f0fbb34fae073e4a87419",
+      "is_promoted": false
+    },
+    {
+      "title": "Poppy - End of You (feat. Amy Lee, Courtney LaPlante)",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n8ko7p/poppy_end_of_you_feat_amy_lee_courtney_laplante/",
+      "score": 86,
+      "comments": 8,
+      "post_id": "t3_1n8ko7p",
+      "post_type": "link",
+      "domain": "open.spotify.com",
+      "author": "sunstaringg",
+      "author_id": "t2_bar4helz",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-04T20:06:13.990000+0000",
+      "content_href": "https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1?si=XyqleaV8Q_a1H6mQN41lqQ",
+      "content_preview": "",
+      "flair": [
+        "[FRESH]"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "15 years ago Katy Perry released Teenage Dream",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1my6n9s/15_years_ago_katy_perry_released_teenage_dream/",
+      "score": 1234,
+      "comments": 239,
+      "post_id": "t3_1my6n9s",
+      "post_type": "link",
+      "domain": "music.apple.com",
+      "author": "enburgi",
+      "author_id": "t2_yuzwc",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-08-23T16:55:20.352000+0000",
+      "content_href": "https://music.apple.com/br/album/teenage-dream/716340563?l=en-GB",
       "content_preview": "",
       "flair": [
         "[ANNIVERSARY]"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bawp5/styles/profileIcon_avi8j80jilbd1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5de5d3e59adb1d915e1fa77e0654bfa9751baa32",
+      "is_promoted": false
     },
     {
-      "title": "Spotify reveals their 2025 Songs of Summer",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n1hts7/spotify_reveals_their_2025_songs_of_summer/",
-      "score": 485,
-      "comments": 252,
-      "post_id": "t3_1n1hts7",
-      "post_type": "multi_media",
-      "domain": "self.popheads",
-      "author": "WelcomeImportant",
-      "author_id": "t2_8o0x1fhx",
+      "title": "UK OFFICIAL CHARTS: Chappell Roan debuts at No1 with ‘The Subway’",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1ml097w/uk_official_charts_chappell_roan_debuts_at_no1/",
+      "score": 1101,
+      "comments": 92,
+      "post_id": "t3_1ml097w",
+      "post_type": "link",
+      "domain": "officialcharts.com",
+      "author": "racloves",
+      "author_id": "t2_2dmy02lc",
       "subreddit_id": "t5_39nwj",
       "subreddit": "r/popheads",
-      "created_ts": "2025-08-27T13:59:13.817000+0000",
-      "content_href": "https://www.reddit.com/r/popheads/comments/1n1hts7/spotify_reveals_their_2025_songs_of_summer/",
+      "created_ts": "2025-08-08T16:43:10.137000+0000",
+      "content_href": "https://www.officialcharts.com/chart-news/chappell-roan-shuttles-straight-to-number-1-with-the-subway/",
       "content_preview": "",
       "flair": [
-        "[DISCUSSION]"
+        "[CHART]"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
-      "title": "Daily Discussion - August 31, 2025",
-      "permalink": "https://www.reddit.com/r/popheads/comments/1n4vhlv/daily_discussion_august_31_2025/",
-      "score": 16,
-      "comments": 185,
-      "post_id": "t3_1n4vhlv",
-      "post_type": "multi_media",
-      "domain": "self.popheads",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
+      "title": "Guinness is raising a pint to the fans who keep believing after every highlight, heartbreak, and hard-fought point this season. Because hope pours on.",
+      "permalink": "https://www.reddit.com/user/GuinnessUS/comments/1n0uto1/guinness_is_raising_a_pint_to_the_fans_who_keep/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n0uto1",
+      "post_type": "video",
+      "domain": "productshop.guinness.com",
+      "author": "GuinnessUS",
+      "author_id": "t2_v4fe4fsh",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-26T19:08:28.937000+0000",
+      "content_href": "https://v.redd.it/v1myhh3qfdlf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7mqyrg/styles/profileIcon_i5cv1so3ao8a1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=6363576c6f0aaa720e532fdda0270206a737272c",
+      "is_promoted": true
+    },
+    {
+      "title": "Perrie - Cute Aggression",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n8pkak/perrie_cute_aggression/",
+      "score": 41,
+      "comments": 6,
+      "post_id": "t3_1n8pkak",
+      "post_type": "link",
+      "domain": "open.spotify.com",
+      "author": "hekna02",
+      "author_id": "t2_ocz227kx",
       "subreddit_id": "t5_39nwj",
       "subreddit": "r/popheads",
-      "created_ts": "2025-08-31T14:01:35.709000+0000",
-      "content_href": "https://www.reddit.com/r/popheads/comments/1n4vhlv/daily_discussion_august_31_2025/",
+      "created_ts": "2025-09-04T23:26:01.288000+0000",
+      "content_href": "https://open.spotify.com/album/59JQH8iTAuKOo3EMzIkI66?si=cKWaNOAUTFibK9JIxC1uSQ&nd=1&utm_medium=organic&product=open&%24full_url=https%3A%2F%2Fopen.spotify.com%2Falbum%2F59JQH8iTAuKOo3EMzIkI66%3Fsi%3DcKWaNOAUTFibK9JIxC1uSQ&feature=organic&_branch_match_id=1492291811933235984&_branch_referrer=H4sIAAAAAAAAA7WN3wqCMByFn2ZeKmpJBRJSSSYlktGlbGvmcG3j50Z%2FLnr2NOgRggMHzsfHaY3R%2FcLzeq0Mb54u1toVXHbeUoO6WGpipZl0UDBprBC1BRG3o4LCBAXpkBG7P5uq2zBhQezY0%2Fmu3M54ldi8UOFm%2F8q6LIpQmPYchWuan%2FGhSE5Vykk%2B32WPlW%2BP5fcJC0Ew7f7%2FhoJIXgbqOw3DxgKLFVyx5NR5A2sYAJfXmoC69wziQjPAH08ANAMwAQAA",
       "content_preview": "",
       "flair": [
-        "[DAILY]"
+        "[FRESH]"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://external-preview.redd.it/d-rvJOd4UIBwf2-zxJ8gfdxFvfTodSZLQpFkieGhlPQ.jpeg?width=140&height=140&crop=140:140,smart&auto=webp&s=a863e4ffaa12c67bc98308f46e21598aeaca1d83",
+      "is_promoted": false
+    },
+    {
+      "title": "Cortisa Star - Fiend",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n90n1s/cortisa_star_fiend/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n90n1s",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "Disastrous_Wait_6611",
+      "author_id": "t2_e7571y9e",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-05T09:32:02.510000+0000",
+      "content_href": "https://youtu.be/MDeGD9q6SrM?si=LxSO7rJSnO3h8EOx",
+      "content_preview": "",
+      "flair": [
+        "[FRESH VIDEO]"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Lady Gaga - MAYHEM (with bonus tracks)",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n7j7a8/lady_gaga_mayhem_with_bonus_tracks/",
+      "score": 574,
+      "comments": 154,
+      "post_id": "t3_1n7j7a8",
+      "post_type": "link",
+      "domain": "music.apple.com",
+      "author": "masterofthemystics",
+      "author_id": "t2_12cm33zu",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-03T16:16:06.825000+0000",
+      "content_href": "https://music.apple.com/us/album/mayhem/1837310866",
+      "content_preview": "",
+      "flair": [
+        "[FRESH ALBUM]"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/mABtSk53bo3gK52zs--zTqec6rRUkFnLnsB034nOiLw.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=9d2aec6a2c6f62230481cef99bd0d145101728ff",
+      "is_promoted": false
+    },
+    {
+      "title": "Agnes - EGO",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n8oyvk/agnes_ego/",
+      "score": 37,
+      "comments": 8,
+      "post_id": "t3_1n8oyvk",
+      "post_type": "link",
+      "domain": "open.spotify.com",
+      "author": "hekna02",
+      "author_id": "t2_ocz227kx",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-04T23:00:27.240000+0000",
+      "content_href": "https://open.spotify.com/album/5YYgM8HfCKUsWkT4vwWmL8?si=5BoOi21uTKmP7J5lLmqxPA&nd=1&utm_medium=organic&product=open&%24full_url=https%3A%2F%2Fopen.spotify.com%2Falbum%2F5YYgM8HfCKUsWkT4vwWmL8%3Fsi%3D5BoOi21uTKmP7J5lLmqxPA&feature=organic&_branch_match_id=1492285017397309228&_branch_referrer=H4sIAAAAAAAAA7WN3wqCMByFn2ZeKmlWBBJWSPQHvTCiK5m26XBu67ct66ZnT4MeIThw4Hx8nMYYpZeep5U0jL5crJTLmWi9lQJ5s5WJpCLCQf6UWs4LCzxqRgUFMfKTISN2f3Ylu2HCvLRjh9drfVrs6OZw1pc2nz76S3dcoCDRDAXbcC1T5k9sfuiy%2BT7kx%2B7%2BzOLvE%2Ba8xFX7%2Fzfkz8RtoBOHEmwskEhCjQWrnDcQSgCYqIsSZK8JRKkigD9UM5XvMAEAAA%3D%3D",
+      "content_preview": "",
+      "flair": [
+        "[FRESH]"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/mKBSAc8y94qxf3M59HaK10vmMTDaFp-h5f8Ukx4CQBo.jpeg?width=140&height=140&crop=140:140,smart&auto=webp&s=ff46d239df8431890be82193d37915292f05b3cd",
+      "is_promoted": false
+    },
+    {
+      "title": "DAY6 - The DECADE",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n90ixc/day6_the_decade/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n90ixc",
+      "post_type": "link",
+      "domain": "open.spotify.com",
+      "author": "joesen_one",
+      "author_id": "t2_32225ibc",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-05T09:24:40.969000+0000",
+      "content_href": "https://open.spotify.com/album/6X6qxxLabrBzjZZwnUGAiv?si=LOaWKjNZSRigVotyqwfDrA",
+      "content_preview": "",
+      "flair": [
+        "[FRESH ALBUM]"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/vU1QMoFxQvjepkT4ExF7o7hMukC6DbFXQBdzflfDJf0.jpeg?width=140&height=140&crop=140:140,smart&auto=webp&s=ece19bb17fb8bcfbe1770bf043d69ff5ed9a3eb4",
+      "is_promoted": false
+    },
+    {
+      "title": "DAY6 - INSIDE OUT",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n90775/day6_inside_out/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n90775",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "joesen_one",
+      "author_id": "t2_32225ibc",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-05T09:04:11.256000+0000",
+      "content_href": "https://www.youtube.com/watch?v=-N-pmPKS-bE",
+      "content_preview": "",
+      "flair": [
+        "[FRESH VIDEO]"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Halsey goes back to the badlands: \"I guess I haven't learned my damn lesson.\"",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n8d2cd/halsey_goes_back_to_the_badlands_i_guess_i_havent/",
+      "score": 143,
+      "comments": 26,
+      "post_id": "t3_1n8d2cd",
+      "post_type": "link",
+      "domain": "rollingstone.com",
+      "author": "springtimecarnivore",
+      "author_id": "t2_igxml5m3u",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-04T15:19:03.023000+0000",
+      "content_href": "http://rollingstone.com/music/music-features/halsey-badlands-anniversary-tour-interview-1235412996",
+      "content_preview": "",
+      "flair": [
+        "[INTERVIEW]"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Lady Gaga - The Dead Dance",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n77z9p/lady_gaga_the_dead_dance/",
+      "score": 551,
+      "comments": 182,
+      "post_id": "t3_1n77z9p",
+      "post_type": "link",
+      "domain": "music.apple.com",
+      "author": "goodestzombieboy",
+      "author_id": "t2_1ukfax0ft0",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-03T07:04:23.074000+0000",
+      "content_href": "https://music.apple.com/hr/album/the-dead-dance-single/1837298856?l=hr",
+      "content_preview": "",
+      "flair": [
+        "[FRESH]"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/Vr0yIRv69tKo9yTM6Ue6uFaO97h7MMcZ5Evl06CLO3Q.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=74a1325452203f5eea765849286f0f0f3e16d67d",
+      "is_promoted": false
+    },
+    {
+      "title": "Maybe Kevin should leave his r/Showerthoughts where he found them and stick to credit advice.",
+      "permalink": "https://www.reddit.com/user/Chase/comments/1mun094/maybe_kevin_should_leave_his_rshowerthoughts/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mun094",
+      "post_type": "video",
+      "domain": "chase.com",
+      "author": "Chase",
+      "author_id": "t2_1mn79c07m3",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-19T16:15:55.849000+0000",
+      "content_href": "https://v.redd.it/derrgb7kmyjf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_e3trv1/styles/profileIcon_a69hi6t3f6kf1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=2f741deeff417764238035f26d707b72fd5dcdd0",
+      "is_promoted": true
+    },
+    {
+      "title": "Fifth Harmony's website teases their comeback: \"coming soon\"",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n5e6u9/fifth_harmonys_website_teases_their_comeback/",
+      "score": 527,
+      "comments": 203,
+      "post_id": "t3_1n5e6u9",
+      "post_type": "link",
+      "domain": "fifthharmony.com",
+      "author": "Impossible_Vast9846",
+      "author_id": "t2_veh54cj0",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-01T03:32:42.356000+0000",
+      "content_href": "https://fifthharmony.com",
+      "content_preview": "",
+      "flair": [
+        "[🚨POP EMERGENCY🚨]"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8m10py/styles/profileIcon_798j3cj3v82e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=efe94dc9b5cf6baba4e912e448f33cfb83693151",
+      "is_promoted": false
+    },
+    {
+      "title": "Fujii Kaze - Prema",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n8znlc/fujii_kaze_prema/",
+      "score": 4,
+      "comments": 1,
+      "post_id": "t3_1n8znlc",
+      "post_type": "link",
+      "domain": "open.spotify.com",
+      "author": "moopeu",
+      "author_id": "t2_16n69x",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-05T08:28:07.443000+0000",
+      "content_href": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9?si=3zXkVmZmTCuqnNWioQlc0w",
+      "content_preview": "",
+      "flair": [
+        "[FRESH ALBUM]"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/rUFnxyBLTVfFh434hEDt4mE_ygddVQ_koa47csqhv94.jpeg?width=140&height=140&crop=140:140,smart&auto=webp&s=3c28af56b9970e2bcf4cc3e5b2da3a035fa8d139",
+      "is_promoted": false
+    },
+    {
+      "title": "flowerovlove - I’m your first",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n8u8dw/flowerovlove_im_your_first/",
+      "score": 15,
+      "comments": 5,
+      "post_id": "t3_1n8u8dw",
+      "post_type": "link",
+      "domain": "music.apple.com",
+      "author": "enburgi",
+      "author_id": "t2_yuzwc",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-05T03:06:30.464000+0000",
+      "content_href": "https://music.apple.com/br/album/im-your-first-single/1834276940?l=en-GB",
+      "content_preview": "",
+      "flair": [
+        "[FRESH]"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bawp5/styles/profileIcon_avi8j80jilbd1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5de5d3e59adb1d915e1fa77e0654bfa9751baa32",
+      "is_promoted": false
+    },
+    {
+      "title": "RAYE - What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n8pf7w/raye_what_a_difference_a_day_makes_from_the/",
+      "score": 29,
+      "comments": 3,
+      "post_id": "t3_1n8pf7w",
+      "post_type": "link",
+      "domain": "open.spotify.com",
+      "author": "springtimecarnivore",
+      "author_id": "t2_igxml5m3u",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-04T23:19:58.039000+0000",
+      "content_href": "http://open.spotify.com/album/3GKIxiQ8p5H77TPsK2TZ0l",
+      "content_preview": "",
+      "flair": [
+        "[FRESH]"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Cardi B announces “The Courtroom Edition” of her upcoming album “Am I The Drama?”",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n7j8gr/cardi_b_announces_the_courtroom_edition_of_her/",
+      "score": 521,
+      "comments": 74,
+      "post_id": "t3_1n7j8gr",
+      "post_type": "link",
+      "domain": "instagram.com",
+      "author": "bntherapper",
+      "author_id": "t2_2c5axeaj",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-03T16:17:15.397000+0000",
+      "content_href": "https://www.instagram.com/reel/DOJWHrMjn-4/?igsh=eTJzYWFvdHIzajds",
+      "content_preview": "",
+      "flair": [
+        "[NEWS]"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "One year ago Doechii released her mixtape “Alligator Bites Never Heal”",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n489yk/one_year_ago_doechii_released_her_mixtape/",
+      "score": 495,
+      "comments": 42,
+      "post_id": "t3_1n489yk",
+      "post_type": "link",
+      "domain": "music.apple.com",
+      "author": "enburgi",
+      "author_id": "t2_yuzwc",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-08-30T18:04:44.014000+0000",
+      "content_href": "https://music.apple.com/br/album/alligator-bites-never-heal/1763934442?l=en-GB",
+      "content_preview": "",
+      "flair": [
+        "[ANNIVERSARY]"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bawp5/styles/profileIcon_avi8j80jilbd1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5de5d3e59adb1d915e1fa77e0654bfa9751baa32",
+      "is_promoted": false
+    },
+    {
+      "title": "Lilyisthatyou - PROFESSIONAL",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n8yza7/lilyisthatyou_professional/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n8yza7",
+      "post_type": "link",
+      "domain": "open.spotify.com",
+      "author": "smallbaby",
+      "author_id": "t2_1789n8",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-05T07:43:03.799000+0000",
+      "content_href": "https://open.spotify.com/track/5Q8bSGxROc03wT5JMBLgTm?si=QZZgcrc6Rr2yf9TSjYk1GA",
+      "content_preview": "",
+      "flair": [
+        "[FRESH]"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_16f0gq/styles/profileIcon_4ae2xmiq6i7a1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=aa5c7c0c0fca603800a9b08f6b912b5324fb110a",
+      "is_promoted": false
+    },
+    {
+      "title": "​​The Cocktail Collection. The secret to a perfect cocktail? Just pour and enjoy 7 classic cocktails pre-made with top-shelf spirits like Ketel One, Bulleit, and more.",
+      "permalink": "https://www.reddit.com/user/CocktailCollection/comments/1m2k7t7/the_cocktail_collection_the_secret_to_a_perfect/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1m2k7t7",
+      "post_type": "video",
+      "domain": "productshop.thecocktailcollection.com",
+      "author": "CocktailCollection",
+      "author_id": "t2_cb4p3199o",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-17T21:39:53.150000+0000",
+      "content_href": "https://v.redd.it/tf3c1hq9qgdf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_9d7hqr/styles/profileIcon_i0mu38swbsqb1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=86435d43cdaebfadfd5cefbc95fdd2cf12f71647",
+      "is_promoted": true
+    },
+    {
+      "title": "Big Thief - Double Infinity",
+      "permalink": "https://www.reddit.com/r/popheads/comments/1n8pavv/big_thief_double_infinity/",
+      "score": 28,
+      "comments": 4,
+      "post_id": "t3_1n8pavv",
+      "post_type": "link",
+      "domain": "music.apple.com",
+      "author": "glasgowgeg",
+      "author_id": "t2_n5gdu4l1",
+      "subreddit_id": "t5_39nwj",
+      "subreddit": "r/popheads",
+      "created_ts": "2025-09-04T23:14:38.420000+0000",
+      "content_href": "https://music.apple.com/gb/album/double-infinity/1813848690?ls",
+      "content_preview": "",
+      "flair": [
+        "[FRESH ALBUM]"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:06:19.557918"
+  "scraped_at": "2025-09-05T03:32:20.505734"
 }

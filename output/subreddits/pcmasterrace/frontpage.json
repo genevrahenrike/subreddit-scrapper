@@ -2,34 +2,169 @@
   "subreddit": "pcmasterrace",
   "url": "https://www.reddit.com/r/pcmasterrace",
   "meta": {
-    "title": "PC Master Race - PCMR: A place where all enthusiasts of PC, PC gaming and PC technology are welcome!"
+    "title": "PC Master Race - PCMR: A place where all enthusiasts of PC, PC gaming and PC technology are welcome!",
+    "description": "Welcome to the official subreddit of the PC Master Race / PCMR!\n\nAll PC-related content is welcome, including build help, tech support, and any doubt one might have about PC ownership.\n\nYou don't necessarily need a PC to be a member of the PCMR. You just have to love PCs. It's not about the hardware in your rig, but the software in your heart!\n\nJoin us in celebrating and promoting tech, knowledge, and the best gaming, study, and work platform there exists. The Personal Computer.",
+    "subscribers": 15831806,
+    "online_users": 879,
+    "created_timestamp": "2025-09-05T10:29:56.987000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Bookmarks",
+        "content": [
+          {
+            "text": "Twitter",
+            "url": "https://twitter.com/OfficialPCMR"
+          },
+          {
+            "text": "Facebook Page",
+            "url": "https://www.facebook.com/OfficialPCMasterRace"
+          },
+          {
+            "text": "Facebook Group",
+            "url": "https://www.facebook.com/groups/officialpcmr"
+          },
+          {
+            "text": "Steam Group",
+            "url": "https://steamcommunity.com/groups/steampcmasterrace"
+          },
+          {
+            "text": "Steam Curator",
+            "url": "https://store.steampowered.com/curator/4771848-r-pcmasterrace-Group/"
+          },
+          {
+            "text": "Discord",
+            "url": "https://discord.gg/pcmr"
+          },
+          {
+            "text": "Instagram",
+            "url": "https://www.instagram.com/pcmasterrace_official/"
+          },
+          {
+            "text": "Twitch",
+            "url": "https://www.twitch.tv/officialpcmasterrace"
+          },
+          {
+            "text": "YouTube",
+            "url": "https://www.youtube.com/channel/UCqpfJtpeBIV_nr7FH2xrPow?sub_confirmation=1"
+          },
+          {
+            "text": "Why PC?",
+            "url": "https://pcmasterrace.org/guide"
+          },
+          {
+            "text": "Builds",
+            "url": "https://pcmasterrace.org/builds"
+          },
+          {
+            "text": "History",
+            "url": "https://pcmasterrace.org/history"
+          },
+          {
+            "text": "Meet the PCMR Team",
+            "url": "https://pcmasterrace.org/our-team"
+          }
+        ]
+      },
+      {
+        "title": "r/pcmasterrace Rules",
+        "content": [
+          {
+            "text": "https://pcmasterrace.org/rules",
+            "url": "https://pcmasterrace.org/rules"
+          },
+          {
+            "text": "https://pcmasterrace.org/etiquette",
+            "url": "https://pcmasterrace.org/etiquette"
+          },
+          {
+            "text": "https://pcmasterrace.org/rules",
+            "url": "https://pcmasterrace.org/rules"
+          },
+          {
+            "text": "https://pcmasterrace.org/rules",
+            "url": "https://pcmasterrace.org/rules"
+          },
+          {
+            "text": "https://pcmasterrace.org/rules",
+            "url": "https://pcmasterrace.org/rules"
+          },
+          {
+            "text": "https://pcmasterrace.org/rules",
+            "url": "https://pcmasterrace.org/rules"
+          },
+          {
+            "text": "https://pcmasterrace.org/rules",
+            "url": "https://pcmasterrace.org/rules"
+          },
+          {
+            "text": "https://pcmasterrace.org/rules",
+            "url": "https://pcmasterrace.org/rules"
+          },
+          {
+            "text": "https://pcmasterrace.org/rules",
+            "url": "https://pcmasterrace.org/rules"
+          },
+          {
+            "text": "https://pcmasterrace.org/rules",
+            "url": "https://pcmasterrace.org/rules"
+          },
+          {
+            "text": "https://pcmasterrace.org/rules",
+            "url": "https://pcmasterrace.org/rules"
+          },
+          {
+            "text": "https://pcmasterrace.org/rules#giveaway-rules",
+            "url": "https://pcmasterrace.org/rules#giveaway-rules"
+          },
+          {
+            "text": "https://pcmasterrace.org/rules",
+            "url": "https://pcmasterrace.org/rules"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/pcmasterrace/moderators/"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "Samsung odyssey neo g8 issue",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n6fblr/samsung_odyssey_neo_g8_issue/",
-      "score": 2,
-      "comments": 1,
-      "post_id": "t3_1n6fblr",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "mido1_88",
-      "author_id": "t2_wo8f0lsm9",
+      "title": "1tb SSD or m.2 with at least 960 gb free",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n91lgq/1tb_ssd_or_m2_with_at_least_960_gb_free/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n91lgq",
+      "post_type": "text",
+      "domain": "self.pcmasterrace",
+      "author": "c2po",
+      "author_id": "t2_r5uro33",
       "subreddit_id": "t5_2sgp1",
       "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-02T09:56:09.682000+0000",
-      "content_href": "https://i.redd.it/nyvwcji25qmf1.jpeg",
-      "content_preview": "",
+      "created_ts": "2025-09-05T10:29:56.987000+0000",
+      "content_href": "https://www.reddit.com/r/pcmasterrace/comments/1n91lgq/1tb_ssd_or_m2_with_at_least_960_gb_free/",
+      "content_preview": "Hi, I'm in UK. Does anyone know of a 1tb SSD or nvme with at least 960gb free? I'm wanting to use it for an iso image that is 959gb in size. Ideally not more than £65. Thanks",
       "flair": [
         "Hardware"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "Fellow redditor send me a 1070 GPU and motherboard to my Internet Gaming Cafe in Yemen",
       "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n4z3cb/fellow_redditor_send_me_a_1070_gpu_and/",
-      "score": 76112,
-      "comments": 760,
+      "score": 79450,
+      "comments": 807,
       "post_id": "t3_1n4z3cb",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -43,153 +178,56 @@
       "flair": [
         "Members of the PCMR"
       ],
-      "thumbnail_url": "https://preview.redd.it/fellow-redditor-send-me-a-1070-gpu-and-motherboard-to-my-v0-knl9mressdmf1.jpeg?width=640&crop=smart&auto=webp&s=7aea2b0ac46d7ddc8369e30da409e36d8e34b76e"
+      "thumbnail_url": "https://preview.redd.it/fellow-redditor-send-me-a-1070-gpu-and-motherboard-to-my-v0-knl9mressdmf1.jpeg?width=640&crop=smart&auto=webp&s=7aea2b0ac46d7ddc8369e30da409e36d8e34b76e",
+      "is_promoted": false
     },
     {
-      "title": "Age verification legislation is tanking traffic to sites that comply, and rewarding those that don't",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n65638/age_verification_legislation_is_tanking_traffic/",
-      "score": 2238,
-      "comments": 123,
-      "post_id": "t3_1n65638",
-      "post_type": "link",
-      "domain": "pcgamer.com",
-      "author": "lkl34",
-      "author_id": "t2_r447n",
-      "subreddit_id": "t5_2sgp1",
-      "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-02T00:18:36.561000+0000",
-      "content_href": "https://www.pcgamer.com/hardware/age-verification-legislation-is-tanking-web-traffic-to-sites-that-comply-and-rewarding-those-that-dont/",
-      "content_preview": "",
-      "flair": [
-        "News/Article"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/o74D7nuUrlardJ1rbPHr1MjtvWXXrrJfwv6jFKpHqVk.png?width=140&height=78&crop=140:78,smart&auto=webp&s=21828874cb3968fe7b925d1833df06f4aad4b80d"
-    },
-    {
-      "title": "Is it cheating if I use a keyboard/mouse AND cat?",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n69d7q/is_it_cheating_if_i_use_a_keyboardmouse_and_cat/",
-      "score": 331,
-      "comments": 59,
-      "post_id": "t3_1n69d7q",
+      "title": "Forgot to buy a cpu cooler, will these thermal pads be enough to cool my 7700k?",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n8y5rg/forgot_to_buy_a_cpu_cooler_will_these_thermal/",
+      "score": 263,
+      "comments": 90,
+      "post_id": "t3_1n8y5rg",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "tau2pi_Math",
-      "author_id": "t2_6cfdcahy",
+      "author": "jbblocker",
+      "author_id": "t2_30z00ag7",
       "subreddit_id": "t5_2sgp1",
       "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-02T03:44:45.421000+0000",
-      "content_href": "https://i.redd.it/k2rbvtftaomf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Hardware"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_4x21n1/styles/profileIcon_zzbii376hkj71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c08ff1c1e3efb6cb5d99417caa286ad92f5706c3"
-    },
-    {
-      "title": "Me with 20 year old games",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1mgqdzj/me_with_20_year_old_games/",
-      "score": 54416,
-      "comments": 498,
-      "post_id": "t3_1mgqdzj",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "coast_lord",
-      "author_id": "t2_1rj0pqo7n4",
-      "subreddit_id": "t5_2sgp1",
-      "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-08-03T18:20:01.992000+0000",
-      "content_href": "https://i.redd.it/teopu5tmjugf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Hardware"
-      ],
-      "thumbnail_url": "https://preview.redd.it/me-with-20-year-old-games-v0-teopu5tmjugf1.jpeg?width=640&crop=smart&auto=webp&s=fc69aa194613be18d82a07059a72a54837dfd9de"
-    },
-    {
-      "title": "Steam hardware survey once again proving developers are completely out of touch with the hardware gamers actually possess",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n638tl/steam_hardware_survey_once_again_proving/",
-      "score": 2364,
-      "comments": 411,
-      "post_id": "t3_1n638tl",
-      "post_type": "multi_media",
-      "domain": "self.pcmasterrace",
-      "author": "Lewinator56",
-      "author_id": "t2_g5nwqg",
-      "subreddit_id": "t5_2sgp1",
-      "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-01T22:50:17.942000+0000",
-      "content_href": "https://www.reddit.com/r/pcmasterrace/comments/1n638tl/steam_hardware_survey_once_again_proving/",
-      "content_preview": "",
-      "flair": [
-        "Hardware"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Windows search bar",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n5m63k/windows_search_bar/",
-      "score": 50904,
-      "comments": 1094,
-      "post_id": "t3_1n5m63k",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Ambitious_Elevator57",
-      "author_id": "t2_172aozuhqk",
-      "subreddit_id": "t5_2sgp1",
-      "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-01T11:27:38.045000+0000",
-      "content_href": "https://i.redd.it/bsj436hfgjmf1.jpeg",
+      "created_ts": "2025-09-05T06:49:16.232000+0000",
+      "content_href": "https://i.redd.it/du4juschmanf1.jpeg",
       "content_preview": "",
       "flair": [
         "Meme/Macro"
       ],
-      "thumbnail_url": "https://preview.redd.it/windows-search-bar-v0-bsj436hfgjmf1.jpeg?width=640&crop=smart&auto=webp&s=e16bbdd0db19f78b68f5b815b7957ec8bb356d07"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_uxuh1/styles/profileIcon_xicqx2v9s8ob1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d53a66479abcd4f10f0750218d0a843a56d89c1b",
+      "is_promoted": false
     },
     {
-      "title": "Amazon sent me a used PSU. Should I still use it?",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n66w4a/amazon_sent_me_a_used_psu_should_i_still_use_it/",
-      "score": 1330,
-      "comments": 279,
-      "post_id": "t3_1n66w4a",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "PackDue",
-      "author_id": "t2_7yle31xj",
+      "title": "I'll take even the devil if he gives me some luck",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n8xfle/ill_take_even_the_devil_if_he_gives_me_some_luck/",
+      "score": 200,
+      "comments": 20,
+      "post_id": "t3_1n8xfle",
+      "post_type": "gif",
+      "domain": "i.redd.it",
+      "author": "ZR1Guy",
+      "author_id": "t2_1x51zlaosn",
       "subreddit_id": "t5_2sgp1",
       "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-02T01:41:23.676000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n66w4a",
+      "created_ts": "2025-09-05T06:03:55.537000+0000",
+      "content_href": "https://i.redd.it/yttk8ki5eanf1.gif",
       "content_preview": "",
       "flair": [
-        "Question"
+        "Meme/Macro"
       ],
-      "thumbnail_url": "https://preview.redd.it/amazon-sent-me-a-used-psu-should-i-still-use-it-v0-6l42ybdtonmf1.jpg?width=640&crop=smart&auto=webp&s=5b50ce8f7abc305df7a472710782b5e1ce577acc"
-    },
-    {
-      "title": "Sleep mode",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n6fbd7/sleep_mode/",
-      "score": 2,
-      "comments": 0,
-      "post_id": "t3_1n6fbd7",
-      "post_type": "text",
-      "domain": "self.pcmasterrace",
-      "author": "PriorVivid518",
-      "author_id": "t2_6i5jz747",
-      "subreddit_id": "t5_2sgp1",
-      "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-02T09:55:45.874000+0000",
-      "content_href": "https://www.reddit.com/r/pcmasterrace/comments/1n6fbd7/sleep_mode/",
-      "content_preview": "",
-      "flair": [
-        "Hardware"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_fcm7w7/styles/profileIcon_yuej651cl8nf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b4cc749bea997b39ecbad7f5b3cff332a8e11ef2",
+      "is_promoted": false
     },
     {
       "title": "NASA scientists built different",
       "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1mr9kju/nasa_scientists_built_different/",
-      "score": 50964,
-      "comments": 469,
+      "score": 51008,
+      "comments": 472,
       "post_id": "t3_1mr9kju",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -203,133 +241,117 @@
       "flair": [
         "Meme/Macro"
       ],
-      "thumbnail_url": "https://preview.redd.it/nasa-scientists-built-different-v0-1tjs7sqwu8jf1.jpeg?width=640&crop=smart&auto=webp&s=bfdff2eea55c9459361128b351e74c014f2c42fd"
+      "thumbnail_url": "https://preview.redd.it/nasa-scientists-built-different-v0-1tjs7sqwu8jf1.jpeg?width=640&crop=smart&auto=webp&s=bfdff2eea55c9459361128b351e74c014f2c42fd",
+      "is_promoted": false
     },
     {
-      "title": "didn't break the glass panel, but this distance feels illegal",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n5wzrh/didnt_break_the_glass_panel_but_this_distance/",
-      "score": 1585,
-      "comments": 45,
-      "post_id": "t3_1n5wzrh",
+      "title": "[Highlight] BACK-TO-BACK BRISCOE! Chase Briscoe does it again in the Southern 500!",
+      "permalink": "https://www.reddit.com/user/nascar/comments/1n6u5z3/highlight_backtoback_briscoe_chase_briscoe_does/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n6u5z3",
+      "post_type": "video",
+      "domain": "amazon.com",
+      "author": "nascar",
+      "author_id": "t2_395je",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-02T20:11:25.126000+0000",
+      "content_href": "https://v.redd.it/lslsb0pbprmf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_21i4ox/styles/profileIcon_3ks81botk2fc1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=0d8ba9223cd6e41e67b600b4a3c6b3f01fcaf707",
+      "is_promoted": true
+    },
+    {
+      "title": "How the graphics card market actually works",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n8hclf/how_the_graphics_card_market_actually_works/",
+      "score": 2623,
+      "comments": 116,
+      "post_id": "t3_1n8hclf",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "SasaleleBot",
-      "author_id": "t2_l1hr5p5q",
+      "author": "FreeBSDfan",
+      "author_id": "t2_iyjdd7hr",
       "subreddit_id": "t5_2sgp1",
       "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-01T18:41:47.416000+0000",
-      "content_href": "https://i.redd.it/bowun1byllmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Hardware"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_61ptjb/styles/profileIcon_hvh6p5r3wzhc1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7f78fa9ffe12d6a52f761b2957d9be2e48b5734b"
-    },
-    {
-      "title": "I put the tempered glass panel on the soft bed and it didnt shatter",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n3x2o0/i_put_the_tempered_glass_panel_on_the_soft_bed/",
-      "score": 40846,
-      "comments": 740,
-      "post_id": "t3_1n3x2o0",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Professional_Theory9",
-      "author_id": "t2_7hw1ps27",
-      "subreddit_id": "t5_2sgp1",
-      "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-08-30T09:11:24.843000+0000",
-      "content_href": "https://i.redd.it/jkm3n1ddi4mf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Hardware"
-      ],
-      "thumbnail_url": "https://preview.redd.it/i-put-the-tempered-glass-panel-on-the-soft-bed-and-it-didnt-v0-jkm3n1ddi4mf1.jpeg?width=640&crop=smart&auto=webp&s=398e93dcac378ef833be97a0af3f9cafd51a9484"
-    },
-    {
-      "title": "A Redditor donated a monitor for my pc built as my laptop is breaking apart",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n6atnu/a_redditor_donated_a_monitor_for_my_pc_built_as/",
-      "score": 233,
-      "comments": 26,
-      "post_id": "t3_1n6atnu",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "IndependentPension36",
-      "author_id": "t2_1evnfvurni",
-      "subreddit_id": "t5_2sgp1",
-      "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-02T05:06:30.031000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n6atnu",
-      "content_preview": "",
-      "flair": [
-        "Members of the PCMR"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_dl061h/styles/profileIcon_3lximaueokef1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e4a50afe0dcb39f199bcb0602f56ca7b9feabaec"
-    },
-    {
-      "title": "Reminder to check for dust regularly, especially when you have a dog in the house",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n6d6xn/reminder_to_check_for_dust_regularly_especially/",
-      "score": 129,
-      "comments": 124,
-      "post_id": "t3_1n6d6xn",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "deeptut",
-      "author_id": "t2_chxp80kkx",
-      "subreddit_id": "t5_2sgp1",
-      "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-02T07:35:38.521000+0000",
-      "content_href": "https://i.redd.it/8l6a4f5nfpmf1.png",
-      "content_preview": "",
-      "flair": [
-        "NSFMR"
-      ],
-      "thumbnail_url": "https://preview.redd.it/reminder-to-check-for-dust-regularly-especially-when-you-v0-8l6a4f5nfpmf1.png?width=640&crop=smart&auto=webp&s=2365584b46ae75f4d3590c96c3f06ffcf201eba0"
-    },
-    {
-      "title": "decided to clean my pc today",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n1g2z5/decided_to_clean_my_pc_today/",
-      "score": 28920,
-      "comments": 519,
-      "post_id": "t3_1n1g2z5",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Simple-Sandwich-7220",
-      "author_id": "t2_vgxubrvy",
-      "subreddit_id": "t5_2sgp1",
-      "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-08-27T12:47:30.184000+0000",
-      "content_href": "https://i.redd.it/ix10gfr66klf1.jpeg",
+      "created_ts": "2025-09-04T17:59:31.731000+0000",
+      "content_href": "https://i.redd.it/vqff7pc4t6nf1.png",
       "content_preview": "",
       "flair": [
         "Meme/Macro"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+      "thumbnail_url": "https://preview.redd.it/how-the-graphics-card-market-actually-works-v0-vqff7pc4t6nf1.png?width=640&crop=smart&auto=webp&s=51621a66f20cbaaeb3591383372eb84d2292d14c",
+      "is_promoted": false
     },
     {
-      "title": "Impulsive purchase",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n5x4rx/impulsive_purchase/",
-      "score": 1037,
-      "comments": 174,
-      "post_id": "t3_1n5x4rx",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Existing_Original_47",
-      "author_id": "t2_dffi3vw4",
+      "title": "Windows search bar",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n5m63k/windows_search_bar/",
+      "score": 56716,
+      "comments": 1165,
+      "post_id": "t3_1n5m63k",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Ambitious_Elevator57",
+      "author_id": "t2_172aozuhqk",
       "subreddit_id": "t5_2sgp1",
       "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-01T18:47:02.084000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5x4rx",
+      "created_ts": "2025-09-01T11:27:38.045000+0000",
+      "content_href": "https://i.redd.it/bsj436hfgjmf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Build/Battlestation"
+        "Meme/Macro"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://preview.redd.it/windows-search-bar-v0-bsj436hfgjmf1.jpeg?width=640&crop=smart&auto=webp&s=e16bbdd0db19f78b68f5b815b7957ec8bb356d07",
+      "is_promoted": false
+    },
+    {
+      "title": "Simple answer as to why Nvidia doesn’t care about gaming anymore",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n8qur0/simple_answer_as_to_why_nvidia_doesnt_care_about/",
+      "score": 705,
+      "comments": 261,
+      "post_id": "t3_1n8qur0",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "manan99",
+      "author_id": "t2_13sz6c",
+      "subreddit_id": "t5_2sgp1",
+      "subreddit": "r/pcmasterrace",
+      "created_ts": "2025-09-05T00:24:29.247000+0000",
+      "content_href": "https://i.redd.it/jx1gx6ztp8nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Discussion"
+      ],
+      "thumbnail_url": "https://preview.redd.it/simple-answer-as-to-why-nvidia-doesnt-care-about-gaming-v0-jx1gx6ztp8nf1.jpeg?width=640&crop=smart&auto=webp&s=5862310a42b519128bbd6807829b9746e1918405",
+      "is_promoted": false
+    },
+    {
+      "title": "Sound coming from PSU, dangerous?",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n91h81/sound_coming_from_psu_dangerous/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n91h81",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "SelfProclaimedArchon",
+      "author_id": "t2_dhuy4z47",
+      "subreddit_id": "t5_2sgp1",
+      "subreddit": "r/pcmasterrace",
+      "created_ts": "2025-09-05T10:23:04.977000+0000",
+      "content_href": "https://v.redd.it/8da2ly7kobnf1",
+      "content_preview": "",
+      "flair": [
+        "Hardware"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5hary5/styles/profileIcon_l5kd2dnet6581.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4a76ca6dd5037c1c3ce826559f3628de1bc9b310",
+      "is_promoted": false
     },
     {
       "title": "Be save to Save",
       "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1mjuk5z/be_save_to_save/",
-      "score": 46750,
-      "comments": 359,
+      "score": 46787,
+      "comments": 358,
       "post_id": "t3_1mjuk5z",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -343,93 +365,117 @@
       "flair": [
         "Meme/Macro"
       ],
-      "thumbnail_url": "https://preview.redd.it/be-save-to-save-v0-ihuk05l36khf1.jpeg?width=640&crop=smart&auto=webp&s=37d7296149941aa744b8e77ab2fdc2b0ddbf019f"
+      "thumbnail_url": "https://preview.redd.it/be-save-to-save-v0-ihuk05l36khf1.jpeg?width=640&crop=smart&auto=webp&s=37d7296149941aa744b8e77ab2fdc2b0ddbf019f",
+      "is_promoted": false
     },
     {
-      "title": "Upgrading from a gt740 and i5 2500",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n6f6cv/upgrading_from_a_gt740_and_i5_2500/",
-      "score": 1,
-      "comments": 2,
-      "post_id": "t3_1n6f6cv",
-      "post_type": "text",
-      "domain": "self.pcmasterrace",
-      "author": "Nova11215",
-      "author_id": "t2_udbhh9ee",
+      "title": "Alright, which one of you turned the fusion reactor into a PC?!",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n8xkh9/alright_which_one_of_you_turned_the_fusion/",
+      "score": 188,
+      "comments": 12,
+      "post_id": "t3_1n8xkh9",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "ZR1Guy",
+      "author_id": "t2_1x51zlaosn",
       "subreddit_id": "t5_2sgp1",
       "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-02T09:46:49.782000+0000",
-      "content_href": "https://www.reddit.com/r/pcmasterrace/comments/1n6f6cv/upgrading_from_a_gt740_and_i5_2500/",
+      "created_ts": "2025-09-05T06:12:18.756000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8xkh9",
       "content_preview": "",
       "flair": [
-        "Question"
+        "Build/Battlestation"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_fcm7w7/styles/profileIcon_yuej651cl8nf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b4cc749bea997b39ecbad7f5b3cff332a8e11ef2",
+      "is_promoted": false
     },
     {
-      "title": "Buying a gaming pc after many years years without. Seller wants $2500 for it. Is it worth the money? *specs under).",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n6f30v/buying_a_gaming_pc_after_many_years_years_without/",
+      "title": "I put the tempered glass panel on the soft bed and it didnt shatter",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n3x2o0/i_put_the_tempered_glass_panel_on_the_soft_bed/",
+      "score": 41502,
+      "comments": 743,
+      "post_id": "t3_1n3x2o0",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Professional_Theory9",
+      "author_id": "t2_7hw1ps27",
+      "subreddit_id": "t5_2sgp1",
+      "subreddit": "r/pcmasterrace",
+      "created_ts": "2025-08-30T09:11:24.843000+0000",
+      "content_href": "https://i.redd.it/jkm3n1ddi4mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Hardware"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i-put-the-tempered-glass-panel-on-the-soft-bed-and-it-didnt-v0-jkm3n1ddi4mf1.jpeg?width=640&crop=smart&auto=webp&s=398e93dcac378ef833be97a0af3f9cafd51a9484",
+      "is_promoted": false
+    },
+    {
+      "title": "Redditors, it's important to understand your treatment options. Talk to your doctor to see if KEYTRUDA may be right for you.",
+      "permalink": "https://www.reddit.com/user/keytruda/comments/1lwege9/redditors_its_important_to_understand_your/",
       "score": 0,
-      "comments": 11,
-      "post_id": "t3_1n6f30v",
-      "post_type": "text",
-      "domain": "self.pcmasterrace",
-      "author": "Inevitable-Jello-90",
-      "author_id": "t2_3xkd0sfc",
-      "subreddit_id": "t5_2sgp1",
-      "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-02T09:40:53.290000+0000",
-      "content_href": "https://www.reddit.com/r/pcmasterrace/comments/1n6f30v/buying_a_gaming_pc_after_many_years_years_without/",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "I'm new to PC gaming, but I have a question about using my xbox controller on it",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n6f2oo/im_new_to_pc_gaming_but_i_have_a_question_about/",
-      "score": 1,
       "comments": 0,
-      "post_id": "t3_1n6f2oo",
-      "post_type": "text",
-      "domain": "self.pcmasterrace",
-      "author": "k0fikaze",
-      "author_id": "t2_rdigoqc6i",
-      "subreddit_id": "t5_2sgp1",
-      "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-02T09:40:19.453000+0000",
-      "content_href": "https://www.reddit.com/r/pcmasterrace/comments/1n6f2oo/im_new_to_pc_gaming_but_i_have_a_question_about/",
-      "content_preview": "",
-      "flair": [
-        "Tech Support"
-      ],
-      "thumbnail_url": ""
+      "post_id": "t3_1lwege9",
+      "post_type": "video",
+      "domain": "keytruda.com",
+      "author": "keytruda",
+      "author_id": "t2_t9y4r6ww",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-10T14:40:56.179000+0000",
+      "content_href": "https://v.redd.it/3j3qp0g2p0cf1",
+      "content_preview": "Please click here for fullPrescribing Informationand click here forMed Guide.",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_76prev/styles/profileIcon_nx7j73qgq3ra1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=86d8f20f3b7545cfbe090f6e72dbebc543e5911f",
+      "is_promoted": true
     },
     {
-      "title": "The current state of No Man’s Sky VR (I’m the OP, the other video was copied)",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n5yusl/the_current_state_of_no_mans_sky_vr_im_the_op_the/",
-      "score": 717,
-      "comments": 58,
-      "post_id": "t3_1n5yusl",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "lunchanddinner",
-      "author_id": "t2_122x4m",
+      "title": "Bought some AM4 parts to upgrade my wife's PC. I only had an LGA1155 cooler. Welcome to Balkan computers.",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n8z2za/bought_some_am4_parts_to_upgrade_my_wifes_pc_i/",
+      "score": 356,
+      "comments": 49,
+      "post_id": "t3_1n8z2za",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "teostefan10",
+      "author_id": "t2_1067ws",
       "subreddit_id": "t5_2sgp1",
       "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-01T19:51:58.072000+0000",
-      "content_href": "https://v.redd.it/mw8mjpxfylmf1",
+      "created_ts": "2025-09-05T07:49:52.550000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8z2za",
       "content_preview": "",
       "flair": [
-        "Game Image/Video"
+        "Meme/Macro"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/the-current-state-of-no-mans-sky-vr-im-the-op-the-other-v0-cmQwam84bmZ5bG1mMbM1OwEzyG7NsTBa4dKUGhiADnSD4Igl5j7DYJM1zXod.png?width=640&crop=smart&format=pjpg&auto=webp&s=733f9aaaee6f2489ff06cb0d611630e952c4821f"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Just got a new gpu, how to test it?",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n8caa2/just_got_a_new_gpu_how_to_test_it/",
+      "score": 2003,
+      "comments": 191,
+      "post_id": "t3_1n8caa2",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "_FALLN_",
+      "author_id": "t2_1db098q1ab",
+      "subreddit_id": "t5_2sgp1",
+      "subreddit": "r/pcmasterrace",
+      "created_ts": "2025-09-04T14:50:05.165000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8caa2",
+      "content_preview": "",
+      "flair": [
+        "Hardware"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_cxs6az/styles/profileIcon_mkul3i4e167e1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e5336958979f2113acbfadfcfd07de307377fee1",
+      "is_promoted": false
     },
     {
       "title": "So this is what they mean when they say refurbished",
       "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n4d2xl/so_this_is_what_they_mean_when_they_say/",
-      "score": 27020,
-      "comments": 1249,
+      "score": 27715,
+      "comments": 1273,
       "post_id": "t3_1n4d2xl",
       "post_type": "video",
       "domain": "v.redd.it",
@@ -443,33 +489,35 @@
       "flair": [
         "Discussion"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_9tkyf0/styles/profileIcon_wru69fn7khlf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4bd9a7eb5d31c42deaa829d704a2d81fd7196b66"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_9tkyf0/styles/profileIcon_wru69fn7khlf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4bd9a7eb5d31c42deaa829d704a2d81fd7196b66",
+      "is_promoted": false
     },
     {
-      "title": "My little sister threw a stone at my new ROG Strix OLED monitor.... gg",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n1rluw/my_little_sister_threw_a_stone_at_my_new_rog/",
-      "score": 23531,
-      "comments": 2312,
-      "post_id": "t3_1n1rluw",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Tiny_Potential_7674",
-      "author_id": "t2_1bt8f127n3",
+      "title": "GTX 1080 Ti: old but gold",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n869aa/gtx_1080_ti_old_but_gold/",
+      "score": 4942,
+      "comments": 213,
+      "post_id": "t3_1n869aa",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Zestyclose-Salad-290",
+      "author_id": "t2_1ftcr7mjt8",
       "subreddit_id": "t5_2sgp1",
       "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-08-27T20:06:07.097000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n1rluw",
+      "created_ts": "2025-09-04T10:16:09.515000+0000",
+      "content_href": "https://v.redd.it/986vpkkei4nf1",
       "content_preview": "",
       "flair": [
-        "Hardware"
+        "Meme/Macro"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "https://external-preview.redd.it/gtx-1080-ti-old-but-gold-v0-YnpodGVsa2VpNG5mMd7Y6-ojifM5Abw5hCVlqMLzAXY-xZNQzglTWnuQsknK.png?format=pjpg&auto=webp&s=ba0bb189378954725c8665f63b748f91afa17a4a",
+      "is_promoted": false
     },
     {
       "title": "Good lord",
       "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1mtrjea/good_lord/",
-      "score": 46580,
-      "comments": 1861,
+      "score": 46606,
+      "comments": 1860,
       "post_id": "t3_1mtrjea",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -483,213 +531,159 @@
       "flair": [
         "Meme/Macro"
       ],
-      "thumbnail_url": "https://preview.redd.it/hluckcci5tjf1.jpeg?width=640&crop=smart&auto=webp&s=0814c00c5367d59bb29b1212db7a5cfc627a4c73"
+      "thumbnail_url": "https://preview.redd.it/hluckcci5tjf1.jpeg?width=640&crop=smart&auto=webp&s=0814c00c5367d59bb29b1212db7a5cfc627a4c73",
+      "is_promoted": false
     },
     {
-      "title": "\"Legality Is Not The Defining Factor\": Steam Censorship Campaign Details It Seeks Removal Of Games Whether Legal Or Not",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n671vd/legality_is_not_the_defining_factor_steam/",
-      "score": 946,
-      "comments": 165,
-      "post_id": "t3_1n671vd",
-      "post_type": "link",
-      "domain": "thegamer.com",
-      "author": "lkl34",
-      "author_id": "t2_r447n",
-      "subreddit_id": "t5_2sgp1",
-      "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-02T01:49:04.851000+0000",
-      "content_href": "https://www.thegamer.com/collective-shout-details-it-seeks-removal-of-games-whether-legal-or-not/",
-      "content_preview": "",
-      "flair": [
-        "News/Article"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/9UxnFbGCS6yTfF9EA8FZVgr1Pdj3s5KC_kQUEYQv9fo.jpeg?width=140&height=78&crop=140:78,smart&auto=webp&s=8475e86f4ecdf2ec783ab87e158d84ad032dc7d8"
-    },
-    {
-      "title": "I'm sorry but I rather place a CPU with a bent pin than a motherboard with a bent pin.",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n5q5ro/im_sorry_but_i_rather_place_a_cpu_with_a_bent_pin/",
-      "score": 1790,
-      "comments": 228,
-      "post_id": "t3_1n5q5ro",
+      "title": "How cooked",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n6g4la/how_cooked/",
+      "score": 25014,
+      "comments": 2789,
+      "post_id": "t3_1n6g4la",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "mattfreyer45",
-      "author_id": "t2_yti27",
+      "author": "Small_Elephant7693",
+      "author_id": "t2_1cqyq77igd",
       "subreddit_id": "t5_2sgp1",
       "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-01T14:27:08.771000+0000",
-      "content_href": "https://i.redd.it/xhxdysy1ckmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Meme/Macro"
-      ],
-      "thumbnail_url": "https://preview.redd.it/im-sorry-but-i-rather-place-a-cpu-with-a-bent-pin-than-a-v0-xhxdysy1ckmf1.jpeg?auto=webp&s=edcd2419831159697f9c4d10c35944e94faa256d"
-    },
-    {
-      "title": "What did I get for $100",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n5xqwc/what_did_i_get_for_100/",
-      "score": 505,
-      "comments": 184,
-      "post_id": "t3_1n5xqwc",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "2005_F250",
-      "author_id": "t2_ccev9vps",
-      "subreddit_id": "t5_2sgp1",
-      "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-01T19:09:38.120000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5xqwc",
-      "content_preview": "",
-      "flair": [
-        "Hardware"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_4kaahw/styles/profileIcon_chbhjxupg26a1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=bee7283cde573d12d4ebdc6339d29aaddaf5e902"
-    },
-    {
-      "title": "My attempt to clean my pc",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n07y01/my_attempt_to_clean_my_pc/",
-      "score": 17559,
-      "comments": 1341,
-      "post_id": "t3_1n07y01",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "cakechips",
-      "author_id": "t2_i7z4p9tu",
-      "subreddit_id": "t5_2sgp1",
-      "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-08-26T00:47:22.374000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n07y01",
+      "created_ts": "2025-09-02T10:44:10.645000+0000",
+      "content_href": "https://i.redd.it/7o0ooljedqmf1.jpeg",
       "content_preview": "",
       "flair": [
         "NSFMR"
       ],
-      "thumbnail_url": "https://preview.redd.it/my-attempt-to-clean-my-pc-v0-0uho2t7sg9lf1.jpg?width=640&crop=smart&auto=webp&s=85081d5e315976955d8f7a45b4d1b63214c78119"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "Case fan too close",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n6f0ol/case_fan_too_close/",
+      "title": "Rate this build",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n91esa/rate_this_build/",
       "score": 1,
-      "comments": 1,
-      "post_id": "t3_1n6f0ol",
+      "comments": 7,
+      "post_id": "t3_1n91esa",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "daxxy_1125",
-      "author_id": "t2_19kd428c",
+      "author": "Battlefield67",
+      "author_id": "t2_1wjfjqpkoj",
       "subreddit_id": "t5_2sgp1",
       "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-02T09:36:37.290000+0000",
-      "content_href": "https://i.redd.it/umbfuknl1qmf1.png",
+      "created_ts": "2025-09-05T10:19:05.690000+0000",
+      "content_href": "https://i.redd.it/i3jnjevwnbnf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Tech Support"
+        "Game Image/Video"
       ],
-      "thumbnail_url": "https://preview.redd.it/case-fan-too-close-v0-umbfuknl1qmf1.png?width=640&crop=smart&auto=webp&s=ed646350e11f74cfb16e9e064dcc8fb59d0b35f8"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     },
     {
-      "title": "After 2 years of saving as a Colombian 17 yo I’m finally able to build my first PC",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n5uo3k/after_2_years_of_saving_as_a_colombian_17_yo_im/",
-      "score": 567,
-      "comments": 83,
-      "post_id": "t3_1n5uo3k",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "noobyboi13",
-      "author_id": "t2_di4e9hx6",
-      "subreddit_id": "t5_2sgp1",
-      "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-01T17:16:48.142000+0000",
-      "content_href": "https://i.redd.it/4ph0oams6lmf1.jpeg",
+      "title": "Hank’s Frontier is at an impressive 160,000+ miles and still going strong. Got some impressive mileage as well? What’s your favorite trip you’ve taken in your car?",
+      "permalink": "https://www.reddit.com/user/NissanUSA/comments/1l8afa7/hanks_frontier_is_at_an_impressive_160000_miles/",
+      "score": 0,
+      "comments": 64,
+      "post_id": "t3_1l8afa7",
+      "post_type": "gallery",
+      "domain": "nissanusa.com",
+      "author": "NissanUSA",
+      "author_id": "t2_cmurd5rg",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-06-10T21:06:43.308000+0000",
+      "content_href": "https://www.nissanusa.com/vehicles/trucks/frontier.html",
       "content_preview": "",
-      "flair": [
-        "Box"
-      ],
-      "thumbnail_url": "https://preview.redd.it/after-2-years-of-saving-as-a-colombian-17-yo-im-finally-v0-4ph0oams6lmf1.jpeg?width=640&crop=smart&auto=webp&s=76e18c9daa7c501dc0506528b0a37241226ed648"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4krstx/styles/profileIcon_gsi6sb4qszc71.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=682588e67503663c9a36560b3583a35a083f6a37",
+      "is_promoted": true
     },
     {
-      "title": "TIL there were vertical CRT monitors in the 80s",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n62zq6/til_there_were_vertical_crt_monitors_in_the_80s/",
-      "score": 1326,
-      "comments": 55,
-      "post_id": "t3_1n62zq6",
+      "title": "Read a license agreement for the first time and was shocked at how I nearly got scammed",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n3e6y2/read_a_license_agreement_for_the_first_time_and/",
+      "score": 17351,
+      "comments": 109,
+      "post_id": "t3_1n3e6y2",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "_ILP_",
-      "author_id": "t2_yjq85",
+      "author": "Ok-Reflection-4560",
+      "author_id": "t2_8ekqi0an",
       "subreddit_id": "t5_2sgp1",
       "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-01T22:39:05.542000+0000",
-      "content_href": "https://i.redd.it/6nmclimasmmf1.jpeg",
+      "created_ts": "2025-08-29T17:47:26.723000+0000",
+      "content_href": "https://i.redd.it/9hh3faehxzlf1.png",
       "content_preview": "",
       "flair": [
-        "Hardware"
+        "Meme/Macro"
       ],
-      "thumbnail_url": "https://preview.redd.it/til-there-were-vertical-crt-monitors-in-the-80s-v0-6nmclimasmmf1.jpeg?width=640&crop=smart&auto=webp&s=eef930360d2458a1197cf1cf53fef804703cd88b"
+      "thumbnail_url": "https://preview.redd.it/read-a-license-agreement-for-the-first-time-and-was-shocked-v0-9hh3faehxzlf1.png?auto=webp&s=9a45e51dbd4980762776e2586b3f7ce0fe608659",
+      "is_promoted": false
     },
     {
-      "title": "Upgraded to a 3050 6gb, it really is a lifesaver for upgrading weak proprietary power supply OEM PCs !",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n622xe/upgraded_to_a_3050_6gb_it_really_is_a_lifesaver/",
-      "score": 159,
-      "comments": 33,
-      "post_id": "t3_1n622xe",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "smellypoophead59",
-      "author_id": "t2_17akbc",
+      "title": "Cup holder keeping the industry alive",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n87ve8/cup_holder_keeping_the_industry_alive/",
+      "score": 3457,
+      "comments": 148,
+      "post_id": "t3_1n87ve8",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "BeeMaster6271",
+      "author_id": "t2_1hjg4sdkrt",
       "subreddit_id": "t5_2sgp1",
       "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-01T21:59:58.467000+0000",
-      "content_href": "https://i.redd.it/lex4lkcblmmf1.jpeg",
+      "created_ts": "2025-09-04T11:45:10.438000+0000",
+      "content_href": "https://v.redd.it/3mbae04cy4nf1",
       "content_preview": "",
       "flair": [
-        "Hardware"
+        "Meme/Macro"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_16dklw/styles/profileIcon_fnysao5adeie1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=41e1ed9bcb99d04015f8584e95c47f7831a91bdf"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
-      "title": "My First PC",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n696qn/my_first_pc/",
-      "score": 55,
-      "comments": 9,
-      "post_id": "t3_1n696qn",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "DeweyCox25",
-      "author_id": "t2_83a70d5e",
+      "title": "POV: You Have a 5090, and Run a Game at Max Settings...",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n67h9i/pov_you_have_a_5090_and_run_a_game_at_max_settings/",
+      "score": 15590,
+      "comments": 343,
+      "post_id": "t3_1n67h9i",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Wolfs_Chronicles",
+      "author_id": "t2_1wb2wdc2ym",
       "subreddit_id": "t5_2sgp1",
       "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-02T03:35:17.770000+0000",
-      "content_href": "https://i.redd.it/lfn4xq059omf1.jpeg",
+      "created_ts": "2025-09-02T02:09:40.958000+0000",
+      "content_href": "https://v.redd.it/r2xite9vtnmf1",
       "content_preview": "",
       "flair": [
-        "Build/Battlestation"
+        "Meme/Macro"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f937q7/styles/profileIcon_1lkl71goutkf1.JPG?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8d53dd58849df2a2296365e0a4740c904b4f1855",
+      "is_promoted": false
     },
     {
-      "title": "is my aio mounted properly?",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n680za/is_my_aio_mounted_properly/",
-      "score": 57,
-      "comments": 44,
-      "post_id": "t3_1n680za",
+      "title": "Hollow Knight: Silksong just crashed Steam",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n8b0am/hollow_knight_silksong_just_crashed_steam/",
+      "score": 1869,
+      "comments": 141,
+      "post_id": "t3_1n8b0am",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "H34RTBR0KNN",
-      "author_id": "t2_16amli1glo",
+      "author": "Moth_LovesLamp",
+      "author_id": "t2_1r17ptg5vl",
       "subreddit_id": "t5_2sgp1",
       "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-02T02:36:50.209000+0000",
-      "content_href": "https://i.redd.it/qvu1s3mpynmf1.jpeg",
+      "created_ts": "2025-09-04T14:02:52.355000+0000",
+      "content_href": "https://i.redd.it/qqbpvrwvm5nf1.png",
       "content_preview": "",
       "flair": [
-        "Question"
+        "Discussion"
       ],
-      "thumbnail_url": "https://preview.redd.it/is-my-aio-mounted-properly-v0-qvu1s3mpynmf1.jpeg?width=640&crop=smart&auto=webp&s=d53d75b1374c379b88ba645745c4ad65de5e28e5"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_epncrh/styles/profileIcon_d27rkc12belf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=53d4c097045bb583bda44b33e3548db2c9fe3fa8",
+      "is_promoted": false
     },
     {
       "title": "I hope i reach this level of wealth one day",
       "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1mp4z09/i_hope_i_reach_this_level_of_wealth_one_day/",
-      "score": 46501,
-      "comments": 425,
+      "score": 46530,
+      "comments": 429,
       "post_id": "t3_1mp4z09",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -703,32 +697,74 @@
       "flair": [
         "Meme/Macro"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_f1sk5t/styles/profileIcon_jq9208wmwoif1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b9d1059a50be0e4bbe4249b93a4c16ab2905467a"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f1sk5t/styles/profileIcon_jq9208wmwoif1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b9d1059a50be0e4bbe4249b93a4c16ab2905467a",
+      "is_promoted": false
     },
     {
-      "title": "Need help / suggestion",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n6ezp4/need_help_suggestion/",
-      "score": 1,
-      "comments": 0,
-      "post_id": "t3_1n6ezp4",
-      "post_type": "text",
-      "domain": "self.pcmasterrace",
-      "author": "Apprehensive_Ask6007",
-      "author_id": "t2_axpk3gnc",
+      "title": "I use a bullet as my GPU sag bracket.",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n3vl2d/i_use_a_bullet_as_my_gpu_sag_bracket/",
+      "score": 15208,
+      "comments": 1285,
+      "post_id": "t3_1n3vl2d",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "WW2_Coll3ctor",
+      "author_id": "t2_6qa4kjtij",
       "subreddit_id": "t5_2sgp1",
       "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-02T09:34:50.051000+0000",
-      "content_href": "https://www.reddit.com/r/pcmasterrace/comments/1n6ezp4/need_help_suggestion/",
+      "created_ts": "2025-08-30T07:32:52.837000+0000",
+      "content_href": "https://i.redd.it/gh3j7bhs04mf1.jpeg",
       "content_preview": "",
       "flair": [
-        "Discussion"
+        "Hardware"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://preview.redd.it/i-use-a-bullet-as-my-gpu-sag-bracket-v0-gh3j7bhs04mf1.jpeg?width=640&crop=smart&auto=webp&s=2fd930b20b32acf276f2a5d049864825d2c99fe9",
+      "is_promoted": false
+    },
+    {
+      "title": "2K confirms layoffs at Civilization developer Firaxis",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n8g844/2k_confirms_layoffs_at_civilization_developer/",
+      "score": 931,
+      "comments": 82,
+      "post_id": "t3_1n8g844",
+      "post_type": "link",
+      "domain": "gamedeveloper.com",
+      "author": "Sam_27142317",
+      "author_id": "t2_1sb55rxno8",
+      "subreddit_id": "t5_2sgp1",
+      "subreddit": "r/pcmasterrace",
+      "created_ts": "2025-09-04T17:16:34.444000+0000",
+      "content_href": "https://www.gamedeveloper.com/business/2k-confirms-layoffs-at-civilization-developer-firaxis",
+      "content_preview": "",
+      "flair": [
+        "News/Article"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/55EgOLt7mJG4U6WE0l6j7hvkC0ZYbAId_V18BfDYzY8.jpeg?width=140&height=73&crop=140:73,smart&auto=webp&s=fe52bb6cb4ea9ad6b769c35db74e98718bd36030",
+      "is_promoted": false
+    },
+    {
+      "title": "You, your crew, and America's #1 Spiced Rum",
+      "permalink": "https://www.reddit.com/user/CaptainMorganUS/comments/1mzz6nw/you_your_crew_and_americas_1_spiced_rum/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mzz6nw",
+      "post_type": "video",
+      "domain": "productshop.captainmorgan.com",
+      "author": "CaptainMorganUS",
+      "author_id": "t2_3tmrb47g",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-25T18:53:21.021000+0000",
+      "content_href": "https://v.redd.it/7tz9o93486lf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_23wjlx/styles/profileIcon_jdwluzu0fth81.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=f49cc22a5e8b70f733dfa8c99e1baf8c77fd866b",
+      "is_promoted": true
     },
     {
       "title": "Its not that easy",
       "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1mx0xz0/its_not_that_easy/",
-      "score": 43515,
+      "score": 43535,
       "comments": 626,
       "post_id": "t3_1mx0xz0",
       "post_type": "image",
@@ -743,53 +779,14 @@
       "flair": [
         "Meme/Macro"
       ],
-      "thumbnail_url": "https://preview.redd.it/its-not-that-easy-v0-wkobas328jkf1.jpeg?width=640&crop=smart&auto=webp&s=780adba51e726b14fe51db819b8d57119c93adc8"
-    },
-    {
-      "title": "My new setup",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n6bg9m/my_new_setup/",
-      "score": 32,
-      "comments": 4,
-      "post_id": "t3_1n6bg9m",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Kind_Experience6594",
-      "author_id": "t2_18eo6mhmx6",
-      "subreddit_id": "t5_2sgp1",
-      "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-02T05:44:32.879000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n6bg9m",
-      "content_preview": "",
-      "flair": [
-        "Build/Battlestation"
-      ],
-      "thumbnail_url": "https://preview.redd.it/my-new-setup-v0-l9ydsm37womf1.jpg?width=640&crop=smart&auto=webp&s=e0371086c17a8f4d9a58d3177d988af0cdbdf31b"
-    },
-    {
-      "title": "Built my PC into an Ikea chest of draws unit (full pics)",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n5j2zp/built_my_pc_into_an_ikea_chest_of_draws_unit_full/",
-      "score": 1485,
-      "comments": 96,
-      "post_id": "t3_1n5j2zp",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "FreeZey78",
-      "author_id": "t2_4ghk3",
-      "subreddit_id": "t5_2sgp1",
-      "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-01T08:18:45.013000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5j2zp",
-      "content_preview": "",
-      "flair": [
-        "Build/Battlestation"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://preview.redd.it/its-not-that-easy-v0-wkobas328jkf1.jpeg?width=640&crop=smart&auto=webp&s=780adba51e726b14fe51db819b8d57119c93adc8",
+      "is_promoted": false
     },
     {
       "title": "Blue Screen of Drink",
       "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1msx7j7/blue_screen_of_drink/",
-      "score": 42252,
-      "comments": 422,
+      "score": 42276,
+      "comments": 423,
       "post_id": "t3_1msx7j7",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -803,113 +800,56 @@
       "flair": [
         "Meme/Macro"
       ],
-      "thumbnail_url": "https://preview.redd.it/blue-screen-of-drink-v0-7eeqq0rt8mjf1.jpeg?width=640&crop=smart&auto=webp&s=91cef0ee8daf934892b91b7df6041f9a764aabc1"
+      "thumbnail_url": "https://preview.redd.it/blue-screen-of-drink-v0-7eeqq0rt8mjf1.jpeg?width=640&crop=smart&auto=webp&s=91cef0ee8daf934892b91b7df6041f9a764aabc1",
+      "is_promoted": false
     },
     {
-      "title": "My poor, poor 1050 TI... how is it supposed to survive in this PC society?",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n63h33/my_poor_poor_1050_ti_how_is_it_supposed_to/",
-      "score": 80,
-      "comments": 149,
-      "post_id": "t3_1n63h33",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "TheLegendaryNikolai",
-      "author_id": "t2_okzpetkq8",
+      "title": "PCMR experience in a nutshell",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n8513c/pcmr_experience_in_a_nutshell/",
+      "score": 3810,
+      "comments": 231,
+      "post_id": "t3_1n8513c",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Brush_bandicoot",
+      "author_id": "t2_3xdbr6gf",
       "subreddit_id": "t5_2sgp1",
       "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-01T23:00:41.523000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n63h33",
+      "created_ts": "2025-09-04T09:00:24.495000+0000",
+      "content_href": "https://i.redd.it/e3hq5n3v44nf1.png",
       "content_preview": "",
       "flair": [
         "Meme/Macro"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_a3oycz/styles/profileIcon_oucbs5m7lqfe1.JPG?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1b6e887eec442f4bbfba0bf7933219a693d5572b"
+      "thumbnail_url": "https://preview.redd.it/pcmr-experience-in-a-nutshell-v0-e3hq5n3v44nf1.png?width=640&crop=smart&auto=webp&s=296c7aaec40dcc8c306437a9a831a4b9b5001f2d",
+      "is_promoted": false
     },
     {
-      "title": "Read a license agreement for the first time and was shocked at how I nearly got scammed",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n3e6y2/read_a_license_agreement_for_the_first_time_and/",
-      "score": 17104,
-      "comments": 106,
-      "post_id": "t3_1n3e6y2",
+      "title": "Well This Is Exciting",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n8bvq3/well_this_is_exciting/",
+      "score": 1178,
+      "comments": 484,
+      "post_id": "t3_1n8bvq3",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "Ok-Reflection-4560",
-      "author_id": "t2_8ekqi0an",
+      "author": "BedroomThink3121",
+      "author_id": "t2_c4hy72nm",
       "subreddit_id": "t5_2sgp1",
       "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-08-29T17:47:26.723000+0000",
-      "content_href": "https://i.redd.it/9hh3faehxzlf1.png",
+      "created_ts": "2025-09-04T14:34:41.960000+0000",
+      "content_href": "https://i.redd.it/686n30xls5nf1.png",
       "content_preview": "",
       "flair": [
-        "Meme/Macro"
+        "Rumor"
       ],
-      "thumbnail_url": "https://preview.redd.it/read-a-license-agreement-for-the-first-time-and-was-shocked-v0-9hh3faehxzlf1.png?auto=webp&s=9a45e51dbd4980762776e2586b3f7ce0fe608659"
-    },
-    {
-      "title": "Weird smell coming from PSU",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n6ez64/weird_smell_coming_from_psu/",
-      "score": 1,
-      "comments": 2,
-      "post_id": "t3_1n6ez64",
-      "post_type": "text",
-      "domain": "self.pcmasterrace",
-      "author": "ChrisisCross",
-      "author_id": "t2_j7sj4",
-      "subreddit_id": "t5_2sgp1",
-      "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-02T09:33:52.048000+0000",
-      "content_href": "https://www.reddit.com/r/pcmasterrace/comments/1n6ez64/weird_smell_coming_from_psu/",
-      "content_preview": "",
-      "flair": [
-        "Hardware"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "My daughter will join the PCMR for her 14th birthday",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n60gb5/my_daughter_will_join_the_pcmr_for_her_14th/",
-      "score": 111,
-      "comments": 16,
-      "post_id": "t3_1n60gb5",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "UnsignedLong",
-      "author_id": "t2_ibnn8",
-      "subreddit_id": "t5_2sgp1",
-      "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-01T20:54:21.142000+0000",
-      "content_href": "https://i.redd.it/t45gm7ul9mmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Box"
-      ],
-      "thumbnail_url": "https://preview.redd.it/my-daughter-will-join-the-pcmr-for-her-14th-birthday-v0-t45gm7ul9mmf1.jpeg?width=640&crop=smart&auto=webp&s=bcba7f916f5090e765a339cf2845eaac7e7c9cba"
-    },
-    {
-      "title": "I legit had a dream about this",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n64tiv/i_legit_had_a_dream_about_this/",
-      "score": 58,
-      "comments": 28,
-      "post_id": "t3_1n64tiv",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "SaladComfortable5878",
-      "author_id": "t2_sregwms7e",
-      "subreddit_id": "t5_2sgp1",
-      "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-02T00:02:02.933000+0000",
-      "content_href": "https://i.redd.it/kgbxiwe37nmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Discussion"
-      ],
-      "thumbnail_url": "https://preview.redd.it/i-legit-had-a-dream-about-this-v0-kgbxiwe37nmf1.jpeg?width=640&crop=smart&auto=webp&s=d5f3ed653263123bdd7e6eb57c4691c43587bbdc"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
       "title": "a disgusting cheater",
       "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1mx6agx/a_disgusting_cheater/",
-      "score": 39213,
-      "comments": 1848,
+      "score": 39221,
+      "comments": 1838,
       "post_id": "t3_1mx6agx",
       "post_type": "video",
       "domain": "v.redd.it",
@@ -923,88 +863,465 @@
       "flair": [
         "Video"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/a-disgusting-cheater-v0-eGd5OXBoZjJua2tmMWlFf168LQ54Ill7TbF7PjBUQySEuCgxT1Be2_zOmCtf.png?format=pjpg&auto=webp&s=dd19c0ca47eb08b5fa873a9136b0d04abe68ee4f"
+      "thumbnail_url": "https://external-preview.redd.it/a-disgusting-cheater-v0-eGd5OXBoZjJua2tmMWlFf168LQ54Ill7TbF7PjBUQySEuCgxT1Be2_zOmCtf.png?format=pjpg&auto=webp&s=dd19c0ca47eb08b5fa873a9136b0d04abe68ee4f",
+      "is_promoted": false
     },
     {
-      "title": "Built my GF a PC.",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n61ojt/built_my_gf_a_pc/",
-      "score": 85,
-      "comments": 24,
-      "post_id": "t3_1n61ojt",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "AlphaFPS1",
-      "author_id": "t2_7ms0w12q",
+      "title": "qualcuno può aiutarmi a togliere bolle d aria dal raffreddamento a liquido?",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n91edh/qualcuno_può_aiutarmi_a_togliere_bolle_d_aria_dal/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n91edh",
+      "post_type": "text",
+      "domain": "self.pcmasterrace",
+      "author": "Afraid-Emu-1918",
+      "author_id": "t2_nctgfxv6",
       "subreddit_id": "t5_2sgp1",
       "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-01T21:43:03.435000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n61ojt",
+      "created_ts": "2025-09-05T10:18:25.428000+0000",
+      "content_href": "https://www.reddit.com/r/pcmasterrace/comments/1n91edh/qualcuno_pu%C3%B2_aiutarmi_a_togliere_bolle_d_aria_dal/",
+      "content_preview": "tempo fa mi era andato via ora è tornato lo stesso problema",
+      "flair": [
+        "Hardware"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6e7shy/styles/profileIcon_flxk1n6snubf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8ab085185c5e84d47160f83644b7209d43b4dc53",
+      "is_promoted": false
+    },
+    {
+      "title": "Has anyone tried the NOCTUA NH-L12S cooler on the COLORFUL CVN B850I GAMING FROZEN V14 motherboard?",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n916rx/has_anyone_tried_the_noctua_nhl12s_cooler_on_the/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n916rx",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Elegant_Estate4410",
+      "author_id": "t2_xupf953xr",
+      "subreddit_id": "t5_2sgp1",
+      "subreddit": "r/pcmasterrace",
+      "created_ts": "2025-09-05T10:06:00.008000+0000",
+      "content_href": "https://i.redd.it/sy6e6wg9lbnf1.png",
+      "content_preview": "",
+      "flair": [
+        "Hardware"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Stay away from server room",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1mojb9n/stay_away_from_server_room/",
+      "score": 38936,
+      "comments": 231,
+      "post_id": "t3_1mojb9n",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "redzy1337",
+      "author_id": "t2_2w61qhaw",
+      "subreddit_id": "t5_2sgp1",
+      "subreddit": "r/pcmasterrace",
+      "created_ts": "2025-08-12T20:02:53.015000+0000",
+      "content_href": "https://i.redd.it/80vvbtw6anif1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Meme/Macro"
+      ],
+      "thumbnail_url": "https://preview.redd.it/stay-away-from-server-room-v0-80vvbtw6anif1.jpeg?width=640&crop=smart&auto=webp&s=ff36eb173614729ce463b4d02db26c56ee0eb851",
+      "is_promoted": false
+    },
+    {
+      "title": "Hate it",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1mvsnu2/hate_it/",
+      "score": 37426,
+      "comments": 436,
+      "post_id": "t3_1mvsnu2",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Lias42O",
+      "author_id": "t2_858aydqw",
+      "subreddit_id": "t5_2sgp1",
+      "subreddit": "r/pcmasterrace",
+      "created_ts": "2025-08-20T21:56:16.811000+0000",
+      "content_href": "https://i.redd.it/9dtp4xspx8kf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Meme/Macro"
+      ],
+      "thumbnail_url": "https://preview.redd.it/9dtp4xspx8kf1.jpeg?width=640&crop=smart&auto=webp&s=c397ec1bd910f199eebc350b44797d40f1e0ac3e",
+      "is_promoted": false
+    },
+    {
+      "title": "Watch with best-in-class features like Enhanced 4K, Multiview, and apps.",
+      "permalink": "https://www.reddit.com/user/xfinity/comments/1molqua/watch_with_bestinclass_features_like_enhanced_4k/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1molqua",
+      "post_type": "image",
+      "domain": "xfinity.com",
+      "author": "xfinity",
+      "author_id": "t2_37d52nbn",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-12T21:34:17.323000+0000",
+      "content_href": "https://ad.doubleclick.net/ddm/trackclk/N8667.131843REDDITINC/B33824670.426686516;dc_trk_aid=619574388;dc_trk_cid=61649687;dc_lat=;dc_rdid={{ADVERTISING_ID}};tag_for_child_directed_treatment=;tfua=",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_12pjik/styles/profileIcon_erch4xb84a4c1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=b62b87784f0dd6ca772c6fc1b012e2bf9c425c52",
+      "is_promoted": true
+    },
+    {
+      "title": "(re-upload) My GPU Collection: NVIDIA & AMD(ATI)",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n6tcp4/reupload_my_gpu_collection_nvidia_amdati/",
+      "score": 13464,
+      "comments": 664,
+      "post_id": "t3_1n6tcp4",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "ornstein6990",
+      "author_id": "t2_3ubt364i",
+      "subreddit_id": "t5_2sgp1",
+      "subreddit": "r/pcmasterrace",
+      "created_ts": "2025-09-02T19:40:36.138000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n6tcp4",
+      "content_preview": "",
+      "flair": [
+        "Hardware"
+      ],
+      "thumbnail_url": "https://preview.redd.it/re-upload-my-gpu-collection-nvidia-amd-ati-v0-ssfe4pl71tmf1.jpg?width=640&crop=smart&auto=webp&s=de122f94a46f917f2eade2a66d97132a1990ce23",
+      "is_promoted": false
+    },
+    {
+      "title": "Pro tip: don’t let your pc fall off your desk",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n8jb81/pro_tip_dont_let_your_pc_fall_off_your_desk/",
+      "score": 469,
+      "comments": 414,
+      "post_id": "t3_1n8jb81",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Acceptable_Bunch_197",
+      "author_id": "t2_fn39mykm",
+      "subreddit_id": "t5_2sgp1",
+      "subreddit": "r/pcmasterrace",
+      "created_ts": "2025-09-04T19:13:49.360000+0000",
+      "content_href": "https://v.redd.it/yypfx2hb67nf1",
+      "content_preview": "",
+      "flair": [
+        "Story"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/pro-tip-dont-let-your-pc-fall-off-your-desk-v0-M2dxMW8yNGI2N25mMblLrOH4bLnjnqjfJfw3SeloFzq8iGGSzt9P-H7uMHUM.png?width=640&crop=smart&format=pjpg&auto=webp&s=1c37da5660b41c28561f1f8528eff48b67251eb0",
+      "is_promoted": false
+    },
+    {
+      "title": "They told me they rebooted it...",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n8keqe/they_told_me_they_rebooted_it/",
+      "score": 411,
+      "comments": 63,
+      "post_id": "t3_1n8keqe",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ignoredmonster",
+      "author_id": "t2_dy3z3",
+      "subreddit_id": "t5_2sgp1",
+      "subreddit": "r/pcmasterrace",
+      "created_ts": "2025-09-04T19:56:19.260000+0000",
+      "content_href": "https://i.redd.it/wehjm0gqd7nf1.png",
+      "content_preview": "",
+      "flair": [
+        "NSFMR"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "My mom always told me that I'm special",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n88em4/my_mom_always_told_me_that_im_special/",
+      "score": 1193,
+      "comments": 150,
+      "post_id": "t3_1n88em4",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Beacrox_",
+      "author_id": "t2_1cm24y4zs1",
+      "subreddit_id": "t5_2sgp1",
+      "subreddit": "r/pcmasterrace",
+      "created_ts": "2025-09-04T12:11:17.448000+0000",
+      "content_href": "https://i.redd.it/kgvqjomj25nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Hardware"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Steam please!! I need this",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n8bbij/steam_please_i_need_this/",
+      "score": 719,
+      "comments": 17,
+      "post_id": "t3_1n8bbij",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Anyatidus_",
+      "author_id": "t2_1wpwd7yoqj",
+      "subreddit_id": "t5_2sgp1",
+      "subreddit": "r/pcmasterrace",
+      "created_ts": "2025-09-04T14:13:30.303000+0000",
+      "content_href": "https://i.redd.it/cgnwkjvto5nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Meme/Macro"
+      ],
+      "thumbnail_url": "https://preview.redd.it/steam-please-i-need-this-v0-cgnwkjvto5nf1.jpeg?auto=webp&s=a22953ab3af0763b01455042253454ecaf9bc32c",
+      "is_promoted": false
+    },
+    {
+      "title": "Latest in cat proofing technology.",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n875im/latest_in_cat_proofing_technology/",
+      "score": 1242,
+      "comments": 102,
+      "post_id": "t3_1n875im",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "T1Earn",
+      "author_id": "t2_vkyk2ed9",
+      "subreddit_id": "t5_2sgp1",
+      "subreddit": "r/pcmasterrace",
+      "created_ts": "2025-09-04T11:06:48.832000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n875im",
+      "content_preview": "",
+      "flair": [
+        "Hardware"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7s1nxv/styles/profileIcon_r772b1i0lkae1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3b4e5911cb75e859ae8a7186dcc9d38a95975bda",
+      "is_promoted": false
+    },
+    {
+      "title": "HP Scammed Us: HP Omen 45L is the Worst Pre-Built We've Reviewed credit:GamersNexus",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n8sx1z/hp_scammed_us_hp_omen_45l_is_the_worst_prebuilt/",
+      "score": 66,
+      "comments": 23,
+      "post_id": "t3_1n8sx1z",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "lkl34",
+      "author_id": "t2_r447n",
+      "subreddit_id": "t5_2sgp1",
+      "subreddit": "r/pcmasterrace",
+      "created_ts": "2025-09-05T02:02:16.158000+0000",
+      "content_href": "https://www.youtube.com/watch?v=cS27ol07bSo",
+      "content_preview": "",
+      "flair": [
+        "Video"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Quit Earth. Break Free in Borderlands 4, coming September 12th.",
+      "permalink": "https://www.reddit.com/user/borderlands/comments/1n2pj43/quit_earth_break_free_in_borderlands_4_coming/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n2pj43",
+      "post_type": "video",
+      "domain": "borderlands.2k.com",
+      "author": "borderlands",
+      "author_id": "t2_2hhhgmro",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-28T21:56:20.866000+0000",
+      "content_href": "https://v.redd.it/bu8qs99hjslf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_vlycp/styles/profileIcon_jkr35ko8wn8f1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=d25e3b8a46af9b501b3dff1afd7670672a277f69",
+      "is_promoted": true
+    },
+    {
+      "title": "Pc for my study in Europe ! 1100€",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n915r9/pc_for_my_study_in_europe_1100/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1n915r9",
+      "post_type": "text",
+      "domain": "self.pcmasterrace",
+      "author": "Jspquoimettrevoila",
+      "author_id": "t2_10i4okdrfx",
+      "subreddit_id": "t5_2sgp1",
+      "subreddit": "r/pcmasterrace",
+      "created_ts": "2025-09-05T10:04:16.067000+0000",
+      "content_href": "https://www.reddit.com/r/pcmasterrace/comments/1n915r9/pc_for_my_study_in_europe_1100/",
+      "content_preview": "Hi! I’m looking for a PC for my studies (economics/literature, so I need fairly simple and common software). I’ve been very undecided for almost a week.My main criteria are: a nice screen display (avoid FHD if possible, for example), and good battery life. It should be 14 or 15 inches maximum, otherwise it’s difficult to transport. 😅I have a maximum budget of €1,100. I know it’s a lot and maybe not necessary for the use I’ll be making of it, but I just want something that will last a long time and is of good quality!I should point out that I live in EUROPE.So, thanks for the advice!",
+      "flair": [
+        "Hardware"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "You really can't",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1mrqzr8/you_really_cant/",
+      "score": 36910,
+      "comments": 1986,
+      "post_id": "t3_1mrqzr8",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "DreadLock_832",
+      "author_id": "t2_14sx83qzbe",
+      "subreddit_id": "t5_2sgp1",
+      "subreddit": "r/pcmasterrace",
+      "created_ts": "2025-08-16T10:07:49.925000+0000",
+      "content_href": "https://i.redd.it/f8c7iodovcjf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Meme/Macro"
+      ],
+      "thumbnail_url": "https://preview.redd.it/you-really-cant-v0-f8c7iodovcjf1.jpeg?width=640&crop=smart&auto=webp&s=68fbce7f444e6e5342c4f32778d379cff8e08572",
+      "is_promoted": false
+    },
+    {
+      "title": "Little Budget Build",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n8snl9/little_budget_build/",
+      "score": 67,
+      "comments": 10,
+      "post_id": "t3_1n8snl9",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Environmental_Two94",
+      "author_id": "t2_91xafn86",
+      "subreddit_id": "t5_2sgp1",
+      "subreddit": "r/pcmasterrace",
+      "created_ts": "2025-09-05T01:50:08.472000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8snl9",
       "content_preview": "",
       "flair": [
         "Build/Battlestation"
       ],
-      "thumbnail_url": "https://preview.redd.it/built-my-gf-a-pc-v0-flw725maimmf1.jpg?width=640&crop=smart&auto=webp&s=8ad3f47f1e842e2f7ed4c8e2fae3b1ff97e6cecc"
+      "thumbnail_url": "https://preview.redd.it/little-budget-build-v0-ajnk5yzw49nf1.jpg?width=640&crop=smart&auto=webp&s=60098faa980eda0c14e04f24998438710b9fe4e8",
+      "is_promoted": false
     },
     {
-      "title": "what are yall doing out here with half a gig of VRAM?",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n5kb3p/what_are_yall_doing_out_here_with_half_a_gig_of/",
-      "score": 555,
-      "comments": 147,
-      "post_id": "t3_1n5kb3p",
+      "title": "That's my new toy, I am so happy rn",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n8nrsz/thats_my_new_toy_i_am_so_happy_rn/",
+      "score": 99,
+      "comments": 17,
+      "post_id": "t3_1n8nrsz",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "Adept_Temporary8262",
-      "author_id": "t2_18j3t6mj4e",
+      "author": "adkanon",
+      "author_id": "t2_5fssjwp8",
       "subreddit_id": "t5_2sgp1",
       "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-01T09:38:12.413000+0000",
-      "content_href": "https://i.redd.it/l49ag7btwimf1.png",
+      "created_ts": "2025-09-04T22:09:18.399000+0000",
+      "content_href": "https://i.redd.it/8o0d2ojp18nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Hardware"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2xhf06/styles/profileIcon_9ln9ag06j1vb1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fcad1a2b125516b87b486fde225d10100b45c17b",
+      "is_promoted": false
+    },
+    {
+      "title": "35cm = 13.78in",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1my1qfk/35cm_1378in/",
+      "score": 34465,
+      "comments": 199,
+      "post_id": "t3_1my1qfk",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "kewlboy9",
+      "author_id": "t2_lryuscv",
+      "subreddit_id": "t5_2sgp1",
+      "subreddit": "r/pcmasterrace",
+      "created_ts": "2025-08-23T13:39:42.132000+0000",
+      "content_href": "https://i.redd.it/sk6uw2ruvrkf1.jpeg",
       "content_preview": "",
       "flair": [
         "Meme/Macro"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_cf6mkw/styles/profileIcon_e2be39coctdf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=bf8c38f74632c573feca00740302dd61a05bd5f4"
+      "thumbnail_url": "https://preview.redd.it/35cm-13-78in-v0-sk6uw2ruvrkf1.jpeg?width=640&crop=smart&auto=webp&s=44ccbf3ba64b96da93614667733932bb1f8af651",
+      "is_promoted": false
     },
     {
-      "title": "Don't forget to recycle your old ram",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n2oc5w/dont_forget_to_recycle_your_old_ram/",
-      "score": 15976,
-      "comments": 296,
-      "post_id": "t3_1n2oc5w",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "cerpmen7",
-      "author_id": "t2_159hghmeju",
-      "subreddit_id": "t5_2sgp1",
-      "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-08-28T21:08:12.269000+0000",
-      "content_href": "https://i.redd.it/vuh4wrjfstlf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "Meme/Macro"
-      ],
-      "thumbnail_url": "https://preview.redd.it/dont-forget-to-recycle-your-old-ram-v0-vuh4wrjfstlf1.jpeg?width=640&crop=smart&auto=webp&s=8bfbe69c4588d50a8f6ce6c49eff742ea0ffd318"
-    },
-    {
-      "title": "Would you recommend this pc",
-      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n6bzq5/would_you_recommend_this_pc/",
-      "score": 11,
-      "comments": 18,
-      "post_id": "t3_1n6bzq5",
+      "title": "I'm going to build my first pc",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n8wp6s/im_going_to_build_my_first_pc/",
+      "score": 246,
+      "comments": 47,
+      "post_id": "t3_1n8wp6s",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "_-The_Guy-_",
-      "author_id": "t2_9ondxyk3",
+      "author": "Al_Pachino_",
+      "author_id": "t2_w2rnby9m4",
       "subreddit_id": "t5_2sgp1",
       "subreddit": "r/pcmasterrace",
-      "created_ts": "2025-09-02T06:17:26.058000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n6bzq5",
+      "created_ts": "2025-09-05T05:20:15.055000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8wp6s",
       "content_preview": "",
       "flair": [
-        "Discussion"
+        "Build/Battlestation"
       ],
-      "thumbnail_url": "https://preview.redd.it/would-you-recommend-this-pc-v0-eq2btig22pmf1.jpg?width=640&crop=smart&auto=webp&s=293d291000fd962f0dba96ff9d519be939ff7ab1"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Can I hook up my GPU to the wall?",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n5frd4/can_i_hook_up_my_gpu_to_the_wall/",
+      "score": 12594,
+      "comments": 181,
+      "post_id": "t3_1n5frd4",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "krilu",
+      "author_id": "t2_x30id",
+      "subreddit_id": "t5_2sgp1",
+      "subreddit": "r/pcmasterrace",
+      "created_ts": "2025-09-01T04:57:10.641000+0000",
+      "content_href": "https://i.redd.it/km6ltq7uihmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "Meme/Macro"
+      ],
+      "thumbnail_url": "https://preview.redd.it/can-i-hook-up-my-gpu-to-the-wall-v0-km6ltq7uihmf1.jpeg?width=640&crop=smart&auto=webp&s=f36b6699fe3f721999cbf66ac31d3019036670dd",
+      "is_promoted": false
+    },
+    {
+      "title": "When you've got Lunchables in your backpack, walking into the cafeteria feels different.",
+      "permalink": "https://www.reddit.com/user/RealLunchables/comments/1mog2af/when_youve_got_lunchables_in_your_backpack/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mog2af",
+      "post_type": "video",
+      "domain": "lunchables.com",
+      "author": "RealLunchables",
+      "author_id": "t2_qgse50w7",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-12T18:03:47.947000+0000",
+      "content_href": "https://v.redd.it/uretv67f7lif1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6rkgwh/styles/profileIcon_uqbdoht6k8hd1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=1f8dff5d4ad11c1cfada50e0bda9b4733d0d833a",
+      "is_promoted": true
+    },
+    {
+      "title": "How do i make my windows 11 pc look like windows 7?",
+      "permalink": "https://www.reddit.com/r/pcmasterrace/comments/1n914fs/how_do_i_make_my_windows_11_pc_look_like_windows_7/",
+      "score": 1,
+      "comments": 2,
+      "post_id": "t3_1n914fs",
+      "post_type": "text",
+      "domain": "self.pcmasterrace",
+      "author": "MattiaLobrano",
+      "author_id": "t2_1emfpplm8c",
+      "subreddit_id": "t5_2sgp1",
+      "subreddit": "r/pcmasterrace",
+      "created_ts": "2025-09-05T10:02:04.648000+0000",
+      "content_href": "https://www.reddit.com/r/pcmasterrace/comments/1n914fs/how_do_i_make_my_windows_11_pc_look_like_windows_7/",
+      "content_preview": "i love the windows 7 look and feel and i just want to know if there is a way to make windows 11 look like windows 7 or windows 95. thanks!",
+      "flair": [
+        "Question"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:00:35.896593"
+  "scraped_at": "2025-09-05T03:30:59.726094"
 }

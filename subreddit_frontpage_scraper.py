@@ -46,7 +46,7 @@ class FPConfig:
     min_delay: float = 1.0
     max_delay: float = 2.0
     max_page_seconds: float = 75.0
-    max_attempts: int = 2
+    max_attempts: int = 3  # Increased from 2 to 3
     # Scrolling / loading behavior
     min_posts: int = 50
     max_scroll_loops: int = 80
@@ -56,6 +56,9 @@ class FPConfig:
     save_debug_html: bool = True
     # Promoted content handling
     include_promoted: bool = True  # Whether to include promoted/ad posts in results
+    # Enhanced error handling
+    retry_delay_base: float = 2.0  # Base delay for exponential backoff
+    retry_connection_errors: bool = True  # Retry on connection errors
 
 
 class SubredditFrontPageScraper:
@@ -162,6 +165,23 @@ class SubredditFrontPageScraper:
         start = time.monotonic()
         attempts = 0
         last_error = None
+        
+        def _is_retryable_error(error_str: str) -> bool:
+            """Check if error is worth retrying."""
+            retryable_patterns = [
+                "ERR_CONNECTION_REFUSED",
+                "ERR_CONNECTION_RESET", 
+                "ERR_NETWORK_CHANGED",
+                "ERR_INTERNET_DISCONNECTED",
+                "ERR_PROXY_CONNECTION_FAILED",
+                "TimeoutError",
+                "net::ERR_TIMED_OUT",
+                "503 Service Unavailable",
+                "502 Bad Gateway",
+                "504 Gateway Timeout"
+            ]
+            return any(pattern in error_str for pattern in retryable_patterns)
+        
         while attempts < self.config.max_attempts:
             attempts += 1
             try:
@@ -207,8 +227,26 @@ class SubredditFrontPageScraper:
             except Exception as e:
                 last_error = str(e)
                 elapsed = time.monotonic() - start
-                if elapsed >= self.config.max_page_seconds or attempts >= self.config.max_attempts:
+                
+                # Check if we should retry based on error type and time
+                should_retry = (
+                    attempts < self.config.max_attempts and
+                    elapsed < self.config.max_page_seconds and
+                    self.config.retry_connection_errors and
+                    _is_retryable_error(last_error)
+                )
+                
+                if not should_retry:
                     break
+                
+                # Exponential backoff with jitter
+                delay = self.config.retry_delay_base * (2 ** (attempts - 1))
+                delay += random.uniform(0, delay * 0.1)  # Add 10% jitter
+                delay = min(delay, 30.0)  # Cap at 30 seconds
+                
+                print(f"[retry] {sub_name} attempt {attempts}/{self.config.max_attempts} after {delay:.1f}s (error: {last_error[:100]})")
+                time.sleep(delay)
+                
                 # Recycle page and retry
                 try:
                     self._page.close()
@@ -753,7 +791,8 @@ def quick_demo(subs: List[str]):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Scrape subreddit front pages with Playwright and save JSON outputs.")
-    parser.add_argument("--subs", nargs="*", default=["r/funny", "r/AskReddit"], help="List of subreddit names or URLs (e.g., r/aww r/funny)")
+    parser.add_argument("--subs", nargs="*", help="List of subreddit names or URLs (e.g., r/aww r/funny)")
+    parser.add_argument("--file", type=str, help="File containing list of subreddit names (one per line)")
     parser.add_argument("--min-posts", type=int, default=50, help="Target number of posts to load before stopping")
     parser.add_argument("--headless", action="store_true", default=True, help="Run browser headless (default)")
     parser.add_argument("--no-headless", dest="headless", action="store_false", help="Run with visible browser window")
@@ -761,7 +800,23 @@ if __name__ == "__main__":
     parser.add_argument("--debug-html", action="store_true", help="Save a debug HTML snapshot when too few posts are found")
     parser.add_argument("--include-promoted", action="store_true", default=True, help="Include promoted/ad posts in results (default)")
     parser.add_argument("--exclude-promoted", dest="include_promoted", action="store_false", help="Exclude promoted/ad posts from results")
+    parser.add_argument("--overwrite", action="store_true", help="Re-scrape even if output already exists")
     args = parser.parse_args()
+
+    # Determine target subreddits
+    targets = []
+    if args.file:
+        try:
+            with open(args.file, 'r') as f:
+                targets = [line.strip() for line in f if line.strip() and not line.startswith('#')]
+            print(f"Loaded {len(targets)} subreddits from {args.file}")
+        except Exception as e:
+            print(f"Error reading file {args.file}: {e}")
+            exit(1)
+    elif args.subs:
+        targets = args.subs
+    else:
+        targets = ["r/funny", "r/AskReddit"]  # Default
 
     cfg = FPConfig(
         headless=args.headless,
@@ -770,10 +825,21 @@ if __name__ == "__main__":
         save_debug_html=True if args.debug_html else True,  # keep debug snapshots on by default
         include_promoted=args.include_promoted,
     )
+    
+    def already_scraped(name: str) -> bool:
+        """Check if subreddit already scraped."""
+        if name.startswith('r/'):
+            name = name[2:]
+        return (Path("output/subreddits") / name / "frontpage.json").exists()
+    
     scraper = SubredditFrontPageScraper(cfg)
     scraper._start()
     try:
-        for target in args.subs:
+        for target in targets:
+            if not args.overwrite and already_scraped(target):
+                print(f"[skip] {target} (already exists)")
+                continue
+                
             data = scraper.scrape_frontpage(target)
             scraper.save_frontpage(data["subreddit"], data)
             posts_n = len(data.get("posts", []))
@@ -781,7 +847,7 @@ if __name__ == "__main__":
             error = data.get("error")
             out_path = Path("output/subreddits") / data["subreddit"] / "frontpage.json"
             if error:
-                print(f"[saved] {out_path} — posts={posts_n} (promoted={promoted_n}), error={error}")
+                print(f"[saved] {out_path} — posts={posts_n} (promoted={promoted_n}), error={error[:100]}...")
             else:
                 print(f"[saved] {out_path} — posts={posts_n} (promoted={promoted_n})")
             time.sleep(random.uniform(0.6, 1.1))

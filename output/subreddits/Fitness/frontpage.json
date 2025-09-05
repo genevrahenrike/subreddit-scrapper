@@ -2,201 +2,262 @@
   "subreddit": "Fitness",
   "url": "https://www.reddit.com/r/Fitness",
   "meta": {
-    "title": "Fitness"
+    "title": "Fitness",
+    "description": "A place for the pursuit of physical fitness goals.\n\nPlease see the r/Fitness Wiki and FAQ at https://thefitness.wiki for help with common questions.",
+    "subscribers": 12430539,
+    "online_users": 154,
+    "created_timestamp": "2025-09-05T09:02:15.872000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Bookmarks",
+        "content": [
+          {
+            "text": "Read the Rules",
+            "url": "http://www.reddit.com/r/Fitness/wiki/rules"
+          },
+          {
+            "text": "Getting Started",
+            "url": "https://thefitness.wiki/getting-started-with-fitness/"
+          },
+          {
+            "text": "Muscle Gain",
+            "url": "https://thefitness.wiki/muscle-building-101/"
+          },
+          {
+            "text": "Weight/Fat Loss",
+            "url": "https://thefitness.wiki/weight-loss-101/"
+          },
+          {
+            "text": "Wiki Guided Tour",
+            "url": "https://thefitness.wiki/guided-tour/"
+          },
+          {
+            "text": "Workout Routines",
+            "url": "https://thefitness.wiki/routines/"
+          },
+          {
+            "text": "FAQ",
+            "url": "https://thefitness.wiki/faq/"
+          },
+          {
+            "text": "Glossary",
+            "url": "https://thefitness.wiki/glossary/"
+          }
+        ]
+      },
+      {
+        "title": "Welcome to r/Fitness",
+        "content": [
+          {
+            "text": "Read the Wiki",
+            "url": "https://thefitness.wiki/"
+          },
+          {
+            "text": "Getting Started",
+            "url": "https://thefitness.wiki/getting-started-with-fitness/"
+          },
+          {
+            "text": "Muscle Building 101",
+            "url": "https://thefitness.wiki/muscle-building-101/"
+          },
+          {
+            "text": "Weight Loss 101",
+            "url": "https://thefitness.wiki/weight-loss-101/"
+          },
+          {
+            "text": "FAQ",
+            "url": "https://thefitness.wiki/faq/"
+          },
+          {
+            "text": "Workout Routines",
+            "url": "https://thefitness.wiki/routines/"
+          },
+          {
+            "text": "Resources",
+            "url": "https://thefitness.wiki/resources/"
+          },
+          {
+            "text": "Glossary",
+            "url": "https://thefitness.wiki/glossary/"
+          },
+          {
+            "text": "Related Subreddits",
+            "url": "http://www.reddit.com/r/Fitness/wiki/related_subreddits"
+          }
+        ]
+      },
+      {
+        "title": "r/Fitness Posting Rules",
+        "content": [
+          {
+            "text": "No Threads That Are Answered by the Wiki, Searching Threads, or Google",
+            "url": "https://www.reddit.com/r/Fitness/wiki/rules/rule0"
+          },
+          {
+            "text": "Be Respectful and Civil",
+            "url": "https://www.reddit.com/r/Fitness/wiki/rules/rule1"
+          },
+          {
+            "text": "Posts Must Be Specific to Physical Fitness and Promote Useful Discussion",
+            "url": "https://www.reddit.com/r/Fitness/wiki/rules/rule2"
+          },
+          {
+            "text": "Minimum Posting Requirements",
+            "url": "https://www.reddit.com/r/Fitness/wiki/rules/rule3"
+          },
+          {
+            "text": "Progress Posts Must Be Detailed and Useful",
+            "url": "https://www.reddit.com/r/Fitness/wiki/rules/rule4"
+          },
+          {
+            "text": "No Questions Related to Injury, Pain, or Any Medical Topic",
+            "url": "https://www.reddit.com/r/Fitness/wiki/rules/rule5"
+          },
+          {
+            "text": "Moderators Have the Final Word",
+            "url": "https://www.reddit.com/r/Fitness/wiki/rules/rule6"
+          },
+          {
+            "text": "No Bots or Novelty Accounts",
+            "url": "https://www.reddit.com/r/Fitness/wiki/rules/rule7"
+          },
+          {
+            "text": "No Self Promotion or Surveys of Any Kind",
+            "url": "https://www.reddit.com/r/Fitness/wiki/rules/rule8"
+          },
+          {
+            "text": "Routine Critique Requirements",
+            "url": "https://www.reddit.com/r/Fitness/wiki/rules/rule9"
+          },
+          {
+            "text": "No Off-Topic Comments/Thread Derailing",
+            "url": "https://www.reddit.com/r/Fitness/wiki/rules/rule10"
+          }
+        ]
+      },
+      {
+        "title": "Weekly Threads",
+        "content": [
+          {
+            "text": "Moronic Mondays",
+            "url": "https://old.reddit.com/r/Fitness/search?q=flair%3Amoronic&sort=new&restrict_sr=on"
+          },
+          {
+            "text": "Training Tuesdays",
+            "url": "https://old.reddit.com/r/Fitness/search?q=flair%3ATraining&sort=new&restrict_sr=on"
+          },
+          {
+            "text": "Rant Wednesdays",
+            "url": "https://old.reddit.com/r/Fitness/search?q=flair%3Arant&sort=new&restrict_sr=on"
+          },
+          {
+            "text": "Physique Phridays",
+            "url": "https://old.reddit.com/r/Fitness/search?q=flair%3Aphysique&sort=new&restrict_sr=on"
+          },
+          {
+            "text": "Gym Story Saturdays",
+            "url": "https://old.reddit.com/r/Fitness/search?q=flair%3Astory&sort=new&restrict_sr=on"
+          },
+          {
+            "text": "Victory Sundays",
+            "url": "https://old.reddit.com/r/Fitness/search?q=flair%3Avictory&sort=new&restrict_sr=on"
+          }
+        ]
+      },
+      {
+        "title": "Megathreads",
+        "content": [
+          {
+            "text": "Recipes",
+            "url": "https://www.reddit.com/r/fitness/search?q=flair%3Arecipe&sort=new&restrict_sr=on"
+          },
+          {
+            "text": "Apps, Gadgets and Gear",
+            "url": "https://www.reddit.com/r/fitness/search?q=flair%3Agadgets&sort=new&restrict_sr=on"
+          },
+          {
+            "text": "Pro Tips",
+            "url": "https://www.reddit.com/r/fitness/search?q=flair%3Aprotips&sort=new&restrict_sr=on"
+          },
+          {
+            "text": "Protein",
+            "url": "https://www.reddit.com/r/fitness/search?q=flair%3Aprotein&sort=new&restrict_sr=on"
+          },
+          {
+            "text": "Routines",
+            "url": "https://www.reddit.com/r/fitness/search?q=flair%3Aroutines&sort=new&restrict_sr=on"
+          },
+          {
+            "text": "Books, Blogs, Podcasts",
+            "url": "https://www.reddit.com/r/fitness/search?q=flair%3Apodcast&sort=new&restrict_sr=on"
+          },
+          {
+            "text": "Clothing",
+            "url": "https://www.reddit.com/r/fitness/search?q=flair%3Aclothing&sort=new&restrict_sr=on"
+          },
+          {
+            "text": "Instructional Videos",
+            "url": "https://www.reddit.com/r/fitness/search?q=flair%3Ainstructional&sort=new&restrict_sr=on"
+          },
+          {
+            "text": "Music",
+            "url": "https://www.reddit.com/r/fitness/search?q=flair%3Amusic&sort=new&restrict_sr=on"
+          }
+        ]
+      },
+      {
+        "title": "r/Fitness Rules",
+        "content": [
+          {
+            "text": "https://www.reddit.com/r/Fitness/wiki/rules",
+            "url": "https://www.reddit.com/r/Fitness/wiki/rules"
+          },
+          {
+            "text": "https://thefitness.wiki",
+            "url": "https://thefitness.wiki"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/Fitness/moderators/"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "Daily Simple Questions Thread - August 31, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1n4py83/daily_simple_questions_thread_august_31_2025/",
-      "score": 11,
-      "comments": 61,
-      "post_id": "t3_1n4py83",
+      "title": "Daily Simple Questions Thread - September 05, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1n90617/daily_simple_questions_thread_september_05_2025/",
+      "score": 2,
+      "comments": 7,
+      "post_id": "t3_1n90617",
       "post_type": "multi_media",
       "domain": "self.Fitness",
       "author": "AutoModerator",
       "author_id": "t2_6l4z3",
       "subreddit_id": "t5_2qhx4",
       "subreddit": "r/Fitness",
-      "created_ts": "2025-08-31T09:01:13.483000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1n4py83/daily_simple_questions_thread_august_31_2025/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T09:02:15.872000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1n90617/daily_simple_questions_thread_september_05_2025/",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
       "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Rant Wednesday - August 27, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1n1bwpi/rant_wednesday_august_27_2025/",
-      "score": 65,
-      "comments": 314,
-      "post_id": "t3_1n1bwpi",
-      "post_type": "text",
-      "domain": "self.Fitness",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-08-27T09:00:38.342000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1n1bwpi/rant_wednesday_august_27_2025/",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Moronic Monday - Your weekly stupid questions thread",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1n5hw97/moronic_monday_your_weekly_stupid_questions_thread/",
-      "score": 6,
-      "comments": 88,
-      "post_id": "t3_1n5hw97",
-      "post_type": "multi_media",
-      "domain": "self.Fitness",
-      "author": "cdingo",
-      "author_id": "t2_4bjz7",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-09-01T07:03:32.621000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1n5hw97/moronic_monday_your_weekly_stupid_questions_thread/",
-      "content_preview": "",
-      "flair": [
-        "Moronic Monday"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "Rant Wednesday - August 20, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mv9kxu/rant_wednesday_august_20_2025/",
-      "score": 88,
-      "comments": 264,
-      "post_id": "t3_1mv9kxu",
-      "post_type": "text",
-      "domain": "self.Fitness",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-08-20T09:01:13.889000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mv9kxu/rant_wednesday_august_20_2025/",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Victory Sunday",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1n4pxun/victory_sunday/",
-      "score": 26,
-      "comments": 41,
-      "post_id": "t3_1n4pxun",
-      "post_type": "text",
-      "domain": "self.Fitness",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-08-31T09:00:40.002000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1n4pxun/victory_sunday/",
-      "content_preview": "",
-      "flair": [
-        "Victory Sunday"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Gym Story Saturday",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1n3uo22/gym_story_saturday/",
-      "score": 45,
-      "comments": 48,
-      "post_id": "t3_1n3uo22",
-      "post_type": "text",
-      "domain": "self.Fitness",
-      "author": "FGC_Valhalla",
-      "author_id": "t2_3t5h9",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-08-30T06:34:37.511000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1n3uo22/gym_story_saturday/",
-      "content_preview": "",
-      "flair": [
-        "Gym Story Saturday"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "Daily Simple Questions Thread - August 29, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1n32b8s/daily_simple_questions_thread_august_29_2025/",
-      "score": 13,
-      "comments": 75,
-      "post_id": "t3_1n32b8s",
-      "post_type": "multi_media",
-      "domain": "self.Fitness",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-08-29T09:01:20.255000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1n32b8s/daily_simple_questions_thread_august_29_2025/",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Daily Simple Questions Thread - August 30, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1n3wwsb/daily_simple_questions_thread_august_30_2025/",
-      "score": 16,
-      "comments": 88,
-      "post_id": "t3_1n3wwsb",
-      "post_type": "multi_media",
-      "domain": "self.Fitness",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-08-30T09:00:52.753000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1n3wwsb/daily_simple_questions_thread_august_30_2025/",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Rant Wednesday - August 06, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mizl29/rant_wednesday_august_06_2025/",
-      "score": 61,
-      "comments": 204,
-      "post_id": "t3_1mizl29",
-      "post_type": "text",
-      "domain": "self.Fitness",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-08-06T09:00:34.190000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mizl29/rant_wednesday_august_06_2025/",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Moronic Monday - Your weekly stupid questions thread",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mzjhys/moronic_monday_your_weekly_stupid_questions_thread/",
-      "score": 29,
-      "comments": 176,
-      "post_id": "t3_1mzjhys",
-      "post_type": "multi_media",
-      "domain": "self.Fitness",
-      "author": "cdingo",
-      "author_id": "t2_4bjz7",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-08-25T06:57:16.097000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mzjhys/moronic_monday_your_weekly_stupid_questions_thread/",
-      "content_preview": "",
-      "flair": [
-        "Moronic Monday"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
       "title": "Physique Phriday",
       "permalink": "https://www.reddit.com/r/Fitness/comments/1n32at3/physique_phriday/",
-      "score": 45,
+      "score": 47,
       "comments": 34,
       "post_id": "t3_1n32at3",
       "post_type": "text",
@@ -207,91 +268,193 @@
       "subreddit": "r/Fitness",
       "created_ts": "2025-08-29T09:00:42.206000+0000",
       "content_href": "https://www.reddit.com/r/Fitness/comments/1n32at3/physique_phriday/",
-      "content_preview": "",
+      "content_preview": "Welcome to the Physique Phriday threadWhat's the point of having people guess your body fat? Nevermind that it's the most inaccurate method available, (read: most likely way wrong -see here) you're still just putting an arbitrary number to the body you have. Despite people's claim that they are shooting for a number, they're really shooting for look - like a six pack.So let's stopping mucking around with trivialities and get to the heart of the matter. This thread shall serve two purposes:Physique critiques.Post some pics and ask about muscles or body parts you need to work on. Or specifically ask about a lagging body part and what exercises worked for others.An outlet for people that want to show off their efforts that would otherwise be removed due toRule 4, andLet's keep things civil, don't be a creep, and adhere toRule 1. This isn't a thread to announce what you find attractive in a mate. Please use the report function for any comments that are out of line.So phittit, what's your physique pheel like this phriday?",
       "flair": [
         "Physique Phriday"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
-      "title": "Daily Simple Questions Thread - August 24, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1myqoh0/daily_simple_questions_thread_august_24_2025/",
-      "score": 13,
-      "comments": 84,
-      "post_id": "t3_1myqoh0",
+      "title": "Daily Simple Questions Thread - September 03, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1n79qlz/daily_simple_questions_thread_september_03_2025/",
+      "score": 9,
+      "comments": 93,
+      "post_id": "t3_1n79qlz",
       "post_type": "multi_media",
       "domain": "self.Fitness",
       "author": "AutoModerator",
       "author_id": "t2_6l4z3",
       "subreddit_id": "t5_2qhx4",
       "subreddit": "r/Fitness",
-      "created_ts": "2025-08-24T09:01:20.435000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1myqoh0/daily_simple_questions_thread_august_24_2025/",
-      "content_preview": "",
+      "created_ts": "2025-09-03T09:01:15.153000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1n79qlz/daily_simple_questions_thread_september_03_2025/",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
       "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
-      "title": "Daily Simple Questions Thread - August 26, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1n0gra5/daily_simple_questions_thread_august_26_2025/",
-      "score": 23,
-      "comments": 122,
-      "post_id": "t3_1n0gra5",
+      "title": "Rant Wednesday - August 20, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1mv9kxu/rant_wednesday_august_20_2025/",
+      "score": 88,
+      "comments": 268,
+      "post_id": "t3_1mv9kxu",
+      "post_type": "text",
+      "domain": "self.Fitness",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-08-20T09:01:13.889000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1mv9kxu/rant_wednesday_august_20_2025/",
+      "content_preview": "Welcome to Rant Wednesday: It’s your time to let your gym/fitness/nutrition related frustrations out!There is no guiding question to help stir up some rage-feels, feel free to fire at will, ranting about anything and everything that’s been pissing you off or getting on your nerves. Just don't forget that other people are allowed to tell you that your rant is stupid.",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "Daily Simple Questions Thread - September 02, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1n6eh6g/daily_simple_questions_thread_september_02_2025/",
+      "score": 17,
+      "comments": 107,
+      "post_id": "t3_1n6eh6g",
       "post_type": "multi_media",
       "domain": "self.Fitness",
       "author": "AutoModerator",
       "author_id": "t2_6l4z3",
       "subreddit_id": "t5_2qhx4",
       "subreddit": "r/Fitness",
-      "created_ts": "2025-08-26T09:01:18.828000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1n0gra5/daily_simple_questions_thread_august_26_2025/",
-      "content_preview": "",
+      "created_ts": "2025-09-02T09:01:19.145000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1n6eh6g/daily_simple_questions_thread_september_02_2025/",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
       "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
-      "title": "Daily Simple Questions Thread - August 23, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mxwh9y/daily_simple_questions_thread_august_23_2025/",
-      "score": 8,
-      "comments": 67,
-      "post_id": "t3_1mxwh9y",
-      "post_type": "multi_media",
-      "domain": "self.Fitness",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-08-23T09:01:03.739000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mxwh9y/daily_simple_questions_thread_august_23_2025/",
+      "title": "Shell scientist JanElsa is interviewed by an AI version of her younger self - reflecting on early aspirations and innovations like Shell’s immersion cooling fluids. Two JanElsas, one insightful conversation about the future of tech.",
+      "permalink": "https://www.reddit.com/user/Shell_Official/comments/1n0lyv1/shell_scientist_janelsa_is_interviewed_by_an_ai/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n0lyv1",
+      "post_type": "video",
+      "domain": "shell.us",
+      "author": "Shell_Official",
+      "author_id": "t2_996ipict",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-26T13:32:21.525000+0000",
+      "content_href": "https://v.redd.it/1ioloj9rrblf1",
       "content_preview": "",
       "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3jfczc/styles/profileIcon_b9xyzrip9b461.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=aae49663b0b9468527b7b92cf544b0efdf995b97",
+      "is_promoted": true
     },
     {
       "title": "Gym Story Saturday",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mljpcd/gym_story_saturday/",
-      "score": 59,
-      "comments": 75,
-      "post_id": "t3_1mljpcd",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1n3uo22/gym_story_saturday/",
+      "score": 47,
+      "comments": 60,
+      "post_id": "t3_1n3uo22",
       "post_type": "text",
       "domain": "self.Fitness",
       "author": "FGC_Valhalla",
       "author_id": "t2_3t5h9",
       "subreddit_id": "t5_2qhx4",
       "subreddit": "r/Fitness",
-      "created_ts": "2025-08-09T07:40:30.101000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mljpcd/gym_story_saturday/",
-      "content_preview": "",
+      "created_ts": "2025-08-30T06:34:37.511000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1n3uo22/gym_story_saturday/",
+      "content_preview": "Hi! Welcome to your weekly thread where you can share your gym tales!",
       "flair": [
         "Gym Story Saturday"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Moronic Monday - Your weekly stupid questions thread",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1n5hw97/moronic_monday_your_weekly_stupid_questions_thread/",
+      "score": 12,
+      "comments": 129,
+      "post_id": "t3_1n5hw97",
+      "post_type": "multi_media",
+      "domain": "self.Fitness",
+      "author": "cdingo",
+      "author_id": "t2_4bjz7",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-09-01T07:03:32.621000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1n5hw97/moronic_monday_your_weekly_stupid_questions_thread/",
+      "content_preview": "Get your dunce hats out, Fittit, it's time for your weekly Stupid Questions Thread.Post your question - stupid or otherwise - here to get an answer. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer. Many questions get submitted late each week that don't get a lot of action, so if your question didn't get answered before, feel free to post it again.As always, be sure to read theFAQfirst.Also, there's a handy-dandysearch bar to your right, and if you didn't know, you can also useGoogleto search fittit by using the limiter \"site:reddit.com/r/fitness\".Be sure to check back often as questions get posted throughout the day.  Lastly, it may be a good idea to sort comments by \"new\" to be sure the newer questions get some love as well.Click here to sort by new in this thread only.So, what's rattling around in your brain this week, Fittit?Keep jokes, trolling, and memes outside of the Moronic Monday thread. Please use the downvote / report button when necessary.\"Bulk or cut\" type questions are not permitted onr/fitness- Refer to the FAQ or post them inr/bulkorcut.",
+      "flair": [
+        "Moronic Monday"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Rant Wednesday - August 27, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1n1bwpi/rant_wednesday_august_27_2025/",
+      "score": 67,
+      "comments": 316,
+      "post_id": "t3_1n1bwpi",
+      "post_type": "text",
+      "domain": "self.Fitness",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-08-27T09:00:38.342000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1n1bwpi/rant_wednesday_august_27_2025/",
+      "content_preview": "Welcome to Rant Wednesday: It’s your time to let your gym/fitness/nutrition related frustrations out!There is no guiding question to help stir up some rage-feels, feel free to fire at will, ranting about anything and everything that’s been pissing you off or getting on your nerves. Just don't forget that other people are allowed to tell you that your rant is stupid.",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "Daily Simple Questions Thread - August 31, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1n4py83/daily_simple_questions_thread_august_31_2025/",
+      "score": 11,
+      "comments": 75,
+      "post_id": "t3_1n4py83",
+      "post_type": "multi_media",
+      "domain": "self.Fitness",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-08-31T09:01:13.483000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1n4py83/daily_simple_questions_thread_august_31_2025/",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "Rant Wednesday - September 03, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1n79qm5/rant_wednesday_september_03_2025/",
+      "score": 39,
+      "comments": 126,
+      "post_id": "t3_1n79qm5",
+      "post_type": "text",
+      "domain": "self.Fitness",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-09-03T09:01:15.861000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1n79qm5/rant_wednesday_september_03_2025/",
+      "content_preview": "Welcome to Rant Wednesday: It’s your time to let your gym/fitness/nutrition related frustrations out!There is no guiding question to help stir up some rage-feels, feel free to fire at will, ranting about anything and everything that’s been pissing you off or getting on your nerves. Just don't forget that other people are allowed to tell you that your rant is stupid.",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
       "title": "Daily Simple Questions Thread - August 28, 2025",
       "permalink": "https://www.reddit.com/r/Fitness/comments/1n2768k/daily_simple_questions_thread_august_28_2025/",
       "score": 22,
-      "comments": 149,
+      "comments": 148,
       "post_id": "t3_1n2768k",
       "post_type": "multi_media",
       "domain": "self.Fitness",
@@ -301,9 +464,50 @@
       "subreddit": "r/Fitness",
       "created_ts": "2025-08-28T09:01:19.509000+0000",
       "content_href": "https://www.reddit.com/r/Fitness/comments/1n2768k/daily_simple_questions_thread_august_28_2025/",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "Monthly Recipes Megathread",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1n5jq1e/monthly_recipes_megathread/",
+      "score": 35,
+      "comments": 13,
+      "post_id": "t3_1n5jq1e",
+      "post_type": "text",
+      "domain": "self.Fitness",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-09-01T09:01:07.962000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1n5jq1e/monthly_recipes_megathread/",
+      "content_preview": "Welcome to the Monthly Recipes MegathreadHave an awesome recipe that's helped you meet your macros without wanting to throw up or die of boredom? Share it here!",
+      "flair": [
+        "Megathread"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "Hilton has a stay so perfect, you’ll be posting it all over r/travel. When you want to experience your dream vacay IRL, it matters where you stay.",
+      "permalink": "https://www.reddit.com/user/Hilton/comments/1muo9xj/hilton_has_a_stay_so_perfect_youll_be_posting_it/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1muo9xj",
+      "post_type": "image",
+      "domain": "hilton.com",
+      "author": "Hilton",
+      "author_id": "t2_17a864os3w",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-19T17:01:59.273000+0000",
+      "content_href": "https://www.hilton.com/en/hotels/bnagngu-graduate-nashville/?WT.mc_id=zLADA0US1GU2OLS3RDT4PORTPS_Aug5POREVGRNGRANASROOMEMVIDVER6BNAGNGU7EN8i161685",
       "content_preview": "",
       "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ca7ibb/styles/profileIcon_jpsbvurnj5od1.jpeg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=e7651be7a2366a9920ac90eb355e9132303d53e3",
+      "is_promoted": true
     },
     {
       "title": "Daily Simple Questions Thread - August 27, 2025",
@@ -319,32 +523,93 @@
       "subreddit": "r/Fitness",
       "created_ts": "2025-08-27T09:00:37.721000+0000",
       "content_href": "https://www.reddit.com/r/Fitness/comments/1n1bwpa/daily_simple_questions_thread_august_27_2025/",
-      "content_preview": "",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
       "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
-      "title": "Daily Simple Questions Thread - August 22, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mx1e9d/daily_simple_questions_thread_august_22_2025/",
-      "score": 9,
-      "comments": 101,
-      "post_id": "t3_1mx1e9d",
+      "title": "Rant Wednesday - August 06, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1mizl29/rant_wednesday_august_06_2025/",
+      "score": 62,
+      "comments": 205,
+      "post_id": "t3_1mizl29",
+      "post_type": "text",
+      "domain": "self.Fitness",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-08-06T09:00:34.190000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1mizl29/rant_wednesday_august_06_2025/",
+      "content_preview": "Welcome to Rant Wednesday: It’s your time to let your gym/fitness/nutrition related frustrations out!There is no guiding question to help stir up some rage-feels, feel free to fire at will, ranting about anything and everything that’s been pissing you off or getting on your nerves. Just don't forget that other people are allowed to tell you that your rant is stupid.",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "Victory Sunday",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1n4pxun/victory_sunday/",
+      "score": 28,
+      "comments": 53,
+      "post_id": "t3_1n4pxun",
+      "post_type": "text",
+      "domain": "self.Fitness",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-08-31T09:00:40.002000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1n4pxun/victory_sunday/",
+      "content_preview": "Welcome to the Victory Sunday ThreadIt is Sunday, 6:00 am here in the eastern half of Hyder, Alaska. It's time to ask yourself: What was the one, best thing you did on behalf of your fitness this week? What was your Fitness Victory?We want to hear about it!So let's hear your fitness Victory this week! Don't forget to upvote your favorite Victories!",
+      "flair": [
+        "Victory Sunday"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "Daily Simple Questions Thread - August 26, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1n0gra5/daily_simple_questions_thread_august_26_2025/",
+      "score": 23,
+      "comments": 122,
+      "post_id": "t3_1n0gra5",
       "post_type": "multi_media",
       "domain": "self.Fitness",
       "author": "AutoModerator",
       "author_id": "t2_6l4z3",
       "subreddit_id": "t5_2qhx4",
       "subreddit": "r/Fitness",
-      "created_ts": "2025-08-22T09:01:18.089000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mx1e9d/daily_simple_questions_thread_august_22_2025/",
-      "content_preview": "",
+      "created_ts": "2025-08-26T09:01:18.828000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1n0gra5/daily_simple_questions_thread_august_26_2025/",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
       "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "Daily Simple Questions Thread - August 30, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1n3wwsb/daily_simple_questions_thread_august_30_2025/",
+      "score": 16,
+      "comments": 86,
+      "post_id": "t3_1n3wwsb",
+      "post_type": "multi_media",
+      "domain": "self.Fitness",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-08-30T09:00:52.753000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1n3wwsb/daily_simple_questions_thread_august_30_2025/",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
       "title": "Gym Story Saturday",
       "permalink": "https://www.reddit.com/r/Fitness/comments/1mxuwt3/gym_story_saturday/",
-      "score": 59,
+      "score": 60,
       "comments": 94,
       "post_id": "t3_1mxuwt3",
       "post_type": "text",
@@ -355,29 +620,92 @@
       "subreddit": "r/Fitness",
       "created_ts": "2025-08-23T07:20:45.151000+0000",
       "content_href": "https://www.reddit.com/r/Fitness/comments/1mxuwt3/gym_story_saturday/",
-      "content_preview": "",
+      "content_preview": "Hi! Welcome to your weekly thread where you can share your gym tales!",
       "flair": [
         "Gym Story Saturday"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "Daily Simple Questions Thread - August 21, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mw5qkp/daily_simple_questions_thread_august_21_2025/",
-      "score": 14,
-      "comments": 96,
-      "post_id": "t3_1mw5qkp",
+      "title": "Gym Story Saturday",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1mljpcd/gym_story_saturday/",
+      "score": 59,
+      "comments": 75,
+      "post_id": "t3_1mljpcd",
+      "post_type": "text",
+      "domain": "self.Fitness",
+      "author": "FGC_Valhalla",
+      "author_id": "t2_3t5h9",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-08-09T07:40:30.101000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1mljpcd/gym_story_saturday/",
+      "content_preview": "Hi! Welcome to your weekly thread where you can share your gym tales!",
+      "flair": [
+        "Gym Story Saturday"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Moronic Monday - Your weekly stupid questions thread",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1mzjhys/moronic_monday_your_weekly_stupid_questions_thread/",
+      "score": 31,
+      "comments": 175,
+      "post_id": "t3_1mzjhys",
+      "post_type": "multi_media",
+      "domain": "self.Fitness",
+      "author": "cdingo",
+      "author_id": "t2_4bjz7",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-08-25T06:57:16.097000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1mzjhys/moronic_monday_your_weekly_stupid_questions_thread/",
+      "content_preview": "Get your dunce hats out, Fittit, it's time for your weekly Stupid Questions Thread.Post your question - stupid or otherwise - here to get an answer. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer. Many questions get submitted late each week that don't get a lot of action, so if your question didn't get answered before, feel free to post it again.As always, be sure to read theFAQfirst.Also, there's a handy-dandysearch bar to your right, and if you didn't know, you can also useGoogleto search fittit by using the limiter \"site:reddit.com/r/fitness\".Be sure to check back often as questions get posted throughout the day.  Lastly, it may be a good idea to sort comments by \"new\" to be sure the newer questions get some love as well.Click here to sort by new in this thread only.So, what's rattling around in your brain this week, Fittit?Keep jokes, trolling, and memes outside of the Moronic Monday thread. Please use the downvote / report button when necessary.\"Bulk or cut\" type questions are not permitted onr/fitness- Refer to the FAQ or post them inr/bulkorcut.",
+      "flair": [
+        "Moronic Monday"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Daily Simple Questions Thread - August 29, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1n32b8s/daily_simple_questions_thread_august_29_2025/",
+      "score": 13,
+      "comments": 75,
+      "post_id": "t3_1n32b8s",
       "post_type": "multi_media",
       "domain": "self.Fitness",
       "author": "AutoModerator",
       "author_id": "t2_6l4z3",
       "subreddit_id": "t5_2qhx4",
       "subreddit": "r/Fitness",
-      "created_ts": "2025-08-21T09:01:21.205000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mw5qkp/daily_simple_questions_thread_august_21_2025/",
+      "created_ts": "2025-08-29T09:01:20.255000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1n32b8s/daily_simple_questions_thread_august_29_2025/",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "You can taste the flavor, but can you hear it? Buchanan’s and Rauw find out which music sets the vibe just right for grill day.",
+      "permalink": "https://www.reddit.com/user/buchananswhisky/comments/1mwosqb/you_can_taste_the_flavor_but_can_you_hear_it/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mwosqb",
+      "post_type": "video",
+      "domain": "productshop.buchananswhisky.com",
+      "author": "buchananswhisky",
+      "author_id": "t2_1sdd29sauk",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-21T22:07:34.509000+0000",
+      "content_href": "https://v.redd.it/itdhoga4nekf1",
       "content_preview": "",
       "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_esm68t/styles/profileIcon_y61ppuf82h9f1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=1a98678f968bff62b2eba0fe47b56527e1b332f5",
+      "is_promoted": true
     },
     {
       "title": "Monthly Fitness Pro-Tips Megathread",
@@ -393,119 +721,10 @@
       "subreddit": "r/Fitness",
       "created_ts": "2025-08-15T09:01:03.261000+0000",
       "content_href": "https://www.reddit.com/r/Fitness/comments/1mqsau4/monthly_fitness_protips_megathread/",
-      "content_preview": "",
+      "content_preview": "Welcome to the Monthly Fitness Pro-Tips Megathread!This thread is for sharing quick tips (don't you dare call them hacks, that word is stupid) about training, equipment use, nutrition, or other fitness connected topics that have improved your fitness experience.This isnota questions thread. Do not ask for help or advice in here.",
       "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Gym Story Saturday",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mfkcwo/gym_story_saturday/",
-      "score": 53,
-      "comments": 86,
-      "post_id": "t3_1mfkcwo",
-      "post_type": "text",
-      "domain": "self.Fitness",
-      "author": "FGC_Valhalla",
-      "author_id": "t2_3t5h9",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-08-02T07:15:40.131000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mfkcwo/gym_story_saturday/",
-      "content_preview": "",
-      "flair": [
-        "Gym Story Saturday"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "Daily Simple Questions Thread - August 20, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mv9kxi/daily_simple_questions_thread_august_20_2025/",
-      "score": 26,
-      "comments": 151,
-      "post_id": "t3_1mv9kxi",
-      "post_type": "multi_media",
-      "domain": "self.Fitness",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-08-20T09:01:13.277000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mv9kxi/daily_simple_questions_thread_august_20_2025/",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Daily Simple Questions Thread - August 17, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1msm15f/daily_simple_questions_thread_august_17_2025/",
-      "score": 12,
-      "comments": 101,
-      "post_id": "t3_1msm15f",
-      "post_type": "multi_media",
-      "domain": "self.Fitness",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-08-17T09:01:07.708000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1msm15f/daily_simple_questions_thread_august_17_2025/",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Daily Simple Questions Thread - August 16, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mrps7v/daily_simple_questions_thread_august_16_2025/",
-      "score": 6,
-      "comments": 62,
-      "post_id": "t3_1mrps7v",
-      "post_type": "multi_media",
-      "domain": "self.Fitness",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-08-16T09:00:45.151000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mrps7v/daily_simple_questions_thread_august_16_2025/",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Daily Simple Questions Thread - August 14, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mpvbe1/daily_simple_questions_thread_august_14_2025/",
-      "score": 18,
-      "comments": 144,
-      "post_id": "t3_1mpvbe1",
-      "post_type": "multi_media",
-      "domain": "self.Fitness",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-08-14T09:01:11.962000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mpvbe1/daily_simple_questions_thread_august_14_2025/",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Daily Simple Questions Thread - August 13, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mozb33/daily_simple_questions_thread_august_13_2025/",
-      "score": 15,
-      "comments": 113,
-      "post_id": "t3_1mozb33",
-      "post_type": "multi_media",
-      "domain": "self.Fitness",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-08-13T09:00:43.902000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mozb33/daily_simple_questions_thread_august_13_2025/",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
       "title": "Rant Wednesday - August 13, 2025",
@@ -521,164 +740,34 @@
       "subreddit": "r/Fitness",
       "created_ts": "2025-08-13T09:00:44.447000+0000",
       "content_href": "https://www.reddit.com/r/Fitness/comments/1mozb38/rant_wednesday_august_13_2025/",
-      "content_preview": "",
+      "content_preview": "Welcome to Rant Wednesday: It’s your time to let your gym/fitness/nutrition related frustrations out!There is no guiding question to help stir up some rage-feels, feel free to fire at will, ranting about anything and everything that’s been pissing you off or getting on your nerves. Just don't forget that other people are allowed to tell you that your rant is stupid.",
       "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
-      "title": "Victory Sunday",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mgelkq/victory_sunday/",
-      "score": 47,
-      "comments": 57,
-      "post_id": "t3_1mgelkq",
-      "post_type": "text",
-      "domain": "self.Fitness",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-08-03T09:00:30.167000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mgelkq/victory_sunday/",
-      "content_preview": "",
-      "flair": [
-        "Victory Sunday"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Daily Simple Questions Thread - August 09, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mlkw73/daily_simple_questions_thread_august_09_2025/",
-      "score": 10,
-      "comments": 128,
-      "post_id": "t3_1mlkw73",
+      "title": "Daily Simple Questions Thread - August 24, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1myqoh0/daily_simple_questions_thread_august_24_2025/",
+      "score": 13,
+      "comments": 84,
+      "post_id": "t3_1myqoh0",
       "post_type": "multi_media",
       "domain": "self.Fitness",
       "author": "AutoModerator",
       "author_id": "t2_6l4z3",
       "subreddit_id": "t5_2qhx4",
       "subreddit": "r/Fitness",
-      "created_ts": "2025-08-09T09:01:00.350000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mlkw73/daily_simple_questions_thread_august_09_2025/",
-      "content_preview": "",
+      "created_ts": "2025-08-24T09:01:20.435000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1myqoh0/daily_simple_questions_thread_august_24_2025/",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
       "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Daily Simple Questions Thread - August 08, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mkq7kz/daily_simple_questions_thread_august_08_2025/",
-      "score": 8,
-      "comments": 109,
-      "post_id": "t3_1mkq7kz",
-      "post_type": "multi_media",
-      "domain": "self.Fitness",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-08-08T09:01:18.391000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mkq7kz/daily_simple_questions_thread_august_08_2025/",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Daily Simple Questions Thread - August 06, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mizl20/daily_simple_questions_thread_august_06_2025/",
-      "score": 9,
-      "comments": 103,
-      "post_id": "t3_1mizl20",
-      "post_type": "multi_media",
-      "domain": "self.Fitness",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-08-06T09:00:33.606000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mizl20/daily_simple_questions_thread_august_06_2025/",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Physique Phriday",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mergsr/physique_phriday/",
-      "score": 35,
-      "comments": 36,
-      "post_id": "t3_1mergsr",
-      "post_type": "text",
-      "domain": "self.Fitness",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-08-01T09:00:55.441000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mergsr/physique_phriday/",
-      "content_preview": "",
-      "flair": [
-        "Physique Phriday"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Monthly Recipes Megathread",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mergtv/monthly_recipes_megathread/",
-      "score": 17,
-      "comments": 18,
-      "post_id": "t3_1mergtv",
-      "post_type": "text",
-      "domain": "self.Fitness",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-08-01T09:00:59.140000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mergtv/monthly_recipes_megathread/",
-      "content_preview": "",
-      "flair": [
-        "Megathread"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Daily Simple Questions Thread - August 01, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1merhjq/daily_simple_questions_thread_august_01_2025/",
-      "score": 9,
-      "comments": 63,
-      "post_id": "t3_1merhjq",
-      "post_type": "multi_media",
-      "domain": "self.Fitness",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-08-01T09:02:05.136000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1merhjq/daily_simple_questions_thread_august_01_2025/",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Daily Simple Questions Thread - July 31, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mdwk6h/daily_simple_questions_thread_july_31_2025/",
-      "score": 33,
-      "comments": 197,
-      "post_id": "t3_1mdwk6h",
-      "post_type": "multi_media",
-      "domain": "self.Fitness",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-07-31T09:01:20.390000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mdwk6h/daily_simple_questions_thread_july_31_2025/",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
       "title": "Victory Sunday",
       "permalink": "https://www.reddit.com/r/Fitness/comments/1mmdq7r/victory_sunday/",
-      "score": 40,
+      "score": 41,
       "comments": 64,
       "post_id": "t3_1mmdq7r",
       "post_type": "text",
@@ -689,47 +778,88 @@
       "subreddit": "r/Fitness",
       "created_ts": "2025-08-10T09:00:27.686000+0000",
       "content_href": "https://www.reddit.com/r/Fitness/comments/1mmdq7r/victory_sunday/",
-      "content_preview": "",
+      "content_preview": "Welcome to the Victory Sunday ThreadIt is Sunday, 6:00 am here in the eastern half of Hyder, Alaska. It's time to ask yourself: What was the one, best thing you did on behalf of your fitness this week? What was your Fitness Victory?We want to hear about it!So let's hear your fitness Victory this week! Don't forget to upvote your favorite Victories!",
       "flair": [
         "Victory Sunday"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
-      "title": "Rant Wednesday - July 30, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1md1ko6/rant_wednesday_july_30_2025/",
-      "score": 55,
-      "comments": 238,
-      "post_id": "t3_1md1ko6",
-      "post_type": "text",
-      "domain": "self.Fitness",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-07-30T09:00:37.504000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1md1ko6/rant_wednesday_july_30_2025/",
-      "content_preview": "",
-      "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
-    },
-    {
-      "title": "Daily Simple Questions Thread - July 30, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1md1knv/daily_simple_questions_thread_july_30_2025/",
-      "score": 11,
-      "comments": 173,
-      "post_id": "t3_1md1knv",
+      "title": "Daily Simple Questions Thread - August 23, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1mxwh9y/daily_simple_questions_thread_august_23_2025/",
+      "score": 9,
+      "comments": 67,
+      "post_id": "t3_1mxwh9y",
       "post_type": "multi_media",
       "domain": "self.Fitness",
       "author": "AutoModerator",
       "author_id": "t2_6l4z3",
       "subreddit_id": "t5_2qhx4",
       "subreddit": "r/Fitness",
-      "created_ts": "2025-07-30T09:00:36.942000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1md1knv/daily_simple_questions_thread_july_30_2025/",
-      "content_preview": "",
+      "created_ts": "2025-08-23T09:01:03.739000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1mxwh9y/daily_simple_questions_thread_august_23_2025/",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
       "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "Daily Simple Questions Thread - August 22, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1mx1e9d/daily_simple_questions_thread_august_22_2025/",
+      "score": 9,
+      "comments": 101,
+      "post_id": "t3_1mx1e9d",
+      "post_type": "multi_media",
+      "domain": "self.Fitness",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-08-22T09:01:18.089000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1mx1e9d/daily_simple_questions_thread_august_22_2025/",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "Daily Simple Questions Thread - August 21, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1mw5qkp/daily_simple_questions_thread_august_21_2025/",
+      "score": 14,
+      "comments": 96,
+      "post_id": "t3_1mw5qkp",
+      "post_type": "multi_media",
+      "domain": "self.Fitness",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-08-21T09:01:21.205000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1mw5qkp/daily_simple_questions_thread_august_21_2025/",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "A True Original.",
+      "permalink": "https://www.reddit.com/user/lincoln/comments/1n7s8tn/a_true_original/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n7s8tn",
+      "post_type": "image",
+      "domain": "lincoln.com",
+      "author": "lincoln",
+      "author_id": "t2_sxrt0xla",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-03T21:55:56.213000+0000",
+      "content_href": "https://www.lincoln.com/luxury-suvs/navigator/?tcid=ln-nav3261-ola&bannerid=34017516%7C1005877%7C426993922%7C0%7C0%7CRDT?psocid=msps_reddit%7C{{CAMPAIGN_ID}}%7C{{ADGROUP_ID}}%7C{{AD_ID}}&fcid=pso_{{CAMPAIGN_ID}}_reddit",
+      "content_preview": "The all-new 2025 Navigator® SUV. Mic drop.",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_74b806/styles/profileIcon_dvtpa2xk1ane1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=0a309cf57171f09f5c6b5d9e469b76b5214d99da",
+      "is_promoted": true
     },
     {
       "title": "Victory Sunday",
@@ -745,29 +875,31 @@
       "subreddit": "r/Fitness",
       "created_ts": "2025-08-24T09:00:45.608000+0000",
       "content_href": "https://www.reddit.com/r/Fitness/comments/1myqo3m/victory_sunday/",
-      "content_preview": "",
+      "content_preview": "Welcome to the Victory Sunday ThreadIt is Sunday, 6:00 am here in the eastern half of Hyder, Alaska. It's time to ask yourself: What was the one, best thing you did on behalf of your fitness this week? What was your Fitness Victory?We want to hear about it!So let's hear your fitness Victory this week! Don't forget to upvote your favorite Victories!",
       "flair": [
         "Victory Sunday"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
-      "title": "Daily Simple Questions Thread - July 29, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mc6ghe/daily_simple_questions_thread_july_29_2025/",
-      "score": 30,
-      "comments": 170,
-      "post_id": "t3_1mc6ghe",
+      "title": "Daily Simple Questions Thread - August 17, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1msm15f/daily_simple_questions_thread_august_17_2025/",
+      "score": 12,
+      "comments": 101,
+      "post_id": "t3_1msm15f",
       "post_type": "multi_media",
       "domain": "self.Fitness",
       "author": "AutoModerator",
       "author_id": "t2_6l4z3",
       "subreddit_id": "t5_2qhx4",
       "subreddit": "r/Fitness",
-      "created_ts": "2025-07-29T09:01:13.257000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mc6ghe/daily_simple_questions_thread_july_29_2025/",
-      "content_preview": "",
+      "created_ts": "2025-08-17T09:01:07.708000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1msm15f/daily_simple_questions_thread_august_17_2025/",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
       "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
       "title": "Physique Phriday",
@@ -783,31 +915,31 @@
       "subreddit": "r/Fitness",
       "created_ts": "2025-08-08T09:00:37.970000+0000",
       "content_href": "https://www.reddit.com/r/Fitness/comments/1mkq75i/physique_phriday/",
-      "content_preview": "",
+      "content_preview": "Welcome to the Physique Phriday threadWhat's the point of having people guess your body fat? Nevermind that it's the most inaccurate method available, (read: most likely way wrong -see here) you're still just putting an arbitrary number to the body you have. Despite people's claim that they are shooting for a number, they're really shooting for look - like a six pack.So let's stopping mucking around with trivialities and get to the heart of the matter. This thread shall serve two purposes:Physique critiques.Post some pics and ask about muscles or body parts you need to work on. Or specifically ask about a lagging body part and what exercises worked for others.An outlet for people that want to show off their efforts that would otherwise be removed due toRule 4, andLet's keep things civil, don't be a creep, and adhere toRule 1. This isn't a thread to announce what you find attractive in a mate. Please use the report function for any comments that are out of line.So phittit, what's your physique pheel like this phriday?",
       "flair": [
         "Physique Phriday"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
-      "title": "Moronic Monday - Your weekly stupid questions thread",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mb9b7h/moronic_monday_your_weekly_stupid_questions_thread/",
-      "score": 43,
-      "comments": 208,
-      "post_id": "t3_1mb9b7h",
+      "title": "Daily Simple Questions Thread - August 16, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1mrps7v/daily_simple_questions_thread_august_16_2025/",
+      "score": 6,
+      "comments": 62,
+      "post_id": "t3_1mrps7v",
       "post_type": "multi_media",
       "domain": "self.Fitness",
-      "author": "cdingo",
-      "author_id": "t2_4bjz7",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
       "subreddit_id": "t5_2qhx4",
       "subreddit": "r/Fitness",
-      "created_ts": "2025-07-28T06:58:40.502000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mb9b7h/moronic_monday_your_weekly_stupid_questions_thread/",
-      "content_preview": "",
-      "flair": [
-        "Moronic Monday"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "created_ts": "2025-08-16T09:00:45.151000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1mrps7v/daily_simple_questions_thread_august_16_2025/",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
       "title": "Moronic Monday - Your weekly stupid questions thread",
@@ -823,31 +955,12 @@
       "subreddit": "r/Fitness",
       "created_ts": "2025-08-18T07:04:11.337000+0000",
       "content_href": "https://www.reddit.com/r/Fitness/comments/1mtexmf/moronic_monday_your_weekly_stupid_questions_thread/",
-      "content_preview": "",
+      "content_preview": "Get your dunce hats out, Fittit, it's time for your weekly Stupid Questions Thread.Post your question - stupid or otherwise - here to get an answer. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer. Many questions get submitted late each week that don't get a lot of action, so if your question didn't get answered before, feel free to post it again.As always, be sure to read theFAQfirst.Also, there's a handy-dandysearch bar to your right, and if you didn't know, you can also useGoogleto search fittit by using the limiter \"site:reddit.com/r/fitness\".Be sure to check back often as questions get posted throughout the day.  Lastly, it may be a good idea to sort comments by \"new\" to be sure the newer questions get some love as well.Click here to sort by new in this thread only.So, what's rattling around in your brain this week, Fittit?Keep jokes, trolling, and memes outside of the Moronic Monday thread. Please use the downvote / report button when necessary.\"Bulk or cut\" type questions are not permitted onr/fitness- Refer to the FAQ or post them inr/bulkorcut.",
       "flair": [
         "Moronic Monday"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "Victory Sunday",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mahn09/victory_sunday/",
-      "score": 46,
-      "comments": 63,
-      "post_id": "t3_1mahn09",
-      "post_type": "text",
-      "domain": "self.Fitness",
-      "author": "AutoModerator",
-      "author_id": "t2_6l4z3",
-      "subreddit_id": "t5_2qhx4",
-      "subreddit": "r/Fitness",
-      "created_ts": "2025-07-27T09:00:27.321000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mahn09/victory_sunday/",
-      "content_preview": "",
-      "flair": [
-        "Victory Sunday"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     },
     {
       "title": "Physique Phriday",
@@ -863,17 +976,18 @@
       "subreddit": "r/Fitness",
       "created_ts": "2025-08-22T09:00:37.894000+0000",
       "content_href": "https://www.reddit.com/r/Fitness/comments/1mx1dsw/physique_phriday/",
-      "content_preview": "",
+      "content_preview": "Welcome to the Physique Phriday threadWhat's the point of having people guess your body fat? Nevermind that it's the most inaccurate method available, (read: most likely way wrong -see here) you're still just putting an arbitrary number to the body you have. Despite people's claim that they are shooting for a number, they're really shooting for look - like a six pack.So let's stopping mucking around with trivialities and get to the heart of the matter. This thread shall serve two purposes:Physique critiques.Post some pics and ask about muscles or body parts you need to work on. Or specifically ask about a lagging body part and what exercises worked for others.An outlet for people that want to show off their efforts that would otherwise be removed due toRule 4, andLet's keep things civil, don't be a creep, and adhere toRule 1. This isn't a thread to announce what you find attractive in a mate. Please use the report function for any comments that are out of line.So phittit, what's your physique pheel like this phriday?",
       "flair": [
         "Physique Phriday"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
       "title": "Moronic Monday - Your weekly stupid questions thread",
       "permalink": "https://www.reddit.com/r/Fitness/comments/1mn61qv/moronic_monday_your_weekly_stupid_questions_thread/",
       "score": 31,
-      "comments": 232,
+      "comments": 231,
       "post_id": "t3_1mn61qv",
       "post_type": "multi_media",
       "domain": "self.Fitness",
@@ -883,49 +997,151 @@
       "subreddit": "r/Fitness",
       "created_ts": "2025-08-11T06:57:03.344000+0000",
       "content_href": "https://www.reddit.com/r/Fitness/comments/1mn61qv/moronic_monday_your_weekly_stupid_questions_thread/",
-      "content_preview": "",
+      "content_preview": "Get your dunce hats out, Fittit, it's time for your weekly Stupid Questions Thread.Post your question - stupid or otherwise - here to get an answer. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer. Many questions get submitted late each week that don't get a lot of action, so if your question didn't get answered before, feel free to post it again.As always, be sure to read theFAQfirst.Also, there's a handy-dandysearch bar to your right, and if you didn't know, you can also useGoogleto search fittit by using the limiter \"site:reddit.com/r/fitness\".Be sure to check back often as questions get posted throughout the day.  Lastly, it may be a good idea to sort comments by \"new\" to be sure the newer questions get some love as well.Click here to sort by new in this thread only.So, what's rattling around in your brain this week, Fittit?Keep jokes, trolling, and memes outside of the Moronic Monday thread. Please use the downvote / report button when necessary.\"Bulk or cut\" type questions are not permitted onr/fitness- Refer to the FAQ or post them inr/bulkorcut.",
       "flair": [
         "Moronic Monday"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     },
     {
-      "title": "Daily Simple Questions Thread - July 27, 2025",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1mahnh7/daily_simple_questions_thread_july_27_2025/",
-      "score": 14,
-      "comments": 164,
-      "post_id": "t3_1mahnh7",
+      "title": "Daily Simple Questions Thread - August 08, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1mkq7kz/daily_simple_questions_thread_august_08_2025/",
+      "score": 8,
+      "comments": 109,
+      "post_id": "t3_1mkq7kz",
       "post_type": "multi_media",
       "domain": "self.Fitness",
       "author": "AutoModerator",
       "author_id": "t2_6l4z3",
       "subreddit_id": "t5_2qhx4",
       "subreddit": "r/Fitness",
-      "created_ts": "2025-07-27T09:01:13.869000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1mahnh7/daily_simple_questions_thread_july_27_2025/",
-      "content_preview": "",
+      "created_ts": "2025-08-08T09:01:18.391000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1mkq7kz/daily_simple_questions_thread_august_08_2025/",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
       "flair": [],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "WFH (working from highways): the definitive guide",
+      "permalink": "https://www.reddit.com/user/tmobile/comments/1mxbb8w/wfh_working_from_highways_the_definitive_guide/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mxbb8w",
+      "post_type": "multi_media",
+      "domain": "",
+      "author": "tmobile",
+      "author_id": "t2_2mrvdl8y",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-22T16:32:33.782000+0000",
+      "content_href": "https://www.reddit.com/r/u_tmobile/comments/1mxbb8w/wfh_working_from_highways_the_definitive_guide/",
+      "content_preview": "It’s never been easier to live the digital nomad lifestyle. Here are some tips to help you work (or, you know, not work) from pretty much wherever (home, highways, canyons, etc.). If you want to work from wherever, you need a reliable, expansive network. T-Mobile’s got that and tons of other travel-perfect perks ready for you.DIGITAL NOMAD-ING: A HOW-TO GUIDE1. Lock in a reliable remote connection:Surprise surprise, the first tip in a T-Mobile post is about your network. BUT... stay with us. It’s first because the whole ‘digital nomad’ thing is all about staying connected while you’re traveling. T-Mobile keeps you online with the largest,fastest, and most advanced network available. Just one of the reasons people are calling us the Best Network (officially) according to Ookla® Speedtest®.12.Treat your car like your child (because it basically is):When you’re living the nomad lifestyle, your car is your castle. Your sacred place. Your literal window to the world. Be sure you stay up-to-date on maintenance, keep that gas tank full, and have a first-aid kit in your trunk. Nice-to-know: You can get a year of AAA on us when you switchto T-Mobile, just in case you’re so focused on nature’s beauty that you forget to fill up.23. ABPFAP (always be prepared for a picnic):There are beautiful, stunning, totally-take-your-breath-away views out there just waiting to be… viewed. Make sure you’ve got a picnic go-bag in your trunk (blanket, cards, snacks, maybe even a …cooler?). With more 5Ginterstate highway miles on T-Mobile than with any other provider,3it’s easy to track down hidden gems on your route where picnics seem to grow on trees.4. Catching Zzzs:Sleeping under the stars or in a tent can be serene. It can also quite literally break your back. Every now and then, you’ll want to sprinkle in a night somewhere that has a bed and a shower. Good thing you can save up to 40% on hotels and car rentals as a T-Mobile member.41 Based on analysis by Ookla of Speedtest Intelligence® data 1H 2025. Ookla trademarks used under license and reprinted with permission.2 One year Basic or Classic membership on us requires active voice line on eligible plan, registration, and validation. Membership renews at standard club rate after year on us. Cancel anytime.3 Coverage not available in some areas Some uses may require certain plan or feature; see plan for details.4 Qualifying service or T-Mobile MONEY account required.",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_wkpt1/styles/profileIcon_ourlxm14dyd91.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=830348a441f4d3f0b64ccc814475ac14d30ca85a",
+      "is_promoted": true
+    },
+    {
+      "title": "Victory Sunday",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1mgelkq/victory_sunday/",
+      "score": 48,
+      "comments": 57,
+      "post_id": "t3_1mgelkq",
+      "post_type": "text",
+      "domain": "self.Fitness",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-08-03T09:00:30.167000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1mgelkq/victory_sunday/",
+      "content_preview": "Welcome to the Victory Sunday ThreadIt is Sunday, 6:00 am here in the eastern half of Hyder, Alaska. It's time to ask yourself: What was the one, best thing you did on behalf of your fitness this week? What was your Fitness Victory?We want to hear about it!So let's hear your fitness Victory this week! Don't forget to upvote your favorite Victories!",
+      "flair": [
+        "Victory Sunday"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "Daily Simple Questions Thread - August 03, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1mgem1z/daily_simple_questions_thread_august_03_2025/",
+      "score": 19,
+      "comments": 175,
+      "post_id": "t3_1mgem1z",
+      "post_type": "multi_media",
+      "domain": "self.Fitness",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-08-03T09:01:16.322000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1mgem1z/daily_simple_questions_thread_august_03_2025/",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
       "title": "Gym Story Saturday",
-      "permalink": "https://www.reddit.com/r/Fitness/comments/1m9n6jq/gym_story_saturday/",
-      "score": 60,
-      "comments": 99,
-      "post_id": "t3_1m9n6jq",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1mfkcwo/gym_story_saturday/",
+      "score": 53,
+      "comments": 86,
+      "post_id": "t3_1mfkcwo",
       "post_type": "text",
       "domain": "self.Fitness",
       "author": "FGC_Valhalla",
       "author_id": "t2_3t5h9",
       "subreddit_id": "t5_2qhx4",
       "subreddit": "r/Fitness",
-      "created_ts": "2025-07-26T07:21:14.165000+0000",
-      "content_href": "https://www.reddit.com/r/Fitness/comments/1m9n6jq/gym_story_saturday/",
-      "content_preview": "",
+      "created_ts": "2025-08-02T07:15:40.131000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1mfkcwo/gym_story_saturday/",
+      "content_preview": "Hi! Welcome to your weekly thread where you can share your gym tales!",
       "flair": [
         "Gym Story Saturday"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Daily Simple Questions Thread - August 02, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1mflygn/daily_simple_questions_thread_august_02_2025/",
+      "score": 12,
+      "comments": 94,
+      "post_id": "t3_1mflygn",
+      "post_type": "multi_media",
+      "domain": "self.Fitness",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-08-02T09:01:16.429000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1mflygn/daily_simple_questions_thread_august_02_2025/",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "Physique Phriday",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1mergsr/physique_phriday/",
+      "score": 35,
+      "comments": 36,
+      "post_id": "t3_1mergsr",
+      "post_type": "text",
+      "domain": "self.Fitness",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-08-01T09:00:55.441000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1mergsr/physique_phriday/",
+      "content_preview": "Welcome to the Physique Phriday threadWhat's the point of having people guess your body fat? Nevermind that it's the most inaccurate method available, (read: most likely way wrong -see here) you're still just putting an arbitrary number to the body you have. Despite people's claim that they are shooting for a number, they're really shooting for look - like a six pack.So let's stopping mucking around with trivialities and get to the heart of the matter. This thread shall serve two purposes:Physique critiques.Post some pics and ask about muscles or body parts you need to work on. Or specifically ask about a lagging body part and what exercises worked for others.An outlet for people that want to show off their efforts that would otherwise be removed due toRule 4, andLet's keep things civil, don't be a creep, and adhere toRule 1. This isn't a thread to announce what you find attractive in a mate. Please use the report function for any comments that are out of line.So phittit, what's your physique pheel like this phriday?",
+      "flair": [
+        "Physique Phriday"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
     },
     {
       "title": "Victory Sunday",
@@ -941,12 +1157,188 @@
       "subreddit": "r/Fitness",
       "created_ts": "2025-08-17T09:00:36.135000+0000",
       "content_href": "https://www.reddit.com/r/Fitness/comments/1msm0sq/victory_sunday/",
-      "content_preview": "",
+      "content_preview": "Welcome to the Victory Sunday ThreadIt is Sunday, 6:00 am here in the eastern half of Hyder, Alaska. It's time to ask yourself: What was the one, best thing you did on behalf of your fitness this week? What was your Fitness Victory?We want to hear about it!So let's hear your fitness Victory this week! Don't forget to upvote your favorite Victories!",
       "flair": [
         "Victory Sunday"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "Monthly Recipes Megathread",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1mergtv/monthly_recipes_megathread/",
+      "score": 17,
+      "comments": 18,
+      "post_id": "t3_1mergtv",
+      "post_type": "text",
+      "domain": "self.Fitness",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-08-01T09:00:59.140000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1mergtv/monthly_recipes_megathread/",
+      "content_preview": "Welcome to the Monthly Recipes MegathreadHave an awesome recipe that's helped you meet your macros without wanting to throw up or die of boredom? Share it here!",
+      "flair": [
+        "Megathread"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "Doritos Golden Sriracha are Spicy... But Not Too Spicy. Try them today.",
+      "permalink": "https://www.reddit.com/user/doritos/comments/1mcjon8/doritos_golden_sriracha_are_spicy_but_not_too/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mcjon8",
+      "post_type": "image",
+      "domain": "doritos.com",
+      "author": "doritos",
+      "author_id": "t2_49nmxafd",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-29T18:39:58.619000+0000",
+      "content_href": "https://www.doritos.com/where-to-buy",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_23sqq3/styles/profileIcon_sdfhcswa4mhf1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=53eb100cd8ad5525f2640ce58a1b5445167500fb",
+      "is_promoted": true
+    },
+    {
+      "title": "Daily Simple Questions Thread - August 01, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1merhjq/daily_simple_questions_thread_august_01_2025/",
+      "score": 9,
+      "comments": 63,
+      "post_id": "t3_1merhjq",
+      "post_type": "multi_media",
+      "domain": "self.Fitness",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-08-01T09:02:05.136000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1merhjq/daily_simple_questions_thread_august_01_2025/",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "Daily Simple Questions Thread - July 31, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1mdwk6h/daily_simple_questions_thread_july_31_2025/",
+      "score": 33,
+      "comments": 197,
+      "post_id": "t3_1mdwk6h",
+      "post_type": "multi_media",
+      "domain": "self.Fitness",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-07-31T09:01:20.390000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1mdwk6h/daily_simple_questions_thread_july_31_2025/",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "Rant Wednesday - July 30, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1md1ko6/rant_wednesday_july_30_2025/",
+      "score": 55,
+      "comments": 238,
+      "post_id": "t3_1md1ko6",
+      "post_type": "text",
+      "domain": "self.Fitness",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-07-30T09:00:37.504000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1md1ko6/rant_wednesday_july_30_2025/",
+      "content_preview": "Welcome to Rant Wednesday: It’s your time to let your gym/fitness/nutrition related frustrations out!There is no guiding question to help stir up some rage-feels, feel free to fire at will, ranting about anything and everything that’s been pissing you off or getting on your nerves. Just don't forget that other people are allowed to tell you that your rant is stupid.",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "Daily Simple Questions Thread - July 30, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1md1knv/daily_simple_questions_thread_july_30_2025/",
+      "score": 11,
+      "comments": 173,
+      "post_id": "t3_1md1knv",
+      "post_type": "multi_media",
+      "domain": "self.Fitness",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-07-30T09:00:36.942000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1md1knv/daily_simple_questions_thread_july_30_2025/",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "Daily Simple Questions Thread - July 29, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1mc6ghe/daily_simple_questions_thread_july_29_2025/",
+      "score": 30,
+      "comments": 169,
+      "post_id": "t3_1mc6ghe",
+      "post_type": "multi_media",
+      "domain": "self.Fitness",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-07-29T09:01:13.257000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1mc6ghe/daily_simple_questions_thread_july_29_2025/",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "Daily Simple Questions Thread - August 05, 2025",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1mi43nf/daily_simple_questions_thread_august_05_2025/",
+      "score": 27,
+      "comments": 152,
+      "post_id": "t3_1mi43nf",
+      "post_type": "multi_media",
+      "domain": "self.Fitness",
+      "author": "AutoModerator",
+      "author_id": "t2_6l4z3",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-08-05T09:01:18.209000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1mi43nf/daily_simple_questions_thread_august_05_2025/",
+      "content_preview": "Welcome to the/r/FitnessDaily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrition or your training routine and exercises. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer.As always, be sure toread the wikifirst. Like, all of it. Rule #0 still applies in this thread.Also, there's ahandy search functionto your right, and if you didn't know, you can also use Google to searchr/Fitnessby using the limiter \"site:reddit.com/r/fitness\" after your search topic.Also make sure to check outExamine.comfor evidence based answers to nutrition and supplement questions.If you are posting a routine critique request, make sure you followthe guidelinesfor including enough detail.\"Bulk or cut\" type questions are not permitted onr/Fitness- Refer tothe FAQor post them inr/bulkorcut.Questions thatinvolve pain, injury, or any medical concern of any kindare not permitted onr/Fitness. Seek advice from an appropriate medical professional instead.(Please note: This is not a place for general small talk, chit-chat, jokes, memes, \"Dear Diary\" type comments, shitposting, or non-fitness questions. It is for fitness questions only, and only those that are serious.)",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1",
+      "is_promoted": false
+    },
+    {
+      "title": "Moronic Monday - Your weekly stupid questions thread",
+      "permalink": "https://www.reddit.com/r/Fitness/comments/1mb9b7h/moronic_monday_your_weekly_stupid_questions_thread/",
+      "score": 43,
+      "comments": 208,
+      "post_id": "t3_1mb9b7h",
+      "post_type": "multi_media",
+      "domain": "self.Fitness",
+      "author": "cdingo",
+      "author_id": "t2_4bjz7",
+      "subreddit_id": "t5_2qhx4",
+      "subreddit": "r/Fitness",
+      "created_ts": "2025-07-28T06:58:40.502000+0000",
+      "content_href": "https://www.reddit.com/r/Fitness/comments/1mb9b7h/moronic_monday_your_weekly_stupid_questions_thread/",
+      "content_preview": "Get your dunce hats out, Fittit, it's time for your weekly Stupid Questions Thread.Post your question - stupid or otherwise - here to get an answer. Anyone can post a question and the community as a whole is invited and encouraged to provide an answer. Many questions get submitted late each week that don't get a lot of action, so if your question didn't get answered before, feel free to post it again.As always, be sure to read theFAQfirst.Also, there's a handy-dandysearch bar to your right, and if you didn't know, you can also useGoogleto search fittit by using the limiter \"site:reddit.com/r/fitness\".Be sure to check back often as questions get posted throughout the day.  Lastly, it may be a good idea to sort comments by \"new\" to be sure the newer questions get some love as well.Click here to sort by new in this thread only.So, what's rattling around in your brain this week, Fittit?Keep jokes, trolling, and memes outside of the Moronic Monday thread. Please use the downvote / report button when necessary.\"Bulk or cut\" type questions are not permitted onr/fitness- Refer to the FAQ or post them inr/bulkorcut.",
+      "flair": [
+        "Moronic Monday"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:02:09.996431"
+  "scraped_at": "2025-09-05T03:31:14.505269"
 }

@@ -2,34 +2,239 @@
   "subreddit": "tifu",
   "url": "https://www.reddit.com/r/tifu",
   "meta": {
-    "title": "Today I Fucked Up"
+    "title": "Today I Fucked Up",
+    "description": "/r/TIFU means Today I Fucked Up",
+    "subscribers": 18830414,
+    "online_users": 215,
+    "created_timestamp": "2025-09-05T09:37:17.216000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "r/tifu Rules",
+        "content": "A. All titles must start with TIFU. That's the sub where you are, just do it. B. All posts must have at least 750 characters in the body. Tell us a good story. C. All posts must have a TL;DR at the end. Some of us are too lazy to read your story, sorry. D. Use the NSFW Tag, if a Post isn't Appropriate in General but still follows the rules. (Sex stories and etc.) Note: All posts must contain at least 750 characters of meaningful content. Today I fucked up. Not your grandma, not some dude you saw in the newspaper, not your friend. No victim blaming. No TIFU by getting raped. Those are not your fault. Those are not your fault. Just because something bad happened to you doesn't mean it's your fault. A. No pissing/​shitting your pants. No incest/​rape​/​minors/​bestiality. No death of animals. No glorification of major crimes.  Consensual situations between two, unrelated adults should be fine. Vulgar does not mean using bad words. B. Illegal activities that you glorify or giving advice on how to do something illegal. No humblebrags or stories that have zero consequences and don't go anywhere. Eg \"TIFU by sexy sex\". Moderator discretion. No racism/​bigotry/​homophobia/​transphobia. No personal attacks on other users, no name-calling. No low-effort \"this didn't happen\" type comments. No making posts with the express purpose of promoting your business/video game/porn career.  Even if not mentioned within the text of the post, alluding to links on your profile is not allowed.  This covers implying you will set up a stream/public link/onlyfans in the future, having set up one in the past, or anything along the lines of \"upvote this comment if you want me to do this.\"  These examples are by no means comprehensive, just don't self promote. Mods have the right to supersede any rule and make removals as we see fit, which may or may not be the rules listed in this subreddit."
+      },
+      {
+        "title": "Certain topics always removed",
+        "content": "Obscene sexual situations, such as, but not limited to, incest, minors, and assault. Consensual situations between two, unrelated adults are acceptable. Fuckups resulting in death (including but not limited to animals) These stories are difficult to verify and are sensitive topics. If you or someone you know is suffering from depression and has suicidal thoughts, or if you know someone who has recently taken his or her own life, visit All intentionally illegal TIFUs will be removed. This includes (but not limited to) heavy drug use (one-time drug use is fine), sexual assault/violence, fraud, theft. If it was an accident, you're probably in the clear."
+      },
+      {
+        "title": "Posting privileges",
+        "content": "Moderators reserve the right to remove content or restrict user posting privileges as necessary if it is deemed detrimental to the subreddit or the experience of others. Posting is a privilege not a right."
+      },
+      {
+        "title": "Fuckup of the Month Winners",
+        "content": [
+          {
+            "text": "ImThe1Wh0",
+            "url": "/u/ImThe1Wh0"
+          },
+          {
+            "text": "TIFU by showing my wife to swipe right and see the Popular feed",
+            "url": "https://www.reddit.com/r/tifu/comments/1ijhjm1/tifu_by_showing_my_wife_to_swipe_right_and_see/"
+          },
+          {
+            "text": "Expensive_Aerie_3438",
+            "url": "/u/Expensive_Aerie_3438"
+          },
+          {
+            "text": "TIFU I fell asleep in the bathtub",
+            "url": "https://www.reddit.com/r/tifu/comments/1hsuy4s/tifu_i_fell_asleep_in_the_bathtub/"
+          },
+          {
+            "text": "actuallybaggins",
+            "url": "/u/actuallybaggins"
+          },
+          {
+            "text": "TIFU by making my husband a gloryhole",
+            "url": "https://www.reddit.com/r/tifu/comments/1h97ifk/tifu_by_making_my_husband_a_gloryhole/"
+          },
+          {
+            "text": "FUOTW/FUOTM Archive",
+            "url": "https://www.reddit.com/r/tifu/w/"
+          }
+        ]
+      },
+      {
+        "title": "Notes",
+        "content": [
+          {
+            "text": "/r/tifu",
+            "url": "/r/tifu"
+          },
+          {
+            "text": "message us",
+            "url": "http://www.reddit.com/message/compose?to=%2Fr%2Ftifu"
+          },
+          {
+            "text": "/r/IdeasforTIFU",
+            "url": "/r/IdeasforTIFU"
+          },
+          {
+            "text": "friends",
+            "url": "https://www.reddit.com/r/tifu/w/subs"
+          },
+          {
+            "text": "TINetwork",
+            "url": "http://www.reddit.com/user/IsNotFritzly/m/tifu"
+          },
+          {
+            "text": "r/Politics",
+            "url": "/r/Politics"
+          },
+          {
+            "text": "r/USCIS",
+            "url": "/r/USCIS"
+          },
+          {
+            "text": "r/Tax",
+            "url": "/r/Tax"
+          },
+          {
+            "text": "r/PersonalFinance",
+            "url": "/r/PersonalFinance"
+          },
+          {
+            "text": "r/Reddit",
+            "url": "/r/Reddit"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/tifu/moderators/"
+          }
+        ]
+      },
+      {
+        "title": "Installed Apps",
+        "content": [
+          {
+            "text": "Modmail Assistant",
+            "url": "https://developers.reddit.com/apps/modmailassistant"
+          },
+          {
+            "text": "Flair Assistant",
+            "url": "https://developers.reddit.com/apps/flairassistant"
+          },
+          {
+            "text": "Modqueue Nuke",
+            "url": "https://developers.reddit.com/apps/modqueue-nuke"
+          },
+          {
+            "text": "Community Twist",
+            "url": "https://developers.reddit.com/apps/communitytwist"
+          },
+          {
+            "text": "Modqueue Tools",
+            "url": "https://developers.reddit.com/apps/modqueue-tools"
+          },
+          {
+            "text": "Modmail Automator",
+            "url": "https://developers.reddit.com/apps/auto-modmail"
+          },
+          {
+            "text": "Comment Mop",
+            "url": "https://developers.reddit.com/apps/comment-nuke"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "TIFU by letting my friend get crossfaded",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n6c218/tifu_by_letting_my_friend_get_crossfaded/",
-      "score": 0,
-      "comments": 3,
-      "post_id": "t3_1n6c218",
+      "title": "TIFU by Turning My Zoom Meeting into a Cat Show",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n90q7l/tifu_by_turning_my_zoom_meeting_into_a_cat_show/",
+      "score": 6,
+      "comments": 2,
+      "post_id": "t3_1n90q7l",
       "post_type": "text",
       "domain": "self.tifu",
-      "author": "ExpertMost8400",
-      "author_id": "t2_b67ca45r5",
+      "author": "Successful_Listen116",
+      "author_id": "t2_uocytxzd",
       "subreddit_id": "t5_2to41",
       "subreddit": "r/tifu",
-      "created_ts": "2025-09-02T06:21:24.859000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n6c218/tifu_by_letting_my_friend_get_crossfaded/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T09:37:17.216000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n90q7l/tifu_by_turning_my_zoom_meeting_into_a_cat_show/",
+      "content_preview": "This happened yesterday during a crucial work Zoom call. I was presenting a major report to my team, feeling like I had it all together. Then my cat, Fluffy, decided it was her time to shine. Out of nowhere, she jumped onto my desk, knocked over my full coffee mug, and started meowing at the camera like she was the star of the show. In a panic, I tried to shoo her away, but I accidentally unmuted myself and yelled, “Fluffy, not now!” My entire team heard it, and my boss laughed so hard she snorted. Coffee soaked my notes, and Fluffy just sat there, purring smugly. Now my coworkers keep posting cat emojis in our group chat, and someone even suggested Fluffy join the next meeting. I’m officially the office “cat guy.” Should’ve locked the door!TL;DR: TIFU by letting my cat crash my Zoom call, spill coffee, and turn me into an office meme.",
+      "flair": [
+        "S"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "3 money mistakes costing you thousands",
+      "permalink": "https://www.reddit.com/user/bens-list/comments/1n60bj0/3_money_mistakes_costing_you_thousands/",
+      "score": 4,
+      "comments": 0,
+      "post_id": "t3_1n60bj0",
+      "post_type": "text",
+      "domain": "",
+      "author": "bens-list",
+      "author_id": "t2_1vor45qf97",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-01T20:49:01.887000+0000",
+      "content_href": "https://www.reddit.com/r/u_bens-list/comments/1n60bj0/3_money_mistakes_costing_you_thousands/",
+      "content_preview": "You're overpaying for car insuranceIf you haven’t checked your insurance rates in the last 6 months or so, do it.If you’re a good driver, your auto insurance rate should be dropping (not rising), cos you’re less of a risk to insure.They count on you not shopping around. Don’t let them win. Use a comparison site to find a better deal (I used this one: link here).You're missing out on potential savings when you shop onlineAmazon isn’t always going to show you the best deals.Use a savings app like Capital One Shopping. It auto-compares prices and applies coupons while you shop. It’s free so prob worth a try.You should find someone to help manage your moneyIf you can find the right financial advisor they’ll help make sense of your money and help you plan for the future.People with a good financial advisor can see yearly returns boosted by ~3% (Vanguard, 2019).If you don’t know one, try a comparison site to find someone with solid reviews (link here).",
+      "flair": [],
+      "thumbnail_url": "https://preview.redd.it/snoovatar/avatars/3a258628-4146-4e26-8c92-55f39f04646d-headshot.png?width=48&height=48&auto=webp&s=644408d93167ee01c258a105896a313301fbc22d",
+      "is_promoted": true
+    },
+    {
+      "title": "TIFU by making my world-class chef girlfriend the perfect toastie",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n4jy2e/tifu_by_making_my_worldclass_chef_girlfriend_the/",
+      "score": 10053,
+      "comments": 1048,
+      "post_id": "t3_1n4jy2e",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "0tk",
+      "author_id": "t2_i1ing",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-08-31T03:00:33.609000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n4jy2e/tifu_by_making_my_worldclass_chef_girlfriend_the/",
+      "content_preview": "TL;DR: My girlfriend is a top-tier chef who's so good she's rejected opportunities to work at one of the world's best restaurants. I made her one toastie during her period and now she's demanding I make it daily because apparently I'm better at melted cheese between bread than she is.This happened about a month ago but I'm still processing the absurdity of it all (as I'm making her a toastie).So my girlfriend is basically a Goddess tier chef. She's worked at restaurants that people literally book flights to visit. We're talking the kind of place where you need to make reservations months in advance. She once turned down a job offer some rating authorities consider one of the best restaurants in the world,  because she ate there as a customer first and decided their garden salad was uninspired and their wait staff were weird.When we moved in together, I quickly learned that despite being a decent cook myself, I was now living with someone who could probably make roadkill taste like wagyu beef. She has opinions about salt types and doesn't want me touching her fancy cookware. I love cooking, but I'm not about to go to war with someone who makes me dishes with love hearts made of sauce (Reduction? Foam?) So I gracefully stepped aside and let her handle the kitchen duties at home.Fast forward to last month. She's on her period, feeling like absolute garbage, and asks me to make her a tomatoe toastie (grilled cheese for you Americans). Simple request, right? I figure even I can't mess up butter, bread, tomato and cheese. So I make her this completely basic toastie, nothing fancy, just sourdough, some good aged cheddar, butter both sides, medium heat, flip once. Standard stuff that literally any functioning adult should be able to do.She takes one bite and goes completely silent. I'm thinking I've somehow managed to offend her palate with my peasant-level toastie skills. Then she looks at me with genuine confusion and says, \"I can't make it this good.\"I laughed because I thought she was joking. This woman can do things with molecular gastronomy that would make Heston Blumenthal weep. She's forgotten more about food than I'll ever know. There's no way she can't make a better toastie than me.But here's where I fucked up: I was wrong.For the past month, she's been asking me to make her toasties almost every single day. Yesterday she literally came home from work where she probably spent 12 hours creating culinary masterpieces that cost more per plate than most people's weekly groceries - and the first thing she said was \"Can you make me that toastie?\"I've created a monster. This woman who can taste a soup and rattle off all the ingredients in it can't figure out how to make melted cheese between bread as well as I can.The worst part? I have absolutely no idea what I'm doing differently. I've tried telling her my \"technique\" but it's literally just... making a toastie. There's no secret. I'm not doing anything special. But somehow my basic-ass toastie game has broken the brain of someone who could probably cook circles around most professional chefs.Now I'm trapped in this weird situation where I'm too afraid to refuse because she gets genuinely excited about these toasties, but also I'm pretty sure I've accidentally insulted her entire professional identity with my superior bread-and-cheese skills.The irony is not lost on me that the one thing I can cook better than her is something that requires literally no skill whatsoever.",
       "flair": [
         "M"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU by petting my chickens",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n7uy69/tifu_by_petting_my_chickens/",
+      "score": 1162,
+      "comments": 69,
+      "post_id": "t3_1n7uy69",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "sdemat",
+      "author_id": "t2_cqx4j",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-09-03T23:50:30.772000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n7uy69/tifu_by_petting_my_chickens/",
+      "content_preview": "So we have chickens, ten hens to be exact. First year of having them and at least five of them are currently laying. We also had a rooster for a few months until a couple of weeks ago when we had to re-home him because he was getting too aggressive.Anyway, since rehoming him, I can now go into their run and sit down. When I do, they’ll usually come up to me and peck at my legs.The other day one of them jumped on my lap. So I started petting her. After a few minutes she lowered herself and put her wings out. I figured she was doing it because she liked scritches.Cue others coming to me now wanting scritches. I thought it was great. Hey, without the rooster I can finally hang out with the chickens and pet them.So last night my wife and I are outside. We let them free range for a bit supervised. My wife was cleaning the coop while I was watching them. One came up to me and I started petting her. She got down, spread her wings and started making weird noises.I said to my wife “Look! Man these girls really like getting pets. She’s even shaking her feathers”My wife called me an idiot and said “she thinks you’re trying to mate with her, dumbass. Why do you think she’s sticking her ass in the air?”So I immediately stopped. Chicken shaked her feathers and bawked off.Now when I go into their run to feed them they all jump on their roost and lower themselves for me.TLDR: tried bonding with our chickens by giving them pets. Evidently gave them the wrong idea.",
+      "flair": [
+        "S"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "TIFU by asking a 5-year-old if he had any questions",
       "permalink": "https://www.reddit.com/r/tifu/comments/1n1cwb8/tifu_by_asking_a_5yearold_if_he_had_any_questions/",
-      "score": 3720,
-      "comments": 299,
+      "score": 3742,
+      "comments": 300,
       "post_id": "t3_1n1cwb8",
       "post_type": "text",
       "domain": "self.tifu",
@@ -39,256 +244,101 @@
       "subreddit": "r/tifu",
       "created_ts": "2025-08-27T10:03:11.398000+0000",
       "content_href": "https://www.reddit.com/r/tifu/comments/1n1cwb8/tifu_by_asking_a_5yearold_if_he_had_any_questions/",
-      "content_preview": "",
+      "content_preview": "So I work as a pediatric nurse, and today I had a sweet little 5-year-old patient. Everything was going fine, and at the end of the visit I tried to be nice and professional, so I asked him: “Do you have any questions?” I expected something like “When can I go home?” or “Do I get a sticker?”Instead, without hesitation, he looked me dead in the eyes and said:“Why don’t sharks have eyebrows?”I completely froze. My brain went blank. I’ve studied medicine, child care, and a thousand other things… but not once in my entire education has anyone prepared me for that kind of question.I tried to laugh it off and told him I’d “do some research” but honestly I’m still thinking about it. I left the room questioning my entire existence. Why DON’T sharks have eyebrows? Do fish even need them? Am I dumb for not knowing? Google didn’t help much either.Anyway, that 5-year-old destroyed my confidence in 3 seconds flat.TL;DR:I asked a 5-year-old patient if he had questions. Instead of something normal, he asked why sharks don’t have eyebrows. I still don’t know the answer.",
       "flair": [
         "S"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "TIFU by accidentally sexting my boss",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n5wws8/tifu_by_accidentally_sexting_my_boss/",
-      "score": 679,
-      "comments": 70,
-      "post_id": "t3_1n5wws8",
+      "title": "TIFU by mixing up my flight time like I suddenly developed “borrowed dislexia”",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n87icg/tifu_by_mixing_up_my_flight_time_like_i_suddenly/",
+      "score": 97,
+      "comments": 43,
+      "post_id": "t3_1n87icg",
       "post_type": "text",
       "domain": "self.tifu",
-      "author": "XMenPerseus56x",
-      "author_id": "t2_1ur4fudeyk",
+      "author": "Temporary_Royal_2260",
+      "author_id": "t2_1fhywvu0qy",
       "subreddit_id": "t5_2to41",
       "subreddit": "r/tifu",
-      "created_ts": "2025-09-01T18:38:48.635000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n5wws8/tifu_by_accidentally_sexting_my_boss/",
-      "content_preview": "",
+      "created_ts": "2025-09-04T11:26:06.425000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n87icg/tifu_by_mixing_up_my_flight_time_like_i_suddenly/",
+      "content_preview": "So yesterday I had a flight, and I swear I checked my ticket and boarding pass like a hundred times. In my head, I kept repeating 10:50pm, 10:50pm, 10:50pm. I was chill, confident, even proud of being so prepared. Fast forward to when I get to the airport… the real departure time? 10:05pm. Yep. I was 45 minutes off. My heart dropped so fast I almost left my soul at security.Here’s the twist: my boyfriend has dislexia (his words, not mine 😂), and after two years together I feel like I’ve somehow “absorbed” it. My brain just decided to rewrite numbers. Luckily, he’s British, which means he thinks being early to literally everything is a moral obligation. Thanks to him dragging us to the airport hours early, I didn’t miss the flight. Honestly, I think he saved my relationship with both the airline and my sanity.Now I’m wondering… has anyone else ever mentally rewritten their flight time and almost ruined everything? Or am I the only one catching “secondhand dislexia”?TL;DR: Misread my flight time as 10:50pm instead of 10:05pm, almost missed the flight, but my super-punctual boyfriend saved the day.",
       "flair": [
         "S"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "TIFU by accidentally causing five children to be bullied for the rest of their lives",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1mner9d/tifu_by_accidentally_causing_five_children_to_be/",
-      "score": 4346,
-      "comments": 159,
-      "post_id": "t3_1mner9d",
+      "title": "TIFU by unintentionally making my girlfriend’s parents think I mentally handicapped during a family dinner.",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n5rqt8/tifu_by_unintentionally_making_my_girlfriends/",
+      "score": 2561,
+      "comments": 126,
+      "post_id": "t3_1n5rqt8",
       "post_type": "text",
       "domain": "self.tifu",
-      "author": "Elfwing",
-      "author_id": "t2_k9fmt",
+      "author": "ExternalFrosting9623",
+      "author_id": "t2_g2h4yiam",
       "subreddit_id": "t5_2to41",
       "subreddit": "r/tifu",
-      "created_ts": "2025-08-11T14:38:39.370000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1mner9d/tifu_by_accidentally_causing_five_children_to_be/",
-      "content_preview": "",
+      "created_ts": "2025-09-01T15:27:59.847000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n5rqt8/tifu_by_unintentionally_making_my_girlfriends/",
+      "content_preview": "For context, I’m the guardian of my autistic sister. She masks very well in public to the point of passing being normal. But when she’s not masking, she can look really bratty at best, and downright weird to other people at worst. I don’t care. The goofball is my sister and I love her.Anyways, whenever I go on dates, she hangs out with friends she can trust to partially unmask with. But things came up for them, and this dinner I was invited too, lined up with a time where her friends were all unavailable. I wanted to reschedule. But my girlfriend gave me a half apologetic, half worried look. This was with her parents. And her parents weren’t the type to bend and reschedule unless I was in the hospital or something.I was already worried about meeting them before. I knew that they weren’t exactly the warm and fuzzies type of people from the stories she’s told. They were very much… a product of their time to say the least. But if they wanted me to come, I’d have to bring my sister. My sister was fine with with coming along. Well, until we actually got there.The three of us went. And my God, it was awkward. My girlfriend had already briefed them about my situation. They knew I was my sisters guardian. And they knew she was autistic. But what they didn’t know, was that autistic people can be functioning humans.When they introduced themselves to her, it was as if they were talking to a baby with their voices slow and high pitched. My girlfriend cringed and reiterated to them that my sister isn’t like the autistic kids they’re thinking of. My sister even shocked them by awkwardly laughing and introducing herself normally.Apparently my girlfriend has been trying to tell them for months that she can mask. But they didn’t quite understand what that meant until literally now. Well, kind of. They still had their own idea of how an autistic person should act. Of course neither me or my sister wanted to be rude, and we tried being polite. But man was their assumptions grating.On top of interrogating me about my job, they kept bringing up that it’s okay for my sister to unmask. Of course, she didn’t, she wasn’t comfortable. She eventually excused herself, and I followed after. As we left I overheard my girlfriend berating her parents for being so rude.We went outside, and I comforted my sister. She was not having a good time here and wanted to go home. I agreed, and to make her feel better we joked about what she’d look like to them unmasking, and since both of us are meme shitposters, we pretended to be stereotypical autistic kids that my girlfriends parents were definitely thinking of.The fuck up, we kept up the act a bit too long, and my girlfriend and her dad walked out on us looking like idiots. Something clicked in his head and he started giving me that “stay away from my daughter” vibe.I let him know that my sister wasn’t feeling well and we were gonna head out. He gruffly agreed. And before my girlfriend could come with us, her dad told her to stay. They had something to discuss. All my girlfriend could do was give me a “I’m so fucking sorry” look.The next day, me and my girlfriend met up. And she looked so done with life. Apparently after me and my sister left, her family got into a huge argument about me dating her. Her parents are convinced that I was masking being autistic too. And that we shouldn’t be dating. They didn’t want to have grandkids like “us”. Not like that would be an issue for more reasons than one.Safe to say, I don’t think I have her parent’s blessing. And won’t be anytime soon. Luckily, she doesn’t really care and is on my side. But I would have liked to have been on her parents good side before I popped the question with my girlfriend, even I didn’t have to interact with them.TLDR: I took my autistic sister with my girlfriend to meet her parents. They made my sister feel uncomfortable; wanting to see her unmasked. And to make her feel better we both pretended to be exactly the kind of people they though she would be in private. My girlfriends dad saw. This sullied their perception of me, and now they think I’ll give my girlfriend autistic grandkids.",
       "flair": [
-        "M"
+        "L"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "TIFU by accidentally traumatizing my barber",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n5wrl2/tifu_by_accidentally_traumatizing_my_barber/",
-      "score": 385,
-      "comments": 23,
-      "post_id": "t3_1n5wrl2",
+      "title": "TIFU by eating a ghost pepper",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n81rau/tifu_by_eating_a_ghost_pepper/",
+      "score": 204,
+      "comments": 62,
+      "post_id": "t3_1n81rau",
       "post_type": "text",
       "domain": "self.tifu",
-      "author": "W1ndLordXD",
-      "author_id": "t2_1ur0bcj0sd",
+      "author": "ziptnf",
+      "author_id": "t2_4dkqq",
       "subreddit_id": "t5_2to41",
       "subreddit": "r/tifu",
-      "created_ts": "2025-09-01T18:33:30.202000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n5wrl2/tifu_by_accidentally_traumatizing_my_barber/",
-      "content_preview": "",
-      "flair": [
-        "S"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "TIFU by not knowing who I was talking to at work",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n2dyyo/tifu_by_not_knowing_who_i_was_talking_to_at_work/",
-      "score": 2856,
-      "comments": 197,
-      "post_id": "t3_1n2dyyo",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "PBJBurple",
-      "author_id": "t2_3x3k9cm9",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-08-28T14:36:50.367000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n2dyyo/tifu_by_not_knowing_who_i_was_talking_to_at_work/",
-      "content_preview": "",
+      "created_ts": "2025-09-04T05:29:50.261000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n81rau/tifu_by_eating_a_ghost_pepper/",
+      "content_preview": "I have a ghost pepper plant in my backyard, and it produced a beautiful, cherry-red pepper about a week ago. I love spicy stuff, and I’ve had ghost pepper hot sauce before. But this year, the rest of the plant has been lagging behind as this was the first pepper. It was on the verge of getting a little soft since I had been letting it sit on my countertop for a while. Finally, I said fuck it, and chopped it up to put it on my taco and ate it in front of my girlfriend and children.Do not do this thing.I immediately began crying and breathing hard for the next 15 minutes while my children were freaking out and my girlfriend was laughing at me and keeping them calm. I ate some ice cream and drank some milk while the pain subsided. But the worst part was coming several hours later.I am now in my bed entirely unable to sleep because I have a fireball in my guts. Several trips to the bathroom later, and the main part with the pepper still isn’t out yet.TLDR: ate a ghost pepper, painful at first, more painful later. Can’t sleep due to ball of pain in my guts.",
       "flair": [
         "S"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "TIFU by misunderstanding gym etiquette",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n5wuq8/tifu_by_misunderstanding_gym_etiquette/",
-      "score": 233,
-      "comments": 34,
-      "post_id": "t3_1n5wuq8",
+      "title": "TIFU by pavloving myself into craving a smoke whenever I need to pee.",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n908un/tifu_by_pavloving_myself_into_craving_a_smoke/",
+      "score": 8,
+      "comments": 0,
+      "post_id": "t3_1n908un",
       "post_type": "text",
       "domain": "self.tifu",
-      "author": "XF10xxo",
-      "author_id": "t2_1ur42h5r0k",
+      "author": "casualwalkabout",
+      "author_id": "t2_de3ymuhx",
       "subreddit_id": "t5_2to41",
       "subreddit": "r/tifu",
-      "created_ts": "2025-09-01T18:36:43.474000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n5wuq8/tifu_by_misunderstanding_gym_etiquette/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T09:07:05.635000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n908un/tifu_by_pavloving_myself_into_craving_a_smoke/",
+      "content_preview": "Not exactly today, but it only dawned on me todayI’m a secondary school teacher and have been for many a year. I’m also a smoker(tobacco)but I never smoke inside. As a teacher I drink a bit of coffee, to underline a stereotype.During Covid, I taught my students online, which was horrible in ever sense of the word. Now, I’m not allowed smoking when I’m at work, so that’s not an issue, but when I taught online I could go for a smoke between sessions, as well as going to the bathroom. Also I can go down in my yard and smoke in weekends whenever I like, obviously.Today, my daughter(12), remarked that I always seem to go to the bathroom after a smoke, and I realised she is right! I go for a smoke when I need to pee. Somehow, during Covid-lockdown this became a habit.This also means I it will be easier to focus on quitting, since I have figured out one of the triggers.TL;DR: Taught from home, smoked during breaks, now conditioned to smoke when I need to pee.",
       "flair": [
         "S"
       ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "TIFU by falling for a guy who consumed my heart entirely, but now I’m starting to reclaim my life",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n695dj/tifu_by_falling_for_a_guy_who_consumed_my_heart/",
-      "score": 0,
-      "comments": 8,
-      "post_id": "t3_1n695dj",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "Elle_lov3",
-      "author_id": "t2_13uukqw7k0",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-09-02T03:33:21.136000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n695dj/tifu_by_falling_for_a_guy_who_consumed_my_heart/",
-      "content_preview": "",
-      "flair": [
-        "M"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_bvxx6h/styles/profileIcon_fbc5b1aglx0f1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1ea317cd838649b795bac2850e9d7730bcb2f1b9"
-    },
-    {
-      "title": "TIFU by teaching my daughter to say please",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1mgvvos/tifu_by_teaching_my_daughter_to_say_please/",
-      "score": 3637,
-      "comments": 91,
-      "post_id": "t3_1mgvvos",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "Specialist-Alps6478",
-      "author_id": "t2_7fsihdbj",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-08-03T21:59:25.282000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1mgvvos/tifu_by_teaching_my_daughter_to_say_please/",
-      "content_preview": "",
-      "flair": [
-        "M"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "TIFU by going to the wrong movie theater and accidentally trying to put my arm around a stranger while my date thought I disappeared",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n5vvj3/tifu_by_going_to_the_wrong_movie_theater_and/",
-      "score": 104,
-      "comments": 9,
-      "post_id": "t3_1n5vvj3",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "AkiShay16",
-      "author_id": "t2_4cfoxe4g",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-09-01T18:01:04.635000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n5vvj3/tifu_by_going_to_the_wrong_movie_theater_and/",
-      "content_preview": "",
-      "flair": [
-        "M"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "TIFU by telling my son to “go get his girl”",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1myls5t/tifu_by_telling_my_son_to_go_get_his_girl/",
-      "score": 2198,
-      "comments": 144,
-      "post_id": "t3_1myls5t",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "[deleted]",
-      "author_id": "",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-08-24T04:03:13.225000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1myls5t/tifu_by_telling_my_son_to_go_get_his_girl/",
-      "content_preview": "",
-      "flair": [
-        "S"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "TIFU by underestimating the body's ability to absorb caffeine through one's skin",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n5c0qk/tifu_by_underestimating_the_bodys_ability_to/",
-      "score": 1617,
-      "comments": 107,
-      "post_id": "t3_1n5c0qk",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "PollutionLopsided742",
-      "author_id": "t2_1ckdpltk5p",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-09-01T01:41:08.259000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n5c0qk/tifu_by_underestimating_the_bodys_ability_to/",
-      "content_preview": "",
-      "flair": [
-        "S"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "TIFU by forgetting what the “C” meant on COVID tests and quarantining my daughter for a day",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n3axsk/tifu_by_forgetting_what_the_c_meant_on_covid/",
-      "score": 1792,
-      "comments": 212,
-      "post_id": "t3_1n3axsk",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "madcoolmusic",
-      "author_id": "t2_oy7eo10",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-08-29T15:44:25.652000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n3axsk/tifu_by_forgetting_what_the_c_meant_on_covid/",
-      "content_preview": "",
-      "flair": [
-        "M"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "TIFU by assuming the worst with my computer",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n5oaw4/tifu_by_assuming_the_worst_with_my_computer/",
-      "score": 131,
-      "comments": 67,
-      "post_id": "t3_1n5oaw4",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "kaida27",
-      "author_id": "t2_30qo3ebp",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-09-01T13:10:58.333000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n5oaw4/tifu_by_assuming_the_worst_with_my_computer/",
-      "content_preview": "",
-      "flair": [
-        "M"
-      ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "TIFU by repeatedly poisoning myself with cyanide.",
       "permalink": "https://www.reddit.com/r/tifu/comments/1mutxnr/tifu_by_repeatedly_poisoning_myself_with_cyanide/",
-      "score": 3616,
+      "score": 3628,
       "comments": 331,
       "post_id": "t3_1mutxnr",
       "post_type": "text",
@@ -299,136 +349,141 @@
       "subreddit": "r/tifu",
       "created_ts": "2025-08-19T20:24:14.232000+0000",
       "content_href": "https://www.reddit.com/r/tifu/comments/1mutxnr/tifu_by_repeatedly_poisoning_myself_with_cyanide/",
-      "content_preview": "",
+      "content_preview": "Obligatory ‘not today’, but something I’ve just realized I did when I was younger.When I was younger, maybe 8-12, black cherries were my absolute favorite fruit. My mom would bring home a bag or two and I’d happily eat all of them in one sitting.But every single time, not long after, I’d get wrecked—horrible stomach pain, nausea, pounding headaches. When I gained the slightest bit of intelligence, I put two and two together and realized I must be allergic, so I eventually stopped eating my favorite fruit.Fast forward to recently: I found out cherry pits contain cyanide. And when I was a kid? I didn’t just eat the cherries. I chewed and swallowed every single pit. Whole bags of them. For years. My mom swears she warned me not to eat the pits, but I don’t remember it at all and obviously didn’t listen.So yeah…turns out I wasn’t allergic. I was just repeatedly giving myself cyanide poisoning. I was not smart child.TL;DR: As a child, didn’t realize cherry pits contained cyanide and would repeatedly eat multiple bags of cherries + pits, resulting in repeated mild cyanide poisoning.",
       "flair": [
         "S"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "TIFU by sending a text to the wrong person",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n5mbt7/tifu_by_sending_a_text_to_the_wrong_person/",
-      "score": 146,
-      "comments": 7,
-      "post_id": "t3_1n5mbt7",
+      "title": "TIFU by letting a guy into my apartment with knives, a expensive bottle of wine, and a rug as a gift",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n7pdqv/tifu_by_letting_a_guy_into_my_apartment_with/",
+      "score": 466,
+      "comments": 239,
+      "post_id": "t3_1n7pdqv",
       "post_type": "text",
       "domain": "self.tifu",
-      "author": "BlazeLion563",
-      "author_id": "t2_1uz5ovpqrv",
+      "author": "Impossible-Radish-75",
+      "author_id": "t2_aro1r0k0b",
       "subreddit_id": "t5_2to41",
       "subreddit": "r/tifu",
-      "created_ts": "2025-09-01T11:36:23.270000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n5mbt7/tifu_by_sending_a_text_to_the_wrong_person/",
-      "content_preview": "",
-      "flair": [
-        "S"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "TIFU by ignoring my friend's text",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n5jkb0/tifu_by_ignoring_my_friends_text/",
-      "score": 58,
-      "comments": 7,
-      "post_id": "t3_1n5jkb0",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "Longjumping-Field236",
-      "author_id": "t2_jabbmn78",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-09-01T08:50:42.167000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n5jkb0/tifu_by_ignoring_my_friends_text/",
-      "content_preview": "",
+      "created_ts": "2025-09-03T20:05:03.016000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n7pdqv/tifu_by_letting_a_guy_into_my_apartment_with/",
+      "content_preview": "(repost fromr/offmychestthis story is honestly laughable on how stupid I was)I survived a first date that felt like a HomeGoods or Top Chef crossover… with a side of serial killer vibes.Last week, I let a guy I barely knew into my apartment and he showed up armed with his own knives, brought a $145 bottle of wine, and gifted me a rug. Yes, a literal rug.He had driven two hours to see me. When I met him in the parking lot, he was casually pouring transmission fluid into his car not exactly first-date vibes, but okay.He walked in, set down the wine, handed me the rug as a gift, and unpacked his own set of knives to cook a full-on 5-star meal. Perfectly plated, delicious, restaurant-level. Meanwhile, I sat there thinking: wow, okay… knives +wine +rug +gourmet dinner, sure.Here’s where I fucked up: I was dumb,extremely naive, and basically handed a random man a VIP pass to my apartment. I assumed all of this meant he wanted to actually date me. But the conversation was basically non-existent. I tried asking questions, making comments, anything but he was polite, quiet, and completely unreadable.We ate in near silence, and then out of nowhere he said:“Sorry…this isn’t gonna work.” Just like that. He packed up his knives, left, and that was it.Later, I looked up the wine because I don’t drink (also underage, so I planned to give it to one of my sisters). Turns out it was a Honig Rutherford Late Harvest Sauvignon Blanc 2013 (375ml) $78 for that tiny bottle. Who spends that kind of money on someone they barely know?I wasn’t heartbroken, but I was so confused. If he wasn’t interested, why go through all that effort? The knives, the two-hour drive, the $145 wine, the gourmet meal, and gifting a rug the whole thing was bizarre. Now I have leftovers, a wine I can’t drink, and a new rug I didn’t expect but now own.TL;DR: Let a guy into my apartment last week who brought knives, a $145 bottle of wine, and a rug as a gift, cooked me a 5-star meal, barely spoke, then dumped me mid-date. I survived unscathed… mostly. Also now I own a rug and fancy wine, and I might need pepper spray. Lesson definitely learned.Edit: Since it keeps being brought up in the comments and I didn’t realize I forgot to put the ages (it's in my original post tho) I am 18-19 at the (end of the month). He is freshly 19 at least that what I was told. I am in United States where the legal age is 21 which is why I refer myself to underage (under the drinking age). In absolutely no way am I claiming victim or that he had fully intentions to hurt me- however I am claiming stupidity of my actions letting a man I've only talked over a phone with in my home. There just happened to be weird+ not the norm + totally wack circumstances also. Moral of the story a first date should be public dates!",
       "flair": [
         "M"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "TIFU by cleaning old dog peepee and ending up in the ER",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1mzg98t/tifu_by_cleaning_old_dog_peepee_and_ending_up_in/",
-      "score": 1710,
-      "comments": 154,
-      "post_id": "t3_1mzg98t",
+      "title": "Marvel Rivals Season 3: The Abyss Awakens. New heroes, no grind, more freedom",
+      "permalink": "https://www.reddit.com/user/MarvelRivals/comments/1n0nk1n/marvel_rivals_season_3_the_abyss_awakens_new/",
+      "score": 8,
+      "comments": 0,
+      "post_id": "t3_1n0nk1n",
       "post_type": "multi_media",
-      "domain": "self.tifu",
-      "author": "punkythebrewster",
-      "author_id": "t2_hw2yt",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-08-25T03:45:08.454000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1mzg98t/tifu_by_cleaning_old_dog_peepee_and_ending_up_in/",
-      "content_preview": "",
-      "flair": [
-        "L"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_azutj/styles/profileIcon_gvwcaxosvdlf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2019d9fc8e0e6eabbd6e89dc7617a8f3c55d1511"
+      "domain": "",
+      "author": "MarvelRivals",
+      "author_id": "t2_1h7e6g8qyl",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-26T14:36:00.480000+0000",
+      "content_href": "https://www.reddit.com/r/u_MarvelRivals/comments/1n0nk1n/marvel_rivals_season_3_the_abyss_awakens_new/",
+      "content_preview": "Hey Rivals community –Marvel Rivals Season 3just unlocked onJuly 11, 2025, and this update changes everything you thought you knew.What’s new:New Duelist –Phoenix (Jean Grey):Wield fiery AoE, teleportation, self‑heal, and insane burst potential. Her synergy with Wolverine? Too hot to handle.Cosmic FlamesLaunch a flaming projectile that applies 1 Spark to enemies on hit.Critical hits apply 2 Sparks.When an enemy reaches 3 Sparks, they explode in a fiery blast that damages nearby foes, applies 1 Spark to them, and heals Phoenix over time.Note: Explosion Sparks won't stack repeatedly in a short window.Telepathic IllusionLeave behind an illusion and instantly teleport in the desired direction, followed by detonating the illusion. Enemies hit are applied with 1 Spark.Dark Ascent + Telekinesis BurstMerge with the Phoenix, entering a state of free flight. Gain a Movement Boost while continuously replenishing ammunition.Mark a targeted area with a psionic energy, followed by a series of fiery explosions. The first blast Stuns enemies, whiles the subsequent two explosions inflict Slow. Applies 1 Spark to enemies hit.ULT: Endsong InfernoSoar into the sky with the Phoenix and crash down onto a selected area, dealing devastating damage to enemies while creating a shockwave that destroys enemy summons, shields, and any Bonus Health. Enemies hit are applied with 1 Spark.Team-Up Ability:Mind's GraceJean Grey imbues Wolverine with the awe-inspiring Phoenix Force. His Feral Leap transforms intoPhoenix Warrior, enveloping him in blazing Phoenix flames that continuously burn both himself and nearby enemies, dealing damage based on their max health. While in this state, Wolverine’s abilities gain Lifesteal when dealing damage.Fun Factor:Beyond the mechanics,Marvel Rivalsthrives on moments that make you laugh, cheer, and sometimes facepalm. Whether it's a perfectly timed combo or a hilarious misplay, the game delivers memorable experiencesJoin the Chaos:Whether you're a seasoned Duelist or just in for the fun,Marvel Rivalsoffers a playground where every match is a new adventure.",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dcxqlg/styles/profileIcon_7nwoq178j5de1.jpeg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=018bf44c2be91f933439843d86e017a06cfbd6f0",
+      "is_promoted": true
     },
     {
-      "title": "TIFU by accidentally poisoning my roommate",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n2xwen/tifu_by_accidentally_poisoning_my_roommate/",
-      "score": 1052,
-      "comments": 39,
-      "post_id": "t3_1n2xwen",
+      "title": "TIFU by underestimating the body's ability to absorb caffeine through one's skin",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n5c0qk/tifu_by_underestimating_the_bodys_ability_to/",
+      "score": 1934,
+      "comments": 116,
+      "post_id": "t3_1n5c0qk",
       "post_type": "text",
       "domain": "self.tifu",
-      "author": "sleepyman691",
-      "author_id": "t2_7l48vxw6",
+      "author": "PollutionLopsided742",
+      "author_id": "t2_1ckdpltk5p",
       "subreddit_id": "t5_2to41",
       "subreddit": "r/tifu",
-      "created_ts": "2025-08-29T04:26:17.615000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n2xwen/tifu_by_accidentally_poisoning_my_roommate/",
-      "content_preview": "",
-      "flair": [
-        "L"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_2yhb49/styles/profileIcon_b51ukqj048xa1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=77f1f056767251fab8ef49a5303d4c20c1820a11"
-    },
-    {
-      "title": "TIFU by terrifying my dad",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n5nrxq/tifu_by_terrifying_my_dad/",
-      "score": 23,
-      "comments": 8,
-      "post_id": "t3_1n5nrxq",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "Emotional-Security45",
-      "author_id": "t2_5514qyfy",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-09-01T12:48:06.187000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n5nrxq/tifu_by_terrifying_my_dad/",
-      "content_preview": "",
-      "flair": [
-        "M"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "TIFU by telling my daughters their pet had died. When they hadn't.",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n4cf0h/tifu_by_telling_my_daughters_their_pet_had_died/",
-      "score": 1425,
-      "comments": 109,
-      "post_id": "t3_1n4cf0h",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "Additional_Breath_89",
-      "author_id": "t2_crx19vkw",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-08-30T20:58:49.511000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n4cf0h/tifu_by_telling_my_daughters_their_pet_had_died/",
-      "content_preview": "",
+      "created_ts": "2025-09-01T01:41:08.259000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n5c0qk/tifu_by_underestimating_the_bodys_ability_to/",
+      "content_preview": "I was bored on a sunday since I had been sick and still didnt feel like i should be around other people, so I had cancelled plans with a friend that morning. I remembered last night reading about making dorodango balls (to put it short and sweet, balls made of dirt/mud) and decided to make one because bored. I didnt really have good soil around but i did have instant espresso powder. I heard you could absorb caffeine through your skin so I was a bit concerned about that but I was like, im sure itll be fine, Im sure you cant absorb much. Well I touched and handled instant espresso powder for around 2 hours straight with bare hands (it would stick to gloves so I couldnt wear them). Apparently you CAN absorb a decent amount of caffeine through your skin. Im nauseous, anxious, shakey, i got brain zaps, and just in general feel like shit, like i drank 10 cups of coffee.Tldr; used and handled instant espresso powder for a silly project despite knowing that caffeine can absorn through skin. Now I feel like I drank 10 cups of coffee and feel like shit. God I just want to feel like I have a life again.",
       "flair": [
         "S"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU by bringing my dad to my first open mic",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n814cc/tifu_by_bringing_my_dad_to_my_first_open_mic/",
+      "score": 51,
+      "comments": 14,
+      "post_id": "t3_1n814cc",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "Matinee_Lightning",
+      "author_id": "t2_rmbin7n7x",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-09-04T04:52:23.022000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n814cc/tifu_by_bringing_my_dad_to_my_first_open_mic/",
+      "content_preview": "I'm visiting my dad's home across the country for the first time, and I hear about an open mic coming up in a couple days. I've come up with a handful of standup bits over the years, and I always wanted to give it a try.I'm not seriously pursuing a career in comedy, but I love it and I have fun making people laugh. I spent the last few days writing a 5 minute set, and tonight my dad took me to the venue for the moment of truth. We got there early and sat at the bar, which was the first mistake because the bartender talked my dad into buying one of those high alcohol hipster beers. He tried to sell me on one too, but I told him he asked me 12 years too late, and got a seltzer with lime instead.I asked my dad to take video of my set so I could show my girlfriend later, so we got settled at a table close to the stage and he started fiddling with his phone to get the best shot. He's a decent photographer, so it's not unusual for him to be picky about this process.I was first on the signup list, so it seemed rational to get the phone ready to record, but the host did 5 minutes herself. Then one of her friends took a turn, and mentioned the awkwardness of my dad recording. He assured the comedian that he wasn't recording, the phone was \"shooting blanks.\"This led to a few more awkward jokes, until another opening act took the stage. At this point, a large man dramatically sat down at the one table in front of us and blocked my dad's phone. I knew right away this guy did it on purpose to stop us from recording. By then my dad had actually started recording, because he thought it would be a cool idea to get the act before me and give my act some prologue.But my dad didn't get the hint, he just thought the guy in front of us was inconsiderate. He complained about him, and I said, \"Dad, he's doing it on purpose,\" and made a motion with my hand for him to calm down. The guy turned around and started arguing with my dad, who got loud back at him talking about how he has every right to record. Now the comedian starts yelling at my dad too.Someone in the crowd yells out, \"Put the phone away and only record your son bombing.\"At this point I got up and told my dad we might as well leave, there's no way anyone is going to laugh at my jokes now.I've been wanting to try standup for over a decade now and I was pissed it all fell apart. I had the set memorized and I knew I was gonna nail it.TL;DR— I signed up for open mic comedy, but my dad made a scene when the performers didn't want him to record video and I never got my chance.",
+      "flair": [
+        "M"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU by forgetting what the “C” meant on COVID tests and quarantining my daughter for a day",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n3axsk/tifu_by_forgetting_what_the_c_meant_on_covid/",
+      "score": 1832,
+      "comments": 218,
+      "post_id": "t3_1n3axsk",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "madcoolmusic",
+      "author_id": "t2_oy7eo10",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-08-29T15:44:25.652000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n3axsk/tifu_by_forgetting_what_the_c_meant_on_covid/",
+      "content_preview": "This happened between yesterday and today, and my 15yo thinks it's hilarious and so insisted I share with you folks.So yesterday, my younger daughter (13) came down with a cold (stuffy head, sore throat, etc), and so being the good mom that I am, I gave her a covid test. I waited the requisite 15 minutes, and then when I looked at it, I saw line under the \"C\" and immediately my brain went \"C = COVID = positive.\" So…. I quarantined her. This meant that my other daughter (15), who shares a room/bunk bed with her, had to sleep on the couch. Also, being the caring and thoughtful person that I am, I went ahead and canceled our weekend family plans to visit some friends whose daughter is turning 5. This was pretty horrible because my 13yo absolutely loves and adores our friend’s daughter, and she wasreallybroken up by this.Anyway, fast forward to this morning, and I get a text from my 15yo that she had tested herself before school (she had a headache and was feeling nervous about covid), and said very happily that it was negative. I then went and looked at her test, which was still on the counter in the bathroom (don’t get me started on leaving trash out), and my eyes immediately fixated on that same \"C\" line.So, I text her: \"It's actually covid POSITIVE.\"She's obviously confused at this point and repeats that it was negative, and so I send her a picture of the test, thinking to myself “this proof will set her straight”, as I also start looking for my keys to go swoop her up from school.Her response? \"There is no line there. That's the control.\"I stared blankly at that for a second before it finally sunk in - the \"C\" doesn't stand for COVID, it stands for CONTROL. This line that I’ve been looking at for YEARS now is the line on EVERY test that’s there to show that it's working. It’s the \"T\" line that indicates a positive result (both the C and T lines have to be active, to be clear).Here's the sad part: we’ve been doing these tests for years now - everyone here has I’m sure - and I literally JUST had covid back in March, and tested myself then, and read those tests just fine. But, maybe it’s the craziness in the world that’s got me distracted, or my own crazy schedule, or age, or whatever but, clearly my brain completely short-circuited on this.So as a result of staring at perfectly negative tests thinking they were positive, I quarantined my youngest and canceled plans this weekend over negative tests despite years of experience with these things.On the plus side, we now have some pretty good “family lore” (as my daughter calls it), and her texts were priceless: \"MOM THEY ALL HAVE A CONTROL LINE 😭😭😭”. Also, she noted that she's going to be bringing this up every time anyone gets sick for the rest of our lives - which… I guess I deserve. lolTL;DR: Thought \"C\" meant \"COVID positive\" instead of “CONTROL,” quarantined my daughter for a day, and cancelled weekend plans, over negative tests.",
+      "flair": [
+        "M"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU understanding my self",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n7xi12/tifu_understanding_my_self/",
+      "score": 68,
+      "comments": 21,
+      "post_id": "t3_1n7xi12",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "pretty_littlebaby220",
+      "author_id": "t2_1wp5254kcx",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-09-04T01:49:14.373000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n7xi12/tifu_understanding_my_self/",
+      "content_preview": "(F, 18) I feel like I kinda need to share this background about myself ‘cause it’s tied to what I’m feeling now. I was born when my parents were already kinda old, so we never went out, never did activities. I was basically a kid stuck in her room 24/7. In the dark.My dad’s abusive, still is. I used to get beaten so bad that the marks stayed on my body for weeks. My mom… she regrets what she did. I forgave her ‘cause she’s gotten better, but back then she used to beat me until I bled. She also had no backbone with her family, so me and my siblings were treated like trash, bullied by adults. Once I had a friend who was a “bad influence” and my mom beat me so hard I still shake when I remember it.I feel like I’m not normal. When I was like 8, my brother got stabbed in a fight by some addict. I remember crying more because of the noise and chaos than worrying about him. When my mom almost lost her finger, I just stayed home eating, like nothing was happening. When my grandma was dying in the ICU, I was joking around and eating too. When she passed, I cried for a bit then went back to laughing… only when I saw her body I actually cried hard, but then it just stopped again. When my dad almost lost his eyesight, I didn’t even go with them to the hospital. I just stayed home, not worried at all. Even recently, my best friend had a panic attack and her dad got arrested (we only talk online), and I still felt nothing. I just kinda forgot about it with timeBut… when it comes to me, I’m overly sensitive. I cry for hours because I just want a dad figure. I cry because I hate my life, because I’ve been wearing the same clothes for 5 years and my dad refuses to buy me new ones. I cry because I feel stuckAm I normal? Or am I like… a psycho? Two things tho:My friends really like me. I’m the “safe space” friend, the good listener, the one who makes them happy and comforted I don’t have the luxury of affording therapy, so please don’t judge I’ve been stuck with suicidal thoughts for months now, and it just feels like this is how my life will endTL;DR: I think I'm a psycho because I don't feel anything at times when I should feel the strongest feelings of sadness or anxiety for someone.",
+      "flair": [
+        "M"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "TIFU helping a girl relax",
       "permalink": "https://www.reddit.com/r/tifu/comments/1mqsr0p/tifu_helping_a_girl_relax/",
-      "score": 3243,
+      "score": 3249,
       "comments": 581,
       "post_id": "t3_1mqsr0p",
       "post_type": "text",
@@ -439,17 +494,79 @@
       "subreddit": "r/tifu",
       "created_ts": "2025-08-15T09:26:59.592000+0000",
       "content_href": "https://www.reddit.com/r/tifu/comments/1mqsr0p/tifu_helping_a_girl_relax/",
-      "content_preview": "",
+      "content_preview": "My gf and I were on the plane yesterday when we experienced turbulence. My gf was asleep, but I was wide awake. The passenger sitting next to me looked like she was on the verge of a panic attack. I have to point out that the passenger was young and attractive because her looks contributed to my downfall. I was minding my own business at first, but then the passenger ended up grabbing the armrest when the turbulence got worse. My hand was on the armrest first, meaning her hand was now top of my hand. When I looked at her, she was practically hyperventilating, so to help her relax, I automatically placed my other hand over her hand, sandwiching her hand between both of my hands before telling her a random story about my religious mother, who insisted that I go to church with her this past Sunday so that I could become friends with a Gen Z pastor, who literally said \"slay\" at the end of his prayer instead of \"amen.\"The passenger laughed, which made me laugh with her, until I sensed danger and noticed my gf staring at me. My hands retracted faster than an unbuckled seat belt. The turbulence was suddenly gone and the passenger seemed calmer. I explained to my gf what happened, prompting her to respond in her native language, which was not English. She said she closed her eyes for 2 minutes and the first thing she saw when she woke up was me holding hands with a girl who looked like she probably has an Only Fans. She also doubted the fact that there was turbulence, so I stopped one of the flight attendants walking down the aisle, and asked them to confirm that the turbulence happened. The flight attendant confirmed and apologised for any inconvenience. My gf switched to English and told the flight attendant that I was the one who needed to apologise because the source of the turbulence was between my legs. The flight attendant awkwardly walked away without saying anything while my gf put on her headphones and closed her eyes.Sigh.Tl:dr A girl on the plane was having a panic attack next to me, so I held her hands and made her laugh to help her relax. My gf, who was asleep during the panic, woke up just in time to witness me holding hands with a girl, who now seemed perfectly fine, which of course got me in trouble with my significant other.",
       "flair": [
         "M"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU by laughing and drinking water.",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n7q3i9/tifu_by_laughing_and_drinking_water/",
+      "score": 30,
+      "comments": 8,
+      "post_id": "t3_1n7q3i9",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "MarmyFlamOfficial",
+      "author_id": "t2_s5962fds",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-09-03T20:32:00.546000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n7q3i9/tifu_by_laughing_and_drinking_water/",
+      "content_preview": "So yesterday I had one of the scariest but also dumbest near death experiences of my life. I was just chilling, drinking water, when I saw the quandale meme on my phone that made me laugh way too hard. And of course, my brain decided that was the perfect moment to choke on the water.At first, it was just that awkward coughing fit, But then it got worse. My chest tightened, my throat completely locked up, and suddenly no air was coming in or out. My vision started going fuzzy, ears ringing, and I swear I felt the room closing in.For a split second, I genuinely thought: wow… imagine dying like this choking on water because I couldn’t stop laughing at a dumb meme. My hands were shaking, I was stumbling around trying to catch my breath, and there was this insane panic in my chest.Then, my daddy came sprinting and started doing the heimlich on me until the water came out from my mouth and started breathing again. Thanks dad !TL;DR: Almost died choking on water while laughing at a meme. Vision went fuzzy, couldn’t breathe, thought that was the end… then my daddy saved me.",
+      "flair": [
+        "S"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU by Getting Stuck in a Chair at My Friend’s House",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n77wc9/tifu_by_getting_stuck_in_a_chair_at_my_friends/",
+      "score": 161,
+      "comments": 23,
+      "post_id": "t3_1n77wc9",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "Rude_Dig_231",
+      "author_id": "t2_1x0b4ufi12",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-09-03T06:59:27.036000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n77wc9/tifu_by_getting_stuck_in_a_chair_at_my_friends/",
+      "content_preview": "A few months ago, a good friend of mine invited me over for dinner. We hadn’t hung out in a while, and I was excited to catch up. At first I felt so welcomed and happy. Until I saw the chairs. They were nice wooden dining chairs with armrests, the kind that look elegant but don’t leave much wiggle room. When it was time to sit down, I noticed immediately that the space between the armrests looked a far too narrow for an obese woman like me. I hesitated but told myself not to make a big deal about it.I tried to sit down normally, but it was very snug. I shuffled my hips, leaned forward, gave a small wiggle, and then, with one firm shove, I managed to squeeze myself in. It wasn’t the most graceful move, but I got in. The evening went on perfectly, great food, lots of laughter, and I almost forgot about the tight fit. but when I tried to pushed myself up, I felt resistance. I tried leaning forward and lifting. No luck. I tried again, this time wiggling a little but I was still stuck.My heart sank. My friend was still chatting away, and I was doing everything I could to keep it discreet. I pressed down on the armrests with my hands, lifted with all my strength, twisted side to side. The chair wouldn’t budge. I was sweating, my face was burning red, and my movements were getting more frantic.Eventually I managed to stand and I gripped the armrests and pushed downward with all my strength. I twisted my torso and rocking back and forth and it was so painfully public too. Everyone around me was staring,  My face felt like it was on fire.When I finally managed to push it off my bum, it hit the floor with a loud clang. Everyone around glanced over, and I immediately turned around and gasped. I didn’t even realize how big I had gotten until that experience. I made it through the rest of the evening, but when I got home, I just sat on my bed and cried from humiliation, but luckily I can look back and laugh now.TL;DR:Went to a friend’s house for dinner, squeezed myself into a narrow chair, and at the end of the night got stuck trying to stand up. After a few minutes of wrestling with it, I finally freed myself. Went home and cried, but now I can laugh about it.",
+      "flair": [
+        "M"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Fund your account with $2,000 or more and receive a 2% match.",
+      "permalink": "https://www.reddit.com/user/WEBULL-APP/comments/1n6xpxi/fund_your_account_with_2000_or_more_and_receive_a/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n6xpxi",
+      "post_type": "image",
+      "domain": "webull.com",
+      "author": "WEBULL-APP",
+      "author_id": "t2_1btnxaxb",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-02T22:30:40.565000+0000",
+      "content_href": "https://www.webull.com/offers-promotions/deposit",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_jfvi6/styles/profileIcon_lfeqp2ptc8v21.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=272780a972b86638ae3a7b8e47a676401df89fc7",
+      "is_promoted": true
     },
     {
       "title": "TIFU by giving my girlfriend a fake Casio and getting exposed a year later",
       "permalink": "https://www.reddit.com/r/tifu/comments/1n4t5gd/tifu_by_giving_my_girlfriend_a_fake_casio_and/",
-      "score": 1529,
-      "comments": 215,
+      "score": 1670,
+      "comments": 234,
       "post_id": "t3_1n4t5gd",
       "post_type": "text",
       "domain": "self.tifu",
@@ -459,36 +576,59 @@
       "subreddit": "r/tifu",
       "created_ts": "2025-08-31T12:15:04.337000+0000",
       "content_href": "https://www.reddit.com/r/tifu/comments/1n4t5gd/tifu_by_giving_my_girlfriend_a_fake_casio_and/",
-      "content_preview": "",
+      "content_preview": "Okay so this happened a year ago but it kinda blew up yesterday.Basically, my gf saw my watch last year and was like “that’s cool, I want it.” I wasn’t planning to give her anything but I just gave it to her on the spot. To make it sound better I told her it was an original Casio.It wasn’t. It was literally a 150 rupee fake lol.Fast forward to yesterday, her brother notices it and goes full detective mode. He was like “nah this is fake, mine is real, look at the weight, the back, blah blah.”I was on call with her the whole time, sweating, waiting for her to go “wait, wtf??” But instead she just said “I don’t care if it’s duplicate or original, it’s mine and he gave it to me.”She even told her brother: “Mere paas watch hai na… duplicate ho ya original.” (basically “I have a watch right? Doesn’t matter if it’s fake or real.”)Bro… I felt kinda guilty but ngl I also realized I lucked out. She didn’t care about the brand at all, just the fact it was from me. 🥹TL;DR: gave my gf a cheap knockoff watch and told her it was Casio. A year later her brother exposed it, but she still defended me.",
       "flair": [
         "S"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
-      "title": "TIFU by thanking a couple strangers \"for riding me.\"",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n5f2ko/tifu_by_thanking_a_couple_strangers_for_riding_me/",
-      "score": 12,
-      "comments": 13,
-      "post_id": "t3_1n5f2ko",
+      "title": "TIFU by oversleeping my first flight ever",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n76ex5/tifu_by_oversleeping_my_first_flight_ever/",
+      "score": 74,
+      "comments": 62,
+      "post_id": "t3_1n76ex5",
       "post_type": "text",
       "domain": "self.tifu",
-      "author": "PunkSpaceAutist",
-      "author_id": "t2_e304m81y",
+      "author": "AcanthisittaLimp",
+      "author_id": "t2_5kogrnul",
       "subreddit_id": "t5_2to41",
       "subreddit": "r/tifu",
-      "created_ts": "2025-09-01T04:19:06.054000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n5f2ko/tifu_by_thanking_a_couple_strangers_for_riding_me/",
-      "content_preview": "",
+      "created_ts": "2025-09-03T05:27:45.026000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n76ex5/tifu_by_oversleeping_my_first_flight_ever/",
+      "content_preview": "Never have flown before and missed my first  flight in my whole life. I almost never oversleep and one in a year is today which is the worst part. So My friends and i wanted  to go on mini four day vacation and decided on destination that needs flying to there since it’s an island. Me who never flown till this day was very excited so yeah lets go. Flight in morning hours and me an idiot said lets get an hour of sleep in but yeah: didn’t heard any of my alarms, friends couldn’t reach my phone because i have no reception in my room. When i woke up it was an hour to my check in time and i live two hours away from the airport. Tried everything but in the end decided to book another flight which is one 24h later. Now i am sitting in my living room sad and disappointed in myself while imagining my friends on their flight.TLDR: missed my first ever flight and now seating in my living room said and disappointed in myself.",
       "flair": [
         "S"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU by twisting my ankle before an interview",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n769e4/tifu_by_twisting_my_ankle_before_an_interview/",
+      "score": 68,
+      "comments": 9,
+      "post_id": "t3_1n769e4",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "Kandinksy-22",
+      "author_id": "t2_8lmlwn07",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-09-03T05:18:43.585000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n769e4/tifu_by_twisting_my_ankle_before_an_interview/",
+      "content_preview": "Today was my final round interview for a graduate programme. Ten minutes before, my computer was still updating and I was already stressed. With five minutes left, I realised I didn't have my water (I sip water while the interviewer talks at least once during the interview so I have an extra moment to gather my thoughts).  I ran downstairs, landed wrong, and twisted my ankle with a loud crack. Then cue the tears, panic, and a small breakdown as I realised I had two flights of stairs to climb before my interview even started. I somehow pulled myself together, grabbed the water, and hauled myself upstairs using mostly my arms, and made it back to my desk with two minutes to spare. The interview itself went okay - some highlights and some moments that weren't so coherent.TL;DR: Twisted my ankle running for water minutes before an interview, cried, crawled upstairs, and still just made it in time.",
+      "flair": [
+        "S"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "TIFU by ordering a 7 Million Scoville chicken wing",
       "permalink": "https://www.reddit.com/r/tifu/comments/1mm66jh/tifu_by_ordering_a_7_million_scoville_chicken_wing/",
-      "score": 2928,
+      "score": 2939,
       "comments": 283,
       "post_id": "t3_1mm66jh",
       "post_type": "text",
@@ -499,116 +639,162 @@
       "subreddit": "r/tifu",
       "created_ts": "2025-08-10T01:43:32.195000+0000",
       "content_href": "https://www.reddit.com/r/tifu/comments/1mm66jh/tifu_by_ordering_a_7_million_scoville_chicken_wing/",
-      "content_preview": "",
+      "content_preview": "This actually happened today.I love spicy food. My tolerance doesn’t reach any dizzying heights, but I can usually get through very spicy meals relatively comfortably. I had always wanted to challenge myself to eat a Ghost Pepper or even a Reaper to see how I’d handle it.There’s an incredible independent chicken wing place near me that does various spice challenges, the hottest of which is called “Nil By Mouth”. They don’t advertise the Scovilles on this, but this particular wing requires you to sign a waiver before you attempt it. Few people had completed it without the aid of milk or ice cream. I’ve been to this restaurant a half dozen times and always said I’d try it someday. How bad could it be?Well, today was that day. My partner, who also has a respectable spice tolerance, and I were going to try it together. Make it a fun little contest to see who could last the longest.We eat our main meals. Delicious South Carolina BBQ and Maple Habanero wings with Asian slaw. Awesome. Maple Habanero is on the menu as “VERY HOT”. We question their heat classifications because they were very easy. We’re not convinced they’re not overselling the heat on these death wings. It’ll be fine, we deduce.Out comes the Nil by Mouth along with a set of gloves. The wings are drenched in thick, bright crimson sauce. It smells like pure spice and nothing else, but oddly appetising and makes my mouth water. Waivers are signed to say it’s my fault if I get ill because I was stupid enough to try this. Still blissfully unaware of how bad this could be until a chef emerges from the kitchen, stands across from our table, crosses his arms and grins. “Just to say before you try this… if someone’s already in the bathroom and you start to feel ill, we keep a bucket just inside the door that says ‘Staff Only’” says the waitress. “Is it really that bad?” my partner asks. “It has been,” she laughs. Oh, ok.We don the gloves. The couples on the tables next to us are watching now. A premonition of “oh god, what have I done” fleets my mind. I start to question if this is a good idea, but the Hell wings are looking at me like the Green Goblin mask. Oh well, yolo init. We count down from three, and bite.First of all, it tasted disgusting. Like a weird earthy, bitter taste. This sauce is definitely based on an extract rather than trying to actually be palatable. Red flag was waving, but it was too late. However, the spice doesn’t start off too bad. We’re just roasting the dogshit flavour at this point. “Yeah, it’s awful isn’t it,” laughs the chef. Wtf bro, you made it. Probably not actually, I don’t know. We finish the wings.The spice is building now. All of a sudden, it takes off. My mouth ignites, my lips ignite, my throat ignites. I think someone has literally lit a fire on my tongue. I don’t know what to do with myself. I’m gasping for cool air but every breath makes it worse. My ears start to ring. I’m flapping my hands trying to cool my lips down. It feels like Satan himself has just opened a guided tour of Hell and the entrance is my mouth.My partner starts to choke. He stands up, leans over the table, trying to breathe in between unrelenting hiccups. Meanwhile, I seem to have lost control of my limbs, scrabbling around my bench with my feet, tears streaming down my face. My body seems to have developed pores inside my pores in a feeble attempt to sweat this shit out. This pain is unlike anything I’ve ever felt to this point. My mouth is excruciating, and my whole body doesn’t know how to cope with it. This is certainly an akin response to going into shock, and it’s just getting worse.Before we can plea for relief, our lord and saviour the chef has already been and brought ice creams to the table. “It’s on the house”, he says. I think my man felt a tinge of guilt for all the enjoyment he was getting out of this.I got through three mini milks and a chocolate milk before I started to feel relief. I totally forgot my partner was even there. When I look at him, he’s as red as the sauce itself, his pupils are so dilated I can’t barely see his irises. Usually a man of many words, he looks at me with tormented eyes. “That was no joke,” is all he says.I ask the chef how many scovilles that was. 7 million, we’re told. Holy shit. I knew that a Reaper was around 2 million, and I thought the sauce couldn’t be much worse than that. What a numpty.Anyway, after 20 minutes or so, we recover, we go home, we’re all good right? But then it gets worse. And actually, I’m pretty sure this isn’t the end of it.We’re lying on the sofa watching Off The Hook. My stomach starts to hurt. I drink some milk. It helps a bit. My partner’s all good. I’m sure it’ll pass. I lie back down as it seems to be the most comfortable position right now.Remember when I said the pain was unlike anything I’d ever felt until this point? Yeah, well turns out I’d find out far sooner than I ever thought what a pain worse than that felt like.Suddenly, an excruciating, searing pain rips through my stomach. The embers have lighted again, but this time someone’s doused my digestive tract with gasoline for good measure. The Death Wing has been green-lit for a sequel, and this time it’s bringing double the budget.I’m writhing in pain. My body feels like it’s on fire again. I move to the bed to lay down. It’s no good. No position helps. I move to the bathroom. I lay in the foetal position on the floor inside the shower, wet from the shower earlier, to try and cool down. It doesn’t work. I’m screaming internally, hyperventilating, head light and wavering. I can see the light of heaven and St. Peter’s pearly gates calling my name. I’m actually hoping I do pass out so I don’t have to feel this pain any more.My partner is freaking out. I can’t speak to answer his questions. I am shaking uncontrollably from the agony I am in. The pins and needles in my hands are so bad that I can’t even move my fingers. I start throwing up on the floor. I manage to tell my partner to turn the shower on. He does. I continue to throw up, the shower floor now swirling with my vomit, fully clothed and now freezing cold. My partner wants to call an ambulance but I know the only way is to ride this out.Thankfully, it seems that vomiting managed to get enough of the demon spawn out of my system. Gradually, I started to recover. I took a full shower, drank a shit ton of milk and water, ate some bread and now I sit here typing this tale of the accursed chicken wing that made this atheist see Jesus. And this may only be the beginning. You know what I mean.TLDR: Chose a fate worse than death when I decided to eat a 7 million scoville chicken wing. Don’t do it kids. Or do, I’m not your dad.",
       "flair": [
         "L"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "TIFU by holding the door too long",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n4qx67/tifu_by_holding_the_door_too_long/",
-      "score": 47,
-      "comments": 18,
-      "post_id": "t3_1n4qx67",
+      "title": "TIFU taking pre workout at night",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n74rna/tifu_taking_pre_workout_at_night/",
+      "score": 76,
+      "comments": 16,
+      "post_id": "t3_1n74rna",
       "post_type": "text",
       "domain": "self.tifu",
-      "author": "Temporary_Royal_2260",
-      "author_id": "t2_1fhywvu0qy",
+      "author": "k-type",
+      "author_id": "t2_b2vme",
       "subreddit_id": "t5_2to41",
       "subreddit": "r/tifu",
-      "created_ts": "2025-08-31T10:04:50.105000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n4qx67/tifu_by_holding_the_door_too_long/",
-      "content_preview": "",
+      "created_ts": "2025-09-03T03:55:32.789000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n74rna/tifu_taking_pre_workout_at_night/",
+      "content_preview": "Recently started working out and bought some protein powder. It came with free sample of pre-work out which I assumed was just an electrolyte drink with vitamins.Took it at 8pm before my workout and then couldn't sleep until 4am.Turns out it's got 300mg of caffeine and I don't drink coffee so no surprise there.Annoying that it's not shown in the front of the packaging but I have learnt my lesson and won't be using it ever again.The worst part is I got maybe 3hours of sleep and am supposed to go for a job interview today. So I don't think that's going to go well since I feel both tired and still buzzing on caffeine a little bit.Apparently I haven't written enough? This was the product Performance, PRE-X, Xtreme Pre-Workout Complex, Grape, 1 lb (435 g).TL;DR: Tried pre workout at night not realising it was loaded with caffeine and got no sleep for interview.Note: Wow thats stupid making me write 750characters and then forcing me to write one sentence explaining it.",
       "flair": [
         "S"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
     },
     {
-      "title": "TIFU by forgetting I turned someone down 12 years ago",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1mz9u2q/tifu_by_forgetting_i_turned_someone_down_12_years/",
-      "score": 795,
-      "comments": 88,
-      "post_id": "t3_1mz9u2q",
+      "title": "TIFU by photographing the wrong house",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n8yiod/tifu_by_photographing_the_wrong_house/",
+      "score": 4,
+      "comments": 1,
+      "post_id": "t3_1n8yiod",
       "post_type": "text",
       "domain": "self.tifu",
-      "author": "ElectronicTurnover51",
-      "author_id": "t2_84q8u90y",
+      "author": "OversleptSundae",
+      "author_id": "t2_de6nqf9p",
       "subreddit_id": "t5_2to41",
       "subreddit": "r/tifu",
-      "created_ts": "2025-08-24T22:41:23.448000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1mz9u2q/tifu_by_forgetting_i_turned_someone_down_12_years/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T07:11:58.232000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n8yiod/tifu_by_photographing_the_wrong_house/",
+      "content_preview": "I’m a real estate photographer. I’m 99% sure I photographed the wrong house today — a neighboring house. Here’s the story:TLDR: I photographed a neighboring house because I didn’t see the correct address sign, which was partially covered by branches and leaves. Three addresses: 4402, 4402A, 4402B.I’ve been doing real estate photography for less than a year. When I receive a booking I look up the address on Google Maps to get an idea of what the house looks like and where it’s located. When I did that for this address, there was no street view and it’s in a densely wooded rural area, and there looked to be no driveway nearby. So I showed up today and the location that Google and Apple Maps directed me to did not have any driveway in sight. I zoomed out of the map and saw there was a dirt road about 1/2 mile from me. I turn onto the dirt road and it brings me to a cul-de-sac. The booking listed the address as 4402B. I saw a sign for 4402, drove up the driveway, and saw a sign that said 4402A, so I backed up and went up the other driveway — I assumed if I was going up 4402A then the other driveway must be 4402B. I reach the house and 4402 is on the address plate on the garage. The listing appointment said the house is vacant and listed a passcode for the lock. I walked up to the front door and it was already unlocked. I announced my presence and there was no response back. I went around the house turning on lights and noticed it was a mess. The basement was cluttered, clothes were everywhere (some neatly folded), blankets were thrown about. It looked like a typical lived-in house that just hasn’t been organized, as if maybe the homeowners forgot a photographer was coming that day. I called my boss and told him the house doesn’t look ready, he told me to shoot it anyway since it’s 1.5 hours away. So I did full interior and exterior photos, plus drone. After I was done, I stayed in the area, my boss texted me to say the realtor wanted a floor plan made as well, so I returned to the address and made a floor plan, then left again. On my way out, I tried the passcode that was on the listing appointment — remember the door was unlocked when I got there — the passcode didn’t work. I brushed it off and drove home. When I got home, my partner showed me a listing from 2018 of the 4402B address and it looked nothing like what I had just visited. I looked back at Google Maps and noticed that I was at a neighboring house. I retrieved my car’s dashcam footage and I noticed that as I pulled in, I saw the sign for 4402A, but on the other side and behind some foliage was a sign for 4402B that I didn’t see, then I went up the driveway for 4402. The strange parts are — it looked lived-in, but also looked like it was getting ready for a move with clothes everywhere, random boxes, no family photos — very common things in many homes going on the market. The front AND back doors were unlocked. The house was vacant, no one came home in the entire time I was there. I contacted the realtor with a picture of the exterior asking if that was the correct house. No reply yet.Has this ever happened to anyone else? Should I make contact with the homeowners to let them know I was in their house? Would you have went on with photographing the house in this case?Personally, I would feel violated if I was the homeowner — but also I would never leave my doors unlocked no matter where I live. It was completely harmless and I’m not worried about any legal issues, but it’s very embarrassing. It will definitely be something to laugh about after I suffer through this wave of discomfort and anxiety.I did leave the doors locked, lights off and toilet seats down.",
       "flair": [
         "M"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "TIFU By telling my coworker something that made him spiral",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n3xyii/tifu_by_telling_my_coworker_something_that_made/",
-      "score": 877,
-      "comments": 149,
-      "post_id": "t3_1n3xyii",
+      "title": "TIFU by almost hitting a motorcyclist",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n73x6z/tifu_by_almost_hitting_a_motorcyclist/",
+      "score": 29,
+      "comments": 14,
+      "post_id": "t3_1n73x6z",
       "post_type": "text",
       "domain": "self.tifu",
-      "author": "Fun_Guidance3550",
-      "author_id": "t2_1mhbee99jh",
+      "author": "COMMUNISTREDDIT",
+      "author_id": "t2_5s7g5yl0",
       "subreddit_id": "t5_2to41",
       "subreddit": "r/tifu",
-      "created_ts": "2025-08-30T10:10:19.243000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n3xyii/tifu_by_telling_my_coworker_something_that_made/",
-      "content_preview": "",
+      "created_ts": "2025-09-03T03:12:26.532000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n73x6z/tifu_by_almost_hitting_a_motorcyclist/",
+      "content_preview": "You never think you could ever be as stupid as all those people in those dashcam compilations, until you screw up and become the idiot. It was night and I was paying attention, and I thought I was pretty aware of traffic flow and where everyone was. So I decided to change lanes and did an admittedly shotty shoulder check (I don't usually do that, but I was confident it was clear) and a mirror check and began changing lanes before hearing a honk behind me. I swerve back into my lane, feeling social embarrassment. This guy on a bike pulls up to me and gives me the look of shame. I tell him through driver-sign language that I'm sorry. He seemed to forgive me, but I still feel like crap.I'm so sorry, motorcycle guy. That could have been way bad!😥 I'm glad you were wearing a helmet and I'm glad you are safe!!Anyway, I'm not sure how I didn't see this guy. I'm not sure if he was speeding or if his headlight just blended in to the sea of headlights behind me. Whichever the case, he just appeared to me out of nowhere! I just want to confess and take ownership of my mistake. It really shook me up how close it was. I NEVER want to make that mistake again! Getting to our destination safely is a team effort. Drive safe guys.TL;DR: I made a mistake and almost hit this guy on a motorcycle. And I feel like crap and never want something like that to happen again.Note: I thought I'd post onr/idiotsincarsbut I don't have any dashcam footage to post, so this will have to do.",
       "flair": [
         "S"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "TIFU by inadvertently and unintentionally leading a girl to believe I was also a lesbian and then \"ghosted\" her.",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n4k33l/tifu_by_inadvertently_and_unintentionally_leading/",
-      "score": 87,
-      "comments": 50,
-      "post_id": "t3_1n4k33l",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "LinguistsDrinkIPAs",
-      "author_id": "t2_1ijvst3u8n",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-08-31T03:07:54.051000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n4k33l/tifu_by_inadvertently_and_unintentionally_leading/",
+      "title": "Finally, someone made a blazer that’s as soft as your favorite sweatshirt. (That someone is us.)",
+      "permalink": "https://www.reddit.com/user/MackWeldon/comments/1mxg651/finally_someone_made_a_blazer_thats_as_soft_as/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mxg651",
+      "post_type": "image",
+      "domain": "mackweldon.com",
+      "author": "MackWeldon",
+      "author_id": "t2_gwwye",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-22T19:36:36.975000+0000",
+      "content_href": "https://mackweldon.com/products/ace-blazer?utm_source=reddit&utm_medium=paidsocial&utm_campaign=Prospecting&utm_content=NONUW&utm_term=aceblazerv2",
       "content_preview": "",
-      "flair": [
-        "L"
-      ],
-      "thumbnail_url": ""
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_aseba/styles/profileIcon_wre5fpkiq7ef1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=d5b489378612dbe30f6e8727f0239569d1244711",
+      "is_promoted": true
     },
     {
-      "title": "TIFU by going on a gas station run and getting baptized in sewage",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1mycwxw/tifu_by_going_on_a_gas_station_run_and_getting/",
-      "score": 25,
-      "comments": 6,
-      "post_id": "t3_1mycwxw",
+      "title": "TIFU by knowing nothing about football",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n6s9yw/tifu_by_knowing_nothing_about_football/",
+      "score": 48,
+      "comments": 12,
+      "post_id": "t3_1n6s9yw",
       "post_type": "text",
       "domain": "self.tifu",
-      "author": "Soggy_Passenger_3295",
-      "author_id": "t2_churcs7q",
+      "author": "BunnyCat2025",
+      "author_id": "t2_1hrm01p2lh",
       "subreddit_id": "t5_2to41",
       "subreddit": "r/tifu",
-      "created_ts": "2025-08-23T21:00:47.839000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1mycwxw/tifu_by_going_on_a_gas_station_run_and_getting/",
-      "content_preview": "",
+      "created_ts": "2025-09-02T18:59:45.502000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n6s9yw/tifu_by_knowing_nothing_about_football/",
+      "content_preview": "For background, I work in a shared office space, with everyone working either solo or with a few others on the floor.  Therefore, it is kind of hard to get to know anyone here, but a few people are kinda cool.This one guy who is super nice and whose office is right next to mine had a sportscaster blabbing on and on and on about the upcoming Ivy League season out loud on his computer speakers.  I just gave up trying to get any work done during it and enjoyed a nice session of Worldle.Anyway, perhaps if I knew more about football, I would have been able to recognize the announcer's voice, but well, I clearly did not.  As soon as it was over, I walked next door to whine about how annoying the broadcast was and how the announcer should rethink his career objectives -- TO THE ANNOUNCER'S SON.TL:DR: whined to someone in my shared office space by insulting his son by misake.Ooops.",
       "flair": [
-        "M"
+        "S"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://styles.redditmedia.com/t5_df4rxs/styles/profileIcon_95b6absf738f1.JPG?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ba21073451e710d0c1f8fb72f6f696d3910f5f97",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU by telling my daughters their pet had died. When they hadn't.",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n4cf0h/tifu_by_telling_my_daughters_their_pet_had_died/",
+      "score": 1496,
+      "comments": 116,
+      "post_id": "t3_1n4cf0h",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "Additional_Breath_89",
+      "author_id": "t2_crx19vkw",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-08-30T20:58:49.511000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n4cf0h/tifu_by_telling_my_daughters_their_pet_had_died/",
+      "content_preview": "So my daughter's have a pet axolotl (kind of a cross between a fish and a salamander, with external gills)And they came into me from their playroom panicking as she was just... Floating in the water.So I went in, and saw it lying on the surface of the water, limp and just... Spinning in the current from the filter pumps.So. I opened the tank, and poked the axolotl. Nothing.I apologised to the kids, explained that it looked like she was dead. Cue tears, wailing and just... Horrible times. (Wife was out)After a few hours, and planning what to do with the body, discussing with the girls that perhaps anotjet axolotl may not be the best bet due to all the care they take.My wife popped her head into the playroom... And the axolotl was there, walking along the bottom of the tank. Looking for food, perfectly happy and healthy.Happy days. APPARENTLY. This is just something axolotls DO sometimes.  Except from the heartbreak the girls (and I!) experiencedTL;DR: I thought my daughter's pet axolotl was dead, explained to the kids, consoled them, and planned the funeral. Then my wife saw the axolotl perfectly happy and alive in the tank. NOT dead 😅",
+      "flair": [
+        "S"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU by not knowing who I was talking to at work",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n2dyyo/tifu_by_not_knowing_who_i_was_talking_to_at_work/",
+      "score": 2892,
+      "comments": 198,
+      "post_id": "t3_1n2dyyo",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "PBJBurple",
+      "author_id": "t2_3x3k9cm9",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-08-28T14:36:50.367000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n2dyyo/tifu_by_not_knowing_who_i_was_talking_to_at_work/",
+      "content_preview": "This just happened and I don't think there will be repercussions, but it still doesn't look good.I was delivering papers to the mail room at work and afterwards I decided to swing by the bathroom before heading back to work and to waste a little time. On my way to the bathroom a lady cheerfully asked me how I was doing and I said, \"meh, it's alright I guess\".Usually that's good enough, but she replied, \"only 'meh'? How come?\", so I replied with \"well personal life isn't great and then I spend 8hrs at a place I don't like for less pay than I'd like, so I don't know.\" And shrugged. She replied now you'd probably expect with \"oh... Okay well I hope it gets better...\"Welllll, what I forgot was that the mail room is in the same floor as the executive offices and an employee further down the hall, who'd seen our interaction, informed me that I'd just spoken with the COO of the company...TLDR: I told my COO to their face that I hate the company and feel underpaid 🫠UPDATE: I didn't expect to be making an update, but I just accepted a job offer for something in my degree field and I'll be making 15k more a year! I'm putting in my 2 weekson MondayTuesday cuz I forgot about Labor Day!",
+      "flair": [
+        "S"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
       "title": "TIFU by forgetting my stroller was empty",
       "permalink": "https://www.reddit.com/r/tifu/comments/1mp9xm3/tifu_by_forgetting_my_stroller_was_empty/",
-      "score": 2756,
+      "score": 2762,
       "comments": 80,
       "post_id": "t3_1mp9xm3",
       "post_type": "text",
@@ -619,16 +805,38 @@
       "subreddit": "r/tifu",
       "created_ts": "2025-08-13T16:56:37.630000+0000",
       "content_href": "https://www.reddit.com/r/tifu/comments/1mp9xm3/tifu_by_forgetting_my_stroller_was_empty/",
-      "content_preview": "",
+      "content_preview": "Early this morning I decided to go for a walk with my son (4 months) and my husband's doberman, since it was nice out and I figured I could pick up an iced coffee without having to pile into the car, it'd be nice. My 10 year old daughter asks if she can come, I agree and she hurries to get changed and we're out the door, baby strapped into his stroller, still asleep.We walk for about 25 minutes and I'm just chatting with my 10 year old about various things (when we're going back to school shopping, if she can get a \"frozen hot chocolate\" from the coffee shop, if she can get a cookie, if the pool boy is back from vacation yet so she can swim before we shut up the pool for the season, yaddah yaddah), when finally the baby wakes up.He isn't crying or fussing, just starts kicking a little bit and his eyes are clearly open. Daughter asks if she can hold him for a little while, I tell her \"sure\", reminding her that if he squirms she has to put him back. We keep walking for another 10 minutes.We get to the top of a slight incline, and the dog decides to do his business in a patch of grass, and while I'm reaching around, balking at the smell and fumbling to get one of the poop bags out of the holder on the leash, I hear a weird sound and- Oh shit! The stroller is rolling away! My dumb ass didn't lock the wheels! Shit!My brain is going in 12 different directions, I'm hauling my fat ass down this slight hill, nearly stumbling and eating shit on the pavement twice as the dog embarrasses me by only doing a half-trot while I'msprintingin my mind. There's nobody around so I can't exactly shout \"RUNAWAY STROLLER!\" and get help from some stranger.I'm saved by the stroller hitting a pole when it gets to the corner at the bottom of the incline, stopping in its tracks, I get to the stroller, out of breath, red in the face, I've managed to drop my phone halfway down the hill so now I have to double back and grab it AND still pick up the dog shit. I pull the stroller towards me and turn it around, prepared to reach inside and comfort my baby and it hits me all at once: the baby is not in the stroller, I just chased after an empty stroller with the full panic of thinking my 4 month old was about to roll into traffic.Suddenly I was happy there was nobody around because at least that means there was no one to record me, my only audience was two people I birthed and someone who barks at his own reflection.I turn around and my 10 year old is laughing at me, walking at a steady pace, still holding the baby. \"I was gonna tell you, but I wanted to see how long before you remembered,\" she says, the look on her face reminded mesomuch of the times my husband would fuck with me back when we were in college, how a Shenanigans Face can be genetic, I have no idea. I sigh, still huffing and puffing, and tell her to put her brother back in the stroller.We double back to get my phone and pick up the poop, we trudge another 5 minutes to the coffee shop, I get my 30+ ounces of iced espresso, caramel syrup, mocha syrup, and milk, daughter gets her glorified chocolate milk with whipped cream and a cookie, the dog gets a pup cup, everyone wins.TL;DR: I didn't remember my daughter was holding my baby and proceeded to look like an idiot running after an empty stroller, almost tripping and falling on my face twice.",
       "flair": [
         "M"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU by leaving a floating turd at my date’s place",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n6fuuu/tifu_by_leaving_a_floating_turd_at_my_dates_place/",
+      "score": 1403,
+      "comments": 185,
+      "post_id": "t3_1n6fuuu",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "ramjiki",
+      "author_id": "t2_dge4thk2",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-09-02T10:28:19.952000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n6fuuu/tifu_by_leaving_a_floating_turd_at_my_dates_place/",
+      "content_preview": "This happened a couple of weeks ago, and I still feel my soul leave my body every time I think about it.So, picture this: I was at my new girlfriend’s apartment for dinner. Things were going perfectly,  we’d cooked together, shared some beer, and were laughing about everything. You know that stage where you’re still pretending to be the best version of yourself? That was me.Then, halfway through a movie, my stomach decided to betray me. Not politely. Not with a gentle hint. It went full Bautista “go now or regret it forever.” I excused myself as casually as I could and went to the bathroom.Now, this wasn’t anything catastrophic. No clogged pipes, no dramatic explosion, just a very normal, very unremarkable bathroom break. At least, that’s what I thought.I did my business, wiped, washed my hands, and hit the flush. Except… when the water settled, there it was.A lone floater. More like a lone wolf staring me in eye for a duel.I flushed again. Same result. The water swirled around dramatically, but when it cleared still there. My enemy. My shame. My unexpected creation.I flushed a third time, and by this point, I was starting to panic. This turd wasn’t just floating, it was thriving. The damn thing had the density of a pool noodle. It wasn’t going anywhere.And now, time was ticking. I’d already been gone longer than I should have. If I stayed too much longer, she’d wonder what on earth I was doing. But I couldn’t just leave it there! Imagine the horror of her walking in after me, seeing the floater, and instantly knowing what I’d been up to. Relationship: dead. Reputation: destroyed.So I went into xRay mode. I scanned the bathroom for tools. Toilet brush? Nope. Plunger? Nope. Air freshener? Yes, but that didn’t solve the central problem.The only option was to try to… manually intervene.I grabbed some toilet paper, folded it into layers thick enough to feel like a hazmat suit, and went fishing. I thought maybe if I nudged it, it would finally cooperate and go down. Nope. It just swirled and came right back up, like some cursed brown rubber ducky.So, in my moment of peak panic and stupidity, I wrapped it in more toilet paper, scooped it out, and placed it gently into the bathroom trash can like I was laying a fallen soldier to rest. Then I buried it under some tissues and prayed she’d never notice.I washed my hands like a surgeon about to perform heart surgery, splashed water on my face, and walked back out trying to look casual. She smiled at me, asked if I was okay, and I said something stupid like, “Yeah, just… washing my hands really well.”I thought I was safe.Fast forward to the next morning. She texted me:“So… did you throw something weird in my bathroom trash?”My heart stopped.Apparently, her cat had gotten curious and knocked over the trash can after I left. She found the suspiciously heavy toilet paper wrapped package on the floor. She opened it. And she knew.I had no defense. No excuse. No way out. I admitted everything in a haze of shame. She laughed so hard she cried and said:“You could’ve just left it. That’s what bathrooms are for.”To this day, she teases me about it. Every time we’re at her place and I get up to use the bathroom, she calls out:“Good luck sinking it this time!”I will never live this down.TL;DR: Used my new girlfriend’s bathroom, left behind a stubborn floater that refused to flush. In a panic, I fished it out with toilet paper and hid it in her bathroom trash. Her cat exposed me. She found it. I died inside.",
+      "flair": [
+        "M"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "TIFU by trying to impress my gym crush",
       "permalink": "https://www.reddit.com/r/tifu/comments/1mw621q/tifu_by_trying_to_impress_my_gym_crush/",
-      "score": 2376,
+      "score": 2382,
       "comments": 201,
       "post_id": "t3_1mw621q",
       "post_type": "text",
@@ -639,56 +847,412 @@
       "subreddit": "r/tifu",
       "created_ts": "2025-08-21T09:21:38.842000+0000",
       "content_href": "https://www.reddit.com/r/tifu/comments/1mw621q/tifu_by_trying_to_impress_my_gym_crush/",
-      "content_preview": "",
+      "content_preview": "I (22M) recently started hitting the gym and developed a small crush on a girl who always works out around the same time as me. Today, I decided to “go beast mode” to show off. She was doing deadlifts, so I thought I’d casually load up a bar with more weight than I normally use and rep it out nearby. Well, turns out my ego was about 60 pounds heavier than my back could handle. I yanked the bar, immediately pulled something, lost my balance, and let out the most primal scream imaginable. To make it worse, I farted LOUDLY at the same time and dropped the bar so hard an employee came over to check if I was okay. Crush girl didn’t even laugh, she just shook her head. Pretty sure my soul left my body. TL;DR: Tried to impress gym crush, ended up screaming, farting, and failing spectacularly.",
       "flair": [
         "S"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "TIFU by completely ruining dinner",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n63y5y/tifu_by_completely_ruining_dinner/",
-      "score": 90,
-      "comments": 34,
-      "post_id": "t3_1n63y5y",
+      "title": "TIFU by accidentally poisoning my roommate",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n2xwen/tifu_by_accidentally_poisoning_my_roommate/",
+      "score": 1076,
+      "comments": 39,
+      "post_id": "t3_1n2xwen",
       "post_type": "text",
       "domain": "self.tifu",
-      "author": "oreynolds29",
-      "author_id": "t2_nyen9xv",
+      "author": "sleepyman691",
+      "author_id": "t2_7l48vxw6",
       "subreddit_id": "t5_2to41",
       "subreddit": "r/tifu",
-      "created_ts": "2025-09-01T23:21:27.672000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n63y5y/tifu_by_completely_ruining_dinner/",
-      "content_preview": "",
+      "created_ts": "2025-08-29T04:26:17.615000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n2xwen/tifu_by_accidentally_poisoning_my_roommate/",
+      "content_preview": "Hi reddit. I would like to clarify two things before telling this story:1- My roommate is completely fine. This isn't a \"whoops spilled my cyanide in her coffee\" story. It was non-lethal.2-Me and my roommate are both laughing about this now. She is not upset with me as it was a genuine fuck up.I(20M) have lived with my roommate Laura(21F) for about 2 months. We met the first week of college and became instant bestfriends, and recently decided to rent an apartment just off campus so we have some freedom. I love living with her, it's the best. We have the same views/standards on cleanliness, noise, bringing people over, and most importantly, individuality. We are very aware that we have some things just for ourselves. Time, space, but also certain things around the apartment and food.Our fridge is divided into 3 sections. 1 large section is dedicated to\"shareables\". Milk, eggs, cheese, drinks, things that are sort of necessities. Then, the 2 smaller sections are OUR spaces. One for my stuff, one for hers. This is very important, as there are certain things we cannot get mixed up. One of these things is my smoothies.Throughout my life, I have suffered a lot of digestive health issues. When I was three, I had an intestinal blockage that almost killed me. At 12, I was rushed to the hospital because my pancreas had started to rupture. Then, 2 years later, I had to have my gallbladder removed because of Biliary dyskinesia. Finally, when I was 17, I was diagnosed with IBS and a small list of intestinal issues. When the doctors diagnosed me with all of these, they recommended probiotic/laxative smoothies  to help with the issues.Laura is very aware of my issues and what the smoothies are for. She knows she shouldn't take them because, well, they're medicine . And who would willingly just drink a laxative and/or probiotic for no reason. Every once in a while, when I'm making a weekly supply, I'll clean out my blender and make her some smoothies when I'm done. It's not uncommon for her to come home and open the fridge to find 3 or 4 smoothies on her side of the fridge.Now to the fuck up. This was bad. So this afternoon I had about a million things to do after work, and only about 2 hours to get everything done. I was going to a party around 6pm, get off work at 2:30. It was my bestfriend's party and was about an hour drive from the apartment. I got home, managed to knock everything off my to-do list, shower, get dressed, and barely make it out the door on time. I had baked brownies last night for the party that were being kept on my side of the fridge. When I went to grab them, I moved my smoothies out of the way, and forgot to move them back. It hadn't even registered in my brain that they were there. I was on complete autopilot.I get to the party on time, not even remotely thinking about the fact I had left 2 laxative smoothies on my roommate's side of the fridge on accident. God I feel so bad. About an hour into the party, Laura texts me. She said \"Hey, thanks for making me the smoothies. I had a really rough day at work and needed something good. I'll tell you about it when you're home x\". I read the text and thought \"Wait I didn't make her any smoothies.\" I texted her exactly that, explaining I didn't make her any. That's when it hit me. Realization came crashing into me like a truck. I quickly texted \"WAIT DON'T DRINK ONE THEY'RE MY SMOOTHIES\" but the damage had already been done. Since it was a normal occurrence for me to make her some, she didn't even think of the possibility they could be mine, and drank one as soon as she saw them. I tried calling her but it declined, right after I got a text saying \"Too little too late. Pray for me.\"I was seriously worried about her. I know some people hear laxatives and think \"haha funny prank idea let's make someone shit a lot\" but they really can be dangerous. There's always the chance, like with any other medicine, you might have a bad reaction to it. If you're dehydrated, you can suffer kidney damage, heart palpitations, and sometimes death. I called her about 10 times before she picked up, explained to me that she was okay, and that she wasn't upset and forgave me. I got home around 10, to find my roommate curled up on the couch. She said other then a stomach ache and a small headache she was fine. I ran to the gas station and got her some gatorade and propelle, and now we're laying in the main room watching Watch Men. I'm glad she isn't mad at me, and I still feel like a moron and so bad about it. I'll probably go out tomorrow and get her flowers as an apology. I hope you guys enjoyed hearing my major fuck up.TL;DR: I accidentally left a laxative smoothie on my roommates side of the fridge. She drank it thinking it was normal, and suffered the consequences.",
+      "flair": [
+        "L"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2yhb49/styles/profileIcon_b51ukqj048xa1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=77f1f056767251fab8ef49a5303d4c20c1820a11",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU by telling my coworker about Love and Deepspace",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n6lkdc/tifu_by_telling_my_coworker_about_love_and/",
+      "score": 60,
+      "comments": 20,
+      "post_id": "t3_1n6lkdc",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "Mulan_Solo",
+      "author_id": "t2_ygx6o5l",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-09-02T14:49:44.943000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n6lkdc/tifu_by_telling_my_coworker_about_love_and/",
+      "content_preview": "So I got a promotion in July and been moved to a busier location. It is an office type job and I am a middle manager for the front and the back of the office.Upon one of my first days of being there, it was quiet so I was just casually playing Love and Deepspace to farm my daily diamonds. My coworker inquired what I was playing and I told her about it.Please note I am a casual enjoyer of this game, I am not a die hard fan so I not obsessed with it. I mentioned that I played it everyday for about 15 minutes just to farm diamonds, but I am not too deep into it as to understand all the lore and every nook and cranny of the gameplay (nor did I express interest in doing that).Well a couple of days later my coworker is obsessed with it and that is ALL THEY TALK ABOUT!It is driving me bananas for the past month. I enjoy it, but dang I am not that deep into the lore so when they talk about it all I can do is say, \"Uh huh.....oh....cool....yup.\"I do manage to steer the conversation away from the game, but then minutes later, she will ask a question about the game and I am back in the building.I wouldn't mind talking about it, but it is literally the first thing they talk about when I sit at my desk. I am slowly losing it.She is a very quiet, sensitive, and sweet girl so I do passively listen/ give vague responses, but dang it am I tired of hearing about 5 CGI men when in all honestly I think there is better romance written in other games.Eventually when I feel more comfortable at the new location, I might say something, but as I am new I will try to be more patient.TL;DR: I mentioned Love and Deepspace to a coworker and she got obsessed about it and won't stop talking about it which is slowly driving me insane.",
       "flair": [
         "S"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_iv66p/styles/profileIcon_5uklsn5t75721.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1b1eeb54e0bd4c9a8378dd4e4d89d21bc5e169b2"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "TIFU by giving myself mild water poisoning trying to perform a drug test.",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n0dpqw/tifu_by_giving_myself_mild_water_poisoning_trying/",
-      "score": 609,
-      "comments": 55,
-      "post_id": "t3_1n0dpqw",
+      "title": "Made by people, not prompts. Royalty-free stock that puts real creators first.",
+      "permalink": "https://www.reddit.com/user/Storyblocks/comments/1mhprvn/made_by_people_not_prompts_royaltyfree_stock_that/",
+      "score": 18,
+      "comments": 0,
+      "post_id": "t3_1mhprvn",
+      "post_type": "video",
+      "domain": "storyblocks.com",
+      "author": "Storyblocks",
+      "author_id": "t2_77hzlhp0",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-04T21:06:02.193000+0000",
+      "content_href": "https://v.redd.it/vw89vjym01hf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2ubcqj/styles/profileIcon_ym4dgzib0p951.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=4ef8d81613362e66af26e25855903b75c842c043",
+      "is_promoted": true
+    },
+    {
+      "title": "TIFU by revealing my sister-in-law's graduation gift",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n8r509/tifu_by_revealing_my_sisterinlaws_graduation_gift/",
+      "score": 18,
+      "comments": 4,
+      "post_id": "t3_1n8r509",
       "post_type": "text",
       "domain": "self.tifu",
-      "author": "Mugen8YT",
-      "author_id": "t2_w0yuq",
+      "author": "Isel_20",
+      "author_id": "t2_mxwnn",
       "subreddit_id": "t5_2to41",
       "subreddit": "r/tifu",
-      "created_ts": "2025-08-26T05:42:58.875000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n0dpqw/tifu_by_giving_myself_mild_water_poisoning_trying/",
+      "created_ts": "2025-09-05T00:37:51.411000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n8r509/tifu_by_revealing_my_sisterinlaws_graduation_gift/",
+      "content_preview": "Hello! Long time lurker, first time poster here.Is not a graduation, but she is presenting her university thesis that she been working on since 3 years ago, and depending on the evaluation is determined if she graduates or not.Anyway, we were supposed to be at this grand event but it got cancelled by a storm that was lurking that didn't even rain until late at night and our event was earlier in the day. She was really sad that it got pushed until next Monday as she's been a nervous wreck these past two weeks getting ready for the big day and had to cancel on everyone that was getting ready to go.My wife thought it would be a great idea to get something for her little sister, since she is \"graduating\". My SIL LOVES Hello Kitty, like a lot! Welp, it was destiny to find a discounted Hello Kitty with a graduation outfit on AliExpress and ordered right away.We've been nervous about the gift since our delivery window was for two days ago and it never arrived and we wanted to give it to her after the ceremony. It turns out it arrived TODAY while I was at work.I got home today and while working on a few documents, my wife casually mentions that our package arrived, while my SIL is present on the kitchen dinner. Since I'm focused on what I'm doing, I forgot she (SIL) didn't know about the contents of the package and I ask, out loud to make sure my wife could hear me properly \"Oh, and did the Hello Kitty arrive?\" asking with a worrying tone since we've had issues with AliExpress not delivering what they promised.My wife proceeded to stare at my soul, furious about the exchange. And now I've spoiled her baby-sister's gift.I know its not a great story, but needed to get it off my chest.TL;DR TIFU by asking my wife if my SIL's graduation gift arrived after she told me a package was delivered.",
+      "flair": [
+        "S"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU By telling my coworker something that made him spiral",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n3xyii/tifu_by_telling_my_coworker_something_that_made/",
+      "score": 896,
+      "comments": 149,
+      "post_id": "t3_1n3xyii",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "Fun_Guidance3550",
+      "author_id": "t2_1mhbee99jh",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-08-30T10:10:19.243000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n3xyii/tifu_by_telling_my_coworker_something_that_made/",
+      "content_preview": "A week or so ago, my coworker (32m) and I (24mtf) were complaining about our bosses after each of us separately being scolded and mocked by our assistant supervisor and plant supervisor for supposedly not being good at our job after each of us had messed up in our own area. We are both floaters for a chair factory where I was standing in for our inspector and missed a minor defect and he was gluing foam to some shells and they were so lumpy you could see it through the fabric. During our complaining I had said, \"I don't get paid enough to deal with how low my mental health has been since starting here.\" He agreed and asked how much I made. When I answered it turned out to be $3/hr more than him. He brought it up to our supervisor and said he wanted a raise. Our supervisor explained to him I got hired to at a higher rate because I had more experience, went to college (idk what not finishing a broadcasting degree has anything to do with being a chair factory floater), and because I was going to be doing harder tasks and tasks that only one other person does. He became obsessed with the fact I got paid more than him telling every who would listen that he works 10x harder than me and that he should get paid more than me. Throughout the week he got more and more angry to the point of not being able to talk about anything else. Today he went to our supervisors' office and demanded they pay him more than me. I don't know the full details but I do know they fired him and worried about him about returning with a vengeance. So much so that I have been told this is the first time they have locked the doors of the factory in at least 40 years.TL;DR: I told my coworker how much I make and he spiraled about how I made more than him until he got fired.",
+      "flair": [
+        "S"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU, I just bit my girlfriend hard in my sleep",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n38qcq/tifu_i_just_bit_my_girlfriend_hard_in_my_sleep/",
+      "score": 502,
+      "comments": 108,
+      "post_id": "t3_1n38qcq",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "HighlightHefty",
+      "author_id": "t2_7rho9af8",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-08-29T14:19:45.170000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n38qcq/tifu_i_just_bit_my_girlfriend_hard_in_my_sleep/",
+      "content_preview": "I  was having a bad dream and just woke up to my girlfriend crying and at first I was really confused and then realized I had her whole arm in my mouth. I bit down so hard that there were immediately red marks surrounding the bite mark. I didn’t mean to do this, she was crying for a really long time, I feel horrible about it. She seems really upset right now and I even tried explaining to her that I didn’t mean to do what I just did. I didn’t even know I was biting her arm until I was woken up. I would never hurt her intentionally and now I’m worried it could happen again. I’m thinking of sleeping somewhere else tonight because I’m now scared of a repeat of this event. I’m also scared that she might now be scared to sleep with me or just scared of me overall, but I wouldn’t blame her. Ive had night terrors in the past but don’t really get them anymore, I also used to kick and hit in my sleep but that also doesn’t happen anymore to my knowledge. I have woken up in the past biting things or teeth clenching. I used to take doxapen and trazedone for sleeping problems but I don’t take them anymore. I also have a really bad problem with teeth clenching all the time and brought it up to an old dentist who recommended a night mouth guard. Would that help? I have never bitten someone in my sleep before, I now feel like a dog who bit someone. Now my girlfriend and I are also both startled. What a way to start our Friday!TL;DR: I’ve had sleeping issues in the past but this time woke up to me biting down hard on my girlfriend’s arm. We’re both afraid now. It was an accident.",
+      "flair": [
+        "S"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU by posting pics of a recent cosplay I did on a recent vacation",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n8q5vv/tifu_by_posting_pics_of_a_recent_cosplay_i_did_on/",
+      "score": 5,
+      "comments": 8,
+      "post_id": "t3_1n8q5vv",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "bicurious17901",
+      "author_id": "t2_7qs1s1u4",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-09-04T23:52:45.518000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n8q5vv/tifu_by_posting_pics_of_a_recent_cosplay_i_did_on/",
+      "content_preview": "Recently I went to vacation in Las Vegas. As part of the trip we rented a car for a day to check out the surrounding area. Being huge fallout fans we went to Goodsprings and packed our vault suits for photos. We ended up having a great time. The FU came when I posted the pics to the fallout subreddit. In hours it became my most viewed and upvoted post of all time. And at first the comments were great and I had a lot of fun talking to fellow fans. Then one person suggested I shave my head ( I admit I have thinning hair), but I have been growing it out for 5 years now. I love my hair (what's left of it). I have nothing against people with shaved or bald heads but I shaved my head in my youth and I definitely don't have the head for it. Anyway after the first person said something the entire conversation turned into people telling me to shave my head. I ended up deleting the post.TL;DR: Tried to post fun cosplay pics in a cool location, had half a subreddit pointing out my thinning hair.",
+      "flair": [
+        "S"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU by eating way too much fiber",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n32z3o/tifu_by_eating_way_too_much_fiber/",
+      "score": 289,
+      "comments": 35,
+      "post_id": "t3_1n32z3o",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "Tough_Variation_5710",
+      "author_id": "t2_t5zefcc6",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-08-29T09:42:43.754000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n32z3o/tifu_by_eating_way_too_much_fiber/",
+      "content_preview": "At this point I’m inhaling through my mouth and exhaling out the other end with how gassy I am.This week I made a pact to eat better and I thought “hey let me feed my gut fiber instead of McDonald’s” So I proceeded to eat 40-60 g of fiber the past 4 days. For reference I’m a 120lb female.I even jokingly called my morning smoothies poop smoothies because I’d go poop right away after..that was the first warning sign. Things progressed to me being extremely bloated. Once the nausea came, I was actually fearful I was pregnant which I kind of was, in a way, but not the way I thought…I became so gassy (thank god I wfm) that I was legit non stop farting. I felt like I was farting more air than I was breathing in. Then the delivery came on day 4. Poop. Non stop poop. I pooped about 5 times zucchini sized poops. I also threw up because of how insanely bloated I was..my stomach had enough after a small bean salad and I vomited everywhere.Turns out these are all normal symptoms for too much fiber. My fiber mostly came from chia seeds, broccoli, and beans. Thanks for hearing my storyTL/DR: I ate so much fiber that the amount of poo and gas build up made me vomit.",
+      "flair": [
+        "S"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU by Trying to Help at the Grocery Store",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n8kj57/tifu_by_trying_to_help_at_the_grocery_store/",
+      "score": 18,
+      "comments": 15,
+      "post_id": "t3_1n8kj57",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "santarox",
+      "author_id": "t2_xuy3z",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-09-04T20:01:00.269000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n8kj57/tifu_by_trying_to_help_at_the_grocery_store/",
+      "content_preview": "Today at the grocery store, I saw a woman struggling to reach something on the top shelf. Feeling like a decent guy, I stretched up to grab it for her. Unfortunately, I misjudged my reach and knocked over an entire row of products. Thank goodness nothing fragile was on the shelf, just boxes of cereal and cans of soup.The crash was loud enough to attract the attention of the entire aisle, and I spent the next few minutes sheepishly picking everything up while the woman stood there, clearly unsure whether she should thank me for helping or just walk away to pretend she didn’t see me.I managed to get everything back in place, but the damage was done. I left the aisle, embarrassed, thinking maybe next time I’ll just stick to grabbing my own groceries and leave the heroics to the professionals.TL;DR: Tried to help a woman reach something on the top shelf, knocked over a row of products, and spent a few awkward minutes cleaning up.",
+      "flair": [
+        "S"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU by telling my son to “go get his girl”",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1myls5t/tifu_by_telling_my_son_to_go_get_his_girl/",
+      "score": 2203,
+      "comments": 144,
+      "post_id": "t3_1myls5t",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "[deleted]",
+      "author_id": "",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-08-24T04:03:13.225000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1myls5t/tifu_by_telling_my_son_to_go_get_his_girl/",
+      "content_preview": "I’m not sure if this coincidence or something much greater at work.When my parents met, my mom’s parents didn’t like my dad because they thought he was a “punk” and a failure. They didn’t want them to get married but they got married anyways.My wife’s parents also didn’t like me because I flunked out of a college and went to trade school and i’m doing well now but back then my future was uncertain. We got married anyways.Our son is now 24, and you guessed it, the girl he likes, his parents don’t like him. I wanted my son to be an engineer or get an office job because trades takes a toll on you, I have a few back and joint problems but my son wants to be a mechanic and eventually open his own shop. I believe in him and i’ll always be here to catch him. He also flunked out of college and currently living with us until he finishes trade school, can’t even get mad because I started trade school at 22. Like father Like son as they say.Her parents want a guy who has “status” because she’s studying to be a pharmacist and he’s just start school again at 24.Great for her but love is love.He was really sad because he says they love each other so I told him, hey man if you two love each other and you know she’s the one for you, go get your girl, i straight up got legally married to my wife at 22 until we could afford a real wedding and her parents were livid. My parents ran away together.So he does that, doesn’t tell anyone , not even me and surprise drops his wedding on a call and says dad I did what you said, I got married.I wish he didn’t word it like that because now I’m in troubleher parents and my wife are livid, they’re pressuring them to get the married annulled and wait till graduationher parents straight up want them to never see each other againbut I don’t regret it one bit, maybe it’s a coincidence or just maybe there js something greater at workTL;DR: told my son that if he loves his girl , he needs to go get her",
+      "flair": [
+        "S"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Meet Jack Blackberry, our newest family member.",
+      "permalink": "https://www.reddit.com/user/JackDaniels_US/comments/1mq9ddu/meet_jack_blackberry_our_newest_family_member/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mq9ddu",
+      "post_type": "image",
+      "domain": "buynow.jackdaniels.com",
+      "author": "JackDaniels_US",
+      "author_id": "t2_bjwz6xt8q",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-14T18:45:35.470000+0000",
+      "content_href": "https://buynow.jackdaniels.com/en_us/flavors/?utm_source=reddit&utm_medium=static&utm_campaign=awareness-blackberry&utm_content=jdtb-lifestyle-static#/US-NY/quick-shop/a10b9956-7beb-450d-b10f-ab1539f6fa32/750mL",
       "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_8fcmyg/styles/profileIcon_emxv9vnvst0b1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=e262d58e4efe9dd3c7968e1df1bd639939c3d945",
+      "is_promoted": true
+    },
+    {
+      "title": "TIFU by wearing my favorite shirt twice",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n2osja/tifu_by_wearing_my_favorite_shirt_twice/",
+      "score": 136,
+      "comments": 16,
+      "post_id": "t3_1n2osja",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "CommonPassenger9083",
+      "author_id": "t2_1kndlqjmfv",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-08-28T21:26:03.243000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n2osja/tifu_by_wearing_my_favorite_shirt_twice/",
+      "content_preview": "today i had my first day of classes and decided to wear my favorite top! well, it's a crew neck tee that is form fitting and super flattering. however i live in a hot area and also didn't realize that parking would be a nightmare. i had to park a 1/2 mile away from the school and then walk to my building. in the heat, i sweated. a lot. i had never worn this top before in such hot weather and didnt expect to SWEAT THROUGH IT SO BAD. i am NOT a sweaty or stinky person and i was MORTIFIED. i had to hold my arms close to my torso the entirety of class.so later that night, i have a date! he is super cute and sweet and i was so excited. we decided on mini golf. well, that's an outdoor activity and where i live at 9pm it is still at least 90° F. i thought \"hmmm what's a good simple flattering top i can wear to this exciting date? OH! what about this one!!?\" and i proceed to wear the exact same top from earlier in the day (different color). it didn't occur to me that i might encounter the same problem.lo and behold.... i sweat during our date. and it shows. a lot. it was HORRIFIC AND MORTIFYING and he DEFINITELY noticed. at the end of the date i said \"well it was super nice to meet you! i'd hug ya but i'm super sweaty!\" and he replies \"yeah, okay bye!\"i don't sweat this much. ever. why did it happen today? why did i decide to wear the same top??TL;DR: i wore my favorite shirt twice today knowing i would sweat through it",
+      "flair": [
+        "S"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU by eating ghost pepper sour cream and throwing up.",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n2m1n1/tifu_by_eating_ghost_pepper_sour_cream_and/",
+      "score": 151,
+      "comments": 71,
+      "post_id": "t3_1n2m1n1",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "ThisPostToBeDeleted",
+      "author_id": "t2_eluciz24",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-08-28T19:39:30.880000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n2m1n1/tifu_by_eating_ghost_pepper_sour_cream_and/",
+      "content_preview": "So I had used orange and lime juice making lunch but only half and orange and lime, I decided “hey, I eat lemon juice with yogurt and sugar sometimes, I’ll make that to finish it off🤪” but no yogurt, it has mold so I got sour cream and noticed I had a ghost pepper that had been sitting around for a day or two so I diced it with the sugar and put in the sour cream. I then ate the abomination but then, of course it burned and was also too* sweet so I added rice vinegar. It burned of course and a drank milk, but that made it worse for now my stomach felt like it was gonna explode “take me to the hospital, I’m gonna die” level explode and then I threw up, and felt quite a bit better.TL;DR: I ate sour-cream with orange juice, lime juice, sugar, rice vinegar and diced ghost pepper before throwing up. (Edit; wrong too)",
+      "flair": [
+        "S"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU by going to the wrong movie theater and accidentally trying to put my arm around a stranger while my date thought I disappeared",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n5vvj3/tifu_by_going_to_the_wrong_movie_theater_and/",
+      "score": 265,
+      "comments": 16,
+      "post_id": "t3_1n5vvj3",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "AkiShay16",
+      "author_id": "t2_4cfoxe4g",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-09-01T18:01:04.635000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n5vvj3/tifu_by_going_to_the_wrong_movie_theater_and/",
+      "content_preview": "This happened a couple years ago and I'm still cringing about it.So I'd been on 4-5 dates with this girl (let's call her Maya) who I met through our moms' WhatsApp group (classic Indian parent setup). Things felt platonic and she'd actually said she wanted to be friends, but I still had feelings for her. I invited her to see The Batman with two of my friends she'd never met.Important context: I had a broken ankle from dancing too enthusiastically at a wedding. We get to the theater, and I'm sitting next to Maya. She's being flirty - getting close, giving me vibes - and I'm getting nervous and excited. I need a moment to process, so I tell everyone I'm getting popcorn. I come back 10 minutes later, the theater is pitch black, movie's started. I remember my seat number, count over, see a girl sitting there wearing similar mosaic-style earrings, and sit down next to her. I'm trying to follow the plot but Batman makes NO sense. Feeling bold, I try to put my arm around \"Maya.\"She pulls away. Hard.45 MINUTES later, I realize I'm in the wrong theater watching a Batman showing that started 2 hours ago. I have a tendency to take the “no phones” rule really seriously in a theater so I try not to bring it out when a movie plays, but this time I looked directly at the guy next to me and he DEFINITELY was not my friend. I check my phone and see about 10 missed calls and a barrage of unread texts.I do my best to sprint out of that theater with a cast on (I’m so sorry to the random person who’s foot I stepped on) and immediately see Maya and my two friends walking INTO my theater. Turns out when I didn't come back, they panicked. They searched the entire theater; she even made my friends crawl on all fours checking under seats thinking I'd collapsed with my broken ankle. One friend even found my DAD on LinkedIn to ask if he knew where I was.Finally, they got the theater manager to pull CCTV footage and found me wandering into the wrong theater like an idiot. The girl I tried to put my arm around? A complete stranger who was probably terrified some random guy was hitting on her in the dark. I was mortified. I'd left this girl alone with my friends she'd never met, disappeared for 45 minutes, and accidentally hit on someone else. I was sure I'd blown any chance I ever had.After the world's most awkward movie experience, I offered to drive her home. She was quiet the whole ride and I was preparing for the worst. Right before we got to her apartment, she asked me to pull over. \"I need to tell you something,\" she said, and my heart sank. I was ready for her to tell me she never wanted to see me again, which honestly I would have completely understood. Instead, she said: \"I really like you.\" I was floored. What kind of woman likes a guy who disappears into the wrong movie theater and accidentally hits on strangers? I realized I had someone really special on my hands (either that, or someone with some problems).TL;DR: Went to the wrong movie theater on a date, tried to cuddle a stranger, caused a search party involving CCTV and LinkedIn stalking, thought I ruined everything.UPDATE: That conversation in the car was when we officially started dating again. Two years later, we're married and she’s truly the love of my life. She still brings this story up at parties.",
       "flair": [
         "M"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1f947z/styles/profileIcon_84p5gz4eittd1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=eee808775a847c6fda85a37b3ae1987a1ab61a2a"
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU by spilling fuel in the back of my car.",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n2sbn7/tifu_by_spilling_fuel_in_the_back_of_my_car/",
+      "score": 8,
+      "comments": 3,
+      "post_id": "t3_1n2sbn7",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "FMLitsSML",
+      "author_id": "t2_8jv41js8",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-08-28T23:56:48.251000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n2sbn7/tifu_by_spilling_fuel_in_the_back_of_my_car/",
+      "content_preview": "TLDR at bottom, SFW.I (F33) have had a few weeks off work over the summer. This FU takes place about a week ago - I was staying at my bf's and was meeting my family in Scotland the next day for a week's holiday. In the week I was going to be away my bf had, amongst other things, planned a track driving day in his car. I don't know too much about how they work, but he'd been tinkering with his project car in the garage the week before, and had put a note on his to-do list to fill up his jerry cans.I knew my car was close to empty so, being the super considerate gf that I am, went out to get some fuel whilst he was at the gym and took his jerry cans with me. Filled up my car (with normal unleaded), paid, and then went to fill the jerry cans with super unleaded.The first (minor) FU was when I was filling the first jerry can. I got just below 20 litres and thought \"this should cut off soon\" - which it did, but it was right up to the neck, and splurged petrol all over me, thankfully avoiding my hair. I swore at myself, noted this and made sure I didn't do the same for the second jerry can. Another 20 litres in, time to put both jerry cans away and go and pay.The second (medium) FU was when I physically went to put the jerry cans away. I compoletely forgot that petrol weighs something, so I nearly fell over trying to pick up one of the jerry cans. I remember thinking \"fuck me, this is heavy\" whilst struggling to pick it up. I got the first one into the boot, but my petrol-covered hands slipped off the second one, which bounced off my rear bumper and then clattered to the floor. Great, there's a scratch in my nice new(ish) car and a dent on the jerry can. I made sure it wasn't leaking, gave it a quick wipe-down and put it in the boot with copious amounts of swearing.I paid again, with the petrol station attendant trying to avoid eye contact (presumably as he'd found the faff outside quite amusing) and drove home. Smelt a bit of fuel on the way but I assumed it was just because one of the cans was covered in petrol.Well, I got back to my bf's and opened the boot... to the third and major FU. I hadn't closed one of the jerry cans properly, and as it was lying on its side, had pissed petrol all over the boot floor. It had soaked through the carpet.I took the carpet out of the car and left it in the garden to dry out, whilst wiping down the boot floor as best as I could. I crossed off \"fill up jerry cans\" on the board and added \"buy kitchen roll\" as I'd used up all of what was left. My bf was happy enough with 1 and a half cans of fuel - I think he was more appreciative that I was sat on the sofa in just my underwear, as I'd put my petrol-covered clothes straight in the washing machine.The next day he gave me a lift to the train station to go up to Scotland, where I enjoyed a week's holiday with my family. I got back last night and drove home this morning. As soon as I got in my car, the smell of petrol was almost overwhelming. I ended up driving home with the windows all the way down, which was fun on the motorway and even more fun when it was pouring with rain as I found myself in some stop-start traffic. I'll have to get it valet cleaned tomorrow. Fgs.TLDR - went to do my boyfriend a favour by filling his jerry cans. I covered my clothes in petrol, didn't put the cap on properly, the petrol leaked out as the cans were on their sides and now my car stinks of fuel.",
+      "flair": [
+        "M"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU by giving myself visions",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n22esu/tifu_by_giving_myself_visions/",
+      "score": 47,
+      "comments": 13,
+      "post_id": "t3_1n22esu",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "Unknown2kPlayer",
+      "author_id": "t2_4w16j93q",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-08-28T04:04:55.769000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n22esu/tifu_by_giving_myself_visions/",
+      "content_preview": "You know that thing that happens when you close your eyes hard and see stars, patterns, even weird shapes and colors? Well I see Sudoku puzzles. Earlier this week I started hyper focusing on a new game, sudoku. I'm talking 5-6 hours of nonstop games on my phone. Unfortunately this is a result of my adhd. Well along with all this, I have also started dreaming of Sudoku puzzles and reacting to situations irl because of it, I keep seeing situations as a Sudoku puzzle. Now when I close my eyes or try to sleep, all I see is Sudoku puzzles with various solutions and I try to solve them in my mind. On a more positive note though, I've been able to complete master level difficulty with ease. -Sincerely, a person with a love-hate relationship with Sudoku.Tl;dr:  Hyper focused on Sudoku, now seeing them in my day to day actions.",
+      "flair": [
+        "S"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU by assuming the worst with my computer",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n5oaw4/tifu_by_assuming_the_worst_with_my_computer/",
+      "score": 183,
+      "comments": 79,
+      "post_id": "t3_1n5oaw4",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "kaida27",
+      "author_id": "t2_30qo3ebp",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-09-01T13:10:58.333000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n5oaw4/tifu_by_assuming_the_worst_with_my_computer/",
+      "content_preview": "Yesterday morning I woke up and my monitor said “No Signal.”I reset the PC, thinking it might just be a sleep bug or something, but still no signal.(By the way, the oven clock was flashing that morning, so there had been a power outage.)I looked through the side panel of my computer and noticed the GPU fans weren’t spinning. Not a good sign.I power-cycled the computer by unplugging it, holding the power button for 30 seconds, then plugging it back in. Still nothing.I could still ping the machine from my phone, which made me think the GPU had died from the outage, even though I have a UPS.I opened the PC, pulled the GPU out, checked for any burnt smell, then reinstalled everything just in case. Still no signal.I took the GPU out again, boxed it up, and figured I’d have to RMA it. I grabbed an old spare GPU I had lying around. The fans spun, but again no signal.Maybe that spare card was dead too since I’d never tested it. So I pulled the GTX 1650 from my server, which I know works, and put it in my main PC. The fans spun but once again, no signal.At that point I thought maybe the PCIe slot was bad. I moved the card to the second PCIe x16 slot, which was a bit tricky because the USB header was in the way. Still nothing.Then it hit me. I changed the input on my monitor. And there it was, an image.Turns out the outage had reset my monitor to HDMI 1, while my PC is plugged into HDMI 2.That explained the missing signal, but not the fans on my RTX 5070 not spinning. I thought maybe the card really was damaged. I tried it again anyway. This time I got an image, though the fans still weren’t spinning.I ran a local AI job to put load on the GPU, and the fans finally kicked in.That’s when I learned the 5070 doesn’t spin its fans at boot or idle, only under load.So yeah, I spent about 2–3 hours swapping parts and troubleshooting, all because my monitor was on the wrong input.TL;DR : Yesterday I thought my GPU was dead. Then I realized… the power outage had reset my monitor to HDMI 1. My PC was on HDMI 2 So I wasted 3 hours because I didn’t check my monitor input.",
+      "flair": [
+        "M"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU by kneeing my wife in the ear and driving the pointy back of her earring into her skull.",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n3pfz4/tifu_by_kneeing_my_wife_in_the_ear_and_driving/",
+      "score": 180,
+      "comments": 30,
+      "post_id": "t3_1n3pfz4",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "GreatPea44",
+      "author_id": "t2_1ltwcda2yj",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-08-30T01:45:23.436000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n3pfz4/tifu_by_kneeing_my_wife_in_the_ear_and_driving/",
+      "content_preview": "So my wife and I play around a lot and tease eachother a lot. I'm 6'4, she's 5'5. I'm super ticklish on the soles of my feet but nowhere else, so my wife likes to jump on top of my legs while in bed and tickle my feet, and then hold on for dear life while I start leg rodeo and try to shake her off, often lifting her up in the air on my leg and flailing her about. This is incredibly funny, but also incredibly dangerous turns out. My daughter (4.5yo) saw us doing this once and ofcourse she joined in on the fun, and I had 1 smol screaming lady on each of my leg trying to tickle me while being thrown about. Today, my wife and I were in bed and she started doing the same thing, and I had a reflex to bend my knee and try to shake her off, but alas she was not tightly strapped in yet, so I clocked her in the ear pretty bad, I could hear it and I knew it was bad. She looked back at me in shock like I had just beaten her, holding back tears but also looking very confused. I comfort her, hold her, apologise, all the good stuff, and then I check her ear.Her earlobe was stuck to her head. Like it looked glued to her head.Upon closer inspection, it appears that the pin from her earring that sticks out like half a centimetre or 0.2 inches went into her skull, fully. I look at her in shock. She sees my reaction and asks what is it. I say nothing and just yank it out. She feels it, proceeds to ask wtf was that. I tell her. She gets upset. Not a drop of blood anywhere. She is still upset now but a bit better after flowers and chocolate and me doing the bedtime routine. Keeps giving me the stinkeye when we pass eachother in the house.TL;DR I nailed my wife's earlobe to her skull with the earring pin while doing leg rodeo and now she's upset.",
+      "flair": [
+        "S"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "TIFU by sending a text to the wrong person",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n5mbt7/tifu_by_sending_a_text_to_the_wrong_person/",
+      "score": 159,
+      "comments": 8,
+      "post_id": "t3_1n5mbt7",
+      "post_type": "text",
+      "domain": "self.tifu",
+      "author": "BlazeLion563",
+      "author_id": "t2_1uz5ovpqrv",
+      "subreddit_id": "t5_2to41",
+      "subreddit": "r/tifu",
+      "created_ts": "2025-09-01T11:36:23.270000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n5mbt7/tifu_by_sending_a_text_to_the_wrong_person/",
+      "content_preview": "This happened yesterday and I still feel my face burning. I was texting a friend about how annoyed I was at my boss. Nothing horrible, just venting about how he micromanages every little thing and makes meetings drag on forever. Except instead of sending it to my friend, I somehow sent it to my boss. I didn’t even realize until I saw his typing bubbles appear. He replied with “Let’s talk tomorrow.” That was it. No emojis, no nothing. I barely slept last night because I kept replaying the moment over and over. I’m dreading whatever “talk” we’re going to have, and I can’t decide if I should try to apologize first or just wait it out. I was on MyPrize when I noticed my mistake, which made it even worse because I was distracted and not paying attention.TL;DR: Tried to vent about my boss to a friend over text. Sent it to my boss instead. Now I’m waiting for the fallout.",
+      "flair": [
+        "S"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     },
     {
       "title": "TIFU I set myself on fire accidentally and had to be care flighted to the hospital for emergency surgery",
       "permalink": "https://www.reddit.com/r/tifu/comments/1mivt9f/tifu_i_set_myself_on_fire_accidentally_and_had_to/",
-      "score": 1987,
+      "score": 1992,
       "comments": 210,
       "post_id": "t3_1mivt9f",
       "post_type": "text",
@@ -699,312 +1263,55 @@
       "subreddit": "r/tifu",
       "created_ts": "2025-08-06T05:03:21.347000+0000",
       "content_href": "https://www.reddit.com/r/tifu/comments/1mivt9f/tifu_i_set_myself_on_fire_accidentally_and_had_to/",
-      "content_preview": "",
+      "content_preview": "I was doing yard work and had a huge burn pile after it. I usually use diesel as an accelerant for my brush piles but I was out of diesel and figured if I was careful it would be fine to just use regular gasoline.I poured about 1/4 gallon on there and grabbed a little dab torch.Here’s where things went awry. I got a small bit set on fire and turned around to move away. That’s when the boom happened. I was basically engulfed in flame. My legs got the worst of it. But my entire right side is burned all the way to my head.I stopped, dropped, and rolled. Skin was falling off my calf muscles as I stood up.Ambulance took me to the helipad and took me to medical city Plano burn unit. I have these special things stapled into my legs now and we are about to do 6 skin graftsTLDR: I set myself on fire and my legs are fucked nowEdit: this BLEW Up more than I expected. I’m on a lot of heavy painkillers and weed gummies and replying to so many well wishes is just not possible. Thank you all for your thoughts.My family is going to be setting up a gofundme in a couple days to try to help me get through all this. I’m obviously not able to work for a while. Would it be kosher to post the link here when they get all that set up?",
       "flair": [
         "S"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "TIFU telling my friend I cry while going to the bathroom",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1muiw6h/tifu_telling_my_friend_i_cry_while_going_to_the/",
-      "score": 1380,
-      "comments": 237,
-      "post_id": "t3_1muiw6h",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "courtneyseyl3",
-      "author_id": "t2_9grx18ad",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-08-19T13:45:59.612000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1muiw6h/tifu_telling_my_friend_i_cry_while_going_to_the/",
-      "content_preview": "",
-      "flair": [
-        "S"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "TIFU by letting the plates on my car expire, and my car was towed while I was on my honeymoon.",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1mxscfw/tifu_by_letting_the_plates_on_my_car_expire_and/",
-      "score": 38,
-      "comments": 27,
-      "post_id": "t3_1mxscfw",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "SaturnBaby21",
-      "author_id": "t2_16qypdfn",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-08-23T04:48:56.433000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1mxscfw/tifu_by_letting_the_plates_on_my_car_expire_and/",
-      "content_preview": "",
-      "flair": [
-        "S"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "TIFU I said my car had 70 cylinders",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1mviaeo/tifu_i_said_my_car_had_70_cylinders/",
-      "score": 1274,
-      "comments": 248,
-      "post_id": "t3_1mviaeo",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "07bag_of_bones",
-      "author_id": "t2_1ozy6y2cny",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-08-20T15:39:53.803000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1mviaeo/tifu_i_said_my_car_had_70_cylinders/",
-      "content_preview": "",
-      "flair": [
-        "S"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "TIFU by pretending I was an old west gunslinger and burned myself",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1mwkly0/tifu_by_pretending_i_was_an_old_west_gunslinger/",
-      "score": 34,
-      "comments": 13,
-      "post_id": "t3_1mwkly0",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "No_Nectarine_3478",
-      "author_id": "t2_axtlkg14",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-08-21T19:25:09.328000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1mwkly0/tifu_by_pretending_i_was_an_old_west_gunslinger/",
-      "content_preview": "",
-      "flair": [
-        "M"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "TIFU by losing an intership because of using my phone in class.",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n63ej7/tifu_by_losing_an_intership_because_of_using_my/",
+      "title": "TIFU by sleeping with my friend",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1n8kca6/tifu_by_sleeping_with_my_friend/",
       "score": 0,
-      "comments": 19,
-      "post_id": "t3_1n63ej7",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "Unknown_Nothin-",
-      "author_id": "t2_180kur3xnv",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-09-01T22:57:29.186000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n63ej7/tifu_by_losing_an_intership_because_of_using_my/",
-      "content_preview": "",
-      "flair": [
-        "M"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "TIFU Ordering an anniversary gift for my gf",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1mwnl2m/tifu_ordering_an_anniversary_gift_for_my_gf/",
-      "score": 10,
-      "comments": 4,
-      "post_id": "t3_1mwnl2m",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "Rutu98",
-      "author_id": "t2_11weal",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-08-21T21:18:47.073000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1mwnl2m/tifu_ordering_an_anniversary_gift_for_my_gf/",
-      "content_preview": "",
-      "flair": [
-        "S"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "TIFU by mishearing “my dad” with “Madonna”…",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1mwg0qo/tifu_by_mishearing_my_dad_with_madonna/",
-      "score": 18,
-      "comments": 5,
-      "post_id": "t3_1mwg0qo",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "RedditGarboDisposal",
-      "author_id": "t2_arw1vf2y",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-08-21T16:35:23.767000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1mwg0qo/tifu_by_mishearing_my_dad_with_madonna/",
-      "content_preview": "",
-      "flair": [
-        "M"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_42nguz/styles/profileIcon_07o18e01m92e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4294255d54b2bbcfc933b4bd6ca6007e0d589f39"
-    },
-    {
-      "title": "TIFU - by tooting so loud my Airbnb host heard",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1mi587k/tifu_by_tooting_so_loud_my_airbnb_host_heard/",
-      "score": 1228,
-      "comments": 104,
-      "post_id": "t3_1mi587k",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "Affectionate_Bag1827",
-      "author_id": "t2_12wr9m31gt",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-08-05T10:11:01.605000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1mi587k/tifu_by_tooting_so_loud_my_airbnb_host_heard/",
-      "content_preview": "",
-      "flair": [
-        "S"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_bscrc1/styles/profileIcon_g4ywb9z5e78d1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1057fdaa8f148379b6e06277f2f57a82d31af347"
-    },
-    {
-      "title": "TIFU after dropping a watermelon on my crotch",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n61ik5/tifu_after_dropping_a_watermelon_on_my_crotch/",
-      "score": 0,
-      "comments": 15,
-      "post_id": "t3_1n61ik5",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "Severe_Specific_8680",
-      "author_id": "t2_1eh2jex17f",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-09-01T21:36:15.071000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n61ik5/tifu_after_dropping_a_watermelon_on_my_crotch/",
-      "content_preview": "",
-      "flair": [
-        "S"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "TIFU by trying to not-obscure my opponents' vision in volleyball.",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1mv776b/tifu_by_trying_to_notobscure_my_opponents_vision/",
-      "score": 26,
-      "comments": 7,
-      "post_id": "t3_1mv776b",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "Mugen8YT",
-      "author_id": "t2_w0yuq",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-08-20T06:31:30.129000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1mv776b/tifu_by_trying_to_notobscure_my_opponents_vision/",
-      "content_preview": "",
-      "flair": [
-        "S"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_1f947z/styles/profileIcon_84p5gz4eittd1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=eee808775a847c6fda85a37b3ae1987a1ab61a2a"
-    },
-    {
-      "title": "TIFU by trying to impress my crush",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1mv689c/tifu_by_trying_to_impress_my_crush/",
-      "score": 25,
-      "comments": 5,
-      "post_id": "t3_1mv689c",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "Wonderland_Palace",
-      "author_id": "t2_1i9yx8u2mv",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-08-20T05:32:49.430000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1mv689c/tifu_by_trying_to_impress_my_crush/",
-      "content_preview": "",
-      "flair": [
-        "S"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "TIFU by resembling a \"celebrity\"",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1mw3mqt/tifu_by_resembling_a_celebrity/",
-      "score": 0,
-      "comments": 2,
-      "post_id": "t3_1mw3mqt",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "Catacaustic_au",
-      "author_id": "t2_13m8vbdt7l",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-08-21T06:46:59.835000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1mw3mqt/tifu_by_resembling_a_celebrity/",
-      "content_preview": "",
-      "flair": [
-        "S"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "TIFU by trying to impress my girlfriend’s parents",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n5wzyu/tifu_by_trying_to_impress_my_girlfriends_parents/",
-      "score": 71,
       "comments": 30,
-      "post_id": "t3_1n5wzyu",
+      "post_id": "t3_1n8kca6",
       "post_type": "text",
       "domain": "self.tifu",
-      "author": "X4ldror",
-      "author_id": "t2_1ur4vcksg4",
+      "author": "Weary-Ad-8034",
+      "author_id": "t2_d6zz9z39",
       "subreddit_id": "t5_2to41",
       "subreddit": "r/tifu",
-      "created_ts": "2025-09-01T18:41:59.322000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n5wzyu/tifu_by_trying_to_impress_my_girlfriends_parents/",
-      "content_preview": "",
+      "created_ts": "2025-09-04T19:53:42.468000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1n8kca6/tifu_by_sleeping_with_my_friend/",
+      "content_preview": "Me (20F) and my friend R (20F) met at the beginning of June. R is neighbors with one of my closest friends, M (23F). M told me in private, after playing volleyball with us and three other girls, that R and I would look good together. (Very original of her to ship the only two lesbian friends she has.)One week after talking, R and I went to the movie theater. Since then I started inviting her to hang out with me and M’s friend group. In this group, we’re six girls and four boys, all doing the same major (engineering). Now R joined too, even though she’s a veterinary major. R is very extroverted, loud, and funny, like almost all of us including myself. She got along with everyone very quickly.As I kept inviting her to gatherings, we became closer. One month later, after many invitations from her, I went to sleep at her place (we all live alone). Our winter break is in July, so we spent the last week before the break together. I slept with her three times before we went back to our hometowns.We talked during the break. When we came back, I went to M’s place to see her because I missed her very much, and R was there too. After a bit, R invited me to her place and said we needed to talk. She told me she had broken up with her ex only five months ago (I already knew this). She believes people need at least one year alone before starting something new. She said she wasn’t ready for commitment and that she’d be ok with me seeing other people. She asked if I was ok too. I told her I respected her but preferred to stay just friends. I don’t like being with someone who’s seeing other people, and I liked her too much to do that.Not even a week later, she came to my place to deliver a hand drawing of a lily. (I told her I wanted one after the winter break when she showed me her drawings.) She asked to use the bathroom, then came into my bedroom. After rambling for minutes, she said she liked me and didn’t want to see other people. I was content. We agreed that we weren’t dating yet, but we could go back to being “together.”Exactly one week later, after spending days as a couple (she even called us a couple), she told me she still wasn’t ready for commitment or to see only one person, even though we weren’t officially dating. I respected her, saying that was ok. She then asked if I wanted to insult or hit her. I said, “Obviously not. Do you want to do this to people when they disappoint you?” She said no and cried, apologizing for being a bad person. I immediately told her it was ok and that she wasn’t.Almost a week went by with us barely talking because I was a bit hurt. She sent me a lot of messages trying to talk in a friendly way, but I wasn’t in the mood. Then my friend group gathered at M’s place to drink and play.She came home after drinking with her friends and joined us. I was drinking too (usually I drink moderately - I really don’t know what happened that night). We were all drunk and loud, so M kicked us out because her landlord was pissed. I went to my place. I was very drunk, so was she, and she wanted to talk with me about our situation.We spent 40 minutes on the phone, but my signal was bad. She asked if she could come over and if I was conscious enough. I said yes, and once again we slept together. (Yes, we did talk before, but I don’t remember everything we said.) It was good, as it always is. The next morning I woke up to her stroking my hair. I was hungover, and she took care of me before I went to uni.Later we agreed it was a bad thing to do, but she said she doesn’t regret it. I do. She always looks at me with something in her eyes, and I don’t know what to do. She went to her hometown for a few days since we don’t have classes this week. I need to figure everything out before she comes back.Update (almost one week later): I wrote all of this the same day, but I still haven’t figured out what to do. We started talking normally again as friends. She often writes as if she misses me. She always mentions my eyes and smile. She regrets “being a jerk” (by saying she wasn’t prepared for a relationship). I don’t know what to make of it, and I’ll never ask.Our classes start again on Sunday, and I’m still not completely ready to see her. I don’t trust her enough. I told her this - that we’re better off as friends. But are we? Should we even stay friends? She texted me saying she’d miss me if we stopped talking. I don’t know if I’d miss her too. (She said afterwards that she cried during this talk.)One thing I know is that I’d still see her because everybody loves her. So I don’t know if it’s worth it to cut off the friendship. We are a very nice duo, even just as friends.TL;DR: TIFU by sleeping with a friend I had feelings for. Now I don’t know whether to stay friends or cut her off. I don’t know which is harder.",
       "flair": [
-        "S"
+        "L"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "TIFU by trusting my AirPods during a meeting",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1n5wt3t/tifu_by_trusting_my_airpods_during_a_meeting/",
-      "score": 0,
-      "comments": 4,
-      "post_id": "t3_1n5wt3t",
-      "post_type": "text",
+      "title": "TIFU by cleaning old dog peepee and ending up in the ER",
+      "permalink": "https://www.reddit.com/r/tifu/comments/1mzg98t/tifu_by_cleaning_old_dog_peepee_and_ending_up_in/",
+      "score": 1717,
+      "comments": 154,
+      "post_id": "t3_1mzg98t",
+      "post_type": "multi_media",
       "domain": "self.tifu",
-      "author": "W1ndbornes_Word",
-      "author_id": "t2_1ur0ofx6m5",
+      "author": "punkythebrewster",
+      "author_id": "t2_hw2yt",
       "subreddit_id": "t5_2to41",
       "subreddit": "r/tifu",
-      "created_ts": "2025-09-01T18:35:02.389000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1n5wt3t/tifu_by_trusting_my_airpods_during_a_meeting/",
-      "content_preview": "",
+      "created_ts": "2025-08-25T03:45:08.454000+0000",
+      "content_href": "https://www.reddit.com/r/tifu/comments/1mzg98t/tifu_by_cleaning_old_dog_peepee_and_ending_up_in/",
+      "content_preview": "So earlier today I was cleaning the bathroom. I have a tall laundry basket that I keep in there for dirty clothes ect. It's the kind that has small holes going up the sides. I usually keep a thick black plastic bag in there to keep the smell of the dirty clothes in. Well as i was cleaning i noticed the laundry basket had a little yellowing to it at the bottom. When I bent down I realized that my two dogs have been sneak peeing on the laundry basket. So I take the bag out and ofc, there it is, semi-dried nasty pee pee in the bottom of the laundry basket. In my head I'm thinking this needs to be sanitized immediately.So here's where i fucked up. I put the laundry basket into the tub and grabbed the first sanitizing thing i see. Concentrated bleach. And I pour. As soon as I pour the bleach onto the pee I knew I messed up bad because it instantly started bubbling. It created toxic chlorine ammonia gas. I turned the tub faucet on full blast into the mix, knocked the basket over in the tub so it could drain, and ran out of the bathroom to grab a rag to wrap around my face. I wasn't fast enough though because my eyes and nose were on fire. Once I got back into the bathroom most of the mix had gone down the drain and I took the basket outside. After a few minutes breathing real air I went back in and opened up all the doors and put all the fans on high. My eyes were still stinging pretty bad, my nose felt burnt, and my face felt tight. I sat down to try to play some Holdfast (videogame)  thinking I didn't get it that bad but after a few minutes of trying to shoot the cannon through my tears I decided I might need to go to hospital.So I make it to the ER and they take one look at me and send me straight to triage. Here's where it gets better. The triage nurse looks at my eyes and says we need to get you to the eyewash station for 15 minutes to wash your eyes out because they have mild chemical burn there's one just around the corner in the bathroom. Let me tell you guys that the nurse was just as surprised as me to say that the eye wash station was no longer in that bathroom. So she goes to find an eyewash station while I sit there with my eyes just crying and let me tell you there was no eye wash station on the ER floor. So this other nice nurse says there's one up in ICU for sure across from that nurses station.So a whole other nice nurse takes me up a floor to ICU where we go to that bathroom where there is no eyewash station. We find another bathroom and another and no eyewash stations anywhere. So finally I say, hey I've worked in a lot of kitchens in restaurants, there's always an eyewash station next to the dish-pit. So we go all the way down to the hospital cafeteria where I stand against the wall and wait for the nurse to see if there's an eye wash station in the kitchen. I waited for a while too. When she came back she was holding two bottles in her hand. Portable eyewash kit. The kitchen only had two of those and no others and they needed them back but yes I could use them. The kitchen did not have an eye wash station either. ( Come to find out later on, the hospital had just gotten remodeled and no one anywhere in the hospital thought to have an eyewash station re-installed anywhere in any bathroom on the whole premises.)So Nice nurse takes me back to ER area with bottles and we go to a bathroom where I stand over the sink for 15 minutes squishing these bottles into my eyes making small talk with nice nurse who has to stand there and time me. Finally I get done with that and they sit me in a room until a different nurse comes to look at my eyes, listen to my lungs, and basically make sure I don't have chemical burns any where else. Nose is a bit crispy right inside but since i didn't breath in I was ok. She leaves and I wait for a little longer for the doctor to come in he prescribes 500 units in each eye with a Morgans lens. So I sat there and let nurse put these crazy lenses in my eyes after some numbing drops and they did a wash of my eyes. ( craziest feeling ever guys). I'm home now finally, my eyes hurt like hell and I've got ten days of eye drops prescribed every three hours. So in case you don't know. Don't clean urine with bleach. Especially old dried urine which is basically just pure ammonia.I'm including a link of a picture my husband took with the lenses in my eyes. It really was the most uncomfortable weirdest of feelings.https://files.catbox.moe/2r8fce.jpgTL;DRToday I fucked up by pouring concentrated bleach on concentrated ammonia from dog urine and almost burnt my eyes out.Update to say that I'm overwhelmed with all the positive comments on here. Thanks so much guys. I have been a bit busy in the past few days (First week back at school). I finally am on the other side and can say my eyes are much better. Still a little bleary but the drops are working great and the headache and acrid nose burn feeling is gone. I appreciate everyone in this thread and am super happy that this fuck up has informed so many people not to be a big dummy like me lol. <3 Be safe out there everyone <3",
       "flair": [
-        "S"
+        "L"
       ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "TIFU when I stole a quote and claimed it as my own.",
-      "permalink": "https://www.reddit.com/r/tifu/comments/1mvzepj/tifu_when_i_stole_a_quote_and_claimed_it_as_my_own/",
-      "score": 0,
-      "comments": 3,
-      "post_id": "t3_1mvzepj",
-      "post_type": "text",
-      "domain": "self.tifu",
-      "author": "Bert_Fegg",
-      "author_id": "t2_5t2d46ca",
-      "subreddit_id": "t5_2to41",
-      "subreddit": "r/tifu",
-      "created_ts": "2025-08-21T02:55:30.407000+0000",
-      "content_href": "https://www.reddit.com/r/tifu/comments/1mvzepj/tifu_when_i_stole_a_quote_and_claimed_it_as_my_own/",
-      "content_preview": "",
-      "flair": [
-        "S"
-      ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://styles.redditmedia.com/t5_azutj/styles/profileIcon_gvwcaxosvdlf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2019d9fc8e0e6eabbd6e89dc7617a8f3c55d1511",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T02:59:31.811375"
+  "scraped_at": "2025-09-05T03:30:44.790616"
 }

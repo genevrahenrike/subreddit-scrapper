@@ -2,34 +2,118 @@
   "subreddit": "Guitar",
   "url": "https://www.reddit.com/r/Guitar",
   "meta": {
-    "title": "Guitar - gear, reviews, lessons, and discussion for everyone!"
+    "title": "Guitar - gear, reviews, lessons, and discussion for everyone!",
+    "description": "Welcome to r/guitar, a community devoted to the exchange of guitar related information. This is a forum where guitarists, from novice to experienced, can explore the world of guitar through a variety of media and discussion.  If you have guitar related questions, start with the \"search\" field at the top of the page. If you don't find what you need, ask the community.  The best place to start if you're new is right below in our \"Rules\" section. Thanks for visiting. WE DO NOT HAVE A DISCORD. FYI. ",
+    "subscribers": 3232221,
+    "online_users": 152,
+    "created_timestamp": "2025-09-05T10:26:53.839000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Shortcuts",
+        "content": [
+          {
+            "text": "WIKI/FAQ",
+            "url": "https://www.reddit.com/r/Guitar/wiki/index"
+          },
+          {
+            "text": "Current Whitelist Users",
+            "url": "https://docs.google.com/document/d/1slVkn1xSRNcK1JIdufFW5Xj9X3sSI7rpGDi5DK1IciE/edit"
+          }
+        ]
+      },
+      {
+        "title": "r/Guitar Rules",
+        "content": [
+          {
+            "text": "r/guitarcirclejerk",
+            "url": "/r/guitarcirclejerk/"
+          },
+          {
+            "text": "WHITELIST",
+            "url": "https://docs.google.com/document/d/1slVkn1xSRNcK1JIdufFW5Xj9X3sSI7rpGDi5DK1IciE/edit"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/Guitar/moderators/"
+          }
+        ]
+      },
+      {
+        "title": "Installed Apps",
+        "content": [
+          {
+            "text": "Evasion Guard",
+            "url": "https://developers.reddit.com/apps/evasion-guard"
+          },
+          {
+            "text": "Modmail Quick User Summary",
+            "url": "https://developers.reddit.com/apps/modmail-userinfo"
+          },
+          {
+            "text": "SpamBuster",
+            "url": "https://developers.reddit.com/apps/spambotbuster"
+          },
+          {
+            "text": "Show Removal Reason IDs",
+            "url": "https://developers.reddit.com/apps/removalreasonids"
+          },
+          {
+            "text": "Remove Macro",
+            "url": "https://developers.reddit.com/apps/purge-user"
+          },
+          {
+            "text": "Hive Protector",
+            "url": "https://developers.reddit.com/apps/hive-protect"
+          },
+          {
+            "text": "Manipulation Detector",
+            "url": "https://developers.reddit.com/apps/manipulation-pi"
+          },
+          {
+            "text": "Comment Mop",
+            "url": "https://developers.reddit.com/apps/comment-nuke"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "What brand of guitar is this?",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n6fae1/what_brand_of_guitar_is_this/",
-      "score": 1,
-      "comments": 0,
-      "post_id": "t3_1n6fae1",
+      "title": "Guys this is restringable right? Right?!?🥲",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n91jmg/guys_this_is_restringable_right_right/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1n91jmg",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "MrClunge",
-      "author_id": "t2_84jewq2",
+      "author": "skulderflexator",
+      "author_id": "t2_o9f4wbxg",
       "subreddit_id": "t5_2qi79",
       "subreddit": "r/Guitar",
-      "created_ts": "2025-09-02T09:53:57.675000+0000",
-      "content_href": "https://i.redd.it/inkm9l5p4qmf1.jpeg",
+      "created_ts": "2025-09-05T10:26:53.839000+0000",
+      "content_href": "https://i.redd.it/erb7yi4bpbnf1.jpeg",
       "content_preview": "",
       "flair": [
         "QUESTION"
       ],
-      "thumbnail_url": "https://preview.redd.it/what-brand-of-guitar-is-this-v0-inkm9l5p4qmf1.jpeg?width=640&crop=smart&auto=webp&s=43f03475171ee8e53b98d1416935111f04909683"
+      "thumbnail_url": "https://preview.redd.it/guys-this-is-restringable-right-right-v0-erb7yi4bpbnf1.jpeg?width=640&crop=smart&auto=webp&s=1302e13946be4c54d445a4ce1b7af87a42cd58ce",
+      "is_promoted": false
     },
     {
       "title": "My Mom found a picture of the day my first Ibanez arrived in the mail. :)",
       "permalink": "https://www.reddit.com/r/Guitar/comments/1n3jfmo/my_mom_found_a_picture_of_the_day_my_first_ibanez/",
-      "score": 32492,
-      "comments": 958,
+      "score": 32888,
+      "comments": 971,
       "post_id": "t3_1n3jfmo",
       "post_type": "gallery",
       "domain": "reddit.com",
@@ -43,53 +127,56 @@
       "flair": [
         "GEAR"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_41ysar/styles/profileIcon_xytopx6hgjpc1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4e0df7228d26e05c0ff1e578c7c80c477be47401"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_41ysar/styles/profileIcon_xytopx6hgjpc1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4e0df7228d26e05c0ff1e578c7c80c477be47401",
+      "is_promoted": false
     },
     {
-      "title": "Just starting to improvise. What can I learn to sound less repetitive and boring?",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n67tcn/just_starting_to_improvise_what_can_i_learn_to/",
-      "score": 121,
-      "comments": 123,
-      "post_id": "t3_1n67tcn",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "jtyler0",
-      "author_id": "t2_6jli2ws1",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-09-02T02:26:25.804000+0000",
-      "content_href": "https://v.redd.it/vam4qeqswnmf1",
-      "content_preview": "",
-      "flair": [
-        "NEWBIE"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_2omc3q/styles/profileIcon_z6qd43g9buqb1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f24f3e9b3d0ebbc0ef73572f8c4d4d71f6a9a52b"
-    },
-    {
-      "title": "What guitar is Kurt using in this photo",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n63sab/what_guitar_is_kurt_using_in_this_photo/",
-      "score": 220,
-      "comments": 45,
-      "post_id": "t3_1n63sab",
+      "title": "Quick Guide to Guitar Effects",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8a3uw/quick_guide_to_guitar_effects/",
+      "score": 2045,
+      "comments": 59,
+      "post_id": "t3_1n8a3uw",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "instantoats42",
-      "author_id": "t2_1c5xb29miz",
+      "author": "No_Internet_7834",
+      "author_id": "t2_orb6872g0",
       "subreddit_id": "t5_2qi79",
       "subreddit": "r/Guitar",
-      "created_ts": "2025-09-01T23:14:09.281000+0000",
-      "content_href": "https://i.redd.it/6a8a2fujymmf1.jpeg",
+      "created_ts": "2025-09-04T13:27:32.441000+0000",
+      "content_href": "https://i.redd.it/738wtw8mg5nf1.jpeg",
       "content_preview": "",
       "flair": [
         "GEAR"
       ],
-      "thumbnail_url": "https://preview.redd.it/what-guitar-is-kurt-using-in-this-photo-v0-6a8a2fujymmf1.jpeg?width=640&crop=smart&auto=webp&s=4b1ab027e93c6adc655ebcbf75ea50f98a0e7bb0"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_cdi40x/styles/profileIcon_4dk90yh0jdse1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=67799ba7f147cde0a90239c017a8c81d3a7f86e6",
+      "is_promoted": false
+    },
+    {
+      "title": "One of those once in a lifetime finds",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8t7v8/one_of_those_once_in_a_lifetime_finds/",
+      "score": 224,
+      "comments": 13,
+      "post_id": "t3_1n8t7v8",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "icanyellloudly",
+      "author_id": "t2_96ajm",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-05T02:16:58.276000+0000",
+      "content_href": "https://i.redd.it/ts80vjwy89nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "GEAR"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dp4jj/styles/profileIcon_s37llt8u7fib1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ac5202d6b155e66196e120eea097de0666a39c6a",
+      "is_promoted": false
     },
     {
       "title": "I think I hit the neck jackpot",
       "permalink": "https://www.reddit.com/r/Guitar/comments/1my79qc/i_think_i_hit_the_neck_jackpot/",
-      "score": 7494,
-      "comments": 186,
+      "score": 7512,
+      "comments": 187,
       "post_id": "t3_1my79qc",
       "post_type": "video",
       "domain": "v.redd.it",
@@ -103,92 +190,116 @@
       "flair": [
         "GEAR"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
-      "title": "Is this a good fb find?",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n68bzr/is_this_a_good_fb_find/",
-      "score": 57,
-      "comments": 12,
-      "post_id": "t3_1n68bzr",
+      "title": "Dropped a riff into Moises AI Studio and it built a full band around it. Super natural. Saw the Pro Plan gives unlimited credits all of 2025 if you grab it before Sept 30.",
+      "permalink": "https://www.reddit.com/user/moises-ai-official/comments/1n2j5qj/dropped_a_riff_into_moises_ai_studio_and_it_built/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n2j5qj",
       "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "DuxMaledicti",
-      "author_id": "t2_jx7o8uoo1",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-09-02T02:52:05.049000+0000",
-      "content_href": "https://i.redd.it/egb91pjf1omf1.jpeg",
+      "domain": "moises.ai",
+      "author": "moises-ai-official",
+      "author_id": "t2_1vy4dymlmr",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-28T17:49:45.717000+0000",
+      "content_href": "https://www.moises.ai/features/ai-studio-music-creation?utm_source=reddit&utm_medium=cpc&utm_campaign=ai-studio_performance_interests&utm_content=static-4-promo",
       "content_preview": "",
-      "flair": [
-        "QUESTION"
-      ],
-      "thumbnail_url": "https://preview.redd.it/is-this-a-good-fb-find-v0-egb91pjf1omf1.jpeg?width=640&crop=smart&auto=webp&s=f9436223de9e8756dee03b366e129e859477f46f"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f7j327/styles/profileIcon_qqrvmhd971mf1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=419e842422e38db8813781ffe9e42ed37104b5e4",
+      "is_promoted": true
     },
     {
-      "title": "Obsessed with this cover, can anyone tell me some of the chord voicings so I can learn?",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n2lie5/obsessed_with_this_cover_can_anyone_tell_me_some/",
-      "score": 2704,
-      "comments": 145,
-      "post_id": "t3_1n2lie5",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "gkona808",
-      "author_id": "t2_7lbm5il1",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-08-28T19:18:46.767000+0000",
-      "content_href": "https://v.redd.it/ikixz42v8tlf1",
-      "content_preview": "",
-      "flair": [
-        "QUESTION"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/obsessed-with-this-cover-can-anyone-tell-me-some-of-the-v0-cTRoMjFyeHU4dGxmMQKV_zCyrjD-uAgGYLpmMtKRcjj7db4CO5gGsTbeN9-c.png?width=640&crop=smart&format=pjpg&auto=webp&s=a375b0aedd05d68a6f45c4f78018d93dfce6475d"
-    },
-    {
-      "title": "Found a pretty decent shape Squire Stratocaster at Goodwill today",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n66exz/found_a_pretty_decent_shape_squire_stratocaster/",
-      "score": 76,
-      "comments": 25,
-      "post_id": "t3_1n66exz",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "MelodicParanoiaAgain",
-      "author_id": "t2_3i9yn20u",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-09-02T01:18:13.915000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n66exz",
-      "content_preview": "",
-      "flair": [
-        "GEAR"
-      ],
-      "thumbnail_url": "https://preview.redd.it/found-a-pretty-decent-shape-squire-stratocaster-at-goodwill-v0-nish17roknmf1.jpg?width=640&crop=smart&auto=webp&s=ff2b5588a065d24c4c46b28a390f60fb7061851a"
-    },
-    {
-      "title": "Doubleneck Guitar/Bass?",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n6exzn/doubleneck_guitarbass/",
-      "score": 2,
-      "comments": 2,
-      "post_id": "t3_1n6exzn",
+      "title": "My mom threw away my guitar",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8tkg0/my_mom_threw_away_my_guitar/",
+      "score": 137,
+      "comments": 96,
+      "post_id": "t3_1n8tkg0",
       "post_type": "text",
       "domain": "self.Guitar",
-      "author": "Ok-Voice-5699",
-      "author_id": "t2_a7hqay7q",
+      "author": "Living-Try-7014",
+      "author_id": "t2_1jpy2uwj17",
       "subreddit_id": "t5_2qi79",
       "subreddit": "r/Guitar",
-      "created_ts": "2025-09-02T09:31:50.503000+0000",
-      "content_href": "https://www.reddit.com/r/Guitar/comments/1n6exzn/doubleneck_guitarbass/",
+      "created_ts": "2025-09-05T02:33:46.419000+0000",
+      "content_href": "https://www.reddit.com/r/Guitar/comments/1n8tkg0/my_mom_threw_away_my_guitar/",
+      "content_preview": "I just got home from a two week vacation only to find that my mother threw out my acoustic just because it was a gift from my grandfather. I'm sure someone here can relate to what I'm feeling. My other guitar was on the floor. I have no idea if she dropped it. I'm really struggling right now. I'm glad I have my other guitar, but I really loved that guitar and it had such beautiful sound. This is so insane and upsetting. Has this happened to you before?",
+      "flair": [
+        "DISCUSSION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "I honestly can't quite get over how good this thing looks",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n6kdoc/i_honestly_cant_quite_get_over_how_good_this/",
+      "score": 8328,
+      "comments": 333,
+      "post_id": "t3_1n6kdoc",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "JMR120600",
+      "author_id": "t2_kdt7d",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-02T14:04:02.589000+0000",
+      "content_href": "https://i.redd.it/hz075sdbdrmf1.jpeg",
       "content_preview": "",
       "flair": [
         "GEAR"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_3zw9ob/styles/profileIcon_y5sevwua3pb91.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=00e9c99e11f494de9ceee9bfaabd0ef755911bf6"
+      "thumbnail_url": "https://preview.redd.it/i-honestly-cant-quite-get-over-how-good-this-thing-looks-v0-hz075sdbdrmf1.jpeg?width=640&crop=smart&auto=webp&s=283d538e10c8ed94fe28a7846359de54fd6da608",
+      "is_promoted": false
+    },
+    {
+      "title": "A year later, I still cant believe how beautiful she Looks",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8znge/a_year_later_i_still_cant_believe_how_beautiful/",
+      "score": 45,
+      "comments": 11,
+      "post_id": "t3_1n8znge",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "PuzzleheadedStand535",
+      "author_id": "t2_8galyexm",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-05T08:27:51.268000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8znge",
+      "content_preview": "",
+      "flair": [
+        "GEAR"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Unusably bad A.I. Generated tabs getting more common.",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n9130d/unusably_bad_ai_generated_tabs_getting_more_common/",
+      "score": 6,
+      "comments": 3,
+      "post_id": "t3_1n9130d",
+      "post_type": "text",
+      "domain": "self.Guitar",
+      "author": "Slayer_One",
+      "author_id": "t2_i58lo",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-05T09:59:57.526000+0000",
+      "content_href": "https://www.reddit.com/r/Guitar/comments/1n9130d/unusably_bad_ai_generated_tabs_getting_more_common/",
+      "content_preview": "Has anyone else noticed an increasing number of bad tabs recently, I started noticing it with more obscure artists initially and I was sort of okay with that. However I think I'm seeing a lot of good pre-existing transcriptions getting replaced by nonsense.I think what's happened is that there's a lot of contributers using AI that have no idea how to transcribe properly getting confident with less common tabs then thinking they can \"fix\" other people's work.I have no idea what to do about this but I was just wondering if anyone else is seeing this.",
+      "flair": [
+        "DISCUSSION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
       "title": "My Grandfather has this guitar anyone know it?",
       "permalink": "https://www.reddit.com/r/Guitar/comments/1mjzlul/my_grandfather_has_this_guitar_anyone_know_it/",
-      "score": 6364,
+      "score": 6374,
       "comments": 951,
       "post_id": "t3_1mjzlul",
       "post_type": "image",
@@ -203,112 +314,137 @@
       "flair": [
         "QUESTION"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_6z8kwv/styles/profileIcon_1e79xc350jfe1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=41bb898a13d6a097409aebe0d49c0e6b52ef27eb"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6z8kwv/styles/profileIcon_1e79xc350jfe1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=41bb898a13d6a097409aebe0d49c0e6b52ef27eb",
+      "is_promoted": false
     },
     {
-      "title": "First time ever restringing a guitar, how does it look?",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n5xu3f/first_time_ever_restringing_a_guitar_how_does_it/",
-      "score": 212,
-      "comments": 66,
-      "post_id": "t3_1n5xu3f",
+      "title": "Does it matter how i put my fingers?",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8g25p/does_it_matter_how_i_put_my_fingers/",
+      "score": 623,
+      "comments": 584,
+      "post_id": "t3_1n8g25p",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "haychap",
-      "author_id": "t2_q7s1e4x",
+      "author": "kokusmus96",
+      "author_id": "t2_7oev1xxs",
       "subreddit_id": "t5_2qi79",
       "subreddit": "r/Guitar",
-      "created_ts": "2025-09-01T19:12:55.910000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5xu3f",
+      "created_ts": "2025-09-04T17:10:16.005000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8g25p",
       "content_preview": "",
       "flair": [
-        "DISCUSSION"
+        "NEWBIE"
       ],
-      "thumbnail_url": "https://preview.redd.it/first-time-ever-restringing-a-guitar-how-does-it-look-v0-ezkw1mngrlmf1.jpg?width=640&crop=smart&auto=webp&s=3c2ed0d30556d767213b547a44758f1f36a4088d"
+      "thumbnail_url": "https://preview.redd.it/does-it-matter-how-i-put-my-fingers-v0-onzbumm9k6nf1.png?width=233&format=png&auto=webp&s=eb374c5637b0d5ed3310512a79851e882d345f42",
+      "is_promoted": false
     },
     {
-      "title": "I want this neck (piano neck)",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n4b8xj/i_want_this_neck_piano_neck/",
-      "score": 1781,
-      "comments": 247,
-      "post_id": "t3_1n4b8xj",
+      "title": "Grandma: Hey! You play guitar, do you want this? I was going to donate it to the charity shop.",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n7hk83/grandma_hey_you_play_guitar_do_you_want_this_i/",
+      "score": 6114,
+      "comments": 310,
+      "post_id": "t3_1n7hk83",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "No1PatsFan",
+      "author_id": "t2_4oq3zg8h",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-03T15:15:51.082000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7hk83",
+      "content_preview": "",
+      "flair": [
+        "GEAR"
+      ],
+      "thumbnail_url": "https://preview.redd.it/grandma-hey-you-play-guitar-do-you-want-this-i-was-going-to-v0-gui9jmb1vymf1.jpg?width=640&crop=smart&auto=webp&s=a8a8d18a4886101a4a2420e40c5a5e8f0a9546c6",
+      "is_promoted": false
+    },
+    {
+      "title": "Tired of period pads not working for your bladder leaks? Try Poise. Built differently.",
+      "permalink": "https://www.reddit.com/user/PoiseBrand/comments/1mdi4k6/tired_of_period_pads_not_working_for_your_bladder/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mdi4k6",
       "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Repulsive_Celery_791",
-      "author_id": "t2_i86h2h7wg",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-08-30T20:08:12.229000+0000",
-      "content_href": "https://v.redd.it/nkydrtrjr7mf1",
+      "domain": "walmart.com",
+      "author": "PoiseBrand",
+      "author_id": "t2_1iku325oek",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-30T20:51:10.270000+0000",
+      "content_href": "https://v.redd.it/94pkrnof91gf1",
       "content_preview": "",
-      "flair": [
-        "DISCUSSION"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/i-want-this-neck-piano-neck-v0-M2hjdjhkcGpyN21mMczDzqOdZjVFOEqwq0AQAtX3VnWMizYUkGEBDytYuMck.png?format=pjpg&auto=webp&s=5a5094353f3177e62cd47b31e5dbd5e17321bfbe"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dii3r8/styles/profileIcon_edbsypa2bzue1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=b94e961f12183fd00267f018d200920c92686344",
+      "is_promoted": true
     },
     {
-      "title": "Saw a post about hanging your guitars and I wanted to show off my renter-friendly solution.",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n6alcj/saw_a_post_about_hanging_your_guitars_and_i/",
-      "score": 28,
-      "comments": 7,
-      "post_id": "t3_1n6alcj",
+      "title": "Guitar String Deal Of The Year?",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8r5qh/guitar_string_deal_of_the_year/",
+      "score": 104,
+      "comments": 47,
+      "post_id": "t3_1n8r5qh",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "YodasFlashlight",
-      "author_id": "t2_g589j",
+      "author": "Sea_Toe8340",
+      "author_id": "t2_bdr3ocn4",
       "subreddit_id": "t5_2qi79",
       "subreddit": "r/Guitar",
-      "created_ts": "2025-09-02T04:53:03.559000+0000",
-      "content_href": "https://i.redd.it/mf9hqe90nomf1.jpeg",
+      "created_ts": "2025-09-05T00:38:49.347000+0000",
+      "content_href": "https://i.redd.it/ug6mnq4es8nf1.jpeg",
       "content_preview": "",
       "flair": [
         "GEAR"
       ],
-      "thumbnail_url": "https://preview.redd.it/saw-a-post-about-hanging-your-guitars-and-i-wanted-to-show-v0-mf9hqe90nomf1.jpeg?width=640&crop=smart&auto=webp&s=8394e3ea466d6f9781d26b4fb6a1a7d2afa20cf2"
+      "thumbnail_url": "https://preview.redd.it/guitar-string-deal-of-the-year-v0-ug6mnq4es8nf1.jpeg?width=640&crop=smart&auto=webp&s=927690c3148807cf35c9050e279a2c0a9c6c15d6",
+      "is_promoted": false
     },
     {
-      "title": "PSA: Don’t fuck with your amp if you don’t know what your doing.",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n1h1vj/psa_dont_fuck_with_your_amp_if_you_dont_know_what/",
-      "score": 1727,
-      "comments": 438,
-      "post_id": "t3_1n1h1vj",
-      "post_type": "text",
-      "domain": "self.Guitar",
-      "author": "Additional_Beyond_88",
-      "author_id": "t2_9s5vbf4mj",
+      "title": "I got bored and turned my cheap strat clone into a bass. Thoughts?",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n6mlkv/i_got_bored_and_turned_my_cheap_strat_clone_into/",
+      "score": 4193,
+      "comments": 512,
+      "post_id": "t3_1n6mlkv",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "notsomescottishgamer",
+      "author_id": "t2_20mmvof9",
       "subreddit_id": "t5_2qi79",
       "subreddit": "r/Guitar",
-      "created_ts": "2025-08-27T13:28:14.377000+0000",
-      "content_href": "https://www.reddit.com/r/Guitar/comments/1n1h1vj/psa_dont_fuck_with_your_amp_if_you_dont_know_what/",
-      "content_preview": "",
-      "flair": [
-        "DISCUSSION"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Any other Jazzmaster fans here?",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n60ge5/any_other_jazzmaster_fans_here/",
-      "score": 111,
-      "comments": 21,
-      "post_id": "t3_1n60ge5",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Desperate_Box107",
-      "author_id": "t2_1uxou9702o",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-09-01T20:54:27.167000+0000",
-      "content_href": "https://i.redd.it/fd8tgnlm9mmf1.jpeg",
+      "created_ts": "2025-09-02T15:28:23.952000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n6mlkv",
       "content_preview": "",
       "flair": [
         "GEAR"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://preview.redd.it/i-got-bored-and-turned-my-cheap-strat-clone-into-a-bass-v0-0mwyi40dsrmf1.jpg?width=640&crop=smart&auto=webp&s=b3f4ac05d7f51d349374fafaf8748fe28acf7fcb",
+      "is_promoted": false
+    },
+    {
+      "title": "Who's your biggest influence?",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8g3hu/whos_your_biggest_influence/",
+      "score": 350,
+      "comments": 1276,
+      "post_id": "t3_1n8g3hu",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "BitsNBites777",
+      "author_id": "t2_vhqsnnsq",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-04T17:11:39.101000+0000",
+      "content_href": "https://i.redd.it/jg01le1mk6nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
       "title": "Stumbled upon a trick to help me \"shred\"",
       "permalink": "https://www.reddit.com/r/Guitar/comments/1mt8v1v/stumbled_upon_a_trick_to_help_me_shred/",
-      "score": 4432,
+      "score": 4451,
       "comments": 251,
       "post_id": "t3_1mt8v1v",
       "post_type": "video",
@@ -323,192 +459,55 @@
       "flair": [
         "PLAY"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "Got a guitar delivered like this. Is the neck broken?",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n0k9bf/got_a_guitar_delivered_like_this_is_the_neck/",
-      "score": 1066,
-      "comments": 235,
-      "post_id": "t3_1n0k9bf",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Kaynoo",
-      "author_id": "t2_ljps1",
+      "title": "Sultans of swing tone",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n90x91/sultans_of_swing_tone/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1n90x91",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Slow_Vacation889",
+      "author_id": "t2_easy9n1d",
       "subreddit_id": "t5_2qi79",
       "subreddit": "r/Guitar",
-      "created_ts": "2025-08-26T12:18:15.804000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n0k9bf",
+      "created_ts": "2025-09-05T09:49:34.074000+0000",
+      "content_href": "https://v.redd.it/wh7s9a9nibnf1",
       "content_preview": "",
       "flair": [
         "QUESTION"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_ba6mn/styles/profileIcon_8slu3z85wwv81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=982e0427221cc2b74dd9e0661b0a56dd8e6e3046"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
-      "title": "Guitar tip: You can sharpen ultex picks with sandpaper",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n6esa7/guitar_tip_you_can_sharpen_ultex_picks_with/",
+      "title": "Pedal Board Power Supply",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n90avn/pedal_board_power_supply/",
       "score": 2,
       "comments": 2,
-      "post_id": "t3_1n6esa7",
+      "post_id": "t3_1n90avn",
       "post_type": "text",
       "domain": "self.Guitar",
-      "author": "segwaytoit",
-      "author_id": "t2_39omkzym",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-09-02T09:21:22.824000+0000",
-      "content_href": "https://www.reddit.com/r/Guitar/comments/1n6esa7/guitar_tip_you_can_sharpen_ultex_picks_with/",
-      "content_preview": "",
-      "flair": [
-        "DISCUSSION"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "NEED AMP TO CONNECT WITH HEADPHONES AND NORMAL STUFF",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n6ecne/need_amp_to_connect_with_headphones_and_normal/",
-      "score": 1,
-      "comments": 5,
-      "post_id": "t3_1n6ecne",
-      "post_type": "text",
-      "domain": "self.Guitar",
-      "author": "ObjectiveTradition91",
-      "author_id": "t2_qx31vm1j",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-09-02T08:52:59.387000+0000",
-      "content_href": "https://www.reddit.com/r/Guitar/comments/1n6ecne/need_amp_to_connect_with_headphones_and_normal/",
-      "content_preview": "",
-      "flair": [
-        "NEWBIE"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "Finally restrung my old VaughanSteen Strat for an old spin on Jimmie Vaughan.",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n69k0a/finally_restrung_my_old_vaughansteen_strat_for_an/",
-      "score": 30,
-      "comments": 8,
-      "post_id": "t3_1n69k0a",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Consistent-Taro-9011",
-      "author_id": "t2_10c8kwsdos",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-09-02T03:54:53.330000+0000",
-      "content_href": "https://v.redd.it/iauztim5bomf1",
-      "content_preview": "",
-      "flair": [
-        "PLAY"
-      ],
-      "thumbnail_url": "https://external-preview.redd.it/finally-restrung-my-old-vaughansteen-strat-for-an-old-spin-v0-anQxaDFwMjVib21mMdfjb8e_f0MV_DK_ryEwBet6FfzjOYPOJeIQ8wQXRRzu.png?width=640&crop=smart&format=pjpg&auto=webp&s=9b634fbbf96ad48742a15d26a78e702a819110d4"
-    },
-    {
-      "title": "Just copped this beauty one hundred and twenty five dollars",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n69mjf/just_copped_this_beauty_one_hundred_and_twenty/",
-      "score": 23,
-      "comments": 11,
-      "post_id": "t3_1n69mjf",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Public-Manner-227",
-      "author_id": "t2_1sjkn64gzo",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-09-02T03:58:38.641000+0000",
-      "content_href": "https://i.redd.it/cm0lgb2bdomf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "GEAR"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "Rate my set up and what music am I playing?",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n65n20/rate_my_set_up_and_what_music_am_i_playing/",
-      "score": 40,
-      "comments": 31,
-      "post_id": "t3_1n65n20",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Puzzleheaded-Box1663",
-      "author_id": "t2_4tq0iwva",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-09-02T00:40:46.248000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n65n20",
-      "content_preview": "",
-      "flair": [
-        "GEAR"
-      ],
-      "thumbnail_url": "https://preview.redd.it/rate-my-set-up-and-what-music-am-i-playing-v0-d5cpzmfydnmf1.jpg?width=640&crop=smart&auto=webp&s=18f77cc19e1d6fa3d8c6a56645c9556a15650b91"
-    },
-    {
-      "title": "My first strat shaped guitar!",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n696nz/my_first_strat_shaped_guitar/",
-      "score": 20,
-      "comments": 1,
-      "post_id": "t3_1n696nz",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "johnnyboy743",
-      "author_id": "t2_4dtnul5o",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-09-02T03:35:12.178000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n696nz",
-      "content_preview": "",
-      "flair": [
-        "GEAR"
-      ],
-      "thumbnail_url": "https://preview.redd.it/my-first-strat-shaped-guitar-v0-2lfrf7o39omf1.jpg?width=640&crop=smart&auto=webp&s=fc8799a10cb7b58f7e2702f70682de6d933704dc"
-    },
-    {
-      "title": "My first ever guitar build",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n5j09l/my_first_ever_guitar_build/",
-      "score": 666,
-      "comments": 39,
-      "post_id": "t3_1n5j09l",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "elrylorhino",
-      "author_id": "t2_7cxfepe6",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-09-01T08:13:54.339000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5j09l",
-      "content_preview": "",
-      "flair": [
-        "GEAR"
-      ],
-      "thumbnail_url": "https://preview.redd.it/my-first-ever-guitar-build-v0-hx2eefrxhimf1.jpg?width=640&crop=smart&auto=webp&s=f4d8ebd380b8adb379388cd9af617fa85783c171"
-    },
-    {
-      "title": "What three would you keep?",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n2nqk7/what_three_would_you_keep/",
-      "score": 963,
-      "comments": 730,
-      "post_id": "t3_1n2nqk7",
-      "post_type": "gallery",
-      "domain": "reddit.com",
       "author": "otterman3-16",
       "author_id": "t2_1u3c03aupw",
       "subreddit_id": "t5_2qi79",
       "subreddit": "r/Guitar",
-      "created_ts": "2025-08-28T20:45:02.371000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n2nqk7",
-      "content_preview": "",
+      "created_ts": "2025-09-05T09:10:38.860000+0000",
+      "content_href": "https://www.reddit.com/r/Guitar/comments/1n90avn/pedal_board_power_supply/",
+      "content_preview": "I have a pedal board with ten pedals. Mix of distortion and modulation w/ tuner and compression. I power it using two separate 9v adapters using daisy chains to connect to each pedal. So five pedals per adapter. There’s no discernible noise or humming from this setup but my question is will the pedals potentially sound better/clearer using a dedicated multi power supply e.g. Spot Pro? Anyone have experience switching from my current method to proper power bank? Thanks!",
       "flair": [
         "QUESTION"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
       "title": "Ordered a twenty five year old guitar from eBay and this is how it arrives…..",
       "permalink": "https://www.reddit.com/r/Guitar/comments/1mwfrbz/ordered_a_twenty_five_year_old_guitar_from_ebay/",
-      "score": 4045,
+      "score": 4048,
       "comments": 700,
       "post_id": "t3_1mwfrbz",
       "post_type": "image",
@@ -523,52 +522,32 @@
       "flair": [
         "GEAR"
       ],
-      "thumbnail_url": "https://preview.redd.it/ordered-a-twenty-five-year-old-guitar-from-ebay-and-this-is-v0-wwqlf35ofekf1.jpeg?width=640&crop=smart&auto=webp&s=1587e4b94b87b4eb3c622cc2488b138fcebbaa04"
+      "thumbnail_url": "https://preview.redd.it/ordered-a-twenty-five-year-old-guitar-from-ebay-and-this-is-v0-wwqlf35ofekf1.jpeg?width=640&crop=smart&auto=webp&s=1587e4b94b87b4eb3c622cc2488b138fcebbaa04",
+      "is_promoted": false
     },
     {
-      "title": "Just me or is this the most pretentious guitar elitism ever? 😆",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n1afri/just_me_or_is_this_the_most_pretentious_guitar/",
-      "score": 802,
-      "comments": 264,
-      "post_id": "t3_1n1afri",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "EncryptoMan5000",
-      "author_id": "t2_betiwkzh",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-08-27T07:22:27.932000+0000",
-      "content_href": "https://i.redd.it/ssm1nzf4gilf1.jpeg",
+      "title": "My POV...you're about to turn up the flavor at the party with Smirnoff Ice! Shop Now.",
+      "permalink": "https://www.reddit.com/user/SmirnoffIce_US/comments/1lrq869/my_povyoure_about_to_turn_up_the_flavor_at_the/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1lrq869",
+      "post_type": "video",
+      "domain": "productshop.smirnoff.com",
+      "author": "SmirnoffIce_US",
+      "author_id": "t2_1mhc73tf69",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-04T18:44:19.038000+0000",
+      "content_href": "https://v.redd.it/159tboo33vaf1",
       "content_preview": "",
-      "flair": [
-        "DISCUSSION"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "Custom guitar I made recently for a band called People R Ugly. Super pumped with it. One piece walnut body and katalox neck / fretboard. The top is white resin inlayed over the chambered semi-hollow.",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n4xujx/custom_guitar_i_made_recently_for_a_band_called/",
-      "score": 777,
-      "comments": 67,
-      "post_id": "t3_1n4xujx",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "thewoodenhobbyist",
-      "author_id": "t2_e5h5iail",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-08-31T15:36:11.234000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n4xujx",
-      "content_preview": "",
-      "flair": [
-        "GEAR"
-      ],
-      "thumbnail_url": "https://preview.redd.it/custom-guitar-i-made-recently-for-a-band-called-people-r-v0-sorcqbdxjdmf1.jpg?width=640&crop=smart&auto=webp&s=c7453b81b4e514328af2f428b7e6445d62bf9e80"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_e35va5/styles/profileIcon_286nuksydese1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=0082c0f2aee43fdf10cf73879a708a291156aa8c",
+      "is_promoted": true
     },
     {
       "title": "Got a new strat yesterday!!!",
       "permalink": "https://www.reddit.com/r/Guitar/comments/1mj452v/got_a_new_strat_yesterday/",
-      "score": 3229,
+      "score": 3237,
       "comments": 308,
       "post_id": "t3_1mj452v",
       "post_type": "video",
@@ -583,133 +562,304 @@
       "flair": [
         "PLAY"
       ],
-      "thumbnail_url": "https://external-preview.redd.it/got-a-new-strat-yesterday-v0-bGRmdzFlcTRlZWhmMUjqknep4pLKO8QXj88AguNKlIt1KwjRtFRFU-G15hKj.png?width=640&crop=smart&format=pjpg&auto=webp&s=10ae632a26eeee27343509db8e6bf7178db8dac9"
+      "thumbnail_url": "https://external-preview.redd.it/got-a-new-strat-yesterday-v0-bGRmdzFlcTRlZWhmMUjqknep4pLKO8QXj88AguNKlIt1KwjRtFRFU-G15hKj.png?width=640&crop=smart&format=pjpg&auto=webp&s=10ae632a26eeee27343509db8e6bf7178db8dac9",
+      "is_promoted": false
     },
     {
-      "title": "I found the ugliest guitar",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1mlqv22/i_found_the_ugliest_guitar/",
-      "score": 2597,
-      "comments": 680,
-      "post_id": "t3_1mlqv22",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "daruosha",
-      "author_id": "t2_1x486ih4",
+      "title": "I have learned my lesson",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n5wify/i_have_learned_my_lesson/",
+      "score": 2551,
+      "comments": 220,
+      "post_id": "t3_1n5wify",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "SoulRunGod",
+      "author_id": "t2_oz9yffodn",
       "subreddit_id": "t5_2qi79",
       "subreddit": "r/Guitar",
-      "created_ts": "2025-08-09T14:32:10.694000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mlqv22",
+      "created_ts": "2025-09-01T18:24:12.039000+0000",
+      "content_href": "https://i.redd.it/tkn1urftilmf1.jpeg",
       "content_preview": "",
       "flair": [
         "GEAR"
       ],
-      "thumbnail_url": "https://preview.redd.it/i-found-the-ugliest-guitar-v0-u3bhassx70if1.jpg?width=640&crop=smart&auto=webp&s=d9de109d4dc153318eba323370917bd976790562"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     },
     {
-      "title": "Anyone know if this is a tone you can get live and how you could go about it?",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n6deku/anyone_know_if_this_is_a_tone_you_can_get_live/",
-      "score": 1,
-      "comments": 3,
-      "post_id": "t3_1n6deku",
-      "post_type": "multi_media",
-      "domain": "self.Guitar",
-      "author": "Sweaty_Milk_1793",
-      "author_id": "t2_18sysi9170",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-09-02T07:49:40.965000+0000",
-      "content_href": "https://www.reddit.com/r/Guitar/comments/1n6deku/anyone_know_if_this_is_a_tone_you_can_get_live/",
-      "content_preview": "",
-      "flair": [
-        "QUESTION"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "My Favorite Part Of Playing Guitar is The Chords",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n60yol/my_favorite_part_of_playing_guitar_is_the_chords/",
-      "score": 43,
-      "comments": 12,
-      "post_id": "t3_1n60yol",
+      "title": "The Outfield - Your Love (Instrumental Guitar Cover)",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8ntky/the_outfield_your_love_instrumental_guitar_cover/",
+      "score": 106,
+      "comments": 19,
+      "post_id": "t3_1n8ntky",
       "post_type": "video",
       "domain": "v.redd.it",
-      "author": "Groove_Mountains",
-      "author_id": "t2_pmb1pgdy",
+      "author": "jakesoffer",
+      "author_id": "t2_pu92z",
       "subreddit_id": "t5_2qi79",
       "subreddit": "r/Guitar",
-      "created_ts": "2025-09-01T21:14:02.530000+0000",
-      "content_href": "https://v.redd.it/vpzi31x3dmmf1",
+      "created_ts": "2025-09-04T22:11:17.916000+0000",
+      "content_href": "https://v.redd.it/za5msb5f18nf1",
       "content_preview": "",
       "flair": [
         "PLAY"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_6ni06g/styles/profileIcon_glbgglcqihkf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=5855dda4a0ead839c95c7fad8b28fd8a4ba065bc"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
     },
     {
-      "title": "Mint Green or leave the black pickguard on?",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n5ni3z/mint_green_or_leave_the_black_pickguard_on/",
-      "score": 212,
-      "comments": 127,
-      "post_id": "t3_1n5ni3z",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "cagecafe",
-      "author_id": "t2_os7o6",
+      "title": "I need to stop taking two month long guitar breaks",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8yufg/i_need_to_stop_taking_two_month_long_guitar_breaks/",
+      "score": 12,
+      "comments": 1,
+      "post_id": "t3_1n8yufg",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "7stringsleepy",
+      "author_id": "t2_13r1pav41s",
       "subreddit_id": "t5_2qi79",
       "subreddit": "r/Guitar",
-      "created_ts": "2025-09-01T12:35:18.733000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5ni3z",
+      "created_ts": "2025-09-05T07:33:38.676000+0000",
+      "content_href": "https://v.redd.it/mwz9bl5cuanf1",
       "content_preview": "",
       "flair": [
-        "QUESTION"
+        "PLAY"
       ],
-      "thumbnail_url": "https://preview.redd.it/mint-green-or-leave-the-black-pickguard-on-v0-nvuhfyafsjmf1.jpg?width=640&crop=smart&auto=webp&s=0c3fb73aa2892d5dbf33a03a317e0d8235b2a0c5"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_bvjg1f/styles/profileIcon_8srjgdcto1ee1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c9d88e7bf76f1ab87d3623d89148d5018a74f8e1",
+      "is_promoted": false
     },
     {
-      "title": "Line cable broke within one hour 😭",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n6d4zr/line_cable_broke_within_one_hour/",
-      "score": 6,
-      "comments": 8,
-      "post_id": "t3_1n6d4zr",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "cold_lights_",
-      "author_id": "t2_931zs7dl",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-09-02T07:32:07.215000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n6d4zr",
-      "content_preview": "",
-      "flair": [
-        "NEWBIE"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "Leave one tip for someone who has a hard time trying to practice",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n63kno/leave_one_tip_for_someone_who_has_a_hard_time/",
-      "score": 29,
-      "comments": 83,
-      "post_id": "t3_1n63kno",
-      "post_type": "text",
+      "title": "what to do with broken guitar body / what brand?",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n909po/what_to_do_with_broken_guitar_body_what_brand/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n909po",
+      "post_type": "multi_media",
       "domain": "self.Guitar",
-      "author": "Outrageous-Truth777",
-      "author_id": "t2_1iwc6jwdty",
+      "author": "Papierkor654",
+      "author_id": "t2_us6sclg",
       "subreddit_id": "t5_2qi79",
       "subreddit": "r/Guitar",
-      "created_ts": "2025-09-01T23:04:52.629000+0000",
-      "content_href": "https://www.reddit.com/r/Guitar/comments/1n63kno/leave_one_tip_for_someone_who_has_a_hard_time/",
+      "created_ts": "2025-09-05T09:08:34.995000+0000",
+      "content_href": "https://www.reddit.com/r/Guitar/comments/1n909po/what_to_do_with_broken_guitar_body_what_brand/",
+      "content_preview": "Hey there :)I used to play the guitar about twelve years ago and want to get into it again. I used to play a classical guitar, which I also still have, but discovered that I really like the sound of acoustic guitars for more modern songs.Back when I used to play I got gifted this guitar by a neighbour, with the damage as in the images. I didn't really use it back then and its been sitting in my basement for the past fifteen years.Now my question: what do I have to look out for with this guitar? I started playing it a few days ago and it holds its tune fine, so it seems to be structurally ok for now, also doesn't sound bad at all. Should I just keep it as is, or is there anything I can do to repair it, ensuring a longer lifespan? I'm afraid it may implode at some point with the strings constantly pulling.Also another question: does anyone recognise the brand / model of this giutar? Can't find any markings on there and would be curious to know where it's from.https://preview.redd.it/what-to-do-with-broken-guitar-body-what-brand-v0-osuj6bas9bnf1.jpghttps://preview.redd.it/what-to-do-with-broken-guitar-body-what-brand-v0-zd0bcbas9bnf1.jpghttps://preview.redd.it/what-to-do-with-broken-guitar-body-what-brand-v0-xpu9w9as9bnf1.jpghttps://preview.redd.it/what-to-do-with-broken-guitar-body-what-brand-v0-pgifwaas9bnf1.jpg",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Guitar i built in woodwork",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8tpsc/guitar_i_built_in_woodwork/",
+      "score": 29,
+      "comments": 4,
+      "post_id": "t3_1n8tpsc",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "stefans_gaming",
+      "author_id": "t2_5497dzgk",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-05T02:40:56.189000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8tpsc",
+      "content_preview": "",
+      "flair": [
+        "DISCUSSION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Did I make a mistake?",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8b60d/did_i_make_a_mistake/",
+      "score": 270,
+      "comments": 154,
+      "post_id": "t3_1n8b60d",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "psicaroline",
+      "author_id": "t2_5yf3q3u3",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-04T14:08:01.306000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8b60d",
       "content_preview": "",
       "flair": [
         "QUESTION"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+      "thumbnail_url": "https://preview.redd.it/did-i-make-a-mistake-v0-g9ga25fun5nf1.jpg?width=640&crop=smart&auto=webp&s=bccf6c61bc081d9414d53f1ede4b70404f64bf17",
+      "is_promoted": false
+    },
+    {
+      "title": "Get connectivity you can depend on or we'll proactively make it right. Backed by the AT&T Guarantee.",
+      "permalink": "https://www.reddit.com/user/Official_ATT/comments/1mcl6ju/get_connectivity_you_can_depend_on_or_well/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mcl6ju",
+      "post_type": "video",
+      "domain": "att.com",
+      "author": "Official_ATT",
+      "author_id": "t2_3hc2ryxv",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-29T19:35:59.391000+0000",
+      "content_href": "https://v.redd.it/m2orvdz3rtff1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_yqklc/styles/profileIcon_0x6svhxi53ke1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=1be7fca3ef0756c89f133b8a0ca6779dbbc62517",
+      "is_promoted": true
+    },
+    {
+      "title": "[Gear] I put nice pickups in my old Squier Strat - I'm pretty pumped about it.",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8jv2a/gear_i_put_nice_pickups_in_my_old_squier_strat_im/",
+      "score": 89,
+      "comments": 15,
+      "post_id": "t3_1n8jv2a",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Kakariko-Cucco",
+      "author_id": "t2_1eotwwkogq",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-04T19:35:02.290000+0000",
+      "content_href": "https://v.redd.it/97a40k12a7nf1",
+      "content_preview": "",
+      "flair": [
+        "GEAR"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "The mysterious ergonomics of the Firebird",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n901dp/the_mysterious_ergonomics_of_the_firebird/",
+      "score": 0,
+      "comments": 2,
+      "post_id": "t3_1n901dp",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Metatarsian",
+      "author_id": "t2_14c2t7dm3l",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-05T08:53:53.720000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n901dp",
+      "content_preview": "",
+      "flair": [
+        "DISCUSSION"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "I want this neck (piano neck)",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n4b8xj/i_want_this_neck_piano_neck/",
+      "score": 1846,
+      "comments": 253,
+      "post_id": "t3_1n4b8xj",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "Repulsive_Celery_791",
+      "author_id": "t2_i86h2h7wg",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-08-30T20:08:12.229000+0000",
+      "content_href": "https://v.redd.it/nkydrtrjr7mf1",
+      "content_preview": "",
+      "flair": [
+        "DISCUSSION"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/i-want-this-neck-piano-neck-v0-M2hjdjhkcGpyN21mMczDzqOdZjVFOEqwq0AQAtX3VnWMizYUkGEBDytYuMck.png?format=pjpg&auto=webp&s=5a5094353f3177e62cd47b31e5dbd5e17321bfbe",
+      "is_promoted": false
+    },
+    {
+      "title": "That Lonesome Valley (blues/folk spiritual)",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8h3zj/that_lonesome_valley_bluesfolk_spiritual/",
+      "score": 112,
+      "comments": 21,
+      "post_id": "t3_1n8h3zj",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "AndyKahrs",
+      "author_id": "t2_cz75osqy",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-04T17:50:26.196000+0000",
+      "content_href": "https://v.redd.it/7e3vvothr6nf1",
+      "content_preview": "",
+      "flair": [
+        "PLAY"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dauhtr/styles/profileIcon_aqasz9cpezbe1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=69ea31c37d0a05b16361f99166c06d64e4dd2a94",
+      "is_promoted": false
+    },
+    {
+      "title": "New Les Paul :)",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8j13z/new_les_paul/",
+      "score": 85,
+      "comments": 6,
+      "post_id": "t3_1n8j13z",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "LibraryOk2878",
+      "author_id": "t2_v7n4eadds",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-04T19:03:07.099000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8j13z",
+      "content_preview": "",
+      "flair": [
+        "GEAR"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "NGD! Stopped playing guitar for years, been back at it for a little over a year and treated myself. Kramer SM-1H, love it.",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8d28z/ngd_stopped_playing_guitar_for_years_been_back_at/",
+      "score": 148,
+      "comments": 14,
+      "post_id": "t3_1n8d28z",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "The_Real_Krampus",
+      "author_id": "t2_53lsto7x",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-04T15:18:57.613000+0000",
+      "content_href": "https://i.redd.it/2tj2er3i06nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "GEAR"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Spoiler alert: it’s Snug & Dry™, and it’s real… (really) unexpectedly soft. Save up to $10 now!",
+      "permalink": "https://www.reddit.com/user/HuggiesOfficial/comments/1m6o4dh/spoiler_alert_its_snug_dry_and_its_real_really/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1m6o4dh",
+      "post_type": "video",
+      "domain": "huggies.com",
+      "author": "HuggiesOfficial",
+      "author_id": "t2_lksd5q8c",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-22T19:47:44.947000+0000",
+      "content_href": "https://v.redd.it/fi4c50gtufef1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_89e1rz/styles/profileIcon_8axlmc6iaq0f1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=61d0a010e88aaba55a96fa40a9535f00668b5bfc",
+      "is_promoted": true
     },
     {
       "title": "NGD! My First Les Paul",
       "permalink": "https://www.reddit.com/r/Guitar/comments/1n4fpod/ngd_my_first_les_paul/",
-      "score": 771,
-      "comments": 32,
+      "score": 818,
+      "comments": 34,
       "post_id": "t3_1n4fpod",
       "post_type": "gallery",
       "domain": "reddit.com",
@@ -723,288 +873,404 @@
       "flair": [
         "GEAR"
       ],
-      "thumbnail_url": "https://preview.redd.it/ngd-my-first-les-paul-v0-1o7cdax0r8mf1.jpg?width=640&crop=smart&auto=webp&s=efab003cb47299ea70bb64fbd03fb215d2721c3d"
+      "thumbnail_url": "https://preview.redd.it/ngd-my-first-les-paul-v0-1o7cdax0r8mf1.jpg?width=640&crop=smart&auto=webp&s=efab003cb47299ea70bb64fbd03fb215d2721c3d",
+      "is_promoted": false
     },
     {
-      "title": "Ten month Guitar Progress",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n5utle/ten_month_guitar_progress/",
-      "score": 79,
-      "comments": 5,
-      "post_id": "t3_1n5utle",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "Former_Spray_9373",
-      "author_id": "t2_7rxtbdua",
+      "title": "just got my first guitar from my stepdad and was wondering what advice would yall have for someone whos going self taught?",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n876m3/just_got_my_first_guitar_from_my_stepdad_and_was/",
+      "score": 256,
+      "comments": 264,
+      "post_id": "t3_1n876m3",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Immentalynotthere",
+      "author_id": "t2_g6ph9mab",
       "subreddit_id": "t5_2qi79",
       "subreddit": "r/Guitar",
-      "created_ts": "2025-09-01T17:22:27.456000+0000",
-      "content_href": "https://v.redd.it/6a955qur7lmf1",
+      "created_ts": "2025-09-04T11:08:27.314000+0000",
+      "content_href": "https://i.redd.it/of4w08isr4nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "NEWBIE"
+      ],
+      "thumbnail_url": "https://preview.redd.it/just-got-my-first-guitar-from-my-stepdad-and-was-wondering-v0-of4w08isr4nf1.jpeg?width=640&crop=smart&auto=webp&s=e4445cbd93cf01d7850506d074037c99002b6b60",
+      "is_promoted": false
+    },
+    {
+      "title": "have snarks gone to shit recently? or have they always been junk?",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8kap3/have_snarks_gone_to_shit_recently_or_have_they/",
+      "score": 49,
+      "comments": 157,
+      "post_id": "t3_1n8kap3",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "sometimes_a_dog",
+      "author_id": "t2_mazb87vh",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-04T19:51:59.714000+0000",
+      "content_href": "https://i.redd.it/7exefql9c7nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "GEAR"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_69itq1/styles/profileIcon_0kt9oyeaxcjc1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=073db19448c5661a1e020244d4bfbb4a4679e2cd",
+      "is_promoted": false
+    },
+    {
+      "title": "Little photo shoot and NGD!",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8qn81/little_photo_shoot_and_ngd/",
+      "score": 16,
+      "comments": 0,
+      "post_id": "t3_1n8qn81",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "EnragedCockroach7",
+      "author_id": "t2_di2dclbo",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-05T00:14:49.920000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8qn81",
+      "content_preview": "",
+      "flair": [
+        "GEAR"
+      ],
+      "thumbnail_url": "https://preview.redd.it/little-photo-shoot-and-ngd-v0-56ipr0s3o8nf1.jpg?width=640&crop=smart&auto=webp&s=8a1e0e28a85a2270ca43cb29c2e7e7a4516256d1",
+      "is_promoted": false
+    },
+    {
+      "title": "How many guitarists read sheet music?",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8i0i0/how_many_guitarists_read_sheet_music/",
+      "score": 32,
+      "comments": 175,
+      "post_id": "t3_1n8i0i0",
+      "post_type": "text",
+      "domain": "self.Guitar",
+      "author": "RoadZealousideal5368",
+      "author_id": "t2_q6v8fgis",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-04T18:24:37.070000+0000",
+      "content_href": "https://www.reddit.com/r/Guitar/comments/1n8i0i0/how_many_guitarists_read_sheet_music/",
+      "content_preview": "So obviously the guitar community has for a long time been made fun of by other musicians for not reading sheet music, but how many of us actually read? I’m curious!I have a degree in music so therefore I read music and it has been massively useful for certain gigs, like musical theatre, jazz, sessions and events.but I can see how you could get by on your ears, reading chords or even tabs.Answer honestly!Edit: forgot to mention I’m also a guitar teacher and i teach all of my student at least the basics or reading music.",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Obsessed with this cover, can anyone tell me some of the chord voicings so I can learn?",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n2lie5/obsessed_with_this_cover_can_anyone_tell_me_some/",
+      "score": 2731,
+      "comments": 146,
+      "post_id": "t3_1n2lie5",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "gkona808",
+      "author_id": "t2_7lbm5il1",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-08-28T19:18:46.767000+0000",
+      "content_href": "https://v.redd.it/ikixz42v8tlf1",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://external-preview.redd.it/obsessed-with-this-cover-can-anyone-tell-me-some-of-the-v0-cTRoMjFyeHU4dGxmMQKV_zCyrjD-uAgGYLpmMtKRcjj7db4CO5gGsTbeN9-c.png?width=640&crop=smart&format=pjpg&auto=webp&s=a375b0aedd05d68a6f45c4f78018d93dfce6475d",
+      "is_promoted": false
+    },
+    {
+      "title": "IYKYK: back-to-school mess + Scrubbing Bubbles = a clean bathroom and a happy parent.",
+      "permalink": "https://www.reddit.com/user/scrubbingbubbles_us/comments/1mblemh/iykyk_backtoschool_mess_scrubbing_bubbles_a_clean/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mblemh",
+      "post_type": "video",
+      "domain": "shop.mikmak.ai",
+      "author": "scrubbingbubbles_us",
+      "author_id": "t2_1ipz8tpc3n",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-28T16:47:17.950000+0000",
+      "content_href": "https://v.redd.it/w2yw0np3slff1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_dj311i/styles/profileIcon_vbez1qhkmome1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=a1833416ce13723f7cb9e4f9285a5bf69b523ad8",
+      "is_promoted": true
+    },
+    {
+      "title": "Picked up my Yamaha after long, should I be concerned?",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8af5s/picked_up_my_yamaha_after_long_should_i_be/",
+      "score": 76,
+      "comments": 62,
+      "post_id": "t3_1n8af5s",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "capvasudev",
+      "author_id": "t2_z6oqcvdxq",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-04T13:40:30.300000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8af5s",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://preview.redd.it/picked-up-my-yamaha-after-long-should-i-be-concerned-v0-e2ivu92xi5nf1.jpg?width=640&crop=smart&auto=webp&s=3300e12da131774ee9d735617b50a5a2a67dcd74",
+      "is_promoted": false
+    },
+    {
+      "title": "Took some advice and swapped out stock single coils for SD rails - MIJ Strat Hybrid II with SD Cool Rails in neck, Vintage Rails mid, Hot rails bridge. Night and day difference.",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8zws7/took_some_advice_and_swapped_out_stock_single/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n8zws7",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "RaceNo2435",
+      "author_id": "t2_yqt7vh1e4",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-05T08:45:24.083000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8zws7",
+      "content_preview": "",
+      "flair": [
+        "GEAR"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Nineteen seventy Strat for seven hundred bucks?",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8hppc/nineteen_seventy_strat_for_seven_hundred_bucks/",
+      "score": 30,
+      "comments": 21,
+      "post_id": "t3_1n8hppc",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Traditional-Tone-228",
+      "author_id": "t2_91v7ytjyp",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-04T18:13:19.479000+0000",
+      "content_href": "https://i.redd.it/ro553q3mv6nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_87oppg/styles/profileIcon_fz6xan5h7yxd1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4dc2a1e7b1d78f874bfb8da72d1011dc2cc981db",
+      "is_promoted": false
+    },
+    {
+      "title": "Ghost - Lachryma solo cover",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8qhg1/ghost_lachryma_solo_cover/",
+      "score": 7,
+      "comments": 2,
+      "post_id": "t3_1n8qhg1",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "RewdAwakening",
+      "author_id": "t2_7oqdtlbx",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-05T00:07:22.268000+0000",
+      "content_href": "https://v.redd.it/a2zacpapm8nf1",
       "content_preview": "",
       "flair": [
         "PLAY"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "Walked into my office to find this, any guesses as to what caused it?",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1mvjgvq/walked_into_my_office_to_find_this_any_guesses_as/",
-      "score": 2550,
-      "comments": 963,
-      "post_id": "t3_1mvjgvq",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "bayofpigdestroyer",
-      "author_id": "t2_k1r1r",
+      "title": "Picked up a new axe over labor day weekend. Sounds and feels great.",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8d9y8/picked_up_a_new_axe_over_labor_day_weekend_sounds/",
+      "score": 32,
+      "comments": 5,
+      "post_id": "t3_1n8d9y8",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "jporterfit",
+      "author_id": "t2_6hhkq3cg",
       "subreddit_id": "t5_2qi79",
       "subreddit": "r/Guitar",
-      "created_ts": "2025-08-20T16:21:31.015000+0000",
-      "content_href": "https://i.redd.it/iry5cpgz97kf1.jpeg",
+      "created_ts": "2025-09-04T15:26:50.580000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8d9y8",
+      "content_preview": "",
+      "flair": [
+        "GEAR"
+      ],
+      "thumbnail_url": "https://preview.redd.it/picked-up-a-new-axe-over-labor-day-weekend-sounds-and-feels-v0-oikq0tqw16nf1.png?width=640&crop=smart&auto=webp&s=7cef9a70af0e7abd1674a268f4ba8d7e96e5a4f8",
+      "is_promoted": false
+    },
+    {
+      "title": "I got my first guitar",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8prs1/i_got_my_first_guitar/",
+      "score": 7,
+      "comments": 7,
+      "post_id": "t3_1n8prs1",
+      "post_type": "text",
+      "domain": "self.Guitar",
+      "author": "faizullahturkmen",
+      "author_id": "t2_k08vnw6kq",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-04T23:35:20.370000+0000",
+      "content_href": "https://www.reddit.com/r/Guitar/comments/1n8prs1/i_got_my_first_guitar/",
+      "content_preview": "It arrived like half an hour ago it is an acoustic guitar with steel strings is there any songs that is easy but helps a lot with skill improvement or do I need to learn many different songs to improve my skills. If there isn't could you advise me on like which songs I should practice and when like \"learn example one for two months after learning the example one learn example two\" and any additional advice you could give, I appreciate for taking the time to give me your advice and one last thing Have a nice day.",
+      "flair": [
+        "NEWBIE"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Level up with the Honda Civic Hybrid! It has a 200-horsepower hybrid powertrain that’s the most powerful in a Civic Sedan ever.",
+      "permalink": "https://www.reddit.com/user/honda/comments/1m5y6ld/level_up_with_the_honda_civic_hybrid_it_has_a/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1m5y6ld",
+      "post_type": "video",
+      "domain": "automobiles.honda.com",
+      "author": "honda",
+      "author_id": "t2_2fqrwkqx",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-21T23:14:14.783000+0000",
+      "content_href": "https://v.redd.it/jrc7gq6rq9ef1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_rksgy/styles/profileIcon_1aerwmpgcqje1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=de2da68f792c1f56d3eb3d7613c36c0764f412a1",
+      "is_promoted": true
+    },
+    {
+      "title": "Changing Pickups first time",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8zq4q/changing_pickups_first_time/",
+      "score": 1,
+      "comments": 3,
+      "post_id": "t3_1n8zq4q",
+      "post_type": "text",
+      "domain": "self.Guitar",
+      "author": "Whitetuskk",
+      "author_id": "t2_100uwq",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-05T08:32:56.589000+0000",
+      "content_href": "https://www.reddit.com/r/Guitar/comments/1n8zq4q/changing_pickups_first_time/",
+      "content_preview": "I’ll be changing the pickups in my Shecter Omen and it will be both the first time I’m changing picks ups and doing it myself. I’m going from the stock diamond series pick ups to SD SH2/SH4 combo. What should I know or be prepared for as a first timer ? I am most worried about pickup height as I have had all my guitars set up by a professional so I’m not sure what I should be shooting for and the best way to make adjustments. If there are any solid and well known guides for DIY set up that would be appreciated as well. I am not new to soldering electronics if that is a concern, but any advice from the wiser with guitars would be helpful.",
+      "flair": [
+        "QUESTION"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Knight Rider KARR modded Fender Boxer HH Inca Silver & Black",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8znza/knight_rider_karr_modded_fender_boxer_hh_inca/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n8znza",
+      "post_type": "video",
+      "domain": "v.redd.it",
+      "author": "ProtectionPrimary726",
+      "author_id": "t2_as27i613",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-05T08:28:53.157000+0000",
+      "content_href": "https://v.redd.it/8puff6694bnf1",
+      "content_preview": "",
+      "flair": [
+        "GEAR"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4moyyv/styles/profileIcon_sajrsal0lqkf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f260ba65041c2c2e73d0400f73a3b0a463d80f8d",
+      "is_promoted": false
+    },
+    {
+      "title": "Which set  of guitar strings are you all choosing?",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n7zkyt/which_set_of_guitar_strings_are_you_all_choosing/",
+      "score": 219,
+      "comments": 353,
+      "post_id": "t3_1n7zkyt",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "diemcee",
+      "author_id": "t2_10q8nt",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-09-04T03:29:41.056000+0000",
+      "content_href": "https://i.redd.it/3gcm4ylyh2nf1.jpeg",
       "content_preview": "",
       "flair": [
         "QUESTION"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "https://preview.redd.it/which-set-of-guitar-strings-are-you-all-choosing-v0-3gcm4ylyh2nf1.jpeg?width=640&crop=smart&auto=webp&s=25d471b6e3306949b4b4a6abe9858a511dbab0d8",
+      "is_promoted": false
     },
     {
-      "title": "Heard Y'all Liked Guitars",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n1gcod/heard_yall_liked_guitars/",
-      "score": 767,
-      "comments": 81,
-      "post_id": "t3_1n1gcod",
+      "title": "First custom paint job.",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8itk9/first_custom_paint_job/",
+      "score": 11,
+      "comments": 6,
+      "post_id": "t3_1n8itk9",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "Jhn1203",
-      "author_id": "t2_5rn1u",
+      "author": "UBER_DESTRUCT0",
+      "author_id": "t2_irmaz9f7w",
       "subreddit_id": "t5_2qi79",
       "subreddit": "r/Guitar",
-      "created_ts": "2025-08-27T12:59:19.718000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n1gcod",
-      "content_preview": "",
-      "flair": [
-        "GEAR"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_c6mf8/styles/profileIcon_cu8xn2qqpg591.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fe9cb84577fbf8b757fe85c998f2fef83bde8921"
-    },
-    {
-      "title": "i have a guitar now :)",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n5wfhk/i_have_a_guitar_now/",
-      "score": 57,
-      "comments": 11,
-      "post_id": "t3_1n5wfhk",
-      "post_type": "text",
-      "domain": "self.Guitar",
-      "author": "Liljdizz",
-      "author_id": "t2_qzi3mdnvu",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-09-01T18:21:12.660000+0000",
-      "content_href": "https://www.reddit.com/r/Guitar/comments/1n5wfhk/i_have_a_guitar_now/",
-      "content_preview": "",
-      "flair": [
-        "NEWBIE"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Got Jerry Cantrell’s Signature Wino Red Guitar the other day!",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n5p058/got_jerry_cantrells_signature_wino_red_guitar_the/",
-      "score": 123,
-      "comments": 9,
-      "post_id": "t3_1n5p058",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "No_Exercise_6621",
-      "author_id": "t2_79a3vskzy",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-09-01T13:40:46.146000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5p058",
-      "content_preview": "",
-      "flair": [
-        "GEAR"
-      ],
-      "thumbnail_url": "https://preview.redd.it/got-jerry-cantrells-signature-wino-red-guitar-the-other-day-v0-7xgtfww64kmf1.jpg?width=640&crop=smart&auto=webp&s=ca4a9a1e73f9f00735e82fff0bf678c80a911aee"
-    },
-    {
-      "title": "Found another use for My explorer case",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n68aww/found_another_use_for_my_explorer_case/",
-      "score": 10,
-      "comments": 1,
-      "post_id": "t3_1n68aww",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "idkimbored35",
-      "author_id": "t2_2n9lo45l",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-09-02T02:50:33.967000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n68aww",
-      "content_preview": "",
-      "flair": [
-        "OC"
-      ],
-      "thumbnail_url": "https://preview.redd.it/found-another-use-for-my-explorer-case-v0-x5vy3is51omf1.jpg?width=640&crop=smart&auto=webp&s=418eaf58afa9230ec094fc06486d2d55a87f9893"
-    },
-    {
-      "title": "What do you think of this Gretsch?",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n686y9/what_do_you_think_of_this_gretsch/",
-      "score": 9,
-      "comments": 12,
-      "post_id": "t3_1n686y9",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "falsoTrolol",
-      "author_id": "t2_63hji5iy",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-09-02T02:45:09.257000+0000",
-      "content_href": "https://i.redd.it/ip9atzz60omf1.jpeg",
+      "created_ts": "2025-09-04T18:55:31.206000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n8itk9",
       "content_preview": "",
       "flair": [
         "DISCUSSION"
       ],
-      "thumbnail_url": "https://preview.redd.it/what-do-you-think-of-this-gretsch-v0-ip9atzz60omf1.jpeg?width=640&crop=smart&auto=webp&s=f02be9b5a3ed7f20b9933285b0be9996af859ffc"
+      "thumbnail_url": "https://preview.redd.it/first-custom-paint-job-v0-mthm5zy337nf1.jpg?width=640&crop=smart&auto=webp&s=38f184190f9408901963435a0164e8d4215dea4e",
+      "is_promoted": false
     },
     {
-      "title": "What’s this?  Identification and opinion request.",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n5lcp9/whats_this_identification_and_opinion_request/",
-      "score": 150,
-      "comments": 22,
-      "post_id": "t3_1n5lcp9",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "osenseiiimqs",
-      "author_id": "t2_m565v07j",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-09-01T10:41:26.181000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5lcp9",
-      "content_preview": "",
-      "flair": [
-        "GEAR"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "Girlfriend did some custom painted pickguards!",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1mgmuqx/girlfriend_did_some_custom_painted_pickguards/",
-      "score": 2465,
-      "comments": 104,
-      "post_id": "t3_1mgmuqx",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "No_Curve_5683",
-      "author_id": "t2_1p55rdxt4v",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-08-03T15:59:15.563000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mgmuqx",
-      "content_preview": "",
-      "flair": [
-        "GEAR"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_efb198/styles/profileIcon_hzf3w6ll6hcf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=aa445ffb2f9fb8fbd2818594f80dd8cc1f252f04"
-    },
-    {
-      "title": "Finally I Got My Own Guitar",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n05b0k/finally_i_got_my_own_guitar/",
-      "score": 2336,
-      "comments": 116,
-      "post_id": "t3_1n05b0k",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "leaddrugs",
-      "author_id": "t2_hbjf3a2s",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-08-25T22:51:03.786000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n05b0k",
-      "content_preview": "",
-      "flair": [
-        "GEAR"
-      ],
-      "thumbnail_url": "https://preview.redd.it/finally-i-got-my-own-guitar-v0-7vsfgbj1w8lf1.jpg?width=640&crop=smart&auto=webp&s=3c4e9f9bfafcb3db7dd98608cfc935815e35c54f"
-    },
-    {
-      "title": "Just installed a DOUBLE WHAMMY bridge",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1mpaltk/just_installed_a_double_whammy_bridge/",
-      "score": 2136,
-      "comments": 305,
-      "post_id": "t3_1mpaltk",
-      "post_type": "video",
-      "domain": "v.redd.it",
-      "author": "dblwmy_ggcc",
-      "author_id": "t2_10wd2kc5sb",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-08-13T17:20:57.005000+0000",
-      "content_href": "https://v.redd.it/1xjuw7mbltif1",
-      "content_preview": "",
-      "flair": [
-        "GEAR"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_bkt0lq/styles/profileIcon_tis43r205zif1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d751635a2c4adc737a7675cc8833c27e450354d2"
-    },
-    {
-      "title": "Got my first gibson as a high school student",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n5j4nz/got_my_first_gibson_as_a_high_school_student/",
-      "score": 167,
-      "comments": 81,
-      "post_id": "t3_1n5j4nz",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "No_Implement2888",
-      "author_id": "t2_p1trn4st",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-09-01T08:21:56.254000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5j4nz",
-      "content_preview": "",
-      "flair": [
-        "GEAR"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_6p38j7/styles/profileIcon_rzrfew4nyzje1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d2f976e75a0266a78e2e270b92b964ef2572e379"
-    },
-    {
-      "title": "How fake do you think this is?",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n1anj3/how_fake_do_you_think_this_is/",
-      "score": 710,
-      "comments": 188,
-      "post_id": "t3_1n1anj3",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "MeatspaceProject",
-      "author_id": "t2_66ixxm0z",
-      "subreddit_id": "t5_2qi79",
-      "subreddit": "r/Guitar",
-      "created_ts": "2025-08-27T07:36:39.127000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n1anj3",
-      "content_preview": "",
-      "flair": [
-        "QUESTION"
-      ],
-      "thumbnail_url": "https://preview.redd.it/how-fake-do-you-think-this-is-v0-tzdpz4gomilf1.jpg?width=640&crop=smart&auto=webp&s=78183100da0923e3ddb398e593eb8b90dcc76f88"
-    },
-    {
-      "title": "Just got my first guitar:)",
-      "permalink": "https://www.reddit.com/r/Guitar/comments/1n10dsz/just_got_my_first_guitar/",
-      "score": 692,
-      "comments": 88,
-      "post_id": "t3_1n10dsz",
+      "title": "New Guitar Day!!",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1n8fvxe/new_guitar_day/",
+      "score": 14,
+      "comments": 3,
+      "post_id": "t3_1n8fvxe",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "Geeeeeeeeorge",
-      "author_id": "t2_1vo250qf3s",
+      "author": "Hurb03_",
+      "author_id": "t2_zf1t8lwln",
       "subreddit_id": "t5_2qi79",
       "subreddit": "r/Guitar",
-      "created_ts": "2025-08-26T22:46:25.042000+0000",
-      "content_href": "https://i.redd.it/cyc3rr630glf1.jpeg",
+      "created_ts": "2025-09-04T17:03:59.035000+0000",
+      "content_href": "https://i.redd.it/w6l0e9t8j6nf1.jpeg",
       "content_preview": "",
       "flair": [
-        "NEWBIE"
+        "GEAR"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://preview.redd.it/new-guitar-day-v0-w6l0e9t8j6nf1.jpeg?width=640&crop=smart&auto=webp&s=46f45de55d706aded96584a99ea97cb6e1e014a1",
+      "is_promoted": false
+    },
+    {
+      "title": "I found the ugliest guitar",
+      "permalink": "https://www.reddit.com/r/Guitar/comments/1mlqv22/i_found_the_ugliest_guitar/",
+      "score": 2597,
+      "comments": 679,
+      "post_id": "t3_1mlqv22",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "daruosha",
+      "author_id": "t2_1x486ih4",
+      "subreddit_id": "t5_2qi79",
+      "subreddit": "r/Guitar",
+      "created_ts": "2025-08-09T14:32:10.694000+0000",
+      "content_href": "https://www.reddit.com/gallery/1mlqv22",
+      "content_preview": "",
+      "flair": [
+        "GEAR"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i-found-the-ugliest-guitar-v0-u3bhassx70if1.jpg?width=640&crop=smart&auto=webp&s=d9de109d4dc153318eba323370917bd976790562",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:04:16.120446"
+  "scraped_at": "2025-09-05T03:31:55.155693"
 }

@@ -3,34 +3,304 @@
   "url": "https://www.reddit.com/r/Documentaries",
   "meta": {
     "title": "Documentaries",
-    "members_text": "26,974"
+    "description": "tl;dw /r/Documentaries is reddit's main subreddit for documentaries. Please read our community rules.",
+    "subscribers": 20294547,
+    "online_users": 86,
+    "created_timestamp": "2025-09-04T22:37:16.114000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Sub Rules",
+        "content": "Read All Rules Here"
+      },
+      {
+        "title": "r/Documentaries Rules",
+        "content": [
+          {
+            "text": "READ DETAILS & EXAMPLES",
+            "url": "https://www.reddit.com/r/Documentaries/wiki/title/"
+          },
+          {
+            "text": "Please refer to the detailed information here",
+            "url": "https://www.reddit.com/r/Documentaries/wiki/zero_tolerance/"
+          },
+          {
+            "text": "Please refer to the detailed information here",
+            "url": "https://www.reddit.com/r/Documentaries/wiki/zero_tolerance/"
+          },
+          {
+            "text": "r/Documentaries",
+            "url": "/r/Documentaries/"
+          },
+          {
+            "text": "r/Documentaries",
+            "url": "/r/Documentaries/"
+          },
+          {
+            "text": "Reddit's content policy",
+            "url": "https://www.redditinc.com/policies/content-policy"
+          },
+          {
+            "text": "reddiquette",
+            "url": "https://www.reddithelp.com/en/categories/reddit-101/reddit-basics/reddiquette"
+          },
+          {
+            "text": "Moderator Code of Conduct",
+            "url": "https://www.redditinc.com/policies/moderator-code-of-conduct"
+          }
+        ]
+      },
+      {
+        "title": "Expanded Rules",
+        "content": "Zero Tolerance"
+      },
+      {
+        "title": "Documentaries by Flair",
+        "content": [
+          {
+            "text": "Trailer",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Trailer%22"
+          },
+          {
+            "text": "20th Century",
+            "url": "/r/Documentaries/?f=flair_name%3A%2220th%20Century%22"
+          },
+          {
+            "text": "American Politics",
+            "url": "/r/Documentaries/?f=flair_name%3A%22American%20Politics%22"
+          },
+          {
+            "text": "Ancient History",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Ancient%20History%22"
+          },
+          {
+            "text": "Anthropology",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Anthropology%22"
+          },
+          {
+            "text": "Art",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Art%22"
+          },
+          {
+            "text": "Biography",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Biography%22"
+          },
+          {
+            "text": "Conspiracy",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Conspiracy%22"
+          },
+          {
+            "text": "Crime",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Crime%22"
+          },
+          {
+            "text": "Cuisine",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Cuisine%22"
+          },
+          {
+            "text": "Disaster",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Disaster%22"
+          },
+          {
+            "text": "Drugs",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Drugs%22"
+          },
+          {
+            "text": "Economics",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Economics%22"
+          },
+          {
+            "text": "Education",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Education%22"
+          },
+          {
+            "text": "Environment",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Environment%20%22"
+          },
+          {
+            "text": "Film/TV",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Film%2FTV%22"
+          },
+          {
+            "text": "Health & Medicine",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Health%20%26%20Medicine%22"
+          },
+          {
+            "text": "History",
+            "url": "/r/Documentaries/?f=flair_name%3A%22History%22"
+          },
+          {
+            "text": "Intelligence",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Intelligence%22"
+          },
+          {
+            "text": "Int'l Politics",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Int'l%20Politics%22"
+          },
+          {
+            "text": "Iraq/Syria Conflict",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Iraq%2FSyria%20Conflict%22"
+          },
+          {
+            "text": "Literature",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Literature%22"
+          },
+          {
+            "text": "Missing",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Missing%22"
+          },
+          {
+            "text": "Music",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Music%22"
+          },
+          {
+            "text": "Mysterious",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Mysterious%22"
+          },
+          {
+            "text": "Nature/Animals",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Nature%2FAnimals%22"
+          },
+          {
+            "text": "Offbeat",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Offbeat%22"
+          },
+          {
+            "text": "Pop Culture",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Pop%20Culture%22"
+          },
+          {
+            "text": "Psychology",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Psychology%22"
+          },
+          {
+            "text": "Religion/Atheism",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Religion%2FAtheism%22"
+          },
+          {
+            "text": "Science",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Science%22"
+          },
+          {
+            "text": "Sex",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Sex%22"
+          },
+          {
+            "text": "Society",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Society%22"
+          },
+          {
+            "text": "Space",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Space%22"
+          },
+          {
+            "text": "Sports",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Sports%22"
+          },
+          {
+            "text": "Tech/Internet",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Tech%2FInternet%22"
+          },
+          {
+            "text": "Travel/Places",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Travel%2FPlaces%22"
+          },
+          {
+            "text": "Work/Crafts",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Work%2FCrafts%22"
+          },
+          {
+            "text": "World Culture",
+            "url": "/r/Documentaries/?f=flair_name%3A%22World%20Culture%22"
+          },
+          {
+            "text": "WW1",
+            "url": "/r/Documentaries/?f=flair_name%3A%22WW1%22"
+          },
+          {
+            "text": "WW2",
+            "url": "/r/Documentaries/?f=flair_name%3A%22WW2%22"
+          },
+          {
+            "text": "Radio",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Radio%22"
+          },
+          {
+            "text": "Engineering",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Engineering%22"
+          },
+          {
+            "text": "War",
+            "url": "/r/Documentaries/?f=flair_name%3A%22War%22"
+          },
+          {
+            "text": "Palestine/Israel",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Palestine%2FIsrael%22"
+          },
+          {
+            "text": "Human Rights",
+            "url": "/r/Documentaries/?f=flair_name%3A%22Human%20Rights%22"
+          }
+        ]
+      },
+      {
+        "title": "Shout-out",
+        "content": [
+          {
+            "text": "r/NewsHub",
+            "url": "/r/NewsHub"
+          },
+          {
+            "text": "r/worldnewsvideo",
+            "url": "/r/worldnewsvideo"
+          },
+          {
+            "text": "r/boringdystopia",
+            "url": "/r/boringdystopia"
+          },
+          {
+            "text": "r/therewasanattempt",
+            "url": "/r/therewasanattempt"
+          },
+          {
+            "text": "r/PublicFreakout",
+            "url": "/r/PublicFreakout"
+          },
+          {
+            "text": "r/IRLEasterEggs",
+            "url": "/r/IRLEasterEggs"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "Fatherhood (2025) Three men are expecting their first child. Kristopher, David, and Sindre, all in their early thirties. They live together in a relationship. While David and Sindre identify as homosexual, Kristopher was born as a woman and today identifies as a homosexual man. [00:02:01]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n5mflt/fatherhood_2025_three_men_are_expecting_their/",
+      "title": "התמיכה בישראל והעדויות מזוועות הטבח: תיעוד בלעדי מהר הדרוזים בסוריה",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n8ofmx/התמיכה_בישראל_והעדויות_מזוועות_הטבח_תיעוד_בלעדי/",
       "score": 0,
-      "comments": 28,
-      "post_id": "t3_1n5mflt",
+      "comments": 4,
+      "post_id": "t3_1n8ofmx",
       "post_type": "link",
-      "domain": "youtu.be",
-      "author": "morsomme",
-      "author_id": "t2_ujxc5gcj",
+      "domain": "youtube.com",
+      "author": "mvl_mvl",
+      "author_id": "t2_xw9ad",
       "subreddit_id": "t5_2qhlh",
       "subreddit": "r/Documentaries",
-      "created_ts": "2025-09-01T11:41:59.689000+0000",
-      "content_href": "https://youtu.be/5dtdaok8dMc?si=VHVmOTd6mDU0yCVD",
+      "created_ts": "2025-09-04T22:37:16.114000+0000",
+      "content_href": "https://youtube.com/watch?v=peMwv_GsBjk&si=DXXEsTYER7ioNjqv",
       "content_preview": "",
       "flair": [
-        "Trailer"
+        "Int'l Politics"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_7gfndb/styles/profileIcon_ge9hyabkp0se1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=290d87b50bc86459d40697572fc52c0a2a74e6b4"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "Tickled (2016) Journalist David Farrier meets with fierce resistance when he delves deeper into the subculture of competitive endurance tickling. [1:31:00]",
       "permalink": "https://www.reddit.com/r/Documentaries/comments/1n4xjdn/tickled_2016_journalist_david_farrier_meets_with/",
-      "score": 360,
-      "comments": 38,
+      "score": 393,
+      "comments": 46,
       "post_id": "t3_1n4xjdn",
       "post_type": "link",
       "domain": "link.tubi.tv",
@@ -44,132 +314,34 @@
       "flair": [
         "Offbeat"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
-      "title": "Ni-Naadamaadiz: Red Power Rising (2025) - Telling the little known story of how in 1974, an Indigenous Youth-led armed land-back occupation occurred in Kenora, Canada in protest over the ongoing mistreatment of Indigenous people, including various issues disproportionately affecting them. [00:02:56]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n4z497/ninaadamaadiz_red_power_rising_2025_telling_the/",
-      "score": 26,
+      "title": "Man in Red Bandana (2017) - The story of Welles Remy Crowther, losing his life on 9/11 to save others - [56:54]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n7nvso/man_in_red_bandana_2017_the_story_of_welles_remy/",
+      "score": 45,
       "comments": 2,
-      "post_id": "t3_1n4z497",
+      "post_id": "t3_1n7nvso",
       "post_type": "link",
       "domain": "youtube.com",
-      "author": "bmaster78",
-      "author_id": "t2_xro1l",
+      "author": "Wendy-Vonpapen",
+      "author_id": "t2_pl4ke73i",
       "subreddit_id": "t5_2qhlh",
       "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-31T16:27:12.092000+0000",
-      "content_href": "https://www.youtube.com/watch?v=eBqSOKWFHc0",
+      "created_ts": "2025-09-03T19:08:18.833000+0000",
+      "content_href": "https://www.youtube.com/watch?v=Hrg_VCjCWu4",
       "content_preview": "",
       "flair": [
-        "Trailer"
+        "Disaster"
       ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "The United States of AIPAC | Bought and Paid —  The Israel Lobby in America (2025) [00:10:32]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1mf24h0/the_united_states_of_aipac_bought_and_paid_the/",
-      "score": 1234,
-      "comments": 125,
-      "post_id": "t3_1mf24h0",
-      "post_type": "link",
-      "domain": "youtu.be",
-      "author": "Kafkaesque_meme",
-      "author_id": "t2_1j7fd4edp1",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-01T17:07:24.692000+0000",
-      "content_href": "https://youtu.be/o0d2HqHcaVU?si=8KNfeHfyNlYg8N97",
-      "content_preview": "",
-      "flair": [
-        "American Politics"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "The Emotional World of Farm Animals (2004) -  Documentary about the lives of animals used for food (00:52:21)",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n4x7b0/the_emotional_world_of_farm_animals_2004/",
-      "score": 17,
-      "comments": 10,
-      "post_id": "t3_1n4x7b0",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "icelandiccubicle20",
-      "author_id": "t2_6qi2n2rc",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-31T15:10:28.879000+0000",
-      "content_href": "https://www.youtube.com/watch?v=524JoqSlBW0&t=2s",
-      "content_preview": "",
-      "flair": [
-        "Nature/Animals"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Amazon Workers and the Largest Union Battle in a Generation (2025) [01:23:09]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n50roy/amazon_workers_and_the_largest_union_battle_in_a/",
-      "score": 149,
-      "comments": 6,
-      "post_id": "t3_1n50roy",
-      "post_type": "link",
-      "domain": "youtu.be",
-      "author": "thinkB4WeSpeak",
-      "author_id": "t2_w6txm",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-31T17:33:13.083000+0000",
-      "content_href": "https://youtu.be/GHnPesXX3eM?si=0sGUmLSq2pQVwBTo",
-      "content_preview": "",
-      "flair": [
-        "American Politics"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "China: A Century of Revolution Part 1 (1989) [1:52:51]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n4tzix/china_a_century_of_revolution_part_1_1989_15251/",
-      "score": 12,
-      "comments": 1,
-      "post_id": "t3_1n4tzix",
-      "post_type": "link",
-      "domain": "youtu.be",
-      "author": "digital_bubblebath",
-      "author_id": "t2_66c3a",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-31T12:56:01.928000+0000",
-      "content_href": "https://youtu.be/fcVGyn0NBZc?si=m1oZH5lMEfEbqWot",
-      "content_preview": "",
-      "flair": [
-        "20th Century"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "Z Channel: A Magnificent Obsession(2004) [02:02:00]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n59bqz/z_channel_a_magnificent_obsession2004_020200/",
-      "score": 21,
-      "comments": 5,
-      "post_id": "t3_1n59bqz",
-      "post_type": "link",
-      "domain": "youtu.be",
-      "author": "EspiritusFermenti7",
-      "author_id": "t2_3euafw0j",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-31T23:28:03.732000+0000",
-      "content_href": "https://youtu.be/c4ndOkjAqb4?si=BVVmtrpz6Qg7y_P6",
-      "content_preview": "",
-      "flair": [
-        "Film/TV"
-      ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "Russia’s Most Wanted Hackers (2025) - They call themselves Fancy Bear or Cozy Bear and are elite units of Russian intelligence services. Their targets: the Bundestag, the U.S. elections and currently, Ukraine [00:40:30]",
       "permalink": "https://www.reddit.com/r/Documentaries/comments/1myed82/russias_most_wanted_hackers_2025_they_call/",
-      "score": 588,
+      "score": 591,
       "comments": 18,
       "post_id": "t3_1myed82",
       "post_type": "link",
@@ -184,87 +356,401 @@
       "flair": [
         "Intelligence"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
     },
     {
-      "title": "Selve - Friday Night (2025) - a hybrid doc/narrative music video about the world's first Aboriginal artist to record an album at Abbey Road Studios [00:04:15]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n3shl4/selve_friday_night_2025_a_hybrid_docnarrative/",
-      "score": 8,
-      "comments": 2,
-      "post_id": "t3_1n3shl4",
+      "title": "Trapped on White Island | The Eruption Stories of Survival (2025) - Volcanic eruption in 2019 [52:18]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n6gopq/trapped_on_white_island_the_eruption_stories_of/",
+      "score": 51,
+      "comments": 3,
+      "post_id": "t3_1n6gopq",
       "post_type": "link",
       "domain": "youtube.com",
-      "author": "tatemenow",
-      "author_id": "t2_wgah9",
+      "author": "Sarquon",
+      "author_id": "t2_nkizx",
       "subreddit_id": "t5_2qhlh",
       "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-30T04:26:57.177000+0000",
-      "content_href": "https://www.youtube.com/watch?v=T5Bgm8Qrf-Y",
+      "created_ts": "2025-09-02T11:15:14.159000+0000",
+      "content_href": "https://www.youtube.com/watch?v=EjoW9jxk1kI",
       "content_preview": "",
       "flair": [
-        "Music"
+        "Disaster"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "LISTERS: A Glipse Into Extreme Birdwatching (2025) [1:59:09]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n1vhcp/listers_a_glipse_into_extreme_birdwatching_2025/",
-      "score": 143,
-      "comments": 30,
-      "post_id": "t3_1n1vhcp",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "palindrome818",
-      "author_id": "t2_d1faf",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-27T22:38:57.469000+0000",
-      "content_href": "https://www.youtube.com/watch?v=zl-wAqplQAo",
-      "content_preview": "",
-      "flair": [
-        "Nature/Animals"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "From New York to Australia: China’s Hidden Global Crackdown (2025) - [00:10:15]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n15ina/from_new_york_to_australia_chinas_hidden_global/",
+      "title": "Tired of the 2FA hassle for shared accounts? Group2FA makes it simple for your whole team to get verification codes.",
+      "permalink": "https://www.reddit.com/user/group2fa/comments/1n7d4gn/tired_of_the_2fa_hassle_for_shared_accounts/",
       "score": 0,
-      "comments": 11,
-      "post_id": "t3_1n15ina",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "AntifaPr1deWorldWide",
-      "author_id": "t2_1o8a5uav8b",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-27T02:41:52.182000+0000",
-      "content_href": "https://www.youtube.com/watch?v=Xe8kAezM-zE",
+      "comments": 0,
+      "post_id": "t3_1n7d4gn",
+      "post_type": "image",
+      "domain": "group2fa.app",
+      "author": "group2fa",
+      "author_id": "t2_trtidb19c",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-03T12:13:18.859000+0000",
+      "content_href": "https://group2fa.app/",
       "content_preview": "",
-      "flair": [
-        "Law/Justice System"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_eb4vvd/styles/profileIcon_4k28f8z1b05f1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f59058af07bdbe6cf620edf8bb174cf97d482094"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_ar98hw/styles/profileIcon_r8zp6dfmsbhc1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=c4c5fce9c89b869a74477d1f17242e3e042af41d",
+      "is_promoted": true
     },
     {
-      "title": "'Across America\" (2023) [47:53] - A documentary about Chad Caruso, a californian travelling  the U.S.A from west to east on a skateboard in 57 days.",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n28mft/across_america_2023_4753_a_documentary_about_chad/",
-      "score": 106,
-      "comments": 15,
-      "post_id": "t3_1n28mft",
+      "title": "German POWs Couldn't Believe Ice Cream And Coca-Cola in American Prison Camps (2025) This is a fascinating documentary about how food abundance in the U.S. was central to an ideological transformation in WWII Germany [32:03]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n7sn0w/german_pows_couldnt_believe_ice_cream_and/",
+      "score": 224,
+      "comments": 50,
+      "post_id": "t3_1n7sn0w",
       "post_type": "link",
-      "domain": "youtube.com",
-      "author": "Wendy-Vonpapen",
-      "author_id": "t2_pl4ke73i",
+      "domain": "youtu.be",
+      "author": "SoCrazyItMustBeTrue",
+      "author_id": "t2_166mhe",
       "subreddit_id": "t5_2qhlh",
       "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-28T10:30:51.329000+0000",
-      "content_href": "https://www.youtube.com/watch?v=XFPZYeFmXCs",
+      "created_ts": "2025-09-03T22:11:48.406000+0000",
+      "content_href": "https://youtu.be/PtjeuNoGqXI?si=MiP15uAcS5y2YCJR",
       "content_preview": "",
       "flair": [
-        "Exploration/Adventure"
+        "WW2"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Voskopojë: The Lost Roman Byzantine Refuge (2025)  [00:07:17]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n6fka2/voskopojë_the_lost_roman_byzantine_refuge_2025/",
+      "score": 20,
+      "comments": 2,
+      "post_id": "t3_1n6fka2",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "Hypatia-Alexandria",
+      "author_id": "t2_pg0n5fqz",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-09-02T10:10:42.921000+0000",
+      "content_href": "https://youtu.be/MUrK81LRVkI?si=edKIAU4cjLChwFC4",
+      "content_preview": "",
+      "flair": [
+        "Ancient History"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "The Death of the Real Economy: How Money Became Worthless (2025) [00:55:44]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n7ok5m/the_death_of_the_real_economy_how_money_became/",
+      "score": 0,
+      "comments": 5,
+      "post_id": "t3_1n7ok5m",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "toadlyBroodle",
+      "author_id": "t2_jo60o",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-09-03T19:33:50.428000+0000",
+      "content_href": "https://www.youtube.com/watch?v=P5YpVrrPoB0",
+      "content_preview": "",
+      "flair": [
+        "Economics"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "The Maga Grift (2025) How Trump’s second presidency became a money-making machine [00:13:46]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1mkav13/the_maga_grift_2025_how_trumps_second_presidency/",
+      "score": 485,
+      "comments": 34,
+      "post_id": "t3_1mkav13",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "silverman567",
+      "author_id": "t2_jmmrg",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-07T20:19:25.221000+0000",
+      "content_href": "https://www.youtube.com/watch?v=rx99Sg6SnlY",
+      "content_preview": "",
+      "flair": [
+        "American Politics"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Kenneth Tynan (2005) BBC Timeshift Documentary about the British theater critic and playwright [00:38:43]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n6765b/kenneth_tynan_2005_bbc_timeshift_documentary/",
+      "score": 13,
+      "comments": 2,
+      "post_id": "t3_1n6765b",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "TheSanityInspector",
+      "author_id": "t2_hiygt",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-09-02T01:54:47.965000+0000",
+      "content_href": "https://www.youtube.com/watch?v=vq2PXK_Dew8",
+      "content_preview": "",
+      "flair": [
+        "Biography"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Amazon Workers and the Largest Union Battle in a Generation (2025) [01:23:09]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n50roy/amazon_workers_and_the_largest_union_battle_in_a/",
+      "score": 179,
+      "comments": 8,
+      "post_id": "t3_1n50roy",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "thinkB4WeSpeak",
+      "author_id": "t2_w6txm",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-31T17:33:13.083000+0000",
+      "content_href": "https://youtu.be/GHnPesXX3eM?si=0sGUmLSq2pQVwBTo",
+      "content_preview": "",
+      "flair": [
+        "American Politics"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "\"Local 1196: A Steelworkers Strike\" (2023) - On the frontlines of a four month steelworkers strike in Western Pennsylvania [00:59:14]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n5sq47/local_1196_a_steelworkers_strike_2023_on_the/",
+      "score": 27,
+      "comments": 1,
+      "post_id": "t3_1n5sq47",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "BaseHit",
+      "author_id": "t2_bxnyg",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-09-01T16:04:49.195000+0000",
+      "content_href": "https://www.youtube.com/watch?v=iSrFKic79o4",
+      "content_preview": "",
+      "flair": [
+        "American Politics"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "ResistMap is live: your early warning system for ICE raids, hate crimes, and extremist activity - 100% anonymous, human reviewed, no app needed",
+      "permalink": "https://www.reddit.com/r/ICE_Raids/comments/1n6m9b7/resistmap_is_live_your_early_warning_system_for/",
+      "score": 129,
+      "comments": 4,
+      "post_id": "t3_1n6vphj",
+      "post_type": "image",
+      "domain": "reddit.com",
+      "author": "ResistMap",
+      "author_id": "t2_1wgfgooooo",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-09-02T15:15:39.874000+0000",
+      "content_href": "https://i.redd.it/gof7z0yyprmf1.png",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f9qapo/styles/profileIcon_3zv5firrc9lf1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=ec363ee4253a85fc91c5f3d06a363b49b8112260",
+      "is_promoted": true
+    },
+    {
+      "title": "Help Us Find Sunil Tripathi (2015) [1:14:00] When Reddit users misidentify a missing college student as a suspect in the Boston Marathon bombing, fear and suspicion rain down on his vulnerable family.",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n4480j/help_us_find_sunil_tripathi_2015_11400_when/",
+      "score": 97,
+      "comments": 13,
+      "post_id": "t3_1n4480j",
+      "post_type": "link",
+      "domain": "link.tubi.tv",
+      "author": "Callme-risley",
+      "author_id": "t2_hng118cv4",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-30T15:18:02.877000+0000",
+      "content_href": "https://link.tubi.tv/xzuiQtM0fWb",
+      "content_preview": "",
+      "flair": [
+        "Society"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "China: A Century of Revolution Part 1 (1989) [1:52:51]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n4tzix/china_a_century_of_revolution_part_1_1989_15251/",
+      "score": 14,
+      "comments": 1,
+      "post_id": "t3_1n4tzix",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "digital_bubblebath",
+      "author_id": "t2_66c3a",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-31T12:56:01.928000+0000",
+      "content_href": "https://youtu.be/fcVGyn0NBZc?si=m1oZH5lMEfEbqWot",
+      "content_preview": "",
+      "flair": [
+        "20th Century"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Change My Mind (2025) - three Czechs who think the war in Ukraine is fake, are brought to the frontlines. [00:02:01]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1mtwmx4/change_my_mind_2025_three_czechs_who_think_the/",
+      "score": 266,
+      "comments": 56,
+      "post_id": "t3_1mtwmx4",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "PugsandTacos",
+      "author_id": "t2_1a329q8",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-18T19:55:46.070000+0000",
+      "content_href": "https://www.youtube.com/watch?v=G7ezlahRZZM&t=2s",
+      "content_preview": "",
+      "flair": [
+        "Trailer"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Colorado Experience: Big Thompson Flood (2016) - Compares two catastrophic Colorado floods in the same place 37 years apart and examines how tech and legal changes reduced deaths in the second flood by 93%  [00:56:43]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n2tvua/colorado_experience_big_thompson_flood_2016/",
+      "score": 70,
+      "comments": 5,
+      "post_id": "t3_1n2tvua",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "SnuggleMeister",
+      "author_id": "t2_11zl9e",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-29T01:08:20.327000+0000",
+      "content_href": "https://youtube.com/watch?v=EgqW8vGeO9U&si=8byQf6hgBkOkffVi",
+      "content_preview": "",
+      "flair": [
+        "Disaster"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Recommendation request: looking for documentary like CHAIN OF COMMAND by national geographic",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n4o12b/recommendation_request_looking_for_documentary/",
+      "score": 7,
+      "comments": 6,
+      "post_id": "t3_1n4o12b",
+      "post_type": "text",
+      "domain": "self.Documentaries",
+      "author": "infinity4145",
+      "author_id": "t2_12j4tv9gry",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-31T06:57:50.498000+0000",
+      "content_href": "https://www.reddit.com/r/Documentaries/comments/1n4o12b/recommendation_request_looking_for_documentary/",
+      "content_preview": "I want to watch something about isis, iraq war, modern warfare.",
+      "flair": [
+        "Recommendation Request"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Truth With Wine (2016) A drunken personal documentary about one filmmaker’s family [00:11:48]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n1mu9o/truth_with_wine_2016_a_drunken_personal/",
+      "score": 7,
+      "comments": 5,
+      "post_id": "t3_1n1mu9o",
+      "post_type": "link",
+      "domain": "vimeo.com",
+      "author": "UltraInstinctChomsky",
+      "author_id": "t2_2wi97ljo",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-27T17:07:19.505000+0000",
+      "content_href": "https://vimeo.com/144583921/1010f6b25c",
+      "content_preview": "",
+      "flair": [
+        "Film/TV"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_tu615/styles/profileIcon_szu67lt30u721.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=220d2284dc7bb31ca1197ec4603cc77557fa8cab",
+      "is_promoted": false
+    },
+    {
+      "title": "Recommendation Request: documentary about how our sun formed and other fun facts about it.",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n0kahj/recommendation_request_documentary_about_how_our/",
+      "score": 30,
+      "comments": 15,
+      "post_id": "t3_1n0kahj",
+      "post_type": "text",
+      "domain": "self.Documentaries",
+      "author": "Khajiit_Boner",
+      "author_id": "t2_m45mo3k2",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-26T12:19:47.024000+0000",
+      "content_href": "https://www.reddit.com/r/Documentaries/comments/1n0kahj/recommendation_request_documentary_about_how_our/",
+      "content_preview": "Recommendation Request",
+      "flair": [
+        "Recommendation Request"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Download this free booklet to learn more about how you can improve your life and the lives of others by following the 10 Commandments.",
+      "permalink": "https://www.reddit.com/user/Life_hope_and_Truth/comments/1n1h73c/download_this_free_booklet_to_learn_more_about/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n1h73c",
+      "post_type": "image",
+      "domain": "info.lifehopeandtruth.com",
+      "author": "Life_hope_and_Truth",
+      "author_id": "t2_1pukq3kn22",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-27T13:34:08.718000+0000",
+      "content_href": "https://info.lifehopeandtruth.com/gods-10-commandments?utm_campaign=17867579-Reddit%20Ads&utm_source=reddit&utm_medium=paidsocial&utm_term=10%20commandments&utm_content=display-1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": true
+    },
+    {
+      "title": "Recommendation Request: On aqua culture Regenerative Agriculture & Vermiculture",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n0vy81/recommendation_request_on_aqua_culture/",
+      "score": 5,
+      "comments": 1,
+      "post_id": "t3_1n0vy81",
+      "post_type": "text",
+      "domain": "self.Documentaries",
+      "author": "Plastic_Tooth159",
+      "author_id": "t2_1kkqc7l5l9",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-26T19:51:49.869000+0000",
+      "content_href": "https://www.reddit.com/r/Documentaries/comments/1n0vy81/recommendation_request_on_aqua_culture/",
+      "content_preview": "Hi everyone. I've been engaged in humanitarian work for a long time. I'm seeing climate change have devastating effects throughout the world geography and I'm deeply concerned about food and water security.I've managed a small non profit aquaponics farm using Tilapia. It was highly inefficient. Worked at a vermiculture farm using vertical farming that I thought could be incredible tool for scale farming, especially in poorer areas of this world.Considering bio mass is readily available all over world. Do share your thoughts and any documentary links availableAll the best to you.",
+      "flair": [
+        "Recommendation Request"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_e15wp0/styles/profileIcon_qvcu31z6bfgf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=9aa3cf28bde3137b73db8438a6bbe92b2ea1df0b",
+      "is_promoted": false
     },
     {
       "title": "Texas to Canada - 2000 Miles of Harvest (1976) [00:39:14].",
@@ -284,107 +770,174 @@
       "flair": [
         "Work/Crafts"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "The Maga Grift (2025) How Trump’s second presidency became a money-making machine [00:13:46]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1mkav13/the_maga_grift_2025_how_trumps_second_presidency/",
-      "score": 483,
-      "comments": 34,
-      "post_id": "t3_1mkav13",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "silverman567",
-      "author_id": "t2_jmmrg",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-07T20:19:25.221000+0000",
-      "content_href": "https://www.youtube.com/watch?v=rx99Sg6SnlY",
-      "content_preview": "",
-      "flair": [
-        "American Politics"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Hunting for ISIS: A Warning from Africa (2025) - (Sky's Alex Crawford is with the forces hunting ISIS in Somalia. The extremist group is resurging and it’s happening fast. She exposes their ruthless financial empire, global recruitment and meets civilians who live in fear of slaughter) [49:32]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1mwo2lv/hunting_for_isis_a_warning_from_africa_2025_skys/",
-      "score": 29,
-      "comments": 1,
-      "post_id": "t3_1mwo2lv",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "UnscheduledCalendar",
-      "author_id": "t2_t1wd4ihbj",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-21T21:37:54.243000+0000",
-      "content_href": "https://www.youtube.com/watch?v=KdGr5uxqfak",
-      "content_preview": "",
-      "flair": [
-        "War"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "Recommendation request. Something like Class Action Park or Pepsi, Wheres My Jet.",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n1n794/recommendation_request_something_like_class/",
-      "score": 95,
-      "comments": 68,
-      "post_id": "t3_1n1n794",
-      "post_type": "text",
-      "domain": "self.Documentaries",
-      "author": "KitzFigaro",
-      "author_id": "t2_13gcl7",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-27T17:20:47.443000+0000",
-      "content_href": "https://www.reddit.com/r/Documentaries/comments/1n1n794/recommendation_request_something_like_class/",
-      "content_preview": "",
-      "flair": [
-        "Recommendation Request"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_19iy9j/styles/profileIcon_yt8s72lxnzhd1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1077810896bb9273d1ac6d17ddc02b9bd567170d"
-    },
-    {
-      "title": "Imitating Elvis (2025) - micro-documentary where an aging Elvis tribute artist reflects on lost time (6:16)",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n52i7r/imitating_elvis_2025_microdocumentary_where_an/",
-      "score": 13,
-      "comments": 3,
-      "post_id": "t3_1n52i7r",
+      "title": "Bird Mating Rituals (2025) [7:18]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1mx5wdb/bird_mating_rituals_2025_718/",
+      "score": 18,
+      "comments": 9,
+      "post_id": "t3_1mx5wdb",
       "post_type": "link",
       "domain": "youtu.be",
-      "author": "tripleneon",
-      "author_id": "t2_v99t68s",
+      "author": "Tonipayne",
+      "author_id": "t2_e12m2",
       "subreddit_id": "t5_2qhlh",
       "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-31T18:42:07.643000+0000",
-      "content_href": "https://youtu.be/zjQkdaW_Jk0",
+      "created_ts": "2025-08-22T13:01:39.485000+0000",
+      "content_href": "https://youtu.be/18ZRIXYcC9c",
       "content_preview": "",
       "flair": [
-        "Music"
+        "Nature/Animals"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_uhzvi/styles/profileIcon_kmwwv60wo8z51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f25eb4eb24c5e02268555badcd78cf7f2891e3ee"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "Recommendation request: looking for documentary like CHAIN OF COMMAND by national geographic",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n4o12b/recommendation_request_looking_for_documentary/",
-      "score": 5,
-      "comments": 4,
-      "post_id": "t3_1n4o12b",
-      "post_type": "text",
-      "domain": "self.Documentaries",
-      "author": "infinity4145",
-      "author_id": "t2_12j4tv9gry",
+      "title": "A Rescue That Turned Deadly in The Mossdale Caverns (1967) [00:11:16] - A sudden flash flood turned a routine expedition into Britain’s deadliest caving disaster, sweeping six experienced explorers to their graves deep beneath Mossdale Cave",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1mu4wum/a_rescue_that_turned_deadly_in_the_mossdale/",
+      "score": 10,
+      "comments": 11,
+      "post_id": "t3_1mu4wum",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "Flashy_Bench5027",
+      "author_id": "t2_ogd8lgi00",
       "subreddit_id": "t5_2qhlh",
       "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-31T06:57:50.498000+0000",
-      "content_href": "https://www.reddit.com/r/Documentaries/comments/1n4o12b/recommendation_request_looking_for_documentary/",
+      "created_ts": "2025-08-19T01:30:31.740000+0000",
+      "content_href": "https://youtu.be/LEdbsy64ON0",
       "content_preview": "",
       "flair": [
-        "Recommendation Request"
+        "Disaster"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Long Term Parking (2016) - mini documentary about LA Parking Lot where many airline/aviation employees live [0:07:49]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n69krm/long_term_parking_2016_mini_documentary_about_la/",
+      "score": 55,
+      "comments": 4,
+      "post_id": "t3_1n69krm",
+      "post_type": "link",
+      "domain": "vimeo.com",
+      "author": "nehala",
+      "author_id": "t2_qpud2",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-09-02T03:56:03.092000+0000",
+      "content_href": "https://vimeo.com/181856947",
+      "content_preview": "",
+      "flair": [
+        "Society"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Is Al Apocalypse Inevitable? (2025) By Tristan Harris and After Skool [17:52]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1mj1e2k/is_al_apocalypse_inevitable_2025_by_tristan/",
+      "score": 231,
+      "comments": 56,
+      "post_id": "t3_1mj1e2k",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "katxwoods",
+      "author_id": "t2_6h6wd5oz",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-06T10:52:16.006000+0000",
+      "content_href": "https://www.youtube.com/watch?v=86k8N4YsA7c",
+      "content_preview": "",
+      "flair": [
+        "Tech/Internet"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Marasim (2025) - A documentary about the anti-Islam issues in India (CC) [00:13:44]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1muqj1e/marasim_2025_a_documentary_about_the_antiislam/",
+      "score": 0,
+      "comments": 5,
+      "post_id": "t3_1muqj1e",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "LobsterCertain7210",
+      "author_id": "t2_9sev3fee",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-19T18:21:48.068000+0000",
+      "content_href": "https://youtu.be/DzSZ8rw-yQA",
+      "content_preview": "",
+      "flair": [
+        "Int'l Politics"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "One-third of your life is spent working. Might as well make it count: build submarines.",
+      "permalink": "https://www.reddit.com/user/buildsubmarines/comments/1ldyjdn/onethird_of_your_life_is_spent_working_might_as/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1ldyjdn",
+      "post_type": "image",
+      "domain": "buildsubmarines.com",
+      "author": "buildsubmarines",
+      "author_id": "t2_pgnx07dim",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-06-17T20:51:43.950000+0000",
+      "content_href": "https://www.buildsubmarines.com/?utm_source=reddit&utm_medium=paidsocial&utm_campaign=fy2025&utm_term=bsubs&utm_content=newworkforce2_1080x1080",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_aaro3w/styles/profileIcon_ybyc7v1l4txe1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=d191add41eeeeb454f6264fb0ce3bf6e177c0f5a",
+      "is_promoted": true
+    },
+    {
+      "title": "Fatherhood (2025) Three men are expecting their first child. Kristopher, David, and Sindre, all in their early thirties. They live together in a relationship. While David and Sindre identify as homosexual, Kristopher was born as a woman and today identifies as a homosexual man. [00:02:01]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n5mflt/fatherhood_2025_three_men_are_expecting_their/",
+      "score": 0,
+      "comments": 29,
+      "post_id": "t3_1n5mflt",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "morsomme",
+      "author_id": "t2_ujxc5gcj",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-09-01T11:41:59.689000+0000",
+      "content_href": "https://youtu.be/5dtdaok8dMc?si=VHVmOTd6mDU0yCVD",
+      "content_preview": "",
+      "flair": [
+        "Trailer"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7gfndb/styles/profileIcon_ge9hyabkp0se1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=290d87b50bc86459d40697572fc52c0a2a74e6b4",
+      "is_promoted": false
+    },
+    {
+      "title": "Hotel Dieu (2025) [29:32] — A Physician’s Perspective during Hurricane Katrina",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n34y6s/hotel_dieu_2025_2932_a_physicians_perspective/",
+      "score": 39,
+      "comments": 4,
+      "post_id": "t3_1n34y6s",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "usernamegameweak",
+      "author_id": "t2_r60dg",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-29T11:33:36.193000+0000",
+      "content_href": "https://youtu.be/Q-feoKOMy2M?si=SDUKl1L6nGZr3zhi",
+      "content_preview": "",
+      "flair": [
+        "Health & Medicine"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_biprh/styles/profileIcon_wogun3too3mf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1c4c855ef76d8fc109fe100b1201c6d60ab0f5b5",
+      "is_promoted": false
     },
     {
       "title": "To Kill A War Machine (2025) – Palestine action documentary in real-time footage (CC) [01:17:56]",
@@ -400,11 +953,75 @@
       "subreddit": "r/Documentaries",
       "created_ts": "2025-08-18T09:17:44.170000+0000",
       "content_href": "https://youtu.be/GAhpMqJIVeA?si=wMiFSv1Fnk_fvq-K",
-      "content_preview": "",
+      "content_preview": "Activism/Social Justice",
       "flair": [
         "Activism/Social Justice"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Ni-Naadamaadiz: Red Power Rising (2025) - Telling the little known story of how in 1974, an Indigenous Youth-led armed land-back occupation occurred in Kenora, Canada in protest over the ongoing mistreatment of Indigenous people, including various issues disproportionately affecting them. [00:02:56]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n4z497/ninaadamaadiz_red_power_rising_2025_telling_the/",
+      "score": 33,
+      "comments": 3,
+      "post_id": "t3_1n4z497",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "bmaster78",
+      "author_id": "t2_xro1l",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-31T16:27:12.092000+0000",
+      "content_href": "https://www.youtube.com/watch?v=eBqSOKWFHc0",
+      "content_preview": "",
+      "flair": [
+        "Trailer"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Degrassi: Whatever It Takes (2025) - Chronicling the long-running Canadian media franchise Degrassi, which for 4 decades has brought the raw, unfiltered realities of teen life to the screen, remaining fearless in its storytelling tackling issues like sex, drugs, and mental health, etc. [00:02:42]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n52eaf/degrassi_whatever_it_takes_2025_chronicling_the/",
+      "score": 27,
+      "comments": 5,
+      "post_id": "t3_1n52eaf",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "bmaster78",
+      "author_id": "t2_xro1l",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-31T18:37:41.499000+0000",
+      "content_href": "https://www.youtube.com/watch?v=bWl_M9LNPPY",
+      "content_preview": "",
+      "flair": [
+        "Trailer"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "The Emotional World of Farm Animals (2004) -  Documentary about the lives of animals used for food (00:52:21)",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n4x7b0/the_emotional_world_of_farm_animals_2004/",
+      "score": 20,
+      "comments": 33,
+      "post_id": "t3_1n4x7b0",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "icelandiccubicle20",
+      "author_id": "t2_6qi2n2rc",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-31T15:10:28.879000+0000",
+      "content_href": "https://www.youtube.com/watch?v=524JoqSlBW0&t=2s",
+      "content_preview": "",
+      "flair": [
+        "Nature/Animals"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
       "title": "From Angola to South Africa: Anti-China Unrest Spreads Across Africa (2025) - [00:11:11]",
@@ -424,47 +1041,132 @@
       "flair": [
         "Media/Journalism"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_eb4vvd/styles/profileIcon_4k28f8z1b05f1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f59058af07bdbe6cf620edf8bb174cf97d482094"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eb4vvd/styles/profileIcon_4k28f8z1b05f1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f59058af07bdbe6cf620edf8bb174cf97d482094",
+      "is_promoted": false
     },
     {
-      "title": "Recommendation request: looking for eye opening documentaries about America",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n2sjms/recommendation_request_looking_for_eye_opening/",
-      "score": 1,
-      "comments": 63,
-      "post_id": "t3_1n2sjms",
-      "post_type": "text",
-      "domain": "self.Documentaries",
-      "author": "MissesMiyagii",
-      "author_id": "t2_eaj5es7i",
+      "title": "Experience personalized fitness with NordicTrack + iFIT. Shop treadmills, bikes, rowers, and more that adapt to you.",
+      "permalink": "https://www.reddit.com/user/NordicTrack_official/comments/1mplfsv/experience_personalized_fitness_with_nordictrack/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mplfsv",
+      "post_type": "gallery",
+      "domain": "nordictrack.com",
+      "author": "NordicTrack_official",
+      "author_id": "t2_5ui7e3r6",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-14T00:20:00.570000+0000",
+      "content_href": "https://www.nordictrack.com/product/commercial-2450-treadmill",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_360g6j/styles/profileIcon_eksymxl6kjq51.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=aedb1ee4ae50961b6ec456b2e049532f0a8520a9",
+      "is_promoted": true
+    },
+    {
+      "title": "Z Channel: A Magnificent Obsession(2004) [02:02:00]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n59bqz/z_channel_a_magnificent_obsession2004_020200/",
+      "score": 20,
+      "comments": 5,
+      "post_id": "t3_1n59bqz",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "EspiritusFermenti7",
+      "author_id": "t2_3euafw0j",
       "subreddit_id": "t5_2qhlh",
       "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-29T00:06:48.781000+0000",
-      "content_href": "https://www.reddit.com/r/Documentaries/comments/1n2sjms/recommendation_request_looking_for_eye_opening/",
+      "created_ts": "2025-08-31T23:28:03.732000+0000",
+      "content_href": "https://youtu.be/c4ndOkjAqb4?si=BVVmtrpz6Qg7y_P6",
       "content_preview": "",
+      "flair": [
+        "Film/TV"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Nicholas Rossi: The fugitive unmasked after years of investigation (2025) [00:24:25]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1ml4fdi/nicholas_rossi_the_fugitive_unmasked_after_years/",
+      "score": 216,
+      "comments": 56,
+      "post_id": "t3_1ml4fdi",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "Single_Pollution_468",
+      "author_id": "t2_15a5papk4s",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-08T19:21:15.098000+0000",
+      "content_href": "https://www.youtube.com/watch?v=NU1FYZBhJFI",
+      "content_preview": "",
+      "flair": [
+        "Crime"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Imitating Elvis (2025) - micro-documentary where an aging Elvis tribute artist reflects on lost time (6:16)",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n52i7r/imitating_elvis_2025_microdocumentary_where_an/",
+      "score": 14,
+      "comments": 3,
+      "post_id": "t3_1n52i7r",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "tripleneon",
+      "author_id": "t2_v99t68s",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-31T18:42:07.643000+0000",
+      "content_href": "https://youtu.be/zjQkdaW_Jk0",
+      "content_preview": "",
+      "flair": [
+        "Music"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_uhzvi/styles/profileIcon_kmwwv60wo8z51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f25eb4eb24c5e02268555badcd78cf7f2891e3ee",
+      "is_promoted": false
+    },
+    {
+      "title": "Recommendation Request: Good Business Documentaries?",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n2f1mr/recommendation_request_good_business_documentaries/",
+      "score": 11,
+      "comments": 8,
+      "post_id": "t3_1n2f1mr",
+      "post_type": "text",
+      "domain": "self.Documentaries",
+      "author": "alex123711",
+      "author_id": "t2_151bq7xt",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-28T15:15:49.844000+0000",
+      "content_href": "https://www.reddit.com/r/Documentaries/comments/1n2f1mr/recommendation_request_good_business_documentaries/",
+      "content_preview": "Looking for some good business Documentaries for example similar to the books like Amazon unbound/ the everything store, etc stories about businesses",
       "flair": [
         "Recommendation Request"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "Change My Mind (2025) - three Czechs who think the war in Ukraine is fake, are brought to the frontlines. [00:02:01]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1mtwmx4/change_my_mind_2025_three_czechs_who_think_the/",
-      "score": 264,
-      "comments": 56,
-      "post_id": "t3_1mtwmx4",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "PugsandTacos",
-      "author_id": "t2_1a329q8",
+      "title": "Recommendation Request: Looking for Documentaries that have Actually Changed your Life",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1mhq56p/recommendation_request_looking_for_documentaries/",
+      "score": 168,
+      "comments": 226,
+      "post_id": "t3_1mhq56p",
+      "post_type": "text",
+      "domain": "self.Documentaries",
+      "author": "wusyuname",
+      "author_id": "t2_6nb3jolyi",
       "subreddit_id": "t5_2qhlh",
       "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-18T19:55:46.070000+0000",
-      "content_href": "https://www.youtube.com/watch?v=G7ezlahRZZM&t=2s",
-      "content_preview": "",
+      "created_ts": "2025-08-04T21:20:16.464000+0000",
+      "content_href": "https://www.reddit.com/r/Documentaries/comments/1mhq56p/recommendation_request_looking_for_documentaries/",
+      "content_preview": "I was recommended a documentary calledFrom One Second to the Nextabout 8 months ago; it was about the dangers of texting and driving, which led to me not even touching my phone at all when driving.Now, I’m looking for more documentaries that have had an effect (hopefully positive) on your life. I don’t want great documentaries dropped here if they haven’t changed or affected your life. For example, Icarus is a very popular Reddit documentary, but it’s more of an enjoyment-type of documentary for the majority of us (minority being those who want to juice themselves lol).With that being said, please recommend some documentaries that have changed you, your lifestyle, or your thoughts, please. I’m in a dark place right now, and I think this would help a lot.Thanks, Reddit!",
       "flair": [
-        "Trailer"
+        "Recommendation Request"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
     },
     {
       "title": "Why The Two-State Solution Never Worked (2024) [00:12:18]",
@@ -484,47 +1186,48 @@
       "flair": [
         "Int'l Politics"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
     },
     {
-      "title": "Battle of the Baton Twirlers (1984) - Fishtails, thumbflips, aerials, walkovers and double-illusions - the language of the glittering, esoteric sport of baton twirling [0:37:51]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1mz4gxq/battle_of_the_baton_twirlers_1984_fishtails/",
-      "score": 9,
-      "comments": 3,
-      "post_id": "t3_1mz4gxq",
+      "title": "From New York to Australia: China’s Hidden Global Crackdown (2025) - [00:10:15]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n15ina/from_new_york_to_australia_chinas_hidden_global/",
+      "score": 0,
+      "comments": 11,
+      "post_id": "t3_1n15ina",
       "post_type": "link",
-      "domain": "youtu.be",
-      "author": "nick9000",
-      "author_id": "t2_4br5p",
+      "domain": "youtube.com",
+      "author": "AntifaPr1deWorldWide",
+      "author_id": "t2_1o8a5uav8b",
       "subreddit_id": "t5_2qhlh",
       "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-24T19:09:18.235000+0000",
-      "content_href": "https://youtu.be/VpzsVX1dvHc",
+      "created_ts": "2025-08-27T02:41:52.182000+0000",
+      "content_href": "https://www.youtube.com/watch?v=Xe8kAezM-zE",
       "content_preview": "",
       "flair": [
-        "20th Century"
+        "Law/Justice System"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eb4vvd/styles/profileIcon_4k28f8z1b05f1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f59058af07bdbe6cf620edf8bb174cf97d482094",
+      "is_promoted": false
     },
     {
-      "title": "Help Us Find Sunil Tripathi (2015) [1:14:00] When Reddit users misidentify a missing college student as a suspect in the Boston Marathon bombing, fear and suspicion rain down on his vulnerable family.",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n4480j/help_us_find_sunil_tripathi_2015_11400_when/",
-      "score": 92,
-      "comments": 12,
-      "post_id": "t3_1n4480j",
-      "post_type": "link",
-      "domain": "link.tubi.tv",
-      "author": "Callme-risley",
-      "author_id": "t2_hng118cv4",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-30T15:18:02.877000+0000",
-      "content_href": "https://link.tubi.tv/xzuiQtM0fWb",
+      "title": "Give your employees help to understand their equity awards, and your program. Fidelity Stock Plan Services offers clarity that makes a real difference.",
+      "permalink": "https://www.reddit.com/user/fidelityinvestments/comments/1ks13d4/give_your_employees_help_to_understand_their/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1ks13d4",
+      "post_type": "image",
+      "domain": "fidelityworkplace.com",
+      "author": "fidelityinvestments",
+      "author_id": "t2_3n6m8a4q",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-05-21T15:44:04.189000+0000",
+      "content_href": "https://ad.doubleclick.net/ddm/trackclk/N805.131843REDDITINC/B32790685.421631316;dc_trk_aid=613996320;dc_trk_cid=235712988;dc_lat=;dc_rdid={{ADVERTISING_ID}};tag_for_child_directed_treatment=;tfua=;;dc_tdv=1",
       "content_preview": "",
-      "flair": [
-        "Society"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2f53bf/styles/profileIcon_vf3bv7q5hvne1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=5afe64af34179eefb81d33702667ec7d6ce70266",
+      "is_promoted": true
     },
     {
       "title": "The Intelligence Explosion, Explained (2025) - a documentary about Artificial Superintelligence (ASI) [00:15:03]",
@@ -544,47 +1247,29 @@
       "flair": [
         "Tech/Internet"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "A Night at The Garden (2017) - In 1939, 20,000 Americans rallied in New York's Madison Square Garden to celebrate the rise of Nazism [00:07:06]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1mgp4l7/a_night_at_the_garden_2017_in_1939_20000/",
-      "score": 246,
-      "comments": 42,
-      "post_id": "t3_1mgp4l7",
+      "title": "LISTERS: A Glipse Into Extreme Birdwatching (2025) [1:59:09]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n1vhcp/listers_a_glipse_into_extreme_birdwatching_2025/",
+      "score": 162,
+      "comments": 31,
+      "post_id": "t3_1n1vhcp",
       "post_type": "link",
       "domain": "youtube.com",
-      "author": "muhmeinchut69",
-      "author_id": "t2_163ma7",
+      "author": "palindrome818",
+      "author_id": "t2_d1faf",
       "subreddit_id": "t5_2qhlh",
       "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-03T17:31:36.831000+0000",
-      "content_href": "https://www.youtube.com/watch?v=MxxxlutsKuI",
+      "created_ts": "2025-08-27T22:38:57.469000+0000",
+      "content_href": "https://www.youtube.com/watch?v=zl-wAqplQAo",
       "content_preview": "",
       "flair": [
-        "20th Century"
+        "Nature/Animals"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "Is Al Apocalypse Inevitable? (2025) By Tristan Harris and After Skool [17:52]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1mj1e2k/is_al_apocalypse_inevitable_2025_by_tristan/",
-      "score": 230,
-      "comments": 56,
-      "post_id": "t3_1mj1e2k",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "katxwoods",
-      "author_id": "t2_6h6wd5oz",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-06T10:52:16.006000+0000",
-      "content_href": "https://www.youtube.com/watch?v=86k8N4YsA7c",
-      "content_preview": "",
-      "flair": [
-        "Tech/Internet"
-      ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "It’s Over. AI Won… For Now (2025) - Mini-documentary on how the world could end through AI (CC) [00:06:36]",
@@ -604,7 +1289,50 @@
       "flair": [
         "Tech/Internet"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Recommendation request: looking for eye opening documentaries about America",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n2sjms/recommendation_request_looking_for_eye_opening/",
+      "score": 11,
+      "comments": 74,
+      "post_id": "t3_1n2sjms",
+      "post_type": "text",
+      "domain": "self.Documentaries",
+      "author": "MissesMiyagii",
+      "author_id": "t2_eaj5es7i",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-29T00:06:48.781000+0000",
+      "content_href": "https://www.reddit.com/r/Documentaries/comments/1n2sjms/recommendation_request_looking_for_eye_opening/",
+      "content_preview": "Im looking for documentaries that are eye opening about the horrors America has committed. I am American and grew up being taught were #1 but no longer believe the illusion. In the slightest.  Things like 13th! Thank you!!!",
+      "flair": [
+        "Recommendation Request"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Crime and Punishment in Gaza(2012)[33:41]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n0sw69/crime_and_punishment_in_gaza20123341/",
+      "score": 0,
+      "comments": 44,
+      "post_id": "t3_1n0sw69",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "[deleted]",
+      "author_id": "",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-26T17:55:07.982000+0000",
+      "content_href": "https://youtu.be/RWJFC98jPrQ?si=EuXjaz98T7ScmDgp",
+      "content_preview": "",
+      "flair": [
+        "Palestine/Israel"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "The Man Who Dropped the Bomb (2025) [32:10]",
@@ -624,372 +1352,13 @@
       "flair": [
         "History"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "Chomsky on Palestine (2011) [01:30:31]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1mkjpnv/chomsky_on_palestine_2011_013031/",
-      "score": 3,
-      "comments": 48,
-      "post_id": "t3_1mkjpnv",
-      "post_type": "link",
-      "domain": "youtu.be",
-      "author": "turnquest",
-      "author_id": "t2_gj407",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-08T02:44:31.370000+0000",
-      "content_href": "https://youtu.be/bUsXt8TmVfU?si=TRl_vxNh0irjxSY3&utm_source=MTQxZ",
-      "content_preview": "",
-      "flair": [
-        "Palestine/Israel"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "SB-1047: The Battle For The Future Of AI (2025) [00:30:42]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1mkc0pf/sb1047_the_battle_for_the_future_of_ai_2025_003042/",
-      "score": 0,
-      "comments": 6,
-      "post_id": "t3_1mkc0pf",
-      "post_type": "link",
-      "domain": "youtu.be",
-      "author": "TheInsideView",
-      "author_id": "t2_1qn77trxsc",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-07T21:03:59.417000+0000",
-      "content_href": "https://youtu.be/JQ8zhrsLxhI",
-      "content_preview": "",
-      "flair": [
-        "Innovation/Futurism"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_elf5tr/styles/profileIcon_kgcn5ex6s25f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=0592e21ee27c34c5e83b39666732395e2ea12520"
-    },
-    {
-      "title": "Colorado Experience: Big Thompson Flood (2016) - Compares two catastrophic Colorado floods in the same place 37 years apart and examines how tech and legal changes reduced deaths in the second flood by 93%  [00:56:43]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n2tvua/colorado_experience_big_thompson_flood_2016/",
-      "score": 68,
-      "comments": 5,
-      "post_id": "t3_1n2tvua",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "SnuggleMeister",
-      "author_id": "t2_11zl9e",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-29T01:08:20.327000+0000",
-      "content_href": "https://youtube.com/watch?v=EgqW8vGeO9U&si=8byQf6hgBkOkffVi",
-      "content_preview": "",
-      "flair": [
-        "Disaster"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Hotel Dieu (2025) [29:32] — A Physician’s Perspective during Hurricane Katrina",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n34y6s/hotel_dieu_2025_2932_a_physicians_perspective/",
-      "score": 37,
-      "comments": 4,
-      "post_id": "t3_1n34y6s",
-      "post_type": "link",
-      "domain": "youtu.be",
-      "author": "usernamegameweak",
-      "author_id": "t2_r60dg",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-29T11:33:36.193000+0000",
-      "content_href": "https://youtu.be/Q-feoKOMy2M?si=SDUKl1L6nGZr3zhi",
-      "content_preview": "",
-      "flair": [
-        "Health & Medicine"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_biprh/styles/profileIcon_wogun3too3mf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=1c4c855ef76d8fc109fe100b1201c6d60ab0f5b5"
-    },
-    {
-      "title": "Nicholas Rossi: The fugitive unmasked after years of investigation (2025) [00:24:25]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1ml4fdi/nicholas_rossi_the_fugitive_unmasked_after_years/",
-      "score": 214,
-      "comments": 56,
-      "post_id": "t3_1ml4fdi",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "Single_Pollution_468",
-      "author_id": "t2_15a5papk4s",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-08T19:21:15.098000+0000",
-      "content_href": "https://www.youtube.com/watch?v=NU1FYZBhJFI",
-      "content_preview": "",
-      "flair": [
-        "Crime"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "He Broke the Internet's First Rule. A Global Manhunt. (2025) [10:00]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1mj9chy/he_broke_the_internets_first_rule_a_global/",
-      "score": 0,
-      "comments": 11,
-      "post_id": "t3_1mj9chy",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "MichaelScottRMDM",
-      "author_id": "t2_54q45brj",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-06T16:27:58.765000+0000",
-      "content_href": "https://www.youtube.com/watch?v=yLmjOyXKxM8",
-      "content_preview": "",
-      "flair": [
-        "Crime"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "It’s Bisan: People In Gaza Say They’re In A Squid Game (2025) [11:27]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1mfq6w8/its_bisan_people_in_gaza_say_theyre_in_a_squid/",
-      "score": 211,
-      "comments": 49,
-      "post_id": "t3_1mfq6w8",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "TylerDurden3030",
-      "author_id": "t2_9hfua3hn",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-02T13:11:01.709000+0000",
-      "content_href": "https://www.youtube.com/watch?v=kywuEuvykeI",
-      "content_preview": "",
-      "flair": [
-        "Palestine/Israel"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_3m3t1v/styles/profileIcon_wcdf52kkkfo71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=acec60a4651f9901a31e903e146197f667506985"
-    },
-    {
-      "title": "Recommendation Request: Looking for Documentaries that have Actually Changed your Life",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1mhq56p/recommendation_request_looking_for_documentaries/",
-      "score": 166,
-      "comments": 226,
-      "post_id": "t3_1mhq56p",
-      "post_type": "text",
-      "domain": "self.Documentaries",
-      "author": "wusyuname",
-      "author_id": "t2_6nb3jolyi",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-04T21:20:16.464000+0000",
-      "content_href": "https://www.reddit.com/r/Documentaries/comments/1mhq56p/recommendation_request_looking_for_documentaries/",
-      "content_preview": "",
-      "flair": [
-        "Recommendation Request"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Story On The West Virginia Tower Collapse (2025) [40:41:00]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1me6svo/story_on_the_west_virginia_tower_collapse_2025/",
-      "score": 78,
-      "comments": 3,
-      "post_id": "t3_1me6svo",
-      "post_type": "link",
-      "domain": "youtu.be",
-      "author": "Low_Soil_7655",
-      "author_id": "t2_l5bp0zalm",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-07-31T16:50:21.916000+0000",
-      "content_href": "https://youtu.be/_qU5LGIec9A?si=NI--CTGlYJjS8f8w",
-      "content_preview": "",
-      "flair": [
-        "Media/Journalism"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_bux3d6/styles/profileIcon_9k1bvrk42r9d1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fe3da43a866fce5eeb2daaefdd62ad535447655b"
-    },
-    {
-      "title": "This Israeli Mother Has Made it Her Mission To Block Aid to Starving Babies in Gaza (2025) [05:59]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1md6q4m/this_israeli_mother_has_made_it_her_mission_to/",
-      "score": 3219,
-      "comments": 644,
-      "post_id": "t3_1md6q4m",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "quarterchicken",
-      "author_id": "t2_gaoh9",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-07-30T13:33:20.121000+0000",
-      "content_href": "https://www.youtube.com/watch?v=3YmHUi8TdNc",
-      "content_preview": "",
-      "flair": [
-        "Palestine/Israel"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "[Recommendation request] Documentaries similar to Merpeople on Netflix?",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1myo8wt/recommendation_request_documentaries_similar_to/",
-      "score": 7,
-      "comments": 4,
-      "post_id": "t3_1myo8wt",
-      "post_type": "text",
-      "domain": "self.Documentaries",
-      "author": "BirdLawAssociatesInc",
-      "author_id": "t2_2mkg7ubi",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-24T06:26:45.265000+0000",
-      "content_href": "https://www.reddit.com/r/Documentaries/comments/1myo8wt/recommendation_request_documentaries_similar_to/",
-      "content_preview": "",
-      "flair": [
-        "Recommendation Request"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_rj5qg/styles/profileIcon_tchbz2cblys81.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a15960256a9978dfd10a76288385c8a0d9400de9"
-    },
-    {
-      "title": "Anthony Kiedis: The Cycle of Abuse (2025) - A Documentary About Anthony Kiedis' Life and Sexual Assault Cases (CC) [42:59]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1md8gs0/anthony_kiedis_the_cycle_of_abuse_2025_a/",
-      "score": 334,
-      "comments": 65,
-      "post_id": "t3_1md8gs0",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "Plus-Lock-9686",
-      "author_id": "t2_lngmdtr9c",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-07-30T14:44:02.558000+0000",
-      "content_href": "https://www.youtube.com/watch?v=c30zJ6Dt0Us",
-      "content_preview": "",
-      "flair": [
-        "Music"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Searching for the Standing Boy of Nagasaki (2020) - Forensics of a photograph of a boy carrying on his back his dead younger brother after the atomic bomb [00:50:00]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1mdfnnd/searching_for_the_standing_boy_of_nagasaki_2020/",
-      "score": 42,
-      "comments": 3,
-      "post_id": "t3_1mdfnnd",
-      "post_type": "link",
-      "domain": "nhk.or.jp",
-      "author": "quottttt",
-      "author_id": "t2_8ccjl0qs",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-07-30T19:15:29.053000+0000",
-      "content_href": "https://www3.nhk.or.jp/nhkworld/en/shows/5001311/",
-      "content_preview": "",
-      "flair": [
-        "WW2"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "[Recommendation Request] Documentary that blends animation and live footage seamlessly",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1mxyzlv/recommendation_request_documentary_that_blends/",
-      "score": 2,
-      "comments": 14,
-      "post_id": "t3_1mxyzlv",
-      "post_type": "text",
-      "domain": "self.Documentaries",
-      "author": "Practical_Captain651",
-      "author_id": "t2_6ksgfhlq",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-23T11:29:30.401000+0000",
-      "content_href": "https://www.reddit.com/r/Documentaries/comments/1mxyzlv/recommendation_request_documentary_that_blends/",
-      "content_preview": "",
-      "flair": [
-        "Recommendation Request"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Why CTE is Killing MMA (2023)  - Documentary about the effect that CTE is having on combat sports athletes - [00:46:38]",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1md8kzk/why_cte_is_killing_mma_2023_documentary_about_the/",
-      "score": 22,
-      "comments": 6,
-      "post_id": "t3_1md8kzk",
-      "post_type": "link",
-      "domain": "youtube.com",
-      "author": "icelandiccubicle20",
-      "author_id": "t2_6qi2n2rc",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-07-30T14:48:34.956000+0000",
-      "content_href": "https://www.youtube.com/watch?v=EU4AhFFSlLg",
-      "content_preview": "",
-      "flair": [
-        "Sports"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Recommendation Request: documentary about how our sun formed and other fun facts about it.",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n0kahj/recommendation_request_documentary_about_how_our/",
-      "score": 30,
-      "comments": 14,
-      "post_id": "t3_1n0kahj",
-      "post_type": "text",
-      "domain": "self.Documentaries",
-      "author": "Khajiit_Boner",
-      "author_id": "t2_m45mo3k2",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-26T12:19:47.024000+0000",
-      "content_href": "https://www.reddit.com/r/Documentaries/comments/1n0kahj/recommendation_request_documentary_about_how_our/",
-      "content_preview": "",
-      "flair": [
-        "Recommendation Request"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Recommendation Request: Behind the Scenes of Movie Making",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1mxbymw/recommendation_request_behind_the_scenes_of_movie/",
-      "score": 4,
-      "comments": 7,
-      "post_id": "t3_1mxbymw",
-      "post_type": "text",
-      "domain": "self.Documentaries",
-      "author": "weary_but_cheery",
-      "author_id": "t2_4wmtoqrf",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-22T16:57:15.127000+0000",
-      "content_href": "https://www.reddit.com/r/Documentaries/comments/1mxbymw/recommendation_request_behind_the_scenes_of_movie/",
-      "content_preview": "",
-      "flair": [
-        "Recommendation Request"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Recommendation Request: Good Business Documentaries?",
-      "permalink": "https://www.reddit.com/r/Documentaries/comments/1n2f1mr/recommendation_request_good_business_documentaries/",
-      "score": 10,
-      "comments": 8,
-      "post_id": "t3_1n2f1mr",
-      "post_type": "text",
-      "domain": "self.Documentaries",
-      "author": "alex123711",
-      "author_id": "t2_151bq7xt",
-      "subreddit_id": "t5_2qhlh",
-      "subreddit": "r/Documentaries",
-      "created_ts": "2025-08-28T15:15:49.844000+0000",
-      "content_href": "https://www.reddit.com/r/Documentaries/comments/1n2f1mr/recommendation_request_good_business_documentaries/",
-      "content_preview": "",
-      "flair": [
-        "Recommendation Request"
-      ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
       "title": "THE NVIDIA AI GPU BLACK MARKET | Investigating Smuggling, Corruption, & Governments (2025) [3:29:24]",
       "permalink": "https://www.reddit.com/r/Documentaries/comments/1mu6oo0/the_nvidia_ai_gpu_black_market_investigating/",
-      "score": 158,
+      "score": 159,
       "comments": 59,
       "post_id": "t3_1mu6oo0",
       "post_type": "link",
@@ -1004,8 +1373,91 @@
       "flair": [
         "Tech/Internet"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Shop secondhand Patagonia",
+      "permalink": "https://www.reddit.com/user/PatagoniaWornWear/comments/1k6vkpp/shop_secondhand_patagonia/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1k6vkpp",
+      "post_type": "image",
+      "domain": "wornwear.patagonia.com",
+      "author": "PatagoniaWornWear",
+      "author_id": "t2_1i436peabe",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-04-24T15:48:40.543000+0000",
+      "content_href": "https://wornwear.patagonia.com/?utm_source=reddit&utm_medium=paidsocial&utm_campaign=S25_evergreen_wornwear",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": true
+    },
+    {
+      "title": "The Making of Primal Rage (1994) mini documentary on the production of the classic arcade game [03:34]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1moet1x/the_making_of_primal_rage_1994_mini_documentary/",
+      "score": 120,
+      "comments": 28,
+      "post_id": "t3_1moet1x",
+      "post_type": "link",
+      "domain": "youtube.com",
+      "author": "soalone34",
+      "author_id": "t2_hrenc",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-12T17:18:20.461000+0000",
+      "content_href": "https://www.youtube.com/watch?v=132yf17fiHc",
+      "content_preview": "",
+      "flair": [
+        "Art"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Battle of the Baton Twirlers (1984) - Fishtails, thumbflips, aerials, walkovers and double-illusions - the language of the glittering, esoteric sport of baton twirling [0:37:51]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1mz4gxq/battle_of_the_baton_twirlers_1984_fishtails/",
+      "score": 10,
+      "comments": 3,
+      "post_id": "t3_1mz4gxq",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "nick9000",
+      "author_id": "t2_4br5p",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-24T19:09:18.235000+0000",
+      "content_href": "https://youtu.be/VpzsVX1dvHc",
+      "content_preview": "",
+      "flair": [
+        "20th Century"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "True Stories of Slavery (1965) - Broadway stars Ossie Davis and Ruby Dee and The Voices, Inc. choir perform the true testimony of formerly enslaved men and women, using word and song.[00:29:06]",
+      "permalink": "https://www.reddit.com/r/Documentaries/comments/1myztsj/true_stories_of_slavery_1965_broadway_stars_ossie/",
+      "score": 116,
+      "comments": 7,
+      "post_id": "t3_1myztsj",
+      "post_type": "link",
+      "domain": "youtu.be",
+      "author": "saddetective87",
+      "author_id": "t2_60u61",
+      "subreddit_id": "t5_2qhlh",
+      "subreddit": "r/Documentaries",
+      "created_ts": "2025-08-24T16:15:30.562000+0000",
+      "content_href": "https://youtu.be/sE1dX7FZaT8?si=Gvg9uB4NeKu-aw9h",
+      "content_preview": "",
+      "flair": [
+        "History"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T02:59:03.401979"
+  "scraped_at": "2025-09-05T03:30:38.724074"
 }

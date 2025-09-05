@@ -2,34 +2,299 @@
   "subreddit": "techsupport",
   "url": "https://www.reddit.com/r/techsupport",
   "meta": {
-    "title": "TechSupport"
+    "title": "TechSupport",
+    "description": "Stumped on a tech problem? Ask the community and try to help others with their problems as well.\n\nNote: Reddit is dying due to terrible leadership from CEO /u/spez. Please use our Discord server instead of supporting a company that acts against its users and unpaid moderators.",
+    "subscribers": 3266167,
+    "online_users": 369,
+    "created_timestamp": "2025-09-04T21:32:58.320000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "Community Bookmarks",
+        "content": [
+          {
+            "text": "Discord Live Chat",
+            "url": "https://discord.gg/2EDwzWa"
+          },
+          {
+            "text": "Our Rules!",
+            "url": "https://rtech.support/meta/rules/"
+          },
+          {
+            "text": "Mod Announcements",
+            "url": "https://www.reddit.com/r/techsupport/collection/03f78bb2-dc08-4be3-9d3b-645fe8a98c2f"
+          },
+          {
+            "text": "New Wiki",
+            "url": "https://rtech.support/"
+          },
+          {
+            "text": "Old Reddit Wiki",
+            "url": "https://www.reddit.com/r/techsupport/wiki/index"
+          }
+        ]
+      },
+      {
+        "title": "r/techsupport Rules",
+        "content": [
+          {
+            "text": "https://rtech.support/docs/meta/rules",
+            "url": "https://rtech.support/docs/meta/rules"
+          },
+          {
+            "text": "https://rtech.support/docs/meta/rules",
+            "url": "https://rtech.support/docs/meta/rules"
+          },
+          {
+            "text": "r/TechSupport",
+            "url": "/r/TechSupport/"
+          },
+          {
+            "text": "r/BuildAPC",
+            "url": "/r/BuildAPC/"
+          }
+        ]
+      },
+      {
+        "title": "Check out our Support Wiki",
+        "content": "Check out our , all guides are compiled by our Trusted Techs."
+      },
+      {
+        "title": "Submission Guidelines",
+        "content": "Please include your system specs, such as Windows/Linux/Mac version/build, model numbers, troubleshooting steps, symptoms, etc. The subreddit is only for support with tech issues. Try to research your issue before posting, don't be vague. State everything you have tried and all the guides/tutorials/sites you have followed as well as why they were unsuccessful. Do everything you can to reduce the effort of the wonderful folks offering to help you. After solving your problem, please mark it as solved by clicking 'flair' and confirming the 'solved' tag. Please do not submit the same issue more than once within 24 hours. Check out for our Rules"
+      },
+      {
+        "title": "Please Support the EFF!",
+        "content": "Like our subreddit? Got help? Want to pay it forward? Consider donating to the Electronic Frontier Foundation! They give you stickers!"
+      },
+      {
+        "title": "Other Helpful Subreddits",
+        "content": [
+          {
+            "text": "/r/answers",
+            "url": "http://reddit.com/r/answers"
+          },
+          {
+            "text": "/r/buildapc",
+            "url": "http://reddit.com/r/buildapc"
+          },
+          {
+            "text": "/r/suggestalaptop",
+            "url": "http://reddit.com/r/suggestalaptop"
+          },
+          {
+            "text": "/r/suggestapc",
+            "url": "http://reddit.com/r/suggestapc"
+          },
+          {
+            "text": "/r/homenetworking",
+            "url": "http://reddit.com/r/homenetworking"
+          },
+          {
+            "text": "/r/networking",
+            "url": "http://reddit.com/r/networking"
+          },
+          {
+            "text": "/r/windows",
+            "url": "http://reddit.com/r/windows"
+          },
+          {
+            "text": "/r/itcareerquestions",
+            "url": "http://reddit.com/r/itcareerquestions"
+          },
+          {
+            "text": "/r/talesfromtechsupport",
+            "url": "http://www.reddit.com/r/talesfromtechsupport"
+          },
+          {
+            "text": "/r/techsupportgore",
+            "url": "http://reddit.com/r/techsupportgore"
+          },
+          {
+            "text": "/r/techsupportmacgyver",
+            "url": "http://reddit.com/r/techsupportmacgyver"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/techsupport/moderators/"
+          }
+        ]
+      },
+      {
+        "title": "Installed Apps",
+        "content": [
+          {
+            "text": "Modmail Quick User Summary",
+            "url": "https://developers.reddit.com/apps/modmail-userinfo"
+          },
+          {
+            "text": "Moderator Mentions",
+            "url": "https://developers.reddit.com/apps/mod-mentions"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
-      "title": "PC crashes to black screen during heavy load, and hangs at random points during boot",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n6fbmw/pc_crashes_to_black_screen_during_heavy_load_and/",
-      "score": 1,
-      "comments": 1,
-      "post_id": "t3_1n6fbmw",
+      "title": "Gmail makes no sense...",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n8mvvs/gmail_makes_no_sense/",
+      "score": 47,
+      "comments": 16,
+      "post_id": "t3_1n8mvvs",
       "post_type": "text",
       "domain": "self.techsupport",
-      "author": "SverreFinstad",
-      "author_id": "t2_gtu86",
+      "author": "Im_Behind_Y0u",
+      "author_id": "t2_8qhzbgjf",
       "subreddit_id": "t5_2qioo",
       "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T09:56:11.924000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n6fbmw/pc_crashes_to_black_screen_during_heavy_load_and/",
+      "created_ts": "2025-09-04T21:32:58.320000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n8mvvs/gmail_makes_no_sense/",
+      "content_preview": "Tried to log into my old Gmail. Got the message:\"Couldn't find your Google Account.\"Fine, I thought, I'll just recreate it.Typed in the old name. Got a new message:\"That username is taken.\"So Google says my account doesn't exist, but also that it does. Make it make sense.can anyone help me?",
+      "flair": [
+        "Open | Software"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Chronic delays from devs? Frontegg gives infosec control over CIAM.",
+      "permalink": "https://www.reddit.com/user/FronteggTeam/comments/1kxawvt/chronic_delays_from_devs_frontegg_gives_infosec/",
+      "score": 3,
+      "comments": 0,
+      "post_id": "t3_1kxawvt",
+      "post_type": "image",
+      "domain": "frontegg.com",
+      "author": "FronteggTeam",
+      "author_id": "t2_19gv660nd7",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-05-28T07:21:20.016000+0000",
+      "content_href": "https://www.frontegg.com/?utm_source=reddit&utm_medium=paidsocial&utm_campaign=infosec-us&utm_content=TOFU&Ads-0525-Infosec-Bottlenecks-1B-Reddit-1080x1350",
       "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": true
+    },
+    {
+      "title": "My apartment's ISP is telling me to shift my printer and PCs to a building-wide shared network- and the password is \"password\". Am I crazy to think that's horrible advice?",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1mtogz2/my_apartments_isp_is_telling_me_to_shift_my/",
+      "score": 1277,
+      "comments": 258,
+      "post_id": "t3_1mtogz2",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "wishlish",
+      "author_id": "t2_31oeo",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-08-18T15:00:34.631000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1mtogz2/my_apartments_isp_is_telling_me_to_shift_my/",
+      "content_preview": "I live in an apartment where the internet is supplied by a third-party company. It's part of the rent. They do NOT supply a router, which I'm not a fan of, but I've never had a problem with the ISP until now. We get our own individual network assigned just to the apartment.I have a Brother monochrome laser all-in-one with AirPrint. I've had it for years; it's rock-solid. However, over the last few months, the printer will say it's connected to the network, but none of the PCs, iPhones, or iPads can find it when one of us needs to print, even though all the devices are connected to the same network. After trying to troubleshoot this, and after moving the laser printer everywhere in the apartment, I sent a ticket to the ISP.They had me do some basic troubleshooting, and had me send a Network Status report to them from the printer. That was fine. I was basically thinking that, since WiFi is pretty strong in the apartment, the problem probably lies with the printer, and that I'd need to replace the printer. I'm not opposed to that; I'm in grad school, and my fiancee and I are open to upgrading to a color laser print.However, today I got an email from the ISP stating that the solution is to connect the printer- and all of our computers/iPhones/iPads that need to print- to a public network throughout the building. And that network's password is...\"password\".My response was \"heck no, that's not secure. And these PCs have info for work and school, so we're not going to connect them to a big public network with a password of password.\"And their response was, \"No, it's secure. Totally secure. And the private network you're on can't handle the printer.\" Here's the exact text:\"Unfortunately, we cannot add the printer to your [individual] network, as it is not designed to support devices like printers. The [shared] network is secure and does not allow traffic to traverse between units, so neighbors cannot access your devices in any way. Additionally, the [shared] network uses MAC address–based authentication, so if a device’s MAC address is not verified on the network, it cannot connect even if the password is known.\"This smells like BS to me. I'm not comfortable with this at all. Am I wrong? Should I do this?",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Metal sheet popping out of charger",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n8z8og/metal_sheet_popping_out_of_charger/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1n8z8og",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "CharacterSell6029",
+      "author_id": "t2_137p0fwgu9",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-09-05T08:00:35.240000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n8z8og/metal_sheet_popping_out_of_charger/",
+      "content_preview": "There is a sheet of metal popping out of my Apple Watch charger with gray stuff surrounding it. How do I fix it?? Preferably at home. If not can someone let me know what the problem is and how it was caused",
       "flair": [
         "Open | Hardware"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Mouse clicks only work in one app, not in Windows UI (even after clean reinstall)",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n91khf/mouse_clicks_only_work_in_one_app_not_in_windows/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n91khf",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "Crixor_",
+      "author_id": "t2_lcvs1ipa",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-09-05T10:28:19.521000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n91khf/mouse_clicks_only_work_in_one_app_not_in_windows/",
+      "content_preview": "Hi everyone, I’m facing a super weird issue with my PC and I can’t figure it out. •\tAfter boot, my mouse works for a bit, then suddenly I can only click inside one application (like Chrome). •\tI can’t click on the desktop, taskbar, other apps, or Windows explorer. •\tKeyboard still works everywhere. •\tThe weird thing: the mouse pointer moves fine, and inside that one app (e.g. Chrome) clicks register normally.What I’ve tried so far: •\tClean reinstall of Windows 10/11 from USB (not reset, full reinstall). •\tSafe mode → same issue (mouse only works inside one app). •\tRestarting explorer.exe and DWM (Win + Ctrl + Shift + B) → sometimes brings clicks back for a few seconds. •\tChecked Event Viewer → no GPU/driver crashes logged. •\tTried multiple USB ports. •\tTaskbar sometimes accepts clicks, but rest of UI doesn’t. •\tUsing NVIDIA GTX 1050 Ti with latest drivers.My suspicion: •\tEither a failing GPU (since the issue feels like DWM/desktop compositor losing input), •\tOr something wrong with USB/board handling mouse input.👉 Has anyone ever seen this kind of issue where mouse clicks only work in a single application but not in the Windows UI, even in safe mode after a clean install? Any tips to confirm if it’s hardware (GPU/motherboard/mouse) or some cursed driver bug?Thanks in advance",
+      "flair": [
+        "Open | Windows"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "How to stop my dad from installing AVG antivirus?",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n6o17z/how_to_stop_my_dad_from_installing_avg_antivirus/",
+      "score": 375,
+      "comments": 216,
+      "post_id": "t3_1n6o17z",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "NiceGap5159",
+      "author_id": "t2_1vj2aemz11",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-09-02T16:22:13.199000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n6o17z/how_to_stop_my_dad_from_installing_avg_antivirus/",
+      "content_preview": "Once every few months my dad will call me and tell me his computer is slow.  Everytime I go over there and I clear all the temp files etc and have to uninstall AVG, which is a bit of a pain to totally uninstall clean.  And sure enough him or my uncle who still thinks its 2004 will come over and install it and the whole process starts over again about 5 times now.  Is there a way I can block AVG from downloading or installing?  Maybe through a firewall or something?",
+      "flair": [
+        "Open | Software"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "My computer has continued memory problems and crashes",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n8vpaf/my_computer_has_continued_memory_problems_and/",
+      "score": 3,
+      "comments": 5,
+      "post_id": "t3_1n8vpaf",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "OkSympathy6",
+      "author_id": "t2_5kyx8m4p",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-09-05T04:23:16.893000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n8vpaf/my_computer_has_continued_memory_problems_and/",
+      "content_preview": "I feel like I am out of options at this point like I am genuinely so confused and frustrated. Since about May, I’ve been having what I thought to be memory leaks, so with some parts from a friend, I changed my memory, no change, then I changed out my motherboard, no change, still getting max memory leaks and pc occasionally freezing and crashing. I get so fed up with this that I finally take it to microcenter last month and they tell me that nothing is wrong, genuinely no idea, I have had so many days where I have to restart my pc two or three times, can anyone tell me what’s going on?",
+      "flair": [
+        "Open | Hardware"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "UPDATE: My internet dies at exactly 10:40 every night",
       "permalink": "https://www.reddit.com/r/techsupport/comments/1n1hekb/update_my_internet_dies_at_exactly_1040_every/",
-      "score": 911,
-      "comments": 232,
+      "score": 918,
+      "comments": 234,
       "post_id": "t3_1n1hekb",
       "post_type": "text",
       "domain": "self.techsupport",
@@ -39,76 +304,120 @@
       "subreddit": "r/techsupport",
       "created_ts": "2025-08-27T13:42:24.177000+0000",
       "content_href": "https://www.reddit.com/r/techsupport/comments/1n1hekb/update_my_internet_dies_at_exactly_1040_every/",
-      "content_preview": "",
+      "content_preview": "So, didn't expect my post to get as much traction as it did.",
       "flair": [
         "Open | Networking"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
     },
     {
-      "title": "New Laptop heating up fast",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n6aofc/new_laptop_heating_up_fast/",
-      "score": 3,
-      "comments": 7,
-      "post_id": "t3_1n6aofc",
+      "title": "Help with microstutters",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n8xoej/help_with_microstutters/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n8xoej",
       "post_type": "text",
       "domain": "self.techsupport",
-      "author": "jdangdoggo",
-      "author_id": "t2_1rcldo79oa",
+      "author": "unfinished-senten",
+      "author_id": "t2_11kn9p",
       "subreddit_id": "t5_2qioo",
       "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T04:58:08.606000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n6aofc/new_laptop_heating_up_fast/",
+      "created_ts": "2025-09-05T06:19:09.928000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n8xoej/help_with_microstutters/",
+      "content_preview": "I’ve recently started getting microstutters on my pc both wile playing games and when there are no programs running at all, about a month ago I was having an issue with my pc freezing after about 5 minutes of booting so I had my fans come on sooner for my gpu and the freezing stopped and the microstutters started shortly after. The stutters aren’t consistent they come and go but would like to resolve this issue..should also note that temps look okay but can provide any info",
+      "flair": [
+        "Open | Windows"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Experience personalized fitness with NordicTrack + iFIT. Shop treadmills, bikes, rowers, and more that adapt to you.",
+      "permalink": "https://www.reddit.com/user/NordicTrack_official/comments/1mvw2rw/experience_personalized_fitness_with_nordictrack/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mvw2rw",
+      "post_type": "gallery",
+      "domain": "nordictrack.com",
+      "author": "NordicTrack_official",
+      "author_id": "t2_5ui7e3r6",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-21T00:20:01.994000+0000",
+      "content_href": "https://www.nordictrack.com/product/commercial-2450-treadmill",
       "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_360g6j/styles/profileIcon_eksymxl6kjq51.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=aedb1ee4ae50961b6ec456b2e049532f0a8520a9",
+      "is_promoted": true
+    },
+    {
+      "title": "Selling my PC, is filling the SSD with 0's fine to erase it completely? Will the buyer have problems installing a fresh system?",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n54jur/selling_my_pc_is_filling_the_ssd_with_0s_fine_to/",
+      "score": 260,
+      "comments": 105,
+      "post_id": "t3_1n54jur",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "makos124",
+      "author_id": "t2_et6hl",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-08-31T20:03:16.392000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n54jur/selling_my_pc_is_filling_the_ssd_with_0s_fine_to/",
+      "content_preview": "I have a desktop PC that runs only Linux. I'm selling it, and I want to completely erase the SSD. The PC uses UEFI boot partition to start. Will the buyer be able to install Windows 10 (I assume they'll want to do that) on it if I just fill the drive with 0's? (use theddprogram and/dev/zero)Also, should I do a few passes of zeroing, or is one fine, in case someone wants to snoop around and recover data?",
+      "flair": [
+        "Open | Data Recovery"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
+    },
+    {
+      "title": "My Chromebook suddenly won’t charge properly — could something be wrong with it?",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n8wnqz/my_chromebook_suddenly_wont_charge_properly_could/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1n8wnqz",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "Specialist-Shine8927",
+      "author_id": "t2_13ypthvvvv",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-09-05T05:17:49.711000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n8wnqz/my_chromebook_suddenly_wont_charge_properly_could/",
+      "content_preview": "My Chromebook is only about half a year old, I bought it used but it works great basically brand new, hardly used, no issues except for a cracked screen which was my fault. The crack is mostly at the top and doesn’t really interfere with visuals.Recently I put my laptop on charge and it wouldn’t charge, which I found very odd. I use the original charger that came with it. On my wall socket there are two outlets: in space one, no charge, just a second of blinking orange light next to the USB-C port on the laptop then if would turn off; in space two, the same thing. I also tried two different Android phone USB-C chargers on the same socket, same issue. Then I tried the laptop charger on a different socket in space one, same problem.But on space two of that same socket, I used the Android charger again and it worked, showing slow charging message with a red light, and then I used the laptop charger there and it started charging very slowly, light still red (for a while before turning orange). I honestly don’t know what was happening. It was working perfectly before with no issues.It seems to be working properly now and the light turns orange (it sometimes shows a red light when I put it on charge but it will go to orange) I've also noticed slower charging battery draining a little quicker and the laptop getting hotter as well as the laptop completely shutting of at or below 20 percent.Is it possible that someone may have used a USB killer or some other device to damage the charging somehow, or got hacked? or could this just be a hardware or software issue with the Chromebook? The laptop is on the latest version and I haven't messed around with anything. Thanks",
       "flair": [
         "Open | Hardware"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_by9if2/styles/profileIcon_a94su6jym6nf1.PNG?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8b7e1845617e456e714c8c4d2ebc941e3fcca01d",
+      "is_promoted": false
     },
     {
-      "title": "neighbor stealing wifi — how are they doing it? is there anything else I should do to make it stop?",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1mh3lxt/neighbor_stealing_wifi_how_are_they_doing_it_is/",
-      "score": 602,
-      "comments": 278,
-      "post_id": "t3_1mh3lxt",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "baiturn",
-      "author_id": "t2_4jtcj4d4",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-08-04T04:07:04.573000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1mh3lxt/neighbor_stealing_wifi_how_are_they_doing_it_is/",
-      "content_preview": "",
-      "flair": [
-        "Closed"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Help with Microsoft security please",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n6cp3a/help_with_microsoft_security_please/",
-      "score": 2,
+      "title": "Bizarre audio thing.",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n91jgr/bizarre_audio_thing/",
+      "score": 1,
       "comments": 1,
-      "post_id": "t3_1n6cp3a",
+      "post_id": "t3_1n91jgr",
       "post_type": "text",
       "domain": "self.techsupport",
-      "author": "Zoogles",
-      "author_id": "t2_99x06",
+      "author": "MAL1ARE",
+      "author_id": "t2_qd9cdvqcg",
       "subreddit_id": "t5_2qioo",
       "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T07:03:03.867000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n6cp3a/help_with_microsoft_security_please/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T10:26:38.194000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n91jgr/bizarre_audio_thing/",
+      "content_preview": "Let me preface this by saying that I have no idea if this is actually a virus/malware/whatever, and I might just be an tech-illiterate moron and this is something very simple and a non-issue, idk.I also don't really have anything to show cause the only thing I can use as evidence are videos which aren't allowed, apparently.This started back in 2023 with a completely different computer, some crappy Acer gaming laptop. At random, usually if I was idling for whatever reason, audio from an unknown source would begin to play. With the laptop, this audio was like if I was in a call with someone and their mic was left on, white noise but with occasional sounds as if picking up random household noise, maybe with a couple random sounds here and there but nothing I can typically pin down, like voices. There were a few instances but I only have one recorded, which has a loud thud sound as if something was knocked over. In all of these cases, the audio would eventually abruptly stop without fanfare.Cut to today, where I have had this new computer for a little over a year now. Within the past couple of weeks there was an instance where I thought I heard some weird beep, but wasn't entirely sure about it until now. As of earlier today, a similar thing happened, but instead of the audio being like someone's mic was left on and I was hearing it somehow, it was music, played crystal clear as if I had something normal playing music on my computer (In fact I looked around at first to see if I somehow had a game open, but didn't). It was some fairly generic orchestral horn music, like you'd hear as ambient music in a game or something, but while I started looking around, the music abruptly cut itself off with a car honk sound effect.I know this sounds like some stupid meme shit or utter nonsense but honest to God, that is what happened. I really wish this sub allowed videos cause I feel like I need an example and even then I wouldn't be surprised if people assumed it was fake and edited.As for non-audio stuff, I got nothing. Nothing ever appears on my screen, I've never had any accounts compromised, I've never had anything pointing to a mining program or anything using resources, never had \"Huh my computer seems to be having a harder time doing things\", NOTHING. I have absolutely nothing to go off of besides the audio.If it matters, I have had Bluetooth on when each of these happened (I think one of the instances had me with my headphones plugged in, but it was so long ago I can't remember for sure), but as far as I can tell, There was never any indication that a Bluetooth connection was the cause. I can't rule it out, but I also don't have evidence for it.And of course, yes I have run a few of the usually recommended AV/AM tools and they turned up nothing.Sorry for the lengthy post, I've already asked around a ton and get met with equal amounts of confusion and I at the very least just wanna know what the deal is and put this question to rest. I'm posting this here out of sheer not knowing what else to do. Of course I can try factory resetting my computer, but naturally I would ideally prefer to not go through all the setup and shit all over again, plus with out random this is, it could not fix the issue and I might not know for a long time, maybe years.",
       "flair": [
-        "Open | Software"
+        "Open | Windows"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
       "title": "Cell phone is practically unusable when neighborhood school goes into session",
       "permalink": "https://www.reddit.com/r/techsupport/comments/1n0bp56/cell_phone_is_practically_unusable_when/",
-      "score": 685,
+      "score": 686,
       "comments": 184,
       "post_id": "t3_1n0bp56",
       "post_type": "text",
@@ -119,276 +428,38 @@
       "subreddit": "r/techsupport",
       "created_ts": "2025-08-26T03:47:59.779000+0000",
       "content_href": "https://www.reddit.com/r/techsupport/comments/1n0bp56/cell_phone_is_practically_unusable_when/",
-      "content_preview": "",
+      "content_preview": "Ive lived right nextdoor to an elementary school for 5 years. I have great data speeds during the summer, but once school goes back in session they're ridiculously slow. I can't watch videos, sites take ages to load, etc. The first few years I chocked the changes to getting new phone, SIM card, dropping my phone, all kinds of reasons, but once I realized my data speeds drop off a cliff a week before school opens, and is awesome once June rolls around, it has to be something to do with the school.It doesn't matter if it's the middle of the day or 2am, my phone is nearly unusable when school is open.Is this normal? Is there something that Verizon needs to fiddle with to correct it? Is the school running some sort of cell phone blocker? Is it safe to live here?My kid just started going to school there and there is zero phone service inside the building. We don't have home Internet. My boyfriend has a different cell service and his speeds drop as well, but not quite as terribly as mine does.",
       "flair": [
         "Open | Phone"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
     },
     {
-      "title": "Help with laptop",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n66628/help_with_laptop/",
-      "score": 5,
-      "comments": 4,
-      "post_id": "t3_1n66628",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "Suspicious-Gate86",
-      "author_id": "t2_hf2rge8tc",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T01:05:58.438000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n66628/help_with_laptop/",
-      "content_preview": "",
-      "flair": [
-        "Open | Hardware"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "plz i need help",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n6f7se/plz_i_need_help/",
-      "score": 1,
-      "comments": 3,
-      "post_id": "t3_1n6f7se",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "Loud_Celery5211",
-      "author_id": "t2_eipimgc5",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T09:49:18.206000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n6f7se/plz_i_need_help/",
-      "content_preview": "",
-      "flair": [
-        "Open | Malware"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "My mom unplugged our familial computer, thinking it was turned off, while it was actually running a 'chkdsk /f /r' analysis. How much are we coocked and what can we do ?",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1mp2g0k/my_mom_unplugged_our_familial_computer_thinking/",
-      "score": 517,
-      "comments": 163,
-      "post_id": "t3_1mp2g0k",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "Truck_Informal",
-      "author_id": "t2_949vguj8",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-08-13T11:59:09.012000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1mp2g0k/my_mom_unplugged_our_familial_computer_thinking/",
-      "content_preview": "",
-      "flair": [
-        "Solved"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "New Laptop Acts Strangely After Boot",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n667xe/new_laptop_acts_strangely_after_boot/",
-      "score": 4,
-      "comments": 2,
-      "post_id": "t3_1n667xe",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "BlueAnise",
-      "author_id": "t2_cd6sby4a",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T01:08:31.212000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n667xe/new_laptop_acts_strangely_after_boot/",
-      "content_preview": "",
-      "flair": [
-        "Open | Software"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_4hqg0a/styles/profileIcon_cp5bjfsqko171.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f5aaff3c02aac6720c369323ae2cb2d2e6415540"
-    },
-    {
-      "title": "Someone made a gmail using my full name and birthday and put my actual email as a recovery email",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n24i3o/someone_made_a_gmail_using_my_full_name_and/",
-      "score": 209,
-      "comments": 44,
-      "post_id": "t3_1n24i3o",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "introangel",
-      "author_id": "t2_imkqssyg",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-08-28T06:07:12.254000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n24i3o/someone_made_a_gmail_using_my_full_name_and/",
-      "content_preview": "",
-      "flair": [
-        "Open | Phone"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "On startup, Screen flashes on and off constantly",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n667vw/on_startup_screen_flashes_on_and_off_constantly/",
-      "score": 4,
-      "comments": 0,
-      "post_id": "t3_1n667vw",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "MavSynchroid10",
-      "author_id": "t2_psqz6",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T01:08:27.624000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n667vw/on_startup_screen_flashes_on_and_off_constantly/",
-      "content_preview": "",
-      "flair": [
-        "Open | Hardware"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Selling my PC, is filling the SSD with 0's fine to erase it completely? Will the buyer have problems installing a fresh system?",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n54jur/selling_my_pc_is_filling_the_ssd_with_0s_fine_to/",
-      "score": 204,
-      "comments": 100,
-      "post_id": "t3_1n54jur",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "makos124",
-      "author_id": "t2_et6hl",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-08-31T20:03:16.392000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n54jur/selling_my_pc_is_filling_the_ssd_with_0s_fine_to/",
-      "content_preview": "",
-      "flair": [
-        "Open | Data Recovery"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "Windows 11 feel a liiiiiiitle sluggish compared to 10",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n64qb3/windows_11_feel_a_liiiiiiitle_sluggish_compared/",
-      "score": 4,
-      "comments": 8,
-      "post_id": "t3_1n64qb3",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "Puzzleheaded_Bad4734",
-      "author_id": "t2_5fy2woxi",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-09-01T23:58:03.176000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n64qb3/windows_11_feel_a_liiiiiiitle_sluggish_compared/",
-      "content_preview": "",
-      "flair": [
-        "Open | Software"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Getting emails meant for someone with a dot in my Gmail — should I be worried they can read mine?",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1mo39ya/getting_emails_meant_for_someone_with_a_dot_in_my/",
-      "score": 487,
-      "comments": 248,
-      "post_id": "t3_1mo39ya",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "Japiho",
-      "author_id": "t2_67f97132",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-08-12T08:39:14.862000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1mo39ya/getting_emails_meant_for_someone_with_a_dot_in_my/",
-      "content_preview": "",
-      "flair": [
-        "Open | Networking"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_37c9cv/styles/profileIcon_wreip5d2h19f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b6430f40210b6daf260d14d3fb02c563eae61c70"
-    },
-    {
-      "title": "Nude photo was saved in the company computer",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n07szh/nude_photo_was_saved_in_the_company_computer/",
-      "score": 203,
-      "comments": 35,
-      "post_id": "t3_1n07szh",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "TopSprinkles6097",
-      "author_id": "t2_8fjt0z2ne",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-08-26T00:41:03.331000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n07szh/nude_photo_was_saved_in_the_company_computer/",
-      "content_preview": "",
-      "flair": [
-        "Open | Windows"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Computer Stuck Installing Windows!!!!",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n66gle/computer_stuck_installing_windows/",
-      "score": 3,
-      "comments": 6,
-      "post_id": "t3_1n66gle",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "Valuable-Cow2924",
-      "author_id": "t2_bumf27bj5",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T01:20:34.708000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n66gle/computer_stuck_installing_windows/",
-      "content_preview": "",
-      "flair": [
-        "Open | Windows"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "how can i reset my samsung phone’s pattern without having to factory reset",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n6f3lu/how_can_i_reset_my_samsung_phones_pattern_without/",
-      "score": 1,
+      "title": "“D” symbol",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n8wjuz/d_symbol/",
+      "score": 2,
       "comments": 1,
-      "post_id": "t3_1n6f3lu",
+      "post_id": "t3_1n8wjuz",
       "post_type": "text",
       "domain": "self.techsupport",
-      "author": "Madmaxdaman29",
-      "author_id": "t2_8onw43j6",
+      "author": "Extension-Hat-5161",
+      "author_id": "t2_bff1y4j2",
       "subreddit_id": "t5_2qioo",
       "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T09:41:56.174000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n6f3lu/how_can_i_reset_my_samsung_phones_pattern_without/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T05:11:25.329000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n8wjuz/d_symbol/",
+      "content_preview": "I recently upgraded from an Iphone 12 mini to a Iphone 15. This ‘’D’’ symbol appears next to calls and texts, sometimes. There are a few people who it appears 24/7, on wifi or not. (they have an android, not sure if it matters or not). I am looking to see what this is, since google cannot give me a definite answer. TIA!!!",
       "flair": [
         "Open | Phone"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "My internet dies at exactly 10:40pm every night",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1myd51w/my_internet_dies_at_exactly_1040pm_every_night/",
-      "score": 433,
-      "comments": 230,
-      "post_id": "t3_1myd51w",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "WillingnessRoyal9448",
-      "author_id": "t2_1qut8i3gym",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-08-23T21:10:01.698000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1myd51w/my_internet_dies_at_exactly_1040pm_every_night/",
-      "content_preview": "",
-      "flair": [
-        "Open | Networking"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
     },
     {
       "title": "I gave my phone unlocked to a phone repair shop and received an attempted login request later - how screwed am I?",
       "permalink": "https://www.reddit.com/r/techsupport/comments/1n4cwuc/i_gave_my_phone_unlocked_to_a_phone_repair_shop/",
-      "score": 120,
+      "score": 125,
       "comments": 48,
       "post_id": "t3_1n4cwuc",
       "post_type": "text",
@@ -399,37 +470,58 @@
       "subreddit": "r/techsupport",
       "created_ts": "2025-08-30T21:19:59.190000+0000",
       "content_href": "https://www.reddit.com/r/techsupport/comments/1n4cwuc/i_gave_my_phone_unlocked_to_a_phone_repair_shop/",
-      "content_preview": "",
+      "content_preview": "I had a battery problem with my phone and it needed to be replaced immediately. I gave my phone to a phone repair shop just before closing and they took it for a night. It was a very well rated shop. They asked for my passcode and I gave it to them because they said they needed it. I was also really tired because it's the first day pf my holiday and I'm jetlagged.The next morning, I got the phone back and shortly after, I received an attempted login notification to my Amazon account. I realised that the shop could have accessed all my passwords and personal information. I'm now panicking really badly. What do I do? I feel I have ruined my life...",
       "flair": [
         "Open | Software"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "Someone hacked my friends phone using an application called Flashget kids.",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1mzrvpf/someone_hacked_my_friends_phone_using_an/",
-      "score": 299,
-      "comments": 82,
-      "post_id": "t3_1mzrvpf",
+      "title": "2 windows 10 computers suddenly incredibly slow",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n8vvin/2_windows_10_computers_suddenly_incredibly_slow/",
+      "score": 2,
+      "comments": 2,
+      "post_id": "t3_1n8vvin",
       "post_type": "text",
       "domain": "self.techsupport",
-      "author": "anonymouspot8",
-      "author_id": "t2_55m49lpn",
+      "author": "Creepyfishwoman",
+      "author_id": "t2_sdqr5lv1",
       "subreddit_id": "t5_2qioo",
       "subreddit": "r/techsupport",
-      "created_ts": "2025-08-25T14:23:53.372000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1mzrvpf/someone_hacked_my_friends_phone_using_an/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T04:33:01.569000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n8vvin/2_windows_10_computers_suddenly_incredibly_slow/",
+      "content_preview": "Seemingly at random, both my windows 10 pc and laptop have become incredibly slow, as in taking double digit seconds to open the windows bar after pressing the windows key. Didnt download anything sus, no windows updates, nothing i can tell being the cause.Neither are maxxing out any resources, cpu, ram, disk, and gpu utilization idle in around the teen percent range.I tried resetting my laptop, but the factory reset button just wasnt there.Any ideas? I have no clue how this could have happened to both of my computers now.EDIT: Apparently my pc takes 10 seconds to realize that i pressed the windows key but can smoothly run helldivers 2. Im thinking this is an issue with windows.",
       "flair": [
-        "Open | Phone"
+        "Open | Windows"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://styles.redditmedia.com/t5_70pxlz/styles/profileIcon_wh5cf211f4n91.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2af82586c51c1e8e18dd2290e926bb1ac9810783",
+      "is_promoted": false
+    },
+    {
+      "title": "There's no impact on your personal credit score to learn if you're approved for a Card. Terms apply.",
+      "permalink": "https://www.reddit.com/user/AmexBusiness/comments/1ld63uv/theres_no_impact_on_your_personal_credit_score_to/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1ld63uv",
+      "post_type": "image",
+      "domain": "americanexpress.com",
+      "author": "AmexBusiness",
+      "author_id": "t2_d9kcz745",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-06-16T22:01:27.922000+0000",
+      "content_href": "https://ad.doubleclick.net/ddm/trackclk/N553.131843REDDITINC/B32545608.415526539;dc_trk_aid=608081617;dc_trk_cid=221177225;dc_lat=;dc_rdid={{ADVERTISING_ID}};tag_for_child_directed_treatment=;tfua=;;dc_tdv=1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4qxpjj/styles/profileIcon_05t28pk80t491.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=dbf2be997a53f0075d5070c34ed9ef3c177733d1",
+      "is_promoted": true
     },
     {
       "title": "Phone is being monitored",
       "permalink": "https://www.reddit.com/r/techsupport/comments/1n3iwpq/phone_is_being_monitored/",
-      "score": 93,
-      "comments": 97,
+      "score": 96,
+      "comments": 102,
       "post_id": "t3_1n3iwpq",
       "post_type": "text",
       "domain": "self.techsupport",
@@ -439,191 +531,199 @@
       "subreddit": "r/techsupport",
       "created_ts": "2025-08-29T20:51:54.660000+0000",
       "content_href": "https://www.reddit.com/r/techsupport/comments/1n3iwpq/phone_is_being_monitored/",
-      "content_preview": "",
+      "content_preview": "Hey there. I am a 20M from India and my girlfriend’s parents claim to have found out about everything we talk about. They say that they have access to both the phone and laptop. How could that happen? They told about the topics we have talked over whatsapp, a photo we took together which only we both know of. I don’t understand how this happen. Please suggest from now on how can we communicate without getting watched over and what was the probable reason? Could it be a parental lock?",
       "flair": [
         "Open | Phone"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "Brisanet Router Blocking WPS",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n666y9/brisanet_router_blocking_wps/",
-      "score": 3,
-      "comments": 0,
-      "post_id": "t3_1n666y9",
+      "title": "Critical process died, reboots to BIOS with no boot drive.",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n8vv1b/critical_process_died_reboots_to_bios_with_no/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1n8vv1b",
       "post_type": "text",
       "domain": "self.techsupport",
-      "author": "ProfessionalSalad414",
-      "author_id": "t2_1r1i0h4w7w",
+      "author": "Oh_my_captain",
+      "author_id": "t2_aabat89",
       "subreddit_id": "t5_2qioo",
       "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T01:07:13.532000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n666y9/brisanet_router_blocking_wps/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T04:32:15.424000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n8vv1b/critical_process_died_reboots_to_bios_with_no/",
+      "content_preview": "Bit of a head scratcher here, I’m pretty knowledgeable when it comes to PCs but this one has me stumped.Built a new PC a few months ago and not long into its new life it would randomly crash with a critical process died error and no extra info in event viewer.After it crashes, it reboots into BIOS with no boot drive found. If I just simply turn it off and back on it boots like normal. This happens regularly (a few times a week).I’ve run checks on windows, reinstalled drivers, updated firmware for the drive and it still happens. It’s a Samsung drive and I’ve used the magic wizard to check drive health (even the hours long diagnostics) and functionality which found no issues either.Obviously the BIOS not finding the drive makes me think hardware issue with the drive or drive slot - but just a simple reboot of the PC resolves it which is very strange.Any thoughts?",
       "flair": [
         "Open | Hardware"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
-      "title": "My grandmas tv keeps closing on its own and she can’t live without her soap opera…",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n2h2ly/my_grandmas_tv_keeps_closing_on_its_own_and_she/",
-      "score": 73,
-      "comments": 74,
-      "post_id": "t3_1n2h2ly",
+      "title": "neighbor stealing wifi — how are they doing it? is there anything else I should do to make it stop?",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1mh3lxt/neighbor_stealing_wifi_how_are_they_doing_it_is/",
+      "score": 602,
+      "comments": 279,
+      "post_id": "t3_1mh3lxt",
       "post_type": "text",
       "domain": "self.techsupport",
-      "author": "gigibbSOS",
-      "author_id": "t2_h1brkwm2",
+      "author": "baiturn",
+      "author_id": "t2_4jtcj4d4",
       "subreddit_id": "t5_2qioo",
       "subreddit": "r/techsupport",
-      "created_ts": "2025-08-28T16:31:49.485000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n2h2ly/my_grandmas_tv_keeps_closing_on_its_own_and_she/",
-      "content_preview": "",
+      "created_ts": "2025-08-04T04:07:04.573000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1mh3lxt/neighbor_stealing_wifi_how_are_they_doing_it_is/",
+      "content_preview": "I live in an apartment building. Tonight I got a notification from Xfinity that a device was added. I went in and looked and there were a few (2-3) devices on that weren’t mine. I kicked them all off, but 30ish minutes later they were all back on my network and more. I kicked them off again, changed the password, changed the wifi name, and set it to a hidden network. 1 hour later, all 12 of their devices were back. Both the initial password and the changed password were random numbers, letters, and symbols. The initial name was my apartment number, but when I changed it I also called it something random.I called support and they’re sending me a new modem so I hope that’ll fix the issue. In the meantime, I left the devices “on” the network but paused them all because the above obviously wasn’t doing anything.Is there anything else I can do to make sure they don’t have access? Any ideas how they’re managing to get on in the first place? Any thoughts or advice would be appreciated! I’m not tech savvy and couldn’t find much by googling.UPDATE: Thanks everyone for your thoughts and advice! What I have done so far and some more info - it’s set to WPA2; WPA3 is not available on this modem but it might be on the new one that’s coming. I changed both the router password and wifi password, and changed the name again. I made sure that Xfinity’s public hotspot was off, and double checked that WPS was off too (it was). Their TVs popped back on almost instantly, nothing else has as of now. I am positive that they aren’t my devices; MAC addresses are different, pausing access on theirs doesn’t pause it on mine, and there are things connected that I do not own. They’re also showing up under the list of “my devices,” so they’re not just devices that are in proximity or trying to connect… they are connected. Nothing is hardwired to the modem. No one has been in my apartment besides myself, my best friend, and my family, and I never leave the door unlocked so there is a low chance someone had physical access outside of the maintenance man. I’ll update again when I get the new modem and if I do anything else… I have it on my todo list to figure out how to whitelist MAC addresses, though based on some comments with spoofing I don’t know that this would be successful. Thanks again!",
       "flair": [
-        "Open | Hardware"
+        "Closed"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_5epgc0/styles/profileIcon_4chatzoqsyu91.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=7b11d6a259b271f8101a87c84db3dbf4e5017e5d"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "Brothers PC got hacked",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1mj02g9/brothers_pc_got_hacked/",
-      "score": 191,
-      "comments": 85,
-      "post_id": "t3_1mj02g9",
+      "title": "Someone is using my email to have an affair and send hate mail. How to fix?",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n5vhkg/someone_is_using_my_email_to_have_an_affair_and/",
+      "score": 77,
+      "comments": 23,
+      "post_id": "t3_1n5vhkg",
       "post_type": "text",
       "domain": "self.techsupport",
-      "author": "AlternativeIron51",
-      "author_id": "t2_ub9gv1jz",
+      "author": "Afraid-Individual473",
+      "author_id": "t2_ms4xdlru",
       "subreddit_id": "t5_2qioo",
       "subreddit": "r/techsupport",
-      "created_ts": "2025-08-06T09:31:25.268000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1mj02g9/brothers_pc_got_hacked/",
-      "content_preview": "",
+      "created_ts": "2025-09-01T17:46:16.672000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n5vhkg/someone_is_using_my_email_to_have_an_affair_and/",
+      "content_preview": "I’ve had my gmail address since 2016 and never really paid it much attention, it’s just what I send junk mail to really but someone else has also been using it and even tried to log me out of my eBay account and change my address on there.I have changed my password obviously but she’s still managed to change my eBay details to Canada (I live in the UK) how is this possible that we have the same email address?She’s sent some vile emails to people including death threats and was sending naked pictures to men on gumtree whilst simultaneously arranging stuff for her husbands birthday. I really don’t want to be associated with her. Weird that she’s put her address into MY eBay account though as now I have her address 🤷‍♀️",
       "flair": [
         "Open | Software"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "New Acer Helios Neo 16S Ai Crashing",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n664xv/new_acer_helios_neo_16s_ai_crashing/",
-      "score": 3,
-      "comments": 0,
-      "post_id": "t3_1n664xv",
+      "title": "Windows Screen Recording",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n8vm2d/windows_screen_recording/",
+      "score": 2,
+      "comments": 3,
+      "post_id": "t3_1n8vm2d",
       "post_type": "text",
       "domain": "self.techsupport",
-      "author": "CodeBest",
-      "author_id": "t2_7kb4ygwj",
+      "author": "Fresh-Status-8438",
+      "author_id": "t2_fsu56jzc",
       "subreddit_id": "t5_2qioo",
       "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T01:04:28.400000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n664xv/new_acer_helios_neo_16s_ai_crashing/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T04:18:29.265000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n8vm2d/windows_screen_recording/",
+      "content_preview": "Hi, is there a way to record everything in windows screen recorder instead of just one app? I want to be able to record audio from multiple apps at the same time, like audio from a discord call and a video game at the same time.",
       "flair": [
         "Open | Windows"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5rk4wf/styles/profileIcon_cj2xc4qlcq691.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d076885c319d3f88f8dbda92aa1d8ad66effdd3b",
+      "is_promoted": false
     },
     {
-      "title": "Did a vendor install a cryptocoin mining rig on our network?",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n0vnyr/did_a_vendor_install_a_cryptocoin_mining_rig_on/",
-      "score": 67,
-      "comments": 13,
-      "post_id": "t3_1n0vnyr",
-      "post_type": "multi_media",
-      "domain": "self.techsupport",
-      "author": "Chance_Noise500",
-      "author_id": "t2_hqwposahs",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-08-26T19:40:44.096000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n0vnyr/did_a_vendor_install_a_cryptocoin_mining_rig_on/",
-      "content_preview": "",
-      "flair": [
-        "Open | Hardware"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Microsoft Authenticator - Adding Personal Email for Backup",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n68gcq/microsoft_authenticator_adding_personal_email_for/",
-      "score": 2,
-      "comments": 9,
-      "post_id": "t3_1n68gcq",
+      "title": "My ISP blocked all torrents",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n91cxz/my_isp_blocked_all_torrents/",
+      "score": 4,
+      "comments": 7,
+      "post_id": "t3_1n91cxz",
       "post_type": "text",
       "domain": "self.techsupport",
-      "author": "amg359",
-      "author_id": "t2_k5yi9dzp",
+      "author": "ElPremOoO",
+      "author_id": "t2_1232ptfg3x",
       "subreddit_id": "t5_2qioo",
       "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T02:58:25.184000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n68gcq/microsoft_authenticator_adding_personal_email_for/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T10:16:08.359000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n91cxz/my_isp_blocked_all_torrents/",
+      "content_preview": "IDK how, but my ISP blocked downloading anything using torrents, even a vpn can't solve this issue. So, I want to know how my ISP did this. Isn't torrenting use a peer-to-peer network? And how can I use torrents again?",
       "flair": [
         "Open | Software"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "Windows 10 BSOD nightmare",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n65a0p/windows_10_bsod_nightmare/",
+      "title": "What button did this?",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n91afh/what_button_did_this/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n91afh",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "4cit",
+      "author_id": "t2_rfxbige2",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-09-05T10:12:04.481000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n91afh/what_button_did_this/",
+      "content_preview": "In the top right of my screen, it shows:FPS N/A | GPU 0% | CPU 1% | LAT N/AHow do i turn this off?",
+      "flair": [
+        "Open | Windows"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6y5uu6/styles/profileIcon_x0avf06lypnd1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=867ff05a1438c679a9435e23bc0df9db0cfb0993",
+      "is_promoted": false
+    },
+    {
+      "title": "DYK you can customize Chrome for your company? Apply the browser controls your business needs with Chrome Enterprise.",
+      "permalink": "https://www.reddit.com/user/ChromeEnterprise/comments/1m3ahua/dyk_you_can_customize_chrome_for_your_company/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1m3ahua",
+      "post_type": "video",
+      "domain": "chromeenterprise.google",
+      "author": "ChromeEnterprise",
+      "author_id": "t2_kpprh9mc",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-18T18:45:29.434000+0000",
+      "content_href": "https://v.redd.it/6nsf6dn20ndf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_6bem8z/styles/profileIcon_d66g8xt8gobf1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=873b4fb3c4d9e1366728805b4228239c5e004340",
+      "is_promoted": true
+    },
+    {
+      "title": "how to stop windows 11 to force me onedrive down my throat?",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n6c9qz/how_to_stop_windows_11_to_force_me_onedrive_down/",
+      "score": 74,
+      "comments": 59,
+      "post_id": "t3_1n6c9qz",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "Lailamuller",
+      "author_id": "t2_6o9l4p9z",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-09-02T06:34:53.121000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n6c9qz/how_to_stop_windows_11_to_force_me_onedrive_down/",
+      "content_preview": "I dont want one drive and i dont need it, it just makes duplicates of everything on my pc, since i upgraded to windows 11 is being nagging me to do this, how to stop it ? and get rid of one drive notifications that come forcing you to seting up when windows start like one more step?",
+      "flair": [
+        "Open | Software"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "My pc won't boot up any games",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n8s6d8/my_pc_wont_boot_up_any_games/",
       "score": 3,
-      "comments": 3,
-      "post_id": "t3_1n65a0p",
+      "comments": 6,
+      "post_id": "t3_1n8s6d8",
       "post_type": "text",
       "domain": "self.techsupport",
-      "author": "SpecificGuy",
-      "author_id": "t2_lhr82rn",
+      "author": "MindSuccessful9971",
+      "author_id": "t2_1semvs26fc",
       "subreddit_id": "t5_2qioo",
       "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T00:23:44.691000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n65a0p/windows_10_bsod_nightmare/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T01:26:58.239000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n8s6d8/my_pc_wont_boot_up_any_games/",
+      "content_preview": "I have a rtx 4070, a 12th gen i5-12004f, and 32  gigs of ramwhen ever i try booting a game it gives me a memory leak error, even though ive tryed everything out side of opening up the pc (the ram is glued on) what do i do",
       "flair": [
-        "Open | Windows"
+        "Open | Hardware"
       ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Task manager crashingmyPC when opened simultaneously with games or other softwares",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n67icu/task_manager_crashingmypc_when_opened/",
-      "score": 2,
-      "comments": 3,
-      "post_id": "t3_1n67icu",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "Serious_Ad_2844",
-      "author_id": "t2_b3ej4dirv",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T02:11:10.481000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n67icu/task_manager_crashingmypc_when_opened/",
-      "content_preview": "",
-      "flair": [
-        "Open | Windows"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_8e13hw/styles/profileIcon_n1tyvjnr31rc1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=878cc3048cf718536b7a3d1c34d16aeddd4f43da"
-    },
-    {
-      "title": "I deleted my deceased friend's last photo",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1mxf3tl/i_deleted_my_deceased_friends_last_photo/",
-      "score": 137,
-      "comments": 33,
-      "post_id": "t3_1mxf3tl",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "DemonL0ver",
-      "author_id": "t2_1cgqdhmr6z",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-08-22T18:56:01.948000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1mxf3tl/i_deleted_my_deceased_friends_last_photo/",
-      "content_preview": "",
-      "flair": [
-        "Open | Data Recovery"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_cui9i4/styles/profileIcon_pbwm8jhmrn4f1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f33fab7853e478f9370dd018a27f6fae480d45c2"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
       "title": "Windows 11 forced update",
@@ -639,217 +739,455 @@
       "subreddit": "r/techsupport",
       "created_ts": "2025-08-29T01:04:21.394000+0000",
       "content_href": "https://www.reddit.com/r/techsupport/comments/1n2tsvj/windows_11_forced_update/",
-      "content_preview": "",
+      "content_preview": "Hi everyone. I have a Nitro gaming laptop that has been my baby for just over 4 years now. It has had Windows 10 - until this morning.This morning when I turned it on to work on some files, my screen wouldnt come on, and then suddenly, my laptop restarted and started installing updates. When it was done, only one profile remained - my husbands, as he was on it last. Mine and my son's are gone. My son's is lesser of an issue, but my profile had all of my school stuff and files for gaming, work, school, home, as well as pictures that I dont know if they were backed up - i tried to keep up on that but I dont know if I had because I hadn't been on it for a few weeks (under my profile anyway)We've checked for profiles maybe not being turned on and in temporary users... its just my husbands.  I'm so upset that it just completely upgraded my windows (which i didn't want) and now my files seem to be gone as well.I thank you all.Please tell me there is a way to restore my profile and files!",
       "flair": [
         "Open | Windows"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
-      "title": "turning on Secure Boot to play Battlefield 6 bricked my PC.",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1mm3c7d/turning_on_secure_boot_to_play_battlefield_6/",
-      "score": 133,
-      "comments": 127,
-      "post_id": "t3_1mm3c7d",
+      "title": "Can’t play any games :(",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n8uuum/cant_play_any_games/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n8uuum",
       "post_type": "text",
       "domain": "self.techsupport",
-      "author": "Ashamed_Project_5428",
-      "author_id": "t2_7ml0mv2v",
+      "author": "Certain_Donkey_7979",
+      "author_id": "t2_eck5me65",
       "subreddit_id": "t5_2qioo",
       "subreddit": "r/techsupport",
-      "created_ts": "2025-08-09T23:22:42.253000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1mm3c7d/turning_on_secure_boot_to_play_battlefield_6/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T03:38:45.693000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n8uuum/cant_play_any_games/",
+      "content_preview": "Hi, I have this problem with my gaming laptop it won’t let me play any games without it either lagging or crashing. It also makes my signal really bad whenever I’m in a discord call, this has never happened before and I play on a windows 10 and every game has been working fine on it until I factory reset the computer. I’ve tried updating my drivers but it doesn’t change anything. I don’t know what I did to make it this way but I’d be really grateful if someone knows how to fix it.All the games that used worked but doesn’t now: Valorant Minecraft Roblox Lethal company Peak",
       "flair": [
-        "Open | Hardware"
+        "Open | Windows"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4zyp3r/styles/profileIcon_hkhgqtzx48nf1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=2dbbcc105e33e416e1340f2243678a61c35c14ea",
+      "is_promoted": false
     },
     {
-      "title": "How do I remove all the space taken up by mails",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n6f3f2/how_do_i_remove_all_the_space_taken_up_by_mails/",
-      "score": 1,
+      "title": "How do I fix this",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n8uisx/how_do_i_fix_this/",
+      "score": 2,
       "comments": 1,
-      "post_id": "t3_1n6f3f2",
-      "post_type": "multi_media",
-      "domain": "self.techsupport",
-      "author": "Strict_Efficiency_30",
-      "author_id": "t2_u37fhnii",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T09:41:34.610000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n6f3f2/how_do_i_remove_all_the_space_taken_up_by_mails/",
-      "content_preview": "",
-      "flair": [
-        "Open | Windows"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "problem with installing windows 11",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n67bhg/problem_with_installing_windows_11/",
-      "score": 2,
-      "comments": 2,
-      "post_id": "t3_1n67bhg",
+      "post_id": "t3_1n8uisx",
       "post_type": "text",
       "domain": "self.techsupport",
-      "author": "Better-Campaign-9929",
-      "author_id": "t2_10za6yqhbh",
+      "author": "Flimsy_Ad6185",
+      "author_id": "t2_a3pok09j5",
       "subreddit_id": "t5_2qioo",
       "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T02:01:49.700000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n67bhg/problem_with_installing_windows_11/",
-      "content_preview": "",
-      "flair": [
-        "Open | Windows"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "Total freezing after desktop sitting unused for a while, games and apps work totally fine",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n670nc/total_freezing_after_desktop_sitting_unused_for_a/",
-      "score": 2,
-      "comments": 2,
-      "post_id": "t3_1n670nc",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "jewsdoitbest",
-      "author_id": "t2_9v6mw",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T01:47:30.406000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n670nc/total_freezing_after_desktop_sitting_unused_for_a/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T03:21:17.219000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n8uisx/how_do_i_fix_this/",
+      "content_preview": "I have a pair of echo buds and it keeps telling me “sorry the app link service connections bridge prod link is unavailable” and I don’t know what this means I’ve already factory reset them and I didn’t help at all I looked up what it could be and found nothing",
       "flair": [
         "Open | Software"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
-      "title": "Wanted to play battlefield 6, bricked my computer.",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1mki7xt/wanted_to_play_battlefield_6_bricked_my_computer/",
-      "score": 101,
-      "comments": 173,
-      "post_id": "t3_1mki7xt",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "PinkFloyd_rs",
-      "author_id": "t2_ls6lerzs",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-08-08T01:32:49.693000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1mki7xt/wanted_to_play_battlefield_6_bricked_my_computer/",
-      "content_preview": "",
-      "flair": [
-        "Open | Hardware"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "privacy camera settings can not be turned on or off (no access)",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n6exqq/privacy_camera_settings_can_not_be_turned_on_or/",
-      "score": 1,
-      "comments": 2,
-      "post_id": "t3_1n6exqq",
-      "post_type": "multi_media",
-      "domain": "self.techsupport",
-      "author": "highst23",
-      "author_id": "t2_kq5cfuo17",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T09:31:25.222000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n6exqq/privacy_camera_settings_can_not_be_turned_on_or/",
-      "content_preview": "",
-      "flair": [
-        "Open | Windows"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "PC doesn't boot anymore",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n6708l/pc_doesnt_boot_anymore/",
-      "score": 2,
+      "title": "Secondary disk not recognized",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n8rnz6/secondary_disk_not_recognized/",
+      "score": 3,
       "comments": 3,
-      "post_id": "t3_1n6708l",
+      "post_id": "t3_1n8rnz6",
       "post_type": "text",
       "domain": "self.techsupport",
-      "author": "CharlesAbriz",
-      "author_id": "t2_7onhotp3",
+      "author": "momos_blocz",
+      "author_id": "t2_hdq9jw",
       "subreddit_id": "t5_2qioo",
       "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T01:46:55.958000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n6708l/pc_doesnt_boot_anymore/",
-      "content_preview": "",
-      "flair": [
-        "Open | Hardware"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Other peripherals are dead but mouse turns on",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n66u67/other_peripherals_are_dead_but_mouse_turns_on/",
-      "score": 2,
-      "comments": 1,
-      "post_id": "t3_1n66u67",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "Tough-Highlight-292",
-      "author_id": "t2_h58qpfdm",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T01:38:49.323000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n66u67/other_peripherals_are_dead_but_mouse_turns_on/",
-      "content_preview": "",
-      "flair": [
-        "Open | Hardware"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "Repair shop downloaded avast antivirus is this a normal thing to do?",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1mxp5he/repair_shop_downloaded_avast_antivirus_is_this_a/",
-      "score": 76,
-      "comments": 66,
-      "post_id": "t3_1mxp5he",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "bupling2",
-      "author_id": "t2_jekkizes",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-08-23T02:01:14.319000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1mxp5he/repair_shop_downloaded_avast_antivirus_is_this_a/",
-      "content_preview": "",
+      "created_ts": "2025-09-05T01:02:32.694000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n8rnz6/secondary_disk_not_recognized/",
+      "content_preview": "I plugged in my old SSD with Windows 10 into my new PC with Windows 11, it is recognized in the BIOS but not by Windows.Device manager says it's an \"Unknown device\" (installed with a generic disk driver)Diskpart recognizes it, as OB size OB freeBIOS is AHCI mode, same as old PC (the old SSD still works there, I haven't wiped it)There are no manufacturer drivers for it, it's an EAGET S600",
       "flair": [
         "Open | Software"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_5t1m0d/styles/profileIcon_jqk11cs781z91.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ecea7b10d00c69c67f9765723b60ff17c7ce3f72"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
     },
     {
-      "title": "Searching for Win11 drivers for Dell Inspiron 15 7559",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n6ex9i/searching_for_win11_drivers_for_dell_inspiron_15/",
-      "score": 1,
-      "comments": 2,
-      "post_id": "t3_1n6ex9i",
+      "title": "Computer will not boot",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n8u6k6/computer_will_not_boot/",
+      "score": 2,
+      "comments": 1,
+      "post_id": "t3_1n8u6k6",
       "post_type": "text",
       "domain": "self.techsupport",
-      "author": "AgroKK",
-      "author_id": "t2_43869",
+      "author": "Important_Canary5542",
+      "author_id": "t2_1x4u3fmps5",
       "subreddit_id": "t5_2qioo",
       "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T09:30:33.594000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n6ex9i/searching_for_win11_drivers_for_dell_inspiron_15/",
+      "created_ts": "2025-09-05T03:04:00.653000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n8u6k6/computer_will_not_boot/",
+      "content_preview": "My computer was working fine when I used it last week, but when I tried to use it today it said something along the lines of “Cannot boot” with no error code, so I went into UEFI and booted directly from the disk and It put me into GRUB (which is weird because I use windows) which said “Unknown system”. I used bcdboot to rebuild my partition and finally got windows recovery to give me an error code 0x000007B. Is it savable?",
+      "flair": [
+        "Open | Software"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "What you don't see! BTS of Shell's immersion cooling fluids.",
+      "permalink": "https://www.reddit.com/user/Shell_Official/comments/1mlftwj/what_you_dont_see_bts_of_shells_immersion_cooling/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mlftwj",
+      "post_type": "video",
+      "domain": "shell.us",
+      "author": "Shell_Official",
+      "author_id": "t2_996ipict",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-09T03:51:30.621000+0000",
+      "content_href": "https://v.redd.it/mngqasbmkvhf1",
       "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3jfczc/styles/profileIcon_b9xyzrip9b461.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=aae49663b0b9468527b7b92cf544b0efdf995b97",
+      "is_promoted": true
+    },
+    {
+      "title": "Application Error on PC startup",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n8tq2o/application_error_on_pc_startup/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n8tq2o",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "boneheadious",
+      "author_id": "t2_5z4wjlfn",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-09-05T02:41:18.190000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n8tq2o/application_error_on_pc_startup/",
+      "content_preview": "When I start my computer up, an application error pops up that prevents it from fully booting up. It says “Wacom_Tablet.exe The application was unable Restart correctly (0xc000007ь). Click OK to close the application”. Clicking ok does nothing but bring it up again and I can’t put PC into safe mode. Please help!",
+      "flair": [
+        "Open | Hardware"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Usb c charging support on hp omen",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n8tpn1/usb_c_charging_support_on_hp_omen/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n8tpn1",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "Sanyam5555",
+      "author_id": "t2_aahzw5nj",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-09-05T02:40:44.657000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n8tpn1/usb_c_charging_support_on_hp_omen/",
+      "content_preview": "I have the hp omen 4060 edition laptop xd0020ax It has pd usb c port, and according to the website it supports usb c charging. According to customer support it can support upto 100w chargers. I tried many chargers usb c based from cmf gan charger to asus laptop 100w charger. Sometimes it says incompatible ac adapter (notification on windows) or nothing at all happensCan someone please help",
+      "flair": [
+        "Open | Hardware"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "My Drive 2 got 100% full and is no longer usable or detected",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n8qr3f/my_drive_2_got_100_full_and_is_no_longer_usable/",
+      "score": 3,
+      "comments": 3,
+      "post_id": "t3_1n8qr3f",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "Fire_peen",
+      "author_id": "t2_55ii21ii",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-09-05T00:19:48.080000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n8qr3f/my_drive_2_got_100_full_and_is_no_longer_usable/",
+      "content_preview": "I have a second nvme installed in my Windows 11 pc (Drive 2). The drive is Partitioned into 2 separate partitions (part_1 = 2tb , part_2 = 2tb)I left a torrent downloading on part_2 for the day and when I came back I found that part_2 was completely full and I while I could see it on the file manager I was unable to delete anything. I was able to delete one DLL through the command line but it showed up as free space on the disk manager but I was unable to extend the part_2Then I tried to shrink part_1 since it had some room on it but I was unable to do that as the disk manager said that it had 0 available free space. I even tried to delete stuff on part_1 and I was able to (I think) and still it did not let me shrink the partition.After I restarted the pc I can now no longer even see the drive on disk manager or file explorer.How do I view and free up space on my part_2 now?",
+      "flair": [
+        "Open | Data Recovery"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+      "is_promoted": false
+    },
+    {
+      "title": "My mom unplugged our familial computer, thinking it was turned off, while it was actually running a 'chkdsk /f /r' analysis. How much are we coocked and what can we do ?",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1mp2g0k/my_mom_unplugged_our_familial_computer_thinking/",
+      "score": 517,
+      "comments": 163,
+      "post_id": "t3_1mp2g0k",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "Truck_Informal",
+      "author_id": "t2_949vguj8",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-08-13T11:59:09.012000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1mp2g0k/my_mom_unplugged_our_familial_computer_thinking/",
+      "content_preview": "Je suis pas à la maison en ce moment mais d'après elle, l'ordi ne s'allume plus. Il tourne sous Windows 10. Quand je rentre, je vous donnerai plus de détails.UPDATE :Hello everyone, First of all, thank you for all your replies. I didn't expect so many people to help me in such a short time.Here's what happened next. You'll see that it was MUCH LESS serious than expected.Yesterday when I got home, I inspected the computer, and contrary to what my mother told me, the CPU was turning on, but the screen was completely black. I checked the hardware and, by some incredible coincidence, the HDMI cable broke the same evening my mother unplugged the computer while it was still on. When I changed the cable, the screen came back on and I could see Windows Scanning and Repairing the C: drive. This lasted for about 5 hours, than I restarted the computer and it seems to be intact. No errors on restart, and the files seems to be intact (although I haven't checked them all).I told her to stop turning off the computer like that every night, but she doesn't listen to me, saying that it has never had this kind of failure before and blaming instead Proton Drive which I recently installed on it, and I saw this morning that she unplugged it again...Thanks again for all your answers !",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Getting emails meant for someone with a dot in my Gmail — should I be worried they can read mine?",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1mo39ya/getting_emails_meant_for_someone_with_a_dot_in_my/",
+      "score": 488,
+      "comments": 248,
+      "post_id": "t3_1mo39ya",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "Japiho",
+      "author_id": "t2_67f97132",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-08-12T08:39:14.862000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1mo39ya/getting_emails_meant_for_someone_with_a_dot_in_my/",
+      "content_preview": "I’ve been getting emails meant for someone whose address is almost identical to mine — mine isfirstnamelastname@gmail.com, his isfirstname.lastname@gmail.com.At first, it was random stuff — Amazon order confirmations (from the US, I live in Austria), then kitchen renovation plans (that’s how I figured out his actual contact info). Later, a Tinder “You have a match!” email came through — unfortunately, my wife saw it before I could explain. Awkward moment, and I’m still not sure she believes my explanation, even though it was the truth.From what I gathered, this guy is in his late 20s, I’m mid-40s. Things were quiet for a while, but yesterday I got an email about a 2-year Norton LifeLock subscription renewal. Apparently that’s an identity theft protection service — can you see the irony?Two years ago I even tried to contact him via the info I had from the renovation plans (emails, phone numbers), but never got a reply.My questions: •\tCan he, in any way, access my Gmail and read my emails? •\tWhat would you do in my situation? Ignore it? Try harder to contact him?",
+      "flair": [
+        "Open | Networking"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_37c9cv/styles/profileIcon_wreip5d2h19f1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b6430f40210b6daf260d14d3fb02c563eae61c70",
+      "is_promoted": false
+    },
+    {
+      "title": "Windows 11 not supported?",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n9122l/windows_11_not_supported/",
+      "score": 0,
+      "comments": 7,
+      "post_id": "t3_1n9122l",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "Conceptartistfounder",
+      "author_id": "t2_13uqtl",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-09-05T09:58:10.075000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n9122l/windows_11_not_supported/",
+      "content_preview": "Processor\tAMD Ryzen 9 3950X 16-Core Processor               3.49 GHzInstalled RAM\t64.0 GBStorage\t932 GB SSD WDC  WDS100T2B0A-00SM50Graphics Card\tNVIDIA GeForce GTX 1070 Ti (8 GB)Device ID\t66C174BE-6B4C-45F4-9F2E-8A85FBC78600Product ID\t00330-80000-00000-AA020System Type\t64-bit operating system, x64-based processorPen and touch\tPen supportHi all,its time to update from Windows 10 > 11 but it says my computer doesnt support it?Am i missing something ? Because this computer should be perfectly fine to run it.",
       "flair": [
         "Open | Windows"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Locked out from laptop due to AZERTY-QWERTY issue",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n85dds/locked_out_from_laptop_due_to_azertyqwerty_issue/",
+      "score": 43,
+      "comments": 8,
+      "post_id": "t3_1n85dds",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "Erichteia",
+      "author_id": "t2_7zhrg08t",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-09-04T09:21:22.721000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n85dds/locked_out_from_laptop_due_to_azertyqwerty_issue/",
+      "content_preview": "Due to a weird combination of factors, I seem to be locked out of a computer:The physical lay-out of the computer is a US keyboard. Crucially, it only has a shift key next to the zThe software was set to use a Belgian keyboard setting (AZERTY with a \\ left to the 'w' (the 'z' on qwerty)) before locking the computerMy login requires a \\So it seems that the \\ is mapped to a key that simply does not exist on the computer. Alt codes did not work. No other key is bound to the \\ (tested on a different computer). At the moment the only solution I can think of is to wait until I have access to a Belgian keyboard, but I'd prefer to fix the issue sooner. Is there any way to get around this?",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Hey Option Traders! Our Trading API is here. Program your trades with real-time execution, no commissions, and earn rebates on stock and ETF options contracts.",
+      "permalink": "https://www.reddit.com/user/Public/comments/1n2rv7c/hey_option_traders_our_trading_api_is_here/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1n2rv7c",
+      "post_type": "image",
+      "domain": "public.com",
+      "author": "Public",
+      "author_id": "t2_5ehnkp4x",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-28T23:36:13.578000+0000",
+      "content_href": "https://www.public.com/get/api?sgt=f14v&wpsrc=Reddit&utm_source=Reddit&idfa={{IOS_ADVERTISING_ID}}&aifa={{ANDROID_ADVERTISING_ID}}&wpscn={{ADGROUP_NAME}}&pscn={{ADGROUP_NAME}}&wpscid={{ADGROUP_ID}}&pscid={{ADGROUP_ID}}&wpcrn={{AD_NAME}}&pcrn={{AD_NAME}}&wpcid={{CAMPAIGN_ID}}&pcid={{CAMPAIGN_ID}}&wpcrid={{AD_ID}}&pcrid={{AD_ID}}&cl={{CLICK_ID}}&reddit_advertiser_id={{ADVERTISER_ID}}&_smtype={{SG_PLATFORM_TYPE}}&sng_ref=reddit_{{CLICK_ID}}&reddit_impression_id={{IMPRESSION_ID}}",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2cdad5/styles/profileIcon_iqzk1rqviyd71.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=c27be0a409c461cbaffe033277192652b731f542",
+      "is_promoted": true
+    },
+    {
+      "title": "My internet dies at exactly 10:40pm every night",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1myd51w/my_internet_dies_at_exactly_1040pm_every_night/",
+      "score": 434,
+      "comments": 229,
+      "post_id": "t3_1myd51w",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "WillingnessRoyal9448",
+      "author_id": "t2_1qut8i3gym",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-08-23T21:10:01.698000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1myd51w/my_internet_dies_at_exactly_1040pm_every_night/",
+      "content_preview": "Edit: I call my parents \"boomers\" lovingly, lol.First of all, I am very, very tech illiterate when it comes to internet specifically, so please please please explain any solutions like I am an 8 year old child. If you go on about managing the ISP nodule and using my CFX app on my Interrim Router Cable or whatnot, I will not understand a word of what you're saying, lol.I live in an apartment with my boomers parents. I have a bedroom downstairs, the living room with the internet modem is upstairs. I have a wifi signal booster that I am plugged into with an ethernet cable that gives me an average of 40mb/s download speed and stable-ish internet. It's not the best, but since we live in a rental unit, I can't exactly connect a wire and drag it through 2 doors and a staircase and a whole room across 2 floors to plug my PC directly into it. I have learned to live with it.Recently, our router randomly stopped working. There's technically a signal, but it was so weak, it was unusable. After a week of no internet my dad called our provider and they got us a new router and the issues seemed to have gone away for a week or two. We assumed it was a faulty router.However, now, every night at EXACTLY 10:40pm, the internet goes back to the same state. Unusable. Ping for games in the 1000's. 10 second delay in voice chats. Absolutely abhorrent. Even my phone doesn't have internet.My paranoid, boomer dad won't let me touch the router, plug anything in it or do anything to it, but he is also frustratingly refusing to call the provider because upstairs, they have no issues with it it seems. Their ipads are running fine.Is there anything I can even do?",
+      "flair": [
+        "Open | Networking"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
+    },
+    {
+      "title": "TV screen refresh rate to high",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n8qmzr/tv_screen_refresh_rate_to_high/",
+      "score": 3,
+      "comments": 3,
+      "post_id": "t3_1n8qmzr",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "ULT1MATE_DAKKON",
+      "author_id": "t2_lg50suuc",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-09-05T00:14:31.243000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n8qmzr/tv_screen_refresh_rate_to_high/",
+      "content_preview": "So just was putting my TV to max Hz while connected to my laptop and accidently set it to 999hz. I tried to disconnect the laptop and plug it back in to change it but it is to powerful for my laptop. My laptop also goes into second screen only mode when I plug it in. Please help me",
+      "flair": [
+        "Open | Windows"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "[Fix] Microsoft Store stuck on retry, no sound, Windows Update failing after update (final working solution inside) ERROR CODE : 0x80d03805/0x80070003",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n90yif/fix_microsoft_store_stuck_on_retry_no_sound/",
+      "score": 1,
+      "comments": 1,
+      "post_id": "t3_1n90yif",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "Miserable_Drummer_69",
+      "author_id": "t2_d8i7py53",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-09-05T09:51:43.624000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n90yif/fix_microsoft_store_stuck_on_retry_no_sound/",
+      "content_preview": "Specs : WINDOWS 11 24H2Asus Tuf A15 FA506QM , Ryzen 7 5800HRTX 3060 Laptop GPUBackStoryMy system went all over the place a couple days after a system update that had only bugs fixed and some other features. Following the day I noticed my microsoft store was not letting me download anything, \"stuck on retry\" A day later my sound greyed out and in device manager all seemed to be running fine so like all of us I mapped out whole of google and reddit, tried every single step. From restarting services to what not and nothing helped my problem, it did help some other people as mentioned in the thread but did not work for me and then some others. I noticed my windows update has failed aswell and showing no internet found when internet was perfectly fine.SolutionI am chronologically mentioning all the steps that I did and found, some may work for you, some may not but the last one most definitely should.1.) For sound, go to services - Windows Audio - Log on - Set to Local System Account and check the box allow service to interact with desktop.2.) Further if device manager shows that your audio device is not working or something like that, uninstall it and do check the attempt to remove the driver if it pops up and restart your device.3.) For Windows Update, Restart or Start if not already started the following from Services , : Windows Update - Background Intelligent Transfer Service - Cryptographic Service4.) run the following command in CMD or Powershell as admin:DISM /Online /Cleanup-Image /RestoreHealthsfc /scannowIf DISM one fails it is most certainly because of a corrupt file, now you can try to fix that through some commands and files but it doesn't gurantee a permanent fix.5.) For microsoft store :wsreset.exeand thenGet-AppxPackage -allusers *WindowsStore* | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register \"$($_.InstallLocation)\\AppxManifest.xml\"}Final and closing solutionif nothing has worked (Your CMD isn't running as admin, update issues, microsoft store not working if all overlaps it is 99% that your windows files are corrupted because of \"Windows Update\" IRONIC. \"Go tohttps://www.microsoft.com/en-in/software-download/windows11Download ISO for x64 (It should be around 5 GB) Now you are not going to directly run the setup because it will get stuck at 46% or something like that so navigate to sources folder and you will find another setup there, run it, make sure to go with the option that keeps your personal files.Plus you would want to download your system's wifi driver and put it in one of the drives (Not C) because after the setup it will ask for wifi to begin installing new updates, if you have ethernet, Chill.It will automatically save your old C drive files in C drive with .old extended file.I wish there was a work way around this lengthy setup but this is the only endgame.I read over 50 different posts, went to customer executive thrice and nothing worked until this. I do not want anyone else to go through that headache. Hope I helped !!",
+      "flair": [
+        "Open | Windows"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Someone hacked my friends phone using an application called Flashget kids.",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1mzrvpf/someone_hacked_my_friends_phone_using_an/",
+      "score": 300,
+      "comments": 82,
+      "post_id": "t3_1mzrvpf",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "anonymouspot8",
+      "author_id": "t2_55m49lpn",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-08-25T14:23:53.372000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1mzrvpf/someone_hacked_my_friends_phone_using_an/",
+      "content_preview": "It is a parental control app. Someone in her personal circle took her phone downloaded the apk and took control of her phone from their phone without she knowing. She got to know about this way later cus the app was hidden. The person who did this has access to all her data including her camera and microphone. We still haven't uninstalled the app from her phone. Is there any way to find who did this?",
+      "flair": [
+        "Open | Phone"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "BSOD while watching youtube (random)",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n8qius/bsod_while_watching_youtube_random/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1n8qius",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "ChocolettaMilk",
+      "author_id": "t2_ysxdk",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-09-05T00:09:13.244000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n8qius/bsod_while_watching_youtube_random/",
+      "content_preview": "Hi, could someone help me figure out the cause of the blue screen im having.The error code is IRQL_NOT_LESS_OR_EQUALOS Name\tMicrosoft Windows 10 ProVersion\t10.0.19045 Build 19045Processor\tIntel(R) Core(TM) i9-14900KF, 3200 Mhz, 24 Core(s), 32 Logical Processor(s)BIOS Version/Date\tAmerican Megatrends Inc. 2001, 07/03/2025SMBIOS Version\t3.5Embedded Controller Version\t255.255BIOS Mode\tUEFIBaseBoard Manufacturer\tASUSTeK COMPUTER INC.BaseBoard Product\tROG STRIX Z790-E GAMING WIFI II64GB DDR5 Corsair MemorySystem dump file that was created :https://www.mediafire.com/file/mivq8qw59oipla8/090525-15406-01.dmp/fileThank you for your help.Edit: I have doneDISM /Online /Cleanup-Image /CheckHealthDISM /Online /Cleanup-Image /ScanHealthDISM /Online /Cleanup-Image /RestoreHealthsfc /scannow  >Windows Resource Protection found corrupt files and successfully repaired them.I have yet to try memtest",
+      "flair": [
+        "Open | Hardware"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Someone made a gmail using my full name and birthday and put my actual email as a recovery email",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n24i3o/someone_made_a_gmail_using_my_full_name_and/",
+      "score": 212,
+      "comments": 46,
+      "post_id": "t3_1n24i3o",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "introangel",
+      "author_id": "t2_imkqssyg",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-08-28T06:07:12.254000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n24i3o/someone_made_a_gmail_using_my_full_name_and/",
+      "content_preview": "This is so strange I don’t know what to do about it. I got an email from google that someone made a new email address using my full name and birthday. They made my work email the recovery email. I don’t know who would do this. Is there any way to report it? It feels like a scam or someone with malicious intent.",
+      "flair": [
+        "Open | Phone"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Cpu power usage",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n90tug/cpu_power_usage/",
+      "score": 1,
+      "comments": 8,
+      "post_id": "t3_1n90tug",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "theaidamen64",
+      "author_id": "t2_l551j2n2i",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-09-05T09:43:36.970000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n90tug/cpu_power_usage/",
+      "content_preview": "Should my intel i9 14thgen cpu be using around 70 watts with very little apps open? My cpu temp for a few months had mysteriously gained 20+ celsius and i wanna know if its the problem",
+      "flair": [
+        "Open | Hardware"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_9ivx99/styles/profileIcon_9gci5i2yzukf1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ded4b1ebeb74bbb69eddc4a6cd19fae564cbede4",
+      "is_promoted": false
+    },
+    {
+      "title": "Nude photo was saved in the company computer",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n07szh/nude_photo_was_saved_in_the_company_computer/",
+      "score": 204,
+      "comments": 35,
+      "post_id": "t3_1n07szh",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "TopSprinkles6097",
+      "author_id": "t2_8fjt0z2ne",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-08-26T00:41:03.331000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n07szh/nude_photo_was_saved_in_the_company_computer/",
+      "content_preview": "Yeah that’s basically it. I was getting naughty with my bf and he sent his photo to an app that also happened to be a messaging app I use at work. The default setting was to automatically download any data. Now, I already deleted it from my downloads folder, recycle bin, and onedrive and I am still skeptical whether it is fully deleted or not. How much trouble am I in?",
+      "flair": [
+        "Open | Windows"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
     },
     {
       "title": "I Installed Potentially Malicious Software, Help",
       "permalink": "https://www.reddit.com/r/techsupport/comments/1n4nmhf/i_installed_potentially_malicious_software_help/",
-      "score": 27,
-      "comments": 5,
+      "score": 33,
+      "comments": 6,
       "post_id": "t3_1n4nmhf",
       "post_type": "text",
       "domain": "self.techsupport",
@@ -859,136 +1197,36 @@
       "subreddit": "r/techsupport",
       "created_ts": "2025-08-31T06:31:52.966000+0000",
       "content_href": "https://www.reddit.com/r/techsupport/comments/1n4nmhf/i_installed_potentially_malicious_software_help/",
-      "content_preview": "",
+      "content_preview": "Okay so I installed the software PDFGear because it looked legit (had some youtube reviews about it, the website was OK'd by my antivirus, etc) but after looking into it it looks like it might be malware. I opened it up and edited a file with it and have since uninstalled the software and used my antivirus' (BitDefender) file deletion to delete the original file and am currently running a virus scan on my computer. I have three main questions:1 - Is the software actually malware?2 - Am I in any danger at the moment?3 - What should I do going forward?I'm currently freaking out and any help would be appreciated. I'd really rather not have to go nuclear on my setup.",
       "flair": [
         "Open | Software"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_2dswlf/styles/profileIcon_sr5pi1526lf71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3ceef7ab302d7ed3a894fa2a28d5bc2d69cd8da4"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_2dswlf/styles/profileIcon_sr5pi1526lf71.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=3ceef7ab302d7ed3a894fa2a28d5bc2d69cd8da4",
+      "is_promoted": false
     },
     {
-      "title": "How do I get a fake, malicious Google Maps listing removed ?",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n0dkvp/how_do_i_get_a_fake_malicious_google_maps_listing/",
-      "score": 27,
-      "comments": 9,
-      "post_id": "t3_1n0dkvp",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "Sea_Lawfulness_5602",
-      "author_id": "t2_1ge4d89dl2",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-08-26T05:34:26.176000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n0dkvp/how_do_i_get_a_fake_malicious_google_maps_listing/",
-      "content_preview": "",
-      "flair": [
-        "Open | Networking"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "Laptop not turning on after battery replacement",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n66smq/laptop_not_turning_on_after_battery_replacement/",
-      "score": 2,
-      "comments": 3,
-      "post_id": "t3_1n66smq",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "Sol_ariium",
-      "author_id": "t2_yczbu2amj",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T01:36:41.826000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n66smq/laptop_not_turning_on_after_battery_replacement/",
-      "content_preview": "",
-      "flair": [
-        "Open | Hardware"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_bb8719/styles/profileIcon_34pi8ifm3j1e1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=26ec5b3611f4e491d591e2728b10424d849f33ce"
-    },
-    {
-      "title": "Altec Lansing Hydromotion speaker's Bluetooth dead?",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n66h06/altec_lansing_hydromotion_speakers_bluetooth_dead/",
-      "score": 2,
-      "comments": 0,
-      "post_id": "t3_1n66h06",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "depthninja",
-      "author_id": "t2_mm8cb",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T01:21:08.142000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n66h06/altec_lansing_hydromotion_speakers_bluetooth_dead/",
-      "content_preview": "",
-      "flair": [
-        "Open | Hardware"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "My old crusty 2016 laptop just spontaneously upgraded to Windows 11 after a year of telling me I need to upgrade my device for it.",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1mzwfsx/my_old_crusty_2016_laptop_just_spontaneously/",
-      "score": 71,
-      "comments": 52,
-      "post_id": "t3_1mzwfsx",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "Bioluminescent_Rose",
-      "author_id": "t2_zonaf2f65",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-08-25T17:11:51.234000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1mzwfsx/my_old_crusty_2016_laptop_just_spontaneously/",
-      "content_preview": "",
-      "flair": [
-        "Open | Windows"
-      ],
-      "thumbnail_url": ""
-    },
-    {
-      "title": "I'm new to the cybersec enviroment and I'm looking for secure way to encrypt some infos",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1n6esd7/im_new_to_the_cybersec_enviroment_and_im_looking/",
+      "title": "Build a robust strategy that protects both physical and digital assets with tailored solutions from CDW.",
+      "permalink": "https://www.reddit.com/user/CDW_Corporation/comments/1mw7t7s/build_a_robust_strategy_that_protects_both/",
       "score": 0,
-      "comments": 1,
-      "post_id": "t3_1n6esd7",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "Nyd3_",
-      "author_id": "t2_pnpve6dv",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-09-02T09:21:38.154000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1n6esd7/im_new_to_the_cybersec_enviroment_and_im_looking/",
+      "comments": 0,
+      "post_id": "t3_1mw7t7s",
+      "post_type": "gallery",
+      "domain": "cdw.com",
+      "author": "CDW_Corporation",
+      "author_id": "t2_4ig2oivj",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-21T11:04:16.865000+0000",
+      "content_href": "https://www.cdw.com/content/cdw/en/solutions/cybersecurity/physical-security.html?cm_ven=SocialMediaPaid&cm_cat=Reddit&cm_pla=MKT87203adu0000P43885&cm_ite=43885_25Q3MKT87203_Security-PhysicalSecurity_CMP1694_SolutionsandServices_CDWPartner_Subcampaign_08.27.25_LandingPageViews_Campaign_CarouselImageLink_Interests_Copy2_Card1",
       "content_preview": "",
-      "flair": [
-        "Open | Programming"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "Tired of my phone ringing non stop",
-      "permalink": "https://www.reddit.com/r/techsupport/comments/1mvhjay/tired_of_my_phone_ringing_non_stop/",
-      "score": 68,
-      "comments": 75,
-      "post_id": "t3_1mvhjay",
-      "post_type": "text",
-      "domain": "self.techsupport",
-      "author": "Historical_Pick5012",
-      "author_id": "t2_1uresxlj44",
-      "subreddit_id": "t5_2qioo",
-      "subreddit": "r/techsupport",
-      "created_ts": "2025-08-20T15:12:24.926000+0000",
-      "content_href": "https://www.reddit.com/r/techsupport/comments/1mvhjay/tired_of_my_phone_ringing_non_stop/",
-      "content_preview": "",
-      "flair": [
-        "Open | Phone"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_24ysal/styles/profileIcon_e78o61ibxhoc1.jpeg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=9b767a7696dfe0a0a557feaad1478eb9367911c0",
+      "is_promoted": true
     },
     {
       "title": "Sudden disgusting change in my Instagram feed",
       "permalink": "https://www.reddit.com/r/techsupport/comments/1n50bvl/sudden_disgusting_change_in_my_instagram_feed/",
-      "score": 23,
+      "score": 25,
       "comments": 20,
       "post_id": "t3_1n50bvl",
       "post_type": "text",
@@ -999,12 +1237,179 @@
       "subreddit": "r/techsupport",
       "created_ts": "2025-08-31T17:15:42.189000+0000",
       "content_href": "https://www.reddit.com/r/techsupport/comments/1n50bvl/sudden_disgusting_change_in_my_instagram_feed/",
-      "content_preview": "",
+      "content_preview": "I stopped using my Instagram for a few days then i came and resetted my suggestions content bc I wasn’t satisfied with my feed and then it gave me the most shittiest, cringest, low effort and irrelevant reels i have ever seen in my life. Its been like 5 hours of me scrolling and spamming interested/not interested but it still refuses to fix. Please helpI have also tried following account i like and unfollowing rest, sharing good memes, liking and saving AND resetting it again several times. I also went afk for like half an hour on a good reel to tell my algorithm “I LIKE THIS REEL” but nope.By the way, i have resetted several times before but this never happened",
       "flair": [
         "Open | Software"
       ],
-      "thumbnail_url": ""
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Newly built PC flickers and freezes, what could be the issue?",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n8qghw/newly_built_pc_flickers_and_freezes_what_could_be/",
+      "score": 3,
+      "comments": 1,
+      "post_id": "t3_1n8qghw",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "dwmorg17x",
+      "author_id": "t2_12ns14",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-09-05T00:06:08.233000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n8qghw/newly_built_pc_flickers_and_freezes_what_could_be/",
+      "content_preview": "Help please!Recently built a PC, but having issues with it regarding screen flickering. No matter what display I use (tried my 4K TV and my new Asus ROG 1440p 180hz monitor) randomly the screen will flicker a few times. This happens when opening a webpage, using YouTube, basically anything I do, it happens on. I’ve checked my display settings and it’s set to the correct 1440p resolution, I even scaled down the fps and it hasn’t helped. I’ve tried different HDMI and Display port cables, checked all my drivers, and everything is up to date.I even checked my GPU cable connections. I’ll list the specs below in hopes that may help. I called memory express for help and they want me to just bring the PC in for a tech appointment.Ryzen 7700x, Asus Prime 9070 OC, MSI B650M A Pro, Kingston fury impact 32gb, DDR5 CL30 ram, Crucial P3 Plus 2tb, Corsair RM750e. I also checked my temps when it happens and they no high either. I’ve set up solid fan curves and temps stay excellent.",
+      "flair": [
+        "Open | Software"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "Brothers PC got hacked",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1mj02g9/brothers_pc_got_hacked/",
+      "score": 191,
+      "comments": 85,
+      "post_id": "t3_1mj02g9",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "AlternativeIron51",
+      "author_id": "t2_ub9gv1jz",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-08-06T09:31:25.268000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1mj02g9/brothers_pc_got_hacked/",
+      "content_preview": "I was watching tv then my wifi went completely out I asked my brother what happend and he said his pc got hacked I came and seen a green screen with like letters made into a skull w cross bones. We’re freaking out bc what do we do? The person is deleting things like his discord off his pc. Please helpWe unplugged the wifi router idk what else to doEdit: seems like he got everything figured out and went to some store to help wipe everything. He’s all happy now and didn’t get scammed. He thinks it’s bc he downloaded a file or sum. I’m just a girl so have no clue what most this shit means lol but thank you everyone for your help!",
+      "flair": [
+        "Open | Software"
+      ],
+      "thumbnail_url": "",
+      "is_promoted": false
+    },
+    {
+      "title": "Weird WiFi name suddenly appeared",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n3sfx9/weird_wifi_name_suddenly_appeared/",
+      "score": 15,
+      "comments": 18,
+      "post_id": "t3_1n3sfx9",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "DarthMcgibblets",
+      "author_id": "t2_2gztpyfj",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-08-30T04:24:19.637000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n3sfx9/weird_wifi_name_suddenly_appeared/",
+      "content_preview": "UPDATE: not sure if I’m doing this whole update thing right but here it goes, went about 2 hours with no internet trying to reset my modem and got ahold of my ISP, they sent a signal to try and reset it and had me unplug everything like I had already done which all didn’t work. About 15 minutes after getting off the phone with them and everything they tried not working my internet suddenly works and that random network is no longer showing up. No clue why that all happened which makes me think even more someone was blocking my internet but I’m not even sure someone could do that. Maybe I’m paranoid because I’m not very tech savvy but thanks for the help or at least the comments to fill my time while trying to get this crap figured out lolI don’t post often or ever but this just happened to me and I’m unsure whether or not I should be concerned. I was playing some video games about an hour ago (Fortnite) and I tried joining a creator made game and right when I was about to join the lobby my internet suddenly stopped working. I tried loading a YouTube video on my phone, & tried the same on my Xbox but nothing worked. So I tried resetting my wifi to see if that would help, I unplugged my router/modem for about 30 seconds and plugged it back in, waited for the connection and still nothing. I checked my phones wifi connection to make sure I was connected to my wifi and randomly in the “other networks” section I saw a network with no password needed that had my last name and a few numbers & commas. I guess I am posting this to ask if I should be concerned. I’m certain it isn’t a neighbor pranking me, and it felt odd that this network never showed up until the moment my internet completely stopped working. I plan on calling my ISP first thing in the morning. Any information would be greatly appreciated!",
+      "flair": [
+        "Solved"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_qbnk6/styles/profileIcon_6tyoiw4qdt681.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=9183ac9595f769227a266419d540cd867b8e5cd3",
+      "is_promoted": false
+    },
+    {
+      "title": "I deleted my deceased friend's last photo",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1mxf3tl/i_deleted_my_deceased_friends_last_photo/",
+      "score": 137,
+      "comments": 33,
+      "post_id": "t3_1mxf3tl",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "DemonL0ver",
+      "author_id": "t2_1cgqdhmr6z",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-08-22T18:56:01.948000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1mxf3tl/i_deleted_my_deceased_friends_last_photo/",
+      "content_preview": "I was checking my old photos from a usb then I saw her photo and  I deleted it accidentaly, then I downloaded Diskdrill to recover deleted photos. Now photos showed up but the photo is broken her face doesnt seem. How can I fix the photo?",
+      "flair": [
+        "Open | Data Recovery"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_cui9i4/styles/profileIcon_pbwm8jhmrn4f1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f33fab7853e478f9370dd018a27f6fae480d45c2",
+      "is_promoted": false
+    },
+    {
+      "title": "turning on Secure Boot to play Battlefield 6 bricked my PC.",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1mm3c7d/turning_on_secure_boot_to_play_battlefield_6/",
+      "score": 134,
+      "comments": 127,
+      "post_id": "t3_1mm3c7d",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "Ashamed_Project_5428",
+      "author_id": "t2_7ml0mv2v",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-08-09T23:22:42.253000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1mm3c7d/turning_on_secure_boot_to_play_battlefield_6/",
+      "content_preview": "System Specs: Motherboard: Gigabyte GA-Q170M-MKWindows 10CPU: Intel i7-6700GPU: GTX 3050BIOS: Aptio Utility v16Monitors: 1 with HDMI (did use another monitor just in case it was an output issue)I have to write on Reddit before I start forgetting how it happened as it's about 2 days since the Issue.Issue Summary: Attempted to enable Secure Boot in BIOS to play Battlefield 6. It threw an error telling me that CSM is loaded before so I tried to disable CSM before saving and exiting the BIOS but my guess is that didn't work. The PC also doesn't POST so I cannot change the BIOS settings or put the PC in Safe Mode or RecoverySteps taken before issue:BIOS Mode was already set to UEFImade sure TMP 2.0 was loaded and Windows GPT was enabled on Disk 0 which is already was settried to turn on Secure Boot, it prompted me that i had no valid keys so I and Saved and Exited BIOS and launched Windowsstill said that my Secure Boot State was off even though I enabled in BIOS so I went back into BIOShad no option to disable CSM so did some reading online and selected the \"Reset Factory Keys\" or \"Reset Keys\" (based on online advice) i also changed \"storage or older OS\" to UEFI from Legacy in the BIOS as i also read online that it can disable CSM if i did not have the option too disable CSMi then saved changes and rebooted and had.Symptoms after change:PC powers on and shuts down briefly every 3 to 5 secondsFans and GPU also spin and shut off with PC every 3 - 5 secondsPC never reaches POST so I can press F2, F3, F12, DEL, END to load BIOSHDMI Display Flickers with no text on the screen, just the little line or an underscoreTroubleshooting Steps Tried:removing the CMOS battery for 2 hours to reset the BIOS to defaultsTested with Monitor on the integrated GPU HDMI port and the Nvidia GPU's HDMI port with no output displayed.Verified the GPU is seated in the PCIE slot correctlyno changes in symptoms after troubleshooting.Current Status:PC Still Powers on and off with all the lights displaying for 3 - 5 secondsHDMI Flickers on and off during processFans and GPU also turn ON and OFF during processLooking For:Advice on next steps to recover BIOS functionality and restore display output.QFLASH functionality? i did use to see it come up during POST while PC was working but need a bit of advice on if my motherboard can support it.",
+      "flair": [
+        "Open | Hardware"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+      "is_promoted": false
+    },
+    {
+      "title": "How do I fix this??",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n90qwp/how_do_i_fix_this/",
+      "score": 1,
+      "comments": 0,
+      "post_id": "t3_1n90qwp",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "Altruistic_Share3058",
+      "author_id": "t2_kdkrejp7w",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-09-05T09:38:29.331000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n90qwp/how_do_i_fix_this/",
+      "content_preview": "So basically my friend (phone:oppo reno14 5g) wants to change her lockscreen wallpaper but can't apply the wallpaper and its shows a prompt like \"Wallpaper settings have been disabled. Please enable them to apply this image as the wallpaper.\" and a button at the bottom \"got it\". Whats the cause of this problem and how do I fix it?",
+      "flair": [
+        "Open | Phone"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "See what FedEx can do for your business.",
+      "permalink": "https://www.reddit.com/user/FedEx/comments/1kzdlzr/see_what_fedex_can_do_for_your_business/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1kzdlzr",
+      "post_type": "image",
+      "domain": "fedex.com",
+      "author": "FedEx",
+      "author_id": "t2_e3u4lxue",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-05-30T19:48:55.312000+0000",
+      "content_href": "https://www.fedex.com/en-us/open-account/ag13398602.html?cmp=SOC-1007410-87-14-1018-1110000-US-US-EN-123651:20241217:201412020",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_4y0h41/styles/profileIcon_qntp003ebb4c1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=579eb4f7fd85dd75f275be9df21aa3a38ffd31e9",
+      "is_promoted": true
+    },
+    {
+      "title": "Two SATA SSDs no longer showing up after driver crashes and a shutdown.",
+      "permalink": "https://www.reddit.com/r/techsupport/comments/1n8s5st/two_sata_ssds_no_longer_showing_up_after_driver/",
+      "score": 2,
+      "comments": 0,
+      "post_id": "t3_1n8s5st",
+      "post_type": "text",
+      "domain": "self.techsupport",
+      "author": "Sh0rkie",
+      "author_id": "t2_7w1pve6k",
+      "subreddit_id": "t5_2qioo",
+      "subreddit": "r/techsupport",
+      "created_ts": "2025-09-05T01:26:13.500000+0000",
+      "content_href": "https://www.reddit.com/r/techsupport/comments/1n8s5st/two_sata_ssds_no_longer_showing_up_after_driver/",
+      "content_preview": "Long story short, I've been experiencing AMD driver crashes pretty frequently which I posted about on AMD help a few months ago. When the drivers timeout my screens all go black and I have to hold the power button to shutdown to be able to get everything running again. Last week after doing one of these shutdowns my sata SSD (Crucial BX500) was no longer detected by windows. Device manager showed it as an unknown device, disk manager wouldn't let me initialize it, and it didn't show up in BIOS. I plugged it into an external enclosure and nothing. I tried it in another PC and it wouldn't boot with it connected, and didn't show up when connected after boot. I tried to let it self repair and nothing. Finally I cut my losses and ordered another identical drive, only for the exact same thing to happen again a few days later.Are there any steps I'm missing? Did I do something wrong? I had been hard shutting down like this for months prior to the first instance of this happening and nothing bad occurred.",
+      "flair": [
+        "Open | Hardware"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_31s5ra/styles/profileIcon_n1wwgyvm5jy51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=0513b41b47f3b83473a7f1c367889674e76caaee",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:03:17.317830"
+  "scraped_at": "2025-09-05T03:31:26.559265"
 }

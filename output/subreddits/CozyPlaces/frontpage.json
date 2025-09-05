@@ -3,14 +3,468 @@
   "url": "https://www.reddit.com/r/CozyPlaces",
   "meta": {
     "title": "Cozy Places",
-    "members_text": "498,757"
+    "description": "\"Cosy\", or the American spelling \"Cozy\", means to give a feeling of comfort, warmth, and relaxation. \n\n/r/CozyPlaces is an inclusive and positive community that features original content photography of cozy places from all around the world, of all shapes, sizes, and price ranges.",
+    "subscribers": 7173141,
+    "online_users": 50,
+    "created_timestamp": "2025-09-04T05:27:43.631000+0000",
+    "sidebar_widgets": [
+      {
+        "title": "r/CozyPlaces Rules",
+        "content": [
+          {
+            "text": "Read our full Community Policy",
+            "url": "https://tinyurl.com/54v6fkts"
+          },
+          {
+            "text": "Read about what subjects aren't allowed in the comment section",
+            "url": "https://tinyurl.com/27anwnpc"
+          },
+          {
+            "text": "Read our full Content Policy",
+            "url": "https://www.reddit.com/r/CozyPlaces/wiki/index/#wiki_rule_2_-_content_policy"
+          },
+          {
+            "text": "How to Write Your Post Title",
+            "url": "https://tinyurl.com/yaoc64gg"
+          },
+          {
+            "text": "What to Avoid in Post Titles",
+            "url": "https://tinyurl.com/y8x6tj9h"
+          },
+          {
+            "text": "Read about Focal Points",
+            "url": "https://tinyurl.com/y5mczjmm"
+          },
+          {
+            "text": "content policy",
+            "url": "https://www.reddit.com/r/CozyPlaces/wiki/index/#wiki_2.1_post_content_requirements"
+          },
+          {
+            "text": "Read about our advertising policy",
+            "url": "https://www.reddit.com/r/CozyPlaces/wiki/index#wiki_2.3_advertising"
+          }
+        ]
+      },
+      {
+        "title": "Recommended Subs",
+        "content": [
+          {
+            "text": "r/cozy",
+            "url": "/r/cozy"
+          },
+          {
+            "text": "r/CabinPorn",
+            "url": "/r/CabinPorn"
+          },
+          {
+            "text": "r/cottagecore",
+            "url": "/r/cottagecore"
+          },
+          {
+            "text": "r/bookshelf",
+            "url": "/r/bookshelf"
+          },
+          {
+            "text": "r/AmateurRoomPorn",
+            "url": "/r/AmateurRoomPorn"
+          },
+          {
+            "text": "r/femalelivingspace",
+            "url": "/r/femalelivingspace"
+          },
+          {
+            "text": "r/malelivingspace",
+            "url": "/r/malelivingspace"
+          },
+          {
+            "text": "r/PlantNook",
+            "url": "/r/PlantNook"
+          },
+          {
+            "text": "r/christmas",
+            "url": "/r/christmas"
+          },
+          {
+            "text": "r/ImaginarySliceOfLife",
+            "url": "/r/ImaginarySliceOfLife"
+          }
+        ]
+      },
+      {
+        "title": "Moderators",
+        "content": [
+          {
+            "text": "Learn More",
+            "url": "https://support.reddithelp.com/hc/articles/360049499032"
+          },
+          {
+            "text": "View all moderators",
+            "url": "/mod/CozyPlaces/moderators/"
+          }
+        ]
+      }
+    ],
+    "rules": []
   },
   "posts": [
     {
+      "title": "My living room converted to a rehearsal space for the next week.",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n81q0l/my_living_room_converted_to_a_rehearsal_space_for/",
+      "score": 119,
+      "comments": 5,
+      "post_id": "t3_1n81q0l",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "prstele01",
+      "author_id": "t2_73yyh",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-09-04T05:27:43.631000+0000",
+      "content_href": "https://i.redd.it/q0vgbnl033nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "LIVING AREA"
+      ],
+      "thumbnail_url": "https://preview.redd.it/my-living-room-converted-to-a-rehearsal-space-for-the-next-v0-q0vgbnl033nf1.jpeg?width=640&crop=smart&auto=webp&s=fdf2e97cfcb30b90f6ac18abb894f4e91e7ca7bb",
+      "is_promoted": false
+    },
+    {
+      "title": "My college bedroom (idk if this counts for this sub but I think it’s cozy)",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n80agv/my_college_bedroom_idk_if_this_counts_for_this/",
+      "score": 318,
+      "comments": 129,
+      "post_id": "t3_1n80agv",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Therealseebz",
+      "author_id": "t2_e82qt2tr",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-09-04T04:06:59.661000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n80agv",
+      "content_preview": "",
+      "flair": [
+        "BEDROOM"
+      ],
+      "thumbnail_url": "https://preview.redd.it/my-college-bedroom-idk-if-this-counts-for-this-sub-but-i-v0-br19b5llo2nf1.jpg?width=640&crop=smart&auto=webp&s=e55926512c0ed7a86082ef39699cfab54bc0b429",
+      "is_promoted": false
+    },
+    {
+      "title": "A little different cozy space - my 7th grade class library!",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n7unby/a_little_different_cozy_space_my_7th_grade_class/",
+      "score": 554,
+      "comments": 23,
+      "post_id": "t3_1n7unby",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "kaydajay11",
+      "author_id": "t2_1eec2jhhak",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-09-03T23:36:53.446000+0000",
+      "content_href": "https://i.redd.it/ncnrhaifc1nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "WORK SPACE"
+      ],
+      "thumbnail_url": "https://preview.redd.it/a-little-different-cozy-space-my-7th-grade-class-library-v0-ncnrhaifc1nf1.jpeg?width=640&crop=smart&auto=webp&s=cac3e4ccc0290cf5a1f58f599fa318ff47f2c339",
+      "is_promoted": false
+    },
+    {
+      "title": "Our screen room is perfect - coffee to start the day, wine to end",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n7ru9b/our_screen_room_is_perfect_coffee_to_start_the/",
+      "score": 149,
+      "comments": 6,
+      "post_id": "t3_1n7ru9b",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Any_Commission8214",
+      "author_id": "t2_i3ngdl9gq",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-09-03T21:39:47.771000+0000",
+      "content_href": "https://i.redd.it/7phsa18jr0nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "PATIO / SUNROOM"
+      ],
+      "thumbnail_url": "https://preview.redd.it/our-screen-room-is-perfect-coffee-to-start-the-day-wine-to-v0-7phsa18jr0nf1.jpeg?width=640&crop=smart&auto=webp&s=44f2df982807c45e68c4fea0ea4f1784b2c7806b",
+      "is_promoted": false
+    },
+    {
+      "title": "My office / Home studio",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n7qxz6/my_office_home_studio/",
+      "score": 429,
+      "comments": 17,
+      "post_id": "t3_1n7qxz6",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Neofolk_Ernst",
+      "author_id": "t2_15wpv2fbyi",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-09-03T21:03:59.888000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n7qxz6",
+      "content_preview": "",
+      "flair": [
+        "HOBBY SPACE"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_c4nrfz/styles/profileIcon_uhq157t80ggd1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=e37483d3f2ac62b29a2a9caf3a77ae7742f36d71",
+      "is_promoted": false
+    },
+    {
+      "title": "YSK Combat Max® Roach Killing Bait kills the ones you see—and the ones you don’t, while roach sprays can be hit or miss. Get the job done today.",
+      "permalink": "https://www.reddit.com/user/CombatBugs_us/comments/1m2inko/ysk_combat_max_roach_killing_bait_kills_the_ones/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1m2inko",
+      "post_type": "video",
+      "domain": "offers.pearcommerce.com",
+      "author": "CombatBugs_us",
+      "author_id": "t2_1pb2zbjg01",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-17T20:38:11.580000+0000",
+      "content_href": "https://v.redd.it/eh3aomo9fgdf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_eg1v95/styles/profileIcon_5owohor9dfaf1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=2ed55c8b2e06699d101477e38a5b2f5049592ecf",
+      "is_promoted": true
+    },
+    {
+      "title": "My 1929 bungalow living room is ready for fall…",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n7p645/my_1929_bungalow_living_room_is_ready_for_fall/",
+      "score": 1711,
+      "comments": 19,
+      "post_id": "t3_1n7p645",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "bumbouxbee",
+      "author_id": "t2_1wnz1qtp",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-09-03T19:57:02.666000+0000",
+      "content_href": "https://i.redd.it/zssge6a790nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "LIVING AREA"
+      ],
+      "thumbnail_url": "https://preview.redd.it/my-1929-bungalow-living-room-is-ready-for-fall-v0-zssge6a790nf1.jpeg?width=640&crop=smart&auto=webp&s=0ff5ffe9917d831a317fd66fb56493f94c18ef69",
+      "is_promoted": false
+    },
+    {
+      "title": "My son’s tiny home that he and I built last spring.",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n7ot8h/my_sons_tiny_home_that_he_and_i_built_last_spring/",
+      "score": 10194,
+      "comments": 140,
+      "post_id": "t3_1n7ot8h",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "hyperbolicuniverse",
+      "author_id": "t2_dq57x",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-09-03T19:43:24.176000+0000",
+      "content_href": "https://i.redd.it/x2g6x36r60nf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "LIVING AREA"
+      ],
+      "thumbnail_url": "https://preview.redd.it/my-sons-tiny-home-that-he-and-i-built-last-spring-v0-x2g6x36r60nf1.jpeg?width=640&crop=smart&auto=webp&s=e75a6d67ca6cb4deed1715495f1a14b17e39454a",
+      "is_promoted": false
+    },
+    {
+      "title": "Philippines beach hut",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n7i4ly/philippines_beach_hut/",
+      "score": 141,
+      "comments": 4,
+      "post_id": "t3_1n7i4ly",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "photonphillips",
+      "author_id": "t2_5dinqrlo",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-09-03T15:37:03.559000+0000",
+      "content_href": "https://i.redd.it/4ms8fwrqyymf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "BEDROOM"
+      ],
+      "thumbnail_url": "https://preview.redd.it/philippines-beach-hut-v0-4ms8fwrqyymf1.jpeg?width=640&crop=smart&auto=webp&s=ba240873b9e5f765ea7bc4d93f3d38c8c73557a0",
+      "is_promoted": false
+    },
+    {
+      "title": "Working late at night with a little music and dimmed lights",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n7hssx/working_late_at_night_with_a_little_music_and/",
+      "score": 6926,
+      "comments": 92,
+      "post_id": "t3_1n7hssx",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "elliottbaytrail",
+      "author_id": "t2_7v2e93nh",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-09-03T15:24:42.592000+0000",
+      "content_href": "https://i.redd.it/42o83samwymf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "WORK SPACE"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_31g15n/styles/profileIcon_hum97rjij88b1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f1a33dda242e20832b9c0bdc444bcca0817b37cd",
+      "is_promoted": false
+    },
+    {
+      "title": "a cosy bookstore, OR",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n7faur/a_cosy_bookstore_or/",
+      "score": 448,
+      "comments": 14,
+      "post_id": "t3_1n7faur",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "antonoffing_around",
+      "author_id": "t2_820kzu2t",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-09-03T13:48:04.017000+0000",
+      "content_href": "https://i.redd.it/66768nddfymf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "LIBRARY"
+      ],
+      "thumbnail_url": "https://preview.redd.it/a-cosy-bookstore-or-v0-66768nddfymf1.jpeg?width=640&crop=smart&auto=webp&s=cccd16a24ff750b9e96d2c13e7349dddb5550ff9",
+      "is_promoted": false
+    },
+    {
+      "title": "Closing down our cozy kitchen for the night",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n708h0/closing_down_our_cozy_kitchen_for_the_night/",
+      "score": 1460,
+      "comments": 42,
+      "post_id": "t3_1n708h0",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Houseongreenhill",
+      "author_id": "t2_qfrerrsku",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-09-03T00:19:11.678000+0000",
+      "content_href": "https://i.redd.it/r7iqu5d2fumf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "KITCHEN"
+      ],
+      "thumbnail_url": "https://preview.redd.it/closing-down-our-cozy-kitchen-for-the-night-v0-r7iqu5d2fumf1.jpeg?width=640&crop=smart&auto=webp&s=6949968ed64725f14a2a665b9cdba47a241baeee",
+      "is_promoted": false
+    },
+    {
+      "title": "My little balcony and patio",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n6uxdg/my_little_balcony_and_patio/",
+      "score": 325,
+      "comments": 6,
+      "post_id": "t3_1n6uxdg",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Trexus1",
+      "author_id": "t2_l1psfgzr",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-09-02T20:39:44.897000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n6uxdg",
+      "content_preview": "",
+      "flair": [
+        "LIVING AREA"
+      ],
+      "thumbnail_url": "https://preview.redd.it/my-little-balcony-and-patio-v0-rlzc8f5vbtmf1.jpg?width=640&crop=smart&auto=webp&s=1fdc719d1d2b74974f3d7b201f2688721866ac50",
+      "is_promoted": false
+    },
+    {
+      "title": "Progressive is supporting eligible first-generation homebuyers with a chance to receive $13.5k toward a down payment.",
+      "permalink": "https://www.reddit.com/user/progressive/comments/1luqt9x/progressive_is_supporting_eligible/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1luqt9x",
+      "post_type": "image",
+      "domain": "progressive.com",
+      "author": "progressive",
+      "author_id": "t2_3aruw7ni",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-07-08T14:59:59.826000+0000",
+      "content_href": "https://www.progressive.com/about/purpose/homeownership/?utm_source=red&code=9903622247&utm_medium=dark&utm_campaign=Housing&utm_id=&utm_content=Fo#uppayment",
+      "content_preview": "No purchase necessary. Open 50 US/DC, 18+ only.Rules.",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_y2oz0/styles/profileIcon_rrl0a2v2wdx21.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=a52b64e85f73d548c26c61266d02a4930e428298",
+      "is_promoted": true
+    },
+    {
+      "title": "Trains in the Attic",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n6ulsk/trains_in_the_attic/",
+      "score": 127,
+      "comments": 6,
+      "post_id": "t3_1n6ulsk",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "BuffaloBrendan",
+      "author_id": "t2_as9h5hb8",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-09-02T20:27:44.954000+0000",
+      "content_href": "https://i.redd.it/spidzpvr9tmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "KIDS' SPACE"
+      ],
+      "thumbnail_url": "https://preview.redd.it/trains-in-the-attic-v0-spidzpvr9tmf1.jpeg?width=640&crop=smart&auto=webp&s=3f73df481b8dad2e1ee1df8f08a35e5838fca3fd",
+      "is_promoted": false
+    },
+    {
+      "title": "I started putting out my Halloween/Fall decor. 🎃",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n6taig/i_started_putting_out_my_halloweenfall_decor/",
+      "score": 521,
+      "comments": 16,
+      "post_id": "t3_1n6taig",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "shesfreespirited",
+      "author_id": "t2_vlxv1n0n",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-09-02T19:38:15.079000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n6taig",
+      "content_preview": "",
+      "flair": [
+        "HOLIDAY DECOR"
+      ],
+      "thumbnail_url": "https://preview.redd.it/i-started-putting-out-my-halloween-fall-decor-v0-losug4zx0tmf1.jpg?width=640&crop=smart&auto=webp&s=d71153625d0d2b4b82716d6f158fddcd9fe5a3fe",
+      "is_promoted": false
+    },
+    {
+      "title": "Nothing like a Vermont summer 🍎🛶⛰️",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n6iuib/nothing_like_a_vermont_summer/",
+      "score": 21460,
+      "comments": 450,
+      "post_id": "t3_1n6iuib",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "ArrozBalenciaga",
+      "author_id": "t2_s8i2lxf2",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-09-02T13:01:48.057000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n6iuib",
+      "content_preview": "VACATION RENTAL / HOTEL",
+      "flair": [
+        "VACATION RENTAL / HOTEL"
+      ],
+      "thumbnail_url": "https://preview.redd.it/nothing-like-a-vermont-summer-v0-wv89jb472rmf1.jpg?width=640&crop=smart&auto=webp&s=2b272c14cecf1242a93d8d9fd2d172f4b673afc0",
+      "is_promoted": false
+    },
+    {
       "title": "new school year, new dorm. 🙂",
       "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n6bjvd/new_school_year_new_dorm/",
-      "score": 27,
-      "comments": 3,
+      "score": 155,
+      "comments": 9,
       "post_id": "t3_1n6bjvd",
       "post_type": "gallery",
       "domain": "reddit.com",
@@ -24,133 +478,14 @@
       "flair": [
         "BEDROOM"
       ],
-      "thumbnail_url": "https://preview.redd.it/new-school-year-new-dorm-v0-gwpa4b0axomf1.jpg?width=640&crop=smart&auto=webp&s=1faa3ffda60f7207e06ac7c701801966ba10a39d"
-    },
-    {
-      "title": "This is our little hideaway in this big, crazy world",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n40rfy/this_is_our_little_hideaway_in_this_big_crazy/",
-      "score": 32242,
-      "comments": 578,
-      "post_id": "t3_1n40rfy",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Ezrafina",
-      "author_id": "t2_11v0i1",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-30T12:46:49.650000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n40rfy",
-      "content_preview": "",
-      "flair": [
-        "LIVING AREA"
-      ],
-      "thumbnail_url": "https://preview.redd.it/this-is-our-little-hideaway-in-this-big-crazy-world-v0-lsbqebqsk5mf1.jpg?width=640&crop=smart&auto=webp&s=5795bca3ef63cea184a0b93683cf3e0b09f893dd"
-    },
-    {
-      "title": "Not your typical cozy place but it sure is.",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n5zoai/not_your_typical_cozy_place_but_it_sure_is/",
-      "score": 710,
-      "comments": 21,
-      "post_id": "t3_1n5zoai",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "musicandsex",
-      "author_id": "t2_8l0t2",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-09-01T20:24:19.847000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5zoai",
-      "content_preview": "",
-      "flair": [
-        "CAMPING"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
-    },
-    {
-      "title": "I call it \"cozy girly\", my one-bedroom rental apartment in Canada",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1mn0twj/i_call_it_cozy_girly_my_onebedroom_rental/",
-      "score": 25825,
-      "comments": 547,
-      "post_id": "t3_1mn0twj",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "mossyzombie2021",
-      "author_id": "t2_cubew76y",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-11T02:06:58.189000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mn0twj",
-      "content_preview": "",
-      "flair": [
-        "COZY NOOK"
-      ],
-      "thumbnail_url": "https://preview.redd.it/i-call-it-cozy-girly-my-one-bedroom-rental-apartment-in-v0-b0sxsh4ataif1.jpg?width=640&crop=smart&auto=webp&s=d449de37be34b772ea57d64870d51c8eb02bd4be"
-    },
-    {
-      "title": "My favorite time wasting spot",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n67pbq/my_favorite_time_wasting_spot/",
-      "score": 156,
-      "comments": 9,
-      "post_id": "t3_1n67pbq",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "jnicholass",
-      "author_id": "t2_8pplq",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-09-02T02:20:45.718000+0000",
-      "content_href": "https://i.redd.it/tmffa2cuvnmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "BATTLESTATION"
-      ],
-      "thumbnail_url": "https://preview.redd.it/my-favorite-time-wasting-spot-v0-tmffa2cuvnmf1.jpeg?width=640&crop=smart&auto=webp&s=1ad5bfaeb05a6a44a2aec2e5727b43c6817cfbee"
-    },
-    {
-      "title": "OC Couzy nook we did next to the kitchen.",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1mzyi4v/oc_couzy_nook_we_did_next_to_the_kitchen/",
-      "score": 10018,
-      "comments": 97,
-      "post_id": "t3_1mzyi4v",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "plantadict",
-      "author_id": "t2_6pak0mukh",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-25T18:27:36.712000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mzyi4v",
-      "content_preview": "",
-      "flair": [
-        "KITCHEN"
-      ],
-      "thumbnail_url": "https://preview.redd.it/couzy-nook-we-did-next-to-the-kitchen-v0-newk4ks0l7lf1.jpg?width=640&crop=smart&auto=webp&s=21135d88057036305d41773c783a8f1958c0224c"
-    },
-    {
-      "title": "My girlfriend’s and my office looking cozy at night.",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n5xwyw/my_girlfriends_and_my_office_looking_cozy_at_night/",
-      "score": 540,
-      "comments": 19,
-      "post_id": "t3_1n5xwyw",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "toad1987",
-      "author_id": "t2_8vdzg",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-09-01T19:15:50.841000+0000",
-      "content_href": "https://i.redd.it/t2g06o51slmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "WORK SPACE"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+      "thumbnail_url": "https://preview.redd.it/new-school-year-new-dorm-v0-gwpa4b0axomf1.jpg?width=640&crop=smart&auto=webp&s=1faa3ffda60f7207e06ac7c701801966ba10a39d",
+      "is_promoted": false
     },
     {
       "title": "this isn't the final look, but i hope you guys like it :)",
       "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n69egh/this_isnt_the_final_look_but_i_hope_you_guys_like/",
-      "score": 71,
-      "comments": 3,
+      "score": 284,
+      "comments": 5,
       "post_id": "t3_1n69egh",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -164,153 +499,14 @@
       "flair": [
         "BEDROOM"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
-    },
-    {
-      "title": "62 degrees and low humidity here in Minnesota. Perfect sleeping weather.",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1myizzo/62_degrees_and_low_humidity_here_in_minnesota/",
-      "score": 18902,
-      "comments": 248,
-      "post_id": "t3_1myizzo",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "tenglempls",
-      "author_id": "t2_l28udm0",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-24T01:35:55.855000+0000",
-      "content_href": "https://i.redd.it/sn6u340nfvkf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "LIVING AREA"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "I love this place! The sun is changing, winter is coming!",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n61n1v/i_love_this_place_the_sun_is_changing_winter_is/",
-      "score": 172,
-      "comments": 4,
-      "post_id": "t3_1n61n1v",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Admirable04",
-      "author_id": "t2_1n2bu05g5h",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-09-01T21:41:21.327000+0000",
-      "content_href": "https://i.redd.it/wj0l5rnzhmmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "LIVING AREA"
-      ],
-      "thumbnail_url": "https://preview.redd.it/i-love-this-place-the-sun-is-changing-winter-is-coming-v0-wj0l5rnzhmmf1.jpeg?width=640&crop=smart&auto=webp&s=88c1e5152975622d8aa2ccb311604f3ec1c089c2"
-    },
-    {
-      "title": "This view feels like heaven touching earth. 🌱",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n1up80/this_view_feels_like_heaven_touching_earth/",
-      "score": 8295,
-      "comments": 53,
-      "post_id": "t3_1n1up80",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "milana__",
-      "author_id": "t2_eoa195s9",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-27T22:06:44.191000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n1up80",
-      "content_preview": "",
-      "flair": [
-        "VACATION RENTAL / HOTEL"
-      ],
-      "thumbnail_url": "https://preview.redd.it/this-view-feels-like-heaven-touching-earth-v0-9qmtn9gyxmlf1.jpg?width=640&crop=smart&auto=webp&s=8d2e31020b35df7f99743a5ff3f2f379d5f3ce79"
-    },
-    {
-      "title": "The coziest room in our new home",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n5tsip/the_coziest_room_in_our_new_home/",
-      "score": 315,
-      "comments": 9,
-      "post_id": "t3_1n5tsip",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "livw17",
-      "author_id": "t2_3iupsxe3",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-09-01T16:44:30.772000+0000",
-      "content_href": "https://i.redd.it/ssff06ft0lmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "LIVING AREA"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
-    },
-    {
-      "title": "The window reading nooks in our new home are brilliant on a rainy day",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n2uk7c/the_window_reading_nooks_in_our_new_home_are/",
-      "score": 8302,
-      "comments": 85,
-      "post_id": "t3_1n2uk7c",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "SmashAngle",
-      "author_id": "t2_1i92oax18n",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-29T01:40:18.719000+0000",
-      "content_href": "https://i.redd.it/0m65h7zy4vlf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "COZY NOOK"
-      ],
-      "thumbnail_url": "https://preview.redd.it/the-window-reading-nooks-in-our-new-home-are-brilliant-on-a-v0-0m65h7zy4vlf1.jpeg?width=640&crop=smart&auto=webp&s=83dd1ee1211e702a52bfdb8e25ed8e22e721f0fe"
-    },
-    {
-      "title": "My battlestation together with some little companions",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n5g3oa/my_battlestation_together_with_some_little/",
-      "score": 1360,
-      "comments": 42,
-      "post_id": "t3_1n5g3oa",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "SkweezyJibsss",
-      "author_id": "t2_501ujdgu",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-09-01T05:16:15.904000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5g3oa",
-      "content_preview": "",
-      "flair": [
-        "BATTLESTATION"
-      ],
-      "thumbnail_url": "https://preview.redd.it/my-battlestation-together-with-some-little-companions-v0-mgg0jul8mhmf1.jpg?width=640&crop=smart&auto=webp&s=7de97f7faf894ad7b3130c7ecccba0d6c7d2fa67"
-    },
-    {
-      "title": "Giant Window Wall Bedroom",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1mfqo49/giant_window_wall_bedroom/",
-      "score": 14511,
-      "comments": 137,
-      "post_id": "t3_1mfqo49",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "dirtandglass",
-      "author_id": "t2_4tff62ww",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-02T13:33:45.460000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mfqo49",
-      "content_preview": "",
-      "flair": [
-        "BEDROOM"
-      ],
-      "thumbnail_url": "https://preview.redd.it/giant-window-wall-bedroom-v0-c931qgfnzlgf1.jpg?width=640&crop=smart&auto=webp&s=bbd71887770ef57b67cb39ddf962ff3e755df6b0"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
       "title": "Cozy bedroom (OG) - updated!",
       "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n693lm/cozy_bedroom_og_updated/",
-      "score": 21,
-      "comments": 2,
+      "score": 69,
+      "comments": 4,
       "post_id": "t3_1n693lm",
       "post_type": "gallery",
       "domain": "reddit.com",
@@ -324,573 +520,56 @@
       "flair": [
         "BEDROOM"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": false
     },
     {
-      "title": "My library/living room.",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1mrh2ae/my_libraryliving_room/",
-      "score": 14439,
-      "comments": 137,
-      "post_id": "t3_1mrh2ae",
+      "title": "My favorite time wasting spot",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n67pbq/my_favorite_time_wasting_spot/",
+      "score": 366,
+      "comments": 17,
+      "post_id": "t3_1n67pbq",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "immigrantpatriot",
-      "author_id": "t2_h7pjc",
+      "author": "jnicholass",
+      "author_id": "t2_8pplq",
       "subreddit_id": "t5_34ixl",
       "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-16T01:39:34.839000+0000",
-      "content_href": "https://i.redd.it/ydsalf10dajf1.jpeg",
+      "created_ts": "2025-09-02T02:20:45.718000+0000",
+      "content_href": "https://i.redd.it/tmffa2cuvnmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "BATTLESTATION"
+      ],
+      "thumbnail_url": "https://preview.redd.it/my-favorite-time-wasting-spot-v0-tmffa2cuvnmf1.jpeg?width=640&crop=smart&auto=webp&s=1ad5bfaeb05a6a44a2aec2e5727b43c6817cfbee",
+      "is_promoted": false
+    },
+    {
+      "title": "Trying to romanticize my rent🤭",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n66mox/trying_to_romanticize_my_rent/",
+      "score": 11894,
+      "comments": 161,
+      "post_id": "t3_1n66mox",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "emerald1607",
+      "author_id": "t2_j88f6rs8",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-09-02T01:28:46.011000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n66mox",
       "content_preview": "",
       "flair": [
         "LIVING AREA"
       ],
-      "thumbnail_url": "https://preview.redd.it/my-library-living-room-v0-ydsalf10dajf1.jpeg?width=640&crop=smart&auto=webp&s=521ea1854a9343bd02ac45a9cf3518f82df7289e"
-    },
-    {
-      "title": "From my cozy little corner in the world, hello September🍁🕯️",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n5vomc/from_my_cozy_little_corner_in_the_world_hello/",
-      "score": 76,
-      "comments": 4,
-      "post_id": "t3_1n5vomc",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Lunar_Gold",
-      "author_id": "t2_ea9t0pwdd",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-09-01T17:53:42.373000+0000",
-      "content_href": "https://i.redd.it/g7xrrjnddlmf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "LIVING AREA"
-      ],
-      "thumbnail_url": "https://preview.redd.it/from-my-cozy-little-corner-in-the-world-hello-september-v0-g7xrrjnddlmf1.jpeg?width=640&crop=smart&auto=webp&s=d44bd69f28c4e2f7b98c3080cccbea66e71fb470"
-    },
-    {
-      "title": "My modest sleeper berth in my Semi truck",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n59z5m/my_modest_sleeper_berth_in_my_semi_truck/",
-      "score": 1220,
-      "comments": 83,
-      "post_id": "t3_1n59z5m",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "KoiwazuraiAi",
-      "author_id": "t2_e1qnjqyl",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-31T23:59:30.622000+0000",
-      "content_href": "https://i.redd.it/25pabkqp1gmf1.png",
-      "content_preview": "",
-      "flair": [
-        "VAN / TRUCK / CAR"
-      ],
-      "thumbnail_url": "https://preview.redd.it/my-modest-sleeper-berth-in-my-semi-truck-v0-25pabkqp1gmf1.png?width=640&crop=smart&auto=webp&s=fe5a9eb2596f4f43a4a074832eb5625f2ea3eb39"
-    },
-    {
-      "title": "My little apartment with big windows in Denmark",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n3xz9p/my_little_apartment_with_big_windows_in_denmark/",
-      "score": 7028,
-      "comments": 51,
-      "post_id": "t3_1n3xz9p",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Yourangmilady",
-      "author_id": "t2_h45bnm9",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-30T10:11:37.474000+0000",
-      "content_href": "https://i.redd.it/ckcl4k24t4mf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "LIVING AREA"
-      ],
-      "thumbnail_url": "https://preview.redd.it/my-little-apartment-with-big-windows-in-denmark-v0-ckcl4k24t4mf1.jpeg?width=640&crop=smart&auto=webp&s=603fe8eab1e3a9b6f840d7265c7a123b578c27ca"
-    },
-    {
-      "title": "Tiny cabin up in a tree",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n48trn/tiny_cabin_up_in_a_tree/",
-      "score": 558,
-      "comments": 11,
-      "post_id": "t3_1n48trn",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "PmMeYourUnclesAnkles",
-      "author_id": "t2_vy2k6",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-30T18:27:25.286000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n48trn",
-      "content_preview": "",
-      "flair": [
-        "CABIN"
-      ],
-      "thumbnail_url": "https://preview.redd.it/tiny-cabin-up-in-a-tree-v0-ips2r58k97mf1.jpg?width=640&crop=smart&auto=webp&s=a0c21653f6af97cb2c10fee5a11a4c10cb8fd6e7"
-    },
-    {
-      "title": "Our cozy living room in the early morning light 💚",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1mnmh96/our_cozy_living_room_in_the_early_morning_light/",
-      "score": 11012,
-      "comments": 144,
-      "post_id": "t3_1mnmh96",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "FATCATPDX",
-      "author_id": "t2_kftzf2pa",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-11T19:23:37.912000+0000",
-      "content_href": "https://i.redd.it/rvhdmn3ayfif1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "LIVING AREA"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_8frx3z/styles/profileIcon_473mdmlllw2c1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=fbdf7d6b9deac09dd6ad284f25ebd0bd44dd0733"
-    },
-    {
-      "title": "Sunroom /foyer urbana illinois",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n47ffj/sunroom_foyer_urbana_illinois/",
-      "score": 333,
-      "comments": 2,
-      "post_id": "t3_1n47ffj",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Gat61",
-      "author_id": "t2_wjpiy",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-30T17:29:35.976000+0000",
-      "content_href": "https://i.redd.it/rxvuzi59z6mf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "PATIO / SUNROOM"
-      ],
-      "thumbnail_url": "https://preview.redd.it/sunroom-foyer-urbana-illinois-v0-rxvuzi59z6mf1.jpeg?width=640&crop=smart&auto=webp&s=384499e5de93d11da9a5c96045cc477c31105d69"
-    },
-    {
-      "title": "Post got removed, so I'll try again: autumn greenhouse nights w movies & snacks",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n4a70w/post_got_removed_so_ill_try_again_autumn/",
-      "score": 6213,
-      "comments": 65,
-      "post_id": "t3_1n4a70w",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Internal_axolotl",
-      "author_id": "t2_1i47dqieon",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-30T19:23:09.568000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n4a70w",
-      "content_preview": "",
-      "flair": [
-        "GARDEN / YARD"
-      ],
-      "thumbnail_url": "https://preview.redd.it/post-got-removed-so-ill-try-again-autumn-greenhouse-nights-v0-d1aqtojhj7mf1.jpg?width=640&crop=smart&auto=webp&s=354966a24096238d60e314bd559b31deb5e9ed50"
-    },
-    {
-      "title": "My cozy tiny home from a few years ago. Still miss it.",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n41oii/my_cozy_tiny_home_from_a_few_years_ago_still_miss/",
-      "score": 500,
-      "comments": 3,
-      "post_id": "t3_1n41oii",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Large_Air_1159",
-      "author_id": "t2_1vb5z71wcj",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-30T13:29:49.012000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n41oii",
-      "content_preview": "",
-      "flair": [
-        "LIVING AREA"
-      ],
-      "thumbnail_url": "https://preview.redd.it/my-cozy-tiny-home-from-a-few-years-ago-still-miss-it-v0-tkturaads5mf1.jpg?width=640&crop=smart&auto=webp&s=a50d373f8188203bf81004bb16e011343f307923"
-    },
-    {
-      "title": "I love my bedroom with all the 🪴plants, 💡lamps and 💚green",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n3scnp/i_love_my_bedroom_with_all_the_plants_lamps_and/",
-      "score": 296,
-      "comments": 7,
-      "post_id": "t3_1n3scnp",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "reallysmartferret",
-      "author_id": "t2_2xjfuq7g",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-30T04:19:16.870000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n3scnp",
-      "content_preview": "",
-      "flair": [
-        "BEDROOM"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_u3v95/styles/profileIcon_8z1irzxaduv51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b40595af1af6e3ad18b334ccd148fb29fa288274"
-    },
-    {
-      "title": "My Updated Cozy Desk Setup",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n357qa/my_updated_cozy_desk_setup/",
-      "score": 136,
-      "comments": 8,
-      "post_id": "t3_1n357qa",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "17parkc",
-      "author_id": "t2_111cdw",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-29T11:47:02.715000+0000",
-      "content_href": "https://i.redd.it/bhudjja55ylf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "WORK SPACE"
-      ],
-      "thumbnail_url": "https://preview.redd.it/my-updated-cozy-desk-setup-v0-bhudjja55ylf1.jpeg?width=640&crop=smart&auto=webp&s=0ed22a82d68af0307342ef7878fa19a96955530e"
-    },
-    {
-      "title": "I started early 🥹🎃",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n5acnd/i_started_early/",
-      "score": 5755,
-      "comments": 178,
-      "post_id": "t3_1n5acnd",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "blkgrlsaywhat",
-      "author_id": "t2_9j3hoc5k",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-09-01T00:17:06.343000+0000",
-      "content_href": "https://www.reddit.com/gallery/1n5acnd",
-      "content_preview": "",
-      "flair": [
-        "DINING AREA"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
-    },
-    {
-      "title": "Early morning sun before the city wakes up",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1mzud3s/early_morning_sun_before_the_city_wakes_up/",
-      "score": 4846,
-      "comments": 49,
-      "post_id": "t3_1mzud3s",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "elliottbaytrail",
-      "author_id": "t2_7v2e93nh",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-25T15:56:20.043000+0000",
-      "content_href": "https://i.redd.it/0nb56d32u6lf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "LIVING AREA"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_31g15n/styles/profileIcon_hum97rjij88b1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=f1a33dda242e20832b9c0bdc444bcca0817b37cd"
-    },
-    {
-      "title": "My old Dorm Room.",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n329ja/my_old_dorm_room/",
-      "score": 173,
-      "comments": 10,
-      "post_id": "t3_1n329ja",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "BDEboy",
-      "author_id": "t2_4q5kh07r",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-29T08:58:26.947000+0000",
-      "content_href": "https://i.redd.it/khlpltb5bxlf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "BEDROOM"
-      ],
-      "thumbnail_url": "https://preview.redd.it/my-old-dorm-room-v0-khlpltb5bxlf1.jpeg?width=640&crop=smart&auto=webp&s=bd446d19f480583e444c786f0730a2d7d5653aae"
-    },
-    {
-      "title": "Evenings in My NYC Backyard Gazebo ☕️🍃",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1mzapv8/evenings_in_my_nyc_backyard_gazebo/",
-      "score": 378,
-      "comments": 7,
-      "post_id": "t3_1mzapv8",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Happy-Hospital-2289",
-      "author_id": "t2_9pxgysqi",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-24T23:18:55.949000+0000",
-      "content_href": "https://i.redd.it/yqfkfj14w1lf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "GARDEN / YARD"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "basement of our new home",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n68h5s/basement_of_our_new_home/",
-      "score": 39,
-      "comments": 1,
-      "post_id": "t3_1n68h5s",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "waterwawa",
-      "author_id": "t2_37vjgyjy",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-09-02T02:59:35.906000+0000",
-      "content_href": "https://i.redd.it/j18oqjur2omf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "LIVING AREA"
-      ],
-      "thumbnail_url": "https://preview.redd.it/basement-of-our-new-home-v0-j18oqjur2omf1.jpeg?width=640&crop=smart&auto=webp&s=8b703405ec9a58701a0c55ebf2b46809ac8ca042"
-    },
-    {
-      "title": "My backyard pub shed",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1myasdf/my_backyard_pub_shed/",
-      "score": 748,
-      "comments": 28,
-      "post_id": "t3_1myasdf",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "tiszarospeter",
-      "author_id": "t2_1kelcpyaxj",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-23T19:35:32.095000+0000",
-      "content_href": "https://www.reddit.com/gallery/1myasdf",
-      "content_preview": "",
-      "flair": [
-        "RECREATIONAL PLACE"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
-    },
-    {
-      "title": "Our sunroom on a sunny summer day with a breeze",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1my6yat/our_sunroom_on_a_sunny_summer_day_with_a_breeze/",
-      "score": 538,
-      "comments": 5,
-      "post_id": "t3_1my6yat",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "LukeDuke",
-      "author_id": "t2_33nz4",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-23T17:07:12.294000+0000",
-      "content_href": "https://www.reddit.com/gallery/1my6yat",
-      "content_preview": "",
-      "flair": [
-        "LIVING AREA"
-      ],
-      "thumbnail_url": "https://preview.redd.it/our-sunroom-on-a-sunny-summer-day-with-a-breeze-v0-8i8pq7nvwskf1.jpg?width=640&crop=smart&auto=webp&s=85fbd4e740ccd5108318aa56b56df803c43e15ef"
-    },
-    {
-      "title": "Finished decorating my living room of mostly second hand pieces",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1my3i1s/finished_decorating_my_living_room_of_mostly/",
-      "score": 616,
-      "comments": 57,
-      "post_id": "t3_1my3i1s",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "_eringk_",
-      "author_id": "t2_1763pt",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-23T14:52:30.112000+0000",
-      "content_href": "https://www.reddit.com/gallery/1my3i1s",
-      "content_preview": "",
-      "flair": [
-        "LIVING AREA"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
-    },
-    {
-      "title": "The Bookery in Fergus, Ontario",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1mxop17/the_bookery_in_fergus_ontario/",
-      "score": 550,
-      "comments": 7,
-      "post_id": "t3_1mxop17",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "Bookish-93",
-      "author_id": "t2_vhzz4ow24",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-23T01:38:51.753000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mxop17",
-      "content_preview": "",
-      "flair": [
-        "LIBRARY"
-      ],
-      "thumbnail_url": "https://preview.redd.it/the-bookery-in-fergus-ontario-v0-ra2oyqb5bokf1.jpg?width=640&crop=smart&auto=webp&s=10af3ecbd80bd87eff4a64d15248a36bcedb1430"
-    },
-    {
-      "title": "Just shy of a year in our cozy, happy little house ◡̈",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1mgwptw/just_shy_of_a_year_in_our_cozy_happy_little_house/",
-      "score": 9418,
-      "comments": 208,
-      "post_id": "t3_1mgwptw",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "meep4",
-      "author_id": "t2_h9wpx",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-03T22:35:39.863000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mgwptw",
-      "content_preview": "",
-      "flair": [
-        "LIVING AREA"
-      ],
-      "thumbnail_url": "https://preview.redd.it/just-shy-of-a-year-in-our-cozy-happy-little-house-v0-0ejruru8tvgf1.jpg?width=640&crop=smart&auto=webp&s=9956b3769e9c73e325ac5cc6e94c97c083120373"
-    },
-    {
-      "title": "My downstairs living room, kitchen, entry way, music room and bathroom",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1mjmoyt/my_downstairs_living_room_kitchen_entry_way_music/",
-      "score": 9254,
-      "comments": 429,
-      "post_id": "t3_1mjmoyt",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "kam27889",
-      "author_id": "t2_go8tyjeq",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-07T01:18:13.962000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mjmoyt",
-      "content_preview": "",
-      "flair": [
-        "LIVING AREA"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_5ctpzk/styles/profileIcon_u2he0l77luw91.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d73d07d7bc3bad57109751d75de892c17ce61ca2"
-    },
-    {
-      "title": "Moved into my first Seattle apartment! Before and after of my Living Room!",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1mirrsa/moved_into_my_first_seattle_apartment_before_and/",
-      "score": 8434,
-      "comments": 124,
-      "post_id": "t3_1mirrsa",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "MasonBurnheart",
-      "author_id": "t2_ksxuftdf0",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-06T01:38:29.694000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mirrsa",
-      "content_preview": "",
-      "flair": [
-        "LIVING AREA"
-      ],
-      "thumbnail_url": "https://preview.redd.it/moved-into-my-first-seattle-apartment-before-and-after-of-v0-4xna4dvnzahf1.jpg?width=640&crop=smart&auto=webp&s=800682e228b0b785747855c06c2686f4f55a56bf"
-    },
-    {
-      "title": "Midnight Cleaning + Gilmore Girls in My NYC Home 🍂🕯️",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1mx0xjv/midnight_cleaning_gilmore_girls_in_my_nyc_home/",
-      "score": 637,
-      "comments": 34,
-      "post_id": "t3_1mx0xjv",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "Happy-Hospital-2289",
-      "author_id": "t2_9pxgysqi",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-22T08:31:22.751000+0000",
-      "content_href": "https://i.redd.it/5uemij7x7jkf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "LIVING AREA"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
-    },
-    {
-      "title": "OC My greenhouse is starting to shape up like I planned it.",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1mt77ba/oc_my_greenhouse_is_starting_to_shape_up_like_i/",
-      "score": 7871,
-      "comments": 56,
-      "post_id": "t3_1mt77ba",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "plantadict",
-      "author_id": "t2_6pak0mukh",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-18T00:22:16.675000+0000",
-      "content_href": "https://i.redd.it/h37n4uxz8ojf1.jpeg",
-      "content_preview": "",
-      "flair": [
-        "GARDEN / YARD"
-      ],
-      "thumbnail_url": "https://preview.redd.it/my-greenhouse-is-starting-to-shape-up-like-i-planned-it-v0-h37n4uxz8ojf1.jpeg?width=640&crop=smart&auto=webp&s=b0afa2e833b88786995dbcf26e2d3e33803da4c6"
-    },
-    {
-      "title": "Sometimes i come home to my cat and my roommates cat hanging in my room",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1mo69x4/sometimes_i_come_home_to_my_cat_and_my_roommates/",
-      "score": 7602,
-      "comments": 68,
-      "post_id": "t3_1mo69x4",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "highkun",
-      "author_id": "t2_z4is4",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-12T11:36:43.328000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mo69x4",
-      "content_preview": "",
-      "flair": [
-        "BEDROOM"
-      ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
-    },
-    {
-      "title": "As requested, I am posting the first floor of my home in the daylight. Enjoy!",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1mk304p/as_requested_i_am_posting_the_first_floor_of_my/",
-      "score": 7237,
-      "comments": 339,
-      "post_id": "t3_1mk304p",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "kam27889",
-      "author_id": "t2_go8tyjeq",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-07T15:22:59.410000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mk304p",
-      "content_preview": "",
-      "flair": [
-        "LIVING AREA"
-      ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_5ctpzk/styles/profileIcon_u2he0l77luw91.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d73d07d7bc3bad57109751d75de892c17ce61ca2"
-    },
-    {
-      "title": "My sanctuary in the city 😌",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1mwv2jm/my_sanctuary_in_the_city/",
-      "score": 889,
-      "comments": 9,
-      "post_id": "t3_1mwv2jm",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "teakwoodrabbit",
-      "author_id": "t2_5bgyoux",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-22T02:51:22.266000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mwv2jm",
-      "content_preview": "",
-      "flair": [
-        "LIVING AREA"
-      ],
-      "thumbnail_url": "https://preview.redd.it/my-sanctuary-in-the-city-v0-xpso0cq9jhkf1.jpg?width=640&crop=smart&auto=webp&s=7ba61278f564bdc2ec871e5e5276fcceb8119448"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
     },
     {
       "title": "My writing/recording caravan space",
       "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n65230/my_writingrecording_caravan_space/",
-      "score": 19,
-      "comments": 2,
+      "score": 46,
+      "comments": 3,
       "post_id": "t3_1n65230",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -904,53 +583,54 @@
       "flair": [
         "HOBBY SPACE"
       ],
-      "thumbnail_url": "https://styles.redditmedia.com/t5_3mi1w/styles/profileIcon_esmtmccw4a7f1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ae94e92f70b8676f8d2a2a780ebd9f63a6572099"
+      "thumbnail_url": "https://styles.redditmedia.com/t5_3mi1w/styles/profileIcon_esmtmccw4a7f1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ae94e92f70b8676f8d2a2a780ebd9f63a6572099",
+      "is_promoted": false
     },
     {
-      "title": "Back deck relaxin’ and I added a couple of pics when the deck is actually clean",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1mwjvgq/back_deck_relaxin_and_i_added_a_couple_of_pics/",
-      "score": 820,
-      "comments": 42,
-      "post_id": "t3_1mwjvgq",
-      "post_type": "gallery",
-      "domain": "reddit.com",
-      "author": "capitanafantastic",
-      "author_id": "t2_9m3wgtvc",
-      "subreddit_id": "t5_34ixl",
-      "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-21T18:57:40.852000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mwjvgq",
+      "title": "Need to hang a shelf? Bring on the questions! (especially if our Magic Apron AI assistant is answering). Test it on The Home Depot App to quickly find answers on product specs, customer reviews and related projects and tutorials. Talk about a smart way to keep your DIY projects moving",
+      "permalink": "https://www.reddit.com/user/HomeDepot/comments/1mj608j/need_to_hang_a_shelf_bring_on_the_questions/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1mj608j",
+      "post_type": "video",
+      "domain": "homedepot.com",
+      "author": "HomeDepot",
+      "author_id": "t2_w2bt14f4",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-06T14:21:57.072000+0000",
+      "content_href": "https://v.redd.it/ve7lwkcdadhf1",
       "content_preview": "",
-      "flair": [
-        "PATIO / SUNROOM"
-      ],
-      "thumbnail_url": "https://preview.redd.it/back-deck-relaxin-and-i-added-a-couple-of-pics-when-the-v0-1d2yti0r6fkf1.jpg?width=640&crop=smart&auto=webp&s=cdc3e07b02dbc07497302fa0301a75710a6a1218"
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_7zytcl/styles/profileIcon_gc5xmndhi16c1.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=a8aa48efdb75838cc4d5d7153cf5863c2b931bbd",
+      "is_promoted": true
     },
     {
-      "title": "Yoga in the library",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1mvmi6f/yoga_in_the_library/",
-      "score": 812,
-      "comments": 7,
-      "post_id": "t3_1mvmi6f",
+      "title": "I love this place! The sun is changing, winter is coming!",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n61n1v/i_love_this_place_the_sun_is_changing_winter_is/",
+      "score": 303,
+      "comments": 8,
+      "post_id": "t3_1n61n1v",
       "post_type": "image",
       "domain": "i.redd.it",
-      "author": "Peircen20",
-      "author_id": "t2_x36ke",
+      "author": "Admirable04",
+      "author_id": "t2_1n2bu05g5h",
       "subreddit_id": "t5_34ixl",
       "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-20T18:09:27.753000+0000",
-      "content_href": "https://i.redd.it/i0as77q8t7kf1.jpeg",
+      "created_ts": "2025-09-01T21:41:21.327000+0000",
+      "content_href": "https://i.redd.it/wj0l5rnzhmmf1.jpeg",
       "content_preview": "",
       "flair": [
-        "COZY NOOK"
+        "LIVING AREA"
       ],
-      "thumbnail_url": "https://preview.redd.it/yoga-in-the-library-v0-i0as77q8t7kf1.jpeg?width=640&crop=smart&auto=webp&s=66d807f90dd66e5555ed321f3a3d321837a12220"
+      "thumbnail_url": "https://preview.redd.it/i-love-this-place-the-sun-is-changing-winter-is-coming-v0-wj0l5rnzhmmf1.jpeg?width=640&crop=smart&auto=webp&s=88c1e5152975622d8aa2ccb311604f3ec1c089c2",
+      "is_promoted": false
     },
     {
       "title": "Shady reading spot under a passion fruit roof",
       "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n603gi/shady_reading_spot_under_a_passion_fruit_roof/",
-      "score": 39,
-      "comments": 2,
+      "score": 60,
+      "comments": 3,
       "post_id": "t3_1n603gi",
       "post_type": "image",
       "domain": "i.redd.it",
@@ -964,48 +644,652 @@
       "flair": [
         "GARDEN / YARD"
       ],
-      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+      "is_promoted": false
     },
     {
-      "title": "In love with our new Chicago sunroom! (OC)",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1mxihrc/in_love_with_our_new_chicago_sunroom_oc/",
-      "score": 7190,
-      "comments": 91,
-      "post_id": "t3_1mxihrc",
+      "title": "Not your typical cozy place but it sure is.",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n5zoai/not_your_typical_cozy_place_but_it_sure_is/",
+      "score": 1205,
+      "comments": 36,
+      "post_id": "t3_1n5zoai",
       "post_type": "gallery",
       "domain": "reddit.com",
-      "author": "ig_gnome_inious",
-      "author_id": "t2_56nkmjvm",
+      "author": "musicandsex",
+      "author_id": "t2_8l0t2",
       "subreddit_id": "t5_34ixl",
       "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-22T21:07:37.030000+0000",
-      "content_href": "https://www.reddit.com/gallery/1mxihrc",
+      "created_ts": "2025-09-01T20:24:19.847000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n5zoai",
       "content_preview": "",
       "flair": [
-        "PATIO / SUNROOM"
+        "CAMPING"
       ],
-      "thumbnail_url": "https://preview.redd.it/in-love-with-our-new-chicago-sunroom-v0-bg4z1uwuymkf1.jpg?width=640&crop=smart&auto=webp&s=38c368ad02b8b589784b9b0d0537ee72a554b4a5"
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+      "is_promoted": false
     },
     {
-      "title": "my kitchen when the afternoon sun shines in",
-      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n0kw36/my_kitchen_when_the_afternoon_sun_shines_in/",
-      "score": 3834,
-      "comments": 39,
-      "post_id": "t3_1n0kw36",
-      "post_type": "image",
-      "domain": "i.redd.it",
-      "author": "themiddleman07",
-      "author_id": "t2_cn8mp",
+      "title": "My little kitchen. This was early last year.",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n5y4ql/my_little_kitchen_this_was_early_last_year/",
+      "score": 44,
+      "comments": 4,
+      "post_id": "t3_1n5y4ql",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "hayley-pilates78",
+      "author_id": "t2_mf28w4kk",
       "subreddit_id": "t5_34ixl",
       "subreddit": "r/CozyPlaces",
-      "created_ts": "2025-08-26T12:47:10.092000+0000",
-      "content_href": "https://i.redd.it/gkxqgt741dlf1.jpeg",
+      "created_ts": "2025-09-01T19:24:03.670000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n5y4ql",
       "content_preview": "",
       "flair": [
         "KITCHEN"
       ],
-      "thumbnail_url": "https://preview.redd.it/my-kitchen-when-the-afternoon-sun-shines-in-v0-gkxqgt741dlf1.jpeg?width=640&crop=smart&auto=webp&s=6e6a9dbb7f69b722698e112acd20ac8193e8fa30"
+      "thumbnail_url": "https://preview.redd.it/my-little-kitchen-this-was-early-last-year-v0-lpi1zjzhtlmf1.jpg?width=640&crop=smart&auto=webp&s=80823fb9a20a157981c6a17dddec067cd47fd48b",
+      "is_promoted": false
+    },
+    {
+      "title": "My girlfriend’s and my office looking cozy at night.",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n5xwyw/my_girlfriends_and_my_office_looking_cozy_at_night/",
+      "score": 894,
+      "comments": 22,
+      "post_id": "t3_1n5xwyw",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "toad1987",
+      "author_id": "t2_8vdzg",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-09-01T19:15:50.841000+0000",
+      "content_href": "https://i.redd.it/t2g06o51slmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "WORK SPACE"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+      "is_promoted": false
+    },
+    {
+      "title": "All I could do with my rental space in a year 🥺",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n5vsjv/all_i_could_do_with_my_rental_space_in_a_year/",
+      "score": 6166,
+      "comments": 116,
+      "post_id": "t3_1n5vsjv",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Responsible_Look7932",
+      "author_id": "t2_19jev0dmq5",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-09-01T17:57:58.466000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n5vsjv",
+      "content_preview": "",
+      "flair": [
+        "LIVING AREA"
+      ],
+      "thumbnail_url": "https://preview.redd.it/all-i-could-do-with-my-rental-space-in-a-year-v0-bx71zaf4elmf1.jpg?width=640&crop=smart&auto=webp&s=a5c098074e1a6f1602f5ee34f9948abc0b4b9746",
+      "is_promoted": false
+    },
+    {
+      "title": "From my cozy little corner in the world, hello September🍁🕯️",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n5vomc/from_my_cozy_little_corner_in_the_world_hello/",
+      "score": 133,
+      "comments": 11,
+      "post_id": "t3_1n5vomc",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Lunar_Gold",
+      "author_id": "t2_ea9t0pwdd",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-09-01T17:53:42.373000+0000",
+      "content_href": "https://i.redd.it/g7xrrjnddlmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "LIVING AREA"
+      ],
+      "thumbnail_url": "https://preview.redd.it/from-my-cozy-little-corner-in-the-world-hello-september-v0-g7xrrjnddlmf1.jpeg?width=640&crop=smart&auto=webp&s=d44bd69f28c4e2f7b98c3080cccbea66e71fb470",
+      "is_promoted": false
+    },
+    {
+      "title": "Cockroaches know where to hide. Orkin Pros know how to find them. Orkin. The Best in Pests.",
+      "permalink": "https://www.reddit.com/user/OrkinPestControl/comments/1kyivem/cockroaches_know_where_to_hide_orkin_pros_know/",
+      "score": 0,
+      "comments": 12,
+      "post_id": "t3_1kyivem",
+      "post_type": "video",
+      "domain": "orkin.com",
+      "author": "OrkinPestControl",
+      "author_id": "t2_akougwh1",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-05-29T18:52:10.060000+0000",
+      "content_href": "https://v.redd.it/kedt9yoo7q3f1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_40reu9/styles/profileIcon_lca8beorioj61.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=094267a6aca8720ac9ddb35936c9ca4f023daee1",
+      "is_promoted": true
+    },
+    {
+      "title": "The coziest room in our new home",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n5tsip/the_coziest_room_in_our_new_home/",
+      "score": 440,
+      "comments": 10,
+      "post_id": "t3_1n5tsip",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "livw17",
+      "author_id": "t2_3iupsxe3",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-09-01T16:44:30.772000+0000",
+      "content_href": "https://i.redd.it/ssff06ft0lmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "LIVING AREA"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png",
+      "is_promoted": false
+    },
+    {
+      "title": "My battlestation together with some little companions",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n5g3oa/my_battlestation_together_with_some_little/",
+      "score": 1565,
+      "comments": 50,
+      "post_id": "t3_1n5g3oa",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "SkweezyJibsss",
+      "author_id": "t2_501ujdgu",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-09-01T05:16:15.904000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n5g3oa",
+      "content_preview": "",
+      "flair": [
+        "BATTLESTATION"
+      ],
+      "thumbnail_url": "https://preview.redd.it/my-battlestation-together-with-some-little-companions-v0-mgg0jul8mhmf1.jpg?width=640&crop=smart&auto=webp&s=7de97f7faf894ad7b3130c7ecccba0d6c7d2fa67",
+      "is_promoted": false
+    },
+    {
+      "title": "I started early 🥹🎃",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n5acnd/i_started_early/",
+      "score": 6149,
+      "comments": 188,
+      "post_id": "t3_1n5acnd",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "blkgrlsaywhat",
+      "author_id": "t2_9j3hoc5k",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-09-01T00:17:06.343000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n5acnd",
+      "content_preview": "",
+      "flair": [
+        "DINING AREA"
+      ],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
+      "is_promoted": false
+    },
+    {
+      "title": "My modest sleeper berth in my Semi truck",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n59z5m/my_modest_sleeper_berth_in_my_semi_truck/",
+      "score": 1267,
+      "comments": 87,
+      "post_id": "t3_1n59z5m",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "KoiwazuraiAi",
+      "author_id": "t2_e1qnjqyl",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-08-31T23:59:30.622000+0000",
+      "content_href": "https://i.redd.it/25pabkqp1gmf1.png",
+      "content_preview": "",
+      "flair": [
+        "VAN / TRUCK / CAR"
+      ],
+      "thumbnail_url": "https://preview.redd.it/my-modest-sleeper-berth-in-my-semi-truck-v0-25pabkqp1gmf1.png?width=640&crop=smart&auto=webp&s=fe5a9eb2596f4f43a4a074832eb5625f2ea3eb39",
+      "is_promoted": false
+    },
+    {
+      "title": "🌊 From Croatia to Germany – I built a little seaside corner on my terrace 🌊",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n4p8bi/from_croatia_to_germany_i_built_a_little_seaside/",
+      "score": 218,
+      "comments": 6,
+      "post_id": "t3_1n4p8bi",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Own_Reputation8180",
+      "author_id": "t2_1v6529dslf",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-08-31T08:14:21.019000+0000",
+      "content_href": "https://i.redd.it/1wcv1jj3dbmf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "GARDEN / YARD"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_f5l1cj/styles/profileIcon_fli5jj4zliif1.jpeg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a50d41692897398fe4f2b2328f4a541494530b62",
+      "is_promoted": false
+    },
+    {
+      "title": "The heart of the home... revealed in pic #2",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n4na6r/the_heart_of_the_home_revealed_in_pic_2/",
+      "score": 399,
+      "comments": 10,
+      "post_id": "t3_1n4na6r",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "flolibri",
+      "author_id": "t2_3tuhka7g",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-08-31T06:10:38.903000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n4na6r",
+      "content_preview": "",
+      "flair": [
+        "LIVING AREA"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_11ya0i/styles/profileIcon_kyez4tlyxdue1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=8540b3cfcd3c20e952dfdba5a1590c12ff2d512e",
+      "is_promoted": false
+    },
+    {
+      "title": "Disco lanai got a makeover 🪩",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n4gwe2/disco_lanai_got_a_makeover/",
+      "score": 114,
+      "comments": 2,
+      "post_id": "t3_1n4gwe2",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ComfortableFroyo2227",
+      "author_id": "t2_79u5g9mwb",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-08-31T00:24:55.202000+0000",
+      "content_href": "https://i.redd.it/ct34gtoc19mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "PATIO / SUNROOM"
+      ],
+      "thumbnail_url": "https://preview.redd.it/disco-lanai-got-a-makeover-v0-ct34gtoc19mf1.jpeg?width=640&crop=smart&auto=webp&s=7eb50e37d522958b677f3511a1a39f0e50c53b72",
+      "is_promoted": false
+    },
+    {
+      "title": "The new, fully electric Volvo EX30. Featuring recycled and renewable material throughout and with an array of smart tech to help prevent accidents, it's the small SUV doing big Volvo things.",
+      "permalink": "https://www.reddit.com/user/volvocarusa/comments/1jp5xmb/the_new_fully_electric_volvo_ex30_featuring/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1jp5xmb",
+      "post_type": "video",
+      "domain": "volvocars.com",
+      "author": "volvocarusa",
+      "author_id": "t2_4o8easx8",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-04-01T20:27:55.575000+0000",
+      "content_href": "https://v.redd.it/ntxdm2gwr8se1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_25j5wo/styles/profileIcon_qwtep57blu281.jpg?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=e78f5adefefd0f80179732429f02b18efb5ad471",
+      "is_promoted": true
+    },
+    {
+      "title": "Post got removed, so I'll try again: autumn greenhouse nights w movies & snacks",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n4a70w/post_got_removed_so_ill_try_again_autumn/",
+      "score": 6425,
+      "comments": 70,
+      "post_id": "t3_1n4a70w",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Internal_axolotl",
+      "author_id": "t2_1i47dqieon",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-08-30T19:23:09.568000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n4a70w",
+      "content_preview": "",
+      "flair": [
+        "GARDEN / YARD"
+      ],
+      "thumbnail_url": "https://preview.redd.it/post-got-removed-so-ill-try-again-autumn-greenhouse-nights-v0-d1aqtojhj7mf1.jpg?width=640&crop=smart&auto=webp&s=354966a24096238d60e314bd559b31deb5e9ed50",
+      "is_promoted": false
+    },
+    {
+      "title": "My Rapunzel Room-space",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n48vs7/my_rapunzel_roomspace/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n48vs7",
+      "post_type": "link",
+      "domain": "reddit.com",
+      "author": "teas4Uanme",
+      "author_id": "t2_vue200dg",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-08-30T18:29:40.222000+0000",
+      "content_href": "https://www.reddit.com/",
+      "content_preview": "",
+      "flair": [
+        "BEDROOM"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_byw65w/styles/profileIcon_wptt8pu17cmf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ab43a05069b01783035f41df97249260f0db1a77",
+      "is_promoted": false
+    },
+    {
+      "title": "My Rapunzel Room-space",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n48vhj/my_rapunzel_roomspace/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1n48vhj",
+      "post_type": "link",
+      "domain": "reddit.com",
+      "author": "teas4Uanme",
+      "author_id": "t2_vue200dg",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-08-30T18:29:21.673000+0000",
+      "content_href": "https://www.reddit.com/",
+      "content_preview": "",
+      "flair": [
+        "BEDROOM"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_byw65w/styles/profileIcon_wptt8pu17cmf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ab43a05069b01783035f41df97249260f0db1a77",
+      "is_promoted": false
+    },
+    {
+      "title": "My Rapunzel Room-space",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n48u1t/my_rapunzel_roomspace/",
+      "score": 1508,
+      "comments": 39,
+      "post_id": "t3_1n48u1t",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "teas4Uanme",
+      "author_id": "t2_vue200dg",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-08-30T18:27:44.808000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n48u1t",
+      "content_preview": "",
+      "flair": [
+        "BEDROOM"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_byw65w/styles/profileIcon_wptt8pu17cmf1.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=ab43a05069b01783035f41df97249260f0db1a77",
+      "is_promoted": false
+    },
+    {
+      "title": "Tiny cabin up in a tree",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n48trn/tiny_cabin_up_in_a_tree/",
+      "score": 593,
+      "comments": 12,
+      "post_id": "t3_1n48trn",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "PmMeYourUnclesAnkles",
+      "author_id": "t2_vy2k6",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-08-30T18:27:25.286000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n48trn",
+      "content_preview": "",
+      "flair": [
+        "CABIN"
+      ],
+      "thumbnail_url": "https://preview.redd.it/tiny-cabin-up-in-a-tree-v0-ips2r58k97mf1.jpg?width=640&crop=smart&auto=webp&s=a0c21653f6af97cb2c10fee5a11a4c10cb8fd6e7",
+      "is_promoted": false
+    },
+    {
+      "title": "Sunroom /foyer urbana illinois",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n47ffj/sunroom_foyer_urbana_illinois/",
+      "score": 354,
+      "comments": 4,
+      "post_id": "t3_1n47ffj",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Gat61",
+      "author_id": "t2_wjpiy",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-08-30T17:29:35.976000+0000",
+      "content_href": "https://i.redd.it/rxvuzi59z6mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "PATIO / SUNROOM"
+      ],
+      "thumbnail_url": "https://preview.redd.it/sunroom-foyer-urbana-illinois-v0-rxvuzi59z6mf1.jpeg?width=640&crop=smart&auto=webp&s=384499e5de93d11da9a5c96045cc477c31105d69",
+      "is_promoted": false
+    },
+    {
+      "title": "I'm so happy we worked on the bedroom before baby came ❤️",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n46c80/im_so_happy_we_worked_on_the_bedroom_before_baby/",
+      "score": 964,
+      "comments": 18,
+      "post_id": "t3_1n46c80",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "The_Hearth_Witch",
+      "author_id": "t2_1w50qrpqfc",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-08-30T16:44:55.571000+0000",
+      "content_href": "https://i.redd.it/kpyfvi8ar6mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "BEDROOM"
+      ],
+      "thumbnail_url": "https://preview.redd.it/im-so-happy-we-worked-on-the-bedroom-before-baby-came-v0-kpyfvi8ar6mf1.jpeg?width=640&crop=smart&auto=webp&s=ee32e997e2575434621598c3421d552cf977c73b",
+      "is_promoted": false
+    },
+    {
+      "title": "Swipe to clock out and get in the game with the 2026 Chevy Equinox.",
+      "permalink": "https://www.reddit.com/user/chevrolet/comments/1murej1/swipe_to_clock_out_and_get_in_the_game_with_the/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1murej1",
+      "post_type": "gallery",
+      "domain": "chevrolet.com",
+      "author": "chevrolet",
+      "author_id": "t2_hlwx5kra",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-19T18:52:58.474000+0000",
+      "content_href": "https://www.chevrolet.com/equinox-models#EQUINOX?socid=redd",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_5hy9jd/styles/profileIcon_ngfmph0nzhme1.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=daccda134205014a29773cfbfff5c6db074e392d",
+      "is_promoted": true
+    },
+    {
+      "title": "My cozy tiny home from a few years ago. Still miss it.",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n41oii/my_cozy_tiny_home_from_a_few_years_ago_still_miss/",
+      "score": 523,
+      "comments": 4,
+      "post_id": "t3_1n41oii",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Large_Air_1159",
+      "author_id": "t2_1vb5z71wcj",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-08-30T13:29:49.012000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n41oii",
+      "content_preview": "",
+      "flair": [
+        "LIVING AREA"
+      ],
+      "thumbnail_url": "https://preview.redd.it/my-cozy-tiny-home-from-a-few-years-ago-still-miss-it-v0-tkturaads5mf1.jpg?width=640&crop=smart&auto=webp&s=a50d373f8188203bf81004bb16e011343f307923",
+      "is_promoted": false
+    },
+    {
+      "title": "This is our little hideaway in this big, crazy world",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n40rfy/this_is_our_little_hideaway_in_this_big_crazy/",
+      "score": 33283,
+      "comments": 591,
+      "post_id": "t3_1n40rfy",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Ezrafina",
+      "author_id": "t2_11v0i1",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-08-30T12:46:49.650000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n40rfy",
+      "content_preview": "",
+      "flair": [
+        "LIVING AREA"
+      ],
+      "thumbnail_url": "https://preview.redd.it/this-is-our-little-hideaway-in-this-big-crazy-world-v0-lsbqebqsk5mf1.jpg?width=640&crop=smart&auto=webp&s=5795bca3ef63cea184a0b93683cf3e0b09f893dd",
+      "is_promoted": false
+    },
+    {
+      "title": "My little apartment with big windows in Denmark",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n3xz9p/my_little_apartment_with_big_windows_in_denmark/",
+      "score": 7200,
+      "comments": 55,
+      "post_id": "t3_1n3xz9p",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Yourangmilady",
+      "author_id": "t2_h45bnm9",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-08-30T10:11:37.474000+0000",
+      "content_href": "https://i.redd.it/ckcl4k24t4mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "LIVING AREA"
+      ],
+      "thumbnail_url": "https://preview.redd.it/my-little-apartment-with-big-windows-in-denmark-v0-ckcl4k24t4mf1.jpeg?width=640&crop=smart&auto=webp&s=603fe8eab1e3a9b6f840d7265c7a123b578c27ca",
+      "is_promoted": false
+    },
+    {
+      "title": "Finally build my cozy book corner",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n3tivs/finally_build_my_cozy_book_corner/",
+      "score": 520,
+      "comments": 23,
+      "post_id": "t3_1n3tivs",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "Mysterious_Turn_3286",
+      "author_id": "t2_m4hkt6k4",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-08-30T05:26:25.347000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n3tivs",
+      "content_preview": "",
+      "flair": [
+        "HOBBY SPACE"
+      ],
+      "thumbnail_url": "https://preview.redd.it/finally-build-my-cozy-book-corner-v0-hqppak28e3mf1.jpg?width=640&crop=smart&auto=webp&s=27343601b6be1e8a3ea9432985409b3a99628b39",
+      "is_promoted": false
+    },
+    {
+      "title": "I love my bedroom with all the 🪴plants, 💡lamps and 💚green",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n3scnp/i_love_my_bedroom_with_all_the_plants_lamps_and/",
+      "score": 315,
+      "comments": 10,
+      "post_id": "t3_1n3scnp",
+      "post_type": "gallery",
+      "domain": "reddit.com",
+      "author": "reallysmartferret",
+      "author_id": "t2_2xjfuq7g",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-08-30T04:19:16.870000+0000",
+      "content_href": "https://www.reddit.com/gallery/1n3scnp",
+      "content_preview": "",
+      "flair": [
+        "BEDROOM"
+      ],
+      "thumbnail_url": "https://styles.redditmedia.com/t5_u3v95/styles/profileIcon_8z1irzxaduv51.jpg?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b40595af1af6e3ad18b334ccd148fb29fa288274",
+      "is_promoted": false
+    },
+    {
+      "title": "Cleaned up my attic office in preparation for cooler temps",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n3rhek/cleaned_up_my_attic_office_in_preparation_for/",
+      "score": 0,
+      "comments": 4,
+      "post_id": "t3_1n3rhek",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "greendogufo",
+      "author_id": "t2_13wm53",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-08-30T03:31:37.403000+0000",
+      "content_href": "https://i.redd.it/ecd7qtrqt2mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "HOBBY SPACE"
+      ],
+      "thumbnail_url": "https://preview.redd.it/cleaned-up-my-attic-office-in-preparation-for-cooler-temps-v0-ecd7qtrqt2mf1.jpeg?width=640&crop=smart&auto=webp&s=e8d201bc2f4c6fffddcc5f615035761b5eebac1b",
+      "is_promoted": false
+    },
+    {
+      "title": "My precious pets Jerry, Phil, and Grace in my dining room.",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n3nezh/my_precious_pets_jerry_phil_and_grace_in_my/",
+      "score": 1040,
+      "comments": 14,
+      "post_id": "t3_1n3nezh",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "Pinkpurplegreentea",
+      "author_id": "t2_buehoix7",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-08-30T00:06:15.619000+0000",
+      "content_href": "https://i.redd.it/yyqhqxv3t1mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "DINING AREA"
+      ],
+      "thumbnail_url": "https://preview.redd.it/my-precious-pets-jerry-phil-and-grace-in-my-dining-room-v0-yyqhqxv3t1mf1.jpeg?width=640&crop=smart&auto=webp&s=926d9d52cf7b4a0588e994903ca6e69b0108da31",
+      "is_promoted": false
+    },
+    {
+      "title": "Come home to nature-inspired colors and finishes by Kohler.",
+      "permalink": "https://www.reddit.com/user/KohlerOfficial/comments/1micqqb/come_home_to_natureinspired_colors_and_finishes/",
+      "score": 0,
+      "comments": 0,
+      "post_id": "t3_1micqqb",
+      "post_type": "video",
+      "domain": "kohler.com",
+      "author": "KohlerOfficial",
+      "author_id": "t2_cdcqgp5t",
+      "subreddit_id": "",
+      "subreddit": "",
+      "created_ts": "2025-08-05T15:45:37.280000+0000",
+      "content_href": "https://v.redd.it/dr196ttdk6hf1",
+      "content_preview": "",
+      "flair": [],
+      "thumbnail_url": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+      "is_promoted": true
+    },
+    {
+      "title": "Living Room w/ DIY Decorative Wooden Wall Panel (using scrap lumber)",
+      "permalink": "https://www.reddit.com/r/CozyPlaces/comments/1n3nac7/living_room_w_diy_decorative_wooden_wall_panel/",
+      "score": 1270,
+      "comments": 56,
+      "post_id": "t3_1n3nac7",
+      "post_type": "image",
+      "domain": "i.redd.it",
+      "author": "ZincSaucier5504",
+      "author_id": "t2_n2wnd",
+      "subreddit_id": "t5_34ixl",
+      "subreddit": "r/CozyPlaces",
+      "created_ts": "2025-08-30T00:00:20.483000+0000",
+      "content_href": "https://i.redd.it/t67cf9x1s1mf1.jpeg",
+      "content_preview": "",
+      "flair": [
+        "LIVING AREA"
+      ],
+      "thumbnail_url": "https://preview.redd.it/living-room-w-diy-decorative-wooden-wall-panel-using-scrap-v0-t67cf9x1s1mf1.jpeg?width=640&crop=smart&auto=webp&s=c20c324c8133cd61d0dbbfb461278fc98b01e5d4",
+      "is_promoted": false
     }
   ],
-  "scraped_at": "2025-09-02T03:07:53.645947"
+  "scraped_at": "2025-09-05T03:32:21.137399"
 }
