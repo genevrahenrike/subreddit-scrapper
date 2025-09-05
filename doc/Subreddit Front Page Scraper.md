@@ -3,10 +3,27 @@
 This guide explains how to use `subreddit_frontpage_scraper.py`, what it saves, and the non-obvious behavior (scrolling, gate handling, fallbacks, and tuning).
 
 ### What it does
-- Loads `https://www.reddit.com/r/<subreddit>/` with Playwright (Chromium).
+- Loads `https://www.reddit.com/r/<subreddit## Configuration (FPConfig)
+Key options you may want to tune:
+- `headless` (bool): Run without UI. Set to `False` to watch scrolling and aid debugging.
+- `proxy_server` (str | None): Use a proxy (also read from `PROXY_SERVER`).
+- `timeout_ms` (int): Playwright page/context default timeouts.
+- `user_agent` (str): Overrides the UA string.
+- `max_attempts` (int): Browser retry attempts within one scrape.
+- `include_promoted` (bool, default True): Whether to include promoted/ad content in results.
+
+Lazy-load / scrolling knobs:
+- `min_posts` (int, default 50): Target number of posts to load before stopping.
+- `max_scroll_loops` (int): Hard cap on scroll iterations.
+- `scroll_step_px` (int): How far to wheel-scroll per iteration.
+- `scroll_wait_ms` (int): Wait after each scroll to allow network/render.
+- `stagnant_loops` (int): Stop if post count hasn't increased for this many iterations.
+- `max_page_seconds` (float, default 75.0): Overall time budget for a single page.
+- `save_debug_html` (bool): Write a debug HTML snapshot if too few posts.ght (Chromium).
 - Handles cookie/consent and mature content interstitials best‑effort without login.
 - Auto-scrolls to trigger lazy loading until a target number of posts are rendered.
-- Parses rich post metadata from the new Reddit UI (the `shreddit-post` web component).
+- Parses rich post metadata from the new Reddit UI (the `shreddit-post` and `shreddit-ad-post` web components).
+- **Detects and handles promoted content** (ads) with configurable filtering options.
 - **Extracts comprehensive subreddit metadata** including online user counts and sidebar widgets.
 - **Intelligently parses sidebar content** with special handling for link collections and formatted text.
 - Falls back to `https://old.reddit.com/r/<subreddit>/` if the new UI yields no/too few posts.
@@ -40,7 +57,27 @@ python subreddit_frontpage_scraper.py \
   --min-posts 50 \
   --no-headless \
   --proxy "http://user:pass@host:port" \
-  --debug-html
+  --debug-html \
+  --exclude-promoted
+```
+
+### Promoted content handling
+By default, the scraper includes promoted content (ads) in the results. You can control this behavior:
+
+```bash
+# Include promoted content (default behavior)
+python subreddit_frontpage_scraper.py --subs r/technology
+
+# Exclude promoted content from results  
+python subreddit_frontpage_scraper.py --subs r/technology --exclude-promoted
+
+# Explicitly include promoted content
+python subreddit_frontpage_scraper.py --subs r/technology --include-promoted
+```
+
+The output will show promoted content statistics:
+```
+[saved] output/subreddits/technology/frontpage.json — posts=32 (promoted=4)
 ```
 
 ### Batch mode (ranked front pages)
@@ -79,6 +116,7 @@ from subreddit_frontpage_scraper import FPConfig, SubredditFrontPageScraper
 cfg = FPConfig(
     headless=True,            # set False to watch the browser
     min_posts=50,             # target number of posts to load
+    include_promoted=True,    # include promoted/ad content (default)
 )
 scraper = SubredditFrontPageScraper(cfg)
 scraper._start()
@@ -153,6 +191,7 @@ Each `post` (new Reddit UI) typically includes:
 - `content_preview` (clamped text preview for text posts when present)
 - `flair` (list of flair text values)
 - `thumbnail_url` (best-effort image in card)
+- `is_promoted` (boolean indicating whether this is promoted/ad content)
 
 Fallback (old.reddit) returns a simpler subset: `title`, `permalink`, `score`, `comments`. The scraper merges any old-Reddit-specific `meta` back into `meta`.
 
@@ -214,6 +253,40 @@ The scraper automatically adapts to different subreddit layouts:
     {"text": "reddiquette", "url": "https://www.reddit.com/wiki/reddiquette"},
     {"text": "self-promotion", "url": "https://www.reddit.com/wiki/selfpromotion"}
   ]
+}
+```
+
+---
+
+## Promoted content features
+
+### Detection and parsing
+The scraper automatically detects promoted content (ads) through multiple indicators:
+- **Element type**: `shreddit-ad-post` web components (new Reddit)
+- **Aria labels**: Elements with `aria-label` containing "promoted" or "advertisement"
+- **Visual indicators**: Sponsored post markers and promotional badges
+
+### Configuration options
+Control promoted content inclusion through:
+- **CLI flags**: `--include-promoted` (default) or `--exclude-promoted`
+- **FPConfig**: `include_promoted=True/False` parameter
+- **Filtering**: Applied after parsing, so metadata includes accurate counts
+
+### Output enhancements
+- **Post metadata**: Each post includes `is_promoted: true/false` field
+- **Statistics**: Console output shows `posts=X (promoted=Y)` breakdown
+- **Filtering transparency**: Promoted count reflects detected ads, regardless of inclusion setting
+
+### Example promoted content output
+```json
+{
+  "title": "Sponsored: New Tech Product Launch",
+  "permalink": "https://www.reddit.com/r/technology/comments/...",
+  "score": 42,
+  "comments": 15,
+  "is_promoted": true,
+  "post_type": "link",
+  "domain": "example.com"
 }
 ```
 
@@ -305,9 +378,10 @@ If the new UI yields no posts (or far fewer than expected), the scraper visits `
 ---
 
 ## Extending parsing
-- The `shreddit-post` element often exposes more attributes that can be pulled in similarly to how `title`, `author`, etc. are extracted now.
+- The `shreddit-post` and `shreddit-ad-post` elements often expose more attributes that can be pulled in similarly to how `title`, `author`, etc. are extracted now.
 - For media posts, additional selectors inside the post card may expose higher‑quality thumbnails or gallery info.
 - For comments count and score, Reddit may defer rendering; prefer attribute values when present, and fall back to visible text.
+- **Promoted content detection** can be enhanced by adding new selectors or attributes to identify different types of ad content.
 - **Sidebar widget parsing** is highly flexible and automatically adapts to new widget types and naming conventions across different subreddits.
 - **Metadata extraction** can be extended by adding new selectors to the `_parse_meta` method for additional community information.
 
@@ -344,13 +418,15 @@ PROXY_SERVER="http://user:pass@host:port" python -c "from subreddit_frontpage_sc
 - Class: `SubredditFrontPageScraper`
   - `_apply_stealth`, `_dismiss_banners`, `_handle_mature_gate`
   - `_auto_scroll_to_load_posts` (lazy-load logic and stopping conditions)
-  - `_parse_posts_new_reddit` (rich parsing of `shreddit-post`)
+  - `_parse_posts_new_reddit` (rich parsing of `shreddit-post` and `shreddit-ad-post`)
   - `_parse_meta` (comprehensive metadata extraction including online users and sidebar widgets)
   - `_fetch_old_reddit` (fallback parsing)
   - `save_frontpage` (writes JSON)
 
 **Key parsing methods:**
 - `_parse_meta`: Handles online users, sidebar widgets, creation timestamps
+- `_parse_posts_new_reddit`: Enhanced to detect and parse promoted content from `shreddit-ad-post` elements
+- Promoted content detection: Uses element type and aria-label attributes to identify ads
 - Sidebar parsing logic: Automatically detects link collections vs. text content
 - Text extraction: Preserves formatting and handles complex HTML structures
 

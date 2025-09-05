@@ -54,6 +54,8 @@ class FPConfig:
     scroll_wait_ms: int = 900
     stagnant_loops: int = 5
     save_debug_html: bool = True
+    # Promoted content handling
+    include_promoted: bool = True  # Whether to include promoted/ad posts in results
 
 
 class SubredditFrontPageScraper:
@@ -167,9 +169,9 @@ class SubredditFrontPageScraper:
                 self._page.goto(url, wait_until="domcontentloaded", timeout=self.config.timeout_ms)
                 self._dismiss_banners()
                 self._handle_mature_gate()
-                # Try to wait for posts in the new Reddit UI
+                # Try to wait for posts in the new Reddit UI (including promoted content)
                 try:
-                    self._page.wait_for_selector("shreddit-post, div[data-testid='post-container']", timeout=15000)
+                    self._page.wait_for_selector("shreddit-post, shreddit-ad-post, div[data-testid='post-container']", timeout=15000)
                 except Exception:
                     # Try a nudge scroll to trigger lazy load
                     self._page.mouse.wheel(0, self.config.scroll_step_px)
@@ -237,7 +239,7 @@ class SubredditFrontPageScraper:
     def _get_post_count(self) -> int:
         try:
             return int(self._page.evaluate(
-                "() => document.querySelectorAll('shreddit-post, div[data-testid=\\'post-container\\']').length"
+                "() => document.querySelectorAll('shreddit-post, shreddit-ad-post, div[data-testid=\\'post-container\\']').length"
             ))
         except Exception:
             return 0
@@ -278,7 +280,7 @@ class SubredditFrontPageScraper:
             try:
                 # Scroll the last post into view to trigger lazy loading
                 try:
-                    last_post = self._page.locator("shreddit-post, div[data-testid='post-container']").last
+                    last_post = self._page.locator("shreddit-post, shreddit-ad-post, div[data-testid='post-container']").last
                     last_post.scroll_into_view_if_needed()
                 except Exception:
                     pass
@@ -299,7 +301,7 @@ class SubredditFrontPageScraper:
             # Wait until new posts are added (best-effort)
             try:
                 self._page.wait_for_function(
-                    "(prev) => document.querySelectorAll('shreddit-post, div[data-testid=\\'post-container\\']').length > prev",
+                    "(prev) => document.querySelectorAll('shreddit-post, shreddit-ad-post, div[data-testid=\\'post-container\\']').length > prev",
                     arg=last_count,
                     timeout=min(5000, max(1500, self.config.scroll_wait_ms * 2))
                 )
@@ -483,9 +485,12 @@ class SubredditFrontPageScraper:
 
     def _parse_posts_new_reddit(self, soup: BeautifulSoup) -> List[Dict]:
         posts: List[Dict] = []
-        # Try web components first
-        for post in soup.find_all("shreddit-post"):
+        # Try web components first - including promoted content (ads)
+        for post in soup.find_all(["shreddit-post", "shreddit-ad-post"]):
             try:
+                # Check if this is a promoted/ad post
+                is_promoted = post.name == "shreddit-ad-post" or post.get("promoted") == "true"
+                
                 title = post.get("post-title") or post.get("title") or ""
                 permalink = post.get("permalink") or ""
                 score = post.get("score") or post.get("upvote-count") or ""
@@ -576,13 +581,22 @@ class SubredditFrontPageScraper:
                     "content_preview": content_preview,
                     "flair": flair,
                     "thumbnail_url": thumbnail_url,
+                    "is_promoted": is_promoted,
                 })
             except Exception:
                 continue
-        # Fallback to div cards
+        # Fallback to div cards (including promoted content containers)
         if not posts:
             for card in soup.select("div[data-testid='post-container']"):
                 try:
+                    # Check for promoted/ad indicators in the fallback section
+                    is_promoted = (
+                        card.get("data-promoted") == "true" or 
+                        card.find(string=re.compile(r"promoted|sponsored|ad", re.I)) is not None or
+                        "promoted" in " ".join(card.get("class", [])).lower() or
+                        card.find("span", string=re.compile(r"promoted|sponsored|ad", re.I)) is not None
+                    )
+                    
                     a = card.find("a", attrs={"data-click-id": "body"}) or card.find("a", href=True)
                     title = (a.get_text(strip=True) if a else "").strip()
                     permalink = a.get("href") if a else ""
@@ -648,9 +662,15 @@ class SubredditFrontPageScraper:
                         "author": author,
                         "content_preview": content_preview,
                         "thumbnail_url": thumbnail_url,
+                        "is_promoted": is_promoted,
                     })
                 except Exception:
                     continue
+        
+        # Filter out promoted content if not wanted
+        if not self.config.include_promoted:
+            posts = [post for post in posts if not post.get("is_promoted", False)]
+        
         return posts
 
     def _fetch_old_reddit(self, sub_name: str) -> Tuple[List[Dict], Dict]:
@@ -663,6 +683,12 @@ class SubredditFrontPageScraper:
             posts: List[Dict] = []
             for thing in soup.select("div.thing"):
                 try:
+                    # Check for promoted content in old Reddit
+                    is_promoted = (
+                        "promoted" in thing.get("class", []) or
+                        thing.find(string=re.compile(r"promoted|sponsored", re.I)) is not None
+                    )
+                    
                     a = thing.find("a", class_="title")
                     title = (a.get_text(strip=True) if a else "").strip()
                     permalink = a.get("href") if a else ""
@@ -678,9 +704,15 @@ class SubredditFrontPageScraper:
                         "permalink": permalink,
                         "score": self._to_int(score),
                         "comments": self._to_int(comments),
+                        "is_promoted": is_promoted,
                     })
                 except Exception:
                     continue
+            
+            # Filter out promoted content if not wanted
+            if not self.config.include_promoted:
+                posts = [post for post in posts if not post.get("is_promoted", False)]
+                
             meta = {}
             h1 = soup.find("h1")
             if h1:
@@ -727,6 +759,8 @@ if __name__ == "__main__":
     parser.add_argument("--no-headless", dest="headless", action="store_false", help="Run with visible browser window")
     parser.add_argument("--proxy", type=str, default=os.getenv("PROXY_SERVER") or None, help="Proxy server, e.g. http://user:pass@host:port")
     parser.add_argument("--debug-html", action="store_true", help="Save a debug HTML snapshot when too few posts are found")
+    parser.add_argument("--include-promoted", action="store_true", default=True, help="Include promoted/ad posts in results (default)")
+    parser.add_argument("--exclude-promoted", dest="include_promoted", action="store_false", help="Exclude promoted/ad posts from results")
     args = parser.parse_args()
 
     cfg = FPConfig(
@@ -734,6 +768,7 @@ if __name__ == "__main__":
         proxy_server=args.proxy,
         min_posts=args.min_posts,
         save_debug_html=True if args.debug_html else True,  # keep debug snapshots on by default
+        include_promoted=args.include_promoted,
     )
     scraper = SubredditFrontPageScraper(cfg)
     scraper._start()
@@ -742,12 +777,13 @@ if __name__ == "__main__":
             data = scraper.scrape_frontpage(target)
             scraper.save_frontpage(data["subreddit"], data)
             posts_n = len(data.get("posts", []))
+            promoted_n = len([p for p in data.get("posts", []) if p.get("is_promoted", False)])
             error = data.get("error")
             out_path = Path("output/subreddits") / data["subreddit"] / "frontpage.json"
             if error:
-                print(f"[saved] {out_path} — posts={posts_n}, error={error}")
+                print(f"[saved] {out_path} — posts={posts_n} (promoted={promoted_n}), error={error}")
             else:
-                print(f"[saved] {out_path} — posts={posts_n}")
+                print(f"[saved] {out_path} — posts={posts_n} (promoted={promoted_n})")
             time.sleep(random.uniform(0.6, 1.1))
     finally:
         scraper._stop()
