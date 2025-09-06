@@ -290,13 +290,23 @@ Flags forwarded to the Python batcher:
 - `--start <N>` and `--limit <K>` — process indices `[N, N+K)` from the unique ranked list.
 - `--chunk-size <M>` — recycle the browser every M subs (defaults to 50 if not overridden).
 - `--order rank|alpha` — order of the unique list (default: rank).
+- `--per-item-sleep-min <s>` and `--per-item-sleep-max <s>` — worker pacing jitter between subreddits (defaults: 0.15–0.45s).
+- `--min-posts <int>` — override FPConfig.min_posts target (lower can improve throughput).
+- `--scroll-wait-ms <int>` — override FPConfig.scroll_wait_ms between scrolls (lower can improve throughput).
+- `--max-page-seconds <float>` — override FPConfig.max_page_seconds budget per page.
+- `--include-promoted` / `--exclude-promoted` — toggle inclusion of promoted posts.
 - `CONCURRENCY=<W>` — parallel Playwright processes (safe 1–3, default 2).
-- `RAMP_UP_S=<S>` — gradual worker startup period in seconds (default 10.0).
-- `INITIAL_JITTER_S=<S>` — worker start jitter in seconds (random 0–S; default 2.0).
+- `RAMP_UP_S=<S>` — gradual worker startup period in seconds (default 2.0).
+- `INITIAL_JITTER_S=<S>` — worker start jitter in seconds (random 0–S; default 0.75).
+
+When using the helper shell wrapper [`scripts/run_frontpage_batch.sh`](scripts/run_frontpage_batch.sh:1), you can also set environment variables to forward these options:
+- `PER_ITEM_SLEEP_MIN` / `PER_ITEM_SLEEP_MAX`
+- `MIN_POSTS`, `SCROLL_WAIT_MS`, `MAX_PAGE_SECONDS`
+- `INCLUDE_PROMOTED` (true/false)
 
 Pacing & safety:
-- Each worker sleeps 0.5–1.2s between subreddits and staggers its start by up to `INITIAL_JITTER_S`.
-- Workers are started gradually over `RAMP_UP_S` seconds to prevent request spikes.
+- Each worker sleeps 0.15–0.45s between subreddits by default (configurable via `--per-item-sleep-min/--per-item-sleep-max`) and staggers its start by up to `INITIAL_JITTER_S`.
+- Workers are started gradually over `RAMP_UP_S` seconds (default 2s) to prevent request spikes.
 - Keep `CONCURRENCY` low (2–3) unless you have ample IP capacity.
 
 ### Error analysis and retry functionality

@@ -177,6 +177,12 @@ def _worker_process(
     persistent_session: bool = False,
     browser_engine: str = "chromium",
     user_data_dir: Optional[str] = None,
+    per_item_sleep_min: float = 0.15,
+    per_item_sleep_max: float = 0.45,
+    min_posts_override: Optional[int] = None,
+    scroll_wait_ms_override: Optional[int] = None,
+    max_page_seconds_override: Optional[float] = None,
+    include_promoted_override: Optional[bool] = None,
 ):
     """Worker that processes a list of (index, subreddit) sequentially with one
     browser per chunk, returning stats for progress tracking.
@@ -209,7 +215,7 @@ def _worker_process(
         pass
 
     cfg = FPConfig(
-        headless=True, 
+        headless=True,
         proxy_server=proxy,
         multi_profile=multi_profile,
         persistent_session=persistent_session,
@@ -217,6 +223,18 @@ def _worker_process(
         user_data_dir=user_data_dir,
         worker_id=worker_id,  # Add worker ID for profile isolation
     )
+    # Apply FPConfig overrides if provided
+    try:
+        if min_posts_override is not None:
+            cfg.min_posts = int(min_posts_override)
+        if scroll_wait_ms_override is not None:
+            cfg.scroll_wait_ms = int(scroll_wait_ms_override)
+        if max_page_seconds_override is not None:
+            cfg.max_page_seconds = float(max_page_seconds_override)
+        if include_promoted_override is not None:
+            cfg.include_promoted = bool(include_promoted_override)
+    except Exception:
+        pass
     done = 0
     errors = 0
     last_index = -1
@@ -292,7 +310,7 @@ def _worker_process(
                         print(f"[w{worker_id} saved] {name} idx={idx} posts={posts_n}")
                     
                     # gentle pacing per worker
-                    time.sleep(random.uniform(0.5, 1.2))
+                    time.sleep(random.uniform(per_item_sleep_min, per_item_sleep_max))
                 except Exception as e:
                     errors += 1
                     print(f"[w{worker_id} exception] {name} idx={idx} - {str(e)[:100]}")
@@ -327,22 +345,33 @@ def main():
     ap.add_argument("--order", choices=["rank", "alpha"], default="rank", help="Ordering of subreddits: by original rank or alphabetically")
     ap.add_argument("--concurrency", type=int, default=2, help="Number of parallel browser processes (safe: 1-3)")
     ap.add_argument("--max-workers", type=int, default=12, help="Maximum number of workers allowed (safety cap)")
-    ap.add_argument("--initial-jitter-s", type=float, default=2.0, help="Max random stagger per worker at start (seconds)")
-    ap.add_argument("--ramp-up-s", type=float, default=5.0, help="Ramp-up period to gradually start workers (seconds)")
+    ap.add_argument("--initial-jitter-s", type=float, default=0.75, help="Max random stagger per worker at start (seconds)")
+    ap.add_argument("--ramp-up-s", type=float, default=2.0, help="Ramp-up period to gradually start workers (seconds)")
+    ap.add_argument("--per-item-sleep-min", type=float, default=0.15, help="Minimum sleep between subreddits within a worker (seconds)")
+    ap.add_argument("--per-item-sleep-max", type=float, default=0.45, help="Maximum sleep between subreddits within a worker (seconds)")
     ap.add_argument("--skip-failed", action="store_true", default=True, help="Only skip successfully scraped subreddits (default)")
     ap.add_argument("--skip-all", dest="skip_failed", action="store_false", help="Skip any existing output files, even failed ones")
     ap.add_argument("--file", type=str, help="File containing list of subreddit names (one per line)")
     ap.add_argument("--retry-failed-workers", action="store_true", help="Automatically retry from all failed worker files")
     
     # Browser fingerprinting and profile options
-    ap.add_argument("--browser-engine", choices=["chromium", "webkit", "firefox"], default="chromium", 
+    ap.add_argument("--browser-engine", choices=["chromium", "webkit", "firefox"], default="chromium",
                     help="Browser engine to use (default: chromium)")
-    ap.add_argument("--persistent-session", action="store_true", 
+    ap.add_argument("--persistent-session", action="store_true",
                     help="Use persistent browser session with cookies and cache")
-    ap.add_argument("--multi-profile", action="store_true", 
+    ap.add_argument("--multi-profile", action="store_true",
                     help="Rotate between different browser profiles for better fingerprint diversity")
-    ap.add_argument("--user-data-dir", type=str, 
+    ap.add_argument("--user-data-dir", type=str,
                     help="Custom directory for persistent browser user data")
+
+    # Throughput tuning (forwarded to FPConfig where applicable)
+    ap.add_argument("--min-posts", type=int, default=None, help="Override target number of posts to load before stopping")
+    ap.add_argument("--scroll-wait-ms", type=int, default=None, help="Override wait after each scroll (ms)")
+    ap.add_argument("--max-page-seconds", type=float, default=None, help="Override per-page time budget (seconds)")
+    ap.add_argument("--include-promoted", dest="include_promoted", action="store_true", help="Include promoted/ad posts")
+    ap.add_argument("--exclude-promoted", dest="include_promoted", action="store_false", help="Exclude promoted/ad posts")
+    ap.set_defaults(include_promoted=None)
+
     args = ap.parse_args()
 
     # Safer for Playwright + multiprocessing on macOS/Linux
@@ -428,7 +457,7 @@ def main():
     if args.concurrency <= 1:
         # Preserve original sequential behavior
         cfg = FPConfig(
-            headless=True, 
+            headless=True,
             proxy_server=proxy,
             multi_profile=args.multi_profile,
             persistent_session=args.persistent_session,
@@ -436,6 +465,18 @@ def main():
             user_data_dir=args.user_data_dir,
             worker_id=0,  # Single worker gets ID 0
         )
+        # Apply FPConfig overrides from CLI if provided
+        try:
+            if args.min_posts is not None:
+                cfg.min_posts = int(args.min_posts)
+            if args.scroll_wait_ms is not None:
+                cfg.scroll_wait_ms = int(args.scroll_wait_ms)
+            if args.max_page_seconds is not None:
+                cfg.max_page_seconds = float(args.max_page_seconds)
+            if args.include_promoted is not None:
+                cfg.include_promoted = bool(args.include_promoted)
+        except Exception:
+            pass
         scraper = SubredditFrontPageScraper(cfg)
         idx = start
         done = 0
@@ -453,7 +494,7 @@ def main():
                     scraper.save_frontpage(data["subreddit"], data)
                     done += 1
                     save_manifest(done, total, i, name)
-                    time.sleep(random.uniform(0.5, 1.2))
+                    time.sleep(random.uniform(args.per_item_sleep_min, args.per_item_sleep_max))
             finally:
                 scraper._stop()
             idx = chunk_end
@@ -473,7 +514,7 @@ def main():
     for n, item in enumerate(targets):
         slices[n % workers].append(item)
 
-    print(f"[batch] Parallel start: workers={workers}, range=[{start}, {end}), chunk-size={args.chunk_size}, ramp-up={args.ramp_up_s}s")
+    print(f"[batch] Parallel start: workers={workers}, range=[{start}, {end}), chunk-size={args.chunk_size}, ramp-up={args.ramp_up_s}s, sleep=[{args.per_item_sleep_min},{args.per_item_sleep_max}]s")
     # Track progress as futures complete
     done_total = 0
     failed_workers = []
@@ -528,6 +569,12 @@ def main():
                     args.persistent_session,
                     args.browser_engine,
                     args.user_data_dir,
+                    args.per_item_sleep_min,
+                    args.per_item_sleep_max,
+                    args.min_posts,
+                    args.scroll_wait_ms,
+                    args.max_page_seconds,
+                    args.include_promoted,
                 )
                 futures.append(fut)
                 future_to_worker[fut] = {"worker_id": wid, "targets": sl}
