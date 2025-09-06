@@ -41,6 +41,7 @@ import json
 import os
 import re
 import sys
+import hashlib
 from collections import Counter
 from glob import glob
 from typing import Dict, List, Optional, Set
@@ -135,6 +136,12 @@ def process_inputs(
     compose_anchor_max_per_sub: int = config.DEFAULT_COMPOSE_ANCHOR_MAX_PER_SUB,
     compose_anchor_min_base_score: float = config.DEFAULT_COMPOSE_ANCHOR_MIN_BASE_SCORE,
     compose_anchor_max_ratio: float = config.DEFAULT_COMPOSE_ANCHOR_MAX_RATIO,
+    # Resumability and caching
+    resume: bool = False,
+    overwrite: bool = False,
+    desc_df_cache_path: Optional[str] = None,
+    posts_df_cache_path: Optional[str] = None,
+    require_frontpage: bool = False,
 ) -> None:
     if not input_paths:
         print("No input files matched.", file=sys.stderr)
@@ -193,16 +200,81 @@ def process_inputs(
     frontpage_paths: List[str] = []
     posts_docfreq: Counter = Counter()
     posts_total_docs: int = 0
+    allowed_keys_set: Set[str] = set()
     if frontpage_glob:
-        print(f"[posts:pass1] building posts docfreq over glob={frontpage_glob!r} ...", file=sys.stderr)
+        # Always build the index (cheap; needed for per-sub loading), but try DF cache first.
         frontpage_index, frontpage_paths = _build_frontpage_index(frontpage_glob)
-        posts_docfreq, posts_total_docs = build_posts_docfreq(frontpage_paths, max_ngram, posts_extra_stopwords_set, posts_phrase_stoplist_set)
-        print(f"[posts:pass1] total_frontpages={posts_total_docs:,}, unique_terms={len(posts_docfreq):,}", file=sys.stderr)
+        allowed_keys_set = set(frontpage_index.keys())
+        loaded_posts_df = False
+        if posts_df_cache_path and os.path.exists(posts_df_cache_path) and not overwrite:
+            try:
+                with open(posts_df_cache_path, "r", encoding="utf-8") as f:
+                    cache = json.load(f)
+                posts_docfreq = Counter(cache.get("docfreq", {}))
+                posts_total_docs = int(cache.get("total_docs", 0))
+                print(f"[posts:pass1] loaded posts DF cache from {posts_df_cache_path} (docs={posts_total_docs:,}, unique_terms={len(posts_docfreq):,})", file=sys.stderr)
+                loaded_posts_df = True
+            except Exception as e:
+                print(f"[posts:pass1] failed to load posts DF cache {posts_df_cache_path}: {e}", file=sys.stderr)
+        if not loaded_posts_df:
+            print(f"[posts:pass1] building posts docfreq over glob={frontpage_glob!r} ...", file=sys.stderr)
+            posts_docfreq, posts_total_docs = build_posts_docfreq(frontpage_paths, max_ngram, posts_extra_stopwords_set, posts_phrase_stoplist_set)
+            print(f"[posts:pass1] total_frontpages={posts_total_docs:,}, unique_terms={len(posts_docfreq):,}", file=sys.stderr)
+            if posts_df_cache_path:
+                try:
+                    # Ensure cache directory exists
+                    from os import path as _p
+                    cache_dir = _p.dirname(posts_df_cache_path)
+                    if cache_dir:
+                        ensure_dir(cache_dir)
+                    with open(posts_df_cache_path, "w", encoding="utf-8") as f:
+                        json.dump({"total_docs": posts_total_docs, "docfreq": dict(posts_docfreq)}, f)
+                    print(f"[posts:pass1] saved posts DF cache to {posts_df_cache_path}", file=sys.stderr)
+                except Exception as e:
+                    print(f"[posts:pass1] failed to save posts DF cache {posts_df_cache_path}: {e}", file=sys.stderr)
 
     # Pass 1: global docfreq across selected inputs (for description n-grams)
-    print(f"[desc:pass1] building docfreq over {len(input_paths)} file(s)...", file=sys.stderr)
-    docfreq, total_docs = build_docfreq(input_paths, max_ngram)
-    print(f"[desc:pass1] total_docs={total_docs:,}, unique_terms={len(docfreq):,}", file=sys.stderr)
+    # Description DF: try cache first for resumability
+    loaded_desc_df = False
+    ak_hash = ""
+    if require_frontpage:
+        try:
+            joined = ";".join(sorted(allowed_keys_set))
+            ak_hash = hashlib.sha1(joined.encode("utf-8")).hexdigest()
+        except Exception:
+            ak_hash = ""
+    if desc_df_cache_path and os.path.exists(desc_df_cache_path) and not overwrite:
+        try:
+            with open(desc_df_cache_path, "r", encoding="utf-8") as f:
+                cache = json.load(f)
+            cached_hash = cache.get("allowed_keys_hash", "")
+            if require_frontpage and (not ak_hash or cached_hash != ak_hash):
+                raise RuntimeError("desc DF cache allowed_keys_hash mismatch")
+            docfreq = Counter(cache.get("docfreq", {}))
+            total_docs = int(cache.get("total_docs", 0))
+            print(f"[desc:pass1] loaded desc DF cache from {desc_df_cache_path} (docs={total_docs:,}, unique_terms={len(docfreq):,})", file=sys.stderr)
+            loaded_desc_df = True
+        except Exception as e:
+            print(f"[desc:pass1] failed to load desc DF cache {desc_df_cache_path}: {e}", file=sys.stderr)
+    if not loaded_desc_df:
+        print(f"[desc:pass1] building docfreq over {len(input_paths)} file(s)...", file=sys.stderr)
+        docfreq, total_docs = build_docfreq(input_paths, max_ngram, allowed_keys=(allowed_keys_set if require_frontpage else None))
+        print(f"[desc:pass1] total_docs={total_docs:,}, unique_terms={len(docfreq):,}", file=sys.stderr)
+        if desc_df_cache_path:
+            try:
+                # Ensure cache directory exists
+                from os import path as _p
+                cache_dir = _p.dirname(desc_df_cache_path)
+                if cache_dir:
+                    ensure_dir(cache_dir)
+                payload = {"total_docs": total_docs, "docfreq": dict(docfreq)}
+                if require_frontpage and ak_hash:
+                    payload["allowed_keys_hash"] = ak_hash
+                with open(desc_df_cache_path, "w", encoding="utf-8") as f:
+                    json.dump(payload, f)
+                print(f"[desc:pass1] saved desc DF cache to {desc_df_cache_path}", file=sys.stderr)
+            except Exception as e:
+                print(f"[desc:pass1] failed to save desc DF cache {desc_df_cache_path}: {e}", file=sys.stderr)
 
     # Build dynamic cross-subreddit common unigram set for descriptions (optional).
     # Guard against tiny corpora where DF ratios are unstable (disable when total_docs < 5).
@@ -229,11 +301,24 @@ def process_inputs(
     # Pass 2: per file, compute per-subreddit scores and write JSONL
     for inp in input_paths:
         outp = out_path_for_input(output_dir, inp)
+        # Resume: skip if output already exists and not overwriting
+        if resume and (not overwrite) and os.path.exists(outp) and os.path.getsize(outp) > 0:
+            print(f"[pass2] skip existing {outp}", file=sys.stderr)
+            continue
         print(f"[pass2] processing {inp} -> {outp}", file=sys.stderr)
-
+ 
         count_written = 0
-        with open(outp, "w", encoding="utf-8") as fout:
+        tmp_path = outp + ".tmp"
+        with open(tmp_path, "w", encoding="utf-8") as fout:
             for sub in iter_subreddits_from_file(inp):
+                # Filter to subs with frontpage if required
+                if require_frontpage:
+                    try:
+                        _canon_for_filter = canonicalize_subreddit_key(sub.name, sub.url)
+                    except Exception:
+                        _canon_for_filter = ""
+                    if not (_canon_for_filter and _canon_for_filter in frontpage_index):
+                        continue
                 # Description TF-IDF
                 desc_tokens = extract_desc_terms(sub.desc_text, max_ngram, extra_stopwords=desc_common_unigrams_set)
                 desc_tfidf = compute_tfidf_per_doc(
@@ -516,6 +601,10 @@ def process_inputs(
                 fout.write(json.dumps(rec, ensure_ascii=False) + "\n")
                 count_written += 1
 
+        try:
+            os.replace(tmp_path, outp)
+        except Exception as e:
+            print(f"[pass2] failed to finalize {outp} from temp: {e}", file=sys.stderr)
         print(f"[done] wrote {count_written} records to {outp}", file=sys.stderr)
 
 
@@ -525,6 +614,12 @@ def main():
     g.add_argument("--input-file", type=str, help="Path to one page JSON file")
     g.add_argument("--input-glob", type=str, help="Glob for many page JSON files, e.g., 'output/pages/page_*.json'")
     ap.add_argument("--output-dir", type=str, default=config.DEFAULT_OUTPUT_DIR, help="Directory for output JSONL files")
+    # Resumability and DF caching
+    ap.add_argument("--resume", action="store_true", help="Skip inputs whose output file already exists")
+    ap.add_argument("--overwrite", action="store_true", help="Force recomputation; overwrite outputs and ignore caches")
+    ap.add_argument("--desc-df-cache", type=str, default=None, help="Path to cache JSON for description DF (read/write)")
+    ap.add_argument("--posts-df-cache", type=str, default=None, help="Path to cache JSON for posts DF (read/write)")
+    ap.add_argument("--require-frontpage", action="store_true", help="Only process subreddits that have a frontpage.json; restrict description DF to this subset")
     ap.add_argument("--topk", type=int, default=config.DEFAULT_TOPK, help="Top-K keywords per subreddit")
     ap.add_argument("--max-ngram", type=int, default=config.DEFAULT_MAX_NGRAM, help="Max n-gram length for TF-IDF")
     ap.add_argument("--name-weight", type=float, default=config.DEFAULT_NAME_WEIGHT, help="Weight multiplier for name-derived terms")
@@ -666,6 +761,12 @@ def main():
         compose_anchor_max_per_sub=args.compose_anchor_max_per_sub,
         compose_anchor_min_base_score=args.compose_anchor_min_base_score,
         compose_anchor_max_ratio=args.compose_anchor_max_ratio,
+        # resumability & caches
+        resume=args.resume,
+        overwrite=args.overwrite,
+        desc_df_cache_path=args.desc_df_cache,
+        posts_df_cache_path=args.posts_df_cache,
+        require_frontpage=args.require_frontpage,
     )
 
 

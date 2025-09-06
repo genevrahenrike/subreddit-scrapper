@@ -3,27 +3,40 @@ Functions for scoring and merging keywords from different sources.
 """
 import math
 from collections import Counter
-from typing import Dict, List, Set, Tuple
+from typing import Dict, List, Set, Tuple, Optional
 
 from . import config
 from .description_processing import extract_desc_terms
-from .subreddit_data import iter_subreddits_from_file
+from .subreddit_data import iter_subreddits_from_file, canonicalize_subreddit_key
 from .text_utils import tokens_to_ngrams
 
 
 def build_docfreq(
     input_paths: List[str],
     max_ngram: int,
+    allowed_keys: Optional[Set[str]] = None,
 ) -> Tuple[Counter, int]:
     """
     First pass: compute document frequency for description n-grams across all selected files.
     Returns (docfreq Counter, total_docs N)
+
+    If allowed_keys is provided, only subreddits whose canonical key appears in allowed_keys
+    are counted. This lets us align description DF with the subset that has frontpage data.
     """
     docfreq = Counter()
     total_docs = 0
 
+    use_filter = bool(allowed_keys)
+
     for p in input_paths:
         for sub in iter_subreddits_from_file(p):
+            if use_filter:
+                try:
+                    canon = canonicalize_subreddit_key(sub.name, sub.url)
+                except Exception:
+                    canon = ""
+                if not canon or canon not in allowed_keys:  # type: ignore[arg-type]
+                    continue
             total_docs += 1
             tokens = extract_desc_terms(sub.desc_text, max_ngram)
             grams = tokens_to_ngrams(tokens, max_ngram)
