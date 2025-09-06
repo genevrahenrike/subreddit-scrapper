@@ -8,6 +8,7 @@ set -euo pipefail
 # - Low, tunable parallelism via CONCURRENCY (safe 1-3, default 2) with INITIAL_JITTER_S stagger
 # - Higher concurrency supported (up to 12 by default) with proper worker isolation
 # - Gradual worker ramp-up via RAMP_UP_S to prevent request spikes (default 2s for faster startup)
+# - Intelligent work allocation: pre-filters completed items, uses adaptive chunking for better load balancing
 # - Pass extra args to batch_scrape_subreddits.py
 #
 # Usage:
@@ -16,6 +17,7 @@ set -euo pipefail
 #   ORDER=alpha OVERWRITE=1 ./scripts/run_frontpage_batch.sh --chunk-size 25
 #   PROXY_SERVER="http://user:pass@host:port" RAMP_UP_S=15 ./scripts/run_frontpage_batch.sh
 #   CONCURRENCY=12 ./scripts/run_frontpage_batch.sh --start=80000 --limit=10000 --multi-profile --persistent-session
+#   ADAPTIVE_CHUNKING=1 MIN_CHUNK_SIZE=3 ./scripts/run_frontpage_batch.sh  # Better for sweep-up runs
 
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")"/.. && pwd)"
 cd "$ROOT_DIR"
@@ -35,6 +37,8 @@ MIN_POSTS="${MIN_POSTS:-}"
 SCROLL_WAIT_MS="${SCROLL_WAIT_MS:-}"
 MAX_PAGE_SECONDS="${MAX_PAGE_SECONDS:-}"
 INCLUDE_PROMOTED="${INCLUDE_PROMOTED:-}"
+ADAPTIVE_CHUNKING="${ADAPTIVE_CHUNKING:-}"
+MIN_CHUNK_SIZE="${MIN_CHUNK_SIZE:-5}"
 
 # Parse arguments to extract start/limit values if provided
 EXTRA_ARGS=()
@@ -89,6 +93,19 @@ case "$_lower" in
     ;;
 esac
 unset _lower
+
+# Adaptive chunking for better load balancing
+_adaptive_lower="$(printf '%s' "$ADAPTIVE_CHUNKING" | tr '[:upper:]' '[:lower:]')"
+case "$_adaptive_lower" in
+  1|true|yes)
+    CMD+=("--adaptive-chunking")
+    ;;
+esac
+unset _adaptive_lower
+
+if [[ -n "$MIN_CHUNK_SIZE" ]]; then
+  CMD+=("--min-chunk-size" "$MIN_CHUNK_SIZE")
+fi
 
 echo "[run] ${CMD[*]} ${EXTRA_ARGS[*]}"
 "${CMD[@]}" "${EXTRA_ARGS[@]}"

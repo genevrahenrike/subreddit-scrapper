@@ -1088,3 +1088,97 @@ nice -n 15 trickle -d 500 -u 200 python subreddit_frontpage_scraper.py --subs "$
 6. **Use the shell wrapper** for maximum control and convenience
 
 This ensures the scraper runs efficiently in the background without interfering with your important work!
+
+---
+
+# Batch Scraper Improvements - Worker Load Balancing
+
+## Problem Solved
+The "last leg" problem where most workers finish early, leaving 1-2 workers to slowly process remaining items, causing overall poor throughput and resource utilization.
+
+## Key Improvements
+
+### 1. Intelligent Work Pre-filtering
+- **Before**: All targets allocated to workers, including already-completed ones
+- **After**: Pre-filter targets to only include items that actually need processing
+- **Benefit**: Prevents workers from getting slices with mostly-completed items
+
+### 2. Smart Work Allocation Strategies  
+- **Large workloads**: Interleaved round-robin distribution (spreads easy/hard items evenly)
+- **Small workloads** (sweep-ups): Block allocation (minimizes browser recycling overhead)
+- **Threshold**: 2+ items per worker determines strategy
+
+### 3. Adaptive Chunking (`--adaptive-chunking`)
+- **Problem**: Workers with few items waste time on browser recycling
+- **Solution**: Automatically reduce chunk size for workers with fewer items
+- **Logic**: 
+  - ≤1 chunk worth: Single chunk (no recycling)
+  - ≤2 chunks worth: Split into 2-3 smaller chunks  
+  - >2 chunks: Use standard chunking
+- **Auto-enabled**: For retry runs (typically fragmented workloads)
+
+### 4. Enhanced Progress Tracking
+- Show remaining items per worker in real-time
+- Workload distribution summary at startup  
+- Work imbalance detection and warnings
+- Chunk progress with numbered chunks (e.g., "chunk 2/5")
+
+### 5. Better Error Recovery
+- Save failed worker targets with structured JSON
+- Automatic retry file loading with `--retry-failed-workers`
+- Failed targets include original indices for tracking
+
+## Usage Examples
+
+### Basic Usage (No Changes Required)
+```bash
+./scripts/run_frontpage_batch.sh
+```
+
+### For Sweep-up Runs (Recommended)
+```bash
+ADAPTIVE_CHUNKING=1 MIN_CHUNK_SIZE=3 ./scripts/run_frontpage_batch.sh --start 50000 --limit 1000
+```
+
+### Retry Failed Workers
+```bash
+./scripts/run_frontpage_batch.sh --retry-failed-workers
+# Automatically enables adaptive chunking
+```
+
+### Manual Adaptive Settings
+```bash
+./scripts/run_frontpage_batch.sh --adaptive-chunking --min-chunk-size 5 --chunk-size 25
+```
+
+## Performance Impact
+
+### Before
+- Round-robin allocation → uneven actual workloads
+- Workers finish early, 1 worker left with 80% of remaining work
+- Poor resource utilization in final phase
+
+### After  
+- Pre-filtered allocation → balanced actual workloads
+- Adaptive chunking → less overhead for small worker queues
+- Better finish time distribution across workers
+
+## New Environment Variables
+
+| Variable | Default | Description |
+|----------|---------|-------------|
+| `ADAPTIVE_CHUNKING` | "" | Set to "1" or "true" to enable adaptive chunking |
+| `MIN_CHUNK_SIZE` | 5 | Minimum chunk size when using adaptive chunking |
+
+## When to Use Adaptive Chunking
+
+**Recommended for**:
+- Sweep-up runs with many already-completed items
+- Retry runs after worker failures  
+- Small total item counts (< 200 items)
+- Scenarios where worker queues are very uneven
+
+**Not needed for**:
+- Fresh runs with mostly unprocessed items
+- Large uniform workloads (> 1000 items)
+- When browser recycling overhead is minimal
