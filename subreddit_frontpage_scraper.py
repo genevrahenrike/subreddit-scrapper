@@ -98,6 +98,12 @@ class FPConfig:
     # Enhanced error handling
     retry_delay_base: float = 2.0  # Base delay for exponential backoff
     retry_connection_errors: bool = True  # Retry on connection errors
+    # Connection-refused mitigation
+    refused_streak_threshold: int = 3  # Trigger threshold for consecutive ERR_CONNECTION_REFUSED
+    refused_window_seconds: float = 20.0  # Time window for counting the streak
+    refusal_cooldown_seconds: float = 30.0  # Cooldown when refusal period detected
+    rotate_profile_on_refused: bool = True  # Rotate browser profile/context on refusal streak
+    rotate_engine_on_refused: bool = True  # Switch browser engine on refusal streak (even if not multi_profile)
     # Bandwidth optimization
     disable_images: bool = True  # Block image downloads to save bandwidth (default enabled)
     # Internet connectivity monitoring
@@ -116,6 +122,11 @@ class SubredditFrontPageScraper:
         self._current_profile_index = 0
         self._available_profiles = list(BROWSER_PROFILES.keys())
         random.shuffle(self._available_profiles)  # Randomize profile order
+        # Connection-refused period tracking
+        self._refused_streak_count = 0
+        self._refused_first_ts = 0.0
+        self._cooldown_until_ts = 0.0
+        self._refusal_mode = False
 
     # --------------- Browser lifecycle --------------- #
     def _start(self):
@@ -368,13 +379,22 @@ class SubredditFrontPageScraper:
                     self._browser.close()
             except Exception:
                 pass
-            # Reset the engine and restart just the browser (not playwright)
+            # Reset the engine and restart according to persistent_session settings
             self._current_engine = next_engine
-            self._start_browser()
+            if self.config.persistent_session and next_engine in ["chromium", "firefox"]:
+                # Use persistent context for the new engine
+                self._setup_persistent_profile_dirs()
+                self._browser = None  # Ensure _new_context takes persistent path
+                self._new_context()
+            else:
+                self._start_browser()
         else:
-            # Just create new context with same browser
+            # Just create new context with same browser/engine
             # Reset the engine to force new profile selection
             self._current_engine = next_engine
+            if self.config.persistent_session and next_engine in ["chromium", "firefox"]:
+                self._setup_persistent_profile_dirs()
+                self._browser = None  # Ensure persistent context is used
             self._new_context()
 
     def _start_browser(self):
@@ -493,6 +513,98 @@ class SubredditFrontPageScraper:
         ]
         return any(pattern in error_str for pattern in connectivity_patterns)
 
+    def _is_connection_refused_error(self, error_str: str) -> bool:
+        """Detect ERR_CONNECTION_REFUSED variants."""
+        try:
+            es = error_str or ""
+        except Exception:
+            es = str(error_str)
+        return ("ERR_CONNECTION_REFUSED" in es) or ("net::ERR_CONNECTION_REFUSED" in es) or ("ECONNREFUSED" in es)
+
+    def _update_refusal_streak_and_check_in_period(self) -> bool:
+        """Update counters for connection-refused streak; return True if period threshold reached within window."""
+        now = time.time()
+        window = float(getattr(self.config, "refused_window_seconds", 20.0))
+        threshold = int(getattr(self.config, "refused_streak_threshold", 3))
+        if self._refused_first_ts == 0.0 or (now - self._refused_first_ts) > window:
+            # Start a new counting window
+            self._refused_first_ts = now
+            self._refused_streak_count = 1
+        else:
+            self._refused_streak_count += 1
+        in_period = self._refused_streak_count >= threshold and (now - self._refused_first_ts) <= window
+        self._refusal_mode = in_period
+        return in_period
+
+    def _rotate_profile_immediate(self):
+        """Rotate browser profile/engine immediately, even if multi_profile is False."""
+        try:
+            # Close current page/context if present
+            if hasattr(self, "_page") and self._page:
+                try:
+                    self._page.close()
+                except Exception:
+                    pass
+            if hasattr(self, "_context") and self._context:
+                try:
+                    self._context.close()
+                except Exception:
+                    pass
+        except Exception:
+            pass
+
+        # Prefer built-in rotation when multi_profile is enabled
+        if getattr(self.config, "multi_profile", False):
+            try:
+                self._recycle_browser_for_multi_profile()
+                return
+            except Exception:
+                pass
+
+        # Otherwise, switch engine explicitly
+        try:
+            engines = list(BROWSER_PROFILES.keys())
+            current = getattr(self, "_current_engine", self.config.browser_engine)
+            if current in engines:
+                next_idx = (engines.index(current) + 1) % len(engines)
+            else:
+                next_idx = 0
+            next_engine = engines[next_idx]
+            if next_engine == current and len(engines) > 1:
+                next_engine = engines[(next_idx + 1) % len(engines)]
+            try:
+                if hasattr(self, "_browser") and self._browser:
+                    self._browser.close()
+            except Exception:
+                pass
+            self._current_engine = next_engine
+            print(f"[profile] Switching browser engine due to refusal streak -> {next_engine}")
+            if self.config.persistent_session and next_engine in ["chromium", "firefox"]:
+                # Respect persistent session semantics on engine switch
+                self._setup_persistent_profile_dirs()
+                self._browser = None  # Force persistent path in _new_context
+                self._new_context()
+            else:
+                self._start_browser()
+        except Exception as e:
+            print(f"[profile] Engine rotation failed: {str(e)[:80]}. Recycling context instead.")
+            try:
+                self._new_context()
+            except Exception:
+                pass
+
+    def _enter_refusal_cooldown_and_rotate(self, cause: str = ""):
+        """Rotate profile/engine and set a cooldown window."""
+        try:
+            if getattr(self.config, "rotate_engine_on_refused", True) or getattr(self.config, "rotate_profile_on_refused", True):
+                self._rotate_profile_immediate()
+        except Exception:
+            pass
+        cd = float(getattr(self.config, "refusal_cooldown_seconds", 30.0))
+        self._cooldown_until_ts = time.time() + cd
+        msg_cause = f" for {cause}" if cause else ""
+        print(f"[cooldown] Connection-refused period detected{msg_cause}. Cooling down for {cd:.1f}s.")
+
     def _apply_stealth(self, page):
         engine = getattr(self, '_current_engine', 'chromium')
         
@@ -594,6 +706,12 @@ class SubredditFrontPageScraper:
         start = time.monotonic()
         attempts = 0
         last_error = None
+
+        # If a prior refusal period set a cooldown, honor it before starting
+        if hasattr(self, "_cooldown_until_ts") and self._cooldown_until_ts > time.time():
+            remaining = max(0.0, self._cooldown_until_ts - time.time())
+            print(f"[cooldown] Waiting {remaining:.1f}s before scraping {sub_name}")
+            time.sleep(remaining)
         
         def _is_retryable_error(error_str: str) -> bool:
             """Check if error is worth retrying."""
@@ -656,6 +774,21 @@ class SubredditFrontPageScraper:
             except Exception as e:
                 last_error = str(e)
                 elapsed = time.monotonic() - start
+
+                # Special handling: detect consecutive connection refusals and enter cooldown with profile rotation
+                if self._is_connection_refused_error(last_error):
+                    if self._update_refusal_streak_and_check_in_period():
+                        self._enter_refusal_cooldown_and_rotate(sub_name)
+                        # Reset attempts after cooldown to give a fresh try
+                        attempts = 0
+                        # Honor cooldown immediately in this invocation
+                        if hasattr(self, "_cooldown_until_ts") and self._cooldown_until_ts > time.time():
+                            time.sleep(max(0.0, self._cooldown_until_ts - time.time()))
+                        continue
+                else:
+                    # Reset streak on other error types
+                    self._refused_streak_count = 0
+                    self._refusal_mode = False
                 
                 # Check if this is an internet connectivity error
                 if self._is_internet_connectivity_error(last_error):

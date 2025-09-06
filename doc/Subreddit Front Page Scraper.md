@@ -1182,3 +1182,67 @@ ADAPTIVE_CHUNKING=1 MIN_CHUNK_SIZE=3 ./scripts/run_frontpage_batch.sh --start 50
 - Fresh runs with mostly unprocessed items
 - Large uniform workloads (> 1000 items)
 - When browser recycling overhead is minimal
+
+---
+
+# Abnormal Episode Handling 
+
+Implemented robust handling for repeated net::ERR_CONNECTION_REFUSED periods with profile/engine rotation and cooldown logic.
+
+What changed
+- New refusal-period detection and cooldown:
+  - Added counters and windowed detection. When we hit multiple ERR_CONNECTION_REFUSED quickly, we mark a “refusal period,” rotate browser identity, and apply a cooldown before retrying the same subreddit.
+  - Key logic is in:
+    - [python.SubredditFrontPageScraper._is_connection_refused_error()](subreddit_frontpage_scraper.py:507)
+    - [python.SubredditFrontPageScraper._update_refusal_streak_and_check_in_period()](subreddit_frontpage_scraper.py:515)
+    - [python.SubredditFrontPageScraper._enter_refusal_cooldown_and_rotate()](subreddit_frontpage_scraper.py:581)
+    - Integrated into the main retry flow in [python.SubredditFrontPageScraper.scrape_frontpage()](subreddit_frontpage_scraper.py:689). If a refusal streak is detected, we:
+      - Rotate identity (context/profile/engine)
+      - Set a cooldown window (default 30s)
+      - Honor that cooldown before the next attempt
+
+- Identity rotation (profile/engine) when refusal-period is detected:
+  - Immediate rotate helper:
+    - [python.SubredditFrontPageScraper._rotate_profile_immediate()](subreddit_frontpage_scraper.py:530)
+      - If multi-profile is enabled, it uses the existing [python.SubredditFrontPageScraper._recycle_browser_for_multi_profile()](subreddit_frontpage_scraper.py:352)
+      - Otherwise it cycles engines across chromium/webkit/firefox to materially change fingerprint and network path
+      - Persistent session semantics are respected on engine switch or context recreation
+  - Small improvement to multi-profile recycling to respect persistent_session when switching engines:
+    - Engine-switch branch updated in [python.SubredditFrontPageScraper._recycle_browser_for_multi_profile()](subreddit_frontpage_scraper.py:371)
+    - Consistent persistent-session handling on forced engine rotation in [python.SubredditFrontPageScraper._rotate_profile_immediate()](subreddit_frontpage_scraper.py:571)
+
+- Configurable controls (sane defaults):
+  - New FPConfig knobs (defaults chosen to match your request):
+    - refused_streak_threshold=3, refused_window_seconds=20.0, refusal_cooldown_seconds=30.0
+    - rotate_profile_on_refused=True, rotate_engine_on_refused=True
+  - See [python.FPConfig](subreddit_frontpage_scraper.py:73) fields around lines 101–107
+
+- Cooldown is honored across subreddits in the same worker instance:
+  - Before each subreddit begins, [python.SubredditFrontPageScraper.scrape_frontpage()](subreddit_frontpage_scraper.py:689) checks _cooldown_until_ts and sleeps if still in cooldown. This prevents the “terminator in the last scene” thrash by spacing retries during refusal periods.
+
+- Compatibility with existing logic:
+  - The connectivity detector is left intact but connection-refused classification runs first so we don’t misclassify refusal periods as “no internet.”
+  - Existing exponential backoff still applies for other transient failures.
+  - Fallback to old.reddit remains for low-post scenarios.
+
+Operational guidance
+- No CLI changes required to benefit from refusal handling; defaults apply automatically in both [batch_scrape_subreddits.py](batch_scrape_subreddits.py) and [scripts/run_frontpage_batch.sh](scripts/run_frontpage_batch.sh).
+- To increase identity diversity during refusal periods:
+  - Run with multi-profile on and/or persistent sessions so each worker has a more robust fingerprint: 
+    - Example: ./scripts/run_frontpage_batch.sh --multi-profile --persistent-session
+  - You may also lower chunk sizes to recycle identity more frequently.
+
+Why this helps your logs
+- Previously, repeated “Recycling browser context for fresh fingerprint” spammed without real variance or rest. Now:
+  - We detect concentrated refusal streaks (likely gating) and take a deliberate 30s cooldown.
+  - We rotate to a different browser engine (and profile when enabled), providing a genuinely different fingerprint + network stack.
+  - We resume with reset attempts after cooldown to give a fair chance post-throttle.
+
+Future optional improvements (not required for this fix)
+- Cross-worker backoff coordination: write a timestamp file on refusal and have all workers honor a global cooldown. This reduces herd-thrashing when multiple workers hit the wall at once.
+- Proxy rotation hook: if you later supply a pool, we can rotate PROXY_SERVER on refusal periods.
+
+Files updated
+- [subreddit_frontpage_scraper.py](subreddit_frontpage_scraper.py)
+
+This implements detection of repeated ERR_CONNECTION_REFUSED, browser profile/engine rotation, and a 30s cooldown before retry, aligning with your requested behavior and reducing thrash during throttling windows.
