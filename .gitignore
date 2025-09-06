@@ -1,3 +1,6 @@
+# Browser profiles (exclude entire directory)
+browser_profiles/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -10136,3 +10139,12 @@ output/subreddits/forhire/frontpage.json
 output/subreddits/forhonor/frontpage.json
 output/subreddits/forkliftmemes/frontpage.json
 output/subreddits/formcheck/frontpage.json
+output/.DS_Store
+output/subreddits/AskReddit/frontpage.json
+output/subreddits/aww/frontpage.json
+output/subreddits/funny/frontpage.json
+output/subreddits/gaming/frontpage.json
+output/subreddits/programming/frontpage.json
+output/subreddits/technology/frontpage.json
+output/subreddits/todayilearned/frontpage.json
+output/subreddits/worldnews/frontpage.json

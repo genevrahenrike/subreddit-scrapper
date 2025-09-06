@@ -42,10 +42,11 @@ This scrapes a couple of popular subreddits and writes JSON to `output/subreddit
 python subreddit_frontpage_scraper.py --subs r/funny r/AskReddit
 ```
 
-CLI options:
+CLI options with ramp-up for multiple subreddits:
 ```bash
 python subreddit_frontpage_scraper.py \
-  --subs r/aww r/funny \
+  --subs r/aww r/funny r/programming r/technology \
+  --ramp-up-delay 1.5 \
   --min-posts 50 \
   --no-headless \
   --proxy "http://user:pass@host:port" \
@@ -58,6 +59,9 @@ python subreddit_frontpage_scraper.py \
   --disable-images \
   --wait-for-internet \
   --internet-check-interval 15.0
+```
+
+**Ramp-up delay**: When scraping multiple subreddits, `--ramp-up-delay` adds cumulative delays (1.5s, 3.0s, 4.5s, etc.) before each subsequent subreddit to prevent request spikes and reduce detection.
 ```
 
 ---
@@ -259,32 +263,40 @@ python subreddit_frontpage_scraper.py --subs r/sub1 r/sub2 r/sub3 --offset 1
 python subreddit_frontpage_scraper.py --file retry_list.txt --offset 5000 --overwrite
 ```
 ### Batch mode (ranked front pages)
-Use the helper script to scrape many subreddits from `output/pages/page_*.json` with safe, low parallelism.
+Use the helper script to scrape many subreddits from `output/pages/page_*.json` with safe, low parallelism and gradual worker ramp-up.
 
 Basics:
 ```bash
-# Default: concurrency=2, gentle pacing and browser recycle by chunk size
+# Default: concurrency=2, gentle pacing and browser recycle by chunk size, 10s ramp-up
 ./scripts/run_frontpage_batch.sh
 
-# Resume a range (indices) with 3 workers
-CONCURRENCY=3 ./scripts/run_frontpage_batch.sh --start 4750 --limit 50
+# Resume a range (indices) with 3 workers and faster ramp-up
+CONCURRENCY=3 RAMP_UP_S=5.0 ./scripts/run_frontpage_batch.sh --start 4750 --limit 50
 
-# Tune chunking and jitter (stagger worker starts up to 3s)
-CONCURRENCY=3 INITIAL_JITTER_S=3.0 ./scripts/run_frontpage_batch.sh --chunk-size 40
+# Tune chunking, ramp-up, and jitter (stagger worker starts up to 3s)
+CONCURRENCY=3 RAMP_UP_S=15.0 INITIAL_JITTER_S=3.0 ./scripts/run_frontpage_batch.sh --chunk-size 40
 
-# Force re-scrape of existing outputs in the range
-CONCURRENCY=2 ./scripts/run_frontpage_batch.sh --start 0 --limit 20 --overwrite
+# Force re-scrape of existing outputs in the range with gradual startup
+CONCURRENCY=2 RAMP_UP_S=8.0 ./scripts/run_frontpage_batch.sh --start 0 --limit 20 --overwrite
 ```
+
+**Ramp-up phase benefits:**
+- **Prevents request spikes**: Workers start gradually over the ramp-up period instead of all at once
+- **Reduces server load**: Distributes initial connection attempts across time
+- **Improves success rates**: Less likely to trigger rate limiting or detection during startup
+- **Graceful scaling**: Automatically calculates optimal start times based on worker count
 
 Flags forwarded to the Python batcher:
 - `--start <N>` and `--limit <K>` — process indices `[N, N+K)` from the unique ranked list.
 - `--chunk-size <M>` — recycle the browser every M subs (defaults to 50 if not overridden).
 - `--order rank|alpha` — order of the unique list (default: rank).
 - `CONCURRENCY=<W>` — parallel Playwright processes (safe 1–3, default 2).
+- `RAMP_UP_S=<S>` — gradual worker startup period in seconds (default 10.0).
 - `INITIAL_JITTER_S=<S>` — worker start jitter in seconds (random 0–S; default 2.0).
 
 Pacing & safety:
 - Each worker sleeps 0.5–1.2s between subreddits and staggers its start by up to `INITIAL_JITTER_S`.
+- Workers are started gradually over `RAMP_UP_S` seconds to prevent request spikes.
 - Keep `CONCURRENCY` low (2–3) unless you have ample IP capacity.
 
 ### Error analysis and retry functionality
@@ -563,6 +575,9 @@ Enhanced error handling:
 - `retry_connection_errors` (bool, default True): Retry on connection errors like ERR_CONNECTION_REFUSED.
 - `retry_delay_base` (float, default 2.0): Base delay for exponential backoff between retries.
 
+Ramp-up and pacing (prevents request spikes):
+- `ramp_up_delay` (float, default 0.0): Additional cumulative delay before each subreddit when scraping multiple targets.
+
 Lazy-load / scrolling knobs:
 - `min_posts` (int, default 50): Target number of posts to load before stopping.
 - `max_scroll_loops` (int): Hard cap on scroll iterations.
@@ -609,6 +624,7 @@ If the new UI yields no posts (or far fewer than expected), the scraper visits `
   - **Enable multi-profile rotation**: `--multi-profile` to switch between fingerprints
   - Consider using a residential proxy (`PROXY_SERVER`) and persistent sessions (`--persistent-session`)
 - Rate limiting / flaky loads:
+  - **Use ramp-up delays**: `--ramp-up-delay 1.0` for individual scraper or `RAMP_UP_S=10.0` for batch mode
   - Add small sleeps between subreddits.
   - Lower `min_posts` when speed matters.
   - **Use multi-profile mode**: `--multi-profile` to rotate between browser fingerprints

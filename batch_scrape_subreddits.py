@@ -19,11 +19,67 @@ from pathlib import Path
 from typing import Dict, List, Set, Tuple, Optional
 from concurrent.futures import ProcessPoolExecutor, as_completed
 import multiprocessing as mp
+import sys
+import signal
+import atexit
 
 from subreddit_frontpage_scraper import SubredditFrontPageScraper, FPConfig
 
 PAGES_DIR = Path("output/pages")
 SUB_DIR = Path("output/subreddits")
+
+# Global reference to executor for cleanup
+_executor = None
+_workers_started = False
+
+def _cleanup_workers():
+    """Clean up any running workers on exit."""
+    global _executor, _workers_started
+    if _executor and _workers_started:
+        print("\n[cleanup] Terminating workers...")
+        try:
+            _executor.shutdown(wait=False)
+        except Exception:
+            pass
+        _workers_started = False
+
+def _signal_handler(signum, frame):
+    """Handle Ctrl+C and other signals."""
+    print(f"\n[signal] Received signal {signum}, cleaning up...")
+    _cleanup_workers()
+    sys.exit(1)
+
+# Register cleanup handlers
+atexit.register(_cleanup_workers)
+signal.signal(signal.SIGINT, _signal_handler)
+signal.signal(signal.SIGTERM, _signal_handler)
+
+
+def _init_worker():
+    """Initialize worker process with clean environment for Playwright."""
+    import asyncio
+    import signal
+    
+    # Handle signals in worker processes - terminate cleanly on SIGINT/SIGTERM
+    def worker_signal_handler(signum, frame):
+        print(f"[worker-{os.getpid()}] Received signal {signum}, exiting...")
+        sys.exit(1)
+    
+    signal.signal(signal.SIGINT, worker_signal_handler)
+    signal.signal(signal.SIGTERM, worker_signal_handler)
+    
+    # Ensure no asyncio loop interference
+    try:
+        loop = asyncio.get_event_loop()
+        if loop.is_running():
+            loop.close()
+    except Exception:
+        pass
+    
+    try:
+        asyncio.set_event_loop(None)
+    except Exception:
+        pass
 
 
 def load_subs_with_rank() -> List[Tuple[str, int]]:
@@ -117,28 +173,98 @@ def _worker_process(
     proxy: Optional[str],
     jitter_s: float,
     skip_failed: bool = True,
+    multi_profile: bool = False,
+    persistent_session: bool = False,
+    browser_engine: str = "chromium",
+    user_data_dir: Optional[str] = None,
 ):
     """Worker that processes a list of (index, subreddit) sequentially with one
     browser per chunk, returning stats for progress tracking.
 
-    Returns a dict: { 'worker_id': int, 'done': int, 'last_index': int, 'last_name': str }
+    Returns a dict: { 'worker_id': int, 'done': int, 'last_index': int, 'last_name': str, 'errors': int }
     """
+    import asyncio
+    
+    print(f"[w{worker_id}] Starting worker with {len(targets)} targets")
+    
+    # Ensure clean asyncio environment in worker process to prevent Playwright conflicts
+    try:
+        # Close any existing event loop that might exist
+        loop = asyncio.get_event_loop()
+        if loop.is_running():
+            loop.close()
+    except Exception:
+        pass
+    
+    # Set a new event loop for this worker
+    try:
+        asyncio.set_event_loop(asyncio.new_event_loop())
+    except Exception:
+        pass
+    
     # Light stagger so workers don't slam at once
     try:
         time.sleep(random.uniform(0, max(0.0, float(jitter_s))))
     except Exception:
         pass
 
-    cfg = FPConfig(headless=True, proxy_server=proxy)
+    cfg = FPConfig(
+        headless=True, 
+        proxy_server=proxy,
+        multi_profile=multi_profile,
+        persistent_session=persistent_session,
+        browser_engine=browser_engine,
+        user_data_dir=user_data_dir,
+        worker_id=worker_id,  # Add worker ID for profile isolation
+    )
     done = 0
+    errors = 0
     last_index = -1
     last_name = ""
+    scraper = None
 
     # Process in chunks to periodically recycle the browser/context
     for start in range(0, len(targets), max(1, int(chunk_size))):
         batch = targets[start : start + chunk_size]
-        scraper = SubredditFrontPageScraper(cfg)
-        scraper._start()
+        
+        # Attempt to create scraper with retries for this chunk
+        chunk_retries = 2
+        for retry in range(chunk_retries):
+            try:
+                if scraper:
+                    try:
+                        scraper._stop()
+                    except Exception:
+                        pass
+                    scraper = None
+                
+                scraper = SubredditFrontPageScraper(cfg)
+                scraper._start()
+                print(f"[w{worker_id}] Started scraper for chunk {start//chunk_size + 1}")
+                break
+                
+            except Exception as e:
+                error_msg = str(e)[:100]
+                if retry < chunk_retries - 1:
+                    print(f"[w{worker_id}] Scraper start failed (retry {retry + 1}/{chunk_retries}): {error_msg}")
+                    time.sleep(2.0 * (retry + 1))  # Exponential backoff
+                else:
+                    print(f"[w{worker_id}] Scraper start failed permanently: {error_msg}")
+                    # Return partial results even if we can't finish
+                    return {
+                        "worker_id": worker_id,
+                        "done": done,
+                        "errors": errors + 1,
+                        "last_index": last_index,
+                        "last_name": last_name,
+                        "fatal_error": error_msg,
+                    }
+        
+        if not scraper:
+            print(f"[w{worker_id}] Could not create scraper, aborting worker")
+            break
+            
+        # Process this chunk
         try:
             for idx, name in batch:
                 try:
@@ -154,6 +280,7 @@ def _worker_process(
                     
                     # Enhanced error logging
                     if data.get("error"):
+                        errors += 1
                         error_msg = data.get("error", "")
                         if "ERR_CONNECTION_REFUSED" in error_msg or "ERR_CONNECTION_RESET" in error_msg:
                             print(f"[w{worker_id} conn-error] {name} idx={idx} posts={posts_n} error={error_msg[:100]}...")
@@ -167,18 +294,25 @@ def _worker_process(
                     # gentle pacing per worker
                     time.sleep(random.uniform(0.5, 1.2))
                 except Exception as e:
+                    errors += 1
                     print(f"[w{worker_id} exception] {name} idx={idx} - {str(e)[:100]}")
                     # Best-effort: continue to next subreddit in this worker
                     continue
+        except Exception as e:
+            print(f"[w{worker_id} chunk-error] Failed processing chunk {start}-{start+len(batch)}: {str(e)[:100]}")
+            errors += 1
         finally:
-            try:
-                scraper._stop()
-            except Exception:
-                pass
+            if scraper:
+                try:
+                    scraper._stop()
+                except Exception as e:
+                    print(f"[w{worker_id} cleanup-error] {str(e)[:50]}")
 
+    print(f"[w{worker_id}] Worker completed: done={done}, errors={errors}")
     return {
         "worker_id": worker_id,
         "done": done,
+        "errors": errors,
         "last_index": last_index,
         "last_name": last_name,
     }
@@ -192,12 +326,27 @@ def main():
     ap.add_argument("--overwrite", action="store_true", help="Re-scrape even if frontpage.json exists")
     ap.add_argument("--order", choices=["rank", "alpha"], default="rank", help="Ordering of subreddits: by original rank or alphabetically")
     ap.add_argument("--concurrency", type=int, default=2, help="Number of parallel browser processes (safe: 1-3)")
+    ap.add_argument("--max-workers", type=int, default=12, help="Maximum number of workers allowed (safety cap)")
     ap.add_argument("--initial-jitter-s", type=float, default=2.0, help="Max random stagger per worker at start (seconds)")
+    ap.add_argument("--ramp-up-s", type=float, default=5.0, help="Ramp-up period to gradually start workers (seconds)")
     ap.add_argument("--skip-failed", action="store_true", default=True, help="Only skip successfully scraped subreddits (default)")
     ap.add_argument("--skip-all", dest="skip_failed", action="store_false", help="Skip any existing output files, even failed ones")
+    ap.add_argument("--file", type=str, help="File containing list of subreddit names (one per line)")
+    ap.add_argument("--retry-failed-workers", action="store_true", help="Automatically retry from all failed worker files")
+    
+    # Browser fingerprinting and profile options
+    ap.add_argument("--browser-engine", choices=["chromium", "webkit", "firefox"], default="chromium", 
+                    help="Browser engine to use (default: chromium)")
+    ap.add_argument("--persistent-session", action="store_true", 
+                    help="Use persistent browser session with cookies and cache")
+    ap.add_argument("--multi-profile", action="store_true", 
+                    help="Rotate between different browser profiles for better fingerprint diversity")
+    ap.add_argument("--user-data-dir", type=str, 
+                    help="Custom directory for persistent browser user data")
     args = ap.parse_args()
 
     # Safer for Playwright + multiprocessing on macOS/Linux
+    # Force spawn method to avoid asyncio conflicts
     try:
         mp.set_start_method("spawn", force=True)
     except RuntimeError:
@@ -211,21 +360,82 @@ def main():
     else:
         pairs.sort(key=lambda x: x[0].lower())
     subs = [name for name, _ in pairs]
+    
+    # Handle different input sources
+    if args.retry_failed_workers:
+        # Load from failed worker files
+        print("Loading targets from failed worker files...")
+        failed_files = list(Path().glob("output/subreddits/failed_worker_*_targets.json"))
+        if not failed_files:
+            print("No failed worker files found.")
+            return
+        
+        retry_targets = []
+        for file_path in failed_files:
+            try:
+                with open(file_path, 'r') as f:
+                    data = json.load(f)
+                targets = data.get("unfinished_targets", [])
+                for target in targets:
+                    sub_name = target.get("subreddit")
+                    if sub_name:
+                        retry_targets.append(sub_name)
+                print(f"Loaded {len(targets)} targets from {file_path.name}")
+            except Exception as e:
+                print(f"Warning: Could not read {file_path}: {e}")
+        
+        # Remove duplicates and use for processing
+        subs = list(set(retry_targets))
+        print(f"Total unique retry targets: {len(subs)}")
+        
+    elif args.file:
+        # Load from specified file
+        try:
+            with open(args.file, 'r') as f:
+                subs = [line.strip() for line in f if line.strip()]
+            print(f"Loaded {len(subs)} subreddits from {args.file}")
+        except Exception as e:
+            print(f"Error reading file {args.file}: {e}")
+            return
+    
     total = len(subs)
     if total == 0:
-        print("No subreddits found in output/pages")
+        print("No subreddits found to process")
         return
-    start = max(0, args.start)
-    end = total if args.limit in (0, None) else min(total, start + args.limit)
-    print(f"Total unique subs: {total}. Processing range [{start}, {end})")
+    # Apply start/limit only for ranked processing (not for file/retry modes)
+    if not args.file and not args.retry_failed_workers:
+        start = max(0, args.start)
+        end = total if args.limit in (0, None) else min(total, start + args.limit)
+        print(f"Total unique subs: {total}. Processing range [{start}, {end})")
+        subs = subs[start:end]
+    else:
+        start = 0
+        end = len(subs)
+        if args.retry_failed_workers:
+            print(f"Processing {end} failed worker retry targets")
+        else:
+            print(f"Processing {end} targets from file")
 
     proxy = os.getenv("PROXY_SERVER") or None
 
     # Prepare targets with indices for progress tracking and uniqueness already ensured
-    targets = [(i, subs[i]) for i in range(start, end)]
+    if args.file or args.retry_failed_workers:
+        # For file/retry mode, create simple sequential indices
+        targets = [(i, subs[i]) for i in range(len(subs))]
+    else:
+        # For ranked mode, use original indices for tracking
+        targets = [(start + i, subs[i]) for i in range(len(subs))]
     if args.concurrency <= 1:
         # Preserve original sequential behavior
-        cfg = FPConfig(headless=True, proxy_server=proxy)
+        cfg = FPConfig(
+            headless=True, 
+            proxy_server=proxy,
+            multi_profile=args.multi_profile,
+            persistent_session=args.persistent_session,
+            browser_engine=args.browser_engine,
+            user_data_dir=args.user_data_dir,
+            worker_id=0,  # Single worker gets ID 0
+        )
         scraper = SubredditFrontPageScraper(cfg)
         idx = start
         done = 0
@@ -252,45 +462,144 @@ def main():
 
     # Parallel: split targets into roughly even round-robin slices per worker
     workers = max(1, int(args.concurrency))
-    if workers > 8:
-        workers = 8  # guardrail
+    max_workers_cap = args.max_workers  # The cap from argument
+    if workers > max_workers_cap:
+        print(f"[batch] Warning: Requested {workers} workers exceeds safety cap of {max_workers_cap}, using {max_workers_cap}")
+        workers = max_workers_cap
+    elif workers > 8:
+        print(f"[batch] Warning: Using {workers} workers (>8). Monitor system resources and network limits.")
+    
     slices: List[List[Tuple[int, str]]] = [[] for _ in range(workers)]
     for n, item in enumerate(targets):
         slices[n % workers].append(item)
 
-    print(f"[batch] Parallel start: workers={workers}, range=[{start}, {end}), chunk-size={args.chunk_size}")
+    print(f"[batch] Parallel start: workers={workers}, range=[{start}, {end}), chunk-size={args.chunk_size}, ramp-up={args.ramp_up_s}s")
     # Track progress as futures complete
     done_total = 0
+    failed_workers = []
+    successful_workers = []
     futures = []
-    with ProcessPoolExecutor(max_workers=workers) as ex:
-        for wid, sl in enumerate(slices):
-            if not sl:
-                continue
-            fut = ex.submit(
-                _worker_process,
-                wid,
-                sl,
-                args.chunk_size,
-                args.overwrite,
-                proxy,
-                float(args.initial_jitter_s),
-                args.skip_failed,
-            )
-            futures.append(fut)
+    future_to_worker = {}  # Map futures to worker info for better error tracking
+    
+    # Implement ramp-up phase: gradually start workers over the ramp-up period
+    worker_start_times = []
+    if workers > 1 and args.ramp_up_s > 0:
+        # Distribute worker starts evenly across the ramp-up period
+        # For faster ramp-up: use shorter intervals and calculate delays more efficiently
+        ramp_interval = args.ramp_up_s / max(1, workers - 1) if workers > 1 else 0
+        for i in range(workers):
+            start_delay = min(i * ramp_interval, args.ramp_up_s)  # Cap at ramp_up_s
+            worker_start_times.append(start_delay)
+        print(f"[batch] Worker ramp-up schedule: {[f'{i:.1f}s' for i in worker_start_times]}")
+    else:
+        # No ramp-up, start all immediately (but still with jitter)
+        worker_start_times = [0.0] * workers
+    
+    start_time = time.time()
+    with ProcessPoolExecutor(max_workers=workers, initializer=_init_worker) as ex:
+        global _executor, _workers_started
+        _executor = ex
+        _workers_started = True
+        
+        try:
+            for wid, sl in enumerate(slices):
+                if not sl:
+                    continue
+                
+                # Calculate and apply ramp-up delay more efficiently
+                target_start_time = start_time + worker_start_times[wid]
+                current_time = time.time()
+                delay_needed = max(0, target_start_time - current_time)
+                
+                if delay_needed > 0:
+                    print(f"[batch] Scheduling worker {wid} to start in {delay_needed:.1f}s")
+                    time.sleep(delay_needed)
+                
+                fut = ex.submit(
+                    _worker_process,
+                    wid,
+                    sl,
+                    args.chunk_size,
+                    args.overwrite,
+                    proxy,
+                    float(args.initial_jitter_s),
+                    args.skip_failed,
+                    args.multi_profile,
+                    args.persistent_session,
+                    args.browser_engine,
+                    args.user_data_dir,
+                )
+                futures.append(fut)
+                future_to_worker[fut] = {"worker_id": wid, "targets": sl}
 
-        for fut in as_completed(futures):
-            try:
-                res = fut.result()
-            except Exception as e:
-                print(f"[worker-error] {e}")
-                continue
-            done_total += int(res.get("done", 0))
-            last_i = int(res.get("last_index", -1))
-            last_n = str(res.get("last_name", ""))
-            if last_i >= 0 and last_n:
-                save_manifest(done_total, total, last_i, last_n)
-            print(f"[worker {res.get('worker_id')}] done={res.get('done',0)} last={last_n}#{last_i}")
+            for fut in as_completed(futures):
+                worker_info = future_to_worker.get(fut, {})
+                worker_id = worker_info.get("worker_id", "unknown")
+                worker_targets = worker_info.get("targets", [])
+                
+                try:
+                    res = fut.result()
+                    # Worker completed successfully
+                    successful_workers.append(worker_id)
+                    done_total += int(res.get("done", 0))
+                    error_count = res.get("errors", 0)
+                    last_i = int(res.get("last_index", -1))
+                    last_n = str(res.get("last_name", ""))
+                    if last_i >= 0 and last_n:
+                        save_manifest(done_total, total, last_i, last_n)
+                    
+                    status = f"completed: done={res.get('done',0)}, errors={error_count}"
+                    if res.get("fatal_error"):
+                        status += f", fatal_error={res.get('fatal_error')[:50]}..."
+                    print(f"[worker {worker_id}] {status}, last={last_n}#{last_i}")
+                    
+                except Exception as e:
+                    # Worker failed catastrophically
+                    failed_workers.append(worker_id)
+                    error_msg = str(e)[:200]  # Truncate very long error messages
+                    print(f"[worker-error] Worker {worker_id} failed catastrophically: {error_msg}")
+                    
+                    # Save the failed targets for potential retry
+                    if worker_targets and len(worker_targets) > 0:
+                        unfinished_count = len(worker_targets)
+                        print(f"[worker-recovery] Worker {worker_id} had {unfinished_count} unfinished subreddits")
+                        
+                        try:
+                            failed_targets_file = SUB_DIR / f"failed_worker_{worker_id}_targets.json"
+                            SUB_DIR.mkdir(parents=True, exist_ok=True)
+                            with open(failed_targets_file, 'w') as f:
+                                json.dump({
+                                    "worker_id": worker_id,
+                                    "error": error_msg,
+                                    "failed_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
+                                    "unfinished_targets": [{"index": idx, "subreddit": name} for idx, name in worker_targets]
+                                }, f, indent=2)
+                            print(f"[worker-recovery] Saved failed targets to {failed_targets_file}")
+                        except Exception as save_error:
+                            print(f"[worker-recovery] Could not save failed targets: {save_error}")
+                    
+                    continue
+        
+        except KeyboardInterrupt:
+            print("\n[interrupt] Keyboard interrupt received, shutting down workers...")
+            _cleanup_workers()
+            raise
+        except Exception as e:
+            print(f"\n[error] Unexpected error: {e}")
+            _cleanup_workers()
+            raise
+        finally:
+            _workers_started = False
 
+    # Summary of worker performance
+    total_workers = len(successful_workers) + len(failed_workers)
+    if total_workers > 0:
+        success_rate = len(successful_workers) / total_workers * 100
+        print(f"[batch] Worker summary: {len(successful_workers)}/{total_workers} successful ({success_rate:.1f}%)")
+        if failed_workers:
+            print(f"[batch] Failed workers: {failed_workers}")
+            print(f"[batch] Check output/subreddits/failed_worker_*_targets.json for recovery options")
+    
     print("[batch] Parallel completed.")
 
 

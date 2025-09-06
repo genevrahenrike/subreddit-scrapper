@@ -1,6 +1,7 @@
 beautifulsoup4>=4.12.2
 playwright>=1.45.0
 requests>=2.31.0
+urllib3>=1.26.0,<2.0.0
 # Embeddings and GPU acceleration
 torch>=2.2.0
 sentence-transformers>=2.6.1

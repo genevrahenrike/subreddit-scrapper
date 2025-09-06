@@ -18,6 +18,7 @@ import re
 import time
 import random
 import requests
+import subprocess
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
@@ -84,6 +85,7 @@ class FPConfig:
     persistent_session: bool = False  # Use persistent user data directory
     multi_profile: bool = False  # Rotate between browser profiles
     user_data_dir: Optional[str] = None  # Custom user data directory
+    keep_profiles_warm: bool = False  # Keep multiple browser instances running (advanced)
     # Scrolling / loading behavior
     min_posts: int = 50
     max_scroll_loops: int = 80  # Restored to original value
@@ -102,6 +104,10 @@ class FPConfig:
     wait_for_internet: bool = True  # Wait for internet connection to be restored before continuing
     internet_check_url: str = "https://www.google.com/generate_204"  # Reliable endpoint for connectivity checks
     internet_check_interval: float = 5.0  # Seconds between connectivity checks when offline
+    # Individual scraper ramp-up (for multi-subreddit runs)
+    ramp_up_delay: float = 0.0  # Additional delay before processing each subreddit (cumulative)
+    # Worker isolation for persistent sessions
+    worker_id: Optional[int] = None  # Worker ID for profile isolation in multi-worker setups
 
 
 class SubredditFrontPageScraper:
@@ -126,7 +132,12 @@ class SubredditFrontPageScraper:
                 engine = self.config.browser_engine
             self._current_engine = engine
         
-        self._start_browser()
+        # For persistent sessions with Chromium/Firefox, skip _start_browser and go directly to _new_context
+        if self.config.persistent_session and self._current_engine in ["chromium", "firefox"]:
+            self._setup_persistent_profile_dirs()
+            self._new_context()
+        else:
+            self._start_browser()
 
     def _get_current_browser_engine(self) -> str:
         """Get the current browser engine to use, with rotation support."""
@@ -150,8 +161,32 @@ class SubredditFrontPageScraper:
             self._current_engine = engine
         return BROWSER_PROFILES[self._current_engine]
 
+    def _setup_persistent_profile_dirs(self):
+        """Setup persistent profile directories for the current engine."""
+        engine = self._current_engine
+        
+        # Get worker ID for profile isolation (if available in config)
+        worker_suffix = ""
+        if hasattr(self.config, 'worker_id') and self.config.worker_id is not None:
+            worker_suffix = f"_worker_{self.config.worker_id}"
+        
+        if self.config.user_data_dir:
+            user_data_dir = f"{self.config.user_data_dir}/{engine}_profile{worker_suffix}"
+        else:
+            user_data_dir = f"./browser_profiles/{engine}_profile{worker_suffix}"
+        
+        Path(user_data_dir).mkdir(parents=True, exist_ok=True)
+        
+        if engine == "chromium":
+            self._chromium_profile_dir = user_data_dir
+        elif engine == "firefox":
+            self._firefox_profile_dir = user_data_dir
+        elif engine == "webkit":
+            self._webkit_profile_dir = user_data_dir
+
     def _new_context(self):
         profile = self._get_current_profile()
+        engine = getattr(self, '_current_engine', 'chromium')
         
         # Create context with profile-specific settings
         context_kwargs = {
@@ -160,6 +195,54 @@ class SubredditFrontPageScraper:
             "timezone_id": "America/Los_Angeles",
             "viewport": {"width": random.randint(1280, 1440), "height": random.randint(800, 900)},
         }
+        
+        # Handle persistent sessions for different browser engines
+        if self.config.persistent_session:
+            if engine == "chromium" and hasattr(self, '_chromium_profile_dir'):
+                # Chromium persistent context
+                try:
+                    # Use launch_persistent_context for Chromium
+                    self._context = self._pw.chromium.launch_persistent_context(
+                        user_data_dir=self._chromium_profile_dir,
+                        headless=self.config.headless,
+                        proxy={"server": self.config.proxy_server} if self.config.proxy_server else None,
+                        **context_kwargs
+                    )
+                    # For persistent context, we don't create a separate browser
+                    self._browser = None  # Mark as using persistent context
+                    self._page = self._context.new_page()
+                    self._apply_stealth(self._page)
+                    return
+                except Exception:
+                    # Fallback to regular context if persistent fails
+                    pass
+            elif engine == "firefox" and hasattr(self, '_firefox_profile_dir'):
+                # Firefox persistent context requires special handling
+                try:
+                    # Use launch_persistent_context for Firefox
+                    self._context = self._pw.firefox.launch_persistent_context(
+                        user_data_dir=self._firefox_profile_dir,
+                        headless=self.config.headless,
+                        proxy={"server": self.config.proxy_server} if self.config.proxy_server else None,
+                        **context_kwargs
+                    )
+                    # For persistent context, we don't create a separate browser
+                    self._browser = None  # Mark as using persistent context
+                    self._page = self._context.new_page()
+                    self._apply_stealth(self._page)
+                    return
+                except Exception:
+                    # Fallback to regular context if persistent fails
+                    pass
+            elif engine == "webkit" and hasattr(self, '_webkit_profile_dir'):
+                # WebKit has limited persistent session support
+                # We'll use storage_state to preserve some session data
+                try:
+                    storage_state_file = Path(self._webkit_profile_dir) / "storage_state.json"
+                    if storage_state_file.exists():
+                        context_kwargs["storage_state"] = str(storage_state_file)
+                except Exception:
+                    pass
         
         # Add extra headers based on browser profile
         extra_headers = {}
@@ -177,7 +260,23 @@ class SubredditFrontPageScraper:
         if extra_headers:
             context_kwargs["extra_http_headers"] = extra_headers
             
-        self._context = self._browser.new_context(**context_kwargs)
+        # Only create new context if we have a browser (not using persistent context)
+        if hasattr(self, '_browser') and self._browser is not None:
+            self._context = self._browser.new_context(**context_kwargs)
+        elif not hasattr(self, '_context') or self._context is None:
+            # This should not happen - if we don't have a browser, we should have created 
+            # a persistent context above. Fall back to creating a browser.
+            print("[warning] No browser or context available, falling back to regular browser launch")
+            if not hasattr(self, '_browser') or self._browser is None:
+                # Start browser first
+                engine = getattr(self, '_current_engine', 'chromium')
+                if engine == "chromium":
+                    self._browser = self._pw.chromium.launch(headless=self.config.headless)
+                elif engine == "webkit":
+                    self._browser = self._pw.webkit.launch(headless=self.config.headless) 
+                elif engine == "firefox":
+                    self._browser = self._pw.firefox.launch(headless=self.config.headless)
+            self._context = self._browser.new_context(**context_kwargs)
         
         # Block image resources if disabled to save bandwidth
         if self.config.disable_images:
@@ -193,14 +292,40 @@ class SubredditFrontPageScraper:
             self._context.set_default_timeout(self.config.timeout_ms)
         except Exception:
             pass
-        self._page = self._context.new_page()
-        try:
-            self._page.set_default_timeout(self.config.timeout_ms)
-        except Exception:
-            pass
-        self._apply_stealth(self._page)
+        
+        # Only create new page if we don't already have one (persistent contexts create their own)
+        if not hasattr(self, '_page') or self._page is None:
+            self._page = self._context.new_page()
+            try:
+                self._page.set_default_timeout(self.config.timeout_ms)
+            except Exception:
+                pass
+            self._apply_stealth(self._page)
+
+    def _save_persistent_state(self):
+        """Save session state for persistent browsers that support it."""
+        if not self.config.persistent_session:
+            return
+            
+        engine = getattr(self, '_current_engine', 'chromium')
+        
+        # Save WebKit storage state for session persistence
+        if engine == "webkit" and hasattr(self, '_webkit_profile_dir'):
+            try:
+                storage_state_file = Path(self._webkit_profile_dir) / "storage_state.json"
+                storage_state = self._context.storage_state()
+                with open(storage_state_file, 'w') as f:
+                    json.dump(storage_state, f)
+            except Exception:
+                pass
 
     def _stop(self):
+        # Save persistent state before closing
+        try:
+            self._save_persistent_state()
+        except Exception:
+            pass
+            
         for attr in ["_page", "_context", "_browser", "_pw"]:
             try:
                 if hasattr(self, attr) and getattr(self, attr):
@@ -219,6 +344,10 @@ class SubredditFrontPageScraper:
             return
             
         try:
+            # Save persistent state before switching if applicable
+            if self.config.persistent_session:
+                self._save_persistent_state()
+                
             # Close current page and context
             if hasattr(self, '_page') and self._page:
                 self._page.close()
@@ -270,19 +399,18 @@ class SubredditFrontPageScraper:
             # WebKit has fewer configuration options but we can still tune some basics
             launch_kwargs["args"] = ["--no-startup-window"]
         elif engine == "firefox":
-            # Firefox has different argument handling
-            launch_kwargs["args"] = ["-no-remote"]
+            # Firefox has different argument handling - avoid conflicting args when using persistent sessions
+            if not self.config.persistent_session:
+                launch_kwargs["args"] = ["-no-remote"]
             
         # Add proxy if specified
         if self.config.proxy_server:
             launch_kwargs["proxy"] = {"server": self.config.proxy_server}
             
         # Add persistent user data directory if enabled  
-        if self.config.persistent_session and engine == "chromium":
-            # Only Chromium supports user_data_dir in launch args properly
-            user_data_dir = self.config.user_data_dir or f"./browser_profiles/{engine}_profile"
-            Path(user_data_dir).mkdir(parents=True, exist_ok=True)
-            launch_kwargs["user_data_dir"] = user_data_dir
+        if self.config.persistent_session and engine == "webkit":
+            # WebKit still uses regular launch with storage state
+            self._setup_persistent_profile_dirs()
             
         # Launch the appropriate browser
         if engine == "chromium":
@@ -1175,6 +1303,10 @@ if __name__ == "__main__":
     parser.add_argument("--internet-check-interval", type=float, default=5.0,
                         help="Seconds between internet connectivity checks when offline (default: 5.0)")
     
+    # Ramp-up options for gentle startup when scraping multiple subreddits
+    parser.add_argument("--ramp-up-delay", type=float, default=0.0,
+                        help="Additional seconds of delay before each subreddit (cumulative, default: 0.0)")
+    
     # Network priority options
     parser.add_argument("--low-priority", action="store_true",
                         help="Run with lower network and CPU priority (background mode)")
@@ -1243,6 +1375,7 @@ if __name__ == "__main__":
         wait_for_internet=args.wait_for_internet,
         internet_check_url=args.internet_check_url,
         internet_check_interval=args.internet_check_interval,
+        ramp_up_delay=args.ramp_up_delay,
     )
     
     def already_scraped(name: str) -> bool:
@@ -1270,6 +1403,12 @@ if __name__ == "__main__":
     scraper._start()
     try:
         for i, target in enumerate(targets):
+            # Apply ramp-up delay before processing each subreddit
+            if cfg.ramp_up_delay > 0 and i > 0:
+                ramp_delay = cfg.ramp_up_delay * i
+                print(f"[ramp-up] Waiting {ramp_delay:.1f}s before processing {target} (subreddit #{i+1})")
+                time.sleep(ramp_delay)
+            
             if not args.overwrite and already_scraped(target):
                 print(f"[skip] {target} (already exists)")
                 continue
