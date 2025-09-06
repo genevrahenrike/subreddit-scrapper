@@ -108,6 +108,10 @@ class FPConfig:
     enable_global_refusal_lock: bool = True  # Coordinate cooldown across workers
     global_refusal_lock_path: str = "output/subreddits/global_refusal_lock.json"
     global_refusal_lock_jitter_max: float = 2.0
+    # Post-cooldown and gentle rotations (outside refusal episodes)
+    rotate_after_cooldown: bool = True  # Do a single rotation right after cooldown ends
+    gentle_profile_rotate_every: int = 10  # If multi_profile, rotate every N successes (0=disabled)
+    gentle_engine_rotate_every: int = 0  # Rotate engine every N successes when not multi_profile (0=disabled)
     # Bandwidth optimization
     disable_images: bool = True  # Block image downloads to save bandwidth (default enabled)
     # Internet connectivity monitoring
@@ -131,6 +135,9 @@ class SubredditFrontPageScraper:
         self._refused_first_ts = 0.0
         self._cooldown_until_ts = 0.0
         self._refusal_mode = False
+        # Success/rotation tracking and logging throttles
+        self._success_since_rotation = 0
+        self._last_cooldown_log_ts = 0.0
 
     # --------------- Browser lifecycle --------------- #
     def _start(self):
@@ -631,6 +638,26 @@ class SubredditFrontPageScraper:
         self._refusal_mode = in_period
         return in_period
 
+    def _post_cooldown_rotate_once(self):
+        """Optionally rotate identity once right after cooldown ends."""
+        try:
+            if not getattr(self.config, "rotate_after_cooldown", True):
+                return
+            # Ensure we're not in refusal mode to allow rotation
+            self._refusal_mode = False
+            if getattr(self.config, "multi_profile", False):
+                try:
+                    self._recycle_browser_for_multi_profile()
+                except Exception:
+                    pass
+            else:
+                try:
+                    self._rotate_profile_immediate()
+                except Exception:
+                    pass
+        except Exception:
+            pass
+
     def _rotate_profile_immediate(self):
         """Rotate browser profile/engine immediately, even if multi_profile is False."""
         try:
@@ -811,7 +838,7 @@ class SubredditFrontPageScraper:
         attempts = 0
         last_error = None
 
-        # Honor local and global cooldowns before starting
+        # Honor local and global cooldowns before starting (throttled logging)
         remaining_local = 0.0
         if hasattr(self, "_cooldown_until_ts") and self._cooldown_until_ts > time.time():
             remaining_local = max(0.0, self._cooldown_until_ts - time.time())
@@ -822,8 +849,23 @@ class SubredditFrontPageScraper:
             remaining_global = 0.0
         total_wait = max(remaining_local, remaining_global)
         if total_wait > 0:
-            print(f"[cooldown] Waiting {total_wait:.1f}s (global={remaining_global:.1f}s, local={remaining_local:.1f}s) before scraping {sub_name}")
+            now_ts = time.time()
+            try:
+                if now_ts - getattr(self, "_last_cooldown_log_ts", 0.0) > 5.0:
+                    print(f"[cooldown] Waiting {total_wait:.1f}s (global={remaining_global:.1f}s, local={remaining_local:.1f}s) before scraping {sub_name}")
+                    self._last_cooldown_log_ts = now_ts
+            except Exception:
+                print(f"[cooldown] Waiting {total_wait:.1f}s (global={remaining_global:.1f}s, local={remaining_local:.1f}s) before scraping {sub_name}")
             time.sleep(total_wait)
+            # Reset refusal counters and optionally rotate once after cooldown
+            self._cooldown_until_ts = 0.0
+            self._refusal_mode = False
+            self._refused_streak_count = 0
+            self._refused_first_ts = 0.0
+            try:
+                self._post_cooldown_rotate_once()
+            except Exception:
+                pass
         
         def _is_retryable_error(error_str: str) -> bool:
             """Check if error is worth retrying."""
@@ -876,6 +918,27 @@ class SubredditFrontPageScraper:
                         self._save_debug_html(sub_name)
                     except Exception:
                         pass
+                # Gentle identity rotations outside refusal episodes (post-success)
+                try:
+                    self._success_since_rotation = getattr(self, "_success_since_rotation", 0) + 1
+                    if not self._refusal_mode:
+                        gp = int(getattr(self.config, "gentle_profile_rotate_every", 0) or 0)
+                        ge = int(getattr(self.config, "gentle_engine_rotate_every", 0) or 0)
+                        if gp > 0 and getattr(self.config, "multi_profile", False) and (self._success_since_rotation % gp == 0):
+                            print("[profile] Gentle profile rotation after successes")
+                            try:
+                                self._recycle_browser_for_multi_profile()
+                            except Exception:
+                                pass
+                        elif ge > 0 and (self._success_since_rotation % ge == 0):
+                            print("[profile] Gentle engine rotation after successes")
+                            try:
+                                self._rotate_profile_immediate()
+                            except Exception:
+                                pass
+                except Exception:
+                    pass
+
                 return {
                     "subreddit": sub_name,
                     "url": url,

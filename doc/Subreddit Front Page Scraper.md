@@ -1184,60 +1184,61 @@ ADAPTIVE_CHUNKING=1 MIN_CHUNK_SIZE=3 ./scripts/run_frontpage_batch.sh --start 50
 - When browser recycling overhead is minimal
 
 ---
+Analysis and targeted improvements applied
 
-Adjusted the scraper to prefer “wait quietly” over churn during ERR_CONNECTION_REFUSED episodes, reduced cross-worker thrash, and fixed the “Target page, context or browser has been closed” cascade.
+What you observed
+- The run is now stable, with global cooldown preventing the “error storm,” but you’re seeing refusal episodes recur sooner than before.
+- Hypothesis: profile/identity no longer changes often enough (especially with persistent session), so thresholds build up and trigger more frequent refusal windows. Also, global cooldown logging means you see the pauses that were previously implicit.
 
-Key behavior changes
-- Quiet refusal mode enabled by default:
-  - When repeated net::ERR_CONNECTION_REFUSED is detected in a short window, the scraper now enters a cooldown without aggressive engine/profile rotation. See:
-    - [python.FPConfig](subreddit_frontpage_scraper.py:73) fields:
-      - refusal_quiet_mode=True
-      - rotate_profile_on_refused=False
-      - rotate_engine_on_refused=False
-    - [python.SubredditFrontPageScraper._enter_refusal_cooldown_and_rotate()](subreddit_frontpage_scraper.py:691) emits “[cooldown] … (quiet)” and applies cooldown, only rotating if quiet mode is disabled.
+What I changed to balance “wait quietly” with healthy identity churn
+1) Minimal churn during refusal episodes (kept)
+   - We still avoid heavy context/engine switching while an episode is active, which prevented the “Target page, context or browser has been closed” cascade.
+   - Core: [python.SubredditFrontPageScraper._recycle_browser_for_multi_profile()](subreddit_frontpage_scraper.py:356) returns early in quiet refusal mode.
 
-- Global cooldown lock across workers:
-  - On entering a refusal cooldown, the worker writes a global lock file. All workers consult this lock before hitting the next subreddit and will sleep until the cooldown expires. This stops the “herd” from hammering during a refusal window.
-    - Write/read helpers:
-      - [python.SubredditFrontPageScraper._write_global_cooldown_lock()](subreddit_frontpage_scraper.py:578)
-      - [python.SubredditFrontPageScraper._get_global_cooldown_remaining()](subreddit_frontpage_scraper.py:596)
-    - Applied at start of each scrape:
-      - [python.SubredditFrontPageScraper.scrape_frontpage()](subreddit_frontpage_scraper.py:808) checks both local and global cooldowns and waits with a small jitter to avoid synchronized spikes.
-    - Config:
-      - [python.FPConfig](subreddit_frontpage_scraper.py:73) adds enable_global_refusal_lock=True and global_refusal_lock_path="output/subreddits/global_refusal_lock.json"
+2) Coordinated quiet cooldowns (kept)
+   - Local + global cooldown lock ensures all workers pause together and resume with jitter:
+     - Write/read lock: [python.SubredditFrontPageScraper._write_global_cooldown_lock()](subreddit_frontpage_scraper.py:578) and [python.SubredditFrontPageScraper._get_global_cooldown_remaining()](subreddit_frontpage_scraper.py:596)
+     - Honored at start of each scrape with throttled logs: [python.SubredditFrontPageScraper.scrape_frontpage()](subreddit_frontpage_scraper.py:808)
 
-- Avoid page/context churn during refusal periods:
-  - No engine/profile switching while in quiet refusal mode:
-    - [python.SubredditFrontPageScraper._recycle_browser_for_multi_profile()](subreddit_frontpage_scraper.py:356) returns early with “[profile] Skipping profile switch due to refusal quiet mode”.
-  - Retry path prefers stability:
-    - In [python.SubredditFrontPageScraper.scrape_frontpage()](subreddit_frontpage_scraper.py:938), when in refusal mode or when the error contains “REFUSED”, the code now avoids heavy recycling. It ensures the context/page exist but doesn’t bounce the engine/context unless strictly needed.
+3) Post-cooldown one-time identity rotation (new)
+   - Immediately after a cooldown ends, rotate identity once to shed the fingerprint that just hit a refusal period:
+     - [python.SubredditFrontPageScraper._post_cooldown_rotate_once()](subreddit_frontpage_scraper.py:634)
+     - Hooked after the sleep: [python.SubredditFrontPageScraper.scrape_frontpage()](subreddit_frontpage_scraper.py:814)
 
-- Fixed “Target page, context or browser has been closed” cascade:
-  - Added a specific detector and a quiet recovery path that reopens a new page/context without consuming a retry attempt:
-    - Detector: [python.SubredditFrontPageScraper._is_page_closed_error()](subreddit_frontpage_scraper.py:531)
-    - Recovery: [python.SubredditFrontPageScraper.scrape_frontpage()](subreddit_frontpage_scraper.py:890) prints “[recover] … Reopening quietly…”, reopens, decrements attempt, and continues.
+4) Gentle, periodic rotations outside refusal episodes (new)
+   - To restore the “clean stretch” behavior, the scraper now performs gentle rotations when things are going well:
+     - After each successful scrape, increment a counter and optionally rotate:
+       - [python.SubredditFrontPageScraper.scrape_frontpage()](subreddit_frontpage_scraper.py:879)
+     - Controls (defaults set to conservative values):
+       - rotate_after_cooldown=True
+       - gentle_profile_rotate_every=10 (if multi_profile is on, rotate every 10 successes)
+       - gentle_engine_rotate_every=0 (disabled by default; you can enable to rotate engine every N successes when not multi_profile)
+     - Config fields: see [python.FPConfig](subreddit_frontpage_scraper.py:101)
 
-- Better classification: do not treat refusal as no-internet
-  - Removed ECONNREFUSED from internet connectivity patterns so refusal isn’t mislabeled as offline and doesn’t trigger the connectivity wait loop:
-    - [python.SubredditFrontPageScraper._is_internet_connectivity_error()](subreddit_frontpage_scraper.py:506)
+5) Correct refusal vs offline classification (kept)
+   - ECONNREFUSED removed from connectivity patterns so refusal periods aren’t incorrectly treated as “no internet”:
+     - [python.SubredditFrontPageScraper._is_internet_connectivity_error()](subreddit_frontpage_scraper.py:506)
 
-- Honoring cooldowns before scraping:
-  - Each scrape respects the longer of local cooldown and global cooldown:
-    - Log: “[cooldown] Waiting X.Xs (global=…, local=…) before scraping …” at [python.SubredditFrontPageScraper.scrape_frontpage()](subreddit_frontpage_scraper.py:814)
+6) Quiet recovery for “page/context closed”
+   - If Playwright reports “Target page, context or browser has been closed…”, reopen quietly and reuse the attempt:
+     - Detector: [python.SubredditFrontPageScraper._is_page_closed_error()](subreddit_frontpage_scraper.py:531)
+     - Recovery: [python.SubredditFrontPageScraper.scrape_frontpage()](subreddit_frontpage_scraper.py:890)
 
-What this addresses in your logs
-- Instead of repeatedly “Recycling browser context for fresh fingerprint” and switching engines, the scraper now:
-  - Detects a refusal episode quickly
-  - Writes a global cooldown lock
-  - All workers pause together and resume once the window lifts
-  - Keeps context/page stable, avoiding the “Target page, context or browser has been closed…” avalanche
-- This aligns with your observation that simply waiting for a short period lets the episode pass and the run stabilizes.
+Why this helps your concern
+- The prior change emphasized “wait quietly” and forbade rotation during refusal windows, which fixed thrashing but could make the same profile persist too long. The new post-cooldown and gentle rotations restore a healthy cadence of fingerprint changes when it’s safe to do so, nudging you back toward those long clean stretches without reintroducing churn during the episodes.
 
-Operational notes
-- Defaults are active; no CLI changes required. The batch runner will pick up the new defaults because all execution flows go through [python.SubredditFrontPageScraper.scrape_frontpage()](subreddit_frontpage_scraper.py:808).
-- If you want even earlier global pause on the first couple of refusals, lower the threshold in [python.FPConfig.refused_streak_threshold](subreddit_frontpage_scraper.py:73) from 3 to 2.
+Tuning suggestions
+- If you want more of the previous “clean for a while” behavior:
+  - Run with multi-profile but keep persistent-session off (so fingerprints don’t accumulate long-lived state) and let gentle_profile_rotate_every do the light rotations:
+    - In your launcher: add --multi-profile but omit --persistent-session.
+  - To increase diversity outside episodes:
+    - Lower gentle_profile_rotate_every (e.g., 6–8) in code defaults if preferred, or enable gentle_engine_rotate_every (e.g., 12) when not using multi-profile.
+- Keep refusal_quiet_mode=True and rotate_profile_on_refused=False to avoid churn during episodes; the post-cooldown rotate will then provide a single, well-timed identity refresh.
 
 Files modified
 - [subreddit_frontpage_scraper.py](subreddit_frontpage_scraper.py)
 
-This implements quiet refusal handling, cross-worker coordinated cooldowns, safe page/context recovery, and avoids rotation churn, resulting in fewer bounces and more stable throughput during Reddit refusal periods.
+Net result
+- You retain the stability from coordinated cooldowns.
+- You regain periodic identity changes outside refusal windows to reduce the frequency of new episodes.
+- You avoid the closed-page cascades and unnecessary context churn, maintaining steady progress between episodes.
