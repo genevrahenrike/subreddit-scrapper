@@ -1242,3 +1242,24 @@ Net result
 - You retain the stability from coordinated cooldowns.
 - You regain periodic identity changes outside refusal windows to reduce the frequency of new episodes.
 - You avoid the closed-page cascades and unnecessary context churn, maintaining steady progress between episodes.
+
+---
+
+I updated the global cooldown logic to prevent “sliding” lock extensions that could keep most workers paused indefinitely while one worker (e.g., w0) continues.
+
+Change:
+- Added an active-lock guard in [python.SubredditFrontPageScraper._write_global_cooldown_lock()](subreddit_frontpage_scraper.py:585). If a global lock file already exists and is still active, we now leave it untouched instead of overwriting it with a later until_ts.
+
+Why this fixes the stall:
+- Previously, multiple workers could detect the same refusal episode and each write a new “until_ts = now + 30s”. If these writes were staggered, the global lock effectively kept moving forward, causing non-w0 workers to keep waiting.
+- With the guard, the first writer “owns” the cooldown window; subsequent workers will respect the same end time without extending it. After the initial window elapses, all workers will resume (subject to small jitter from [python.SubredditFrontPageScraper._get_global_cooldown_remaining()](subreddit_frontpage_scraper.py:603)), do the one-time post-cooldown rotation via [python.SubredditFrontPageScraper._post_cooldown_rotate_once()](subreddit_frontpage_scraper.py:641), and continue processing.
+
+Scope of change:
+- Only the write path changed; cooldown honoring and reset logic at the start of [python.SubredditFrontPageScraper.scrape_frontpage()](subreddit_frontpage_scraper.py:835) remain the same.
+- Local cooldowns still function independently per worker; the global lock no longer gets extended unintentionally, so other workers won’t remain paused longer than the first cooldown window.
+
+Expected behavior:
+- During a refusal episode, all workers pause together.
+- After ~30s (plus small jitter), all workers resume around the same time instead of just one continuing while others appear stuck.
+
+No other files were modified.

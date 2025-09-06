@@ -587,6 +587,20 @@ class SubredditFrontPageScraper:
         if not p:
             return
         try:
+            # If an active lock already exists, do NOT extend it.
+            # This prevents multiple workers from repeatedly pushing the global cooldown forward.
+            if p.exists():
+                try:
+                    with open(p, "r", encoding="utf-8") as f:
+                        data = json.load(f)
+                    existing_until_ts = float(data.get("until_ts", 0))
+                    if existing_until_ts > time.time():
+                        # Active lock in effect — keep existing schedule
+                        return
+                except Exception:
+                    # If unreadable, fall through and overwrite with a fresh lock
+                    pass
+
             p.parent.mkdir(parents=True, exist_ok=True)
             payload = {
                 "until_ts": float(until_ts),
