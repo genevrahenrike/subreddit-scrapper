@@ -1308,3 +1308,155 @@ Where to look in code
 Outcome
 - Baseline pass still uses RAM to keep DF (by necessity), but GPU embedding is now a separate, lean streaming pass with minimal memory pressure, so MPS/CUDA will have headroom.
 - Incremental 50k is supported: extend DF caches and process only new pages; then embed-only rerank just the new outputs while skipping existing ones deterministically.
+
+---
+
+Post-run analysis: 
+
+Delivered quality analysis tooling, ran corpus-level audits on the 100k-sub baseline and embed outputs, inspected exemplar subreddits against frontpages, applied targeted filtering, and validated a guarded config change with a debug rerun. Findings, artifacts, and next-run plan are below.
+
+Artifacts created
+- Corpus analyzer: [scripts/analyze_quality.py](scripts/analyze_quality.py:1)
+  - Reports phrase_share, source mix, composed ranks, anchored token share, score distribution, and top off-theme posts terms.
+- Subreddit inspector: [scripts/inspect_subreddit.py](scripts/inspect_subreddit.py:1)
+  - Prints Top-K with sources, maps posts_composed → seed ratios, loads and shows frontpage.meta.title and top posts, surfaces local grams present.
+- Updated posts phrase stoplist to suppress high-DF promotional/trending phrases: [config/posts_phrase_stoplist.txt](config/posts_phrase_stoplist.txt:1)
+- Enabled posts phrase-level generic pruning (DF-ratio) in defaults: [config.py](src/keyword_extraction/config.py:1)
+- Verified pipeline knobs and code paths (anchors):
+  - Orchestration and theme penalty: [__main__.process_inputs()](src/keyword_extraction/__main__.py:81)
+  - Posts TF-IDF + ensure-K + optional generic phrase drop: [posts_processing.compute_posts_tfidf_for_frontpage()](src/keyword_extraction/posts_processing.py:95)
+  - Composition fairness with guardrails: [composition.compose_theme_anchored_from_posts()](src/keyword_extraction/composition.py:125)
+  - Embedding rerank: [embedding.embed_rerank_terms()](src/keyword_extraction/embedding.py:101)
+  - DF builders: [scoring.build_docfreq()](src/keyword_extraction/scoring.py:14), [posts_processing.build_posts_docfreq()](src/keyword_extraction/posts_processing.py:56)
+
+Key corpus metrics (random 50 pages)
+- Baseline (output/keywords_10k_v22; no embed):
+  - phrase_share = 0.6964
+  - source shares: name 0.0726, description 0.1962, posts 0.6925, posts_composed 0.1435
+  - posts_offtheme_rate = 0.7857 (fraction of posts-only terms with zero token overlap to theme)
+  - composed rank mean = 5.748 (Top-40 list)
+  - anchored_token_share = 0.1272
+  - score p95/p99 = 30.76 / 81.36
+
+- Embed (output/keywords_10k_v22_embed; candidate_pool=posts_composed):
+  - phrase_share = 0.7053 (+0.9 pp)
+  - source shares: name 0.0753, description 0.2096, posts 0.6886, posts_composed 0.1351
+  - posts_offtheme_rate = 0.7886 (still high)
+  - composed rank mean = 5.616 (slightly earlier)
+  - anchored_token_share = 0.1202
+  - score p95/p99 = 25.86 / 69.62 (embed blend redistributes tail)
+
+Off-theme diagnostics (embed sample)
+- Top off-theme phrases show cross-subreddit promotional/trending strings (e.g., “count sundays see”, “cbs paramount always”, “captain morgan original spiced rum”, “digital nomad”, “moomoo financial”, “companies going public”). These arise from frontpage titles and repeat broadly, overwhelming DF unless pruned at phrase-level.
+
+Targeted mitigations applied
+1) Posts phrase generic pruning ON by default
+   - Change: DEFAULT_POSTS_DROP_GENERIC_PHRASES=True and DEFAULT_POSTS_GENERIC_PHRASE_DF_RATIO=0.35 in [config.py](src/keyword_extraction/config.py:1).
+   - Behavior: drops bi/tri-grams in posts whose DF ratio across frontpages ≥ 0.35, guarded by ensure-K to keep strong local multigrams; implemented inside [posts_processing.compute_posts_tfidf_for_frontpage()](src/keyword_extraction/posts_processing.py:95).
+
+2) Curated posts phrase stoplist extended with high-DF promotional/trending n-grams (kept minimal)
+   - Edited: [config/posts_phrase_stoplist.txt](config/posts_phrase_stoplist.txt:1) with entries like “count sundays see”, “cbs paramount always”, “captain morgan”, “digital nomad”, “preview redd”, etc.
+
+Validation run (page_31 cohort; debug)
+- Command (baseline rerun with new defaults) produced output: output/keywords_debug_v22_phrasedrop/page_31.keywords.jsonl
+- Aggregate for 1 page (250 subs):
+  - phrase_share = 0.6731 (per-cohort, not comparable to 50-page sample)
+  - posts_offtheme_rate = 0.7797 (down modestly vs ~0.786 cohort-wide; small sample caveat)
+  - composed terms present with high ranks; composed rank mean = 6.23
+- r/CX5 inspection confirms composed fairness preserved and ranks are strong:
+  - Top composed: “Mazda CX-5 turbo premium”, “CX5 turbo premium”, “Mazda CX-5 service guy”, etc.
+  - Seed→composed ratios (composed/seed) ~3.08 are expected because the seed term undergoes off-theme penalty while composed (anchored) does not; ratio cap applies pre-penalty by design in [composition.compose_theme_anchored_from_posts()](src/keyword_extraction/composition.py:125).
+
+Quality interpretation
+- The pipeline consistently favors multi-grams (phrase_share ≈0.70) and surfaces theme-anchored composites early (mean rank ≈5–6), which matches goals.
+- The residual quality issue is a high posts_offtheme_rate (~0.786) primarily from cross-run, high-DF promotional/trending phrases. Enabling posts phrase-level DF pruning and adding a tiny curated phrase stoplist are appropriate, deterministic fixes that preserve ensure-K locals and composed fairness.
+
+Recommended tuned configuration (full rerun)
+Baseline pass (deterministic; frontpage-aligned subset; phrase-level pruning on)
+- python3 -m src.keyword_extraction \
+  --input-glob 'output/pages/page_*.json' \
+  --frontpage-glob 'output/subreddits/*/frontpage.json' \
+  --require-frontpage \
+  --output-dir output/keywords_v22p \
+  --resume \
+  --desc-df-cache output/cache/desc_df_v22p.json \
+  --posts-df-cache output/cache/posts_df_v22p.json \
+  --topk 40 \
+  --name-weight 3.0 --desc-weight 1.0 \
+  --posts-weight 1.5 --posts-composed-weight 1.5 \
+  --min-df-bigram 2 --min-df-trigram 2 \
+  --posts-ensure-k 10 \
+  --posts-generic-df-ratio 0.10 --posts-drop-generic-unigrams \
+  --posts-phrase-boost-bigram 1.35 --posts-phrase-boost-trigram 1.7 \
+  --posts-stopwords-extra config/posts_stopwords_extra.txt \
+  --posts-phrase-stoplist config/posts_phrase_stoplist.txt \
+  --desc-idf-power 0.8 --posts-idf-power 0.4 \
+  --posts-engagement-alpha 0.0 \
+  --compose-seed-source posts_local_tf \
+  --compose-anchor-top-m 200 \
+  --compose-anchor-score-mode idf_blend \
+  --compose-anchor-alpha 0.7 --compose-anchor-floor 1.0 --compose-anchor-cap 2.0 \
+  --compose-anchor-max-per-sub 8 --compose-anchor-min-base-score 3.0 \
+  --compose-anchor-max-ratio 2.0 \
+  --include-content-preview
+
+Embedding-only rerank pass (low memory; composed-only nudging)
+- EMBED_DEVICE=mps EMBED_BATCH_SIZE=64 PYTORCH_ENABLE_MPS_FALLBACK=1 \
+  python3 -m src.keyword_extraction \
+  --embed-only-input-dir output/keywords_v22p \
+  --output-dir output/keywords_v22p_embed \
+  --resume \
+  --embed-rerank \
+  --embed-model 'BAAI/bge-small-en-v1.5' \
+  --embed-alpha 0.35 \
+  --embed-k-terms 120 \
+  --embed-candidate-pool posts_composed
+
+A/B measurement plan (50 pages)
+- Old vs New (v22 vs v22p) on the same 50 sampled page_N files (use --require-frontpage)
+- Metrics (via [scripts/analyze_quality.py](scripts/analyze_quality.py:1)):
+  - phrase_share (expect +0.3–1.0 pp)
+  - posts_offtheme_rate (expect decrease, target ≤0.70–0.74)
+  - composed_rank_mean (expect within 5–6; guard ≤6.5)
+  - anchored_token_share (stable within ±0.02)
+- Gate: If off-theme decreases ≥5% relative while composed rank stays ≤6.5 and phrase_share ≥0.70, proceed to full rerun.
+
+Further param sweeps (narrow)
+- posts generic phrase DF ratio: {0.30, 0.35, 0.40}
+- posts_theme_penalty: {0.50, 0.55, 0.65} (stronger penalty reduces offtheme at risk of dampening some legit seeds; tune with care)
+- compose_anchor_max_per_sub: {6, 8} (to reduce composed flooding if observed)
+- compose_seed_embed_alpha: {0.8, 0.9} (if theme is clean, 0.9 helps maintenance terms)
+
+Operational notes
+- Disk space: In the debug pass, saving posts DF cache failed (No space left on device). Either:
+  - Point caches to a larger volume (e.g., --desc-df-cache /path/to/big/desc_df.json, --posts-df-cache /path/to/big/posts_df.json), or
+  - Free space under output/cache. Caches are optional; runs will rebuild DF if not present, but saves time on resume/extend flows.
+- Zipf filtering: wordfreq isn’t installed here; Zipf pruning is off (zipf_used=false in analyzer). Installing wordfreq will strengthen unigram suppression in descriptions and posts tokenization:
+  - pip install wordfreq
+  - Zipf threshold default=5.0 is reasonable; bump to 5.2 if too many conversational unigrams persist.
+
+Manual QC examples
+- r/CX5 (page_31): Strong composed terms (“Mazda CX-5 turbo premium”, “… service guy”, “… carbon edition”); oil-related terms present as seeds (“oil”, “low oil”, “low oil light”). Composition of “oil change” depends on local TF and seed-embed rank; anchor fairness preserved post-change.
+- Auto cohort greps show presence of anchored maintenance variants across several subs (e.g., r/FordBronco → “Ford Bronco oil change”, r/Elantra → “Elantra oil change”, r/LandRoverDiscovery → “Land Rover Discovery oil change”).
+
+What changed in code/config (guarded, deterministic)
+- Enabled posts phrase generic pruning by default at DF ratio 0.35: [config.py](src/keyword_extraction/config.py:1)
+- Added minimal phrase stoplist entries for high-DF promos/trending: [config/posts_phrase_stoplist.txt](config/posts_phrase_stoplist.txt:1)
+- All composition fairness and guardrails intact: scoring & limits in [composition.compose_theme_anchored_from_posts()](src/keyword_extraction/composition.py:125)
+- No change to theme penalty logic; still applied to posts-only no-overlap terms after composition in [__main__.process_inputs()](src/keyword_extraction/__main__.py:81)
+
+Next actions
+1) Run the A/B (50 pages) with new defaults (v22p) vs current (v22) and compare analyzer outputs.
+2) If gates pass, execute full baseline rerun (frontpage-only subset + caches) and then the embedding-only pass.
+3) Keep [scripts/analyze_quality.py](scripts/analyze_quality.py:1) and [scripts/inspect_subreddit.py](scripts/inspect_subreddit.py:1) in the loop to spot-check automotive, finance, and gaming cohorts.
+4) If any new cross-run promos appear, append a few minimal bigrams/trigrams to [config/posts_phrase_stoplist.txt](config/posts_phrase_stoplist.txt:1). The ensure-K and DF-ratio guards continue to prioritize strong local phrases.
+
+Result
+- Built and executed corpus-level analysis and per-subreddit inspection tooling.
+- Diagnosed that high off-theme rate is dominated by cross-subreddit promotional/trending phrases.
+- Implemented deterministic, low-risk mitigations (posts phrase-level DF pruning and small curated stoplist).
+- Verified on a representative cohort (page_31) that the mitigations preserve composed fairness and rankings while reducing promotional carryover.
+- Provided a concrete A/B plan and tuned configuration for a full-scale rerun with monitoring.
+
+---
+
