@@ -102,8 +102,12 @@ class FPConfig:
     refused_streak_threshold: int = 3  # Trigger threshold for consecutive ERR_CONNECTION_REFUSED
     refused_window_seconds: float = 20.0  # Time window for counting the streak
     refusal_cooldown_seconds: float = 30.0  # Cooldown when refusal period detected
-    rotate_profile_on_refused: bool = True  # Rotate browser profile/context on refusal streak
-    rotate_engine_on_refused: bool = True  # Switch browser engine on refusal streak (even if not multi_profile)
+    refusal_quiet_mode: bool = True  # Prefer waiting quietly over rotation during refusal periods
+    rotate_profile_on_refused: bool = False  # Rotate browser profile/context on refusal streak
+    rotate_engine_on_refused: bool = False  # Switch browser engine on refusal streak (even if not multi_profile)
+    enable_global_refusal_lock: bool = True  # Coordinate cooldown across workers
+    global_refusal_lock_path: str = "output/subreddits/global_refusal_lock.json"
+    global_refusal_lock_jitter_max: float = 2.0
     # Bandwidth optimization
     disable_images: bool = True  # Block image downloads to save bandwidth (default enabled)
     # Internet connectivity monitoring
@@ -353,6 +357,10 @@ class SubredditFrontPageScraper:
         """Recycle browser context to switch profiles in multi-profile mode."""
         if not self.config.multi_profile:
             return
+        # In refusal quiet mode, avoid profile/engine churn to let the episode pass
+        if getattr(self, "_refusal_mode", False) and getattr(self.config, "refusal_quiet_mode", True):
+            print("[profile] Skipping profile switch due to refusal quiet mode")
+            return
             
         try:
             # Save persistent state before switching if applicable
@@ -499,7 +507,7 @@ class SubredditFrontPageScraper:
         """Check if error is related to internet connectivity rather than rate limiting."""
         connectivity_patterns = [
             "ERR_INTERNET_DISCONNECTED",
-            "ERR_NETWORK_CHANGED", 
+            "ERR_NETWORK_CHANGED",
             "ERR_NETWORK_ACCESS_DENIED",
             "ERR_PROXY_CONNECTION_FAILED",
             "ERR_NAME_NOT_RESOLVED",
@@ -507,7 +515,6 @@ class SubredditFrontPageScraper:
             "net::ERR_NETWORK_ACCESS_DENIED",
             "net::ERR_INTERNET_DISCONNECTED",
             "getaddrinfo ENOTFOUND",
-            "ECONNREFUSED",
             "EHOSTUNREACH",
             "ENETUNREACH"
         ]
@@ -520,6 +527,94 @@ class SubredditFrontPageScraper:
         except Exception:
             es = str(error_str)
         return ("ERR_CONNECTION_REFUSED" in es) or ("net::ERR_CONNECTION_REFUSED" in es) or ("ECONNREFUSED" in es)
+
+    def _is_page_closed_error(self, error_str: str) -> bool:
+        """Detect closed page/context/browser errors from Playwright."""
+        try:
+            es = error_str or ""
+        except Exception:
+            es = str(error_str)
+        patterns = [
+            "Target page, context or browser has been closed",
+            "Execution context was destroyed",
+            "Call frame is not available",
+        ]
+        return any(p in es for p in patterns)
+
+    def _ensure_open_context_and_page(self):
+        """Best-effort to ensure we have an open context and page without rotating engines."""
+        try:
+            # If we have an existing context, try to just open a fresh page
+            if hasattr(self, "_context") and self._context:
+                try:
+                    self._page = self._context.new_page()
+                    try:
+                        self._page.set_default_timeout(self.config.timeout_ms)
+                    except Exception:
+                        pass
+                    self._apply_stealth(self._page)
+                    return
+                except Exception:
+                    # Fall through to context recreation
+                    pass
+            # Recreate context/page via standard path
+            self._new_context()
+        except Exception:
+            try:
+                # As a last resort, restart browser for current engine
+                self._start_browser()
+            except Exception:
+                pass
+
+    def _get_global_lock_path(self) -> Optional[Path]:
+        try:
+            if not getattr(self.config, "enable_global_refusal_lock", True):
+                return None
+            p = getattr(self.config, "global_refusal_lock_path", "output/subreddits/global_refusal_lock.json")
+            return Path(p)
+        except Exception:
+            return None
+
+    def _write_global_cooldown_lock(self, until_ts: float, cause: str = ""):
+        p = self._get_global_lock_path()
+        if not p:
+            return
+        try:
+            p.parent.mkdir(parents=True, exist_ok=True)
+            payload = {
+                "until_ts": float(until_ts),
+                "set_at": time.time(),
+                "cause": cause,
+                "pid": os.getpid(),
+                "engine": getattr(self, "_current_engine", None),
+            }
+            with open(p, "w", encoding="utf-8") as f:
+                json.dump(payload, f)
+        except Exception:
+            pass
+
+    def _get_global_cooldown_remaining(self) -> float:
+        p = self._get_global_lock_path()
+        if not p or not p.exists():
+            return 0.0
+        try:
+            with open(p, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            until_ts = float(data.get("until_ts", 0))
+            remaining = max(0.0, until_ts - time.time())
+            if remaining <= 0:
+                try:
+                    p.unlink(missing_ok=True)
+                except Exception:
+                    pass
+                return 0.0
+            # Add small jitter to avoid herd resume
+            jitter_max = float(getattr(self.config, "global_refusal_lock_jitter_max", 2.0))
+            if jitter_max > 0:
+                remaining += random.uniform(0, jitter_max)
+            return remaining
+        except Exception:
+            return 0.0
 
     def _update_refusal_streak_and_check_in_period(self) -> bool:
         """Update counters for connection-refused streak; return True if period threshold reached within window."""
@@ -594,16 +689,25 @@ class SubredditFrontPageScraper:
                 pass
 
     def _enter_refusal_cooldown_and_rotate(self, cause: str = ""):
-        """Rotate profile/engine and set a cooldown window."""
-        try:
-            if getattr(self.config, "rotate_engine_on_refused", True) or getattr(self.config, "rotate_profile_on_refused", True):
-                self._rotate_profile_immediate()
-        except Exception:
-            pass
+        """Apply cooldown for refusal period; optionally rotate (disabled by default)."""
         cd = float(getattr(self.config, "refusal_cooldown_seconds", 30.0))
         self._cooldown_until_ts = time.time() + cd
         msg_cause = f" for {cause}" if cause else ""
-        print(f"[cooldown] Connection-refused period detected{msg_cause}. Cooling down for {cd:.1f}s.")
+        quiet = bool(getattr(self.config, "refusal_quiet_mode", True))
+        quiet_note = " (quiet)" if quiet else ""
+        print(f"[cooldown] Connection-refused period detected{msg_cause}. Cooling down for {cd:.1f}s{quiet_note}.")
+        # Broadcast cooldown globally for other workers
+        try:
+            if getattr(self.config, "enable_global_refusal_lock", True):
+                self._write_global_cooldown_lock(self._cooldown_until_ts, cause)
+        except Exception:
+            pass
+        # Only rotate if not in quiet mode and rotation flags are enabled
+        if not quiet and (getattr(self.config, "rotate_engine_on_refused", False) or getattr(self.config, "rotate_profile_on_refused", False)):
+            try:
+                self._rotate_profile_immediate()
+            except Exception:
+                pass
 
     def _apply_stealth(self, page):
         engine = getattr(self, '_current_engine', 'chromium')
@@ -707,11 +811,19 @@ class SubredditFrontPageScraper:
         attempts = 0
         last_error = None
 
-        # If a prior refusal period set a cooldown, honor it before starting
+        # Honor local and global cooldowns before starting
+        remaining_local = 0.0
         if hasattr(self, "_cooldown_until_ts") and self._cooldown_until_ts > time.time():
-            remaining = max(0.0, self._cooldown_until_ts - time.time())
-            print(f"[cooldown] Waiting {remaining:.1f}s before scraping {sub_name}")
-            time.sleep(remaining)
+            remaining_local = max(0.0, self._cooldown_until_ts - time.time())
+        remaining_global = 0.0
+        try:
+            remaining_global = self._get_global_cooldown_remaining()
+        except Exception:
+            remaining_global = 0.0
+        total_wait = max(remaining_local, remaining_global)
+        if total_wait > 0:
+            print(f"[cooldown] Waiting {total_wait:.1f}s (global={remaining_global:.1f}s, local={remaining_local:.1f}s) before scraping {sub_name}")
+            time.sleep(total_wait)
         
         def _is_retryable_error(error_str: str) -> bool:
             """Check if error is worth retrying."""
@@ -775,7 +887,19 @@ class SubredditFrontPageScraper:
                 last_error = str(e)
                 elapsed = time.monotonic() - start
 
-                # Special handling: detect consecutive connection refusals and enter cooldown with profile rotation
+                # Recover from closed page/context/browser without rotating
+                if self._is_page_closed_error(last_error):
+                    print(f"[recover] Page/context closed while scraping {sub_name}. Reopening quietly...")
+                    try:
+                        self._ensure_open_context_and_page()
+                    except Exception:
+                        pass
+                    # Don't consume an attempt for this
+                    attempts = max(0, attempts - 1)
+                    time.sleep(random.uniform(1.0, 2.0))
+                    continue
+
+                # Special handling: detect consecutive connection refusals and apply quiet cooldown
                 if self._is_connection_refused_error(last_error):
                     if self._update_refusal_streak_and_check_in_period():
                         self._enter_refusal_cooldown_and_rotate(sub_name)
@@ -784,6 +908,8 @@ class SubredditFrontPageScraper:
                         # Honor cooldown immediately in this invocation
                         if hasattr(self, "_cooldown_until_ts") and self._cooldown_until_ts > time.time():
                             time.sleep(max(0.0, self._cooldown_until_ts - time.time()))
+                        # small jitter to avoid synchronized spikes
+                        time.sleep(random.uniform(0.5, 1.0))
                         continue
                 else:
                     # Reset streak on other error types
@@ -817,34 +943,29 @@ class SubredditFrontPageScraper:
                 print(f"[retry] {sub_name} attempt {attempts}/{self.config.max_attempts} after {delay:.1f}s (error: {last_error[:100]})")
                 time.sleep(delay)
                 
-                # Enhanced recovery: recycle context on connection errors for fresh fingerprint
-                if "CONNECTION" in last_error or "PROXY" in last_error or attempts >= 2:
+                # Quiet recovery: prefer stability and waiting over browser/context churn
+                err_upper = (last_error or "").upper()
+                if self._refusal_mode or ("REFUSED" in err_upper):
+                    # In refusal mode, keep context/page open and allow episode to pass
+                    pass
+                else:
+                    # Ensure we have a usable page/context without heavy recycling
                     try:
-                        print(f"[retry] Recycling browser context for fresh fingerprint")
-                        self._page.close()
-                        self._context.close()
-                        
-                        # In multi-profile mode, switch to a different profile
-                        if self.config.multi_profile:
-                            self._new_context()  # This will pick next profile
-                        else:
-                            self._new_context()  # Fresh context with same profile
+                        if not hasattr(self, "_context") or (self._context is None):
+                            self._new_context()
+                        elif not hasattr(self, "_page") or (self._page is None):
+                            self._page = self._context.new_page()
+                            try:
+                                self._page.set_default_timeout(self.config.timeout_ms)
+                            except Exception:
+                                pass
+                            self._apply_stealth(self._page)
                     except Exception:
-                        # Fallback to just recycling the page
+                        # Last resort: attempt to quietly reopen context
                         try:
-                            self._page.close()
+                            self._new_context()
                         except Exception:
                             pass
-                        self._page = self._context.new_page()
-                        self._apply_stealth(self._page)
-                else:
-                    # Light recycle: just create new page
-                    try:
-                        self._page.close()
-                    except Exception:
-                        pass
-                    self._page = self._context.new_page()
-                    self._apply_stealth(self._page)
         return {
             "subreddit": sub_name,
             "url": url,
