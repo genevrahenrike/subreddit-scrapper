@@ -484,3 +484,148 @@ Effect
 Notes
 - All filters are deterministic and accept reasonable defaults. The embedding reranker stage remains optional and unchanged.
 - If wordfreq cannot be installed due to environment limits, Zipf filtering silently disables; dynamic DF features still work.
+
+## 8. Operational v2.3: Subset alignment, resumability, incremental DF extension, and memory-safe embedding
+
+This section documents operational upgrades added to support very large corpora and staged runs while minimizing memory pressure and enabling reliable resume/extend workflows. Implementation entrypoint: [__main__.py](src/keyword_extraction/__main__.py:1).
+
+What’s new (high level)
+- Frontpage-backed subset alignment: Process only subreddits that have a scraped frontpage, and build description DF over the same subset for consistent IDF.
+- Resumability and atomic writes: Skip already-finished outputs, persist DF caches, and commit outputs atomically to prevent corruption.
+- Incremental DF extension: Extend existing DF caches with new pages/frontpages; run the next batch without recomputing from scratch.
+- Memory-safe embedding rerank pass: A standalone “embedding-only” mode reranks existing outputs in a fresh, low-RAM process so GPU acceleration (MPS/CUDA) has headroom.
+
+8.1 Frontpage-backed subset alignment
+- Motivation: When only a subset of communities has frontpage data (e.g., 100k of 300k), you can prevent “thin” communities from diluting DF and avoid producing outputs for communities without posts.
+- How it works:
+  - --require-frontpage limits per-subreddit processing to those with a matching frontpage.json discovered via the frontpage glob.
+  - Description DF is computed only over the same canonical key subset (allowed_keys) for IDF consistency.
+- CLI:
+  - --require-frontpage
+- Code anchors:
+  - CLI and filtering in [__main__.py](src/keyword_extraction/__main__.py:1)
+  - Subset-aware DF: [scoring.build_docfreq()](src/keyword_extraction/scoring.py:14)
+
+8.2 Resumability and atomic writes
+- Motivation: Long multi-hour runs must be restartable and protected against partial files.
+- Features:
+  - --resume skips input page files that already have a non-empty output file.
+  - --overwrite forces recompute (ignoring caches and replacing outputs).
+  - --desc-df-cache and --posts-df-cache persist DF to JSON; re-used on resumes.
+  - Atomic writes: outputs are written to page.keywords.jsonl.tmp and finalized via an atomic replace.
+- CLI:
+  - --resume, --overwrite, --desc-df-cache PATH, --posts-df-cache PATH
+- Code anchors:
+  - Main orchestration and atomic finalize in [__main__.py](src/keyword_extraction/__main__.py:1)
+  - Description DF build/load: [scoring.build_docfreq()](src/keyword_extraction/scoring.py:14)
+
+8.3 Incremental DF extension (additive runs)
+- Motivation: Efficiently extend from 100k to 150k without recomputing DF for the initial 100k.
+- How it works:
+  - --extend-df-caches merges DF counts from the current inputs into the existing caches (assume inputs are NEW pages to avoid double-counting).
+  - Posts DF cache stores the set of canonical keys (“keys”) so only missing frontpages are added.
+  - Description DF cache stores an allowed_keys_hash when using --require-frontpage to ensure subset consistency; when extending, the hash is refreshed along with counts.
+- CLI:
+  - --extend-df-caches (used with the same --desc-df-cache and --posts-df-cache paths)
+- Code anchors:
+  - Incremental logic and cache guards in [__main__.py](src/keyword_extraction/__main__.py:1)
+  - DF builder: [scoring.build_docfreq()](src/keyword_extraction/scoring.py:14), [posts_processing.build_posts_docfreq()](src/keyword_extraction/posts_processing.py:56)
+
+8.4 Memory optimization and GPU-safe embedding pass
+- Motivation: Global DF counters can occupy significant RAM during pass 1. To ensure GPU VRAM/Unified Memory headroom for embedding, run the rerank in a separate, lean process.
+- Embedding-only rerank mode:
+  - --embed-only-input-dir DIR reads existing baseline JSONL outputs, reconstructs the theme from the record (whole name phrase + top description keywords already in the record), and performs embedding-based rerank WITHOUT rebuilding DF or touching /pages data.
+  - This mode uses minimal RAM, letting MPS/CUDA allocate larger batches for SentenceTransformers.
+- Device controls:
+  - EMBED_DEVICE=mps|cuda|cpu and optional EMBED_BATCH_SIZE (e.g., 64, 32, 16) via environment variables.
+- Code anchors:
+  - Rerank: [embedding.embed_rerank_terms()](src/keyword_extraction/embedding.py:101)
+  - Device selection and banner: [embedding._select_device()](src/keyword_extraction/embedding.py:29)
+  - CLI wiring: [__main__.py](src/keyword_extraction/__main__.py:1)
+
+8.5 Quick recipes
+
+A) Baseline over frontpage-backed subset with caches (deterministic, no embeddings)
+```bash
+python3 -m src.keyword_extraction \
+  --input-glob 'output/pages/page_*.json' \
+  --frontpage-glob 'output/subreddits/*/frontpage.json' \
+  --require-frontpage \
+  --output-dir output/keywords_10k_v22 \
+  --resume \
+  --desc-df-cache output/cache/desc_df_10k_v22.json \
+  --posts-df-cache output/cache/posts_df_10k_v22.json \
+  --topk 40 \
+  --name-weight 3.0 --desc-weight 1.0 \
+  --posts-weight 1.5 --posts-composed-weight 1.5 \
+  --min-df-bigram 2 --min-df-trigram 2 \
+  --posts-ensure-k 10 \
+  --posts-generic-df-ratio 0.10 --posts-drop-generic-unigrams \
+  --posts-phrase-boost-bigram 1.35 --posts-phrase-boost-trigram 1.7 \
+  --posts-stopwords-extra config/posts_stopwords_extra.txt \
+  --posts-phrase-stoplist config/posts_phrase_stoplist.txt \
+  --desc-idf-power 0.8 --posts-idf-power 0.4 \
+  --posts-engagement-alpha 0.0 \
+  --compose-seed-source posts_local_tf \
+  --compose-anchor-top-m 200 \
+  --compose-anchor-score-mode idf_blend \
+  --compose-anchor-alpha 0.7 --compose-anchor-floor 1.0 --compose-anchor-cap 2.0 \
+  --compose-anchor-max-per-sub 8 --compose-anchor-min-base-score 3.0 \
+  --compose-anchor-max-ratio 2.0 \
+  --include-content-preview
+```
+
+B) Embedding-only rerank (GPU MPS/CUDA), low memory, streaming existing outputs
+```bash
+EMBED_DEVICE=mps EMBED_BATCH_SIZE=64 PYTORCH_ENABLE_MPS_FALLBACK=1 LLM_SUMMARY=0 \
+python3 -m src.keyword_extraction \
+  --embed-only-input-dir output/keywords_10k_v22 \
+  --output-dir output/keywords_10k_v22_embed \
+  --resume \
+  --embed-rerank \
+  --embed-model 'BAAI/bge-small-en-v1.5' \
+  --embed-alpha 0.35 \
+  --embed-k-terms 120 \
+  --embed-candidate-pool posts_composed \
+  --posts-theme-top-desc-k 6
+```
+- Switch to CUDA with EMBED_DEVICE=cuda. Reduce EMBED_BATCH_SIZE (e.g., 32/16) if memory is tight.
+
+C) Incremental extension (next 50k pages added to DF), then rerank only new outputs
+```bash
+# Extend DF caches with NEW pages only (avoid double-counting by not re-passing old pages)
+python3 -m src.keyword_extraction \
+  --input-glob 'output/pages/page_150_to_200.json' \
+  --frontpage-glob 'output/subreddits/*/frontpage.json' \
+  --require-frontpage \
+  --extend-df-caches \
+  --output-dir output/keywords_10k_v22 \
+  --resume \
+  --desc-df-cache output/cache/desc_df_10k_v22.json \
+  --posts-df-cache output/cache/posts_df_10k_v22.json \
+  --topk 40 ... (same knobs as baseline)
+
+# Embedding-only rerank over the combined baseline outputs (skips already-reranked pages)
+EMBED_DEVICE=mps EMBED_BATCH_SIZE=64 PYTORCH_ENABLE_MPS_FALLBACK=1 LLM_SUMMARY=0 \
+python3 -m src.keyword_extraction \
+  --embed-only-input-dir output/keywords_10k_v22 \
+  --output-dir output/keywords_10k_v22_embed \
+  --resume \
+  --embed-rerank \
+  --embed-model 'BAAI/bge-small-en-v1.5' \
+  --embed-alpha 0.35 --embed-k-terms 120 \
+  --embed-candidate-pool posts_composed
+```
+
+8.6 Notes and caveats
+- Subset hash: When using --require-frontpage, the description DF cache is tagged with the subset hash (allowed_keys_hash) to guarantee consistency across runs. Extending caches updates counts for new inputs; passing an older cache against a different subset without extension will be rejected for safety.
+- Double-counting: --extend-df-caches assumes the current input pages and frontpages are NEW. Do not pass overlapping inputs from previous runs when extending.
+- Memory: Avoid caching frontpage JSONs in memory for massive runs; the pipeline loads each JSON per subreddit on demand (streaming). This keeps peak RSS lower and leaves GPU VRAM/Unified Memory for embeddings.
+- Scripts: An example end-to-end runner is available at [scripts/run_keywords_10k.sh](scripts/run_keywords_10k.sh:1).
+
+Relevant anchors
+- Orchestration and CLI: [__main__.py](src/keyword_extraction/__main__.py:1)
+- Description DF build: [scoring.build_docfreq()](src/keyword_extraction/scoring.py:14)
+- Posts DF build and TF-IDF: [posts_processing.build_posts_docfreq()](src/keyword_extraction/posts_processing.py:56), [posts_processing.compute_posts_tfidf_for_frontpage()](src/keyword_extraction/posts_processing.py:95)
+- Composition fairness and display recasing: [composition.compose_theme_anchored_from_posts()](src/keyword_extraction/composition.py:125), [composition.recase_anchored_display()](src/keyword_extraction/composition.py:299)
+- Embedding rerank and device routing: [embedding.embed_rerank_terms()](src/keyword_extraction/embedding.py:101), [embedding._select_device()](src/keyword_extraction/embedding.py:29)

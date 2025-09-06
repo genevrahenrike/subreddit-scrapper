@@ -141,6 +141,7 @@ def process_inputs(
     overwrite: bool = False,
     desc_df_cache_path: Optional[str] = None,
     posts_df_cache_path: Optional[str] = None,
+    extend_df_caches: bool = False,
     require_frontpage: bool = False,
 ) -> None:
     if not input_paths:
@@ -206,16 +207,40 @@ def process_inputs(
         frontpage_index, frontpage_paths = _build_frontpage_index(frontpage_glob)
         allowed_keys_set = set(frontpage_index.keys())
         loaded_posts_df = False
+        cached_keys_set: Set[str] = set()
         if posts_df_cache_path and os.path.exists(posts_df_cache_path) and not overwrite:
             try:
                 with open(posts_df_cache_path, "r", encoding="utf-8") as f:
                     cache = json.load(f)
                 posts_docfreq = Counter(cache.get("docfreq", {}))
                 posts_total_docs = int(cache.get("total_docs", 0))
+                cached_keys_set = set(cache.get("keys", []))
                 print(f"[posts:pass1] loaded posts DF cache from {posts_df_cache_path} (docs={posts_total_docs:,}, unique_terms={len(posts_docfreq):,})", file=sys.stderr)
                 loaded_posts_df = True
             except Exception as e:
                 print(f"[posts:pass1] failed to load posts DF cache {posts_df_cache_path}: {e}", file=sys.stderr)
+        if loaded_posts_df and extend_df_caches:
+            # Extend existing posts DF with delta frontpages not present in cache
+            delta_keys = allowed_keys_set - cached_keys_set if allowed_keys_set else set()
+            if delta_keys:
+                delta_paths = [frontpage_index[k] for k in sorted(delta_keys) if k in frontpage_index]
+                if delta_paths:
+                    print(f"[posts:pass1] extending posts docfreq with {len(delta_paths):,} new frontpage(s) ...", file=sys.stderr)
+                    delta_df, delta_docs = build_posts_docfreq(delta_paths, max_ngram, posts_extra_stopwords_set, posts_phrase_stoplist_set)
+                    posts_total_docs += delta_docs
+                    posts_docfreq.update(delta_df)
+                    cached_keys_set |= set(delta_keys)
+                    if posts_df_cache_path:
+                        try:
+                            from os import path as _p
+                            cache_dir = _p.dirname(posts_df_cache_path)
+                            if cache_dir:
+                                ensure_dir(cache_dir)
+                            with open(posts_df_cache_path, "w", encoding="utf-8") as f:
+                                json.dump({"total_docs": posts_total_docs, "docfreq": dict(posts_docfreq), "keys": sorted(list(cached_keys_set))}, f)
+                            print(f"[posts:pass1] updated posts DF cache at {posts_df_cache_path}", file=sys.stderr)
+                        except Exception as e:
+                            print(f"[posts:pass1] failed to update posts DF cache {posts_df_cache_path}: {e}", file=sys.stderr)
         if not loaded_posts_df:
             print(f"[posts:pass1] building posts docfreq over glob={frontpage_glob!r} ...", file=sys.stderr)
             posts_docfreq, posts_total_docs = build_posts_docfreq(frontpage_paths, max_ngram, posts_extra_stopwords_set, posts_phrase_stoplist_set)
@@ -228,7 +253,7 @@ def process_inputs(
                     if cache_dir:
                         ensure_dir(cache_dir)
                     with open(posts_df_cache_path, "w", encoding="utf-8") as f:
-                        json.dump({"total_docs": posts_total_docs, "docfreq": dict(posts_docfreq)}, f)
+                        json.dump({"total_docs": posts_total_docs, "docfreq": dict(posts_docfreq), "keys": sorted(list(allowed_keys_set))}, f)
                     print(f"[posts:pass1] saved posts DF cache to {posts_df_cache_path}", file=sys.stderr)
                 except Exception as e:
                     print(f"[posts:pass1] failed to save posts DF cache {posts_df_cache_path}: {e}", file=sys.stderr)
@@ -295,8 +320,8 @@ def process_inputs(
         except Exception:
             pass
 
-    # Cache for loaded frontpage JSONs
-    frontpage_cache: Dict[str, dict] = {}
+    # Frontpage JSON cache disabled to reduce peak memory (each subreddit typically references a unique path)
+    frontpage_cache = None
 
     # Pass 2: per file, compute per-subreddit scores and write JSONL
     for inp in input_paths:
@@ -389,15 +414,11 @@ def process_inputs(
                             posts_path = candidate
 
                     if posts_path:
-                        if posts_path in frontpage_cache:
-                            fp_data = frontpage_cache[posts_path]
-                        else:
-                            try:
-                                with open(posts_path, "r", encoding="utf-8") as f:
-                                    fp_data = json.load(f)
-                                frontpage_cache[posts_path] = fp_data
-                            except Exception:
-                                fp_data = None
+                        try:
+                            with open(posts_path, "r", encoding="utf-8") as f:
+                                fp_data = json.load(f)
+                        except Exception:
+                            fp_data = None
 
                         if fp_data:
                             posts_scores, posts_local_tf = compute_posts_tfidf_for_frontpage(
@@ -619,6 +640,7 @@ def main():
     ap.add_argument("--overwrite", action="store_true", help="Force recomputation; overwrite outputs and ignore caches")
     ap.add_argument("--desc-df-cache", type=str, default=None, help="Path to cache JSON for description DF (read/write)")
     ap.add_argument("--posts-df-cache", type=str, default=None, help="Path to cache JSON for posts DF (read/write)")
+    ap.add_argument("--extend-df-caches", action="store_true", help="Extend existing DF caches by merging counts from current inputs (ensure inputs are new to avoid double-counting)")
     ap.add_argument("--require-frontpage", action="store_true", help="Only process subreddits that have a frontpage.json; restrict description DF to this subset")
     ap.add_argument("--topk", type=int, default=config.DEFAULT_TOPK, help="Top-K keywords per subreddit")
     ap.add_argument("--max-ngram", type=int, default=config.DEFAULT_MAX_NGRAM, help="Max n-gram length for TF-IDF")
@@ -766,6 +788,7 @@ def main():
         overwrite=args.overwrite,
         desc_df_cache_path=args.desc_df_cache,
         posts_df_cache_path=args.posts_df_cache,
+        extend_df_caches=args.extend_df_caches,
         require_frontpage=args.require_frontpage,
     )
 
