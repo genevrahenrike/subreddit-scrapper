@@ -21,20 +21,31 @@ def _normalize_anchor_phrase_from_title(title: str) -> str:
 
 def _simplify_seed_for_composition(term: str) -> str:
     """
-    Lightly clean seed phrase for composition by trimming generic tail tokens like 'minute(s)', 'today', etc.
-    Keeps phrase length >= 2 to avoid collapsing to single uninformative tokens.
+    Lightly clean seed phrase for composition:
+    - Collapse adjacent duplicate words (e.g., "big big problem" -> "big problem")
+    - Trim generic tail tokens like 'minute(s)', 'today', etc.
+    Keeps phrase length >= 2 to avoid composing on single uninformative tokens.
     """
     if not term:
         return term
     toks = term.split()
+
+    # Collapse adjacent duplicates (case-insensitive)
+    dedup: List[str] = []
+    prev_l = None
+    for t in toks:
+        tl = t.lower()
+        if tl != prev_l:
+            dedup.append(t)
+            prev_l = tl
+    toks = dedup
+
     # Trim only tail tokens, preserving at least a bigram
-    changed = False
     while len(toks) >= 2 and toks[-1] in COMPOSE_TRIM_TAIL_TOKENS:
         toks.pop()
-        changed = True
-    if changed and len(toks) >= 2:
-        return " ".join(toks)
-    return term
+
+    # Prefer returning a bigram+; if collapsed to unigram, still return the unigram (caller may filter)
+    return " ".join(toks) if toks else term
 
 
 def _norm_nospace(s: Optional[str]) -> str:
@@ -74,6 +85,16 @@ def _equal_lex_loose(a: Optional[str], b: Optional[str]) -> bool:
     else:
         nb_s = nb
     return na_s == nb_s
+
+
+def _alnum_norm(s: Optional[str]) -> str:
+    """
+    Normalize to lowercase alphanumeric only (drop spaces, dashes, punctuation).
+    Used to detect when an anchor phrase is a pure spacing/casing normalization of the token.
+    """
+    if not s:
+        return ""
+    return re.sub(r"[^0-9a-z]+", "", (s or "").lower())
 
 
 def _compute_anchor_factor(
@@ -198,7 +219,15 @@ def compose_theme_anchored_from_posts(
             final_words = (anchor_phrase_lower.count(" ") + 1) + n_words
             if final_words <= max_final_words:
                 variants.append(f"{anchor_phrase_lower} {seed}")
-        if anchor_token:
+
+        # Optionally suppress token-anchored variant when the phrase is just a normalized form of the token.
+        token_ok = True
+        if (not config.DEFAULT_COMPOSE_ALLOW_TOKEN_WITH_PHRASE) and anchor_phrase_lower and anchor_token:
+            if _alnum_norm(anchor_phrase_lower) == _alnum_norm(anchor_token):
+                # Example: 'trendytopic' vs 'trendy topic' -> drop token variant, keep phrase variant
+                token_ok = False
+
+        if token_ok and anchor_token:
             final_words = 1 + n_words
             if final_words <= max_final_words:
                 variants.append(f"{anchor_token} {seed}")

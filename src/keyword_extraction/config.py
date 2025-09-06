@@ -31,6 +31,11 @@ DEFAULT_POSTS_PHRASE_BOOST_TRIGRAM = 1.5
 DEFAULT_POSTS_DROP_GENERIC_PHRASES = True
 DEFAULT_POSTS_GENERIC_PHRASE_DF_RATIO = 0.35
 
+# Posts-level content gating (source decontamination)
+DEFAULT_POSTS_SKIP_PROMOTED = True             # skip promoted/advertorial posts in posts TF-IDF
+DEFAULT_POSTS_DROP_NONLATIN_POSTS = False      # drop posts whose text contains CJK/Cyrillic/Greek
+DEFAULT_POSTS_MAX_NONASCII_RATIO = -1.0        # drop post if non-ASCII ratio exceeds this (negative disables)
+
 # Embedding rerank defaults
 DEFAULT_EMBED_RERANK = False
 DEFAULT_EMBED_MODEL = "BAAI/bge-small-en-v1.5"  # fast, strong; consider "BAAI/bge-m3" for multilingual/SOTA
@@ -65,6 +70,9 @@ DEFAULT_COMPOSE_ANCHOR_TOP_M = 20
 DEFAULT_COMPOSE_ANCHOR_INCLUDE_UNIGRAMS = False
 DEFAULT_COMPOSE_ANCHOR_MAX_FINAL_WORDS = 6
 DEFAULT_COMPOSE_ANCHOR_USE_TITLE = True
+# When an anchor phrase exists (e.g., "mazda cx 5"), also emit token-anchored variants (e.g., "cx5 …")
+# Default False to avoid duplicate “token vs phrase” variants like "trendytopic X" vs "Trendy Topic X".
+DEFAULT_COMPOSE_ALLOW_TOKEN_WITH_PHRASE = False
 
 # New: scoring behavior for composed phrases
 DEFAULT_COMPOSE_ANCHOR_SCORE_MODE = "idf_blend"  # choices: "fraction", "idf_blend"

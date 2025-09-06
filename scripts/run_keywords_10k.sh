@@ -35,8 +35,6 @@ time python3 -m src.keyword_extraction \
   --posts-drop-generic-unigrams \
   --posts-phrase-boost-bigram 1.35 \
   --posts-phrase-boost-trigram 1.7 \
-  --posts-stopwords-extra config/posts_stopwords_extra.txt \
-  --posts-phrase-stoplist config/posts_phrase_stoplist.txt \
   --desc-idf-power 0.8 \
   --posts-idf-power 0.4 \
   --posts-engagement-alpha 0.0 \
@@ -49,6 +47,10 @@ time python3 -m src.keyword_extraction \
   --compose-anchor-max-per-sub 8 \
   --compose-anchor-min-base-score 3.0 \
   --compose-anchor-max-ratio 2.0 \
+  --clean-collapse-adj-dups \
+  --clean-dedupe-near \
+  --drop-nonlatin \
+  --max-nonascii-ratio 0.50 \
   --include-content-preview \
   2>&1 | tee -a "$LOG_DIR/keywords_baseline.log"
 
@@ -75,8 +77,6 @@ time python3 -m src.keyword_extraction \
   --posts-drop-generic-unigrams \
   --posts-phrase-boost-bigram 1.35 \
   --posts-phrase-boost-trigram 1.7 \
-  --posts-stopwords-extra config/posts_stopwords_extra.txt \
-  --posts-phrase-stoplist config/posts_phrase_stoplist.txt \
   --desc-idf-power 0.8 \
   --posts-idf-power 0.4 \
   --posts-engagement-alpha 0.0 \
@@ -89,6 +89,10 @@ time python3 -m src.keyword_extraction \
   --compose-anchor-max-per-sub 8 \
   --compose-anchor-min-base-score 3.0 \
   --compose-anchor-max-ratio 2.0 \
+  --clean-collapse-adj-dups \
+  --clean-dedupe-near \
+  --drop-nonlatin \
+  --max-nonascii-ratio 0.50 \
   --include-content-preview \
   --embed-rerank \
   --embed-model 'BAAI/bge-small-en-v1.5' \

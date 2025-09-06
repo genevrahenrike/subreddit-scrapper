@@ -629,3 +629,95 @@ Relevant anchors
 - Posts DF build and TF-IDF: [posts_processing.build_posts_docfreq()](src/keyword_extraction/posts_processing.py:56), [posts_processing.compute_posts_tfidf_for_frontpage()](src/keyword_extraction/posts_processing.py:95)
 - Composition fairness and display recasing: [composition.compose_theme_anchored_from_posts()](src/keyword_extraction/composition.py:125), [composition.recase_anchored_display()](src/keyword_extraction/composition.py:299)
 - Embedding rerank and device routing: [embedding.embed_rerank_terms()](src/keyword_extraction/embedding.py:101), [embedding._select_device()](src/keyword_extraction/embedding.py:29)
+## 9. v2.4 Programmatic decontamination and deduping (no curated stoplists)
+
+Motivation
+- Eliminate manual, curated stoplists which are brittle and non-scalable.
+- Replace with deterministic, corpus-driven filters and light, in-pipeline cleanup to suppress obvious artifacts without editorial maintenance.
+
+What changed (code)
+- Deprecated manual stoplists:
+  - Posts phrase stoplist flag is now ignored; a deprecation banner is printed in [__main__.py](src/keyword_extraction/__main__.py:1).
+  - Posts extra stopwords file is also ignored with a deprecation banner in [__main__.py](src/keyword_extraction/__main__.py:1).
+- In-pipeline term cleanup (new CLI in [__main__.main()](src/keyword_extraction/__main__.py:1)):
+  - --clean-collapse-adj-dups / --no-clean-collapse-adj-dups
+    - Collapse adjacent duplicate words in terms (e.g., "big big problem" -> "big problem").
+  - --clean-dedupe-near / --no-clean-dedupe-near
+    - Near-duplicate dedupe by normalized alnum key (merges spacing/punct casing variants; keeps higher score or source-preferred).
+  - --drop-nonlatin
+    - Drop terms containing CJK/Cyrillic/Greek scripts for English-focused runs (off by default).
+  - --max-nonascii-ratio FLOAT
+    - Drop terms whose non-ASCII ratio exceeds the threshold (negative disables; default -1).
+- Programmatic filters retained:
+  - Cross-subreddit DF and DF-ratio controls (v2.2).
+  - Optional embedding rerank targeting specific sources for semantic cleanup (v2, v2.1).
+
+Runner updates
+- Batch script updated to remove curated stoplist flags and turn on programmatic cleanup:
+  - See [scripts/run_keywords_10k.sh](scripts/run_keywords_10k.sh:1), which now passes:
+    - --clean-collapse-adj-dups
+    - --clean-dedupe-near
+    - --drop-nonlatin
+    - --max-nonascii-ratio 0.50
+  - And no longer passes:
+    - --posts-phrase-stoplist PATH (deprecated; ignored)
+    - --posts-stopwords-extra PATH (deprecated; ignored)
+
+Example (frontpage-backed subset, deterministic baseline)
+```bash
+python3 -m src.keyword_extraction \
+  --input-glob 'output/pages/page_*.json' \
+  --frontpage-glob 'output/subreddits/*/frontpage.json' \
+  --require-frontpage \
+  --output-dir output/keywords_v24 \
+  --resume \
+  --desc-df-cache output/cache/desc_df_v24.json \
+  --posts-df-cache output/cache/posts_df_v24.json \
+  --topk 40 \
+  --name-weight 3.0 --desc-weight 1.0 \
+  --posts-weight 1.5 --posts-composed-weight 1.5 \
+  --min-df-bigram 2 --min-df-trigram 2 \
+  --posts-ensure-k 10 \
+  --posts-generic-df-ratio 0.10 --posts-drop-generic-unigrams \
+  --posts-phrase-boost-bigram 1.35 --posts-phrase-boost-trigram 1.7 \
+  --desc-idf-power 0.8 --posts-idf-power 0.4 \
+  --posts-engagement-alpha 0.0 \
+  --compose-seed-source posts_local_tf \
+  --compose-anchor-top-m 200 \
+  --compose-anchor-score-mode idf_blend \
+  --compose-anchor-alpha 0.7 --compose-anchor-floor 1.0 --compose-anchor-cap 2.0 \
+  --compose-anchor-max-per-sub 8 --compose-anchor-min-base-score 3.0 \
+  --compose-anchor-max-ratio 2.0 \
+  --clean-collapse-adj-dups \
+  --clean-dedupe-near \
+  --drop-nonlatin \
+  --max-nonascii-ratio 0.50 \
+  --include-content-preview
+```
+
+Optional post-processing (streamed, no curated lists)
+- For already-produced JSONL outputs, a programmatic cleaner is provided at [scripts/clean_keywords_post.py](scripts/clean_keywords_post.py:1):
+  - Two-pass DF over provided files (directory or single file).
+  - Drops globally generic terms by DF ratio for chosen sources (e.g., posts_union), with per-run min-doc guard.
+  - Collapses adjacent duplicates; dedupes near-identicals by normalized key; filters technical artifacts and non-Latin scripts.
+  - Renormalizes weights post-drop/dedupe.
+- Example:
+```bash
+python3 scripts/clean_keywords_post.py \
+  --input-dir output/keywords_v24 \
+  --output-dir output/keywords_v24_clean \
+  --df-drop-threshold 0.25 \
+  --df-drop-sources posts_union \
+  --emit-stats
+```
+
+Rationale and behavior
+- Removes manual “cheats” and replaces them with deterministic, corpus-derived suppression.
+- Adjacent-duplicate collapse and near-duplicate dedupe address repetitive/redundant phrase artifacts and spacing/punct variants without curated lists.
+- Non-Latin and non-ASCII controls provide a clean English-focused mode while keeping multilingual optionality (see embed model swaps).
+- Curated phrase files remain in the repo only for historical reference; the pipeline ignores them at runtime.
+
+Where to look in code
+- CLI and cleanup integration: [__main__.py](src/keyword_extraction/__main__.py:1)
+- Runner with new knobs: [scripts/run_keywords_10k.sh](scripts/run_keywords_10k.sh:1)
+- Post-processor (streamed DF + cleanup): [scripts/clean_keywords_post.py](scripts/clean_keywords_post.py:1)

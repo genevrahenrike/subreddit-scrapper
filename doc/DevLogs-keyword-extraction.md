@@ -1460,3 +1460,182 @@ Result
 
 ---
 
+Implemented programmatic quality controls end-to-end, removed dependency on curated stoplists, added in-pipeline cleanup, and provided a streaming post-processor so you don’t need to re-run the 8hr pass.
+
+What’s delivered
+
+1) Post-run cleaner (streamed; no curated lists)
+- New tool: [scripts/clean_keywords_post.py](scripts/clean_keywords_post.py:1)
+  - Two-pass DF over the provided files, programmatically drops globally generic terms by DF ratio (guarded by min-docs).
+  - Technical artifact filter (URL/domain/hex/ID heuristics), language/script filters (CJK/Cyrillic/Greek), adjacent-word de-dup (“big big” -> “big”), and near-duplicate normalization (spacing/punct/case).
+  - Anchor protection: keeps terms containing the subreddit’s canonical token during DF-based drop.
+  - Renormalizes weights after drops/dedup.
+  - Verified via smoke test on [__main__.main()](src/keyword_extraction/__main__.py:632) outputs; sample run completed successfully.
+
+Example usage (existing outputs)
+- Clean one file:
+  - python3 scripts/clean_keywords_post.py --input-file output/keywords_v22/page_31.keywords.jsonl --output-dir output/keywords_v22_clean --emit-stats
+- Clean a whole directory with DF-driven generic drop focused on posts and composed:
+  - python3 scripts/clean_keywords_post.py --input-dir output/keywords_10k_v22 --output-dir output/keywords_10k_v22_clean --df-drop-threshold 0.25 --df-drop-sources posts_union --emit-stats
+
+2) Pipeline: deprecate and ignore manual stoplists; add programmatic cleanup
+- Deprecated manual lists with runtime notices:
+  - Posts phrase stoplist is ignored with a deprecation banner in [__main__.py](src/keyword_extraction/__main__.py:180).
+  - Posts extra stopwords file is ignored with a deprecation banner in [__main__.py](src/keyword_extraction/__main__.py:162).
+- New in-pipeline cleanup toggles (after merge and optional embed-rerank), wired in [__main__.process_inputs()](src/keyword_extraction/__main__.py:82) and applied in [_clean_merge_dict()](src/keyword_extraction/__main__.py:79):
+  - --clean-collapse-adj-dups / --no-clean-collapse-adj-dups
+  - --clean-dedupe-near / --no-clean-dedupe-near
+  - --drop-nonlatin
+  - --max-nonascii-ratio FLOAT
+- Integration point: cleanup runs after optional embed rerank in [embedding.embed_rerank_terms()](src/keyword_extraction/embedding.py:101); see cleanup call site in [__main__.process_inputs()](src/keyword_extraction/__main__.py:552).
+
+3) Batch runner updated
+- Removed curated stoplist flags and enabled programmatic cleanup in [scripts/run_keywords_10k.sh](scripts/run_keywords_10k.sh:1):
+  - Removed: --posts-phrase-stoplist, --posts-stopwords-extra (both deprecated/ignored now).
+  - Added: --clean-collapse-adj-dups, --clean-dedupe-near, --drop-nonlatin, --max-nonascii-ratio 0.50.
+
+4) Documentation updated
+- Added v2.4 “Programmatic decontamination and deduping (no curated stoplists)” section to [doc/Subreddit Keyword Extraction Pipeline.md](doc/Subreddit%20Keyword%20Extraction%20Pipeline.md:1) with usage, rationale, and code anchors.
+
+Why this addresses your high-priority issues
+
+- Promotional/trending contamination:
+  - Global DF-based pruning is programmatic at both posts TF-IDF (v2.2+ defaults) and post-processor DF (posts-only sources).
+  - Technical artifact filter drops URL/domain/id strings without curation.
+- Repetitive/redundant phrases:
+  - Adjacent duplicate collapse and near-duplicate normalization in-pipeline and in the cleaner.
+- Non-English leakage:
+  - Optional drop-nonlatin and non-ASCII ratio thresholding in-pipeline and in the cleaner.
+- No curated lists:
+  - Manual .txt stoplists are ignored by the pipeline; the cleaner has no blocklist capability. Everything is derived from the corpus and stable heuristics.
+
+Run suggestions
+
+- Clean your existing 100k outputs in-place (streaming):
+  - python3 scripts/clean_keywords_post.py --input-dir output/keywords_10k_v22 --output-dir output/keywords_10k_v22_clean --df-drop-threshold 0.25 --df-drop-sources posts_union
+- Next full pipeline run (frontpage-backed subset; programmatic cleanup on):
+  - Use [scripts/run_keywords_10k.sh](scripts/run_keywords_10k.sh:1) (it now passes the new cleanup flags and ignores curated stoplists).
+- Multilingual exception:
+  - For a multilingual run, drop the --drop-nonlatin flag or set --max-nonascii-ratio to a negative value; swap embedding model via --embed-model 'BAAI/bge-m3'.
+
+Implementation anchors (clickable)
+- Deprecations and cleanup toggles: [__main__.main()](src/keyword_extraction/__main__.py:632)
+- Cleanup impl and call site: [_clean_merge_dict()](src/keyword_extraction/__main__.py:79), [process_inputs()](src/keyword_extraction/__main__.py:82)
+- Embed rerank: [embedding.embed_rerank_terms()](src/keyword_extraction/embedding.py:101)
+- Streaming cleaner (DF-driven + heuristics): [scripts/clean_keywords_post.py](scripts/clean_keywords_post.py:1)
+- Runner with new flags: [scripts/run_keywords_10k.sh](scripts/run_keywords_10k.sh:1)
+
+Result
+- Manual stoplists are no longer used. All suppression is deterministic and programmatic.
+- You can clean yesterday’s 8hr outputs without recomputing TF‑IDF using the new streaming cleaner.
+- Future runs benefit from in-pipeline de-dup and language/technical artifact controls, reducing redundancy and contamination at the source.
+
+---
+
+Implemented root-cause fixes to prevent garbage-in-garbage-out, with promo exclusion at source, language gating, and duplicate anchor suppression before generation. Changes are deterministic, CLI-toggleable, and applied at onset (tokenization/TF-IDF stages), not just post-processing.
+
+What’s changed in code (clickable anchors)
+- New posts source gating defaults and toggles
+  - Added in [config.py](src/keyword_extraction/config.py:20):
+    - DEFAULT_POSTS_SKIP_PROMOTED=True
+    - DEFAULT_POSTS_DROP_NONLATIN_POSTS=False
+    - DEFAULT_POSTS_MAX_NONASCII_RATIO=-1.0
+  - Applied in posts DF build and TF-IDF:
+    - [posts_processing.build_posts_docfreq()](src/keyword_extraction/posts_processing.py:56) now accepts skip_promoted, drop_nonlatin_posts, max_nonascii_ratio and filters posts upfront.
+    - [posts_processing.compute_posts_tfidf_for_frontpage()](src/keyword_extraction/posts_processing.py:146) filters posts before tokenization/gram building.
+  - CLI wiring (with sane defaults):
+    - --posts-skip-promoted / --no-posts-skip-promoted
+    - --posts-drop-nonlatin
+    - --posts-max-nonascii-ratio FLOAT
+    - See [__main__.main()](src/keyword_extraction/__main__.py:789) and pass-through in [__main__.process_inputs()](src/keyword_extraction/__main__.py:180).
+
+- Early anchor phrase derivation for consistent anchoring decisions
+  - We normalize meta.title before any anchored logic to be available to both anchored generics and composition paths:
+    - [__main__.process_inputs()](src/keyword_extraction/__main__.py:528).
+
+- Programmatic suppression of token-anchored duplicates when a normalized phrase anchor exists (toggleable)
+  - Composition: prefer phrase-anchored variant; suppress token variant when both are essentially identical (e.g., “trendytopic” vs “trendy topic”), while preserving CX5 vs “Mazda CX-5” as distinct.
+    - Added [_alnum_norm()](src/keyword_extraction/composition.py:78) and logic inside [composition.compose_theme_anchored_from_posts()](src/keyword_extraction/composition.py:125).
+  - Anchored generics (for high-DF unigrams from posts): same preference and suppression applied during token anchoring:
+    - [posts_processing.apply_anchored_variants_for_generic_posts_terms()](src/keyword_extraction/posts_processing.py:324) gains anchor_phrase_lower param and uses the same normalized-equivalence rule.
+  - Toggle to allow both if needed:
+    - DEFAULT_COMPOSE_ALLOW_TOKEN_WITH_PHRASE=False in [config.py](src/keyword_extraction/config.py:62)
+    - CLI: --compose-allow-token-with-phrase / --no-compose-allow-token-with-phrase wired in [__main__.main()](src/keyword_extraction/__main__.py:835)
+
+- Seed simplification hardened to collapse adjacent duplicates before composing
+  - [_simplify_seed_for_composition()](src/keyword_extraction/composition.py:22) now collapses adjacent duplicate words and trims generic tail tokens, reducing “word word …” artifacts at source.
+
+- Phrasal display casing kept intact
+  - Existing [composition.recase_anchored_display()](src/keyword_extraction/composition.py:299) still recases “mazda cx 5 …” to “Mazda CX-5 …” for UI/readability. CX5 vs “Mazda CX-5 …” coexist (not normalized-equivalent), matching your “good to keep both” requirement.
+
+Behavioral outcomes tied to your priority issues
+- Promotional content: Ads never enter TF/DF/anchor/composition when --posts-skip-promoted (default True). Source: scraper sets is_promoted in [subreddit_frontpage_scraper.py](subreddit_frontpage_scraper.py:1331); pipeline now honors that upstream. No noisy promo terms in DF/TF-IDF, which was a major contamination vector.
+- Language mixing: Entire post titles with non-Latin scripts or too-high non-ASCII ratio are excluded before tokenization; reduces non-English leakage deterministically for English-focused runs.
+- Duplicate anchor variants: “trendytopic X” is suppressed in favor of “Trendy Topic X” when the phrase is a spacing/casing normalization of the token (toggleable). CX5 and “Mazda CX-5” are not normalized-equivalent, so both families remain as intended.
+- Repetitive seed words: Composition seeds now collapse adjacent duplicates programmatically before composing, avoiding “big big” patterns at source.
+
+How to run (quick sanity)
+- Small fixture (no frontpage; validates nothing crashes with new knobs):
+  - python3 -m src.keyword_extraction --input-file tests/data/page_test.json --output-dir output/keywords_quick --topk 10
+
+Recommended production flags (frontpage-backed subset)
+- Prefer these to keep corpus clean:
+  - --posts-skip-promoted           # default True
+  - --posts-drop-nonlatin           # enable for English-focused runs
+  - --posts-max-nonascii-ratio 0.50 # heuristic non-ASCII cap (tune 0.3–0.7)
+  - --no-compose-allow-token-with-phrase  # default behavior; suppress token duplicate when phrase-normalized equals token
+- Example pattern (add to your previous v2.* recipes):
+  - python3 -m src.keyword_extraction \
+      --input-glob 'output/pages/page_*.json' \
+      --frontpage-glob 'output/subreddits/*/frontpage.json' \
+      --require-frontpage \
+      --output-dir output/keywords_v24_clean \
+      --resume \
+      --desc-df-cache output/cache/desc_df_v24_clean.json \
+      --posts-df-cache output/cache/posts_df_v24_clean.json \
+      --topk 40 \
+      --name-weight 3.0 --desc-weight 1.0 \
+      --posts-weight 1.5 --posts-composed-weight 1.5 \
+      --min-df-bigram 2 --min-df-trigram 2 \
+      --posts-ensure-k 10 \
+      --posts-generic-df-ratio 0.10 --posts-drop-generic-unigrams \
+      --posts-phrase-boost-bigram 1.35 --posts-phrase-boost-trigram 1.7 \
+      --desc-idf-power 0.8 --posts-idf-power 0.4 \
+      --posts-engagement-alpha 0.0 \
+      --compose-seed-source posts_local_tf \
+      --compose-anchor-top-m 200 \
+      --compose-anchor-score-mode idf_blend \
+      --compose-anchor-alpha 0.7 --compose-anchor-floor 1.0 --compose-anchor-cap 2.0 \
+      --compose-anchor-max-per-sub 8 --compose-anchor-min-base-score 3.0 \
+      --compose-anchor-max-ratio 2.0 \
+      --posts-skip-promoted \
+      --posts-drop-nonlatin \
+      --posts-max-nonascii-ratio 0.50 \
+      --no-compose-allow-token-with-phrase
+
+Notes on “TrendyTopic vs Trendy Topic” 
+- The suppression is applied where it matters: during variant generation (anchored generics and composed terms), so we don’t produce both “trendytopic …” and “trendy topic …” unless explicitly allowed.
+- The toggle --compose-allow-token-with-phrase lets you restore both forms later if you decide to keep both.
+- Legit distinct anchors (e.g., CX5 vs Mazda CX-5) are preserved since they are not normalized-equivalent (different alnum core), matching your intent.
+
+Clickable anchors overview (key edits)
+- Posts gating and DF/TF usage:
+  - [posts_processing.build_posts_docfreq()](src/keyword_extraction/posts_processing.py:56)
+  - [posts_processing.compute_posts_tfidf_for_frontpage()](src/keyword_extraction/posts_processing.py:146)
+- Anchored generics preference logic:
+  - [posts_processing.apply_anchored_variants_for_generic_posts_terms()](src/keyword_extraction/posts_processing.py:324)
+- Composition fairness and suppression:
+  - [composition.compose_theme_anchored_from_posts()](src/keyword_extraction/composition.py:125)
+  - [composition._alnum_norm()](src/keyword_extraction/composition.py:78)
+  - [composition._simplify_seed_for_composition()](src/keyword_extraction/composition.py:22)
+- CLI integration and pass-through:
+  - [__main__.process_inputs()](src/keyword_extraction/__main__.py:180)
+  - [__main__.main()](src/keyword_extraction/__main__.py:753)
+- Defaults and toggles:
+  - [config.py](src/keyword_extraction/config.py:1)
+
+Status vs plan
+- Completed: promo skip at posts source, language/script gating at posts source, duplicate anchor suppression at generation (toggleable), seed de-dup, CLI wiring.
+- Pending: quick A/B on a small page cohort with frontpages (e.g., page_31) to quantify promo removal, language gating, and reduced token/phrase duplication (grep-based; not reading large outputs into memory).
+
+This delivers root-cause mitigation for promotional contamination, non-English leakage, and duplicate anchor variants directly at the source stages with deterministic, reproducible controls and minimal runtime cost.

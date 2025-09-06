@@ -53,7 +53,15 @@ def _tokenize_post_text(title: str, preview: str, posts_extra_stopwords: Optiona
     return tokens
 
 
-def build_posts_docfreq(frontpage_paths: List[str], max_ngram: int, posts_extra_stopwords: Optional[Set[str]] = None, posts_phrase_stoplist: Optional[Set[str]] = None) -> Tuple[Counter, int]:
+def build_posts_docfreq(
+    frontpage_paths: List[str],
+    max_ngram: int,
+    posts_extra_stopwords: Optional[Set[str]] = None,
+    posts_phrase_stoplist: Optional[Set[str]] = None,
+    skip_promoted: bool = config.DEFAULT_POSTS_SKIP_PROMOTED,
+    drop_nonlatin_posts: bool = config.DEFAULT_POSTS_DROP_NONLATIN_POSTS,
+    max_nonascii_ratio: float = config.DEFAULT_POSTS_MAX_NONASCII_RATIO,
+) -> Tuple[Counter, int]:
     """
     Compute DF across subreddits' frontpages for n-grams from post titles/previews.
     Returns (docfreq, total_docs) where total_docs = number of frontpage docs considered.
@@ -72,9 +80,52 @@ def build_posts_docfreq(frontpage_paths: List[str], max_ngram: int, posts_extra_
             continue
 
         grams_present: Set[str] = set()
+
+        # Local helpers for post-level language gating
+        def _has_cjk_text(s: str) -> bool:
+            try:
+                return bool(re.search(r"[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uff66-\uff9d]", s or ""))
+            except Exception:
+                return False
+
+        def _has_cyrillic_text(s: str) -> bool:
+            try:
+                return bool(re.search(r"[\u0400-\u04FF]", s or ""))
+            except Exception:
+                return False
+
+        def _has_greek_text(s: str) -> bool:
+            try:
+                return bool(re.search(r"[\u0370-\u03FF]", s or ""))
+            except Exception:
+                return False
+
+        def _nonascii_ratio_text(s: str) -> float:
+            try:
+                s = s or ""
+                if not s:
+                    return 0.0
+                total = len(s)
+                na = len(re.findall(r"[^\x00-\x7F]", s))
+                return (na / total) if total > 0 else 0.0
+            except Exception:
+                return 0.0
+
         for post in posts:
+            # Skip promoted/advertorial posts if configured
+            if skip_promoted and bool(post.get("is_promoted", False)):
+                continue
+
             title = post.get("title", "") or ""
             preview = post.get("content_preview", "") or ""
+            text_for_lang = f"{title} {preview}".strip()
+
+            # Language/script gating for entire post
+            if drop_nonlatin_posts and (_has_cjk_text(text_for_lang) or _has_cyrillic_text(text_for_lang) or _has_greek_text(text_for_lang)):
+                continue
+            if (max_nonascii_ratio is not None) and (max_nonascii_ratio >= 0.0) and (_nonascii_ratio_text(text_for_lang) > float(max_nonascii_ratio)):
+                continue
+
             toks = _tokenize_post_text(title, preview, posts_extra_stopwords)
             grams = tokens_to_ngrams(toks, max_ngram)
             if posts_phrase_stoplist:
@@ -111,6 +162,9 @@ def compute_posts_tfidf_for_frontpage(
     generic_phrase_df_ratio: float = config.DEFAULT_POSTS_GENERIC_PHRASE_DF_RATIO,
     idf_power: float = config.DEFAULT_POSTS_IDF_POWER,
     engagement_alpha: float = config.DEFAULT_POSTS_ENGAGEMENT_ALPHA,
+    skip_promoted: bool = config.DEFAULT_POSTS_SKIP_PROMOTED,
+    drop_nonlatin_posts: bool = config.DEFAULT_POSTS_DROP_NONLATIN_POSTS,
+    max_nonascii_ratio: float = config.DEFAULT_POSTS_MAX_NONASCII_RATIO,
 ) -> Tuple[Counter, Counter]:
     """
     Compute posts TF-IDF with optional engagement blending and IDF damping.
@@ -136,9 +190,51 @@ def compute_posts_tfidf_for_frontpage(
 
     weighted_tf = Counter()
     local_grams_tf = Counter()  # unweighted counts for "ensure phrases" and composition
+    # Local helpers for post-level language gating
+    def _has_cjk_text(s: str) -> bool:
+        try:
+            return bool(re.search(r"[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uff66-\uff9d]", s or ""))
+        except Exception:
+            return False
+
+    def _has_cyrillic_text(s: str) -> bool:
+        try:
+            return bool(re.search(r"[\u0400-\u04FF]", s or ""))
+        except Exception:
+            return False
+
+    def _has_greek_text(s: str) -> bool:
+        try:
+            return bool(re.search(r"[\u0370-\u03FF]", s or ""))
+        except Exception:
+            return False
+
+    def _nonascii_ratio_text(s: str) -> float:
+        try:
+            s = s or ""
+            if not s:
+                return 0.0
+            total = len(s)
+            na = len(re.findall(r"[^\x00-\x7F]", s))
+            return (na / total) if total > 0 else 0.0
+        except Exception:
+            return 0.0
+
     for post in posts:
+        # Skip promoted/advertorial posts if configured
+        if skip_promoted and bool(post.get("is_promoted", False)):
+            continue
+
         title = post.get("title", "") or ""
         preview = post.get("content_preview", "") or ""
+        text_for_lang = f"{title} {preview}".strip()
+
+        # Language/script gating for entire post
+        if drop_nonlatin_posts and (_has_cjk_text(text_for_lang) or _has_cyrillic_text(text_for_lang) or _has_greek_text(text_for_lang)):
+            continue
+        if (max_nonascii_ratio is not None) and (max_nonascii_ratio >= 0.0) and (_nonascii_ratio_text(text_for_lang) > float(max_nonascii_ratio)):
+            continue
+
         toks = _tokenize_post_text(title, preview, posts_extra_stopwords)
         if not toks:
             continue
@@ -232,28 +328,54 @@ def apply_anchored_variants_for_generic_posts_terms(
     anchor_token: str,
     generic_df_ratio: float,
     replace_original_generic: bool = False,
+    anchor_phrase_lower: str = "",
 ) -> Counter:
     """
     For generic terms (high DF ratio) that do not include the anchor token, add an anchored variant:
       e.g., "abusing system" -> "valorant abusing system"
+
+    Behavior:
+    - Prefer a single anchored variant per term.
+    - If an anchor phrase exists and is a spacing/casing normalization of the anchor token
+      (e.g., "trendy topic" vs "trendytopic"), use the phrase and suppress the token form
+      (unless DEFAULT_COMPOSE_ALLOW_TOKEN_WITH_PHRASE=True).
+    - Otherwise, use the token anchor.
+
     Keeps the original score; the anchored variant gets DEFAULT_POSTS_ANCHOR_MULTIPLIER × original_score.
     Optionally drop the original generic term when anchoring (replace_original_generic=True).
     """
     if not posts_scores or not anchor_token:
         return posts_scores
 
+    def _alnum_norm(s: str) -> str:
+        return re.sub(r"[^0-9a-z]+", "", (s or "").lower())
+
+    phrase_norm_eq_token = False
+    if anchor_phrase_lower:
+        try:
+            phrase_norm_eq_token = (_alnum_norm(anchor_phrase_lower) == _alnum_norm(anchor_token))
+        except Exception:
+            phrase_norm_eq_token = False
+
     out = Counter(posts_scores)
     for term, score in posts_scores.items():
         lt = f" {term} "
+        # Skip if already contains the token-anchored form
         if f" {anchor_token} " in lt:
             continue  # already anchored with the subreddit token
         n_words = term.count(" ") + 1
         if n_words >= 3:
             continue  # avoid very long anchored phrases; keep to uni/bi-grams
+
         df = docfreq.get(term, 0)
         df_ratio = (df / total_docs) if total_docs > 0 else 1.0
         if df_ratio >= generic_df_ratio:
-            anchored = f"{anchor_token} {term}"
+            # Choose which anchor to use for this generic term
+            if anchor_phrase_lower and phrase_norm_eq_token and not config.DEFAULT_COMPOSE_ALLOW_TOKEN_WITH_PHRASE:
+                anchored = f"{anchor_phrase_lower} {term}"
+            else:
+                anchored = f"{anchor_token} {term}"
+
             if anchored not in out:
                 out[anchored] = score * config.DEFAULT_POSTS_ANCHOR_MULTIPLIER
             if replace_original_generic and term in out:

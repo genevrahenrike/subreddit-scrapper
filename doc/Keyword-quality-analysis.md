@@ -74,24 +74,18 @@ Based on my comprehensive analysis of your 100k subreddit keyword extraction res
 
 **Solution:** Pattern-based filtering of URLs, domains, technical artifacts
 
-### **4. Over-Aggressive Composition (Priority: MEDIUM)**
+### **4. Over-Aggressive Composition (Priority: LOW)**
 **Problem:** Some composed phrases are mechanical/fragmented
 - `r/funny`: "funny happens die black phone" (disconnected fragments)
 - **Impact:** Clutters results with low-quality phrases
 - User comment: while a valid point, search terms are often unnatural and crap-shotting in stacking keywords, so this is not entirely unacceptable, but below we will look into embedding results to see how it could have helped
 
-**Solution:** Coherence scoring for composed phrases
 
 ---
-Great question! Let me investigate whether the embedding reranking helps identify and filter out mechanical/unnatural compositions. I'll analyze this by comparing the composed phrases between v22 and v22_embed versions to see if embedding reranking demotes unnatural compositions. 
 
-Made changes.
+## **🎯 DEEP-DIVE: EMBEDDING IMPACT ON MECHANICAL COMPOSITIONS - ANALYSIS RESULTS**
 
-Excellent! The analysis provides clear evidence about the embedding's impact. Let me also look at some specific examples to better understand the patterns: Perfect! Let me also check what the original post was that created this mechanical phrase: Now I have a complete picture! Let me create a comprehensive answer:
-
-## **🎯 EMBEDDING IMPACT ON MECHANICAL COMPOSITIONS - ANALYSIS RESULTS**
-
-Based on my detailed analysis of 4,999 subreddit comparisons between v22 and v22_embed versions, here's what I found:
+Based on my analysis of 4,999 subreddit comparisons between v22 and v22_embed versions, here's what I found:
 
 ### **✅ YES - Embeddings DO Help Filter Mechanical Compositions**
 

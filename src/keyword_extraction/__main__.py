@@ -44,7 +44,7 @@ import sys
 import hashlib
 from collections import Counter
 from glob import glob
-from typing import Dict, List, Optional, Set
+from typing import Dict, List, Optional, Set, Tuple
 
 from . import config
 from .composition import (
@@ -78,6 +78,104 @@ from .subreddit_data import (
 )
 from .text_utils import tokens_to_ngrams
 
+# Cleaning helpers (programmatic; no curated lists)
+_NON_ASCII_RE = re.compile(r"[^\x00-\x7F]")
+_CJK_RE = re.compile(r"[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uff66-\uff9d]")
+_CYRILLIC_RE = re.compile(r"[\u0400-\u04FF]")
+_GREEK_RE = re.compile(r"[\u0370-\u03FF]")
+_NONALNUM_RE = re.compile(r"[^0-9A-Za-z]+")
+_SPACE_RE = re.compile(r"\s+")
+
+def _collapse_adjacent_duplicates(term: str) -> str:
+    if not term:
+        return term
+    toks = _SPACE_RE.split(term.strip())
+    out = []
+    prev = None
+    for tok in toks:
+        key = tok.lower()
+        if key and key != prev:
+            out.append(tok)
+        prev = key
+    return " ".join(out)
+
+def _normalize_for_dedupe(term: str) -> str:
+    t = (term or "").lower().strip()
+    return _NONALNUM_RE.sub("", t)
+
+def _has_cjk(s: str) -> bool:
+    return bool(_CJK_RE.search(s or ""))
+
+def _has_cyrillic(s: str) -> bool:
+    return bool(_CYRILLIC_RE.search(s or ""))
+
+def _has_greek(s: str) -> bool:
+    return bool(_GREEK_RE.search(s or ""))
+
+def _nonascii_ratio(s: str) -> float:
+    s = s or ""
+    if not s:
+        return 0.0
+    total = len(s)
+    na = len(_NON_ASCII_RE.findall(s))
+    return (na / total) if total > 0 else 0.0
+
+def _rank_source(src_val: str) -> int:
+    order = ["posts_composed", "posts", "description", "name"]
+    parts = (src_val or "").split("+")
+    best = 999
+    for p in parts:
+        try:
+            idx = order.index(p)
+            if idx < best:
+                best = idx
+        except ValueError:
+            pass
+    return best
+
+def _clean_merge_dict(
+    merged: Dict[str, Tuple[float, str]],
+    drop_nonlatin: bool,
+    max_nonascii_ratio: float,
+    collapse_adj: bool,
+    dedupe_near: bool,
+) -> Dict[str, Tuple[float, str]]:
+    if not merged:
+        return merged
+    # sort by score desc
+    items = sorted(merged.items(), key=lambda kv: kv[1][0], reverse=True)
+    out: Dict[str, Tuple[float, str]] = {}
+    chosen: Dict[str, str] = {}  # dkey -> term kept
+    for term, (score, src) in items:
+        t = term
+        if collapse_adj:
+            t = _collapse_adjacent_duplicates(t)
+        if drop_nonlatin:
+            if _has_cjk(t) or _has_cyrillic(t) or _has_greek(t):
+                continue
+        if max_nonascii_ratio is not None and max_nonascii_ratio >= 0.0:
+            if _nonascii_ratio(t) > max_nonascii_ratio:
+                continue
+        if dedupe_near:
+            dkey = _normalize_for_dedupe(t)
+            if not dkey:
+                continue
+            if dkey in chosen:
+                kept_term = chosen[dkey]
+                kept_score = out[kept_term][0]
+                if score > kept_score or (abs(score - kept_score) < 1e-9 and _rank_source(src) < _rank_source(out[kept_term][1])):
+                    # replace
+                    del out[kept_term]
+                    out[t] = (score, src)
+                    chosen[dkey] = t
+                else:
+                    continue
+            else:
+                out[t] = (score, src)
+                chosen[dkey] = t
+        else:
+            out[t] = (score, src)
+    return out
 
 def process_inputs(
     input_paths: List[str],
@@ -102,6 +200,10 @@ def process_inputs(
     posts_drop_generic_unigrams: bool = False,
     posts_phrase_stoplist_path: Optional[str] = None,
     posts_replace_generic_with_anchored: bool = False,
+    # Posts source decontamination
+    posts_skip_promoted: bool = config.DEFAULT_POSTS_SKIP_PROMOTED,
+    posts_drop_nonlatin_posts: bool = config.DEFAULT_POSTS_DROP_NONLATIN_POSTS,
+    posts_max_nonascii_ratio: float = config.DEFAULT_POSTS_MAX_NONASCII_RATIO,
     posts_theme_penalty: float = 0.65,
     posts_theme_top_desc_k: int = 6,
     # Composed anchored variants (optional)
@@ -136,6 +238,11 @@ def process_inputs(
     compose_anchor_max_per_sub: int = config.DEFAULT_COMPOSE_ANCHOR_MAX_PER_SUB,
     compose_anchor_min_base_score: float = config.DEFAULT_COMPOSE_ANCHOR_MIN_BASE_SCORE,
     compose_anchor_max_ratio: float = config.DEFAULT_COMPOSE_ANCHOR_MAX_RATIO,
+    # Term cleanup (optional)
+    clean_collapse_adj_dups: bool = True,
+    clean_dedupe_near: bool = True,
+    drop_nonlatin: bool = False,
+    max_nonascii_ratio: float = -1.0,
     # Resumability and caching
     resume: bool = False,
     overwrite: bool = False,
@@ -163,35 +270,17 @@ def process_inputs(
     posts_extra_stopwords_set: Set[str] = set()
     if posts_stopwords_extra_path:
         try:
-            with open(posts_stopwords_extra_path, "r", encoding="utf-8") as f:
-                for line in f:
-                    # allow comments and comma/space separated entries
-                    line = line.strip()
-                    if not line or line.startswith("#"):
-                        continue
-                    for tok in re.split(r"[,\s]+", line):
-                        tok = tok.strip().lower()
-                        if tok and not tok.startswith("#"):
-                            posts_extra_stopwords_set.add(tok)
-            print(f"[posts:stopwords] loaded {len(posts_extra_stopwords_set)} extra posts stopwords from {posts_stopwords_extra_path}", file=sys.stderr)
-        except Exception as e:
-            print(f"[posts:stopwords] failed to load extra stopwords from {posts_stopwords_extra_path}: {e}", file=sys.stderr)
+            print(f"[posts:stopwords] --posts-stopwords-extra is deprecated and ignored; relying on DF/Zipf/dynamic filters.", file=sys.stderr)
+        except Exception:
+            pass
 
-    # Optional: load posts phrase stoplist (bigrams/trigrams to exclude)
+    # Deprecated: manual posts phrase stoplist is ignored; rely on DF-based generic pruning
     posts_phrase_stoplist_set: Set[str] = set()
     if posts_phrase_stoplist_path:
         try:
-            with open(posts_phrase_stoplist_path, "r", encoding="utf-8") as f:
-                for line in f:
-                    line = line.strip().lower()
-                    if not line or line.startswith("#"):
-                        continue
-                    # normalize internal whitespace
-                    line = re.sub(r"\s+", " ", line)
-                    posts_phrase_stoplist_set.add(line)
-            print(f"[posts:phrases] loaded {len(posts_phrase_stoplist_set)} stoplist phrase(s) from {posts_phrase_stoplist_path}", file=sys.stderr)
-        except Exception as e:
-            print(f"[posts:phrases] failed to load phrase stoplist from {posts_phrase_stoplist_path}: {e}", file=sys.stderr)
+            print(f"[posts:phrases] --posts-phrase-stoplist is deprecated and ignored; using DF-based generic pruning instead.", file=sys.stderr)
+        except Exception:
+            pass
 
     # Subject whitelist removed in v2: composition now uses local post grams (no editorial list)
     compose_subjects_set: Set[str] = set()
@@ -226,7 +315,15 @@ def process_inputs(
                 delta_paths = [frontpage_index[k] for k in sorted(delta_keys) if k in frontpage_index]
                 if delta_paths:
                     print(f"[posts:pass1] extending posts docfreq with {len(delta_paths):,} new frontpage(s) ...", file=sys.stderr)
-                    delta_df, delta_docs = build_posts_docfreq(delta_paths, max_ngram, posts_extra_stopwords_set, posts_phrase_stoplist_set)
+                    delta_df, delta_docs = build_posts_docfreq(
+                        delta_paths,
+                        max_ngram,
+                        posts_extra_stopwords_set,
+                        posts_phrase_stoplist_set,
+                        skip_promoted=posts_skip_promoted,
+                        drop_nonlatin_posts=posts_drop_nonlatin_posts,
+                        max_nonascii_ratio=posts_max_nonascii_ratio,
+                    )
                     posts_total_docs += delta_docs
                     posts_docfreq.update(delta_df)
                     cached_keys_set |= set(delta_keys)
@@ -243,7 +340,15 @@ def process_inputs(
                             print(f"[posts:pass1] failed to update posts DF cache {posts_df_cache_path}: {e}", file=sys.stderr)
         if not loaded_posts_df:
             print(f"[posts:pass1] building posts docfreq over glob={frontpage_glob!r} ...", file=sys.stderr)
-            posts_docfreq, posts_total_docs = build_posts_docfreq(frontpage_paths, max_ngram, posts_extra_stopwords_set, posts_phrase_stoplist_set)
+            posts_docfreq, posts_total_docs = build_posts_docfreq(
+                frontpage_paths,
+                max_ngram,
+                posts_extra_stopwords_set,
+                posts_phrase_stoplist_set,
+                skip_promoted=posts_skip_promoted,
+                drop_nonlatin_posts=posts_drop_nonlatin_posts,
+                max_nonascii_ratio=posts_max_nonascii_ratio,
+            )
             print(f"[posts:pass1] total_frontpages={posts_total_docs:,}, unique_terms={len(posts_docfreq):,}", file=sys.stderr)
             if posts_df_cache_path:
                 try:
@@ -421,6 +526,17 @@ def process_inputs(
                             fp_data = None
 
                         if fp_data:
+                            # Early anchor phrase derivation from meta.title (for anchored generics gating)
+                            title_str = ""
+                            if compose_anchor_use_title:
+                                try:
+                                    title_str = ((fp_data.get("meta") or {}).get("title") or "").strip()
+                                except Exception:
+                                    title_str = ""
+                            if title_str:
+                                anchor_title_for_display = title_str
+                                anchor_phrase_lower = _normalize_anchor_phrase_from_title(title_str)
+
                             posts_scores, posts_local_tf = compute_posts_tfidf_for_frontpage(
                                 fp_data,
                                 posts_docfreq,
@@ -438,6 +554,9 @@ def process_inputs(
                                 posts_generic_df_ratio,
                                 idf_power=posts_idf_power,
                                 engagement_alpha=posts_engagement_alpha,
+                                skip_promoted=posts_skip_promoted,
+                                drop_nonlatin_posts=posts_drop_nonlatin_posts,
+                                max_nonascii_ratio=posts_max_nonascii_ratio,
                             )
 
                             # Anchored variants for generics
@@ -460,6 +579,7 @@ def process_inputs(
                                         anchor,
                                         posts_generic_df_ratio,
                                         replace_original_generic=posts_replace_generic_with_anchored,
+                                        anchor_phrase_lower=(anchor_phrase_lower or ""),
                                     )
     
                                 # Compose theme-anchored variants from top seed phrases
@@ -560,6 +680,18 @@ def process_inputs(
                         k_terms=embed_k_terms,
                         candidate_pool=embed_candidate_pool,
                     )
+                # Term-level cleanup (programmatic; optional)
+                if (clean_collapse_adj_dups or clean_dedupe_near or drop_nonlatin or (max_nonascii_ratio is not None and max_nonascii_ratio >= 0.0)):
+                    try:
+                        merged = _clean_merge_dict(
+                            merged,
+                            drop_nonlatin=drop_nonlatin,
+                            max_nonascii_ratio=float(max_nonascii_ratio),
+                            collapse_adj=bool(clean_collapse_adj_dups),
+                            dedupe_near=bool(clean_dedupe_near),
+                        )
+                    except Exception:
+                        pass
 
                 # Optional local LLM theme summary (env: LLM_SUMMARY=1, LLM_SUMMARY_LIMIT, LLM_MODEL)
                 theme_summary_val = ""
@@ -671,14 +803,30 @@ def main():
     ap.add_argument("--posts-halflife-days", type=float, default=config.DEFAULT_POSTS_HALFLIFE_DAYS, help="Recency halflife in days for posts weighting")
     ap.add_argument("--posts-generic-df-ratio", type=float, default=config.DEFAULT_POSTS_GENERIC_DF_RATIO, help="DF ratio threshold for considering a posts term 'generic'")
     ap.add_argument("--posts-ensure-k", type=int, default=config.DEFAULT_ENSURE_PHRASES_K, help="Ensure up to K local bigrams/trigrams per frontpage even if pruned by global DF")
-    ap.add_argument("--posts-stopwords-extra", type=str, default=None, help="Path to newline-delimited file of extra stopwords to apply only to posts tokenization")
+    ap.add_argument("--posts-stopwords-extra", type=str, default=None, help="Deprecated: ignored. Rely on DF/Zipf/dynamic filters; no curated extras.")
     ap.add_argument("--posts-phrase-boost-bigram", type=float, default=config.DEFAULT_POSTS_PHRASE_BOOST_BIGRAM, help="Phrase boost for bigrams in posts TF-IDF")
     ap.add_argument("--posts-phrase-boost-trigram", type=float, default=config.DEFAULT_POSTS_PHRASE_BOOST_TRIGRAM, help="Phrase boost for trigrams in posts TF-IDF")
     ap.add_argument("--posts-drop-generic-unigrams", action="store_true", help="Drop unigram posts terms whose global DF ratio >= --posts-generic-df-ratio")
+
+    # Posts source decontamination toggles
+    g_sp = ap.add_mutually_exclusive_group()
+    g_sp.add_argument("--posts-skip-promoted", dest="posts_skip_promoted", action="store_true", default=config.DEFAULT_POSTS_SKIP_PROMOTED, help="Skip promoted/advertorial posts in posts DF and TF-IDF (default on)")
+    g_sp.add_argument("--no-posts-skip-promoted", dest="posts_skip_promoted", action="store_false", help="Do not skip promoted/advertorial posts")
+    ap.add_argument("--posts-drop-nonlatin", dest="posts_drop_nonlatin_posts", action="store_true", default=config.DEFAULT_POSTS_DROP_NONLATIN_POSTS, help="Drop entire posts whose text contains CJK/Cyrillic/Greek scripts")
+    ap.add_argument("--posts-max-nonascii-ratio", type=float, default=config.DEFAULT_POSTS_MAX_NONASCII_RATIO, help="Drop entire posts if non-ASCII char ratio exceeds this (negative disables)")
+
     ap.add_argument("--posts-theme-penalty", type=float, default=0.65, help="Multiplier to apply to posts terms with zero overlap to subreddit theme tokens (name + top description terms)")
     ap.add_argument("--posts-theme-top-desc-k", type=int, default=6, help="How many top description terms to include when forming the theme token set")
     ap.add_argument("--include-content-preview", action="store_true", help="Include posts.content_preview in tokenization (off by default)")
-
+    # Term cleanup / non-Latin filters (programmatic; no curated lists)
+    g_cc = ap.add_mutually_exclusive_group()
+    g_cc.add_argument("--clean-collapse-adj-dups", dest="clean_collapse_adj_dups", action="store_true", default=True, help="Collapse adjacent duplicate words in terms (default on)")
+    g_cc.add_argument("--no-clean-collapse-adj-dups", dest="clean_collapse_adj_dups", action="store_false", help="Do not collapse adjacent duplicate words in terms")
+    g_dn = ap.add_mutually_exclusive_group()
+    g_dn.add_argument("--clean-dedupe-near", dest="clean_dedupe_near", action="store_true", default=True, help="Dedupe near-identical terms by normalized form (default on)")
+    g_dn.add_argument("--no-clean-dedupe-near", dest="clean_dedupe_near", action="store_false", help="Do not dedupe near-identical terms by normalized form")
+    ap.add_argument("--drop-nonlatin", action="store_true", default=False, help="Drop terms containing CJK/Cyrillic/Greek scripts (default off)")
+    ap.add_argument("--max-nonascii-ratio", type=float, default=-1.0, help="Drop term if non-ASCII char ratio exceeds this (negative disables)")
     # New scoring controls
     ap.add_argument("--desc-idf-power", type=float, default=config.DEFAULT_DESC_IDF_POWER, help="Raise description IDF to this power (0..1 dampens DF influence)")
     ap.add_argument("--posts-idf-power", type=float, default=config.DEFAULT_POSTS_IDF_POWER, help="Raise posts IDF to this power (0..1 dampens DF influence)")
@@ -691,7 +839,7 @@ def main():
     ap.add_argument("--embed-k-terms", type=int, default=config.DEFAULT_EMBED_K_TERMS, help="Rerank top-K terms by embeddings")
     ap.add_argument("--embed-candidate-pool", type=str, default=config.DEFAULT_EMBED_CANDIDATE_POOL, choices=["union", "posts", "posts_composed", "desc", "non_name"], help="Subset of terms eligible for reranking")
 
-    ap.add_argument("--posts-phrase-stoplist", type=str, default=None, help="Path to newline-delimited file of phrases (bigrams/trigrams) to exclude from posts tokenization/DF")
+    ap.add_argument("--posts-phrase-stoplist", type=str, default=None, help="Deprecated: ignored. Programmatic DF-based generic pruning is used (see DEFAULT_POSTS_DROP_GENERIC_PHRASES/ratio).")
     ap.add_argument("--posts-replace-generic-with-anchored", action="store_true", help="When anchoring generic uni/bi-grams, drop the original unanchored term")
     ap.add_argument("--no-posts-anchor-generics", action="store_true", help="Disable adding anchored variants for generic posts terms")
 
@@ -716,6 +864,22 @@ def main():
     ap.add_argument("--compose-subjects-path", type=str, default=None, help="Deprecated: subject whitelist is ignored")
     ap.add_argument("--compose-subjects-bonus", type=float, default=config.DEFAULT_COMPOSE_SUBJECTS_BONUS, help="Deprecated: unused")
 
+    # Preference: allow token-anchored variants alongside phrase-anchored when phrase is a normalization of token
+    g_tokpref = ap.add_mutually_exclusive_group()
+    g_tokpref.add_argument(
+        "--compose-allow-token-with-phrase",
+        dest="compose_allow_token_with_phrase",
+        action="store_true",
+        default=config.DEFAULT_COMPOSE_ALLOW_TOKEN_WITH_PHRASE,
+        help="Allow emitting token-anchored variants when a normalized phrase anchor exists (default off)",
+    )
+    g_tokpref.add_argument(
+        "--no-compose-allow-token-with-phrase",
+        dest="compose_allow_token_with_phrase",
+        action="store_false",
+        help="Suppress token-anchored variants when a normalized phrase anchor exists (default behavior)",
+    )
+
     args = ap.parse_args()
 
     if args.input_file:
@@ -732,6 +896,11 @@ def main():
         pass
     if args.include_content_preview:
         config.DEFAULT_INCLUDE_CONTENT_PREVIEW = True
+    # Apply composition token/phrase preference globally
+    try:
+        config.DEFAULT_COMPOSE_ALLOW_TOKEN_WITH_PHRASE = bool(args.compose_allow_token_with_phrase)
+    except Exception:
+        pass
 
     # Guard against huge memory by processing only selected files; each page file is small.
     process_inputs(
@@ -754,6 +923,9 @@ def main():
         posts_phrase_boost_bigram=args.posts_phrase_boost_bigram,
         posts_phrase_boost_trigram=args.posts_phrase_boost_trigram,
         posts_drop_generic_unigrams=args.posts_drop_generic_unigrams,
+        posts_skip_promoted=args.posts_skip_promoted,
+        posts_drop_nonlatin_posts=args.posts_drop_nonlatin_posts,
+        posts_max_nonascii_ratio=args.posts_max_nonascii_ratio,
         posts_theme_penalty=args.posts_theme_penalty,
         posts_theme_top_desc_k=args.posts_theme_top_desc_k,
         compose_anchor_posts=(not args.no_compose_anchor_posts),
@@ -783,6 +955,11 @@ def main():
         compose_anchor_max_per_sub=args.compose_anchor_max_per_sub,
         compose_anchor_min_base_score=args.compose_anchor_min_base_score,
         compose_anchor_max_ratio=args.compose_anchor_max_ratio,
+        # term cleanup
+        clean_collapse_adj_dups=args.clean_collapse_adj_dups,
+        clean_dedupe_near=args.clean_dedupe_near,
+        drop_nonlatin=args.drop_nonlatin,
+        max_nonascii_ratio=args.max_nonascii_ratio,
         # resumability & caches
         resume=args.resume,
         overwrite=args.overwrite,
