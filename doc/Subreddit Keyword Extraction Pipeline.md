@@ -721,3 +721,70 @@ Where to look in code
 - CLI and cleanup integration: [__main__.py](src/keyword_extraction/__main__.py:1)
 - Runner with new knobs: [scripts/run_keywords_10k.sh](scripts/run_keywords_10k.sh:1)
 - Post-processor (streamed DF + cleanup): [scripts/clean_keywords_post.py](scripts/clean_keywords_post.py:1)
+
+## 10. v2.5 Operational updates: robust resume, no-empty outputs, and range-based incremental runner
+
+Motivation
+- Previous passes could leave zero-byte or placeholder per-page outputs, which then caused --resume to skip reprocessing incorrectly.
+- Incremental staging benefits from selecting page ranges directly from existing output/pages/page_*.json and repairing stale outputs automatically.
+
+What changed (code anchors)
+- Valid resume checks (no more skipping on empty files)
+  - Resume now skips only when an existing output contains at least one valid JSON object line. Zero-byte or non-JSON placeholder files are treated as invalid and forced to recompute.
+  - Logic: [_is_valid_output_file()](src/keyword_extraction/__main__.py:138), applied in the resume check at [__main__.process_inputs()](src/keyword_extraction/__main__.py:441).
+
+- No empty outputs are created
+  - If a page yields zero subreddits passing filters (e.g., --require-frontpage), the pipeline does not create an empty output file. Temporary .tmp is deleted and any prior zero-byte placeholder is removed.
+  - Finalize behavior: see [__main__.process_inputs()](src/keyword_extraction/__main__.py:886).
+
+- Incremental runner with page-range subset + stale output repair
+  - New/updated runner: [scripts/run_keywords_overnight_coreext_150k.sh](scripts/run_keywords_overnight_coreext_150k.sh:1).
+  - Supports three modes to choose input pages:
+    1) Positional glob:
+       ./scripts/run_keywords_overnight_coreext_150k.sh 'output/pages/page_1001.json'
+    2) Env glob:
+       export NEW_PAGE_GLOB='output/pages/page_1001.json'
+       ./scripts/run_keywords_overnight_coreext_150k.sh
+    3) Page range over existing chunked pages:
+       START_PAGE=1001 END_PAGE=1200 ./scripts/run_keywords_overnight_coreext_150k.sh
+       - Optional PAGES_DIR (default output/pages) and SUBSET_ROOT (default output/pages_subset)
+       - The script builds a subset directory of symlinks/copies and runs the pipeline with --extend-df-caches and --require-frontpage.
+
+  - Stale output repair (pre-run)
+    - When REPAIR_BAD_OUTPUTS=1 (default), the runner removes any per-page outputs that are zero-byte or have no JSON lines before invoking the pipeline, so those pages will be recomputed instead of being skipped by --resume.
+    - See the repair block at [scripts/run_keywords_overnight_coreext_150k.sh](scripts/run_keywords_overnight_coreext_150k.sh:84).
+
+Incremental usage (examples)
+- Range-based (recommended, frontpage-backed subset):
+  ```
+  START_PAGE=401 END_PAGE=600 REPAIR_BAD_OUTPUTS=1 \
+  ./scripts/run_keywords_overnight_coreext_150k.sh
+  ```
+  - This constructs a subset from output/pages/page_401..page_600.json, repairs stale outputs in the target OUT_DIR, and runs:
+    - --require-frontpage
+    - --extend-df-caches
+    - --emit-core-extended (core=name+description, extended=posts+posts_composed)
+    - --resume and all tuned knobs
+  - Output directory default: output/keywords_10k_v24_k100_coreext
+
+- Explicit glob:
+  ```
+  REPAIR_BAD_OUTPUTS=1 ./scripts/run_keywords_overnight_coreext_150k.sh 'output/pages/page_401.json'
+  ```
+
+Why this is robust
+- DF caches
+  - Posts DF extension merges only unseen frontpage keys (delta) even if overlapped pages are passed, avoiding double counting. See [__main__.process_inputs()](src/keyword_extraction/__main__.py:316).
+  - Description DF cache, when present and not --overwrite, is loaded as-is and is not merge-added in this flow; no double-count risk. See [__main__.process_inputs()](src/keyword_extraction/__main__.py:381).
+- Expected tapering at higher ranks
+  - With --require-frontpage, later page_N files will gradually contain fewer subreddits having a scraped frontpage.json, so per-page “records written” naturally declines and may hit 0. This is correct behavior (filtering to the frontpage-backed subset).
+
+Embedding-only note (CLI surface)
+- The current CLI requires one of --input-file or --input-glob. A standalone “embed-only input dir” flag is not exposed at present; any embedding rerank should be performed within a normal baseline run by passing --embed-rerank and related flags.
+- Embedding controls: [embedding.embed_rerank_terms()](src/keyword_extraction/embedding.py:101), device selection at [embedding._select_device()](src/keyword_extraction/embedding.py:29). To enable GPU on Apple Silicon: set EMBED_DEVICE=mps and (optionally) EMBED_BATCH_SIZE.
+
+Summary of v2.5 operational behavior
+- Resume only skips truly valid outputs; zero-byte/placeholder files are recomputed.
+- No empty outputs are created when zero records are produced for a page.
+- Range-based incremental runner selects input pages directly from output/pages chunk files; optional pre-run repair removes stale outputs to unblock recomputation.
+- Posts DF extend remains additive and safe against double counting; description DF cache loads as-is unless intentionally rebuilt.
