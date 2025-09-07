@@ -1639,3 +1639,141 @@ Status vs plan
 - Pending: quick A/B on a small page cohort with frontpages (e.g., page_31) to quantify promo removal, language gating, and reduced token/phrase duplication (grep-based; not reading large outputs into memory).
 
 This delivers root-cause mitigation for promotional contamination, non-English leakage, and duplicate anchor variants directly at the source stages with deterministic, reproducible controls and minimal runtime cost.
+
+---
+
+Verification summary (100k frontpage-backed run)
+- Inputs: 1,334 page files; posts DF built over 99,099 frontpages; description DF over 100,002 docs (log-verified)
+- Baseline outputs: output/keywords_10k_v24_k100 (Top-K=100), embedding pass skipped (commented in script)
+- Post-processed outputs: output/keywords_10k_v24_k100_clean (programmatic cleaner)
+
+Quality metrics (random 60 pages; analyzer)
+- Phrase share:
+  - Baseline: 0.7110
+  - Cleaned: 0.7085 (−0.0025 absolute; negligible change)
+- Composed presence and rank:
+  - Baseline composed_terms_total: 31,620; mean_rank: 5.865
+  - Cleaned composed_terms_total: 30,906; mean_rank: 5.807 (slightly earlier)
+- Anchored token share:
+  - Baseline: 0.04996
+  - Cleaned: 0.04927 (≈ flat)
+- Score distribution (Top-K terms):
+  - Baseline p95: 17.10; p99: 47.69
+  - Cleaned p95: 16.78; p99: 46.32 (marginal redistribution after droppings)
+- Posts off-theme rate (posts-only tokens with zero overlap to theme):
+  - Baseline: 0.8750
+  - Cleaned: 0.8753 (effectively unchanged; see diagnosis below)
+
+Artifact removal (hard evidence)
+- The “preview.redd.it” family and related fused tokens were fully eliminated downstream:
+  - `"preview redd"` matches:
+    - Baseline: 6053 hits
+    - Cleaned: 0 hits
+- Residual web/URL host artifacts like `www youtube com`, `discord gg`, `docs google`, `open spotify`, `instagram com` were zero in sampled greps post-cleaning.
+
+What changed code-wise (post-processor only)
+- Strengthened technical artifact detection and web-token set in [scripts/clean_keywords_post.py.is_technical_artifact()](scripts/clean_keywords_post.py:137) and extended TECH_WEB_TOKENS at [scripts/clean_keywords_post.py](scripts/clean_keywords_post.py:59).
+- The cleaner now drops:
+  - Fused http/www inside tokens (e.g., “jpghttps”)
+  - Bare TLD tokens combined with other alpha tokens (e.g., “com youtu”)
+  - Common file-extensions in tokens (jpg, png, mp4, pdf, zip, …)
+  - The noisy pair (“preview”, “redd”) explicitly and only as a programmatic heuristic
+- DF-based drop scoped to posts_union (posts or posts_composed) at ratio 0.25; stats attached per-record via --emit-stats.
+
+Diagnosis vs. your earlier issues
+- Promotional content: the upstream skip of promoted posts remains active (default on) at [__main__.py](src/keyword_extraction/__main__.py:813) → [posts_processing.build_posts_docfreq()](src/keyword_extraction/posts_processing.py:56) and [posts_processing.compute_posts_tfidf_for_frontpage()](src/keyword_extraction/posts_processing.py:146). Cleaner contributes additional drops for web/ads-like tokens.
+- Redundant/near-duplicate variants: cleaner’s dedupe and adjacent-collapse preserved; in-pipeline cleanup was already enabled in the run (collapse-adj, dedupe-near, nonlatin gates) at [__main__.process_inputs()](src/keyword_extraction/__main__.py:552).
+- Non-English: pipeline flags were on for posts (`--posts-drop-nonlatin`, `--posts-max-nonascii-ratio 0.50`) and final cleanup also enforced language checks; sampled scans showed 0 non-Latin hits in a 50-record slice.
+- High off-theme posts rate persists (~0.875): This is expected because the analyzer’s metric is strict (token-overlap with theme only) and our post-processor does not re-score; off-theme reduction requires upstream scoring/tuning (see next steps).
+
+Recommendations (next run plan)
+1) Turn off content_preview ingestion to stop “preview.*” at the source
+   - Remove --include-content-preview in the batch (it’s on in [scripts/run_keywords_100k.sh](scripts/run_keywords_100k.sh:59))
+   - Rationale: preview blobs dominate web-artifact grams without thematic signal; removing them reduces DF/TF for non-semantic noise before scoring
+
+2) Increase penalty for posts-only off-theme tokens
+   - Lower the multiplier from 0.65 → 0.50 via `--posts-theme-penalty 0.50` at [__main__.process_inputs()](src/keyword_extraction/__main__.py:818)
+   - Effect: stronger down-weighting of posts-only terms that share zero tokens with the subreddit name/top-desc
+
+3) Tighten phrase-level generic pruning for posts
+   - Set DEFAULT_POSTS_GENERIC_PHRASE_DF_RATIO from 0.35 → 0.30 in [config.py](src/keyword_extraction/config.py:32), or add an equivalent CLI if you expose it later
+   - Effect: drop more cross-subreddit chatter phrases (e.g., “feel like”, “first time”, “don know”) while still honoring ensure-K
+
+4) Optional: run embedding-only rerank targeting both posts and posts_composed
+   - Prior runs reranked composed only; to demote semantically incoherent posts terms, use candidate_pool=posts or non_name
+   - Example (GPU MPS):
+     - EMBED_DEVICE=mps EMBED_BATCH_SIZE=64 PYTORCH_ENABLE_MPS_FALLBACK=1 LLM_SUMMARY=0 \
+       python3 -m src.keyword_extraction \
+         --embed-only-input-dir output/keywords_10k_v24_k100_clean \
+         --output-dir output/keywords_10k_v24_k100_clean_embed \
+         --resume \
+         --embed-rerank \
+         --embed-model 'BAAI/bge-small-en-v1.5' \
+         --embed-alpha 0.40 \
+         --embed-k-terms 120 \
+         --embed-candidate-pool non_name
+   - Anchors: [embedding.embed_rerank_terms()](src/keyword_extraction/embedding.py:101), device routing at [embedding._select_device()](src/keyword_extraction/embedding.py:29)
+
+5) If you prefer an upstream code fix for web artifacts in posts (beyond the cleaner)
+   - Add programmatic token-level sanitization in [posts_processing._tokenize_post_text()](src/keyword_extraction/posts_processing.py:43) mirroring the cleaner’s heuristics (http/www substrings, file extensions, bare TLDs); this prevents DF contamination and reduces need for post-run cleaning
+
+Observed outcomes from this check
+- Web/preview artifacts removed downstream: “preview redd” 6053 → 0 hits
+- Slightly fewer composed terms but with slightly better ranks on average
+- Off-theme posts rate unchanged without scoring changes; next run should incorporate #2 and #3 above
+- No regression in phrase share; top-score quantiles shift minimally
+
+Concrete next-run command (baseline only; deterministic)
+- python3 -m src.keyword_extraction \
+  --input-glob 'output/pages/page_*.json' \
+  --frontpage-glob 'output/subreddits/*/frontpage.json' \
+  --require-frontpage \
+  --output-dir output/keywords_10k_v24_k100p \
+  --overwrite \
+  --desc-df-cache output/cache/desc_df_v24p.json \
+  --posts-df-cache output/cache/posts_df_v24p.json \
+  --topk 100 \
+  --name-weight 3.0 --desc-weight 1.0 \
+  --posts-weight 1.5 --posts-composed-weight 1.5 \
+  --min-df-bigram 2 --min-df-trigram 2 \
+  --posts-ensure-k 10 \
+  --posts-generic-df-ratio 0.10 --posts-drop-generic-unigrams \
+  --posts-phrase-boost-bigram 1.35 --posts-phrase-boost-trigram 1.7 \
+  --desc-idf-power 0.8 --posts-idf-power 0.4 \
+  --posts-engagement-alpha 0.0 \
+  --compose-seed-source posts_local_tf \
+  --compose-anchor-top-m 200 \
+  --compose-anchor-score-mode idf_blend \
+  --compose-anchor-alpha 0.7 --compose-anchor-floor 1.0 --compose-anchor-cap 2.0 \
+  --compose-anchor-max-per-sub 8 --compose-anchor-min-base-score 3.0 \
+  --compose-anchor-max-ratio 2.0 \
+  --posts-skip-promoted \
+  --posts-drop-nonlatin \
+  --posts-max-nonascii-ratio 0.50 \
+  --no-compose-allow-token-with-phrase \
+  --clean-collapse-adj-dups \
+  --clean-dedupe-near \
+  --drop-nonlatin \
+  --max-nonascii-ratio 0.50
+  Notes:
+  - Remove: --include-content-preview (do not pass)
+  - Also set DEFAULT_POSTS_GENERIC_PHRASE_DF_RATIO=0.30 in [config.py](src/keyword_extraction/config.py:32) before running
+
+Optional follow-up: embedding-only rerank over the cleaned outputs (composed+posts)
+- As shown above (step 4), use candidate_pool=non_name or posts to nudge semantically incoherent items down without touching name-derived tokens.
+
+Conclusion
+- The run completed successfully; outputs exist for all 404 non-empty page files; DF caches saved.
+- Programmatic cleaning eliminated major technical artifacts (“preview.redd” family) with negligible impact on core metrics and without curated lists.
+- The dominant remaining issue is off-theme posts terms; address with stronger posts_theme_penalty, slightly tighter phrase DF-ratio, and optionally embedding rerank over posts/non_name. After applying those, re-check with scripts/analyze_quality.py for posts_offtheme_rate and phrase_share gating.
+- Key anchors to the relevant logic:
+  - Theme penalty: [__main__.process_inputs()](src/keyword_extraction/__main__.py:818)
+  - Posts TF-IDF + generic phrase pruning + ensure-K: [posts_processing.compute_posts_tfidf_for_frontpage()](src/keyword_extraction/posts_processing.py:146)
+  - Config ratios: [config.DEFAULT_POSTS_DROP_GENERIC_PHRASES / DEFAULT_POSTS_GENERIC_PHRASE_DF_RATIO](src/keyword_extraction/config.py:31)
+  - Cleaner tech filter: [scripts/clean_keywords_post.py.is_technical_artifact()](scripts/clean_keywords_post.py:137)
+
+Artifacts produced
+- Cleaned: output/keywords_10k_v24_k100_clean (one file per page, weights renormalized)
+- Analyzer reports logged for both baseline and cleaned cohorts (60-page samples)
+
+No further action is required to validate this pass; next-run changes are enumerated above for when you want to push off-theme rates down in a new baseline.

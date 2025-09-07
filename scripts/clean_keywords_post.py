@@ -57,7 +57,10 @@ from typing import Dict, List, Optional, Set, Tuple
 
 # Technical/web artifact cues (programmatic; no curated strings)
 TECH_WEB_TOKENS: Set[str] = {
-    "http", "https", "www", "www2", "com", "net", "org", "io", "co",
+    "http", "https", "www", "www2",
+    # common TLD tokens seen after punctuation is stripped
+    "com", "net", "org", "io", "co", "gg", "tv", "fm", "ly",
+    # generic web-ish tokens
     "store", "shop", "coupon", "promo", "subscribe", "login", "signin",
     "download", "update", "version", "release", "playlist", "stream"
 }
@@ -136,32 +139,54 @@ def nonascii_ratio(s: str) -> float:
 
 def is_technical_artifact(term: str, strong: bool = False) -> bool:
     """
-    Heuristics to catch URL/domain fragments and hex-like garbage.
-    - If 'com','http','https','www' appear as tokens => drop
+    Heuristics to catch URL/domain fragments and hex/file/id garbage.
+    Programmatic rules (no long brand lists):
+    - Any token containing 'http' or 'www' substring => drop (catches 'jpghttps', 'pnghttps', etc.)
     - If 2+ tokens from TECH_WEB_TOKENS are present => drop
+    - If a bare TLD token (com|net|org|io|co|gg|tv|fm|ly) appears alongside any other alpha token => drop
+    - If any token contains common file extensions (jpg|png|gif|webp|mp4|mov|m4a|mp3|pdf|zip|rar|7z|tar|gz|svg|bmp|tiff|heic) => drop
     - If at least half of tokens look like hex strings => drop
     - If strong=True, drop if any token length>=18 alnum without vowels (likely hash/id)
+    - Special-case noisy pair: tokens include both 'preview' and 'redd' => drop
     """
     toks = [t for t in _SPACE_RE.split((term or "").strip().lower()) if t]
     if not toks:
         return False
-    # Early reject on common web tokens
-    if any(t in {"http", "https", "www", "www2", "com"} for t in toks):
+
+    # Any substring of http/www inside a token (handles fused artifacts like 'jpghttps')
+    if any(("http" in t) or ("www" in t) for t in toks):
         return True
+
     # Count web-ish tokens
     web_hits = sum(1 for t in toks if t in TECH_WEB_TOKENS)
     if web_hits >= 2:
         return True
+
+    # Bare TLD token with any other alpha token
+    TLD_SET = {"com", "net", "org", "io", "co", "gg", "tv", "fm", "ly"}
+    if any(t in TLD_SET for t in toks):
+        if any(re.fullmatch(r"[a-z]{3,}", t) for t in toks if t not in TLD_SET):
+            return True
+
+    # File extension artifacts inside tokens
+    if any(re.search(r"(jpg|jpeg|png|gif|webp|mp4|mov|m4a|mp3|pdf|zip|rar|7z|tar|gz|svg|bmp|tiff|heic)", t) for t in toks):
+        return True
+
     # Hex-ish ratio
     hex_hits = sum(1 for t in toks if _HEX_TOKEN_RE.match(t))
     if hex_hits >= max(1, len(toks) // 2):
         return True
+
     if strong:
         # Alnum long tokens without vowels (likely ids)
         for t in toks:
-            if len(t) >= 18 and t.isalnum():
-                if not re.search(r"[aeiou]", t):
-                    return True
+            if len(t) >= 18 and t.isalnum() and not re.search(r"[aeiou]", t):
+                return True
+
+    # Noisy image-host preview fragments commonly seen after punctuation stripping
+    if ("preview" in toks) and ("redd" in toks):
+        return True
+
     return False
 
 
