@@ -1686,37 +1686,6 @@ Diagnosis vs. your earlier issues
 - Non-English: pipeline flags were on for posts (`--posts-drop-nonlatin`, `--posts-max-nonascii-ratio 0.50`) and final cleanup also enforced language checks; sampled scans showed 0 non-Latin hits in a 50-record slice.
 - High off-theme posts rate persists (~0.875): This is expected because the analyzer’s metric is strict (token-overlap with theme only) and our post-processor does not re-score; off-theme reduction requires upstream scoring/tuning (see next steps).
 
-Recommendations (next run plan)
-1) Turn off content_preview ingestion to stop “preview.*” at the source
-   - Remove --include-content-preview in the batch (it’s on in [scripts/run_keywords_100k.sh](scripts/run_keywords_100k.sh:59))
-   - Rationale: preview blobs dominate web-artifact grams without thematic signal; removing them reduces DF/TF for non-semantic noise before scoring
-
-2) Increase penalty for posts-only off-theme tokens
-   - Lower the multiplier from 0.65 → 0.50 via `--posts-theme-penalty 0.50` at [__main__.process_inputs()](src/keyword_extraction/__main__.py:818)
-   - Effect: stronger down-weighting of posts-only terms that share zero tokens with the subreddit name/top-desc
-
-3) Tighten phrase-level generic pruning for posts
-   - Set DEFAULT_POSTS_GENERIC_PHRASE_DF_RATIO from 0.35 → 0.30 in [config.py](src/keyword_extraction/config.py:32), or add an equivalent CLI if you expose it later
-   - Effect: drop more cross-subreddit chatter phrases (e.g., “feel like”, “first time”, “don know”) while still honoring ensure-K
-
-4) Optional: run embedding-only rerank targeting both posts and posts_composed
-   - Prior runs reranked composed only; to demote semantically incoherent posts terms, use candidate_pool=posts or non_name
-   - Example (GPU MPS):
-     - EMBED_DEVICE=mps EMBED_BATCH_SIZE=64 PYTORCH_ENABLE_MPS_FALLBACK=1 LLM_SUMMARY=0 \
-       python3 -m src.keyword_extraction \
-         --embed-only-input-dir output/keywords_10k_v24_k100_clean \
-         --output-dir output/keywords_10k_v24_k100_clean_embed \
-         --resume \
-         --embed-rerank \
-         --embed-model 'BAAI/bge-small-en-v1.5' \
-         --embed-alpha 0.40 \
-         --embed-k-terms 120 \
-         --embed-candidate-pool non_name
-   - Anchors: [embedding.embed_rerank_terms()](src/keyword_extraction/embedding.py:101), device routing at [embedding._select_device()](src/keyword_extraction/embedding.py:29)
-
-5) If you prefer an upstream code fix for web artifacts in posts (beyond the cleaner)
-   - Add programmatic token-level sanitization in [posts_processing._tokenize_post_text()](src/keyword_extraction/posts_processing.py:43) mirroring the cleaner’s heuristics (http/www substrings, file extensions, bare TLDs); this prevents DF contamination and reduces need for post-run cleaning
-
 Observed outcomes from this check
 - Web/preview artifacts removed downstream: “preview redd” 6053 → 0 hits
 - Slightly fewer composed terms but with slightly better ranks on average
@@ -1777,3 +1746,39 @@ Artifacts produced
 - Analyzer reports logged for both baseline and cleaned cohorts (60-page samples)
 
 No further action is required to validate this pass; next-run changes are enumerated above for when you want to push off-theme rates down in a new baseline.
+
+---
+
+I’ve created the overnight runner at [scripts/run_keywords_overnight_coreext_150k.sh](scripts/run_keywords_overnight_coreext_150k.sh:1). It performs:
+
+- Step 1: Re-run pass-2 for the first 100k with core/extended lists enabled (--emit-core-extended). Writes to output/keywords_10k_v24_k100_coreext.
+- Step 2: Embedding-only rerank for the first 100k (GPU MPS by default), candidate_pool=posts_composed. Writes to output/keywords_10k_v24_k100_coreext_embed.
+- Step 3: Incremental extension for the next 50k (set NEW_PAGE_GLOB to only the new page files), with core/extended emission and DF cache extension.
+- Step 4: Embedding-only rerank for the newly generated outputs (resumes to skip already-reranked pages).
+
+Key details:
+- Aligns to the current setup you used in [scripts/run_keywords_100k.sh](scripts/run_keywords_100k.sh:1) and keeps --include-content-preview enabled.
+- Uses --require-frontpage and DF caches (desc_df_v24.json, posts_df_v24.json) for subset consistency and resumability.
+- Composed fairness/guardrails preserved; resume used for safe restarts; atomic writes are handled by the pipeline.
+- Logs are written under output/logs.
+
+How to run:
+1) Make executable:
+   chmod +x scripts/run_keywords_overnight_coreext_150k.sh
+
+2) Re-run pass-2 with core/extended and embed catch-up for the first 100k:
+   ./scripts/run_keywords_overnight_coreext_150k.sh
+
+3) Incremental next 50k (adjust this glob to only NEW pages you’re adding), then re-run:
+   export NEW_PAGE_GLOB='output/pages/page_XXXX_to_YYYY.json'
+   ./scripts/run_keywords_overnight_coreext_150k.sh
+
+Notes:
+- MPS is the default embed device; switch to CUDA by exporting EMBED_DEVICE=cuda and optionally EMBED_BATCH_SIZE (e.g., 64/32/16).
+- The script uses new output directories for the core/extended and embed phases to avoid clobbering prior outputs.
+- If NEW_PAGE_GLOB isn’t set, Steps 3/4 are skipped; Steps 1/2 alone will run overnight to regenerate separated outputs and catch up embedding on the first 100k.
+
+This satisfies:
+- Pass-2 re-run for first 100k with separated sources (core/extended).
+- Embedding catch-up for the first 100k.
+- Incremental extension to 150k with embedding included, runnable as one overnight workflow.
