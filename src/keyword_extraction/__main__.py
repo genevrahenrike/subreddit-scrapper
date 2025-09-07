@@ -250,6 +250,10 @@ def process_inputs(
     posts_df_cache_path: Optional[str] = None,
     extend_df_caches: bool = False,
     require_frontpage: bool = False,
+    # Emission of core/extended lists
+    emit_core_extended: bool = False,
+    core_topk: Optional[int] = None,
+    extended_topk: Optional[int] = None,
 ) -> None:
     if not input_paths:
         print("No input files matched.", file=sys.stderr)
@@ -727,6 +731,122 @@ def process_inputs(
                         # Keep ordering by raw score
                         top.sort(key=lambda x: x[2], reverse=True)
 
+                # Optional emission of 'core' (name+description) and 'extended' (posts+posts_composed) lists
+                core_top_json = None
+                extended_top_json = None
+                if emit_core_extended:
+                    # Build theme text (safe)
+                    try:
+                        theme_text_local = _build_theme_text(full_lower, desc_tfidf, posts_theme_top_desc_k)
+                    except Exception:
+                        theme_text_local = ""
+
+                    # Core: name + description only
+                    core_merged = merge_sources([
+                        (desc_tfidf, desc_weight, "description"),
+                        (name_scores, name_weight, "name"),
+                    ])
+                    if embed_rerank and theme_text_local:
+                        core_merged = embed_rerank_terms(
+                            core_merged,
+                            theme_text=theme_text_local,
+                            model_name=embed_model,
+                            alpha=embed_alpha,
+                            k_terms=embed_k_terms,
+                            candidate_pool=embed_candidate_pool,
+                        )
+                    if (clean_collapse_adj_dups or clean_dedupe_near or drop_nonlatin or (max_nonascii_ratio is not None and max_nonascii_ratio >= 0.0)):
+                        try:
+                            core_merged = _clean_merge_dict(
+                                core_merged,
+                                drop_nonlatin=drop_nonlatin,
+                                max_nonascii_ratio=float(max_nonascii_ratio),
+                                collapse_adj=bool(clean_collapse_adj_dups),
+                                dedupe_near=bool(clean_dedupe_near),
+                            )
+                        except Exception:
+                            pass
+                    core_ranked = normalize_weights(core_merged)
+                    core_k = core_topk if core_topk is not None else topk
+                    core_top = core_ranked[:core_k]
+                    # Ensure whole name phrase in core
+                    if full_lower and (" " in full_lower):
+                        core_terms_in_top = {t for (t, _, _, _) in core_top}
+                        if full_lower not in core_terms_in_top and full_lower in core_merged:
+                            total_score_core = sum(v for v, _ in core_merged.values()) or 1.0
+                            sc_core, src_core = core_merged[full_lower]
+                            ensured_core = (full_lower, sc_core / total_score_core, sc_core, src_core)
+                            if len(core_top) < core_k:
+                                core_top.append(ensured_core)
+                            else:
+                                core_top[-1] = ensured_core
+                            core_top.sort(key=lambda x: x[2], reverse=True)
+                    core_top_json = [
+                        {
+                            "term": (
+                                full_cased
+                                if (t == full_lower and src != "description" and " " in t)
+                                else recase_anchored_display(t, canon_key, display_key, anchor_phrase_lower, anchor_title_for_display)
+                            ),
+                            "weight": round(w, 6),
+                            "score": round(s, 6),
+                            "source": src,
+                        }
+                        for (t, w, s, src) in core_top
+                    ]
+
+                    # Extended: posts + posts_composed only, dedup against core
+                    ext_merged = merge_sources([
+                        (posts_scores, posts_weight, "posts"),
+                        (composed_scores, (posts_composed_weight if posts_composed_weight is not None else posts_weight), "posts_composed"),
+                    ])
+                    if embed_rerank and theme_text_local:
+                        ext_merged = embed_rerank_terms(
+                            ext_merged,
+                            theme_text=theme_text_local,
+                            model_name=embed_model,
+                            alpha=embed_alpha,
+                            k_terms=embed_k_terms,
+                            candidate_pool=embed_candidate_pool,
+                        )
+                    if (clean_collapse_adj_dups or clean_dedupe_near or drop_nonlatin or (max_nonascii_ratio is not None and max_nonascii_ratio >= 0.0)):
+                        try:
+                            ext_merged = _clean_merge_dict(
+                                ext_merged,
+                                drop_nonlatin=drop_nonlatin,
+                                max_nonascii_ratio=float(max_nonascii_ratio),
+                                collapse_adj=bool(clean_collapse_adj_dups),
+                                dedupe_near=bool(clean_dedupe_near),
+                            )
+                        except Exception:
+                            pass
+                    # Deduplicate extended against core selections by normalized form
+                    core_dkeys = set()
+                    for (t, _, _, _) in core_top:
+                        try:
+                            core_dkeys.add(_normalize_for_dedupe(t))
+                        except Exception:
+                            continue
+                    ext_filtered: Dict[str, Tuple[float, str]] = {}
+                    for term, (scv, srcv) in ext_merged.items():
+                        try:
+                            if _normalize_for_dedupe(term) not in core_dkeys:
+                                ext_filtered[term] = (scv, srcv)
+                        except Exception:
+                            ext_filtered[term] = (scv, srcv)
+                    ext_ranked = normalize_weights(ext_filtered)
+                    ext_k = extended_topk if extended_topk is not None else topk
+                    ext_top = ext_ranked[:ext_k]
+                    extended_top_json = [
+                        {
+                            "term": recase_anchored_display(t, canon_key, display_key, anchor_phrase_lower, anchor_title_for_display),
+                            "weight": round(w, 6),
+                            "score": round(s, 6),
+                            "source": src,
+                        }
+                        for (t, w, s, src) in ext_top
+                    ]
+
                 rec = {
                     "community_id": sub.community_id,
                     "name": sub.name,
@@ -747,6 +867,11 @@ def process_inputs(
                         for (t, w, s, src) in top
                     ],
                 }
+                # Attach optional core/extended lists when requested
+                if core_top_json is not None:
+                    rec["keywords_core"] = core_top_json
+                if extended_top_json is not None:
+                    rec["keywords_extended"] = extended_top_json
                 # Attach theme_summary only when generated to avoid bloating output
                 if theme_summary_val:
                     rec["theme_summary"] = theme_summary_val
@@ -838,6 +963,11 @@ def main():
     ap.add_argument("--embed-alpha", type=float, default=config.DEFAULT_EMBED_ALPHA, help="Blend factor for embedding similarity contribution")
     ap.add_argument("--embed-k-terms", type=int, default=config.DEFAULT_EMBED_K_TERMS, help="Rerank top-K terms by embeddings")
     ap.add_argument("--embed-candidate-pool", type=str, default=config.DEFAULT_EMBED_CANDIDATE_POOL, choices=["union", "posts", "posts_composed", "desc", "non_name"], help="Subset of terms eligible for reranking")
+
+    # Output structuring: emit metadata-only core and posts-based extended lists
+    ap.add_argument("--emit-core-extended", action="store_true", help="Emit core (name+description) and extended (posts+posts_composed) lists alongside the combined keywords")
+    ap.add_argument("--core-topk", type=int, default=None, help="Top-K for the core list (defaults to --topk)")
+    ap.add_argument("--extended-topk", type=int, default=None, help="Top-K for the extended list (defaults to --topk)")
 
     ap.add_argument("--posts-phrase-stoplist", type=str, default=None, help="Deprecated: ignored. Programmatic DF-based generic pruning is used (see DEFAULT_POSTS_DROP_GENERIC_PHRASES/ratio).")
     ap.add_argument("--posts-replace-generic-with-anchored", action="store_true", help="When anchoring generic uni/bi-grams, drop the original unanchored term")
@@ -967,6 +1097,10 @@ def main():
         posts_df_cache_path=args.posts_df_cache,
         extend_df_caches=args.extend_df_caches,
         require_frontpage=args.require_frontpage,
+        # core/extended emission
+        emit_core_extended=args.emit_core_extended,
+        core_topk=args.core_topk,
+        extended_topk=args.extended_topk,
     )
 
 
