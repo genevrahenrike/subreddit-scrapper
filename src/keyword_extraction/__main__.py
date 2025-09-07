@@ -133,6 +133,32 @@ def _rank_source(src_val: str) -> int:
             pass
     return best
 
+
+def _is_valid_output_file(path: str) -> bool:
+    """
+    Consider an output file 'valid' only if it contains at least one non-empty JSON object line.
+    Zero-byte files or files with only whitespace/headers are treated as invalid placeholders.
+    """
+    try:
+        if not os.path.exists(path):
+            return False
+        if os.path.getsize(path) <= 0:
+            return False
+        # Scan a limited number of lines to find a JSON object line
+        with open(path, "r", encoding="utf-8") as f:
+            for i, line in enumerate(f):
+                s = (line or "").strip()
+                if not s:
+                    continue
+                # Cheap check: JSONL object line should contain '{'
+                if "{" in s:
+                    return True
+                if i >= 1000:
+                    break
+    except Exception:
+        return False
+    return False
+
 def _clean_merge_dict(
     merged: Dict[str, Tuple[float, str]],
     drop_nonlatin: bool,
@@ -435,10 +461,20 @@ def process_inputs(
     # Pass 2: per file, compute per-subreddit scores and write JSONL
     for inp in input_paths:
         outp = out_path_for_input(output_dir, inp)
-        # Resume: skip if output already exists and not overwriting
-        if resume and (not overwrite) and os.path.exists(outp) and os.path.getsize(outp) > 0:
-            print(f"[pass2] skip existing {outp}", file=sys.stderr)
-            continue
+        # Resume: skip only when an existing output is valid (contains at least one JSON object line).
+        # Treat zero-byte or non-JSON placeholder files as invalid and recompute them.
+        if resume and (not overwrite) and os.path.exists(outp):
+            if _is_valid_output_file(outp):
+                print(f"[pass2] skip existing {outp}", file=sys.stderr)
+                continue
+            else:
+                try:
+                    # Remove invalid/stale output so we can recompute
+                    if os.path.getsize(outp) == 0:
+                        os.remove(outp)
+                        print(f"[pass2] removed stale zero-byte output {outp}", file=sys.stderr)
+                except Exception:
+                    pass
         print(f"[pass2] processing {inp} -> {outp}", file=sys.stderr)
  
         count_written = 0
@@ -879,11 +915,26 @@ def process_inputs(
                 fout.write(json.dumps(rec, ensure_ascii=False) + "\n")
                 count_written += 1
 
-        try:
-            os.replace(tmp_path, outp)
-        except Exception as e:
-            print(f"[pass2] failed to finalize {outp} from temp: {e}", file=sys.stderr)
-        print(f"[done] wrote {count_written} records to {outp}", file=sys.stderr)
+        if count_written > 0:
+            try:
+                os.replace(tmp_path, outp)
+            except Exception as e:
+                print(f"[pass2] failed to finalize {outp} from temp: {e}", file=sys.stderr)
+            print(f"[done] wrote {count_written} records to {outp}", file=sys.stderr)
+        else:
+            # Do not create or keep empty placeholder outputs
+            try:
+                if os.path.exists(tmp_path):
+                    os.remove(tmp_path)
+            except Exception:
+                pass
+            # Clean up existing zero-byte placeholder if present
+            try:
+                if os.path.exists(outp) and os.path.getsize(outp) == 0:
+                    os.remove(outp)
+            except Exception:
+                pass
+            print(f"[done] wrote 0 records for {inp}; no output file created", file=sys.stderr)
 
 
 def main():
