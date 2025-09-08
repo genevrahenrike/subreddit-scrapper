@@ -123,6 +123,18 @@ class FPConfig:
     # Worker isolation for persistent sessions
     worker_id: Optional[int] = None  # Worker ID for profile isolation in multi-worker setups
 
+    # Traffic pattern refresh (to break ISP/edge intrusion detection patterns)
+    traffic_refresh_enabled: bool = True
+    traffic_refresh_interval_seconds: float = 300.0  # low-frequency periodic refresh when healthy
+    traffic_refresh_on_refused: bool = True         # immediate refresh on refused episodes
+
+    # Proxy pool support (HTTP + SOCKS5)
+    use_proxy_pool: bool = True
+    proxy_pool_http_file: str = "config/http.proxies.json"
+    proxy_pool_socks5_file: str = "config/socks5.proxies.json"
+    switch_to_proxy_on_refused: bool = True        # switch to next proxy when refused episodes occur
+    restore_direct_after_successes: int = 8         # after N healthy successes on proxy, restore direct (0=never)
+
 
 class SubredditFrontPageScraper:
     def __init__(self, config: Optional[FPConfig] = None):
@@ -138,6 +150,31 @@ class SubredditFrontPageScraper:
         # Success/rotation tracking and logging throttles
         self._success_since_rotation = 0
         self._last_cooldown_log_ts = 0.0
+
+        # Traffic refresh + proxy pool runtime state
+        self._last_refresh_ts = 0.0
+        self._proxy_pool: List[str] = []
+        self._proxy_index = 0
+        self._current_proxy_url: Optional[str] = None
+        self._using_proxy_pool = False
+        self._success_since_proxy_switch = 0
+
+        # Auto-enable proxy pool if config files exist, even without CLI args
+        try:
+            http_p = Path(getattr(self.config, "proxy_pool_http_file", "config/http.proxies.json"))
+            socks_p = Path(getattr(self.config, "proxy_pool_socks5_file", "config/socks5.proxies.json"))
+            if not getattr(self.config, "use_proxy_pool", False) and (http_p.exists() or socks_p.exists()):
+                self.config.use_proxy_pool = True
+                print("[proxy] Auto-enabled proxy pool based on existing config files")
+        except Exception:
+            pass
+
+        # Preload proxy pool if configured
+        try:
+            if getattr(self.config, "use_proxy_pool", False):
+                self._load_proxy_pool()
+        except Exception:
+            pass
 
     # --------------- Browser lifecycle --------------- #
     def _start(self):
@@ -457,7 +494,11 @@ class SubredditFrontPageScraper:
         else:
             raise ValueError(f"Unsupported browser engine: {engine}")
             
-        print(f"[browser] Started {engine} engine")
+        try:
+            proxy_label = self._current_proxy_label()
+        except Exception:
+            proxy_label = "unknown"
+        print(f"[browser] Started {engine} engine proxy={proxy_label}")
         self._new_context()
 
     # --------------- Stealth and banners --------------- #
@@ -528,12 +569,18 @@ class SubredditFrontPageScraper:
         return any(pattern in error_str for pattern in connectivity_patterns)
 
     def _is_connection_refused_error(self, error_str: str) -> bool:
-        """Detect ERR_CONNECTION_REFUSED variants."""
+        """Detect connection refused variants across engines (Chromium/Firefox/WebKit)."""
         try:
             es = error_str or ""
         except Exception:
             es = str(error_str)
-        return ("ERR_CONNECTION_REFUSED" in es) or ("net::ERR_CONNECTION_REFUSED" in es) or ("ECONNREFUSED" in es)
+        es_up = es.upper()
+        return (
+            ("ERR_CONNECTION_REFUSED" in es_up) or
+            ("NET::ERR_CONNECTION_REFUSED" in es_up) or
+            ("ECONNREFUSED" in es_up) or
+            ("NS_ERROR_CONNECTION_REFUSED" in es_up)
+        )
 
     def _is_page_closed_error(self, error_str: str) -> bool:
         """Detect closed page/context/browser errors from Playwright."""
@@ -547,6 +594,56 @@ class SubredditFrontPageScraper:
             "Call frame is not available",
         ]
         return any(p in es for p in patterns)
+
+    def _redact_proxy(self, proxy_url: Optional[str]) -> str:
+        """Redact credentials in a proxy URL for logging."""
+        try:
+            if not proxy_url:
+                return "direct"
+            m = re.match(r"^([a-zA-Z0-9+.-]+://)([^@]+)@(.+)$", proxy_url)
+            if not m:
+                return proxy_url
+            scheme, _, host = m.groups()
+            return f"{scheme}***:***@{host}"
+        except Exception:
+            return "unknown"
+
+    def _current_proxy_label(self) -> str:
+        """Return current proxy label for diagnostics."""
+        try:
+            return self._redact_proxy(getattr(self, "_current_proxy_url", None) or getattr(self.config, "proxy_server", None))
+        except Exception:
+            return "unknown"
+
+    def _is_page_crashed_error(self, error_str: str) -> bool:
+        """Detect page/browser crash errors across engines."""
+        try:
+            es = (error_str or "").upper()
+        except Exception:
+            es = str(error_str).upper()
+        patterns = [
+            "PAGE CRASHED",
+            "TARGET CRASHED",
+            "BROWSER HAS DISCONNECTED",
+            "CRASHED"
+        ]
+        return any(p in es for p in patterns)
+
+    def _log_diag(self, phase: str, sub_name: str = "", url: str = ""):
+        """Emit concise diagnostics about current state."""
+        try:
+            engine = getattr(self, "_current_engine", getattr(self.config, "browser_engine", "chromium"))
+            proxy = self._current_proxy_label()
+            mp = bool(getattr(self.config, "multi_profile", False))
+            ps = bool(getattr(self.config, "persistent_session", False))
+            hi = bool(getattr(self.config, "disable_images", True))
+            up = bool(getattr(self, "_using_proxy_pool", False))
+            ssr = int(getattr(self, "_success_since_rotation", 0))
+            sps = int(getattr(self, "_success_since_proxy_switch", 0))
+            print(f"[status] {phase} sub={sub_name} engine={engine} proxy={proxy} pool={up} "
+                  f"multi_profile={mp} persistent={ps} imgs_off={hi} ssr={ssr} sps={sps} url={url}")
+        except Exception:
+            pass
 
     def _ensure_open_context_and_page(self):
         """Best-effort to ensure we have an open context and page without rotating engines."""
@@ -636,6 +733,160 @@ class SubredditFrontPageScraper:
             return remaining
         except Exception:
             return 0.0
+
+    # -------- Traffic pattern refresh and proxy-pool management -------- #
+
+    def _traffic_pattern_refresh(self, reason: str = ""):
+        """Send a few low-cost requests and briefly visit a neutral domain to vary traffic patterns."""
+        try:
+            note = f" for {reason}" if reason else ""
+            engine = getattr(self, "_current_engine", getattr(self.config, "browser_engine", "chromium"))
+            proxy = self._current_proxy_label()
+            pool = bool(getattr(self, "_using_proxy_pool", False))
+            print(f"[refresh] Traffic pattern refresh{note} engine={engine} proxy={proxy} pool={pool}")
+            # Tiny outbound touches (low bandwidth)
+            endpoints = [
+                "https://api.ipify.org?format=json",
+                "https://httpbin.org/status/204",
+                getattr(self.config, "internet_check_url", "https://www.google.com/generate_204"),
+            ]
+            for u in endpoints:
+                try:
+                    requests.get(u, timeout=2.5, headers={"User-Agent": "Mozilla/5.0 (compatible; PatternRefresh)"})
+                except Exception:
+                    pass
+            # Brief navigation to a neutral domain to vary traffic
+            try:
+                if hasattr(self, "_page") and self._page:
+                    self._page.goto("https://example.com", wait_until="domcontentloaded", timeout=8000)
+                    self._page.wait_for_timeout(300)
+            except Exception:
+                pass
+            self._last_refresh_ts = time.time()
+        except Exception:
+            pass
+
+    def _load_proxy_pool(self):
+        """Load proxy URLs from configured JSON files (HTTP and SOCKS5), filter by status=OK."""
+        pool: List[str] = []
+        # HTTP proxies
+        try:
+            http_path = getattr(self.config, "proxy_pool_http_file", "config/http.proxies.json")
+            if http_path and Path(http_path).exists():
+                with open(http_path, "r", encoding="utf-8") as f:
+                    arr = json.load(f)
+                for item in (arr or []):
+                    try:
+                        url = (item or {}).get("url") or ""
+                        status = ((item or {}).get("status") or "OK").upper()
+                        if url and status == "OK":
+                            pool.append(url)
+                    except Exception:
+                        continue
+        except Exception:
+            pass
+        # SOCKS5 proxies
+        try:
+            socks_path = getattr(self.config, "proxy_pool_socks5_file", "config/socks5.proxies.json")
+            if socks_path and Path(socks_path).exists():
+                with open(socks_path, "r", encoding="utf-8") as f:
+                    arr = json.load(f)
+                for item in (arr or []):
+                    try:
+                        url = (item or {}).get("url") or ""
+                        status = ((item or {}).get("status") or "OK").upper()
+                        if url and status == "OK":
+                            pool.append(url)
+                    except Exception:
+                        continue
+        except Exception:
+            pass
+        random.shuffle(pool)
+        self._proxy_pool = pool
+        self._using_proxy_pool = False
+        self._proxy_index = 0
+        try:
+            http_p = getattr(self.config, "proxy_pool_http_file", "config/http.proxies.json")
+            socks_p = getattr(self.config, "proxy_pool_socks5_file", "config/socks5.proxies.json")
+            print(f"[proxy] Loaded proxy pool size={len(pool)} http_file={http_p} socks5_file={socks_p}")
+        except Exception:
+            pass
+
+    def _apply_proxy_change(self, proxy_url: Optional[str]):
+        """Apply proxy change by restarting the browser/context with new proxy settings."""
+        try:
+            # Save state if needed
+            if self.config.persistent_session:
+                try:
+                    self._save_persistent_state()
+                except Exception:
+                    pass
+            # Close page/context/browser
+            try:
+                if hasattr(self, "_page") and self._page:
+                    self._page.close()
+            except Exception:
+                pass
+            try:
+                if hasattr(self, "_context") and self._context:
+                    self._context.close()
+            except Exception:
+                pass
+            try:
+                if hasattr(self, "_browser") and self._browser:
+                    self._browser.close()
+            except Exception:
+                pass
+
+            # Apply to config
+            self.config.proxy_server = proxy_url
+            self._current_proxy_url = proxy_url
+            self._using_proxy_pool = bool(proxy_url)
+            self._success_since_proxy_switch = 0
+
+            # Recreate according to engine and persistent settings
+            engine = getattr(self, "_current_engine", self.config.browser_engine)
+            if self.config.persistent_session and engine in ["chromium", "firefox"]:
+                self._setup_persistent_profile_dirs()
+                self._browser = None  # force persistent path
+                self._new_context()
+            else:
+                self._start_browser()
+
+            if proxy_url:
+                print(f"[proxy] Using proxy {self._redact_proxy(proxy_url)}")
+            else:
+                print("[proxy] Restored direct connection")
+        except Exception as e:
+            print(f"[proxy] Proxy apply failed: {str(e)[:120]}")
+
+    def _switch_to_next_proxy(self, reason: str = ""):
+        """Rotate to the next proxy in the pool and apply it."""
+        try:
+            if not getattr(self.config, "use_proxy_pool", False):
+                return
+            if not self._proxy_pool:
+                self._load_proxy_pool()
+            if not self._proxy_pool:
+                print("[proxy] No proxies available in pool")
+                return
+            self._proxy_index = (self._proxy_index + 1) % len(self._proxy_pool)
+            next_proxy = self._proxy_pool[self._proxy_index]
+            print(f"[proxy] Switching to next proxy (reason={reason}) -> {self._proxy_index+1}/{len(self._proxy_pool)}")
+            self._apply_proxy_change(next_proxy)
+        except Exception:
+            pass
+
+    def _maybe_restore_direct(self):
+        """Restore direct connection after N healthy successes on proxy (if configured)."""
+        try:
+            threshold = int(getattr(self.config, "restore_direct_after_successes", 0) or 0)
+            if threshold <= 0:
+                return
+            if getattr(self, "_using_proxy_pool", False) and getattr(self, "_success_since_proxy_switch", 0) >= threshold:
+                self._apply_proxy_change(None)
+        except Exception:
+            pass
 
     def _update_refusal_streak_and_check_in_period(self) -> bool:
         """Update counters for connection-refused streak; return True if period threshold reached within window."""
@@ -736,7 +987,13 @@ class SubredditFrontPageScraper:
         msg_cause = f" for {cause}" if cause else ""
         quiet = bool(getattr(self.config, "refusal_quiet_mode", True))
         quiet_note = " (quiet)" if quiet else ""
-        print(f"[cooldown] Connection-refused period detected{msg_cause}. Cooling down for {cd:.1f}s{quiet_note}.")
+        try:
+            engine = getattr(self, "_current_engine", getattr(self.config, "browser_engine", "chromium"))
+            proxy = self._current_proxy_label()
+            print(f"[cooldown] Connection-refused period detected{msg_cause}. Cooling down for {cd:.1f}s{quiet_note}. "
+                  f"engine={engine} proxy={proxy}")
+        except Exception:
+            print(f"[cooldown] Connection-refused period detected{msg_cause}. Cooling down for {cd:.1f}s{quiet_note}.")
         # Broadcast cooldown globally for other workers
         try:
             if getattr(self.config, "enable_global_refusal_lock", True):
@@ -852,6 +1109,23 @@ class SubredditFrontPageScraper:
         attempts = 0
         last_error = None
 
+        # Emit status at the beginning of scrape (engine/proxy/pool etc.)
+        try:
+            self._log_diag("start", sub_name, url)
+        except Exception:
+            pass
+
+        # Periodic low-frequency traffic refresh while healthy (no cooldown required)
+        try:
+            if getattr(self.config, "traffic_refresh_enabled", True):
+                now = time.time()
+                last = getattr(self, "_last_refresh_ts", 0.0)
+                interval = float(getattr(self.config, "traffic_refresh_interval_seconds", 300.0))
+                if interval > 0 and (now - last) >= interval:
+                    self._traffic_pattern_refresh(reason="periodic")
+        except Exception:
+            pass
+
         # Honor local and global cooldowns before starting (throttled logging)
         remaining_local = 0.0
         if hasattr(self, "_cooldown_until_ts") and self._cooldown_until_ts > time.time():
@@ -878,6 +1152,16 @@ class SubredditFrontPageScraper:
             self._refused_first_ts = 0.0
             try:
                 self._post_cooldown_rotate_once()
+            except Exception:
+                pass
+            # Periodic low-frequency traffic refresh while healthy
+            try:
+                if getattr(self.config, "traffic_refresh_enabled", True):
+                    now = time.time()
+                    last = getattr(self, "_last_refresh_ts", 0.0)
+                    interval = float(getattr(self.config, "traffic_refresh_interval_seconds", 300.0))
+                    if interval > 0 and (now - last) >= interval:
+                        self._traffic_pattern_refresh(reason="periodic")
             except Exception:
                 pass
         
@@ -953,6 +1237,14 @@ class SubredditFrontPageScraper:
                 except Exception:
                     pass
 
+                # Track success and possibly restore direct connection after using proxy
+                try:
+                    if getattr(self, "_using_proxy_pool", False):
+                        self._success_since_proxy_switch = getattr(self, "_success_since_proxy_switch", 0) + 1
+                        self._maybe_restore_direct()
+                except Exception:
+                    pass
+
                 return {
                     "subreddit": sub_name,
                     "url": url,
@@ -963,6 +1255,23 @@ class SubredditFrontPageScraper:
             except Exception as e:
                 last_error = str(e)
                 elapsed = time.monotonic() - start
+
+                # Recover from page/browser crash with a clean restart
+                if self._is_page_crashed_error(last_error):
+                    print(f"[recover] Page crashed while scraping {sub_name}. Restarting browser/context... "
+                          f"(engine={getattr(self, '_current_engine', self.config.browser_engine)}, proxy={self._current_proxy_label()})")
+                    try:
+                        # Prefer a clean browser restart for stability
+                        self._start_browser()
+                    except Exception:
+                        try:
+                            self._ensure_open_context_and_page()
+                        except Exception:
+                            pass
+                    # Don't consume an attempt for this
+                    attempts = max(0, attempts - 1)
+                    time.sleep(random.uniform(1.2, 2.2))
+                    continue
 
                 # Recover from closed page/context/browser without rotating
                 if self._is_page_closed_error(last_error):
@@ -978,6 +1287,19 @@ class SubredditFrontPageScraper:
 
                 # Special handling: detect consecutive connection refusals and apply quiet cooldown
                 if self._is_connection_refused_error(last_error):
+                    # Immediate low-cost traffic refresh to break ISP/edge detection pattern
+                    try:
+                        if getattr(self.config, "traffic_refresh_on_refused", True):
+                            if time.time() - getattr(self, "_last_refresh_ts", 0.0) >= 15.0:
+                                self._traffic_pattern_refresh(reason="refused")
+                    except Exception:
+                        pass
+                    # Consider proxy switch on refusal episodes
+                    try:
+                        if getattr(self.config, "use_proxy_pool", False) and getattr(self.config, "switch_to_proxy_on_refused", False):
+                            self._switch_to_next_proxy(reason="refused")
+                    except Exception:
+                        pass
                     if self._update_refusal_streak_and_check_in_period():
                         self._enter_refusal_cooldown_and_rotate(sub_name)
                         # Reset attempts after cooldown to give a fresh try
@@ -1017,7 +1339,9 @@ class SubredditFrontPageScraper:
                 delay += random.uniform(0, delay * 0.1)  # Add 10% jitter
                 delay = min(delay, 30.0)  # Cap at 30 seconds
                 
-                print(f"[retry] {sub_name} attempt {attempts}/{self.config.max_attempts} after {delay:.1f}s (error: {last_error[:100]})")
+                print(f"[retry] {sub_name} attempt {attempts}/{self.config.max_attempts} after {delay:.1f}s "
+                      f"(engine={getattr(self, '_current_engine', self.config.browser_engine)}, proxy={self._current_proxy_label()}, "
+                      f"error: {last_error[:100]})")
                 time.sleep(delay)
                 
                 # Quiet recovery: prefer stability and waiting over browser/context churn
@@ -1623,7 +1947,7 @@ if __name__ == "__main__":
                         help="Custom directory for persistent browser user data")
     
     # Bandwidth and connectivity options
-    parser.add_argument("--enable-images", dest="disable_images", action="store_false", 
+    parser.add_argument("--enable-images", dest="disable_images", action="store_false",
                         help="Enable image downloads (images are blocked by default to save bandwidth)")
     parser.add_argument("--disable-images", dest="disable_images", action="store_true", default=True,
                         help="Disable image downloads to save bandwidth (default)")
@@ -1633,6 +1957,30 @@ if __name__ == "__main__":
                         help="URL to use for internet connectivity checks (default: Google's generate_204)")
     parser.add_argument("--internet-check-interval", type=float, default=5.0,
                         help="Seconds between internet connectivity checks when offline (default: 5.0)")
+
+    # Traffic pattern refresh controls
+    parser.add_argument("--traffic-refresh-enabled", dest="traffic_refresh_enabled", action="store_true", default=True,
+                        help="Enable low-frequency traffic pattern refresh (default: enabled)")
+    parser.add_argument("--no-traffic-refresh", dest="traffic_refresh_enabled", action="store_false",
+                        help="Disable periodic traffic pattern refresh")
+    parser.add_argument("--traffic-refresh-interval-seconds", type=float, default=300.0,
+                        help="Seconds between periodic traffic pattern refreshes when healthy (default: 300)")
+
+    # Proxy pool controls (defaults ON; use --no-use-proxy-pool or --no-switch-to-proxy-on-refused to disable)
+    parser.add_argument("--use-proxy-pool", dest="use_proxy_pool", action="store_true", default=True,
+                        help="Enable rotating proxy pool loaded from config/http.proxies.json and/or config/socks5.proxies.json (default: enabled)")
+    parser.add_argument("--no-use-proxy-pool", dest="use_proxy_pool", action="store_false",
+                        help="Disable rotating proxy pool")
+    parser.add_argument("--proxy-pool-http-file", type=str, default="config/http.proxies.json",
+                        help="Path to HTTP proxy pool JSON")
+    parser.add_argument("--proxy-pool-socks5-file", type=str, default="config/socks5.proxies.json",
+                        help="Path to SOCKS5 proxy pool JSON")
+    parser.add_argument("--switch-to-proxy-on-refused", dest="switch_to_proxy_on_refused", action="store_true", default=True,
+                        help="Switch to next proxy from pool when refusal episode detected (default: enabled)")
+    parser.add_argument("--no-switch-to-proxy-on-refused", dest="switch_to_proxy_on_refused", action="store_false",
+                        help="Do not switch to proxy on refusal")
+    parser.add_argument("--restore-direct-after-successes", type=int, default=8,
+                        help="After N healthy successes on proxy, restore direct connection (0 = never)")
     
     # Ramp-up options for gentle startup when scraping multiple subreddits
     parser.add_argument("--ramp-up-delay", type=float, default=0.0,
@@ -1707,6 +2055,17 @@ if __name__ == "__main__":
         internet_check_url=args.internet_check_url,
         internet_check_interval=args.internet_check_interval,
         ramp_up_delay=args.ramp_up_delay,
+
+        # Traffic refresh settings
+        traffic_refresh_enabled=args.traffic_refresh_enabled,
+        traffic_refresh_interval_seconds=args.traffic_refresh_interval_seconds,
+
+        # Proxy pool settings
+        use_proxy_pool=args.use_proxy_pool,
+        proxy_pool_http_file=args.proxy_pool_http_file,
+        proxy_pool_socks5_file=args.proxy_pool_socks5_file,
+        switch_to_proxy_on_refused=args.switch_to_proxy_on_refused,
+        restore_direct_after_successes=args.restore_direct_after_successes,
     )
     
     def already_scraped(name: str) -> bool:
@@ -1756,14 +2115,18 @@ if __name__ == "__main__":
             error = data.get("error")
             out_path = Path("output/subreddits") / data["subreddit"] / "frontpage.json"
             
-            # Show which browser profile was used
+            # Show which browser profile and proxy were used
             current_engine = getattr(scraper, '_current_engine', cfg.browser_engine)
             profile_info = f" [{current_engine}]" if cfg.multi_profile else ""
+            try:
+                proxy_label = f" [proxy={scraper._current_proxy_label()}]"
+            except Exception:
+                proxy_label = ""
             
             if error:
-                print(f"[saved] {out_path}{profile_info} — posts={posts_n} (promoted={promoted_n}), error={error[:100]}...")
+                print(f"[saved] {out_path}{profile_info}{proxy_label} — posts={posts_n} (promoted={promoted_n}), error={error[:100]}...")
             else:
-                print(f"[saved] {out_path}{profile_info} — posts={posts_n} (promoted={promoted_n})")
+                print(f"[saved] {out_path}{profile_info}{proxy_label} — posts={posts_n} (promoted={promoted_n})")
             time.sleep(random.uniform(0.6, 1.1))
     finally:
         scraper._stop()

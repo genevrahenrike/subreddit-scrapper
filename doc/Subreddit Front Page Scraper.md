@@ -14,6 +14,7 @@ This guide explains how to use `subreddit_frontpage_scraper.py`, what it saves, 
 - **Extracts comprehensive subreddit metadata** including online user counts and sidebar widgets.
 - **Intelligently parses sidebar content** with special handling for link collections and formatted text.
 - **Enhanced anti-detection**: Human-like scrolling patterns, randomized delays, and engine-specific stealth evasions.
+- **Traffic pattern refresh & proxy pool (defaults)**: Periodically performs low-cost traffic refresh while healthy and immediately on refusal episodes; auto-enables proxy pool when `config/http.proxies.json` and/or `config/socks5.proxies.json` exist (switches to next proxy on refusal, restores direct after successes).
 - Falls back to `https://old.reddit.com/r/<subreddit>/` if the new UI yields no/too few posts.
 - Saves JSON to `output/subreddits/<name>/frontpage.json`; optionally saves HTML snapshots for debugging.
 
@@ -29,18 +30,25 @@ This guide explains how to use `subreddit_frontpage_scraper.py`, what it saves, 
   - All browsers: `playwright install`
 
 Optional:
-- Proxy: set `PROXY_SERVER` (e.g. `http://user:pass@host:port` or `socks5://host:port`).
-
+- Proxy (single): set `PROXY_SERVER` (e.g. `http://user:pass@host:port` or `socks5://host:port`) — still supported.
+- Proxy pool (default): place JSON files at `config/http.proxies.json` and/or `config/socks5.proxies.json` (each entry must include at least `url` and `status: "OK"`). The scraper auto-loads and uses the pool by default without flags. Disable with `--no-use-proxy-pool`.
+ 
 ---
 
 ## Quick start
 
 ### Run the built-in demo
 This scrapes a couple of popular subreddits and writes JSON to `output/subreddits/*/frontpage.json`.
-
 ```bash
 python subreddit_frontpage_scraper.py --subs r/funny r/AskReddit
 ```
+
+Defaults (no flags required):
+- Traffic refresh enabled: periodic every 300s and immediate on refusal
+- Proxy pool auto-enabled if `config/http.proxies.json` and/or `config/socks5.proxies.json` exist
+- Switch to next proxy on refusal; restore direct after 8 healthy successes
+- Images blocked to save bandwidth; internet connectivity waiting enabled
+- Retries with exponential backoff on transient errors
 
 CLI options with ramp-up for multiple subreddits:
 ```bash
@@ -115,8 +123,10 @@ python subreddit_frontpage_scraper.py --subs r/technology \
 - `ERR_INTERNET_DISCONNECTED` - Complete internet loss
 - `ERR_NETWORK_CHANGED` - Network interface changes
 - `ERR_PROXY_CONNECTION_FAILED` - Proxy connectivity issues
-- `ECONNREFUSED` / `EHOSTUNREACH` - Network unreachable
+- `ERR_NAME_NOT_RESOLVED` / `EHOSTUNREACH` / `ENETUNREACH` - DNS/route unreachable
 
+Note: `ERR_CONNECTION_REFUSED` / `NS_ERROR_CONNECTION_REFUSED` are treated as refusal episodes (not offline). The scraper immediately performs a low-cost traffic refresh and enters a coordinated cooldown, optionally switching to the next proxy in the pool when enabled.
+ 
 ---
 
 ## Browser Fingerprinting & Anti-Detection Features
@@ -1263,3 +1273,102 @@ Expected behavior:
 - After ~30s (plus small jitter), all workers resume around the same time instead of just one continuing while others appear stuck.
 
 No other files were modified.
+## Traffic Pattern Refresh and Proxy Pool (New)
+
+To mitigate ISP/edge intrusion detection patterns that temporarily refuse connections (e.g., NS_ERROR_CONNECTION_REFUSED) and to add IP diversity when necessary, the scraper now supports:
+
+- Low-frequency periodic traffic refresh to vary traffic patterns while healthy
+- Immediate refresh on refusal episodes
+- Proxy pool rotation (HTTP and SOCKS5) with automatic switching on refusal and optional return to direct
+
+### How Traffic Pattern Refresh Works
+- Periodically pings low-cost endpoints (ipify/httpbin/Google 204) using the requests library
+- Briefly visits a neutral website (example.com) with images blocked (bandwidth friendly)
+- Triggers in two cases:
+  - Periodically while healthy at a low frequency
+  - Immediately when a refusal episode is detected
+- Implementation: [python.SubredditFrontPageScraper._traffic_pattern_refresh()](../subreddit_frontpage_scraper.py:669)
+
+CLI:
+```bash
+# Enabled by default — no flags needed
+--no-traffic-refresh                   # disable periodic refresh
+--traffic-refresh-interval-seconds 300 # change cadence (default: 300s)
+```
+
+Recommended defaults: keep refresh enabled with a 300s interval; this adds lightweight traffic diversity without meaningful bandwidth cost.
+
+### Proxy Pool Rotation (HTTP + SOCKS5)
+- Load proxies from JSON files with entries containing at least url and status ("OK" to include)
+  - HTTP pool file: [config/http.proxies.json](../config/http.proxies.json:1)
+  - SOCKS5 pool file: [config/socks5.proxies.json](../config/socks5.proxies.json:1)
+- On refusal episodes, optionally switch to the next proxy in the pool
+- After N healthy successes, optionally restore direct connection
+- Internals:
+  - Loader: [python.SubredditFrontPageScraper._load_proxy_pool()](../subreddit_frontpage_scraper.py:696)
+  - Apply proxy: [python.SubredditFrontPageScraper._apply_proxy_change()](../subreddit_frontpage_scraper.py:736)
+  - Rotate: [python.SubredditFrontPageScraper._switch_to_next_proxy()](../subreddit_frontpage_scraper.py:784)
+  - Restore: [python.SubredditFrontPageScraper._maybe_restore_direct()](../subreddit_frontpage_scraper.py:801)
+
+CLI:
+```bash
+# Enabled by default when pool files exist — no flags needed
+
+# Overrides/tuning:
+--no-use-proxy-pool                         # disable pool usage
+--no-switch-to-proxy-on-refused             # keep direct IP during refusal episodes
+--restore-direct-after-successes 12         # change restore threshold (default: 8)
+--proxy-pool-http-file config/http.proxies.json
+--proxy-pool-socks5-file config/socks5.proxies.json
+```
+
+Notes:
+- Playwright requires the proxy to be set at browser/context creation; the scraper handles this by quietly restarting the browser/context when proxy settings change.
+- SOCKS5 and HTTP schemes are supported, e.g., socks5://user:pass@host:1080, http://user:pass@host:port.
+- Image downloads are blocked by default; the refresh and proxy switching maintain low bandwidth usage.
+
+### Example Usage
+
+Immediate pattern refresh on refusal + proxy pool fallback:
+```bash
+python subreddit_frontpage_scraper.py \
+  --file retry_subreddits.txt \
+  --use-proxy-pool \
+  --proxy-pool-http-file config/http.proxies.json \
+  --proxy-pool-socks5-file config/socks5.proxies.json \
+  --switch-to-proxy-on-refused \
+  --restore-direct-after-successes 8 \
+  --traffic-refresh-enabled \
+  --traffic-refresh-interval-seconds 300 \
+  --disable-images \
+  --overwrite
+```
+
+Low-frequency refresh only, no proxies:
+```bash
+python subreddit_frontpage_scraper.py \
+  --subs r/technology r/programming \
+  --traffic-refresh-enabled \
+  --traffic-refresh-interval-seconds 300
+```
+
+### Behavior Summary
+- On refusal episodes:
+  - Perform an immediate traffic refresh (if enabled)
+  - Optionally rotate to the next proxy (if pool enabled and switch-on-refused set)
+  - Enter coordinated cooldown with global lock to prevent herding
+- After cooldown:
+  - Perform a one-time identity rotation (if configured) and resume
+- While healthy:
+  - Periodically refresh traffic at low frequency to vary patterns
+  - If currently on a proxy and successes reach threshold, optionally restore direct
+
+Configuration (new FPConfig fields):
+- traffic_refresh_enabled (bool, default True)
+- traffic_refresh_interval_seconds (float, default 300.0)
+- traffic_refresh_on_refused (bool, default True)
+- use_proxy_pool (bool, default True; auto-enabled when pool files exist)
+- proxy_pool_http_file (str, default "config/http.proxies.json")
+- proxy_pool_socks5_file (str, default "config/socks5.proxies.json")
+- switch_to_proxy_on_refused (bool, default True)
+- restore_direct_after_successes (int, default 8)

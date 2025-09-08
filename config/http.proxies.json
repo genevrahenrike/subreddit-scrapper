@@ -1,0 +1,82 @@
+[
+  {
+    "label": "US",
+    "host": "geo.floppydata.com",
+    "port": 10080,
+    "login": "YwbVgfpGYlcfFOfD",
+    "password": "en6IYpoG4MQD8abe",
+    "url": "http://YwbVgfpGYlcfFOfD:en6IYpoG4MQD8abe@geo.floppydata.com:10080",
+    "status": "OK",
+    "lastChecked": "2025-09-07T09:01:31.299Z",
+    "avgLatencyMs": 2182,
+    "latenciesByEndpoint": {
+      "ipify": 2966,
+      "httpbin": 2389,
+      "google204": 1192
+    }
+  },
+  {
+    "label": "UK",
+    "host": "geo.floppydata.com",
+    "port": 10080,
+    "login": "KZYsnXsOFZQgPrNT",
+    "password": "egaWIc1BJhbSpt8S",
+    "url": "http://KZYsnXsOFZQgPrNT:egaWIc1BJhbSpt8S@geo.floppydata.com:10080",
+    "status": "OK",
+    "lastChecked": "2025-09-07T09:01:31.299Z",
+    "avgLatencyMs": 1101,
+    "latenciesByEndpoint": {
+      "ipify": 1097,
+      "httpbin": 1358,
+      "google204": 848
+    }
+  },
+  {
+    "label": "Germany",
+    "host": "geo.floppydata.com",
+    "port": 10080,
+    "login": "7xRoG0h3EYFpwPZs",
+    "password": "8TPJcaqO09PLk3xk",
+    "url": "http://7xRoG0h3EYFpwPZs:8TPJcaqO09PLk3xk@geo.floppydata.com:10080",
+    "status": "OK",
+    "lastChecked": "2025-09-07T09:01:31.299Z",
+    "avgLatencyMs": 1084,
+    "latenciesByEndpoint": {
+      "ipify": 1058,
+      "httpbin": 1412,
+      "google204": 781
+    }
+  },
+  {
+    "label": "France",
+    "host": "geo.floppydata.com",
+    "port": 10080,
+    "login": "wgM87rfyxvGvPHyT",
+    "password": "9yNiSW3eY2QKb87X",
+    "url": "http://wgM87rfyxvGvPHyT:9yNiSW3eY2QKb87X@geo.floppydata.com:10080",
+    "status": "OK",
+    "lastChecked": "2025-09-07T09:01:31.299Z",
+    "avgLatencyMs": 1237,
+    "latenciesByEndpoint": {
+      "ipify": 997,
+      "httpbin": 1889,
+      "google204": 825
+    }
+  },
+  {
+    "label": "Australia",
+    "host": "geo.floppydata.com",
+    "port": 10080,
+    "login": "ffeRKwuDS2AIA8IC",
+    "password": "Sa36n36b53tLZHdK",
+    "url": "http://ffeRKwuDS2AIA8IC:Sa36n36b53tLZHdK@geo.floppydata.com:10080",
+    "status": "OK",
+    "lastChecked": "2025-09-07T09:01:31.299Z",
+    "avgLatencyMs": 5689,
+    "latenciesByEndpoint": {
+      "ipify": 3573,
+      "httpbin": 11816,
+      "google204": 1677
+    }
+  }
+]

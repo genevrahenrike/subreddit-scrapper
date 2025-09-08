@@ -1,0 +1,194 @@
+[
+  {
+    "label": "nl",
+    "host": "nl.socks.nordhold.net",
+    "port": 1080,
+    "username": "X7LzT2wj3RWz8hQW8JjbN83N",
+    "password": "aPbAqmNsoECm4hofK3XsJnTb",
+    "url": "socks5://X7LzT2wj3RWz8hQW8JjbN83N:aPbAqmNsoECm4hofK3XsJnTb@nl.socks.nordhold.net:1080",
+    "status": "OK",
+    "lastChecked": "2025-09-06T03:11:12.973Z",
+    "avgLatencyMs": 3905,
+    "latenciesByEndpoint": {
+      "ipify": 6736,
+      "httpbin": 3203,
+      "google204": 1775
+    }
+  },
+  {
+    "label": "se",
+    "host": "se.socks.nordhold.net",
+    "port": 1080,
+    "username": "X7LzT2wj3RWz8hQW8JjbN83N",
+    "password": "aPbAqmNsoECm4hofK3XsJnTb",
+    "url": "socks5://X7LzT2wj3RWz8hQW8JjbN83N:aPbAqmNsoECm4hofK3XsJnTb@se.socks.nordhold.net:1080",
+    "status": "OK",
+    "lastChecked": "2025-09-06T03:11:12.973Z",
+    "avgLatencyMs": 4455,
+    "latenciesByEndpoint": {
+      "ipify": 8084,
+      "httpbin": 3094,
+      "google204": 2188
+    }
+  },
+  {
+    "label": "us",
+    "host": "us.socks.nordhold.net",
+    "port": 1080,
+    "username": "X7LzT2wj3RWz8hQW8JjbN83N",
+    "password": "aPbAqmNsoECm4hofK3XsJnTb",
+    "url": "socks5://X7LzT2wj3RWz8hQW8JjbN83N:aPbAqmNsoECm4hofK3XsJnTb@us.socks.nordhold.net:1080",
+    "status": "ERROR",
+    "lastChecked": "2025-09-03T08:03:37.582Z",
+    "avgLatencyMs": null,
+    "latenciesByEndpoint": {
+      "ipify": null,
+      "httpbin": null,
+      "google204": null
+    }
+  },
+  {
+    "label": "amsterdam",
+    "host": "amsterdam.nl.socks.nordhold.net",
+    "port": 1080,
+    "username": "X7LzT2wj3RWz8hQW8JjbN83N",
+    "password": "aPbAqmNsoECm4hofK3XsJnTb",
+    "url": "socks5://X7LzT2wj3RWz8hQW8JjbN83N:aPbAqmNsoECm4hofK3XsJnTb@amsterdam.nl.socks.nordhold.net:1080",
+    "status": "OK",
+    "lastChecked": "2025-09-06T03:11:12.973Z",
+    "avgLatencyMs": 3929,
+    "latenciesByEndpoint": {
+      "ipify": 7033,
+      "httpbin": 3080,
+      "google204": 1675
+    }
+  },
+  {
+    "label": "atlanta",
+    "host": "atlanta.us.socks.nordhold.net",
+    "port": 1080,
+    "username": "X7LzT2wj3RWz8hQW8JjbN83N",
+    "password": "aPbAqmNsoECm4hofK3XsJnTb",
+    "url": "socks5://X7LzT2wj3RWz8hQW8JjbN83N:aPbAqmNsoECm4hofK3XsJnTb@atlanta.us.socks.nordhold.net:1080",
+    "status": "OK",
+    "lastChecked": "2025-09-06T03:11:12.973Z",
+    "avgLatencyMs": 4843,
+    "latenciesByEndpoint": {
+      "ipify": 5454,
+      "httpbin": 7958,
+      "google204": 1116
+    }
+  },
+  {
+    "label": "chicago",
+    "host": "chicago.us.socks.nordhold.net",
+    "port": 1080,
+    "username": "X7LzT2wj3RWz8hQW8JjbN83N",
+    "password": "aPbAqmNsoECm4hofK3XsJnTb",
+    "url": "socks5://X7LzT2wj3RWz8hQW8JjbN83N:aPbAqmNsoECm4hofK3XsJnTb@chicago.us.socks.nordhold.net:1080",
+    "status": "OK",
+    "lastChecked": "2025-09-06T03:11:12.973Z",
+    "avgLatencyMs": 3128,
+    "latenciesByEndpoint": {
+      "ipify": 6846,
+      "httpbin": 1561,
+      "google204": 977
+    }
+  },
+  {
+    "label": "dallas",
+    "host": "dallas.us.socks.nordhold.net",
+    "port": 1080,
+    "username": "X7LzT2wj3RWz8hQW8JjbN83N",
+    "password": "aPbAqmNsoECm4hofK3XsJnTb",
+    "url": "socks5://X7LzT2wj3RWz8hQW8JjbN83N:aPbAqmNsoECm4hofK3XsJnTb@dallas.us.socks.nordhold.net:1080",
+    "status": "OK",
+    "lastChecked": "2025-09-06T03:11:12.973Z",
+    "avgLatencyMs": 8198,
+    "latenciesByEndpoint": {
+      "ipify": 10014,
+      "httpbin": 1839,
+      "google204": 12740
+    }
+  },
+  {
+    "label": "los-angeles",
+    "host": "los-angeles.us.socks.nordhold.net",
+    "port": 1080,
+    "username": "X7LzT2wj3RWz8hQW8JjbN83N",
+    "password": "aPbAqmNsoECm4hofK3XsJnTb",
+    "url": "socks5://X7LzT2wj3RWz8hQW8JjbN83N:aPbAqmNsoECm4hofK3XsJnTb@los-angeles.us.socks.nordhold.net:1080",
+    "status": "OK",
+    "lastChecked": "2025-09-06T03:11:12.973Z",
+    "avgLatencyMs": 2804,
+    "latenciesByEndpoint": {
+      "ipify": 4331,
+      "httpbin": 3357,
+      "google204": 725
+    }
+  },
+  {
+    "label": "new-york",
+    "host": "new-york.us.socks.nordhold.net",
+    "port": 1080,
+    "username": "X7LzT2wj3RWz8hQW8JjbN83N",
+    "password": "aPbAqmNsoECm4hofK3XsJnTb",
+    "url": "socks5://X7LzT2wj3RWz8hQW8JjbN83N:aPbAqmNsoECm4hofK3XsJnTb@new-york.us.socks.nordhold.net:1080",
+    "status": "OK",
+    "lastChecked": "2025-09-06T03:11:12.973Z",
+    "avgLatencyMs": 3063,
+    "latenciesByEndpoint": {
+      "ipify": 5835,
+      "httpbin": 2259,
+      "google204": 1095
+    }
+  },
+  {
+    "label": "phoenix",
+    "host": "phoenix.us.socks.nordhold.net",
+    "port": 1080,
+    "username": "X7LzT2wj3RWz8hQW8JjbN83N",
+    "password": "aPbAqmNsoECm4hofK3XsJnTb",
+    "url": "socks5://X7LzT2wj3RWz8hQW8JjbN83N:aPbAqmNsoECm4hofK3XsJnTb@phoenix.us.socks.nordhold.net:1080",
+    "status": "OK",
+    "lastChecked": "2025-09-06T03:11:12.973Z",
+    "avgLatencyMs": 3950,
+    "latenciesByEndpoint": {
+      "ipify": 6905,
+      "httpbin": 3998,
+      "google204": 946
+    }
+  },
+  {
+    "label": "san-francisco",
+    "host": "san-francisco.us.socks.nordhold.net",
+    "port": 1080,
+    "username": "X7LzT2wj3RWz8hQW8JjbN83N",
+    "password": "aPbAqmNsoECm4hofK3XsJnTb",
+    "url": "socks5://X7LzT2wj3RWz8hQW8JjbN83N:aPbAqmNsoECm4hofK3XsJnTb@san-francisco.us.socks.nordhold.net:1080",
+    "status": "OK",
+    "lastChecked": "2025-09-06T03:11:12.973Z",
+    "avgLatencyMs": 2787,
+    "latenciesByEndpoint": {
+      "ipify": 6399,
+      "httpbin": 1431,
+      "google204": 531
+    }
+  },
+  {
+    "label": "stockholm",
+    "host": "stockholm.se.socks.nordhold.net",
+    "port": 1080,
+    "username": "X7LzT2wj3RWz8hQW8JjbN83N",
+    "password": "aPbAqmNsoECm4hofK3XsJnTb",
+    "url": "socks5://X7LzT2wj3RWz8hQW8JjbN83N:aPbAqmNsoECm4hofK3XsJnTb@stockholm.se.socks.nordhold.net:1080",
+    "status": "ERROR",
+    "lastChecked": "2025-09-03T08:03:37.582Z",
+    "avgLatencyMs": null,
+    "latenciesByEndpoint": {
+      "ipify": null,
+      "httpbin": null,
+      "google204": null
+    }
+  }
+]
