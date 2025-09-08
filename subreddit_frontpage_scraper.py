@@ -1392,6 +1392,11 @@ class SubredditFrontPageScraper:
             self._page.wait_for_timeout(500)
         except Exception:
             pass
+        # For subreddits with very few posts, exit early.
+        initial_post_count = self._get_post_count()
+        if initial_post_count < 10:
+            return
+
         while True:
             loops += 1
             count = self._get_post_count()
@@ -1412,6 +1417,10 @@ class SubredditFrontPageScraper:
             if stagnant >= self.config.stagnant_loops:
                 break
             last_count = count
+
+            # Adaptive scrolling for low-post subreddits
+            if loops == 2 and count < 20:
+                break
             # Perform scroll and wait a bit for network/render
             try:
                 # Scroll the last post into view to trigger lazy loading
