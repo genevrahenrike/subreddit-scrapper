@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 """
-Quick parser test for local_reddit_scraper using an existing saved HTML.
-This avoids requiring a live browser just to validate parsing.
+Quick parser test for community_ranking_scraper_local using an existing saved HTML.
+Validates the parsing logic without needing to actually scrape pages.
 """
 
 import os
-from bs4 import BeautifulSoup
-from local_reddit_scraper import LocalRedditCommunitiesScraper
+from community_ranking_scraper_local import CommunityRankingScraper
 
 
 def test_parse_saved_html():
@@ -18,7 +17,8 @@ def test_parse_saved_html():
     with open(sample_path, "r", encoding="utf-8") as f:
         html = f.read()
 
-    scraper = LocalRedditCommunitiesScraper()
+    # Initialize scraper (no browser needed for parsing)
+    scraper = CommunityRankingScraper()
     subs = scraper.parse_subreddit_data(html, page_number=500)
     print(f"Parsed {len(subs)} communities from saved HTML")
     if subs[:3]:

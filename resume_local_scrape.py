@@ -21,7 +21,7 @@ import os
 from pathlib import Path
 from typing import List, Dict, Tuple
 
-from local_reddit_scraper import LocalRedditCommunitiesScraper, LocalScraperConfig
+from community_ranking_scraper_local import CommunityRankingScraper, LocalScraperConfig
 
 OUT_DIR = Path("output")
 COMPLETE = OUT_DIR / "reddit_communities_complete.json"
@@ -90,7 +90,7 @@ def main():
         return
 
     cfg = LocalScraperConfig(headless=True)
-    scraper = LocalRedditCommunitiesScraper(cfg)
+    scraper = CommunityRankingScraper(cfg)
     # When per-page files exist, prefer skipping already-done pages to avoid any chance of overwrite.
     done_pages = set()
     if PAGES_DIR.exists():
