@@ -37,7 +37,7 @@ import signal
 import sys
 import shutil
 from dataclasses import dataclass
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from typing import List, Dict, Optional, Tuple
 
@@ -112,6 +112,20 @@ class EnhancedScraperConfig:
     
     # Worker support
     worker_id: Optional[int] = None
+
+    # Archiving options
+    archive_granularity: str = os.getenv("ARCHIVE_GRANULARITY", "week")  # day|week|month|timestamp
+    archive_overwrite_same_period: bool = (os.getenv("ARCHIVE_OVERWRITE_SAME_PERIOD", "1").lower() not in ("0", "false", "no"))
+    archive_rotate_depth: int = int(os.getenv("ARCHIVE_ROTATE_DEPTH", "0"))
+
+    # Resume options
+    resume: bool = False
+    overwrite: bool = False
+
+    # Archiving options
+    archive_granularity: str = os.getenv("ARCHIVE_GRANULARITY", "week")  # day|week|month|timestamp
+    archive_overwrite_same_period: bool = (os.getenv("ARCHIVE_OVERWRITE_SAME_PERIOD", "1").lower() not in ("0", "false", "no"))
+    archive_rotate_depth: int = int(os.getenv("ARCHIVE_ROTATE_DEPTH", "0"))
 
 
 class CommunityRankingScraper:
@@ -435,25 +449,46 @@ class CommunityRankingScraper:
 
     def scrape_and_persist_page(self, page_number: int, delay: Optional[float] = None) -> List[Dict]:
         """Scrape and save individual page with error tracking"""
+
+        # Resume support: skip if output already exists and appears valid (unless overwrite)
+        if self.config.resume and not self.config.overwrite:
+            pages_dir = os.path.join("output", "pages")
+            os.makedirs(pages_dir, exist_ok=True)
+            existing_path = os.path.join(pages_dir, f"page_{page_number}.json")
+            if os.path.exists(existing_path) and os.path.getsize(existing_path) > 0:
+                try:
+                    with open(existing_path, "r", encoding="utf-8") as f:
+                        existing = json.load(f)
+                    subs_list = existing.get("subreddits", [])
+                    # Consider valid if 'subreddits' is a list and we have either content or a well-formed count
+                    if isinstance(subs_list, list) and (len(subs_list) > 0 or isinstance(existing.get("count", 0), int)):
+                        print(f"⏭️  Skipping page {page_number} (resume: output exists)")
+                        self.pages_done.add(page_number)
+                        # Do not modify total_count here (we count newly scraped only)
+                        return subs_list
+                except Exception:
+                    # Treat parse errors or invalid files as missing and proceed to scrape
+                    pass
+
         error = None
         subs: List[Dict] = []
-        
+
         try:
             subs = self.scrape_page(page_number, delay=delay)
         except Exception as e:
             error = str(e)
             print(f"❌ Error on page {page_number}: {error}")
-        
+
         # Save page data with error information
         self.save_page_data(page_number, subs, error=error)
         self.pages_done.add(page_number)
         self.total_count += len(subs)
-        
+
         # Keep memory usage reasonable
         self.all_subreddits.extend(subs)
         if len(self.all_subreddits) > 5000:
             self.all_subreddits = self.all_subreddits[-1000:]
-            
+
         return subs
 
     # ------------------------------ Parsing (unchanged) ----------------------------- #
@@ -512,49 +547,134 @@ class CommunityRankingScraper:
         return f"{year}-W{week:02d}"
     
     def _archive_existing_data(self):
-        """Archive existing pages data to historical folder for week-over-week comparison"""
+        """Archive existing pages into a snapshot directory under output/historical/community_ranking.
+
+        Snapshot ID is determined by self.config.archive_granularity:
+          - day:        YYYY-MM-DD
+          - week:       YYYY-Www (ISO week)
+          - month:      YYYY-MM
+          - timestamp:  YYYYMMDD_HHMMSS
+
+        Behavior:
+          - If granularity != 'timestamp' and a snapshot with the same ID exists:
+              - if archive_overwrite_same_period: delete existing snapshot directory and recreate
+              - elif archive_rotate_depth > 0 and granularity == 'week': rotate older weeks outward (W-1→W-2, ...)
+              - else: create a unique snapshot by appending current HHMMSS to the ID
+        """
         pages_dir = os.path.join("output", "pages")
-        if not os.path.exists(pages_dir) or not os.listdir(pages_dir):
+        if not os.path.exists(pages_dir):
             print("📁 No existing data to archive")
             return
-            
-        week_id = self._get_current_week_id()
-        archive_dir = os.path.join("output", "historical", "community_ranking", week_id)
-        os.makedirs(archive_dir, exist_ok=True)
-        
-        # Archive pages
-        pages_archive_dir = os.path.join(archive_dir, "pages")
-        if os.path.exists(pages_archive_dir):
-            print(f"📁 Archive for {week_id} already exists, skipping archive step")
+
+        # Require at least one page_*.json to consider as valid current data
+        try:
+            page_files = [fn for fn in os.listdir(pages_dir) if fn.startswith("page_") and fn.endswith(".json")]
+        except Exception:
+            page_files = []
+        if not page_files:
+            print("📁 No existing data to archive")
             return
-            
+
+        now = datetime.now(timezone.utc)
+
+        def compute_snapshot_id(granularity: str) -> str:
+            g = (granularity or "week").lower()
+            if g == "day":
+                return now.strftime("%Y-%m-%d")
+            if g == "month":
+                return now.strftime("%Y-%m")
+            if g == "timestamp":
+                return now.strftime("%Y%m%d_%H%M%S")
+            # default to ISO week
+            y, w, _ = now.isocalendar()
+            return f"{y}-W{w:02d}"
+
+        def iso_week_id_with_offset(offset_weeks: int) -> str:
+            base = now + timedelta(weeks=offset_weeks)
+            y, w, _ = base.isocalendar()
+            return f"{y}-W{w:02d}"
+
+        def rotate_weekly_archives(max_depth: int = 0):
+            """Rotate weekly archives outward: W-1→W-2, W-2→W-3, ... up to max_depth."""
+            if max_depth <= 0:
+                return
+            hist_root = os.path.join("output", "historical", "community_ranking")
+            os.makedirs(hist_root, exist_ok=True)
+            for i in range(max_depth, 0, -1):
+                src_week = iso_week_id_with_offset(-i)
+                dst_week = iso_week_id_with_offset(-(i + 1))
+                src = os.path.join(hist_root, src_week)
+                dst = os.path.join(hist_root, dst_week)
+                if os.path.exists(src):
+                    if os.path.exists(dst):
+                        print(f"↪️  Skip rotate: {src_week} → {dst_week} (dest exists)")
+                        continue
+                    try:
+                        os.rename(src, dst)
+                        print(f"🔁 Rotated archive: {src_week} → {dst_week}")
+                    except Exception as e:
+                        print(f"⚠️  Rotate failed {src_week} → {dst_week}: {e}")
+
+        snapshot_id = compute_snapshot_id(self.config.archive_granularity)
+        hist_root = os.path.join("output", "historical", "community_ranking")
+        os.makedirs(hist_root, exist_ok=True)
+
+        archive_dir = os.path.join(hist_root, snapshot_id)
+        pages_archive_dir = os.path.join(archive_dir, "pages")
+
+        # Handle existing snapshot for same period
+        if os.path.exists(archive_dir):
+            g = (self.config.archive_granularity or "week").lower()
+            if g != "timestamp" and self.config.archive_overwrite_same_period:
+                print(f"🧹 Removing existing snapshot for same period: {archive_dir}")
+                try:
+                    shutil.rmtree(archive_dir)
+                except Exception as e:
+                    print(f"⚠️  Failed to remove existing snapshot {archive_dir}: {e}")
+            elif g == "week" and self.config.archive_rotate_depth > 0:
+                rotate_weekly_archives(self.config.archive_rotate_depth)
+            else:
+                # Make a unique directory by appending time
+                unique_id = f"{snapshot_id}_{now.strftime('%H%M%S')}"
+                archive_dir = os.path.join(hist_root, unique_id)
+                pages_archive_dir = os.path.join(archive_dir, "pages")
+
+        os.makedirs(archive_dir, exist_ok=True)
         print(f"📦 Archiving existing data to {archive_dir}")
-        
+
         # Copy pages directory
         shutil.copytree(pages_dir, pages_archive_dir)
-        
+
         # Copy manifest if it exists
         manifest_path = os.path.join("output", "manifest.json")
         if os.path.exists(manifest_path):
-            shutil.copy2(manifest_path, os.path.join(archive_dir, "manifest.json"))
-            
+            try:
+                shutil.copy2(manifest_path, os.path.join(archive_dir, "manifest.json"))
+            except Exception:
+                pass
+
         # Create archive metadata
         archive_meta = {
-            "week_id": week_id,
-            "archived_at": datetime.now(timezone.utc).isoformat(),
+            "snapshot_id": os.path.basename(archive_dir),
+            "granularity": self.config.archive_granularity,
+            "week_id": snapshot_id if (self.config.archive_granularity or "week").lower() == "week" else None,
+            "archived_at": now.isoformat(),
             "source": "community_ranking_scraper_enhanced",
             "scraper_config": {
                 "browser_engine": self._current_engine,
                 "multi_engine": self.config.multi_engine,
                 "disable_images": self.config.disable_images,
             },
-            "description": "Weekly archive of community ranking data for trend analysis"
+            "description": "Archive snapshot of community ranking data"
         }
-        
-        with open(os.path.join(archive_dir, "archive_metadata.json"), "w", encoding="utf-8") as f:
-            json.dump(archive_meta, f, indent=2, ensure_ascii=False)
-            
-        print(f"✅ Successfully archived data for week {week_id}")
+
+        try:
+            with open(os.path.join(archive_dir, "archive_metadata.json"), "w", encoding="utf-8") as f:
+                json.dump(archive_meta, f, indent=2, ensure_ascii=False)
+        except Exception:
+            pass
+
+        print(f"✅ Successfully archived data to {archive_dir}")
 
     # ------------------------------ Storage ----------------------------- #
     def save_data(self, filename: str):
@@ -643,9 +763,9 @@ class CommunityRankingScraper:
         if not previous_week:
             historical_dir = os.path.join("output", "historical", "community_ranking")
             if os.path.exists(historical_dir):
-                weeks = [d for d in os.listdir(historical_dir) if d.startswith("20") and "-W" in d]
-                weeks.sort(reverse=True)
-                previous_week = weeks[0] if weeks else None
+                candidates = [d for d in os.listdir(historical_dir) if os.path.isdir(os.path.join(historical_dir, d))]
+                candidates.sort()
+                previous_week = candidates[-1] if candidates else None
                 
         if not previous_week:
             print("❌ No previous week data found for comparison")
@@ -871,11 +991,25 @@ def main():
                        default=True, help="Don't wait for internet connection recovery")
     
     # Parallel processing
-    parser.add_argument("--workers", type=int, default=1, 
+    parser.add_argument("--workers", type=int, default=1,
                        help="Number of parallel worker processes (1=sequential)")
     parser.add_argument("--chunk-size", type=int, default=20,
                        help="Pages per worker when using parallel processing")
     
+    # Archiving options
+    parser.add_argument("--archive-granularity", choices=["day", "week", "month", "timestamp"], default=None,
+                       help="Archive snapshot granularity (default: week).")
+    parser.add_argument("--archive-overwrite-same-period", dest="archive_overwrite_same_period", action="store_true", default=True,
+                       help="Overwrite existing snapshot for the same period (default).")
+    parser.add_argument("--no-archive-overwrite", dest="archive_overwrite_same_period", action="store_false",
+                       help="Do not overwrite existing snapshot for the same period.")
+    parser.add_argument("--archive-rotate-depth", type=int, default=0,
+                       help="Rotate outward depth when snapshot exists and overwrite is disabled (default: 0).")
+
+    # Resume / overwrite options
+    parser.add_argument("--resume", action="store_true", help="Skip pages that already have output files")
+    parser.add_argument("--overwrite", action="store_true", help="Force re-scrape and overwrite existing output files")
+
     args = parser.parse_args()
     
     # Create enhanced configuration
@@ -886,6 +1020,11 @@ def main():
         multi_engine=args.multi_engine,
         disable_images=args.disable_images,
         wait_for_internet=args.wait_for_internet,
+        archive_granularity=(args.archive_granularity or os.getenv("ARCHIVE_GRANULARITY", "week")),
+        archive_overwrite_same_period=args.archive_overwrite_same_period,
+        archive_rotate_depth=int(os.getenv("ARCHIVE_ROTATE_DEPTH", str(args.archive_rotate_depth))),
+        resume=args.resume,
+        overwrite=args.overwrite,
     )
     
     print(f"🚀 Enhanced Community Ranking Discovery")
@@ -961,7 +1100,7 @@ def main():
         )
     
     print(f"\n✅ Discovery complete! Check output/pages/ for current data")
-    print(f"📊 Run 'python3 analyze_community_ranking_trends.py --auto-compare' for trend analysis")
+    print(f"📊 Run 'python3 analyze_discovery_trends.py --auto-compare' for trend analysis")
 
 
 if __name__ == "__main__":

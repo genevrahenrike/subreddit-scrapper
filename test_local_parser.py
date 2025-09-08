@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
-Quick parser test for community_ranking_scraper_local using an existing saved HTML.
+Quick parser test for discovery_scraper_local using an existing saved HTML.
 Validates the parsing logic without needing to actually scrape pages.
 """
 
 import os
-from community_ranking_scraper_local import CommunityRankingScraper
+from discovery_scraper_local import CommunityRankingScraper
 
 
 def test_parse_saved_html():

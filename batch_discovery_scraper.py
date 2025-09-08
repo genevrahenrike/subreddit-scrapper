@@ -26,7 +26,7 @@ from concurrent.futures import ProcessPoolExecutor, as_completed
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
-from community_ranking_scraper_enhanced import CommunityRankingScraper, EnhancedScraperConfig
+from discovery_scraper_local import CommunityRankingScraper, EnhancedScraperConfig
 
 
 def _init_worker():
@@ -187,9 +187,9 @@ def main():
     parser.add_argument("--ramp-up", type=float, default=3.0, help="Worker ramp-up period (seconds)")
     
     # Browser and network options
-    parser.add_argument("--browser-engine", choices=["chromium", "webkit", "firefox"], 
+    parser.add_argument("--browser-engine", choices=["chromium", "webkit", "firefox"],
                        default="chromium", help="Browser engine to use")
-    parser.add_argument("--multi-engine", action="store_true", 
+    parser.add_argument("--multi-engine", action="store_true",
                        help="Enable engine rotation for enhanced stealth")
     parser.add_argument("--proxy", help="Proxy server URL")
     parser.add_argument("--disable-images", action="store_true", default=True,
@@ -200,6 +200,10 @@ def main():
     # Control options
     parser.add_argument("--no-archive", action="store_true", help="Skip archiving existing data")
     parser.add_argument("--visible", action="store_true", help="Run browsers in visible mode")
+
+    # Resume / overwrite
+    parser.add_argument("--resume", action="store_true", help="Skip pages that already have output files")
+    parser.add_argument("--overwrite", action="store_true", help="Force re-scrape and overwrite existing output files")
     
     args = parser.parse_args()
     
@@ -246,6 +250,8 @@ def main():
         "multi_engine": args.multi_engine,
         "disable_images": args.disable_images,
         "wait_for_internet": True,
+        "resume": args.resume,
+        "overwrite": args.overwrite,
     }
     
     start_time = time.time()
@@ -315,7 +321,7 @@ def main():
     save_batch_manifest(workers_completed, len(futures), total_pages_scraped, total_subreddits, total_errors)
     
     if total_subreddits > 0:
-        print(f"\n📊 Run 'python3 analyze_community_ranking_trends.py --auto-compare' for trend analysis")
+        print(f"\n📊 Run 'python3 analyze_discovery_trends.py --auto-compare' for trend analysis")
 
 
 if __name__ == "__main__":

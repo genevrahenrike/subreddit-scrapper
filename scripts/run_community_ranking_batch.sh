@@ -37,7 +37,7 @@ RAMP_UP_S="${RAMP_UP_S:-3.0}"
 # Parse command line arguments to override environment variables
 PARSED_START_PAGE="$START_PAGE"
 PARSED_END_PAGE="$END_PAGE"
-EXTRA_ARGS=()
+declare -a EXTRA_ARGS=()
 
 for arg in "$@"; do
   case $arg in
@@ -75,7 +75,7 @@ fi
 
 # Build command
 CMD=(
-  "python" "batch_community_ranking_scraper.py"
+  "python" "batch_discovery_scraper.py"
   "--start-page" "$PARSED_START_PAGE"
   "--end-page" "$PARSED_END_PAGE"
   "--workers" "$WORKERS"
@@ -123,13 +123,17 @@ echo "Browser: $BROWSER_ENGINE (multi-engine: $MULTI_ENGINE)"
 echo "Features: images=$([ "$DISABLE_IMAGES" == "1" ] && echo "blocked" || echo "enabled"), proxy=${PROXY_SERVER:-"none"}"
 echo "Timing: ramp-up=${RAMP_UP_S}s, jitter=${INITIAL_JITTER_S}s"
 echo ""
-echo "Command: ${CMD[*]} ${EXTRA_ARGS[*]}"
+echo "Command: ${CMD[*]} ${EXTRA_ARGS[*]-}"
 echo ""
 
 # Run the batch scraper
-"${CMD[@]}" "${EXTRA_ARGS[@]}"
+if [ ${#EXTRA_ARGS[@]} -gt 0 ]; then
+  "${CMD[@]}" "${EXTRA_ARGS[@]}"
+else
+  "${CMD[@]}"
+fi
 
 echo ""
 echo "✅ Batch scraping completed!"
 echo "📊 Check output/pages/ for scraped data"
-echo "📈 Run trend analysis: python3 analyze_community_ranking_trends.py --auto-compare"
+echo "📈 Run trend analysis: python3 analyze_discovery_trends.py --auto-compare"
