@@ -129,11 +129,11 @@ class FPConfig:
     traffic_refresh_on_refused: bool = True         # immediate refresh on refused episodes
 
     # Proxy pool support (HTTP + SOCKS5)
-    use_proxy_pool: bool = True
+    use_proxy_pool: bool = False
     proxy_pool_http_file: str = "config/http.proxies.json"
     proxy_pool_socks5_file: str = "config/socks5.proxies.json"
-    switch_to_proxy_on_refused: bool = True        # switch to next proxy when refused episodes occur
-    restore_direct_after_successes: int = 8         # after N healthy successes on proxy, restore direct (0=never)
+    switch_to_proxy_on_refused: bool = False        # switch to next proxy when refused episodes occur
+    restore_direct_after_successes: int = 0         # after N healthy successes on proxy, restore direct (0=never)
 
 
 class SubredditFrontPageScraper:
@@ -159,15 +159,6 @@ class SubredditFrontPageScraper:
         self._using_proxy_pool = False
         self._success_since_proxy_switch = 0
 
-        # Auto-enable proxy pool if config files exist, even without CLI args
-        try:
-            http_p = Path(getattr(self.config, "proxy_pool_http_file", "config/http.proxies.json"))
-            socks_p = Path(getattr(self.config, "proxy_pool_socks5_file", "config/socks5.proxies.json"))
-            if not getattr(self.config, "use_proxy_pool", False) and (http_p.exists() or socks_p.exists()):
-                self.config.use_proxy_pool = True
-                print("[proxy] Auto-enabled proxy pool based on existing config files")
-        except Exception:
-            pass
 
         # Preload proxy pool if configured
         try:
@@ -644,7 +635,8 @@ class SubredditFrontPageScraper:
                   f"multi_profile={mp} persistent={ps} imgs_off={hi} ssr={ssr} sps={sps} url={url}")
         except Exception:
             pass
-
+            if not proxy_url:
+                return "direct"
     def _ensure_open_context_and_page(self):
         """Best-effort to ensure we have an open context and page without rotating engines."""
         try:
@@ -1110,10 +1102,6 @@ class SubredditFrontPageScraper:
         last_error = None
 
         # Emit status at the beginning of scrape (engine/proxy/pool etc.)
-        try:
-            self._log_diag("start", sub_name, url)
-        except Exception:
-            pass
 
         # Periodic low-frequency traffic refresh while healthy (no cooldown required)
         try:
@@ -1258,8 +1246,7 @@ class SubredditFrontPageScraper:
 
                 # Recover from page/browser crash with a clean restart
                 if self._is_page_crashed_error(last_error):
-                    print(f"[recover] Page crashed while scraping {sub_name}. Restarting browser/context... "
-                          f"(engine={getattr(self, '_current_engine', self.config.browser_engine)}, proxy={self._current_proxy_label()})")
+                    print(f"[recover] Page crashed while scraping {sub_name}. Restarting browser/context...")
                     try:
                         # Prefer a clean browser restart for stability
                         self._start_browser()
@@ -1339,9 +1326,7 @@ class SubredditFrontPageScraper:
                 delay += random.uniform(0, delay * 0.1)  # Add 10% jitter
                 delay = min(delay, 30.0)  # Cap at 30 seconds
                 
-                print(f"[retry] {sub_name} attempt {attempts}/{self.config.max_attempts} after {delay:.1f}s "
-                      f"(engine={getattr(self, '_current_engine', self.config.browser_engine)}, proxy={self._current_proxy_label()}, "
-                      f"error: {last_error[:100]})")
+                print(f"[retry] {sub_name} attempt {attempts}/{self.config.max_attempts} after {delay:.1f}s (error: {last_error[:100]})")
                 time.sleep(delay)
                 
                 # Quiet recovery: prefer stability and waiting over browser/context churn
@@ -1966,21 +1951,21 @@ if __name__ == "__main__":
     parser.add_argument("--traffic-refresh-interval-seconds", type=float, default=300.0,
                         help="Seconds between periodic traffic pattern refreshes when healthy (default: 300)")
 
-    # Proxy pool controls (defaults ON; use --no-use-proxy-pool or --no-switch-to-proxy-on-refused to disable)
-    parser.add_argument("--use-proxy-pool", dest="use_proxy_pool", action="store_true", default=True,
-                        help="Enable rotating proxy pool loaded from config/http.proxies.json and/or config/socks5.proxies.json (default: enabled)")
+    # Proxy pool controls (defaults OFF; use --use-proxy-pool or --switch-to-proxy-on-refused to enable)
+    parser.add_argument("--use-proxy-pool", dest="use_proxy_pool", action="store_true", default=False,
+                        help="Enable rotating proxy pool loaded from config/http.proxies.json and/or config/socks5.proxies.json (default: disabled)")
     parser.add_argument("--no-use-proxy-pool", dest="use_proxy_pool", action="store_false",
                         help="Disable rotating proxy pool")
     parser.add_argument("--proxy-pool-http-file", type=str, default="config/http.proxies.json",
                         help="Path to HTTP proxy pool JSON")
     parser.add_argument("--proxy-pool-socks5-file", type=str, default="config/socks5.proxies.json",
                         help="Path to SOCKS5 proxy pool JSON")
-    parser.add_argument("--switch-to-proxy-on-refused", dest="switch_to_proxy_on_refused", action="store_true", default=True,
-                        help="Switch to next proxy from pool when refusal episode detected (default: enabled)")
+    parser.add_argument("--switch-to-proxy-on-refused", dest="switch_to_proxy_on_refused", action="store_true", default=False,
+                        help="Switch to next proxy from pool when refusal episode detected (default: disabled)")
     parser.add_argument("--no-switch-to-proxy-on-refused", dest="switch_to_proxy_on_refused", action="store_false",
                         help="Do not switch to proxy on refusal")
-    parser.add_argument("--restore-direct-after-successes", type=int, default=8,
-                        help="After N healthy successes on proxy, restore direct connection (0 = never)")
+    parser.add_argument("--restore-direct-after-successes", type=int, default=0,
+                        help="After N healthy successes on proxy, restore direct connection (0 = never, default: 0)")
     
     # Ramp-up options for gentle startup when scraping multiple subreddits
     parser.add_argument("--ramp-up-delay", type=float, default=0.0,
@@ -2118,15 +2103,11 @@ if __name__ == "__main__":
             # Show which browser profile and proxy were used
             current_engine = getattr(scraper, '_current_engine', cfg.browser_engine)
             profile_info = f" [{current_engine}]" if cfg.multi_profile else ""
-            try:
-                proxy_label = f" [proxy={scraper._current_proxy_label()}]"
-            except Exception:
-                proxy_label = ""
             
             if error:
-                print(f"[saved] {out_path}{profile_info}{proxy_label} — posts={posts_n} (promoted={promoted_n}), error={error[:100]}...")
+                print(f"[saved] {out_path}{profile_info} — posts={posts_n} (promoted={promoted_n}), error={error[:100]}...")
             else:
-                print(f"[saved] {out_path}{profile_info}{proxy_label} — posts={posts_n} (promoted={promoted_n})")
+                print(f"[saved] {out_path}{profile_info} — posts={posts_n} (promoted={promoted_n})")
             time.sleep(random.uniform(0.6, 1.1))
     finally:
         scraper._stop()
