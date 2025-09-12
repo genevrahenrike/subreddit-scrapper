@@ -1782,3 +1782,94 @@ This satisfies:
 - Pass-2 re-run for first 100k with separated sources (core/extended).
 - Embedding catch-up for the first 100k.
 - Incremental extension to 150k with embedding included, runnable as one overnight workflow.
+
+---
+
+Added ranked keyword views to the SQLite DB and provided ready-to-run queries for prioritized inspection.
+
+What I created (in DB: output/keywords_coreonly_v24.sqlite)
+- vw_subreddit_keywords_ranked
+  - Joins subreddit_keywords → keywords → subreddits and exposes topk_rank as rank so you can ORDER BY rank for per-subreddit prioritized lists.
+- vw_subreddit_core_keywords_ranked
+  - Same as above but filtered to core-only sources (“name”, “description”) for the discovery-only view you asked for.
+- vw_keyword_quality_global
+  - Global aggregation by term across all subreddits (subreddits_count, avg/max score, average/sum weights) to let you triage high-quality, broadly occurring terms.
+
+Context of base tables (created by importer)
+- Schema comes from the SQLite builder’s init in [build_sqlite.py.init_schema()](build_sqlite.py:78):
+  - subreddits(community_id PK, name, url, rank, subscribers_count, …)
+  - keywords(id PK, term UNIQUE)
+  - subreddit_keywords(subreddit_id, keyword_id, weight, score, source, topk_rank, …) with indexes on keywords(term) and mapping FKs.
+
+How to use (examples)
+- Top 20 prioritized keywords for one subreddit by display name (rank ascending):
+  sqlite3 output/keywords_coreonly_v24.sqlite "SELECT term, rank, weight, score, source FROM vw_subreddit_keywords_ranked WHERE subreddit_name='r/funny' ORDER BY rank ASC LIMIT 20;"
+
+- Same, but restricted to core-only (name+description):
+  sqlite3 output/keywords_coreonly_v24.sqlite "SELECT term, rank, weight, score, source FROM vw_subreddit_core_keywords_ranked WHERE subreddit_name='r/funny' ORDER BY rank ASC LIMIT 20;"
+
+- Top 50 most widely occurring keywords globally (quality proxy = breadth):
+  sqlite3 output/keywords_coreonly_v24.sqlite "SELECT term, subreddits_count, avg_score, max_score FROM vw_keyword_quality_global ORDER BY subreddits_count DESC, avg_score DESC LIMIT 50;"
+
+- High-average-score keywords globally (quality proxy = strong average score across subs):
+  sqlite3 output/keywords_coreonly_v24.sqlite "SELECT term, subreddits_count, avg_score, max_score FROM vw_keyword_quality_global WHERE subreddits_count >= 5 ORDER BY avg_score DESC, max_score DESC LIMIT 100;"
+
+- Per-subreddit quick scan (top 10 terms with metadata):
+  sqlite3 output/keywords_coreonly_v24.sqlite "SELECT subreddit_name, term, rank, score, source FROM vw_subreddit_keywords_ranked WHERE subreddit_id='t5_2qh33' ORDER BY rank ASC LIMIT 10;"
+
+Notes
+- The rank column comes directly from topk_rank populated during import; you can confirm schema in [build_sqlite.py.import_keywords_file()](build_sqlite.py:287).
+- Views do not impose ORDER BY so you can sort however you want (rank asc for prioritized, score desc for score-based).
+- Existing indexes created by the importer cover keywords(term) and mapping FKs (see [build_sqlite.py.init_schema()](build_sqlite.py:153)), which are sufficient for typical view queries above.
+
+Re-run or adjust
+- If you rebuild the DB later, you can reapply the views with:
+  sqlite3 output/keywords_coreonly_v24.sqlite ".schema vw_subreddit_keywords_ranked"
+  And re-create as needed (the current DB already has them).
+
+Deliverable status
+- Views created successfully; you can now query per-subreddit ranklisted keywords (core-only or combined), and globally inspect keyword quality and breadth directly from the DB.
+
+Created a materialized, deduped global keyword ranking table for fast inspection.
+
+What I added (in DB: output/keywords_coreonly_v24.sqlite)
+- Table: global_keywords_rank(term TEXT PRIMARY KEY, score REAL NOT NULL)
+- Population query (materialized at creation time):
+  INSERT INTO global_keywords_rank(term, score)
+  SELECT k.term, AVG(sk.score) AS score
+  FROM subreddit_keywords sk
+  JOIN keywords k ON k.id = sk.keyword_id
+  GROUP BY k.id;
+
+- Index:
+  CREATE INDEX IF NOT EXISTS idx_global_keywords_rank_score ON global_keywords_rank(score);
+
+- ANALYZE executed to optimize query plans.
+
+Usage examples
+- Top 100 globally ranked keywords by average score:
+  sqlite3 output/keywords_coreonly_v24.sqlite "SELECT term, score FROM global_keywords_rank ORDER BY score DESC LIMIT 100;"
+
+- Filter by a score threshold (e.g., score >= 50):
+  sqlite3 output/keywords_coreonly_v24.sqlite "SELECT term, score FROM global_keywords_rank WHERE score >= 50 ORDER BY score DESC;"
+
+- Quick count above a threshold:
+  sqlite3 output/keywords_coreonly_v24.sqlite "SELECT COUNT(*) FROM global_keywords_rank WHERE score >= 50;"
+
+Refresh workflow (materialization rebuild)
+If you re-import keywords or rebuild the DB, re-materialize with:
+sqlite3 output/keywords_coreonly_v24.sqlite "
+DROP TABLE IF EXISTS global_keywords_rank;
+CREATE TABLE global_keywords_rank(term TEXT PRIMARY KEY, score REAL NOT NULL);
+INSERT INTO global_keywords_rank(term, score)
+SELECT k.term, AVG(sk.score) FROM subreddit_keywords sk JOIN keywords k ON k.id = sk.keyword_id GROUP BY k.id;
+CREATE INDEX IF NOT EXISTS idx_global_keywords_rank_score ON global_keywords_rank(score);
+ANALYZE;
+"
+
+Notes
+- This is deduped by keyword ID (GROUP BY k.id) and stores only (term, avg score), as requested, for fast global prioritization.
+- If you later prefer a different score definition (e.g., MAX(sk.score) or a composite like AVG(sk.score) * ln(1+subreddits_count)), we can materialize an alternative table alongside this one.
+- Base schema and import paths come from [build_sqlite.py.init_schema()](build_sqlite.py:78) and [build_sqlite.py.import_keywords_file()](build_sqlite.py:287).
+
+This delivers a lightweight, rankable, and filterable global keyword list independent of the heavy joins.
